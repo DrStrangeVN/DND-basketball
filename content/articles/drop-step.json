@@ -68,64 +68,64 @@
     "big man"
   ],
   "title": "Drop Step",
+  "vi": {
+    "coachingPoints": [
+      "Hạ chân, không hạ bóng — bóng giữ cao trong khi chân làm việc",
+      "Drop step phải đưa bạn đến rổ, không phải cách rổ 2m — bắt đầu ở gần",
+      "Giữ bóng cao suốt bước drop; hạ bóng là mời cướp",
+      "Bật lên bằng hai chân khi có thể — thăng bằng hơn, kiếm lỗi nhiều hơn",
+      "Đọc ngực cầu thủ phòng thủ: nghiêng giữa thì drop về biên; nghiêng biên thì drop vào giữa"
+    ],
+    "commonMistakes": [
+      "Hạ chân nhưng để bóng thấp — mời gọi cướp bóng",
+      "Drop step quá xa rổ — giờ thì kẹt dưới rổ không có góc",
+      "Dẫn vai húc vào cầu thủ phòng thủ — đó là lỗi tấn công; bước vòng qua họ, không xuyên qua",
+      "Báo trước bằng động tác vung lớn — drop step phải là một bước nhanh, gọn"
+    ],
+    "description": "Đòn đánh biên cơ bản: một bước drop qua hông cầu thủ phòng thủ là đến rổ.",
+    "gameSituations": [
+      "Bắt bóng ở low block, cầu thủ phòng thủ ở phía trên — drop về biên",
+      "Trước cầu thủ phòng thủ bắt bài phía giữa quá đà — biên trống hoác",
+      "Cuối đồng hồ cần chạm bóng post — một đòn, không nhịp dẫn thừa"
+    ],
+    "howTo": [
+      {
+        "detail": "Bắt bóng ở block, lưng quay vào rổ, cầu thủ phòng thủ áp sau lưng. Kẹp bóng lên cằm và cảm nhận trọng tâm của họ — thường nghiêng về phía giữa.",
+        "title": "Bắt bóng và cảm nhận cầu thủ phòng thủ"
+      },
+      {
+        "detail": "Vung chân phía biên (chân gần biên hơn) một bước lớn về phía biên, đặt chân giữa cầu thủ phòng thủ và rổ. Cơ thể bạn giờ chặn họ sau lưng.",
+        "title": "Drop step về phía biên"
+      },
+      {
+        "detail": "Dẫn bóng một nhịp, mạnh, cùng lúc bước — một nhịp dẫn bóng mạnh là đủ. Giữ bóng ở hông ngoài, xa tầm với của cầu thủ phòng thủ.",
+        "title": "Một nhịp dẫn bóng mạnh"
+      },
+      {
+        "detail": "Thu bóng sau nhịp dẫn và bật lên bằng hai chân, vươn tay phía bóng về rổ. Dứt điểm qua bảng hoặc thẳng lên, xuyên mọi va chạm.",
+        "title": "Bật mạnh và dứt điểm"
+      }
+    ],
+    "tags": [
+      "đánh post",
+      "bộ chân",
+      "dứt điểm",
+      "cầu thủ big"
+    ],
+    "title": "Động tác drop step",
+    "whatIsIt": [
+      "Drop step là đòn đánh post cơ bản: từ pha bắt bóng quay lưng vào rổ, bạn vung một chân về phía biên (hoặc giữa), bước qua hông cầu thủ phòng thủ và chặn họ sau lưng trên đường đến rổ.",
+      "Gọi là ‘drop’ vì chân bạn cắm xuống lane như neo. Một bước, một nhịp dẫn, một cú dứt điểm — không động tác thừa. Mọi tay ghi điểm post vĩ đại đều bắt đầu từ đây."
+    ],
+    "whyItMatters": [
+      "Drop step là đòn post có tỷ lệ thành công cao nhất vì nó kết thúc ở rổ với cầu thủ phòng thủ bị chặn sau lưng. Hàng thủ buộc phải gửi hỗ trợ để chặn, thế là đường chuyền ra mở. Đánh được drop step cả hai hướng, bạn là mối đe dọa ghi điểm mỗi lần chạm bóng."
+    ]
+  },
   "whatIsIt": [
     "The drop step is the fundamental post power move: from a back-to-the-basket catch, you swing one foot toward the baseline (or middle), stepping past the defender's hip and sealing them behind you on the way to the rim.",
     "It's called a 'drop' because your foot drops into the lane like an anchor. One step, one dribble, one finish — no wasted motion. Every great post scorer's game starts here."
   ],
   "whyItMatters": [
     "The drop step is the highest-percentage post move because it ends at the rim with the defender sealed. Defenses have to send help to stop it, which opens up kick-outs. If you can drop step both directions, you're a scoring threat on every touch."
-  ],
-  "vi": {
-    "title": "Drop Step",
-    "description": "Đòn đánh sức mạnh ở baseline: một bước drop qua hông hậu vệ là bạn đã ở ngay rổ.",
-    "whatIsIt": [
-      "Bước drop là đòn tấn công sức mạnh cơ bản ở vị trí post: từ tư thế quay lưng nhận bóng, bạn vung một chân về phía baseline (hoặc vào giữa), bước qua hông hậu vệ và chắn họ ở phía sau trên đường đến rổ.",
-      "Nó được gọi là 'drop' vì chân bạn 'rơi' xuống khu vực lane như một cái neo. Một bước, một lần dẫn bóng, một cú kết thúc — không động tác thừa. Mọi tay ghi điểm post giỏi đều bắt đầu từ đây."
-    ],
-    "whyItMatters": [
-      "Bước drop là đòn post có tỷ lệ thành công cao nhất vì nó kết thúc ngay tại rổ với hậu vệ bị chắn sau lưng. Hàng thủ buộc phải kèm phụ để chặn nó, điều này mở ra những đường chuyền bật ra ngoài. Nếu bạn có thể drop step cả hai hướng, bạn là mối đe dọa ghi điểm trong mọi lần chạm bóng."
-    ],
-    "howTo": [
-      {
-        "title": "Nhận bóng và cảm nhận hậu vệ",
-        "detail": "Nhận bóng ở vị trí block với lưng quay về rổ, hậu vệ áp sát sau lưng. Giữ bóng cao ngang cằm và cảm nhận trọng tâm của họ — thường họ nghiêng về phía giữa."
-      },
-      {
-        "title": "Bước drop về phía baseline",
-        "detail": "Vung chân phía baseline (chân gần baseline hơn) một bước dài về phía baseline, đặt chân giữa hậu vệ và rổ. Cơ thể bạn giờ đây chắn họ ở phía sau."
-      },
-      {
-        "title": "Một lần dẫn bóng mạnh",
-        "detail": "Dẫn một nhịp thật mạnh khi bước — chỉ cần một lần dẫn bóng sức mạnh. Giữ bóng ở hông phía ngoài, xa tầm với của hậu vệ."
-      },
-      {
-        "title": "Bật lên và kết thúc",
-        "detail": "Thu bóng sau nhịp dẫn và bật lên bằng hai chân, duỗi tay phía có bóng về phía rổ. Kết thúc qua bảng rổ hoặc thẳng rổ, xuyên qua mọi va chạm."
-      }
-    ],
-    "coachingPoints": [
-      "Hạ chân, đừng hạ bóng — bóng giữ cao trong khi chân làm việc.",
-      "Bước drop phải đưa bạn đến ngay rổ, không phải cách rổ 2 mét — hãy bắt đầu ở gần.",
-      "Giữ bóng cao suốt bước di chuyển; hạ bóng xuống là mời đối phương cướp bóng.",
-      "Bật lên bằng hai chân khi có thể — thăng bằng hơn, dễ kiếm lỗi hơn.",
-      "Đọc ngực hậu vệ: nếu họ nghiêng về giữa, drop về baseline; nếu họ nghiêng về baseline, drop vào giữa."
-    ],
-    "commonMistakes": [
-      "Hạ chân nhưng để bóng thấp — coi như dâng bóng cho đối phương.",
-      "Bước drop quá xa rổ — giờ bạn ở dưới rổ mà không còn góc ném.",
-      "Dùng vai húc vào hậu vệ — đó là lỗi tấn công; hãy bước vòng qua họ, không phải xuyên qua họ.",
-      "Lộ ý đồ với động tác vung tay lớn — bước drop phải là một bước nhanh, gọn."
-    ],
-    "gameSituations": [
-      "Nhận bóng ở low block khi hậu vệ đứng phía trên (high side) — drop về baseline.",
-      "Khi hậu vệ kèm chặt phía giữa quá mức — đường baseline đang rộng mở.",
-      "Những lần chạm bóng cuối đồng hồ — một động tác, không dẫn bóng thừa."
-    ],
-    "tags": [
-      "đánh post",
-      "bộ chân",
-      "kết thúc",
-      "cầu thủ cao to"
-    ]
-  }
+  ]
 }

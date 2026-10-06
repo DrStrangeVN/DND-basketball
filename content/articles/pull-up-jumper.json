@@ -77,59 +77,59 @@
     "Defenses are built to take away the rim and the three. The pull-up lives in the space between — the midrange and the short three — where modern defenses concede shots. Players who can pull up force defenders into an impossible choice: play the drive and give up the jumper, or play the jumper and give up the drive. That dilemma is the definition of a scorer."
   ],
   "vi": {
-    "title": "Pull-Up Jumper (Ném Pull-Up)",
-    "description": "Dừng đột ngột và bật lên ném ngay sau pha dẫn bóng — vũ khí của tay ghi điểm trước những hàng thủ lùi sâu.",
-    "whatIsIt": [
-      "Pull-up jumper là cú ném thực hiện ngay sau pha dẫn bóng: bạn đột phá, dừng đột ngột trong thế thăng bằng, rồi bật lên ném trước khi hậu vệ kịp hồi vị. Đây là vũ khí chính của những người tạo cú ném — câu trả lời cho hậu vệ nhất quyết không cho bạn chạm tới rổ.",
-      "Điều kỳ diệu nằm ở cú dừng. Một hậu vệ đang chạy lùi không thể dừng nhanh bằng bạn, nên trong nửa giây bạn hoàn toàn trống trải. Pull-up biến nửa giây đó thành điểm số."
+    "coachingPoints": [
+      "Pha dẫn cuối là khâu chuẩn bị — giữ nó thấp, mạnh và phía trước để gom bóng sạch",
+      "Dừng trong thăng bằng: hai bước chắc vào pha gom bóng, đừng để người trôi",
+      "Mắt hướng lên rổ trong pha dẫn cuối, không phải sau khi đã dừng",
+      "Kỹ thuật giống hệt bắt bóng ném ngay của bạn — biến số mới duy nhất là cú dừng",
+      "Tập dừng ở tốc độ trận đấu; pull-up chậm dạy bạn cú ném mà bạn chẳng bao giờ dùng"
     ],
-    "whyItMatters": [
-      "Hàng thủ được xây dựng để khóa rổ và vạch ba. Pull-up sống ở khoảng giữa — midrange và những cú ba ngắn — nơi hàng thủ hiện đại chấp nhận cho ném. Cầu thủ pull-up giỏi đặt hậu vệ vào thế tiến thoái lưỡng nan: kèm đột phá thì mất cú ném, kèm cú ném thì mất đột phá. Thế lưỡng nan đó chính là định nghĩa của một tay ghi điểm."
+    "commonMistakes": [
+      "Người trôi ngang hoặc ngửa ra sau khi dừng — sửa: đặt chân và bật thẳng lên; dán một mục tiêu tiếp đất",
+      "Gom bóng quá muộn (ở ngang hông) — sửa: nhấc bóng lên ngay khi pha dẫn cuối nảy về, cao và sớm",
+      "Dừng trong tư thế đứng thẳng, mất hết lực — sửa: hai bước cuối vẫn thấp; bạn bật lên vào cú ném, chứ không phải đứng dậy từ tư thế đứng",
+      "Chỉ pull-up khi đi sang phải — sửa: tập đều cả hai hướng, dù có thể gượng gạo trong nhiều tháng"
+    ],
+    "description": "Dừng đột ngột và bật lên ném ngay sau pha dẫn bóng — vũ khí của tay ghi điểm trước những hàng thủ lùi sâu.",
+    "gameSituations": [
+      "Tấn công big chơi drop coverage — anh ta lùi sâu bảo vệ rổ; bạn dừng ở tầm trung trống và ném",
+      "Pull-up trong phản công — hàng thủ đang chạy lùi; một cú pull-up 3 điểm hoặc tầm trung đánh bại đà lùi của họ",
+      "Tạo cú ném cuối đồng hồ — khi tấn công bế tắc, pull-up là cú ném tự tạo sạch nhất"
     ],
     "howTo": [
       {
-        "title": "Tấn công dốc xuống trước",
-        "detail": "Đột mạnh vào hông hậu vệ. Pull-up chỉ hiệu quả khi anh ta đang lùi hoặc chạy lùi — tốc độ tạo ra khoảng trống."
+        "detail": "Đột phá mạnh vào hông hậu vệ. Pull-up chỉ hiệu quả khi anh ta đang lùi hoặc chạy lùi — tốc độ tạo ra khoảng trống.",
+        "title": "Tấn công xuống rổ trước"
       },
       {
-        "title": "Pha dẫn cuối mạnh",
-        "detail": "Dẫn pha cuối mạnh và thấp, phía trước người. Đây là bàn đạp phanh của bạn — một cú nảy chắc cho bạn quyền kiểm soát cú dừng."
+        "detail": "Dẫn pha cuối mạnh và thấp, phía trước người. Đây là bàn đạp phanh của bạn — một cú nảy chắc cho bạn quyền kiểm soát cú dừng.",
+        "title": "Pha dẫn cuối mạnh"
       },
       {
-        "title": "Dừng trong thăng bằng",
-        "detail": "Gom bóng khi nó nảy lên và đặt hai bước cuối — dừng 1-2 hoặc nhảy hai chân — tiếp đất thăng bằng, vuông góc với rổ."
+        "detail": "Gom bóng khi nó nảy lên, đặt hai bước cuối — dừng 1-2 hoặc nhảy hai chân — tiếp đất thăng bằng, vuông góc với rổ.",
+        "title": "Dừng trong thăng bằng"
       },
       {
-        "title": "Bật lên ngay",
-        "detail": "Ngay khi chân đã đứng vững, bật thẳng lên bằng đôi chân. Không có khoảng dừng ở đáy; cú dừng chảy thẳng vào cú ném."
+        "detail": "Ngay khi chân đã đứng vững, bật thẳng lên bằng đôi chân. Không có khoảng dừng ở đáy; cú dừng chảy thẳng vào cú ném.",
+        "title": "Bật lên ngay"
       },
       {
-        "title": "Ném như cú ném thường",
-        "detail": "Ra tay với kỹ thuật quen thuộc — khuỷu tay khép, tay dẫn thụ động, follow-through đầy đủ. Cú ném phải trông giống hệt cú set jumper của bạn."
+        "detail": "Ra tay với kỹ thuật quen thuộc — khuỷu tay khép, tay phụ thụ động, follow-through đầy đủ. Cú ném phải trông giống hệt cú ném cố định của bạn.",
+        "title": "Ném như cú ném thường"
       }
-    ],
-    "coachingPoints": [
-      "Pha dẫn cuối là khâu chuẩn bị — giữ nó thấp, mạnh và phía trước để gom bóng sạch.",
-      "Dừng trong thăng bằng: hai bước chắc vào pha gom bóng, đừng để người trôi.",
-      "Mắt hướng lên rổ trong pha dẫn cuối, không phải sau khi đã dừng.",
-      "Kỹ thuật giống hệt catch-and-shoot của bạn — biến số mới duy nhất là cú dừng.",
-      "Tập dừng ở tốc độ trận đấu; pull-up chậm dạy bạn cú ném mà bạn chẳng bao giờ dùng."
-    ],
-    "commonMistakes": [
-      "Người trôi ngang hoặc ngửa ra sau khi dừng — cách sửa: đặt chân và bật thẳng lên; dán một mục tiêu tiếp đất.",
-      "Gom bóng quá muộn (ở ngang hông) — cách sửa: nhấc bóng lên ngay khi pha dẫn cuối nảy về, cao và sớm.",
-      "Dừng trong tư thế đứng thẳng, mất hết lực — cách sửa: hai bước cuối vẫn thấp; bạn bật lên vào cú ném, chứ không phải đứng dậy từ tư thế đứng.",
-      "Chỉ pull-up khi đi sang phải — cách sửa: tập đều cả hai hướng, dù có thể gượng gạo trong nhiều tháng."
-    ],
-    "gameSituations": [
-      "Tấn công big man chơi drop coverage — anh ta lùi sâu bảo vệ rổ; bạn dừng ở midrange trống và ném.",
-      "Pull-up trong phản công — hàng thủ đang chạy lùi; một cú pull-up ba hoặc midrange đánh bại đà lùi của họ.",
-      "Tạo cú ném cuối đồng hồ — khi tấn công bế tắc, pull-up là cú ném tự tạo sạch nhất."
     ],
     "tags": [
       "ném rổ",
       "động tác",
       "ghi điểm"
+    ],
+    "title": "Pull-up jumper (ném pull-up)",
+    "whatIsIt": [
+      "Pull-up jumper là cú ném thực hiện ngay sau pha dẫn bóng: bạn đột phá, dừng đột ngột trong thế thăng bằng, rồi bật lên ném trước khi hậu vệ kịp hồi. Đây là vũ khí chính của những người tạo cú ném — câu trả lời cho hậu vệ nhất quyết không cho bạn chạm tới rổ.",
+      "Điều kỳ diệu nằm ở cú dừng. Một hậu vệ đang chạy lùi không thể dừng nhanh bằng bạn, nên trong nửa giây bạn hoàn toàn trống trải. Pull-up biến nửa giây đó thành điểm số."
+    ],
+    "whyItMatters": [
+      "Hàng thủ được xây dựng để khóa rổ và vạch 3 điểm. Pull-up sống ở khoảng giữa — tầm trung và những cú 3 điểm ngắn — nơi hàng thủ hiện đại chấp nhận cho ném. Cầu thủ pull-up giỏi đặt hậu vệ vào thế tiến thoái lưỡng nan: kèm đột phá thì mất cú ném, kèm cú ném thì mất đột phá. Thế lưỡng nan đó chính là định nghĩa của một tay ghi điểm."
     ]
   }
 }

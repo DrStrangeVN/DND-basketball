@@ -1,1 +1,115 @@
-{"dateUpdated":"2026-10-06","description":"A light 25-minute pre-game shootaround: find your touch, lock in your rhythm, groove free throws, and walk into tip-off mentally ready.","durationMin":25,"equipment":["Basketball"],"focus":["Shooting","Free Throws","Mental Prep"],"id":"game-day-shootaround","items":[{"detail":"Easy form shots close to the rim: no jumping, just touch. Feel the ball come off your fingertips. Nothing but net mindset.","name":"Touch shooting","time":"3:00"},{"detail":"Catch-and-shoot from your favorite spots: 3 makes per spot. This is about rhythm, not range — stay inside your comfort zone.","name":"Rhythm spot shots","time":"4:00"},{"detail":"The exact shots you'll take tonight: your pet plays, your spots. Visualize the game situation before each rep.","name":"Game-spot shooting","time":"5:00"},{"detail":"Your exact pre-game free throw routine: same dribbles, same breath, same shot. 10 makes. This routine is your anchor tonight.","name":"Free throw routine","time":"4:00"},{"detail":"A few easy layups both sides, one floater, one pull-up. Remind your body of every finish — then stop. Save your legs.","name":"Light finishing touches","time":"3:00"},{"detail":"Eyes closed at the line: see yourself making the first shot, the first defensive stop, the first good pass. Three perfect mental reps.","name":"Visualization","time":"3:00"},{"detail":"Light team stretch, huddle up, one message: play hard, play together. Walk off loose, confident, and ready.","name":"Stretch and huddle","time":"3:00"}],"level":"beginner","slug":"game-day-shootaround","tips":["Shootaround is about confidence, not conditioning — if you're tired after, you went too hard.","Never try something new on game day; groove what you already own.","Your free throw routine today is the same one you'll use under pressure tonight.","Leave the court wanting more — hunger beats fatigue at tip-off."],"title":"Game-Day Shootaround","vi":{"description":"Buổi khởi động nhẹ 25 phút trước trận: tìm cảm giác tay, khóa nhịp ném, vào guồng ném phạt và bước vào giờ bóng với đầu óc sẵn sàng.","equipment":["Bóng rổ"],"focus":["Ném rổ","Ném phạt","Chuẩn bị tâm lý"],"items":[{"detail":"Ném form nhẹ gần rổ: không bật nhảy, chỉ cảm giác tay. Cảm nhận bóng rời đầu ngón tay. Tâm thế chỉ có vào rổ.","name":"Tìm cảm giác tay","time":"3:00"},{"detail":"Catch-and-shoot từ các điểm tủ: mỗi điểm vào 3 quả. Đây là về nhịp, không phải tầm xa — ở trong vùng thoải mái.","name":"Ném nhịp điểm tủ","time":"4:00"},{"detail":"Đúng những cú bạn sẽ ném tối nay: bài tủ, điểm tủ. Hình dung tình huống trận đấu trước mỗi lượt.","name":"Ném điểm thi đấu","time":"5:00"},{"detail":"Đúng routine ném phạt trước trận của bạn: cùng số nhịp đập bóng, cùng hơi thở, cùng cú ném. Vào 10 quả. Routine này là điểm tựa tối nay.","name":"Routine ném phạt","time":"4:00"},{"detail":"Vài pha layup nhẹ hai bên, một floater, một pull-up. Nhắc cơ thể mọi kiểu dứt điểm — rồi dừng. Giữ chân.","name":"Chạm nhẹ dứt điểm","time":"3:00"},{"detail":"Nhắm mắt ở vạch phạt: thấy mình ném vào quả đầu, chặn pha đầu, chuyền tốt đầu. Ba lượt hình dung hoàn hảo.","name":"Hình dung","time":"3:00"},{"detail":"Giãn cơ nhẹ cùng đội, vòng tròn, một thông điệp: chơi hết mình, chơi cùng nhau. Rời sân thoải mái, tự tin, sẵn sàng.","name":"Giãn cơ và vòng tròn","time":"3:00"}],"tips":["Khởi động trước trận là để tự tin, không phải để tập thể lực — xong mà mệt là bạn tập quá sức.","Đừng bao giờ thử cái mới vào ngày thi đấu; mài cái bạn đã có.","Routine ném phạt hôm nay cũng là routine bạn dùng dưới áp lực tối nay.","Rời sân với cảm giác còn muốn nữa — cơn đói thắng sự mệt mỏi lúc bóng lên."],"title":"Khởi Động Trước Trận"}}
+{
+  "dateUpdated": "2026-10-06",
+  "description": "A light 25-minute pre-game shootaround: find your touch, lock in your rhythm, groove free throws, and walk into tip-off mentally ready.",
+  "durationMin": 25,
+  "equipment": [
+    "Basketball"
+  ],
+  "focus": [
+    "Shooting",
+    "Free Throws",
+    "Mental Prep"
+  ],
+  "id": "game-day-shootaround",
+  "items": [
+    {
+      "detail": "Easy form shots close to the rim: no jumping, just touch. Feel the ball come off your fingertips. Nothing but net mindset.",
+      "name": "Touch shooting",
+      "time": "3:00"
+    },
+    {
+      "detail": "Catch-and-shoot from your favorite spots: 3 makes per spot. This is about rhythm, not range — stay inside your comfort zone.",
+      "name": "Rhythm spot shots",
+      "time": "4:00"
+    },
+    {
+      "detail": "The exact shots you'll take tonight: your pet plays, your spots. Visualize the game situation before each rep.",
+      "name": "Game-spot shooting",
+      "time": "5:00"
+    },
+    {
+      "detail": "Your exact pre-game free throw routine: same dribbles, same breath, same shot. 10 makes. This routine is your anchor tonight.",
+      "name": "Free throw routine",
+      "time": "4:00"
+    },
+    {
+      "detail": "A few easy layups both sides, one floater, one pull-up. Remind your body of every finish — then stop. Save your legs.",
+      "name": "Light finishing touches",
+      "time": "3:00"
+    },
+    {
+      "detail": "Eyes closed at the line: see yourself making the first shot, the first defensive stop, the first good pass. Three perfect mental reps.",
+      "name": "Visualization",
+      "time": "3:00"
+    },
+    {
+      "detail": "Light team stretch, huddle up, one message: play hard, play together. Walk off loose, confident, and ready.",
+      "name": "Stretch and huddle",
+      "time": "3:00"
+    }
+  ],
+  "level": "beginner",
+  "slug": "game-day-shootaround",
+  "tips": [
+    "Shootaround is about confidence, not conditioning — if you're tired after, you went too hard.",
+    "Never try something new on game day; groove what you already own.",
+    "Your free throw routine today is the same one you'll use under pressure tonight.",
+    "Leave the court wanting more — hunger beats fatigue at tip-off."
+  ],
+  "title": "Game-Day Shootaround",
+  "vi": {
+    "title": "Buổi shootaround ngày thi đấu",
+    "description": "Shootaround nhẹ 25 phút trước trận: tìm cảm giác tay, khóa đúng nhịp ném, vào guồng ném phạt và bước vào giờ bóng với cái đầu tỉnh táo.",
+    "focus": [
+      "Ném rổ",
+      "Ném phạt",
+      "Chuẩn bị tâm lý"
+    ],
+    "equipment": [
+      "Bóng rổ"
+    ],
+    "items": [
+      {
+        "name": "Tìm cảm giác tay",
+        "detail": "Ném form nhẹ sát rổ: không bật nhảy, chỉ cần cảm giác tay. Cảm nhận bóng rời đầu ngón tay. Tư duy: chỉ có lưới.",
+        "time": "3:00"
+      },
+      {
+        "name": "Ném nhịp điểm tủ",
+        "detail": "Bắt bóng ném ngay từ các điểm tủ: mỗi điểm vào 3 quả. Bài này lấy nhịp, không lấy tầm xa — ở yên trong vùng thoải mái.",
+        "time": "4:00"
+      },
+      {
+        "name": "Ném điểm thi đấu",
+        "detail": "Đúng những cú ném sẽ dùng tối nay: bài tủ, điểm tủ. Hình dung tình huống trận đấu trước mỗi lượt ném.",
+        "time": "5:00"
+      },
+      {
+        "name": "Nghi thức ném phạt",
+        "detail": "Đúng nghi thức ném phạt trước trận: cùng số nhịp đập bóng, cùng nhịp thở, cùng cú ném. Vào 10 quả. Nghi thức này là điểm tựa tối nay.",
+        "time": "4:00"
+      },
+      {
+        "name": "Chạm nhẹ dứt điểm",
+        "detail": "Vài pha layup nhẹ hai bên, một floater, một pull-up. Nhắc cơ thể nhớ mọi kiểu dứt điểm — rồi dừng. Giữ sức cho đôi chân.",
+        "time": "3:00"
+      },
+      {
+        "name": "Hình dung",
+        "detail": "Nhắm mắt ở vạch ném phạt: thấy mình ném vào quả đầu tiên, chặn pha đầu tiên, chuyền tốt pha đầu tiên. Ba lượt hình dung hoàn hảo.",
+        "time": "3:00"
+      },
+      {
+        "name": "Giãn cơ và vòng tròn",
+        "detail": "Giãn cơ nhẹ cùng cả đội, túm lại vòng tròn, một thông điệp: chơi hết mình, chơi cùng nhau. Rời sân với cơ thể thả lỏng, đầu tự tin, người sẵn sàng.",
+        "time": "3:00"
+      }
+    ],
+    "tips": [
+      "Shootaround để lấy tự tin, không phải để rèn thể lực — xong buổi mà mệt là tập quá tay.",
+      "Ngày thi đấu không thử cái mới — mài sắc những gì đã có.",
+      "Nghi thức ném phạt hôm nay cũng là nghi thức sẽ dùng dưới áp lực tối nay.",
+      "Rời sân khi còn thèm ném — cơn thèm thắng cơn mệt lúc bóng lên."
+    ]
+  }
+}

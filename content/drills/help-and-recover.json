@@ -69,54 +69,54 @@
   ],
   "dateUpdated": "2026-10-06",
   "vi": {
-    "title": "Help Rồi Hồi Về (Help-and-Recover)",
-    "description": "Làm chủ kỹ thuật stunt-and-recover: help pha drive trong một nhịp tim rồi bứt tốc về contest người ném của mình.",
-    "goal": "Stunt vào người drive bằng hai bước mạnh, rồi hồi về kịp để contest — 8 đợt bóng liên tiếp không vỡ đội hình.",
-    "setup": [
-      "Chơi 3v3 từ hai cánh và đỉnh; một bóng, nửa sân.",
-      "Bên tấn công chỉ chạy các pha drive-and-kick; bên thủ áp dụng luật help-and-recover.",
-      "Mỗi nhóm thủ chơi 8 đợt bóng rồi xoay ra.",
-      "Tính điểm: thủ được 1 điểm mỗi lần chặn đứng, công được 1 điểm mỗi lần ghi — chơi đến 5."
-    ],
-    "instructions": [
-      {
-        "title": "Đọc pha drive",
-        "detail": "Khi bóng drive qua mặt đồng đội, bước hai bước help mạnh về phía paint, tay giơ cao — đừng lao hẳn vào."
-      },
-      {
-        "title": "Stunt chứ đừng ở lại",
-        "detail": "Giơ ngực ra trước mặt người drive vừa đủ lâu để làm chậm họ, đầu liên tục xoay để nhìn người mình kèm."
-      },
-      {
-        "title": "Bứt tốc hồi về",
-        "detail": "Ngay khi bóng rời tay người drive, chạy hết tốc về người ném của mình với closeout bước nhỏ."
-      },
-      {
-        "title": "Hô mọi thứ",
-        "detail": "Hô 'help!' khi stunt và 'recover!' hoặc 'shot!' khi bay về — help mà im lặng là help muộn."
-      },
-      {
-        "title": "Kết thúc đợt bóng",
-        "detail": "Contest cú kick-out bằng tay giơ cao, block out người mình kèm và bắt chắc rebound để khép lượt."
-      }
-    ],
     "coachingPoints": [
       "Hai bước và một pha stunt — lao hẳn vào là bỏ trống người ném của mình.",
-      "Nhìn được cả hai: bóng ở rìa tầm mắt, người mình kèm trong tầm nhìn — không bao giờ quay lưng.",
-      "Hồi về phải gấp; closeout chậm sau khi help là một quả 3 trống trải.",
+      "Nhìn cả hai: bóng ở rìa tầm mắt, người mình kèm trong tầm nhìn — không bao giờ quay lưng.",
+      "Hồi về phải gấp; closeout chậm sau khi help là một quả 3 điểm trống trải.",
       "Nói suốt vòng xoay — tiếng hô của người help là tín hiệu kích hoạt pha hồi về."
     ],
     "commonMistakes": [
       "Help quá đà, bỏ mặc người ném — stunt thôi, đừng chìm hẳn vào.",
       "Mải nhìn bóng, quay lưng với người mình kèm — không nhìn thấy thì không hồi về được.",
-      "Chạy lững thững khi hồi về — đường kick-out trừng phạt mọi pha closeout lười biếng."
+      "Chạy lững thững khi hồi về — đường kick-out trừng phạt mọi pha closeout lười."
     ],
-    "progression": "Nâng lên 4v4 cho phép skip pass, hoặc yêu cầu người help phải đứng nhận charge ở pha stunt thứ hai của mỗi đợt bóng.",
-    "regression": "Đi bộ qua các vị trí shell 3v3 không cần tấn công live, tập footwork stunt-and-recover theo hiệu lệnh của HLV.",
-    "gameApplication": "Help-and-recover là cốt lõi của phòng ngự đồng đội hiện đại — một nhịp help vừa đủ chặn pha drive mà không dâng quả 3 từ kick-out.",
-    "players": "2+",
+    "description": "Làm chủ kỹ thuật stunt-and-recover: help pha đột phá trong một nhịp tim rồi bứt tốc về contest người ném của mình.",
     "equipment": [
       "Bóng rổ"
-    ]
+    ],
+    "gameApplication": "Help-and-recover là cốt lõi của phòng ngự đồng đội hiện đại — một nhịp help vừa đủ chặn pha đột phá mà không dâng quả 3 điểm từ kick-out.",
+    "goal": "Stunt vào người đột phá bằng hai bước mạnh, rồi hồi về kịp để contest — 8 đợt bóng liên tiếp không vỡ đội hình.",
+    "instructions": [
+      {
+        "detail": "Khi bóng đột phá qua mặt đồng đội, bước hai bước help mạnh về phía khu vực dưới rổ, tay giơ cao — không lao hẳn vào.",
+        "title": "Đọc pha đột phá"
+      },
+      {
+        "detail": "Giơ ngực trước mặt người đột phá vừa đủ lâu để làm chậm họ, đầu liên tục xoay để nhìn người mình kèm.",
+        "title": "Stunt chứ không ở lại"
+      },
+      {
+        "detail": "Ngay khi bóng rời tay người đột phá, chạy hết tốc về người ném của mình với closeout bước nhỏ.",
+        "title": "Bứt tốc hồi về"
+      },
+      {
+        "detail": "Hô 'help!' khi stunt và 'recover!' hoặc 'shot!' khi bay về — help im lặng là help muộn.",
+        "title": "Hô mọi thứ"
+      },
+      {
+        "detail": "Contest cú kick-out bằng tay giơ cao, box out người mình kèm, bắt chắc rebound để khép lượt.",
+        "title": "Kết thúc đợt bóng"
+      }
+    ],
+    "players": "2+",
+    "progression": "Nâng lên 4v4 cho phép skip pass, hoặc yêu cầu người help đứng nhận charge ở pha stunt thứ hai của mỗi đợt bóng.",
+    "regression": "Đi bộ qua các vị trí shell 3v3 không cần tấn công live, tập bộ chân stunt-and-recover theo hiệu lệnh của HLV.",
+    "setup": [
+      "Chơi 3v3 từ hai cánh và đỉnh; một bóng, nửa sân.",
+      "Bên tấn công chỉ chạy các pha đột phá-chuyền ra (drive-and-kick); bên thủ áp dụng luật help-and-recover.",
+      "Mỗi nhóm thủ chơi 8 đợt bóng rồi xoay ra.",
+      "Tính điểm: thủ được 1 điểm mỗi lần chặn đứng, công 1 điểm mỗi lần ghi — chơi tới 5."
+    ],
+    "title": "Help rồi hồi về (help and recover)"
   }
 }

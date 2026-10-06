@@ -40,52 +40,52 @@
   "related": ["three-man-weave","three-point-star","spot-shooting-ladder"],
   "dateUpdated": "2026-10-06",
   "vi":   {
-    "title": "Ném Sau Skip Pass",
-    "description": "Footwork drive-and-kick kết hợp skip pass: xoay bóng ngang sân và ném 3 điểm góc đối diện đúng nhịp.",
-    "goal": "Rèn chuỗi drive-kick-skip: đột phá ép hàng thủ co lại, skip bóng sang weak side và ném đúng nhịp.",
-    "setup": [
-      "Xếp 3 hàng: một người đột phá ở đỉnh, một người skip pass ở wing, một người ném ở góc đối diện.",
-      "Người đột phá bắt đầu cầm bóng; người ném bắt đầu với tay sẵn sàng ở góc.",
-      "Đổi hàng sau mỗi lượt: đột phá thành người ném, người ném thành người chuyền, người chuyền thành người đột phá."
-    ],
-    "instructions": [
-      {
-        "title": "Đột phá ép thủ co lại",
-        "detail": "Người đột phá tấn công paint bằng 2 nhịp rê mạnh, ép hàng thủ help phải lao vào."
-      },
-      {
-        "title": "Kick ra wing",
-        "detail": "Người đột phá jump-stop và kick ra cho người chuyền ở wing — đường chuyền 2 tay chắc, đúng tầm."
-      },
-      {
-        "title": "Skip ngang sân",
-        "detail": "Wing nhận bóng và ngay lập tức skip sang góc đối diện — một cú xoay nhanh, không rê thêm."
-      },
-      {
-        "title": "Nhận và ném đúng nhịp",
-        "detail": "Người ném ở góc nhận bóng với chân đã sẵn sàng và ném 3 điểm trong một động tác; chạy theo cú ném và đổi hàng."
-      },
-      {
-        "title": "Mỗi người 10 lần vào",
-        "detail": "Mỗi người ném đến khi vào 10 quả 3 điểm góc, rồi bài tập đổi sang bên kia sân."
-      }
-    ],
     "coachingPoints": [
-      "Đường skip pass phải bẹt và nhanh — skip bổng cho hàng thủ thời gian hồi về.",
-      "Người ném: sẵn sàng ném trước khi nhận bóng, không phải sau — chân đặt sẵn, gối đã gập.",
-      "Người đột phá: jump-stop có kiểm soát; đột phá mất kiểm soát tạo turnover, không tạo cú ném trống.",
-      "Người chuyền: nhận và skip trong một động tác — mỗi nhịp rê thêm để closeout đến kịp."
+      "Skip pass phải phẳng và nhanh — chuyền bổng cho hàng thủ thời gian hồi về.",
+      "Người ném: sẵn sàng ném trước khi nhận bóng, không phải sau — chân đặt, gối trùng.",
+      "Người đột phá: jump-stop có kiểm soát; đột phá mất kiểm soát sinh ra mất bóng, không phải cú ném trống.",
+      "Người chuyền: bắt rồi skip trong một nhịp — mỗi nhịp rê thừa là một bước closeout tới kịp."
     ],
     "commonMistakes": [
-      "Ném skip pass mềm, cao — bóng bị chặn hoặc đến quá muộn cho cú ném đúng nhịp.",
-      "Người ném nhận bóng khi chân chưa sẵn — nếu chưa sẵn sàng trước khi nhận, closeout sẽ đến trước."
+      "Skip pass mềm và bổng — hoặc bị cắt, hoặc tới quá muộn để ném đúng nhịp.",
+      "Người ném bắt bóng khi chân chưa sẵn — chưa sẵn trước khi nhận bóng là closeout tới kịp."
     ],
-    "progression": "Thêm hậu vệ closeout lao vào người ném, yêu cầu người ném shot-fake rồi đột phá qua closeout, hoặc skip từ pick-and-roll live thay vì đột phá định sẵn.",
-    "regression": "Rút ngắn skip thành đường xoay wing-to-wing, ném từ 15 feet (4,5m) thay vì 3 điểm, hoặc bỏ pha đột phá và bắt đầu từ kickout đứng yên.",
-    "gameApplication": "Các hàng công hiện đại tạo ra 3 điểm qua những đường skip pass drive-and-kick — bài này rèn đúng chuỗi đánh bại hàng thủ xoay người.",
-    "players": "3+",
+    "description": "Footwork drive-and-kick kết hợp skip pass: xoay bóng ngang sân rồi ném 3 điểm góc đúng nhịp.",
     "equipment": [
       "Bóng rổ"
-    ]
+    ],
+    "gameApplication": "Hàng công hiện đại tạo 3 điểm từ skip pass drive-and-kick — bài này rèn đúng chuỗi đánh bại hàng thủ xoay chuyển.",
+    "goal": "Rèn chuỗi drive-kick-skip: đột phá ép hàng thủ co lại, chuyền skip sang weak side rồi ném đúng nhịp.",
+    "instructions": [
+      {
+        "detail": "Đột phá vào khu vực dưới rổ bằng hai nhịp rê mạnh, ép hàng thủ hỗ trợ phải xoay ra.",
+        "title": "Đột phá ép co đội hình"
+      },
+      {
+        "detail": "Người đột phá jump-stop rồi kick ra cho người chuyền ở cánh — đường chuyền hai tay căng, đúng tầm.",
+        "title": "Kick ra cánh"
+      },
+      {
+        "detail": "Người chuyền bắt bóng rồi skip ngay sang góc đối diện — một nhịp xoay nhanh, không rê thêm.",
+        "title": "Skip ngang sân"
+      },
+      {
+        "detail": "Người ném ở góc bắt bóng với chân đã đặt, ném 3 điểm trong một nhịp; chạy theo cú ném rồi xoay hàng.",
+        "title": "Bắt bóng ném ngay đúng nhịp"
+      },
+      {
+        "detail": "Mỗi người ném đến khi trúng 10 quả 3 điểm ở góc, rồi đổi bài sang nửa sân bên kia.",
+        "title": "Ném trúng 10 quả mỗi người"
+      }
+    ],
+    "players": "3+",
+    "progression": "Thêm một hậu vệ closeout lao vào người ném, bắt người ném động tác giả rồi đột phá qua closeout, hoặc skip từ pick-and-roll sống thay vì đột phá sắp đặt.",
+    "regression": "Rút skip thành đường xoay wing-to-wing, ném từ 4,5m thay vì 3 điểm, hoặc bỏ pha đột phá và bắt đầu từ kickout đứng yên.",
+    "setup": [
+      "Xếp 3 hàng: người đột phá ở đỉnh, người chuyền skip ở cánh, người ném ở góc đối diện.",
+      "Người đột phá cầm bóng; người ném đứng góc với tay sẵn sàng.",
+      "Xoay hàng sau mỗi lượt: người đột phá sang hàng ném, người ném sang hàng chuyền, người chuyền sang hàng đột phá."
+    ],
+    "title": "Ném rổ sau skip pass"
   }
 }

@@ -6,7 +6,7 @@ import { useLanguage } from "@/lib/i18n";
 export default function HeroSearch() {
   const { lang, t } = useLanguage();
   const EXAMPLES = lang === "vi"
-    ? ["pick and roll", "phòng thủ zone", "crossover", "giãn cách"]
+    ? ["pick and roll", "phòng thủ zone", "crossover", "giãn đội hình"]
     : ["pick & roll", "zone defense", "crossover", "spacing"];
   return (
     <div className="mt-6">

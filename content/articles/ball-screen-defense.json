@@ -155,6 +155,65 @@
     "coverage"
   ],
   "title": "Ball Screen Defense",
+  "vi": {
+    "coachingPoints": [
+      "Hậu vệ kèm bóng phải vượt qua screen — chui dưới là tặng đối thủ cú ba đúng nhịp",
+      "Góc đứng của big trong coverage quyết định tất cả: bước về phía vai người cầm bóng",
+      "Hô sớm: 'screen left!' phải vang lên trước khi screen tới, không phải trong lúc đó",
+      "Ba người còn lại đứng trong các khoảng trống, sẵn sàng tag người roll vào",
+      "Trước tay ném cừ khôi, mặc định là coverage áp sát hoặc switch, đừng drop quá sâu"
+    ],
+    "commonMistakes": [
+      "Hậu vệ chết dí ở screen thay vì vượt qua — không coverage nào cứu được hậu vệ đã chết",
+      "Big drop quá sâu trước tay ném pull-up — biếu họ cả đêm ném trung bình thoải mái",
+      "Không giao tiếp — cả hai hậu vệ cùng kèm người chắn",
+      "Cánh yếu không tag người roll vào, biếu alley-oop hoặc layup"
+    ],
+    "description": "Phòng thủ pick and roll: drop, hedge, switch, ice và blitz — hai hậu vệ phối hợp với nhau thế nào trước screen bóng.",
+    "gameSituations": [
+      "Mọi screen bóng ở nửa sân — bài đánh phổ biến nhất bóng rổ hiện đại",
+      "Cuối đồng hồ khi đối thủ chạy pick and roll tạo cú ném",
+      "Trước ngôi sao thích săn switch hoặc pull-up",
+      "Sau timeout khi các đội chạy bài screen hay nhất"
+    ],
+    "howTo": [
+      {
+        "detail": "Hậu vệ kèm bóng phải vượt qua screen — ép người gọn lại, đặt tay lên hông người chắn, đuổi qua phía trên. Chui dưới screen là lựa chọn coverage, không phải tai nạn.",
+        "title": "Hậu vệ vượt qua screen"
+      },
+      {
+        "detail": "Hậu vệ của người chắn chọn coverage theo bản scouting: drop (lùi về giữ), hedge (nhảy ra mạnh rồi hồi), switch, ice (ép ra biên) hay blitz (kẹp bóng).",
+        "title": "Big đánh đúng coverage đã gọi"
+      },
+      {
+        "detail": "Cả hai hậu vệ nói liên tục: 'screen left', 'over', 'I got ball', 'recover'. Im lặng trong một pha screen bóng là vỡ trận đang chờ xảy ra.",
+        "title": "Giao tiếp suốt pha bóng"
+      },
+      {
+        "detail": "Ba hậu vệ không bóng lùi vào các khoảng trống. Người gần nhất tag người roll vào — va chạm nhẹ để big kịp hồi — rồi xoay ra lại.",
+        "title": "Cánh yếu tag người roll vào"
+      },
+      {
+        "detail": "Vượt qua screen xong, cả hai hậu vệ chạy nước rút về kèm người ban đầu. Coverage kết thúc bằng mismatch hoặc để mất tay ném là coverage thất bại.",
+        "title": "Hồi về kèm người ban đầu"
+      }
+    ],
+    "tags": [
+      "phòng thủ",
+      "pick and roll",
+      "screen",
+      "chiến thuật"
+    ],
+    "title": "Phòng thủ screen bóng",
+    "whatIsIt": [
+      "Phòng thủ screen bóng là nỗ lực phối hợp của hai người để chặn pick and roll. Hậu vệ kèm bóng vượt qua screen, hậu vệ của người chắn chọn một coverage — drop, hedge, switch, ice hoặc blitz — và ba hậu vệ không bóng rotation phía sau.",
+      "Đây là kỹ năng phòng thủ đồng đội quan trọng nhất bóng rổ hiện đại, vì pick and roll là bài đánh nửa sân phổ biến nhất. Mọi cấp độ, từ giải trẻ đến NBA, sống chết theo khả năng phòng thủ screen bóng.",
+      "Điểm mấu chốt: không coverage đơn lẻ nào chặn được mọi thứ. Phòng thủ screen bóng giỏi là đánh đúng coverage cho đúng con người, cả năm người kết nối với nhau."
+    ],
+    "whyItMatters": [
+      "Hàng thủ không xử lý được screen bóng sẽ biếu hai cú ném dễ nhất bóng rổ: pull-up ba điểm và đường roll vào rổ. Đối phương sẽ chạy pick and roll vào bạn cho đến khi bạn chứng minh mình chặn được. Thành thạo các coverage screen bóng — và biết dùng coverage nào trước ai — là thứ phân biệt hàng thủ giỏi với hàng thủ vô địch."
+    ]
+  },
   "whatIsIt": [
     "Ball screen defense is the coordinated two-man effort to stop the pick & roll. The on-ball defender fights through the screen while the screener's defender chooses a coverage — drop, hedge, switch, ICE, or blitz — and the three off-ball defenders rotate behind them.",
     "It is the most important team-defense skill in modern basketball because the pick & roll is the most common half-court action in the game. Every level of basketball, from youth leagues to the NBA, lives and dies on how well its players defend ball screens.",
@@ -162,64 +221,5 @@
   ],
   "whyItMatters": [
     "A defense that cannot handle ball screens gives up the two easiest shots in basketball: the pull-up three and the roll to the rim. Teams will run pick & roll at you until you prove you can stop it. Mastering ball screen coverages — and knowing which one to use against which players — is what separates good defenses from championship defenses."
-  ],
-  "vi": {
-    "coachingPoints": [
-      "Hậu vệ kèm bóng phải vượt qua màn chắn — chui dưới là tặng đối thủ một cú ném ba đúng nhịp",
-      "Góc đứng của big trong coverage quyết định tất cả: bước về phía vai của người cầm bóng",
-      "Giao tiếp sớm: phải hô 'screen left!' trước khi màn chắn tới, không phải trong lúc nó diễn ra",
-      "Ba người còn lại phải đứng trong các khoảng trống, sẵn sàng tag người lăn vào",
-      "Trước một tay ném cừ khôi, mặc định nên là coverage áp sát hoặc switch, đừng drop quá sâu"
-    ],
-    "commonMistakes": [
-      "Hậu vệ chết dí ở màn chắn thay vì vượt qua — không coverage nào cứu được một hậu vệ đã chết",
-      "Big drop quá sâu trước một tay ném pull-up — tặng họ cả đêm ném trung bình thoải mái",
-      "Không giao tiếp — cả hai hậu vệ cùng kèm người chắn",
-      "Cánh yếu không tag người lăn, để mất pha alley-oop hoặc chuyền xuống ghi layup"
-    ],
-    "description": "Phòng thủ pick & roll: drop, hedge, switch, ICE và blitz — hai hậu vệ phối hợp với nhau thế nào trước màn chắn bóng.",
-    "gameSituations": [
-      "Mọi màn chắn bóng ở sân trước — bài đánh phổ biến nhất của bóng rổ hiện đại",
-      "Cuối đồng hồ tấn công khi đối thủ chạy pick & roll để tạo cú ném",
-      "Trước một ngôi sao thích săn switch hoặc ném pull-up",
-      "Sau timeout khi các đội chạy bài chắn hay nhất của mình"
-    ],
-    "howTo": [
-      {
-        "detail": "Hậu vệ kèm bóng phải vượt qua màn chắn — ép người gọn lại, đặt tay lên hông người chắn và đuổi qua phía trên. Chui dưới màn chắn là một lựa chọn coverage, không phải tai nạn.",
-        "title": "Hậu vệ vượt qua màn chắn"
-      },
-      {
-        "detail": "Người phòng thủ người chắn chọn coverage dựa trên bản scouting: drop (lùi về giữ), hedge (nhảy ra mạnh rồi lui về), switch, ICE (ép ra biên) hoặc blitz (kẹp bóng).",
-        "title": "Big thực hiện coverage đã gọi"
-      },
-      {
-        "detail": "Cả hai hậu vệ phải nói chuyện suốt pha bóng: 'screen left', 'over', 'I got ball', 'recover'. Im lặng trong một pha màn chắn là một pha vỡ trận đang chờ xảy ra.",
-        "title": "Giao tiếp suốt pha bóng"
-      },
-      {
-        "detail": "Ba hậu vệ không bóng lùi vào các khoảng trống. Người gần nhất tag người lăn vào — va chạm nhẹ để big kịp lui về — rồi xoay ra lại.",
-        "title": "Cánh yếu tag người lăn vào"
-      },
-      {
-        "detail": "Sau khi vượt qua màn chắn, cả hai hậu vệ chạy nước rút về kèm người ban đầu của mình. Một coverage kết thúc bằng mismatch hoặc để mất người ném là một coverage thất bại.",
-        "title": "Lui về kèm người ban đầu"
-      }
-    ],
-    "tags": [
-      "phòng thủ",
-      "pick and roll",
-      "màn chắn bóng",
-      "phương án phòng thủ"
-    ],
-    "title": "Phòng Thủ Màn Chắn Bóng",
-    "whatIsIt": [
-      "Phòng thủ màn chắn bóng là nỗ lực phối hợp của hai người để chặn pick & roll. Hậu vệ kèm bóng vượt qua màn chắn trong khi hậu vệ của người chắn chọn một coverage — drop, hedge, switch, ICE hoặc blitz — và ba hậu vệ không bóng xoay chuyển phía sau họ.",
-      "Đây là kỹ năng phòng thủ đồng đội quan trọng nhất của bóng rổ hiện đại, vì pick & roll là bài đánh sân trước phổ biến nhất trong môn này. Mọi cấp độ bóng rổ, từ giải trẻ đến NBA, đều sống chết theo khả năng phòng thủ màn chắn bóng của cầu thủ.",
-      "Điểm mấu chốt: không một coverage đơn lẻ nào chặn được mọi thứ. Phòng thủ màn chắn bóng giỏi là thực hiện đúng coverage cho đúng con người, với cả năm cầu thủ kết nối với nhau."
-    ],
-    "whyItMatters": [
-      "Một hàng thủ không xử lý được màn chắn bóng sẽ để mất hai cú ném dễ nhất trong bóng rổ: cú pull-up ba điểm và đường lăn vào rổ. Các đội sẽ chạy pick & roll vào bạn cho đến khi bạn chứng minh mình chặn được nó. Thành thạo các coverage màn chắn bóng — và biết dùng coverage nào trước cầu thủ nào — là điều phân biệt hàng thủ giỏi với hàng thủ vô địch."
-    ]
-  }
+  ]
 }

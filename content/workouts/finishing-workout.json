@@ -5,16 +5,49 @@
   "description": "25 minutes dedicated to scoring at the rim: touch finishes, euro steps, two-foot power, contact, and transition layups.",
   "level": "intermediate",
   "durationMin": 25,
-  "focus": ["Finishing"],
-  "equipment": ["Basketball", "Cones"],
+  "focus": [
+    "Finishing"
+  ],
+  "equipment": [
+    "Basketball",
+    "Cones"
+  ],
   "items": [
-    {"name": "Mikan drill", "detail": "Alternating under-basket layups, right and left, ball never touches the floor. Use the glass every rep.", "time": "3:00"},
-    {"name": "Power layups", "detail": "One-dribble power layups from each wing: jump off two feet, finish high off the glass. 5 makes each side.", "time": "4:00"},
-    {"name": "Euro step series", "detail": "Drive at a cone 'defender' and euro around it both directions. 5 makes each way, then 5 reactive.", "time": "4:00"},
-    {"name": "Reverse finishes", "detail": "Baseline drives finishing on the far side of the rim: 5 makes each side. Sweep the ball under.", "time": "4:00"},
-    {"name": "Floater and runner", "detail": "One-dribble into floaters from the elbows and short corners: 3 makes per spot, soft touch.", "time": "4:00"},
-    {"name": "Full-court finishing", "detail": "Full-speed drives from half-court alternating hands and finishes. 10 consecutive makes to finish.", "time": "4:00"},
-    {"name": "Free-throw cool down", "detail": "8 free throws with your routine. Breathe, reset, finish strong.", "time": "2:00"}
+    {
+      "name": "Mikan drill",
+      "detail": "Alternating under-basket layups, right and left, ball never touches the floor. Use the glass every rep.",
+      "time": "3:00"
+    },
+    {
+      "name": "Power layups",
+      "detail": "One-dribble power layups from each wing: jump off two feet, finish high off the glass. 5 makes each side.",
+      "time": "4:00"
+    },
+    {
+      "name": "Euro step series",
+      "detail": "Drive at a cone 'defender' and euro around it both directions. 5 makes each way, then 5 reactive.",
+      "time": "4:00"
+    },
+    {
+      "name": "Reverse finishes",
+      "detail": "Baseline drives finishing on the far side of the rim: 5 makes each side. Sweep the ball under.",
+      "time": "4:00"
+    },
+    {
+      "name": "Floater and runner",
+      "detail": "One-dribble into floaters from the elbows and short corners: 3 makes per spot, soft touch.",
+      "time": "4:00"
+    },
+    {
+      "name": "Full-court finishing",
+      "detail": "Full-speed drives from half-court alternating hands and finishes. 10 consecutive makes to finish.",
+      "time": "4:00"
+    },
+    {
+      "name": "Free-throw cool down",
+      "detail": "8 free throws with your routine. Breathe, reset, finish strong.",
+      "time": "2:00"
+    }
   ],
   "tips": [
     "Finish with your eyes on the target spot on the glass, not the ball.",
@@ -23,9 +56,9 @@
     "Touch beats power inside 6 feet — soft hands score more than hard throws."
   ],
   "dateUpdated": "2026-10-06",
-  "vi":   {
-    "title": "Buổi Tập Dứt Điểm",
-    "description": "25 phút dành riêng cho ghi điểm ở rổ: dứt điểm chạm nhẹ, euro step, sức mạnh 2 chân, va chạm và layup phản công.",
+  "vi": {
+    "title": "Giáo án dứt điểm 25 phút",
+    "description": "25 phút chỉ để dứt điểm dưới rổ: chạm nhẹ, Euro step, bật hai chân, chịu va chạm và layup phản công.",
     "focus": [
       "Dứt điểm"
     ],
@@ -35,46 +68,46 @@
     ],
     "items": [
       {
-        "name": "Bài Mikan",
-        "detail": "Layup luân phiên dưới rổ, phải và trái, bóng không chạm đất. Dùng bảng rổ mọi lượt.",
+        "name": "Bài tập Mikan",
+        "detail": "Layup luân phiên dưới rổ, tay phải rồi tay trái, bóng không chạm sàn. Lượt nào cũng dùng bảng rổ.",
         "time": "3:00"
       },
       {
         "name": "Layup sức mạnh",
-        "detail": "Layup sức mạnh một nhịp rê từ mỗi wing: bật 2 chân, dứt điểm cao qua bảng. Mỗi bên vào 5 quả.",
+        "detail": "Layup một nhịp rê từ mỗi cánh: bật hai chân, dứt điểm cao qua bảng. Mỗi bên vào 5 quả.",
         "time": "4:00"
       },
       {
-        "name": "Chuỗi euro step",
-        "detail": "Đột phá vào cọc 'hậu vệ' rồi euro vòng qua cả hai hướng. Mỗi hướng vào 5 quả, rồi 5 lượt phản xạ.",
+        "name": "Chuỗi Euro step",
+        "detail": "Đột phá vào cọc đóng vai hậu vệ, dùng Euro step vòng qua cả hai hướng. Mỗi hướng vào 5 quả, rồi 5 lượt theo phản xạ.",
         "time": "4:00"
       },
       {
         "name": "Dứt điểm reverse",
-        "detail": "Đột phá baseline dứt điểm phía xa của vành: mỗi bên vào 5 quả. Quét bóng vòng dưới.",
+        "detail": "Đột phá từ đường cuối sân, dứt điểm ở phía xa vành rổ: mỗi bên vào 5 quả. Quét bóng vòng dưới rổ.",
         "time": "4:00"
       },
       {
         "name": "Floater và runner",
-        "detail": "Một nhịp rê rồi floater từ elbow và short corner: mỗi điểm vào 3 quả, chạm nhẹ.",
+        "detail": "Một nhịp rê rồi floater từ vị trí elbow và góc ngắn: mỗi điểm vào 3 quả, chạm nhẹ.",
         "time": "4:00"
       },
       {
         "name": "Dứt điểm toàn sân",
-        "detail": "Đột phá tốc độ tối đa từ giữa sân, luân phiên tay và kiểu dứt điểm. 10 lần vào liên tiếp để kết thúc.",
+        "detail": "Đột phá tốc độ tối đa từ giữa sân, đổi tay và đổi kiểu dứt điểm. Ném vào 10 quả liên tiếp mới xong.",
         "time": "4:00"
       },
       {
         "name": "Hạ nhiệt bằng ném phạt",
-        "detail": "8 quả phạt với nghi thức của bạn. Thở, reset, kết thúc mạnh.",
+        "detail": "8 quả ném phạt đúng nghi thức của mình. Hít thở, tập trung lại, kết thúc thật mạnh.",
         "time": "2:00"
       }
     ],
     "tips": [
-      "Dứt điểm với mắt nhìn điểm ngắm trên bảng, không nhìn bóng.",
-      "Luân phiên tay một cách chủ đích — tay yếu cần gấp đôi số lượt của tay thuận.",
-      "Dùng vành rổ làm lá chắn: dứt điểm ở phía xa hậu vệ tưởng tượng.",
-      "Cảm giác bóng thắng sức mạnh trong vòng 6 feet (1,8m) — tay mềm ghi điểm nhiều hơn tay ném mạnh."
+      "Mắt nhìn điểm ngắm trên bảng rổ khi dứt điểm, không nhìn bóng.",
+      "Chủ đích đổi tay — tay không thuận cần gấp đôi số lượt của tay thuận.",
+      "Dùng vành rổ che chắn: dứt điểm ở phía xa so với hậu vệ tưởng tượng.",
+      "Trong vòng 1,8m, cảm giác bóng thắng sức mạnh — tay mềm ghi nhiều điểm hơn tay ném bừa."
     ]
   }
 }

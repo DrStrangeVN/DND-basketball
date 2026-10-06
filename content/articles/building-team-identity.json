@@ -1,138 +1,139 @@
 {
- "ages": [
-  "U14",
-  "U16",
-  "U18",
-  "Adult"
- ],
- "coachingPoints": [
-  "Identity must fit your roster — a slow roster can't be a fast-break team no matter how much you want it.",
-  "Repeat the identity phrase daily until players say it back to you unprompted.",
-  "Standards need consequences: define exactly what happens on the first, second, and third violation.",
-  "Review identity monthly with film: 'show me three possessions that looked like us this week.'"
- ],
- "commonMistakes": [
-  "Copying another team's identity instead of building one from your roster's actual strengths.",
-  "Defining identity with vague words like 'tough' or 'together' that nobody can act on.",
-  "Announcing standards once in preseason and never enforcing them after week two.",
-  "Letting star players operate outside the identity — exceptions kill identity faster than anything."
- ],
- "dateUpdated": "2026-10-06",
- "description": "Define how your team plays on both ends, install accountability systems, and make your identity visible in every possession.",
- "gameSituations": [
-  "Up 6 with two minutes left, your team still sprints back on defense because 'that's who we are.'",
-  "A starter jogs through a closeout drill; a teammate — not the coach — calls him out.",
-  "Your team is down 12 but keeps running its stuff instead of devolving into one-on-one ball."
- ],
- "howTo": [
-  {
-   "detail": "Audit your roster honestly: where are you actually good? Fast guards + no size = run and pressure. Big and skilled = half-court execution. Pick 2-3 identity pillars (e.g., 'fastest team in transition, toughest on the glass, loudest communicators') and write them as one sentence players can repeat.",
-   "title": "Build identity from your roster"
-  },
-  {
-   "detail": "Translate each pillar into 3-4 observable behaviors. 'Tough on the glass' becomes: every player boxes out on every shot, two players crash offensive glass, guards sprint back on long rebounds. If you can't see it on film, it's not a standard — it's a wish.",
-   "title": "Turn pillars into behaviors"
-  },
-  {
-   "detail": "Create the accountability ladder: first violation = on-the-spot correction + extra rep; second = sit the next 3 minutes; third = post-practice conversation and reduced role. Apply it to everyone, including stars, from day one. Players enforce it on each other once they see you mean it.",
-   "title": "Install the accountability system"
-  },
-  {
-   "detail": "Open every practice with a 60-second identity check: one film clip from yesterday showing 'us' and one showing 'not us.' Name the specific behaviors in each clip. Daily repetition is what turns a poster on the wall into a habit on the court.",
-   "title": "Teach it daily, not once"
-  },
-  {
-   "detail": "Pick 3-4 identity stats that map to your pillars — deflections, offensive rebounds, transition points, charges taken — and post the leaderboard weekly. Celebrate the identity-stat leaders as loudly as the scorers. What gets celebrated gets repeated.",
-   "title": "Measure what defines you"
-  }
- ],
- "hub": "coaching",
- "id": "building-team-identity",
- "level": "intermediate",
- "positions": [
-  "ALL"
- ],
- "readTime": 6,
- "related": [
-  "team-culture",
-  "building-practice-culture",
-  "coaching-leadership",
-  "coaching-toughness",
-  "giving-feedback-that-sticks"
- ],
- "slug": "building-team-identity",
- "subcategory": "team-culture",
- "tags": [
-  "team-identity",
-  "standards",
-  "accountability",
-  "culture",
-  "philosophy"
- ],
- "title": "Establishing Team Identity & Standards",
- "vi": {
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
   "coachingPoints": [
-   "Bản sắc phải phù hợp với đội hình — đội hình chậm không thể thành đội fast-break dù bạn muốn đến đâu.",
-   "Lặp lại cụm từ bản sắc hàng ngày đến khi cầu thủ tự nói lại mà không cần nhắc.",
-   "Tiêu chuẩn cần có hậu quả: định nghĩa chính xác điều gì xảy ra ở lần vi phạm thứ nhất, thứ hai và thứ ba.",
-   "Rà soát bản sắc hàng tháng bằng film: 'cho tôi xem ba possession giống chúng ta tuần này.'"
+    "Identity must fit your roster — a slow roster can't be a fast-break team no matter how much you want it.",
+    "Repeat the identity phrase daily until players say it back to you unprompted.",
+    "Standards need consequences: define exactly what happens on the first, second, and third violation.",
+    "Review identity monthly with film: 'show me three possessions that looked like us this week.'"
   ],
   "commonMistakes": [
-   "Sao chép bản sắc của đội khác thay vì xây từ điểm mạnh thực sự của đội hình mình.",
-   "Định nghĩa bản sắc bằng những từ mơ hồ như 'cứng rắn' hay 'đoàn kết' mà không ai hành động được.",
-   "Tuyên bố tiêu chuẩn một lần ở tiền mùa giải rồi không bao giờ thực thi sau tuần thứ hai.",
-   "Để ngôi sao hoạt động ngoài bản sắc — ngoại lệ giết chết bản sắc nhanh hơn bất cứ thứ gì."
+    "Copying another team's identity instead of building one from your roster's actual strengths.",
+    "Defining identity with vague words like 'tough' or 'together' that nobody can act on.",
+    "Announcing standards once in preseason and never enforcing them after week two.",
+    "Letting star players operate outside the identity — exceptions kill identity faster than anything."
   ],
-  "description": "Định nghĩa cách đội bạn chơi ở cả hai đầu sân, lắp đặt hệ thống trách nhiệm, và làm cho bản sắc hiện diện trong mọi possession.",
+  "dateUpdated": "2026-10-06",
+  "description": "Define how your team plays on both ends, install accountability systems, and make your identity visible in every possession.",
   "gameSituations": [
-   "Dẫn 6 điểm còn hai phút, đội bạn vẫn chạy nước rút về phòng ngự vì 'đó là con người chúng ta.'",
-   "Một cầu thủ chính chạy lững thững qua bài closeout; một đồng đội — không phải huấn luyện viên — nhắc nhở anh ta.",
-   "Đội bạn bị dẫn 12 điểm nhưng vẫn chạy bài bản thay vì rơi vào bóng một-chọi-một."
+    "Up 6 with two minutes left, your team still sprints back on defense because 'that's who we are.'",
+    "A starter jogs through a closeout drill; a teammate — not the coach — calls him out.",
+    "Your team is down 12 but keeps running its stuff instead of devolving into one-on-one ball."
   ],
   "howTo": [
-   {
-    "detail": "Đánh giá đội hình một cách trung thực: các bạn thực sự giỏi ở đâu? Hậu vệ nhanh + không có chiều cao = chạy và pressing. To cao và khéo = đánh half-court. Chọn 2-3 trụ cột bản sắc (ví dụ 'đội transition nhanh nhất, tranh rebound quyết liệt nhất, giao tiếp to nhất') và viết thành một câu mà cầu thủ có thể nhắc lại.",
-    "title": "Xây bản sắc từ đội hình"
-   },
-   {
-    "detail": "Chuyển mỗi trụ cột thành 3-4 hành vi quan sát được. 'Quyết liệt tranh rebound' trở thành: mọi cầu thủ box out mỗi cú ném, hai người crash rebound tấn công, hậu vệ chạy nước rút về khi rebound bật xa. Nếu không nhìn thấy trên film, đó không phải tiêu chuẩn — đó chỉ là ước muốn.",
-    "title": "Biến trụ cột thành hành vi"
-   },
-   {
-    "detail": "Tạo thang trách nhiệm: vi phạm lần đầu = sửa ngay tại chỗ + tập thêm một rep; lần hai = ngồi ngoài 3 phút tiếp theo; lần ba = nói chuyện sau buổi tập và giảm vai trò. Áp dụng cho mọi người, kể cả ngôi sao, từ ngày đầu tiên. Cầu thủ sẽ tự thực thi với nhau khi họ thấy bạn nghiêm túc.",
-    "title": "Lắp đặt hệ thống trách nhiệm"
-   },
-   {
-    "detail": "Mở mỗi buổi tập bằng 60 giây kiểm tra bản sắc: một clip film hôm qua cho thấy 'chúng ta' và một clip cho thấy 'không phải chúng ta.' Gọi tên hành vi cụ thể trong mỗi clip. Lặp lại hàng ngày là cách biến khẩu hiệu trên tường thành thói quen trên sân.",
-    "title": "Dạy hàng ngày, không phải một lần"
-   },
-   {
-    "detail": "Chọn 3-4 chỉ số bản sắc tương ứng với các trụ cột — deflections, offensive rebound, điểm transition, charges — và dán bảng xếp hạng hàng tuần. Tôn vinh người dẫn đầu chỉ số bản sắc to như tôn vinh người ghi điểm. Cái gì được tôn vinh sẽ được lặp lại.",
-    "title": "Đo lường điều định nghĩa bạn"
-   }
+    {
+      "detail": "Audit your roster honestly: where are you actually good? Fast guards + no size = run and pressure. Big and skilled = half-court execution. Pick 2-3 identity pillars (e.g., 'fastest team in transition, toughest on the glass, loudest communicators') and write them as one sentence players can repeat.",
+      "title": "Build identity from your roster"
+    },
+    {
+      "detail": "Translate each pillar into 3-4 observable behaviors. 'Tough on the glass' becomes: every player boxes out on every shot, two players crash offensive glass, guards sprint back on long rebounds. If you can't see it on film, it's not a standard — it's a wish.",
+      "title": "Turn pillars into behaviors"
+    },
+    {
+      "detail": "Create the accountability ladder: first violation = on-the-spot correction + extra rep; second = sit the next 3 minutes; third = post-practice conversation and reduced role. Apply it to everyone, including stars, from day one. Players enforce it on each other once they see you mean it.",
+      "title": "Install the accountability system"
+    },
+    {
+      "detail": "Open every practice with a 60-second identity check: one film clip from yesterday showing 'us' and one showing 'not us.' Name the specific behaviors in each clip. Daily repetition is what turns a poster on the wall into a habit on the court.",
+      "title": "Teach it daily, not once"
+    },
+    {
+      "detail": "Pick 3-4 identity stats that map to your pillars — deflections, offensive rebounds, transition points, charges taken — and post the leaderboard weekly. Celebrate the identity-stat leaders as loudly as the scorers. What gets celebrated gets repeated.",
+      "title": "Measure what defines you"
+    }
   ],
+  "hub": "coaching",
+  "id": "building-team-identity",
+  "level": "intermediate",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 6,
+  "related": [
+    "team-culture",
+    "building-practice-culture",
+    "coaching-leadership",
+    "coaching-toughness",
+    "giving-feedback-that-sticks"
+  ],
+  "slug": "building-team-identity",
+  "subcategory": "team-culture",
   "tags": [
-   "bản-sắc-đội",
-   "tiêu-chuẩn",
-   "trách-nhiệm",
-   "văn-hóa",
-   "triết-lý"
+    "team-identity",
+    "standards",
+    "accountability",
+    "culture",
+    "philosophy"
   ],
-  "title": "Xây Dựng Bản Sắc Đội & Tiêu Chuẩn",
+  "title": "Establishing Team Identity & Standards",
+  "vi": {
+    "coachingPoints": [
+      "Bản sắc phải phù hợp với đội hình — đội hình chậm không thể thành đội fast break dù bạn muốn đến đâu",
+      "Lặp lại cụm từ bản sắc hàng ngày đến khi cầu thủ tự nói lại mà không cần nhắc",
+      "Tiêu chuẩn cần có hậu quả: định nghĩa chính xác điều gì xảy ra ở lần vi phạm thứ nhất, thứ hai và thứ ba",
+      "Rà soát bản sắc hàng tháng bằng video: 'cho tôi xem ba đợt bóng giống chúng ta tuần này'"
+    ],
+    "commonMistakes": [
+      "Sao chép bản sắc của đội khác thay vì xây từ điểm mạnh thực sự của đội hình mình",
+      "Định nghĩa bản sắc bằng những từ mơ hồ như 'cứng rắn' hay 'đoàn kết' mà không ai hành động được",
+      "Tuyên bố tiêu chuẩn một lần ở tiền mùa giải rồi không bao giờ thực thi sau tuần thứ hai",
+      "Để ngôi sao hoạt động ngoài bản sắc — ngoại lệ giết chết bản sắc nhanh hơn bất cứ thứ gì"
+    ],
+    "description": "Định nghĩa cách đội bạn chơi ở cả hai đầu sân, lắp đặt hệ thống trách nhiệm, và làm cho bản sắc hiện diện trong mọi đợt bóng.",
+    "gameSituations": [
+      "Dẫn 6 điểm còn hai phút, đội bạn vẫn chạy nước rút về phòng ngự vì 'đó là con người chúng ta'",
+      "Một cầu thủ chính chạy lững thững qua bài closeout; một đồng đội — không phải HLV — nhắc nhở anh ta",
+      "Đội bạn bị dẫn 12 điểm nhưng vẫn chạy bài bản thay vì rơi vào bóng một chọi một"
+    ],
+    "howTo": [
+      {
+        "detail": "Đánh giá đội hình một cách trung thực: các bạn thực sự giỏi ở đâu? Hậu vệ nhanh + không có chiều cao = chạy và pressing. To cao và khéo = đánh nửa sân. Chọn 2–3 trụ cột bản sắc (ví dụ 'đội transition nhanh nhất, tranh bóng bật bảng quyết liệt nhất, giao tiếp to nhất') và viết thành một câu cầu thủ nhắc lại được.",
+        "title": "Xây bản sắc từ đội hình"
+      },
+      {
+        "detail": "Chuyển mỗi trụ cột thành 3–4 hành vi quan sát được. 'Quyết liệt tranh bóng bật bảng' thành: mọi cầu thủ box out mỗi cú ném, hai người crash rebound tấn công, hậu vệ chạy nước rút về khi rebound bật xa. Không nhìn thấy trên video thì đó không phải tiêu chuẩn — đó chỉ là ước muốn.",
+        "title": "Biến trụ cột thành hành vi"
+      },
+      {
+        "detail": "Tạo thang trách nhiệm: vi phạm lần đầu = sửa ngay tại chỗ + tập thêm một lần; lần hai = ngồi ngoài 3 phút tiếp theo; lần ba = nói chuyện sau buổi tập và giảm vai trò. Áp dụng cho mọi người, kể cả ngôi sao, từ ngày đầu tiên. Cầu thủ tự thực thi với nhau khi họ thấy bạn nghiêm túc.",
+        "title": "Lắp đặt hệ thống trách nhiệm"
+      },
+      {
+        "detail": "Mở mỗi buổi tập bằng 60 giây kiểm tra bản sắc: một clip video hôm qua cho thấy 'chúng ta' và một clip cho thấy 'không phải chúng ta'. Gọi tên hành vi cụ thể trong mỗi clip. Lặp lại hàng ngày là cách biến khẩu hiệu trên tường thành thói quen trên sân.",
+        "title": "Dạy hàng ngày, không phải một lần"
+      },
+      {
+        "detail": "Chọn 3–4 chỉ số bản sắc tương ứng với các trụ cột — deflection, offensive rebound, điểm transition, charge — và dán bảng xếp hạng hàng tuần. Tôn vinh người dẫn đầu chỉ số bản sắc to như tôn vinh người ghi điểm. Cái gì được tôn vinh sẽ được lặp lại.",
+        "title": "Đo lường điều định nghĩa bạn"
+      }
+    ],
+    "tags": [
+      "bản sắc đội",
+      "tiêu chuẩn",
+      "trách nhiệm",
+      "văn hóa",
+      "triết lý"
+    ],
+    "title": "Xây dựng bản sắc đội và tiêu chuẩn",
+    "whatIsIt": [
+      "Bản sắc đội là câu trả lời cho câu hỏi: 'Đội này chơi bóng như thế nào?' — không phải khi mọi thứ suôn sẻ, mà khi chân đã mỏi, tỷ số xấu, trọng tài thổi bất lợi. Đó là 2–3 trụ cột (ví dụ: đội transition nhanh nhất giải, tranh rebound phòng thủ quyết liệt nhất) được chuyển thành hành vi cụ thể, quan sát được, thực thi được.",
+      "Tài năng thắng các trận đấu; bản sắc thắng các mùa giải. Khi bản sắc rõ ràng, cầu thủ tự biết phải làm gì trong hỗn loạn mà không cần HLV chỉ đạo từng đợt bóng. Nó cũng là bộ lọc cho mọi quyết định: tuyển ai, tập gì, tha thứ cho hành vi nào. Đội không có bản sắc chỉ là một nhóm cầu thủ mặc cùng màu áo."
+    ],
+    "whyItMatters": [
+      "Tài năng thắng các trận đấu; bản sắc thắng các mùa giải. Khi bản sắc rõ ràng, cầu thủ tự biết phải làm gì trong hỗn loạn mà không cần HLV chỉ đạo từng đợt bóng. Nó cũng là bộ lọc cho mọi quyết định: tuyển ai, tập gì, tha thứ cho hành vi nào. Đội không có bản sắc chỉ là một nhóm cầu thủ mặc cùng màu áo.",
+      "Bản sắc là thứ giữ đội đứng vững khi kế hoạch trận đấu vỡ. Bị dẫn 12 điểm trên sân khách, chân mỏi, khán đài ầm ĩ — chiến thuật không cứu được bạn, thói quen mới cứu được. Xây bản sắc một cách chủ đích vào tháng Mười, nó sẽ đưa bạn đi xa vào tháng Ba."
+    ]
+  },
   "whatIsIt": [
-   "Bản sắc đội là câu trả lời cho câu hỏi: 'Đội này chơi bóng như thế nào?' — không phải khi mọi thứ suôn sẻ, mà khi mệt, khi bị dẫn, khi trọng tài thổi bất lợi. Nó là 2-3 trụ cột (ví dụ: transition nhanh nhất giải, phòng ngự quyết liệt nhất) được chuyển thành hành vi cụ thể, có thể quan sát và thực thi được.",
-   "title-placeholder"
+    "Team identity is the answer to: 'How does this team play?' — not when things are easy, but when legs are tired, the score is bad, and the calls go against you. It's 2-3 pillars (e.g., fastest team in transition, toughest defensive rebounders) translated into specific, observable, enforceable behaviors.",
+    "Talent wins games; identity wins seasons. When identity is clear, players know what to do in chaos without the coach directing every possession. It's also the filter for every decision: who to recruit, what to practice, which behaviors to tolerate. A team without identity is just a group of players in matching jerseys."
   ],
   "whyItMatters": [
-   "Tài năng thắng các trận đấu; bản sắc thắng các mùa giải. Khi bản sắc rõ ràng, cầu thủ tự biết phải làm gì trong hỗn loạn mà không cần huấn luyện viên chỉ đạo từng possession. Nó cũng là bộ lọc cho mọi quyết định: tuyển ai, tập gì, tha thứ cho hành vi nào. Đội không có bản sắc chỉ là một nhóm cầu thủ mặc cùng màu áo."
+    "Talent wins games; identity wins seasons. When identity is clear, players know what to do in chaos without the coach directing every possession. It is also the filter for every decision: who to recruit, what to practice, which behaviors to forgive. A team without identity is just a group of players wearing the same jersey.",
+    "Identity is what holds when the game plan breaks. Down 12 on the road, tired legs, crowd loud — schemes don't save you, habits do. Build the identity deliberately in October and it will carry you in March."
   ]
- },
- "whatIsIt": [
-  "Team identity is the answer to: 'How does this team play?' — not when things are easy, but when legs are tired, the score is bad, and the calls go against you. It's 2-3 pillars (e.g., fastest team in transition, toughest defensive rebounders) translated into specific, observable, enforceable behaviors.",
-  "Talent wins games; identity wins seasons. When identity is clear, players know what to do in chaos without the coach directing every possession. It's also the filter for every decision: who to recruit, what to practice, which behaviors to tolerate. A team without identity is just a group of players in matching jerseys."
- ],
- "whyItMatters": [
-  "Talent wins games; identity wins seasons. When identity is clear, players know what to do in chaos without the coach directing every possession. It is also the filter for every decision: who to recruit, what to practice, which behaviors to forgive. A team without identity is just a group of players wearing the same jersey.",
-  "Identity is what holds when the game plan breaks. Down 12 on the road, tired legs, crowd loud — schemes don't save you, habits do. Build the identity deliberately in October and it will carry you in March."
- ]
 }

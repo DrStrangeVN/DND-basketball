@@ -71,39 +71,8 @@
   ],
   "dateUpdated": "2026-10-06",
   "vi": {
-    "title": "Thang Trượt Phòng Ngự",
-    "description": "Rèn tốc độ di chuyển ngang và kỷ luật tư thế thủ khi slide qua một hàng cọc tiêu ngang vùng paint.",
-    "goal": "Slide ngang qua 6 cọc tiêu dưới 12 giây mà không bắt chéo chân và không đứng thẳng người lên.",
-    "setup": [
-      "Xếp 6 cọc tiêu thành hàng, cách nhau 4 feet (1,2m), ngang qua lane ném phạt.",
-      "Bắt đầu ở tư thế phòng ngự tại cọc 1, mặt hướng về đường biên cuối sân.",
-      "Đi-về tính là 1 set; hoàn thành 4 set, nghỉ 30 giây giữa các set.",
-      "Đồng đội có thể chỉ trái/phải ở mỗi cọc để thêm yếu tố phản xạ."
-    ],
-    "instructions": [
-      {
-        "title": "Khóa tư thế thủ",
-        "detail": "Hạ hông, ưỡn ngực, dồn trọng lượng lên mũi bàn chân — giữ tư thế 5 giây trước khi di chuyển."
-      },
-      {
-        "title": "Slide kiểu đẩy-bước",
-        "detail": "Đạp mạnh chân sau và bước bằng chân trước — không bao giờ bắt chéo chân hay khép gót vào nhau."
-      },
-      {
-        "title": "Chạm từng cọc",
-        "detail": "Slide tới mỗi cọc và chạm nó bằng tay trước trong khi giữ người thấp; giữ đầu ngang bằng suốt đường."
-      },
-      {
-        "title": "Chạy nước rút khi quay đầu",
-        "detail": "Tới cọc cuối, drop-step rồi chạy nước rút về điểm xuất phát, sau đó lập tức vào lại tư thế thủ."
-      },
-      {
-        "title": "Phá kỷ lục của chính mình",
-        "detail": "Bấm giờ mỗi set; mục tiêu là dưới 12 giây cho một lượt đi-về mà tư thế không vỡ lần nào."
-      }
-    ],
     "coachingPoints": [
-      "Mông hạ thấp, lưng thẳng — đầu mà nhấp nhô là tư thế đang quá cao.",
+      "Hạ thấp mông, lưng thẳng — đầu mà nhấp nhô là tư thế đang quá cao.",
       "Đạp bằng chân sau; chỉ với chân trước thì sẽ bị qua mặt.",
       "Hai tay dang rộng và linh hoạt — một tay theo bóng, một tay chắn đường chuyền.",
       "Không bao giờ bắt chéo chân; chân bắt chéo thì không đổi hướng được."
@@ -111,14 +80,45 @@
     "commonMistakes": [
       "Đứng thẳng người lên giữa chừng — vừa nhổm lên là mất tốc độ; giữ người thấp.",
       "Nhảy chụm cả hai chân — phải slide, đừng nhảy.",
-      "Cúi nhìn cọc — mắt ngẩng lên nhìn 'người' tưởng tượng của mình."
+      "Cúi nhìn cọc tiêu — mắt ngẩng lên nhìn 'đối thủ' tưởng tượng."
     ],
-    "progression": "Thêm một người rê bóng ép vào bạn giữa các cọc, hoặc chạy thang với dây kháng lực quấn quanh hông.",
-    "regression": "Giãn cọc ra 6 feet, chậm lại một nửa tốc độ, và giữ mỗi tư thế 3 giây trước khi slide.",
-    "gameApplication": "Slide ngang là nền tảng của phòng ngự 1-kèm-1 — footwork sạch ở đây giúp bạn kèm được những hậu vệ nhanh hơn trong trận.",
-    "players": "1",
+    "description": "Rèn tốc độ di chuyển ngang và kỷ luật tư thế thủ khi slide qua một hàng cọc tiêu ngang vùng ném phạt.",
     "equipment": [
       "Cọc tiêu"
-    ]
+    ],
+    "gameApplication": "Slide ngang là nền tảng của phòng ngự kèm người — bộ chân sạch ở đây giúp bạn kèm được những hậu vệ nhanh hơn trong trận.",
+    "goal": "Slide ngang qua 6 cọc tiêu trong dưới 12 giây mà không bắt chéo chân và không đứng thẳng người lên.",
+    "instructions": [
+      {
+        "detail": "Hạ hông, ngực ưỡn, dồn trọng lượng lên mũi bàn chân — giữ tư thế 5 giây trước khi di chuyển.",
+        "title": "Khóa tư thế thủ"
+      },
+      {
+        "detail": "Đạp mạnh chân sau và bước bằng chân trước — không bao giờ bắt chéo chân hay khép gót vào nhau.",
+        "title": "Slide kiểu đạp-bước"
+      },
+      {
+        "detail": "Slide tới mỗi cọc và chạm nó bằng tay trước trong khi giữ người thấp; giữ đầu ổn định suốt đường.",
+        "title": "Chạm từng cọc"
+      },
+      {
+        "detail": "Tới cọc cuối, drop step rồi chạy nước rút về điểm xuất phát, sau đó lập tức vào lại tư thế thủ.",
+        "title": "Chạy nước rút khi quay đầu"
+      },
+      {
+        "detail": "Bấm giờ mỗi set; mục tiêu là dưới 12 giây cho một lượt đi-về mà tư thế không vỡ lần nào.",
+        "title": "Phá kỷ lục của chính mình"
+      }
+    ],
+    "players": "1",
+    "progression": "Thêm một người rê bóng ép vào bạn giữa các cọc, hoặc chạy thang với dây kháng lực quấn quanh hông.",
+    "regression": "Giãn cọc ra 1,8m, chậm lại còn nửa tốc độ, và giữ mỗi tư thế 3 giây trước khi slide.",
+    "setup": [
+      "Xếp 6 cọc tiêu thành hàng, cách nhau 1,2m, ngang qua vùng ném phạt.",
+      "Bắt đầu ở tư thế phòng ngự tại cọc 1, mặt hướng về đường biên cuối sân.",
+      "Đi-về tính là 1 set; hoàn thành 4 set, nghỉ 30 giây giữa các set.",
+      "Đồng đội có thể chỉ trái/phải ở mỗi cọc để thêm yếu tố phản xạ."
+    ],
+    "title": "Thang slide phòng ngự"
   }
 }

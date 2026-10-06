@@ -74,71 +74,71 @@
     "footwork"
   ],
   "title": "Defensive Stance",
+  "vi": {
+    "coachingPoints": [
+      "Trọng tâm trên mũi chân, gót chạm nhẹ hoặc hơi nhấc khỏi mặt sân.",
+      "Gối gập sâu tới mức đùi gần như song song mặt sân.",
+      "Ngực ưỡn, mắt nhìn giữa người cầm bóng.",
+      "Tay linh hoạt — một tay cao contest cú ném, một tay thấp cắt đường dẫn.",
+      "Chân rộng hơn vai, mũi chân hơi hướng ra ngoài.",
+      "Giữ thấp suốt đợt bóng; đứng thẳng là nhường lợi thế cho tấn công."
+    ],
+    "commonMistakes": [
+      "Đứng thẳng người — sửa bằng ngồi lùi vào hông như ngồi ghế.",
+      "Nghiêng người quá mũi chân — giữ trọng tâm trên mũi chân, không phải ngón chân.",
+      "Nhìn bóng thay vì nhìn ngực — động tác giả bóng đánh bại mắt nhìn bóng.",
+      "Chân bẹt — đứng trên mũi chân để mỗi bước đều bứt tốc.",
+      "Với tay thay vì di chuyển chân — chân trước, tay sau."
+    ],
+    "description": "Học tư thế phòng thủ đúng: vị trí chân, độ gập gối, và đặt tay để kèm được mọi cầu thủ.",
+    "gameSituations": [
+      "Kèm bóng ở bất cứ đâu trên sân.",
+      "Phòng thủ không bóng ở vị trí gap hay hỗ trợ.",
+      "Switch sang người kèm mới giữa đợt bóng.",
+      "Cuối trận khi một pha chặn đứng quyết định trận đấu."
+    ],
+    "howTo": [
+      {
+        "detail": "Đặt chân rộng hơn vai, rộng hơn tư thế đứng bình thường khoảng một bàn chân. Mũi chân hơi hướng ra ngoài để thăng bằng.",
+        "title": "Đứng trụ rộng"
+      },
+      {
+        "detail": "Gập gối và ngồi lùi vào hông. Đùi gần như song song mặt sân. Lưng thẳng, ngực ưỡn, không gù.",
+        "title": "Ngồi thấp, gập gối"
+      },
+      {
+        "detail": "Dồn trọng tâm ra trước lên mũi chân. Gót có thể chạm nhẹ mặt sân, nhưng đừng bao giờ đặt trọng lượng lên gót.",
+        "title": "Trọng tâm trên mũi chân"
+      },
+      {
+        "detail": "Một tay cao ngang vai để contest cú ném, một tay thấp ngang hông để lấy đường dẫn. Lòng bàn tay mở, ngón tay xoè.",
+        "title": "Đặt tay linh hoạt"
+      },
+      {
+        "detail": "Khoá mắt vào ngực hoặc thắt lưng người cầm bóng, không nhìn bóng. Ngực không biết nói dối; bóng và đầu có thể giả đánh lừa bạn.",
+        "title": "Mắt nhìn giữa người"
+      }
+    ],
+    "tags": [
+      "phòng thủ",
+      "tư thế",
+      "kiến thức cơ bản",
+      "bộ chân"
+    ],
+    "title": "Tư thế phòng thủ",
+    "whatIsIt": [
+      "Tư thế phòng thủ là vị trí sẵn sàng mà mọi cầu thủ phòng thủ dùng để kèm đối thủ. Là tư thế thể thao thấp, thăng bằng với trụ rộng, gối gập, trọng tâm trên mũi chân, và tay linh hoạt. Mọi việc cầu thủ phòng thủ làm — trượt chân, closeout, hỗ trợ, rebound — đều bắt đầu từ tư thế này.",
+      "Coi nó như phiên bản phòng thủ của triple threat tấn công. Tư thế tốt khiến bạn nhanh hơn mọi hướng, khó bị qua mặt hơn, và đổi hướng tức thì. Tư thế tệ khiến cầu thủ tấn công trung bình trông như không thể ngăn."
+    ],
+    "whyItMatters": [
+      "Phòng thủ diễn ra trong những đợt bứt tốc ngắn, và tư thế là thứ khiến bứt tốc thành hiện thực. Cầu thủ phòng thủ đứng cao không phản ứng kịp; người giữ thấp trượt chân, hồi về, contest mà không phí động tác. Gần như mọi pha vỡ phòng thủ ở bóng rổ trẻ và phong trào đều bắt nguồn từ một cầu thủ đứng thẳng sai thời điểm."
+    ]
+  },
   "whatIsIt": [
     "The defensive stance is the ready position every defender uses to guard an opponent. It is a low, balanced athletic posture with a wide base, bent knees, weight on the balls of the feet, and active hands. Everything a defender does — sliding, closing out, helping, rebounding — starts from this stance.",
     "Think of it as the defensive equivalent of the offensive triple threat. A good stance makes you quicker in every direction, harder to beat off the dribble, and able to change direction instantly. A bad stance makes even average offensive players look unstoppable."
   ],
   "whyItMatters": [
     "Defense is played in short, explosive bursts, and the stance is what makes those bursts possible. A defender who stands tall cannot react; one who stays low can slide, recover, and contest without wasted motion. Nearly every defensive breakdown in youth and amateur basketball traces back to a defender who stood up at the wrong moment."
-  ],
-  "vi": {
-    "coachingPoints": [
-      "Trọng lượng dồn lên mũi bàn chân, gót chạm nhẹ sàn hoặc hơi nhấc",
-      "Gối gập sâu đến mức đùi gần song song với sàn",
-      "Ngực ưỡn, mắt nhìn vào giữa người của người cầm bóng",
-      "Tay linh hoạt — một tay cao để contest cú ném, một tay thấp để gạt bóng dẫn",
-      "Chân rộng hơn vai, mũi chân hơi hướng ra ngoài",
-      "Giữ thấp suốt đợt phòng thủ; đứng dậy là tặng lợi thế cho hàng công"
-    ],
-    "commonMistakes": [
-      "Đứng thẳng người — cách sửa: ngồi xuống vào hông như ngồi ghế",
-      "Nghiêng người quá mũi chân — giữ trọng lượng ở mũi bàn chân, không phải ngón chân",
-      "Nhìn vào bóng thay vì ngực — những cú giả bóng đánh bại đôi mắt nhìn bóng",
-      "Chân phẳng — đứng trên mũi bàn chân để mọi bước đều bùng nổ",
-      "Với tay thay vì di chuyển chân — di chuyển chân trước, tay sau"
-    ],
-    "description": "Học tư thế phòng thủ đúng: vị trí chân, độ gập gối và đặt tay để kèm được mọi cầu thủ.",
-    "gameSituations": [
-      "Kèm bóng ở bất cứ đâu trên sân",
-      "Phòng thủ không bóng ở vị trí gap hoặc hỗ trợ",
-      "Switch sang kèm người mới giữa đợt tấn công",
-      "Cuối trận khi một pha chặn quyết định trận đấu"
-    ],
-    "howTo": [
-      {
-        "detail": "Đặt chân rộng hơn vai, rộng hơn khoảng một bàn chân so với đứng bình thường. Mũi chân hơi hướng ra ngoài để giữ thăng bằng.",
-        "title": "Tạo trụ rộng"
-      },
-      {
-        "detail": "Gập gối và ngồi xuống vào hông. Đùi nên gần song song với sàn. Giữ lưng thẳng và ngực ưỡn, đừng gù.",
-        "title": "Ngồi thấp với gối cong"
-      },
-      {
-        "detail": "Dồn trọng lượng về phía trước lên mũi bàn chân. Gót có thể chạm nhẹ sàn, nhưng đừng bao giờ đặt trọng lượng lên gót.",
-        "title": "Trọng lượng ở mũi bàn chân"
-      },
-      {
-        "detail": "Giữ một tay cao ngang vai để contest cú ném và một tay thấp ngang hông để lấy đường dẫn bóng. Lòng bàn tay mở, ngón tay xòe.",
-        "title": "Đặt tay linh hoạt"
-      },
-      {
-        "detail": "Khóa mắt vào ngực hoặc thắt lưng của người cầm bóng, không phải quả bóng. Ngực không biết nói dối; bóng và đầu có thể giả bạn.",
-        "title": "Mắt nhìn vào giữa người"
-      }
-    ],
-    "tags": [
-      "phòng thủ",
-      "tư thế",
-      "kỹ thuật cơ bản",
-      "di chuyển chân"
-    ],
-    "title": "Tư Thế Phòng Thủ",
-    "whatIsIt": [
-      "Tư thế phòng thủ là vị trí sẵn sàng mà mọi hậu vệ dùng để kèm đối thủ. Đó là tư thế thể thao thấp, cân bằng với trụ rộng, gối cong, trọng lượng ở mũi bàn chân và tay linh hoạt. Mọi việc hậu vệ làm — trượt chân, closeout, hỗ trợ, bắt bóng bật bảng — đều bắt đầu từ tư thế này.",
-      "Hãy coi nó như phiên bản phòng thủ của triple threat tấn công. Tư thế tốt giúp bạn nhanh hơn mọi hướng, khó bị vượt qua khi dẫn bóng hơn, và đổi hướng ngay lập tức. Tư thế tệ khiến ngay cả cầu thủ tấn công trung bình cũng trông không thể cản."
-    ],
-    "whyItMatters": [
-      "Phòng thủ diễn ra trong những pha bùng nổ ngắn, và tư thế là thứ làm những pha bùng nổ đó khả thi. Hậu vệ đứng cao không thể phản ứng; người giữ thấp có thể trượt chân, lui về và contest mà không lãng phí chuyển động. Gần như mọi pha vỡ trận phòng thủ ở bóng rổ trẻ và phong trào đều bắt nguồn từ một hậu vệ đứng dậy sai thời điểm."
-    ]
-  }
+  ]
 }

@@ -63,47 +63,47 @@
   ],
   "dateUpdated": "2026-10-06",
   "vi": {
-    "title": "Xoay Người Sau Closeout",
-    "description": "Closeout và xoay người 3v3: sprint ra contest đường skip pass rồi xoay khi bị đột phá — luyện hai động tác phòng thủ khó nhất liên tiếp.",
-    "goal": "Closeout có kiểm soát và xoay đúng khi bị đột phá tiếp theo, không để lộ 3 điểm góc.",
-    "setup": [
-      "3 tấn công dàn một bên, 3 phòng thủ bắt đầu ở vị trí help.",
-      "HLV khởi động bằng skip pass.",
-      "Phòng thủ phải có 3 lần chặn để được ra."
-    ],
-    "instructions": [
-      {
-        "title": "Sprint rồi chém chân",
-        "detail": "Khi skip pass, hậu vệ sprint 80% rồi chém chân vào closeout thăng bằng, tay cao."
-      },
-      {
-        "title": "Chặn đường đột phá",
-        "detail": "Tấn công đánh vào closeout; hậu vệ kèm bóng slide và ép về phía help."
-      },
-      {
-        "title": "Xoay khi help",
-        "detail": "Khi help đã lao vào, hậu vệ tiếp theo xoay sang người của helper — không để trống 3 điểm góc."
-      },
-      {
-        "title": "Hoàn tất pha thủ",
-        "detail": "Giao tiếp suốt chuỗi và kết thúc bằng box-out khi đối thủ ném."
-      }
-    ],
     "coachingPoints": [
-      "Closeout ngắn — tới nơi trong kiểm soát, không phải mất kiểm soát.",
-      "Help sớm là đúng giờ; help muộn là phạm lỗi.",
-      "Chỉ tay và hô mỗi lần xoay để không hai người kèm một."
+      "Closeout ngắn gọn — đến nơi trong kiểm soát, không phải mất kiểm soát.",
+      "Hỗ trợ sớm là đúng giờ; hỗ trợ muộn là phạm lỗi.",
+      "Chỉ tay và hô to mỗi lần xoay để không hai người kèm một."
     ],
     "commonMistakes": [
-      "Lao qua người ném khi closeout.",
-      "Xoay về bóng để lộ hai người trống."
+      "Bay qua người ném khi closeout.",
+      "Xoay về phía bóng mà bỏ trống hai người."
     ],
-    "progression": "Chơi 4v4 với helper phụ tag roller.",
-    "regression": "Không cho đột phá — chỉ closeout và hồi về đường chuyền.",
-    "gameApplication": "Hầu hết pha vỡ phòng thủ xảy ra trong hai giây sau closeout — luyện xoay người biến hỗn loạn thành pha chặn đứng.",
-    "players": "6",
+    "description": "Closeout và xoay chuyển đội hình 3 đấu 3: lao ra tranh đường skip pass rồi xoay khi bị đột phá — luyện hai động tác phòng thủ khó nhất liên tiếp nhau.",
     "equipment": [
       "Bóng rổ"
-    ]
+    ],
+    "gameApplication": "Hầu hết các pha vỡ phòng thủ xảy ra trong hai giây sau closeout — luyện xoay đội hình biến hỗn loạn thành pha chặn đứng.",
+    "goal": "Closeout trong kiểm soát và xoay đúng khi bị đột phá tiếp theo, không để lộ cú ném 3 điểm ở góc.",
+    "instructions": [
+      {
+        "detail": "Khi có skip pass, cầu thủ phòng thủ lao nhanh 80% quãng đường rồi chuyển sang bước ngắn để vào closeout cân bằng, tay giơ cao.",
+        "title": "Lao nhanh rồi ghìm bước"
+      },
+      {
+        "detail": "Bên tấn công đánh vào closeout; cầu thủ kèm bóng trượt chân theo và ép họ về phía đồng đội hỗ trợ.",
+        "title": "Chặn đường đột phá"
+      },
+      {
+        "detail": "Khi đồng đội đã lao ra hỗ trợ, cầu thủ phòng thủ tiếp theo xoay sang kèm người của đồng đội đó — không để trống cú ném 3 điểm ở góc.",
+        "title": "Xoay khi đồng đội lao ra hỗ trợ"
+      },
+      {
+        "detail": "Giao tiếp suốt cả chuỗi và kết thúc bằng box out khi đối thủ ném.",
+        "title": "Khép lại pha phòng thủ"
+      }
+    ],
+    "players": "6",
+    "progression": "Chơi 4 đấu 4, cầu thủ hỗ trợ thêm phải tag người roll.",
+    "regression": "Không cho đột phá — chỉ closeout rồi hồi về đường chuyền.",
+    "setup": [
+      "3 cầu thủ tấn công dàn một bên sân, 3 cầu thủ phòng thủ bắt đầu ở vị trí hỗ trợ.",
+      "HLV mở đầu bằng một đường skip pass.",
+      "Hàng thủ phải tạo 3 lần chặn đứng mới được đổi ra."
+    ],
+    "title": "Xoay chuyển đội hình sau closeout"
   }
 }

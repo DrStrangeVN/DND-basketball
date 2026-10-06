@@ -5,15 +5,44 @@
   "description": "A light 20-minute game-day tune-up: rhythm shooting, touch finishes, and free throws — sharpens feel without tiring your legs.",
   "level": "intermediate",
   "durationMin": 20,
-  "focus": ["Shooting", "Finishing"],
-  "equipment": ["Basketball"],
+  "focus": [
+    "Shooting",
+    "Finishing"
+  ],
+  "equipment": [
+    "Basketball"
+  ],
   "items": [
-    {"name": "Form shooting", "detail": "Easy one-hand form shots close to the rim: 10 makes. Loose, relaxed, find your touch.", "time": "3:00"},
-    {"name": "Spot shooting", "detail": "Midrange spots you will shoot tonight: 3 makes per spot, game-speed footwork, no rushing.", "time": "5:00"},
-    {"name": "Game-spot threes", "detail": "Threes from your real game spots only: 2 makes per spot. See the ball go through the net.", "time": "4:00"},
-    {"name": "Touch finishes", "detail": "Easy layups both hands, a few floaters — no contact, no jumping max. Just feel.", "time": "3:00"},
-    {"name": "Free throws", "detail": "10 free throws with your exact game routine. End on a swish.", "time": "3:00"},
-    {"name": "Visualization", "detail": "Stand at half-court, close your eyes, and picture 3 successful plays from tonight's game.", "time": "2:00"}
+    {
+      "name": "Form shooting",
+      "detail": "Easy one-hand form shots close to the rim: 10 makes. Loose, relaxed, find your touch.",
+      "time": "3:00"
+    },
+    {
+      "name": "Spot shooting",
+      "detail": "Midrange spots you will shoot tonight: 3 makes per spot, game-speed footwork, no rushing.",
+      "time": "5:00"
+    },
+    {
+      "name": "Game-spot threes",
+      "detail": "Threes from your real game spots only: 2 makes per spot. See the ball go through the net.",
+      "time": "4:00"
+    },
+    {
+      "name": "Touch finishes",
+      "detail": "Easy layups both hands, a few floaters — no contact, no jumping max. Just feel.",
+      "time": "3:00"
+    },
+    {
+      "name": "Free throws",
+      "detail": "10 free throws with your exact game routine. End on a swish.",
+      "time": "3:00"
+    },
+    {
+      "name": "Visualization",
+      "detail": "Stand at half-court, close your eyes, and picture 3 successful plays from tonight's game.",
+      "time": "2:00"
+    }
   ],
   "tips": [
     "Game day is about confidence, not conditioning — if your legs feel heavy, you did too much.",
@@ -22,9 +51,9 @@
     "Stay off your feet after the workout — save your legs for tip-off."
   ],
   "dateUpdated": "2026-10-06",
-  "vi":   {
-    "title": "Buổi Tập Ngày Thi Đấu",
-    "description": "Buổi tune-up nhẹ 20 phút ngày thi đấu: ném đúng nhịp, dứt điểm chạm nhẹ và ném phạt — mài cảm giác mà không làm mỏi chân.",
+  "vi": {
+    "title": "Buổi tập ngày thi đấu",
+    "description": "Bài khởi động nhẹ 20 phút ngày thi đấu: ném đúng nhịp, dứt điểm chạm nhẹ và ném phạt — mài cảm giác tay mà không làm mỏi chân.",
     "focus": [
       "Ném rổ",
       "Dứt điểm"
@@ -34,41 +63,41 @@
     ],
     "items": [
       {
-        "name": "Form shooting",
-        "detail": "Ném form một tay nhẹ nhàng gần rổ: vào 10 quả. Thả lỏng, tìm cảm giác.",
+        "name": "Ném form",
+        "detail": "Ném form một tay nhẹ nhàng sát rổ: vào 10 quả. Thả lỏng toàn thân, tìm cảm giác tay.",
         "time": "3:00"
       },
       {
         "name": "Ném theo điểm",
-        "detail": "Các điểm midrange bạn sẽ ném tối nay: mỗi điểm vào 3 quả, footwork tốc độ trận đấu, không vội.",
+        "detail": "Các điểm midrange sẽ ném tối nay: mỗi điểm vào 3 quả, bộ chân đúng tốc độ trận đấu, không vội vàng.",
         "time": "5:00"
       },
       {
-        "name": "3 điểm đúng vị trí",
-        "detail": "Chỉ ném 3 điểm từ những vị trí thật trong trận của bạn: mỗi điểm vào 2 quả. Nhìn bóng đi qua lưới.",
+        "name": "Ném 3 điểm đúng vị trí",
+        "detail": "Chỉ ném 3 điểm từ đúng vị trí sẽ đứng trong trận: mỗi điểm vào 2 quả. Nhìn bóng rơi qua lưới.",
         "time": "4:00"
       },
       {
         "name": "Dứt điểm chạm nhẹ",
-        "detail": "Layup nhẹ cả hai tay, vài cú floater — không va chạm, không bật tối đa. Chỉ cảm giác.",
+        "detail": "Layup nhẹ cả hai tay, vài cú floater — không va chạm, không bật hết sức. Chỉ lấy cảm giác.",
         "time": "3:00"
       },
       {
         "name": "Ném phạt",
-        "detail": "10 quả phạt với đúng nghi thức thi đấu của bạn. Kết thúc bằng một cú swish.",
+        "detail": "10 quả ném phạt đúng nghi thức thi đấu. Kết thúc bằng một cú swish.",
         "time": "3:00"
       },
       {
         "name": "Hình dung",
-        "detail": "Đứng ở giữa sân, nhắm mắt và hình dung 3 tình huống thành công trong trận tối nay.",
+        "detail": "Đứng giữa sân, nhắm mắt, hình dung 3 tình huống thành công trong trận tối nay.",
         "time": "2:00"
       }
     ],
     "tips": [
-      "Ngày thi đấu là về sự tự tin, không phải thể lực — nếu chân nặng, bạn đã tập quá nhiều.",
-      "Chỉ ném từ những điểm bạn thực sự sẽ có trong trận tối nay.",
-      "Kết thúc mọi khối ném bằng một lần vào. Lượt cuối là thứ não bạn nhớ.",
-      "Hạn chế đứng sau buổi tập — giữ chân cho giờ khai cuộc."
+      "Ngày thi đấu cần tự tin, không cần thể lực — chân nặng nghĩa là tập quá tay.",
+      "Chỉ ném từ những điểm thực sự sẽ đứng trong trận tối nay.",
+      "Kết thúc mọi khối ném bằng một quả vào. Lượt cuối cùng là thứ não ghi nhớ.",
+      "Xong buổi tập thì nghỉ chân — giữ sức cho giờ bóng lên."
     ]
   }
 }

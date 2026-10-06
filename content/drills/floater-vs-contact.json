@@ -66,48 +66,48 @@
   ],
   "dateUpdated": "2026-10-06",
   "vi": {
-    "title": "Floater Trước Va Chạm",
-    "description": "Dứt điểm qua tay chắn: đâm vào đệm, chịu va chạm bằng một hoặc hai chân rồi float bóng qua người chắn từ 6 đến 12 feet.",
-    "goal": "Phát triển cú floater mềm, vòng cung cao để ghi điểm qua help defender ngay cả sau khi chịu va chạm.",
-    "setup": [
-      "Người cầm đệm đứng ở vòng charge; người dẫn bắt đầu ở wing với bóng.",
-      "Đánh dấu các điểm floater ở 6, 9 và 12 feet.",
-      "Người dẫn 1-không vào đệm rồi dứt điểm."
-    ],
-    "instructions": [
-      {
-        "title": "Chịu đệm, floater một chân",
-        "detail": "Đâm vào, chịu cú húc đệm bằng vai rồi float bóng một chân qua help defender."
-      },
-      {
-        "title": "Floater hai chân",
-        "detail": "Jump-stop vào va chạm, giữ thăng bằng hai chân rồi ném floater thẳng lên."
-      },
-      {
-        "title": "Floater chân trong",
-        "detail": "Dứt điểm bằng chân trong để đổi nhịp mà tay chắn không ngờ."
-      },
-      {
-        "title": "Chỉ tiêu",
-        "detail": "5 cú trúng mỗi cự ly trong ba cự ly rồi đổi vai."
-      }
-    ],
     "coachingPoints": [
       "Vòng cung cao — floater phải rơi xuống rổ, không phải bay thẳng vào rổ.",
       "Chịu va chạm bằng vai phụ và giữ bóng cao.",
-      "Quyết định floater sớm; quyết định muộn dễ thành lỗi tấn công."
+      "Quyết định ném floater sớm; quyết định muộn dễ thành lỗi tấn công."
     ],
     "commonMistakes": [
-      "Nhảy thẳng vào ngực hậu vệ — hơi lách để tạo góc.",
-      "Ném bẹt khi mệt."
+      "Nhảy thẳng vào ngực cầu thủ phòng thủ — hơi lách để tạo góc.",
+      "Ném bẹt khi đã mệt."
     ],
-    "progression": "Cho người cầm đệm giơ tay chắn sau cú húc.",
-    "regression": "Bỏ đệm ra, luyện cảm giác floater trước.",
-    "gameApplication": "Help defender xóa sổ các pha layup — floater là cú ném giúp các hậu vệ nhỏ vẫn ghi điểm trong vùng paint của các 'tòa tháp'.",
-    "players": "2",
+    "description": "Dứt điểm qua tay chắn: đâm vào đệm, chịu va chạm bằng một hoặc hai chân rồi float bóng qua người tranh từ cự ly 1,8m đến 3,6m.",
     "equipment": [
       "Bóng rổ",
       "Đệm chắn"
-    ]
+    ],
+    "gameApplication": "Cầu thủ phòng thủ hỗ trợ xóa sổ các pha layup — floater là cú ném giúp các hậu vệ nhỏ vẫn ghi điểm giữa vòng vây cầu thủ cao to.",
+    "goal": "Phát triển cú floater mềm, vòng cung cao để ghi điểm qua cầu thủ phòng thủ hỗ trợ ngay cả sau khi chịu va chạm lúc đột phá.",
+    "instructions": [
+      {
+        "detail": "Đột phá vào, chịu cú húc đệm bằng vai rồi float bóng một chân qua cầu thủ hỗ trợ.",
+        "title": "Chịu húc, floater một chân"
+      },
+      {
+        "detail": "Jump stop vào va chạm, giữ thăng bằng trên hai chân rồi ném floater thẳng lên.",
+        "title": "Floater mạnh hai chân"
+      },
+      {
+        "detail": "Dứt điểm bằng chân trong để đổi nhịp mà người block không ngờ tới.",
+        "title": "Floater chân trong"
+      },
+      {
+        "detail": "5 lần ghi điểm ở mỗi cự ly trong ba cự ly rồi đổi vai.",
+        "title": "Chỉ tiêu ghi điểm"
+      }
+    ],
+    "players": "2",
+    "progression": "Cho người cầm đệm giơ tay tranh sau cú húc.",
+    "regression": "Bỏ đệm ra, luyện cảm giác floater trước.",
+    "setup": [
+      "Người cầm đệm đứng ở vòng charge; người đột phá bắt đầu ở cánh với bóng.",
+      "Đánh dấu các điểm floater bằng băng dính ở 1,8m, 2,7m và 3,6m.",
+      "Người đột phá 1-0 đâm vào đệm rồi dứt điểm."
+    ],
+    "title": "Floater trước va chạm"
   }
 }

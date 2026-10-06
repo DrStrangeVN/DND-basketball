@@ -68,64 +68,64 @@
     "big man"
   ],
   "title": "Jump Hook",
+  "vi": {
+    "coachingPoints": [
+      "Thả bóng ở đỉnh cú nhảy, đừng thả trên đường lên — kiên nhẫn hơn vội vàng.",
+      "Hook là cú ném một tay; tay còn lại là lá chắn, không phải tay ném thứ hai.",
+      "Ngắm góc trên của hình chữ nhật trên bảng từ phía bên — bảng rổ là bạn.",
+      "Nhảy thẳng lên, đừng nhảy vào người phòng thủ — lên thẳng tránh lỗi tấn công.",
+      "Ném lần nào cũng một kiểu; sức mạnh của hook nằm ở tính lặp lại."
+    ],
+    "commonMistakes": [
+      "Quăng bóng ngang tay — hook cần vòng cung để rơi mềm.",
+      "Nhảy ngang vào người phòng thủ — lỗi tấn công; nhảy thẳng lên.",
+      "Hạ bóng xuống để lấy đà — giữ bóng cao từ lúc bắt tới lúc thả.",
+      "Ngắm thẳng rổ từ phía bên — dùng bảng; góc ném đòi hỏi vậy."
+    ],
+    "description": "Cú ném post không thể block: quét bóng cao qua vai, thả bóng mềm bằng một tay.",
+    "gameSituations": [
+      "Post-up một đấu một khi đối phương áp sát — hook qua đầu họ.",
+      "Gặp chuyên gia block — thả bóng từ vai, ngoài tầm với của họ.",
+      "Sau drop step khóa cầu thủ phòng thủ — hook là cú kết thúc tự nhiên."
+    ],
+    "howTo": [
+      {
+        "detail": "Bắt bóng ở block, mặt hướng đường biên (hook tay phải thì vai trái hướng rổ). Kẹp bóng sát cằm, đứng trụ vững.",
+        "title": "Đứng trụ, mặt hướng đường biên"
+      },
+      {
+        "detail": "Một nhịp dẫn về phía giữa hoặc đường biên để tạo khoảng trống ném — thường một cú dẫn mạnh là đủ.",
+        "title": "Một nhịp dẫn tới vị trí"
+      },
+      {
+        "detail": "Trụ cả hai chân, nhảy thẳng lên. Khi lên, quét bóng lên bằng một tay theo vòng cung rộng — khuỷu cong, bóng đi qua đầu chứ không ngang người.",
+        "title": "Nhảy lên, quét hook"
+      },
+      {
+        "detail": "Ở đỉnh cú nhảy, thả bóng bằng cổ tay mềm về góc trên của bảng rổ. Để bóng rơi chạm bảng — bảng hấp thụ góc ném.",
+        "title": "Thả bóng chạm bảng"
+      }
+    ],
+    "tags": [
+      "đánh post",
+      "ném hook",
+      "kết thúc rổ",
+      "big"
+    ],
+    "title": "Cú ném jump hook",
+    "whatIsIt": [
+      "Jump hook là cú ném post bằng một tay, thả bóng theo vòng cung quét qua vai người ném — vũ khí kinh điển của big. Cú skyhook của Kareem Abdul-Jabbar là cú ném nổi tiếng nhất lịch sử bóng rổ, và có lý do: nó gần như không thể block.",
+      "Kỹ thuật đơn giản và lặp lại được: nhảy thẳng lên, quét bóng lên cao, thả bóng mềm. Vì điểm thả bóng cao và xa người cầu thủ phòng thủ, ngay cả những chuyên gia block cũng khó contest."
+    ],
+    "whyItMatters": [
+      "Mọi cầu thủ post đều cần một cú ném tung ra được trước bất kỳ ai. Jump hook là cú ném đó — điểm thả cao, chạm bóng mềm, lần nào cũng một động tác. Nó còn là nền tảng của các đòn phản ở post: khi đối phương bắt đầu nhảy theo hook, đòn up-and-under mở ra."
+    ]
+  },
   "whatIsIt": [
     "The jump hook is a one-handed post shot released in a sweeping arc over the shooter's shoulder — the classic big-man weapon. Kareem Abdul-Jabbar's skyhook is the most famous shot in basketball history for a reason: it's nearly unblockable.",
     "The mechanics are simple and repeatable: jump straight up, sweep the ball high, release soft. Because the release point is high and away from the defender's body, even elite shot blockers struggle to contest it."
   ],
   "whyItMatters": [
     "Every post player needs a shot they can get off against anyone. The jump hook is that shot — high release, soft touch, same motion every time. It's also the foundation of post counters: once defenders start jumping at your hook, the up-and-under opens up."
-  ],
-  "vi": {
-    "title": "Ném Hook Bật Nhảy (Jump Hook)",
-    "description": "Cú ném post không thể chặn: quét bóng cao qua vai với cú thả bóng mềm bằng một tay.",
-    "whatIsIt": [
-      "Jump hook là cú ném một tay trong khu vực post, bóng bay theo đường vòng cung rộng qua vai người ném — vũ khí kinh điển của các big man. Cú skyhook của Kareem Abdul-Jabbar là cú ném nổi tiếng nhất lịch sử bóng rổ, và có lý do của nó: gần như không thể chặn được.",
-      "Kỹ thuật rất đơn giản và dễ lặp lại: bật nhảy thẳng lên, quét bóng lên cao, thả bóng mềm. Vì điểm thả bóng cao và xa người hậu vệ, ngay cả những tay chặn bóng giỏi nhất cũng khó tranh chấp được."
-    ],
-    "whyItMatters": [
-      "Mọi cầu thủ đánh post đều cần một cú ném mà họ có thể tung ra trước bất kỳ ai. Jump hook chính là cú ném đó — điểm thả bóng cao, chạm bóng mềm, động tác giống nhau mỗi lần. Nó cũng là nền tảng của các đòn đánh lừa trong post: khi hậu vệ bắt đầu nhảy lên đón cú hook của bạn, cú up-and-under sẽ mở ra."
-    ],
-    "howTo": [
-      {
-        "title": "Đặt vị trí, mặt hướng đường biên cuối",
-        "detail": "Nhận bóng ở vị trí block và quay mặt về phía đường biên cuối (với cú hook tay phải, vai trái của bạn hướng về phía rổ). Giữ bóng sát cằm và thiết lập vị trí vững chắc."
-      },
-      {
-        "title": "Một cú dẫn bóng đến điểm ném",
-        "detail": "Dẫn một bóng về phía giữa hoặc phía đường biên cuối để tạo khoảng trống ném — thường chỉ cần một cú dẫn bóng mạnh là đủ."
-      },
-      {
-        "title": "Bật nhảy và quét bóng hook",
-        "detail": "Dậm hai chân và bật thẳng lên. Khi lên, quét bóng lên bằng một tay theo đường vòng cung rộng — khuỷu tay cong, bóng đi qua phía trên đầu, không quét ngang người."
-      },
-      {
-        "title": "Thả bóng qua bảng",
-        "detail": "Ở đỉnh cú nhảy, thả bóng bằng cổ tay mềm về phía góc trên của bảng rổ. Để bóng rơi qua bảng — bảng rổ sẽ hấp thụ góc ném cho bạn."
-      }
-    ],
-    "coachingPoints": [
-      "Thả bóng ở đỉnh cú nhảy, không phải lúc đang lên — kiên nhẫn thắng sự vội vàng.",
-      "Cú hook là cú ném một tay; tay còn lại là tấm khiên, không phải tay ném thứ hai.",
-      "Nhắm vào góc trên của hình chữ nhật trên bảng rổ khi ném từ bên — bảng rổ là bạn của bạn.",
-      "Bật nhảy thẳng lên, không lao vào người hậu vệ — bật nhảy theo chiều dọc giúp tránh lỗi tấn công.",
-      "Ném giống hệt nhau mỗi lần; sức mạnh của cú hook nằm ở khả năng lặp lại."
-    ],
-    "commonMistakes": [
-      "Ném bóng bẹt sang ngang — cú hook cần độ cong để rơi mềm xuống rổ.",
-      "Nhảy xiên vào người hậu vệ — lỗi tấn công; hãy bật thẳng lên.",
-      "Hạ bóng xuống thấp để lấy đà — giữ bóng cao từ lúc nhận đến lúc thả.",
-      "Nhắm thẳng vào rổ khi ném từ bên — hãy dùng bảng; góc ném đòi hỏi điều đó."
-    ],
-    "gameSituations": [
-      "Đánh post một-chọi-một khi hậu vệ áp sát người — ném hook qua đầu họ.",
-      "Trước các tay chặn bóng — thả bóng từ vai, ngoài tầm với của họ.",
-      "Sau cú drop step đã khóa hậu vệ — cú hook là cách kết thúc tự nhiên."
-    ],
-    "tags": [
-      "đánh post",
-      "ném hook",
-      "kết thúc",
-      "trung phong"
-    ]
-  }
+  ]
 }

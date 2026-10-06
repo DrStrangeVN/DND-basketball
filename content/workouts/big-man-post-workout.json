@@ -1,1 +1,131 @@
-{"dateUpdated":"2026-10-06","description":"A 40-minute big-man session: post moves and counters, rim running, short-roll reads, rebounding wars, and the conditioning a modern big needs.","durationMin":40,"equipment":["Basketball","Cones"],"focus":["Post Play","Finishing","Rebounding","Pick & Roll","Conditioning"],"id":"big-man-post-workout","items":[{"detail":"Mikan drill: 20 makes alternating hands, then reverse Mikan: 10 makes. Touch the glass softly — big men live on touch.","name":"Mikan and reverse Mikan","time":"4:00"},{"detail":"Catch on the block: drop step baseline, drop step middle, jump hook over either shoulder. 5 makes per move, both blocks.","name":"Drop step and jump hook series","time":"6:00"},{"detail":"Up-and-under, step-through, and face-up jumper as counters. Call your counter before the catch — decide early, move late.","name":"Up-and-under and counters","time":"6:00"},{"detail":"Sprint rim-to-rim 6 times, catching and finishing: dunks, layups, and one power finish through contact (imaginary).","name":"Rim running sprints","time":"5:00"},{"detail":"Short roll: catch at the foul line, read — shoot the jumper, hit the corner, or drive the closeout. 5 reps of each read.","name":"Short-roll decisions","time":"6:00"},{"detail":"Coach or partner shoots, you box out and rebound: 10 defensive boards, then 10 offensive tip-ins. Every rebound chinned.","name":"Rebounding battle","time":"5:00"},{"detail":"Big men shoot free throws too: 20 makes. Then 10 more with a sprint between every 5 — tired legs, calm mind.","name":"Free throws for bigs","time":"4:00"},{"detail":"Lane slides baseline to baseline 4 times, then 4 full-court sprints. Rest 30 seconds between. Finish like a pro.","name":"Lane slides and sprints","time":"4:00"}],"level":"intermediate","slug":"big-man-post-workout","tips":["Touch beats power: the softest big man in the gym scores the most.","Call your move before you catch it — post scoring is decided early.","Rebound with two hands and chin it every single time, even in drills.","Run the floor hard in every drill; rim running is a skill you practice."],"title":"Big Man Post Workout","vi":{"description":"Buổi tập 40 phút cho big man: động tác post và counter, rim running, đọc short-roll, tranh bóng bật bảng và thể lực của big man hiện đại.","equipment":["Bóng rổ","Cọc tiêu"],"focus":["Đánh post","Dứt điểm","Tranh bóng bật bảng","Pick & Roll","Thể lực"],"items":[{"detail":"Bài Mikan: vào 20 quả đổi tay, rồi Mikan ngược: vào 10 quả. Chạm bảng nhẹ nhàng — big man sống bằng cảm giác tay.","name":"Mikan và Mikan ngược","time":"4:00"},{"detail":"Bắt bóng ở block: drop step đường biên, drop step giữa, jump hook cả hai vai. Mỗi động tác vào 5 quả, cả hai block.","name":"Chuỗi drop step và jump hook","time":"6:00"},{"detail":"Up-and-under, step-through và ném face-up làm counter. Gọi tên counter trước khi bắt bóng — quyết định sớm, ra đòn muộn.","name":"Up-and-under và counter","time":"6:00"},{"detail":"Chạy nước rút rổ-này-sang-rổ-kia 6 lượt, bắt bóng dứt điểm: dunk, layup và một pha dứt điểm mạnh qua va chạm (tưởng tượng).","name":"Chạy rim nước rút","time":"5:00"},{"detail":"Short roll: bắt bóng ở vạch ném phạt, đọc tình huống — ném jumper, chuyền ra góc, hoặc đột phá qua closeout. Mỗi read 5 lượt.","name":"Quyết định short-roll","time":"6:00"},{"detail":"HLV hoặc đồng đội ném, bạn box out và bắt bóng: 10 bóng phòng thủ, rồi 10 pha tip-in tấn công. Mỗi quả đều kẹp cằm.","name":"Tranh bóng quyết liệt","time":"5:00"},{"detail":"Big man cũng phải ném phạt: vào 20 quả. Rồi thêm 10 quả, chạy nước rút giữa mỗi 5 quả — chân mệt, đầu tỉnh.","name":"Ném phạt cho big man","time":"4:00"},{"detail":"Trượt phòng thủ hết sân 4 lượt, rồi 4 lượt chạy nước rút hết sân. Nghỉ 30 giây giữa các lượt. Kết thúc như dân chuyên.","name":"Trượt ngang sân và chạy nước rút","time":"4:00"}],"tips":["Cảm giác tay thắng sức mạnh: big man mềm tay nhất sân ghi nhiều điểm nhất.","Gọi tên động tác trước khi bắt bóng — ghi điểm post được quyết định từ sớm.","Bắt bóng hai tay và kẹp cằm mọi lần, kể cả lúc tập.","Chạy sân hết mình trong mọi bài; rim running là kỹ năng phải luyện."],"title":"Buổi Tập Post Cho Big Man"}}
+{
+  "dateUpdated": "2026-10-06",
+  "description": "A 40-minute big-man session: post moves and counters, rim running, short-roll reads, rebounding wars, and the conditioning a modern big needs.",
+  "durationMin": 40,
+  "equipment": [
+    "Basketball",
+    "Cones"
+  ],
+  "focus": [
+    "Post Play",
+    "Finishing",
+    "Rebounding",
+    "Pick & Roll",
+    "Conditioning"
+  ],
+  "id": "big-man-post-workout",
+  "items": [
+    {
+      "detail": "Mikan drill: 20 makes alternating hands, then reverse Mikan: 10 makes. Touch the glass softly — big men live on touch.",
+      "name": "Mikan and reverse Mikan",
+      "time": "4:00"
+    },
+    {
+      "detail": "Catch on the block: drop step baseline, drop step middle, jump hook over either shoulder. 5 makes per move, both blocks.",
+      "name": "Drop step and jump hook series",
+      "time": "6:00"
+    },
+    {
+      "detail": "Up-and-under, step-through, and face-up jumper as counters. Call your counter before the catch — decide early, move late.",
+      "name": "Up-and-under and counters",
+      "time": "6:00"
+    },
+    {
+      "detail": "Sprint rim-to-rim 6 times, catching and finishing: dunks, layups, and one power finish through contact (imaginary).",
+      "name": "Rim running sprints",
+      "time": "5:00"
+    },
+    {
+      "detail": "Short roll: catch at the foul line, read — shoot the jumper, hit the corner, or drive the closeout. 5 reps of each read.",
+      "name": "Short-roll decisions",
+      "time": "6:00"
+    },
+    {
+      "detail": "Coach or partner shoots, you box out and rebound: 10 defensive boards, then 10 offensive tip-ins. Every rebound chinned.",
+      "name": "Rebounding battle",
+      "time": "5:00"
+    },
+    {
+      "detail": "Big men shoot free throws too: 20 makes. Then 10 more with a sprint between every 5 — tired legs, calm mind.",
+      "name": "Free throws for bigs",
+      "time": "4:00"
+    },
+    {
+      "detail": "Lane slides baseline to baseline 4 times, then 4 full-court sprints. Rest 30 seconds between. Finish like a pro.",
+      "name": "Lane slides and sprints",
+      "time": "4:00"
+    }
+  ],
+  "level": "intermediate",
+  "slug": "big-man-post-workout",
+  "tips": [
+    "Touch beats power: the softest big man in the gym scores the most.",
+    "Call your move before you catch it — post scoring is decided early.",
+    "Rebound with two hands and chin it every single time, even in drills.",
+    "Run the floor hard in every drill; rim running is a skill you practice."
+  ],
+  "title": "Big Man Post Workout",
+  "vi": {
+    "title": "Giáo án post cho big man",
+    "description": "Buổi tập 40 phút cho big man: động tác post và đòn phản, rim running, đọc short-roll, tranh bóng bật bảng và thể lực của big man hiện đại.",
+    "focus": [
+      "Đánh post",
+      "Dứt điểm",
+      "Tranh bóng bật bảng",
+      "Pick & Roll",
+      "Thể lực"
+    ],
+    "equipment": [
+      "Bóng rổ",
+      "Cọc tiêu"
+    ],
+    "items": [
+      {
+        "name": "Mikan và Mikan ngược",
+        "detail": "Bài Mikan: vào 20 quả đổi tay, rồi Mikan ngược: vào 10 quả. Chạm bảng thật nhẹ — big man sống bằng cảm giác tay.",
+        "time": "4:00"
+      },
+      {
+        "name": "Chuỗi drop step và jump hook",
+        "detail": "Nhận bóng ở block: drop step ra đường biên, drop step vào giữa, jump hook cả hai vai. Mỗi động tác vào 5 quả, cả hai block.",
+        "time": "6:00"
+      },
+      {
+        "name": "Up-and-under và đòn phản",
+        "detail": "Up-and-under, step-through và ném face-up làm đòn phản. Gọi tên đòn phản trước khi nhận bóng — quyết định sớm, ra đòn muộn.",
+        "time": "6:00"
+      },
+      {
+        "name": "Sprint rim-to-rim",
+        "detail": "Sprint rổ này sang rổ kia 6 lượt, nhận bóng dứt điểm: úp rổ, layup và một pha dứt điểm mạnh qua va chạm (tưởng tượng).",
+        "time": "5:00"
+      },
+      {
+        "name": "Đọc short-roll",
+        "detail": "Short roll: nhận bóng ở vạch ném phạt, đọc tình huống — ném jumper, chuyền ra góc, hoặc đột phá qua closeout. Mỗi phương án 5 lượt.",
+        "time": "6:00"
+      },
+      {
+        "name": "Tranh bóng quyết liệt",
+        "detail": "HLV hoặc đồng đội ném, mình box out rồi tranh bóng: 10 bóng phòng thủ, rồi 10 pha tip-in tấn công. Quả nào cũng kẹp cằm.",
+        "time": "5:00"
+      },
+      {
+        "name": "Ném phạt cho big man",
+        "detail": "Big man cũng phải ném phạt: vào 20 quả. Rồi thêm 10 quả, sprint giữa mỗi 5 quả — chân mệt, đầu phải tỉnh.",
+        "time": "4:00"
+      },
+      {
+        "name": "Trượt ngang sân và sprint",
+        "detail": "Trượt phòng thủ từ đường biên này sang đường biên kia 4 lượt, rồi 4 lượt sprint hết sân. Nghỉ 30 giây giữa các lượt. Kết thúc như dân chuyên.",
+        "time": "4:00"
+      }
+    ],
+    "tips": [
+      "Cảm giác tay thắng sức mạnh: big man có touch mềm nhất sân là người ghi nhiều điểm nhất.",
+      "Gọi tên động tác trước khi nhận bóng — điểm số ở post được quyết định từ sớm.",
+      "Tranh bóng bằng hai tay, kẹp cằm mọi lần, kể cả lúc tập.",
+      "Chạy hết sân trong mọi bài tập; rim running là kỹ năng phải luyện."
+    ]
+  }
+}

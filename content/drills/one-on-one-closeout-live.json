@@ -62,32 +62,6 @@
   ],
   "dateUpdated": "2026-10-06",
   "vi": {
-    "title": "Closeout Live 1v1",
-    "description": "Closeout rồi kèm live: sprint từ paint ra contest pha bắt bóng ở wing rồi chơi 1v1 live — gần với phòng thủ trận thật nhất.",
-    "goal": "Biến closeout thành pha chặn đứng bằng cách tới nơi thăng bằng và kèm được động tác đầu tiên.",
-    "setup": [
-      "Hậu vệ bắt đầu dưới rổ; người tấn công ở wing với bóng.",
-      "HLV hoặc đồng đội chuyền ra wing để bắt đầu.",
-      "Chơi chạm 3 cú ném trúng rồi đổi vai."
-    ],
-    "instructions": [
-      {
-        "title": "Sprint rồi chém chân",
-        "detail": "Khi bóng chuyền, sprint ra, chém chân, tới nơi ở tư thế thấp tay cao — không lao qua."
-      },
-      {
-        "title": "Kèm động tác đầu tiên",
-        "detail": "Giữ thấp người qua chuỗi jab; động tác đầu là giả, động tác thứ hai mới thật."
-      },
-      {
-        "title": "Hoàn tất pha bóng",
-        "detail": "Contest cú ném không phạm lỗi rồi box-out — pha thủ chưa xong cho tới khi có rebound."
-      },
-      {
-        "title": "Xoay vị trí",
-        "detail": "Đổi điểm xuất phát: wing, đỉnh, góc — góc closeout thay đổi mọi thứ."
-      }
-    ],
     "coachingPoints": [
       "Tới nơi thấp người — closeout cao là lời mời đột phá.",
       "Contest bằng tay cao, slide bằng chân thấp.",
@@ -97,12 +71,38 @@
       "Với tay ở cú jab đầu — kỷ luật hơn cờ bạc.",
       "Phạm lỗi người ném vì lấn không gian tiếp đất."
     ],
-    "progression": "Tấn công tối đa 2 nhịp đập — ghi nhanh hoặc không ghi.",
-    "regression": "Hậu vệ bắt đầu gần hơn (vạch ném phạt) để rút ngắn closeout.",
-    "gameApplication": "Trận đấu thắng nhờ closeout — hậu vệ tới nơi thăng bằng biến cú ném trống thành cú ném bị contest.",
-    "players": "2",
+    "description": "Closeout rồi kèm live: sprint từ khu vực dưới rổ ra contest pha bắt bóng ở cánh, rồi chơi 1v1 live — gần với phòng thủ trận thật nhất.",
     "equipment": [
       "Bóng rổ"
-    ]
+    ],
+    "gameApplication": "Trận đấu thắng nhờ closeout — cầu thủ phòng thủ tới nơi thăng bằng biến cú ném trống thành cú ném bị contest.",
+    "goal": "Biến closeout thành pha chặn đứng bằng cách tới nơi thăng bằng và kèm được động tác đầu tiên.",
+    "instructions": [
+      {
+        "detail": "Khi bóng chuyền, sprint ra, chém chân, tới nơi ở tư thế thấp tay cao — không lao qua.",
+        "title": "Sprint rồi chém chân"
+      },
+      {
+        "detail": "Giữ thấp người qua chuỗi jab; động tác đầu là giả, động tác thứ hai mới thật.",
+        "title": "Kèm động tác đầu tiên"
+      },
+      {
+        "detail": "Contest cú ném không phạm lỗi rồi box out — pha thủ chưa xong tới khi có rebound.",
+        "title": "Hoàn tất pha bóng"
+      },
+      {
+        "detail": "Đổi điểm xuất phát: cánh, đỉnh, góc — góc closeout thay đổi mọi thứ.",
+        "title": "Xoay vị trí"
+      }
+    ],
+    "players": "2",
+    "progression": "Tấn công tối đa 2 nhịp rê — ghi nhanh hoặc không ghi.",
+    "regression": "Cầu thủ phòng thủ bắt đầu gần hơn (vạch ném phạt) để rút ngắn closeout.",
+    "setup": [
+      "Cầu thủ phòng thủ bắt đầu dưới rổ; cầu thủ tấn công ở cánh với bóng.",
+      "HLV hoặc đồng đội chuyền ra cánh để bắt đầu.",
+      "Chơi chạm 3 lần ghi điểm rồi đổi vai."
+    ],
+    "title": "Closeout live 1v1 (live 1v1 closeouts)"
   }
 }

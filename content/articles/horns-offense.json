@@ -1,57 +1,10 @@
 {
-  "id": "horns-offense",
-  "slug": "horns-offense",
-  "title": "Horns Offense",
-  "description": "The versatile elbow alignment — two bigs up top, endless entries, screens, and counters from one look.",
-  "hub": "tactics",
-  "subcategory": "offensive-actions",
-  "level": "intermediate",
   "ages": [
     "U14",
     "U16",
     "U18",
     "Adult",
     "Competitive"
-  ],
-  "positions": [
-    "ALL"
-  ],
-  "tags": [
-    "horns",
-    "alignment",
-    "entries",
-    "team offense"
-  ],
-  "readTime": 6,
-  "whatIsIt": [
-    "Horns is an offensive alignment, not a single play: the ball handler up top, a big at each elbow, and wings in the corners. From this one look, teams can run ball screens either side, elbow entries, flex cuts, flares, DHOs, and Spain PNR — all without changing the formation.",
-    "Its popularity comes from optionality. The defense sees the same alignment every time but never knows what's coming: a PNR left, a PNR right, a post entry, or a shooter action. That uncertainty is the offense.",
-    "Horns is a favorite of coaches at every level because it is easy to teach (one alignment, clear spots) but hard to scout (many options)."
-  ],
-  "whyItMatters": [
-    "Most offenses telegraph their intentions by their alignment. Horns hides them — the same set produces ten different attacks. For a team, that means less to memorize and more to choose from; for a defense, it means guessing on every possession."
-  ],
-  "howTo": [
-    {
-      "title": "Set the exact spots",
-      "detail": "Ball up top, bigs on the elbows (free-throw line extended), wings deep in the corners. Precision matters — sloppy Horns is just a crowd."
-    },
-    {
-      "title": "Pick your entry",
-      "detail": "The simplest entries: ball screen from either elbow, elbow catch and handoff, or a wing entry into flex action. Call the entry, not the whole play."
-    },
-    {
-      "title": "Use both bigs",
-      "detail": "The non-screening big is the secret weapon: re-screen, dive, pop, or flash to the high post. One-big Horns is just a PNR."
-    },
-    {
-      "title": "Flow to the second side",
-      "detail": "If the first action is covered, swing the ball and attack from the other elbow. The defense shifted; punish the new gap."
-    },
-    {
-      "title": "Keep the corners filled",
-      "detail": "Wings stay home until the action commits. Their shooting gravity is what keeps the paint open for everything else."
-    }
   ],
   "coachingPoints": [
     "Teach the alignment before any plays — players must know their spots cold.",
@@ -64,13 +17,18 @@
     "Running the same entry every time — the alignment's power is its variety.",
     "Wings drifting in early and letting help defenders clog the paint."
   ],
-  "gameSituations": [
-    "ATO plays and late-game, when one alignment with many options is ideal.",
-    "Teams with two skilled bigs who can screen, pop, and decide.",
-    "Against switching defenses, where the second big punishes every switch."
-  ],
+  "dateUpdated": "2026-10-06",
+  "description": "The versatile elbow alignment — two bigs up top, endless entries, screens, and counters from one look.",
   "diagram": {
-    "title": "Horns alignment: two elbows, corners filled",
+    "ball": "O1",
+    "defense": [
+      {
+        "label": "X1",
+        "x": 50,
+        "y": 72
+      }
+    ],
+    "moves": [],
     "offense": [
       {
         "label": "O1",
@@ -98,80 +56,122 @@
         "y": 30
       }
     ],
-    "defense": [
-      {
-        "label": "X1",
-        "x": 50,
-        "y": 72
-      }
-    ],
-    "ball": "O1",
-    "screens": [],
-    "moves": [],
     "passes": [],
-    "shots": []
+    "screens": [],
+    "shots": [],
+    "title": "Horns alignment: two elbows, corners filled"
   },
+  "gameSituations": [
+    "ATO plays and late-game, when one alignment with many options is ideal.",
+    "Teams with two skilled bigs who can screen, pop, and decide.",
+    "Against switching defenses, where the second big punishes every switch."
+  ],
+  "howTo": [
+    {
+      "detail": "Ball up top, bigs on the elbows (free-throw line extended), wings deep in the corners. Precision matters — sloppy Horns is just a crowd.",
+      "title": "Set the exact spots"
+    },
+    {
+      "detail": "The simplest entries: ball screen from either elbow, elbow catch and handoff, or a wing entry into flex action. Call the entry, not the whole play.",
+      "title": "Pick your entry"
+    },
+    {
+      "detail": "The non-screening big is the secret weapon: re-screen, dive, pop, or flash to the high post. One-big Horns is just a PNR.",
+      "title": "Use both bigs"
+    },
+    {
+      "detail": "If the first action is covered, swing the ball and attack from the other elbow. The defense shifted; punish the new gap.",
+      "title": "Flow to the second side"
+    },
+    {
+      "detail": "Wings stay home until the action commits. Their shooting gravity is what keeps the paint open for everything else.",
+      "title": "Keep the corners filled"
+    }
+  ],
+  "hub": "tactics",
+  "id": "horns-offense",
+  "level": "intermediate",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 6,
   "related": [
     "horns-pick-and-roll",
     "motion-offense",
     "pin-down-screen",
     "iverson-cut"
   ],
-  "dateUpdated": "2026-10-06",
+  "slug": "horns-offense",
+  "subcategory": "offensive-actions",
+  "tags": [
+    "horns",
+    "alignment",
+    "entries",
+    "team offense"
+  ],
+  "title": "Horns Offense",
   "vi": {
-    "title": "Tấn Công Horns",
-    "description": "Sơ đồ elbow linh hoạt — hai big ở trên, vô vàn cách triển khai, chắn bóng và đòn phản công từ một đội hình.",
-    "whatIsIt": [
-      "Horns là một sơ đồ tấn công, không phải một bài đánh duy nhất: người dẫn bóng ở trên đỉnh, một big ở mỗi elbow, và các wing ở góc sân. Từ một đội hình này, đội có thể chạy chắn bóng hai bên, đưa bóng vào elbow, cắt flex, flare, DHO, và Spain PNR — tất cả mà không đổi đội hình.",
-      "Sự phổ biến của nó đến từ tính đa dạng lựa chọn. Hàng thủ thấy cùng một sơ đồ mọi lần nhưng không bao giờ biết điều gì sắp tới: PNR trái, PNR phải, đưa bóng vào post, hay động tác cho xạ thủ. Sự bất định đó chính là bài tấn công.",
-      "Horns được các huấn luyện viên mọi cấp độ yêu thích vì dễ dạy (một sơ đồ, vị trí rõ ràng) nhưng khó trinh sát (nhiều lựa chọn)."
+    "coachingPoints": [
+      "Dạy đội hình trước mọi bài đánh — cầu thủ phải thuộc vị trí như cháo.",
+      "Mỗi tuần lắp một cách triển khai; Horns với năm lựa chọn học nửa vời còn tệ hơn một món làm chủ.",
+      "Để hậu vệ dẫn bóng chọn bên — gọi bên cố định nhanh bị bắt bài.",
+      "Big cần biết screen, pop và xử lý short-roll; Horns đòi hỏi ở họ rất nhiều."
     ],
-    "whyItMatters": [
-      "Hầu hết các bài tấn công lộ ý đồ qua sơ đồ. Horns che giấu chúng — cùng một đội hình tạo ra mười đòn tấn công khác nhau. Với đội, nghĩa là ít phải nhớ mà nhiều lựa chọn; với hàng thủ, nghĩa là phải đoán mỗi lần tấn công."
+    "commonMistakes": [
+      "Big đứng quá thấp hoặc quá rộng, phá vỡ hình học của elbow.",
+      "Lần nào cũng chạy một cách triển khai — sức mạnh của đội hình nằm ở sự đa dạng.",
+      "Cánh trôi vào sớm, để cầu thủ trợ giúp bít khu vực dưới rổ."
+    ],
+    "description": "Đội hình elbow linh hoạt — hai big ở trên cao, vô số cách triển khai, screen và đòn phản từ một thế đứng.",
+    "gameSituations": [
+      "Tình huống ATO và cuối trận, khi một đội hình nhiều lựa chọn là lý tưởng.",
+      "Đội có hai big khéo, vừa screen vừa pop vừa quyết định được.",
+      "Gặp hàng thủ hay switch, nơi big thứ hai trừng phạt mọi pha switch."
     ],
     "howTo": [
       {
-        "title": "Đặt đúng vị trí",
-        "detail": "Bóng ở trên đỉnh, các big ở elbow (ngang vạch ném phạt kéo dài), wing sâu trong góc. Độ chính xác quan trọng — Horns cẩu thả chỉ là một đám đông."
+        "detail": "Bóng ở trên đỉnh, big ở hai elbow (ngang đường ném phạt kéo dài), cánh cắm sâu hai góc. Đứng chính xác — Horns cẩu thả chỉ là một đám đông.",
+        "title": "Đứng đúng vị trí"
       },
       {
-        "title": "Chọn cách triển khai",
-        "detail": "Các cách triển khai đơn giản nhất: chắn bóng từ một trong hai elbow, nhận bóng ở elbow rồi handoff, hoặc đưa bóng vào wing để chạy flex. Gọi cách triển khai, không phải cả bài đánh."
+        "detail": "Những cách đơn giản nhất: ball screen từ một trong hai elbow, bắt bóng ở elbow rồi handoff, hoặc đưa bóng ra cánh vào tình huống flex. Gọi cách triển khai, đừng gọi cả bài.",
+        "title": "Chọn cách triển khai"
       },
       {
-        "title": "Dùng cả hai big",
-        "detail": "Big không chắn là vũ khí bí mật: chắn lại (re-screen), lao vào (dive), bật ra (pop), hoặc cắt lên high post. Horns một big chỉ là PNR thường."
+        "detail": "Big không screen là vũ khí bí mật: screen lại, dive, pop, hoặc flash lên high post. Horns một big chỉ là PNR thường.",
+        "title": "Dùng cả hai big"
       },
       {
-        "title": "Chuyển sang phía còn lại",
-        "detail": "Nếu động tác đầu bị khóa, xoay bóng và tấn công từ elbow bên kia. Hàng thủ đã dịch chuyển; hãy trừng phạt khoảng trống mới."
+        "detail": "Tình huống đầu bị bít thì chuyền đảo bóng, tấn công từ elbow còn lại. Hàng thủ vừa dịch chuyển; trừng phạt khoảng trống mới.",
+        "title": "Chảy sang phía thứ hai"
       },
       {
-        "title": "Giữ góc sân có người",
-        "detail": "Wing ở yên vị trí cho đến khi động tác hình thành. Lực hút ném của họ là thứ giữ paint thoáng cho mọi thứ khác."
+        "detail": "Cánh ở yên đến khi tình huống rõ ràng. Sức hút ném của họ là thứ giữ khu vực dưới rổ thông thoáng cho mọi thứ khác.",
+        "title": "Giữ góc luôn có người"
       }
-    ],
-    "coachingPoints": [
-      "Dạy sơ đồ trước mọi bài đánh — cầu thủ phải thuộc vị trí của mình.",
-      "Mỗi tuần lắp một cách triển khai; Horns với năm lựa chọn học dở còn tệ hơn một lựa chọn thành thạo.",
-      "Để hậu vệ dẫn bóng chọn bên — gọi bên cố định nhanh thành dễ đoán.",
-      "Big cần kỹ năng chắn, bật ra, và short-roll; Horns đòi hỏi ở họ rất nhiều."
-    ],
-    "commonMistakes": [
-      "Big đứng quá thấp hoặc quá rộng, phá vỡ hình học elbow.",
-      "Chạy cùng một cách triển khai mọi lần — sức mạnh của sơ đồ nằm ở sự đa dạng.",
-      "Wing trôi vào trong sớm, để hậu vệ hỗ trợ lấp đầy paint."
-    ],
-    "gameSituations": [
-      "Bài ATO và cuối trận, khi một sơ đồ nhiều lựa chọn là lý tưởng.",
-      "Đội có hai big khéo, biết chắn, bật ra và ra quyết định.",
-      "Gặp hàng thủ switch, nơi big thứ hai trừng phạt mọi pha switch."
     ],
     "tags": [
       "horns",
-      "sơ đồ đội hình",
-      "cách triển khai",
-      "tấn công đồng đội"
+      "đội hình",
+      "triển khai bóng",
+      "tấn công"
+    ],
+    "title": "Tấn công Horns",
+    "whatIsIt": [
+      "Horns là một đội hình tấn công, không phải một bài đánh: người cầm bóng ở trên đỉnh, một big ở mỗi vị trí elbow, cánh ở hai góc. Từ một thế đứng này, đội có thể chạy ball screen hai bên, đưa bóng vào elbow, cắt flex, flare, DHO và Spain PNR — mà không cần đổi đội hình.",
+      "Được ưa chuộng vì tính đa năng. Hàng thủ thấy cùng một đội hình mỗi lần nhưng không bao giờ biết điều gì tới: PNR trái, PNR phải, đưa bóng vào post, hay tình huống cho tay ném. Sự bất định đó chính là hàng công.",
+      "Horns là món tủ của HLV ở mọi cấp độ vì dễ dạy (một đội hình, vị trí rõ ràng) nhưng khó trinh sát (quá nhiều lựa chọn)."
+    ],
+    "whyItMatters": [
+      "Hầu hết hàng công tự tố ý đồ qua đội hình. Horns giấu ý đồ — cùng một thế đứng cho ra mười đòn tấn công khác nhau. Với đội bóng, nghĩa là ít phải nhớ mà nhiều lựa chọn; với hàng thủ, nghĩa là phải đoán mỗi lần cầm bóng."
     ]
-  }
+  },
+  "whatIsIt": [
+    "Horns is an offensive alignment, not a single play: the ball handler up top, a big at each elbow, and wings in the corners. From this one look, teams can run ball screens either side, elbow entries, flex cuts, flares, DHOs, and Spain PNR — all without changing the formation.",
+    "Its popularity comes from optionality. The defense sees the same alignment every time but never knows what's coming: a PNR left, a PNR right, a post entry, or a shooter action. That uncertainty is the offense.",
+    "Horns is a favorite of coaches at every level because it is easy to teach (one alignment, clear spots) but hard to scout (many options)."
+  ],
+  "whyItMatters": [
+    "Most offenses telegraph their intentions by their alignment. Horns hides them — the same set produces ten different attacks. For a team, that means less to memorize and more to choose from; for a defense, it means guessing on every possession."
+  ]
 }

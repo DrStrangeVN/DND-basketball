@@ -72,6 +72,66 @@
     "late-game"
   ],
   "title": "Clock Management",
+  "vi": {
+    "coachingPoints": [
+      "Tập các tình huống cuối hiệp mỗi tuần — đây là những phút giá trị nhất của trận đấu.",
+      "Chỉ định một người, thường là hậu vệ dẫn bóng, làm người quản đồng hồ trên sân.",
+      "Dạy phép tính: còn bao nhiêu lượt bóng và mỗi lượt đáng giá bao nhiêu.",
+      "Tập sẵn các tình huống phạm lỗi ở buổi tập để vào trận xử lý không do dự."
+    ],
+    "commonMistakes": [
+      "Ném quá sớm trong khi kế hoạch là cầm bóng chờ cú ném cuối.",
+      "Quên đồng hồ 24 giây và bị lỗi vi phạm.",
+      "Phạm lỗi khi đang dẫn cuối trận, biếu không điểm số.",
+      "Không biết đội đã vào bonus hay chưa trước khi quyết định phạm lỗi hay phòng thủ."
+    ],
+    "description": "Làm chủ đồng hồ thi đấu và đồng hồ 24 giây — khi nào đẩy nhanh, khi nào cầm nhịp, và cách kiểm soát những phút cuối mỗi hiệp.",
+    "gameSituations": [
+      "Cơ hội two-for-one cuối hiệp khi còn 40 giây.",
+      "Dẫn 3 điểm còn 20 giây: quyết định phạm lỗi hay phòng thủ.",
+      "Đồng hồ 24 giây còn dưới 8 giây: đơn giản hoá thành một pha dứt điểm."
+    ],
+    "howTo": [
+      {
+        "detail": "Tỉ số, thời gian, lỗi, hội ý, mũi tên quyền bóng — kiểm tra hết mỗi lần bóng chết. Không biết thì không quản được.",
+        "title": "Luôn nắm rõ tình huống"
+      },
+      {
+        "detail": "Khi còn khoảng 35–40 giây cuối hiệp, tấn công sớm để kịp lấy lại bóng cho cú ném cuối. Hai lượt bóng hơn một.",
+        "title": "Săn two-for-one"
+      },
+      {
+        "detail": "Đang dẫn và còn dưới 30 giây, câu giờ trước khi tấn công. Bắt đối thủ phải phòng thủ hết cả đợt.",
+        "title": "Cầm bóng chờ cú ném cuối"
+      },
+      {
+        "detail": "Đang bị dẫn ở cuối trận, phạm lỗi để dừng đồng hồ và kéo dài trận đấu. Đang dẫn, đừng bao giờ phạm lỗi với người ném — bắt họ phải ghi điểm từ sân.",
+        "title": "Phạm lỗi thông minh"
+      },
+      {
+        "detail": "Đừng ném khi còn 20 giây trừ khi là cơ hội ngon — nhưng đừng bao giờ để hết giờ. Giữ khoảng giữa: kiên nhẫn mà không bị động.",
+        "title": "Quản lý đồng hồ 24 giây"
+      },
+      {
+        "detail": "Hậu vệ dẫn bóng hô rõ \"two-for-one\" hay \"cầm bóng\" để cả năm người cùng thực hiện một kế hoạch. Quản đồng hồ trong im lặng là thất bại.",
+        "title": "Nói to kế hoạch"
+      }
+    ],
+    "tags": [
+      "iq bóng rổ",
+      "quản lý thời gian",
+      "chiến thuật"
+    ],
+    "title": "Quản lý đồng hồ thi đấu",
+    "whatIsIt": [
+      "Quản lý đồng hồ là nghệ thuật điều khiển thời gian — tăng tốc khi đang bị dẫn, giảm nhịp khi đang dẫn trước, và luôn nắm rõ tỉ số, số lỗi, số giây còn lại. Bao gồm đồng hồ 24 giây mỗi đợt tấn công và đồng hồ thi đấu ở thời điểm quyết định.",
+      "Người quản lý đồng hồ giỏi biết khung giờ two-for-one, biết khi nào phạm lỗi, khi nào cầm bóng chờ cú ném cuối, và dùng hội ý để kiểm soát nhịp trận đấu. Đây là kỹ năng thầm lặng giúp thắng các trận sát nút mà chẳng bao giờ lên highlight."
+    ],
+    "whyItMatters": [
+      "Trận đấu sát nút thường do quyết định đồng hồ định đoạt hơn là pha bóng đẹp. Một đợt tấn công bị phí cuối hiệp, một lỗi phạm quá sớm, một cú ném vội khi đang dẫn — những lỗi nhỏ cộng dồn. Đội quản lý đồng hồ tốt đánh cắp thêm lượt bóng và kết liễu trận đấu.",
+      "Đây cũng là kỹ năng lãnh đạo. Người quản lý đồng hồ tổ chức cả đội, và đội có tổ chức giữ được bình tĩnh khi áp lực tăng."
+    ]
+  },
   "whatIsIt": [
     "Clock management is the art of controlling time — speeding the game up when you are behind, slowing it down when you are ahead, and always knowing the score, the fouls, and the seconds. It covers the shot clock on every possession and the game clock in critical moments.",
     "Good clock managers know the two-for-one window, when to foul, when to hold for the last shot, and how to use timeouts to control the game's rhythm. It is a quiet skill that wins close games without ever appearing on a highlight reel."
@@ -79,66 +139,5 @@
   "whyItMatters": [
     "Close games are decided by clock decisions more than by highlight plays. A wasted possession at the end of a quarter, a foul given too early, a rushed shot while holding the lead — these small errors compound. Teams that manage the clock steal extra possessions and close out wins.",
     "It is also a leadership skill. The player who manages the clock organizes the team, and organized teams stay calm when the pressure rises."
-  ],
-  "vi": {
-    "coachingPoints": [
-      "Tập các tình huống cuối hiệp hàng tuần — đó là những phút có ảnh hưởng lớn nhất của trận đấu",
-      "Chỉ định một cầu thủ, thường là point guard, làm người quản lý đồng hồ trên sân",
-      "Dạy phép tính: còn bao nhiêu đợt tấn công và mỗi đợt đáng giá bao nhiêu",
-      "Diễn tập các tình huống phạm lỗi chiến thuật trong buổi tập để cầu thủ thực hiện không do dự trong trận"
-    ],
-    "commonMistakes": [
-      "Ném quá sớm trong khi kế hoạch là giữ bóng cho cú ném cuối",
-      "Quên đồng hồ tấn công và phạm lỗi vi phạm",
-      "Phạm lỗi khi đang dẫn trước cuối trận và tặng điểm miễn phí",
-      "Không biết đội đã vào bonus hay chưa trước khi quyết định phạm lỗi hay phòng thủ"
-    ],
-    "description": "Làm chủ đồng hồ trận đấu và đồng hồ tấn công — khi nào đẩy nhanh, khi nào giữ bóng, và cách kiểm soát những phút cuối mỗi hiệp.",
-    "gameSituations": [
-      "Cơ hội two-for-one cuối hiệp khi còn 40 giây",
-      "Dẫn 3 điểm còn 20 giây: quyết định phạm lỗi hay phòng thủ",
-      "Đồng hồ tấn công dưới 8 giây: đơn giản hóa thành một hành động quyết đoán"
-    ],
-    "howTo": [
-      {
-        "detail": "Tỷ số, thời gian, số lỗi, timeout, mũi tên luân phiên — kiểm tra tất cả ở mỗi lần bóng chết. Bạn không thể quản lý điều mình không biết.",
-        "title": "Luôn nắm rõ tình huống"
-      },
-      {
-        "detail": "Khi còn khoảng 35–40 giây cuối hiệp, tấn công sớm để lấy lại bóng cho cú ném cuối. Hai đợt tấn công thắng một.",
-        "title": "Săn two-for-one"
-      },
-      {
-        "detail": "Khi đang dẫn và còn dưới 30 giây, câu giờ trước khi tấn công. Bắt hàng thủ phải phòng thủ trọn một đợt tấn công.",
-        "title": "Giữ bóng cho cú ném cuối"
-      },
-      {
-        "detail": "Khi bị dẫn cuối trận, phạm lỗi để dừng đồng hồ và kéo dài trận đấu. Khi đang dẫn, đừng bao giờ phạm lỗi với người ném — bắt họ phải ghi điểm từ sân.",
-        "title": "Phạm lỗi thông minh"
-      },
-      {
-        "detail": "Đừng ném khi còn 20 giây trừ khi đó là cơ hội ngon — nhưng đừng bao giờ để đồng hồ hết giờ. Quản lý khoảng giữa: kiên nhẫn mà không thụ động.",
-        "title": "Quản lý đồng hồ tấn công"
-      },
-      {
-        "detail": "Point guard nên hô to 'two-for-one' hoặc 'hold' để cả năm người thực hiện cùng một kế hoạch đồng hồ. Quản lý đồng hồ trong im lặng sẽ thất bại.",
-        "title": "Truyền đạt kế hoạch"
-      }
-    ],
-    "tags": [
-      "basketball iq",
-      "đồng hồ",
-      "quản lý trận đấu",
-      "cuối trận"
-    ],
-    "title": "Quản Lý Đồng Hồ",
-    "whatIsIt": [
-      "Quản lý đồng hồ là nghệ thuật kiểm soát thời gian — tăng tốc trận đấu khi bị dẫn, giảm tốc khi đang dẫn, và luôn biết tỷ số, số lỗi và số giây. Nó bao quát đồng hồ tấn công trong mọi đợt bóng và đồng hồ trận đấu ở những thời khắc quan trọng.",
-      "Người quản lý đồng hồ giỏi biết cửa sổ two-for-one, khi nào nên phạm lỗi, khi nào nên giữ bóng cho cú ném cuối, và cách dùng timeout để kiểm soát nhịp trận đấu. Đây là kỹ năng thầm lặng thắng những trận sít sao mà không bao giờ xuất hiện trên highlight."
-    ],
-    "whyItMatters": [
-      "Những trận sít sao được quyết định bởi các quyết định đồng hồ nhiều hơn là các pha highlight. Một đợt tấn công lãng phí cuối hiệp, một pha phạm lỗi quá sớm, một cú ném vội khi đang giữ lợi thế — những lỗi nhỏ này cộng dồn. Những đội quản lý đồng hồ tốt đánh cắp thêm đợt tấn công và khép lại chiến thắng.",
-      "Đây cũng là kỹ năng lãnh đạo. Cầu thủ quản lý đồng hồ là người tổ chức đội bóng, và những đội có tổ chức giữ được bình tĩnh khi áp lực tăng cao."
-    ]
-  }
+  ]
 }

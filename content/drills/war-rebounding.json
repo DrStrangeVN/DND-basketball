@@ -69,54 +69,54 @@
   ],
   "dateUpdated": "2026-10-06",
   "vi": {
-    "title": "Chiến Tranh Rebound (War Rebounding)",
-    "description": "Bài tập chiến đấu 1v1: vượt qua va chạm để giành rebound, rồi ghi putback để thắng lượt.",
-    "goal": "Thắng cuộc chiến rebound — box out xuyên qua va chạm, bắt bóng chắc bằng hai tay và finish putback — ai thắng 5 lượt trước thì thắng.",
-    "setup": [
-      "HLV đứng ở elbow với bóng; hai cầu thủ đứng ở hai block, quay lưng về rổ.",
-      "Khi bóng được ném lên, cả hai xoay người, tìm va chạm và chiến đấu giành rebound.",
-      "Người bắt được rebound phải ghi putback mới thắng lượt; người thua chống đẩy 5 cái.",
-      "Ai thắng 5 lượt trước thì thắng vòng; xoay cặp mới vào."
-    ],
-    "instructions": [
-      {
-        "title": "Tìm người của mình",
-        "detail": "Khi bóng được ném, xoay người và xác định đối thủ — dùng cẳng tay chặn vào ngực họ trước khi nhìn tìm bóng."
-      },
-      {
-        "title": "Chiếm lĩnh không gian",
-        "detail": "Đẩy họ vào dưới rổ bằng chân trụ rộng và hông thấp; ai giữ được vị trí thì người đó có rebound."
-      },
-      {
-        "title": "Lao vào bóng",
-        "detail": "Tấn công bóng ở điểm cao nhất bằng hai tay — đừng bao giờ đứng chờ rebound tự tìm đến mình."
-      },
-      {
-        "title": "Finish xuyên va chạm",
-        "detail": "Kẹp bóng dưới cằm, pivot vào pha power-up và ghi putback trong khi hậu vệ vẫn đang đeo bám."
-      },
-      {
-        "title": "Chuẩn bị và chiến tiếp",
-        "detail": "Người thua đi nhặt bóng và chống đẩy 5 cái; người thắng ở lại cho đến khi thua — lửa thử vàng."
-      }
-    ],
     "coachingPoints": [
-      "Va chạm trước, bóng sau — không tìm được người thì không thấy bóng, mà không thấy bóng thì không rebound được.",
-      "Chân trụ rộng, mông thấp — người thấp hơn thắng mọi cuộc chiến rebound.",
-      "Hai tay và kẹp bóng dưới cằm — bắt một tay là bị móc mất trong đám đông.",
-      "Finish cho ra finish — một pha putback xuyên va chạm đáng 2 điểm và là một lời tuyên bố."
+      "Va chạm trước, bóng sau — không tìm người thì không thấy bóng, không thấy bóng thì không rebound được.",
+      "Chân dang rộng, hông thấp — người thấp hơn thắng mọi cuộc chiến rebound.",
+      "Hai tay và kẹp cằm — bắt một tay dễ bị giật trong đám đông.",
+      "Finish như thật — putback xuyên va chạm là 2 điểm và một lời tuyên bố."
     ],
     "commonMistakes": [
-      "Mải nhìn bóng mà không chạm vào ai — bạn sẽ bị box out bởi người đã tìm thấy bạn trước.",
-      "Bật nhảy từ tư thế chân hẹp — bạn sẽ bị đẩy văng; dang rộng ra và giữ đất.",
-      "Kéo rebound xuống ngang hông — kẹp dưới cằm hoặc mất bóng."
+      "Nhìn bóng mà không húc ai — bị box out bởi người tìm thấy mình trước.",
+      "Nhảy từ tư thế chân hẹp — bị đẩy bay; dang chân ra và giữ đất.",
+      "Kéo rebound xuống ngang hông — kẹp cằm hoặc mất bóng."
     ],
-    "progression": "Nâng lên 2v2 với luật outlet sau khi bắt board, hoặc yêu cầu putback phải ghi được qua pha contest bằng đệm của HLV.",
-    "regression": "Bỏ phần putback — lượt kết thúc khi bắt bóng chắc bằng hai tay — hoặc cho cầu thủ xuất phát đã ở sẵn tư thế box-out.",
-    "gameApplication": "Trận đấu được quyết định trên mặt bảng — thắng những pha rebound 50/50 và chuyển hóa putback xuyên va chạm là cách các đội khép lại những hiệp 4 căng thẳng.",
-    "players": "2+",
+    "description": "Bài tập chiến đấu 1v1: vượt qua va chạm để giành rebound, rồi ghi putback để thắng lượt.",
     "equipment": [
       "Bóng rổ"
-    ]
+    ],
+    "gameApplication": "Trận đấu được quyết định trên mặt bảng — thắng những pha rebound 50/50 và chuyển putback xuyên va chạm là cách các đội kết liễu những hiệp 4 sít sao.",
+    "goal": "Thắng cuộc chiến rebound — box out xuyên qua va chạm, bắt bóng chắc bằng hai tay và finish putback — ai thắng 5 lượt trước thì thắng.",
+    "instructions": [
+      {
+        "detail": "Khi bóng bay, xoay người tìm đối thủ — húc cẳng tay vào ngực họ trước khi tìm bóng.",
+        "title": "Tìm người của mình"
+      },
+      {
+        "detail": "Đẩy họ vào dưới rổ với chân dang rộng, hông thấp; ai giữ được đất người đó lấy board.",
+        "title": "Chiếm không gian"
+      },
+      {
+        "detail": "Tấn công bóng ở điểm cao nhất bằng hai tay — không bao giờ đợi rebound tự tới.",
+        "title": "Lao tới lấy bóng"
+      },
+      {
+        "detail": "Kẹp bóng vào cằm, xoay người power-up rồi ghi putback trong khi hậu vệ vẫn đang húc mình.",
+        "title": "Finish xuyên va chạm"
+      },
+      {
+        "detail": "Người thua nhặt bóng và chống đẩy 5 cái; người thắng ở lại đến khi thua — sắt mài sắt.",
+        "title": "Reset và chiến tiếp"
+      }
+    ],
+    "players": "2+",
+    "progression": "Nâng lên 2v2 với luật outlet sau khi bắt board, hoặc yêu cầu putback phải ghi qua đệm contest của HLV.",
+    "regression": "Bỏ phần putback — lượt kết thúc khi bắt bóng chắc bằng hai tay — hoặc cho người chơi xuất phát sẵn ở tư thế box out.",
+    "setup": [
+      "HLV đứng ở vị trí elbow cầm bóng; hai người đứng ở block, lưng quay về rổ.",
+      "Khi bóng bay, cả hai xoay người, tìm va chạm và chiến đấu rebound.",
+      "Người rebound phải ghi putback mới thắng lượt; người thua chống đẩy 5 cái.",
+      "Ai thắng 5 lượt trước thắng vòng; xoay cặp mới vào."
+    ],
+    "title": "Chiến tranh rebound"
   }
 }

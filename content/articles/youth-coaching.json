@@ -83,64 +83,64 @@
     "You are also building the future of the game. Nearly every advanced player started with a youth coach who made basketball fun. Get this stage right and everything downstream gets easier."
   ],
   "vi": {
-    "coachingPoints": [
-      "Học tên mọi cầu thủ ngay ngày đầu tiên và dùng chúng liên tục.",
-      "Kết thúc mọi buổi tập bằng điều gì đó vui mà các em sẽ kể ở nhà.",
-      "Trao đổi với phụ huynh từ sớm: triết lý của bạn, cách chia thời gian thi đấu, và kỳ vọng.",
-      "Hãy là người bình tĩnh nhất trong nhà thi đấu — trẻ em phản chiếu cảm xúc của bạn một cách chính xác."
+    "title": "Huấn luyện bóng rổ trẻ em",
+    "description": "Huấn luyện trẻ đúng cách — buổi tập vui là trên hết, dạy theo lứa tuổi, và nuôi tình yêu bóng rổ bền lâu.",
+    "whatIsIt": [
+      "Huấn luyện bóng rổ trẻ em là dạy bóng rổ cho trẻ nhỏ — thường từ sáu đến mười bốn tuổi — nơi ưu tiên khác hẳn bóng rổ thi đấu. Ở cấp độ này, phát triển và niềm vui quan trọng hơn thắng thua; mục tiêu là những cầu thủ yêu bóng rổ và muốn chơi tiếp.",
+      "HLV trẻ giỏi trước hết là người thầy: hướng dẫn ngắn, vận động nhiều, động viên liên tục, buổi tập như đang chơi. Thước đo thành công không phải bảng điểm — là bao nhiêu em đăng ký lại mùa sau."
     ],
-    "commonMistakes": [
-      "Tổ chức buổi tập kiểu người lớn với hàng dài chờ đợi và bài giảng dài.",
-      "Quát mắng trẻ vì sai lầm — điều đó dập tắt việc học thay vì sửa sai.",
-      "Chỉ cho những cầu thủ giỏi nhất chơi để thắng các trận trẻ em.",
-      "Dạy chiến thuật nâng cao trước khi nền tảng cơ bản vững."
-    ],
-    "description": "Huấn luyện trẻ em đúng cách — buổi tập vui là trên hết, giảng dạy phù hợp lứa tuổi, và nuôi dưỡng tình yêu bóng rổ bền lâu.",
-    "gameSituations": [
-      "Buổi tập đầu tiên với những em tám tuổi chưa từng chạm vào quả bóng rổ.",
-      "Một em khóc sau khi ném trượt: cách bạn phản ứng trong khoảnh khắc đó rất quan trọng.",
-      "Một phụ huynh phàn nàn về thời gian thi đấu: hãy nhắc lại triết lý đầu mùa của bạn."
+    "whyItMatters": [
+      "HLV trẻ định hình cả mối quan hệ của một đứa trẻ với thể thao. Trải nghiệm tuổi thơ tích cực xây sự tự tin, tinh thần đồng đội và tình yêu vận động suốt đời; trải nghiệm tiêu cực đẩy trẻ ra khỏi thể thao mãi mãi. Mức quan trọng cao hơn mọi chức vô địch — bạn đang xây con người.",
+      "Bạn cũng đang xây tương lai của bóng rổ. Gần như mọi cầu thủ giỏi đều bắt đầu với một HLV trẻ khiến bóng rổ trở nên vui. Làm đúng giai đoạn này, mọi thứ sau đó dễ hơn."
     ],
     "howTo": [
       {
-        "detail": "Mọi buổi tập nên có trò chơi, thi đấu, và tiếng cười. Nếu các em không cười, các em không học — niềm vui là phương tiện truyền tải cho mọi thứ khác.",
-        "title": "Giữ cho buổi tập vui"
+        "title": "Giữ buổi tập vui",
+        "detail": "Mọi buổi tập đều có trò chơi, thi đấu và tiếng cười. Các em không cười là các em không học — niềm vui là phương tiện cho mọi thứ khác."
       },
       {
-        "detail": "Dùng các trò chơi ít người như 3v3 và 4v4 thay vì giảng giải. Trẻ học bóng rổ bằng cách chơi bóng rổ, không phải bằng cách nghe về bóng rổ.",
-        "title": "Dạy qua trò chơi"
+        "title": "Dạy qua trò chơi",
+        "detail": "Dùng trò chơi ít người như 3v3, 4v4 thay vì giảng giải. Trẻ học bóng rổ bằng cách chơi bóng rổ, không phải bằng cách nghe về bóng rổ."
       },
       {
-        "detail": "Hướng dẫn dưới ba mươi giây, bài tập dưới mười phút, nghỉ uống nước thường xuyên. Khả năng tập trung ngắn là bình thường — hãy lên kế hoạch cho điều đó.",
-        "title": "Ngắn gọn và đơn giản"
+        "title": "Ngắn gọn, đơn giản",
+        "detail": "Hướng dẫn dưới ba mươi giây, bài tập dưới mười phút, nghỉ uống nước thường xuyên. Khả năng tập trung ngắn là bình thường — lên kế hoạch cho nó."
       },
       {
-        "detail": "Thời gian thi đấu công bằng và tham gia liên tục ở lứa tuổi nhỏ. Không em nào nên ngồi cả trận — phát triển đòi hỏi được chạm bóng.",
-        "title": "Ai cũng được chơi, ai cũng chạm bóng"
+        "title": "Ai cũng được chơi, ai cũng chạm bóng",
+        "detail": "Lứa tuổi nhỏ: thời gian thi đấu công bằng, tham gia liên tục. Không em nào ngồi cả trận — phát triển cần được chạm bóng."
       },
       {
-        "detail": "Bắt gặp các em làm đúng và nói thật to. Sửa sai phải nhanh, tử tế, và cụ thể — một điểm sửa, rồi quay lại động viên.",
-        "title": "Khen ngợi nỗ lực thật to, sửa sai nhẹ nhàng"
+        "title": "Khen nỗ lực thật to, sửa sai nhẹ nhàng",
+        "detail": "Thấy các em làm đúng thì nói thật to. Sửa sai nhanh, tử tế, cụ thể — một điểm sửa rồi quay lại động viên."
       },
       {
-        "detail": "Nói công khai về nỗ lực, sự tôn trọng, tinh thần đồng đội, và cách xử lý sai lầm. Phụ huynh nhận thấy và trân trọng điều này hơn bất kỳ thành tích thắng-thua nào.",
-        "title": "Dạy kỹ năng sống một cách công khai"
+        "title": "Dạy kỹ năng sống công khai",
+        "detail": "Nói thẳng về nỗ lực, tôn trọng, đồng đội và cách xử lý sai lầm. Phụ huynh trân trọng điều này hơn mọi thành tích thắng thua."
       }
+    ],
+    "coachingPoints": [
+      "Học tên mọi em ngay ngày đầu, gọi tên liên tục.",
+      "Kết thúc mỗi buổi tập bằng thứ gì vui để các em kể ở nhà.",
+      "Trao đổi với phụ huynh từ sớm: triết lý của bạn, cách chia giờ thi đấu, kỳ vọng.",
+      "Là người bình tĩnh nhất trong nhà thi đấu — trẻ phản chiếu cảm xúc của bạn y hệt."
+    ],
+    "commonMistakes": [
+      "Tập kiểu người lớn: xếp hàng dài chờ, giảng giải dài.",
+      "Quát trẻ vì sai lầm — dập tắt việc học thay vì sửa sai.",
+      "Chỉ cho cầu thủ giỏi nhất chơi để thắng trận trẻ em.",
+      "Dạy chiến thuật nâng cao khi nền tảng chưa vững."
+    ],
+    "gameSituations": [
+      "Buổi tập đầu với các em tám tuổi chưa từng chạm bóng rổ.",
+      "Một em khóc sau khi ném trượt — cách bạn phản ứng lúc đó rất quan trọng.",
+      "Phụ huynh phàn nàn về giờ thi đấu — nhắc lại triết lý đầu mùa của bạn."
     ],
     "tags": [
       "huấn luyện",
       "trẻ em",
       "cơ bản",
       "niềm vui"
-    ],
-    "title": "Huấn luyện bóng rổ trẻ em",
-    "whatIsIt": [
-      "Huấn luyện bóng rổ trẻ em nghĩa là dạy bóng rổ cho trẻ nhỏ — thường từ sáu đến mười bốn tuổi — nơi các ưu tiên khác hẳn bóng rổ thi đấu. Ở cấp độ này, sự phát triển và niềm vui quan trọng hơn chiến thắng; mục tiêu là những cầu thủ yêu bóng rổ và muốn tiếp tục chơi.",
-      "Những huấn luyện viên trẻ em giỏi trước hết là những người thầy: hướng dẫn ngắn gọn, nhiều vận động, động viên liên tục, và những buổi tập như đang chơi. Thước đo thành công không phải là bảng điểm — mà là có bao nhiêu em đăng ký lại mùa sau."
-    ],
-    "whyItMatters": [
-      "Huấn luyện viên trẻ em định hình toàn bộ mối quan hệ của một đứa trẻ với thể thao. Một trải nghiệm tuổi thơ tích cực xây dựng sự tự tin, tinh thần đồng đội, và tình yêu vận động suốt đời; một trải nghiệm tiêu cực đẩy trẻ ra khỏi thể thao mãi mãi. Mức độ quan trọng cao hơn bất kỳ chức vô địch nào — bạn đang xây dựng con người.",
-      "Bạn cũng đang xây dựng tương lai của môn bóng rổ. Gần như mọi cầu thủ giỏi đều bắt đầu với một huấn luyện viên trẻ em khiến bóng rổ trở nên vui. Làm đúng giai đoạn này, mọi thứ sau đó sẽ dễ dàng hơn."
     ]
   }
 }

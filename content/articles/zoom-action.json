@@ -133,59 +133,59 @@
   ],
   "dateUpdated": "2026-10-06",
   "vi": {
-    "coachingPoints": [
-      "Dạy nó như một miếng đánh, không phải hai — sự liên tục là toàn bộ ý nghĩa.",
-      "Tập thời điểm: tấm chắn thứ hai của big man phải tới đúng lúc người nhận xoay người.",
-      "Bắt đầu 3v3 trước khi lên 5v5; các pha đọc đã đủ phức tạp mà không cần thêm người hỗ trợ.",
-      "Quay phim bước chân: những người nhận bước thêm một nhịp gom bóng sẽ giết chết pha zoom."
+    "title": "Miếng đánh zoom",
+    "description": "Một pha DHO chảy thẳng vào screen bóng — hai miếng đánh trong một, hàng thủ luôn chậm một nhịp.",
+    "whatIsIt": [
+      "Miếng đánh zoom là pha DHO chảy ngay vào screen bóng: người nhận bóng từ tay xoay người, dùng ngay screen thứ hai từ big man — tất cả một chuyển động liên tục. Hàng thủ phải kèm pha trao tay rồi ngay pha pick-and-roll, không có thời gian sắp lại.",
+      "Gọi là 'zoom' vì tốc độ — người nhận bắt bóng lúc đang chạy và lao ngay vào screen tiếp theo. Hậu vệ nào thả lỏng sau khi qua được DHO sẽ bị miếng thứ hai hủy diệt.",
+      "Zoom là món tủ của các hàng công NBA — tạo cùng lợi thế như PNR hay, nhưng người cầm bóng đã ở tốc độ tối đa ngay từ đầu."
     ],
-    "commonMistakes": [
-      "Dừng lại giữa pha DHO và tấm chắn, điều này cho hàng thủ thiết lập lại.",
-      "Người chắn thứ hai đến muộn hoặc ở góc xấu.",
-      "Định sẵn pha đọc thay vì đọc cách kèm thứ hai."
-    ],
-    "description": "Một pha DHO chảy thẳng vào một tấm chắn bóng — hai miếng đánh trong một, với hàng thủ luôn chậm một nhịp.",
-    "gameSituations": [
-      "Đưa tay ghi điểm hay nhất của bạn lao xuống dốc với đà chạy trước một hàng thủ đã vào vị trí.",
-      "Khi hàng thủ switch các pha DHO tốt — tấm chắn thứ hai tấn công vào pha switch.",
-      "Các miếng đánh ATO khi bạn cần một cú ném hiệu quả cao với các miếng phản công tích hợp."
+    "whyItMatters": [
+      "Một miếng đánh thì kèm được; hai miếng không nghỉ giữa chúng thì thường không. Zoom ép hàng thủ giao tiếp qua cách kèm trao tay rồi cách kèm screen bóng trong khoảng hai giây — mà đa số hàng thủ chỉ xử lý được một thứ cùng lúc."
     ],
     "howTo": [
       {
-        "detail": "Pha trao tay phải ở tốc độ cao với một tấm chắn thật đi kèm. Một pha DHO cẩu thả cho hàng thủ thời gian chuẩn bị cho những gì tiếp theo.",
-        "title": "Chạy một pha DHO sạch trước"
+        "title": "Chạy DHO sạch trước",
+        "detail": "Pha trao tay phải ở tốc độ cao, có screen thật đi kèm. DHO cẩu thả cho hàng thủ thời gian chuẩn bị cho miếng tiếp theo."
       },
       {
-        "detail": "Big man phải đã di chuyển vào vị trí ngay khi pha DHO diễn ra. Tấm chắn thứ hai đến muộn sẽ cho hàng thủ thời gian lấy lại hơi.",
-        "title": "Chạy nước rút tới tấm chắn thứ hai"
+        "title": "Chạy nước rút tới screen thứ hai",
+        "detail": "Big man phải đã di chuyển vào vị trí ngay khi DHO diễn ra. Screen thứ hai tới muộn là hàng thủ kịp lấy hơi."
       },
       {
-        "detail": "Người nhận thoát khỏi pha DHO và ngay lập tức sát tấm chắn bóng — không gom bóng, không do dự. Pha zoom là một chuyển động duy nhất.",
-        "title": "Rẽ góc thật sát"
+        "title": "Rẽ góc thật sát",
+        "detail": "Người nhận thoát DHO rồi ôm sát screen bóng ngay — không gom bóng, không do dự. Zoom là một chuyển động."
       },
       {
-        "detail": "Hàng thủ có thể switch pha DHO và drop pha PNR, hoặc ngược lại. Hãy đọc miếng đánh thứ hai như bất kỳ pha pick-and-roll nào: over, under, drop, switch.",
-        "title": "Đọc cả hai cách kèm"
+        "title": "Đọc cả hai cách kèm",
+        "detail": "Hàng thủ có thể switch DHO rồi drop PNR, hoặc ngược lại. Đọc miếng thứ hai như mọi pha pick-and-roll: over, under, drop, switch."
       },
       {
-        "detail": "Với hai miếng đánh ở một bên, bên yếu phải giữ giãn rộng và sẵn sàng ném. Sức hút của họ ngăn hậu vệ thứ ba tới hỗ trợ.",
-        "title": "Giữ bên yếu giãn sân"
+        "title": "Giữ phía yếu giãn sân",
+        "detail": "Hai miếng đánh dồn một bên thì phía yếu phải giãn rộng và sẵn sàng ném. Sức hút của họ giữ hậu vệ thứ ba không dám vào hỗ trợ."
       }
+    ],
+    "coachingPoints": [
+      "Dạy nó như một miếng đánh, không phải hai — sự liên tục là tất cả.",
+      "Tập thời điểm: screen thứ hai của big man phải tới đúng lúc người nhận xoay người.",
+      "Bắt đầu 3v3 trước khi lên 5v5 — các pha đọc đã đủ phức tạp.",
+      "Quay phim bộ chân: người nhận bước thêm nhịp gom bóng là giết pha zoom."
+    ],
+    "commonMistakes": [
+      "Dừng giữa DHO và screen — hàng thủ được sắp lại.",
+      "Người screen thứ hai tới muộn hoặc góc xấu.",
+      "Định sẵn pha đọc thay vì đọc cách kèm thứ hai."
+    ],
+    "gameSituations": [
+      "Đưa tay ghi điểm hay nhất lao xuống với đà chạy trước hàng thủ đã vào vị trí.",
+      "Khi hàng thủ switch DHO tốt — screen thứ hai đánh vào pha switch.",
+      "Miếng ATO cần cú ném hiệu quả cao với đòn phản tích hợp."
     ],
     "tags": [
       "zoom",
       "dho",
-      "chắn bóng",
+      "screen",
       "miếng đánh"
-    ],
-    "title": "Miếng đánh Zoom",
-    "whatIsIt": [
-      "Miếng đánh zoom là một pha DHO chảy ngay vào một tấm chắn bóng: cầu thủ nhận bóng từ tay xoay người và dùng ngay tấm chắn thứ hai từ một big man, tất cả trong một chuyển động liên tục. Hàng thủ phải kèm một pha trao tay và một pha pick-and-roll liên tiếp mà không có thời gian thiết lập lại.",
-      "Nó được gọi là 'zoom' vì tốc độ — người nhận bắt bóng lúc đang di chuyển và ngay lập tức vào tấm chắn tiếp theo. Những hậu vệ thả lỏng sau khi sống sót qua pha DHO sẽ bị miếng đánh thứ hai hủy diệt.",
-      "Zoom là món tủ của các hàng công NBA vì nó tạo ra cùng lợi thế như một pha PNR hay nhưng bắt đầu với người cầm bóng đã ở tốc độ tối đa."
-    ],
-    "whyItMatters": [
-      "Một miếng đánh thì kèm được; hai miếng đánh không nghỉ giữa chúng thì thường không. Zoom ép hàng thủ phải giao tiếp qua một cách kèm trao tay và một cách kèm chắn bóng trong khoảng hai giây — và hầu hết các hàng thủ chỉ xử lý được một thứ cùng lúc."
     ]
   }
 }

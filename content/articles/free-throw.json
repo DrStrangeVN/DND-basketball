@@ -73,71 +73,71 @@
     "scoring"
   ],
   "title": "Free Throw Shooting",
+  "vi": {
+    "coachingPoints": [
+      "Xây MỘT thói quen, không bao giờ đổi — thói quen chính là kỹ năng",
+      "Cùng số nhịp dẫn, cùng hơi thở, cùng thời điểm, mọi lần",
+      "Tập ném phạt khi mệt: ném cuối buổi tập mô phỏng chân hiệp bốn",
+      "Theo dõi tỷ lệ theo block 10 quả; nhắm 70%+ (trẻ) và 80%+ (nâng cao)",
+      "Ném phạt đầu buổi có hôm, cuối buổi có hôm — đổi bối cảnh, không đổi thói quen"
+    ],
+    "commonMistakes": [
+      "Đổi thói quen trận này qua trận khác — sửa: viết ra, làm theo như kịch bản",
+      "Ném vội sau lỗi mạnh — sửa: thói quen ép khoảng dừng; không bao giờ ném khi tức hay vội",
+      "Chỉ tập khi sung sức — sửa: cú ném phạt tệ nhất đến khi mệt; tập đúng trạng thái đó",
+      "Nhắm cả cái rổ — sửa: chọn mục tiêu tí hon (mép sau rổ, một móc lưới) và dán mắt vào"
+    ],
+    "description": "Biến cú ném miễn phí thành điểm tự động bằng thói quen lặp lại được, hít thở bình tĩnh và động tác chuẩn.",
+    "gameSituations": [
+      "Sau mọi lỗi ném rổ — điểm miễn phí phổ biến nhất bóng rổ; đội đẳng cấp coi như chắc chắn",
+      "Phạm lỗi chủ động cuối trận — trận sít sao định đoạt ở vạch phạt; ném theo thói quen thắng chúng",
+      "Tình huống kỹ thuật và bonus — điểm miễn phí không cần tấn công để tạo ra"
+    ],
+    "howTo": [
+      {
+        "detail": "Tìm vạch nail (dấu ở giữa vạch ném phạt). Đặt chân ném lên hoặc ngay sau vạch, chân rộng bằng vai, người vuông góc với rổ.",
+        "title": "Đứng đúng vạch"
+      },
+      {
+        "detail": "Dẫn đúng số nhịp của mình — hầu hết cầu thủ dùng 2 hoặc 3 nhịp. Đây là máy đếm nhịp của thói quen; đếm giống nhau mọi lần.",
+        "title": "Dẫn bóng theo nhịp"
+      },
+      {
+        "detail": "Một hơi thở chậm, sâu. Cảm nhận vai hạ xuống, tay cầm bóng thả lỏng. Căng cứng là kẻ thù của cảm giác bóng.",
+        "title": "Hít thở và thả lỏng"
+      },
+      {
+        "detail": "Khóa mắt vào mục tiêu nhỏ — mép sau rổ hoặc một móc lưới cụ thể. Đã bắt đầu thì không rời mắt.",
+        "title": "Khóa mục tiêu"
+      },
+      {
+        "detail": "Gập gối, bật lên mượt mà, ném với động tác bình thường — khuỷu tay vào trong, tay dẫn yên, vẩy cổ tay đầy đủ. Giữ động tác kết thúc đến khi bóng chạm đất.",
+        "title": "Ném cú ném bình thường của mình"
+      },
+      {
+        "detail": "Nhìn kết quả mà không phản ứng cảm xúc, rồi reset cho quả tiếp theo. Mỗi quả ném phạt là một sự kiện riêng.",
+        "title": "Reset cho quả tiếp theo"
+      }
+    ],
+    "tags": [
+      "ném rổ",
+      "kỹ thuật cơ bản",
+      "ghi điểm"
+    ],
+    "title": "Kỹ thuật ném phạt",
+    "whatIsIt": [
+      "Ném phạt là kỹ năng ghi điểm từ những cú ném không ai kèm ở vạch ném phạt sau lỗi. Không ai kèm bạn, không ai giục bạn — chỉ có bạn, quả bóng, và thói quen của bạn. Sự đơn giản đó đánh lừa: ném phạt định đoạt trận sít sao hơn mọi kỹ năng đơn lẻ khác.",
+      "Bí mật là ném phạt gần như không phải về ném rổ. Nó là về thói quen. Cầu thủ ném 85%+ làm đúng một việc, đúng một thứ tự, mọi lần — và thói quen bảo vệ cú ném khỏi áp lực, mệt mỏi, tiếng ồn."
+    ],
+    "whyItMatters": [
+      "Ném phạt là điểm hiệu quả nhất bóng rổ — không ai kèm, lặp lại được, và thường xuyên. Các đội thường xuyên bỏ 5–10 điểm ở vạch phạt trong những trận thua sít sao. Với cá nhân, tỷ lệ ném phạt là khả năng kiểm soát thuần túy: không cầu thủ phòng thủ, không sơ đồ, chỉ có chuẩn bị. Đây là nơi dễ nhất để cộng điểm cho lối chơi của bạn và thành tích đội."
+    ]
+  },
   "whatIsIt": [
     "Free throw shooting is the skill of scoring uncontested shots from the free-throw line after a foul. Nobody guards you, nobody rushes you — it is just you, the ball, and your routine. That simplicity is deceptive: free throws decide close games more than any other single skill.",
     "The secret is that free-throw shooting is barely about shooting. It is about routine. The players who shoot 85%+ do the exact same thing, in the exact same order, every single time — and the routine protects the shot from pressure, fatigue, and noise."
   ],
   "whyItMatters": [
     "Free throws are the most efficient points in basketball — uncontested, repeatable, and frequent. Teams routinely leave 5–10 points at the line in close losses. For individuals, free-throw percentage is pure controllability: no defender, no scheme, just preparation. It is the easiest place to add points to your game and your team's record."
-  ],
-  "vi": {
-    "title": "Ném Phạt",
-    "description": "Biến cú ném không ai kèm thành điểm số tự động với một thói quen lặp lại được, hơi thở bình tĩnh, và kỹ thuật hoàn hảo.",
-    "whatIsIt": [
-      "Ném phạt là kỹ năng ghi những cú ném không bị kèm từ vạch ném phạt sau một lỗi. Không ai kèm bạn, không ai vội vàng bạn — chỉ có bạn, quả bóng, và thói quen của bạn. Sự đơn giản đó đánh lừa: ném phạt quyết định những trận sát nút hơn bất kỳ kỹ năng đơn lẻ nào khác.",
-      "Bí mật là ném phạt hầu như không phải về ném. Nó là về thói quen. Những cầu thủ ném 85%+ làm đúng cùng một việc, theo đúng cùng một thứ tự, mọi lần — và thói quen bảo vệ cú ném khỏi áp lực, mệt mỏi, và tiếng ồn."
-    ],
-    "whyItMatters": [
-      "Ném phạt là những điểm hiệu quả nhất trong bóng rổ — không bị kèm, có thể lặp lại, và xuất hiện thường xuyên. Các đội thường xuyên để rơi 5–10 điểm ở vạch ném phạt trong những trận thua sát nút. Với cá nhân, tỷ lệ ném phạt là sự kiểm soát thuần túy: không hậu vệ, không sơ đồ, chỉ có sự chuẩn bị. Đây là nơi dễ nhất để cộng điểm cho trận đấu của bạn và thành tích của đội."
-    ],
-    "howTo": [
-      {
-        "title": "Đứng vào dấu mốc",
-        "detail": "Tìm cái đinh (dấu mốc ở giữa vạch ném phạt). Đặt chân ném lên hoặc ngay sau nó, hai chân rộng bằng vai, người vuông góc với rổ."
-      },
-      {
-        "title": "Dẫn những nhịp bóng của bạn",
-        "detail": "Dẫn đúng số nhịp đã định — hầu hết cầu thủ dùng 2 hoặc 3 nhịp. Đây là chiếc máy đếm nhịp của thói quen; đếm giống nhau mọi lần."
-      },
-      {
-        "title": "Hít thở và thả lỏng",
-        "detail": "Một hơi thở chậm, sâu. Cảm nhận vai hạ xuống và tay cầm bóng thả lỏng. Căng thẳng là kẻ thù của cảm giác bóng."
-      },
-      {
-        "title": "Khóa chặt mục tiêu",
-        "detail": "Khóa mắt vào một mục tiêu nhỏ — mép sau của vành rổ hoặc một mắt lưới cụ thể. Đừng rời mắt khi đã bắt đầu."
-      },
-      {
-        "title": "Ném cú ném bình thường của bạn",
-        "detail": "Gập gối, bật lên mượt mà, và ném với kỹ thuật bình thường — khuỷu tay khép, tay dẫn yên, follow-through đầy đủ. Giữ tư thế kết thúc cho đến khi bóng chạm đất."
-      },
-      {
-        "title": "Chuẩn bị cho quả tiếp theo",
-        "detail": "Quan sát kết quả mà không phản ứng cảm xúc, rồi thiết lập lại cho quả tiếp theo. Mỗi quả ném phạt là một sự kiện riêng."
-      }
-    ],
-    "coachingPoints": [
-      "Xây MỘT thói quen và không bao giờ thay đổi — thói quen chính là kỹ năng.",
-      "Cùng số nhịp dẫn bóng, cùng hơi thở, cùng thời điểm, mọi lần.",
-      "Tập ném phạt khi đã mệt: những lần ném cuối buổi tập mô phỏng đôi chân ở hiệp bốn.",
-      "Theo dõi tỷ lệ theo từng block 10 quả; hướng tới 70%+ (trẻ) và 80%+ (nâng cao).",
-      "Có buổi ném phạt đầu tiên, có buổi ném cuối cùng — thay đổi bối cảnh, không thay đổi thói quen."
-    ],
-    "commonMistakes": [
-      "Thay đổi thói quen từ trận này sang trận khác — cách sửa: viết ra và làm theo như kịch bản.",
-      "Vội vàng sau một pha phạm lỗi mạnh — cách sửa: thói quen buộc bạn phải dừng lại; đừng bao giờ ném khi đang giận hay vội.",
-      "Chỉ tập khi còn sung sức — cách sửa: những quả ném phạt tệ nhất đến khi mệt; hãy rèn trạng thái đó.",
-      "Ngắm cả cái rổ — cách sửa: chọn một mục tiêu thật nhỏ (mép sau vành rổ, một mắt lưới) và nhìn chằm chằm vào nó."
-    ],
-    "gameSituations": [
-      "Sau mỗi lỗi ném — những điểm miễn phí phổ biến nhất trong bóng rổ; các đội cừ khôi coi chúng như điểm chắc chắn.",
-      "Những pha phạm lỗi chiến thuật cuối trận — trận sát nút được định đoạt ở vạch ném phạt; người ném theo thói quen sẽ thắng.",
-      "Các tình huống kỹ thuật và bonus — điểm miễn phí mà không cần tạo ra từ tấn công."
-    ],
-    "tags": [
-      "ném rổ",
-      "kỹ năng cơ bản",
-      "ghi điểm"
-    ]
-  }
+  ]
 }

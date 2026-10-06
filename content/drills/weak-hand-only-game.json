@@ -65,47 +65,47 @@
   ],
   "dateUpdated": "2026-10-06",
   "vi": {
-    "title": "Trận Đấu Chỉ Dùng Tay Yếu",
-    "description": "Chơi 1v1 hoặc 3v3 mà mọi pha dẫn bóng, chuyền và dứt điểm đều phải dùng tay yếu — cách nhanh nhất để tay yếu sẵn sàng thi đấu.",
-    "goal": "Ép bản thân dùng tay yếu trong tình huống thật để nó không còn là điểm yếu sau buổi tập.",
-    "setup": [
-      "Chia đội chơi 1v1, 2v2 hoặc 3v3 nửa sân.",
-      "Luật: mọi pha dẫn bóng, chuyền và ném đều phải dùng tay yếu — vi phạm là mất bóng.",
-      "Chơi chạm 7 điểm rồi đổi cặp đấu."
-    ],
-    "instructions": [
-      {
-        "title": "Khởi động chỉ tay yếu",
-        "detail": "Hai phút đập bóng, crossover và layup bằng tay yếu trước khi đấu."
-      },
-      {
-        "title": "Chơi chạm 7",
-        "detail": "Đấu thật, chỉ tay yếu. Dẫn bóng, chuyền, dứt điểm — tất cả tay yếu."
-      },
-      {
-        "title": "Chỉ dứt điểm tay yếu",
-        "detail": "Kể cả phản công nhanh cũng dứt điểm tay yếu — không đổi tay giữa không trung."
-      },
-      {
-        "title": "Lượt hai, đối thủ mới",
-        "detail": "Đấu lại với người khác; để ý xem điều gì đã dễ hơn."
-      }
-    ],
     "coachingPoints": [
-      "Che bóng bằng vai bên tay thuận — tay yếu cần cơ thể bảo vệ.",
-      "Chậm lúc đầu cũng được; kiểm soát quan trọng hơn tốc độ khi đang học.",
-      "Chủ động xin bóng — trốn tránh chẳng phát triển được gì."
+      "Che bóng bằng vai phía tay thuận — tay không thuận cần cơ thể bảo vệ.",
+      "Chậm lúc đầu không sao; kiểm soát hơn tốc độ khi đang học.",
+      "Xin bóng — trốn bóng không rèn được gì."
     ],
     "commonMistakes": [
-      "Lén dùng tay thuận 'chỉ lần này thôi' — đó chính là thói quen cần phá bỏ.",
-      "Né va chạm vì thấy tay yếu dễ lộ bóng."
+      "Đổi sang tay thuận 'chỉ lần này thôi' — đó chính là thói quen cần phá.",
+      "Né va chạm vì tay không thuận thấy hở."
     ],
-    "progression": "Giới hạn 1v1 nửa sân, không có help defense.",
-    "regression": "Cho phép chuyền tay thuận nhưng bắt buộc dẫn bóng và dứt điểm tay yếu.",
-    "gameApplication": "Hậu vệ luôn săn tay yếu trong trận thật — ba mươi phút ép dùng tay yếu hiệu quả hơn cả tháng tập dẫn bóng hời hợt.",
-    "players": "2+",
+    "description": "Chơi 1v1 hoặc 3v3 mà mọi pha rê bóng, chuyền và dứt điểm đều phải dùng tay không thuận — cách nhanh nhất để tay yếu sẵn sàng vào trận.",
     "equipment": [
       "Bóng rổ"
-    ]
+    ],
+    "gameApplication": "Hậu vệ luôn săn tay không thuận trong trận thật — 30 phút ép dùng tay không thuận hiệu quả hơn cả tháng rê bóng qua loa.",
+    "goal": "Ép bản thân dùng tay không thuận trong tình huống thật để nó không còn là điểm yếu sau buổi tập.",
+    "instructions": [
+      {
+        "detail": "2 phút rê mạnh, crossover và layup bằng tay không thuận trước khi vào trận.",
+        "title": "Khởi động chỉ tay không thuận"
+      },
+      {
+        "detail": "Trận sống, chỉ dùng tay không thuận. Động tác rê, đường chuyền, pha dứt điểm — tất cả tay không thuận.",
+        "title": "Đấu tới 7"
+      },
+      {
+        "detail": "Ngay cả phản công nhanh cũng finish bằng tay không thuận — không đổi tay giữa chừng.",
+        "title": "Chỉ finish tay không thuận"
+      },
+      {
+        "detail": "Đấu lại với hậu vệ khác; để ý xem cái gì đã dễ hơn.",
+        "title": "Vòng hai, cặp đấu mới"
+      }
+    ],
+    "players": "2+",
+    "progression": "Giới hạn 1v1 nửa sân, không có phòng thủ hỗ trợ.",
+    "regression": "Cho phép chuyền tay thuận nhưng bắt buộc rê bóng và dứt điểm tay không thuận.",
+    "setup": [
+      "Chia đội đấu 1v1, 2v2 hoặc 3v3 nửa sân.",
+      "Luật: mọi pha rê, chuyền và ném đều phải dùng tay không thuận — phạm luật là mất bóng.",
+      "Đấu tới 7 rổ trước, rồi đổi cặp đấu."
+    ],
+    "title": "Trận đấu chỉ dùng tay không thuận"
   }
 }

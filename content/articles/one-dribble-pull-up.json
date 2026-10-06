@@ -77,59 +77,59 @@
     "Closeouts are the defense's answer to great shooting, and the one-dribble pull-up is the offense's answer to closeouts. A shooter who can only catch and shoot is playable; a shooter who punishes every hard closeout with a dribble into space is unguardable. It is also highly efficient — one dribble means minimal time for help to arrive."
   ],
   "vi": {
-    "title": "Ném Pull-Up Sau Một Lần Dẫn Bóng",
-    "description": "Một lần dẫn bóng mạnh để thoát khỏi closeout, rồi bật lên ném — đòn phản công thiết yếu của mọi tay ném.",
-    "whatIsIt": [
-      "One-dribble pull-up đúng như tên gọi: bắt bóng, dẫn một lần thật mạnh, rồi bật lên ném. Đó là cầu nối giữa ném catch-and-shoot và tự tạo cú ném — cách đơn giản nhất để biến một pha bắt bóng bị kèm chặt thành cú ném thoáng.",
-      "Các tay ném sống nhờ động tác này. Một hậu vệ lao tới để contest cú ném ba của bạn đã dồn hết đà; chỉ cần một lần dẫn bóng sang ngang hoặc vượt qua anh ta, đà đó biến thành khoảng trống của bạn."
+    "coachingPoints": [
+      "Chỉ một lần dẫn — sức mạnh của động tác là tốc độ; dẫn thêm là mời hàng thủ quay lại",
+      "Đẩy bóng ra trước khi dẫn, thân người ở sau tầm với của hậu vệ",
+      "Mắt nhìn rổ khi dẫn, không nhìn bóng — pha đọc diễn ra trong lúc bóng nảy",
+      "Tập đúng nhịp trận đấu: bắt bóng, một lần dẫn mạnh, dừng, ném — không ngắt quãng",
+      "Tập sau các bài bắt bóng ném ngay để hai cú ném chung một bộ chân"
     ],
-    "whyItMatters": [
-      "Closeout là câu trả lời của phòng thủ dành cho những tay ném giỏi, và one-dribble pull-up là câu trả lời của tấn công dành cho closeout. Tay ném chỉ biết catch-and-shoot thì đối phương kèm được; tay ném trừng phạt mọi pha closeout mạnh bằng một lần dẫn bóng vào khoảng trống thì không ai kèm nổi. Động tác này còn rất hiệu quả — một lần dẫn bóng nghĩa là hàng thủ hỗ trợ gần như không kịp tới."
+    "commonMistakes": [
+      "Dẫn hai ba lần mà vẫn gọi là “một” — sửa: quay video lại; cầu thủ luôn đếm thiếu số lần dẫn của mình",
+      "Dẫn bóng vào đám đông — sửa: one-dribble dành cho khe hở nhỏ; đường đóng thì chuyền hoặc di chuyển",
+      "Dừng mất thăng bằng sau khi dẫn — sửa: đường dẫn phải hướng về túi ném, không xa khỏi người",
+      "Bật lên quá chậm — sửa: từ dừng sang ném là một chuyển động; khựng ở điểm thấp giết chết lợi thế"
+    ],
+    "description": "Một lần dẫn bóng mạnh để thoát closeout, rồi bật lên ném — đòn đáp trả thiết yếu của mọi tay ném.",
+    "gameSituations": [
+      "Đánh pha closeout mạnh — hậu vệ lao tới; một lần dẫn vượt qua mở ra pull-up thoáng",
+      "Bắt bóng khi hậu vệ đã sát người — thay vì cố ném bị contest, dẫn vào khoảng trống rồi ném sạch",
+      "Isolation ở cánh — bắt bóng ở cánh, một lần dẫn về giữa, bật ném qua hậu vệ thấp hơn"
     ],
     "howTo": [
       {
-        "title": "Bắt bóng và đọc closeout",
-        "detail": "Bắt bóng ở tư thế sẵn sàng ném, nhưng phải đọc closeout: nếu hậu vệ đang lao tới, đường đột phá hoặc bước sidestep đang mở."
+        "detail": "Bắt bóng ở tư thế sẵn sàng ném, nhưng đọc ngay closeout: hậu vệ lao tới thì đường đột phá hoặc bước sidestep đang mở.",
+        "title": "Bắt bóng và đọc closeout"
       },
       {
-        "title": "Một lần dẫn bóng bùng nổ",
-        "detail": "Tấn công vào chân trước của hậu vệ bằng một lần dẫn bóng thấp, mạnh — qua hông anh ta, không đâm vào ngực. Lần dẫn bóng nên đưa bạn tiến 3–5 feet (khoảng 1–1,5 m) vào khoảng trống."
+        "detail": "Đánh vào chân trước của hậu vệ bằng một lần dẫn thấp và mạnh — qua hông anh ta, không đâm vào ngực. Lần dẫn này đưa bạn tiến 1–1,5m vào khoảng trống.",
+        "title": "Một lần dẫn bóng bùng nổ"
       },
       {
-        "title": "Dừng lại thăng bằng",
-        "detail": "Thu bóng khi bóng nảy lên và dừng bằng bước 1-2 hoặc nhảy chụm (hop), tiếp đất thăng bằng và vuông góc với rổ. Đà người nên hướng lên trên, không lệch ngang."
+        "detail": "Thu bóng khi bóng nảy lên, dừng bằng bước 1-2 hoặc nhảy chụm, tiếp đất cân bằng và vuông rổ. Đà người hướng lên trên, không lệch ngang.",
+        "title": "Dừng lại trên thăng bằng"
       },
       {
-        "title": "Bật lên ném ngay",
-        "detail": "Bật thẳng vào cú ném ngay khi chân đã đặt. Cú ném phải ra tay trước khi hậu vệ quay lại kịp contest."
+        "detail": "Bật thẳng vào cú ném ngay khi chân đã đặt. Bóng phải rời tay trước khi hậu vệ kịp quay lại contest.",
+        "title": "Bật lên ném ngay"
       },
       {
-        "title": "Hoàn thiện như cú ném thường",
-        "detail": "Kết thúc với đầy đủ kỹ thuật và giữ tay follow-through. One-dribble pull-up phải trông y hệt cú ném cố định của bạn."
+        "detail": "Hoàn thiện kỹ thuật, giữ tay follow-through. One-dribble pull-up phải trông y hệt cú ném cố định của bạn.",
+        "title": "Kết thúc như cú ném thường"
       }
-    ],
-    "coachingPoints": [
-      "Chỉ một lần dẫn bóng — sức mạnh của động tác là tốc độ; dẫn thêm là mời phòng thủ quay lại",
-      "Đẩy bóng ra phía trước khi dẫn để thân người luôn ở sau tầm với của hậu vệ",
-      "Mắt nhìn rổ khi dẫn bóng, không nhìn bóng — pha đọc tình huống diễn ra trong lúc bóng nảy",
-      "Tập đúng nhịp trận đấu: bắt bóng, một lần dẫn mạnh, dừng, ném — không ngắt quãng giữa các pha",
-      "Tập sau các bài catch-and-shoot để hai cú ném có bộ pháp giống hệt nhau"
-    ],
-    "commonMistakes": [
-      "Dẫn hai ba lần mà vẫn gọi là 'một' — cách sửa: quay video; cầu thủ luôn đánh giá thấp số lần dẫn của mình",
-      "Dẫn bóng vào đám đông — cách sửa: one-dribble dành cho khe hở nhỏ; nếu đường đã đóng, hãy chuyền hoặc di chuyển lại",
-      "Dừng lại mất thăng bằng sau khi dẫn — cách sửa: đường dẫn bóng nên hướng về túi ném (shooting pocket), không xa khỏi cơ thể",
-      "Bật lên quá chậm — cách sửa: từ dừng sang ném phải là một chuyển động liền mạch; khựng ở điểm thấp sẽ giết chết lợi thế"
-    ],
-    "gameSituations": [
-      "Tấn công một pha closeout mạnh — hậu vệ lao tới; một lần dẫn bóng vượt qua tạo ra pull-up thoáng",
-      "Bắt bóng khi hậu vệ đã ở sát người — thay vì cố ném catch-and-shoot bị contest, dẫn vào khoảng trống rồi ném sạch",
-      "Isolation ở cánh — bắt bóng ở cánh, một lần dẫn về giữa, bật ném qua hậu vệ thấp hơn"
     ],
     "tags": [
       "ném rổ",
       "ghi điểm",
-      "bộ pháp"
+      "bộ chân"
+    ],
+    "title": "Ném pull-up sau một lần dẫn bóng",
+    "whatIsIt": [
+      "One-dribble pull-up đúng như tên gọi: bắt bóng, dẫn một lần thật mạnh, rồi bật lên ném. Đây là cầu nối giữa bắt bóng ném ngay và tự tạo cú ném — cách đơn giản nhất biến một pha bắt bóng bị kèm chặt thành cú ném thoáng.",
+      "Tay ném nào cũng sống nhờ động tác này. Hậu vệ lao tới contest cú ném ba của bạn đã dồn hết đà; một lần dẫn sang ngang hoặc vượt qua anh ta, đà đó thành khoảng trống của bạn."
+    ],
+    "whyItMatters": [
+      "Closeout là câu trả lời của hàng thủ cho những tay ném giỏi, và one-dribble pull-up là câu trả lời của hàng công cho closeout. Tay ném chỉ biết bắt bóng ném ngay thì đối phương kèm được; tay ném trừng phạt mọi pha closeout mạnh bằng một lần dẫn vào khoảng trống thì không ai kèm nổi. Động tác này còn rất hiệu quả — một lần dẫn nghĩa là đội hỗ trợ gần như không kịp tới."
     ]
   }
 }

@@ -9,7 +9,7 @@ import { useLanguage } from "@/lib/i18n";
 const TYPE_LABEL: Record<string, { vi: string; en: string }> = {
   article: { vi: "Bài viết", en: "Article" },
   drill: { vi: "Bài tập", en: "Drill" },
-  workout: { vi: "Giáo án", en: "Workout" },
+  workout: { vi: "Giáo án tập", en: "Workout" },
   path: { vi: "Lộ trình", en: "Path" },
 };
 

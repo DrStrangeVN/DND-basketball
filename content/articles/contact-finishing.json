@@ -71,68 +71,68 @@
     "drive"
   ],
   "title": "Finishing Through Contact",
-  "whatIsIt": [
-    "Finishing through contact is the skill of scoring while a defender's body hits you — bumping, grabbing, or landing on you at the rim. It combines a strong base, ball protection, and a controlled release so the contact becomes your foul instead of your miss.",
-    "This is what separates athletic drivers from productive ones. Anyone can finish an open layup; elite finishers convert when a 100-kg defender is hanging on their shoulder — and they make the defender pay at the free-throw line too."
-  ],
-  "whyItMatters": [
-    "Defenses at every level are allowed to be physical at the rim. If contact stops your finish, defenses will just hit you every time. Players who finish through contact change defensive behavior — suddenly defenders hesitate to rotate, and your drives open up for everyone."
-  ],
   "vi": {
     "coachingPoints": [
-      "Chủ động tạo va chạm theo ý BẠN — đừng chờ bị húc; bạn mới là người đột phá",
-      "Trụ rộng, chắc trước va chạm: gập gối, hạ hông, vai vuông góc",
-      "Hai chân gần như luôn tốt hơn một chân khi đông người",
-      "Bóng cao và chặt — ôm vào cằm, bảo vệ nó, dứt điểm nó",
-      "Sau tiếng còi, cú ném vẫn được tính nếu bạn đang trong động tác — hãy tiếp tục vươn lên qua cú húc"
+      "Chủ động tạo va chạm theo ý mình — đừng chờ bị húc; bạn là người dẫn vào.",
+      "Trụ rộng và chắc trước va chạm: gập gối, hạ hông, vai vuông góc.",
+      "Hai chân gần như luôn tốt hơn một chân trong đám đông.",
+      "Bóng cao và gọn — kẹp dưới cằm, bảo vệ, dứt điểm.",
+      "Sau tiếng còi, cú ném vẫn tính nếu bạn đã vào động tác — cứ lên bóng xuyên qua va chạm."
     ],
     "commonMistakes": [
-      "Né va chạm và ngả người ra sau — biến một pha and-one tiềm năng thành cú fadeaway tỷ lệ thấp",
-      "Hạ bóng xuống thấp để đỡ cú húc — bóng lộ ra sẽ bị gạt",
-      "Nhảy vào hậu vệ bằng một chân mất thăng bằng — lỗi chạy bước hoặc cú ném hỏng",
-      "Phàn nàn về pha không còi thay vì chạy về phòng thủ — trọng tài nhớ nỗ lực, không nhớ cãi vã"
+      "Né va chạm và ngả người ra sau — biến cơ hội and-one thành cú fadeaway tỉ lệ thấp.",
+      "Hạ bóng thấp để chống cú húc — bóng hở là bị móc mất.",
+      "Nhảy vào đối thủ bằng một chân không thăng bằng — lỗi chạy bước hoặc ném hỏng.",
+      "Phàn nàn vì không được thổi thay vì chạy về phòng thủ — trọng tài nhớ nỗ lực, không nhớ cãi vã."
     ],
-    "description": "Biến sự quyết liệt của hàng thủ thành những pha phạm lỗi và điểm số — cách chịu va chạm, bảo vệ bóng và vẫn ghi điểm.",
+    "description": "Biến sự quyết liệt của hàng thủ thành lỗi và điểm số — cách chịu va chạm, bảo vệ bóng, và ghi điểm bằng được.",
     "gameSituations": [
-      "Đột phá vào hậu vệ hỗ trợ đang xoay ra — va chạm, jump stop, dứt điểm lấy and-one",
-      "Đánh post trước những hậu vệ quyết liệt — seal, chịu cú đẩy, bật lên mạnh mẽ",
-      "Phản công khi hậu vệ cố chặn bóng bằng cơ thể — chạy xuyên qua họ, dứt điểm mạnh"
+      "Dẫn vào người hỗ trợ đang xoay — húc, jump stop, dứt điểm kiếm and-one.",
+      "Đánh post trước đối thủ chơi rắn — chặn người, chịu cú đẩy, lên bóng mạnh.",
+      "Phản công nhanh khi đối thủ dùng người chặn bóng — chạy xuyên qua, dứt điểm chắc."
     ],
     "howTo": [
       {
-        "detail": "Đột phá về phía rổ với bóng ở hông ngoài, xa hậu vệ. Xác định va chạm sẽ đến từ đâu — thường là ngực của một hậu vệ hỗ trợ đang xoay ra.",
-        "title": "Đột phá vào điểm va chạm"
+        "detail": "Dẫn về phía rổ với bóng ở hông ngoài, xa đối thủ. Xác định va chạm sẽ tới từ đâu — thường là ngực của người xoay ra hỗ trợ.",
+        "title": "Dẫn thẳng vào va chạm"
       },
       {
-        "detail": "Rút ngắn những bước cuối và hạ thấp trọng tâm. Đặt hai chân (jump stop) hoặc một bước stride stop chắc ngay trước vùng va chạm.",
-        "title": "Hạ thấp và tạo trụ"
+        "detail": "Rút ngắn bước cuối và hạ trọng tâm. Trụ hai chân (jump stop) hoặc dừng một nhịp chắc ngay trước vùng va chạm.",
+        "title": "Hạ thấp và đứng trụ"
       },
       {
-        "detail": "Tạo va chạm ngực-đối-ngực bằng NGỰC của bạn — hơi nghiêng vào, chịu lực bằng chân và core. Mắt nhìn vào rổ suốt thời gian.",
-        "title": "Chịu lực bằng cơ thể, không phải bằng bóng"
+        "detail": "Chạm ngực-vào-ngực bằng NGỰC của bạn — hơi nghiêng vào, chịu bằng chân và core. Mắt nhìn rổ suốt thời gian.",
+        "title": "Chịu bằng cơ thể, không bằng bóng"
       },
       {
-        "detail": "Giữ bóng cao — ngang ngực hoặc cao hơn — và đưa bóng lên xuyên qua va chạm trong một chuyển động. Ôm bóng hai tay bảo vệ bóng tốt nhất khi đông người.",
+        "detail": "Giữ bóng cao — ngang ngực trở lên — và đưa bóng lên xuyên qua va chạm trong một nhịp. Gom bóng hai tay bảo vệ bóng tốt nhất trong đám đông.",
         "title": "Bóng cao, dứt điểm xuyên qua"
       },
       {
-        "detail": "Duỗi tay và ra tay với động tác ném bình thường, không phải cú vung bừa. Nếu tay trọng tài giơ lên, bạn đã kiếm được pha phạm lỗi — hãy hoàn thành pha bóng bất kể.",
-        "title": "Hoàn thành động tác"
+        "detail": "Duỗi tay và ra bóng bằng động tác ném bình thường, không quăng. Nếu tay trọng tài giơ lên, bạn đã kiếm được lỗi — dứt điểm cho xong pha bóng.",
+        "title": "Hoàn tất động tác ném"
       }
     ],
     "tags": [
       "va chạm",
       "dứt điểm",
       "and-one",
-      "đột phá"
+      "dẫn bóng"
     ],
-    "title": "Dứt Điểm Qua Va Chạm",
+    "title": "Dứt điểm qua va chạm",
     "whatIsIt": [
-      "Dứt điểm qua va chạm là kỹ năng ghi điểm trong khi cơ thể hậu vệ húc vào bạn — xô đẩy, túm kéo, hoặc đè lên bạn ở rổ. Nó kết hợp trụ vững, bảo vệ bóng và cú ra tay có kiểm soát để biến va chạm thành pha phạm lỗi của họ thay vì cú ném hỏng của bạn.",
-      "Đây là điều phân biệt người đột phá có thể hình với người đột phá hiệu quả. Ai cũng dứt điểm được một pha layup trống; những người dứt điểm đẳng cấp ghi điểm khi một hậu vệ 100 kg đang bám trên vai — và họ bắt hậu vệ trả giá ở vạch ném phạt nữa."
+      "Dứt điểm qua va chạm là kỹ năng ghi điểm trong khi cơ thể đối thủ ập vào bạn — húc, kéo, hay đáp xuống người bạn ở rổ. Nó kết hợp trụ vững, bảo vệ bóng, và pha ra tay có kiểm soát để va chạm thành lỗi của đối thủ thay vì cú ném hỏng của bạn.",
+      "Đây là thứ phân biệt người dẫn bóng giỏi thể chất với người dẫn bóng hiệu quả. Ai cũng dứt được layup trống; người dứt điểm đẳng cấp vẫn ghi khi một cầu thủ 100kg đeo trên vai — và bắt đối thủ trả giá ở vạch ném phạt."
     ],
     "whyItMatters": [
-      "Hàng thủ ở mọi cấp độ đều được phép quyết liệt ở rổ. Nếu va chạm chặn được pha dứt điểm của bạn, hàng thủ sẽ húc bạn mọi lần. Những cầu thủ dứt điểm qua va chạm thay đổi hành vi phòng thủ — đột nhiên hậu vệ chần chừ khi xoay ra, và những pha đột phá của bạn mở ra cho cả đội."
+      "Hàng thủ ở mọi cấp độ được phép chơi quyết liệt ở rổ. Nếu va chạm ngăn được cú dứt điểm của bạn, họ sẽ húc bạn mọi lần. Cầu thủ dứt điểm qua va chạm thay đổi hành vi phòng thủ — đối thủ bỗng chần chừ xoay ra hỗ trợ, và đường dẫn của bạn mở ra cho cả đội."
     ]
-  }
+  },
+  "whatIsIt": [
+    "Finishing through contact is the skill of scoring while a defender's body hits you — bumping, grabbing, or landing on you at the rim. It combines a strong base, ball protection, and a controlled release so the contact becomes your foul instead of your miss.",
+    "This is what separates athletic drivers from productive ones. Anyone can finish an open layup; elite finishers convert when a 100-kg defender is hanging on their shoulder — and they make the defender pay at the free-throw line too."
+  ],
+  "whyItMatters": [
+    "Defenses at every level are allowed to be physical at the rim. If contact stops your finish, defenses will just hit you every time. Players who finish through contact change defensive behavior — suddenly defenders hesitate to rotate, and your drives open up for everyone."
+  ]
 }

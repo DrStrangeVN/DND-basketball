@@ -66,54 +66,54 @@
   "rescreen-pnr"
  ],
  "vi": {
-  "title": "Pick & Roll Trước Hàng Thủ Switch",
-  "description": "Hàng thủ đã switch mọi thứ — giờ biến pha switch sạch của họ thành mismatch của bạn bằng seal, slip và re-screen.",
-  "whatIsIt": [
-   "Khi hàng thủ switch mọi chắn bóng, pick and roll không còn là chuyện tạo khoảng trống mà là chuyện cặp đấu. Guard gặp big, big gặp guard — và nhiệm vụ của tấn công là đánh vào mismatch nào có lợi.",
-   "Đánh bại switch là một hệ thống: slip chắn trước khi switch ổn định, seal guard nhỏ khi bị switch, dựng lại chắn để ép switch lần hai, hoặc kéo big ra và vượt qua. Switch cho bạn mismatch mọi lần — nhưng chỉ khi bạn tấn công ngay."
-  ],
-  "whyItMatters": [
-   "Switch là kiểu thủ PNR phổ biến nhất ở mọi cấp độ vì đơn giản và không cần hô nhiều. Nếu PNR của bạn chết trước switch, tấn công của bạn chết theo. Các đòn phản đơn giản, nhưng phải tức thì — tấn công chậm để hàng thủ re-switch hoặc gửi help."
-  ],
-  "howTo": [
-   {
-    "title": "Slip trước switch",
-    "detail": "Nếu cảm thấy switch sắp đến, slip chắn và lao vào. Big man đang switch bước ra kèm bóng — anh ta chưa sẵn sàng kèm pha lao vào rổ của bạn."
-   },
-   {
-    "title": "Seal guard nhỏ",
-    "detail": "Khi big của bạn bị switch sang kèm guard, seal anh ta ở phía trên và xin bóng. Seal sâu là layup; ngay cả seal cao cũng bẻ cong cả hàng thủ."
-   },
-   {
-    "title": "Đánh big bằng dẫn bóng",
-    "detail": "Khi guard của bạn gặp big, tấn công chân ngoài của anh ta ngay — một pha dẫn mạnh rồi đi. Big man lùi dần là hậu vệ dễ bị đánh bại nhất trong bóng rổ."
-   },
-   {
-    "title": "Dựng lại để gây rối",
-    "detail": "Nếu switch đầu sạch, dựng lại. Hai switch trong một possession gây nhầm lẫn — sẽ có người chậm, và đó là cơ hội của bạn."
-   }
-  ],
-  "coachingPoints": [
-   "Tốc độ giết switch — mọi đòn phản phải diễn ra trong 2 giây sau switch.",
-   "Dạy big man bắt đường chuyền seal; guard phải ném sớm và cao.",
-   "Nếu họ ngừng switch và về drop, hãy ném pull-up — các đòn phản đã làm xong việc."
-  ],
-  "commonMistakes": [
-   "Chạy PNR y như cũ và chấp nhận cú ném khó qua switch.",
-   "Seal quá xa — seal ở vạch ba điểm chẳng giúp được ai.",
-   "Guard nhảy múa thay vì tấn công chân ngoài của big."
-  ],
-  "gameSituations": [
-   "Trước mọi hàng thủ switch — kiểu kèm PNR phổ biến nhất bạn sẽ gặp.",
-   "Với post scorer thống trị: săn guard nhỏ vào anh ta mỗi lượt.",
-   "Cuối giờ: một switch, một mismatch, một clear-out."
-  ],
-  "tags": [
-   "pick and roll",
-   "switch",
-   "mismatch"
-  ]
- },
+    "coachingPoints": [
+      "Tốc độ giết switch — mọi đòn phản phải diễn ra trong 2 giây sau switch",
+      "Dạy big bắt đường chuyền seal; guard phải chuyền sớm và cao",
+      "Họ ngừng switch về drop, ném pull-up ngay — các đòn phản đã làm xong việc"
+    ],
+    "commonMistakes": [
+      "Chạy PNR y như cũ, chấp nhận cú ném khó qua switch",
+      "Seal quá xa — seal ở vạch 3 điểm chẳng giúp được ai",
+      "Guard nhảy múa thay vì đánh vào chân trước của big"
+    ],
+    "description": "Hàng thủ đã switch mọi thứ — giờ biến pha switch sạch của họ thành cặp đấu lệch của bạn bằng seal, slip và re-screen.",
+    "gameSituations": [
+      "Đấu mọi hàng thủ switch — coverage PNR phổ biến nhất bạn sẽ gặp",
+      "Có post scorer thống trị: săn guard nhỏ vào anh ta mọi lượt",
+      "Cuối đồng hồ: một switch, một cặp đấu lệch, một clear-out"
+    ],
+    "howTo": [
+      {
+        "detail": "Cảm thấy switch sắp tới, slip screen rồi lao vào. Big đang switch bước ra kèm bóng — anh ta chưa sẵn sàng kèm pha lao vào rổ của bạn.",
+        "title": "Slip trước switch"
+      },
+      {
+        "detail": "Big của bạn bị switch sang kèm guard, seal anh ta ở phía trên rồi xin bóng. Seal sâu là layup; ngay cả seal cao cũng bẻ cong cả hàng thủ.",
+        "title": "Seal guard nhỏ"
+      },
+      {
+        "detail": "Guard của bạn gặp big, đánh vào chân trước của anh ta ngay — một nhịp dẫn mạnh rồi đi. Big lùi dần là hậu vệ dễ bị đánh bại nhất trong bóng rổ.",
+        "title": "Đánh big bằng dẫn bóng"
+      },
+      {
+        "detail": "Switch đầu sạch, dựng lại. Hai switch trong một lượt bóng gây nhầm lẫn — sẽ có người chậm, và đó là cơ hội của bạn.",
+        "title": "Dựng lại để gây rối"
+      }
+    ],
+    "tags": [
+      "pick and roll",
+      "switch",
+      "cặp đấu lệch"
+    ],
+    "title": "Pick & roll trước hàng thủ switch",
+    "whatIsIt": [
+      "Khi hàng thủ switch mọi screen bóng, pick and roll không còn là chuyện tạo khoảng trống mà là chuyện cặp đấu. Guard gặp big, big gặp guard — và việc của tấn công là đánh vào cặp đấu lệch có lợi cho mình.",
+      "Đánh bại switch là một hệ thống: slip screen trước khi switch ổn định, seal guard nhỏ khi bị switch, dựng lại screen để ép switch lần hai, hoặc kéo big ra rồi vượt qua. Switch cho bạn cặp đấu lệch mọi lần — nhưng chỉ khi bạn đánh ngay."
+    ],
+    "whyItMatters": [
+      "Switch là hàng thủ PNR phổ biến nhất ở mọi cấp độ vì đơn giản và không cần hô nhiều. PNR của bạn chết trước switch, tấn công của bạn chết theo. Các đòn phản đơn giản, nhưng phải tức thì — đánh chậm để hàng thủ switch lại hoặc gửi hỗ trợ."
+    ]
+  },
  "id": "pnr-vs-switch",
  "slug": "pnr-vs-switch",
  "dateUpdated": "2026-10-06"

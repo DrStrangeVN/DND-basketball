@@ -66,49 +66,49 @@
   ],
   "dateUpdated": "2026-10-06",
   "vi": {
-    "title": "Dẫn Bóng Zigzag Toàn Sân",
-    "description": "Bài dẫn bóng toàn sân kết hợp thể lực: crossover ở mỗi cọc qua 6 cọc zigzag, kết thúc bằng layup.",
-    "goal": "Dẫn bóng toàn sân qua 6 cọc zigzag, crossover sắc ở mỗi cọc mà không mất bóng.",
-    "setup": [
-      "Đặt 6 cọc tiêu zigzag dọc sân, mỗi cọc cách nhau khoảng 4m, xen kẽ hai bên lane.",
-      "Bắt đầu ở cuối sân có bóng; đường zigzag chạy đến rổ xa.",
-      "Để sẵn một bóng dự phòng ở cuối sân bên kia phòng khi bóng văng."
-    ],
-    "instructions": [
-      {
-        "title": "Zigzag Lượt Đi",
-        "detail": "Dẫn bóng 80% tốc độ dọc sân, đổi hướng bằng crossover mạnh ở mỗi cọc trong 6 cọc. Tấn công vai ngoài của mỗi cọc và đẩy bóng qua người ở tầm thấp. Kết thúc bằng layup ở rổ xa."
-      },
-      {
-        "title": "Zigzag Lượt Về",
-        "detail": "Bắt rebound và lập tức zigzag ngược lại theo đúng đường cũ, crossover cả 6 cọc lần nữa. Kết thúc bằng layup ở rổ ban đầu. Đó là một vòng khứ hồi."
-      },
-      {
-        "title": "Đổi Động Tác",
-        "detail": "Vòng khứ hồi thứ hai: dùng between-the-legs ở cọc 1, 3, 5 và behind-the-back ở cọc 2, 4, 6. Giữ bóng dưới gối ở mọi động tác."
-      },
-      {
-        "title": "Chạy Tính Giờ",
-        "detail": "Chạy 4 vòng khứ hồi tính giờ. Mục tiêu dưới 25 giây mỗi vòng gồm cả hai layup. Nếu mất bóng, nhặt lên và chạy tiếp — đồng hồ không dừng."
-      }
-    ],
     "coachingPoints": [
-      "Mỗi crossover phải thấp dưới gối và vẩy mạnh qua — crossover cao lười sẽ bị cướp.",
+      "Mỗi crossover phải dưới gối và vẩy mạnh qua — crossover cao lười sẽ bị cướp.",
       "Đổi hướng bằng chân trước, rồi mới di chuyển bóng.",
       "Giữ tay không bóng giơ lên làm khiên chắn suốt đường zigzag.",
       "Sprint giữa các cọc; bài này chỉ hiệu quả ở tốc độ trận đấu."
     ],
     "commonMistakes": [
-      "Chạm cọc rồi mới đổi bóng, để bóng hở quá lâu.",
+      "Chạm cọc rồi mới đổi bóng — bóng hở quá lâu.",
       "Crossover khi đứng thẳng người thay vì giữ tư thế thấp."
     ],
-    "progression": "Thêm hậu vệ theo kèm được với tay nhưng không cướp hẳn, hoặc yêu cầu kiểu kết thúc cụ thể (reverse, euro step) ở mỗi layup.",
-    "regression": "Đi bộ zigzag trước không tính giờ đến khi mọi crossover sạch, rồi tăng dần lên 60% tốc độ.",
-    "gameApplication": "Mô phỏng luồn qua press toàn sân hoặc phòng ngự chuyển đổi mà vẫn giữ bóng sống ở tốc độ cao.",
-    "players": "1",
+    "description": "Bài dẫn bóng toàn sân kết hợp thể lực: crossover ở mỗi cọc qua 6 cọc zigzag, kết thúc bằng layup.",
     "equipment": [
       "Bóng rổ",
       "Cọc tiêu"
-    ]
+    ],
+    "gameApplication": "Mô phỏng luồn qua press toàn sân hoặc phòng thủ chuyển đổi mà vẫn giữ bóng sống ở tốc độ cao.",
+    "goal": "Dẫn bóng toàn sân qua 6 cọc zigzag, crossover sắc ở mỗi cọc mà không mất bóng.",
+    "instructions": [
+      {
+        "detail": "Dẫn bóng 80% tốc độ dọc sân, đổi hướng bằng crossover mạnh ở cả 6 cọc. Tấn công vai ngoài của mỗi cọc, đẩy bóng qua người ở tầm thấp. Kết thúc bằng layup ở rổ xa.",
+        "title": "Zigzag lượt đi"
+      },
+      {
+        "detail": "Bắt rebound rồi lập tức zigzag ngược lại đúng đường cũ, crossover cả 6 cọc lần nữa. Kết thúc bằng layup ở rổ ban đầu. Đó là một vòng khứ hồi.",
+        "title": "Zigzag lượt về"
+      },
+      {
+        "detail": "Vòng khứ hồi thứ hai: xỏ háng ở cọc 1, 3, 5 và vòng sau lưng ở cọc 2, 4, 6. Giữ bóng dưới gối ở mọi động tác.",
+        "title": "Đổi động tác"
+      },
+      {
+        "detail": "Chạy 4 vòng khứ hồi tính giờ. Mục tiêu dưới 25 giây mỗi vòng, gồm cả hai layup. Mất bóng thì nhặt lên chạy tiếp — đồng hồ không dừng.",
+        "title": "Chạy tính giờ"
+      }
+    ],
+    "players": "1",
+    "progression": "Thêm hậu vệ theo kèm được với tay nhưng không cướp hẳn, hoặc yêu cầu kiểu dứt điểm cụ thể (reverse, Euro step) ở mỗi layup.",
+    "regression": "Đi bộ zigzag trước, không tính giờ, tới khi mọi crossover sạch, rồi tăng dần lên 60% tốc độ.",
+    "setup": [
+      "Đặt 6 cọc tiêu zigzag dọc sân, mỗi cọc cách nhau khoảng 3,6m, xen kẽ hai bên khu vực dưới rổ.",
+      "Bắt đầu ở cuối sân có bóng; đường zigzag chạy tới rổ xa.",
+      "Để sẵn một bóng dự phòng ở cuối sân bên kia phòng khi bóng văng."
+    ],
+    "title": "Dẫn bóng zigzag toàn sân (zigzag handles)"
   }
 }

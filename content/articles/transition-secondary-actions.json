@@ -66,52 +66,52 @@
   "transition-offense"
  ],
  "vi": {
-  "title": "Bài Đánh Làn Sóng Hai Sau Break",
-  "description": "Pha break đầu bị chặn — giờ tấn công hàng thủ đang rối bằng làn sóng hai trước khi nó hồi.",
+  "title": "Đòn đánh tiếp theo sau pha phản công (secondary actions)",
+  "description": "Đợt phản công đầu bị chặn — giờ tấn công hàng thủ đang rối bằng đợt sóng thứ hai trước khi nó hồi phục.",
   "whatIsIt": [
-   "Secondary actions là những pha tiếp nối ngay khi pha phản công đầu không tạo ra cú ném: một chắn bóng nhanh, một DHO, một flare cho tay ném — chạy trong 3–4 giây, khi hàng thủ còn đang chạy về rối loạn và lệch kèm. Nó không phải break cũng không phải half-court; nó là khoảng giữa chết người.",
-   "Các đội transition đỉnh cao sống ở đây. Làn sóng đầu bẻ cong hàng thủ; bài đánh làn hai phá vỡ nó — vì hàng thủ đã dùng hết tổ chức để chặn làn một."
+   "Đòn đánh tiếp theo là những pha tiếp nối ngay khi pha phản công nhanh đầu tiên không ra cú ném: một screen nhanh, một DHO, một pha flare cho tay ném — chạy trong 3–4 giây, lúc hàng thủ còn đang chạy về rối loạn và lệch kèo. Nó không phải pha phản công, cũng không phải tấn công nửa sân; nó là khoảng giữa chết người.",
+   "Đội phản công đỉnh cao sống ở đây. Đợt sóng đầu làm hàng thủ cong; đòn đánh thứ hai bẻ gãy nó — vì hàng thủ đã dùng hết sự tổ chức để chặn đợt một."
   ],
   "whyItMatters": [
-   "Hàng thủ drill để 'chặn break' — và họ giỏi việc đó. Nhưng không ai ổn định sau khi chặn break; họ chỉ ít rối hơn. Bài đánh làn hai tấn công đúng khoảnh khắc hồi phục dở dang đó, tạo những cú nhìn half-court dễ nhất bạn từng có."
+   "Hàng thủ tập để “chặn pha phản công” — và họ giỏi việc đó. Nhưng không ai ổn định ngay sau khi chặn xong pha phản công; họ chỉ bớt rối hơn. Đòn đánh tiếp theo tấn công đúng khoảnh khắc hồi phục dở dang đó, tạo ra những cú ném nửa sân dễ nhất từng thấy."
   ],
   "howTo": [
    {
-    "title": "Đừng reset — hãy nạp lại",
-    "detail": "Khi break chững ở vòng cung, đừng kéo bóng ra. Người cầm bóng giữ dẫn sống và big gần nhất chảy vào chắn bóng trong hai giây."
+    "title": "Đừng làm lại — nạp lại",
+    "detail": "Khi pha phản công chững ở vòng cung, đừng dắt bóng lùi ra. Người dẫn bóng giữ bóng sống, big gần nhất chảy vào screen trong hai giây."
    },
    {
-    "title": "Tấn công mismatch",
-    "detail": "Break tạo ra lệch kèm — big kèm guard, guard kèm big. Tìm ngay và tấn công trước khi hàng thủ tự sắp xếp."
+    "title": "Tấn công vào kèo lệch",
+    "detail": "Pha phản công tạo ra kèo chéo — big kèm hậu vệ, hậu vệ kèm big. Tìm ngay và tấn công trước khi hàng thủ sắp xếp xong."
    },
    {
     "title": "Dùng DHO",
-    "detail": "Dribble handoff khi đang di chuyển là bài làn hai hoàn hảo: nó tấn công lại xuống dốc trong khi hàng thủ còn đang quay tìm tay ném."
+    "detail": "Dribble handoff khi đang di chuyển là đòn đánh thứ hai hoàn hảo: tấn công xuống rổ trở lại trong lúc hàng thủ còn đang quay tìm tay ném."
    },
    {
-    "title": "Giữ nhịp",
-    "detail": "Bài làn hai chỉ hiệu quả ở tốc độ. Đi bộ vào nó thì chỉ là tấn công half-court chậm — toàn bộ lợi thế bay hơi."
+    "title": "Giữ nhịp độ",
+    "detail": "Đòn đánh thứ hai chỉ hiệu quả ở tốc độ cao. Đi bộ vào thì nó chỉ là tấn công nửa sân chậm chạp — toàn bộ lợi thế bốc hơi."
    }
   ],
   "coachingPoints": [
-   "Gọi tên nó — 'làn sóng hai!' — để cầu thủ nhận ra khoảnh khắc.",
-   "Bài làn hai nên là một trigger tự động, không phải menu lựa chọn.",
-   "Trailer thường là người kích hoạt — anh ta đến nơi khi break chững."
+   "Gọi tên nó — “đợt hai!” — để cầu thủ nhận ra thời điểm.",
+   "Đòn đánh thứ hai nên là một tín hiệu tự động duy nhất, không phải cả thực đơn lựa chọn.",
+   "Trailer thường là người kích hoạt — anh ta đến đúng lúc pha phản công chững lại."
   ],
   "commonMistakes": [
-   "Kéo bóng ra để 'chạy bài gì đó' — bạn vừa tặng hàng thủ một pha reset.",
-   "Chạy bài làn hai quá chậm — tốc độ là toàn bộ vũ khí.",
-   "Cố pha break đầu thay vì chảy sang làn hai — biết khi nào làn một đã chết."
+   "Dắt bóng lùi ra để “chạy bài gì đó” — vừa tặng hàng thủ một lần làm lại.",
+   "Chạy đòn đánh thứ hai quá chậm — tốc độ là toàn bộ vũ khí.",
+   "Ép pha phản công đầu thay vì chuyển sang đợt hai — biết khi nào đợt một đã chết."
   ],
   "gameSituations": [
-   "Khi hàng thủ đã về nhưng lệch kèm và đang rối.",
-   "Sau khi đối thủ ghi điểm — secondary break từ ném biên.",
-   "Với trailer đa năng có thể chắn, pop hoặc đột phá."
+   "Khi hàng thủ về kịp nhưng đang lệch kèo và rối loạn.",
+   "Sau khi đối thủ ghi điểm — đợt phản công thứ hai từ phát bóng biên.",
+   "Với trailer đa năng có thể screen, pop, hoặc đột phá."
   ],
   "tags": [
-   "transition",
-   "tấn công",
-   "phản công"
+   "phản công",
+   "đợt tấn công thứ hai",
+   "tấn công"
   ]
  },
  "id": "transition-secondary-actions",

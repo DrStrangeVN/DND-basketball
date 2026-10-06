@@ -81,63 +81,63 @@
     "Weak hands are the root cause of most turnovers: stripped balls, balls bouncing off feet, dribbles killed by pressure. Pounding builds the hand speed and grip strength that lets you keep the ball alive against defenders who poke and reach. It is the fastest way to make a young player's dribble noticeably tougher."
   ],
   "vi": {
-    "title": "Dẫn Bóng Mạnh (Pound Dribble)",
-    "description": "Dập bóng mạnh và thấp xuống mặt sân để rèn sức tay, khả năng kiểm soát bóng và sự tự tin khi bị đối phương kèm chặt.",
-    "whatIsIt": [
-      "Dẫn bóng mạnh (pound dribble) là một pha đập bóng chủ động thật mạnh xuống sàn, giữ bóng thấp — ngang đầu gối hoặc thấp hơn. Bạn dập càng mạnh, bóng nảy trở lại tay càng nhanh, qua đó rèn phản xạ và cảm giác bóng.",
-      "Đây không hẳn là một động tác qua người mà là một công cụ tập luyện. Chỉ vài phút dập bóng mỗi ngày sẽ rèn sức cổ tay và cẳng tay, giúp mọi kiểu dẫn bóng khác trở nên dễ dàng hơn."
+    "coachingPoints": [
+      "Tiếng bóng nói lên mức độ nỗ lực — tiếng “bụp” đục nghĩa là bạn đang đẩy bóng chứ không phải dập bóng",
+      "Bóng luôn dưới đầu gối: điểm nảy thấp là điểm nảy được bảo vệ",
+      "Đầu ngón tay bám bóng suốt cú bật; đừng để bóng lăn khỏi lòng bàn tay phẳng",
+      "Mắt ngước lên — ngay cả khi dập hết lực, luyện cảm giác bóng mà không nhìn",
+      "Kết hợp các cú dập với vài bước chân nhỏ (stutter step) để mô phỏng di chuyển trong trận"
     ],
-    "whyItMatters": [
-      "Bàn tay yếu là nguyên nhân gốc rễ của phần lớn các pha mất bóng: bị thọc mất bóng, bóng đập vào chân, pha dẫn bóng bị \"giết\" khi chịu áp lực. Dập bóng mạnh rèn tốc độ tay và lực nắm giúp bạn giữ bóng sống trước những hậu vệ thích thọc tay và với bóng. Đây là cách nhanh nhất để khiến khả năng dẫn bóng của một cầu thủ trẻ trở nên khó bắt bài rõ rệt."
+    "commonMistakes": [
+      "Dẫn bóng cao ngang hông mà cứ tưởng mình đang “dập mạnh” — sửa: ý nghĩa của bài tập là bóng nảy về nhanh, nên hạ mục tiêu tay xuống ngang đầu gối",
+      "Đập bằng lòng bàn tay thay vì bật bằng ngón tay — sửa: chậm lại tới khi mỗi cú dập có cảm giác như đang đẩy bóng bằng đầu ngón tay",
+      "Nín thở và gồng vai — sửa: thở ra mỗi lần lặp, thả lỏng vai; căng cứng truyền xuống bàn tay",
+      "Dập tại một chỗ suốt nhiều phút — sửa: đổi điểm nảy qua hai ba vị trí (trước mặt, bên cạnh chân, sau chân) cho đa dạng"
+    ],
+    "description": "Dập bóng mạnh và thấp xuống mặt sân để rèn sức tay, khả năng kiểm soát bóng và sự tự tin dưới áp lực.",
+    "gameSituations": [
+      "Trước trận khi tay còn lạnh — 2 phút dập bóng làm nóng cảm giác tay nhanh hơn bất cứ bài nào",
+      "Sau khi bắt bóng giữa đám đông — một cú dập mạnh giữ chắc bóng, ngăn đối phương thọc tay cướp",
+      "Khi hậu vệ với tay — điểm nảy thấp, mạnh khó bị chạm đổi hướng hơn nhiều so với điểm nảy mềm, cao"
     ],
     "howTo": [
       {
-        "title": "Đứng thấp, chân rộng",
-        "detail": "Hạ thấp hơn tư thế dẫn bóng bình thường — gối gập sâu, lưng thẳng. Cơ thể thấp đi đôi với điểm nảy thấp."
+        "detail": "Hạ thấp hơn tư thế dẫn bóng bình thường — gối gập sâu, lưng thẳng. Cơ thể thấp đi đôi với điểm nảy thấp.",
+        "title": "Đứng thấp, chân rộng"
       },
       {
-        "title": "Cổ tay kéo về sau",
-        "detail": "Nâng tay lên một chút và gập cổ tay sao cho các ngón tay hướng về phía bạn. Tư thế này tích lực như kéo căng một chiếc lò xo."
+        "detail": "Nâng tay lên một chút, gập cổ tay sao cho các ngón tay hướng về phía bạn. Tư thế này tích lực như kéo căng một chiếc lò xo.",
+        "title": "Cổ tay kéo về sau"
       },
       {
-        "title": "Dập bóng thật mạnh",
-        "detail": "Bật cổ tay và khuỷu tay để dập bóng xuống sàn, cách mũi chân khoảng 15–30 cm. Mục tiêu là tiếng đập gọn, đanh."
+        "detail": "Bật cổ tay và khuỷu tay dập bóng xuống sàn, cách mũi chân 15–30cm. Mục tiêu là tiếng đập gọn, đanh.",
+        "title": "Dập bóng thật mạnh"
       },
       {
-        "title": "Đón bóng thấp và lặp lại ngay",
-        "detail": "Đón bóng trên đường nảy lên bằng các ngón tay chắc khỏe ở ngang đầu gối rồi đập thẳng xuống ngay. Không nghỉ — dập liên tục 30 đến 60 giây."
+        "detail": "Đón bóng trên đường nảy lên bằng các ngón tay chắc ở ngang đầu gối rồi dập thẳng xuống ngay. Không nghỉ — dập liên tục 30 đến 60 giây.",
+        "title": "Đón bóng thấp và lặp lại ngay"
       },
       {
-        "title": "Bảo vệ điểm nảy",
-        "detail": "Giữ điểm nảy sát người để bóng không bao giờ văng xa đến mức hậu vệ với tới được."
+        "detail": "Giữ điểm nảy sát người để bóng không bao giờ văng xa tới mức hậu vệ với tới được.",
+        "title": "Bảo vệ điểm nảy"
       },
       {
-        "title": "Tập theo hiệp cho cả hai tay",
-        "detail": "Thực hiện 3 hiệp 30 giây mỗi tay, nghỉ 15 giây giữa các hiệp. Các hiệp tay yếu luôn thực hiện cuối cùng để dồn toàn lực."
+        "detail": "3 hiệp 30 giây mỗi tay, nghỉ 15 giây giữa các hiệp. Các hiệp tay không thuận luôn tập cuối cùng để dồn toàn lực.",
+        "title": "Tập theo hiệp cho cả hai tay"
       }
-    ],
-    "coachingPoints": [
-      "Tiếng bóng nói lên mức độ nỗ lực — tiếng \"bụp\" đục có nghĩa là bạn đang đẩy bóng chứ không phải dập bóng.",
-      "Bóng luôn dưới đầu gối: điểm nảy thấp là điểm nảy được bảo vệ.",
-      "Đầu ngón tay bám bóng suốt cú bật; đừng để bóng lăn khỏi lòng bàn tay phẳng.",
-      "Mắt ngước lên — ngay cả khi dập hết lực, hãy luyện cảm giác bóng mà không nhìn.",
-      "Kết hợp các cú dập với vài bước chân nhỏ (stutter step) để mô phỏng di chuyển trong trận đấu."
-    ],
-    "commonMistakes": [
-      "Dẫn bóng cao ngang hông mà cứ tưởng mình đang \"dập mạnh\" — cách sửa: ý nghĩa của bài tập là bóng nảy về nhanh, nên hạ mục tiêu tay xuống ngang đầu gối.",
-      "Đập bằng lòng bàn tay thay vì bật bằng ngón tay — cách sửa: chậm lại đến khi mỗi cú dập có cảm giác như đang đẩy bóng bằng đầu ngón tay.",
-      "Nín thở và gồng vai — cách sửa: thở ra mỗi lần lặp và thả lỏng vai; căng cứng sẽ truyền xuống bàn tay.",
-      "Dập tại một chỗ suốt nhiều phút — cách sửa: đổi điểm nảy qua hai ba vị trí (trước mặt, bên cạnh chân, sau chân) cho đa dạng."
-    ],
-    "gameSituations": [
-      "Trước trận khi tay còn lạnh — 2 phút dập bóng làm nóng cảm giác tay nhanh hơn bất cứ bài nào.",
-      "Sau khi bắt bóng giữa đám đông — một cú dập mạnh có thể giữ chắc bóng và ngăn đối phương thọc tay cướp.",
-      "Khi hậu vệ với tay — điểm nảy thấp, mạnh khó bị chạm đổi hướng hơn nhiều so với điểm nảy mềm, cao."
     ],
     "tags": [
       "dẫn bóng",
-      "kỹ năng dẫn bóng",
-      "kiểm soát bóng"
+      "kiểm soát bóng",
+      "cơ bản"
+    ],
+    "title": "Dẫn bóng mạnh (pound dribble)",
+    "whatIsIt": [
+      "Dẫn bóng mạnh (pound dribble) là một pha dập bóng chủ động thật mạnh xuống sàn, giữ bóng thấp — ngang đầu gối hoặc thấp hơn. Dập càng mạnh, bóng nảy trở lại tay càng nhanh, rèn phản xạ và cảm giác bóng.",
+      "Đây không hẳn là động tác qua người mà là công cụ tập luyện. Vài phút dập bóng mỗi ngày rèn sức cổ tay và cẳng tay, giúp mọi kiểu dẫn bóng khác dễ dàng hơn."
+    ],
+    "whyItMatters": [
+      "Tay yếu là nguyên nhân gốc rễ của phần lớn các pha mất bóng: bị thọc mất bóng, bóng đập vào chân, pha dẫn bóng bị “giết” khi chịu áp lực. Dập bóng mạnh rèn tốc độ tay và lực nắm giúp bạn giữ bóng sống trước những hậu vệ thích thọc tay và với bóng. Đây là cách nhanh nhất để khả năng dẫn bóng của một cầu thủ trẻ khó bắt bài rõ rệt."
     ]
   }
 }

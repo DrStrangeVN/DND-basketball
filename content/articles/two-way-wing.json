@@ -81,62 +81,62 @@
   ],
   "dateUpdated": "2026-10-06",
   "vi": {
-    "title": "Two-Way Wing – Cánh Toàn Diện",
-    "description": "Mẫu wing hiện đại: kèm chặt ngôi sao ngoài vòng của đối phương, ném spot-up ba điểm, tấn công closeout và chạy phản công — hình mẫu được săn đón nhất trong bóng rổ ngày nay.",
-    "whatIsIt": [
-      "Two-way wing là cầu thủ cao khoảng 1m96 đến 2m06, tạo ảnh hưởng cả hai đầu sân mà không cần cầm bóng nhiều. Phòng ngự, họ nhận nhiệm vụ kèm wing khó nhất và switch kèm từ vị trí 1 đến 4; tấn công, họ giãn sân, cắt rổ đúng thời điểm, và trừng phạt closeout bằng những pha đột phá thẳng.",
-      "Đây là vai trò mà mọi đội đua vô địch đều sẵn sàng trả giá cao, vì nó giải quyết hai bài toán cùng lúc: phòng ngự ngoài vòng và spacing. Bạn không cần 20 điểm — bạn cần những pha thủ, những quả ba, và không một pha bóng nào tắt điện."
-    ],
-    "whyItMatters": [
-      "Đội hình sống hay chết phụ thuộc vào wing làm được cả hai việc. Wing chỉ biết ghi điểm sẽ bị săn trên mặt trận phòng ngự; wing chỉ biết thủ sẽ bị bỏ trống và làm nghẽn spacing. Two-way wing giúp HLV chơi small-ball, switch mọi thứ, không phải giấu ai — đó là lý do hình mẫu này đá chính ở mọi đội vô địch, mọi cấp độ."
-    ],
-    "howTo": [
-      {
-        "title": "Khóa chặt ở vị trí point-of-attack",
-        "detail": "Nhận kèm wing hay nhất của đối phương và khiến mọi pha bắt bóng của hắn đều khó khăn: ngực áp ngực khi kèm bóng, deny pha bắt bóng dễ khi không bóng. Trượt chân, đừng với tay — phạm lỗi giết phút thi đấu của bạn nhanh hơn ném trượt. Nghiên cứu một thói quen của từng đối thủ (tay thuận, đòn tủ) và khóa nó lại."
-      },
-      {
-        "title": "Trở nên tự động từ hai góc",
-        "detail": "Đồng tiền tấn công của bạn là cú catch-and-shoot ba điểm, đặc biệt từ góc sân. Tập 300 lần mỗi tuần đúng tốc độ trận đấu: chạy nước rút ra vị trí, set chân trên không, bắt bóng sẵn sàng bật ném. Tay ném góc đạt 38% không bao giờ phải ngồi ngoài."
-      },
-      {
-        "title": "Tấn công closeout trong tối đa hai nhịp dribble",
-        "detail": "Khi hàng thủ lao ra, đường đột phá đã mở — một hai nhịp dribble mạnh tới rổ hoặc pull-up. Đọc đà của hậu vệ: lao tới nghĩa là đột phá, giữ thăng bằng nghĩa là ném. Đừng bao giờ dribble bốn nhịp vào đám đông; đó là turnover mặc áo đấu."
-      },
-      {
-        "title": "Chạy mọi lane phản công hết tốc lực",
-        "detail": "Wing thắng trận ở sân trống: chạy rộng, lấp đầy góc hoặc lao vào rổ, finish qua va chạm. Cú ba trailer và pha seal sớm là những điểm dễ của bạn. HLV tin wing nào chịu chạy — đó là thứ tấn công rẻ nhất trong bóng rổ."
-      },
-      {
-        "title": "Kèm được cả vị trí to hơn khi switch",
-        "detail": "Bạn sẽ phải kèm power forward — giữ vững bằng chân thấp, va chạm sớm, tay hoạt động. Front ở post khi bóng cùng phía; three-quarter khi bóng phía yếu. Sống sót qua switch là điều khiến đội hình small-ball khả thi."
-      }
-    ],
-    "coachingPoints": [
-      "Phòng ngự đi theo bạn mọi đêm — mang nó ra sân dù hôm nay ném không vào.",
-      "Chân set mỗi lần bắt bóng; không trôi ngang khi nhảy ném.",
-      "Closeout ngắn và kiểm soát — bạn tấn công closeout, đừng tặng closeout cho người ta.",
-      "Hô qua mọi screen; wing là người bị screen nhiều nhất.",
-      "Rebound đúng khu vực — wing nào rebound được thì ở lại trên sân."
-    ],
-    "commonMistakes": [
-      "Với tay phòng ngự thay vì di chuyển chân.",
-      "Giữ bóng và dribble quá nhiều — vai trò này là bắt, quyết định, đi.",
-      "Chạy bộ thong thả trong transition, giết lợi thế quân số.",
-      "Chấp nhận ném hai điểm xa thay vì ba điểm hoặc tấn công rổ."
-    ],
-    "gameSituations": [
-      "Kèm ngôi sao ghi điểm của đối phương full court trong hiệp 4.",
-      "Bắt bóng ở góc rồi đột phá qua closeout mạnh để dunk.",
-      "Switch ra kèm forward to hơn và ép cú fadeaway khó.",
-      "Chạy lane cánh để lên rổ phản công từ đường advance pass."
-    ],
-    "tags": [
-      "wing",
-      "toàn diện",
-      "phòng ngự",
-      "ném spot-up",
-      "vai trò hiện đại"
-    ]
-  }
+  "title": "Cánh two-way",
+  "description": "Cánh hiện đại kèm tay ghi điểm vòng ngoài hay nhất của đối thủ, ném 3 điểm spot-up, tấn công closeout, và chạy cả sân — mẫu cầu thủ được săn đón nhất bóng rổ ngày nay.",
+  "whatIsIt": [
+   "Cánh two-way là cầu thủ cao 1,96m đến 2,06m, tạo ảnh hưởng cả hai đầu sân mà không cần bóng trong tay. Phòng thủ, anh ta nhận kèo cánh khó nhất và kèm từ vị trí 1 đến 4 khi switch; tấn công, anh ta giãn đội hình, cắt đúng nhịp, và trừng phạt closeout bằng những pha đột phá thẳng.",
+   "Đây là vai trò mọi đội tranh vô địch trả giá cao, vì nó giải hai bài toán cùng lúc: phòng thủ vòng ngoài và giãn đội hình. Không cần 20 điểm — cần những pha chặn đứng, những cú ném 3 điểm, và không bỏ pha bóng nào."
+  ],
+  "whyItMatters": [
+   "Đội hình sống chết ở những cánh làm được cả hai việc. Cánh chỉ biết ghi điểm bị săn trên hàng thủ; cánh chỉ biết phòng thủ bị bỏ trống trên hàng công, làm tắc giãn đội hình. Cánh two-way cho HLV chơi đội hình nhỏ, switch mọi thứ, không phải giấu ai — đó là lý do mẫu cầu thủ này đá chính ở mọi đội vô địch, mọi cấp độ."
+  ],
+  "howTo": [
+   {
+    "title": "Khóa chặt ở điểm tấn công",
+    "detail": "Nhận tay cánh hay nhất đội bạn, làm mọi lần bắt bóng của anh ta khó khăn: ngực chạm ngực khi có bóng, không cho bắt bóng dễ khi không bóng. Trượt chân, đừng với tay — phạm lỗi giết thời gian thi đấu nhanh hơn ném trượt. Nghiên cứu một thói quen mỗi đối thủ (tay thuận, đòn tủ) rồi lấy đi."
+   },
+   {
+    "title": "Ném góc thành tự động",
+    "detail": "Tiền tệ tấn công của cầu thủ là cú ném 3 điểm bắt bóng ném ngay, đặc biệt từ góc. Tập 300 lần ném tốc độ trận đấu mỗi tuần: chạy nước rút ra điểm, đặt chân trên không, bắt bóng sẵn sàng bật lên. Tay ném góc đạt 38% không bao giờ rời sân."
+   },
+   {
+    "title": "Tấn công closeout trong hai nhịp dẫn trở xuống",
+    "detail": "Khi hàng thủ lao ra, pha đột phá đã mở — một hoặc hai nhịp dẫn mạnh lên rổ hoặc pull-up. Đọc đà của hậu vệ: lao tới nghĩa là đột phá, điềm tĩnh nghĩa là ném. Không bao giờ bốn nhịp dẫn vào chỗ đông; đó là pha mất bóng mặc áo đấu."
+   },
+   {
+    "title": "Chạy mọi làn phản công hết tốc",
+    "detail": "Cánh thắng trận ở sân trống: chạy nước rút rộng, lấp góc hoặc lên rổ, kết thúc qua va chạm. Ném 3 điểm của trailer và seal sớm là những điểm dễ của cầu thủ. HLV tin cánh chịu chạy — đó là hệ thống tấn công rẻ nhất bóng rổ."
+   },
+   {
+    "title": "Kèm lên một vị trí khi switch",
+    "detail": "Cầu thủ sẽ phải kèm tiền phong chính — giữ vững bằng tư thế thấp, tiếp xúc sớm, tay hoạt động. Đứng chắn trước (front) khi bóng ở phía mình; đứng nghiêng ba-phần-tư (three-quarter) khi bóng ở phía yếu. Sống sót qua pha switch là thứ làm đội hình small-ball khả thi."
+   }
+  ],
+  "coachingPoints": [
+   "Phòng thủ đi theo mọi nơi — mang nó mỗi đêm, ngay cả khi cú ném không vào.",
+   "Chân đặt vững mọi lần bắt bóng; không trôi ngang khi ném jumper.",
+   "Closeout ngắn và điềm tĩnh — cầu thủ tấn công closeout, không phải tặng closeout.",
+   "Nói xuyên qua mọi screen; cánh bị screen nhiều hơn bất kỳ ai.",
+   "Rebound khu vực của mình — cánh chịu rebound được ở lại sân."
+  ],
+  "commonMistakes": [
+   "Với tay phòng thủ thay vì di chuyển chân.",
+   "Giữ bóng và dẫn quá nhiều — vai trò này là bắt, quyết định, đi.",
+   "Chạy thả lỏng trong phản công, giết lợi thế số lượng.",
+   "Bằng lòng với ném tầm trung xa thay vì ném 3 điểm hoặc đánh vào rổ."
+  ],
+  "gameSituations": [
+   "Kèm tay ghi điểm số một của đối thủ cả sân trong hiệp 4.",
+   "Bắt bóng ở góc, đột phá qua closeout mạnh để dunk.",
+   "Switch lên kèm tiền phong to hơn, ép cú fadeaway bị contest.",
+   "Chạy nước rút làn cánh, layup phản công từ đường chuyền vượt tuyến."
+  ],
+  "tags": [
+   "cánh",
+   "two-way",
+   "phòng thủ",
+   "ném spot-up",
+   "vai trò hiện đại"
+  ]
+ }
 }

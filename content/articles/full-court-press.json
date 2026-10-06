@@ -72,69 +72,69 @@
     "trapping"
   ],
   "title": "Full-Court Press",
+  "vi": {
+    "coachingPoints": [
+      "Press phải có luật — điểm bẫy, rotation, và nguyên tắc ‘không cho vào giữa’",
+      "Chạy nước rút về sau mỗi lần ghi điểm — press bắt đầu từ việc gây áp lực pha phát bóng biên",
+      "Bẫy bằng tay cao, người rộng — làm bẫy to, đừng với tay",
+      "Tuyến sau không bao giờ liều — luôn có một người giữ rổ",
+      "Thể lực quyết định mọi thứ — press mệt là biếu layup"
+    ],
+    "commonMistakes": [
+      "Press không có kế hoạch rotation — một bẫy vỡ là layup 5-đánh-4",
+      "Bẫy ở giữa sân nơi tấn công có mọi đường thoát",
+      "Tuyến sau dâng lên — không ai bảo vệ rổ sau press",
+      "Press đội dẫn bóng giỏi mà không có phương án B — biếu layup cả trận"
+    ],
+    "description": "Press toàn sân: gây áp lực từ pha phát bóng biên, bẫy ở biên dọc, biến phòng thủ thành tấn công suốt cả sân.",
+    "gameSituations": [
+      "Khi cần cướp bóng để lội ngược dòng cuối trận",
+      "Trước người dẫn bóng trẻ hoặc non tay, hoảng loạn dưới áp lực",
+      "Sau khi ghi điểm để đặt nhịp độ, bào mòn đối thủ",
+      "Để đổi nhịp trận khi phòng thủ nửa sân bế tắc"
+    ],
+    "howTo": [
+      {
+        "detail": "Ngay khi đội bạn ghi điểm, chạy nước rút vào vị trí press — đừng ăn mừng. Người press pha phát bóng biên gây khó cho đường chuyền; những người còn lại khóa đường chuyền phát động chính.",
+        "title": "Dựng press sau mỗi lần ghi điểm"
+      },
+      {
+        "detail": "Ép pha phát bóng biên ra biên dọc, rồi bẫy người nhận ở đó bằng hai cầu thủ — tay giơ cao, tư thế rộng, không với tay. Biên dọc là người bẫy thứ ba của bạn.",
+        "title": "Bẫy người nhận bóng đầu ở biên dọc"
+      },
+      {
+        "detail": "Ba cầu thủ còn lại chơi đường chuyền: một khóa đường chuyền về giữa, một chống bóng dài, một bảo vệ rổ. Mỗi bẫy có một rotation sau lưng.",
+        "title": "Xoay sau bẫy"
+      },
+      {
+        "detail": "Nếu tấn công phá được bẫy đầu, chạy nước rút đến điểm bẫy tiếp theo — thường là biên dọc giữa sân — thay vì đuổi theo bóng. Press là chuỗi bẫy, không phải cuộc rượt đuổi.",
+        "title": "Lùi về điểm bẫy tiếp theo"
+      },
+      {
+        "detail": "Nếu press bị phá sạch, chạy nước rút về phòng thủ nửa sân. Press không biết lùi chỉ là bài tập phản công cho đối phương.",
+        "title": "Bị phá thì lùi về nửa sân"
+      }
+    ],
+    "tags": [
+      "phòng thủ",
+      "press",
+      "toàn sân",
+      "bẫy"
+    ],
+    "title": "Press toàn sân",
+    "whatIsIt": [
+      "Press toàn sân là hệ thống phòng thủ gây áp lực suốt cả sân — bắt đầu từ pha phát bóng biên, không phải từ giữa sân. Cầu thủ phòng thủ bẫy người cầm bóng gần biên dọc, xoay sau bẫy, cố ép để mất bóng trước khi tấn công kịp tổ chức.",
+      "Press biến phòng thủ thành tấn công: cướp bóng thành layup, đường chuyền vội thành phản công, nhịp độ trận đấu thuộc về đội press. Nhưng đây là hệ thống rủi ro cao nhất bóng rổ — mỗi bẫy hụt để hàng thủ thiếu người, và press không thể lực, không kỷ luật chỉ là lời mời layup."
+    ],
+    "whyItMatters": [
+      "Press là đòn cân bằng vĩ đại và vũ khí đà tâm lý vĩ đại của bóng rổ. Nó để đội yếu hơn cạnh tranh bằng cách tạo hỗn loạn, và để đội mạnh chôn đối thủ dưới cơn lở để mất bóng. Cuối trận, đây là công cụ lội ngược dòng chuẩn. Nhưng press là cam kết — với thể lực, kỷ luật rotation, và chấp nhận thỉnh thoảng cho rổ dễ khi canh bạc hụt."
+    ]
+  },
   "whatIsIt": [
     "A full-court press is a defensive system that applies pressure for all 94 feet — starting with the inbounds pass, not at the half-court line. Defenders trap ball handlers near the sidelines, rotate behind the traps, and try to force turnovers before the offense ever gets organized.",
     "The press turns defense into offense: steals become layups, rushed passes become run-outs, and the game's tempo belongs to the pressing team. But it is the highest-risk system in basketball — every trap that fails leaves the defense outnumbered, and a press without conditioning and discipline is just an invitation for layups."
   ],
   "whyItMatters": [
     "The press is basketball's great equalizer and its great momentum weapon. It lets less talented teams compete by creating chaos, and it lets good teams bury opponents in avalanches of turnovers. Late in games, it is the standard comeback tool. But pressing is a commitment — to conditioning, to rotation discipline, and to living with the occasional easy basket when the gamble fails."
-  ],
-  "vi": {
-    "title": "Press Toàn Sân",
-    "description": "Press toàn sân: gây áp lực lên người ném biên, bẫy bóng ở đường biên, và biến phòng thủ thành tấn công trên toàn bộ 94 feet.",
-    "whatIsIt": [
-      "Press toàn sân là hệ thống phòng thủ gây áp lực trên toàn bộ 94 feet — bắt đầu từ đường ném biên vào sân, chứ không phải từ vạch giữa sân. Các hậu vệ bẫy người dẫn bóng gần đường biên, luân chuyển phía sau các bẫy, và cố ép đối thủ mất bóng trước khi họ kịp tổ chức tấn công.",
-      "Press biến phòng thủ thành tấn công: cướp bóng thành layup, đường chuyền vội vàng thành pha phản công nhanh, và nhịp độ trận đấu thuộc về đội pressing. Nhưng đây là hệ thống rủi ro nhất trong bóng rổ — mỗi bẫy thất bại đều khiến hàng thủ bị thiếu người, và một đội press mà không có thể lực và kỷ luật thì chẳng khác nào mời đối thủ ghi layup."
-    ],
-    "whyItMatters": [
-      "Press là vũ khí cân bằng sức mạnh và tạo đà tâm lý của bóng rổ. Nó giúp đội yếu hơn cạnh tranh bằng cách tạo ra sự hỗn loạn, và giúp đội mạnh chôn vùi đối thủ trong cơn mưa mất bóng. Cuối trận, đây là công cụ lội ngược dòng kinh điển. Nhưng pressing là một cam kết — cam kết về thể lực, kỷ luật luân chuyển, và chấp nhận thỉnh thoảng để lọt rổ dễ khi canh bạc thất bại."
-    ],
-    "howTo": [
-      {
-        "title": "Dựng press sau mỗi lần ghi điểm",
-        "detail": "Ngay khi đội bạn ghi điểm, hãy chạy nước rút vào vị trí press — đừng ăn mừng. Hậu vệ kèm người ném biên phải khiến đường chuyền vào sân khó khăn; những người còn lại cắt hết các đường chuyền ra biên chính."
-      },
-      {
-        "title": "Bẫy người nhận bóng đầu tiên ở đường biên",
-        "detail": "Ép đường chuyền ném biên ra một bên đường biên, rồi dùng hai hậu vệ bẫy người nhận bóng ở đó — tay giơ cao, đứng rộng, không với tay. Đường biên chính là 'người bẫy' thứ ba của bạn."
-      },
-      {
-        "title": "Luân chuyển phía sau bẫy",
-        "detail": "Ba hậu vệ còn lại chơi ở các đường chuyền: một người cắt đường chuyền trả về giữa, một người chống bóng dài, một người bảo vệ rổ. Mỗi bẫy đều phải có sự luân chuyển phía sau."
-      },
-      {
-        "title": "Lùi về điểm bẫy tiếp theo",
-        "detail": "Nếu đối thủ phá được bẫy đầu tiên, hãy chạy nước rút tới điểm bẫy tiếp theo — thường là đường biên ở giữa sân — thay vì đuổi theo bóng. Press là một chuỗi các bẫy, không phải trò đuổi bắt."
-      },
-      {
-        "title": "Rút về phòng thủ nửa sân nếu bị phá",
-        "detail": "Nếu press bị phá hoàn toàn, hãy chạy nước rút về đội hình phòng thủ nửa sân. Một đội press không biết rút về chẳng khác nào tập bài phản công nhanh cho đối thủ."
-      }
-    ],
-    "coachingPoints": [
-      "Press phải có luật — điểm bẫy, cách luân chuyển, và nguyên tắc 'không cho vào giữa'",
-      "Chạy nước rút về sau mỗi lần ghi điểm — press bắt đầu bằng việc gây áp lực lên người ném biên",
-      "Bẫy với tay giơ cao và thân người mở rộng — bẫy phải lớn, không được với tay",
-      "Tuyến sau không bao giờ mạo hiểm — luôn có một hậu vệ bảo vệ rổ",
-      "Thể lực quyết định tất cả — press mà mệt thì chỉ biết dâng layup"
-    ],
-    "commonMistakes": [
-      "Press mà không có kế hoạch luân chuyển — một bẫy bị phá là pha layup 5 đấu 4",
-      "Bẫy ở giữa sân, nơi đối thủ có đủ mọi đường thoát",
-      "Tuyến sau dâng lên quá cao — không còn ai bảo vệ rổ phía sau press",
-      "Press đội có người dẫn bóng giỏi mà không có phương án B — dâng layup cả trận"
-    ],
-    "gameSituations": [
-      "Khi cần ép mất bóng để lội ngược dòng cuối trận",
-      "Gặp đội có người dẫn bóng non hoặc dễ hoảng loạn dưới áp lực",
-      "Sau các pha ghi điểm để tạo nhịp độ và bào mòn đối thủ",
-      "Để đổi nhịp trận đấu khi phòng thủ nửa sân đang gặp khó"
-    ],
-    "tags": [
-      "phòng thủ",
-      "pressing",
-      "toàn sân",
-      "bẫy bóng"
-    ]
-  }
+  ]
 }

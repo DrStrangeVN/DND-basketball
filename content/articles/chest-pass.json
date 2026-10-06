@@ -68,13 +68,6 @@
     "team offense"
   ],
   "title": "Chest Pass",
-  "whatIsIt": [
-    "The chest pass is basketball's most fundamental throw: a two-handed pass pushed straight from the chest to a teammate's chest. It's the fastest pass to learn, the most accurate over short distances, and the foundation every other pass is measured against.",
-    "Because the ball travels in a flat, direct line with backspin, a good chest pass arrives quickly and is easy to catch. It teaches the three pillars of all passing: step, extend, and snap."
-  ],
-  "whyItMatters": [
-    "Basketball is won by moving the ball faster than the defense can move. The chest pass is the quickest, most reliable way to do that. Every advanced passing concept — drive and kick, skip passes, pocket passes — assumes you can first make a crisp, accurate chest pass."
-  ],
   "vi": {
     "coachingPoints": [
       "Bước tới khi chuyền bằng chân trước — trọng lượng cơ thể tạo lực cho bóng, không chỉ cánh tay",
@@ -91,9 +84,9 @@
     ],
     "description": "Cách nhanh nhất, chuẩn nhất để di chuyển bóng — học cú gập cổ tay hai tay, bước chân và vung tay theo đà.",
     "gameSituations": [
-      "Chuyền skip ngang sân trước hàng thủ zone",
-      "Kick-out từ trong khu vực hình thang ra cho tay ném trống",
-      "Chuyền outlet cả sân để mở đợt fast break"
+      "Chuyền skip ngang sân trước phòng thủ zone",
+      "Kick-out từ khu vực dưới rổ ra cho tay ném trống",
+      "Chuyền phát động cả sân để mở đợt fast break"
     ],
     "howTo": [
       {
@@ -101,7 +94,7 @@
         "title": "Bắt đầu ở tư thế triple threat"
       },
       {
-        "detail": "Bước một chân về phía mục tiêu. Bước chân này thêm lực và đưa đà cơ thể theo hướng đường chuyền.",
+        "detail": "Bước một chân về phía mục tiêu. Bước chân này thêm lực, đưa đà cơ thể theo hướng đường chuyền.",
         "title": "Bước về phía mục tiêu"
       },
       {
@@ -118,13 +111,20 @@
       "kỹ thuật cơ bản",
       "tấn công đồng đội"
     ],
-    "title": "Chuyền Ngực",
+    "title": "Chuyền ngực",
     "whatIsIt": [
       "Chuyền ngực là cú ném nền tảng nhất của bóng rổ: đường chuyền hai tay đẩy thẳng từ ngực tới ngực đồng đội. Đây là đường chuyền nhanh nhất để học, chuẩn nhất ở cự ly gần, và là thước đo để đánh giá mọi đường chuyền khác.",
-      "Vì bóng đi theo đường phẳng, trực tiếp với xoáy ngược, một đường chuyền ngực tốt đến nhanh và dễ bắt. Nó dạy ba trụ cột của mọi đường chuyền: bước chân, duỗi tay và gập cổ tay."
+      "Bóng đi theo đường phẳng, trực tiếp với xoáy ngược — một đường chuyền ngực tốt đến nhanh và dễ bắt. Nó dạy ba trụ cột của mọi đường chuyền: bước chân, duỗi tay và gập cổ tay."
     ],
     "whyItMatters": [
-      "Bóng rổ thắng bằng cách di chuyển bóng nhanh hơn hàng thủ di chuyển. Chuyền ngực là cách nhanh nhất, đáng tin cậy nhất để làm điều đó. Mọi khái niệm chuyền bóng nâng cao — drive and kick, skip pass, pocket pass — đều giả định rằng bạn đã chuyền ngực gọn và chuẩn trước đã."
+      "Bóng rổ thắng bằng cách di chuyển bóng nhanh hơn hàng thủ di chuyển. Chuyền ngực là cách nhanh nhất, đáng tin cậy nhất để làm điều đó. Mọi khái niệm chuyền bóng nâng cao — drive and kick, skip pass, pocket pass — đều giả định bạn đã chuyền ngực gọn và chuẩn trước đã."
     ]
-  }
+  },
+  "whatIsIt": [
+    "The chest pass is basketball's most fundamental throw: a two-handed pass pushed straight from the chest to a teammate's chest. It's the fastest pass to learn, the most accurate over short distances, and the foundation every other pass is measured against.",
+    "Because the ball travels in a flat, direct line with backspin, a good chest pass arrives quickly and is easy to catch. It teaches the three pillars of all passing: step, extend, and snap."
+  ],
+  "whyItMatters": [
+    "Basketball is won by moving the ball faster than the defense can move. The chest pass is the quickest, most reliable way to do that. Every advanced passing concept — drive and kick, skip passes, pocket passes — assumes you can first make a crisp, accurate chest pass."
+  ]
 }

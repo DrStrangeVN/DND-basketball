@@ -1,1 +1,132 @@
-{"ages":["U14","U16","U18","Adult"],"coachingPoints":["The screener sprints — a jogging drag screen is no screen at all.","Set it early: the screen should arrive as the ball crosses half court.","The ball handler attacks immediately — drag screens punish hesitation.","Communicate the side: point and call so the ball handler knows where it's coming."],"commonMistakes":["Setting the drag screen too late — the defense is already set.","A soft screen the defender runs straight through.","The ball handler going away from the screen.","Walking into the drag instead of sprinting — no advantage created."],"dateUpdated":"2026-10-06","description":"The early-offense ball screen — a trailing big screens in transition before the defense gets organized.","gameSituations":["After a defensive rebound — push and drag before they set.","Against slow-footed bigs who can't sprint back into coverage.","Early clock — attack before the half-court defense forms.","With a playmaking guard who reads on the move."],"howTo":[{"detail":"As the ball advances in transition, a trailing big sprints to set a ball screen — usually at or just past half court. The key is speed: the screen must arrive before the defense matches up.","title":"Sprint into the screen"},{"detail":"The ball handler uses it immediately, attacking downhill at full speed. There's no setup dribble — the advantage is the defense's disorganization, and it expires in seconds.","title":"Attack without hesitation"},{"detail":"The screener rolls hard to the rim — in transition, the rim is usually unprotected. Short roll if a defender recovers; deep roll if the lane is empty.","title":"Roll into chaos"},{"detail":"If the defense somehow gets matched, flow straight into your half-court offense — the drag was the first punch, not the whole fight.","title":"Flow into the half court"}],"hub":"pick-and-roll","id":"drag-screen","level":"intermediate","positions":["PG","SG","C","PF"],"readTime":4,"related":["pick-and-roll-basics","transition-offense","running-lanes","roll-man-reads","advance-pass"],"slug":"drag-screen","subcategory":"pick-and-roll","tags":["drag screen","transition","pick and roll","early offense"],"title":"Drag Screens in Transition","vi":{"coachingPoints":["Người screen phải chạy nước rút — drag screen chạy bộ thì không phải screen.","Đặt sớm: screen phải đến ngay khi bóng qua giữa sân.","Người cầm bóng tấn công ngay — drag screen trừng phạt sự chần chừ.","Giao tiếp hướng: chỉ tay và hô để người cầm bóng biết screen ở đâu."],"commonMistakes":["Đặt drag screen quá muộn — hàng thủ đã đứng vững.","Screen mềm để hậu vệ chạy xuyên qua.","Người cầm bóng đi ngược hướng screen.","Đi bộ vào pha drag thay vì chạy nước rút — không tạo được lợi thế."],"description":"Ball screen trong tấn công sớm — big chạy theo screen trong lúc chuyển trạng thái trước khi hàng thủ kịp tổ chức.","gameSituations":["Sau rebound phòng thủ — đẩy bóng và drag trước khi họ về kịp.","Trước những big chậm chân không chạy về kịp để phòng thủ.","Đầu giờ — tấn công trước khi hàng thủ half-court hình thành.","Với guard kiến tạo đọc tình huống khi đang di chuyển."],"howTo":[{"detail":"Khi bóng được đẩy lên trong transition, một big chạy theo lao lên đặt ball screen — thường ở hoặc ngay qua giữa sân. Chìa khóa là tốc độ: screen phải đến trước khi hàng thủ kịp bắt người.","title":"Chạy nước rút vào screen"},{"detail":"Người cầm bóng dùng ngay, tấn công xuống dốc ở tốc độ tối đa. Không có nhịp dẫn setup — lợi thế là sự rối loạn của hàng thủ, và nó hết hạn trong vài giây.","title":"Tấn công không chần chừ"},{"detail":"Người screen roll mạnh vào rổ — trong transition, rổ thường không được bảo vệ. Short roll nếu có hậu vệ về kịp; roll sâu nếu lane trống.","title":"Roll vào hỗn loạn"},{"detail":"Nếu hàng thủ bằng cách nào đó đã bắt người xong, chảy thẳng vào tấn công half-court — pha drag là cú đấm đầu tiên, không phải toàn bộ trận đấu.","title":"Chảy vào half-court"}],"tags":["drag screen","phản công","pick and roll","tấn công sớm"],"title":"Drag Screen Trong Phản Công","whatIsIt":["Drag screen là ball screen được đặt trong lúc chuyển trạng thái — một big chạy theo (trailing big) lao lên screen cho người cầm bóng khi hàng thủ còn đang chạy về. Không giống PNR ở half-court, không có setup, không có bài vở — chỉ có tốc độ và sự bất ngờ.","Sức mạnh của nó là thời điểm: hàng thủ đang chạy về không thể vừa bắt người vừa phòng thủ screen. Trong 3-4 giây hỗn loạn đó, một drag screen tốt tạo ra pha 2-đánh-1 hoặc một cú ném trống — những thứ phải mất cả đợt tấn công mới có ở half-court."],"whyItMatters":["Bóng rổ hiện đại thắng ở những giây đầu của mỗi đợt tấn công. Drag screen biến mỗi pha rebound thành một bài PNR miễn phí — trước khi hàng thủ kịp thở. Đội nào drag screen tốt ghi thêm 8-10 điểm 'miễn phí' mỗi trận từ transition. Đội nào không, lãng phí lợi thế tốc độ lớn nhất của mình."]},"whatIsIt":["A drag screen is a ball screen set in transition — a trailing big sprints up to screen for the ball handler while the defense is still running back. Unlike half-court PNR, there's no setup, no play call — just speed and surprise.","Its power is timing: a retreating defense can't match up and guard the screen at the same time. In those 3–4 chaotic seconds, a good drag screen creates a 2-on-1 or an open shot — things that take a whole possession to earn in the half court."],"whyItMatters":["Modern basketball is won in the first seconds of each possession. The drag screen turns every rebound into a free PNR — before the defense can breathe. Teams that drag well score an extra 8–10 'free' points a game in transition. Teams that don't waste their biggest speed advantage."]}
+{
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "coachingPoints": [
+    "The screener sprints — a jogging drag screen is no screen at all.",
+    "Set it early: the screen should arrive as the ball crosses half court.",
+    "The ball handler attacks immediately — drag screens punish hesitation.",
+    "Communicate the side: point and call so the ball handler knows where it's coming."
+  ],
+  "commonMistakes": [
+    "Setting the drag screen too late — the defense is already set.",
+    "A soft screen the defender runs straight through.",
+    "The ball handler going away from the screen.",
+    "Walking into the drag instead of sprinting — no advantage created."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "The early-offense ball screen — a trailing big screens in transition before the defense gets organized.",
+  "gameSituations": [
+    "After a defensive rebound — push and drag before they set.",
+    "Against slow-footed bigs who can't sprint back into coverage.",
+    "Early clock — attack before the half-court defense forms.",
+    "With a playmaking guard who reads on the move."
+  ],
+  "howTo": [
+    {
+      "detail": "As the ball advances in transition, a trailing big sprints to set a ball screen — usually at or just past half court. The key is speed: the screen must arrive before the defense matches up.",
+      "title": "Sprint into the screen"
+    },
+    {
+      "detail": "The ball handler uses it immediately, attacking downhill at full speed. There's no setup dribble — the advantage is the defense's disorganization, and it expires in seconds.",
+      "title": "Attack without hesitation"
+    },
+    {
+      "detail": "The screener rolls hard to the rim — in transition, the rim is usually unprotected. Short roll if a defender recovers; deep roll if the lane is empty.",
+      "title": "Roll into chaos"
+    },
+    {
+      "detail": "If the defense somehow gets matched, flow straight into your half-court offense — the drag was the first punch, not the whole fight.",
+      "title": "Flow into the half court"
+    }
+  ],
+  "hub": "pick-and-roll",
+  "id": "drag-screen",
+  "level": "intermediate",
+  "positions": [
+    "PG",
+    "SG",
+    "C",
+    "PF"
+  ],
+  "readTime": 4,
+  "related": [
+    "pick-and-roll-basics",
+    "transition-offense",
+    "running-lanes",
+    "roll-man-reads",
+    "advance-pass"
+  ],
+  "slug": "drag-screen",
+  "subcategory": "pick-and-roll",
+  "tags": [
+    "drag screen",
+    "transition",
+    "pick and roll",
+    "early offense"
+  ],
+  "title": "Drag Screens in Transition",
+  "vi": {
+    "coachingPoints": [
+      "Người screen chạy nước rút — drag screen chạy bộ thì không phải screen",
+      "Đặt sớm: screen phải đến ngay khi bóng qua giữa sân",
+      "Người cầm bóng tấn công ngay — drag screen trừng phạt sự chần chừ",
+      "Báo hướng: chỉ tay và hô để người cầm bóng biết screen ở đâu"
+    ],
+    "commonMistakes": [
+      "Đặt drag screen quá muộn — hàng thủ đã đứng vững",
+      "Screen mềm để cầu thủ phòng thủ chạy xuyên qua",
+      "Người cầm bóng đi ngược hướng screen",
+      "Đi bộ vào pha drag thay vì chạy nước rút — không tạo được lợi thế"
+    ],
+    "description": "Pha screen tấn công sớm — cầu thủ big chạy sau đặt screen trong phản công nhanh, trước khi hàng thủ kịp tổ chức.",
+    "gameSituations": [
+      "Sau rebound phòng thủ — đẩy bóng và drag trước khi họ đứng vững",
+      "Trước những cầu thủ big chân chậm, không chạy về kịp",
+      "Đầu đồng hồ — tấn công trước khi hàng thủ nửa sân hình thành",
+      "Với hậu vệ dẫn bóng biết đọc tình huống khi di chuyển"
+    ],
+    "howTo": [
+      {
+        "detail": "Khi bóng tiến lên trong phản công nhanh, cầu thủ big chạy sau lao lên đặt screen cho người cầm bóng — thường ở ngang hoặc vừa qua giữa sân. Chìa khóa là tốc độ: screen phải đến trước khi hàng thủ kịp kèm người.",
+        "title": "Lao vào đặt screen"
+      },
+      {
+        "detail": "Người cầm bóng dùng screen ngay, lao xuống rổ hết tốc độ. Không có pha dẫn bóng thăm dò — lợi thế nằm ở sự rối loạn của hàng thủ, và nó hết hạn trong vài giây.",
+        "title": "Tấn công không chần chừ"
+      },
+      {
+        "detail": "Người screen roll mạnh về rổ — trong phản công nhanh, rổ thường không ai bảo vệ. Short roll nếu có cầu thủ phòng thủ kịp về; roll sâu nếu làn đường trống.",
+        "title": "Roll vào hỗn loạn"
+      },
+      {
+        "detail": "Nếu hàng thủ bằng cách nào đó đã kịp kèm người, chuyển thẳng vào tấn công nửa sân — drag screen là cú đấm đầu tiên, không phải cả trận đấu.",
+        "title": "Chuyển vào nửa sân"
+      }
+    ],
+    "tags": [
+      "drag screen",
+      "phản công nhanh",
+      "pick and roll",
+      "tấn công sớm"
+    ],
+    "title": "Drag screen trong phản công nhanh",
+    "whatIsIt": [
+      "Drag screen là pha screen cho người cầm bóng trong phản công nhanh — cầu thủ big chạy sau lao lên đặt screen cho người cầm bóng khi hàng thủ còn đang chạy về. Khác với PNR nửa sân, không có chuẩn bị, không có bài gọi — chỉ có tốc độ và bất ngờ.",
+      "Sức mạnh nằm ở thời điểm: hàng thủ đang lùi không thể vừa kèm người vừa chống screen cùng lúc. Trong 3–4 giây hỗn loạn đó, drag screen tốt tạo ra 2-đánh-1 hoặc cú ném trống — những thứ ở nửa sân phải mất cả đợt tấn công mới có."
+    ],
+    "whyItMatters": [
+      "Bóng rổ hiện đại thắng thua trong những giây đầu mỗi đợt tấn công. Drag screen biến mỗi rebound thành một PNR miễn phí — trước khi hàng thủ kịp thở. Đội drag tốt kiếm thêm 8–10 điểm ‘miễn phí’ mỗi trận từ phản công. Đội không biết drag thì phí hoài lợi thế tốc độ lớn nhất của mình."
+    ]
+  },
+  "whatIsIt": [
+    "A drag screen is a ball screen set in transition — a trailing big sprints up to screen for the ball handler while the defense is still running back. Unlike half-court PNR, there's no setup, no play call — just speed and surprise.",
+    "Its power is timing: a retreating defense can't match up and guard the screen at the same time. In those 3–4 chaotic seconds, a good drag screen creates a 2-on-1 or an open shot — things that take a whole possession to earn in the half court."
+  ],
+  "whyItMatters": [
+    "Modern basketball is won in the first seconds of each possession. The drag screen turns every rebound into a free PNR — before the defense can breathe. Teams that drag well score an extra 8–10 'free' points a game in transition. Teams that don't waste their biggest speed advantage."
+  ]
+}

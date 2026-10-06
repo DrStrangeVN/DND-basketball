@@ -70,40 +70,33 @@
     "offense"
   ],
   "title": "Catch & Shoot",
-  "whatIsIt": [
-    "Catch and shoot is the art of receiving a pass and shooting in one continuous motion — no dribble, no hesitation. It is the fastest shot in basketball and the engine of modern spacing: defenses stretch because shooters punish help with instant threes.",
-    "What looks simple is actually a chain of details: the cut to get open, the footwork before the catch, the high catch, and the compact release. Elite catch-and-shoot players make it look effortless because they prepared before the ball arrived."
-  ],
-  "whyItMatters": [
-    "Analytics are clear: catch-and-shoot threes are among the most efficient shots in basketball. Every offense needs players who can punish a collapsing defense instantly. For young players, it is also the easiest path to real playing time — coaches always find minutes for someone who moves without the ball and makes open shots."
-  ],
   "vi": {
     "coachingPoints": [
       "Chân trước, tay sau — trụ chân quyết định cú ném; bắt bóng chỉ là khâu đưa bóng tới",
       "Bắt bóng trong túi ném, cao và gọn; nhúng bóng sâu cho hậu vệ thời gian áp sát",
-      "Ra tay khi đang lên, không phải ở đỉnh — catch-and-shoot là động tác nhanh, gọn",
+      "Ra tay khi đang lên, không phải ở đỉnh — bắt bóng ném ngay là động tác nhanh, gọn",
       "Giữ cùng kỹ thuật ở tốc độ cao như khi tập form; đừng bao giờ sáng tạo form mới cho cú ném trong trận",
       "Đếm số cú vào trên 50 lần ném ở năm vị trí; con số trung thực cho thấy tiến bộ thật"
     ],
     "commonMistakes": [
-      "Bắt bóng thấp ở thắt lưng rồi nhúng bóng — cách sửa: tập bắt bóng ngang ngực với đồng đội, cấm nhúng bóng",
-      "Tiếp đất mất thăng bằng vì đà chạy chậm — cách sửa: thay đà chạy bằng cú nhảy hai chân và tiếp đất vuông góc",
-      "Vội ra tay làm mất form — cách sửa: tốc độ đến từ sự chuẩn bị, không phải từ động tác vội vàng, gãy form",
-      "Chỉ tập bắt bóng đứng yên — cách sửa: thêm di chuyển: chạy nước rút, cắt vào, hoặc chạy qua màn chắn trước mỗi lần tập"
+      "Bắt bóng thấp ở thắt lưng rồi nhúng bóng — sửa: tập bắt bóng ngang ngực với đồng đội, cấm nhúng bóng",
+      "Tiếp đất mất thăng bằng vì đà chạy chậm — sửa: thay đà chạy bằng cú nhảy hai chân, tiếp đất vuông góc",
+      "Vội ra tay làm mất form — sửa: tốc độ đến từ sự chuẩn bị, không phải từ động tác vội vàng, gãy form",
+      "Chỉ tập bắt bóng đứng yên — sửa: thêm di chuyển: chạy nước rút, cắt vào, hoặc chạy qua screen trước mỗi lần tập"
     ],
-    "description": "Bắt bóng, trụ chân và ra tay trong một chuyển động liền mạch — cú ném hiệu quả nhất trong bóng rổ và nền tảng của spacing.",
+    "description": "Bắt bóng, trụ chân và ra tay trong một chuyển động liền mạch — cú ném hiệu quả nhất bóng rổ và nền tảng của giãn đội hình.",
     "gameSituations": [
-      "Ném ba điểm spot-up ở góc sân — catch-and-shoot kinh điển: drive-and-kick tạo ra nó, bạn kết thúc nó",
-      "Kick-out trong phản công nhanh — người chạy sau bắt bóng ở cánh và ném trước khi hàng thủ kịp lui về",
-      "Chạy qua màn chắn down screen — curl hoặc pop ra vị trí, bắt bóng sẵn sàng và ném qua hậu vệ đuổi theo"
+      "Ném 3 điểm spot-up ở góc — bắt bóng ném ngay kinh điển: drive-and-kick tạo ra nó, bạn kết thúc nó",
+      "Kick-out trong phản công nhanh — người chạy sau bắt bóng ở cánh, ném trước khi hàng thủ kịp lui về",
+      "Chạy qua down screen — curl hoặc pop ra vị trí, bắt bóng sẵn sàng, ném qua hậu vệ đuổi theo"
     ],
     "howTo": [
       {
-        "detail": "Cắt mạnh vào vị trí hoặc chạy nước rút qua màn chắn. Đà tiếp cận hời hợt nghĩa là cú ném đến muộn và bị contest.",
+        "detail": "Cắt mạnh vào vị trí hoặc chạy nước rút qua screen. Đà tiếp cận hời hợt là cú ném đến muộn và bị contest.",
         "title": "Di chuyển có mục đích vào vị trí"
       },
       {
-        "detail": "Kết thúc đà tiếp cận bằng cú nhảy hai chân, tiếp đất thăng bằng với gối cong và vai hướng về rổ.",
+        "detail": "Kết thúc đà tiếp cận bằng cú nhảy hai chân, tiếp đất thăng bằng, gối cong, vai hướng về rổ.",
         "title": "Nhảy vào tư thế vuông góc"
       },
       {
@@ -115,22 +108,29 @@
         "title": "Chuyển thẳng vào cú ném"
       },
       {
-        "detail": "Vươn lên bằng chân, ra tay bằng tay ném, tay dẫn giữ thụ động. Giữ tay theo đà và nhìn bóng rơi vào rổ.",
+        "detail": "Vươn lên bằng chân, ra tay bằng tay ném, tay còn lại giữ thụ động. Giữ tay theo đà, nhìn bóng rơi vào rổ.",
         "title": "Vươn lên, ra tay và giữ đà"
       }
     ],
     "tags": [
       "ném rổ",
-      "ném ba điểm",
+      "ném 3 điểm",
       "tấn công"
     ],
-    "title": "Bắt Bóng Ném Ngay",
+    "title": "Bắt bóng ném ngay (catch and shoot)",
     "whatIsIt": [
-      "Catch and shoot là nghệ thuật nhận đường chuyền và ném trong một chuyển động liên tục — không dẫn bóng, không chần chừ. Đây là cú ném nhanh nhất trong bóng rổ và là động cơ của spacing hiện đại: hàng thủ phải giãn ra vì các tay ném trừng phạt sự hỗ trợ bằng những cú ba điểm tức thì.",
-      "Trông có vẻ đơn giản nhưng thực ra là một chuỗi chi tiết: pha cắt để thoát kèm, bước chân trước khi bắt bóng, bắt bóng cao và cú ra tay gọn. Những tay catch-and-shoot đẳng cấp làm nó trông nhẹ nhàng vì họ đã chuẩn bị trước khi bóng tới."
+      "Bắt bóng ném ngay là nghệ thuật nhận đường chuyền và ném trong một chuyển động liên tục — không dẫn bóng, không chần chừ. Đây là cú ném nhanh nhất bóng rổ và là động cơ của giãn đội hình hiện đại: hàng thủ phải giãn ra vì các tay ném trừng phạt help bằng những cú ba điểm tức thì.",
+      "Trông có vẻ đơn giản nhưng thực ra là một chuỗi chi tiết: pha cắt để thoát kèm, bộ chân trước khi bắt bóng, bắt bóng cao và cú ra tay gọn. Những tay bắt bóng ném ngay đẳng cấp làm nó trông nhẹ nhàng vì họ đã chuẩn bị trước khi bóng tới."
     ],
     "whyItMatters": [
-      "Số liệu phân tích rất rõ: những cú ba điểm catch-and-shoot thuộc nhóm cú ném hiệu quả nhất trong bóng rổ. Mọi hệ thống tấn công đều cần cầu thủ có thể trừng phạt hàng thủ co cụm ngay lập tức. Với cầu thủ trẻ, đây cũng là con đường dễ nhất để có thời gian thi đấu thật — huấn luyện viên luôn tìm được phút thi đấu cho người biết di chuyển không bóng và ném trúng những cú trống trải."
+      "Số liệu phân tích rất rõ: những cú ba điểm bắt bóng ném ngay thuộc nhóm cú ném hiệu quả nhất bóng rổ. Mọi hệ thống tấn công đều cần cầu thủ trừng phạt hàng thủ co cụm ngay lập tức. Với cầu thủ trẻ, đây cũng là con đường dễ nhất để có phút thi đấu thật — HLV luôn tìm được phút cho người biết di chuyển không bóng và ném trúng những cú trống trải."
     ]
-  }
+  },
+  "whatIsIt": [
+    "Catch and shoot is the art of receiving a pass and shooting in one continuous motion — no dribble, no hesitation. It is the fastest shot in basketball and the engine of modern spacing: defenses stretch because shooters punish help with instant threes.",
+    "What looks simple is actually a chain of details: the cut to get open, the footwork before the catch, the high catch, and the compact release. Elite catch-and-shoot players make it look effortless because they prepared before the ball arrived."
+  ],
+  "whyItMatters": [
+    "Analytics are clear: catch-and-shoot threes are among the most efficient shots in basketball. Every offense needs players who can punish a collapsing defense instantly. For young players, it is also the easiest path to real playing time — coaches always find minutes for someone who moves without the ball and makes open shots."
+  ]
 }

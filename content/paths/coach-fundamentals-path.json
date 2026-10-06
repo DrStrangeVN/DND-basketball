@@ -15,33 +15,33 @@
   ],
   "dateUpdated": "2026-10-06",
   "vi":   {
-    "title": "Nền Tảng Huấn Luyện",
-    "description": "Học cách dạy bóng rổ: cầu thủ học thế nào, lên kế hoạch buổi tập ra sao, phát triển cầu thủ qua cả mùa giải, huấn luyện trẻ, xem film và xây dựng văn hóa đội.",
+    "title": "Nền tảng huấn luyện",
+    "description": "Học cách dạy bóng rổ: cầu thủ tiếp thu thế nào, lên kế hoạch buổi tập ra sao, phát triển cầu thủ xuyên suốt mùa giải, huấn luyện trẻ, phân tích video và xây dựng văn hóa đội.",
     "audience": "HLV mới và HLV trẻ",
     "steps": [
       {
-        "title": "Cấp 1 — Cách Dạy Bóng Rổ",
-        "description": "Học các nguyên tắc dạy kỹ năng: thị phạm, tiến bộ từng bước và phản hồi thực sự hiệu quả."
+        "title": "Cấp 1 — Dạy bóng rổ thế nào",
+        "description": "Nắm nguyên tắc dạy kỹ năng: thị phạm, tiến bộ từng bước và phản hồi để cầu thủ nhớ được, làm được."
       },
       {
-        "title": "Cấp 2 — Lên Kế Hoạch Buổi Tập Hay",
-        "description": "Thiết kế buổi tập có mục đích — khởi động, rèn kỹ năng, trò chơi nhỏ và thi đấu với tỷ lệ hợp lý."
+        "title": "Cấp 2 — Lên giáo án buổi tập",
+        "description": "Thiết kế buổi tập có mục đích: khởi động, rèn kỹ năng, trò chơi đối kháng nhỏ và thi đấu đúng tỉ lệ."
       },
       {
-        "title": "Cấp 3 — Phát Triển Cầu Thủ Dài Hạn",
-        "description": "Xây dựng kế hoạch phát triển cầu thủ cả mùa giải, phát triển kỹ năng theo lộ trình thay vì ngẫu hứng."
+        "title": "Cấp 3 — Phát triển cầu thủ dài hạn",
+        "description": "Xây kế hoạch phát triển cả mùa giải: kỹ năng tăng dần theo lộ trình, không tập ngẫu hứng."
       },
       {
-        "title": "Cấp 4 — Huấn Luyện Trẻ Đúng Cách",
-        "description": "Điều chỉnh cách huấn luyện cho cầu thủ trẻ: kỳ vọng phù hợp lứa tuổi, vui vẻ và nền tảng trước."
+        "title": "Cấp 4 — Huấn luyện trẻ đúng cách",
+        "description": "Điều chỉnh cách dạy cho cầu thủ trẻ: kỳ vọng đúng lứa tuổi, tập vui và nền tảng lên trước."
       },
       {
-        "title": "Cấp 5 — Xem Film",
-        "description": "Dùng video để dạy — xem gì, cắt clip thế nào và biến buổi xem film thành bài học."
+        "title": "Cấp 5 — Phân tích video",
+        "description": "Dùng video để dạy: xem cái gì, cắt clip ra sao và biến buổi xem video thành bài học thật."
       },
       {
-        "title": "Cấp 6 — Xây Dựng Văn Hóa Đội",
-        "description": "Tạo ra những tiêu chuẩn, giao tiếp và trách nhiệm khiến đội bóng lớn hơn tổng tài năng."
+        "title": "Cấp 6 — Xây văn hóa đội bóng",
+        "description": "Dựng tiêu chuẩn, giao tiếp và trách nhiệm giải trình — để đội mạnh hơn tổng tài năng cộng lại."
       }
     ]
   }

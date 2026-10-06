@@ -5,16 +5,48 @@
   "description": "A quick daily ball-handling session you can do anywhere — stationary control, weak-hand work, and live moves in just 10 minutes.",
   "level": "beginner",
   "durationMin": 10,
-  "focus": ["Ball Handling"],
-  "equipment": ["Basketball"],
+  "focus": [
+    "Ball Handling"
+  ],
+  "equipment": [
+    "Basketball"
+  ],
   "items": [
-    {"name": "Warm-up pound dribbles", "detail": "Pound the ball low and hard, 30 seconds right hand, 30 seconds left hand. Eyes up.", "time": "1:00"},
-    {"name": "Figure-8 wraps", "detail": "Wrap the ball around both legs in a figure-8 without dribbling. Low stance, quick hands.", "time": "1:00"},
-    {"name": "Stationary crossovers", "detail": "Low, hard crossovers in front, 30 seconds each direction. Ball stays below the knees.", "time": "1:00"},
-    {"name": "Between-the-legs series", "detail": "Alternate: right leg through, left leg through, then continuous alternating. Stay low.", "time": "1:30"},
-    {"name": "Behind-the-back wraps", "detail": "Stationary behind-the-back dribbles, 30 seconds each direction. Wrap it tight.", "time": "1:00"},
-    {"name": "Walking combos", "detail": "Walk the court: crossover at each line, then between-the-legs coming back. Eyes up.", "time": "2:30"},
-    {"name": "Attack moves", "detail": "From the three-point line: one hard move (crossover, hesitation, or in-and-out) and explode to the rim. Alternate sides.", "time": "2:00"}
+    {
+      "name": "Warm-up pound dribbles",
+      "detail": "Pound the ball low and hard, 30 seconds right hand, 30 seconds left hand. Eyes up.",
+      "time": "1:00"
+    },
+    {
+      "name": "Figure-8 wraps",
+      "detail": "Wrap the ball around both legs in a figure-8 without dribbling. Low stance, quick hands.",
+      "time": "1:00"
+    },
+    {
+      "name": "Stationary crossovers",
+      "detail": "Low, hard crossovers in front, 30 seconds each direction. Ball stays below the knees.",
+      "time": "1:00"
+    },
+    {
+      "name": "Between-the-legs series",
+      "detail": "Alternate: right leg through, left leg through, then continuous alternating. Stay low.",
+      "time": "1:30"
+    },
+    {
+      "name": "Behind-the-back wraps",
+      "detail": "Stationary behind-the-back dribbles, 30 seconds each direction. Wrap it tight.",
+      "time": "1:00"
+    },
+    {
+      "name": "Walking combos",
+      "detail": "Walk the court: crossover at each line, then between-the-legs coming back. Eyes up.",
+      "time": "2:30"
+    },
+    {
+      "name": "Attack moves",
+      "detail": "From the three-point line: one hard move (crossover, hesitation, or in-and-out) and explode to the rim. Alternate sides.",
+      "time": "2:00"
+    }
   ],
   "tips": [
     "Do this workout daily — 10 minutes of ball handling compounds faster than one long weekly session.",
@@ -23,57 +55,57 @@
     "If you lose the ball, reset quickly and keep going. Mistakes are part of the workout."
   ],
   "dateUpdated": "2026-10-06",
-  "vi":   {
-    "title": "Tập Rê Bóng 10 Phút",
-    "description": "Buổi tập rê bóng nhanh mỗi ngày, làm được ở bất cứ đâu — kiểm soát bóng đứng yên, rèn tay yếu và động tác live chỉ trong 10 phút.",
+  "vi": {
+    "title": "Giáo án dẫn bóng 10 phút",
+    "description": "Buổi tập dẫn bóng 10 phút mỗi ngày, tập được ở bất cứ đâu: kiểm soát bóng tại chỗ, rèn tay không thuận và các động tác tấn công thực chiến.",
     "focus": [
-      "Rê bóng"
+      "Dẫn bóng"
     ],
     "equipment": [
       "Bóng rổ"
     ],
     "items": [
       {
-        "name": "Khởi động rê đập",
-        "detail": "Đập bóng thấp và mạnh, 30 giây tay phải, 30 giây tay trái. Mắt nhìn lên.",
+        "name": "Khởi động đập bóng",
+        "detail": "Đập bóng thấp, mạnh: tay phải 30 giây, tay trái 30 giây. Mắt nhìn lên.",
         "time": "1:00"
       },
       {
         "name": "Quấn bóng số 8",
-        "detail": "Quấn bóng quanh 2 chân theo hình số 8 không rê. Tư thế thấp, tay nhanh.",
+        "detail": "Quấn bóng quanh hai chân theo hình số 8, không rê. Hạ thấp trọng tâm, tay nhanh.",
         "time": "1:00"
       },
       {
         "name": "Crossover đứng yên",
-        "detail": "Crossover thấp, mạnh trước mặt, 30 giây mỗi hướng. Bóng luôn dưới đầu gối.",
+        "detail": "Crossover thấp, mạnh ngay trước mặt, mỗi hướng 30 giây. Bóng luôn dưới đầu gối.",
         "time": "1:00"
       },
       {
-        "name": "Chuỗi between-the-legs",
-        "detail": "Luân phiên: qua chân phải, qua chân trái, rồi luân phiên liên tục. Giữ thấp.",
+        "name": "Chuỗi xỏ háng",
+        "detail": "Xỏ háng qua chân phải, rồi qua chân trái, sau đó luân phiên liên tục. Giữ trọng tâm thấp.",
         "time": "1:30"
       },
       {
-        "name": "Quấn behind-the-back",
-        "detail": "Rê behind-the-back đứng yên, 30 giây mỗi hướng. Quấn chặt.",
+        "name": "Rê vòng sau lưng đứng yên",
+        "detail": "Rê vòng sau lưng tại chỗ, mỗi hướng 30 giây. Quấn bóng thật chặt.",
         "time": "1:00"
       },
       {
         "name": "Combo khi đi bộ",
-        "detail": "Đi bộ hết sân: crossover ở mỗi vạch, rồi between-the-legs khi quay về. Mắt nhìn lên.",
+        "detail": "Đi bộ hết sân: crossover ở mỗi vạch kẻ sân, quay về thì xỏ háng. Mắt nhìn lên.",
         "time": "2:30"
       },
       {
         "name": "Động tác tấn công",
-        "detail": "Từ vạch 3 điểm: một động tác mạnh (crossover, hesitation hoặc in-and-out) rồi bứt tốc ra rổ. Đổi bên.",
+        "detail": "Từ vạch 3 điểm: một động tác mạnh (crossover, hesitation hoặc in-and-out) rồi bứt tốc thẳng ra rổ. Đổi bên liên tục.",
         "time": "2:00"
       }
     ],
     "tips": [
-      "Tập buổi này mỗi ngày — 10 phút rê bóng cộng dồn nhanh hơn một buổi dài mỗi tuần.",
-      "Mắt nhìn lên ở mọi bài; cúi nhìn tạo thói quen sẽ vỡ trong trận.",
-      "Đập bóng mạnh — rê yếu rèn ra tay yếu.",
-      "Mất bóng thì reset nhanh và tiếp tục. Sai lầm là một phần của buổi tập."
+      "Tập buổi này mỗi ngày — 10 phút dẫn bóng mỗi ngày hiệu quả hơn một buổi dài cuối tuần.",
+      "Mắt nhìn lên trong mọi bài tập. Cúi đầu nhìn bóng thành thói quen xấu, vào trận là vỡ.",
+      "Đập bóng thật mạnh — rê bóng yếu chỉ rèn ra handles yếu.",
+      "Mất bóng thì nhặt lên và tập tiếp. Sai lầm là một phần của buổi tập."
     ]
   }
 }

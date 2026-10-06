@@ -70,54 +70,54 @@
   ],
   "dateUpdated": "2026-10-06",
   "vi": {
-    "title": "Bài Tập Tip-Back",
-    "description": "Rèn đôi tay mềm và khả năng canh nhịp nhảy lần hai bằng cách tip những cú ném trượt của chính mình vào lại qua bảng.",
-    "goal": "Tip 8 cú tự tạo trượt vào lại qua bảng — 4 lần hai tay, 4 lần một tay — luôn giữ bóng ở trên vành rổ.",
-    "setup": [
-      "Đứng ở right block với bóng; cái rổ là đồng đội duy nhất của bạn.",
-      "Tự ném bóng dội bảng về phía mình để bắt đầu mỗi lượt.",
-      "Mọi pha tip đều phải ở trên vành rổ — không bắt dính, không kéo bóng xuống.",
-      "8 lần thành công mỗi bên: 4 lần tip hai tay, rồi 4 lần tip một tay."
-    ],
-    "instructions": [
-      {
-        "title": "Tung bóng lên",
-        "detail": "Ném bóng mạnh vào bảng để bóng dội ra tới mép vùng paint — đủ cao để bạn bật nhảy với tới."
-      },
-      {
-        "title": "Canh nhịp nhảy hai",
-        "detail": "Bật nhảy ngay khi bóng rời bảng và đón bóng ở điểm cao nhất bằng cả hai tay, đầu ngón tay chạm trước."
-      },
-      {
-        "title": "Tip nhẹ nhàng",
-        "detail": "Đẩy bóng nhẹ nhàng vào bảng — nghĩ như bắt-rồi-thả trong một chuyển động, đừng đập mạnh."
-      },
-      {
-        "title": "Chuyển sang một tay",
-        "detail": "Sau 4 lần thành công bằng hai tay, chỉ dùng tay ngoài, giữ bóng cao và cổ tay chắc."
-      },
-      {
-        "title": "Đổi sang bên trái",
-        "detail": "Lặp lại toàn bộ chuỗi ở left block, vòng một tay dùng tay trái."
-      }
-    ],
     "coachingPoints": [
-      "Đón bóng ở điểm cao nhất — đợi bóng rớt xuống là giết chết pha tip.",
-      "Dùng đầu ngón tay, đừng dùng lòng bàn tay — tay mềm dẫn bóng, tay cứng đánh bóng bay.",
-      "Giữ bóng trên vành rổ ở mọi lần chạm; kéo bóng xuống là mời đối phương block.",
-      "Bật bằng hai chân để thăng bằng, tiếp đất trong tư thế sẵn sàng nhảy tiếp."
+      "Đón bóng ở điểm cao nhất — đợi bóng rơi là giết chết cú tip.",
+      "Đầu ngón tay, không phải lòng bàn tay — tay mềm dẫn bóng, tay cứng đánh bóng bay.",
+      "Giữ bóng trên vành rổ ở mọi chạm; kéo bóng xuống là mời block.",
+      "Bật nhảy bằng hai chân cho thăng bằng, tiếp đất sẵn sàng nhảy tiếp."
     ],
     "commonMistakes": [
-      "Đập bóng bằng cổ tay cứng — thả lỏng tay và dẫn bóng đi.",
-      "Bắt dính thay vì tip — cả bài tập này là về cú chạm thứ hai thật nhanh.",
-      "Nhảy muộn, tip lúc đang rơi xuống — canh nhịp nhảy để đón đúng đỉnh bóng."
+      "Tát bóng với cổ tay cứng — thả lỏng tay và dẫn bóng.",
+      "Bắt bóng thay vì tip — ý nghĩa cả bài là cú chạm thứ hai thật nhanh.",
+      "Nhảy muộn, tip khi đang rơi xuống — canh nhịp nhảy để đón đúng đỉnh."
     ],
-    "progression": "Nhờ đồng đội ném bóng dội bảng ở các góc ngẫu nhiên, hoặc thêm một hậu vệ cầm đệm húc bạn giữa đà nhảy.",
-    "regression": "Cho phép một pha bắt-rồi-finish có kiểm soát sau cú tip, hoặc bắt đầu với bóng đã ở trên vành từ một cú tung thấp.",
-    "gameApplication": "Rebound tấn công thành điểm số ngay lập tức khi bạn tip được bóng vào lại — những điểm second-chance quyết định các trận đấu sít sao.",
-    "players": "1",
+    "description": "Rèn đôi tay mềm và khả năng canh nhịp nhảy lần hai bằng cách tip những cú ném trượt của chính mình qua bảng.",
     "equipment": [
       "Bóng rổ"
-    ]
+    ],
+    "gameApplication": "Rebound tấn công thành điểm số ngay khi bạn tip được bóng vào lại — điểm số cơ hội hai thắng những trận sít sao.",
+    "goal": "Tip 8 cú tự tạo trượt vào lại qua bảng — 4 lần hai tay, 4 lần một tay — luôn giữ bóng trên vành rổ.",
+    "instructions": [
+      {
+        "detail": "Ném bóng mạnh vào bảng để bóng dội ra mép khu vực dưới rổ — đủ cao để bật nhảy tới.",
+        "title": "Ném bóng lên"
+      },
+      {
+        "detail": "Bật nhảy khi bóng rời bảng, đón bóng ở điểm cao nhất bằng hai tay, đầu ngón tay chạm trước.",
+        "title": "Canh nhịp nhảy lần hai"
+      },
+      {
+        "detail": "Đổi hướng bóng nhẹ qua bảng — nghĩ là bắt-rồi-thả trong một nhịp, không phải tát bóng.",
+        "title": "Tip nhẹ nhàng"
+      },
+      {
+        "detail": "Sau 4 lần trúng hai tay, chỉ dùng tay ngoài, giữ bóng cao và cổ tay chắc.",
+        "title": "Chuyển sang một tay"
+      },
+      {
+        "detail": "Lặp lại toàn bộ ở block trái, dùng tay trái cho vòng một tay.",
+        "title": "Sang bên trái"
+      }
+    ],
+    "players": "1",
+    "progression": "Nhờ đồng đội ném bóng dội bảng ở các góc ngẫu nhiên, hoặc thêm một hậu vệ cầm đệm húc vào giữa cú nhảy.",
+    "regression": "Cho phép một pha bắt-rồi-finish có kiểm soát sau cú tip, hoặc bắt đầu với bóng đã trên vành rổ từ cú ném thấp.",
+    "setup": [
+      "Đứng ở block phải cầm bóng; cái rổ là đối tác duy nhất.",
+      "Ném bóng dội bảng về phía mình để bắt đầu mỗi lượt.",
+      "Mọi cú tip đều trên tầm vành rổ — không bắt, không kéo bóng xuống.",
+      "8 lần trúng mỗi bên: 4 tip hai tay, rồi 4 tip một tay."
+    ],
+    "title": "Bài tập tip-back"
   }
 }

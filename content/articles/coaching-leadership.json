@@ -1,137 +1,136 @@
 {
- "ages": [
-  "U14",
-  "U16",
-  "U18",
-  "Adult"
- ],
- "coachingPoints": [
-  "Choose captains for influence, not just scoring — the player teammates follow is the player who matters.",
-  "Give leaders real decisions, not just titles: let them pick drills, call huddles, settle small disputes.",
-  "Hold captains to a higher standard publicly and praise them for it — the standard must be visible.",
-  "Rotate leadership roles monthly early in the season so you discover leaders you might miss."
- ],
- "commonMistakes": [
-  "Appointing the leading scorer by default instead of the player who communicates and competes.",
-  "Naming captains but giving them no actual authority — they feel ceremonial and stop trying.",
-  "Expecting leadership to appear without teaching it — leadership is a skill that needs reps and feedback.",
-  "Letting captains go unchallenged when they break standards — that ends the credibility of the whole program."
- ],
- "dateUpdated": "2026-10-06",
- "description": "Identify, train, and empower player leaders who set standards, hold teammates accountable, and lead when the coach can't.",
- "gameSituations": [
-  "Captain runs the warm-up and pregame huddle without the coach present.",
-  "Veteran settles a frustrated teammate during a dead ball instead of the coach intervening.",
-  "Leader calls out defensive coverage corrections in real time on the floor."
- ],
- "howTo": [
-  {
-   "detail": "Watch the first 2-3 weeks for who teammates listen to in huddles, who picks up cones without being asked, who competes hardest in conditioning. Leadership candidates show up before you name anyone.",
-   "title": "Identify leaders by behavior"
-  },
-  {
-   "detail": "Make expectations explicit: leaders attend everything early, speak first in film sessions, enforce team rules on peers, and model effort standards. Write the 4-5 duties down and review them monthly.",
-   "title": "Define the role clearly"
-  },
-  {
-   "detail": "Run a monthly 20-minute leadership meeting: review one situation that went well and one that didn't. Role-play hard conversations — 'Tell a teammate he's loafing on closeouts.' Leaders need reps at hard talk just like players need reps at shooting.",
-   "title": "Train leadership skills"
-  },
-  {
-   "detail": "Let captains choose warm-up drills twice a week, lead film breakdown of one possession each, and handle first-response in team conflicts. Step back deliberately — growth happens in the space you give them.",
-   "title": "Empower with real authority"
-  },
-  {
-   "detail": "Each leader meets with a coach monthly to review how they're doing on their duties, plus one teammate anonymously rates whether the leader holds people accountable. Adjust roles based on evidence, not seniority.",
-   "title": "Evaluate and rotate"
-  }
- ],
- "hub": "coaching",
- "id": "coaching-leadership",
- "level": "intermediate",
- "positions": [
-  "ALL"
- ],
- "readTime": 7,
- "related": [
-  "team-culture",
-  "player-communication",
-  "building-practice-culture",
-  "giving-feedback-that-sticks",
-  "managing-playing-time"
- ],
- "slug": "coaching-leadership",
- "subcategory": "leadership",
- "tags": [
-  "leadership",
-  "captains",
-  "team-culture",
-  "mentorship",
-  "accountability"
- ],
- "title": "Developing Team Captains & Leadership",
- "vi": {
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
   "coachingPoints": [
-   "Chọn đội trưởng vì tầm ảnh hưởng, không chỉ vì ghi điểm — cầu thủ mà đồng đội nghe theo mới là người quan trọng.",
-   "Giao cho lãnh đạo quyết định thật, không chỉ danh hiệu: để họ chọn bài tập, gọi huddle, giải quyết mâu thuẫn nhỏ.",
-   "Đòi hỏi đội trưởng tiêu chuẩn cao hơn một cách công khai và khen họ vì điều đó — tiêu chuẩn phải nhìn thấy được.",
-   "Luân phiên vai trò lãnh đạo hàng tháng đầu mùa để phát hiện những lãnh đạo mà bạn có thể bỏ lỡ."
+    "Choose captains for influence, not just scoring — the player teammates follow is the player who matters.",
+    "Give leaders real decisions, not just titles: let them pick drills, call huddles, settle small disputes.",
+    "Hold captains to a higher standard publicly and praise them for it — the standard must be visible.",
+    "Rotate leadership roles monthly early in the season so you discover leaders you might miss."
   ],
   "commonMistakes": [
-   "Mặc định chọn cầu thủ ghi điểm cao nhất thay vì cầu thủ biết giao tiếp và thi đấu máu lửa.",
-   "Bổ nhiệm đội trưởng nhưng không cho quyền lực thực sự — họ cảm thấy hình thức và ngừng cố gắng.",
-   "Mong đợi kỹ năng lãnh đạo tự xuất hiện mà không dạy — lãnh đạo là kỹ năng cần tập luyện và phản hồi.",
-   "Để đội trưởng phá vỡ tiêu chuẩn mà không bị nhắc — điều đó hủy uy tín của cả chương trình."
+    "Appointing the leading scorer by default instead of the player who communicates and competes.",
+    "Naming captains but giving them no actual authority — they feel ceremonial and stop trying.",
+    "Expecting leadership to appear without teaching it — leadership is a skill that needs reps and feedback.",
+    "Letting captains go unchallenged when they break standards — that ends the credibility of the whole program."
   ],
-  "description": "Nhận diện, đào tạo và trao quyền cho các thủ lĩnh cầu thủ — những người đặt tiêu chuẩn, giữ đồng đội có trách nhiệm và dẫn dắt khi huấn luyện viên không thể.",
+  "dateUpdated": "2026-10-06",
+  "description": "Identify, train, and empower player leaders who set standards, hold teammates accountable, and lead when the coach can't.",
   "gameSituations": [
-   "Đội trưởng điều hành khởi động và huddle trước trận mà không cần huấn luyện viên.",
-   "Cầu thủ kỳ cựu trấn an đồng đội đang mất bình tĩnh trong lúc bóng chết thay vì huấn luyện viên can thiệp.",
-   "Thủ lĩnh gọi sửa đội hình phòng ngự theo thời gian thực trên sân."
+    "Captain runs the warm-up and pregame huddle without the coach present.",
+    "Veteran settles a frustrated teammate during a dead ball instead of the coach intervening.",
+    "Leader calls out defensive coverage corrections in real time on the floor."
   ],
   "howTo": [
-   {
-    "detail": "Quan sát 2-3 tuần đầu xem đồng đội nghe ai trong huddle, ai tự nhặt cone mà không cần nhắc, ai chạy conditioning máu lửa nhất. Ứng viên lãnh đạo xuất hiện trước khi bạn bổ nhiệm bất kỳ ai.",
-    "title": "Nhận diện lãnh đạo qua hành vi"
-   },
-   {
-    "detail": "Nêu rõ kỳ vọng: lãnh đạo luôn đến sớm mọi buổi, phát biểu trước trong buổi xem film, thực thi nội quy đội với đồng đội, và làm gương về nỗ lực. Viết 4-5 nhiệm vụ xuống giấy và rà soát hàng tháng.",
-    "title": "Định nghĩa rõ vai trò"
-   },
-   {
-    "detail": "Họp lãnh đạo 20 phút mỗi tháng: rút kinh nghiệm một tình huống tốt và một tình huống chưa tốt. Diễn tập các cuộc nói chuyện khó — 'Nói với đồng đội rằng cậu ấy đang lười closeout.' Lãnh đạo cần tập nói chuyện khó như cầu thủ cần tập ném.",
-    "title": "Huấn luyện kỹ năng lãnh đạo"
-   },
-   {
-    "detail": "Để đội trưởng chọn bài khởi động hai lần một tuần, phân tích một possession trong buổi xem film, và xử lý đầu tiên các mâu thuẫn trong đội. Lùi lại một cách có chủ ý — sự trưởng thành xảy ra trong khoảng trống bạn tạo ra.",
-    "title": "Trao quyền lực thực sự"
-   },
-   {
-    "detail": "Mỗi lãnh đạo gặp huấn luyện viên hàng tháng để đánh giá nhiệm vụ, cộng một đồng đội ẩn danh đánh giá xem lãnh đạo có giữ mọi người có trách nhiệm không. Điều chỉnh vai trò dựa trên bằng chứng, không phải thâm niên.",
-    "title": "Đánh giá và luân phiên"
-   }
+    {
+      "detail": "Watch the first 2-3 weeks for who teammates listen to in huddles, who picks up cones without being asked, who competes hardest in conditioning. Leadership candidates show up before you name anyone.",
+      "title": "Identify leaders by behavior"
+    },
+    {
+      "detail": "Make expectations explicit: leaders attend everything early, speak first in film sessions, enforce team rules on peers, and model effort standards. Write the 4-5 duties down and review them monthly.",
+      "title": "Define the role clearly"
+    },
+    {
+      "detail": "Run a monthly 20-minute leadership meeting: review one situation that went well and one that didn't. Role-play hard conversations — 'Tell a teammate he's loafing on closeouts.' Leaders need reps at hard talk just like players need reps at shooting.",
+      "title": "Train leadership skills"
+    },
+    {
+      "detail": "Let captains choose warm-up drills twice a week, lead film breakdown of one possession each, and handle first-response in team conflicts. Step back deliberately — growth happens in the space you give them.",
+      "title": "Empower with real authority"
+    },
+    {
+      "detail": "Each leader meets with a coach monthly to review how they're doing on their duties, plus one teammate anonymously rates whether the leader holds people accountable. Adjust roles based on evidence, not seniority.",
+      "title": "Evaluate and rotate"
+    }
   ],
+  "hub": "coaching",
+  "id": "coaching-leadership",
+  "level": "intermediate",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 7,
+  "related": [
+    "team-culture",
+    "player-communication",
+    "building-practice-culture",
+    "giving-feedback-that-sticks",
+    "managing-playing-time"
+  ],
+  "slug": "coaching-leadership",
+  "subcategory": "leadership",
   "tags": [
-   "lãnh-đạo",
-   "đội-trưởng",
-   "văn-hóa-đội",
-   "huấn-luyện-viên",
-   "trách-nhiệm"
+    "leadership",
+    "captains",
+    "team-culture",
+    "mentorship",
+    "accountability"
   ],
-  "title": "Phát Triển Đội Trưởng & Kỹ Năng Lãnh Đạo",
+  "title": "Developing Team Captains & Leadership",
+  "vi": {
+    "coachingPoints": [
+      "Chọn đội trưởng theo sức ảnh hưởng, không theo điểm số — cầu thủ được đồng đội đi theo mới là người quan trọng.",
+      "Giao cho thủ lĩnh quyết định thật, không chỉ danh hiệu: cho họ chọn bài tập, gọi hội ý, hoà giải mâu thuẫn nhỏ.",
+      "Đặt chuẩn mực cao hơn cho đội trưởng một cách công khai và khen họ vì điều đó — chuẩn mực phải nhìn thấy được.",
+      "Luân chuyển vai trò lãnh đạo hàng tháng đầu mùa để phát hiện những thủ lĩnh bạn có thể bỏ sót."
+    ],
+    "commonMistakes": [
+      "Mặc định bổ nhiệm người ghi điểm nhiều nhất thay vì người biết giao tiếp và thi đấu máu lửa.",
+      "Đặt tên đội trưởng nhưng không cho quyền thật — họ thành bù nhìn và ngừng cố gắng.",
+      "Mong lãnh đạo tự xuất hiện mà không dạy — lãnh đạo là kỹ năng cần tập và cần phản hồi.",
+      "Để đội trưởng phá chuẩn mực mà không bị nhắc — uy tín cả chương trình sụp theo."
+    ],
+    "description": "Nhận diện, đào tạo và trao quyền cho những thủ lĩnh biết đặt chuẩn mực, giữ đồng đội có trách nhiệm, và dẫn dắt khi HLV không thể.",
+    "gameSituations": [
+      "Đội trưởng tự chạy khởi động và hội ý trước trận khi không có HLV.",
+      "Cầu thủ kỳ cựu xoa dịu đồng đội đang bực lúc bóng chết thay vì HLV phải can thiệp.",
+      "Thủ lĩnh hô chỉnh coverage phòng thủ ngay trên sân, theo thời gian thực."
+    ],
+    "howTo": [
+      {
+        "detail": "Quan sát 2–3 tuần đầu: ai được đồng đội lắng nghe khi hội ý, ai nhặt nón tập mà không cần nhắc, ai thi đấu máu nhất ở bài thể lực. Ứng viên lãnh đạo lộ diện trước khi bạn đặt tên cho ai.",
+        "title": "Nhận diện thủ lĩnh qua hành vi"
+      },
+      {
+        "detail": "Viết kỳ vọng thành văn bản: thủ lĩnh có mặt sớm mọi buổi, lên tiếng trước khi xem video, nhắc đồng đội giữ nội quy, làm gương về nỗ lực. Viết 4–5 nhiệm vụ ra giấy và rà soát hàng tháng.",
+        "title": "Định nghĩa vai trò rõ ràng"
+      },
+      {
+        "detail": "Mỗi tháng một buổi họp lãnh đạo 20 phút: xem lại một tình huống làm tốt và một chưa tốt. Đóng vai các cuộc nói chuyện khó — \"Bảo đồng đội rằng cậu ấy đang lười ở closeout.\" Thủ lĩnh cần tập nói chuyện khó như cầu thủ cần tập ném.",
+        "title": "Đào tạo kỹ năng lãnh đạo"
+      },
+      {
+        "detail": "Để đội trưởng chọn bài khởi động hai buổi một tuần, dẫn phân tích một tình huống trên video, và xử lý bước đầu khi đội có mâu thuẫn. Lùi lại có chủ ý — sự trưởng thành nằm trong khoảng trống bạn cho họ.",
+        "title": "Trao quyền thật"
+      },
+      {
+        "detail": "Mỗi thủ lĩnh gặp HLV hàng tháng để rà soát nhiệm vụ, cộng một đồng đội chấm ẩn danh xem thủ lĩnh có giữ được kỷ luật không. Điều chỉnh vai trò dựa trên bằng chứng, không theo thâm niên.",
+        "title": "Đánh giá và luân chuyển"
+      }
+    ],
+    "tags": [
+      "huấn luyện",
+      "lãnh đạo",
+      "đội trưởng",
+      "chiến thuật"
+    ],
+    "title": "Phát triển đội trưởng và khả năng lãnh đạo",
+    "whatIsIt": [
+      "Đội trưởng không đơn giản là cầu thủ giỏi nhất — là người mà đồng đội sẵn sàng đi theo. Phát triển khả năng lãnh đạo nghĩa là nhận ra những cầu thủ có sức ảnh hưởng tự nhiên, rồi dạy họ kỹ năng lãnh đạo như dạy bất kỳ kỹ năng bóng rổ nào: đặt kỳ vọng rõ ràng, cho họ thực hành trong tình huống thật, và phản hồi đều đặn.",
+      "Lãnh đạo nhân đôi công việc huấn luyện của bạn. Một HLV đặt được chuẩn mực; một đội đầy thủ lĩnh thực thi chuẩn mực đó suốt ngày — trong phòng tạ, trên xe, trong phòng thay đồ, và lúc bóng sống. Không có thủ lĩnh được đào tạo, chuẩn mực sụp đổ ngay khi bạn quay lưng."
+    ],
+    "whyItMatters": [
+      "Bạn không thể có mặt trong mọi lần hội ý, mọi bóng chết, mọi khoảnh khắc căng thẳng. Đội có thủ lĩnh mạnh tự sửa sai trên sân, giữ chuẩn mực khi HLV quay đi, và vượt qua khó khăn mà không cần hội ý. Đó là khác biệt giữa một nhóm tài năng và một đội bóng thực sự."
+    ]
+  },
   "whatIsIt": [
-   "Đội trưởng không phải là cầu thủ giỏi nhất đội — đó là cầu thủ mà đồng đội sẵn sàng đi theo. Phát triển lãnh đạo có nghĩa là nhận diện những cầu thủ có tầm ảnh hưởng tự nhiên, sau đó dạy họ kỹ năng lãnh đạo một cách có chủ ý giống như dạy bất kỳ kỹ năng bóng rổ nào: đặt kỳ vọng rõ ràng, cho họ tập luyện qua các tình huống thật, và phản hồi thường xuyên.",
-   "Lãnh đạo nhân lên khả năng huấn luyện của bạn. Một huấn luyện viên đặt ra tiêu chuẩn; một nhóm thủ lĩnh cầu thủ thực thi chúng suốt ngày — trong phòng tạ, trên xe bus, trong phòng thay đồ và khi thi đấu. Không có lãnh đạo được đào tạo, tiêu chuẩn sụp đổ ngay khi bạn quay lưng đi."
+    "A team captain is not simply your best player — it's the player teammates are willing to follow. Developing leadership means identifying players with natural influence, then deliberately teaching them leadership skills the same way you'd teach any basketball skill: set clear expectations, give them reps in real situations, and provide consistent feedback.",
+    "Leadership multiplies your coaching. One coach can set standards; a team of player-leaders enforces them around the clock — in the weight room, on the bus, in the locker room, and during live play. Without trained leaders, standards collapse the moment you turn your back."
   ],
   "whyItMatters": [
-   "Huấn luyện viên không thể có mặt trong mọi huddle, mọi dead ball, mọi khoảnh khắc căng thẳng. Đội có lãnh đạo cầu thủ mạnh sẽ tự điều chỉnh trên sân, giữ tiêu chuẩn khi huấn luyện viên quay đi, và vượt qua khó khăn mà không cần timeout. Đó là khác biệt giữa một tập thể tài năng và một đội bóng thực sự."
+    "You can't be in every huddle, every dead ball, every tense moment. Teams with strong player leaders self-correct on the floor, hold standards when the coach looks away, and push through adversity without needing a timeout. It's the difference between a collection of talent and an actual team."
   ]
- },
- "whatIsIt": [
-  "A team captain is not simply your best player — it's the player teammates are willing to follow. Developing leadership means identifying players with natural influence, then deliberately teaching them leadership skills the same way you'd teach any basketball skill: set clear expectations, give them reps in real situations, and provide consistent feedback.",
-  "Leadership multiplies your coaching. One coach can set standards; a team of player-leaders enforces them around the clock — in the weight room, on the bus, in the locker room, and during live play. Without trained leaders, standards collapse the moment you turn your back."
- ],
- "whyItMatters": [
-  "You can't be in every huddle, every dead ball, every tense moment. Teams with strong player leaders self-correct on the floor, hold standards when the coach looks away, and push through adversity without needing a timeout. It's the difference between a collection of talent and an actual team."
- ]
 }

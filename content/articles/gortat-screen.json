@@ -1,121 +1,121 @@
 {
- "title": "Gortat Screens",
- "description": "The screener sets one screen, then flips to set a second one facing the other way — the screen-the-screener of the PNR world.",
- "hub": "pick-and-roll",
- "subcategory": "pick-and-roll",
- "level": "advanced",
- "positions": [
-  "C",
-  "PF"
- ],
- "ages": [
-  "U16",
-  "U18",
-  "Adult",
-  "Competitive"
- ],
- "readTime": 5,
- "tags": [
-  "pick and roll",
-  "gortat",
-  "screen"
- ],
- "whatIsIt": [
-  "A Gortat screen — named after Marcin Gortat, who perfected it — is a back-to-back screening action: the big sets a ball screen, then immediately flips his hips and sets a second screen facing the opposite direction, usually for the same ball handler. The two screens come so fast the defense can't communicate through both.",
-  "It is essentially a re-screen with a twist: the flip changes the angle completely, so a defense that just solved the first screen faces a brand-new problem a second later. Guards who use it well get two bites at the same coverage."
- ],
- "whyItMatters": [
-  "One screen is scoutable; two screens in two seconds is chaos. The Gortat punishes defenses that overplay the first action — the flip catches the big mid-recovery and the guard mid-relaxation. It is a staple of high-level PNR offenses because it manufactures advantages without needing a mismatch."
- ],
- "howTo": [
-  {
-   "title": "Set a real first screen",
-   "detail": "The first screen must be legal and solid — if it's a slip, there's nothing to flip from. Make contact and let the ball handler come off it."
-  },
-  {
-   "title": "Flip your hips instantly",
-   "detail": "The moment the ball handler clears, pivot and re-set facing the other way. The flip should take less than a second — you're screening again before the defense finishes talking."
-  },
-  {
-   "title": "Roll or pop off the second",
-   "detail": "Read the defense after the flip. If the big is still recovering, roll hard to the rim. If the help collapsed, pop for the jumper. The second screen creates the read."
-  },
-  {
-   "title": "Keep the ball handler patient",
-   "detail": "The guard must wait that extra beat for the flip instead of driving into a set defense. Patience turns two screens into one wide-open look."
-  }
- ],
- "coachingPoints": [
-  "Conditioning matters — flipping two screens in one possession is exhausting; drill it.",
-  "The flip angle should attack the recovering big's momentum, not run parallel to it.",
-  "Great counter when the defense starts icing or blitzing your regular PNR."
- ],
- "commonMistakes": [
-  "Flipping before the first screen makes contact — now it's just two moving screens.",
-  "The ball handler driving early and wasting the second screen.",
-  "Flipping into the help defender instead of away from him."
- ],
- "gameSituations": [
-  "Vs drop coverage that handles your first screen comfortably.",
-  "Late clock: two screens in two seconds to free anyone.",
-  "When the defense starts calling out and navigating your PNR too well."
- ],
- "related": [
-  "rescreen-pnr",
-  "pick-and-roll-basics",
-  "screen-angle",
-  "screen-the-screener"
- ],
- "vi": {
-  "title": "Chắn Gortat",
-  "description": "Người chắn dựng một chắn, rồi xoay người dựng chắn thứ hai hướng ngược lại — kiểu screen-the-screener của thế giới PNR.",
-  "whatIsIt": [
-   "Gortat screen — đặt theo tên Marcin Gortat, người hoàn thiện nó — là chuỗi chắn liên tiếp: big man dựng chắn bóng, rồi ngay lập tức xoay hông dựng chắn thứ hai hướng ngược lại, thường cho cùng người cầm bóng. Hai chắn đến nhanh đến mức hàng thủ không kịp hô nhau qua cả hai.",
-   "Về cơ bản đó là re-screen có biến tấu: cú xoay đổi góc hoàn toàn, nên hàng thủ vừa giải xong chắn đầu đã đối mặt vấn đề hoàn toàn mới một giây sau. Guard dùng tốt được hai cơ hội trước cùng một kiểu kèm."
-  ],
-  "whyItMatters": [
-   "Một chắn thì scout được; hai chắn trong hai giây là hỗn loạn. Gortat trừng phạt hàng thủ overplay bài đầu — cú xoay bắt big man lúc đang hồi và guard lúc đang thả lỏng. Đó là món tủ của các hệ thống PNR đỉnh cao vì nó tạo lợi thế mà không cần mismatch."
-  ],
-  "howTo": [
-   {
-    "title": "Dựng chắn đầu thật chắc",
-    "detail": "Chắn đầu phải hợp lệ và chắc — nếu slip thì chẳng có gì để xoay. Va chạm và để người cầm bóng vượt qua."
-   },
-   {
-    "title": "Xoay hông ngay lập tức",
-    "detail": "Ngay khi người cầm bóng qua, pivot và dựng lại hướng ngược lại. Cú xoay nên dưới một giây — bạn chắn lần nữa trước khi hàng thủ hô xong."
-   },
-   {
-    "title": "Roll hoặc pop sau chắn hai",
-    "detail": "Đọc hàng thủ sau cú xoay. Nếu big man còn đang hồi, roll mạnh vào rổ. Nếu help đã sập vào, pop ném. Chắn thứ hai tạo ra pha đọc."
-   },
-   {
-    "title": "Giữ người cầm bóng kiên nhẫn",
-    "detail": "Guard phải chờ thêm một nhịp cho cú xoay thay vì đột phá vào hàng thủ đã ổn định. Kiên nhẫn biến hai chắn thành một cơ hội trống trải."
-   }
+  "ages": [
+    "U16",
+    "U18",
+    "Adult",
+    "Competitive"
   ],
   "coachingPoints": [
-   "Thể lực quan trọng — xoay hai chắn trong một possession rất mệt; hãy drill.",
-   "Góc xoay nên đánh vào đà hồi của big man, không chạy song song với nó.",
-   "Đòn phản tuyệt vời khi hàng thủ bắt đầu ice hoặc blitz PNR thường của bạn."
+    "Conditioning matters — flipping two screens in one possession is exhausting; drill it.",
+    "The flip angle should attack the recovering big's momentum, not run parallel to it.",
+    "Great counter when the defense starts icing or blitzing your regular PNR."
   ],
   "commonMistakes": [
-   "Xoay trước khi chắn đầu va chạm — giờ chỉ là hai chắn di chuyển.",
-   "Người cầm bóng đột phá sớm và phí chắn thứ hai.",
-   "Xoay vào người help thay vì ra xa anh ta."
+    "Flipping before the first screen makes contact — now it's just two moving screens.",
+    "The ball handler driving early and wasting the second screen.",
+    "Flipping into the help defender instead of away from him."
   ],
+  "dateUpdated": "2026-10-06",
+  "description": "The screener sets one screen, then flips to set a second one facing the other way — the screen-the-screener of the PNR world.",
   "gameSituations": [
-   "Trước drop coverage xử lý chắn đầu của bạn thoải mái.",
-   "Cuối giờ: hai chắn trong hai giây để giải phóng bất kỳ ai.",
-   "Khi hàng thủ bắt đầu hô nhau và điều hướng PNR của bạn quá tốt."
+    "Vs drop coverage that handles your first screen comfortably.",
+    "Late clock: two screens in two seconds to free anyone.",
+    "When the defense starts calling out and navigating your PNR too well."
   ],
+  "howTo": [
+    {
+      "detail": "The first screen must be legal and solid — if it's a slip, there's nothing to flip from. Make contact and let the ball handler come off it.",
+      "title": "Set a real first screen"
+    },
+    {
+      "detail": "The moment the ball handler clears, pivot and re-set facing the other way. The flip should take less than a second — you're screening again before the defense finishes talking.",
+      "title": "Flip your hips instantly"
+    },
+    {
+      "detail": "Read the defense after the flip. If the big is still recovering, roll hard to the rim. If the help collapsed, pop for the jumper. The second screen creates the read.",
+      "title": "Roll or pop off the second"
+    },
+    {
+      "detail": "The guard must wait that extra beat for the flip instead of driving into a set defense. Patience turns two screens into one wide-open look.",
+      "title": "Keep the ball handler patient"
+    }
+  ],
+  "hub": "pick-and-roll",
+  "id": "gortat-screen",
+  "level": "advanced",
+  "positions": [
+    "C",
+    "PF"
+  ],
+  "readTime": 5,
+  "related": [
+    "rescreen-pnr",
+    "pick-and-roll-basics",
+    "screen-angle",
+    "screen-the-screener"
+  ],
+  "slug": "gortat-screen",
+  "subcategory": "pick-and-roll",
   "tags": [
-   "pick and roll",
-   "chắn bóng",
-   "chiến thuật"
+    "pick and roll",
+    "gortat",
+    "screen"
+  ],
+  "title": "Gortat Screens",
+  "vi": {
+    "coachingPoints": [
+      "Thể lực quyết định — xoay hai screen trong một pha bóng rất tốn sức; tập cho quen.",
+      "Góc xoay phải đánh vào đà lùi của big đối phương, đừng xoay song song với nó.",
+      "Món tủ khi đối phương bắt đầu ice hoặc blitz PNR của đội."
+    ],
+    "commonMistakes": [
+      "Xoay trước khi screen đầu tạo va chạm — thành ra hai screen di chuyển lỗi.",
+      "Người cầm bóng đâm sớm, phí mất screen thứ hai.",
+      "Xoay vào đúng người trợ giúp thay vì xoay tránh họ."
+    ],
+    "description": "Người screen dựng một screen, rồi xoay hông dựng ngay screen thứ hai ngược hướng — kiểu screen-the-screener của thế giới PNR.",
+    "gameSituations": [
+      "Gặp drop coverage hóa giải screen đầu quá dễ.",
+      "Cuối đồng hồ 24 giây: hai screen trong hai giây để giải phóng bất kỳ ai.",
+      "Khi đối phương bắt đầu hô nhau và luồn qua PNR của đội quá trơn."
+    ],
+    "howTo": [
+      {
+        "detail": "Screen đầu phải hợp lệ và chắc — nếu slip thì chẳng có gì để xoay tiếp. Tạo va chạm thật rồi để người cầm bóng vòng qua.",
+        "title": "Dựng screen đầu cho chắc"
+      },
+      {
+        "detail": "Ngay khi người cầm bóng thoát, xoay người dựng lại screen ngược hướng. Cú xoay phải dưới một giây — screen lần hai xong trước khi hàng thủ kịp hô xong.",
+        "title": "Xoay hông ngay lập tức"
+      },
+      {
+        "detail": "Đọc hàng thủ sau cú xoay. Big đối phương còn đang lùi thì roll mạnh vào rổ. Trợ giúp đã sập vào thì pop ra ném. Screen thứ hai tạo ra tình huống để đọc.",
+        "title": "Roll hoặc pop sau screen thứ hai"
+      },
+      {
+        "detail": "Hậu vệ chờ thêm một nhịp cho cú xoay, đừng đâm đầu vào hàng thủ đã kịp đứng vị trí. Kiên nhẫn biến hai screen thành một cú ném hoàn toàn trống.",
+        "title": "Người cầm bóng phải kiên nhẫn"
+      }
+    ],
+    "tags": [
+      "pick and roll",
+      "screen",
+      "chiến thuật"
+    ],
+    "title": "Screen hai nhịp kiểu Gortat",
+    "whatIsIt": [
+      "Gortat screen — đặt theo tên Marcin Gortat, người hoàn thiện nó — là chuỗi screen liên tiếp: big dựng ball screen, rồi lập tức xoay hông dựng screen thứ hai ngược hướng, thường cho cùng một người cầm bóng. Hai screen đến quá nhanh, hàng thủ không kịp hô nhau qua cả hai.",
+      "Về bản chất đây là một pha re-screen có thêm cú xoay: góc screen thay đổi hoàn toàn, nên hàng thủ vừa hóa giải xong screen đầu đã phải đối mặt với bài toán mới. Hậu vệ dùng tốt chiêu này được hưởng lợi hai lần từ cùng một kiểu phòng thủ."
+    ],
+    "whyItMatters": [
+      "Một screen thì trinh sát được; hai screen trong hai giây là hỗn loạn. Gortat trừng phạt hàng thủ dồn sức cho tình huống đầu — cú xoay người bắt big đang lùi về giữa chừng, bắt hậu vệ lúc đang thả lỏng. Đây là món tủ của các hàng công PNR đẳng cấp cao vì nó tạo lợi thế mà không cần mismatch."
+    ]
+  },
+  "whatIsIt": [
+    "A Gortat screen — named after Marcin Gortat, who perfected it — is a back-to-back screening action: the big sets a ball screen, then immediately flips his hips and sets a second screen facing the opposite direction, usually for the same ball handler. The two screens come so fast the defense can't communicate through both.",
+    "It is essentially a re-screen with a twist: the flip changes the angle completely, so a defense that just solved the first screen faces a brand-new problem a second later. Guards who use it well get two bites at the same coverage."
+  ],
+  "whyItMatters": [
+    "One screen is scoutable; two screens in two seconds is chaos. The Gortat punishes defenses that overplay the first action — the flip catches the big mid-recovery and the guard mid-relaxation. It is a staple of high-level PNR offenses because it manufactures advantages without needing a mismatch."
   ]
- },
- "id": "gortat-screen",
- "slug": "gortat-screen",
- "dateUpdated": "2026-10-06"
 }

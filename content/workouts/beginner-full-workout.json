@@ -5,17 +5,57 @@
   "description": "A complete 25-minute starter session: dribbling, form shooting, layups, passing, and defense basics — everything a new player needs.",
   "level": "beginner",
   "durationMin": 25,
-  "focus": ["Ball Handling", "Shooting", "Finishing", "Passing", "Defense"],
-  "equipment": ["Basketball"],
+  "focus": [
+    "Ball Handling",
+    "Shooting",
+    "Finishing",
+    "Passing",
+    "Defense"
+  ],
+  "equipment": [
+    "Basketball"
+  ],
   "items": [
-    {"name": "Pound dribble warm-up", "detail": "Stationary pound dribbles: 30 seconds right hand, 30 left, 30 alternating. Eyes up.", "time": "2:00"},
-    {"name": "Crossover basics", "detail": "Low stationary crossovers: 1 minute. Then walking crossovers down the court and back.", "time": "3:00"},
-    {"name": "Form shooting", "detail": "One-hand shots from 4 feet: 5 makes each side and middle. Hold the follow-through.", "time": "4:00"},
-    {"name": "Right-hand layups", "detail": "Dribble from the wing and finish right-hand layups: 5 makes. Right hand, left foot.", "time": "3:00"},
-    {"name": "Left-hand layups", "detail": "Same from the left side: 5 makes with your left hand. It's okay if it's ugly — reps fix it.", "time": "3:00"},
-    {"name": "Passing against the wall", "detail": "Chest passes and bounce passes against a wall: 20 of each, stepping into every pass.", "time": "3:00"},
-    {"name": "Defensive slides", "detail": "Lane slides in a low stance: down and back twice. Stay low, don't cross your feet.", "time": "3:00"},
-    {"name": "Free-throw finish", "detail": "10 free throws. Pick a simple routine (two dribbles, breathe, shoot) and use it every time.", "time": "4:00"}
+    {
+      "name": "Pound dribble warm-up",
+      "detail": "Stationary pound dribbles: 30 seconds right hand, 30 left, 30 alternating. Eyes up.",
+      "time": "2:00"
+    },
+    {
+      "name": "Crossover basics",
+      "detail": "Low stationary crossovers: 1 minute. Then walking crossovers down the court and back.",
+      "time": "3:00"
+    },
+    {
+      "name": "Form shooting",
+      "detail": "One-hand shots from 4 feet: 5 makes each side and middle. Hold the follow-through.",
+      "time": "4:00"
+    },
+    {
+      "name": "Right-hand layups",
+      "detail": "Dribble from the wing and finish right-hand layups: 5 makes. Right hand, left foot.",
+      "time": "3:00"
+    },
+    {
+      "name": "Left-hand layups",
+      "detail": "Same from the left side: 5 makes with your left hand. It's okay if it's ugly — reps fix it.",
+      "time": "3:00"
+    },
+    {
+      "name": "Passing against the wall",
+      "detail": "Chest passes and bounce passes against a wall: 20 of each, stepping into every pass.",
+      "time": "3:00"
+    },
+    {
+      "name": "Defensive slides",
+      "detail": "Lane slides in a low stance: down and back twice. Stay low, don't cross your feet.",
+      "time": "3:00"
+    },
+    {
+      "name": "Free-throw finish",
+      "detail": "10 free throws. Pick a simple routine (two dribbles, breathe, shoot) and use it every time.",
+      "time": "4:00"
+    }
   ],
   "tips": [
     "Master the basics before adding anything fancy — fundamentals win games.",
@@ -24,11 +64,11 @@
     "Do this workout 3 times a week and you will be shocked how fast you improve."
   ],
   "dateUpdated": "2026-10-06",
-  "vi":   {
-    "title": "Buổi Tập Toàn Diện Cho Người Mới",
-    "description": "Buổi tập khởi đầu 25 phút hoàn chỉnh: rê bóng, form ném, layup, chuyền bóng và phòng thủ cơ bản — mọi thứ người mới cần.",
+  "vi": {
+    "title": "Giáo án toàn diện cho người mới",
+    "description": "Buổi tập khởi đầu 25 phút hoàn chỉnh: dẫn bóng, chỉnh form ném, layup, chuyền bóng và phòng thủ cơ bản — mọi thứ người mới cần.",
     "focus": [
-      "Rê bóng",
+      "Dẫn bóng",
       "Ném rổ",
       "Dứt điểm",
       "Chuyền bóng",
@@ -39,51 +79,51 @@
     ],
     "items": [
       {
-        "name": "Khởi động rê đập",
-        "detail": "Rê đập đứng yên: 30 giây tay phải, 30 giây tay trái, 30 giây luân phiên. Mắt nhìn lên.",
+        "name": "Khởi động đập bóng",
+        "detail": "Đập bóng tại chỗ: tay phải 30 giây, tay trái 30 giây, luân phiên 30 giây. Mắt nhìn lên.",
         "time": "2:00"
       },
       {
         "name": "Crossover cơ bản",
-        "detail": "Crossover thấp đứng yên: 1 phút. Rồi crossover khi đi bộ hết sân đi-về.",
+        "detail": "Crossover thấp tại chỗ: 1 phút. Sau đó đi bộ crossover hết sân đi-về.",
         "time": "3:00"
       },
       {
-        "name": "Form shooting",
-        "detail": "Ném một tay từ 4 feet (1,2m): mỗi bên và giữa vào 5 quả. Giữ follow-through.",
+        "name": "Chỉnh form ném",
+        "detail": "Ném một tay từ 1,2m: mỗi bên và giữa vào 5 quả. Giữ tay theo bóng đến hết.",
         "time": "4:00"
       },
       {
         "name": "Layup tay phải",
-        "detail": "Rê từ wing và dứt điểm layup tay phải: vào 5 quả. Tay phải, chân trái.",
+        "detail": "Rê từ cánh, dứt điểm layup tay phải: vào 5 quả. Tay phải, chân trái.",
         "time": "3:00"
       },
       {
         "name": "Layup tay trái",
-        "detail": "Tương tự bên trái: vào 5 quả bằng tay trái. Xấu cũng không sao — số lượt tập sẽ sửa.",
+        "detail": "Tương tự bên trái: vào 5 quả bằng tay trái. Vụng cũng không sao — cứ tập là sửa được.",
         "time": "3:00"
       },
       {
-        "name": "Chuyền vào tường",
-        "detail": "Chest pass và bounce pass vào tường: mỗi loại 20 cái, bước vào mọi đường chuyền.",
+        "name": "Chuyền bóng vào tường",
+        "detail": "Chest pass và bounce pass vào tường: mỗi loại 20 cái, bước người vào mỗi đường chuyền.",
         "time": "3:00"
       },
       {
         "name": "Trượt phòng thủ",
-        "detail": "Trượt ngang lane trong tư thế thấp: đi-về 2 lần. Giữ thấp, không bắt chéo chân.",
+        "detail": "Trượt ngang trong tư thế thấp: đi-về 2 lượt. Giữ thấp, không bắt chéo chân.",
         "time": "3:00"
       },
       {
-        "name": "Chốt bằng ném phạt",
-        "detail": "10 quả phạt. Chọn một nghi thức đơn giản (2 nhịp rê, thở, ném) và dùng mọi lần.",
+        "name": "Chốt buổi bằng ném phạt",
+        "detail": "10 quả phạt. Chọn các bước đơn giản (hai nhịp rê, hít thở, ném) và giữ nguyên mọi lần.",
         "time": "4:00"
       }
     ],
     "tips": [
-      "Thành thạo cơ bản trước khi thêm thứ hoa mỹ — nền tảng mới thắng trận.",
-      "Tay yếu xứng đáng có một nửa thời gian tập. Giờ thấy gượng, một tháng nữa sẽ khác.",
+      "Chắc cơ bản rồi mới thêm thứ hoa mỹ — nền tảng mới thắng trận.",
+      "Tay không thuận xứng đáng có một nửa thời gian tập. Giờ thấy gượng, một tháng nữa sẽ khác.",
       "Nghỉ 30-60 giây giữa các khối nếu cần. Lượt tập chất lượng hơn lượt tập mệt.",
-      "Tập buổi này 3 lần/tuần và bạn sẽ ngạc nhiên vì tiến bộ nhanh thế nào."
+      "Tập buổi này 3 lần/tuần, tiến bộ nhanh đến mức chính mình cũng ngạc nhiên."
     ]
   }
 }

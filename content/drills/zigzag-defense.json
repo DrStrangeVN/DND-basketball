@@ -71,55 +71,55 @@
   ],
   "dateUpdated": "2026-10-06",
   "vi": {
-    "title": "Phòng Ngự Zigzag",
-    "description": "Ép người cầm bóng đổi hướng ba lần bằng những pha slide zigzag quyết liệt từ biên cuối sân lên giữa sân — cấm cho qua giữa.",
-    "goal": "Buộc người rê bóng đổi hướng 3 lần trước khi tới giữa sân, ngực luôn ở trước mặt họ và không dính lỗi.",
-    "setup": [
-      "Đặt 3 cọc tiêu zigzag từ góc biên cuối sân lên giữa sân, cách nhau khoảng 15 feet (4,5m).",
-      "Hậu vệ kèm bóng từ biên cuối sân; người tấn công có live dribble.",
-      "Bên tấn công phải ở trong phạm vi cọc; bên thủ phải ép họ đổi hướng ở mỗi cọc.",
-      "4 lượt mỗi người rồi đổi vai; mỗi lượt có shot clock 10 giây."
-    ],
-    "instructions": [
-      {
-        "title": "Đặt góc ép",
-        "detail": "Bắt đầu với chân trước ép người rê bóng về phía cọc đầu tiên — khóa đường giữa ngay từ bước đầu tiên."
-      },
-      {
-        "title": "Slide và ép đổi hướng",
-        "detail": "Giữ slide thấp, ngực đối ngực với người rê bóng, cắt đường đi của họ ở mỗi cọc để ép đổi hướng."
-      },
-      {
-        "title": "Lùi khi bị đẩy bóng",
-        "detail": "Khi họ đẩy bóng vượt qua, chạy lùi nhanh hai bước rồi vào lại tư thế — đừng bao giờ với tay từ phía sau."
-      },
-      {
-        "title": "Kết thúc lượt",
-        "detail": "Lượt kết thúc ở giữa sân hoặc khi ép được họ nhấc bóng; bị qua mặt (blow-by) thì hậu vệ chạy lại lượt đó."
-      },
-      {
-        "title": "Thi đấu cả series",
-        "detail": "Tấn công được 1 điểm mỗi lần blow-by; phòng ngự được 1 điểm mỗi lần ép đổi hướng thành công ở cả 3 cọc — chơi đến 4."
-      }
-    ],
     "coachingPoints": [
-      "Mũi ngang vai phía bóng — đầu mà ở sau hông họ là bạn đã bị qua mặt.",
-      "Slide ngắn, nhanh thắng những pha lao dài; lao người là cách bị crossover.",
-      "Tay linh hoạt nhưng kỷ luật — theo bóng mà không với ngang qua người họ.",
-      "Ép đổi hướng bằng ngực và chân, đừng dùng tay."
+      "Mũi hướng vào vai phía bóng — đầu sau hông họ là đã bị qua.",
+      "Slide ngắn nhanh thắng bước dài; lao người là cách bị crossover.",
+      "Tay linh hoạt nhưng kỷ luật — theo bóng, không với ngang người họ.",
+      "Ép họ bằng ngực và chân, không bằng tay."
     ],
     "commonMistakes": [
-      "Với tay cướp bóng thay vì di chuyển chân — với là phạm lỗi hoặc bị qua mặt.",
-      "Mở tư thế cho đường giữa — ép ra biên, không bao giờ nhường giữa.",
-      "Đứng thẳng người khi lùi — giữ thấp ở mọi bước lùi."
+      "Với tay cướp bóng thay vì di chuyển chân — với là phạm lỗi hoặc bị qua.",
+      "Mở tư thế về phía giữa — ép ra biên, không bao giờ dâng đường giữa.",
+      "Đứng thẳng khi lùi — giữ thấp trong mọi bước lùi."
     ],
-    "progression": "Cho bên tấn công cả sân và được đánh vào rổ sau lần đổi hướng thứ ba, buộc phải kết thúc đợt bóng ở trạng thái live.",
-    "regression": "Bỏ bóng, cho hậu vệ bắt chước slide của HLV qua các cọc, hoặc rút đường chạy còn 2 cọc.",
-    "gameApplication": "Hậu vệ 1-kèm-1 giỏi là người định hướng bóng — những pha ép zigzag đẩy bóng về phía đồng đội help và bẻ gãy nhịp tấn công.",
-    "players": "2+",
+    "description": "Ép người cầm bóng đổi hướng 3 lần bằng những pha slide zigzag quyết liệt từ biên cuối tới giữa sân — không cho vào giữa.",
     "equipment": [
       "Bóng rổ",
       "Cọc tiêu"
-    ]
+    ],
+    "gameApplication": "Hậu vệ 1-kèm-1 giỏi là người định hướng bóng — những pha ép zigzag đẩy bóng về phía help và bóp chết nhịp tấn công.",
+    "goal": "Buộc người rê bóng đổi hướng 3 lần trước khi tới giữa sân, ngực luôn ở trước mặt họ và không dính lỗi.",
+    "instructions": [
+      {
+        "detail": "Bắt đầu với chân dẫn ép người rê về phía cọc đầu — bịt đường giữa ngay từ bước đầu tiên.",
+        "title": "Đặt góc"
+      },
+      {
+        "detail": "Giữ slide thấp, ngực đối ngực người rê, cắt đường họ ở mỗi cọc để ép đổi hướng.",
+        "title": "Slide và ép đổi hướng"
+      },
+      {
+        "detail": "Khi họ đẩy bóng vượt qua, chạy lùi nhanh hai bước rồi đặt lại tư thế — không bao giờ với tay từ phía sau.",
+        "title": "Lùi khi bị đẩy bóng"
+      },
+      {
+        "detail": "Lượt kết thúc ở giữa sân hoặc khi ép họ nhặt bóng; bị vượt qua là hậu vệ chạy lại.",
+        "title": "Kết thúc lượt"
+      },
+      {
+        "detail": "Tấn công ghi 1 điểm mỗi lần vượt qua; phòng thủ ghi 1 điểm mỗi lần ép đổi hướng ở cả 3 cọc — đấu tới 4.",
+        "title": "Thi đấu cả chuỗi"
+      }
+    ],
+    "players": "2+",
+    "progression": "Cho bên tấn công cả sân và được đánh vào rổ sau lần đổi hướng thứ ba, buộc phải finish sống cả possession.",
+    "regression": "Bỏ bóng, cho hậu vệ bắt chước slide của HLV qua các cọc, hoặc rút đường chạy còn 2 cọc.",
+    "setup": [
+      "Cắm 3 cọc zigzag từ góc biên cuối tới giữa sân, cách nhau khoảng 4,5m.",
+      "Hậu vệ bắt đầu kèm bóng ở biên cuối; bên tấn công rê sống.",
+      "Tấn công phải ở trong cọc; phòng thủ phải ép họ đổi hướng ở mỗi cọc.",
+      "Mỗi người 4 lượt rồi đổi; mỗi lượt có 10 giây."
+    ],
+    "title": "Phòng thủ zigzag"
   }
 }

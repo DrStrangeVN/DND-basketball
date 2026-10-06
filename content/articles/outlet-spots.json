@@ -67,54 +67,54 @@
   "defensive-rebounding"
  ],
  "vi": {
-  "title": "Vị Trí Outlet & Nhiệm Vụ",
-  "description": "Mỗi cầu thủ có một nhiệm vụ outlet ngay khi bóng rời tay ném — định nghĩa các vị trí và pha phản công tự bắt đầu.",
-  "whatIsIt": [
-   "Outlet spots là các vị trí sân được chỉ định mà mỗi cầu thủ chạy đến ngay khi cú ném lên — trước khi ai biết ai rebound được. Guard chạy đến outlet spots (biên dọc ngang vạch ném phạt kéo dài), wing chạy nước rút các lane, big tranh bóng rồi chạy.",
-   "Khi mọi người biết vị trí của mình, người rebound không phải nhìn — anh ta ném đến một vị trí, và đồng đội ở đó. Pha break bắt đầu trong một giây thay vì năm giây."
-  ],
-  "whyItMatters": [
-   "Break chậm không phải vì cầu thủ chạy chậm — mà vì không ai biết đi đâu. Outlet spots xác định loại bỏ mọi quyết định trong ba giây đầu: chạy đến vị trí của bạn, và bóng sẽ tìm bạn. Đó là nâng cấp tốc độ rẻ nhất trong bóng rổ."
-  ],
-  "howTo": [
-   {
-    "title": "Guard: đến outlet spots",
-    "detail": "Hai guard chạy nước rút đến hai biên dọc ngang vạch ném phạt kéo dài — outlet spots kinh điển. Giơ mục tiêu: mông về biên, tay giơ cao, gọi bóng."
-   },
-   {
-    "title": "Wing: chạy lanes",
-    "detail": "Wing không chờ outlet — họ chạy nước rút lanes ngay. Outlet đến guard, nhưng wing đã đi mất, và đó là điều khiến break nguy hiểm."
-   },
-   {
-    "title": "Big: tranh, rồi chạy",
-    "detail": "Big tranh bảng trước. Nếu bạn rebound được, ôm bóng cằm và outlet. Nếu đồng đội rebound, bạn là rim runner — chạy nước rút đường giữa."
-   },
-   {
-    "title": "Người rebound: ném đến vị trí",
-    "detail": "Đừng chờ thấy ai trống — ném đến outlet spot. Việc của đồng đội là ở đó; việc của bạn là đưa bóng đúng giờ."
-   }
-  ],
-  "coachingPoints": [
-   "Drill 5-đấu-0: huấn luyện viên ném, mọi người chạy đến vị trí, người rebound outlet. Tập đến khi thành tự động.",
-   "Outlet spots không bao giờ đổi — cùng vị trí, mọi rebound, mọi trận.",
-   "Guard lẻn ra sớm chờ outlet sẽ mất rebound tấn công — tranh trước, rồi đi."
-  ],
-  "commonMistakes": [
-   "Mọi người chạy về phía bóng thay vì vị trí — break không bao giờ bắt đầu.",
-   "Guard đứng ở giữa sân chờ thay vì quay lại outlet spots.",
-   "Người rebound giữ bóng và nhìn — các vị trí chỉ hiệu quả khi ném ngay."
-  ],
-  "gameSituations": [
-   "Sau mọi rebound phòng thủ — nền tảng của mọi tấn công transition.",
-   "Với đội trẻ: các vị trí đơn giản hóa break hơn mọi bài gọi.",
-   "Trước các đội press: vị trí xác định đánh bại press vì mọi người biết đường chuyền đầu."
-  ],
-  "tags": [
-   "transition",
-   "chuyền bóng",
-   "rebound"
-  ]
- },
+    "coachingPoints": [
+      "Tập 5-đấu-0: HLV ném, mọi người lao tới điểm hẹn, người rebound outlet. Tập tới khi thành tự động",
+      "Điểm outlet không bao giờ đổi — cùng điểm hẹn, mọi rebound, mọi trận",
+      "Guard lẻn ra sớm chờ outlet là mất rebound tấn công — tranh trước, rồi đi"
+    ],
+    "commonMistakes": [
+      "Ai cũng chạy về phía bóng thay vì điểm hẹn — phản công không bao giờ khởi động",
+      "Guard đứng giữa sân chờ thay vì quay lại điểm outlet",
+      "Người rebound ôm bóng nhìn ngó — điểm hẹn chỉ hiệu quả khi ném ngay"
+    ],
+    "description": "Mỗi cầu thủ có một nhiệm vụ outlet ngay khi cú ném vừa lên — định nghĩa rõ các điểm hẹn, phản công tự khởi động.",
+    "gameSituations": [
+      "Sau mọi rebound phòng thủ — nền tảng của mọi tấn công phản công",
+      "Với đội trẻ: điểm hẹn đơn giản hóa phản công hơn mọi bài gọi",
+      "Đấu đội pressing: điểm hẹn cố định phá press vì ai cũng biết đường chuyền đầu"
+    ],
+    "howTo": [
+      {
+        "detail": "Hai guard lao ra hai biên dọc ngang vạch ném phạt — điểm outlet kinh điển. Giơ mục tiêu: lưng về biên, tay giơ cao, gọi bóng.",
+        "title": "Guard: tới điểm outlet"
+      },
+      {
+        "detail": "Wing không chờ outlet — họ lao theo lane ngay. Outlet tới tay guard, nhưng wing đã đi mất — đó chính là điều khiến phản công nguy hiểm.",
+        "title": "Wing: chạy lane"
+      },
+      {
+        "detail": "Big tranh bảng trước. Rebound được thì ôm bóng lên cằm rồi outlet. Đồng đội rebound được thì bạn là rim runner — lao hết tốc độ ở giữa.",
+        "title": "Big: tranh bóng rồi chạy"
+      },
+      {
+        "detail": "Đừng chờ thấy ai trống — ném tới điểm outlet. Việc của đồng đội là có mặt ở đó; việc của bạn là đưa bóng đúng giờ.",
+        "title": "Người rebound: ném tới điểm hẹn"
+      }
+    ],
+    "tags": [
+      "phản công nhanh",
+      "chuyền outlet",
+      "rebound"
+    ],
+    "title": "Điểm outlet và nhiệm vụ từng người",
+    "whatIsIt": [
+      "Điểm outlet là những vị trí sân được chỉ định mà mỗi cầu thủ lao tới ngay khi cú ném vừa lên — trước cả khi biết ai rebound được. Guard chạy ra điểm outlet (biên dọc ngang vạch ném phạt), wing lao theo lane, big tranh bóng rồi chạy.",
+      "Ai cũng biết điểm của mình, người rebound khỏi cần nhìn — cứ ném tới điểm hẹn, đồng đội đã ở đó. Phản công khởi động trong một giây thay vì năm giây."
+    ],
+    "whyItMatters": [
+      "Phản công chậm không phải vì cầu thủ chạy chậm — mà vì không ai biết phải đi đâu. Điểm outlet xóa sạch mọi quyết định trong ba giây đầu: chạy tới điểm của mình, bóng sẽ tìm bạn. Đây là nâng cấp tốc độ rẻ nhất trong bóng rổ."
+    ]
+  },
  "id": "outlet-spots",
  "slug": "outlet-spots",
  "dateUpdated": "2026-10-06"

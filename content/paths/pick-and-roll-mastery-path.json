@@ -6,37 +6,70 @@
   "level": "intermediate",
   "audience": "Guards and wings who run ball screens",
   "steps": [
-    {"title": "Level 1 — Understand the Screen", "description": "Learn what a ball screen is, how it creates an advantage, and the roles of the ball handler and the screener.", "articles": ["pick-and-roll-basics", "screen-angle"]},
-    {"title": "Level 2 — Use the Screen", "description": "Attack the screen with pace and shoulder-to-hip contact, then make your first reads off the two defenders.", "articles": ["ball-handler-reads"]},
-    {"title": "Level 3 — Feed the Roller", "description": "Master the pocket pass — the primary weapon for rewarding a hard roll and punishing drop coverage.", "articles": ["pocket-pass-pnr", "short-roll"]},
-    {"title": "Level 4 — Counter the Defense", "description": "When the defense cheats the screen, punish it: reject the screen or snake back into the middle.", "articles": ["reject-screen", "snake-dribble"]},
-    {"title": "Level 5 — Read the Whole Floor", "description": "Expand your vision beyond the two defenders — read the help, the tag, and the weak side to make the right play every time.", "articles": ["reading-help-defense"]}
+    {
+      "title": "Level 1 — Understand the Screen",
+      "description": "Learn what a ball screen is, how it creates an advantage, and the roles of the ball handler and the screener.",
+      "articles": [
+        "pick-and-roll-basics",
+        "screen-angle"
+      ]
+    },
+    {
+      "title": "Level 2 — Use the Screen",
+      "description": "Attack the screen with pace and shoulder-to-hip contact, then make your first reads off the two defenders.",
+      "articles": [
+        "ball-handler-reads"
+      ]
+    },
+    {
+      "title": "Level 3 — Feed the Roller",
+      "description": "Master the pocket pass — the primary weapon for rewarding a hard roll and punishing drop coverage.",
+      "articles": [
+        "pocket-pass-pnr",
+        "short-roll"
+      ]
+    },
+    {
+      "title": "Level 4 — Counter the Defense",
+      "description": "When the defense cheats the screen, punish it: reject the screen or snake back into the middle.",
+      "articles": [
+        "reject-screen",
+        "snake-dribble"
+      ]
+    },
+    {
+      "title": "Level 5 — Read the Whole Floor",
+      "description": "Expand your vision beyond the two defenders — read the help, the tag, and the weak side to make the right play every time.",
+      "articles": [
+        "reading-help-defense"
+      ]
+    }
   ],
   "dateUpdated": "2026-10-06",
-  "vi":   {
-    "title": "Chinh Phục Pick & Roll",
-    "description": "Từ lần đặt screen đầu tiên đến đọc các coverage nâng cao — lộ trình từng bước để chạy pick-and-roll như cầu thủ chuyên nghiệp.",
-    "audience": "Hậu vệ và wing chạy ball screen",
+  "vi": {
+    "title": "Lộ trình pick and roll",
+    "description": "Từ pha đặt screen đầu tiên đến đọc các coverage nâng cao — lộ trình từng bước để điều hành pick and roll như cầu thủ chuyên nghiệp.",
+    "audience": "Hậu vệ và cầu thủ cánh chạy ball screen",
     "steps": [
       {
-        "title": "Cấp 1 — Hiểu Screen",
-        "description": "Học ball screen là gì, nó tạo lợi thế thế nào và vai trò của người cầm bóng và người screen."
+        "title": "Cấp 1 — Hiểu về screen",
+        "description": "Hiểu ball screen là gì, nó tạo lợi thế thế nào, và vai trò của người cầm bóng cùng người đặt screen."
       },
       {
-        "title": "Cấp 2 — Dùng Screen",
-        "description": "Tấn công screen với tốc độ và tiếp xúc vai-hông, rồi thực hiện những pha đọc đầu tiên từ 2 hậu vệ."
+        "title": "Cấp 2 — Tấn công từ screen",
+        "description": "Lao vào screen với tốc độ và tiếp xúc vai-kề-hông. Sau đó thực hiện những pha đọc đầu tiên từ hai hậu vệ."
       },
       {
-        "title": "Cấp 3 — Nuôi Người Roll",
-        "description": "Thành thạo pocket pass — vũ khí chính để thưởng cho pha roll mạnh và trừng phạt drop coverage."
+        "title": "Cấp 3 — Nuôi người roll",
+        "description": "Chốt pocket pass — vũ khí chính để thưởng cho pha roll mạnh và trừng phạt drop coverage."
       },
       {
-        "title": "Cấp 4 — Phản Đòn Hàng Thủ",
-        "description": "Khi hàng thủ gian lận screen, trừng phạt ngay: reject screen hoặc snake quay vào giữa."
+        "title": "Cấp 4 — Trả đòn hàng thủ",
+        "description": "Đối phương ăn gian screen, trừng phạt ngay. Reject screen hoặc snake quay vào giữa sân."
       },
       {
-        "title": "Cấp 5 — Đọc Cả Sân",
-        "description": "Mở rộng tầm nhìn vượt ra 2 hậu vệ — đọc help, tag và weak side để ra quyết định đúng mọi lần."
+        "title": "Cấp 5 — Đọc cả sân",
+        "description": "Mở rộng tầm nhìn vượt khỏi hai hậu vệ. Đọc help, tag và weak side để ra quyết định đúng mỗi lần."
       }
     ]
   }

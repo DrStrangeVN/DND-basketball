@@ -1,56 +1,9 @@
 {
-  "id": "horns-pick-and-roll",
-  "slug": "horns-pick-and-roll",
-  "title": "Horns Pick & Roll",
-  "description": "Pick-and-roll run from the Horns alignment — two screeners at the elbows, endless options either side.",
-  "hub": "pick-and-roll",
-  "subcategory": "pick-and-roll",
-  "level": "advanced",
   "ages": [
     "U16",
     "U18",
     "Adult",
     "Competitive"
-  ],
-  "positions": [
-    "ALL"
-  ],
-  "tags": [
-    "horns",
-    "pick and roll",
-    "alignment",
-    "playcalling"
-  ],
-  "readTime": 6,
-  "whatIsIt": [
-    "Horns is an alignment: the ball handler up top, two bigs at the elbows (the 'horns'), and two wings in the corners. The horns pick-and-roll is a ball screen set by either elbow big, with the other big available as a second screener, a pop threat, or a dive man.",
-    "Its power is symmetry. The defense doesn't know which side the screen is coming from, and after the first screen, the second big can re-screen, slip, or space. It is a play call that contains multitudes.",
-    "Horns PNR is a favorite late-game and ATO call because it is simple to run but hard to guard — the same look produces a drive, a roll, a pop, or a second-side action."
-  ],
-  "whyItMatters": [
-    "Most PNR attacks come from one predictable spot. Horns gives you two screeners, two sides, and built-in counters without changing the call. For coaches, it is maximum optionality from minimum teaching; for players, it is a read-based action that rewards IQ."
-  ],
-  "howTo": [
-    {
-      "title": "Set the Horns alignment",
-      "detail": "Ball up top, bigs at the elbows, wings in the corners. Spacing must be exact — the elbows are the launch pads."
-    },
-    {
-      "title": "Choose the screen side",
-      "detail": "Either big sets the ball screen. Go to the side with the weaker on-ball defender or the slower big."
-    },
-    {
-      "title": "Use the second big",
-      "detail": "After the first screen, the opposite big can re-screen (double drag look), dive to the rim, or pop. This is what separates Horns from a plain PNR."
-    },
-    {
-      "title": "Read the coverage",
-      "detail": "Same reads as any PNR — over, under, drop, switch — but now with a second screener as the release valve when the first action is covered."
-    },
-    {
-      "title": "Flow to the weak side",
-      "detail": "If the first side is walled off, swing the ball and run the other horn. The defense just shifted; attack the new gap."
-    }
   ],
   "coachingPoints": [
     "Teach the alignment first — bad Horns spacing (bigs too low or too wide) ruins every option.",
@@ -63,13 +16,34 @@
     "The second big standing and watching instead of re-screening or spacing.",
     "Forcing the first side when the defense has clearly loaded up on it."
   ],
-  "gameSituations": [
-    "ATO plays and late-game, when you need a reliable high-option action.",
-    "With two skilled bigs who can both screen and make decisions.",
-    "Against switching defenses — the second screener punishes the switch."
-  ],
+  "dateUpdated": "2026-10-06",
+  "description": "Pick-and-roll run from the Horns alignment — two screeners at the elbows, endless options either side.",
   "diagram": {
-    "title": "Horns PNR: elbow screen with second big available",
+    "ball": "O1",
+    "defense": [
+      {
+        "label": "X1",
+        "x": 50,
+        "y": 72
+      },
+      {
+        "label": "X5",
+        "x": 40,
+        "y": 60
+      }
+    ],
+    "moves": [
+      {
+        "from": "O1",
+        "kind": "dribble",
+        "to": "O2"
+      },
+      {
+        "from": "O5",
+        "kind": "cut",
+        "to": "O1"
+      }
+    ],
     "offense": [
       {
         "label": "O1",
@@ -97,101 +71,127 @@
         "y": 30
       }
     ],
-    "defense": [
-      {
-        "label": "X1",
-        "x": 50,
-        "y": 72
-      },
-      {
-        "label": "X5",
-        "x": 40,
-        "y": 60
-      }
-    ],
-    "ball": "O1",
+    "passes": [],
     "screens": [
       {
         "x": 44,
         "y": 68
       }
     ],
-    "moves": [
-      {
-        "from": "O1",
-        "to": "O2",
-        "kind": "dribble"
-      },
-      {
-        "from": "O5",
-        "to": "O1",
-        "kind": "cut"
-      }
-    ],
-    "passes": [],
-    "shots": []
+    "shots": [],
+    "title": "Horns PNR: elbow screen with second big available"
   },
+  "gameSituations": [
+    "ATO plays and late-game, when you need a reliable high-option action.",
+    "With two skilled bigs who can both screen and make decisions.",
+    "Against switching defenses — the second screener punishes the switch."
+  ],
+  "howTo": [
+    {
+      "detail": "Ball up top, bigs at the elbows, wings in the corners. Spacing must be exact — the elbows are the launch pads.",
+      "title": "Set the Horns alignment"
+    },
+    {
+      "detail": "Either big sets the ball screen. Go to the side with the weaker on-ball defender or the slower big.",
+      "title": "Choose the screen side"
+    },
+    {
+      "detail": "After the first screen, the opposite big can re-screen (double drag look), dive to the rim, or pop. This is what separates Horns from a plain PNR.",
+      "title": "Use the second big"
+    },
+    {
+      "detail": "Same reads as any PNR — over, under, drop, switch — but now with a second screener as the release valve when the first action is covered.",
+      "title": "Read the coverage"
+    },
+    {
+      "detail": "If the first side is walled off, swing the ball and run the other horn. The defense just shifted; attack the new gap.",
+      "title": "Flow to the weak side"
+    }
+  ],
+  "hub": "pick-and-roll",
+  "id": "horns-pick-and-roll",
+  "level": "advanced",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 6,
   "related": [
     "horns-offense",
     "pick-and-roll-basics",
     "pick-and-pop",
     "spain-pick-and-roll"
   ],
-  "dateUpdated": "2026-10-06",
+  "slug": "horns-pick-and-roll",
+  "subcategory": "pick-and-roll",
+  "tags": [
+    "horns",
+    "pick and roll",
+    "alignment",
+    "playcalling"
+  ],
+  "title": "Horns Pick & Roll",
   "vi": {
-    "title": "Horns Pick & Roll",
-    "description": "Pick-and-roll chạy từ sơ đồ Horns — hai người chắn ở elbow, vô vàn lựa chọn hai bên.",
-    "whatIsIt": [
-      "Horns là một sơ đồ: người dẫn bóng ở trên đỉnh, hai big ở elbow (hai 'sừng'), và hai wing ở góc sân. Horns pick-and-roll là pha chắn bóng do một trong hai big ở elbow thực hiện, với big còn lại sẵn sàng làm người chắn thứ hai, mối đe dọa bật ra, hoặc người lao vào.",
-      "Sức mạnh của nó là tính đối xứng. Hàng thủ không biết pha chắn đến từ bên nào, và sau pha chắn đầu, big thứ hai có thể chắn lại, lách, hoặc giãn sân. Đây là một bài gọi chứa đựng vô vàn khả năng.",
-      "Horns PNR là bài gọi ưa thích cuối trận và ATO vì đơn giản để chạy nhưng khó kèm — cùng một đội hình tạo ra pha đột phá, pha roll, pha pop, hay động tác phía yếu."
+    "coachingPoints": [
+      "Dạy đội hình trước — Horns đứng sai (big quá thấp hoặc quá rộng) phá hỏng mọi lựa chọn.",
+      "Cho người cầm bóng tự chọn bên; gọi bên cố định nhanh bị bắt bài.",
+      "Tập riêng cách đọc của big thứ hai: screen lại, dive và pop là ba kỹ năng khác nhau.",
+      "Cánh phải cắm ở góc đến khi tình huống phát triển — trôi vào sớm là mời trợ giúp tới."
     ],
-    "whyItMatters": [
-      "Hầu hết các đòn PNR đến từ một vị trí dễ đoán. Horns cho bạn hai người chắn, hai bên, và đòn phản công tích hợp mà không cần đổi bài gọi. Với huấn luyện viên, đó là lựa chọn tối đa từ việc dạy tối thiểu; với cầu thủ, đó là động tác đọc tình huống thưởng cho IQ."
+    "commonMistakes": [
+      "Chạy screen với big sai theo cặp đấu — luôn đánh vào bên yếu hơn.",
+      "Big thứ hai đứng nhìn thay vì screen lại hoặc giãn ra.",
+      "Cố đấm phía đầu khi hàng thủ đã dồn cả vào đó."
+    ],
+    "description": "Pick and roll chạy từ đội hình Horns — hai người screen ở elbow, vô số lựa chọn hai bên.",
+    "gameSituations": [
+      "Tình huống ATO và cuối trận, khi cần một đòn nhiều lựa chọn đáng tin.",
+      "Có hai big khéo, vừa screen vừa quyết định được.",
+      "Gặp hàng thủ hay switch — người screen thứ hai trừng phạt pha switch."
     ],
     "howTo": [
       {
-        "title": "Dựng sơ đồ Horns",
-        "detail": "Bóng ở trên đỉnh, big ở các elbow, wing ở góc sân. Spacing phải chính xác — các elbow là bệ phóng."
+        "detail": "Bóng trên đỉnh, big ở hai elbow, cánh ở hai góc. Giãn đội hình phải chính xác — elbow là bệ phóng.",
+        "title": "Vào đội hình Horns"
       },
       {
-        "title": "Chọn bên chắn",
-        "detail": "Big nào cũng có thể chắn bóng. Đánh vào bên có hậu vệ kèm bóng yếu hơn hoặc big chậm hơn."
+        "detail": "Big nào cũng được dựng ball screen. Đánh vào bên có cầu thủ kèm bóng yếu hơn hoặc big chậm hơn.",
+        "title": "Chọn bên screen"
       },
       {
-        "title": "Dùng big thứ hai",
-        "detail": "Sau pha chắn đầu, big đối diện có thể chắn lại (kiểu double drag), lao vào rổ, hoặc bật ra. Đây là điểm phân biệt Horns với PNR thường."
+        "detail": "Sau screen đầu, big đối diện có thể screen lại (kiểu double drag), dive vào rổ, hoặc pop. Đây là điểm tách Horns khỏi PNR thường.",
+        "title": "Dùng big thứ hai"
       },
       {
-        "title": "Đọc cách kèm",
-        "detail": "Đọc như mọi PNR — over, under, drop, switch — nhưng giờ có người chắn thứ hai làm van xả khi động tác đầu bị khóa."
+        "detail": "Đọc như mọi PNR — over, under, drop, switch — nhưng giờ có người screen thứ hai làm van xả khi tình huống đầu bị bít.",
+        "title": "Đọc cách phòng thủ"
       },
       {
-        "title": "Chuyển sang phía yếu",
-        "detail": "Nếu bên đầu bị bịt kín, xoay bóng và chạy horn bên kia. Hàng thủ vừa dịch chuyển; hãy tấn công khoảng trống mới."
+        "detail": "Phía đầu bị bịt kín thì đảo bóng, chạy horn còn lại. Hàng thủ vừa dịch chuyển; đánh vào khoảng trống mới.",
+        "title": "Chảy sang phía yếu bóng"
       }
-    ],
-    "coachingPoints": [
-      "Dạy sơ đồ trước — Horns spacing tệ (big quá thấp hoặc quá rộng) phá hỏng mọi lựa chọn.",
-      "Cho người dẫn bóng tự do chọn bên; gọi bên cố định thành dễ đoán.",
-      "Tập riêng các tình huống đọc của big thứ hai: chắn lại, lao vào, và bật ra là ba kỹ năng khác nhau.",
-      "Wing phải ở góc sân cho đến khi động tác hình thành — trôi vào sớm để hàng thủ hỗ trợ kịp tới."
-    ],
-    "commonMistakes": [
-      "Chạy pha chắn với big sai cho tình huống đối đầu — luôn tấn công bên yếu hơn.",
-      "Big thứ hai đứng nhìn thay vì chắn lại hoặc giãn sân.",
-      "Cố chấp bên đầu khi hàng thủ đã dồn hết về đó."
-    ],
-    "gameSituations": [
-      "Bài ATO và cuối trận, khi cần một đòn tấn công nhiều lựa chọn đáng tin cậy.",
-      "Khi có hai big khéo, đều biết chắn và ra quyết định.",
-      "Gặp hàng thủ switch — người chắn thứ hai trừng phạt pha switch."
     ],
     "tags": [
       "horns",
       "pick and roll",
-      "sơ đồ đội hình",
-      "gọi chiến thuật"
+      "đội hình",
+      "gọi bài"
+    ],
+    "title": "Pick and roll từ đội hình Horns",
+    "whatIsIt": [
+      "Horns là một đội hình: người cầm bóng ở trên đỉnh, hai big ở hai elbow ('cặp sừng'), hai cánh ở hai góc. Pick and roll Horns là ball screen do một trong hai big ở elbow dựng, big còn lại sẵn sàng làm người screen thứ hai, mối đe dọa pop, hoặc người dive.",
+      "Sức mạnh nằm ở tính đối xứng. Hàng thủ không biết screen tới từ bên nào, và sau screen đầu, big thứ hai có thể screen lại, slip, hoặc giãn ra. Một lần gọi bài mà chứa đủ thứ.",
+      "Horns PNR là món tủ cho tình huống ATO và cuối trận vì đơn giản để chạy nhưng khó để kèm — cùng một thế đứng cho ra pha đột phá, roll, pop, hoặc tình huống phía yếu bóng."
+    ],
+    "whyItMatters": [
+      "Hầu hết đòn PNR tới từ một vị trí đoán được. Horns cho hai người screen, hai bên tấn công và đòn phản có sẵn mà không cần đổi cách gọi. Với HLV, đó là tối đa lựa chọn từ tối thiểu công dạy; với cầu thủ, đó là tình huống đọc phòng thủ, thưởng cho IQ."
     ]
-  }
+  },
+  "whatIsIt": [
+    "Horns is an alignment: the ball handler up top, two bigs at the elbows (the 'horns'), and two wings in the corners. The horns pick-and-roll is a ball screen set by either elbow big, with the other big available as a second screener, a pop threat, or a dive man.",
+    "Its power is symmetry. The defense doesn't know which side the screen is coming from, and after the first screen, the second big can re-screen, slip, or space. It is a play call that contains multitudes.",
+    "Horns PNR is a favorite late-game and ATO call because it is simple to run but hard to guard — the same look produces a drive, a roll, a pop, or a second-side action."
+  ],
+  "whyItMatters": [
+    "Most PNR attacks come from one predictable spot. Horns gives you two screeners, two sides, and built-in counters without changing the call. For coaches, it is maximum optionality from minimum teaching; for players, it is a read-based action that rewards IQ."
+  ]
 }

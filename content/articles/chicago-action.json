@@ -1,56 +1,9 @@
 {
-  "id": "chicago-action",
-  "slug": "chicago-action",
-  "title": "Chicago Action",
-  "description": "A pin down screen flowing into a DHO — the classic shooter action, run by every elite offense.",
-  "hub": "tactics",
-  "subcategory": "offensive-actions",
-  "level": "advanced",
   "ages": [
     "U16",
     "U18",
     "Adult",
     "Competitive"
-  ],
-  "positions": [
-    "ALL"
-  ],
-  "tags": [
-    "chicago",
-    "pin down",
-    "dho",
-    "shooter actions"
-  ],
-  "readTime": 6,
-  "whatIsIt": [
-    "Chicago action is a two-part shooter action: first a pin down screen frees the shooter coming up from the baseline, then the shooter immediately receives a DHO from the screener and attacks. Pin down, catch, handoff — one flowing sequence.",
-    "It is the NBA's favorite way to get elite shooters open because it stacks two hard-to-guard actions. The defender fights through a screen, then immediately has to navigate a handoff — usually while trailing by a step.",
-    "The action is named after the Chicago Bulls' triangle-era sets, but it is now universal. If you watch any high-level game, you will see Chicago action within minutes."
-  ],
-  "whyItMatters": [
-    "Great shooters draw so much attention that one screen is never enough. Chicago gives them two actions in sequence, and the second one starts with them already moving. It is the most reliable way to manufacture an open three for your best shooter."
-  ],
-  "howTo": [
-    {
-      "title": "Set a physical pin down",
-      "detail": "The big pins the shooter's defender down low. It must be a real screen — the whole action depends on the shooter arriving with separation."
-    },
-    {
-      "title": "Curl tight off the pin",
-      "detail": "The shooter comes off the screen shoulder-to-shoulder, reading their defender: curl if they're trailing, flare if they're beat."
-    },
-    {
-      "title": "Meet the DHO at speed",
-      "detail": "As the shooter clears the pin down, the ball handler dribbles into the handoff. The exchange happens on the move, flowing up the floor."
-    },
-    {
-      "title": "Turn and attack",
-      "detail": "Off the DHO, the shooter reads: shoot the three if there's space, drive the closeout if the defender flies out, or hit the screener rolling."
-    },
-    {
-      "title": "Screener: screen then hand off",
-      "detail": "The pin-down screener often becomes the DHO man. Set the first screen, then sprint to deliver the handoff — conditioning matters."
-    }
   ],
   "coachingPoints": [
     "The shooter's footwork off the pin down is the skill — drill the curl, the flare, and the straight cut separately.",
@@ -63,13 +16,29 @@
     "The shooter catching flat-footed instead of on the move.",
     "Forcing the three when the drive or the pass is the better read."
   ],
-  "gameSituations": [
-    "Getting your best shooter a clean look against a locked-in defense.",
-    "After timeouts, when you can set the precise timing the action needs.",
-    "When the defense is switching everything — the pin down creates the mismatch first."
-  ],
+  "dateUpdated": "2026-10-06",
+  "description": "A pin down screen flowing into a DHO — the classic shooter action, run by every elite offense.",
   "diagram": {
-    "title": "Chicago: pin down into DHO for the shooter",
+    "ball": "O1",
+    "defense": [
+      {
+        "label": "X2",
+        "x": 74,
+        "y": 42
+      }
+    ],
+    "moves": [
+      {
+        "from": "O2",
+        "kind": "cut",
+        "to": "O1"
+      },
+      {
+        "from": "O1",
+        "kind": "dribble",
+        "to": "O2"
+      }
+    ],
     "offense": [
       {
         "label": "O2",
@@ -87,14 +56,7 @@
         "y": 70
       }
     ],
-    "defense": [
-      {
-        "label": "X2",
-        "x": 74,
-        "y": 42
-      }
-    ],
-    "ball": "O1",
+    "passes": [],
     "screens": [
       {
         "x": 72,
@@ -105,82 +67,120 @@
         "y": 64
       }
     ],
-    "moves": [
-      {
-        "from": "O2",
-        "to": "O1",
-        "kind": "cut"
-      },
-      {
-        "from": "O1",
-        "to": "O2",
-        "kind": "dribble"
-      }
-    ],
-    "passes": [],
-    "shots": []
+    "shots": [],
+    "title": "Chicago: pin down into DHO for the shooter"
   },
+  "gameSituations": [
+    "Getting your best shooter a clean look against a locked-in defense.",
+    "After timeouts, when you can set the precise timing the action needs.",
+    "When the defense is switching everything — the pin down creates the mismatch first."
+  ],
+  "howTo": [
+    {
+      "detail": "The big pins the shooter's defender down low. It must be a real screen — the whole action depends on the shooter arriving with separation.",
+      "title": "Set a physical pin down"
+    },
+    {
+      "detail": "The shooter comes off the screen shoulder-to-shoulder, reading their defender: curl if they're trailing, flare if they're beat.",
+      "title": "Curl tight off the pin"
+    },
+    {
+      "detail": "As the shooter clears the pin down, the ball handler dribbles into the handoff. The exchange happens on the move, flowing up the floor.",
+      "title": "Meet the DHO at speed"
+    },
+    {
+      "detail": "Off the DHO, the shooter reads: shoot the three if there's space, drive the closeout if the defender flies out, or hit the screener rolling.",
+      "title": "Turn and attack"
+    },
+    {
+      "detail": "The pin-down screener often becomes the DHO man. Set the first screen, then sprint to deliver the handoff — conditioning matters.",
+      "title": "Screener: screen then hand off"
+    }
+  ],
+  "hub": "tactics",
+  "id": "chicago-action",
+  "level": "advanced",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 6,
   "related": [
     "dho-action",
     "pin-down-screen",
     "zoom-action",
     "iverson-cut"
   ],
-  "dateUpdated": "2026-10-06",
+  "slug": "chicago-action",
+  "subcategory": "offensive-actions",
+  "tags": [
+    "chicago",
+    "pin down",
+    "dho",
+    "shooter actions"
+  ],
+  "title": "Chicago Action",
   "vi": {
     "coachingPoints": [
-      "Bước chân của tay ném khi ra khỏi pin down mới là kỹ năng — tập riêng cú curl, cú flare và pha cắt thẳng",
-      "Thời điểm giữa pin down và DHO là tất cả; hãy tập nó như một chuỗi liền mạch",
-      "Dạy tay ném cả ba cách đọc (ném, đột phá, chuyền) — tay ném một chiều sẽ bị bắt bài",
-      "Dùng nó cho tay ném hay nhất, nhưng cũng chạy các bài đối phó: backdoor mở ra khi hậu vệ đeo quá sát"
+      "Bộ chân của tay ném sau pin down là kỹ năng then chốt — tập riêng curl, flare và cắt thẳng.",
+      "Nhịp phối hợp giữa pin down và DHO quyết định tất cả; tập như một chuỗi duy nhất.",
+      "Dạy tay ném cả ba lựa chọn (ném, dẫn, chuyền) — tay ném một bài sớm muộn cũng bị bắt bài.",
+      "Dùng cho tay ném số một, nhưng đừng quên các đòn phản: backdoor mở toang khi đối thủ bám quá sát."
     ],
     "commonMistakes": [
-      "Pin down mềm để hậu vệ luồn qua, phá hỏng thời điểm của mọi thứ phía sau",
-      "Tay ném bắt bóng khi chân đứng yên thay vì đang di chuyển",
-      "Cố ném ba điểm khi đột phá hoặc chuyền bóng mới là cách đọc tốt hơn"
+      "Screen pin down quá mềm, cầu thủ phòng thủ luồn qua, phá vỡ nhịp của toàn bộ tình huống.",
+      "Tay ném bắt bóng đứng im thay vì nhận trên đà chạy.",
+      "Cố ném 3 khi phương án dẫn bóng hay chuyền bóng tốt hơn."
     ],
-    "description": "Một màn pin down nối vào DHO — bài đánh kinh điển cho tay ném, được mọi hàng công đẳng cấp sử dụng.",
+    "description": "Một screen pin down nối tiếp một DHO — tình huống kinh điển cho tay ném, mọi hàng công đẳng cấp đều chạy.",
     "gameSituations": [
-      "Tạo cho tay ném hay nhất một cú nhìn sạch trước hàng thủ tập trung cao độ",
-      "Sau timeout, khi bạn có thể dàn xếp thời điểm chính xác mà bài đánh cần",
-      "Khi hàng thủ switch mọi thứ — pin down tạo ra mismatch trước"
+      "Cần một cú ném sạch cho tay ném số một trước hàng thủ chắc chắn.",
+      "Sau hội ý, khi cần nhịp phối hợp chính xác đúng như bài đã vẽ.",
+      "Khi đối thủ switch mọi screen — pin down tạo mismatch trước."
     ],
     "howTo": [
       {
-        "detail": "Big ghim hậu vệ của tay ném xuống thấp. Phải là một màn chắn thật — cả bài đánh phụ thuộc vào việc tay ném đến nơi với khoảng cách an toàn.",
-        "title": "Dựng pin down chắc chắn"
+        "detail": "Người to (big) kẹp cầu thủ phòng thủ kèm tay ném ở sát baseline. Phải là một screen thật — cả tình huống sống nhờ tay ném thoát ra với khoảng trống.",
+        "title": "Dựng screen pin down thật chắc"
       },
       {
-        "detail": "Tay ném ra khỏi màn chắn sát vai, đọc hậu vệ của mình: curl nếu anh ta đuổi theo, flare nếu đã bị bỏ lại.",
-        "title": "Curl sát khỏi pin down"
+        "detail": "Tay ném vòng qua screen vai kề vai, đọc cầu thủ phòng thủ: curl khi họ bị bám sau, flare khi đã qua mặt.",
+        "title": "Băng sát qua screen pin down"
       },
       {
-        "detail": "Khi tay ném thoát khỏi pin down, người cầm bóng dẫn vào pha handoff. Pha trao bóng diễn ra khi đang di chuyển, trôi lên phía trước.",
-        "title": "Đón DHO khi đang chạy"
+        "detail": "Khi tay ném vừa thoát qua pin down, người cầm bóng dẫn vào pha trao bóng. Pha trao đổi diễn ra trên đà chạy, đẩy lên phía rổ.",
+        "title": "Nhận DHO ở tốc độ cao"
       },
       {
-        "detail": "Sau DHO, tay ném đọc tình huống: ném ba điểm nếu có khoảng trống, đột phá khi hậu vệ lao ra, hoặc chuyền cho người chắn đang lăn vào.",
+        "detail": "Sau DHO, tay ném đọc tình huống: ném 3 nếu trống, dẫn qua closeout nếu đối thủ lao ra, hoặc chuyền cho người screen đang roll.",
         "title": "Xoay người và tấn công"
       },
       {
-        "detail": "Người dựng pin down thường trở thành người trao DHO. Dựng màn chắn đầu tiên, rồi chạy nước rút để trao handoff — thể lực rất quan trọng.",
-        "title": "Người chắn: chắn rồi trao bóng"
+        "detail": "Người dựng pin down thường chính là người trao DHO. Dựng screen xong, chạy ngay tới vị trí trao bóng — thể lực rất quan trọng ở đây.",
+        "title": "Người screen: dựng screen rồi trao bóng"
       }
     ],
     "tags": [
       "chicago",
       "pin down",
       "dho",
-      "bài đánh cho tay ném"
+      "chiến thuật"
     ],
-    "title": "Bài Đánh Chicago",
+    "title": "Chiến thuật Chicago action",
     "whatIsIt": [
-      "Chicago action là bài đánh hai phần cho tay ném: đầu tiên một màn pin down giải phóng tay ném chạy lên từ baseline, rồi tay ném ngay lập tức nhận DHO từ người chắn và tấn công. Pin down, bắt bóng, handoff — một chuỗi trôi chảy.",
-      "Đây là cách yêu thích của NBA để tạo khoảng trống cho các tay ném đẳng cấp vì nó chồng hai hành động khó kèm lên nhau. Hậu vệ vượt qua một màn chắn, rồi ngay lập tức phải xử lý một pha handoff — thường là trong khi đang bị bỏ lại một bước.",
-      "Bài đánh này mang tên các set đấu thời triangle của Chicago Bulls, nhưng giờ nó đã phổ biến khắp nơi. Nếu bạn xem bất kỳ trận đấu đỉnh cao nào, bạn sẽ thấy Chicago action trong vài phút."
+      "Chicago action là tình huống 2 nhịp cho tay ném: trước tiên một screen pin down giải phóng tay ném băng lên từ baseline, sau đó tay ném nhận ngay DHO từ chính người screen và tấn công. Pin down, bắt bóng, trao tay — một chuỗi liền mạch.",
+      "Đây là cách NBA yêu thích để tạo khoảng trống cho các tay ném siêu sao, vì nó dồn hai tình huống khó kèm vào nhau. Cầu thủ phòng thủ phải chui qua một screen, rồi lập tức xoay sở với pha trao bóng tay — thường khi đã chậm một nhịp.",
+      "Tình huống này đặt tên theo các bài đánh thời Chicago Bulls, nhưng giờ đã thành chuẩn mực toàn cầu. Xem bất kỳ trận đấu đẳng cấp nào, chỉ vài phút là thấy Chicago action."
     ],
     "whyItMatters": [
-      "Những tay ném vĩ đại thu hút quá nhiều sự chú ý nên một màn chắn không bao giờ đủ. Chicago cho họ hai hành động liên tiếp, và hành động thứ hai bắt đầu khi họ đã đang di chuyển. Đây là cách đáng tin cậy nhất để tạo ra một cú ba điểm trống cho tay ném hay nhất của bạn."
+      "Tay ném giỏi hút quá nhiều sự chú ý nên một screen không bao giờ đủ. Chicago cho họ hai tình huống liên tiếp, và nhịp thứ hai bắt đầu khi họ đã chạy đà. Đây là cách chắc chắn nhất để tạo một cú ném 3 điểm trống trải cho tay ném số một của đội."
     ]
-  }
+  },
+  "whatIsIt": [
+    "Chicago action is a two-part shooter action: first a pin down screen frees the shooter coming up from the baseline, then the shooter immediately receives a DHO from the screener and attacks. Pin down, catch, handoff — one flowing sequence.",
+    "It is the NBA's favorite way to get elite shooters open because it stacks two hard-to-guard actions. The defender fights through a screen, then immediately has to navigate a handoff — usually while trailing by a step.",
+    "The action is named after the Chicago Bulls' triangle-era sets, but it is now universal. If you watch any high-level game, you will see Chicago action within minutes."
+  ],
+  "whyItMatters": [
+    "Great shooters draw so much attention that one screen is never enough. Chicago gives them two actions in sequence, and the second one starts with them already moving. It is the most reliable way to manufacture an open three for your best shooter."
+  ]
 }

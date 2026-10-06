@@ -1,11 +1,4 @@
 {
-  "id": "four-out-one-in",
-  "slug": "four-out-one-in",
-  "title": "4-Out 1-In Offense",
-  "description": "Four perimeter players plus one interior player — the classic balance of spacing and post presence.",
-  "hub": "offense",
-  "subcategory": "team-offense",
-  "level": "intermediate",
   "ages": [
     "U12",
     "U14",
@@ -13,46 +6,6 @@
     "U18",
     "Adult",
     "Competitive"
-  ],
-  "positions": [
-    "ALL"
-  ],
-  "tags": [
-    "4-out",
-    "post play",
-    "spacing",
-    "team offense"
-  ],
-  "readTime": 6,
-  "whatIsIt": [
-    "4-out 1-in places four players on the perimeter — corners and wings or a top-and-wings look — with one player inside, usually on the block or at the elbow. It is the most common offensive alignment in basketball history.",
-    "The inside player gives the offense a post threat, a high-low option, and an offensive rebounder, while the four perimeter players keep the floor spaced for drives and ball screens.",
-    "It works as motion, as a ball-screen offense, or as a post-entry offense. The key tension to manage: the post player must not clog the driving lanes the four perimeter players create."
-  ],
-  "whyItMatters": [
-    "Most teams have one player who is bigger or stronger than everyone else, and 4-out 1-in lets that player matter without shrinking the floor. It teaches inside-out basketball — post touches that collapse the defense and kick out to shooters — which is a winning formula at every level."
-  ],
-  "howTo": [
-    {
-      "title": "Place the post on the ball-side block",
-      "detail": "The inside player seals on the block or flashes to the elbow depending on the entry angle. Keep them out of the middle driving lane."
-    },
-    {
-      "title": "Enter the post with purpose",
-      "detail": "Pass into the post only when the sealer has position — defender on the back or high side. A bad entry pass is a live-ball turnover."
-    },
-    {
-      "title": "Cut and move off the entry",
-      "detail": "When the ball goes inside, perimeter players cut, screen, or relocate. Standing around the post entry makes doubles easy."
-    },
-    {
-      "title": "Play inside-out",
-      "detail": "If the post is doubled, the kick-out to the perimeter is the primary read. Swing the ball and attack the rotating defense."
-    },
-    {
-      "title": "Use the post as a screener",
-      "detail": "When the post is not getting touches, bring them up to set ball screens or cross-screens — a moving big is harder to guard than a parked one."
-    }
   ],
   "coachingPoints": [
     "Teach the post to seal early — position is won before the pass, not after it.",
@@ -65,72 +18,119 @@
     "Forcing post entries against fronting defenses instead of reversing the ball.",
     "Perimeter players standing still on post touches, letting the double team arrive cleanly."
   ],
+  "dateUpdated": "2026-10-06",
+  "description": "Four perimeter players plus one interior player — the classic balance of spacing and post presence.",
   "gameSituations": [
     "Teams with one dominant interior player and four capable perimeter players.",
     "Against smaller lineups that cannot handle a post threat one-on-one.",
     "When you need reliable half-court scoring and offensive rebounding."
   ],
+  "howTo": [
+    {
+      "detail": "The inside player seals on the block or flashes to the elbow depending on the entry angle. Keep them out of the middle driving lane.",
+      "title": "Place the post on the ball-side block"
+    },
+    {
+      "detail": "Pass into the post only when the sealer has position — defender on the back or high side. A bad entry pass is a live-ball turnover.",
+      "title": "Enter the post with purpose"
+    },
+    {
+      "detail": "When the ball goes inside, perimeter players cut, screen, or relocate. Standing around the post entry makes doubles easy.",
+      "title": "Cut and move off the entry"
+    },
+    {
+      "detail": "If the post is doubled, the kick-out to the perimeter is the primary read. Swing the ball and attack the rotating defense.",
+      "title": "Play inside-out"
+    },
+    {
+      "detail": "When the post is not getting touches, bring them up to set ball screens or cross-screens — a moving big is harder to guard than a parked one.",
+      "title": "Use the post as a screener"
+    }
+  ],
+  "hub": "offense",
+  "id": "four-out-one-in",
+  "level": "intermediate",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 6,
   "related": [
     "five-out-offense",
     "motion-offense",
     "drive-and-kick-offense",
     "horns-offense"
   ],
-  "dateUpdated": "2026-10-06",
+  "slug": "four-out-one-in",
+  "subcategory": "team-offense",
+  "tags": [
+    "4-out",
+    "post play",
+    "spacing",
+    "team offense"
+  ],
+  "title": "4-Out 1-In Offense",
   "vi": {
-    "title": "Tấn Công 4-Out 1-In",
-    "description": "Bốn cầu thủ vòng ngoài cộng một cầu thủ trong — sự cân bằng kinh điển giữa spacing và sự hiện diện ở post.",
-    "whatIsIt": [
-      "4-out 1-in đặt bốn cầu thủ trên vòng ngoài — ở góc và wing hoặc kiểu một đỉnh-hai wing — với một cầu thủ ở trong, thường ở block hoặc elbow. Đây là đội hình tấn công phổ biến nhất trong lịch sử bóng rổ.",
-      "Cầu thủ trong tạo ra mối đe dọa post, phương án high-low, và một rebounder tấn công, trong khi bốn cầu thủ vòng ngoài giữ sân giãn cho các pha đột phá và chắn bóng.",
-      "Nó có thể đánh như motion, như tấn công chắn bóng, hoặc như tấn công đưa bóng vào post. Điểm căng cần quản lý: cầu thủ post không được làm tắc các làn đột phá mà bốn cầu thủ vòng ngoài tạo ra."
+    "coachingPoints": [
+      "Dạy post chặn người từ sớm — vị trí thắng trước đường chuyền, không phải sau",
+      "Cầu thủ vòng ngoài phải căn pha cắt theo động tác của người post, đừng tự do lung tung",
+      "Nếu hàng thủ front post, dùng lob hoặc screen sau; không bao giờ cố đưa bóng vào chỗ bị kèm",
+      "Cầu thủ post nên là người screen giỏi nhất của bạn — dùng họ trong pick and roll khi bài post bế tắc"
     ],
-    "whyItMatters": [
-      "Hầu hết các đội đều có một cầu thủ to hoặc khỏe hơn những người còn lại, và 4-out 1-in giúp cầu thủ đó phát huy mà không làm sân chật lại. Nó dạy bóng rổ inside-out — những lần chạm bóng ở post làm sụp đổ hàng thủ rồi chuyền bật ra cho các tay ném — một công thức chiến thắng ở mọi cấp độ."
+    "commonMistakes": [
+      "Cắm cầu thủ big trong lane, giết mọi góc đột phá của hậu vệ",
+      "Cố đưa bóng vào post trước hàng thủ front thay vì đảo bóng",
+      "Cầu thủ vòng ngoài đứng yên khi bóng vào post, để double team đến sạch sẽ"
+    ],
+    "description": "Bốn cầu thủ vòng ngoài cộng một cầu thủ trong — sự cân bằng kinh điển giữa giãn đội hình và hiện diện post.",
+    "gameSituations": [
+      "Đội có một cầu thủ trong vượt trội và bốn cầu thủ vòng ngoài tốt",
+      "Trước đội hình nhỏ không chống nổi mối đe dọa post một-chọi-một",
+      "Khi cần ghi điểm nửa sân ổn định và rebound tấn công"
     ],
     "howTo": [
       {
-        "title": "Đặt post ở block phía bóng",
-        "detail": "Cầu thủ trong chắn người ở block hoặc bật ra elbow tùy góc đưa bóng vào. Giữ họ tránh xa làn đột phá ở giữa."
+        "detail": "Cầu thủ trong chặn người ở block hoặc lao ra elbow tùy góc đưa bóng vào. Giữ họ khỏi làn đột phá giữa.",
+        "title": "Đặt post ở block phía bóng"
       },
       {
-        "title": "Đưa bóng vào post có mục đích",
-        "detail": "Chỉ chuyền vào post khi người chắn đã có vị trí — hậu vệ ở sau lưng hoặc phía trên. Một đường chuyền vào tệ là một turnover bóng sống."
+        "detail": "Chỉ chuyền vào post khi người chặn đã có vị trí — cầu thủ phòng thủ sau lưng hoặc phía trên. Đường chuyền vào tệ là để mất bóng sống.",
+        "title": "Đưa bóng vào post có mục đích"
       },
       {
-        "title": "Cắt và di chuyển sau đường chuyền vào",
-        "detail": "Khi bóng vào trong, các cầu thủ vòng ngoài cắt, chắn, hoặc di chuyển chỗ. Đứng yên quanh đường chuyền vào post khiến đối phương double-team dễ dàng."
+        "detail": "Khi bóng vào trong, cầu thủ vòng ngoài cắt, screen, hoặc di chuyển lại. Đứng vây quanh đường chuyền vào khiến double team dễ dàng.",
+        "title": "Cắt và di chuyển sau đường chuyền vào"
       },
       {
-        "title": "Đánh inside-out",
-        "detail": "Nếu post bị double-team, đường chuyền bật ra vòng ngoài là lựa chọn ưu tiên. Xoay bóng và tấn công hàng thủ đang xoay sở."
+        "detail": "Nếu post bị double, chuyền ra vòng ngoài là pha đọc chính. Đảo bóng và tấn công hàng thủ đang xoay.",
+        "title": "Đánh inside-out"
       },
       {
-        "title": "Dùng post làm người chắn",
-        "detail": "Khi post không được chạm bóng, kéo họ lên chắn bóng hoặc chắn chéo — một big di chuyển khó kèm hơn một big đứng yên."
+        "detail": "Khi post không được chạm bóng, kéo họ lên đặt screen cho người cầm bóng hoặc screen ngang — cầu thủ big di chuyển khó kèm hơn cầu thủ big đứng yên.",
+        "title": "Dùng post làm người screen"
       }
-    ],
-    "coachingPoints": [
-      "Dạy post chắn người từ sớm — vị trí giành được trước đường chuyền, không phải sau đó.",
-      "Cầu thủ vòng ngoài phải căn thời điểm cắt theo động tác của cầu thủ post, đừng chạy tự do ngẫu hứng.",
-      "Nếu hàng thủ fronting post, dùng đường chuyền lob hoặc chắn lưng; đừng bao giờ cố đưa bóng vào khi bị kèm chặt.",
-      "Cầu thủ post nên là người chắn giỏi nhất của bạn — dùng họ trong pick-and-roll khi lối đánh post bế tắc."
-    ],
-    "commonMistakes": [
-      "Cắm big trong lane và giết chết mọi góc đột phá của các hậu vệ.",
-      "Cố đưa bóng vào post trước hàng thủ fronting thay vì xoay bóng sang phía bên kia.",
-      "Cầu thủ vòng ngoài đứng yên trong các lần chạm bóng ở post, để double-team ập đến dễ dàng."
-    ],
-    "gameSituations": [
-      "Những đội có một cầu thủ trong vượt trội và bốn cầu thủ vòng ngoài đủ tốt.",
-      "Trước những đội hình nhỏ không thể một-chọi-một với mối đe dọa ở post.",
-      "Khi cần ghi điểm half-court ổn định và rebound tấn công."
     ],
     "tags": [
       "4-out",
       "đánh post",
       "giãn đội hình",
       "tấn công đồng đội"
+    ],
+    "title": "Tấn công 4-out 1-in",
+    "whatIsIt": [
+      "4-out 1-in xếp bốn cầu thủ ở vòng ngoài — góc và cánh, hoặc một đỉnh hai cánh — với một cầu thủ bên trong, thường ở block hoặc elbow. Đây là đội hình tấn công phổ biến nhất lịch sử bóng rổ.",
+      "Cầu thủ trong cho tấn công mối đe dọa post, lựa chọn high-low, và người rebound tấn công, trong khi bốn cầu thủ vòng ngoài giữ mặt sân giãn cho đột phá và screen.",
+      "Chạy được dạng motion, dạng tấn công screen, hoặc dạng đưa bóng vào post. Điểm căng cần quản lý: cầu thủ post không được làm kẹt làn đột phá mà bốn cầu thủ vòng ngoài tạo ra."
+    ],
+    "whyItMatters": [
+      "Hầu hết đội có một cầu thủ to hoặc khỏe hơn tất cả, và 4-out 1-in để cầu thủ đó có đất diễn mà không thu hẹp mặt sân. Nó dạy bóng rổ inside-out — chạm bóng post kéo sập hàng thủ rồi chuyền ra cho tay ném — công thức chiến thắng ở mọi cấp độ."
     ]
-  }
+  },
+  "whatIsIt": [
+    "4-out 1-in places four players on the perimeter — corners and wings or a top-and-wings look — with one player inside, usually on the block or at the elbow. It is the most common offensive alignment in basketball history.",
+    "The inside player gives the offense a post threat, a high-low option, and an offensive rebounder, while the four perimeter players keep the floor spaced for drives and ball screens.",
+    "It works as motion, as a ball-screen offense, or as a post-entry offense. The key tension to manage: the post player must not clog the driving lanes the four perimeter players create."
+  ],
+  "whyItMatters": [
+    "Most teams have one player who is bigger or stronger than everyone else, and 4-out 1-in lets that player matter without shrinking the floor. It teaches inside-out basketball — post touches that collapse the defense and kick out to shooters — which is a winning formula at every level."
+  ]
 }

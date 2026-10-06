@@ -71,68 +71,68 @@
     "fakes"
   ],
   "title": "Jab Step",
-  "whatIsIt": [
-    "The jab step is a short, explosive fake step toward the defender — designed to shift their weight one way so you can drive the other. It's the foundation move of triple-threat offense.",
-    "A great jab looks exactly like the first step of a drive, because it is one — just stopped short. Defenders have to respect it, and the moment they do, they're beaten. Michael Jordan built a career on the jab; every modern wing uses it daily."
-  ],
-  "whyItMatters": [
-    "Closeouts and tight defense are everywhere. The jab step is how you create a drive without needing a screen — one fake, one read, one explosion. It's also a decision-maker: it forces the defender to show their hand, and you attack what they give you."
-  ],
   "vi": {
-    "title": "Bước Giả Jab (Jab Step)",
-    "description": "Bước giả ngắn, nhanh giúp dịch chuyển trọng tâm của hậu vệ và mở đường đột phá — đơn giản, nhanh và cực kỳ hiệu quả.",
-    "whatIsIt": [
-      "Bước giả jab là một bước chân giả ngắn, bùng nổ về phía hậu vệ — nhằm dịch chuyển trọng tâm của họ sang một bên để bạn đột phá sang bên còn lại. Đây là động tác nền tảng của tấn công triple threat.",
-      "Một cú jab đẳng cấp trông y hệt bước đầu tiên của một pha đột phá thật, vì về bản chất nó là vậy — chỉ khác là dừng lại sớm. Hậu vệ buộc phải tôn trọng nó, và khoảnh khắc họ làm thế, họ đã bị đánh bại. Michael Jordan xây dựng sự nghiệp trên cú jab; mọi cầu thủ cánh hiện đại đều dùng nó mỗi ngày."
+    "coachingPoints": [
+      "Bán nó bằng mắt và vai — nhìn về hướng giả, không nhìn hướng đi.",
+      "Giữ thấp trong lúc giả; nhô lên là giết chết sự đánh lừa.",
+      "Jab dài 15–20cm — vừa đủ dịch trọng tâm đối phương.",
+      "Đọc chân cầu thủ phòng thủ, đừng đọc tay — chân cho biết họ đi đâu.",
+      "Kết hợp động tác giả ném thành jab-and-go đánh bại closeout."
     ],
-    "whyItMatters": [
-      "Các pha closeout và phòng thủ áp sát xuất hiện ở khắp mọi nơi. Bước giả jab là cách bạn tạo ra một pha đột phá mà không cần screen — một cú giả, một lần đọc, một cú bùng nổ. Nó cũng là công cụ ra quyết định: nó buộc hậu vệ phải lộ bài, và bạn tấn công đúng điểm họ để hở."
+    "commonMistakes": [
+      "Jab lười, chậm, đối phương phớt lờ — dồn hết mình như pha đột phá thật.",
+      "Jab đâm vào người phòng thủ thay vì qua chân trước của họ.",
+      "Nhấc bóng lên trong lúc jab — giờ không còn bóng để dẫn, không còn đường đột phá.",
+      "Lần nào cũng jab một kiểu — đối phương trinh sát thói quen."
+    ],
+    "description": "Bước giả nhanh dịch chuyển trọng tâm cầu thủ phòng thủ, mở đường đột phá — đơn giản, nhanh, chết người.",
+    "gameSituations": [
+      "Bắt bóng ở cánh gặp người kèm sát — jab rồi đi.",
+      "Iso cuối đồng hồ — một cú jab mạnh tạo khe hở cần thiết.",
+      "Gặp người ham kèm tay thuận — jab sang tay thuận, đột phá sang tay không thuận."
     ],
     "howTo": [
       {
-        "title": "Nhận bóng ở tư thế triple threat",
-        "detail": "Nhận bóng ở tư thế triple threat — đầu gối chùng, bóng đặt ở hông, mắt nhìn lên. Chân trụ đã xác định và hậu vệ đang đứng trước mặt bạn."
+        "detail": "Bắt bóng ở triple threat — gối cong, bóng ở hông, mắt nhìn lên. Chân trụ đã cố định, cầu thủ phòng thủ ở trước mặt.",
+        "title": "Bắt bóng ở triple threat"
       },
       {
-        "title": "Giả một bước chân",
-        "detail": "Bật một chân dài khoảng 15–20 cm về phía chân trước của hậu vệ — mạnh và nhanh, như bước đầu tiên của một pha đột phá thật. Giữ bóng được bảo vệ."
+        "detail": "Bùng nổ một chân 15–20cm về phía chân trước của cầu thủ phòng thủ — mạnh và nhanh, như bước đầu tiên của pha đột phá thật. Giữ bóng được bảo vệ.",
+        "title": "Giả bước"
       },
       {
-        "title": "Đọc phản ứng của hậu vệ",
-        "detail": "Quan sát bàn chân và hông của hậu vệ. Nếu trọng tâm của họ dịch về phía cú jab, đường đột phá của bạn vừa mở ra — họ đang nghiêng sai hướng."
+        "detail": "Quan sát chân và hông đối phương. Trọng tâm họ dịch về phía jab là làn đột phá vừa mở — họ đang nghiêng sai hướng.",
+        "title": "Đọc phản ứng"
       },
       {
-        "title": "Đột phá qua khoảng trống",
-        "detail": "Đạp mạnh từ chân jab và vượt qua hông họ theo hướng ngược lại. Một cú dẫn bóng mạnh là đủ để vượt qua; bước đầu tiên là vũ khí tốt nhất của bạn."
+        "detail": "Đạp chân jab, đột phá qua hông họ sang hướng ngược lại. Một nhịp dẫn mạnh là đủ qua người; bước đầu tiên là vũ khí tốt nhất.",
+        "title": "Đột phá vào khoảng trống"
       },
       {
-        "title": "Luôn có phương án dự phòng",
-        "detail": "Nếu hậu vệ không bị lừa, cú jab trở thành mồi nhử — jab lần nữa, ném qua đầu họ, hoặc rip through. Đừng bao giờ jab mà chỉ có một phương án trong đầu."
+        "detail": "Đối phương không cắn câu thì jab thành bước đệm — jab lần nữa, ném qua đầu họ, hoặc rip through. Đừng bao giờ jab mà chỉ có một lựa chọn trong đầu.",
+        "title": "Chuẩn bị sẵn đòn phản"
       }
-    ],
-    "coachingPoints": [
-      "Hãy diễn bằng mắt và vai — nhìn về hướng bạn giả, không phải hướng bạn định đi.",
-      "Giữ người thấp suốt cú giả; bật người lên cao sẽ giết chết hiệu quả đánh lừa.",
-      "Cú jab dài khoảng 15–20 cm — vừa đủ để dịch chuyển trọng tâm của hậu vệ.",
-      "Đọc bàn chân của hậu vệ, không phải tay của họ — bàn chân cho bạn biết họ định đi đâu.",
-      "Kết hợp với động tác giả ném để tạo combo jab-and-go đánh bại các pha closeout."
-    ],
-    "commonMistakes": [
-      "Một cú jab hời hợt, chậm chạp mà hậu vệ chẳng thèm để ý — hãy dồn quyết tâm vào nó như một pha đột phá thật.",
-      "Jab vào người hậu vệ thay vì vượt qua chân trước của họ.",
-      "Nhấc bóng lên trong lúc jab — giờ bạn vừa mất bóng dẫn vừa mất đường đột phá.",
-      "Lúc nào cũng dùng một kiểu jab — hậu vệ sẽ đọc được thói quen của bạn."
-    ],
-    "gameSituations": [
-      "Nhận bóng ở cánh trước một hậu vệ kèm chặt — jab rồi đột phá.",
-      "Những pha bóng quyết định khi đồng hồ sắp hết — một cú jab mạnh tạo ra khe hở bạn cần.",
-      "Trước hậu vệ bắt bài tay thuận của bạn — jab về tay thuận, đột phá về tay yếu."
     ],
     "tags": [
       "bộ chân",
       "triple threat",
       "đột phá",
       "động tác giả"
+    ],
+    "title": "Kỹ thuật jab step",
+    "whatIsIt": [
+      "Jab step là một bước giả ngắn, bùng nổ về phía cầu thủ phòng thủ — nhằm dịch trọng tâm của họ sang một bên để mình đột phá sang bên còn lại. Đây là động tác nền tảng của tấn công triple threat.",
+      "Một cú jab hay trông y hệt bước đầu tiên của pha đột phá, vì nó chính là bước đó — chỉ dừng lại giữa chừng. Cầu thủ phòng thủ buộc phải tôn trọng nó, và ngay khi họ làm vậy, họ đã bị qua mặt. Michael Jordan xây dựng sự nghiệp trên jab step; mọi cánh hiện đại đều dùng nó hàng ngày."
+    ],
+    "whyItMatters": [
+      "Closeout và kèm sát ở khắp nơi. Jab step là cách tạo pha đột phá mà không cần screen — một cú giả, một lần đọc, một cú bùng nổ. Nó còn là công cụ ra quyết định: ép cầu thủ phòng thủ phải lộ bài, rồi tấn công vào thứ họ cho."
     ]
-  }
+  },
+  "whatIsIt": [
+    "The jab step is a short, explosive fake step toward the defender — designed to shift their weight one way so you can drive the other. It's the foundation move of triple-threat offense.",
+    "A great jab looks exactly like the first step of a drive, because it is one — just stopped short. Defenders have to respect it, and the moment they do, they're beaten. Michael Jordan built a career on the jab; every modern wing uses it daily."
+  ],
+  "whyItMatters": [
+    "Closeouts and tight defense are everywhere. The jab step is how you create a drive without needing a screen — one fake, one read, one explosion. It's also a decision-maker: it forces the defender to show their hand, and you attack what they give you."
+  ]
 }

@@ -129,56 +129,56 @@
     "Pick-and-roll is the most common action in modern basketball, and the pocket pass is its most efficient outcome — a layup or a foul. Defenses scheme specifically to take it away. Guards who can deliver it on time and on target make every screen they use dangerous."
   ],
   "vi": {
-    "title": "Pocket Pass",
-    "description": "Đường chuyền nảy xuyên qua hai hậu vệ đến big man đang roll — món tủ của tấn công pick and roll.",
-    "whatIsIt": [
-      "Pocket pass là đường chuyền nảy một tay xuyên qua hậu vệ kèm bóng và hậu vệ của người screen, đến big man đang roll về rổ. \"Pocket\" là khe hở nhỏ giữa hai hậu vệ đó — thường chưa đầy một mét.",
-      "Đây là đường chuyền đặc trưng của pick and roll. Khi hàng thủ drop hoặc hậu vệ kèm bóng bị kẹt, pocket mở ra, và một đường chuyền nảy chính xác biến pha screen thành layup không ai kèm."
+    "coachingPoints": [
+      "Pocket nằm giữa hậu vệ kèm bóng và hậu vệ của người dựng screen — xâu bóng qua khe đó, không vòng ra ngoài",
+      "Nảy pocket pass; bóng nảy tới gọn hơn trong không gian hẹp so với chuyền thẳng",
+      "Giữ bóng sống nếu pocket chưa mở — không bao giờ cố ép",
+      "Dẫn người roll hơi về phía rổ, không chuyền vào ngực anh ta",
+      "Đường chuyền phải tới trước khi người roll hoàn toàn trống — đoán trước, đừng phản ứng"
     ],
-    "whyItMatters": [
-      "Pick and roll là chiến thuật phổ biến nhất trong bóng rổ hiện đại, và pocket pass là kết quả hiệu quả nhất của nó — một layup hoặc một pha phạm lỗi. Hàng thủ bày mưu tính kế chỉ để lấy đi đường chuyền này. Hậu vệ nào chuyền được đúng lúc đúng đích sẽ khiến mọi pha screen của mình trở nên nguy hiểm."
+    "commonMistakes": [
+      "Chuyền vào ngực người roll — đó là đường thẳng mà hậu vệ hỗ trợ đang chờ sẵn",
+      "Cố ép pocket khi hậu vệ của người dựng screen dâng cao — chuyền short roll hoặc skip thay vào đó",
+      "Nhắm vào chỗ người roll đang đứng, không phải chỗ anh ta sẽ tới — bóng tới muộn và thấp",
+      "Ôm bóng lên quá sớm — mất đi mối đe dọa đã tạo ra pocket"
+    ],
+    "description": "Đường chuyền nảy bóng xỏ qua hai hậu vệ tới big đang roll — món tủ của tấn công pick and roll.",
+    "gameSituations": [
+      "Pick and roll khi hậu vệ của người dựng screen drop — pocket mở ra giữa hai hậu vệ",
+      "Đấu hedge rồi quay về — luồn bóng dưới big đang lùi về",
+      "Đồng hồ sắp hết — đây là cách nhanh nhất biến screen thành layup"
     ],
     "howTo": [
       {
-        "title": "Đọc hai hậu vệ",
-        "detail": "Ra khỏi ball screen với hậu vệ kèm bóng đuổi sát hông bạn. Giữ hậu vệ của người screen trong tầm nhìn ngoại vi — pocket chính là khe giữa hai người họ."
+        "detail": "Ra khỏi screen bóng với hậu vệ kèm bóng đuổi sát hông bạn. Giữ hậu vệ của người dựng screen trong tầm nhìn ngoại vi — pocket chính là khe giữa hai người họ.",
+        "title": "Đọc hai hậu vệ"
       },
       {
-        "title": "Bảo vệ bóng",
-        "detail": "Giữ thấp và duy trì bóng sống bằng tay ngoài. Cơ thể bạn phải che bóng khỏi hậu vệ đang đuổi theo."
+        "detail": "Giữ thấp người, duy trì bóng sống bằng tay ngoài. Cơ thể bạn phải che bóng khỏi hậu vệ đang đuổi theo.",
+        "title": "Bảo vệ bóng"
       },
       {
-        "title": "Xâu bóng nảy qua khe",
-        "detail": "Nhắm đường chuyền nảy một tay xuyên qua khe giữa hai hậu vệ, dẫn roller về phía rổ. Bóng nảy một lần và đến ngang hông roller, hơi trước mặt anh ta một chút."
+        "detail": "Nhắm đường chuyền nảy một tay xuyên qua khe giữa hai hậu vệ, dẫn người roll về phía rổ. Bóng nảy một lần rồi tới ngang hông người roll, hơi vượt trước anh ta một chút.",
+        "title": "Xâu bóng nảy qua khe"
       },
       {
-        "title": "Căn thời gian theo pha roll",
-        "detail": "Khi thả bóng, gập cổ tay và follow through về phía rổ. Đường chuyền và pha cắt của roller phải đến cùng một thời điểm — thả bóng đủ sớm để dẫn trước anh ta."
+        "detail": "Lúc thả bóng, búng cổ tay và follow-through về phía rổ. Đường chuyền và pha cắt của người roll phải tới cùng một thời điểm — thả bóng đủ sớm để dẫn trước anh ta.",
+        "title": "Căn thời gian theo pha roll"
       }
-    ],
-    "coachingPoints": [
-      "Pocket nằm giữa hậu vệ kèm bóng và hậu vệ của người screen — xâu bóng qua khe đó, không vòng ra ngoài.",
-      "Nảy pocket pass; bóng nảy đến gọn hơn trong không gian hẹp so với bóng chuyền thẳng.",
-      "Giữ bóng sống nếu pocket chưa mở — không bao giờ cố ép.",
-      "Dẫn roller hơi về phía rổ, không chuyền vào ngực anh ta.",
-      "Đường chuyền phải đến TRƯỚC khi roller hoàn toàn trống — đoán trước, đừng phản ứng."
-    ],
-    "commonMistakes": [
-      "Chuyền vào ngực roller — đó là đường thẳng mà hậu vệ help đang chờ sẵn.",
-      "Cố ép pocket khi hậu vệ của người screen dâng cao — hãy chuyền short roll hoặc skip thay thế.",
-      "Nhắm vào chỗ roller đang đứng, không phải chỗ anh ta sẽ đến — bóng đến muộn và thấp.",
-      "Nhặt bóng lên quá sớm — bạn mất đi mối đe dọa đã tạo ra pocket."
-    ],
-    "gameSituations": [
-      "Pick and roll khi hậu vệ của người screen drop — pocket mở ra giữa hai hậu vệ.",
-      "Khi đối đầu hedge rồi recover — luồn bóng dưới big man đang lùi về.",
-      "Tình huống đồng hồ sắp hết — đây là cách nhanh nhất biến screen thành layup."
     ],
     "tags": [
       "chuyền bóng",
       "pick and roll",
       "chuyền nảy",
       "hậu vệ"
+    ],
+    "title": "Đường chuyền pocket pass",
+    "whatIsIt": [
+      "Pocket pass là đường chuyền nảy bóng một tay xỏ qua hậu vệ kèm bóng và hậu vệ của người dựng screen, tới big đang roll về rổ. “Pocket” là khe hở nhỏ giữa hai hậu vệ đó — thường chưa đầy một mét.",
+      "Đây là đường chuyền đặc trưng của pick and roll. Khi hàng thủ drop hoặc hậu vệ kèm bóng bị kẹt, pocket mở ra, và một đường chuyền nảy chính xác biến pha screen thành layup không ai kèm."
+    ],
+    "whyItMatters": [
+      "Pick and roll là tình huống phổ biến nhất trong bóng rổ hiện đại, và pocket pass là kết quả hiệu quả nhất của nó — một layup hoặc một pha phạm lỗi. Hàng thủ bày mưu tính kế chỉ để lấy đi đường chuyền này. Guard nào chuyền được đúng lúc đúng đích sẽ khiến mọi pha screen của mình trở nên nguy hiểm."
     ]
   }
 }

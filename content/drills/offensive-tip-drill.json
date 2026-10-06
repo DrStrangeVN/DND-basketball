@@ -64,32 +64,6 @@
   ],
   "dateUpdated": "2026-10-06",
   "vi": {
-    "title": "Bài Tip Bóng Tấn Công",
-    "description": "Lao vào và tip: tới chỗ trước đối thủ, tip bóng trượt lên lại hoặc cho đồng đội — cơ hội thứ hai được giành trước khi bóng chạm vành.",
-    "goal": "Phát triển nhịp và cảm giác để tip offensive rebound thành putback thay vì cố bắt sạch mọi thứ.",
-    "setup": [
-      "Người ném ở wing, người tip bắt đầu ở elbow đối diện.",
-      "HLV hô 'ném' — người ném ném, người tip lao vào.",
-      "Luân phiên ném trượt cố ý vào các phần khác nhau của vành rổ."
-    ],
-    "instructions": [
-      {
-        "title": "Đọc hướng nảy",
-        "detail": "Nhìn góc ném — ném xa nảy xa, ném non rớt gần."
-      },
-      {
-        "title": "Vượt qua người kèm",
-        "detail": "Swim hoặc spin qua box-out trước khi bóng chạm vành."
-      },
-      {
-        "title": "Tip, đừng bắt",
-        "detail": "Trong đám đông, tip bóng nhẹ lên hoặc tip sang phía trống — bắt sạch hiếm khi xảy ra."
-      },
-      {
-        "title": "Putback",
-        "detail": "Khi tip rơi gần rổ, bật ngay lên mạnh mẽ dứt điểm kiếm and-one."
-      }
-    ],
     "coachingPoints": [
       "Lao vào khi bóng vừa ném, đừng đợi biết trúng hay trượt — người vào sớm mới tip được.",
       "Tip bóng LÊN — tip xuống hay ra ngoài là dâng bóng cho đối thủ.",
@@ -99,12 +73,38 @@
       "Đứng nhìn cú ném — thế là đã muộn.",
       "Cố bắt sạch mọi thứ trong đám đông — hãy tip nó."
     ],
-    "progression": "Thêm hậu vệ box-out thật mà người tip phải vượt qua.",
-    "regression": "Bắt đầu tự tung bóng trượt, không hậu vệ.",
-    "gameApplication": "Offensive rebound bẻ gãy tinh thần hàng thủ — một pha tip thành putback làm xẹp ý chí đội vừa thủ 20 giây.",
-    "players": "2+",
+    "description": "Lao vào và tip: tới chỗ trước đối thủ, tip bóng trượt lên lại hoặc cho đồng đội — cơ hội thứ hai được giành trước khi bóng chạm vành.",
     "equipment": [
       "Bóng rổ"
-    ]
+    ],
+    "gameApplication": "Offensive rebound bẻ gãy tinh thần hàng thủ — một pha tip thành putback làm xẹp ý chí đội vừa thủ 20 giây.",
+    "goal": "Phát triển nhịp và cảm giác để tip offensive rebound thành putback thay vì cố bắt sạch mọi thứ.",
+    "instructions": [
+      {
+        "detail": "Nhìn góc ném — ném xa nảy xa, ném non rớt gần.",
+        "title": "Đọc hướng nảy"
+      },
+      {
+        "detail": "Swim hoặc spin qua box out trước khi bóng chạm vành.",
+        "title": "Vượt qua người kèm"
+      },
+      {
+        "detail": "Trong đám đông, tip bóng nhẹ lên hoặc tip sang phía trống — bắt sạch hiếm khi xảy ra.",
+        "title": "Tip, đừng bắt"
+      },
+      {
+        "detail": "Khi tip rơi gần rổ, bật ngay lên mạnh mẽ dứt điểm kiếm and-one.",
+        "title": "Dứt điểm putback"
+      }
+    ],
+    "players": "2+",
+    "progression": "Thêm cầu thủ phòng thủ box out thật mà người tip phải vượt qua.",
+    "regression": "Bắt đầu tự tung bóng trượt, không cầu thủ phòng thủ.",
+    "setup": [
+      "Người ném ở cánh, người tip bắt đầu ở elbow đối diện.",
+      "HLV hô 'ném' — người ném ném, người tip lao vào.",
+      "Luân phiên ném trượt cố ý vào các phần khác nhau của vành rổ."
+    ],
+    "title": "Tip bóng tấn công (offensive tip drill)"
   }
 }

@@ -72,69 +72,69 @@
     "team defense"
   ],
   "title": "Gap Defense",
+  "vi": {
+    "coachingPoints": [
+      "Người kèm càng xa bóng, gap của bạn càng sâu được",
+      "Giữ ngực mở về phía bóng — không bao giờ quay lưng với nó",
+      "Trượt theo bóng: bóng đảo, gap dịch theo",
+      "Khép gap nhanh khi người của bạn bắt bóng — bạn cách closeout một bước",
+      "Cầu thủ phòng thủ gap phải stunt và hồi về trong một nhịp"
+    ],
+    "commonMistakes": [
+      "Lún quá xa tay ném, closeout không kịp",
+      "Ôm người kèm khi bóng cách hai đường chuyền — không có giá trị hỗ trợ",
+      "Quên gap khi bóng đảo — gap phải di chuyển theo bóng",
+      "Nhìn bóng quá lâu, người kèm cắt backdoor"
+    ],
+    "description": "Phòng thủ gap: lùi xa người kèm bao nhiêu, cách đọc bóng, và cách có mặt ở hai nơi cùng lúc khi không bóng.",
+    "gameSituations": [
+      "Người của bạn cách một đường chuyền ở phía yếu, cần vừa hỗ trợ vừa hồi về",
+      "Phòng thủ đội chuyên đột phá, gap của bạn dọa bước đầu của họ",
+      "Chơi pack line hay mọi sơ đồ kèm người lún sâu",
+      "Cuối đồng hồ khi tấn công cần cú drive, không phải cú bắt bóng bị kèm"
+    ],
+    "howTo": [
+      {
+        "detail": "Đo gap bằng khoảng cách từ người kèm đến bóng. Nếu anh ta cách một đường chuyền, đứng cách anh ta một sải tay cộng một bước. Cách hai đường chuyền, bạn có thể lún hẳn một bước vào lane.",
+        "title": "Đặt gap theo khoảng cách bóng"
+      },
+      {
+        "detail": "Mở tư thế để ngực hướng về bóng, chân sau chỉ vào người kèm. ‘Tư thế mở’ này để bạn thấy cả hai và di chuyển về phía nào cũng được.",
+        "title": "Chơi tư thế mở"
+      },
+      {
+        "detail": "Bóng di chuyển — đảo, đột phá, hay chuyền — gap của bạn di chuyển theo. Trượt về phía bóng, giữ vị trí tương đối giữa người kèm và rổ.",
+        "title": "Di chuyển gap theo bóng"
+      },
+      {
+        "detail": "Khi bóng đột phá, gap của bạn sụp thành hỗ trợ: bạn thành người hỗ trợ. Khi bóng chuyền ra cho người của bạn, gap bùng thành closeout.",
+        "title": "Sụp vào hỗ trợ hoặc bùng ra closeout"
+      },
+      {
+        "detail": "Từ gap, bước mạnh một nhịp về phía người đột phá — stunt — để làm chậm anh ta, rồi chạy nước rút về người kèm. Làm tốt, tấn công không nhận ra bạn đã rời đi.",
+        "title": "Stunt vào người đột phá rồi hồi về"
+      }
+    ],
+    "tags": [
+      "phòng thủ",
+      "gap",
+      "không bóng",
+      "phòng thủ tập thể"
+    ],
+    "title": "Phòng thủ giữ khoảng (gap defense)",
+    "whatIsIt": [
+      "Phòng thủ gap là cách cầu thủ không bóng đứng giữa người kèm và bóng — đủ gần để hồi về người kèm, đủ sâu để hỗ trợ cú drive. ‘Gap’ là khoảng không ở giữa đó, và quản lý nó là kỹ năng cốt lõi của phòng thủ tập thể.",
+      "Thay vì dán chặt vào người kèm, bạn chơi đường chuyền và làn đột phá cùng lúc. Khi người của bạn xa bóng, bạn lún sâu vào hỗ trợ. Khi bóng đảo về phía anh ta, bạn khép gap, bám lại anh ta. Mỗi đợt phòng thủ tốt là năm cầu thủ liên tục điều chỉnh gap."
+    ],
+    "whyItMatters": [
+      "Tấn công đánh bằng đột phá, và đột phá bị chặn bởi gap, không phải bởi cá nhân. Đội chơi gap tốt khiến mọi cú drive đâm vào cầu thủ phòng thủ thứ hai, ép chuyền ra — và chuyền ra đúng thứ hàng thủ gắn kết muốn. Kỷ luật gap phân biệt hàng thủ cong mà không gãy với hàng thủ gãy."
+    ]
+  },
   "whatIsIt": [
     "Gap defense is how off-ball defenders position themselves between their man and the ball — close enough to recover to their man, far enough inside to help on a drive. The 'gap' is that in-between space, and managing it is the core skill of team defense.",
     "Instead of gluing yourself to your matchup, you play the passing lane and the driving lane at once. When your man is far from the ball, you sag deeper into help. When the ball swings toward him, you close the gap and get back on him. Every good defensive possession is five players constantly adjusting their gaps."
   ],
   "whyItMatters": [
     "Offenses attack with penetration, and penetration is stopped by gaps, not by individual defenders. A team that plays great gaps makes every drive run into a second defender, which forces kick-outs — and kick-outs are exactly what a connected defense wants. Gap discipline is what separates defenses that bend from defenses that break."
-  ],
-  "vi": {
-    "title": "Phòng Thủ Khoảng Trống (Gap Defense)",
-    "description": "Phòng thủ khoảng trống: lùi xa người kèm bao nhiêu là đủ, cách đọc bóng, và cách 'ở hai nơi cùng lúc' khi không kèm bóng.",
-    "whatIsIt": [
-      "Phòng thủ khoảng trống là cách các hậu vệ không kèm bóng đứng giữa người họ kèm và quả bóng — đủ gần để quay lại kèm người, đủ sâu vào trong để hỗ trợ khi bị đột phá. 'Khoảng trống' chính là vùng ở giữa đó, và quản lý nó là kỹ năng cốt lõi của phòng thủ đồng đội.",
-      "Thay vì dính chặt vào người kèm, bạn chơi cả đường chuyền lẫn đường đột phá cùng lúc. Khi người bạn kèm ở xa bóng, bạn lùi sâu hơn vào vị trí hỗ trợ. Khi bóng xoay về phía anh ta, bạn khép khoảng trống và quay lại kèm. Mỗi lần phòng thủ tốt là năm cầu thủ liên tục điều chỉnh khoảng trống của mình."
-    ],
-    "whyItMatters": [
-      "Tấn công dùng đột phá để ghi điểm, và đột phá bị chặn bởi các khoảng trống, không phải bởi từng hậu vệ riêng lẻ. Đội chơi khoảng trống tốt khiến mỗi pha đột phá đều đâm vào hậu vệ thứ hai, buộc đối thủ phải chuyền ra ngoài — và chuyền ra ngoài chính là điều hàng thủ gắn kết mong muốn. Kỷ luật khoảng trống là thứ phân biệt hàng thủ chỉ 'cong' với hàng thủ bị 'gãy'."
-    ],
-    "howTo": [
-      {
-        "title": "Đặt khoảng trống theo khoảng cách tới bóng",
-        "detail": "Đo khoảng trống bằng khoảng cách từ người bạn kèm tới bóng. Nếu anh ta cách bóng một đường chuyền, hãy đứng cách anh ta một sải tay cộng một bước chân. Cách hai đường chuyền, bạn có thể lùi sâu một bước vào trong lane."
-      },
-      {
-        "title": "Đứng ở tư thế mở",
-        "detail": "Mở tư thế sao cho ngực hướng về bóng và chân sau chỉ về phía người bạn kèm. Tư thế 'mở' này giúp bạn thấy cả hai và di chuyển về phía nào cũng được."
-      },
-      {
-        "title": "Di chuyển khoảng trống theo bóng",
-        "detail": "Khi bóng di chuyển — xoay biên, đột phá, hay chuyền — khoảng trống của bạn cũng di chuyển theo. Trượt về phía bóng, giữ vị trí tương đối giữa người bạn kèm và rổ."
-      },
-      {
-        "title": "Co vào hỗ trợ hoặc bật ra closeout",
-        "detail": "Khi bóng đột phá, khoảng trống của bạn co lại thành hỗ trợ: bạn trở thành người hỗ trợ. Khi bóng được chuyền cho người bạn kèm, khoảng trống bật ra thành một pha closeout."
-      },
-      {
-        "title": "Nhá hỗ trợ (stunt) rồi quay về",
-        "detail": "Từ khoảng trống, bước mạnh một bước về phía người đột phá — một pha nhá (stunt) — để làm chậm anh ta, rồi chạy nước rút về người mình kèm. Làm tốt, đối thủ sẽ không nhận ra bạn đã rời vị trí."
-      }
-    ],
-    "coachingPoints": [
-      "Người bạn kèm càng xa bóng, khoảng trống của bạn càng có thể sâu",
-      "Giữ ngực mở về phía bóng — không bao giờ quay lưng lại với bóng",
-      "Trượt theo bóng: bóng xoay đâu, khoảng trống của bạn dịch theo đó",
-      "Khép khoảng trống nhanh khi người bạn kèm nhận bóng — bạn chỉ cách một pha closeout một bước chân",
-      "Hậu vệ khoảng trống phải nhá hỗ trợ và quay về trong một động tác"
-    ],
-    "commonMistakes": [
-      "Lùi quá xa khỏi tay ném khiến pha closeout không thể kịp",
-      "Dính chặt người kèm khi bóng cách hai đường chuyền — chẳng có giá trị hỗ trợ nào",
-      "Quên khoảng trống khi bóng xoay biên — khoảng trống phải di chuyển theo bóng",
-      "Mải nhìn bóng quá lâu để người kèm cắt backdoor"
-    ],
-    "gameSituations": [
-      "Người bạn kèm ở phía yếu cách bóng một đường chuyền, bạn cần vừa hỗ trợ vừa quay về",
-      "Phòng thủ đội chuyên đột phá, khoảng trống của bạn làm nản bước đầu tiên của họ",
-      "Chơi pack line hay bất kỳ sơ đồ kèm người lùi sâu nào",
-      "Cuối đồng hồ khi đối thủ cần đột phá chứ không phải nhận bóng tranh chấp"
-    ],
-    "tags": [
-      "phòng thủ",
-      "khoảng trống",
-      "không bóng",
-      "phòng thủ đồng đội"
-    ]
-  }
+  ]
 }

@@ -73,68 +73,68 @@
     "transition"
   ],
   "title": "Defensive Rebounding",
+  "vi": {
+    "coachingPoints": [
+      "Bắt rebound hai tay ở điểm cao nhất — vỗ một tay chỉ cho tình huống khẩn cấp.",
+      "Kẹp bóng dưới cằm ngay khi giữ được — khuỷu tay mở, sẵn sàng xoay người.",
+      "Đáp ở tư thế rộng, không hẹp — đáp hẹp dễ bị móc bóng.",
+      "Chuyền outlet nhanh: pha phản công hay nhất bắt đầu 2 giây sau rebound.",
+      "Giao tiếp: hô \"ném!\" rồi \"bóng!\" để đồng đội biết kế hoạch."
+    ],
+    "commonMistakes": [
+      "Hạ rebound xuống ngang hông — hậu vệ nhỏ móc bóng người to làm vậy.",
+      "Bắt rebound một tay trong đám đông — bóng bị đánh bật.",
+      "Đứng chôn chân nhìn — rebound thưởng cho người di chuyển trước.",
+      "Ném đường chuyền outlet ẩu — để mất bóng ngay sau rebound đẹp là chí mạng."
+    ],
+    "description": "Kết thúc mọi đợt phòng thủ: box out, tấn công bóng, và phát động phản công.",
+    "gameSituations": [
+      "Sau mọi cú ném hỏng khi bạn phòng thủ — cả năm người đều có việc.",
+      "Ném phạt — hai vị trí phòng thủ phải giữ được bảng.",
+      "Trước đội ném 3 nhiều — rebound dài cần hậu vệ tranh cùng."
+    ],
+    "howTo": [
+      {
+        "detail": "Bóng rời tay, động tác đầu tiên của bạn là về phía người mình kèm, không phải bóng. Cả năm người phòng thủ box out — kể cả hậu vệ ở ngoài vòng.",
+        "title": "Box out trước"
+      },
+      {
+        "detail": "Đọc quỹ đạo cú ném: ném ngắn nảy xa, ném xa nảy ngắn, và hầu hết cú hỏng bật ra phía đối diện vành rổ. Di chuyển tới nơi bóng sẽ tới.",
+        "title": "Đọc hướng nảy"
+      },
+      {
+        "detail": "Canh nhịp nhảy để gặp bóng ở điểm cao nhất. Duỗi hết cỡ và tóm bóng bằng hai tay chắc — \"giật\" nó ra khỏi không trung.",
+        "title": "Tấn công ở điểm cao nhất"
+      },
+      {
+        "detail": "Đưa bóng về cằm với khuỷu tay mở ra khi đáp. Bảo vệ bóng khỏi hậu vệ định móc lúc bạn đáp xuống.",
+        "title": "Kẹp cằm và đáp rộng"
+      },
+      {
+        "detail": "Xoay người tránh áp lực và ném đường chuyền outlet gọn cho hậu vệ — hoặc tự đẩy bóng. Phản công bắt đầu từ quyết định của bạn.",
+        "title": "Chuyền outlet và đi"
+      }
+    ],
+    "tags": [
+      "tranh bóng bật bảng",
+      "phòng thủ",
+      "box out",
+      "phản công nhanh"
+    ],
+    "title": "Rebound phòng thủ",
+    "whatIsIt": [
+      "Rebound phòng thủ là giữ bóng sau khi đối thủ ném hỏng — hành động chính thức kết thúc đợt bóng của họ. Nó kết hợp box out với đọc hướng nảy, tấn công bóng, và khởi động phản công.",
+      "Số liệu rõ ràng: đội rebound phòng thủ tốt thủng ít điểm hơn, vì cơ hội hai là những cú ném hiệu quả nhất bóng rổ. Đây là việc của năm người — không chỉ người to. Hậu vệ tranh rebound dài xoay chuyển trận đấu."
+    ],
+    "whyItMatters": [
+      "Đợt phòng thủ không có rebound là công cốc. Mọi nỗ lực ép đối thủ ném hỏng tan biến khi hàng công có putback. Đội rebound phòng thủ giỏi kiểm soát nhịp độ, hạn chế điểm dễ, và khởi động nhiều pha phản công hơn — vừa phòng thủ vừa tấn công trong một kỹ năng."
+    ]
+  },
   "whatIsIt": [
     "Defensive rebounding is securing the ball after the opponent misses — the act that officially ends their possession. It combines the box-out with reading the bounce, attacking the ball, and starting the break.",
     "Statistics are clear: teams that defensive-rebound well give up fewer points, because second-chance opportunities are the most efficient shots in basketball. It's a five-player job — not just the bigs. Guards who crash long rebounds swing games."
   ],
   "whyItMatters": [
     "A defensive possession without a rebound is wasted work. All the effort of forcing a miss evaporates when the offense gets the putback. Great defensive rebounding teams control tempo, limit easy points, and start more fast breaks — it's defense and offense in one skill."
-  ],
-  "vi": {
-    "coachingPoints": [
-      "Bắt bóng bật bảng bằng hai tay ở điểm cao nhất — tip một tay chỉ dành cho tình huống khẩn cấp",
-      "Ôm bóng vào cằm ngay khi giữ được nó — khuỷu tay mở, sẵn sàng xoay người",
-      "Tiếp đất ở trụ rộng, không hẹp — tiếp đất hẹp dễ bị gạt bóng",
-      "Chuyền outlet nhanh: những đợt fast break hay nhất bắt đầu 2 giây sau pha bắt bóng bật bảng",
-      "Giao tiếp: hô 'shot!' rồi 'ball!' để đồng đội biết kế hoạch"
-    ],
-    "commonMistakes": [
-      "Hạ bóng bắt được xuống thắt lưng — hậu vệ nhỏ con gạt bóng của những big làm vậy",
-      "Bắt bóng một tay khi đông người — bóng bị đánh bật ra",
-      "Đứng chôn chân nhìn — bắt bóng bật bảng thưởng cho người di chuyển trước",
-      "Chuyền outlet hời hợt — mất bóng ngay sau một pha bắt bóng tuyệt vời là thảm họa"
-    ],
-    "description": "Kết thúc mọi đợt phòng thủ: box out, tấn công quả bóng, và mở đợt phản công.",
-    "gameSituations": [
-      "Sau mọi cú ném hỏng khi bạn đang phòng thủ — cả năm người đều có việc",
-      "Ném phạt — hai vị trí phòng thủ phải giữ được bảng rổ",
-      "Trước những đội ném ba điểm nhiều — bóng bật xa cần hậu vệ lao vào tranh nữa"
-    ],
-    "howTo": [
-      {
-        "detail": "Khi bóng được ném lên, động tác đầu tiên của bạn là về phía người kèm, không phải quả bóng. Cả năm hậu vệ đều box out — kể cả hậu vệ ở vòng ngoài.",
-        "title": "Box out trước"
-      },
-      {
-        "detail": "Đọc quỹ đạo cú ném: ném ngắn bật xa, ném xa bật ngắn, và hầu hết cú hỏng bật ra phía đối diện vành rổ. Di chuyển đến nơi bóng sẽ tới.",
-        "title": "Đọc điểm bóng bật"
-      },
-      {
-        "detail": "Căn thời gian nhảy để đón bóng ở điểm cao nhất. Duỗi hết cỡ và tóm bóng bằng hai tay chắc — 'giật' nó khỏi không khí.",
-        "title": "Tấn công ở điểm cao nhất"
-      },
-      {
-        "detail": "Đưa bóng về cằm với khuỷu tay mở khi tiếp đất. Điều này bảo vệ bóng khỏi những hậu vệ cố gạt khi bạn đang rơi xuống.",
-        "title": "Ôm bóng vào cằm và tiếp đất rộng"
-      },
-      {
-        "detail": "Xoay người tránh áp lực và chuyền outlet gọn cho một hậu vệ — hoặc tự đẩy bóng lên. Đợt phản công bắt đầu từ quyết định của bạn.",
-        "title": "Outlet và chạy"
-      }
-    ],
-    "tags": [
-      "bắt bóng bật bảng",
-      "phòng thủ",
-      "box out",
-      "chuyển trạng thái"
-    ],
-    "title": "Bắt Bóng Bật Bảng Phòng Thủ",
-    "whatIsIt": [
-      "Bắt bóng bật bảng phòng thủ là giữ được bóng sau khi đối thủ ném hỏng — hành động chính thức kết thúc đợt tấn công của họ. Nó kết hợp box out với đọc điểm bóng bật, tấn công quả bóng và mở đợt phản công.",
-      "Số liệu rất rõ: những đội bắt bóng bật bảng phòng thủ tốt để thủng lưới ít hơn, vì những cơ hội second-chance là những cú ném hiệu quả nhất trong bóng rổ. Đây là việc của cả năm người — không chỉ các big. Hậu vệ lao vào tranh những pha bóng bật xa có thể xoay chuyển trận đấu."
-    ],
-    "whyItMatters": [
-      "Một đợt phòng thủ không có bắt bóng bật bảng là công sức đổ sông đổ biển. Mọi nỗ lực ép đối thủ ném hỏng tan biến khi họ có pha putback. Những đội bắt bóng bật bảng phòng thủ giỏi kiểm soát nhịp độ, hạn chế điểm dễ, và mở nhiều đợt fast break hơn — đó là phòng thủ và tấn công trong một kỹ năng."
-    ]
-  }
+  ]
 }

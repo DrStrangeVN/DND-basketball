@@ -71,55 +71,55 @@
   ],
   "dateUpdated": "2026-10-06",
   "vi": {
-    "title": "Vượt Ải Pivot",
-    "description": "Nối chuỗi front pivot và reverse pivot qua một hàng cọc tiêu trong khi bảo vệ bóng khỏi những tay với của hậu vệ.",
-    "goal": "Thực hiện các pha front pivot và reverse pivot gọn gàng quanh 5 cọc tiêu mà không travel, không lê chân pivot và không để lộ bóng.",
-    "setup": [
-      "Xếp 5 cọc tiêu thành hàng, cách nhau 3 feet (0,9m), bắt đầu từ đường biên cuối sân.",
-      "Đứng sau cọc đầu tiên với bóng ở tư thế triple-threat.",
-      "HLV hoặc đồng đội đứng cạnh cọc 2 và 4, giơ tay lên mô phỏng các pha với bóng.",
-      "Hoàn thành 3 lượt đi-về; mỗi lượt đổi chân pivot dẫn đầu."
-    ],
-    "instructions": [
-      {
-        "title": "Front pivot quanh cọc 1",
-        "detail": "Bước vòng qua cọc bằng front pivot, quét bóng thấp và sát, lướt qua đầu gối ra phía ngoài."
-      },
-      {
-        "title": "Reverse pivot ở cọc 2",
-        "detail": "Dậm chân và reverse-pivot xoay ra xa khỏi những tay với, giữ bóng ở hông ngoài."
-      },
-      {
-        "title": "Nối chuỗi cả hàng",
-        "detail": "Xen kẽ front pivot và reverse pivot ở mỗi cọc — không rê bóng, không nhích chân pivot."
-      },
-      {
-        "title": "Bảo vệ bóng mỗi lần xoay",
-        "detail": "Giật bóng lên ngang cằm ở mỗi pivot với khuỷu tay dang ra; nếu bị với mất bóng thì chạy lại lượt đó."
-      },
-      {
-        "title": "Kết thúc bằng một pha bóng",
-        "detail": "Qua cọc cuối cùng, đi một nhịp rê mạnh rồi jump stop ném pull-up 10 feet (3m)."
-      }
-    ],
     "coachingPoints": [
-      "Pivot bằng mũi bàn chân — pivot bằng cả bàn chân vừa chậm vừa dễ travel.",
+      "Pivot bằng mũi bàn chân — pivot bằng cả bàn chân vừa chậm vừa dễ chạy bước.",
       "Quét bóng thấp và sát người; quét rộng là mời đối phương cướp.",
-      "Mắt luôn ngẩng lên suốt đường cọc — pivot chỉ hiệu quả khi bạn quan sát được sân.",
+      "Mắt luôn ngẩng lên suốt đường cọc — pivot chỉ có tác dụng khi quan sát được cả sân.",
       "Thấp và rộng luôn thắng cao và hẹp ở mọi pha pivot."
     ],
     "commonMistakes": [
-      "Lê hoặc nhấc chân pivot — dậm chắc xuống và giữ nguyên đó.",
+      "Lê hoặc nhấc chân trụ — dậm chắc xuống và giữ nguyên tại chỗ.",
       "Vung bóng rộng khi quét — giữ bóng trong khung người.",
-      "Cúi nhìn cọc thay vì quan sát sân — mắt ngẩng lên, cảm nhận footwork bằng chân."
+      "Cúi nhìn cọc thay vì quan sát sân — mắt ngẩng lên, cảm nhận bộ chân bằng bàn chân."
     ],
-    "progression": "Thêm một hậu vệ thật được phép chọc bóng trong lúc pivot, hoặc chạy cả đường cọc ở tốc độ trận đấu với đồng hồ 20 giây.",
-    "regression": "Bỏ các tay với, giãn cọc ra 5 feet và đi bộ qua từng kiểu pivot riêng lẻ trước.",
-    "gameApplication": "Bắt bóng ở post hay bị trap ở cánh đều cần pivot để thoát — nối chuỗi pivot không travel giúp bạn tạo khoảng trống và quan sát sân dưới áp lực.",
-    "players": "1",
+    "description": "Nối chuỗi front pivot và reverse pivot qua hàng cọc tiêu trong khi che bóng khỏi những cánh tay với vào của hậu vệ.",
     "equipment": [
       "Bóng rổ",
       "Cọc tiêu"
-    ]
+    ],
+    "gameApplication": "Bắt bóng ở post hay bị trap ở cánh đều cần pivot để thoát — nối chuỗi pivot không lỗi chạy bước giúp tạo khoảng trống và quan sát sân dưới áp lực.",
+    "goal": "Thực hiện các pha front pivot và reverse pivot gọn gàng quanh 5 cọc tiêu — không lỗi chạy bước, không lê chân trụ, không để lộ bóng.",
+    "instructions": [
+      {
+        "detail": "Bước vòng qua cọc bằng front pivot, quét bóng thấp và sát người, lướt qua đầu gối ra phía ngoài.",
+        "title": "Front pivot quanh cọc 1"
+      },
+      {
+        "detail": "Dậm chân trụ rồi reverse pivot xoay ra xa những cánh tay đang với, giữ bóng ở hông ngoài.",
+        "title": "Reverse pivot ở cọc 2"
+      },
+      {
+        "detail": "Xen kẽ front pivot và reverse pivot ở mỗi cọc — không dẫn bóng, không nhích chân trụ.",
+        "title": "Nối chuỗi cả hàng"
+      },
+      {
+        "detail": "Giật bóng lên ngang cằm ở mỗi pha pivot, khuỷu tay dang ra; bị với mất bóng thì chạy lại lượt đó.",
+        "title": "Che bóng mỗi lần xoay"
+      },
+      {
+        "detail": "Qua cọc cuối, đi một nhịp dẫn mạnh rồi jump stop, pull-up từ 3m.",
+        "title": "Kết thúc bằng một pha tấn công"
+      }
+    ],
+    "players": "1",
+    "progression": "Thêm một hậu vệ thật được chọc bóng trong lúc pivot, hoặc chạy cả đường cọc ở tốc độ trận đấu với đồng hồ 20 giây.",
+    "regression": "Bỏ những cánh tay với vào, giãn cọc ra 1,5m và đi bộ từng kiểu pivot riêng trước.",
+    "setup": [
+      "Xếp 5 cọc tiêu thành một hàng, cách nhau 1m, bắt đầu từ đường biên cuối sân.",
+      "Đứng sau cọc đầu tiên, ôm bóng ở tư thế triple threat.",
+      "HLV hoặc đồng đội đứng cạnh cọc số 2 và số 4, giơ tay mô phỏng pha với bóng.",
+      "Chạy 3 lượt đi-về; mỗi lượt đổi chân trụ dẫn đầu."
+    ],
+    "title": "Vượt ải pivot"
   }
 }

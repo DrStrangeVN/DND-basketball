@@ -67,54 +67,54 @@
   "short-roll"
  ],
  "vi": {
-  "title": "Đánh Bại Phòng Thủ Drop",
-  "description": "Big man đang lùi sâu bảo vệ rổ — hãy ném pull-up, snake quay lại, hoặc chuyền pocket trước khi anh ta hồi.",
-  "whatIsIt": [
-   "Drop coverage là khi hậu vệ của người chắn lùi sâu về paint — thường quanh vạch ném phạt hoặc sâu hơn — để bảo vệ rổ và kèm người cầm bóng mà không commit. Nó nhường cú pull-up để lấy đi đường đột phá và lob.",
-   "Đánh bại nó là lấy những gì nó cho: cú ném tầm trung, snake dribble quay lại khoảng trống, và pocket pass khi big man tham. Drop là kiểu kèm PNR phổ biến nhất trong bóng rổ — mọi guard đều phải có đáp án."
-  ],
-  "whyItMatters": [
-   "Bạn sẽ gặp drop coverage nhiều hơn mọi kiểu thủ PNR khác. Guard không trừng phạt được drop sẽ bị một big man thủ保守 triệt cả bài pick-and-roll. Pull-up trước drop là kỹ năng cả sự nghiệp — không bao giờ lỗi thời và nó mở ra mọi thứ khác."
-  ],
-  "howTo": [
-   {
-    "title": "Ném pull-up",
-    "detail": "Vượt qua chắn và nhấc người ném trong khoảng trống mà drop nhường — thường 15–18 feet. Đặt chân khi vượt qua chắn; pull-up trôi người thường ném ngắn."
-   },
-   {
-    "title": "Snake khi họ điều chỉnh",
-    "detail": "Khi bạn đã ném vào hai pull-up, big man sẽ bước lên. Đó là tín hiệu để snake dẫn quay lại sau chắn và tấn công lại khoảng trống anh ta vừa bỏ."
-   },
-   {
-    "title": "Chuyền pocket sớm",
-    "detail": "Khi big man ở sâu và người kèm bạn chui dưới, pocket pass cho người roll đang trống ở khe tầm trung. Chuyền đúng giờ — khe đóng khi low man tag."
-   },
-   {
-    "title": "Giữ người roll trung thực",
-    "detail": "Xen kẽ ném và chuyền để big man không thể chỉ ngồi yên. Mối đe dọa pocket pass giữ cho pull-up trống, và ngược lại."
-   }
-  ],
-  "coachingPoints": [
-   "Pull-up trước drop phải thành bản năng — tập hàng ngày cả hai phía.",
-   "Dạy 'quy tắc hai nhịp': nếu bạn vẫn dẫn sau hai nhịp trước drop, bạn đã dẫn quá nhiều.",
-   "Người chắn nên roll đến khu vực nail trước, rồi lao xuống — short roll gây áp lực lên drop."
-  ],
-  "commonMistakes": [
-   "Đột phá hết vào big man đang drop thay vì ném cú trống.",
-   "Lob qua đầu big man drop đã ổn định — đó là pha bóng tủ của anh ta.",
-   "Snake mà không có mối đe dọa pull-up — big man cứ ở yên và chẳng có gì xảy ra."
-  ],
-  "gameSituations": [
-   "Trước mọi đội drop-coverage — kiểu mặc định ở hầu hết các giải.",
-   "Với guard ném pull-up tốt — dẫn big man vào chắn rồi nhấc ném.",
-   "Sau khi big man bắt đầu hedge để lấy đi cú ném của bạn — snake anh ta."
-  ],
-  "tags": [
-   "pick and roll",
-   "phòng thủ",
-   "pull-up"
-  ]
- },
+    "coachingPoints": [
+      "Pull-up trước drop phải thành bản năng — tập hàng ngày cả hai phía",
+      "Dạy “quy tắc hai nhịp”: vẫn dẫn sau hai nhịp trước drop là dẫn quá nhiều",
+      "Người dựng screen roll tới khu vực nail trước, rồi lao xuống — short roll gây sức ép lên drop"
+    ],
+    "commonMistakes": [
+      "Đột phá hết vào big đang drop thay vì ném cú trống",
+      "Lob qua đầu big drop đã vào vị trí — đó là pha bóng tủ của anh ta",
+      "Snake mà không có mối đe dọa pull-up — big cứ đứng yên, chẳng có gì xảy ra"
+    ],
+    "description": "Big đang lùi sâu bảo vệ rổ — ném pull-up, snake quay lại, hoặc chuyền pocket trước khi anh ta hồi.",
+    "gameSituations": [
+      "Đấu mọi đội drop coverage — kiểu mặc định ở hầu hết các giải",
+      "Có guard ném pull-up tốt — dẫn big vào screen rồi bật ném",
+      "Big bắt đầu hedge để lấy cú ném của bạn — snake anh ta"
+    ],
+    "howTo": [
+      {
+        "detail": "Vượt qua screen rồi bật lên ném trong khoảng trống drop nhường — thường 4,5–5,5m. Đặt chân khi vượt qua screen; pull-up trôi người thường ném ngắn.",
+        "title": "Ném pull-up"
+      },
+      {
+        "detail": "Ném vào hai pull-up, big sẽ bước lên. Đó là tín hiệu để snake dẫn quay lại sau screen, tấn công lại khoảng trống anh ta vừa bỏ.",
+        "title": "Snake khi họ điều chỉnh"
+      },
+      {
+        "detail": "Big ở sâu và người kèm bạn chui dưới, pocket pass cho người roll trống ở khe tầm trung. Chuyền đúng giờ — khe đóng khi người dưới tag vào.",
+        "title": "Chuyền pocket sớm"
+      },
+      {
+        "detail": "Xen kẽ ném và chuyền để big không thể chỉ đứng yên. Mối đe dọa pocket pass giữ cho pull-up trống, và ngược lại.",
+        "title": "Giữ người roll luôn đáng sợ"
+      }
+    ],
+    "tags": [
+      "pick and roll",
+      "drop coverage",
+      "pull-up"
+    ],
+    "title": "Đánh bại phòng thủ drop",
+    "whatIsIt": [
+      "Drop coverage là khi hậu vệ của người dựng screen lùi sâu về khu vực dưới rổ — thường quanh vạch ném phạt hoặc sâu hơn — để bảo vệ rổ và kèm người giữ bóng mà không dấn hẳn. Nó nhường cú pull-up để lấy đi đường đột phá và lob.",
+      "Đánh nó là lấy những gì nó cho: cú ném tầm trung, snake dribble quay lại khoảng trống, và pocket pass khi big tham. Drop là coverage PNR phổ biến nhất trong bóng rổ — guard nào cũng phải có đáp án."
+    ],
+    "whyItMatters": [
+      "Bạn sẽ gặp drop coverage nhiều hơn mọi hàng thủ PNR khác. Guard không trừng phạt được drop sẽ bị một big thủ chắc triệt cả bài pick-and-roll. Pull-up trước drop là kỹ năng cả sự nghiệp — không bao giờ lỗi thời, và nó mở ra mọi thứ khác."
+    ]
+  },
  "id": "pnr-vs-drop",
  "slug": "pnr-vs-drop",
  "dateUpdated": "2026-10-06"

@@ -109,68 +109,68 @@
     "layup"
   ],
   "title": "Euro Step",
+  "vi": {
+    "coachingPoints": [
+      "Bước một phải diễn thật — bước nửa vời không nhúc nhích được cầu thủ phòng thủ",
+      "Giữ bóng cao và gọn khi đẩy ngang; dẫn bóng thấp là bị cướp giữa động tác",
+      "Đáp bước hai giữ thăng bằng — nhiều người nhảy quá đà mất kiểm soát",
+      "Đọc hông cầu thủ phòng thủ: euro ngược hướng hông họ đang xoay",
+      "Hiệu quả nhất khi cầu thủ phòng thủ hơi trước mặt bạn, chưa kè kè bên cạnh"
+    ],
+    "commonMistakes": [
+      "Lỗi chạy bước — thêm bước ba hoặc nhịp nhảy giữa hai bước. Quay video buổi tập rồi đếm",
+      "Không diễn bước một — cầu thủ phòng thủ bỏ qua động tác giả yếu, bám hướng thật",
+      "Dứt điểm bẹt sau động tác ngang — bật lên và dùng bảng; đừng xúc ngang",
+      "Dùng trước cầu thủ phòng thủ đã đứng vững — euro đánh bại cầu thủ đang di chuyển; người đã đứng vững chỉ trượt theo bạn"
+    ],
+    "description": "Bước đổi hướng hai nhịp né cầu thủ phòng thủ ở rổ — hợp lệ, đánh lừa, và hủy diệt khi đúng thời điểm.",
+    "gameSituations": [
+      "Đột phá một-chọi-một khi cầu thủ hỗ trợ bước vào lane — euro vòng qua cú contest của họ",
+      "Dứt điểm phản công trước một cầu thủ phòng thủ đang lùi",
+      "Trước tay block nhảy sớm — lách qua cú block, dứt điểm phía bên kia"
+    ],
+    "howTo": [
+      {
+        "detail": "Đột phá về rổ ở khoảng 80% tốc độ. Euro cần khoảng giảm tốc — lao hết tốc độ thì bước hai không còn lực đẩy ngang.",
+        "title": "Tấn công ở tốc độ kiểm soát"
+      },
+      {
+        "detail": "Thu bóng và cắm bước một rộng, theo hướng ngược với hướng bạn định dứt điểm. Nếu cầu thủ phòng thủ ở bên phải, bước sang trái. Diễn bước này bằng vai và mắt.",
+        "title": "Thu bóng ở bước một (xa cầu thủ phòng thủ)"
+      },
+      {
+        "detail": "Từ chân đã cắm, bùng nổ sang ngang — không phải về trước — sang bước hai. Sải ngang dài là động cơ của động tác; đẩy càng rộng, khoảng cách tạo ra càng lớn.",
+        "title": "Đẩy ngang sang bước hai"
+      },
+      {
+        "detail": "Bật lên từ bước hai, vươn tay ném về rổ, dùng bảng khi cần. Giữ bóng cao, xa tầm với của cầu thủ phòng thủ đang hồi về.",
+        "title": "Vươn người dứt điểm"
+      },
+      {
+        "detail": "Đếm nhịp: thu bóng, bước một, bước hai, lên. Thêm một nhịp nhảy hay ngập ngừng là lỗi chạy bước. Tập nhịp chậm cho đến khi đếm hai bước thành tự động.",
+        "title": "Giữ trong hai bước"
+      }
+    ],
+    "tags": [
+      "dứt điểm",
+      "bộ chân",
+      "đột phá",
+      "layup"
+    ],
+    "title": "Kỹ thuật Euro step",
+    "whatIsIt": [
+      "Euro step là cú dứt điểm hai bước: người đột phá cắm bước một theo một hướng, rồi đẩy người sang ngang bằng bước hai để né cầu thủ phòng thủ ở rổ. Phổ biến từ bóng rổ châu Âu và được các hậu vệ NBA hoàn thiện, đây là pha đổi hướng hợp lệ trong luật thu bóng hai bước chuẩn.",
+      "Khác crossover, động tác diễn ra mà bóng không đổi tay — bộ chân làm nhiệm vụ đánh lừa. Cầu thủ phòng thủ lao theo bước một của bạn, và khi bạn đẩy sang bước hai, anh ta đang kèm khoảng trống."
+    ],
+    "whyItMatters": [
+      "Cầu thủ hỗ trợ đến rổ chờ một cú dứt điểm đường thẳng. Euro step khiến thời điểm của họ vô dụng: họ nhảy ở bước một thì bạn đã biến mất ở bước hai. Đây là một trong những cách hiệu quả nhất để có layup trống trước rotation đến đúng lúc."
+    ]
+  },
   "whatIsIt": [
     "The euro step is a two-step finish where the driver plants the first step in one direction, then pushes off laterally with the second step to evade a defender at the rim. Popularized in European basketball and mastered by NBA guards, it is a legal change of direction within the standard two-step gather rule.",
     "Unlike a crossover, the move happens without the ball changing hands — the footwork does the deceiving. The defender commits to your first step, and by the time you push to the second step, they're guarding empty space."
   ],
   "whyItMatters": [
     "Help defenders arrive at the rim expecting a straight-line finish. The euro step makes their timing useless: they jump at step one and you're already gone at step two. It's one of the most efficient ways to create an uncontested layup against an on-time rotation."
-  ],
-  "vi": {
-    "title": "Euro Step",
-    "description": "Bước đổi hướng hai nhịp vượt qua hậu vệ ở rổ — hợp lệ, đánh lừa, và cực kỳ hiệu quả khi đúng thời điểm.",
-    "whatIsIt": [
-      "Euro step là cú kết thúc hai bước: người đột phá đặt bước một theo một hướng, rồi bật ngang bằng bước hai để né hậu vệ ở rổ. Phổ biến từ bóng rổ châu Âu và được các hậu vệ NBA hoàn thiện, đây là một pha đổi hướng hợp lệ trong luật hai bước sau khi thu bóng.",
-      "Khác với crossover, động tác diễn ra mà bóng không đổi tay — chính bộ chân đánh lừa đối phương. Hậu vệ lao theo bước một của bạn, và đến khi bạn bật sang bước hai, họ chỉ còn đang kèm khoảng trống."
-    ],
-    "whyItMatters": [
-      "Hậu vệ hỗ trợ ập đến rổ với kỳ vọng bạn kết thúc thẳng. Euro step khiến thời điểm của họ trở nên vô dụng: họ nhảy ở bước một và bạn đã biến mất ở bước hai. Đây là một trong những cách hiệu quả nhất để tạo ra một cú layup hoàn toàn trống trải trước hàng thủ xoay sở kịp thời."
-    ],
-    "howTo": [
-      {
-        "title": "Tấn công với tốc độ vừa phải",
-        "detail": "Đột phá về phía rổ với khoảng 80% tốc độ. Euro cần khoảng trống để giảm tốc — đi hết tốc độ sẽ không còn đà bật ngang cho bước hai."
-      },
-      {
-        "title": "Thu bóng ở bước một (xa hậu vệ)",
-        "detail": "Thu bóng và đặt bước một thật rộng, theo hướng ngược với hướng bạn định kết thúc. Nếu hậu vệ ở bên phải, bước sang trái. Bán bước này bằng vai và ánh mắt."
-      },
-      {
-        "title": "Bật ngang sang bước hai",
-        "detail": "Từ chân trụ, bật mạnh sang ngang — không phải về phía trước — sang bước hai. Sải bước ngang dài này là động cơ của cả động tác; bật càng rộng, khoảng trống tạo ra càng lớn."
-      },
-      {
-        "title": "Duỗi tay và kết thúc",
-        "detail": "Bật lên từ bước hai và duỗi tay ném về phía rổ, dùng bảng rổ khi cần. Giữ bóng cao, xa tầm với của hậu vệ đang quay lại."
-      },
-      {
-        "title": "Giữ đúng hai bước",
-        "detail": "Đếm nhịp: thu bóng, bước một, bước hai, lên rổ. Bất kỳ cú nhảy thêm hay nhịp khựng nào cũng là bước. Tập nhịp này chậm rãi cho đến khi nhịp hai bước thành bản năng."
-      }
-    ],
-    "coachingPoints": [
-      "Bước một phải thực sự 'bán' được hướng đi — bước nửa vời không làm hậu vệ nhúc nhích.",
-      "Giữ bóng cao và sát người trong lúc bật ngang; dẫn bóng thấp sẽ bị cướp giữa chừng.",
-      "Tiếp đất bước hai với thăng bằng — nhiều cầu thủ bật quá đà và mất kiểm soát.",
-      "Đọc hông hậu vệ: euro theo hướng ngược với hướng hông họ đang xoay.",
-      "Nó hiệu quả nhất khi hậu vệ hơi ở trước mặt bạn, không phải khi họ đã kè bên cạnh."
-    ],
-    "commonMistakes": [
-      "Bước — thêm bước thứ ba hoặc một cú nhảy giữa hai bước. Quay video các lần tập và đếm.",
-      "Không bán được bước một — hậu vệ phớt lờ pha giả yếu và bám theo hướng thật.",
-      "Kết thúc quá bẹt sau pha di chuyển ngang — hãy bật lên và dùng bảng rổ; đừng ném ngang tay.",
-      "Dùng nó trước một hậu vệ đã đứng sẵn, bất động — euro đánh bại hậu vệ đang di chuyển; hậu vệ đứng sẵn chỉ việc trượt theo bạn."
-    ],
-    "gameSituations": [
-      "Đột phá một-chọi-một khi một hậu vệ hỗ trợ bước vào lane — euro vòng qua pha contest của họ.",
-      "Kết thúc fast break trước một hậu vệ duy nhất đang lùi về.",
-      "Trước những tay block nhảy sớm — bước ngang né cú block và kết thúc ở phía bên kia."
-    ],
-    "tags": [
-      "kết thúc",
-      "bộ chân",
-      "đột phá",
-      "layup"
-    ]
-  }
+  ]
 }

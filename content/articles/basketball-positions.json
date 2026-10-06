@@ -140,56 +140,49 @@
     "center"
   ],
   "title": "Basketball Positions",
-  "whatIsIt": [
-    "A basketball team fields five players, traditionally numbered 1 through 5. The point guard (1) runs the offense, the shooting guard (2) scores from the perimeter, the small forward (3) does a bit of everything, the power forward (4) plays inside and out, and the center (5) protects the rim and rebounds.",
-    "These roles are starting points, not cages. Modern basketball is increasingly 'positionless' — centers now shoot threes and point guards post up. Young players should learn the responsibilities of all five spots before specializing."
-  ],
-  "whyItMatters": [
-    "Positions organize a team. They tell each player where to stand, what to practice, and what decisions to make. When everyone understands all five roles, the team moves as a unit instead of five individuals — spacing improves, help defense arrives on time, and fast breaks run themselves."
-  ],
   "vi": {
     "coachingPoints": [
-      "Dạy vai trò qua trách nhiệm ('bạn bảo vệ khu vực hình thang') thay vì vị trí cố định trên sân",
+      "Dạy vai trò qua trách nhiệm ('bạn bảo vệ khu vực dưới rổ') thay vì điểm đứng cố định trên sân",
       "Xoay cầu thủ trẻ qua cả năm vị trí trong tập luyện và thi đấu",
-      "Xây dựng hậu vệ từ ngoài vào trong (dẫn bóng, ném rổ) và big man từ trong ra ngoài (bước chân, dứt điểm)",
+      "Xây dựng hậu vệ từ ngoài vào trong (dẫn bóng, ném rổ), big man từ trong ra ngoài (bộ chân, dứt điểm)",
       "Dùng hệ thống đánh số (1–5) để gọi bài và bài tập nhanh gọn"
     ],
     "commonMistakes": [
-      "Nhốt một cậu bé 12 tuổi cao lớn vào vị trí center và không bao giờ cho dribble hay ném",
-      "Nghĩ rằng point guard phải ghi nhiều điểm nhất — nhiệm vụ là làm đội bóng tốt hơn",
-      "Hậu vệ từ chối bắt bóng bật bảng và big man từ chối chạy phản công",
+      "Nhốt cậu bé 12 tuổi cao lớn vào center, không bao giờ cho dẫn bóng hay ném",
+      "Nghĩ point guard phải ghi nhiều điểm nhất — nhiệm vụ là làm đội bóng tốt hơn",
+      "Hậu vệ từ chối tranh bóng bật bảng, big man từ chối chạy phản công",
       "Đánh giá vị trí chỉ qua chiều cao thay vì kỹ năng và bản năng"
     ],
     "description": "Năm vị trí trong bóng rổ — point guard, shooting guard, small forward, power forward, center — và nhiệm vụ của từng vị trí.",
     "gameSituations": [
-      "Tấn công sân trước — số 1 khởi xướng, số 2 và 3 giãn ở cánh và góc, số 4 và 5 chắn và lăn vào",
-      "Chuyển trạng thái — các cánh chạy nước rút rộng ra, số 1 đẩy bóng lên, một big chạy thẳng vào khu vực hình thang",
-      "Phòng thủ khu vực — các vị trí chuyển thành các khu vực (đỉnh, cánh, góc, hình thang) thay vì kèm người",
-      "Cuối trận — bóng tìm đến người ra quyết định tốt nhất (thường là số 1) và tay ném tốt nhất cho cú ném cuối"
+      "Tấn công nửa sân — số 1 khởi xướng, số 2 và 3 giãn ở cánh và góc, số 4 và 5 screen rồi roll",
+      "Chuyển trạng thái — các cánh chạy nước rút rộng ra, số 1 đẩy bóng lên, một big rim-run vào khu vực dưới rổ",
+      "Phòng thủ zone — các vị trí chuyển thành khu vực (đỉnh, cánh, góc, dưới rổ) thay vì kèm người",
+      "Cuối trận — bóng tìm người ra quyết định tốt nhất (thường là số 1) và tay ném tốt nhất cho cú ném cuối"
     ],
     "howTo": [
       {
-        "detail": "Nhạc trưởng của đội. Dẫn bóng lên, gọi bài và tạo cơ hội cho đồng đội. Cần dẫn bóng đẳng cấp, tầm nhìn chuyền bóng và khả năng giữ bình tĩnh dưới áp lực.",
+        "detail": "Nhạc trưởng của đội. Dẫn bóng lên, gọi bài, tạo cơ hội cho đồng đội. Cần dẫn bóng đẳng cấp, nhãn quan chuyền bóng và khả năng giữ bình tĩnh dưới áp lực.",
         "title": "Hiểu point guard (1)"
       },
       {
-        "detail": "Tay ghi điểm chính ở vòng ngoài. Di chuyển không bóng, chạy qua các màn chắn, ném ba điểm và pull-up. Phải phòng thủ được hậu vệ đối phương ở đầu sân bên kia.",
+        "detail": "Tay ghi điểm chính ở vòng ngoài. Di chuyển không bóng, chạy qua các screen, ném ba điểm và pull-up. Đầu sân bên kia phải kèm được hậu vệ đối phương.",
         "title": "Hiểu shooting guard (2)"
       },
       {
-        "detail": "Cầu thủ đa năng nhất. Ghi điểm trong phản công, cắt vào rổ, kèm được nhiều vị trí và bắt bóng bật bảng. Các 'wing' hiện đại pha trộn kỹ năng của shooting guard với thể hình của forward.",
+        "detail": "Cầu thủ đa năng nhất. Ghi điểm trong phản công, cắt vào rổ, kèm được nhiều vị trí, tranh bóng bật bảng. Các 'wing' hiện đại pha trộn kỹ năng của shooting guard với thể hình của forward.",
         "title": "Hiểu small forward (3)"
       },
       {
-        "detail": "Chơi gần rổ nhưng ngày càng ném từ xa. Dựng màn chắn, bắt bóng bật bảng, dứt điểm trong và kèm các big. 'Stretch four' hiện đại giãn sân bằng khả năng ném ba điểm.",
+        "detail": "Chơi gần rổ nhưng ngày càng ném từ xa. Đặt screen, tranh bóng bật bảng, dứt điểm trong, kèm các big. 'Stretch four' hiện đại giãn đội hình bằng khả năng ném ba điểm.",
         "title": "Hiểu power forward (4)"
       },
       {
-        "detail": "Trụ cột của đội. Bảo vệ rổ khi phòng thủ, bắt bóng bật bảng cả hai đầu sân và ghi điểm gần rổ. Trong bóng rổ ngày nay, nhiều center còn chuyền từ high post và ném từ xa.",
+        "detail": "Trụ cột của đội. Bảo vệ rổ khi phòng thủ, tranh bóng bật bảng cả hai đầu sân, ghi điểm gần rổ. Bóng rổ ngày nay, nhiều center còn chuyền từ high post và ném từ xa.",
         "title": "Hiểu center (5)"
       },
       {
-        "detail": "Cho đến khoảng 14 tuổi, mọi cầu thủ đều nên cầm bóng, ném, bắt bóng bật bảng và phòng thủ. Chuyên môn hóa sớm làm thu hẹp lối chơi — đa năng là phẩm chất giá trị nhất mà cầu thủ trẻ có thể xây dựng.",
+        "detail": "Đến khoảng 14 tuổi, mọi cầu thủ đều nên cầm bóng, ném, tranh bóng bật bảng và phòng thủ. Chuyên môn hóa sớm làm thu hẹp lối chơi — đa năng là phẩm chất giá trị nhất cầu thủ trẻ có thể xây dựng.",
         "title": "Bắt đầu đa năng, chuyên sâu sau"
       }
     ],
@@ -199,15 +192,22 @@
       "sg",
       "sf",
       "pf",
-      "trung phong"
+      "center"
     ],
-    "title": "Các Vị Trí Trong Bóng Rổ",
+    "title": "Các vị trí trong bóng rổ",
     "whatIsIt": [
-      "Một đội bóng rổ ra sân với năm cầu thủ, theo truyền thống được đánh số từ 1 đến 5. Point guard (1) điều hành tấn công, shooting guard (2) ghi điểm từ vòng ngoài, small forward (3) làm một chút mọi thứ, power forward (4) chơi cả trong lẫn ngoài, và center (5) bảo vệ rổ và bắt bóng bật bảng.",
-      "Những vai trò này là điểm khởi đầu, không phải cái lồng. Bóng rổ hiện đại ngày càng 'positionless' — center giờ ném ba điểm và point guard đánh post. Cầu thủ trẻ nên học trách nhiệm của cả năm vị trí trước khi chuyên sâu."
+      "Một đội bóng rổ ra sân với năm cầu thủ, theo truyền thống đánh số từ 1 đến 5. Point guard (1) điều hành tấn công, shooting guard (2) ghi điểm từ vòng ngoài, small forward (3) làm một chút mọi thứ, power forward (4) chơi cả trong lẫn ngoài, và center (5) bảo vệ rổ, tranh bóng bật bảng.",
+      "Những vai trò này là điểm khởi đầu, không phải cái lồng. Bóng rổ hiện đại ngày càng 'positionless' — center giờ ném ba điểm, point guard đánh post. Cầu thủ trẻ nên học trách nhiệm của cả năm vị trí trước khi chuyên sâu."
     ],
     "whyItMatters": [
-      "Các vị trí tổ chức một đội bóng. Chúng cho mỗi cầu thủ biết đứng ở đâu, tập gì và ra quyết định thế nào. Khi mọi người hiểu cả năm vai trò, đội bóng di chuyển như một khối thay vì năm cá nhân — spacing cải thiện, hỗ trợ phòng thủ đến đúng lúc, và phản công tự vận hành."
+      "Các vị trí tổ chức một đội bóng. Chúng cho mỗi cầu thủ biết đứng ở đâu, tập gì, ra quyết định thế nào. Mọi người hiểu cả năm vai trò, đội bóng di chuyển như một khối thay vì năm cá nhân — giãn đội hình tốt hơn, help phòng thủ đến đúng lúc, phản công tự vận hành."
     ]
-  }
+  },
+  "whatIsIt": [
+    "A basketball team fields five players, traditionally numbered 1 through 5. The point guard (1) runs the offense, the shooting guard (2) scores from the perimeter, the small forward (3) does a bit of everything, the power forward (4) plays inside and out, and the center (5) protects the rim and rebounds.",
+    "These roles are starting points, not cages. Modern basketball is increasingly 'positionless' — centers now shoot threes and point guards post up. Young players should learn the responsibilities of all five spots before specializing."
+  ],
+  "whyItMatters": [
+    "Positions organize a team. They tell each player where to stand, what to practice, and what decisions to make. When everyone understands all five roles, the team moves as a unit instead of five individuals — spacing improves, help defense arrives on time, and fast breaks run themselves."
+  ]
 }

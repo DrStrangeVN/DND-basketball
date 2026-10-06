@@ -66,48 +66,48 @@
   ],
   "dateUpdated": "2026-10-06",
   "vi": {
-    "title": "Dứt Điểm Bằng Drop Step",
-    "description": "Món 'cơm' của big man: bắt bóng ở block, cảm nhận hậu vệ, drop-step ra baseline hoặc vào giữa rồi dứt điểm qua va chạm.",
-    "goal": "Làm chủ drop step cả hai hướng với pha dứt điểm mạnh mẽ, để một pha seal tốt thành hai điểm.",
-    "setup": [
-      "Big man bắt bóng ở block; đồng đội kèm nhẹ hoặc cầm đệm.",
-      "Luân phiên drop-step baseline và middle.",
-      "5 cú trúng mỗi hướng rồi đổi vai."
-    ],
-    "instructions": [
-      {
-        "title": "Drop step baseline",
-        "detail": "Bắt bóng, cảm nhận hậu vệ sau lưng, drop-step dọc baseline bằng chân baseline rồi bật mạnh dứt điểm."
-      },
-      {
-        "title": "Drop step middle",
-        "detail": "Vẫn pha bắt đó, drop-step vào giữa bằng chân middle, seal bằng vai rồi dứt điểm mạnh."
-      },
-      {
-        "title": "Drop step trước va chạm",
-        "detail": "Đồng đội húc đệm khi bạn drop — giữ thăng bằng hai chân và dứt điểm xuyên qua."
-      },
-      {
-        "title": "Biến thể khi bị chặn",
-        "detail": "Nếu hậu vệ chiếm chỗ trước, step-through sang phía bên kia thay vì cố ép."
-      }
-    ],
     "coachingPoints": [
       "Seal trước rồi mới bước — drop step chỉ hiệu quả khi có tiếp xúc sau lưng.",
-      "Giữ bóng cao và sát người; hạ bóng thấp là mời cướp.",
-      "Dứt điểm hai chân mạnh mẽ — đừng ngả người tránh va chạm mình vừa tạo ra."
+      "Giữ bóng cao và sát người; hạ bóng thấp là mời cướp bóng.",
+      "Dứt điểm mạnh bằng hai chân — đừng ngả người tránh va chạm mình vừa tạo ra."
     ],
     "commonMistakes": [
-      "Bước trước khi seal — sẽ bị bước lỗi hoặc đẩy văng.",
-      "Hạ bóng xuống ngang eo khi gom bóng."
+      "Bước trước khi seal — sẽ bị lỗi chạy bước hoặc bị đẩy văng.",
+      "Hạ bóng xuống ngang hông khi thu bóng."
     ],
-    "progression": "Chơi live 1v1 từ pha bắt bóng — ghi điểm hoặc bị chặn.",
-    "regression": "Tập footwork không bóng với tường.",
-    "gameApplication": "Vị trí post sâu là cú ném hiệu quả nhất trong bóng rổ — drop step là cách bạn tận dụng nó khi hàng thủ đã biết trước.",
-    "players": "2",
+    "description": "Món tủ của big man: bắt bóng ở block, cảm nhận cầu thủ phòng thủ, drop step ra baseline hoặc vào giữa rồi dứt điểm qua va chạm.",
     "equipment": [
       "Bóng rổ",
       "Đệm chắn (tùy chọn)"
-    ]
+    ],
+    "gameApplication": "Vị trí post sâu là cú ném hiệu quả nhất trong bóng rổ — drop step là cách bạn tận dụng nó khi hàng thủ đã biết trước.",
+    "goal": "Làm chủ drop step cả hai hướng với pha dứt điểm mạnh mẽ, biến một pha seal tốt thành hai điểm.",
+    "instructions": [
+      {
+        "detail": "Bắt bóng, cảm nhận cầu thủ phòng thủ sau lưng, drop step dọc baseline bằng chân baseline rồi bật mạnh dứt điểm.",
+        "title": "Drop step ra baseline"
+      },
+      {
+        "detail": "Cùng pha bắt bóng đó, drop step vào giữa bằng chân giữa, seal bằng vai rồi dứt điểm mạnh.",
+        "title": "Drop step vào giữa"
+      },
+      {
+        "detail": "Đồng đội húc đệm khi bạn drop — giữ thăng bằng trên hai chân và dứt điểm xuyên qua.",
+        "title": "Drop step trước va chạm"
+      },
+      {
+        "detail": "Nếu cầu thủ phòng thủ chiếm chỗ trước, bước xuyên (step-through) sang phía bên kia thay vì cố ép.",
+        "title": "Đổi hướng khi bị chặn"
+      }
+    ],
+    "players": "2",
+    "progression": "Chơi live 1 đấu 1 từ pha bắt bóng — ghi điểm hoặc bị chặn.",
+    "regression": "Tập bộ chân không bóng với tường.",
+    "setup": [
+      "Big man bắt bóng ở block; đồng đội kèm nhẹ hoặc cầm đệm.",
+      "Luân phiên drop step ra baseline và vào giữa.",
+      "5 lần ghi điểm mỗi hướng rồi đổi vai."
+    ],
+    "title": "Dứt điểm bằng drop step"
   }
 }

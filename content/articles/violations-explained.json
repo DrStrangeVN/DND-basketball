@@ -83,64 +83,64 @@
     "Violations are unforced turnovers — the cheapest way to lose a game. Beginners commit most of their turnovers through traveling and double dribble, not through great defense. Clean fundamentals eliminate these free possessions for the opponent and keep your offense flowing."
   ],
   "vi": {
-    "coachingPoints": [
-      "Tập bước chân 'một-hai' ở mọi pha bắt bóng để nhịp hai bước thành bản năng.",
-      "Dùng đồng hồ ném rổ hiển thị trong các trận tập để cầu thủ cảm nhận sức ép thời gian.",
-      "Dạy cầu thủ post chạm bóng, kiểm tra, và di chuyển thay vì cắm trại trong khu vực cấm.",
-      "Thổi lỗi vi phạm nghiêm trong buổi tập — thói quen hình thành trong tập luyện sẽ thể hiện trong trận đấu."
+    "title": "Giải thích các lỗi vi phạm",
+    "description": "Các lỗi vi phạm không phải lỗi cá nhân trong bóng rổ — lỗi chạy bước, lỗi dẫn bóng hai lần, lỗi đồng hồ 24 giây và lỗi 3 giây — và cách tránh chúng.",
+    "whatIsIt": [
+      "Lỗi vi phạm là lỗi luật không liên quan va chạm trái phép — khác lỗi cá nhân, không ai được ném phạt. Hình phạt chỉ là mất bóng: đội kia phát bóng biên. Lỗi vi phạm gồm xử lý bóng trái luật (chạy bước, dẫn bóng hai lần, ôm bóng), luật thời gian (đồng hồ 24 giây, 3 giây, 8 giây) và luật sân (ra biên, về sân nhà, cản bóng trên rổ).",
+      "Trọng tài ra hiệu mỗi lỗi vi phạm bằng động tác tay riêng — xoay hai nắm tay cho lỗi chạy bước, vỗ tay cho lỗi dẫn bóng hai lần — để cầu thủ và HLV thấy rõ lỗi gì vừa bị thổi. Lỗi vi phạm không bao giờ dính va chạm nên hoàn toàn tránh được: nó đến từ bộ chân, thời điểm và nhận thức — không phải vì đối thủ hay hơn."
     ],
-    "commonMistakes": [
-      "Bước thêm bước thứ ba sau khi bắt bóng lúc đang di chuyển.",
-      "Dừng dẫn bóng khi bị ép mà không có kế hoạch, rồi dẫn lại.",
-      "Ôm bóng khi làm động tác ngắt nhịp.",
-      "Đứng trong khu vực cấm chờ bóng thay vì di chuyển xuyên qua."
-    ],
-    "description": "Những lỗi vi phạm không phải lỗi cá nhân trong bóng rổ — lỗi bước, lỗi hai lần dẫn bóng, lỗi đồng hồ ném rổ và lỗi 3 giây — và cách tránh chúng.",
-    "gameSituations": [
-      "Bắt bóng lúc đang di chuyển — đáp một-hai rồi bật lên ném hoặc đột phá.",
-      "Đưa bóng vào post — big man lao ra nhận bóng, bắt bóng, và ra đòn nhanh trước ba giây.",
-      "Phá press — đưa bóng qua sân trước khi hết tám giây dưới sức ép toàn sân.",
-      "Cuống cuồng cuối đồng hồ — khi còn năm giây, hãy tấn công rổ hoặc tung cú ném thay vì mất bóng."
+    "whyItMatters": [
+      "Lỗi vi phạm là những pha mất bóng không bị ép — cách rẻ nhất để thua trận. Người mới chơi mất bóng phần lớn vì chạy bước và dẫn bóng hai lần, không phải vì hàng thủ hay. Nền tảng sạch loại bỏ những lượt bóng biếu không cho đối thủ và giữ hàng công trôi chảy."
     ],
     "howTo": [
       {
-        "detail": "Khi đã dừng dẫn bóng, hãy xác định chân trụ và giữ nó nguyên cho đến khi bạn chuyền, ném, hoặc dẫn bóng lại. Khi lên layup hoặc bắt bóng, bạn được hai bước — hãy đếm: 'một-hai' rồi lên.",
-        "title": "Tránh lỗi bước"
+        "title": "Tránh lỗi chạy bước",
+        "detail": "Dừng dẫn bóng thì xác định chân trụ, giữ nguyên cho đến khi chuyền, ném hoặc dẫn lại. Lên layup hoặc bắt bóng lúc di chuyển được hai bước — đếm 'một-hai' rồi lên."
       },
       {
-        "detail": "Bạn chỉ được bắt đầu và dừng dẫn bóng một lần. Sau khi ôm bóng bằng hai tay, bạn không được dẫn lại. Nếu bạn mất bóng khi chuyền hoặc làm rơi, đó không phải là dẫn bóng — nhưng nhặt lại và dẫn tiếp thì là lỗi.",
-        "title": "Tránh lỗi hai lần dẫn bóng"
+        "title": "Tránh lỗi dẫn bóng hai lần",
+        "detail": "Chỉ được bắt đầu và dừng dẫn bóng một lần. Ôm bóng hai tay rồi thì không được dẫn lại. Làm rơi bóng khi chuyền không tính là dẫn — nhưng nhặt lại rồi dẫn tiếp thì tính."
       },
       {
-        "detail": "Giữ bàn tay trên đỉnh bóng khi dẫn. Nếu tay bạn trượt xuống dưới và dừng hoặc nâng bóng, đó là lỗi ôm bóng. Hãy đập bóng xuống bằng đầu ngón tay thay vì xúc bóng.",
-        "title": "Tránh lỗi ôm bóng"
+        "title": "Tránh lỗi ôm bóng",
+        "detail": "Dẫn bóng thì tay đặt trên đỉnh bóng. Tay trượt xuống dưới, giữ hoặc nâng bóng là lỗi ôm bóng. Đập bóng bằng đầu ngón tay, đừng xúc bóng."
       },
       {
-        "detail": "Bóng phải rời tay trong một cú ném chạm vành (hoặc vào rổ) trước khi đồng hồ ném rổ hết — 24 giây theo luật FIBA/NBA. Cuối đồng hồ, hãy tấn công hoặc ném thay vì giữ bóng.",
-        "title": "Đánh bại đồng hồ ném rổ"
+        "title": "Đánh bại đồng hồ 24 giây",
+        "detail": "Bóng phải rời tay trong cú ném chạm vành (hoặc vào rổ) trước khi đồng hồ hết — 24 giây theo luật FIBA/NBA. Cuối đồng hồ thì tấn công hoặc ném, đừng giữ bóng."
       },
       {
-        "detail": "Cầu thủ tấn công không được ở trong khu vực cấm quá ba giây liên tiếp khi đội mình đang có bóng. Hãy chạy xuyên qua, vào post nhanh, hoặc bước ra và vào lại.",
-        "title": "Rời khu vực cấm trong ba giây"
+        "title": "Rời khu vực dưới rổ trong ba giây",
+        "detail": "Cầu thủ tấn công không được đứng trong khu vực dưới rổ quá ba giây liên tiếp khi đội mình có bóng. Chạy xuyên qua, vào post nhanh, hoặc bước ra rồi vào lại."
       },
       {
-        "detail": "FIBA yêu cầu bóng phải qua vạch giữa sân trong tám giây kể từ khi giành được quyền kiểm soát. Đưa bóng lên nhanh — đi bộ đưa bóng lên sẽ mời gọi sức ép và lỗi vi phạm.",
-        "title": "Qua nửa sân đúng giờ"
+        "title": "Qua nửa sân đúng giờ",
+        "detail": "Luật FIBA: bóng phải qua vạch giữa sân trong tám giây từ khi có bóng. Đưa bóng lên nhanh — đi bộ đưa bóng lên là mời sức ép và lỗi vi phạm."
       }
+    ],
+    "coachingPoints": [
+      "Tập bộ chân 'một-hai' ở mọi pha bắt bóng — nhịp hai bước thành bản năng.",
+      "Dùng đồng hồ 24 giây hiển thị trong đấu tập để cầu thủ cảm nhận sức ép thời gian.",
+      "Dạy cầu thủ post chạm bóng, kiểm tra rồi di chuyển — đừng cắm trại trong khu vực dưới rổ.",
+      "Thổi lỗi vi phạm nghiêm trong buổi tập. Thói quen tập sao, thi đấu vậy."
+    ],
+    "commonMistakes": [
+      "Bước thêm bước thứ ba sau khi bắt bóng lúc di chuyển.",
+      "Dừng dẫn bóng khi bị ép mà không có kế hoạch, rồi dẫn lại.",
+      "Ôm bóng ở động tác ngắt nhịp.",
+      "Đứng trong khu vực dưới rổ chờ bóng thay vì chạy xuyên qua."
+    ],
+    "gameSituations": [
+      "Bắt bóng lúc di chuyển — đáp một-hai rồi bật lên ném hoặc đột phá.",
+      "Đưa bóng vào post — big man ló ra nhận bóng, bắt bóng rồi ra đòn nhanh trước ba giây.",
+      "Phá press — đưa bóng qua sân trước khi hết tám giây dưới sức ép toàn sân.",
+      "Cuống cuối đồng hồ — còn năm giây thì tấn công rổ hoặc tung cú ném, đừng mất bóng."
     ],
     "tags": [
       "lỗi vi phạm",
-      "lỗi bước",
+      "lỗi chạy bước",
       "luật",
       "mất bóng"
-    ],
-    "title": "Giải thích các lỗi vi phạm",
-    "whatIsIt": [
-      "Lỗi vi phạm là một lỗi luật không liên quan đến va chạm trái phép — khác với lỗi cá nhân, không ai được ném phạt. Hình phạt chỉ đơn giản là mất quyền kiểm soát bóng: đội kia được phát bóng biên. Các lỗi vi phạm bao gồm xử lý bóng trái luật (lỗi bước, hai lần dẫn bóng, ôm bóng), luật thời gian (đồng hồ ném rổ, ba giây, tám giây), và luật sân (ra biên, về sân nhà, chặn bóng trên rổ).",
-      "Trọng tài ra hiệu mỗi lỗi vi phạm bằng một động tác tay cụ thể — xoay hai nắm tay cho lỗi bước, vỗ tay cho lỗi hai lần dẫn bóng — để cầu thủ và huấn luyện viên thấy rõ lỗi gì đã bị thổi. Vì lỗi vi phạm không bao giờ liên quan đến va chạm, chúng hoàn toàn có thể tránh được: chúng đến từ bước chân, thời điểm và nhận thức, không phải từ việc đối thủ thắng bạn."
-    ],
-    "whyItMatters": [
-      "Lỗi vi phạm là những pha mất bóng không bị ép — cách rẻ nhất để thua một trận đấu. Người mới chơi mắc phần lớn các pha mất bóng vì lỗi bước và hai lần dẫn bóng, không phải vì hàng thủ hay. Nền tảng cơ bản sạch sẽ loại bỏ những lượt bóng tặng không cho đối thủ và giữ cho hàng công của bạn trôi chảy."
     ]
   }
 }

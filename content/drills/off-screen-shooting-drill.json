@@ -64,48 +64,48 @@
   ],
   "dateUpdated": "2026-10-06",
   "vi": {
-    "title": "Ném Rổ Sau Screen",
-    "description": "Chạy qua pin-down và flare screen như dân chuyên: curl vào rổ, flare ra ném 3, hoặc fade ra wing — đọc hậu vệ mỗi lượt.",
-    "goal": "Luyện ba cách đọc sau down screen — curl, flare, fade — để trừng phạt hậu vệ dù họ đuổi theo kiểu nào.",
-    "setup": [
-      "Đặt ghế ở elbow làm người screen; người chuyền đứng ở wing với bóng.",
-      "Người ném bắt đầu dưới rổ.",
-      "Người chuyền hô cách đọc hoặc người ném tự đọc hậu vệ thật."
-    ],
-    "instructions": [
-      {
-        "title": "Curl",
-        "detail": "Chạy sát vai qua ghế, curl gọn vào rổ, bắt bóng dứt điểm hoặc pull-up."
-      },
-      {
-        "title": "Flare",
-        "detail": "Dừng sau screen rồi flare ra wing/góc để catch-and-shoot 3 điểm."
-      },
-      {
-        "title": "Fade",
-        "detail": "Trôi ra sau screen về phía wing khi hậu vệ chui dưới — bắt bóng sẵn sàng ném."
-      },
-      {
-        "title": "Đọc tình huống thật",
-        "detail": "Thêm hậu vệ đuổi theo; người ném phải chọn đúng một trong ba cách đọc dựa vào góc đuổi."
-      }
-    ],
     "coachingPoints": [
-      "Đánh lừa hậu vệ trước screen — đổi tốc độ để tới screen với khoảng trống.",
-      "Chạy qua screen thấp người và sát; chạy vòng rộng để hậu vệ kịp hồi.",
+      "Đánh lừa cầu thủ phòng thủ trước screen — đổi tốc độ để tới screen với khoảng trống.",
+      "Chạy qua screen thấp người và sát; chạy vòng rộng là để cầu thủ phòng thủ kịp hồi.",
       "Tay sẵn sàng, chân đặt vững khi bắt bóng — cửa sổ ném chỉ một giây."
     ],
     "commonMistakes": [
       "Chạy bài cùng một tốc độ — screen chỉ hiệu quả khi đổi nhịp.",
-      "Quyết định cách đọc trước khi nhìn hậu vệ."
+      "Quyết định cách đọc trước khi nhìn cầu thủ phòng thủ."
     ],
-    "progression": "Dùng người screen thật đổi góc, và hậu vệ đuổi thật.",
-    "regression": "Đi bộ qua từng đường chạy để học footwork trước khi tăng tốc.",
-    "gameApplication": "Xạ thủ đẳng cấp không cần cầm bóng để ghi điểm — làm chủ cách đọc screen biến bạn thành mối đe dọa liên tục khiến cả hàng thủ chao đảo.",
-    "players": "2+",
+    "description": "Chạy qua pin-down và flare screen như dân chuyên: curl vào rổ, flare ra ném 3, hoặc fade ra cánh — đọc cầu thủ phòng thủ mỗi lượt.",
     "equipment": [
       "Bóng rổ",
       "Ghế hoặc cọc tiêu (làm người screen)"
-    ]
+    ],
+    "gameApplication": "Xạ thủ đẳng cấp không cần cầm bóng để ghi điểm — làm chủ cách đọc screen biến bạn thành mối đe dọa liên tục khiến cả hàng thủ chao đảo.",
+    "goal": "Luyện ba cách đọc sau down screen — curl, flare, fade — để trừng phạt cầu thủ phòng thủ dù họ đuổi theo kiểu nào.",
+    "instructions": [
+      {
+        "detail": "Sprint sát vai qua ghế, curl gọn vào rổ, bắt bóng dứt điểm hoặc pull-up.",
+        "title": "Curl"
+      },
+      {
+        "detail": "Dừng sau screen rồi flare ra cánh/góc để bắt bóng ném ngay 3 điểm.",
+        "title": "Flare"
+      },
+      {
+        "detail": "Trôi ra sau screen về phía cánh khi cầu thủ phòng thủ chui dưới — bắt bóng sẵn sàng ném.",
+        "title": "Fade"
+      },
+      {
+        "detail": "Thêm cầu thủ phòng thủ đuổi theo; người ném phải chọn đúng một trong ba cách đọc dựa vào góc đuổi.",
+        "title": "Đọc tình huống thật"
+      }
+    ],
+    "players": "2+",
+    "progression": "Dùng người screen thật đổi góc, và cầu thủ phòng thủ đuổi thật.",
+    "regression": "Đi bộ qua từng đường chạy để học bộ chân trước khi tăng tốc.",
+    "setup": [
+      "Đặt ghế ở elbow làm người screen; người chuyền đứng ở cánh với bóng.",
+      "Người ném bắt đầu dưới rổ.",
+      "Người chuyền hô cách đọc, hoặc người ném tự đọc cầu thủ phòng thủ thật."
+    ],
+    "title": "Ném rổ sau screen (shooting off screens)"
   }
 }

@@ -72,69 +72,69 @@
     "coverage"
   ],
   "title": "Hedging Ball Screens",
+  "vi": {
+    "coachingPoints": [
+      "Hedge phải mạnh và phẳng — hedge mềm chẳng giúp được ai.",
+      "Big hedge hồi về bằng chạy nước rút, không phải chạy bộ — người roll là trách nhiệm của họ.",
+      "Hậu vệ phải luồn qua screen thật gọn để hồi về bóng.",
+      "Chỉ hedge với big di chuyển được; big chậm mà hedge là thành bài tập layup.",
+      "Dùng hedge như món đổi nhịp, không phải đánh cả trận — hàng công sẽ điều chỉnh."
+    ],
+    "commonMistakes": [
+      "Hedge mềm — người cầm bóng xé qua giữa, hàng thủ vỡ.",
+      "Big hedge xong chạy bộ về — người roll được dunk miễn phí.",
+      "Hedge mà không có trợ giúp phía yếu bóng phía sau — không ai tag thì không hồi được.",
+      "Hậu vệ không luồn qua được — hai người kèm bóng, không ai kèm người roll."
+    ],
+    "description": "Phòng thủ hedge trong ball screen: big lao ra chặn bóng thật mạnh rồi chạy nước rút về — nhịp điệu, góc độ và khả năng hồi vị trí.",
+    "gameSituations": [
+      "Gặp người cầm bóng quá hay, muốn lấy bóng khỏi tay họ.",
+      "Cuối đồng hồ 24 giây, cần phá nhịp tấn công của đối phương.",
+      "Món đổi nhịp gây rối đội ham pick and roll.",
+      "Khi big của đội đủ nhanh để show cao rồi hồi về."
+    ],
+    "howTo": [
+      {
+        "detail": "Khi người cầm bóng vòng qua screen, cầu thủ phòng thủ của người screen lao mạnh và cao — phía trên mặt screen — đứng vuông góc với người cầm bóng, chặn đứng đà của họ.",
+        "title": "Big lao mạnh ra bóng"
+      },
+      {
+        "detail": "Big hedge bám người cầm bóng một, hai nhịp dẫn, ép họ lùi lại hoặc nhấc bóng lên. Mục tiêu là gây rối, không phải cướp bóng.",
+        "title": "Giữ bóng trong hai nhịp"
+      },
+      {
+        "detail": "Trong lúc đó hậu vệ kèm bóng luồn qua hoặc vòng dưới screen để hồi về người cầm bóng. Hậu vệ về tới nơi là nhiệm vụ của big xong.",
+        "title": "Hậu vệ hồi về bóng"
+      },
+      {
+        "detail": "Ngay khi hậu vệ hồi về, big chạy nước rút về với người screen đang roll. Cú chạy về này là cả cách phòng thủ — big chạy bộ là dâng dunk.",
+        "title": "Chạy nước rút về người roll"
+      },
+      {
+        "detail": "Phía sau pha bóng, các cầu thủ phía yếu bóng vào rotation: một người tag người roll, những người còn lại sập vào khoảng trống. Hedge chỉ hiệu quả khi có ba người rotation phía sau.",
+        "title": "Phía yếu bóng rotation phía sau"
+      }
+    ],
+    "tags": [
+      "phòng thủ",
+      "hedge",
+      "pick and roll",
+      "chiến thuật"
+    ],
+    "title": "Phòng thủ hedge",
+    "whatIsIt": [
+      "Hedge là cách phòng thủ ball screen quyết liệt: cầu thủ phòng thủ của người screen lao mạnh ra người cầm bóng — 'show' cao phía trên screen — để chặn bóng, rồi chạy nước rút về với người screen đang roll. Đây là một pha double-team tạm thời nhằm phá nhịp pick and roll.",
+      "Hedge mua thời gian cho cầu thủ kèm bóng hồi về, đồng thời phá nhịp tấn công. Thành công thì người cầm bóng kẹt cách rổ gần 8m, không còn đường đi. Thất bại — hedge mềm, hồi về chậm — là dâng cho big đang roll cú dunk dễ nhất trận."
+    ],
+    "whyItMatters": [
+      "Hedge là lựa chọn khi cần lấy bóng khỏi tay một cầu thủ quá hay. Nó sinh ra để gây rối, có thể xoay chuyển đà trận đấu cân não. Nhưng nó đòi big di chuyển tốt, nhịp điệu hoàn hảo và ba đồng đội rotation phía sau — vì thế nó là vũ khí đổi nhịp, không phải món ăn hàng ngày."
+    ]
+  },
   "whatIsIt": [
     "A hedge is an aggressive ball screen coverage where the screener's defender jumps out hard on the ball handler — 'showing' high above the screen — to stop the ball, then sprints back to the rolling screener. It is a temporary double-team designed to disrupt the pick & roll's timing.",
     "The hedge buys the on-ball defender time to recover while blowing up the offense's rhythm. When it works, the ball handler is stuck 25 feet from the basket with nowhere to go. When it fails — a soft hedge, a slow recovery — it gives up the easiest dunk of the game to the rolling big."
   ],
   "whyItMatters": [
     "Hedging is the coverage you reach for when you need to take the ball out of a great player's hands. It is disruptive by design and can swing momentum in a close game. But it demands a mobile big, perfect timing, and three teammates rotating behind it — which is why it is a change-up weapon, not an every-possession diet."
-  ],
-  "vi": {
-    "title": "Hedge Chắn Bóng",
-    "description": "Hedge chắn bóng: big nhảy ra mạnh để chặn bóng, rồi chạy nước rút về — thời điểm, góc độ và cách quay về.",
-    "whatIsIt": [
-      "Hedge là cách kèm chắn bóng quyết liệt, trong đó hậu vệ của người chắn nhảy ra mạnh về phía người dẫn bóng — 'dâng' cao trên pha chắn — để chặn bóng, rồi chạy nước rút về người chắn đang lăn (roll). Đây là pha kèm đôi tạm thời nhằm phá nhịp của pick & roll.",
-      "Hedge giúp hậu vệ kèm bóng có thời gian quay về, đồng thời phá vỡ nhịp tấn công. Khi thành công, người dẫn bóng bị kẹt cách rổ 25 feet không lối thoát. Khi thất bại — hedge mềm, quay về chậm — nó dâng cho big đang roll cú dunk dễ nhất trận."
-    ],
-    "whyItMatters": [
-      "Hedge là cách kèm bạn dùng khi cần lấy bóng khỏi tay một cầu thủ giỏi. Nó sinh ra để gây rối loạn và có thể xoay chuyển đà trận đấu. Nhưng nó đòi hỏi một big cơ động, thời điểm hoàn hảo, và ba đồng đội luân chuyển phía sau — đó là lý do nó là vũ khí đổi nhịp, không phải món ăn mỗi lần tấn công."
-    ],
-    "howTo": [
-      {
-        "title": "Big nhảy ra mạnh về phía bóng",
-        "detail": "Khi người dẫn bóng ra khỏi pha chắn, hậu vệ của người chắn nhảy ra mạnh và cao — trên tầm của pha chắn — đứng vuông góc với người dẫn bóng và chặn đứng đà của anh ta."
-      },
-      {
-        "title": "Giữ bóng trong hai nhịp",
-        "detail": "Big hedge giữ người dẫn bóng trong một đến hai nhịp dẫn, ép anh ta lùi lại hoặc nhấc bóng lên. Mục tiêu là gây rối loạn, không phải cướp bóng."
-      },
-      {
-        "title": "Hậu vệ quay về kèm bóng",
-        "detail": "Trong lúc đó hậu vệ kèm bóng vượt qua hoặc chui dưới pha chắn và quay về người dẫn bóng. Ngay khi hậu vệ đã về tới bóng, nhiệm vụ của big xong."
-      },
-      {
-        "title": "Chạy nước rút về người roll",
-        "detail": "Ngay khi hậu vệ quay về, big chạy nước rút về người chắn đang roll. Pha chạy nước rút quay về này là toàn bộ cách kèm — big mà chạy bộ là dâng dunk."
-      },
-      {
-        "title": "Phía yếu luân chuyển sau hedge",
-        "detail": "Phía sau, các hậu vệ phía yếu luân chuyển: một người kèm (tag) người roll, những người khác lùi vào khoảng trống. Hedge chỉ hiệu quả khi có ba cầu thủ luân chuyển phía sau."
-      }
-    ],
-    "coachingPoints": [
-      "Hedge phải mạnh và phẳng — hedge mềm chẳng giúp được ai",
-      "Big hedge phải quay về bằng chạy nước rút, không phải chạy bộ — người roll là trách nhiệm của anh ta",
-      "Hậu vệ phải vượt qua pha chắn gọn gàng và quay về kèm bóng",
-      "Chỉ hedge với big cơ động; big chậm mà hedge là bài tập layup",
-      "Dùng hedge như đòn đổi nhịp, không phải món chính cả trận — đối thủ sẽ thích nghi"
-    ],
-    "commonMistakes": [
-      "Hedge mềm — người dẫn bóng lách qua giữa và hàng thủ vỡ",
-      "Big hedge xong chạy bộ về — người roll được dunk miễn phí",
-      "Hedge mà không có hỗ trợ phía yếu phía sau — không tag thì không quay về được",
-      "Hậu vệ không vượt qua được pha chắn — hai người kèm bóng mà không ai kèm người roll"
-    ],
-    "gameSituations": [
-      "Gặp người dẫn bóng giỏi mà bạn muốn lấy bóng khỏi tay anh ta",
-      "Cuối đồng hồ khi cần phá nhịp tấn công của đối thủ",
-      "Đòn đổi nhịp để gây rối đội chuyên pick & roll",
-      "Khi big của bạn đủ cơ động để dâng cao và quay về"
-    ],
-    "tags": [
-      "phòng thủ",
-      "hedge",
-      "pick and roll",
-      "cách kèm"
-    ]
-  }
+  ]
 }

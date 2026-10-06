@@ -148,69 +148,69 @@
     "coverage"
   ],
   "title": "Drop Coverage",
-  "whatIsIt": [
-    "Drop coverage is a pick & roll defense where the screener's defender sinks back toward the paint — 'drops' — while the on-ball defender fights over the screen and recovers. The big contains the ball handler's drive and protects the rim; the guard takes away the three and chases from behind.",
-    "It is the most common ball screen coverage in basketball because it is simple, it keeps the big near the basket, and it takes away the two most efficient shots: layups and open threes. What it gives up by design is the midrange pull-up — the shot analytics says is the least efficient in the game."
-  ],
-  "whyItMatters": [
-    "Drop coverage is the default answer to the pick & roll for a reason: it is easy to teach, hard to break down, and it forces the offense into the worst shot on the floor. But it is personnel-dependent — it dies against elite pull-up shooters. Understanding when drop works and when to abandon it is a core basketball IQ skill for every defender."
-  ],
   "vi": {
     "coachingPoints": [
-      "Big drop phải ở ngang mức màn chắn hoặc sâu hơn — đừng bao giờ bị kẹt ở giữa",
-      "Hậu vệ phải vượt qua màn chắn; một hậu vệ chết biến drop thành layup",
-      "Độ sâu của drop điều chỉnh theo tay ném: sâu hơn trước người đột phá, cao hơn trước mối đe dọa pull-up",
-      "Hậu vệ cánh yếu phải tag người lăn mọi lần",
-      "Drop là mặc định, không phải tín ngưỡng — hãy đổi khi nhân sự đòi hỏi"
+      "Cầu thủ big drop phải ngang tầm screen hoặc sâu hơn — không bao giờ kẹt ở giữa",
+      "Hậu vệ phải vượt qua screen; hậu vệ chết biến drop thành layup",
+      "Độ sâu drop điều chỉnh theo người ném: sâu hơn trước người đột phá, cao hơn trước mối đe dọa pull-up",
+      "Cầu thủ phòng thủ phía yếu phải tag người roll mọi lần",
+      "Drop là mặc định, không phải tôn giáo — đổi khi nhân sự đòi hỏi"
     ],
     "commonMistakes": [
-      "Drop trước một tay ném pull-up đẳng cấp — tặng những cú jumper trung bình trống cả trận",
-      "Big kẹt ở ngang mức màn chắn — không giữ được bóng cũng không bảo vệ được rổ",
-      "Hậu vệ vô tình chui dưới màn chắn, tặng một cú ba điểm đúng nhịp",
-      "Không tag người lăn — big drop xuống và người lăn dunk sau lưng anh ta"
+      "Drop trước tay ném pull-up đẳng cấp — nhường jumper tầm trung trống cả trận",
+      "Cầu thủ big kẹt ở tầm screen — vừa không giữ được bóng vừa không bảo vệ được rổ",
+      "Hậu vệ vô tình chui dưới screen, cho quả 3 điểm theo nhịp",
+      "Không tag người roll — cầu thủ big drop xuống và người roll úp rổ sau lưng"
     ],
-    "description": "Drop coverage: big lùi sâu, hậu vệ vượt qua — cách giữ người cầm bóng và tước đường vào rổ.",
+    "description": "Drop coverage: cầu thủ big lùi sâu, hậu vệ vượt qua screen — cách giữ người cầm bóng và bảo vệ rổ.",
     "gameSituations": [
-      "Trước một hậu vệ thích đột phá nhưng không ném pull-up ổn định",
-      "Khi big của bạn là người bảo vệ rổ nên ở gần rổ",
-      "Đầu trận như coverage mặc định trước khi điều chỉnh theo nhân sự",
-      "Trước những đội chạy nhiều pick & roll khi bạn muốn hạn chế cú ném ở rổ"
+      "Trước hậu vệ chuyên đột phá, không ném pull-up ổn định",
+      "Khi cầu thủ big của bạn chuyên bảo vệ rổ, nên ở gần rổ",
+      "Đầu trận dùng làm coverage mặc định trước khi điều chỉnh theo nhân sự",
+      "Trước đội đánh nhiều pick and roll, muốn hạn chế số lần dứt điểm ở rổ"
     ],
     "howTo": [
       {
-        "detail": "Khi màn chắn được dựng, hậu vệ của người chắn 'drop' — lùi về phía hình thang, thường tới khu vực nail hoặc đường ném phạt, đứng giữa người cầm bóng và rổ.",
-        "title": "Big drop xuống bảo vệ hình thang"
+        "detail": "Khi screen được đặt, cầu thủ phòng thủ của người screen ‘drop’ — lùi sâu về khu vực dưới rổ, thường đến vị trí nail hoặc quanh vạch ném phạt, đứng giữa người cầm bóng và rổ.",
+        "title": "Cầu thủ big drop bảo vệ khu vực dưới rổ"
       },
       {
-        "detail": "Hậu vệ kèm bóng vượt qua màn chắn và đuổi theo người cầm bóng từ phía sau. Nhiệm vụ của anh ta là lui về hông người cầm bóng và tước cú ba điểm.",
-        "title": "Hậu vệ vượt qua và lui về"
+        "detail": "Cầu thủ phòng thủ bóng vượt qua screen và đuổi người cầm bóng từ phía sau. Nhiệm vụ của anh ta là hồi về hông người cầm bóng và khóa quả 3 điểm.",
+        "title": "Hậu vệ vượt screen và hồi về"
       },
       {
-        "detail": "Big đang drop giữ pha đột phá của người cầm bóng, ép anh ta ra rộng hoặc vào một cú pull-up trung bình bị contest — cú ném mà coverage này được thiết kế để nhường.",
-        "title": "Giữ pha đột phá, nhường cú trung bình"
+        "detail": "Cầu thủ big đang drop giữ cú drive của người cầm bóng, ép anh ta ra biên hoặc vào pull-up tầm trung bị kèm — cú ném mà coverage này được thiết kế để nhường.",
+        "title": "Giữ cú drive, nhường tầm trung"
       },
       {
-        "detail": "Trong lúc big dâng lên giữ bóng, hậu vệ cánh yếu gần nhất 'tag' người lăn vào — va chạm và làm chậm pha lăn — cho đến khi big kịp lui về.",
-        "title": "Cánh yếu tag người lăn vào"
+        "detail": "Trong khi cầu thủ big dâng lên giữ bóng, cầu thủ phòng thủ phía yếu gần nhất ‘tag’ người screen đang roll — húc nhẹ và làm chậm cú roll — cho đến khi cầu thủ big kịp hồi.",
+        "title": "Phía yếu tag người roll"
       },
       {
-        "detail": "Một khi người cầm bóng nhấc bóng lên hoặc chuyền đi, big chạy nước rút về với người chắn và hậu vệ bám lại người cầm bóng. Coverage được reset.",
-        "title": "Lui về kèm người ban đầu"
+        "detail": "Khi người cầm bóng thu bóng hoặc chuyền đi, cầu thủ big chạy nước rút về với người screen và hậu vệ bám lại người cầm bóng. Coverage được reset.",
+        "title": "Hồi về kèm người ban đầu"
       }
     ],
     "tags": [
       "phòng thủ",
       "drop coverage",
       "pick and roll",
-      "phương án phòng thủ"
+      "chiến thuật"
     ],
-    "title": "Drop Coverage",
+    "title": "Phòng thủ drop coverage",
     "whatIsIt": [
-      "Drop coverage là cách phòng thủ pick & roll mà hậu vệ của người chắn lùi về phía hình thang — 'drop' — trong khi hậu vệ kèm bóng vượt qua màn chắn và lui về. Big giữ pha đột phá của người cầm bóng và bảo vệ rổ; hậu vệ tước cú ba điểm và đuổi theo từ phía sau.",
-      "Đây là coverage màn chắn bóng phổ biến nhất trong bóng rổ vì nó đơn giản, giữ big gần rổ, và tước hai cú ném hiệu quả nhất: layup và ba điểm trống. Cái nó nhường theo thiết kế là cú pull-up trung bình — cú ném mà phân tích cho là kém hiệu quả nhất trong bóng rổ."
+      "Drop coverage là kiểu phòng thủ pick and roll mà cầu thủ phòng thủ của người screen lùi sâu về khu vực dưới rổ — ‘drop’ — trong khi cầu thủ phòng thủ bóng vượt qua screen và hồi về. Cầu thủ big giữ cú drive của người cầm bóng và bảo vệ rổ; hậu vệ khóa quả 3 điểm và đuổi theo sau.",
+      "Đây là coverage screen phổ biến nhất trong bóng rổ vì nó đơn giản, giữ cầu thủ big gần rổ, và khóa hai cú ném hiệu quả nhất: layup và 3 điểm trống. Cái nó chủ động nhường là pull-up tầm trung — cú ném mà số liệu cho là kém hiệu quả nhất trận."
     ],
     "whyItMatters": [
-      "Drop coverage là đáp án mặc định cho pick & roll có lý do: dễ dạy, khó phá, và nó ép hàng công vào cú ném tệ nhất trên sân. Nhưng nó phụ thuộc vào nhân sự — nó chết trước những tay ném pull-up đẳng cấp. Hiểu khi nào drop hiệu quả và khi nào nên bỏ nó là một kỹ năng basketball IQ cốt lõi của mọi hậu vệ."
+      "Drop coverage là đáp án mặc định cho pick and roll có lý do: dễ dạy, khó bẻ gãy, và ép tấn công vào cú ném tệ nhất sân. Nhưng nó phụ thuộc nhân sự — chết trước những tay ném pull-up đẳng cấp. Biết khi nào drop hiệu quả và khi nào phải bỏ là kỹ năng IQ bóng rổ cốt lõi của mọi cầu thủ phòng thủ."
     ]
-  }
+  },
+  "whatIsIt": [
+    "Drop coverage is a pick & roll defense where the screener's defender sinks back toward the paint — 'drops' — while the on-ball defender fights over the screen and recovers. The big contains the ball handler's drive and protects the rim; the guard takes away the three and chases from behind.",
+    "It is the most common ball screen coverage in basketball because it is simple, it keeps the big near the basket, and it takes away the two most efficient shots: layups and open threes. What it gives up by design is the midrange pull-up — the shot analytics says is the least efficient in the game."
+  ],
+  "whyItMatters": [
+    "Drop coverage is the default answer to the pick & roll for a reason: it is easy to teach, hard to break down, and it forces the offense into the worst shot on the floor. But it is personnel-dependent — it dies against elite pull-up shooters. Understanding when drop works and when to abandon it is a core basketball IQ skill for every defender."
+  ]
 }

@@ -40,52 +40,52 @@
   "related": ["mikan-drill","euro-step-finishing","transition-two-on-one"],
   "dateUpdated": "2026-10-06",
   "vi":   {
-    "title": "Dứt Điểm Toàn Sân",
-    "description": "Đột phá rê bóng tốc độ tối đa từ giữa sân đến rổ, luân phiên dứt điểm bằng cả hai chân và hai tay ở nhịp độ trận đấu.",
-    "goal": "Rèn khả năng tấn công rổ ở tốc độ tối đa với những pha dứt điểm cân bằng, có kiểm soát bằng cả hai chân và hai tay.",
-    "setup": [
-      "Bắt đầu ở giữa sân với bóng, luân phiên tấn công từng bên sân.",
-      "Bản cơ bản không cần hậu vệ; có thể đặt cọc ở elbow làm 'hậu vệ' để đổi góc tấn công.",
-      "Để nước gần đó — bài này giữ nhịp tim bạn ở mức cao."
-    ],
-    "instructions": [
-      {
-        "title": "Layup tay phải tốc độ tối đa",
-        "detail": "Rê bóng hết sân ở 90% tốc độ và dứt điểm layup tay phải bật chân trái; tự bắt rebound và lặp lại từ bên kia."
-      },
-      {
-        "title": "Layup tay trái",
-        "detail": "Tấn công bên trái và dứt điểm tay trái bật chân phải — mỗi bên 5 lần ghi điểm."
-      },
-      {
-        "title": "Dứt điểm euro step",
-        "detail": "Tiếp cận khu vực paint ở tốc độ cao và dứt điểm bằng euro step, đổi hướng mỗi lượt — 5 lần ghi điểm."
-      },
-      {
-        "title": "Pro hop / dứt điểm 2 chân",
-        "detail": "Thu bóng bằng jump stop 2 chân và dứt điểm mạnh qua bảng — tưởng tượng có người block và bật thật mạnh."
-      },
-      {
-        "title": "Chốt bằng thể lực",
-        "detail": "Ghi 10 layup liên tiếp hết sân, luân phiên tay, không dừng — trượt vẫn tiếp tục đến khi đủ 10."
-      }
-    ],
     "coachingPoints": [
-      "Tấn công ở tốc độ cao — bài tập chỉ hiệu quả khi bạn mang tốc độ thật vào khu vực paint.",
+      "Tấn công ở tốc độ cao — bài này chỉ hiệu quả khi mang tốc độ thật vào khu vực dưới rổ.",
       "Che bóng bằng vai ngoài và cơ thể ở mọi pha đột phá.",
-      "Bật bằng chân trong ở những pha dứt điểm 1 chân; tiếp đất cân bằng, không ngả người.",
+      "Bật bằng chân trong ở những pha dứt điểm một chân; tiếp đất thăng bằng, không ngả người.",
       "Dùng bảng rổ ở những pha dứt điểm góc — bảng cao, chạm nhẹ."
     ],
     "commonMistakes": [
-      "Giảm tốc trước rổ — chậm lại ở rổ là mời block; giữ tốc độ đến lúc thu bóng.",
-      "Chỉ dứt điểm được một tay — tay yếu sẽ khiến bạn mất điểm trong trận."
+      "Giảm tốc trước rổ — chậm lại ở rổ là mời block; giữ tốc độ tới lúc thu bóng.",
+      "Chỉ dứt điểm được một tay — tay yếu khiến mất điểm trong trận."
     ],
-    "progression": "Thêm hậu vệ đuổi theo bắt đầu chậm một nhịp, thêm đệm block ở rổ, hoặc yêu cầu kiểu dứt điểm cụ thể được hô giữa lúc đột phá.",
-    "regression": "Chậm xuống 70% tốc độ, bắt đầu từ vạch 3 điểm thay vì giữa sân, hoặc dứt điểm đứng yên từ 2 nhịp rê.",
-    "gameApplication": "Những pha dứt điểm phản công và đột phá quyết định trận đấu — bài này xây dựng tốc độ, cảm giác bóng và khả năng dùng 2 tay để ghi điểm ở rổ khi hàng thủ đang rối loạn.",
-    "players": "1",
+    "description": "Đột phá tốc độ tối đa từ giữa sân tới rổ, luân phiên dứt điểm bằng cả hai chân và hai tay ở nhịp độ trận đấu.",
     "equipment": [
       "Bóng rổ"
-    ]
+    ],
+    "gameApplication": "Những pha dứt điểm phản công và đột phá quyết định trận đấu — bài này xây dựng tốc độ, cảm giác bóng và khả năng dùng hai tay để ghi điểm ở rổ khi hàng thủ đang rối.",
+    "goal": "Rèn tấn công rổ ở tốc độ tối đa với những pha dứt điểm cân bằng, kiểm soát tốt bằng cả hai chân và hai tay.",
+    "instructions": [
+      {
+        "detail": "Rê bóng hết sân ở 90% tốc độ, dứt điểm layup tay phải bật chân trái; tự bắt rebound và lặp lại từ bên kia.",
+        "title": "Layup tay phải tốc độ tối đa"
+      },
+      {
+        "detail": "Tấn công bên trái, dứt điểm tay trái bật chân phải — mỗi bên 5 lần ghi điểm.",
+        "title": "Layup tay trái"
+      },
+      {
+        "detail": "Tiếp cận khu vực dưới rổ ở tốc độ cao, dứt điểm bằng Euro step, đổi hướng mỗi lượt — 5 lần ghi điểm.",
+        "title": "Dứt điểm Euro step"
+      },
+      {
+        "detail": "Thu bóng bằng jump stop hai chân rồi dứt điểm mạnh qua bảng — tưởng tượng có người block, bật thật mạnh.",
+        "title": "Pro hop / dứt điểm hai chân"
+      },
+      {
+        "detail": "Ghi 10 layup liên tiếp hết sân, luân phiên tay, không dừng — trượt vẫn tiếp tục tới khi đủ 10.",
+        "title": "Chốt bằng thể lực"
+      }
+    ],
+    "players": "1",
+    "progression": "Thêm hậu vệ đuổi theo bắt đầu chậm một nhịp, thêm đệm block ở rổ, hoặc yêu cầu kiểu dứt điểm cụ thể được hô giữa lúc đột phá.",
+    "regression": "Chậm xuống 70% tốc độ, bắt đầu từ vạch 3 điểm thay vì giữa sân, hoặc dứt điểm đứng yên từ hai nhịp rê.",
+    "setup": [
+      "Bắt đầu ở giữa sân với bóng, luân phiên tấn công từng bên sân.",
+      "Bản cơ bản không cần hậu vệ; đặt một cọc tiêu ở vị trí elbow làm 'hậu vệ' để đổi góc tấn công nếu muốn.",
+      "Để nước gần đó — bài này giữ nhịp tim ở mức cao."
+    ],
+    "title": "Dứt điểm tốc độ toàn sân (full-court finishing)"
   }
 }

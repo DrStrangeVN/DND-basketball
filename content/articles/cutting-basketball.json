@@ -1,11 +1,4 @@
 {
-  "id": "cutting-basketball",
-  "slug": "cutting-basketball",
-  "title": "Cutting",
-  "description": "Hard, purposeful off-ball movement — basket cuts, backdoor cuts, and V-cuts that break down defenses.",
-  "hub": "offense",
-  "subcategory": "team-offense",
-  "level": "beginner",
   "ages": [
     "U10",
     "U12",
@@ -13,46 +6,6 @@
     "U16",
     "U18",
     "Adult"
-  ],
-  "positions": [
-    "ALL"
-  ],
-  "tags": [
-    "cutting",
-    "off-ball",
-    "movement",
-    "fundamentals"
-  ],
-  "readTime": 5,
-  "whatIsIt": [
-    "Cutting is moving without the ball to get open or to create an opening for a teammate. The main types are the basket cut (straight to the rim), the backdoor cut (behind an overplaying defender), the V-cut (out then back in), and the shallow cut (across the perimeter to exchange spots).",
-    "Great cutters are always a threat. Defenders have to watch them, which stretches the defense and opens driving lanes and passing angles for everyone else.",
-    "Cutting is one of the first team concepts young players should learn, because it teaches the core habit of playing without the ball — where most of basketball actually happens."
-  ],
-  "whyItMatters": [
-    "You only have the ball a few minutes per game; you play without it the rest of the time. Players who cut hard get easy baskets, draw help that frees teammates, and make any offense — motion, 5-out, or set plays — actually work."
-  ],
-  "howTo": [
-    {
-      "title": "Set up your defender first",
-      "detail": "Take your defender one way — toward the ball or away from it — then explode the opposite way. Cuts without a setup step are easy to follow."
-    },
-    {
-      "title": "Cut hard and change pace",
-      "detail": "Walk the defender to sleep, then sprint. The speed change is what creates the separation, not the route."
-    },
-    {
-      "title": "Cut to score, not to move",
-      "detail": "Every cut should look like it could end in a layup. Cuts that threaten the rim force the defense to react."
-    },
-    {
-      "title": "Show a target hand",
-      "detail": "As you cut into open space, show the passer a hand. It gives them a clear window and speeds up the pass."
-    },
-    {
-      "title": "Clear through if you're not open",
-      "detail": "If the pass doesn't come, cut all the way through to the other side and fill a spot. Half-cuts clog the lane for the next action."
-    }
   ],
   "coachingPoints": [
     "Demand full-speed cuts in practice — jogging in drills becomes jogging in games.",
@@ -65,72 +18,119 @@
     "Cutting directly into a teammate's driving lane or another cutter's path.",
     "Stopping mid-cut when the ball doesn't arrive immediately, clogging the paint."
   ],
+  "dateUpdated": "2026-10-06",
+  "description": "Hard, purposeful off-ball movement — basket cuts, backdoor cuts, and V-cuts that break down defenses.",
   "gameSituations": [
     "Against defenders who overplay passing lanes or deny the wing.",
     "When the ball is in the post — cut off the post player's eyes.",
     "In motion offense, as the automatic movement after every pass."
   ],
+  "howTo": [
+    {
+      "detail": "Take your defender one way — toward the ball or away from it — then explode the opposite way. Cuts without a setup step are easy to follow.",
+      "title": "Set up your defender first"
+    },
+    {
+      "detail": "Walk the defender to sleep, then sprint. The speed change is what creates the separation, not the route.",
+      "title": "Cut hard and change pace"
+    },
+    {
+      "detail": "Every cut should look like it could end in a layup. Cuts that threaten the rim force the defense to react.",
+      "title": "Cut to score, not to move"
+    },
+    {
+      "detail": "As you cut into open space, show the passer a hand. It gives them a clear window and speeds up the pass.",
+      "title": "Show a target hand"
+    },
+    {
+      "detail": "If the pass doesn't come, cut all the way through to the other side and fill a spot. Half-cuts clog the lane for the next action.",
+      "title": "Clear through if you're not open"
+    }
+  ],
+  "hub": "offense",
+  "id": "cutting-basketball",
+  "level": "beginner",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 5,
   "related": [
     "screening-basketball",
     "motion-offense",
     "iverson-cut",
     "ucla-cut"
   ],
-  "dateUpdated": "2026-10-06",
+  "slug": "cutting-basketball",
+  "subcategory": "team-offense",
+  "tags": [
+    "cutting",
+    "off-ball",
+    "movement",
+    "fundamentals"
+  ],
+  "title": "Cutting",
   "vi": {
     "coachingPoints": [
-      "Đòi hỏi những pha cắt hết tốc lực trong buổi tập — chạy bộ trong bài tập sẽ thành chạy bộ trong trận đấu",
-      "Dạy người cắt đọc mắt hậu vệ: nếu hậu vệ nhìn bóng, hãy cắt backdoor",
-      "Căn thời gian pha cắt theo nhịp của người chuyền; cắt sớm đến trước khi người chuyền sẵn sàng",
-      "Khen những pha cắt mạnh ngay cả khi bóng không tới — thói quen quan trọng hơn rổ bóng"
+      "Đòi cắt hết tốc ở buổi tập — chạy lững thững ở bài tập thành chạy lững thững ở trận đấu.",
+      "Dạy người cắt đọc mắt đối thủ: đối thủ nhìn bóng thì cắt backdoor.",
+      "Canh nhịp cắt theo nhịp người chuyền; cắt sớm tới trước khi người chuyền sẵn sàng.",
+      "Khen pha cắt mạnh ngay cả khi không có bóng tới — thói quen quan trọng hơn rổ."
     ],
     "commonMistakes": [
-      "Cắt với nửa tốc độ, để hậu vệ kịp lui về mà không cần hỗ trợ",
-      "Cắt thẳng vào đường đột phá của đồng đội hoặc đường cắt của người khác",
-      "Dừng giữa pha cắt khi bóng không tới ngay, làm tắc khu vực hình thang"
+      "Cắt nửa tốc độ, để đối thủ hồi mà không cần hỗ trợ.",
+      "Cắt thẳng vào đường dẫn của đồng đội hoặc đường cắt của người khác.",
+      "Dừng giữa chừng khi bóng không tới ngay, làm tắc khu vực dưới rổ."
     ],
-    "description": "Di chuyển không bóng mạnh mẽ, có mục đích — cắt rổ, cắt backdoor và V-cut phá vỡ hàng thủ.",
+    "description": "Di chuyển không bóng mạnh mẽ, có mục đích — cắt vào rổ, cắt backdoor, và cắt chữ V bẻ gãy hàng thủ.",
     "gameSituations": [
-      "Trước những hậu vệ đeo đường chuyền quá sát hoặc deny ở cánh",
-      "Khi bóng ở trong post — cắt theo tầm mắt của người đánh post",
-      "Trong motion offense, như chuyển động tự động sau mỗi đường chuyền"
+      "Trước đối thủ bám quá sát đường chuyền hoặc chặn cánh.",
+      "Khi bóng ở post — cắt theo tầm nhìn của người đánh post.",
+      "Trong tấn công motion, như di chuyển tự động sau mỗi đường chuyền."
     ],
     "howTo": [
       {
-        "detail": "Đưa hậu vệ đi một hướng — về phía bóng hoặc ra xa bóng — rồi bùng nổ hướng ngược lại. Những pha cắt không có bước nhử rất dễ bị theo.",
-        "title": "Nhử hậu vệ trước"
+        "detail": "Đưa đối thủ đi một hướng — về phía bóng hoặc ra xa — rồi bung ngược lại. Cắt không có nhịp gài dễ bị bám theo.",
+        "title": "Gài đối thủ trước"
       },
       {
-        "detail": "Đi bộ ru ngủ hậu vệ, rồi chạy nước rút. Sự đổi tốc mới tạo ra khoảng cách, không phải đường chạy.",
-        "title": "Cắt mạnh và đổi tốc"
+        "detail": "Đi bộ ru đối thủ ngủ, rồi chạy nước rút. Đổi tốc độ mới tạo ra khoảng cách, không phải đường chạy.",
+        "title": "Cắt mạnh và đổi nhịp"
       },
       {
-        "detail": "Mọi pha cắt nên trông như có thể kết thúc bằng layup. Những pha cắt đe dọa rổ buộc hàng thủ phải phản ứng.",
+        "detail": "Mỗi pha cắt phải trông như có thể kết thúc bằng layup. Pha cắt đe doạ rổ buộc hàng thủ phải phản ứng.",
         "title": "Cắt để ghi điểm, không phải để di chuyển"
       },
       {
-        "detail": "Khi cắt vào khoảng trống, giơ tay cho người chuyền thấy. Nó tạo một cửa sổ rõ ràng và giúp đường chuyền nhanh hơn.",
+        "detail": "Khi cắt vào khoảng trống, giơ tay cho người chuyền thấy. Cho họ cửa chuyền rõ ràng và tăng tốc đường chuyền.",
         "title": "Giơ tay làm mục tiêu"
       },
       {
-        "detail": "Nếu bóng không tới, hãy cắt xuyên hẳn sang phía bên kia và lấp vào một vị trí. Cắt nửa vời làm tắc lane cho bài đánh tiếp theo.",
-        "title": "Cắt xuyên qua nếu không trống"
+        "detail": "Không có bóng tới, cắt xuyên hẳn sang bên kia và lấp vị trí. Cắt nửa vời làm tắc lane cho pha tiếp theo.",
+        "title": "Không trống thì cắt xuyên qua"
       }
     ],
     "tags": [
       "cắt bóng",
       "không bóng",
-      "di chuyển",
+      "tấn công",
       "kỹ thuật cơ bản"
     ],
-    "title": "Cắt Bóng",
+    "title": "Kỹ thuật cắt (cutting)",
     "whatIsIt": [
-      "Cắt bóng là di chuyển không bóng để thoát kèm hoặc tạo khoảng trống cho đồng đội. Các loại chính là cắt rổ (thẳng vào rổ), cắt backdoor (sau lưng hậu vệ đeo sát), V-cut (ra rồi quay vào), và shallow cut (ngang vòng ngoài để đổi vị trí).",
-      "Những người cắt giỏi luôn là mối đe dọa. Hậu vệ phải để mắt tới họ, điều này kéo giãn hàng thủ và mở đường đột phá, góc chuyền cho mọi người khác.",
-      "Cắt bóng là một trong những khái niệm đồng đội đầu tiên cầu thủ trẻ nên học, vì nó dạy thói quen cốt lõi là chơi không bóng — nơi diễn ra phần lớn bóng rổ thực sự."
+      "Cắt là di chuyển không bóng để thoát kèm hoặc tạo khoảng trống cho đồng đội. Các kiểu chính: cắt vào rổ (thẳng tới rổ), cắt backdoor (sau lưng đối thủ bám quá sát), cắt chữ V (ra rồi vào lại), và cắt ngang (qua vòng ngoài để đổi vị trí).",
+      "Người cắt giỏi luôn là mối đe doạ. Đối thủ phải để mắt tới họ, kéo giãn hàng thủ, mở đường dẫn và góc chuyền cho mọi người khác.",
+      "Cắt là một trong những khái niệm đồng đội đầu tiên cầu thủ trẻ nên học, vì nó dạy thói quen cốt lõi của chơi không bóng — nơi phần lớn bóng rổ thực sự diễn ra."
     ],
     "whyItMatters": [
-      "Bạn chỉ giữ bóng vài phút mỗi trận; thời gian còn lại bạn chơi không bóng. Cầu thủ cắt mạnh có những cú ném dễ, kéo sự hỗ trợ giải phóng đồng đội, và khiến mọi hệ thống tấn công — motion, 5-out hay bài đánh cố định — thực sự vận hành."
+      "Bạn chỉ cầm bóng vài phút mỗi trận; thời gian còn lại bạn chơi không bóng. Cầu thủ cắt mạnh có rổ dễ, hút người hỗ trợ giải phóng đồng đội, và khiến mọi hàng công — motion, 5-out, hay bài đánh sẵn — thực sự vận hành."
     ]
-  }
+  },
+  "whatIsIt": [
+    "Cutting is moving without the ball to get open or to create an opening for a teammate. The main types are the basket cut (straight to the rim), the backdoor cut (behind an overplaying defender), the V-cut (out then back in), and the shallow cut (across the perimeter to exchange spots).",
+    "Great cutters are always a threat. Defenders have to watch them, which stretches the defense and opens driving lanes and passing angles for everyone else.",
+    "Cutting is one of the first team concepts young players should learn, because it teaches the core habit of playing without the ball — where most of basketball actually happens."
+  ],
+  "whyItMatters": [
+    "You only have the ball a few minutes per game; you play without it the rest of the time. Players who cut hard get easy baskets, draw help that frees teammates, and make any offense — motion, 5-out, or set plays — actually work."
+  ]
 }

@@ -67,53 +67,53 @@
   "post-positioning"
  ],
  "vi": {
-  "title": "Chắn Veer",
-  "description": "Người chắn đảo ngược về phía bóng sau khi chắn — seal hậu vệ của mình để duck-in nhanh hoặc dựng lại chắn.",
-  "whatIsIt": [
-   "Veer screen xảy ra khi người chắn, thay vì roll vào rổ sau chắn bóng, đảo ngược về phía bóng — cắt sau lưng hậu vệ của người cầm bóng để seal anh ta. Đó là đòn phản cho hàng thủ cố chen qua hoặc chui dưới chắn: veer biến sự hung hăng của họ thành một pha seal.",
-   "Bài đánh thường kết thúc bằng một pha duck-in nhanh trước rổ hoặc một tấm chắn dựng lại ngay. Vì veer diễn ra ở phía bóng, đường chuyền ngắn và pha kết thúc nhanh — nó trừng phạt đúng khoảnh khắc hàng thủ over-commit."
-  ],
-  "whyItMatters": [
-   "Hàng thủ cố chen qua chắn hung hăng để lộ veer mọi lần. Dạy big man veer thay vì roll vào đám đông cho PNR của bạn một đòn phản tích hợp không cần gọi bài mới — chỉ cần đọc tình huống. Đó là một trong những điều chỉnh hiệu quả nhất mà một hệ thống pick-and-roll có thể thêm."
-  ],
-  "howTo": [
-   {
-    "title": "Cảm nhận pha jam",
-    "detail": "Khi bạn dựng chắn, hãy cảm nhận hậu vệ cố chen qua hoặc hậu vệ của đồng đội chui dưới sớm. Áp lực đó là tín hiệu — đừng roll vào nó, hãy veer ra."
-   },
-   {
-    "title": "Veer về phía bóng",
-    "detail": "Trụ chân ngoài và cắt ngược về phía người cầm bóng, seal hậu vệ vừa cố chen qua. Cơ thể bạn thành bức tường giữa anh ta và rổ."
-   },
-   {
-    "title": "Duck-in nhận bóng",
-    "detail": "Sau seal, lặn vào lane với tay sẵn sàng. Người cầm bóng ném đường chuyền dẫn nhanh — bạn bắt bóng cách rổ 6 feet với đối thủ bị seal sau lưng."
-   },
-   {
-    "title": "Dựng lại nếu không có gì",
-    "detail": "Nếu hàng thủ xoay và duck-in bị bắt, trụ lại và dựng chắn thứ hai cho người cầm bóng. Chuỗi veer-rồi-dựng-lại phá cả hàng thủ đã ổn định."
-   }
-  ],
-  "coachingPoints": [
-   "Veer là phản ứng với áp lực phòng thủ, không phải bài gọi trước — hãy drill pha đọc.",
-   "Seal bằng mông và trụ rộng; với tay là lỗi tấn công.",
-   "Người cầm bóng: chuyền veer sớm, trước khi seal bị front."
-  ],
-  "commonMistakes": [
-   "Veer khi hàng thủ kèm thẳng — giờ bạn vừa bỏ một pha roll tốt mà chẳng được gì.",
-   "Veer quá sâu về baseline, nơi help có thể móc bóng.",
-   "Dựng chắn đầu hời hợt vì đã quyết định veer từ trước."
-  ],
-  "gameSituations": [
-   "Trước hàng thủ jam người chắn hoặc chui dưới hung hăng.",
-   "Với big man khỏe, thân rộng, seal tốt.",
-   "Cuối giờ: veer-duck-in là 2 điểm nhanh gọn."
-  ],
-  "tags": [
-   "pick and roll",
-   "chắn bóng",
-   "tấn công"
-  ]
+   "title": "Screen veer",
+   "description": "Người screen đảo ngược về phía bóng sau khi dựng screen — seal hậu vệ của mình để duck-in nhanh hoặc dựng screen lại ngay.",
+   "whatIsIt": [
+     "Screen veer xảy ra khi người screen, thay vì roll vào rổ sau screen bóng, đảo ngược về phía bóng — cắt sau lưng hậu vệ của người cầm bóng để seal anh ta. Đây là đòn phản cho hàng thủ cố chen qua screen hoặc chui dưới sớm: veer biến sự hung hăng của họ thành một pha seal.",
+     "Miếng đánh thường kết thúc bằng pha duck-in nhanh trước rổ hoặc dựng lại screen ngay. Veer diễn ra ở phía bóng nên đường chuyền ngắn, pha dứt điểm nhanh — trừng phạt đúng khoảnh khắc hàng thủ dấn quá đà."
+   ],
+   "whyItMatters": [
+     "Hàng thủ chen qua screen hung hăng để lộ veer mọi lần. Dạy big man veer thay vì roll vào đám đông — PNR của bạn có ngay đòn phản tích hợp, không cần gọi bài mới, chỉ cần đọc tình huống. Một trong những điều chỉnh hiệu quả nhất cho hệ thống pick-and-roll."
+   ],
+   "howTo": [
+     {
+       "title": "Cảm nhận pha jam",
+       "detail": "Vừa dựng screen, cảm nhận hậu vệ cố chen qua hoặc hậu vệ bên kia chui dưới sớm. Áp lực đó là tín hiệu — đừng roll vào nó, veer ra khỏi nó."
+     },
+     {
+       "title": "Veer về phía bóng",
+       "detail": "Trụ chân ngoài, cắt ngược về phía người cầm bóng, seal hậu vệ vừa chen qua. Cơ thể bạn thành bức tường giữa anh ta và rổ."
+     },
+     {
+       "title": "Duck-in nhận bóng",
+       "detail": "Seal xong, lặn vào khu vực dưới rổ, tay sẵn sàng. Người cầm bóng chuyền nhanh đón đầu — bạn bắt bóng cách rổ 1,8m, người kèm bị seal sau lưng."
+     },
+     {
+       "title": "Không có gì thì dựng lại",
+       "detail": "Hàng thủ xoay kịp và duck-in bị bắt — trụ lại, dựng screen thứ hai cho người cầm bóng. Chuỗi veer-rồi-dựng-lại phá cả hàng thủ đã ổn định."
+     }
+   ],
+   "coachingPoints": [
+     "Veer là phản ứng với áp lực phòng thủ, không phải bài gọi trước — tập pha đọc.",
+     "Seal bằng hông và trụ rộng. Với tay là lỗi tấn công.",
+     "Người cầm bóng: chuyền veer sớm, trước khi người seal bị đứng trước mặt."
+   ],
+   "commonMistakes": [
+     "Veer khi hàng thủ kèm thẳng — bỏ pha roll ngon mà chẳng được gì.",
+     "Veer quá sâu về baseline, hàng hỗ trợ móc bóng.",
+     "Dựng screen đầu hời hợt vì đã quyết veer từ trước."
+   ],
+   "gameSituations": [
+     "Gặp hàng thủ jam người screen hoặc chui dưới hung hăng.",
+     "Khi có big man khỏe, thân rộng, seal tốt.",
+     "Cuối đồng hồ: veer-duck-in là hai điểm nhanh gọn."
+   ],
+   "tags": [
+     "pick and roll",
+     "veer",
+     "screen"
+   ]
  },
  "id": "veer-screen",
  "slug": "veer-screen",

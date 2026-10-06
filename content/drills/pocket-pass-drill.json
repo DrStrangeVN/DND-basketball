@@ -71,55 +71,55 @@
   ],
   "dateUpdated": "2026-10-06",
   "vi": {
-    "title": "Bài Tập Pocket Pass",
-    "description": "Làm chủ pocket pass trong pick-and-roll: chuyền bounce một tay chuẩn xác xuyên qua khe hẹp tới big man đang roll.",
-    "goal": "Luồn đường bounce pass một tay qua khe rộng 2 feet (60cm) để bóng đến đúng hông ngoài của người roll ở vạch ném phạt, đúng đà chạy.",
-    "setup": [
-      "Đặt 2 cọc tiêu cách nhau 2 feet ở vị trí nail để mô phỏng tay của hai hậu vệ hedge — đây chính là cái 'khe' (window).",
-      "Người cầm bóng bắt đầu ở đỉnh với live dribble; người roll đứng ở elbow.",
-      "Người roll dựng ghost screen rồi dive về rổ theo hiệu lệnh của người chuyền.",
-      "10 lượt mỗi bên, sau đó đổi vai; đếm số lần thành công trên 10."
-    ],
-    "instructions": [
-      {
-        "title": "Tấn công vào screen",
-        "detail": "Rê bóng mạnh vào vai screen và đọc tình huống hedge — cái pocket mở ra giữa hai hậu vệ."
-      },
-      {
-        "title": "Đánh trúng khe",
-        "detail": "Búng bounce pass một tay xuyên qua khe giữa hai cọc để bóng đến hông ngoài của người roll ngay vạch ném phạt."
-      },
-      {
-        "title": "Roll và giơ mục tiêu",
-        "detail": "Người roll dive xuống với tay trong giơ cao làm mục tiêu, bắt bóng khi đang di chuyển mà không khựng đà."
-      },
-      {
-        "title": "Hoàn tất lượt",
-        "detail": "Người roll đi hai bước rồi finish ở rổ; người chuyền chạy theo để sẵn sàng đọc tình huống kick-out."
-      },
-      {
-        "title": "Đổi bên và đổi tay",
-        "detail": "Chạy 10 lượt bên trái bằng tay trái, rồi 10 lượt bên phải — pocket pass phải dùng được cả hai phía."
-      }
-    ],
     "coachingPoints": [
-      "Chuyền vào hông ngoài của người roll — đừng chuyền vào ngực, vì đó là chỗ hậu vệ help đang đứng.",
-      "Cho bóng nảy sớm: bóng nên chạm sàn ở khoảng 2/3 quãng đường tới mục tiêu.",
-      "Giữ dribble sống cho đến khi bóng rời tay — nhấc bóng sớm là giết chết pha đọc tình huống.",
+      "Chuyền vào hông ngoài của người roll — đừng chuyền vào ngực, đó là chỗ hậu vệ help đang rình.",
+      "Cho bóng nảy sớm: bóng chạm sàn ở khoảng 2/3 quãng đường tới mục tiêu.",
+      "Giữ bóng sống đến khi bóng rời tay — nhấc bóng sớm là giết chết pha đọc tình huống.",
       "Chuyền phải có lực; pocket pass mềm để hậu vệ low man kịp hồi về phá bóng."
     ],
     "commonMistakes": [
-      "Chuyền ngực xuyên qua khe — bóng bị gạt ngay; hãy bounce xuyên qua.",
-      "Chuyền ra sau lưng người roll, bắt họ phải với ngược lại — hãy chuyền đón hông ngoài.",
+      "Chuyền ngực xuyên qua khe — bóng bị gạt ngay; bounce xuyên qua thay vì chuyền thẳng.",
+      "Chuyền ra sau lưng người roll, bắt họ phải với ngược — chuyền đón hông ngoài.",
       "Để lộ ý đồ bằng ánh mắt — mắt nhìn rổ, tay chuyền cho người roll."
     ],
-    "progression": "Thêm một low-man defender thật, xoay ra tag người roll, buộc bạn phải đọc thật giữa pocket pass và lob.",
-    "regression": "Nới khe cọc ra 4 feet, bỏ phần rê bóng (bắt đầu đứng yên) và cho phép chuyền hai tay.",
-    "gameApplication": "Pocket pass là món 'cơm bữa' của pick-and-roll — chuyền trúng người roll đúng đà tạo ra layup hoặc kéo sập hàng thủ để kick-out ném 3.",
-    "players": "2+",
+    "description": "Làm chủ pocket pass trong pick and roll: chuyền bounce một tay chuẩn xác xuyên qua khe hẹp đến big man đang roll.",
     "equipment": [
       "Bóng rổ",
       "Cọc tiêu"
-    ]
+    ],
+    "gameApplication": "Pocket pass là món ăn hàng ngày của pick and roll — chuyền trúng người roll đúng đà tạo ra layup hoặc kéo sập hàng thủ để kick-out ném 3 điểm.",
+    "goal": "Luồn đường bounce pass một tay qua khe rộng 0,6m để bóng đến đúng hông ngoài của người roll ở vạch ném phạt, đúng đà chạy.",
+    "instructions": [
+      {
+        "detail": "Dẫn bóng mạnh vào vai screen rồi đọc tình huống hedge — cái pocket mở ra giữa hai hậu vệ.",
+        "title": "Tấn công vào vai screen"
+      },
+      {
+        "detail": "Búng bounce pass một tay xuyên qua khe giữa hai cọc để bóng đến hông ngoài của người roll ngay vạch ném phạt.",
+        "title": "Chuyền trúng khe"
+      },
+      {
+        "detail": "Người roll lao xuống, giơ tay trong lên làm mục tiêu, bắt bóng khi đang di chuyển mà không khựng đà.",
+        "title": "Roll và giơ mục tiêu"
+      },
+      {
+        "detail": "Người roll đi hai bước rồi dứt điểm ở rổ; người chuyền chạy theo để sẵn sàng đọc tình huống kick-out.",
+        "title": "Hoàn tất lượt"
+      },
+      {
+        "detail": "Chạy 10 lượt bên trái bằng tay trái rồi 10 lượt bên phải — pocket pass phải dùng được cả hai phía.",
+        "title": "Đổi bên và đổi tay"
+      }
+    ],
+    "players": "2+",
+    "progression": "Thêm một hậu vệ low man thật xoay ra tag người roll, ép phải đọc thật giữa pocket pass và lob.",
+    "regression": "Nới khe cọc ra 1,2m, bỏ phần dẫn bóng (xuất phát đứng yên) và cho phép chuyền hai tay.",
+    "setup": [
+      "Đặt 2 cọc tiêu cách nhau 0,6m ở vị trí nail để mô phỏng cánh tay của hai hậu vệ hedge — đây chính là cái khe cần chuyền qua.",
+      "Người cầm bóng xuất phát ở đỉnh vòng cung với bóng sống; người roll đứng ở vị trí elbow.",
+      "Người roll dựng ghost screen rồi lao về rổ theo hiệu lệnh của người chuyền.",
+      "10 lượt mỗi bên rồi đổi vai; đếm số lần thành công trên 10."
+    ],
+    "title": "Bài tập pocket pass"
   }
 }

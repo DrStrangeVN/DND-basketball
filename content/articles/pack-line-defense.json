@@ -80,61 +80,61 @@
     "Most amateur and youth offenses cannot win shooting contested jumpers all game — they win on layups and open threes created by drives. Pack line takes away exactly those shots. It is also the best teaching system in basketball: it forces players to learn gaps, help, closeouts, and communication in their simplest form."
   ],
   "vi": {
-    "title": "Phòng Thủ Pack Line",
-    "description": "Phòng thủ pack line: co vào trong một đường tưởng tượng, bảo vệ vùng paint, ép đối thủ ném xa bị contest — hệ thống chặn đột phá.",
-    "whatIsIt": [
-      "Pack line là hệ thống kèm người co sâu (sagging man-to-man) xây dựng trên một quy tắc: hậu vệ không kèm bóng luôn đứng trong một 'đường pack' tưởng tượng, cách vạch 3 điểm khoảng hai mét vào trong. Cả năm người co vào khu vực paint, thách đối phương thắng bằng ném xa.",
-      "Đó là kèm người nhưng hỗ trợ dễ hơn: vì mọi người xuất phát từ bên trong, hỗ trợ luôn ở gần, đường đột phá không bao giờ mở, và phòng thủ luôn đủ người ở rổ. Đánh đổi là rõ ràng — nhường những cú ném 3 điểm — nhưng đó là những cú ném bị contest, phá nhịp, sau khi đối phương đã bất lực trong paint."
-    ],
-    "whyItMatters": [
-      "Hầu hết các đội tấn công nghiệp dư và trẻ không thể thắng bằng cách ném những cú jumper bị contest cả trận — họ thắng bằng layup và những cú 3 điểm trống từ đột phá. Pack line lấy đi chính những cú ném đó. Đây cũng là hệ thống dạy phòng thủ tốt nhất: nó buộc cầu thủ học gap, hỗ trợ, closeout và giao tiếp ở dạng đơn giản nhất."
-    ],
-    "howTo": [
-      {
-        "title": "Xác định đường pack",
-        "detail": "Tưởng tượng một đường cách vạch 3 điểm khoảng hai mét vào trong — 'đường pack'. Hậu vệ không kèm bóng không bao giờ ra ngoài đường này. Năm hậu vệ co vào khu vực ghi điểm."
-      },
-      {
-        "title": "Gây áp lực lên người giữ bóng",
-        "detail": "Hậu vệ kèm bóng ép mạnh — không đường chuyền dễ, không dẫn bóng thoải mái. Hàng pack phía sau cho phép ép bóng quyết liệt vì hỗ trợ luôn ở gần."
-      },
-      {
-        "title": "Đứng gap lớn trong đường pack",
-        "detail": "Mỗi hậu vệ không kèm bóng đứng một gap lớn trong đường pack, vừa thấy bóng vừa thấy người. Vùng paint luôn đông; đường đột phá không tồn tại."
-      },
-      {
-        "title": "Closeout rồi co lại",
-        "detail": "Khi bóng được chuyền ra ngoài, hậu vệ closeout từ hàng pack — kiểm soát, tay cao — rồi co lại trong đường pack ở đường chuyền tiếp theo."
-      },
-      {
-        "title": "Kết thúc bằng rebound",
-        "detail": "Vì phòng thủ nhường ném xa, phải áp đảo ở tranh bóng bật bảng. Mọi hậu vệ đều box out; hàng pack cho vị trí bên trong ngay từ đầu."
-      }
-    ],
     "coachingPoints": [
-      "Đường pack là bất khả xâm phạm — một hậu vệ ra ngoài là cả hệ thống vỡ",
+      "Đường pack là bất khả xâm phạm — một người ra ngoài là cả hệ thống vỡ",
       "Áp lực lên bóng phải thật; co sâu mà không ép bóng là tặng đối thủ ném ba nhịp nhàng",
-      "Closeout từ hàng pack phải kiểm soát — bạn đang đóng một khoảng cách xa hơn",
+      "Closeout từ hàng pack phải kiểm soát — bạn đang đóng khoảng cách xa hơn",
       "Pack chỉ hiệu quả khi cả năm người rebound — ném xa nghĩa là bóng bật xa",
-      "Điều chỉnh đường pack trước đội ném giỏi; đường này có thể dịch ra ngoài"
+      "Điều chỉnh đường pack trước đội ném giỏi; đường này có thể dịch ra"
     ],
     "commonMistakes": [
-      "Hậu vệ trôi ra ngoài đường pack để 'kèm người của mình' — các gap biến mất",
-      "Không ép bóng — đối phương thoải mái và xé nát hàng pack",
+      "Hậu vệ trôi ra ngoài đường pack để “kèm người của mình” — các gap biến mất",
+      "Không ép bóng — đối phương thoải mái xé nát hàng pack",
       "Closeout ẩu từ vị trí hỗ trợ sâu — phạm lỗi và bị vượt mặt",
       "Quên rằng pack line vẫn phải box out — đây không phải zone"
     ],
+    "description": "Co vào trong một đường tưởng tượng, bảo vệ khu vực dưới rổ, ép đối thủ ném xa bị contest — hệ thống chặn đột phá.",
     "gameSituations": [
-      "Chống đội chuyên đột phá, sống trong paint",
+      "Chống đội chuyên đột phá, sống ở khu vực dưới rổ",
       "Khi đội hình kém thể lực hơn nhưng kỷ luật",
-      "Để bảo vệ cách biệt — nó bào mòn đồng hồ và ép đối thủ ném xa",
+      "Bảo vệ cách biệt — nó bào mòn đồng hồ và ép đối thủ ném xa",
       "Làm phòng thủ nền cho đội trẻ học nguyên tắc hỗ trợ"
+    ],
+    "howTo": [
+      {
+        "detail": "Tưởng tượng một đường cách vạch 3 điểm khoảng hai mét vào trong — “đường pack”. Hậu vệ không kèm bóng không bao giờ ra ngoài đường này. Năm người co vào khu vực ghi điểm.",
+        "title": "Xác định đường pack"
+      },
+      {
+        "detail": "Hậu vệ kèm bóng ép quyết liệt — không đường chuyền dễ, không dẫn bóng thoải mái. Hàng pack phía sau cho phép ép bóng mạnh tay vì hỗ trợ luôn ở gần.",
+        "title": "Ép mạnh người giữ bóng"
+      },
+      {
+        "detail": "Mỗi hậu vệ không kèm bóng đứng một gap lớn trong đường pack, vừa thấy bóng vừa thấy người. Khu vực dưới rổ luôn đông; đường đột phá không tồn tại.",
+        "title": "Đứng gap lớn trong đường pack"
+      },
+      {
+        "detail": "Bóng chuyền ra ngoài, hậu vệ closeout từ hàng pack — kiểm soát, tay cao — rồi co lại trong đường pack ở đường chuyền tiếp theo.",
+        "title": "Closeout rồi co lại"
+      },
+      {
+        "detail": "Phòng thủ đã nhường ném xa thì phải áp đảo tranh bóng bật bảng. Mọi hậu vệ đều box out; hàng pack cho sẵn vị trí bên trong.",
+        "title": "Kết thúc lượt bóng bằng rebound"
+      }
     ],
     "tags": [
       "phòng thủ",
       "pack line",
       "phòng thủ đồng đội",
       "hệ thống"
+    ],
+    "title": "Phòng thủ pack line",
+    "whatIsIt": [
+      "Pack line là hệ thống kèm người co sâu xây trên một quy tắc: hậu vệ không kèm bóng luôn đứng trong “đường pack” tưởng tượng, cách vạch 3 điểm khoảng hai mét vào trong. Cả năm người co vào khu vực dưới rổ, thách đối phương thắng bằng ném xa.",
+      "Đây là kèm người nhưng hỗ trợ dễ hơn: ai cũng xuất phát từ bên trong nên hỗ trợ luôn gần, đường đột phá không bao giờ mở, phòng thủ luôn đủ người ở rổ. Đánh đổi thì rõ — nhường cú ném 3 điểm — nhưng là những cú ném bị contest, phá nhịp, sau khi đối phương đã bất lực trong khu vực dưới rổ."
+    ],
+    "whyItMatters": [
+      "Hầu hết hàng công nghiệp dư và trẻ không thể thắng bằng ném xa bị contest cả trận — họ thắng bằng layup và cú 3 điểm trống từ đột phá. Pack line lấy đi chính những cú ném đó. Đây cũng là hệ thống dạy phòng thủ tốt nhất: nó ép cầu thủ học gap, hỗ trợ, closeout và giao tiếp ở dạng đơn giản nhất."
     ]
   }
 }

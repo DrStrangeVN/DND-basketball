@@ -159,47 +159,11 @@
     "It is also the fastest way for a young guard to earn trust. Coaches give the ball to players who make the right pick-and-roll read consistently — it is the clearest proof of basketball IQ on the floor."
   ],
   "vi": {
-    "title": "Đọc Tình Huống Pick & Roll",
-    "description": "Hướng dẫn đầy đủ về cách đọc screen bóng — vị trí hậu vệ, coverage, xoay hỗ trợ — và chọn đúng pha bóng mọi lần.",
-    "whatIsIt": [
-      "Đọc pick-and-roll là những quyết định của người giữ bóng quanh screen: dùng hay từ chối screen, snake hay split, chuyền cho người roll hay skip ra góc. Mỗi coverage mà hàng thủ đưa ra — drop, switch, hedge, blitz, ICE — đòi hỏi một đáp án khác nhau, và người giữ bóng phải chọn đúng trong khoảng hai giây.",
-      "Đọc pick-and-roll bắt đầu trước khi screen tới: hai hậu vệ đang ở đâu, hàng hỗ trợ ở đâu, và coverage đang ép bạn về phía nào? Những người chơi pick-and-roll giỏi không có nhiều động tác hơn — họ đọc nhanh và chính xác hơn."
-    ],
-    "whyItMatters": [
-      "Pick-and-roll là tình huống được dùng nhiều nhất trong bóng rổ hiện đại, và nó chỉ hiệu quả khi đọc đúng. Đọc sai biến 2 đánh 1 thành turnover; đọc đúng biến mọi coverage thành cú ném thoáng. Đội bóng sống chết theo quyết định pick-and-roll của các hậu vệ.",
-      "Đây cũng là cách nhanh nhất để một hậu vệ trẻ được tin tưởng. Huấn luyện viên trao bóng cho cầu thủ đọc pick-and-roll đúng một cách ổn định — đó là bằng chứng rõ ràng nhất về IQ bóng rổ trên sân."
-    ],
-    "howTo": [
-      {
-        "title": "Đọc coverage trước screen",
-        "detail": "Big đang lùi sâu (drop), hô switch, hay bước cao lên (hedge)? Biết coverage trước khi dùng screen — pha đọc bắt đầu từ trước screen."
-      },
-      {
-        "title": "Dẫn hậu vệ vào screen",
-        "detail": "Dẫn hậu vệ của bạn đâm vào ngực người chắn — sát vai, không khe hở để lách qua. Screen mà không dẫn dụ là screen phí."
-      },
-      {
-        "title": "Đọc hậu vệ kèm bóng",
-        "detail": "Hậu vệ đi dưới: pull-up ném. Cố đi trên: tấn công xuống rổ. Kẹt lại ở screen: cứ đi tiếp — lợi thế là của bạn."
-      },
-      {
-        "title": "Đọc hậu vệ của người chắn",
-        "detail": "Drop: snake dribble hoặc pull-up. Hedge: split hoặc chuyền cho big đang roll. Switch: tấn công mismatch hoặc slip trước khi switch kịp hình thành. Mỗi coverage đều có đáp án — hãy dùng nó."
-      },
-      {
-        "title": "Đọc hàng hỗ trợ",
-        "detail": "Tag từ góc lao vào nghĩa là đường skip pass đang mở. Không có tag nghĩa là đường pocket pass cho người roll đang mở. Phía yếu quyết định pha bóng."
-      },
-      {
-        "title": "Có phương án hai",
-        "detail": "Nếu pha đọc đầu bị bắt, chuyển sang phương án tiếp theo: đặt lại screen, snake quay về giữa, hoặc kick ra ngoài và di chuyển lại. Người chơi pick-and-roll giỏi luôn có hành động thứ hai."
-      }
-    ],
     "coachingPoints": [
       "Dạy từng coverage một — thành thạo đọc drop coverage trước khi thêm hedge, switch và blitz",
-      "Dùng bài tập pick-and-roll 2v2 với hậu vệ tag trực tiếp để buộc đọc thật, không phải chuyền theo kịch bản",
-      "Xem video: dừng đúng khoảnh khắc đọc tình huống và hỏi 'bạn thấy gì?' trước khi tiết lộ diễn biến",
-      "Người chắn cũng phải đọc — roll, pop hay short roll dựa trên cùng coverage mà hậu vệ thấy"
+      "Dùng bài tập pick-and-roll 2v2 với hậu vệ tag trực tiếp để ép đọc thật, không phải chuyền theo kịch bản",
+      "Xem video: dừng đúng khoảnh khắc đọc tình huống, hỏi “bạn thấy gì?” trước khi tiết lộ diễn biến",
+      "Người dựng screen cũng phải đọc — roll, pop hay short roll dựa trên cùng coverage guard nhìn thấy"
     ],
     "commonMistakes": [
       "Dùng screen mà không đọc coverage trước — chạy bài mù",
@@ -207,16 +171,52 @@
       "Dẫn ngang ra khỏi screen thay vì tấn công xuống rổ",
       "Bỏ qua hậu vệ tag phía yếu đang chìm khỏi góc"
     ],
+    "description": "Hướng dẫn đầy đủ về cách đọc screen bóng — vị trí hậu vệ, coverage, xoay hỗ trợ — và chọn đúng pha bóng mọi lần.",
     "gameSituations": [
       "Drop coverage: snake dribble vào pull-up jumper hoặc pocket pass cho người roll",
       "Switch: isolation big ở vòng ngoài hoặc slip screen trước khi switch kịp hình thành",
       "Blitz: split bẫy hoặc ném qua đầu cho big đang roll trong thế 4 đánh 3"
+    ],
+    "howTo": [
+      {
+        "detail": "Big đang lùi sâu (drop), hô switch, hay bước cao lên (hedge)? Biết coverage trước khi dùng screen — pha đọc bắt đầu từ trước screen.",
+        "title": "Đọc coverage trước screen"
+      },
+      {
+        "detail": "Dẫn hậu vệ của bạn đâm vào ngực người dựng screen — sát vai, không khe hở để lách qua. Screen không dẫn dụ là screen phí.",
+        "title": "Dẫn hậu vệ vào screen"
+      },
+      {
+        "detail": "Hậu vệ đi dưới: pull-up ném. Cố đi trên: tấn công xuống rổ. Kẹt lại ở screen: cứ đi tiếp — lợi thế là của bạn.",
+        "title": "Đọc hậu vệ kèm bóng"
+      },
+      {
+        "detail": "Drop: snake dribble hoặc pull-up. Hedge: split hoặc chuyền cho big đang roll. Switch: đánh cặp đấu lệch hoặc slip trước khi switch kịp hình thành. Mỗi coverage đều có đáp án — dùng nó.",
+        "title": "Đọc hậu vệ của người dựng screen"
+      },
+      {
+        "detail": "Tag từ góc lao vào nghĩa là đường skip pass đang mở. Không có tag nghĩa là đường pocket pass cho người roll đang mở. Phía yếu quyết định pha bóng.",
+        "title": "Đọc hàng hỗ trợ"
+      },
+      {
+        "detail": "Pha đọc đầu bị bắt, chuyển ngay sang phương án tiếp theo: đặt lại screen, snake quay về giữa, hoặc kick ra ngoài rồi di chuyển lại. Người chơi pick-and-roll giỏi luôn có pha đánh thứ hai.",
+        "title": "Luôn có phương án hai"
+      }
     ],
     "tags": [
       "iq bóng rổ",
       "pick and roll",
       "đọc tình huống",
       "hậu vệ dẫn bóng"
+    ],
+    "title": "Đọc tình huống pick & roll",
+    "whatIsIt": [
+      "Đọc pick-and-roll là những quyết định của người giữ bóng quanh screen: dùng hay từ chối screen, snake hay split, chuyền cho người roll hay skip ra góc. Mỗi coverage hàng thủ đưa ra — drop, switch, hedge, blitz, ICE — đòi một đáp án khác, và người giữ bóng phải chọn đúng trong khoảng hai giây.",
+      "Đọc pick-and-roll bắt đầu trước khi screen tới: hai hậu vệ đang ở đâu, hàng hỗ trợ ở đâu, coverage đang ép bạn về phía nào? Người chơi pick-and-roll giỏi không có nhiều động tác hơn — họ đọc nhanh và chính xác hơn."
+    ],
+    "whyItMatters": [
+      "Pick-and-roll là tình huống dùng nhiều nhất trong bóng rổ hiện đại, và nó chỉ hiệu quả khi đọc đúng. Đọc sai biến 2 đánh 1 thành mất bóng; đọc đúng biến mọi coverage thành cú ném thoáng. Đội bóng sống chết theo quyết định pick-and-roll của các guard.",
+      "Đây cũng là cách nhanh nhất để một guard trẻ được tin tưởng. HLV trao bóng cho cầu thủ đọc pick-and-roll đúng đều đặn — đó là bằng chứng rõ nhất về IQ bóng rổ trên sân."
     ]
   }
 }

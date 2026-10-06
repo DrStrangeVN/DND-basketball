@@ -1,1 +1,119 @@
-{"dateUpdated":"2026-10-06","description":"A fun 30-minute first session for kids: fundamentals disguised as games. Dribbling, shooting, passing, and layups — ending with smiles, not lectures.","durationMin":30,"equipment":["Basketball","Cones"],"focus":["Ball Handling","Shooting","Passing","Finishing"],"id":"youth-first-workout","items":[{"detail":"Dribble tag: everyone dribbles, one 'it' tries to tap others' balls away. If you lose your ball, do 5 pounds and rejoin. Laughing required.","name":"Dribble tag warmup","time":"4:00"},{"detail":"Red light, green light with the dribble: green = go, red = stop in a low stance. Last one moving does a silly dance.","name":"Ball handling games","time":"4:00"},{"detail":"One-hand form shots 3 feet from the rim: 'make the ball spin backwards.' Count team makes — can we get 50 together?","name":"Close-range form shooting","time":"5:00"},{"detail":"Right-hand layup line, then left-hand line. No defense, just rhythm: one dribble, two steps, up. Cheer for every make.","name":"Layup lines","time":"5:00"},{"detail":"Partner passing: chest pass, bounce pass. Start close, take one step back after 5 good catches. Talk to your partner!","name":"Passing partners","time":"3:00"},{"detail":"Knockout: everyone shoots free throws in a line, two balls. Or 3-on-3 with no score kept — just play. Fun is the drill.","name":"Knockout game","time":"6:00"},{"detail":"Circle up: everyone says one thing they did well today. High-fives all around. Leave wanting to come back tomorrow.","name":"Cool-down and high-fives","time":"3:00"}],"level":"beginner","slug":"youth-first-workout","tips":["For kids, fun IS the fundamentals — if they're laughing, they're learning.","Praise effort out loud: 'great hustle!' beats 'nice shot' every time.","Keep instructions to one sentence; demonstrate, don't lecture.","End every session with a game — the last memory should be joy."],"title":"Youth First Workout","vi":{"description":"Buổi tập đầu 30 phút vui nhộn cho trẻ: kỹ năng nền tảng lồng trong trò chơi. Rê bóng, ném, chuyền và layup — kết thúc bằng nụ cười, không phải bài giảng.","equipment":["Bóng rổ","Cọc tiêu"],"focus":["Rê bóng","Ném rổ","Chuyền bóng","Dứt điểm"],"items":[{"detail":"Đuổi bắt rê bóng: mọi người rê bóng, một người 'làm ma' cố đập bóng người khác. Mất bóng thì đập bóng 5 cái rồi chơi tiếp. Bắt buộc phải cười.","name":"Khởi động đuổi bắt rê bóng","time":"4:00"},{"detail":"Đèn xanh đèn đỏ với bóng: xanh = đi, đỏ = dừng ở tư thế thấp. Ai cử động cuối thì nhảy một điệu hài.","name":"Trò chơi rê bóng","time":"4:00"},{"detail":"Ném form một tay cách rổ 1m: 'làm bóng xoáy ngược.' Đếm số quả cả đội vào — cùng nhau được 50 quả không?","name":"Ném form cự ly gần","time":"5:00"},{"detail":"Xếp hàng layup tay phải, rồi tay trái. Không phòng thủ, chỉ nhịp: một nhịp dẫn, hai bước, lên rổ. Cổ vũ mỗi quả vào.","name":"Xếp hàng layup","time":"5:00"},{"detail":"Chuyền đôi: chuyền ngực, chuyền nảy đất. Đứng gần, mỗi 5 lần bắt tốt lùi một bước. Nói chuyện với bạn tập!","name":"Chuyền đôi","time":"3:00"},{"detail":"Knockout: xếp hàng ném phạt, hai bóng. Hoặc 3-đấu-3 không tính điểm — cứ chơi. Vui chính là bài tập.","name":"Trò chơi knockout","time":"6:00"},{"detail":"Vòng tròn: mỗi bạn nói một điều mình làm tốt hôm nay. Đập tay tất cả. Ra về với mong muốn mai quay lại.","name":"Hạ nhiệt và đập tay","time":"3:00"}],"tips":["Với trẻ, vui CHÍNH là nền tảng — các em cười là các em đang học.","Khen nỗ lực thật to: 'chạy tốt lắm!' hơn 'ném hay!' mọi lần.","Hướng dẫn một câu thôi; làm mẫu, đừng giảng bài.","Kết thúc mỗi buổi bằng trò chơi — ký ức cuối cùng phải là niềm vui."],"title":"Buổi Tập Đầu Cho Trẻ"}}
+{
+  "dateUpdated": "2026-10-06",
+  "description": "A fun 30-minute first session for kids: fundamentals disguised as games. Dribbling, shooting, passing, and layups — ending with smiles, not lectures.",
+  "durationMin": 30,
+  "equipment": [
+    "Basketball",
+    "Cones"
+  ],
+  "focus": [
+    "Ball Handling",
+    "Shooting",
+    "Passing",
+    "Finishing"
+  ],
+  "id": "youth-first-workout",
+  "items": [
+    {
+      "detail": "Dribble tag: everyone dribbles, one 'it' tries to tap others' balls away. If you lose your ball, do 5 pounds and rejoin. Laughing required.",
+      "name": "Dribble tag warmup",
+      "time": "4:00"
+    },
+    {
+      "detail": "Red light, green light with the dribble: green = go, red = stop in a low stance. Last one moving does a silly dance.",
+      "name": "Ball handling games",
+      "time": "4:00"
+    },
+    {
+      "detail": "One-hand form shots 3 feet from the rim: 'make the ball spin backwards.' Count team makes — can we get 50 together?",
+      "name": "Close-range form shooting",
+      "time": "5:00"
+    },
+    {
+      "detail": "Right-hand layup line, then left-hand line. No defense, just rhythm: one dribble, two steps, up. Cheer for every make.",
+      "name": "Layup lines",
+      "time": "5:00"
+    },
+    {
+      "detail": "Partner passing: chest pass, bounce pass. Start close, take one step back after 5 good catches. Talk to your partner!",
+      "name": "Passing partners",
+      "time": "3:00"
+    },
+    {
+      "detail": "Knockout: everyone shoots free throws in a line, two balls. Or 3-on-3 with no score kept — just play. Fun is the drill.",
+      "name": "Knockout game",
+      "time": "6:00"
+    },
+    {
+      "detail": "Circle up: everyone says one thing they did well today. High-fives all around. Leave wanting to come back tomorrow.",
+      "name": "Cool-down and high-fives",
+      "time": "3:00"
+    }
+  ],
+  "level": "beginner",
+  "slug": "youth-first-workout",
+  "tips": [
+    "For kids, fun IS the fundamentals — if they're laughing, they're learning.",
+    "Praise effort out loud: 'great hustle!' beats 'nice shot' every time.",
+    "Keep instructions to one sentence; demonstrate, don't lecture.",
+    "End every session with a game — the last memory should be joy."
+  ],
+  "title": "Youth First Workout",
+  "vi": {
+    "title": "Buổi tập đầu cho trẻ",
+    "description": "Buổi tập đầu 30 phút vui nhộn cho trẻ: kỹ năng nền tảng lồng trong trò chơi. Dẫn bóng, ném rổ, chuyền bóng và layup — kết thúc bằng nụ cười, không phải bài giảng.",
+    "focus": [
+      "Dẫn bóng",
+      "Ném rổ",
+      "Chuyền bóng",
+      "Dứt điểm"
+    ],
+    "equipment": [
+      "Bóng rổ",
+      "Cọc tiêu"
+    ],
+    "items": [
+      {
+        "name": "Khởi động đuổi bắt dẫn bóng",
+        "detail": "Cả đội vừa dẫn bóng vừa chơi đuổi bắt, một bạn làm ma cố đập văng bóng người khác. Mất bóng thì đập bóng mạnh 5 cái rồi vào chơi tiếp. Ai cũng phải cười.",
+        "time": "4:00"
+      },
+      {
+        "name": "Trò chơi dẫn bóng",
+        "detail": "Đèn xanh đèn đỏ phiên bản dẫn bóng: đèn xanh thì đi, đèn đỏ thì dừng ở tư thế thấp. Ai còn nhúc nhích cuối cùng phải nhảy một điệu hài hước.",
+        "time": "4:00"
+      },
+      {
+        "name": "Ném form cự ly gần",
+        "detail": "Ném form một tay cách rổ 1m: 'làm cho bóng xoáy ngược.' Đếm số quả cả đội ném vào — cùng nhau cán mốc 50 quả nhé?",
+        "time": "5:00"
+      },
+      {
+        "name": "Xếp hàng layup",
+        "detail": "Xếp hàng layup tay phải, rồi chuyển sang tay trái. Không ai phòng thủ, chỉ cần đúng nhịp: một nhịp dẫn, hai bước, lên rổ. Cổ vũ thật to mỗi quả vào.",
+        "time": "5:00"
+      },
+      {
+        "name": "Chuyền đôi",
+        "detail": "Chuyền bóng theo cặp: chuyền ngực, chuyền nảy đất. Đứng gần nhau, cứ 5 lần bắt tốt thì cùng lùi một bước. Nhớ nói chuyện với bạn tập!",
+        "time": "3:00"
+      },
+      {
+        "name": "Trò chơi knockout",
+        "detail": "Knockout: xếp hàng ném phạt, dùng hai bóng. Hoặc đấu 3-đấu-3 không tính điểm — cứ chơi thôi. Vui chính là bài tập.",
+        "time": "6:00"
+      },
+      {
+        "name": "Hạ nhiệt và đập tay",
+        "detail": "Túm lại vòng tròn: mỗi bạn nói một điều mình làm tốt hôm nay. Đập tay với tất cả. Ra về với mong muốn mai quay lại tập.",
+        "time": "3:00"
+      }
+    ],
+    "tips": [
+      "Với trẻ, vui CHÍNH là nền tảng — các em cười là các em đang học.",
+      "Khen nỗ lực thật to: 'chạy tốt lắm!' hơn 'ném hay!' mọi lần.",
+      "Hướng dẫn một câu thôi; làm mẫu, đừng giảng bài.",
+      "Kết thúc mỗi buổi bằng trò chơi — ký ức cuối cùng phải là niềm vui."
+    ]
+  }
+}

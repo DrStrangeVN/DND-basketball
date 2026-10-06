@@ -67,32 +67,6 @@
   ],
   "dateUpdated": "2026-10-06",
   "vi": {
-    "title": "Chuỗi Ném Floater",
-    "description": "Bài ném floater tăng dần từ 3 cự ly, dạy cú ném chạm nhẹ một tay qua người chắn bóng trong khu vực lane.",
-    "goal": "Ném trúng 5 quả floater liên tiếp ở mỗi cự ly trong 3 cự ly với cảm giác bóng mềm, bật một chân.",
-    "setup": [
-      "Đặt 3 cọc tiêu trong lane: cách rổ 2m, 3m và 4.5m, tất cả bên phải.",
-      "Mỗi rep bắt đầu cầm bóng ở cánh phải kéo dài; dẫn vào và ném floater tại vạch cọc tiêu.",
-      "Đồng đội bắt rebound hoặc tự nhặt bóng; giữ nhịp như trận đấu."
-    ],
-    "instructions": [
-      {
-        "title": "Floater Gần",
-        "detail": "Dẫn bóng từ cánh vào, đạp chân trái tại cọc 2m, ném floater một tay với đường bóng vòng cung cao và mềm. Tiếp đất thăng bằng. Trúng 5 quả liên tiếp mới được lùi ra."
-      },
-      {
-        "title": "Floater Trung",
-        "detail": "Sang cọc 3m. Cách làm như cũ: một hoặc hai nhịp dẫn, bật lên bằng một chân, ra tay ở điểm cao nhất bằng đầu ngón tay. Bóng phải rơi thẳng xuống qua lưới. Trúng 5 quả liên tiếp."
-      },
-      {
-        "title": "Floater Xa",
-        "detail": "Từ cọc 4.5m, dẫn hai nhịp mạnh và ném floater khi đang di chuyển. Giữ cùng cảm giác ra tay mềm — xa hơn là nhờ chân, không phải đẩy bóng mạnh hơn. Trúng 5 quả liên tiếp."
-      },
-      {
-        "title": "Đổi Sang Trái",
-        "detail": "Chuyển cả ba cọc sang bên trái và lặp lại chuỗi, bật bằng chân phải. Kết thúc bằng 10 quả floater xen kẽ: phải, trái, phải... đếm tổng số trúng trên 10 quả."
-      }
-    ],
     "coachingPoints": [
       "Vòng cung cao và chạm nhẹ — floater rơi êm trên vành, không bao giờ dội mạnh.",
       "Ra tay ở điểm cao nhất của cú bật, tay ném đỡ dưới bóng.",
@@ -103,13 +77,39 @@
       "Ném floater bẹt như đường thẳng thay vì vòng cung cao.",
       "Bật hai chân, biến nó thành jump shot ngắn mất cảm giác bóng."
     ],
-    "progression": "Thêm huấn luyện viên cầm đệm ở rổ làm người block, hoặc ném floater sau pha đột phá 1-1 thật.",
-    "regression": "Đứng yên tại mỗi cọc ném 10 quả chạm bóng một tay tại chỗ trước khi thêm nhịp dẫn tiếp cận.",
-    "gameApplication": "Floater vượt qua người block từ weakside — là cú kết thúc thiết yếu cho hậu vệ đột phá vào đám đông.",
-    "players": "1",
+    "description": "Bài ném floater tăng dần từ 3 cự ly, dạy cú ném chạm nhẹ một tay qua người block trong khu vực dưới rổ.",
     "equipment": [
       "Bóng rổ",
       "Cọc tiêu"
-    ]
+    ],
+    "gameApplication": "Floater vượt qua người block từ phía yếu — là cú kết thúc thiết yếu cho hậu vệ đột phá vào đám đông.",
+    "goal": "Ném trúng 5 quả floater liên tiếp ở mỗi cự ly trong 3 cự ly với cảm giác bóng mềm, bật một chân.",
+    "instructions": [
+      {
+        "detail": "Dẫn bóng từ cánh vào, đạp chân trái tại cọc 1,8m và ném floater một tay với đường bóng vòng cung cao, mềm. Tiếp đất thăng bằng; trúng 5 quả liên tiếp mới được lùi ra.",
+        "title": "Floater gần"
+      },
+      {
+        "detail": "Sang cọc 3m. Cách làm như cũ: một hoặc hai nhịp dẫn, bật lên bằng một chân, ra tay ở điểm cao nhất bằng đầu ngón tay. Bóng phải rơi thẳng xuống qua lưới; trúng 5 quả liên tiếp.",
+        "title": "Floater trung"
+      },
+      {
+        "detail": "Từ cọc 4,2m, dẫn hai nhịp mạnh và ném floater khi đang di chuyển. Giữ cùng cảm giác ra tay mềm — xa hơn là nhờ chân, không phải đẩy bóng mạnh hơn; trúng 5 quả liên tiếp.",
+        "title": "Floater xa"
+      },
+      {
+        "detail": "Chuyển cả ba cọc sang bên trái và lặp lại chuỗi, bật bằng chân phải. Kết thúc bằng 10 quả floater xen kẽ: phải, trái, phải... đếm tổng số trúng trên 10 quả.",
+        "title": "Đổi sang trái"
+      }
+    ],
+    "players": "1",
+    "progression": "Thêm HLV cầm đệm ở rổ làm người block, hoặc ném floater sau pha đột phá 1 đấu 1 thật.",
+    "regression": "Đứng yên tại mỗi cọc ném 10 quả chạm bóng một tay tại chỗ trước khi thêm nhịp dẫn tiếp cận.",
+    "setup": [
+      "Đặt 3 cọc tiêu trong vùng ném phạt: cách rổ 1,8m, 3m và 4,2m, tất cả ở bên phải.",
+      "Mỗi lượt bắt đầu cầm bóng ở cánh phải kéo dài; dẫn vào và ném floater tại vạch cọc tiêu.",
+      "Đồng đội bắt rebound hoặc tự nhặt bóng; giữ nhịp như trận đấu."
+    ],
+    "title": "Chuỗi ném floater"
   }
 }

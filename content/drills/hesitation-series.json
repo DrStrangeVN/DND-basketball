@@ -66,49 +66,49 @@
   ],
   "dateUpdated": "2026-10-06",
   "vi": {
-    "title": "Chuỗi Động Tác Hesitation",
-    "description": "Làm chủ động tác hesitation và các biến thể — đóng băng hậu vệ rồi bứt tốc vượt qua bằng hesitation go, crossover hoặc behind-the-back.",
-    "goal": "Xây dựng một động tác hesitation đáng tin cậy cùng hai biến thể để vượt qua hậu vệ khi họ bắt bài phương án đầu tiên.",
-    "setup": [
-      "Đặt hai cọc tiêu: một ở giữa sân, một ở đỉnh vòng 3 điểm.",
-      "Bắt đầu ở giữa sân, bóng ở tay thuận.",
-      "Tập từng bên một rồi đổi tay."
-    ],
-    "instructions": [
-      {
-        "title": "Hesitation rồi bứt tốc",
-        "detail": "Dẫn bóng tới cọc tiêu, hesitation — khựng chân và nhấc bóng nhẹ — rồi bứt tốc vượt qua cọc bằng một pha đập bóng mạnh."
-      },
-      {
-        "title": "Hesitation crossover",
-        "detail": "Tương tự nhưng sau khi đóng băng đối thủ, crossover sang tay yếu và tấn công góc mới."
-      },
-      {
-        "title": "Hesitation behind-the-back",
-        "detail": "Đóng băng hậu vệ rồi vòng bóng sau lưng để đổi tay mà không lộ bóng."
-      },
-      {
-        "title": "Đọc tình huống",
-        "detail": "Nhờ đồng đội hô 'go', 'cross' hoặc 'back' khi bạn hesitation — phản ứng ngay không mất nhịp."
-      }
-    ],
     "coachingPoints": [
       "Hesitation phải 'bán' bằng vai và mắt, không chỉ bằng bóng.",
-      "Giữ thấp người khi khựng — đứng thẳng lên sẽ mất đà bứt tốc.",
-      "Bứt tốc ngay sau động tác: bước đầu tiên quyết định tất cả.",
+      "Giữ thấp người khi khựng — đứng thẳng lên là mất đà bứt tốc.",
+      "Bứt tốc ngay sau động tác: bước đầu tiên sau hesitation quyết định tất cả.",
       "Giữ bóng gọn khi đổi hướng; crossover quá rộng dễ bị cướp."
     ],
     "commonMistakes": [
       "Hesitation mà không bứt tốc — khựng lại mà không đi thì chỉ là đứng yên.",
       "Nhìn xuống bóng khi thực hiện biến thể."
     ],
-    "progression": "Thêm một hậu vệ ở cọc tiêu để phản ứng với động tác đầu tiên của bạn.",
-    "regression": "Đi bộ qua footwork không cần bóng cho đến khi quen nhịp.",
-    "gameApplication": "Mỗi pha isolation đều bắt đầu bằng việc đọc đối thủ — chuỗi hesitation cho bạn một tuyệt chiêu cùng phương án dự phòng khi bị bắt bài.",
-    "players": "1",
+    "description": "Làm chủ động tác hesitation và các biến thể — đóng băng cầu thủ phòng thủ rồi bứt tốc vượt qua bằng hesitation go, crossover hoặc vòng sau lưng.",
     "equipment": [
       "Bóng rổ",
       "2 cọc tiêu"
-    ]
+    ],
+    "gameApplication": "Mỗi pha isolation đều bắt đầu bằng việc đọc đối thủ — chuỗi hesitation cho một tuyệt chiêu cùng phương án dự phòng khi bị bắt bài.",
+    "goal": "Xây dựng một động tác hesitation đáng tin cậy cùng hai biến thể để vượt qua cầu thủ phòng thủ khi họ bắt bài phương án đầu tiên.",
+    "instructions": [
+      {
+        "detail": "Dẫn bóng tới cọc tiêu, hesitation — khựng chân, nhấc bóng nhẹ — rồi bứt tốc vượt qua cọc bằng một pha đập bóng mạnh.",
+        "title": "Hesitation rồi bứt tốc"
+      },
+      {
+        "detail": "Cùng cách dựng, nhưng sau khi đóng băng đối thủ, crossover sang tay không thuận và tấn công góc mới.",
+        "title": "Hesitation crossover"
+      },
+      {
+        "detail": "Đóng băng cầu thủ phòng thủ rồi vòng bóng sau lưng để đổi tay mà không lộ bóng.",
+        "title": "Hesitation vòng sau lưng"
+      },
+      {
+        "detail": "Nhờ đồng đội hô 'go', 'cross' hoặc 'back' khi đang hesitation — phản ứng ngay không mất nhịp.",
+        "title": "Đọc tình huống"
+      }
+    ],
+    "players": "1",
+    "progression": "Thêm một cầu thủ phòng thủ ở cọc tiêu để phản ứng với động tác đầu tiên.",
+    "regression": "Đi bộ qua bộ chân không cần bóng tới khi quen nhịp.",
+    "setup": [
+      "Đặt hai cọc tiêu: một ở giữa sân, một ở đỉnh vòng cung.",
+      "Bắt đầu ở giữa sân, bóng ở tay thuận.",
+      "Tập từng bên một rồi đổi tay."
+    ],
+    "title": "Chuỗi động tác hesitation (hesitation series)"
   }
 }

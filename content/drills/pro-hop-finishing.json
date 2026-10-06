@@ -64,49 +64,49 @@
   ],
   "dateUpdated": "2026-10-06",
   "vi": {
-    "title": "Kết Thúc Bằng Pro Hop",
-    "description": "Rèn cú kết thúc pro hop (thu bóng dừng hai chân) xuyên va chạm — thu bóng hai chân, chịu cú húc và kết thúc mạnh mẽ.",
-    "goal": "Kết thúc trúng 8/10 quả layup pro hop xuyên va chạm đệm với điểm tiếp đất hai chân thăng bằng.",
-    "setup": [
-      "Một người kết thúc cầm bóng ở cánh phải, một đồng đội cầm đệm chắn ngay ngoài khu vực restricted area.",
-      "Người cầm đệm húc chắc vào lúc thu bóng — húc vừa phải, không xô đẩy.",
-      "Người ném bắt đầu mỗi rep bằng nhịp dẫn sống từ cánh."
-    ],
-    "instructions": [
-      {
-        "title": "Hop Và Giữ",
-        "detail": "Dẫn mạnh về phía đệm, thu bóng bằng pro hop (jump stop) xuống hai chân ngay trước va chạm. Chịu cú húc với chân trụ rộng và giữ bóng cao, chắc. Chưa ném — chỉ làm 6 rep thu bóng và giữ 2 giây."
-      },
-      {
-        "title": "Kết Thúc Xuyên Va Chạm",
-        "detail": "Cách tiếp cận như cũ, nhưng sau khi chịu cú húc, bật mạnh thẳng lên bằng hai chân và kết thúc layup dứt khoát. Giữ bóng trên cằm suốt va chạm. Ném 10 quả, mục tiêu 8 quả trúng."
-      },
-      {
-        "title": "Hop Rồi Xoay",
-        "detail": "Thêm đọc tình huống: nếu người cầm đệm nghiêng về vai phải, pro hop rồi xoay ngược sang trái để kết thúc. Làm 5 rep mỗi hướng, đọc vị trí đệm trước khi thu bóng."
-      },
-      {
-        "title": "Đổi Sang Trái",
-        "detail": "Chuyển bài sang cánh trái với đệm ở block trái. Kết thúc 10 quả layup pro hop xuyên va chạm bằng tay trái. Chốt bằng 5 quả trúng liên tiếp đổi bên."
-      }
-    ],
     "coachingPoints": [
-      "Thu bóng thấp và rộng — hop hẹp sẽ bị húc mất thăng bằng.",
-      "Kẹp bóng ngang cằm khi thu: khuỷu tay mở, bóng được bảo vệ ở ngang ngực trở lên.",
-      "Bật mạnh lên bằng hai chân; không ngả người tránh va chạm.",
-      "Mắt nhìn rổ xuyên qua cú húc, không nhìn hậu vệ."
+      "Thu bóng thấp và rộng — hop hẹp là bị húc mất thăng bằng.",
+      "Kẹp bóng dưới cằm khi thu bóng: khuỷu tay dang ra, bóng được che ở ngang ngực trở lên.",
+      "Bật mạnh lên bằng hai chân; đừng ngả người tránh va chạm.",
+      "Mắt nhìn rổ xuyên qua cú húc, đừng nhìn hậu vệ."
     ],
     "commonMistakes": [
-      "Thu bóng khi đang chạy bằng một chân — vừa bước vừa mất thăng bằng.",
-      "Hạ bóng thấp khi va chạm, mời đối phương chọc bóng."
+      "Thu bóng khi đang chạy bằng một chân — vừa lỗi chạy bước vừa mất thăng bằng.",
+      "Hạ bóng thấp lúc va chạm, mời đối phương chọc bóng."
     ],
-    "progression": "Thay đệm bằng hậu vệ thật contest thẳng đứng, hoặc thêm một hậu vệ help xoay ra.",
-    "regression": "Tập thu bóng pro hop và kết thúc không va chạm cho đến khi nhịp hai chân thành tự động.",
-    "gameApplication": "Pro hop giúp dừng đột ngột giữa đám đông, chịu va chạm hợp lệ mà vẫn có góc nhìn rổ sạch.",
-    "players": "2",
+    "description": "Rèn cú kết thúc pro hop (thu bóng kiểu jump stop) xuyên va chạm — thu bóng hai chân, chịu cú húc và dứt điểm mạnh mẽ.",
     "equipment": [
       "Bóng rổ",
       "Đệm chắn"
-    ]
+    ],
+    "gameApplication": "Pro hop giúp dừng đột ngột giữa đám đông, chịu va chạm hợp lệ mà vẫn có góc ném sạch về rổ.",
+    "goal": "Ném trúng 8 trên 10 quả layup pro hop xuyên va chạm với đệm, tiếp đất hai chân thăng bằng.",
+    "instructions": [
+      {
+        "detail": "Dẫn bóng mạnh về phía đệm, thu bóng bằng pro hop (jump stop) xuống hai chân ngay trước va chạm. Chịu cú húc với chân trụ rộng, giữ bóng cao và chắc. Chưa ném — chỉ làm 6 lượt thu bóng và giữ 2 giây.",
+        "title": "Hop và giữ"
+      },
+      {
+        "detail": "Vẫn cách tiếp cận đó, nhưng sau khi chịu cú húc thì bật mạnh thẳng lên bằng hai chân và dứt điểm layup dứt khoát. Giữ bóng trên cằm suốt pha va chạm. Ném 10 quả, mục tiêu 8 quả trúng.",
+        "title": "Dứt điểm xuyên va chạm"
+      },
+      {
+        "detail": "Thêm pha đọc tình huống: nếu người cầm đệm nghiêng về vai phải, pro hop rồi xoay ngược sang trái để dứt điểm. Làm 5 lượt mỗi hướng, đọc vị trí đệm trước khi thu bóng.",
+        "title": "Hop rồi xoay"
+      },
+      {
+        "detail": "Chuyển bài sang cánh trái, đệm đặt ở block trái. Dứt điểm 10 quả layup pro hop xuyên va chạm bằng tay trái. Chốt bài bằng 5 quả trúng liên tiếp, đổi bên liên tục.",
+        "title": "Chuyển sang cánh trái"
+      }
+    ],
+    "players": "2",
+    "progression": "Thay đệm bằng hậu vệ thật nhảy contest thẳng đứng, hoặc thêm một hậu vệ help xoay ra.",
+    "regression": "Tập thu bóng pro hop và dứt điểm không va chạm cho đến khi nhịp hai chân thành phản xạ.",
+    "setup": [
+      "Một người dứt điểm cầm bóng ở cánh phải, một đồng đội cầm đệm chắn đứng ngay ngoài vùng cấm địa.",
+      "Người cầm đệm húc chắc vào lúc thu bóng — húc vừa phải, không xô đẩy.",
+      "Người ném bắt đầu mỗi lượt bằng nhịp dẫn bóng sống từ cánh."
+    ],
+    "title": "Kết thúc pro hop"
   }
 }

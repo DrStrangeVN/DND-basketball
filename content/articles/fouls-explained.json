@@ -75,72 +75,72 @@
     "free throws"
   ],
   "title": "Fouls Explained",
+  "vi": {
+    "coachingPoints": [
+      "Hô to số lỗi trong đấu tập để cầu thủ học cách quản lý",
+      "Dạy verticality ở rổ — block được mà không phạm lỗi",
+      "Thưởng cầu thủ phòng thủ ép cú ném khó mà không va chạm; đừng thưởng pha cướp bóng liều",
+      "Diễn tập tình huống bonus cuối trận để cầu thủ hiểu khi nào tấn công, khi nào tránh va chạm"
+    ],
+    "commonMistakes": [
+      "Với tay vào người dẫn bóng thay vì di chuyển chân",
+      "Nhảy vào chỗ đáp của người ném — nguy hiểm và luôn là lỗi",
+      "Nắm áo hoặc tay đối thủ khi box out và screen",
+      "Dính lỗi thứ ba ngớ ngẩn vì cãi quyết định ở hiệp hai"
+    ],
+    "description": "Lỗi cá nhân, lỗi ném rổ, lỗi tấn công, lỗi kỹ thuật và lỗi nặng — chúng là gì, giá phải trả, và cách chơi rắn nhưng sạch.",
+    "gameSituations": [
+      "And-one — người ném ghi điểm xuyên va chạm, được thêm một quả phạt",
+      "Bonus — sau giới hạn lỗi đồng đội, mọi lỗi phòng thủ đều cho ném phạt",
+      "Charge hay block — quyết định gây tranh cãi nhất trận, phụ thuộc cầu thủ phòng thủ có đứng vững kịp không",
+      "Phạm lỗi chủ động — đội đang thua phạm lỗi cuối trận để dừng đồng hồ, hy vọng đối phương ném hụt phạt"
+    ],
+    "howTo": [
+      {
+        "detail": "Giữ tư thế, trượt chân, tay giơ lên hoặc dang rộng. Hầu hết lỗi đến từ với tay hoặc níu khi bị vượt — bị vượt thì chạy nước rút hồi về thay vì với tay.",
+        "title": "Phòng thủ bằng chân, không bằng tay"
+      },
+      {
+        "detail": "Khi contest cú ném, nhảy thẳng đứng, tay duỗi thẳng lên. Nhảy vào người ném hoặc quơ xuống tay họ là lỗi ném rổ, cho ném phạt.",
+        "title": "Nhảy thẳng khi contest"
+      },
+      {
+        "detail": "Để bắt charge, bạn phải đứng vững — hai chân chạm đất, mặt đối diện đối thủ — trước khi họ bắt đầu động tác ném lên, và phải ngoài vòng cung vùng cấm địa.",
+        "title": "Đứng vị trí phòng thủ hợp lệ từ sớm"
+      },
+      {
+        "detail": "Là người cầm bóng, bạn không được hạ vai húc qua cầu thủ phòng thủ đã đứng vững, đẩy tay không bóng để tạo khoảng trống, hay móc tay cầu thủ phòng thủ khi đột phá. Đổi hướng hoặc dừng lại thay vì đâm xuyên qua.",
+        "title": "Tránh lỗi tấn công"
+      },
+      {
+        "detail": "Biết mình có bao nhiêu lỗi. Dính hai lỗi sớm, bớt liều với những pha với tay cướp bóng; HLV thường rút bạn ra để giữ cho phút cuối. Khi đội đã vào bonus, mỗi lỗi biếu điểm miễn phí — phòng thủ không va chạm.",
+        "title": "Quản lý số lỗi của mình"
+      },
+      {
+        "detail": "Cãi vã, khiêu khích, hay đu rổ là lỗi kỹ thuật — ném phạt cộng quyền kiểm soát bóng cho đội kia. Chơi đến tiếng còi, để HLV làm việc với trọng tài.",
+        "title": "Giữ bình tĩnh"
+      }
+    ],
+    "tags": [
+      "lỗi cá nhân",
+      "phòng thủ",
+      "luật bóng rổ",
+      "ném phạt"
+    ],
+    "title": "Các loại lỗi trong bóng rổ",
+    "whatIsIt": [
+      "Phạm lỗi là va chạm trái luật — đẩy, giữ, đánh, hoặc ngáng chân đối thủ, hoặc di chuyển vào cầu thủ đã đứng vị trí hợp lệ. Khác với lỗi vi phạm, lỗi cá nhân được ghi vào cầu thủ và vào đội, và có thể cho đối phương ném phạt.",
+      "Các lỗi phổ biến nhất: lỗi cá nhân (va chạm trái luật trong lúc thi đấu), lỗi ném rổ (va chạm với người ném, cho ném phạt), lỗi tấn công hay ‘charge’ (người cầm bóng đâm vào cầu thủ phòng thủ đã đứng vững), và lỗi kỹ thuật (hành vi phi thể thao). Cầu thủ tích đủ lỗi cá nhân — năm lỗi ở FIBA và bóng rổ học đường, sáu lỗi ở NBA — là bị truất quyền thi đấu."
+    ],
+    "whyItMatters": [
+      "Lỗi cá nhân định đoạt trận sít sao. Đội vào bonus được điểm miễn phí ở vạch phạt, ngôi sao dính lỗi ngồi ghế dự bị, và cầu thủ phòng thủ ẩu biếu đối phương điểm dễ. Học phòng thủ rắn mà không phạm lỗi — di chuyển chân thay vì với tay — là một trong những kỹ năng giá trị nhất bóng rổ."
+    ]
+  },
   "whatIsIt": [
     "A foul is illegal contact — pushing, holding, hitting, or tripping an opponent, or moving into a player who has established legal position. Unlike violations, fouls are recorded against individual players and against the team, and they can lead to free throws for the opponent.",
     "The most common fouls: personal fouls (illegal contact during play), shooting fouls (contact on a shooter, which awards free throws), offensive fouls or 'charges' (the ball handler crashing into a set defender), and technical fouls (unsportsmanlike behavior). Players who collect too many personal fouls — five in FIBA and high school, six in the NBA — foul out of the game."
   ],
   "whyItMatters": [
     "Fouls decide close games. Teams in the bonus get free points at the line, star players in foul trouble sit on the bench, and a reckless defender hands the opponent easy scores. Learning to play physical defense without fouling — moving your feet instead of reaching — is one of the most valuable skills in basketball."
-  ],
-  "vi": {
-    "title": "Các Lỗi Trong Bóng Rổ",
-    "description": "Lỗi cá nhân, lỗi ném, lỗi tấn công, lỗi kỹ thuật và lỗi ác ý — chúng là gì, cái giá phải trả, và cách chơi mạnh mẽ nhưng sạch.",
-    "whatIsIt": [
-      "Lỗi là va chạm trái phép — đẩy, giữ, đánh, hoặc ngáng chân đối thủ, hoặc di chuyển vào người một cầu thủ đã thiết lập vị trí hợp lệ. Khác với vi phạm (violation), lỗi được ghi vào từng cầu thủ và vào cả đội, và có thể dẫn đến những quả ném phạt cho đối phương.",
-      "Các lỗi phổ biến nhất: lỗi cá nhân (va chạm trái phép trong lúc chơi), lỗi ném (va chạm với người đang ném, bị phạt bằng ném phạt), lỗi tấn công hay 'charge' (người cầm bóng đâm vào một hậu vệ đã đứng sẵn), và lỗi kỹ thuật (hành vi phi thể thao). Cầu thủ nhận quá nhiều lỗi cá nhân — năm lỗi ở FIBA và bóng rổ học đường, sáu lỗi ở NBA — sẽ bị truất quyền thi đấu."
-    ],
-    "whyItMatters": [
-      "Lỗi quyết định những trận sát nút. Đội đang trong bonus được những điểm miễn phí ở vạch ném phạt, ngôi sao dính rắc rối lỗi phải ngồi dự bị, và một hậu vệ liều lĩnh dâng cho đối phương những điểm số dễ dàng. Học cách phòng thủ mạnh mẽ mà không phạm lỗi — di chuyển chân thay vì với tay — là một trong những kỹ năng giá trị nhất trong bóng rổ."
-    ],
-    "howTo": [
-      {
-        "title": "Phòng thủ bằng chân, không phải bằng tay",
-        "detail": "Giữ tư thế thấp, trượt chân, và giữ tay giơ cao hoặc dang rộng. Hầu hết các lỗi đến từ việc với tay hoặc túm khi bị vượt qua — nếu đã bị qua mặt, hãy chạy nước rút để hồi vị thay vì với tay."
-      },
-      {
-        "title": "Nhảy thẳng khi contest cú ném",
-        "detail": "Khi contest cú ném, nhảy thẳng đứng với hai tay giơ thẳng. Nhảy vào người ném hoặc quạt tay xuống ngang tay họ là lỗi ném và bị phạt ném phạt."
-      },
-      {
-        "title": "Thiết lập vị trí phòng thủ hợp lệ từ sớm",
-        "detail": "Để kiếm lỗi tấn công (charge), bạn phải đứng sẵn — cả hai chân chạm đất, đối mặt đối thủ — trước khi họ bắt đầu động tác nhảy ném, và phải đứng ngoài vòng cung restricted area."
-      },
-      {
-        "title": "Tránh lỗi tấn công",
-        "detail": "Là người cầm bóng, bạn không được hạ vai húc qua một hậu vệ đã đứng sẵn, dùng tay không cầm bóng đẩy để tạo khoảng trống, hay móc tay hậu vệ khi đột phá. Hãy đổi hướng hoặc dừng lại thay vì đâm xuyên qua."
-      },
-      {
-        "title": "Quản lý số lỗi của mình",
-        "detail": "Biết mình đang có bao nhiêu lỗi. Với hai lỗi sớm, hãy chơi ít liều lĩnh hơn trong các pha với tay cướp bóng; huấn luyện viên thường sẽ cho bạn ngồi để bảo vệ bạn cho giai đoạn cuối. Khi đội đã vào bonus, mỗi lỗi là dâng điểm miễn phí — hãy phòng thủ không va chạm."
-      },
-      {
-        "title": "Giữ bình tĩnh",
-        "detail": "Tranh cãi, khiêu khích, hay treo người trên rổ sẽ bị lỗi kỹ thuật — đối phương được ném phạt cộng quyền kiểm soát bóng. Hãy chơi đến khi có còi và để huấn luyện viên làm việc với trọng tài."
-      }
-    ],
-    "coachingPoints": [
-      "Đếm lỗi to tiếng trong các trận đấu tập để cầu thủ học cách quản lý lỗi.",
-      "Dạy verticality ở rổ — block cú ném mà không phạm lỗi.",
-      "Khen thưởng những hậu vệ ép đối thủ ném khó mà không va chạm; đừng khen những pha cướp bóng liều lĩnh.",
-      "Mô phỏng các tình huống bonus cuối trận để cầu thủ hiểu khi nào nên tấn công và khi nào nên tránh va chạm."
-    ],
-    "commonMistakes": [
-      "Với tay vào người dẫn bóng thay vì di chuyển chân.",
-      "Nhảy vào khoảng đáp của tay ném — nguy hiểm và luôn là lỗi.",
-      "Túm áo hoặc túm tay khi box-out và chắn bóng.",
-      "Nhận lỗi thứ ba ngớ ngẩn vì tranh cãi với trọng tài trong hiệp hai."
-    ],
-    "gameSituations": [
-      "And-one — tay ném ghi điểm qua va chạm và được thêm một quả ném phạt.",
-      "Bonus — sau giới hạn lỗi đồng đội, mỗi lỗi phòng thủ đều cho đối phương ném phạt.",
-      "Charge đấu block — quyết định gây tranh cãi nhất, phụ thuộc vào việc hậu vệ đã đứng sẵn kịp thời hay chưa.",
-      "Phạm lỗi chiến thuật — đội đang bị dẫn phạm lỗi cuối trận để dừng đồng hồ và hy vọng đối phương ném phạt trượt."
-    ],
-    "tags": [
-      "lỗi",
-      "phòng thủ",
-      "luật",
-      "ném phạt"
-    ]
-  }
+  ]
 }

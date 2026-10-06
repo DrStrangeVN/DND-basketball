@@ -73,6 +73,67 @@
     "passing"
   ],
   "title": "Maintaining Advantages",
+  "vi": {
+    "coachingPoints": [
+      "Xem phim, đếm những lần cầm bóng có 'chuyền thêm', khen công khai — hành vi được khen sẽ lặp lại.",
+      "Tập duy trì lợi thế bằng 4-đấu-3 liên tục: hàng công phải ghi điểm mà không để hàng thủ hồi về.",
+      "Dạy kỷ luật giãn đội hình — đứng quá gần nhau giết lợi thế nhanh hơn mọi hàng thủ.",
+      "Chuyền thêm là một kỹ năng: tập ném nó trên đà di chuyển, ngay sau khi bắt, trong kiểm soát."
+    ],
+    "commonMistakes": [
+      "Bắt đường chuyền kick-out rồi giữ bóng, để hàng thủ reset.",
+      "Nhận cú ném bị contest trong khi lợi thế chỉ cách một đường chuyền.",
+      "Trôi vào trong vạch 3 điểm, thu hẹp sân cho cả đội.",
+      "Chuyền quá đà: biến cú ném tốt thành để mất bóng vì cố thêm một đường chuyền."
+    ],
+    "description": "Tạo lợi thế mới là nửa công việc. Học cách giữ nó sống — chuyền thêm, tấn công lại và giãn đội hình — đến khi hàng thủ vỡ.",
+    "gameSituations": [
+      "Đột phá-chuyền ra: đường chuyền thêm đảo quanh vòng cung tới góc trống.",
+      "Short roll: người roll bắt bóng trong thế 4-đấu-3, tìm người trống tiếp theo.",
+      "Chuyển trạng thái: người chạy sau giữ pha phản công sống bằng cú đảo nhanh thay vì dừng bóng."
+    ],
+    "howTo": [
+      {
+        "detail": "Bắt bóng đang có lợi thế mà hàng thủ còn rotation thì chuyền cho người trống tiếp theo, đừng nhận cú ném tạm. Một đường chuyền nữa thường biến cú ném tốt thành cú ném tuyệt vời.",
+        "title": "Chuyền thêm một nhịp"
+      },
+      {
+        "detail": "Bắt bóng trên đà di chuyển, đột phá thẳng vào cầu thủ phòng thủ đang hồi về. Đừng bao giờ để cầu thủ rotation đứng vững — đánh vào rotation trước khi nó đáp xuống.",
+        "title": "Tấn công lại rotation"
+      },
+      {
+        "detail": "Đứng rộng, sau vạch 3 điểm để hàng thủ phải bao quát quãng đường tối đa. Ai trôi vào trong là rút ngắn rotation cho đối phương.",
+        "title": "Giữ giãn đội hình"
+      },
+      {
+        "detail": "Bắt, đọc, hành động trong dưới hai giây. Bóng phải di chuyển nhanh hơn chân cầu thủ phòng thủ — mỗi nhịp dẫn thừa là quà cho hàng thủ.",
+        "title": "Bóng di chuyển bằng quyết định nhanh"
+      },
+      {
+        "detail": "Hàng thủ đã hồi đủ và xếp xong cặp đấu thì lợi thế đã hết. Reset hàng công, tạo lợi thế mới thay vì cố cú ném tệ.",
+        "title": "Nhận ra khi lợi thế đã chết"
+      },
+      {
+        "detail": "Đường chuyền cuối phải cho ra cú ném giá trị cao nhất có thể: layup trước, rồi ném 3 điểm trống, rồi mới tới những thứ khác. Kết thúc chuỗi có kỷ luật.",
+        "title": "Kết thúc chuỗi"
+      }
+    ],
+    "tags": [
+      "IQ bóng rổ",
+      "lợi thế",
+      "giãn đội hình",
+      "chuyền bóng"
+    ],
+    "title": "Duy trì lợi thế tấn công",
+    "whatIsIt": [
+      "Duy trì lợi thế nghĩa là giữ hàng thủ trong rotation sau khi đã đánh vỡ nó. Qua mặt được người kèm, trợ giúp tới — rồi sao? Dừng lại là hàng thủ hồi về, lợi thế chết. Giữ bóng di chuyển hoặc tấn công lại cầu thủ phòng thủ tiếp theo, lợi thế lớn dần đến khi có người hoàn toàn trống.",
+      "Công cụ duy trì rất đơn giản: đường chuyền thêm, pha đột phá lại nhanh, và giữ giãn đội hình để hàng thủ không hồi kịp. Đội tấn công hay không chỉ tạo một lợi thế mỗi lần cầm bóng — họ xâu chuỗi: lợi thế, rotation, tấn công lại, cú ném trống."
+    ],
+    "whyItMatters": [
+      "Hầu hết lần cầm bóng lãng phí không phải vì không tạo được lợi thế — mà vì tạo được rồi lại trả nó cho đối phương. Kick-out cho người giữ bóng là mời hàng thủ reset miễn phí. Duy trì lợi thế là thứ tách hàng công tốt khỏi hàng công xuất sắc.",
+      "Nó còn xây niềm tin. Cầu thủ chuyền thêm được đồng đội tin, đội tin nhau thì sẵn sàng chia bóng. Đường chuyền thêm vừa là chiến thuật vừa là văn hóa."
+    ]
+  },
   "whatIsIt": [
     "Maintaining an advantage means keeping the defense in rotation after you have broken it down. You beat your man and the help comes — now what? If you stop, the defense recovers and the advantage dies. If you keep the ball moving or re-attack the next defender, the advantage grows until someone is wide open.",
     "The tools of maintenance are simple: the extra pass, the quick re-drive, and holding your spacing so the defense cannot recover. Great offensive teams do not just create one advantage per possession — they chain them: advantage, rotation, re-attack, open shot."
@@ -80,66 +141,5 @@
   "whyItMatters": [
     "Most wasted possessions are not wasted because no advantage was created — they are wasted because the advantage was created and then given back. A kick-out to a player who holds the ball lets the defense reset for free. Maintaining advantages is what separates good offenses from great ones.",
     "It is also a trust builder. Players who make the extra pass earn their teammates' trust, and trusted teams share the ball willingly. The extra pass is both a tactic and a culture."
-  ],
-  "vi": {
-    "title": "Duy Trì Lợi Thế",
-    "description": "Tạo ra lợi thế mới chỉ là nửa công việc. Hãy học cách giữ nó sống — chuyền thêm một nhịp, tấn công lại, và giữ spacing — cho đến khi hàng phòng thủ gục ngã.",
-    "whatIsIt": [
-      "Duy trì lợi thế nghĩa là giữ hàng phòng thủ trong trạng thái phải xoay xở sau khi bạn đã đánh bại nó. Bạn vượt qua người kèm và người hỗ trợ ập đến — giờ thì sao? Nếu bạn dừng lại, hàng thủ hồi phục và lợi thế biến mất. Nếu bạn tiếp tục luân chuyển bóng hoặc tấn công lại hậu vệ tiếp theo, lợi thế sẽ lớn dần cho đến khi có người hoàn toàn trống trải.",
-      "Công cụ để duy trì rất đơn giản: đường chuyền thêm một nhịp (extra pass), cú đột phá lại nhanh, và giữ spacing để hàng thủ không kịp hồi phục. Các đội tấn công xuất sắc không chỉ tạo một lợi thế mỗi lượt bóng — họ nối chúng lại: lợi thế, xoay xở, tấn công lại, cú ném trống trải."
-    ],
-    "whyItMatters": [
-      "Hầu hết các lượt bóng bị lãng phí không phải vì không tạo được lợi thế — mà vì lợi thế đã được tạo ra rồi lại bị trả lại. Một cú kick-out cho cầu thủ giữ bóng quá lâu sẽ cho hàng thủ cơ hội hồi phục miễn phí. Duy trì lợi thế là điều phân biệt hàng công tốt với hàng công vĩ đại.",
-      "Nó cũng xây dựng niềm tin. Những cầu thủ chuyền thêm một nhịp sẽ chiếm được lòng tin của đồng đội, và các đội tin nhau sẽ sẵn sàng chia sẻ bóng. Đường chuyền thêm vừa là chiến thuật, vừa là văn hóa."
-    ],
-    "howTo": [
-      {
-        "title": "Chuyền thêm một nhịp",
-        "detail": "Khi bạn nhận bóng trong thế có lợi và hàng thủ vẫn đang xoay xở, hãy chuyền cho người trống trải tiếp theo thay vì dừng lại. Một đường chuyền nữa thường biến cú ném tốt thành cú ném tuyệt vời."
-      },
-      {
-        "title": "Tấn công lại người đang xoay xở",
-        "detail": "Nhận bóng khi đang di chuyển và đột phá thẳng vào hậu vệ đang hồi phục. Đừng bao giờ để một hậu vệ đang xoay xở kịp đứng vào vị trí — tấn công họ trước khi họ ổn định."
-      },
-      {
-        "title": "Giữ spacing",
-        "detail": "Đứng rộng và sau vạch ba điểm để hàng thủ phải bao quát mặt sân tối đa. Những cầu thủ đứng chụm vào trong sẽ khiến đường xoay xở của hậu vệ ngắn lại và dễ dàng hơn."
-      },
-      {
-        "title": "Giữ bóng luân chuyển với quyết định nhanh",
-        "detail": "Nhận bóng, đọc tình huống và hành động trong dưới hai giây. Bóng phải di chuyển nhanh hơn tốc độ chạy của hậu vệ — mỗi cú dẫn bóng thừa là một món quà cho hàng thủ."
-      },
-      {
-        "title": "Nhận biết khi lợi thế đã mất",
-        "detail": "Nếu hàng thủ đã hồi phục hoàn toàn và kèm người đầy đủ, lợi thế đã biến mất. Hãy thiết lập lại hàng công và tạo một lợi thế mới thay vì cố ném một cú bóng tệ."
-      },
-      {
-        "title": "Kết thúc chuỗi tấn công",
-        "detail": "Đường chuyền cuối cùng phải tạo ra cú ném có giá trị cao nhất có thể: layup trước, rồi đến cú ba điểm trống trải, rồi mới đến mọi thứ khác. Kết thúc chuỗi tấn công một cách kỷ luật."
-      }
-    ],
-    "coachingPoints": [
-      "Theo dõi các lượt bóng có 'đường chuyền thêm' trên video và khen ngợi công khai — hành vi nào được tuyên dương sẽ được lặp lại.",
-      "Luyện duy trì lợi thế bằng bài 4v3 liên tục: đội tấn công phải ghi điểm mà không để hàng thủ hồi phục.",
-      "Dạy kỷ luật spacing — đứng quá gần nhau giết chết lợi thế nhanh hơn bất kỳ hàng thủ nào.",
-      "Đường chuyền thêm là một kỹ năng: hãy tập chuyền nó khi đang di chuyển, khi vừa nhận bóng, trong trạng thái kiểm soát."
-    ],
-    "commonMistakes": [
-      "Nhận đường chuyền kick-out rồi giữ bóng, để hàng thủ hồi phục.",
-      "Ném một cú bóng bị kèm trong khi chỉ cần một đường chuyền nữa là có lợi thế.",
-      "Trôi vào trong vạch ba điểm và thu hẹp mặt sân của cả đội.",
-      "Chuyền quá nhiều: biến một cú ném tốt thành lỗi mất bóng vì cố chuyền thêm một nhịp nữa."
-    ],
-    "gameSituations": [
-      "Drive-and-kick: đường chuyền thêm luân chuyển quanh biên để đến góc trống trải.",
-      "Short roll: cầu thủ roll nhận bóng trong thế 4-đánh-3 và tìm người trống trải tiếp theo.",
-      "Fast break: cầu thủ trailer giữ pha phản công sống bằng một đường chuyền nhanh thay vì dừng bóng lại."
-    ],
-    "tags": [
-      "bóng rổ iq",
-      "lợi thế",
-      "spacing",
-      "chuyền bóng"
-    ]
-  }
+  ]
 }

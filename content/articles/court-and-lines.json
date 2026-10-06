@@ -116,68 +116,67 @@
     "diagrams"
   ],
   "title": "The Basketball Court & Lines",
+  "vi": {
+    "coachingPoints": [
+      "Dẫn người mới đi quanh sân và gọi tên từng vạch trước mọi bài tập — quen mắt trước đã.",
+      "Dùng vị trí elbow (hai góc của vạch ném phạt) làm mốc cho bài tập ném và cắt.",
+      "Đặt nón đánh dấu các điểm ném 3 khi dạy lựa chọn cú ném để cầu thủ cảm nhận vùng được thêm điểm.",
+      "Nhắc hậu vệ rằng luật 8 giây (FIBA) yêu cầu đưa bóng qua giữa sân đúng giờ."
+    ],
+    "commonMistakes": [
+      "Đứng trong khu vực dưới rổ khi tấn công quá 3 giây.",
+      "Dẫm lên vạch 3 điểm khi ném \"3\", biến thành cú ném 2 điểm.",
+      "Đưa bóng trở lại qua giữa sân sau khi đã qua (lỗi sân sau).",
+      "Bỏ qua vùng cấm địa và hứng lỗi tấn công ở nơi không hợp lệ."
+    ],
+    "description": "Mọi vạch kẻ trên sân đấu và ý nghĩa của chúng — vòng cung 3 điểm, khu vực dưới rổ, vạch ném phạt và vạch giữa sân.",
+    "gameSituations": [
+      "Phản công nhanh — cầu thủ chạy rộng ra góc và rim runner lấp lane vào khu vực dưới rổ.",
+      "Phòng thủ zone — cầu thủ phòng thủ giữ các khu vực quanh khu vực dưới rổ, elbow và vòng cung.",
+      "Phát bóng biên — hầu hết các bài phát bóng bắt đầu ở baseline hoặc đường biên dọc.",
+      "Cuối trận — tay ném giãn ra vòng cung trong khi người dẫn tấn công khu vực dưới rổ."
+    ],
+    "howTo": [
+      {
+        "detail": "Vòng tròn giữa sân là nơi trận đấu bắt đầu bằng pha nhảy tranh bóng. Vạch giữa sân chạy ngang qua giữa — một khi đã đưa bóng qua sang phần sân đối phương, bạn không được dẫn hay chuyền bóng trở lại sân nhà.",
+        "title": "Tìm vòng tròn giữa sân và vạch giữa sân"
+      },
+      {
+        "detail": "Hình chữ nhật ngay dưới mỗi rổ gọi là khu vực dưới rổ. Cầu thủ tấn công không được đứng trong đó quá 3 giây khi đội mình cầm bóng. Mép của nó cũng là nơi nhiều tình huống screen bắt đầu.",
+        "title": "Học khu vực dưới rổ"
+      },
+      {
+        "detail": "Vạch ném phạt cách bảng rổ 4,5m (chuẩn FIBA là 5,8m). Ném phạt thực hiện từ đây. Vòng tròn quanh nó là vòng tròn ném phạt — đỉnh vòng tròn (khu vực \"nail\" hay elbow) là một trong những vị trí quan trọng nhất trên sân cho cắt và screen.",
+        "title": "Biết vạch ném phạt và vòng tròn ném phạt"
+      },
+      {
+        "detail": "Ném từ sau vòng cung này được 3 điểm; trong vòng cung được 2 điểm. Ở NBA, đỉnh vòng cung cách rổ khoảng 7,24m và ở góc là 6,7m. Học khoảng cách của giải mình chơi — nó khác nhau giữa bóng rổ trẻ, FIBA và NBA.",
+        "title": "Xác định vòng cung 3 điểm"
+      },
+      {
+        "detail": "Baseline chạy dưới mỗi rổ; đường biên dọc chạy dọc hai bên. Vòng cung nhỏ dưới rổ là vùng cấm địa — cầu thủ phòng thủ đứng trong đó không được hưởng lỗi tấn công.",
+        "title": "Nhận biết baseline, đường biên dọc và vùng cấm địa"
+      }
+    ],
+    "tags": [
+      "sân đấu",
+      "vạch kẻ",
+      "kiến thức cơ bản"
+    ],
+    "title": "Sân đấu và các vạch kẻ",
+    "whatIsIt": [
+      "Sân đấu chuẩn đầy đủ là hình chữ nhật dài khoảng 29m, rộng 15m ở NBA, và 28m x 15m theo luật FIBA. Các vạch kẻ trên mặt sân quy định bạn được ném ở đâu, đứng ở đâu, dẫn bóng ở đâu, và có bao nhiêu thời gian ở từng khu vực.",
+      "Mỗi vạch kẻ đều có lý do: vòng cung 3 điểm thưởng cho ném xa, khu vực dưới rổ (hình chữ nhật tô màu dưới mỗi rổ) điều chỉnh đánh post và lỗi 3 giây, và vạch giữa sân chia sân thành sân nhà và phần sân đối phương — đã qua rồi thì không được đưa bóng trở lại."
+    ],
+    "whyItMatters": [
+      "Cầu thủ đọc được sân chơi nhanh hơn. Biết chính xác vạch 3 điểm nằm ở đâu thì biết khi nào lùi lại để lấy thêm một điểm; biết khu vực dưới rổ thì biết khi nào phải di chuyển trước khi bị thổi 3 giây. HLV cũng dùng các vạch kẻ làm mốc cho mọi bài tập và chiến thuật."
+    ]
+  },
   "whatIsIt": [
     "A full basketball court is a rectangle 94 feet long and 50 feet wide in the NBA, and 28 meters by 15 meters under FIBA rules. The lines painted on the floor define where you can shoot, stand, dribble, and how much time you have in each area.",
     "Every line exists for a reason: the three-point arc rewards distance shooting, the paint (the colored rectangle under each basket) governs post play and three-second violations, and the half-court line divides the court into your backcourt and frontcourt — you cannot take the ball back across it once you cross."
   ],
   "whyItMatters": [
     "Players who read the court play faster. Knowing exactly where the three-point line sits tells you when to step back for an extra point; knowing the paint tells you when you must move before a three-second call. Coaches also use the lines as reference points for every drill and play."
-  ],
-  "vi": {
-    "coachingPoints": [
-      "Dẫn cầu thủ mới đi quanh sân và gọi tên từng đường kẻ trước mọi bài tập — quen mặt sân bằng mắt trước đã",
-      "Dùng hai khuỷu (góc của đường ném phạt) làm mốc cho các bài tập ném và cắt",
-      "Đánh dấu các vị trí ném ba điểm bằng cone khi dạy chọn vị trí ném để cầu thủ cảm nhận vùng cộng điểm",
-      "Nhắc hậu vệ rằng luật tám giây (FIBA) yêu cầu bóng phải qua sân trước đúng giờ"
-    ],
-    "commonMistakes": [
-      "Đứng trong khu vực hình thang khi tấn công quá ba giây",
-      "Giẫm lên vạch ba điểm trong một cú ném 'ba', biến nó thành cú hai điểm",
-      "Mang bóng trở lại qua sân trước sau khi đã vượt qua (lỗi backcourt)",
-      "Bỏ qua khu vực restricted area và cố lấy lỗi tấn công ở nơi không hợp lệ"
-    ],
-    "description": "Mọi đường kẻ trên sân bóng rổ và ý nghĩa của chúng — vòng ba điểm, khu vực hình thang, đường ném phạt và đường giữa sân.",
-    "gameSituations": [
-      "Phản công nhanh — cầu thủ chạy nước rút rộng ra hai góc, người chạy rổ lấp đầy lane vào khu vực hình thang",
-      "Phòng thủ khu vực — hậu vệ kèm các khu vực xác định bởi hình thang, khuỷu và vòng ba điểm",
-      "Phát bóng biên — hầu hết các bài phát bóng biên bắt đầu ở baseline hoặc đường biên dọc",
-      "Cuối trận — các tay ném giãn ra vòng ba điểm trong khi một người đột phá vào hình thang"
-    ],
-    "howTo": [
-      {
-        "detail": "Vòng tròn giữa sân là nơi trận đấu bắt đầu bằng nhảy tranh bóng. Đường giữa sân chạy ngang qua giữa sân — một khi bạn đã vượt qua nó với bóng ở sân trước, bạn không được dẫn bóng hay chuyền bóng trở lại sân sau.",
-        "title": "Tìm vòng tròn giữa sân và đường giữa sân"
-      },
-      {
-        "detail": "Hình chữ nhật ngay dưới mỗi rổ gọi là paint hay key. Cầu thủ tấn công không được đứng trong đó quá ba giây khi đội mình đang giữ bóng. Mép của nó cũng là nơi nhiều bài chắn bắt đầu.",
-        "title": "Học khu vực hình thang (paint)"
-      },
-      {
-        "detail": "Đường ném phạt cách bảng rổ 15 feet (5,8 m ở FIBA). Ném phạt thực hiện từ đây. Vòng tròn quanh nó là vòng tròn ném phạt — đỉnh của nó (khu vực 'nail' hay 'elbow') là một trong những điểm quan trọng nhất trên sân cho các pha cắt và màn chắn.",
-        "title": "Biết đường ném phạt và vòng tròn"
-      },
-      {
-        "detail": "Những cú ném sau vòng này được tính ba điểm; trong vòng tính hai điểm. Ở NBA, vòng ba điểm cách 23 feet 9 inch ở đỉnh và 22 feet ở góc. Hãy học cự ly của giải mình — nó khác nhau giữa giải trẻ, FIBA và NBA.",
-        "title": "Xác định vòng ba điểm"
-      },
-      {
-        "detail": "Baseline chạy dưới mỗi rổ; đường biên dọc chạy dọc hai bên. Vòng cung nhỏ dưới rổ là khu vực restricted area — hậu vệ đứng trong đó không được lấy lỗi tấn công.",
-        "title": "Nhận biết baseline, đường biên dọc và restricted area"
-      }
-    ],
-    "tags": [
-      "sân bóng",
-      "đường kẻ",
-      "cơ bản",
-      "sơ đồ"
-    ],
-    "title": "Sân Bóng Rổ & Các Đường Kẻ",
-    "whatIsIt": [
-      "Một sân bóng rổ tiêu chuẩn là hình chữ nhật dài 94 feet, rộng 50 feet ở NBA, và 28 m × 15 m theo luật FIBA. Những đường kẻ trên sàn xác định nơi bạn được ném, được đứng, được dẫn bóng, và bạn có bao nhiêu thời gian ở mỗi khu vực.",
-      "Mỗi đường kẻ tồn tại đều có lý do: vòng ba điểm thưởng cho ném xa, paint (hình chữ nhật màu dưới mỗi rổ) chi phối lối chơi post và lỗi ba giây, và đường giữa sân chia sân thành sân sau và sân trước của bạn — bạn không được đưa bóng trở lại qua nó một khi đã vượt qua."
-    ],
-    "whyItMatters": [
-      "Cầu thủ đọc được sân chơi nhanh hơn. Biết chính xác vạch ba điểm ở đâu cho bạn biết khi nào nên lùi lại lấy thêm một điểm; biết paint cho bạn biết khi nào phải di chuyển trước khi bị thổi ba giây. Huấn luyện viên cũng dùng các đường kẻ làm mốc cho mọi bài tập và bài đánh."
-    ]
-  }
+  ]
 }

@@ -70,67 +70,67 @@
     "ball handling"
   ],
   "title": "Crossover Dribble",
+  "vi": {
+    "coachingPoints": [
+      "Động tác thắng bằng vai, không bằng bóng — giả hướng bằng thân trên.",
+      "Giữ bóng nảy thấp: bóng đổi tay ngang ống chân, đừng bao giờ ngang hông.",
+      "Một nhịp gọn thắng ba nhịp lười. Crossover phải dưới một giây.",
+      "Mắt nhìn lên suốt — nhìn ngực và hông đối thủ để đọc họ cắn hướng nào.",
+      "Trụ chân ngoài và bung ra; cú bứt sau nhịp cross quan trọng hơn chính nhịp cross."
+    ],
+    "commonMistakes": [
+      "Nảy bóng quá rộng và quá cao ngang người — sửa: nhắm điểm cross vào trong chân đối diện, thấp và gọn.",
+      "Xách bóng (lòng bàn tay ở dưới) khi cross — sửa: đầu ngón tay luôn trên bóng suốt nhịp đổi.",
+      "Giả chỉ bằng bóng, không bằng người — sửa: hạ vai và chuyển trọng tâm về hướng giả trước.",
+      "Cross ngược vào người đối thủ — sửa: sau nhịp đổi, một nhịp dẫn mạnh ra xa đối thủ, không phải vào họ."
+    ],
+    "description": "Đổi bóng từ tay này sang tay kia trước người để qua mặt đối thủ — động tác nổi tiếng nhất bóng rổ.",
+    "gameSituations": [
+      "Qua mặt một đối thủ trong iso — crossover gọn đóng băng người kèm bóng và mở đường dẫn.",
+      "Tạo khoảng trống cho pull-up — cross để di chuyển đối thủ, rồi dừng lại nhấc người ném trước khi họ hồi.",
+      "Tấn công trong phản công nhanh — một crossover đủ để qua người cuối cùng giữa bạn và rổ."
+    ],
+    "howTo": [
+      {
+        "detail": "Dẫn về phía đối thủ, bóng ở tay phải, người hạ thấp. Để họ tưởng mình có góc — cái bẫy đặt bằng tư thế của bạn.",
+        "title": "Tiếp cận với bóng một bên"
+      },
+      {
+        "detail": "Hạ vai, chuyển trọng tâm, liếc về phía tay đang cầm bóng. Đối thủ phải tin rằng bạn đi hướng đó.",
+        "title": "Giả bằng vai"
+      },
+      {
+        "detail": "Trong một nhịp nhanh, quật bóng thấp ngang người sang tay kia. Điểm bóng nảy ngay trong chân đối diện, dưới đầu gối.",
+        "title": "Quật bóng thấp ngang người"
+      },
+      {
+        "detail": "Đúng lúc bóng đổi tay, trụ chân ngoài và đạp mạnh. Bước đầu tiên bằng tay mới phải ăn đất.",
+        "title": "Bung ra khỏi nhịp đổi"
+      },
+      {
+        "detail": "Một hai nhịp dẫn mạnh, thấp, ra xa đối thủ để tách hẳn. Đừng bao giờ kết thúc động tác bằng dẫn bóng tại chỗ.",
+        "title": "Tấn công khoảng trống vừa tạo"
+      }
+    ],
+    "tags": [
+      "dẫn bóng",
+      "động tác qua người",
+      "kỹ thuật"
+    ],
+    "title": "Kỹ thuật crossover",
+    "whatIsIt": [
+      "Crossover là động tác dẫn bóng đổi bóng từ tay này sang tay kia ngang trước người, thường thấp và nhanh. Mục đích đơn giản: giả một hướng, rồi bung sang hướng ngược lại khi đối thủ đang nghiêng sai bên.",
+      "Đây là động tác dễ nhận biết nhất bóng rổ — và cũng bị lạm dụng nhất. Crossover hay không nằm ở kiểu cách; nó nằm ở nhịp. Một nhịp cross đúng lúc qua mặt đối thủ; năm nhịp màu mè chỉ cho hàng thủ thời gian hồi."
+    ],
+    "whyItMatters": [
+      "Gần như mọi đường dẫn bóng đều bắt đầu bằng đổi hướng, và crossover là cách nhanh nhất để làm điều đó. Cầu thủ sở hữu crossover chắc chắn tự tạo được cú ném ở bất cứ đâu trên sân, đánh bại đối thủ trong iso, và bẻ gãy hàng thủ buộc phải hỗ trợ — mở ra cú ném trống cho đồng đội."
+    ]
+  },
   "whatIsIt": [
     "The crossover is a ball-handling move where you bounce the ball from one hand to the other across the front of your body, usually low and fast. The purpose is simple: fake one direction, then explode the other way while the defender is leaning the wrong way.",
     "It is the most recognizable move in basketball — and the most overused. A good crossover is not about style; it is about timing. One well-timed cross beats a defender; five flashy ones just give the defense time to recover."
   ],
   "whyItMatters": [
     "Almost every drive starts with a change of direction, and the crossover is the fastest way to do it. Players who own a reliable crossover can create their own shot anywhere on the floor, break down defenders in isolation, and collapse defenses that force help — which creates open looks for teammates."
-  ],
-  "vi": {
-    "coachingPoints": [
-      "Động tác thắng bằng vai, không phải bằng bóng — hãy bán hướng giả bằng thân trên",
-      "Giữ bóng nảy thấp: bóng nên đi ngang ở tầm ống chân, không bao giờ ngang thắt lưng",
-      "Một động tác sắc bén thắng ba động tác hời hợt. Một pha crossover nên mất chưa tới một giây",
-      "Mắt ngẩng lên suốt thời gian — quan sát ngực và hông hậu vệ để đọc xem anh ta cắn câu hướng nào",
-      "Đặt chân ngoài và bùng nổ; cú bứt sau pha đổi bóng quan trọng hơn chính pha đổi bóng"
-    ],
-    "commonMistakes": [
-      "Đập bóng quá rộng và quá cao ngang người — cách sửa: nhắm pha đổi bóng vào phía trong chân đối diện, thấp và gọn",
-      "Vác bóng (lòng bàn tay ở dưới bóng) khi đổi — cách sửa: giữ đầu ngón tay trên bóng suốt pha đổi",
-      "Chỉ giả bằng bóng, không giả bằng cơ thể — cách sửa: hạ vai và dồn trọng lượng về hướng giả trước",
-      "Đổi bóng trở lại vào người hậu vệ — cách sửa: sau khi đổi, dẫn một cú mạnh ra xa hậu vệ, không phải về phía anh ta"
-    ],
-    "description": "Đổi bóng từ tay này sang tay kia phía trước cơ thể để vượt hậu vệ — động tác nổi tiếng nhất trong bóng rổ.",
-    "gameSituations": [
-      "Vượt một hậu vệ trong isolation — một pha crossover sắc bén đóng băng hậu vệ kèm bóng và mở đường đột phá",
-      "Tạo khoảng trống cho pull-up — đổi bóng để di chuyển hậu vệ, rồi dừng lại vươn lên ném jumper trước khi anh ta kịp lui về",
-      "Tấn công trong phản công nhanh — một pha crossover có thể đủ để vượt qua hậu vệ cuối cùng giữa bạn và chiếc rổ"
-    ],
-    "howTo": [
-      {
-        "detail": "Dẫn bóng về phía hậu vệ ở phía tay phải, người thấp. Để anh ta tưởng mình đang có góc — cái bẫy được giăng bằng tư thế của bạn.",
-        "title": "Tiếp cận với bóng ở một bên"
-      },
-      {
-        "detail": "Hạ vai, dồn trọng lượng và liếc về phía tay đang cầm bóng. Hậu vệ phải tin rằng bạn sẽ đi hướng đó.",
-        "title": "Bán cú giả bằng vai"
-      },
-      {
-        "detail": "Trong một chuyển động nhanh, gạt bóng thấp ngang qua người sang tay kia. Điểm nảy nên rơi ngay phía trong chân đối diện, dưới đầu gối.",
-        "title": "Gạt bóng thấp ngang người"
-      },
-      {
-        "detail": "Đúng lúc bóng đổi tay, đặt chân ngoài và đạp đà mạnh. Bước đầu tiên với tay mới phải ăn đất.",
-        "title": "Bùng nổ khỏi pha đổi bóng"
-      },
-      {
-        "detail": "Dẫn một hai cú mạnh, thấp ra xa hậu vệ để hoàn tất việc tách ra. Đừng bao giờ kết thúc động tác bằng cách dẫn bóng tại chỗ.",
-        "title": "Tấn công vào khoảng trống vừa tạo"
-      }
-    ],
-    "tags": [
-      "dẫn bóng",
-      "động tác",
-      "xử lý bóng"
-    ],
-    "title": "Động Tác Crossover",
-    "whatIsIt": [
-      "Crossover là động tác dẫn bóng mà bạn đập bóng từ tay này sang tay kia ngang qua phía trước cơ thể, thường thấp và nhanh. Mục đích rất đơn giản: giả một hướng, rồi bùng nổ hướng còn lại trong khi hậu vệ đang nghiêng sai hướng.",
-      "Đây là động tác dễ nhận biết nhất trong bóng rổ — và cũng là động tác bị lạm dụng nhất. Một pha crossover tốt không phải về phong cách; nó là về thời điểm. Một pha đổi bóng đúng lúc vượt qua hậu vệ; năm pha màu mè chỉ cho hàng thủ thời gian lui về."
-    ],
-    "whyItMatters": [
-      "Gần như mọi pha đột phá đều bắt đầu bằng đổi hướng, và crossover là cách nhanh nhất để làm điều đó. Cầu thủ sở hữu một pha crossover đáng tin cậy có thể tự tạo cú ném ở bất cứ đâu trên sân, đánh bại hậu vệ trong isolation, và làm sụp đổ những hàng thủ buộc phải hỗ trợ — từ đó tạo ra những cú ném trống cho đồng đội."
-    ]
-  }
+  ]
 }

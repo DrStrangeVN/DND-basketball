@@ -71,55 +71,55 @@
   ],
   "dateUpdated": "2026-10-06",
   "vi": {
-    "title": "Skip Pass Chuẩn Xác",
-    "description": "Đánh bại zone bằng những đường skip pass cao và chuẩn: chuyền overhead hai tay qua đầu hàng thủ tới các mục tiêu ở weak-side.",
-    "goal": "Chuyền skip pass overhead hai tay từ cự ly 18-22 feet (5,5-6,7m), bóng đi căng và chuẩn, rơi đúng tầm tay người ném ở weak-side mọi lần.",
-    "setup": [
-      "Đặt 5 cọc tiêu làm mục tiêu: hai góc sân, hai cánh và một ở đỉnh — mỗi cọc cách người chuyền 18-22 feet.",
-      "Người chuyền đứng ở một cánh với bóng; đồng đội đứng weak-side làm mục tiêu sống.",
-      "Bắt đầu từ tư thế triple-threat; không được rê bóng trước khi chuyền.",
-      "Tính điểm: trúng cọc sạch được 1 điểm, trừ 1 điểm nếu bóng bay thấp hơn đỉnh cọc."
-    ],
-    "instructions": [
-      {
-        "title": "Đặt chân trụ",
-        "detail": "Bắt bóng ở tư thế triple-threat, vuông vai về phía mục tiêu và bước chân trước về hướng chuyền."
-      },
-      {
-        "title": "Chuyền bổng qua đầu",
-        "detail": "Dùng overhead pass hai tay với điểm release cao — bóng phải bay qua đầu một hậu vệ tưởng tượng cao 7 feet."
-      },
-      {
-        "title": "Đánh trúng cả 5 mục tiêu",
-        "detail": "Đi từ góc lên cánh rồi lên đỉnh, đánh mỗi cọc bằng đường chuyền ngang ngực; cọc nào trượt thì đánh lại."
-      },
-      {
-        "title": "Vòng tay không thuận",
-        "detail": "Lặp lại cả vòng với tay không thuận đặt trên bóng để rèn độ chuẩn cả hai tay."
-      },
-      {
-        "title": "Đua với đồng hồ",
-        "detail": "Chốt bằng vòng 60 giây: bạn đánh trúng bao nhiêu mục tiêu? Ghi lại điểm số mỗi buổi tập."
-      }
-    ],
     "coachingPoints": [
-      "Điểm release phải cao — skip pass chết yểu khi chuyền bẹt vào tay hàng zone.",
-      "Bật cổ tay dứt khoát và follow-through với hai ngón cái chỉ xuống mục tiêu.",
-      "Bước vào mỗi đường chuyền; đà người cho thêm cự ly miễn phí.",
-      "Mắt nhìn mục tiêu, đừng nhìn bóng — khóa mắt vào cọc trước khi chuyền."
+      "Điểm thả bóng cao — skip pass ném thấp sẽ rơi ngay vào tay hàng thủ zone.",
+      "Búng cổ tay, kết thúc động tác với hai ngón cái chúc xuống phía mục tiêu.",
+      "Bước vào từng đường chuyền; đà người cho thêm cự ly miễn phí.",
+      "Mắt nhìn mục tiêu, không nhìn bóng — chốt cọc trong tầm nhìn trước khi chuyền."
     ],
     "commonMistakes": [
-      "Chuyền ngang hông hoặc chuyền ngực mà zone nuốt gọn — mọi lần đều phải overhead.",
-      "Không bước vào đường chuyền nên bóng hụt tầm — sải bước về phía mục tiêu.",
-      "Dán mắt vào một mục tiêu — quét mắt từ góc này sang góc kia như đang đọc zone."
+      "Chuyền ngang vai hoặc chuyền ngực mà zone nuốt chửng — phải chuyền qua đầu mọi lần.",
+      "Không bước vào đường chuyền nên bóng rơi ngắn — bước dài về phía mục tiêu.",
+      "Chằm chằm một mục tiêu — quét từ góc này sang góc kia như đang đọc zone."
     ],
-    "progression": "Thêm một hậu vệ cầm đệm chắn đường chuyền, hoặc đẩy mục tiêu ra 25 feet cho cự ly skip pass tầm NBA.",
-    "regression": "Kéo mục tiêu vào 12 feet, cho phép bounce pass và bỏ bấm giờ.",
-    "gameApplication": "Zone luôn co về phía bóng — một đường skip pass gọn sang weak-side là cách nhanh nhất để tạo ra cú ném 3 trống trải trong trận.",
-    "players": "2+",
+    "description": "Đánh bại zone bằng đường skip pass cao và chính xác: chuyền hai tay qua đầu xuyên qua hàng thủ tới mục tiêu ở weak side.",
     "equipment": [
       "Bóng rổ",
       "Cọc tiêu"
-    ]
+    ],
+    "gameApplication": "Zone luôn co về phía bóng — một đường skip pass gọn sang weak side là cách nhanh nhất mở ra cú ném 3 điểm trống trong trận.",
+    "goal": "Chuyền hai tay qua đầu phẳng và chuẩn từ cự ly 5,5–6,7m, bóng tới đúng tầm ngực của người ném ở weak side mỗi lần.",
+    "instructions": [
+      {
+        "detail": "Nhận bóng vào triple threat, vai vuông góc với mục tiêu, bước chân dẫn về phía đường chuyền.",
+        "title": "Đặt chân"
+      },
+      {
+        "detail": "Chuyền hai tay qua đầu với điểm thả bóng cao — bóng phải bay trên tầm một hậu vệ cao 2,1m tưởng tượng.",
+        "title": "Chuyền qua đầu"
+      },
+      {
+        "detail": "Đi từ góc sang cánh rồi lên đỉnh, mỗi cọc nhận một đường chuyền ngang ngực; cọc nào trượt thì chuyền lại.",
+        "title": "Trúng cả 5 mục tiêu"
+      },
+      {
+        "detail": "Chạy lại vòng với tay không thuận đặt trên bóng để rèn độ chuẩn bằng cả hai tay.",
+        "title": "Vòng tay không thuận"
+      },
+      {
+        "detail": "Kết thúc bằng vòng 60 giây: xem mình trúng sạch bao nhiêu mục tiêu. Ghi lại điểm số mỗi buổi.",
+        "title": "Đua với đồng hồ"
+      }
+    ],
+    "players": "2+",
+    "progression": "Thêm một hậu vệ cầm đệm tranh đường chuyền, hoặc đẩy mục tiêu ra 7,5m cho skip pass tầm xa.",
+    "regression": "Kéo mục tiêu vào 3,5m, cho phép bounce pass và bỏ bấm giờ.",
+    "setup": [
+      "Cắm 5 cọc tiêu làm mục tiêu: hai góc, hai cánh và một ở đỉnh vòng cung — mỗi cọc cách người chuyền 5,5–6,7m.",
+      "Người chuyền đứng một cánh cầm bóng; đồng đội đứng weak side làm mục tiêu sống.",
+      "Xuất phát ở tư thế triple threat; không được rê bóng trước khi chuyền.",
+      "Tính điểm: trúng cọc sạch được 1 điểm, trừ 1 điểm nếu đường chuyền thấp hơn đỉnh cọc."
+    ],
+    "title": "Skip pass chuẩn xác"
   }
 }

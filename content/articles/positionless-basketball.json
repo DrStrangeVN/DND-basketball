@@ -82,64 +82,64 @@
     "The game has moved this way at every level, from the NBA down to youth leagues. Players who only learned one traditional role get left behind; versatile players fit any system and any lineup. For coaches, positionless principles unlock lineups that are harder to guard and defenses that are harder to screen. For young players, it is simple: the more skills you have, the more valuable you are."
   ],
   "vi": {
-    "title": "Bóng Rổ Hiện Đại Không Vị Trí Cố Định",
-    "description": "Bóng rổ hiện đại không vị trí cố định — kỹ năng hơn thể hình, phòng ngự switch, tấn công five-out và cách phát triển cầu thủ đa năng.",
-    "whatIsIt": [
-      "Bóng rổ positionless là triết lý hiện đại cho rằng kỹ năng quan trọng hơn vị trí truyền thống. Thay vì cứng nhắc point guard, shooting guard, small forward, power forward và center, các đội tung ra năm cầu thủ đa năng, ai cũng dẫn bóng, ném, chuyền và phòng ngự được nhiều vị trí.",
-      "Điều đó không có nghĩa vị trí biến mất — mà là chúng linh hoạt. Một cầu thủ cao 6-foot-9 có thể đưa bóng lên, ném ba điểm và kèm point guard. Đội hình trở nên nhỏ hơn, nhanh hơn và kỹ năng hơn, với giãn cách five-out và phòng ngự switch làm nền tảng."
+    "coachingPoints": [
+      "Trong buổi tập trẻ, cấm câu “em là center” — giao kỹ năng, không dán nhãn",
+      "Tập các bài positionless: mọi cầu thủ đều dẫn bóng, ném, screen và phòng ngự post",
+      "Đánh giá cầu thủ bằng kỹ năng (ném, dẫn bóng, IQ), không chỉ chiều cao",
+      "Dạy phòng ngự switch từ sớm — đó là xương sống phòng ngự của lối chơi positionless"
     ],
-    "whyItMatters": [
-      "Trận đấu đã đi theo hướng này ở mọi cấp độ, từ NBA xuống các giải trẻ. Cầu thủ chỉ học một vai trò truyền thống sẽ bị bỏ lại; cầu thủ đa năng phù hợp mọi hệ thống và mọi đội hình. Với HLV, nguyên tắc positionless mở ra đội hình khó kèm hơn và hàng thủ khó screen hơn. Với cầu thủ trẻ, điều đó thật đơn giản: càng nhiều kỹ năng, bạn càng có giá trị."
+    "commonMistakes": [
+      "Chơi đội hình nhỏ mà không có kế hoạch rebound — bị đè bẹp dưới rổ",
+      "Năm cầu thủ đều ném được nhưng không ai kèm được post",
+      "Nhầm positionless với vô tổ chức — vai trò vẫn tồn tại, chỉ linh hoạt hơn",
+      "Ép một thiếu niên cao 2,03m chỉ ném 3 điểm thay vì phát triển cả kỹ năng đánh trong"
+    ],
+    "description": "Bóng rổ hiện đại không vị trí cố định — kỹ năng hơn thể hình, phòng ngự switch, tấn công five-out và cách phát triển cầu thủ đa năng.",
+    "gameSituations": [
+      "Đội hình small-ball — đổi thể hình lấy tốc độ và khả năng ném trong những lúc then chốt",
+      "Switch mọi thứ — vô hiệu hóa screen bằng cách đổi người kèm",
+      "Tấn công five-out — cả năm cầu thủ giãn cách, ai cũng đột phá hoặc ném được",
+      "Săn cặp đấu lệch — ép hậu vệ yếu nhất bị switch ra kèm tay ghi điểm hay nhất của bạn"
     ],
     "howTo": [
       {
-        "title": "Phát triển kỹ năng, không phải vị trí",
-        "detail": "Mọi cầu thủ, bất kể thể hình, đều nên dẫn bóng, ném xa, chuyền khi di chuyển và phòng ngự nhiều vị trí. Xây dựng cầu thủ toàn diện trước; vai trò đến sau."
+        "detail": "Mọi cầu thủ, bất kể thể hình, đều nên dẫn bóng, ném xa, chuyền khi di chuyển và phòng ngự nhiều vị trí. Xây cầu thủ toàn diện trước; vai trò tới sau.",
+        "title": "Phát triển kỹ năng, không phải vị trí"
       },
       {
-        "title": "Chơi five-out",
-        "detail": "Giãn cả năm cầu thủ quanh vòng ba điểm. Không còn big man truyền thống chen chúc trong paint, các làn đột phá luôn mở và hàng thủ phải kèm cả sân."
+        "detail": "Giãn cả năm cầu thủ quanh vòng 3 điểm. Không còn big truyền thống chen chúc trong khu vực dưới rổ, các đường đột phá luôn mở, hàng thủ phải kèm cả sân.",
+        "title": "Chơi five-out"
       },
       {
-        "title": "Switch khi phòng ngự",
-        "detail": "Khi mọi hậu vệ đều kèm được nhiều vị trí, đội có thể switch hầu hết các screen thay vì chen qua. Switch đơn giản hóa phòng ngự và vô hiệu hóa các pha screen của đối thủ."
+        "detail": "Mọi hậu vệ đều kèm được nhiều vị trí, đội có thể switch hầu hết screen thay vì chen qua. Switch đơn giản hóa phòng ngự, vô hiệu hóa các pha screen của đối thủ.",
+        "title": "Switch khi phòng ngự"
       },
       {
-        "title": "Săn mismatch",
-        "detail": "Các đội positionless săn mismatch không ngừng: big bị switch ra kèm guard sẽ bị tấn công bằng dribble; cầu thủ nhỏ bị switch vào kèm big sẽ bị đánh post. Tạo ra pha switch, rồi khai thác nó."
+        "detail": "Đội positionless săn cặp đấu lệch không ngừng: big bị switch ra kèm guard sẽ bị đánh bằng dẫn bóng; cầu thủ nhỏ bị switch vào kèm big sẽ bị đánh post. Tạo ra pha switch, rồi khai thác nó.",
+        "title": "Săn cặp đấu lệch"
       },
       {
-        "title": "Rebound tập thể",
-        "detail": "Không có center truyền thống, ai cũng phải rebound. Dạy cả năm cầu thủ box out và tranh bóng — rebound đồng đội thắng việc trông chờ vào một big man."
+        "detail": "Không có center truyền thống, ai cũng phải rebound. Dạy cả năm cầu thủ box out và tranh bóng — rebound đồng đội thắng việc trông chờ vào một big.",
+        "title": "Rebound tập thể"
       },
       {
-        "title": "Nâng IQ của đội",
-        "detail": "Bóng rổ positionless đòi hỏi IQ cao: đọc tình huống liên tục, quyết định nhanh và chuyển vai trò mượt mà. Xem video, học mọi chiến thuật, và nghĩ trước trận đấu hai đường chuyền."
+        "detail": "Bóng rổ positionless đòi hỏi IQ cao: đọc tình huống liên tục, quyết định nhanh, chuyển vai trò mượt mà. Xem video, học mọi bài đánh, nghĩ trước trận đấu hai đường chuyền.",
+        "title": "Nâng IQ của đội"
       }
-    ],
-    "coachingPoints": [
-      "Trong buổi tập trẻ, cấm câu \"em là center\" — giao kỹ năng, không dán nhãn.",
-      "Tập các bài positionless: mọi cầu thủ đều dẫn bóng, ném, screen và phòng ngự post.",
-      "Đánh giá cầu thủ dựa trên kỹ năng (ném, dẫn bóng, IQ), không chỉ chiều cao.",
-      "Dạy phòng ngự switch từ sớm — đó là xương sống phòng ngự của lối chơi positionless."
-    ],
-    "commonMistakes": [
-      "Chơi đội hình nhỏ mà không có kế hoạch rebound, bị đè bẹp dưới rổ.",
-      "Năm cầu thủ đều ném được nhưng không ai kèm được post.",
-      "Nhầm positionless với vô tổ chức — vai trò vẫn tồn tại, chỉ là linh hoạt hơn.",
-      "Ép một thiếu niên cao 6-foot-8 chỉ ném ba điểm thay vì phát triển cả kỹ năng đánh trong."
-    ],
-    "gameSituations": [
-      "Đội hình small-ball — đánh đổi thể hình lấy tốc độ và khả năng ném trong những thời điểm then chốt.",
-      "Switch mọi thứ — vô hiệu hóa screen bằng cách đổi người kèm.",
-      "Tấn công five-out — cả năm cầu thủ giãn cách, ai cũng có thể đột phá hoặc ném.",
-      "Săn mismatch — đưa hậu vệ yếu nhất bị switch ra kèm tay ghi điểm hay nhất của bạn."
     ],
     "tags": [
       "không vị trí cố định",
       "hiện đại",
       "đa năng",
       "chiến thuật"
+    ],
+    "title": "Bóng rổ hiện đại không vị trí cố định",
+    "whatIsIt": [
+      "Bóng rổ positionless là triết lý hiện đại: kỹ năng quan trọng hơn vị trí truyền thống. Thay vì cứng nhắc point guard, shooting guard, small forward, power forward và center, các đội tung ra năm cầu thủ đa năng — ai cũng dẫn bóng, ném, chuyền và phòng ngự được nhiều vị trí.",
+      "Điều đó không có nghĩa vị trí biến mất — mà là chúng linh hoạt. Một cầu thủ cao 2,06m có thể đưa bóng lên, ném 3 điểm và kèm point guard. Đội hình nhỏ hơn, nhanh hơn, kỹ năng hơn, với giãn cách five-out và phòng ngự switch làm nền tảng."
+    ],
+    "whyItMatters": [
+      "Trận đấu đã đi theo hướng này ở mọi cấp độ, từ NBA xuống các giải trẻ. Cầu thủ chỉ học một vai trò truyền thống sẽ bị bỏ lại; cầu thủ đa năng hợp mọi hệ thống và mọi đội hình. Với HLV, nguyên tắc positionless mở ra đội hình khó kèm hơn và hàng thủ khó screen hơn. Với cầu thủ trẻ, điều đó rất đơn giản: càng nhiều kỹ năng, bạn càng có giá trị."
     ]
   }
 }

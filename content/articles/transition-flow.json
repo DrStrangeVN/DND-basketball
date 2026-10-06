@@ -66,52 +66,52 @@
   "first-six-seconds"
  ],
  "vi": {
-  "title": "Chảy Vào Tấn Công Half-Court",
-  "description": "Pha phản công không tạo ra cú ném — giờ chảy thẳng vào tấn công mà không reset và tha cho hàng thủ.",
+  "title": "Chuyển vào tấn công nửa sân (flow)",
+  "description": "Pha phản công không ra cú ném — giờ chảy thẳng vào hệ thống tấn công mà không dừng lại để hàng thủ thoát hiểm.",
   "whatIsIt": [
-   "Flow vào tấn công nghĩa là chuyển liền mạch từ phản công nhanh sang các bài half-court khi không có cú ném ngay — không dừng bóng, không dẫn bộ ra, không để hàng thủ ổn định. Pha break thành bài đánh đầu tiên của tấn công, không phải một giai đoạn riêng.",
-   "Flow tốt trông như này: bóng đảo một lần, big theo sau dựng chắn bóng, và đột nhiên bạn ở trong PNR hay nhất với hàng thủ còn đang lùi. Possession không cho hàng thủ một hơi thở nào."
+   "Chảy vào tấn công nghĩa là chuyển mượt từ pha phản công nhanh sang các bài tấn công nửa sân khi không có cú ném ngay — không dừng bóng, không dắt bóng lùi ra, không để hàng thủ ổn định. Pha phản công thành đòn đánh đầu tiên của hệ thống tấn công, không phải một giai đoạn riêng.",
+   "Flow tốt trông thế này: bóng đảo một lần, big chạy sau đặt screen, và đột nhiên đội đã ở bài PNR hay nhất trong lúc hàng thủ còn đang lùi. Cả đợt tấn công không cho hàng thủ một hơi thở."
   ],
   "whyItMatters": [
-   "Hầu hết possession transition kết thúc chẳng được gì vì các đội coi 'không có layup phản công' là 'reset mọi thứ.' Reset đó là món quà cho hàng thủ. Các đội flow ghi thêm 8–12 điểm mỗi trận chỉ bằng cách tấn công trước khi hàng thủ ổn định xong."
+   "Hầu hết các đợt phản công kết thúc tay trắng vì các đội coi “không có layup phản công” là “làm lại từ đầu”. Lần làm lại đó là món quà cho hàng thủ. Đội biết flow ghi thêm 8–12 điểm mỗi trận chỉ bằng cách tấn công trước khi hàng thủ kịp ổn định xong."
   ],
   "howTo": [
    {
     "title": "Giữ bóng di chuyển",
-    "detail": "Khi break chững lại, đảo bóng sang phía yếu ngay — một đường chuyền, không phải năm nhịp dẫn. Di chuyển bóng giữ hàng thủ xoay trong khi cầu thủ chạy vào vị trí."
+    "detail": "Khi pha phản công chững lại, đảo bóng sang phía yếu ngay — một đường chuyền, không phải năm nhịp dẫn. Bóng di chuyển giữ hàng thủ xoay trong lúc cầu thủ chạy nước rút vào vị trí."
    },
    {
-    "title": "Dùng big theo sau",
-    "detail": "Người lên sau cùng — thường là big — nên chảy thẳng vào chắn bóng hoặc DHO. Anh ta đến nơi khi hàng thủ còn đang kèm người, đó là thời điểm chắn hoàn hảo."
+    "title": "Dùng big chạy sau",
+    "detail": "Người lên sân cuối cùng — thường là big — chảy thẳng vào một screen hoặc DHO. Anh ta đến đúng lúc hàng thủ còn đang tìm người kèm, thời điểm đặt screen hoàn hảo."
    },
    {
-    "title": "Chạy early offense",
-    "detail": "Có 2–3 bài early cố định (floppy, pistol, drag screen) tự động kích hoạt khi break chết. Không cần gọi bài — cầu thủ cứ chảy vào."
+    "title": "Chạy bài tấn công sớm",
+    "detail": "Có 2–3 đòn đánh sớm cố định (floppy, pistol, drag screen) tự động kích hoạt khi pha phản công tắt. Không cần gọi bài — cầu thủ cứ chảy vào."
    },
    {
     "title": "Tấn công closeout, không phải hậu vệ đã ổn định",
-    "detail": "Toàn bộ ý nghĩa của flow là bắt hậu vệ lúc đang xoay. Đột phá closeout đầu tiên bạn thấy — đó là lợi thế mà break tạo cho bạn."
+    "detail": "Toàn bộ ý nghĩa của flow là bắt hậu vệ đang xoay. Đột phá qua closeout đầu tiên thấy được — đó là lợi thế pha phản công tạo ra."
    }
   ],
   "coachingPoints": [
-   "Định nghĩa 'flow' cho đội bạn — 2-3 bài early tự động, drill hàng ngày.",
-   "Đường chuyền đầu sau khi break chững là đường chuyền quan trọng nhất possession.",
-   "Không bao giờ để point guard nhấc bóng ở giữa sân để 'sắp xếp' — đó là reset, không phải flow."
+   "Định nghĩa “flow” cho đội mình — 2–3 đòn đánh sớm tự động, tập hàng ngày.",
+   "Đường chuyền đầu tiên sau khi pha phản công chững lại là đường chuyền quan trọng nhất của đợt tấn công.",
+   "Không bao giờ để hậu vệ dẫn bóng nhấc bóng ở nửa sân để “dàn xếp” — đó là làm lại, không phải flow."
   ],
   "commonMistakes": [
-   "Dừng bóng ở đỉnh trong khi mọi người đi bộ vào vị trí.",
-   "Chạy bài mất 10 giây để bắt đầu — lợi thế đã mất.",
-   "Cố ném transition tệ thay vì flow — flow là khi break đã chết, không phải để chữa cháy."
+   "Dừng bóng ở đỉnh trong lúc mọi người đi bộ về vị trí.",
+   "Chạy bài mất 10 giây mới bắt đầu — lợi thế đã bay.",
+   "Ép cú ném phản công tệ thay vì flow — flow dành cho lúc pha phản công đã chết, không phải để chữa cháy."
   ],
   "gameSituations": [
-   "Khi hàng thủ đã có hai người về nhưng chưa kèm xong.",
-   "Sau khi đối thủ ghi điểm — đẩy vào early offense trước khi họ dựng thủ.",
-   "Với đội hình sâu: flow giữ nhịp cao và hàng thủ mệt."
+   "Khi hàng thủ về được hai người nhưng chưa kèm xong.",
+   "Sau khi đối thủ ghi điểm — đẩy vào tấn công sớm trước khi họ dựng hàng thủ.",
+   "Với đội hình sâu: flow giữ nhịp độ cao và hàng thủ mệt."
   ],
   "tags": [
-   "transition",
+   "phản công",
    "tấn công",
-   "phản công"
+   "chuyển trạng thái"
   ]
  },
  "id": "transition-flow",

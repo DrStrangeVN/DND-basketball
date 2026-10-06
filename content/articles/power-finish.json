@@ -79,60 +79,60 @@
     "Referees reward players who play through contact in balance. A power finish turns defensive physicality into fouls and three-point plays, while finesse finishes under the same contact often just miss. It's also simply more reliable — two feet, one bump absorbed, one clean look."
   ],
   "vi": {
-    "title": "Kết Thúc Mạnh (Power Finish)",
-    "description": "Dừng lại bằng hai chân, kéo bóng xuyên qua va chạm và kết thúc mạnh mẽ ở rổ — kiểu lên rổ của các \"big man\".",
-    "whatIsIt": [
-      "Kết thúc mạnh (power finish) là cú dừng hai chân ở rổ rồi kết thúc quyết liệt, thăng bằng — thường đưa bóng lên mạnh xuyên qua va chạm. Đây là kiểu kết thúc quen thuộc của các big man và những cầu thủ đột phá mạnh khi gặp kháng cự trong khu vực hình thang.",
-      "Thay vì né tránh va chạm, bạn đón lấy nó: dừng bằng hai chân, dùng thân dưới hấp thụ cú húc, rồi bật lên dứt điểm. Nền tảng hai chân khiến bạn khó bị đẩy văng và dễ kiếm được pha and-one hơn."
+    "coachingPoints": [
+      "Hai chân là hai sức mạnh: thăng bằng và khả năng chịu va chạm mà không chạy bước",
+      "Tìm thân người của hậu vệ, đừng tìm tay họ — va chạm ngực-đối-ngực là lỗi của họ",
+      "Trong đám đông, bóng không bao giờ xuống dưới thắt lưng — đó là nơi bị thọc mất bóng",
+      "Kết thúc bằng cú chạm mềm, đừng cố úp rổ; sức mạnh ở khâu chuẩn bị, tinh tế ở cú kết thúc",
+      "Nhận bóng ở khu vực dưới rổ, ôm bóng lên cằm ngay khi bắt — khuỷu tay mở ra, sẵn sàng xoay trục"
     ],
-    "whyItMatters": [
-      "Trọng tài thường thổi có lợi cho cầu thủ chơi xuyên va chạm trong thế thăng bằng. Một pha kết thúc mạnh biến sự quyết liệt của phòng ngự thành lỗi và những pha 3 điểm (and-one), trong khi những pha kết thúc mềm mại dưới cùng mức va chạm thường chỉ đơn giản là trượt. Nó cũng đơn giản là đáng tin cậy hơn — hai chân, một cú húc được hấp thụ, một cú nhìn rổ sạch."
+    "commonMistakes": [
+      "Nhảy một chân đâm vào hậu vệ rồi ngã văng ra — mất thăng bằng, mất luôn tiếng còi",
+      "Hạ bóng xuống thấp để “lấy đà” — sẽ bị thọc mất; giữ bóng cao",
+      "Kết thúc về phía người hậu vệ thay vì vươn ra xa khỏi va chạm",
+      "Dừng hẳn động tác khi bị húc — chơi xuyên qua; pha kết thúc bị dừng lại chỉ là trượt"
+    ],
+    "description": "Dừng lại bằng hai chân, kéo bóng xuyên qua va chạm và kết thúc mạnh ở rổ — kiểu lên rổ của các big.",
+    "gameSituations": [
+      "Bắt bóng ở post khi hậu vệ đã dùng thân đè bạn — jump stop, bật lên xuyên qua ngực đối phương",
+      "Rebound tấn công — gom bóng bằng hai chân rồi bật lên mạnh thay vì chạm nhẹ đầu ngón tay",
+      "Đột phá vào một hậu vệ hỗ trợ đã đứng sẵn — dừng sớm, hấp thụ va chạm, kết thúc hoặc kiếm and-one"
     ],
     "howTo": [
       {
-        "title": "Đột vào vùng va chạm",
-        "detail": "Tấn công khu vực hình thang sâu với bóng đặt ở hông ngoài. Bạn muốn va chạm ngực hoặc vai của hậu vệ, chứ không phải cú với tay vào bóng."
+        "detail": "Tấn công khu vực dưới rổ sâu với bóng ở hông ngoài. Bạn muốn va chạm ngực hoặc vai của hậu vệ, không phải cú với tay vào bóng.",
+        "title": "Đột phá vào vùng va chạm"
       },
       {
-        "title": "Jump stop đón va chạm",
-        "detail": "Đặt cả hai chân xuống cùng lúc — chân rộng hơn vai một chút, gối gập. Nền tảng phải vững trước khi cú húc đến, chứ không phải sau."
+        "detail": "Đặt cả hai chân xuống cùng lúc — chân rộng hơn vai một chút, gối gập. Nền tảng phải vững trước khi cú húc tới, không phải sau.",
+        "title": "Jump stop đón va chạm"
       },
       {
-        "title": "Kéo bóng lên mạnh",
-        "detail": "Đưa bóng từ thấp lên cao theo một đường thẳng, khỏe — \"xé\" xuyên qua va chạm. Giữ khuỷu tay sát người và bóng luôn trên ngang thắt lưng."
+        "detail": "Đưa bóng từ thấp lên cao theo một đường thẳng, khỏe — “xé” xuyên qua va chạm. Giữ khuỷu tay sát người, bóng luôn trên ngang thắt lưng.",
+        "title": "Kéo bóng lên mạnh"
       },
       {
-        "title": "Hấp thụ rồi bật lên",
-        "detail": "Để đôi chân chịu cú húc, rồi bật mạnh lên bằng cả hai chân. Kết thúc bằng tay xa hậu vệ, dùng bảng rổ cho cú chạm bóng mềm, tỉ lệ thành công cao."
+        "detail": "Để đôi chân chịu cú húc, rồi bật mạnh lên bằng cả hai chân. Kết thúc bằng tay xa hậu vệ, dùng bảng rổ cho cú chạm mềm, tỷ lệ cao.",
+        "title": "Hấp thụ rồi bật lên"
       },
       {
-        "title": "\"Bán\" lỗi cho trọng tài",
-        "detail": "Giữ động tác ném tự nhiên, liên tục xuyên suốt cú va. Trọng tài thổi lỗi cho cầu thủ kết thúc mạnh trong thế thăng bằng — còn vung tay loạn xạ hay ném bừa thì chẳng được gì."
+        "detail": "Giữ động tác ném tự nhiên, liên tục xuyên suốt cú va chạm. Trọng tài thổi lỗi cho cầu thủ kết thúc mạnh trong thế thăng bằng — vung tay loạn xạ hay ném bừa thì chẳng được gì.",
+        "title": "“Bán” lỗi cho trọng tài"
       }
-    ],
-    "coachingPoints": [
-      "Hai chân là hai sức mạnh: thăng bằng và khả năng chịu va chạm mà không bị thổi bước.",
-      "Tìm thân người của hậu vệ, đừng tìm tay họ — va chạm ngực-đối-ngực là lỗi của họ.",
-      "Trong đám đông, bóng không bao giờ xuống dưới thắt lưng — đó là nơi bị thọc mất bóng.",
-      "Kết thúc bằng cú chạm mềm, đừng cố đập rổ; sức mạnh nằm ở khâu chuẩn bị, sự tinh tế nằm ở cú kết thúc.",
-      "Nếu nhận bóng trong khu vực hình thang, hãy \"cằm bóng\" (chin the ball) ngay khi bắt — khuỷu tay mở ra, sẵn sàng xoay trụ."
-    ],
-    "commonMistakes": [
-      "Nhảy một chân đâm vào hậu vệ rồi ngã văng ra — mất thăng bằng, mất luôn tiếng còi.",
-      "Hạ bóng xuống thấp để \"lấy đà\" — sẽ bị thọc mất; giữ bóng cao.",
-      "Kết thúc về phía người hậu vệ thay vì vươn ra xa khỏi va chạm.",
-      "Dừng hẳn động tác khi bị húc — hãy chơi xuyên qua; một pha kết thúc bị dừng lại chỉ đơn giản là trượt."
-    ],
-    "gameSituations": [
-      "Bắt bóng ở post khi hậu vệ đã dùng thân đè bạn — jump stop, bật lên xuyên qua ngực đối phương.",
-      "Bắt bóng bật bảng tấn công — gom bóng bằng hai chân rồi bật lên mạnh thay vì chạm nhẹ đầu ngón tay.",
-      "Đột vào một hậu vệ hỗ trợ đã đứng sẵn — dừng sớm, hấp thụ va chạm, kết thúc hoặc kiếm and-one."
     ],
     "tags": [
       "kết thúc",
       "hai chân",
       "va chạm",
       "đánh post"
+    ],
+    "title": "Kết thúc mạnh (power finish)",
+    "whatIsIt": [
+      "Power finish là cú dừng hai chân ở rổ rồi kết thúc quyết liệt, thăng bằng — thường đưa bóng lên mạnh xuyên qua va chạm. Đây là kiểu kết thúc quen thuộc của các big và những cầu thủ đột phá mạnh khi gặp kháng cự ở khu vực dưới rổ.",
+      "Thay vì né va chạm, bạn đón lấy nó: dừng bằng hai chân, dùng thân dưới hấp thụ cú húc, rồi bật lên dứt điểm. Nền tảng hai chân khiến bạn khó bị đẩy văng, dễ kiếm pha and-one hơn."
+    ],
+    "whyItMatters": [
+      "Trọng tài thưởng cho cầu thủ chơi xuyên va chạm trong thế thăng bằng. Một pha kết thúc mạnh biến sự quyết liệt của phòng ngự thành lỗi và những pha and-one, trong khi những pha kết thúc mềm dưới cùng mức va chạm thường chỉ trượt. Nó cũng đơn giản là đáng tin cậy hơn — hai chân, một cú húc được hấp thụ, một cú nhìn rổ sạch."
     ]
   }
 }

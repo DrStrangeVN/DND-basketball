@@ -40,53 +40,53 @@
   "related": ["form-shooting","three-point-star","free-throw-routine"],
   "dateUpdated": "2026-10-06",
   "vi":   {
-    "title": "Thang Ném Theo Điểm",
-    "description": "Chuỗi ném có cấu trúc quanh vòng cung rèn tầm ném, nhịp footwork và biến số lượng cú ném thành trò chơi vui, dễ theo dõi.",
-    "goal": "Phát triển tầm ném và sự chuẩn bị cú ném ổn định bằng cách ném đủ số lần vào từ 5 điểm quanh vòng cung.",
-    "setup": [
-      "Đặt 5 cọc thành thang quanh rổ: góc phải, wing phải, đỉnh vòng, wing trái, góc trái.",
-      "Bắt đầu ở cọc góc phải, cự ly midrange — đẩy cọc ra xa dần khi bạn tiến bộ.",
-      "Tự mang bóng hoặc tập với người rebound; chuẩn bị điện thoại để ghi số lần vào."
-    ],
-    "instructions": [
-      {
-        "title": "Vào 5 quả ở điểm 1",
-        "detail": "Ném đến khi vào 5 quả từ góc phải, rồi chuyển cọc tiếp theo — không được bỏ điểm."
-      },
-      {
-        "title": "Giữ chân sẵn sàng",
-        "detail": "Đến mỗi điểm với chân đã đặt, gối gập, tay sẵn sàng trước khi nhận bóng."
-      },
-      {
-        "title": "Nhận thấp và nâng lên",
-        "detail": "Nhận bóng thấp và nâng thẳng vào cú ném trong một động tác mượt — không hạ bóng hay khựng lại."
-      },
-      {
-        "title": "Chạy thang 2 lượt",
-        "detail": "Hoàn thành cả 5 điểm (25 lần vào), rồi chạy thang ngược lại theo thứ tự đảo cho lượt thứ hai."
-      },
-      {
-        "title": "Tự chấm điểm",
-        "detail": "Đếm tổng số lần ném qua cả 2 lượt và cố phá kỷ lục ở buổi sau."
-      }
-    ],
     "coachingPoints": [
-      "Cùng một sự chuẩn bị cú ném ở mọi điểm — đừng để góc ném làm thay đổi form.",
-      "Giữ follow-through và dõi bóng bằng mắt.",
+      "Chuẩn bị cú ném giống nhau ở mọi điểm — đừng để góc sân làm hỏng form.",
+      "Giữ follow-through, mắt dõi theo bóng.",
       "Di chuyển giữa các điểm khẩn trương nhưng đặt lại chân hoàn toàn trước khi ném.",
-      "Thở ra khi release để giữ thả lỏng."
+      "Thở ra khi thả bóng để giữ người thả lỏng."
     ],
     "commonMistakes": [
-      "Vội release khi chân chưa đặt — những cú trượt dài/ngắn đến từ chuẩn bị cẩu thả, không phải từ tay.",
-      "Trôi ngang ở những quả 3 điểm góc — giữ người thẳng đứng và tiếp đất cân bằng."
+      "Vội thả bóng khi chân chưa đặt — ném thiếu hoặc thừa lực đều do chuẩn bị ẩu, không phải do tay.",
+      "Nghiêng người ở cú ném góc — giữ người thẳng đứng, tiếp đất thăng bằng."
     ],
-    "progression": "Đẩy mọi điểm ra vạch 3 điểm, thêm một nhịp rê đổi chỗ giữa các điểm, hoặc yêu cầu vào liên tiếp mới được lên điểm.",
-    "regression": "Rút thang còn 3 điểm (wing phải, đỉnh, wing trái) và ném từ 8-10 feet (2,5-3m) thay vì vòng cung.",
-    "gameApplication": "Trận đấu thưởng cho những tay ném sẵn sàng ở mọi điểm — bài này rèn footwork và nhịp điệu bạn cần sau những đường drive-and-kick và skip pass.",
-    "players": "1",
+    "description": "Chuỗi ném có cấu trúc quanh vòng cung: rèn tầm ném, nhịp bộ chân và biến số lần ném thành cuộc chơi có điểm số.",
     "equipment": [
       "Bóng rổ",
       "Cọc tiêu"
-    ]
+    ],
+    "gameApplication": "Trận đấu thưởng cho tay ném sẵn sàng ở mọi điểm — bài này rèn bộ chân và nhịp cần cho những cú ném sau drive-and-kick và skip pass.",
+    "goal": "Phát triển tầm ném và sự chuẩn bị cú ném ổn định bằng cách ném đủ số lần trúng từ 5 điểm quanh vòng cung.",
+    "instructions": [
+      {
+        "detail": "Ném đến khi trúng 5 quả từ góc phải rồi mới sang cọc tiếp — không nhảy điểm.",
+        "title": "Trúng 5 quả ở điểm 1"
+      },
+      {
+        "detail": "Tới mỗi điểm với chân đã đặt, gối trùng, tay sẵn sàng trước khi nhận bóng.",
+        "title": "Chân luôn sẵn sàng"
+      },
+      {
+        "detail": "Nhận bóng thấp rồi nâng thẳng vào cú ném trong một nhịp mượt — không nhún thêm, không dừng.",
+        "title": "Nhận thấp, nâng thẳng"
+      },
+      {
+        "detail": "Hoàn thành cả 5 điểm (25 lần trúng) rồi chạy ngược thang lại từ đầu cho lượt hai.",
+        "title": "Chạy thang hai lượt"
+      },
+      {
+        "detail": "Đếm tổng số lần ném của cả hai lượt và cố phá kỷ lục ở buổi sau.",
+        "title": "Tự chấm điểm"
+      }
+    ],
+    "players": "1",
+    "progression": "Đẩy mọi điểm ra vạch 3 điểm, thêm một nhịp rê đổi chỗ giữa các điểm, hoặc yêu cầu trúng liên tiếp mới được qua điểm.",
+    "regression": "Rút thang còn 3 điểm (cánh phải, đỉnh, cánh trái) và ném từ 2,5–3m thay vì vòng cung.",
+    "setup": [
+      "Cắm 5 cọc theo thang quanh rổ: góc phải, cánh phải, đỉnh vòng cung, cánh trái, góc trái.",
+      "Bắt đầu ở cọc góc phải, tầm ném trung bình — đẩy cọc lùi dần khi tiến bộ.",
+      "Tự mang bóng hoặc tập với người rebound; chuẩn bị điện thoại để ghi số lần trúng."
+    ],
+    "title": "Thang ném theo điểm"
   }
 }

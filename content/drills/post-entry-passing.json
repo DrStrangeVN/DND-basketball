@@ -64,47 +64,47 @@
   ],
   "dateUpdated": "2026-10-06",
   "vi": {
-    "title": "Chuyền Bóng Vào Post",
-    "description": "Đưa bóng vào post đúng cách mọi lúc: bounce pass khi bị fronting, lob qua đầu khi bị kèm sau, và chuyền thẳng khi đã seal — kèm tiến trình seal-và-đọc.",
-    "goal": "Chuyền vào post chính xác trước cả ba kiểu kèm — front, kèm sau và 3/4 — không mất bóng.",
-    "setup": [
-      "Người chuyền ở wing, big man ở block, hậu vệ kèm post.",
-      "Xoay vai trò mỗi 3 phút.",
-      "Bắt đầu không phòng thủ, rồi thêm từng kiểu kèm."
-    ],
-    "instructions": [
-      {
-        "title": "Chuyền thẳng khi kèm sau",
-        "detail": "Khi hậu vệ kèm sau, chuyền một tay mạnh bằng bounce hoặc chest pass tới vai ngoài — dẫn big man ra xa help defender."
-      },
-      {
-        "title": "Bounce pass khi bị fronting",
-        "detail": "Khi bị fronting, giả ném cao rồi bounce pass thấp về phía baseline nơi chỉ đồng đội với tới."
-      },
-      {
-        "title": "Lob qua đầu",
-        "detail": "Khi hậu vệ nhỏ con hoặc big man đã seal sâu, lob cao nơi chỉ big man bắt được."
-      },
-      {
-        "title": "Seal và đọc",
-        "detail": "Big man seal, người chuyền đọc kiểu kèm và chọn đúng một trong ba đường chuyền — hậu vệ hô to kiểu kèm trước, rồi đấu live."
-      }
-    ],
     "coachingPoints": [
-      "Chuyền tới vai ngoài — tránh xa hậu vệ, luôn luôn.",
-      "Giả trước khi chuyền; chuyền mà không giả trước hậu vệ đã vào vị trí là mất bóng.",
-      "Big man phải seal trước — không seal, không chuyền vào."
+      "Chuyền tới vai ngoài — tránh xa hậu vệ, luôn luôn như vậy.",
+      "Động tác giả trước khi chuyền; chuyền thẳng mặt hậu vệ đã vào vị trí mà không giả là mất bóng.",
+      "Big man phải seal trước — không seal thì không chuyền vào."
     ],
     "commonMistakes": [
-      "Lob khi big man chưa seal — đó là pha cướp bóng.",
-      "Chuyền vào giữa post nơi hậu vệ đang đứng."
+      "Lob khi big man chưa seal — đó là pha biếu bóng.",
+      "Chuyền vào giữa post, đúng chỗ hậu vệ đang đứng."
     ],
-    "progression": "Chơi live 2v2: chuyền vào rồi đánh tiếp từ post.",
-    "regression": "Không phòng thủ — chỉ luyện ba góc chuyền.",
-    "gameApplication": "Mọi thứ trong tấn công nửa sân bắt đầu từ việc đưa bóng đến đúng chỗ — chuyền vào post sạch biến lợi thế chiều cao thành điểm số thay vì turnover.",
-    "players": "3",
+    "description": "Đưa bóng vào post đúng cách mọi lần: bounce pass khi bị front, lob qua đầu khi bị kèm sau, chuyền thẳng khi đã seal — kèm tiến trình từ seal đến đọc tình huống.",
     "equipment": [
       "Bóng rổ"
-    ]
+    ],
+    "gameApplication": "Mọi thứ trong tấn công nửa sân đều bắt đầu từ việc đưa bóng đến đúng chỗ — những đường chuyền vào post sạch biến lợi thế chiều cao thành điểm số thay vì mất bóng.",
+    "goal": "Chuyền vào post chính xác trước cả ba kiểu kèm — front, kèm sau và kèm 3/4 — không để mất bóng.",
+    "instructions": [
+      {
+        "detail": "Khi hậu vệ kèm sau lưng, chuyền một tay chắc bằng bounce hoặc chuyền ngực tới vai ngoài — dẫn big man ra xa người help.",
+        "title": "Chuyền thẳng khi bị kèm sau"
+      },
+      {
+        "detail": "Khi bị front, động tác giả ném cao rồi bounce pass thấp về phía baseline, nơi chỉ đồng đội với tới.",
+        "title": "Bounce pass khi bị front"
+      },
+      {
+        "detail": "Khi hậu vệ nhỏ con hơn hoặc big man đã seal sâu, lob cao lên chỗ chỉ big man bắt được.",
+        "title": "Lob qua đầu"
+      },
+      {
+        "detail": "Big man seal trước, người chuyền đọc kiểu kèm rồi chọn một trong ba đường chuyền — hậu vệ hô to kiểu kèm trước, sau đó đấu live.",
+        "title": "Seal rồi đọc"
+      }
+    ],
+    "players": "3",
+    "progression": "Chơi 2v2 live: chuyền vào post rồi đánh tiếp từ đó.",
+    "regression": "Không phòng thủ — chỉ luyện nhuần nhuyễn ba góc chuyền.",
+    "setup": [
+      "Người chuyền ở cánh, big man ở block, hậu vệ kèm người đánh post.",
+      "Xoay vai trò mỗi 3 phút.",
+      "Bắt đầu không phòng thủ, rồi thêm từng kiểu kèm vào."
+    ],
+    "title": "Chuyền bóng vào post"
   }
 }

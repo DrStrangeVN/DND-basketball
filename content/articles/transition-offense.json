@@ -150,61 +150,61 @@
     "Transition baskets are the cheapest points in basketball — layups against a scrambling defense instead of contested shots against a set one. Teams that win the transition battle usually win the game, because they score efficiently while forcing the opponent to sprint back on every possession, wearing them down. Teaching transition early builds the habit of playing fast with purpose."
   ],
   "vi": {
-    "coachingPoints": [
-      "Ba bước đầu tiên sau khi bắt bóng bật bảng quyết định đợt phản công — chạy nước rút ngay lập tức",
-      "Bóng phải di chuyển bằng đường chuyền, không phải dẫn bóng — đường chuyền nhanh hơn bất kỳ cầu thủ nào",
-      "Lấp đầy các làn rộng và sâu: người chạy rổ ở giữa, các cánh ở làn ngoài",
-      "Tấn công rổ trước, rồi đọc tình huống: layup, chuyền ra, hoặc pull-up",
-      "Nếu không có gì trong 4–5 giây, hãy chuyển sang tấn công sớm — đừng bao giờ cố ép"
-    ],
-    "commonMistakes": [
-      "Dẫn bóng cả đợt phản công thay vì đưa bóng lên bằng đường chuyền",
-      "Mọi người chạy về phía bóng — các làn sụp đổ và hàng thủ hồi phục",
-      "Người chạy rổ chạy bộ — rổ dễ nhất trong bóng rổ biến mất",
-      "Cố ném một cú tệ sớm thay vì chuyển sang đánh nửa sân"
-    ],
-    "description": "Tấn công chuyển trạng thái: biến bắt bóng bật bảng và cướp bóng thành phản công nhanh — chuyền outlet, chạy làn, và tấn công trước khi hàng thủ vào vị trí.",
-    "gameSituations": [
-      "Sau một pha bắt bóng bật bảng phòng thủ — tín hiệu phản công nhanh kinh điển",
-      "Sau một pha cướp bóng hoặc chạm bóng ở sân trống",
-      "Sau một pha block mà đội bạn giành lại bóng",
-      "Sau một cú ném đã vào trước một đội lùi về chậm (phản công đợt hai)"
-    ],
-    "howTo": [
-      {
-        "detail": "Người bắt bóng bật bảng kiểm soát bóng và ngay lập tức nhìn lên sân — cằm ngẩng, khuỷu tay dang ra. Đường chuyền outlet khởi động đợt phản công; một đường outlet chậm sẽ giết chết nó.",
-        "title": "Kiểm soát bóng và nhìn lên"
-      },
-      {
-        "detail": "Hậu vệ gần nhất lao tới vị trí outlet — thường là đường biên dọc ngang vạch ném phạt kéo dài — giơ tay làm mục tiêu và hô xin bóng.",
-        "title": "Chuyền outlet cho hậu vệ"
-      },
-      {
-        "detail": "Các cầu thủ cánh chạy nước rút theo làn ngoài — rộng và sâu, chạm đường biên dọc — trong khi big man (người chạy rổ) chạy thẳng giữa sân tới rổ. Ba làn đường, tốc độ tối đa.",
-        "title": "Chạy nước rút theo các làn"
-      },
-      {
-        "detail": "Đưa bóng lên bằng đường chuyền bất cứ khi nào có thể: outlet cho cánh, cánh cho người chạy rổ. Bóng bay trong không khí nhanh hơn bất kỳ pha dẫn bóng nào.",
-        "title": "Đưa bóng lên bằng đường chuyền"
-      },
-      {
-        "detail": "Tấn công rổ trước tiên: nếu rổ trống, hãy lên layup. Nếu hàng thủ co cụm, chuyền ra cho cầu thủ cánh chạy sau. Nếu hàng thủ hồi phục, hãy ném pull-up hoặc chuyển sang đánh nửa sân.",
-        "title": "Tấn công rổ trước, rồi đọc tình huống"
-      }
-    ],
-    "tags": [
-      "chuyển trạng thái",
-      "phản công nhanh",
-      "tấn công",
-      "chạy"
-    ],
-    "title": "Tấn công chuyển trạng thái",
-    "whatIsIt": [
-      "Tấn công chuyển trạng thái là tấn công trước khi hàng thủ kịp vào vị trí — biến một pha bắt bóng bật bảng, cướp bóng, hay thậm chí một cú ném đã vào thành cơ hội ghi điểm trong vài giây đầu của lượt bóng. Đó là lối tấn công nhanh nhất, hiệu quả nhất trong bóng rổ vì nó tấn công một hàng thủ đang thiếu người và rối loạn.",
-      "Phép tính rất đơn giản: một hàng thủ cần khoảng năm giây để tìm người kèm và tổ chức. Mỗi giây bạn tấn công trong khoảng thời gian đó, số điểm kỳ vọng của bạn tăng lên. Những đội chuyển trạng thái hay không chỉ chạy nhanh — họ chạy có cấu trúc: các làn đường xác định, một người chạy rổ, và quả bóng di chuyển bằng đường chuyền."
-    ],
-    "whyItMatters": [
-      "Những pha ghi điểm trong chuyển trạng thái là những điểm số rẻ nhất trong bóng rổ — những pha layup trước hàng thủ đang rối loạn thay vì những cú ném bị tranh chấp trước hàng thủ đã vào vị trí. Những đội thắng cuộc chiến chuyển trạng thái thường thắng trận, vì họ ghi điểm hiệu quả trong khi ép đối phương phải chạy nước rút về sau mọi lượt bóng, bào mòn họ. Dạy chuyển trạng thái sớm xây dựng thói quen chơi nhanh có mục đích."
-    ]
-  }
+  "title": "Tấn công phản công (transition offense)",
+  "description": "Tấn công phản công: biến rebound và cướp bóng thành pha phản công nhanh — đường chuyền phát động, làn chạy, và tấn công trước khi hàng thủ ổn định.",
+  "whatIsIt": [
+   "Tấn công phản công là tấn công trước khi hàng thủ kịp ổn định — biến rebound, cướp bóng, hay thậm chí một rổ đã ghi thành cơ hội ghi điểm trong vài giây đầu của đợt tấn công. Đây là hệ thống tấn công nhanh và hiệu quả nhất vì nó đánh vào hàng thủ đang thua số và rối loạn.",
+   "Toán học rất đơn giản: hàng thủ cần khoảng năm giây để kèm xong và tổ chức. Mỗi giây tấn công trong cửa sổ đó, điểm kỳ vọng của đội càng tăng. Đội phản công giỏi không chỉ chạy nhanh — họ chạy có cấu trúc: làn chạy rõ ràng, rim runner, và bóng di chuyển bằng đường chuyền."
+  ],
+  "whyItMatters": [
+   "Rổ trong phản công là những điểm rẻ nhất — layup trước hàng thủ đang rối thay vì ném bị contest trước hàng thủ đã ổn định. Đội thắng cuộc chiến phản công thường thắng trận đấu, vì họ ghi điểm hiệu quả trong lúc ép đối thủ chạy nước rút về mỗi đợt tấn công, bào mòn thể lực họ. Dạy phản công sớm xây thói quen chơi nhanh có mục đích."
+  ],
+  "howTo": [
+   {
+    "title": "Giữ bóng chắc và ngẩng lên",
+    "detail": "Người rebound giữ chắc bóng rồi ngẩng lên ngay — cằm cao, khuỷu tay dang. Đường chuyền phát động khởi động pha phản công; phát động chậm giết chết nó."
+   },
+   {
+    "title": "Phát động cho hậu vệ",
+    "detail": "Hậu vệ gần nhất bật ra điểm phát động — thường là biên dọc ở ngang vạch ném phạt kéo dài — giơ tay xin bóng và gọi thành tiếng."
+   },
+   {
+    "title": "Chạy nước rút đúng làn",
+    "detail": "Cánh chạy nước rút ở làn ngoài — rộng và sâu, chạm biên dọc — trong lúc big (rim runner) chạy nước rút thẳng giữa sân lên rổ. Ba làn, tốc độ tối đa."
+   },
+   {
+    "title": "Đưa bóng lên bằng đường chuyền",
+    "detail": "Bóng lên sân bằng đường chuyền bất cứ khi nào có thể: phát động ra cánh, cánh lên cho rim runner. Bóng bay nhanh hơn mọi nhịp dẫn."
+   },
+   {
+    "title": "Tấn công rổ trước, rồi đọc",
+    "detail": "Tấn công rổ trước tiên: rổ trống thì layup. Hàng thủ sập vào thì kick ra cho cánh chạy sau. Hàng thủ hồi về thì pull-up hoặc chảy vào tấn công."
+   }
+  ],
+  "coachingPoints": [
+   "Ba bước đầu sau rebound quyết định pha phản công — chạy nước rút ngay.",
+   "Bóng phải di chuyển bằng đường chuyền, không phải dẫn bóng — đường chuyền nhanh hơn mọi cầu thủ.",
+   "Lấp làn rộng và sâu: rim runner giữa, cánh ở làn ngoài.",
+   "Tấn công rổ trước, rồi đọc: layup, kick-out, hoặc pull-up.",
+   "Nếu 4–5 giây không có gì, chảy vào tấn công sớm — không bao giờ ép."
+  ],
+  "commonMistakes": [
+   "Dẫn bóng cả pha phản công thay vì đưa bóng lên bằng đường chuyền.",
+   "Mọi người chạy về phía bóng — làn sập, hàng thủ hồi về.",
+   "Rim runner chạy thả lỏng — rổ dễ nhất bóng rổ biến mất.",
+   "Ép cú ném tệ từ sớm thay vì chảy vào tấn công nửa sân."
+  ],
+  "gameSituations": [
+   "Sau rebound phòng thủ — cò súng kinh điển của pha phản công.",
+   "Sau cướp bóng hoặc chạm bóng ở sân trống.",
+   "Sau cú block mà đội mình giành được bóng.",
+   "Sau khi đối thủ ghi điểm, đấu đội lui chậm (đợt phản công thứ hai)."
+  ],
+  "tags": [
+   "phản công",
+   "phản công nhanh",
+   "tấn công",
+   "chạy chỗ"
+  ]
+ }
 }

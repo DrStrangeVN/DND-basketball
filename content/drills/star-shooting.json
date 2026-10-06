@@ -64,48 +64,48 @@
   ],
   "dateUpdated": "2026-10-06",
   "vi": {
-    "title": "Ném Hình Ngôi Sao",
-    "description": "Bài ném 5 điểm theo thứ tự hình sao — góc phải, cánh trái, đỉnh, cánh phải, góc trái — rèn khả năng sẵn sàng ném từ mọi góc.",
-    "goal": "Ném trúng 2 quả ở mỗi điểm trong 5 điểm theo thứ tự sao với form ổn định.",
-    "setup": [
-      "Đánh dấu 5 điểm quanh vạch ba điểm: góc phải, cánh trái, đỉnh vòng, cánh phải, góc trái.",
-      "Một người ném, một người bắt rebound/chuyền; đổi vai sau khi người ném hoàn thành vòng sao.",
-      "Đặt mục tiêu: tổng 10 quả trúng (2 quả mỗi điểm) theo đúng thứ tự sao."
-    ],
-    "instructions": [
-      {
-        "title": "Chạy Vòng Sao",
-        "detail": "Ném theo thứ tự sao: góc phải, cánh trái, đỉnh, cánh phải, góc trái. Sprint di chuyển giữa các điểm. Phải trúng 2 quả ở một điểm mới được sang điểm tiếp. Người chuyền phải chuyền đúng nhịp, đúng tầm."
-      },
-      {
-        "title": "Chân Tay Sẵn Sàng",
-        "detail": "Đến mỗi điểm, chân đã đặt và tay đã sẵn sàng trước khi bóng tới. Mỗi cú ném phải từ bước 1-2 hoặc hop catch — không ném khi chân đứng yên. Đếm số quả trúng to tiếng."
-      },
-      {
-        "title": "Thêm Đồng Hồ",
-        "detail": "Khi đã quen với 10 quả trúng, thêm đồng hồ 3 phút: chạy vòng sao liên tục thì trúng được bao nhiêu quả? Sang điểm tiếp theo sau 2 quả trúng bất kể số lần hỏng."
-      },
-      {
-        "title": "Step-Back Kết Thúc",
-        "detail": "Kết thúc bằng một vòng sao mà mọi cú ném đều là step-back ba điểm sau khi bắt bóng — bắt bóng, một nhịp dẫn mạnh lùi lại, bật lên ném. Mô phỏng tạo khoảng trống trước closeout."
-      }
-    ],
     "coachingPoints": [
-      "Chân và tay sẵn sàng trước khi bắt bóng — cú ném bắt đầu trước khi bóng tới.",
-      "Cùng một shooting pocket và follow-through ở cả năm điểm.",
-      "Sprint giữa các điểm như đang di chuyển trong trận đấu thật.",
+      "Chân và tay sẵn sàng trước khi nhận bóng — cú ném bắt đầu trước khi bóng tới.",
+      "Túi bóng và follow-through giống nhau ở cả 5 điểm.",
+      "Chạy nước rút giữa các điểm như đang đổi chỗ trong trận thật.",
       "Giữ follow-through đến khi bóng chạm vành rổ."
     ],
     "commonMistakes": [
-      "Chạy bộ thong thả giữa các điểm, tập thành thói quen di chuyển lười.",
-      "Đổi form ném ở góc vì cảm thấy góc ném khác."
+      "Chạy bộ lừ đừ giữa các điểm — rèn thói quen đổi chỗ lười biếng.",
+      "Đổi cơ chế ném ở cú ném góc vì cảm giác góc khác."
     ],
-    "progression": "Lùi cả 5 điểm ra cự ly NBA, hoặc yêu cầu 3 quả trúng mỗi điểm mới được sang điểm tiếp.",
-    "regression": "Ném tầm trung ở cùng 5 điểm đến khi trúng 12/15 quả, rồi mới ra vạch ba điểm.",
-    "gameApplication": "Rèn di chuyển chỗ và ném catch-and-shoot từ mọi điểm trên sân, đúng như spacing quanh pha đột phá.",
-    "players": "2",
+    "description": "Bài ném 5 điểm theo thứ tự hình sao — góc, cánh đối diện, đỉnh, cánh, góc đối diện — rèn khả năng sẵn sàng ném từ mọi hướng.",
     "equipment": [
       "Bóng rổ"
-    ]
+    ],
+    "gameApplication": "Rèn di chuyển chỗ và bắt bóng ném ngay từ mọi điểm trên sân, đúng như giãn đội hình quanh một pha đột phá.",
+    "goal": "Trúng 2 quả ở mỗi điểm trong 5 điểm theo thứ tự sao với form ổn định.",
+    "instructions": [
+      {
+        "detail": "Ném theo thứ tự sao: góc phải, cánh trái, đỉnh, cánh phải, góc trái. Chạy nước rút giữa các điểm. Phải trúng 2 quả ở một điểm mới được sang điểm tiếp. Người chuyền chuyền đúng lúc, đúng tầm.",
+        "title": "Chạy vòng sao"
+      },
+      {
+        "detail": "Tới mỗi điểm với chân đã đặt, tay sẵn sàng trước khi bóng tới. Mọi cú ném phải xuất phát từ bước 1-2 hoặc bắt bóng nhảy lên — không ném khi chân chưa sẵn. Đếm to số lần trúng.",
+        "title": "Chân tay sẵn sàng khi nhận"
+      },
+      {
+        "detail": "Khi 10 lần trúng đã dễ, thêm đồng hồ 3 phút: xem mình chạy sao liên tục được bao nhiêu lần trúng. Sang điểm tiếp sau 2 lần trúng bất kể trượt bao nhiêu.",
+        "title": "Thêm đồng hồ"
+      },
+      {
+        "detail": "Kết thúc bằng một vòng sao mà mọi cú ném là step-back 3 điểm sau khi nhận — nhận bóng, một nhịp rê mạnh lùi lại, bật lên ném. Mô phỏng tạo khoảng trống trước closeout.",
+        "title": "Kết thúc bằng step-back"
+      }
+    ],
+    "players": "2",
+    "progression": "Lùi cả 5 điểm ra cự ly xa hơn, hoặc yêu cầu 3 lần trúng mỗi điểm mới được qua điểm.",
+    "regression": "Ném tầm trung ở cùng 5 điểm đến khi trúng 12/15 quả, rồi mới ra vạch 3 điểm.",
+    "setup": [
+      "Đánh dấu 5 điểm quanh vòng cung: 3 điểm góc phải, 3 điểm cánh trái, đỉnh vòng cung, 3 điểm cánh phải, 3 điểm góc trái.",
+      "Một người ném, một người rebound/chuyền; đổi vai sau khi người ném chạy xong vòng sao.",
+      "Đặt mục tiêu: tổng 10 lần trúng (2 quả mỗi điểm) theo đúng thứ tự sao."
+    ],
+    "title": "Ném hình ngôi sao"
   }
 }

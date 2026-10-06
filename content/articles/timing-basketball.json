@@ -82,64 +82,64 @@
     "Timing also protects the ball. Most live-ball turnovers are timing errors, not skill errors: the pass was fine, it was just a second late. Fix the timing and the turnovers disappear."
   ],
   "vi": {
-    "coachingPoints": [
-      "Dùng khẩu lệnh ('đi!') lúc đầu, rồi bỏ dần để cầu thủ học cách đọc các tín hiệu hình ảnh.",
-      "Xem băng là cách nhanh nhất để dạy thời điểm — dừng lại và hỏi 'quá sớm, quá muộn, hay vừa đúng?'",
-      "Các trận đấu nhỏ (3-đấu-3, 4-đấu-4) tự nhiên trừng phạt thời điểm tệ và thưởng cho thời điểm tốt.",
-      "Dạy sự kiên nhẫn: đứng yên trước khi bứt tốc là một phần của thời điểm, không phải thiếu nó."
-    ],
-    "commonMistakes": [
-      "Cắt trước khi người chuyền sẵn sàng đưa bóng.",
-      "Slip tấm chắn quá sớm, trước khi người dẫn bóng kịp tận dụng.",
-      "Bật nhảy quá sớm khi tranh bóng bật bảng và tranh chấp cú ném, tiếp đất đúng lúc bóng tới.",
-      "Vội vàng ném ngay khi bắt bóng thay vì đến nơi trong tư thế sẵn sàng và điềm tĩnh."
-    ],
-    "description": "Làm chủ thời điểm trong bóng rổ — khi nào cắt, khi nào chuyền, khi nào ném — kỹ năng vô hình đằng sau mọi pha bóng hay.",
-    "gameSituations": [
-      "Pha cắt backdoor đúng lúc đầu hậu vệ quay về phía bóng.",
-      "Pick and roll: người chắn giữ tấm chắn một nhịp rồi mới roll vào rổ.",
-      "Phản công: người chạy sau căn thời điểm tới đỉnh vòng để nhận đường kick-out ném ba điểm."
-    ],
-    "howTo": [
-      {
-        "detail": "Với các pha cắt và chắn, hãy chờ tín hiệu — hậu vệ quay mặt đi, bóng qua nửa sân — rồi mới di chuyển. Đến muộn nửa giây còn hơn đến sớm ba giây.",
-        "title": "Đến muộn còn hơn đến sớm"
-      },
-      {
-        "detail": "Bắt đầu pha cắt khi vai người chuyền vuông góc và mắt họ hướng về bạn, không phải khi bạn thấy muốn di chuyển. Người chuyền đưa bóng theo nhịp; nhiệm vụ của bạn là khớp với nhịp đó.",
-        "title": "Đọc sự sẵn sàng của người chuyền"
-      },
-      {
-        "detail": "Với bắt bóng bật bảng và tranh chấp cú ném, hãy rời mặt đất khi bóng gần tới đỉnh, không phải trước đó. Căn cú nhảy để gặp bóng, không phải để bật cao hơn mọi người.",
-        "title": "Căn thời điểm bật nhảy, không chỉ chạy đà"
-      },
-      {
-        "detail": "Đếm 'một-một-nghìn' sau va chạm rồi mới roll hoặc pop. Slip quá sớm để cả hai hậu vệ ở lại với người dẫn bóng và giết chết pha bóng.",
-        "title": "Giữ tấm chắn"
-      },
-      {
-        "detail": "Đưa đường chuyền để nó gặp người cắt đúng đà, hơi đón đầu họ một chút. Một đường chuyền muộn sau lưng người cắt biến lợi thế thành mất bóng.",
-        "title": "Chuyền đúng lúc, đúng đích"
-      },
-      {
-        "detail": "Thêm đếm ngược, một hậu vệ thật, hoặc giới hạn hai lần chạm vào các bài tập. Thời điểm học được trong điều kiện giới hạn sẽ chuyển sang trận đấu; thời điểm học trong môi trường cô lập thì không.",
-        "title": "Tập với các giới hạn"
-      }
-    ],
-    "tags": [
-      "iq bóng rổ",
-      "thời điểm",
-      "không bóng",
-      "chuyền bóng"
-    ],
-    "title": "Thời điểm trong bóng rổ",
-    "whatIsIt": [
-      "Thời điểm là làm đúng việc vào đúng lúc. Một pha cắt chỉ tốt khi nó tới đúng lúc người chuyền có thể đưa bóng; một tấm chắn chỉ hiệu quả khi người dẫn bóng tận dụng nó đúng khoảnh khắc nó được dựng. Bóng rổ là trò chơi của những 'cửa sổ' — chúng mở ra và đóng lại trong tích tắc.",
-      "Thời điểm tốt trông thật nhẹ nhàng vì cầu thủ di chuyển cùng pha bóng thay vì trước hay sau nó. Pha cắt backdoor diễn ra đúng lúc đầu hậu vệ quay đi; đường chuyền pocket tới đúng lúc người roll khóa chặt người kèm. Thời điểm là sự đoán trước, và sự đoán trước được xây dựng qua lặp lại và xem băng."
-    ],
-    "whyItMatters": [
-      "Hai cầu thủ có thể chạy cùng một miếng đánh mà cho kết quả hoàn toàn khác — sự khác biệt là thời điểm. Những pha cắt sai thời điểm thành mất bóng, chuyền sớm thành bị chạm bóng, closeout muộn thành những cú ba điểm trống. Huấn luyện viên tin tưởng những cầu thủ có thời điểm tốt vì họ làm cả hàng công trôi chảy.",
-      "Thời điểm còn bảo vệ quả bóng. Hầu hết các pha mất bóng sống là lỗi thời điểm, không phải lỗi kỹ năng: đường chuyền vẫn ổn, chỉ là muộn một giây. Sửa thời điểm và những pha mất bóng sẽ biến mất."
-    ]
-  }
+  "title": "Canh thời điểm trong bóng rổ (timing)",
+  "description": "Làm chủ nhịp điệu bóng rổ — khi nào cắt, khi nào chuyền, khi nào ném — kỹ năng vô hình đứng sau mọi pha bóng hay.",
+  "whatIsIt": [
+   "Timing là làm đúng việc vào đúng lúc. Pha cắt chỉ hay khi nó đến đúng lúc người chuyền có thể đưa bóng; screen chỉ hiệu quả khi người dẫn bóng dùng nó đúng khoảnh khắc nó được đặt. Bóng rổ là trò chơi của những cửa sổ — chúng mở ra và đóng lại trong tích tắc.",
+   "Timing tốt trông nhẹ nhàng vì cầu thủ di chuyển cùng nhịp với pha bóng thay vì đi trước hoặc đi sau. Pha cắt backdoor xảy ra đúng lúc đầu hậu vệ quay đi; đường chuyền pocket đến đúng lúc người roll khóa được người kèm. Timing là khả năng đoán trước, và khả năng đoán trước được xây bằng lặp đi lặp lại và xem video."
+  ],
+  "whyItMatters": [
+   "Hai cầu thủ chạy cùng một bài mà kết quả khác hẳn — khác biệt nằm ở timing. Cắt sai nhịp thành mất bóng, chuyền sớm thành bị cắt đường chuyền, closeout muộn thành ném 3 điểm trống trải. HLV tin cầu thủ có timing tốt vì họ làm cả hệ thống tấn công trôi chảy.",
+   "Timing cũng bảo vệ bóng. Hầu hết các pha mất bóng sống đều là lỗi timing, không phải lỗi kỹ năng: đường chuyền vẫn tốt, chỉ là đến muộn một giây. Sửa timing, mất bóng biến mất."
+  ],
+  "howTo": [
+   {
+    "title": "Đến muộn còn hơn đến sớm",
+    "detail": "Với pha cắt và screen, chờ tín hiệu kích hoạt — hậu vệ ngoảnh mặt đi, bóng qua nửa sân — rồi mới di chuyển. Đến muộn nửa giây tốt hơn đến sớm ba giây."
+   },
+   {
+    "title": "Đọc sự sẵn sàng của người chuyền",
+    "detail": "Bắt đầu cắt khi vai người chuyền vuông góc và mắt hướng về phía cầu thủ, không phải khi cầu thủ thấy thích. Người chuyền đưa bóng theo nhịp; việc của cầu thủ là khớp nhịp đó."
+   },
+   {
+    "title": "Canh cả cú nhảy, không chỉ bước chạy",
+    "detail": "Với rebound và contest, rời mặt đất khi bóng gần điểm cao nhất, không phải trước đó. Nhảy để gặp bóng đúng lúc, không phải để lên trước mọi người."
+   },
+   {
+    "title": "Giữ screen đủ lâu",
+    "detail": "Đếm nhẩm “một-ngàn-một” sau va chạm rồi mới roll hoặc pop. Slip quá sớm để cả hai hậu vệ ở lại với người dẫn bóng, giết chết pha bóng."
+   },
+   {
+    "title": "Chuyền đúng lúc, đúng tầm",
+    "detail": "Đưa bóng sao cho nó gặp người cắt đúng đà chạy, hơi dẫn trước một chút. Đường chuyền muộn, sau lưng người cắt, biến lợi thế thành mất bóng."
+   },
+   {
+    "title": "Tập với ràng buộc",
+    "detail": "Thêm đếm ngược, hậu vệ thật, hoặc giới hạn hai chạm vào bài tập. Timing học được dưới ràng buộc mới chuyển sang trận đấu; timing học trong chân không thì không."
+   }
+  ],
+  "coachingPoints": [
+   "Dùng khẩu lệnh hô (“đi!”) lúc đầu, rồi bỏ dần để cầu thủ học đọc tín hiệu bằng mắt.",
+   "Xem video là cách nhanh nhất dạy timing — dừng hình và hỏi “sớm quá, muộn quá, hay vừa đẹp?”",
+   "Trận đấu đội hình nhỏ (3 đấu 3, 4 đấu 4) tự nhiên trừng phạt timing tệ và thưởng timing tốt.",
+   "Dạy sự kiên nhẫn: đứng yên trước cú bùng nổ là một phần của timing, không phải thiếu timing."
+  ],
+  "commonMistakes": [
+   "Cắt trước khi người chuyền sẵn sàng đưa bóng.",
+   "Slip screen quá sớm, trước khi người dẫn bóng kịp dùng nó.",
+   "Nhảy quá sớm khi rebound và contest, chạm đất đúng lúc bóng tới.",
+   "Vội ném ngay khi bắt bóng thay vì đến nơi đã sẵn sàng ném và điềm tĩnh."
+  ],
+  "gameSituations": [
+   "Pha cắt backdoor đúng lúc đầu hậu vệ quay về phía bóng.",
+   "Pick-and-roll: người screen giữ screen một nhịp rồi mới roll vào rổ.",
+   "Phản công: trailer canh lúc đến đỉnh vòng cung để nhận kick-out ném 3 điểm."
+  ],
+  "tags": [
+   "iq bóng rổ",
+   "timing",
+   "không bóng",
+   "chuyền bóng"
+  ]
+ }
 }

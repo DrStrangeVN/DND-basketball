@@ -1,56 +1,9 @@
 {
-  "id": "flare-screen",
-  "slug": "flare-screen",
-  "title": "Flare Screens",
-  "description": "The screener angles the cutter away from the ball toward the sideline — a deadly counter for shooters.",
-  "hub": "tactics",
-  "subcategory": "offensive-actions",
-  "level": "advanced",
   "ages": [
     "U16",
     "U18",
     "Adult",
     "Competitive"
-  ],
-  "positions": [
-    "ALL"
-  ],
-  "tags": [
-    "flare screen",
-    "screens",
-    "shooting",
-    "counters"
-  ],
-  "readTime": 5,
-  "whatIsIt": [
-    "A flare screen sends the cutter away from the ball toward the sideline — the opposite direction of most screens. The screener sets up facing the baseline and the shooter flares out to the wing for a catch-and-shoot three.",
-    "It's a counter punch. Defenses are drilled to chase shooters coming toward the ball (pin downs, curls); the flare goes the other way, and defenders' momentum carries them the wrong direction.",
-    "Flare screens are also a great mismatch tool: when the defense switches, the screener — often a big — suddenly has a small defender to exploit."
-  ],
-  "whyItMatters": [
-    "The flare attacks the defense's habits. After fighting through pin downs all game, defenders lean toward the ball — and the flare goes exactly where they aren't. It's the screen that keeps every other screen honest."
-  ],
-  "howTo": [
-    {
-      "title": "Angle the screen to the sideline",
-      "detail": "The screener faces the baseline/sideline area, setting the screen so the cutter's path leads away from the ball. The angle is the whole play."
-    },
-    {
-      "title": "Shooter: sell inside, flare out",
-      "detail": "Take a step toward the ball or the basket first, then explode to the flare. The fake is what gets the defender leaning wrong."
-    },
-    {
-      "title": "Sprint to the three-point line",
-      "detail": "The flare usually ends at the wing three. Full speed — the window closes fast."
-    },
-    {
-      "title": "Catch and shoot in rhythm",
-      "detail": "Feet set as you catch, straight into the shot. Flare threes are rhythm shots; hesitation kills them."
-    },
-    {
-      "title": "Read the switch",
-      "detail": "If the defense switches the flare, look immediately for the mismatch — the screener posting a guard, or the shooter attacking a big."
-    }
   ],
   "coachingPoints": [
     "The angle must be taught precisely — a bad flare angle screens nobody.",
@@ -63,13 +16,24 @@
     "No setup fake, so the defender simply mirrors the cut.",
     "Catching and holding instead of shooting in rhythm."
   ],
-  "gameSituations": [
-    "As a counter when the defense is jumping your pin downs and curls.",
-    "Against switching defenses to manufacture mismatches.",
-    "For elite shooters who need a changeup look after repeated pin downs."
-  ],
+  "dateUpdated": "2026-10-06",
+  "description": "The screener angles the cutter away from the ball toward the sideline — a deadly counter for shooters.",
   "diagram": {
-    "title": "Flare screen: cutter sprints away from the ball",
+    "ball": "O1",
+    "defense": [
+      {
+        "label": "X2",
+        "x": 48,
+        "y": 56
+      }
+    ],
+    "moves": [
+      {
+        "from": "O2",
+        "kind": "cut",
+        "to": "O3"
+      }
+    ],
     "offense": [
       {
         "label": "O2",
@@ -92,96 +56,132 @@
         "y": 55
       }
     ],
-    "defense": [
-      {
-        "label": "X2",
-        "x": 48,
-        "y": 56
-      }
-    ],
-    "ball": "O1",
-    "screens": [
-      {
-        "x": 54,
-        "y": 60
-      }
-    ],
-    "moves": [
-      {
-        "from": "O2",
-        "to": "O3",
-        "kind": "cut"
-      }
-    ],
     "passes": [
       {
         "from": "O1",
         "to": "O2"
       }
     ],
-    "shots": []
+    "screens": [
+      {
+        "x": 54,
+        "y": 60
+      }
+    ],
+    "shots": [],
+    "title": "Flare screen: cutter sprints away from the ball"
   },
+  "gameSituations": [
+    "As a counter when the defense is jumping your pin downs and curls.",
+    "Against switching defenses to manufacture mismatches.",
+    "For elite shooters who need a changeup look after repeated pin downs."
+  ],
+  "howTo": [
+    {
+      "detail": "The screener faces the baseline/sideline area, setting the screen so the cutter's path leads away from the ball. The angle is the whole play.",
+      "title": "Angle the screen to the sideline"
+    },
+    {
+      "detail": "Take a step toward the ball or the basket first, then explode to the flare. The fake is what gets the defender leaning wrong.",
+      "title": "Shooter: sell inside, flare out"
+    },
+    {
+      "detail": "The flare usually ends at the wing three. Full speed — the window closes fast.",
+      "title": "Sprint to the three-point line"
+    },
+    {
+      "detail": "Feet set as you catch, straight into the shot. Flare threes are rhythm shots; hesitation kills them.",
+      "title": "Catch and shoot in rhythm"
+    },
+    {
+      "detail": "If the defense switches the flare, look immediately for the mismatch — the screener posting a guard, or the shooter attacking a big.",
+      "title": "Read the switch"
+    }
+  ],
+  "hub": "tactics",
+  "id": "flare-screen",
+  "level": "advanced",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 5,
   "related": [
     "pin-down-screen",
     "stagger-screen",
     "screening-basketball",
     "zoom-action"
   ],
-  "dateUpdated": "2026-10-06",
+  "slug": "flare-screen",
+  "subcategory": "offensive-actions",
+  "tags": [
+    "flare screen",
+    "screens",
+    "shooting",
+    "counters"
+  ],
+  "title": "Flare Screens",
   "vi": {
-    "title": "Flare Screen",
-    "description": "Người chắn nghiêng hướng người cắt ra xa bóng về phía biên dọc — đòn đối phó chết người cho các tay ném.",
-    "whatIsIt": [
-      "Flare screen đưa người cắt ra xa bóng về phía biên dọc — hướng ngược với hầu hết các pha chắn bóng. Người chắn đứng quay mặt về baseline và tay ném bật ra wing để nhận bóng ném ba.",
-      "Đây là đòn phản công. Hàng thủ được rèn để đuổi theo các tay ném chạy về phía bóng (pin down, curl); pha flare đi ngược hướng, và đà của hậu vệ kéo họ đi sai hướng.",
-      "Flare screen cũng là công cụ tạo mismatch tuyệt vời: khi hàng thủ đổi người, người chắn — thường là một big — bỗng có một hậu vệ nhỏ để khai thác."
+    "coachingPoints": [
+      "Góc độ phải dạy chính xác — góc flare tệ không screen được ai",
+      "Rèn động tác giả mở đầu của người ném; không có nó, cầu thủ phòng thủ cứ đi theo",
+      "Dạy đọc switch từ sớm — flare tạo switch liên tục",
+      "Ghép flare với pin down khi tập để cầu thủ cảm nhận sự tương phản"
     ],
-    "whyItMatters": [
-      "Pha flare đánh vào thói quen của hàng thủ. Sau khi vật lộn qua các pin down cả trận, hậu vệ nghiêng về phía bóng — và pha flare đi đúng nơi họ không có mặt. Đây là pha chắn bóng khiến mọi pha chắn bóng khác phải trung thực."
+    "commonMistakes": [
+      "Đặt flare ở góc pin down, đưa người cắt vào đám đông",
+      "Không có động tác giả mở đầu, cầu thủ phòng thủ chỉ việc bám theo",
+      "Bắt bóng rồi giữ thay vì ném theo nhịp"
+    ],
+    "description": "Người screen nghiêng người cắt ra xa bóng về phía biên — đòn phản công chết người cho tay ném.",
+    "gameSituations": [
+      "Đòn phản công khi hàng thủ nhảy vào pin down và curl của bạn",
+      "Trước hàng thủ switch để tạo mismatch",
+      "Cho tay ném đẳng cấp cần cú đổi nhịp sau nhiều pin down"
     ],
     "howTo": [
       {
-        "title": "Nghiêng góc chắn về phía biên",
-        "detail": "Người chắn quay mặt về phía baseline/biên dọc, dựng pha chắn sao cho đường chạy của người cắt dẫn ra xa bóng. Góc chắn là cả pha bóng."
+        "detail": "Người screen quay mặt về phía biên cuối sân/biên dọc, đặt screen sao cho đường chạy của người cắt dẫn ra xa bóng. Góc độ là cả bài đánh.",
+        "title": "Nghiêng screen về phía biên"
       },
       {
-        "title": "Tay ném: giả vào trong, bật ra ngoài",
-        "detail": "Trước tiên bước một nhịp về phía bóng hoặc về phía rổ, rồi bứt tốc ra pha flare. Pha giả là thứ khiến hậu vệ nghiêng sai hướng."
+        "detail": "Bước một nhịp về phía bóng hoặc rổ trước, rồi bùng ra flare. Động tác giả là thứ khiến cầu thủ phòng thủ nghiêng sai hướng.",
+        "title": "Người ném: giả vào trong, flare ra ngoài"
       },
       {
-        "title": "Bứt tốc đến vạch ba điểm",
-        "detail": "Pha flare thường kết thúc ở cú ném ba góc wing. Hết tốc độ — cửa sổ đóng lại rất nhanh."
+        "detail": "Flare thường kết ở quả 3 điểm cánh. Hết tốc độ — cửa sổ đóng nhanh.",
+        "title": "Chạy nước rút đến vạch 3 điểm"
       },
       {
-        "title": "Nhận bóng và ném theo nhịp",
-        "detail": "Chân đã đặt sẵn khi nhận bóng, vào ngay cú ném. Ném ba từ flare là những cú ném theo nhịp; do dự sẽ giết chết chúng."
+        "detail": "Chân đặt sẵn khi bắt bóng, vào thẳng cú ném. 3 điểm từ flare là cú ném theo nhịp; chần chừ là chết.",
+        "title": "Bắt bóng ném ngay theo nhịp"
       },
       {
-        "title": "Đọc pha đổi người",
-        "detail": "Nếu hàng thủ đổi người ở pha flare, lập tức tìm mismatch — người chắn post-up một hậu vệ nhỏ, hoặc tay ném tấn công một big."
+        "detail": "Nếu hàng thủ switch pha flare, tìm ngay mismatch — người screen đánh post với hậu vệ, hoặc người ném tấn công cầu thủ big.",
+        "title": "Đọc pha switch"
       }
-    ],
-    "coachingPoints": [
-      "Góc chắn phải được dạy thật chính xác — một pha flare sai góc thì không chắn được ai.",
-      "Rèn pha giả setup của tay ném; không có nó, hậu vệ chỉ việc bám theo.",
-      "Dạy đọc pha đổi người từ sớm — flare tạo ra đổi người liên tục.",
-      "Ghép flare với pin down trong buổi tập để cầu thủ cảm nhận sự tương phản."
-    ],
-    "commonMistakes": [
-      "Dựng pha flare với góc của pin down, đưa người cắt vào giữa đám đông.",
-      "Không có pha giả setup, hậu vệ chỉ việc bám theo đường cắt.",
-      "Nhận bóng rồi giữ lại thay vì ném theo nhịp."
-    ],
-    "gameSituations": [
-      "Đòn đối phó khi hàng thủ đang bắt bài các pha pin down và curl của bạn.",
-      "Trước hàng thủ đổi người để tạo mismatch.",
-      "Cho các tay ném cừ khôi cần một cú nhìn khác sau những pha pin down lặp đi lặp lại."
     ],
     "tags": [
       "flare screen",
-      "chắn bóng",
+      "screen",
       "ném rổ",
-      "đòn đối phó"
+      "đòn phản công"
+    ],
+    "title": "Screen flare",
+    "whatIsIt": [
+      "Flare screen đưa người cắt ra xa bóng về phía biên — ngược hướng hầu hết các screen. Người screen đứng quay mặt về phía biên cuối sân, người ném flare ra cánh để bắt bóng ném ngay quả 3 điểm.",
+      "Đây là đòn phản công. Hàng thủ được rèn để đuổi tay ném chạy về phía bóng (pin down, curl); flare đi hướng ngược lại, và đà của cầu thủ phòng thủ kéo họ sai hướng.",
+      "Flare screen còn là công cụ tạo mismatch tuyệt vời: khi hàng thủ switch, người screen — thường là cầu thủ big — bỗng có cầu thủ nhỏ để khai thác."
+    ],
+    "whyItMatters": [
+      "Flare đánh vào thói quen của hàng thủ. Sau khi vật lộn với pin down cả trận, cầu thủ phòng thủ nghiêng về phía bóng — và flare đi đúng chỗ họ không có mặt. Đây là screen giữ cho mọi screen khác trung thực."
     ]
-  }
+  },
+  "whatIsIt": [
+    "A flare screen sends the cutter away from the ball toward the sideline — the opposite direction of most screens. The screener sets up facing the baseline and the shooter flares out to the wing for a catch-and-shoot three.",
+    "It's a counter punch. Defenses are drilled to chase shooters coming toward the ball (pin downs, curls); the flare goes the other way, and defenders' momentum carries them the wrong direction.",
+    "Flare screens are also a great mismatch tool: when the defense switches, the screener — often a big — suddenly has a small defender to exploit."
+  ],
+  "whyItMatters": [
+    "The flare attacks the defense's habits. After fighting through pin downs all game, defenders lean toward the ball — and the flare goes exactly where they aren't. It's the screen that keeps every other screen honest."
+  ]
 }

@@ -83,64 +83,64 @@
     "Coaches cannot call a perfect play every possession. Players who internalize offensive principles make good decisions on their own: they push the ball, swing it to the open man, cut when their defender helps, and take the right shot. These habits are what separate teams that 'run plays' from teams that truly play basketball."
   ],
   "vi": {
-    "title": "Các Nguyên Tắc Tấn Công Cốt Lõi",
-    "description": "Những ý tưởng cốt lõi đằng sau mọi hàng công hay: tốc độ, spacing, luân chuyển bóng, chạm paint và chơi với lợi thế.",
-    "whatIsIt": [
-      "Tấn công không phải là một tập hợp các bài đánh — mà là một tập hợp các nguyên tắc mà bất kỳ bài đánh nào cũng có thể tuân theo. Những hàng công hay nhất thế giới đều có chung thói quen: họ luân chuyển bóng nhanh, chơi với tốc độ, giữ sân giãn rộng, chạm paint, và tấn công lợi thế trước khi hàng thủ hồi phục.",
-      "Nguyên tắc sống sót khi bài đánh vỡ. Một bài đánh học thuộc chết ngay khi hàng thủ khóa nó; một cầu thủ hiểu nguyên tắc — 'Tôi có lợi thế, tôi tấn công ngay' — sẽ đọc đúng mọi lượt bóng."
+    "coachingPoints": [
+      "Đánh trước khi hàng thủ vào vị trí — ba giây đầu của lượt bóng quý giá nhất",
+      "Khen đường chuyền thêm; phạt cú ném cố ép",
+      "Xây mọi bài tập quanh một pha chạm khu vực dưới rổ — không chạm, không ném",
+      "Dạy cầu thủ đọc một hậu vệ, rồi hậu vệ tiếp theo — ra quyết định là quá trình tuần tự"
     ],
-    "whyItMatters": [
-      "Huấn luyện viên không thể gọi một bài đánh hoàn hảo mỗi lượt bóng. Những cầu thủ thấm nhuần các nguyên tắc tấn công sẽ tự ra quyết định tốt: họ đẩy bóng lên, chuyền cho người trống, cắt khi hậu vệ của mình đi hỗ trợ, và chọn cú ném đúng. Những thói quen này là điều phân biệt các đội 'chạy bài' với các đội thực sự chơi bóng rổ."
+    "commonMistakes": [
+      "Dắt bóng thong thả lên, để hàng thủ vào vị trí mọi lần",
+      "Dẫn bóng tại chỗ vô nghĩa trong lúc bốn đồng đội đứng nhìn",
+      "Cố ném xuyên hai hậu vệ thay vì đảo bóng",
+      "Bỏ qua cặp đấu lệch — không đánh khi big bị small kèm"
+    ],
+    "description": "Những ý tưởng cốt lõi đằng sau mọi hàng công hay: tốc độ, giãn đội hình, luân chuyển bóng, chạm khu vực dưới rổ và chơi với lợi thế.",
+    "gameSituations": [
+      "Tấn công sớm — đẩy bóng lên trước khi hàng thủ kịp tổ chức",
+      "Tình huống hơn người — 2 chọi 1, 3 chọi 2 khi hàng thủ thiếu quân số",
+      "Săn cặp đấu lệch — ép small phải switch sang kèm big, hoặc ngược lại",
+      "Những giây cuối — dưới tám giây, đơn giản hóa: một pha đánh, một cú ném"
     ],
     "howTo": [
       {
-        "title": "Luân chuyển bóng",
-        "detail": "Bóng di chuyển nhanh hơn bất kỳ cầu thủ nào có thể chạy. Một đội chuyền bóng sắc nét — hai ba lần đảo cánh nhanh — buộc hàng thủ phải xoay xở cho đến khi khe hở mở ra."
+        "detail": "Bóng đi nhanh hơn mọi cầu thủ. Đội nào chuyền sắc — hai ba lần đảo cánh nhanh — sẽ ép hàng thủ phải xoay chuyển cho đến khi khe hở mở ra.",
+        "title": "Luân chuyển bóng"
       },
       {
-        "title": "Chơi với tốc độ",
-        "detail": "Trước khi hàng thủ vào vị trí, bạn có lợi thế lớn nhất của cả lượt bóng. Đẩy bóng lên sân mọi lần; dù không ghi điểm, bạn cũng buộc hàng thủ phải cuống cuồng."
+        "detail": "Trước khi hàng thủ vào vị trí là lúc lợi thế lớn nhất của cả lượt bóng. Đẩy bóng lên mọi lần; dù không ghi điểm cũng ép hàng thủ phải cuống cuồng.",
+        "title": "Chơi tốc độ"
       },
       {
-        "title": "Chạm paint",
-        "detail": "Mọi lượt bóng tốt đều nên chạm paint — qua một pha đột phá, một đường chuyền vào post, hoặc một pha cắt. Chạm paint kéo sập hàng thủ và tạo ra các cú ba điểm trống và layup từ đường kick-out."
+        "detail": "Lượt bóng tốt nào cũng phải chạm khu vực dưới rổ — bằng pha đột phá, đường chuyền vào post, hay pha cắt. Chạm khu vực dưới rổ kéo sập hàng thủ, mở ra cú ném 3 điểm trống và layup từ đường chuyền ra ngoài.",
+        "title": "Chạm khu vực dưới rổ"
       },
       {
-        "title": "Tạo và tấn công lợi thế",
-        "detail": "Bóng rổ là trò chơi của lợi thế: lợi thế quân số (2-đánh-1), lợi thế khoảng trống (một đường trống mở), hoặc lợi thế cặp đấu (một big kèm một small). Tạo ra lợi thế, rồi tấn công nó trước khi hàng thủ hồi phục."
+        "detail": "Bóng rổ là cuộc chơi của lợi thế: hơn người (2 chọi 1), hơn khoảng trống (đường trống mở), hơn cặp đấu (big kèm small). Tạo lợi thế, rồi đánh ngay trước khi hàng thủ kịp hồi.",
+        "title": "Tạo lợi thế rồi đánh ngay"
       },
       {
-        "title": "Ra quyết định nhanh",
-        "detail": "Khi đã có lợi thế, hãy giữ nó. Đừng để hàng thủ hồi phục bằng cách giữ bóng. Những quyết định nhanh — ném, đột phá hoặc chuyền trong một giây sau khi nhận bóng — duy trì áp lực."
+        "detail": "Có lợi thế thì giữ cho chặt. Đừng ôm bóng để hàng thủ kịp hồi. Quyết định nhanh — ném, đột phá hoặc chuyền trong một giây sau khi nhận bóng — giữ áp lực liên tục.",
+        "title": "Ra quyết định nhanh"
       },
       {
-        "title": "Chơi như một tập thể năm người",
-        "detail": "Một cầu thủ ôm bóng khiến việc phòng thủ trở nên dễ dàng: năm hậu vệ chỉ cần nhìn một mối đe dọa. Hãy chia sẻ bóng, dựng screen cho nhau và cắt mạnh — chuyển động đánh bại cả những hàng thủ kỷ luật nhất."
+        "detail": "Một cầu thủ ôm bóng khiến việc phòng thủ dễ như ăn kẹo: năm hậu vệ chỉ cần nhìn một mối đe dọa. Chia sẻ bóng, dựng screen cho nhau, cắt mạnh — chuyển động đánh bại cả hàng thủ kỷ luật nhất.",
+        "title": "Chơi như một tập thể, không phải một người"
       }
-    ],
-    "coachingPoints": [
-      "Tấn công trước khi hàng thủ vào vị trí — ba giây đầu của lượt bóng là quý giá nhất.",
-      "Khen ngợi đường chuyền thêm; phạt cú ném cố ép.",
-      "Xây dựng mọi bài tập quanh một pha chạm paint — không chạm paint, không ném.",
-      "Dạy cầu thủ đọc một hậu vệ, rồi đến hậu vệ tiếp theo — ra quyết định là một quá trình tuần tự."
-    ],
-    "commonMistakes": [
-      "Dắt bóng chậm lên và để hàng thủ vào vị trí mọi lần.",
-      "Dẫn bóng tại chỗ vô mục đích trong khi bốn đồng đội đứng nhìn.",
-      "Cố ném xuyên qua hai hậu vệ thay vì đảo bóng.",
-      "Bỏ qua cặp đấu lệch — không tấn công khi một big đang kèm một small."
-    ],
-    "gameSituations": [
-      "Tấn công sớm (early offense) — đẩy bóng lên trước khi hàng thủ tổ chức.",
-      "Các tình huống có lợi thế — pha 2-đánh-1 hoặc 3-đánh-2 khi hàng thủ thiếu người.",
-      "Săn cặp đấu lệch — để một hậu vệ nhỏ bị switch sang kèm big của bạn, hoặc ngược lại.",
-      "Cuối đồng hồ — khi còn dưới tám giây, đơn giản hóa thành một động tác và một cú ném."
     ],
     "tags": [
       "tấn công",
       "nguyên tắc",
       "đồng đội",
       "cơ bản"
+    ],
+    "title": "Nguyên tắc tấn công cốt lõi",
+    "whatIsIt": [
+      "Tấn công không phải là tập hợp các bài đánh — mà là tập hợp nguyên tắc mà bài đánh nào cũng tuân theo. Những hàng công hay nhất thế giới đều có chung thói quen: luân chuyển bóng nhanh, chơi tốc độ, giữ sân giãn rộng, chạm khu vực dưới rổ, và đánh vào lợi thế trước khi hàng thủ kịp hồi.",
+      "Nguyên tắc sống sót khi bài đánh vỡ. Bài đánh học thuộc chết ngay lúc hàng thủ khóa nó; cầu thủ hiểu nguyên tắc — “có lợi thế là đánh ngay” — sẽ đọc đúng mọi lượt bóng."
+    ],
+    "whyItMatters": [
+      "HLV không thể gọi bài hoàn hảo mỗi lượt bóng. Cầu thủ thấm nhuần nguyên tắc tấn công sẽ tự ra quyết định tốt: đẩy bóng lên, chuyền cho người trống, cắt khi hậu vệ của mình đi hỗ trợ, chọn đúng cú ném. Những thói quen này phân biệt đội “chạy bài” với đội thực sự biết chơi bóng rổ."
     ]
   }
 }

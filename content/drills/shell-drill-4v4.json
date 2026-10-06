@@ -63,47 +63,47 @@
   ],
   "dateUpdated": "2026-10-06",
   "vi": {
-    "title": "Bài Shell 4v4",
-    "description": "Bài xây dựng phòng thủ đồng đội kinh điển: shell 4v4 với xoay bóng, closeout, vị trí help và hồi phục sau skip pass — nền tảng của mọi hàng thủ vĩ đại.",
-    "goal": "Lắp đặt vị trí help-side đúng, kỹ thuật closeout và thói quen xoay người trong môi trường 4v4 có kiểm soát.",
-    "setup": [
-      "4 tấn công quanh vòng 3 điểm (không đập bóng), 4 phòng thủ ở vị trí shell.",
-      "HLV chuyền bóng vòng quanh; hàng thủ dịch chuyển mỗi đường chuyền.",
-      "Xoay tấn công thành phòng thủ mỗi 3 phút."
-    ],
-    "instructions": [
-      {
-        "title": "Dịch chuyển theo đường chuyền",
-        "detail": "Mỗi đường chuyền, cả hàng thủ dịch chuyển — bên bóng dâng lên, bên help lùi vào và xuống."
-      },
-      {
-        "title": "Closeout đường skip",
-        "detail": "Khi skip pass, hậu vệ sprint nửa đường, chém chân rồi closeout tay cao."
-      },
-      {
-        "title": "Help và hồi phục",
-        "detail": "Khi bị đột phá, help defender stunt hoặc help rồi sprint về người mình khi bóng chuyền ra."
-      },
-      {
-        "title": "Đấu live 4v4",
-        "detail": "Kết thúc bằng 4v4 live chạm 3 lần thủng lưới — không HLV nhắc, cầu thủ phải tự giao tiếp."
-      }
-    ],
     "coachingPoints": [
-      "Nói trong mỗi lần xoay — shell im lặng là shell vô dụng.",
-      "Nhìn cả người mình và bóng; đầu phải xoay liên tục.",
-      "Closeout có kiểm soát — lao qua người ném là dâng luôn đường đột phá."
+      "Hô trong mọi pha rotation — shell im lặng là shell vô dụng.",
+      "Vừa thấy người mình vừa thấy bóng; đầu xoay liên tục.",
+      "Closeout có kiểm soát — lao qua người ném là biếu luôn đường đột phá."
     ],
     "commonMistakes": [
-      "Mải nhìn bóng để mất người khi skip pass.",
-      "Help quá xa để lộ cú 3 điểm góc."
+      "Mải nhìn bóng để mất người khi có skip pass.",
+      "Help quá xa, để lộ cú 3 điểm ở góc."
     ],
-    "progression": "Cho tấn công được đập bóng và đột phá; phòng thủ phải xoay live.",
-    "regression": "Đi bộ qua các vị trí không cần bóng trước.",
-    "gameApplication": "Hàng thủ vô địch được xây trong shell drill — đó là nơi help, xoay người và giao tiếp thành bản năng thay vì suy nghĩ.",
-    "players": "8+",
+    "description": "Bài xây dựng phòng thủ đồng đội kinh điển: shell 4v4 với xoay bóng, closeout, vị trí help và hồi phục sau skip pass — nền tảng của mọi hàng thủ xuất sắc.",
     "equipment": [
       "Bóng rổ"
-    ]
+    ],
+    "gameApplication": "Hàng thủ vô địch được xây trong shell drill — đó là nơi help, rotation và giao tiếp thành bản năng thay vì phải nghĩ.",
+    "goal": "Cài đặt đúng vị trí help-side, kỹ thuật closeout và thói quen rotation trong môi trường 4v4 có kiểm soát.",
+    "instructions": [
+      {
+        "detail": "Mỗi đường chuyền, cả hàng thủ dịch chuyển — bên có bóng dâng lên, bên help lùi vào và xuống thấp.",
+        "title": "Dịch chuyển theo đường chuyền"
+      },
+      {
+        "detail": "Khi có skip pass, hậu vệ chạy nửa đường, chặt chân rồi closeout tay cao.",
+        "title": "Closeout đường skip"
+      },
+      {
+        "detail": "Khi bị đột phá, người help stunt hoặc help rồi chạy nhanh về người mình khi bóng được chuyền ra.",
+        "title": "Help và hồi phục"
+      },
+      {
+        "detail": "Kết thúc bằng 4v4 live chạm 3 lần chặn được — HLV không nhắc, cầu thủ phải tự giao tiếp.",
+        "title": "Đấu live 4v4"
+      }
+    ],
+    "players": "8+",
+    "progression": "Cho tấn công được dẫn bóng và đột phá; phòng thủ phải rotation live.",
+    "regression": "Đi bộ qua các vị trí, chưa cần bóng di chuyển.",
+    "setup": [
+      "4 cầu thủ tấn công đứng quanh vòng 3 điểm (không dẫn bóng), 4 cầu thủ phòng thủ ở vị trí shell.",
+      "HLV chuyền bóng vòng quanh; hàng thủ dịch chuyển sau mỗi đường chuyền.",
+      "Đổi bên tấn công-phòng thủ mỗi 3 phút."
+    ],
+    "title": "Shell drill 4v4"
   }
 }

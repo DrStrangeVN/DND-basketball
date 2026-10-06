@@ -30,7 +30,7 @@ export default function SearchModal() {
     path: t("search.paths"), glossary: t("search.glossary"),
   };
   const POPULAR = lang === "vi"
-    ? ["pick and roll", "ném rổ", "phòng thủ zone", "crossover", "giãn cách", "euro step"]
+    ? ["pick and roll", "ném rổ", "phòng thủ zone", "crossover", "giãn đội hình", "euro step"]
     : ["pick & roll", "shooting mechanics", "zone defense", "crossover", "spacing", "euro step"];
 
   const results = useMemo(() => {

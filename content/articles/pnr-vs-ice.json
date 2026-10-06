@@ -67,54 +67,54 @@
   "pocket-pass-pnr"
  ],
  "vi": {
-  "title": "Đánh Bại Phòng Thủ ICE",
-  "description": "Hàng thủ đang ép bạn xuống và ra khỏi chắn — hãy từ chối nó, snake nó, hoặc bắt họ trả giá vì overplay.",
-  "whatIsIt": [
-   "ICE (hay 'downing') là kiểu kèm pick-and-roll biên trong đó hậu vệ kèm bóng nhảy xuống dưới chắn — ép người cầm bóng ra khỏi chắn về phía baseline — trong khi big man ở lại drop. Nó lấy mất đường giữa và thách bạn đánh bại baseline.",
-   "Kiểu kèm này phổ biến khắp bóng rổ hiện đại vì nó giữ bóng khỏi khu vực giữa mà không cần help. Đánh bại nó nghĩa là tấn công đúng thứ nó cố cho: pha reject, đột phá baseline, và pocket pass sau lưng ICE."
-  ],
-  "whyItMatters": [
-   "Nếu không đánh bại được ICE, các đội sẽ ICE mọi chắn bóng biên và PNR của bạn co lại thành con số không. Nhưng ICE là một lời thách — và thách là để nhận. Các đòn phản rất chính xác, và một khi bạn cho thấy hai đòn, hàng thủ phải bỏ kiểu kèm."
-  ],
-  "howTo": [
-   {
-    "title": "Từ chối chắn",
-    "detail": "Khi hậu vệ nhảy xuống dưới chắn sớm, hãy reject — crossover ngược lại và đột phá vào hông ngoài của anh ta về phía giữa. ICE vừa cho bạn đường giữa mà nó cố lấy đi."
-   },
-   {
-    "title": "Đột phá baseline có kế hoạch",
-    "detail": "Nếu bạn đi baseline mà kiểu kèm nhường, hãy đi với tốc độ và kế hoạch: người roll đang lao sau lưng bạn để nhận dump-off, và góc yếu bóng nhấc lên chờ kick-out."
-   },
-   {
-    "title": "Chuyền pocket sau ICE",
-    "detail": "Khi big man ở drop và người kèm bạn ở dưới chắn, pocket pass cho người roll đang trống trong khe giữa họ. Chuyền sớm, trước khi low man tag."
-   },
-   {
-    "title": "Snake quay về giữa",
-    "detail": "Dẫn baseline hai nhịp để hút help, rồi snake quay về giữa sau chắn. Hậu vệ ICE giờ đang đuổi theo — bạn vừa lật ngược kiểu kèm."
-   }
-  ],
-  "coachingPoints": [
-   "Reject là đòn đánh ICE số 1 — drill đến khi thành bản năng.",
-   "Người cầm bóng phải đọc hông hậu vệ: dưới chắn = reject; trên = dùng chắn.",
-   "Trước ICE, người roll nên lao ra trước rổ, không phải dunker spot."
-  ],
-  "commonMistakes": [
-   "Dùng chắn đâm vào ICE — dẫn thẳng vào hai hậu vệ và đường biên.",
-   "Reject không kế hoạch rồi chạy vào help.",
-   "Chuyền pocket muộn, sau khi hậu vệ ICE đã hồi."
-  ],
-  "gameSituations": [
-   "Trước mọi đội ICE chắn bóng biên (hầu hết hàng thủ đại học và chuyên nghiệp).",
-   "Cuối giờ ở biên: ICE sắp tới — reject là cú đánh tốt nhất của bạn.",
-   "Khi scouting report nói họ down mọi PNR biên."
-  ],
-  "tags": [
-   "pick and roll",
-   "phòng thủ",
-   "đọc tình huống"
-  ]
- },
+    "coachingPoints": [
+      "Reject là đòn đánh ICE số 1 — tập tới khi thành bản năng",
+      "Người giữ bóng phải đọc hông hậu vệ: dưới screen là reject; trên screen là dùng screen",
+      "Đấu ICE, người roll lao ra trước rổ, không phải dunker spot"
+    ],
+    "commonMistakes": [
+      "Dùng screen đâm vào ICE — dẫn thẳng vào hai hậu vệ và đường biên",
+      "Reject không kế hoạch rồi chạy vào hỗ trợ",
+      "Chuyền pocket muộn, sau khi hậu vệ ICE đã hồi"
+    ],
+    "description": "Hàng thủ đang ép bạn xuống và ra khỏi screen — từ chối nó, snake nó, hoặc bắt họ trả giá vì đeo quá sát.",
+    "gameSituations": [
+      "Đấu mọi đội ICE screen bóng biên (hầu hết hàng thủ đại học và chuyên nghiệp)",
+      "Cuối đồng hồ ở biên: ICE sắp tới — reject là đòn tốt nhất",
+      "Khi scouting report nói họ down mọi PNR biên"
+    ],
+    "howTo": [
+      {
+        "detail": "Hậu vệ nhảy xuống dưới screen sớm, reject ngay — crossover ngược lại, đột phá vào hông ngoài của anh ta về phía giữa. ICE vừa cho bạn đường giữa mà nó cố lấy đi.",
+        "title": "Từ chối screen"
+      },
+      {
+        "detail": "Đi baseline mà coverage nhường, đi với tốc độ và kế hoạch: người roll lao sau lưng bạn chờ dump-off, góc phía yếu nhấc lên chờ kick-out.",
+        "title": "Đột phá baseline có kế hoạch"
+      },
+      {
+        "detail": "Big ở drop và người kèm bạn ở dưới screen, pocket pass cho người roll trống trong khe giữa họ. Chuyền sớm, trước khi người dưới tag vào.",
+        "title": "Chuyền pocket sau ICE"
+      },
+      {
+        "detail": "Dẫn baseline hai nhịp hút hỗ trợ, rồi snake quay về giữa sau screen. Hậu vệ ICE giờ thành người đuổi theo — bạn vừa lật ngược coverage.",
+        "title": "Snake quay về giữa"
+      }
+    ],
+    "tags": [
+      "pick and roll",
+      "ice",
+      "đọc tình huống"
+    ],
+    "title": "Đánh bại phòng thủ ICE",
+    "whatIsIt": [
+      "ICE (hay “downing”) là coverage pick-and-roll biên: hậu vệ kèm bóng nhảy xuống dưới screen — ép người giữ bóng ra khỏi screen về phía baseline — trong lúc big lùi lại drop. Nó lấy mất đường giữa, thách bạn đánh bại baseline.",
+      "Coverage này phổ biến khắp bóng rổ hiện đại vì nó giữ bóng khỏi khu vực giữa mà không cần hỗ trợ. Đánh bại nó là tấn công đúng thứ nó cố nhường: pha reject, đột phá baseline, và pocket pass sau lưng ICE."
+    ],
+    "whyItMatters": [
+      "Không đánh bại được ICE, các đội sẽ ICE mọi screen bóng biên, PNR của bạn co lại thành con số không. Nhưng ICE là một lời thách — và thách là để nhận. Các đòn phản rất chính xác, và một khi bạn cho thấy hai đòn, hàng thủ phải bỏ coverage."
+    ]
+  },
  "id": "pnr-vs-ice",
  "slug": "pnr-vs-ice",
  "dateUpdated": "2026-10-06"

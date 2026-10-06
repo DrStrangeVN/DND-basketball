@@ -65,47 +65,47 @@
   ],
   "dateUpdated": "2026-10-06",
   "vi": {
-    "title": "Chuỗi Động Tác Jab Step",
-    "description": "Biến jab step thành vũ khí: jab-and-go, jab-and-crossover và jab-and-shoot từ triple threat — 'bán' mỗi pha giả bằng vai và mắt.",
-    "goal": "Xây dựng chuỗi jab từ triple threat với ba biến thể để hậu vệ không bao giờ bắt bài được.",
-    "setup": [
-      "Bắt đầu ở wing tư thế triple threat với bóng.",
-      "Dùng cọc tiêu hoặc ghế làm hậu vệ tưởng tượng.",
-      "Tập cả hai bên sân."
-    ],
-    "instructions": [
-      {
-        "title": "Jab rồi đi",
-        "detail": "Jab mạnh bằng chân ngoài, đọc sự dịch chuyển của hậu vệ rồi đột phá qua chân trước."
-      },
-      {
-        "title": "Jab crossover",
-        "detail": "Jab một hướng để đẩy hậu vệ lệch rồi crossover đột phá hướng ngược lại trong một nhịp."
-      },
-      {
-        "title": "Jab rồi ném",
-        "detail": "Khi hậu vệ lùi sau cú jab, bật ném ngay — không cần thêm nhịp đập nào."
-      },
-      {
-        "title": "Jab kép",
-        "detail": "Jab hai lần — jab, jab nữa, rồi chọn biến thể dựa vào hướng hậu vệ nghiêng."
-      }
-    ],
     "coachingPoints": [
       "Jab phải 'bán' bằng cả cơ thể — vai, mắt và bóng cùng nói dối.",
-      "Giữ chân trụ cố định; bước lỗi giết chết động tác trước khi nó bắt đầu.",
+      "Giữ chân trụ cố định; lỗi chạy bước giết chết động tác trước khi nó bắt đầu.",
       "Phải đi đâu đó sau jab — jab mà không tấn công chỉ là nhảy múa."
     ],
     "commonMistakes": [
-      "Nhảy lò cò khi jab thay vì bước — đó là bước lỗi.",
-      "Jab mà không đọc phản ứng của hậu vệ."
+      "Nhảy lò cò khi jab thay vì bước — đó là lỗi chạy bước.",
+      "Jab mà không đọc phản ứng của cầu thủ phòng thủ."
     ],
-    "progression": "Thêm hậu vệ thật phải phản ứng trung thực với mỗi cú jab.",
-    "regression": "Tập footwork jab step không bóng trước.",
-    "gameApplication": "Mỗi lần bắt bóng ở triple threat là một quyết định — chuỗi jab thật biến những quyết định đó thành pha vượt qua và cú ném trống.",
-    "players": "1",
+    "description": "Biến jab thành vũ khí: jab-and-go, jab-and-crossover và jab-and-shoot từ triple threat — 'bán' mỗi pha giả bằng vai và mắt.",
     "equipment": [
       "Bóng rổ"
-    ]
+    ],
+    "gameApplication": "Mỗi lần bắt bóng ở triple threat là một quyết định — chuỗi jab thật biến những quyết định đó thành pha vượt qua và cú ném trống.",
+    "goal": "Xây dựng chuỗi jab từ triple threat với ba biến thể để cầu thủ phòng thủ không bao giờ bắt bài được.",
+    "instructions": [
+      {
+        "detail": "Jab mạnh bằng chân ngoài, đọc sự dịch chuyển của cầu thủ phòng thủ rồi đột phá qua chân trước.",
+        "title": "Jab rồi đi"
+      },
+      {
+        "detail": "Jab một hướng để đẩy cầu thủ phòng thủ lệch, rồi crossover đột phá hướng ngược lại trong một nhịp.",
+        "title": "Jab crossover"
+      },
+      {
+        "detail": "Khi cầu thủ phòng thủ lùi sau cú jab, bật ném ngay — không cần thêm nhịp đập nào.",
+        "title": "Jab rồi ném"
+      },
+      {
+        "detail": "Jab hai lần — jab, jab nữa, rồi chọn biến thể dựa vào hướng cầu thủ phòng thủ nghiêng.",
+        "title": "Jab kép"
+      }
+    ],
+    "players": "1",
+    "progression": "Thêm cầu thủ phòng thủ thật phải phản ứng trung thực với mỗi cú jab.",
+    "regression": "Tập bộ chân jab step không bóng trước.",
+    "setup": [
+      "Bắt đầu ở cánh, tư thế triple threat với bóng.",
+      "Dùng cọc tiêu hoặc ghế làm cầu thủ phòng thủ tưởng tượng.",
+      "Tập cả hai bên sân."
+    ],
+    "title": "Chuỗi jab step (jab-step series)"
   }
 }

@@ -65,49 +65,49 @@
   ],
   "dateUpdated": "2026-10-06",
   "vi": {
-    "title": "Thang Đổi Tốc Độ Dẫn Bóng",
-    "description": "Bài cọc tiêu hình thang rèn khả năng đổi tốc độ bùng nổ khi dẫn bóng — đi chậm, bứt tốc, giảm tốc — qua 6 vùng tăng dần.",
-    "goal": "Đổi tốc độ dẫn bóng bùng nổ và có kiểm soát qua 6 vùng cọc tiêu.",
-    "setup": [
-      "Đặt 7 cọc tiêu thành hàng thẳng, cách nhau 3m, từ cuối sân đến giữa sân.",
-      "Bắt đầu sau cọc đầu tiên ở tư thế triple-threat, bóng trong tay.",
-      "Chuẩn bị đồng hồ bấm giờ hoặc nhờ đồng đội hô thời gian mục tiêu mỗi lượt."
-    ],
-    "instructions": [
-      {
-        "title": "Đi Chậm Rồi Bứt Tốc",
-        "detail": "Dẫn bóng đi chậm qua vùng 1, rồi bùng nổ tốc độ tối đa ở cọc 2 và duy trì qua cọc 3. Giảm tốc dừng hẳn ở cọc 4 bằng động tác dừng hai chân có kiểm soát. Đi bộ về và lặp lại 4 lần."
-      },
-      {
-        "title": "Bứt Tốc Rồi Chậm Lại",
-        "detail": "Dẫn bóng sprint từ cọc 1 đến cọc 2, rồi phanh gấp và dẫn chậm rề rề qua vùng 3 trong khi vẫn đập bóng thấp mạnh. Bứt tốc lại ở cọc 4 qua cọc 5. Làm 4 lượt mỗi tay."
-      },
-      {
-        "title": "Hesitation Từng Cọc",
-        "detail": "Dẫn bóng 70% tốc độ và tung hesitation mạnh (dừng bóng một nhịp) ở mỗi cọc từ 2 đến 6, rồi tăng tốc trở lại. Mỗi lần hesitation giữ đủ một nhịp. Làm 3 lượt."
-      },
-      {
-        "title": "Chạy Thang Tính Giờ",
-        "detail": "Kết hợp cả ba kiểu thành một lượt liên tục: đi chậm-bứt tốc ở cọc 2, bứt tốc-chậm ở cọc 3, hesitation ở cọc 4, 5, 6. Bấm giờ mỗi lượt và cố phá kỷ lục bằng cách giữ người thấp ở mọi lần đổi tốc."
-      }
-    ],
     "coachingPoints": [
-      "Đổi tốc độ bằng chân và hông, không phải bằng cách nảy bóng cao hơn.",
-      "Mỗi lần giảm tốc, ghìm bóng bằng cú đập chắc — không được carry bóng.",
-      "Giữ người thấp suốt thang; đứng thẳng lên là mất đà bứt tốc.",
-      "Mắt nhìn lên để cú đổi tốc là vũ khí, không phải bất ngờ cho chính mình."
+      "Đổi tốc bằng chân và hông, không phải bằng cách nảy bóng cao hơn.",
+      "Mỗi lần giảm tốc, ghìm bóng bằng cú đập chắc tay — không vớt bóng.",
+      "Giữ người thấp suốt cả thang; đứng thẳng dậy là mất đà bứt tốc.",
+      "Mắt nhìn lên để cú đổi tốc là vũ khí của mình, không phải bất ngờ cho chính mình."
     ],
     "commonMistakes": [
-      "Nảy bóng ra trước khi bứt tốc khiến bóng chạy mất.",
+      "Nảy bóng ra quá xa phía trước khi bứt tốc khiến bóng chạy mất.",
       "Giảm tốc bằng thân trên trong khi chân vẫn trượt đi."
     ],
-    "progression": "Thêm crossover, between-the-legs hoặc behind-the-back ở mỗi cọc hesitation.",
-    "regression": "Rút ngắn còn 4 cọc và bỏ phần tính giờ cho đến khi footwork sạch.",
-    "gameApplication": "Đổi tốc độ là cách cầu thủ nhỏ vượt qua hậu vệ to — cùng nhịp dừng-bứt tạo khoảng trống khi đột phá.",
-    "players": "1",
+    "description": "Bài tập thang cọc tiêu rèn khả năng đổi tốc độ bùng nổ khi dẫn bóng — đi chậm, bứt tốc, giảm tốc — qua 6 vùng tăng dần.",
     "equipment": [
       "Bóng rổ",
       "Cọc tiêu"
-    ]
+    ],
+    "gameApplication": "Đổi tốc là cách cầu thủ nhỏ vượt qua cầu thủ phòng thủ to hơn — đúng nhịp dừng-bứt tạo khoảng trống khi đột phá.",
+    "goal": "Đổi tốc độ dẫn bóng bùng nổ mà vẫn kiểm soát qua 6 vùng cọc tiêu.",
+    "instructions": [
+      {
+        "detail": "Dẫn bóng đi bộ qua vùng 1, rồi bùng nổ lên tốc độ tối đa ở cọc 2 và giữ tốc độ đến cọc 3. Giảm tốc dừng hẳn ở cọc 4 bằng động tác dừng hai chân có kiểm soát. Đi bộ về và lặp lại 4 lần.",
+        "title": "Đi chậm rồi bứt tốc"
+      },
+      {
+        "detail": "Dẫn bóng bứt tốc từ cọc 1 đến cọc 2, rồi phanh gấp và dẫn bóng chậm rãi qua vùng 3 trong khi vẫn đập bóng thấp chắc. Bứt tốc trở lại ở cọc 4 đến cọc 5. Làm 4 lượt mỗi tay.",
+        "title": "Bứt tốc rồi rề rà"
+      },
+      {
+        "detail": "Dẫn bóng ở 70% tốc độ và tung một pha hesitation thật mạnh (dừng bóng một nhịp) ở mỗi cọc từ 2 đến 6, rồi tăng tốc trở lại. Mỗi pha hesitation giữ đủ một nhịp. Làm 3 lượt.",
+        "title": "Hesitation từng cọc"
+      },
+      {
+        "detail": "Nối cả ba kiểu thành một lượt liên tục: đi chậm-bứt tốc ở cọc 2, bứt tốc-rề rà ở cọc 3, hesitation ở các cọc 4, 5, 6. Bấm giờ mỗi lượt và cố phá kỷ lục bằng cách giữ người thấp ở mọi lần đổi tốc.",
+        "title": "Chạy cả thang tính giờ"
+      }
+    ],
+    "players": "1",
+    "progression": "Thêm crossover, xỏ háng (between-the-legs) hoặc vòng sau lưng (behind-the-back) ở mỗi cọc hesitation.",
+    "regression": "Rút ngắn còn 4 cọc và bỏ phần tính giờ cho đến khi bộ chân sạch.",
+    "setup": [
+      "Đặt 7 cọc tiêu thành hàng thẳng, cách nhau 3m, từ cuối sân đến giữa sân.",
+      "Bắt đầu sau cọc đầu tiên với bóng trong tay, ở tư thế triple threat.",
+      "Chuẩn bị đồng hồ bấm giờ hoặc nhờ đồng đội hô thời gian mục tiêu cho mỗi lượt."
+    ],
+    "title": "Thang đổi tốc độ dẫn bóng"
   }
 }

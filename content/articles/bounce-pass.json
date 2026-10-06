@@ -68,36 +68,29 @@
     "post entry"
   ],
   "title": "Bounce Pass",
-  "whatIsIt": [
-    "The bounce pass is a two-handed pass that hits the floor once between you and your teammate. It travels under the defender's hands instead of through them, making it the safest pass in traffic.",
-    "Where a chest pass flies straight into outstretched arms, the bounce pass ducks underneath. It's the classic post-entry pass and the go-to option when a defender is playing the passing lane aggressively."
-  ],
-  "whyItMatters": [
-    "Defenders are taught to get their hands up and deflect passes. The bounce pass punishes that: hands up means hands can't reach the floor. Learning when to bounce and when to go direct is a core part of basketball IQ — the right pass type turns turnovers into easy baskets."
-  ],
   "vi": {
     "coachingPoints": [
-      "Nhắm điểm nảy cách mục tiêu khoảng hai phần ba quãng đường — bóng nên đến tay người nhận ở ngang thắt lưng",
+      "Nhắm điểm nảy cách mục tiêu khoảng hai phần ba quãng đường — bóng đến tay người nhận ở ngang thắt lưng",
       "Đẩy bóng xuyên qua đường chuyền, đừng đập xuống sàn; cú nảy chỉ là hệ quả, không phải mục tiêu",
-      "Bước tới như chuyền ngực — bước chân giống nhau, chỉ khác vùng đích đến",
-      "Điểm nảy càng thấp, đường chuyền càng chậm — trước hậu vệ áp sát, hãy nảy bóng gần mình hơn",
-      "Giữ đường chuyền gọn; một đường bounce pass chậm chỉ là một pha mất bóng đang chờ xảy ra"
+      "Bước tới như chuyền ngực — bước chân giống nhau, chỉ khác vùng đích",
+      "Điểm nảy càng thấp, đường chuyền càng chậm — trước hậu vệ áp sát, nảy bóng gần mình hơn",
+      "Giữ đường chuyền gọn; một đường bounce pass chậm là một pha để mất bóng đang chờ"
     ],
     "commonMistakes": [
       "Nhắm điểm nảy quá gần chân mình — bóng đến ống chân người nhận",
-      "Đập bóng quá mạnh xuống sàn — nó bay vọt qua tay mục tiêu",
+      "Đập bóng quá mạnh xuống sàn — bóng bay vọt qua tay mục tiêu",
       "Dùng bounce pass khi đường chuyền ngực đang trống — bounce pass chậm hơn; đừng dùng khi không cần",
       "Chuyền một tay hời hợt ngang người — góc yếu, dễ bị cướp"
     ],
-    "description": "Đường chuyền đi dưới hàng thủ — nảy bóng qua những cánh tay giơ cao và vào tay đồng đội.",
+    "description": "Đường chuyền đi dưới hàng thủ — nảy bóng qua những cánh tay giơ cao, vào tay đồng đội.",
     "gameSituations": [
       "Đưa bóng vào post trước hậu vệ fronting — nảy bóng về phía thấp",
-      "Trước hàng thủ zone giơ tay cao — nảy bóng qua các khe hở",
-      "Những đường chuyền vào khi hậu vệ bắt bài đường chuyền"
+      "Trước phòng thủ zone giơ tay cao — nảy bóng qua các khe hở",
+      "Chuyền vào khi hậu vệ bắt bài đường chuyền"
     ],
     "howTo": [
       {
-        "detail": "Giữ bóng ở ngang ngực hoặc thắt lưng, cách cầm bóng như chuyền ngực. Xác định mục tiêu — thường là cầu thủ post hoặc người cắt vào — và hình dung điểm nảy.",
+        "detail": "Giữ bóng ngang ngực hoặc thắt lưng, cách cầm bóng như chuyền ngực. Xác định mục tiêu — thường là cầu thủ post hoặc người cắt vào — và hình dung điểm nảy.",
         "title": "Đọc tay của hậu vệ"
       },
       {
@@ -105,11 +98,11 @@
         "title": "Bước tới khi chuyền"
       },
       {
-        "detail": "Nhắm điểm bóng rời tay xuống một điểm trên sàn cách đồng đội khoảng hai phần ba quãng đường. Đẩy bóng về phía trước và hơi xuống — hãy nghĩ 'xuyên qua sàn', đừng nghĩ 'đập vào sàn'.",
+        "detail": "Nhắm điểm bóng rời tay xuống một điểm trên sàn, cách đồng đội khoảng hai phần ba quãng đường. Đẩy bóng về phía trước và hơi xuống — nghĩ 'xuyên qua sàn', đừng nghĩ 'đập vào sàn'.",
         "title": "Nhắm điểm nảy ở hai phần ba quãng đường"
       },
       {
-        "detail": "Gập cổ tay và vung tay theo đà về phía mục tiêu. Bóng nên chạm sàn một lần và đến thắt lưng người nhận — không bao giờ đến chân họ.",
+        "detail": "Gập cổ tay, vung tay theo đà về phía mục tiêu. Bóng chạm sàn một lần, đến thắt lưng người nhận — không bao giờ đến chân họ.",
         "title": "Gập cổ tay và vung theo đà"
       }
     ],
@@ -118,13 +111,20 @@
       "kỹ thuật cơ bản",
       "chuyền vào post"
     ],
-    "title": "Chuyền Nảy Đất",
+    "title": "Chuyền nảy đất",
     "whatIsIt": [
-      "Bounce pass là đường chuyền hai tay chạm sàn một lần giữa bạn và đồng đội. Nó đi dưới tay hậu vệ thay vì xuyên qua, nên đây là đường chuyền an toàn nhất khi đông người.",
-      "Trong khi chuyền ngực bay thẳng vào những cánh tay giơ ra, bounce pass lách xuống dưới. Đây là đường chuyền vào post kinh điển và là lựa chọn quen thuộc khi hậu vệ bắt bài đường chuyền quyết liệt."
+      "Bounce pass là đường chuyền hai tay chạm sàn một lần giữa bạn và đồng đội. Nó đi dưới tay hậu vệ thay vì xuyên qua — đường chuyền an toàn nhất khi đông người.",
+      "Chuyền ngực bay thẳng vào những cánh tay giơ ra; bounce pass lách xuống dưới. Đây là đường chuyền vào post kinh điển, và là lựa chọn ruột khi hậu vệ bắt bài đường chuyền quyết liệt."
     ],
     "whyItMatters": [
-      "Hậu vệ được dạy giơ tay cao để gạt đường chuyền. Bounce pass trừng phạt điều đó: tay giơ cao nghĩa là tay không với tới sàn. Học khi nào nên nảy bóng và khi nào nên chuyền thẳng là một phần cốt lõi của basketball IQ — chọn đúng loại đường chuyền biến mất bóng thành những cú ném dễ."
+      "Hậu vệ được dạy giơ tay cao để gạt đường chuyền. Bounce pass trừng phạt điều đó: tay giơ cao là tay không với tới sàn. Học khi nào nảy bóng, khi nào chuyền thẳng là một phần cốt lõi của IQ bóng rổ — chọn đúng loại đường chuyền biến để mất bóng thành cú ném dễ."
     ]
-  }
+  },
+  "whatIsIt": [
+    "The bounce pass is a two-handed pass that hits the floor once between you and your teammate. It travels under the defender's hands instead of through them, making it the safest pass in traffic.",
+    "Where a chest pass flies straight into outstretched arms, the bounce pass ducks underneath. It's the classic post-entry pass and the go-to option when a defender is playing the passing lane aggressively."
+  ],
+  "whyItMatters": [
+    "Defenders are taught to get their hands up and deflect passes. The bounce pass punishes that: hands up means hands can't reach the floor. Learning when to bounce and when to go direct is a core part of basketball IQ — the right pass type turns turnovers into easy baskets."
+  ]
 }

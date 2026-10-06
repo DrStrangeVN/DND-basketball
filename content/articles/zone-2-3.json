@@ -160,65 +160,65 @@
     "The 2-3 zone is every player's first introduction to team defensive concepts — shifting with the ball, protecting the middle, closing out from help. It lets less athletic teams compete, protects players in foul trouble, and gives coaches a reliable change-up. Learning to play it — and learning to attack it — is fundamental basketball education."
   ],
   "vi": {
-    "coachingPoints": [
-      "Zone di chuyển ở mọi đường chuyền — vị trí bóng-bạn-người ở mọi pha bắt bóng",
-      "Hai người đỉnh phải lấy đi khu vực giữa; không gì xuyên qua giữa zone một cách dễ dàng",
-      "Closeout các tay ném với tay giơ cao — các zone chết vì những cú ba điểm không bị tranh chấp",
-      "Bắt bóng bật bảng là việc của mọi người — tìm một người để kèm, vì không ai có 'người của mình'",
-      "Giao tiếp suốt mọi lần xoay vòng — các zone không giao tiếp chỉ là đứng yên"
+    "title": "Phòng thủ zone 2-3",
+    "description": "Zone 2-3: hai hậu vệ trên đỉnh, ba người hàng sau — cách xếp đội hình, xoay vòng và cách chặn high post.",
+    "whatIsIt": [
+      "Zone 2-3 là hàng thủ zone phổ biến nhất bóng rổ: hai hậu vệ ngang trên đỉnh, ba người ngang hàng dưới, mỗi người lo một khu vực thay vì một cầu thủ. Hình dạng như bức tường — khó xuyên, dễ hiểu, bảo vệ khu vực dưới rổ tốt.",
+      "Zone hoạt động bằng cách giữ năm hậu vệ giữa bóng và rổ mọi lúc. Zone 2-3 đặc biệt mạnh trước đội không ném được — nó lấp khu vực dưới rổ, ép hàng công thắng từ ngoài. Điểm yếu cũng rõ: đội ném tốt xé nát nó, và tranh bóng bật bảng cần kỷ luật cao vì không ai có nhiệm vụ box out cố định."
     ],
-    "commonMistakes": [
-      "Đứng yên tại chỗ thay vì di chuyển theo bóng — một zone tĩnh là một bài tập ném rổ",
-      "Để bóng vào giữa zone — high post giết chết 2-3",
-      "Quên bắt bóng bật bảng — hàng công được ba cơ hội mỗi lượt bóng",
-      "Các cánh không chặn pha flash vào high post — bắt bóng tự do ở giữa"
-    ],
-    "description": "Zone 2-3: hai hậu vệ trên đỉnh, ba người hàng sau — cách xếp đội hình, xoay vòng, và cách chặn high post.",
-    "gameSituations": [
-      "Khi đối đầu những đội ném ngoài yếu",
-      "Để bảo vệ các big man đang gặp rắc rối lỗi — ít phải đối đầu một-chọi-một hơn",
-      "Sau các lần hội ý như một miếng đổi nhịp phá vỡ nhịp độ",
-      "Khi đội bạn mệt — zone bao sân với ít chạy hơn"
+    "whyItMatters": [
+      "Zone 2-3 là bài học đầu tiên của mọi cầu thủ về phòng thủ đồng đội — di chuyển theo bóng, bảo vệ khu giữa, closeout từ vị trí hỗ trợ. Nó giúp đội kém thể thao cạnh tranh được, bảo vệ cầu thủ đang vướng lỗi, và cho HLV một miếng đổi nhịp tin cậy. Học chơi nó — và học đánh nó — là giáo dục bóng rổ nền tảng."
     ],
     "howTo": [
       {
-        "detail": "Xếp hai hậu vệ ở đỉnh — gần khu vực khuỷu tay kéo dài — và ba người hàng sau: hai cánh ở vị trí block kéo dài và một người giữa bảo vệ rổ.",
-        "title": "Xếp đội hình 2-3"
+        "title": "Xếp đội hình 2-3",
+        "detail": "Hai hậu vệ ở đỉnh — ngang tầm elbow kéo dài — ba người hàng sau: hai cánh ngang tầm block kéo dài, một người giữa bảo vệ rổ."
       },
       {
-        "detail": "Mọi hậu vệ đứng giữa bóng, bản thân, và rổ. Khi bóng ở bên trái, cả zone trượt sang trái; đội hình di chuyển như một khối liền mạch.",
-        "title": "Di chuyển theo bóng"
+        "title": "Di chuyển theo bóng",
+        "detail": "Mọi hậu vệ đứng giữa bóng, mình và rổ. Bóng sang trái, cả zone trượt sang trái — đội hình di chuyển như một khối."
       },
       {
-        "detail": "Hai hậu vệ đỉnh lo bóng và các cánh. Không ai để người dẫn bóng xuyên qua giữa zone — các hậu vệ dồn mọi thứ ra hai bên.",
-        "title": "Bảo vệ khu vực giữa"
+        "title": "Bảo vệ khu giữa",
+        "detail": "Hai hậu vệ đỉnh lo bóng và cánh. Không ai để người dẫn xuyên giữa zone — dồn mọi thứ ra hai bên."
       },
       {
-        "detail": "Khi bóng ra cánh, hậu vệ hàng sau gần nhất closeout với tay giơ cao trong khi người giữa trượt về phía bên bóng. Cánh bên yếu lùi vào giữa.",
-        "title": "Xoay vòng khi bóng ra cánh"
+        "title": "Xoay vòng khi bóng ra cánh",
+        "detail": "Bóng ra cánh, hậu vệ hàng sau gần nhất closeout tay cao, người giữa trượt về phía bóng. Cánh phía yếu lùi vào giữa."
       },
       {
-        "detail": "High post là điểm yếu của zone. Người giữa phải chặn hoặc đứng trước mọi pha flash vào high post, và các cánh phải hỗ trợ cắt đường chuyền vào.",
-        "title": "Chặn high post"
+        "title": "Chặn high post",
+        "detail": "High post là điểm yếu của zone. Người giữa phải chặn hoặc đứng trước mọi pha flash vào high post; các cánh hỗ trợ cắt đường chuyền vào."
       },
       {
-        "detail": "Mỗi cú ném, mỗi hậu vệ tìm cầu thủ tấn công gần nhất và box out. Bắt bóng bật bảng trong zone là phân công theo khoảng cách, tập cho đến khi thành thói quen.",
-        "title": "Bắt bóng bật bảng theo khoảng cách"
+        "title": "Tranh bóng theo khoảng cách",
+        "detail": "Mỗi cú ném, mỗi hậu vệ tìm cầu thủ tấn công gần nhất và box out. Tranh bóng trong zone là phân công theo khoảng cách — tập đến thành thói quen."
       }
+    ],
+    "coachingPoints": [
+      "Zone di chuyển mỗi đường chuyền — vị trí bóng-người-rổ ở mọi pha bắt bóng.",
+      "Hai người đỉnh phải khóa khu giữa. Không gì xuyên giữa zone dễ dàng.",
+      "Closeout tay ném với tay cao — zone chết vì những cú 3 điểm không ai tranh chấp.",
+      "Tranh bóng là việc của mọi người — tìm người để box out, vì không ai có 'người của mình'.",
+      "Giao tiếp suốt mọi pha xoay — zone không giao tiếp chỉ là đứng yên."
+    ],
+    "commonMistakes": [
+      "Đứng yên tại chỗ thay vì dịch theo bóng — zone tĩnh là bài tập ném cho đối phương.",
+      "Để bóng vào giữa zone — high post giết 2-3.",
+      "Quên tranh bóng — hàng công được ba cơ hội mỗi lượt.",
+      "Các cánh không chặn pha flash vào high post — bắt bóng tự do ở giữa."
+    ],
+    "gameSituations": [
+      "Gặp đội ném ngoài yếu.",
+      "Bảo vệ big man đang vướng lỗi — ít phải đấu một-chọi-một.",
+      "Sau hội ý, miếng đổi nhịp phá nhịp đối phương.",
+      "Đội mệt — zone bao sân với ít chạy hơn."
     ],
     "tags": [
       "phòng thủ",
       "zone",
       "zone 2-3",
       "hệ thống"
-    ],
-    "title": "Phòng thủ Zone 2-3",
-    "whatIsIt": [
-      "Zone 2-3 là hàng thủ zone phổ biến nhất trong bóng rổ: hai hậu vệ ngang trên đỉnh và ba người ngang hàng dưới, mỗi người chịu trách nhiệm một khu vực thay vì một cầu thủ. Hình dạng trông như một bức tường — khó xuyên thủng, dễ hiểu, và tuyệt vời trong việc bảo vệ khu vực cấm.",
-      "Các zone hoạt động bằng cách giữ năm hậu vệ giữa bóng và rổ mọi lúc. Zone 2-3 đặc biệt mạnh khi đối đầu những đội không ném được, vì nó lấp đầy khu vực cấm và ép hàng công phải thắng từ ngoài. Điểm yếu của nó cũng rõ ràng không kém: những đội ném tốt có thể xé nát nó, và bắt bóng bật bảng đòi hỏi kỷ luật cao hơn vì không ai có nhiệm vụ box out cố định."
-    ],
-    "whyItMatters": [
-      "Zone 2-3 là lần đầu tiên mọi cầu thủ tiếp xúc với các khái niệm phòng thủ đồng đội — di chuyển theo bóng, bảo vệ khu vực giữa, closeout từ vị trí hỗ trợ. Nó giúp những đội kém thể thao hơn cạnh tranh được, bảo vệ những cầu thủ đang gặp rắc rối lỗi, và cho huấn luyện viên một miếng đổi nhịp đáng tin cậy. Học cách chơi nó — và học cách tấn công nó — là giáo dục bóng rổ nền tảng."
     ]
   }
 }

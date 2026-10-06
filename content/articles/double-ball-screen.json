@@ -1,1 +1,132 @@
-{"ages":["U16","U18","Adult","Competitive"],"coachingPoints":["The two screens must be stacked tight — a gap lets the defender slip through.","The ball handler reads the first screen, then re-reads: two screens, two decisions.","Second screener: roll or pop based on where the help comes from.","Drill the timing — the second screen arriving late is just two bad single screens."],"commonMistakes":["Setting the screens side by side instead of stacked — the defender goes between.","The ball handler predetermining the second screen instead of reading.","Both screeners rolling to the same spot.","Running it with no spacing — the help is already there."],"dateUpdated":"2026-10-06","description":"Two ball screens in one action — stacked, staggered, or double-drag — that break even the best pick-and-roll coverages.","gameSituations":["Against elite PNR defenders who navigate single screens.","Late clock — two screens manufacture one clean look.","To free a star — the second screen is the one that actually works.","When the first screen gets iced or switched cleanly."],"howTo":[{"detail":"Two screeners align — stacked (one behind the other) or side by side. Stacked is tighter and harder to navigate; the ball handler chooses a side and goes.","title":"Stack the screens tight"},{"detail":"Use the first screen and read: if the defense blows it up, you may not need the second. The first screen is the question; the second is the exclamation.","title":"Read the first screen"},{"detail":"Come off the second screen at full speed — the defense has now navigated two screens and is at maximum stretch. This is where the advantage lives: drive, pull-up, or hit the roller.","title":"Attack off the second screen"},{"detail":"The screeners make opposite reads: if one rolls, the other pops. Two rollers clog the lane; a roll-and-pop stretches the defense past its breaking point.","title":"Roll and pop in opposite directions"}],"hub":"pick-and-roll","id":"double-ball-screen","level":"advanced","positions":["PG","SG","C","PF"],"readTime":5,"related":["pick-and-roll-basics","drag-screen","pick-and-roll-reads","pick-and-pop","roll-man-reads"],"slug":"double-ball-screen","subcategory":"pick-and-roll","tags":["double screen","pick and roll","ball screen","offense"],"title":"Double Ball Screens","vi":{"coachingPoints":["Hai screen phải xếp sát nhau — có khe hở là hậu vệ luồn qua.","Người cầm bóng đọc screen đầu, rồi đọc lại: hai screen, hai quyết định.","Người screen thứ hai: roll hay pop tùy help đến từ đâu.","Tập thời điểm — screen thứ hai đến muộn chỉ là hai single screen tệ."],"commonMistakes":["Đặt hai screen cạnh nhau thay vì xếp chồng — hậu vệ đi vào giữa.","Người cầm bóng định sẵn screen thứ hai thay vì đọc tình huống.","Cả hai người screen roll vào cùng một chỗ.","Chạy khi không giãn sân — help đã ở đó sẵn."],"description":"Hai ball screen trong một bài — xếp chồng, so le hoặc double-drag — phá vỡ cả những hàng thủ PNR tốt nhất.","gameSituations":["Trước những hậu vệ PNR đẳng cấp vượt qua được single screen.","Cuối giờ — hai screen tạo ra một cơ hội sạch.","Để giải phóng ngôi sao — screen thứ hai mới là screen thật sự hiệu quả.","Khi screen đầu bị ice hoặc bị switch gọn."],"howTo":[{"detail":"Hai người screen xếp hàng — chồng lên nhau (một sau một) hoặc cạnh nhau. Xếp chồng chặt hơn và khó vượt qua hơn; người cầm bóng chọn một bên và đi.","title":"Xếp screen thật sát"},{"detail":"Dùng screen đầu và đọc: nếu hàng thủ phá được, có thể bạn không cần screen thứ hai. Screen đầu là câu hỏi; screen thứ hai là dấu chấm than.","title":"Đọc screen đầu tiên"},{"detail":"Thoát khỏi screen thứ hai ở tốc độ tối đa — hàng thủ đã vượt qua hai screen và đang căng hết cỡ. Lợi thế nằm ở đây: đột phá, pull-up, hoặc chuyền cho người roll.","title":"Tấn công từ screen thứ hai"},{"detail":"Hai người screen đọc ngược nhau: một roll thì một pop. Hai người cùng roll làm tắc lane; một roll một pop kéo hàng thủ vượt quá giới hạn.","title":"Một roll một pop ngược hướng"}],"tags":["double screen","pick and roll","ball screen","tấn công"],"title":"Double Ball Screen","whatIsIt":["Double ball screen là bài đánh dùng hai screen liên tiếp cho người cầm bóng trong một pha bóng — xếp chồng (stacked), so le (staggered), hoặc cả hai trong transition (double drag). Hậu vệ phải vượt qua hai bức tường thay vì một, và screen thứ hai đến đúng lúc họ vừa kiệt sức sau screen đầu.","Bài này là đáp án cho các hàng thủ PNR đẳng cấp: một screen họ vượt được, hai screen thì không. Nó cũng là cách các đội giải phóng ngôi sao khi mọi bài đơn giản đều bị bắt bài."],"whyItMatters":["Phòng thủ pick and roll hiện đại được xây để đánh bại một screen — ice, switch, hedge đều giả định chỉ có một screen. Screen thứ hai phá vỡ mọi giả định đó: người hedge screen đầu không thể hedge tiếp screen thứ hai, người switch đầu bị kẹt trong mismatch với screen thứ hai. Double ball screen không chỉ tạo lợi thế — nó tạo ra sự hỗn loạn có cấu trúc."]},"whatIsIt":["A double ball screen uses two consecutive screens for the ball handler in one action — stacked (one behind the other), staggered, or both in transition (double drag). The defender must navigate two walls instead of one, and the second screen arrives just as they're exhausted from the first.","It's the answer to elite PNR defenses: one screen they can handle, two they can't. It's also how teams free a star when every simple action gets scouted."],"whyItMatters":["Modern PNR defense is built to beat one screen — ice, switch, and hedge all assume a single screen. The second screen breaks every assumption: the hedger can't hedge twice, the switcher gets stuck in a mismatch by the second screen. Double ball screens don't just create advantage — they create structured chaos."]}
+{
+  "ages": [
+    "U16",
+    "U18",
+    "Adult",
+    "Competitive"
+  ],
+  "coachingPoints": [
+    "The two screens must be stacked tight — a gap lets the defender slip through.",
+    "The ball handler reads the first screen, then re-reads: two screens, two decisions.",
+    "Second screener: roll or pop based on where the help comes from.",
+    "Drill the timing — the second screen arriving late is just two bad single screens."
+  ],
+  "commonMistakes": [
+    "Setting the screens side by side instead of stacked — the defender goes between.",
+    "The ball handler predetermining the second screen instead of reading.",
+    "Both screeners rolling to the same spot.",
+    "Running it with no spacing — the help is already there."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "Two ball screens in one action — stacked, staggered, or double-drag — that break even the best pick-and-roll coverages.",
+  "gameSituations": [
+    "Against elite PNR defenders who navigate single screens.",
+    "Late clock — two screens manufacture one clean look.",
+    "To free a star — the second screen is the one that actually works.",
+    "When the first screen gets iced or switched cleanly."
+  ],
+  "howTo": [
+    {
+      "detail": "Two screeners align — stacked (one behind the other) or side by side. Stacked is tighter and harder to navigate; the ball handler chooses a side and goes.",
+      "title": "Stack the screens tight"
+    },
+    {
+      "detail": "Use the first screen and read: if the defense blows it up, you may not need the second. The first screen is the question; the second is the exclamation.",
+      "title": "Read the first screen"
+    },
+    {
+      "detail": "Come off the second screen at full speed — the defense has now navigated two screens and is at maximum stretch. This is where the advantage lives: drive, pull-up, or hit the roller.",
+      "title": "Attack off the second screen"
+    },
+    {
+      "detail": "The screeners make opposite reads: if one rolls, the other pops. Two rollers clog the lane; a roll-and-pop stretches the defense past its breaking point.",
+      "title": "Roll and pop in opposite directions"
+    }
+  ],
+  "hub": "pick-and-roll",
+  "id": "double-ball-screen",
+  "level": "advanced",
+  "positions": [
+    "PG",
+    "SG",
+    "C",
+    "PF"
+  ],
+  "readTime": 5,
+  "related": [
+    "pick-and-roll-basics",
+    "drag-screen",
+    "pick-and-roll-reads",
+    "pick-and-pop",
+    "roll-man-reads"
+  ],
+  "slug": "double-ball-screen",
+  "subcategory": "pick-and-roll",
+  "tags": [
+    "double screen",
+    "pick and roll",
+    "ball screen",
+    "offense"
+  ],
+  "title": "Double Ball Screens",
+  "vi": {
+    "coachingPoints": [
+      "Hai screen phải chồng khít — có khe là đối thủ luồn qua.",
+      "Người cầm bóng đọc screen đầu, rồi đọc lại: hai screen, hai quyết định.",
+      "Người screen thứ hai: roll hay pop tuỳ hướng hỗ trợ tới.",
+      "Tập nhịp — screen thứ hai tới muộn chỉ là hai screen đơn tệ."
+    ],
+    "commonMistakes": [
+      "Dựng screen cạnh nhau thay vì chồng — đối thủ đi giữa.",
+      "Người cầm bóng định sẵn screen thứ hai thay vì đọc.",
+      "Cả hai người screen roll về cùng một chỗ.",
+      "Chạy mà không giãn đội hình — người hỗ trợ đã đứng sẵn đó."
+    ],
+    "description": "Hai screen cầm bóng trong một tình huống — xếp chồng, so le, hay double-drag — phá vỡ cả những coverage pick and roll tốt nhất.",
+    "gameSituations": [
+      "Trước hàng thủ PNR đẳng cấp vượt screen đơn ngon lành.",
+      "Đồng hồ sắp hết — hai screen tạo một cú nhìn sạch.",
+      "Để giải phóng ngôi sao — screen thứ hai mới là cái thực sự hiệu quả.",
+      "Khi screen đầu bị ice hoặc switch sạch."
+    ],
+    "howTo": [
+      {
+        "detail": "Hai người screen xếp hàng — chồng (một sau một) hoặc cạnh nhau. Chồng khít và khó vượt hơn; người cầm bóng chọn một bên và đi.",
+        "title": "Xếp screen chồng khít"
+      },
+      {
+        "detail": "Dùng screen đầu và đọc: hàng thủ phá được thì có khi không cần screen thứ hai. Screen đầu là câu hỏi; screen thứ hai là dấu chấm than.",
+        "title": "Đọc screen đầu tiên"
+      },
+      {
+        "detail": "Thoát screen thứ hai ở tốc độ cao — hàng thủ vừa vượt hai screen và đang căng nhất. Lợi thế nằm ở đây: dẫn vào, pull-up, hoặc chuyền cho người roll.",
+        "title": "Tấn công từ screen thứ hai"
+      },
+      {
+        "detail": "Hai người screen đọc ngược nhau: một roll thì người kia pop. Hai người cùng roll làm tắc lane; một roll một pop kéo giãn hàng thủ quá giới hạn chịu đựng.",
+        "title": "Roll và pop ngược hướng"
+      }
+    ],
+    "tags": [
+      "screen đôi",
+      "pick and roll",
+      "screen cầm bóng",
+      "tấn công"
+    ],
+    "title": "Screen đôi cầm bóng (double ball screen)",
+    "whatIsIt": [
+      "Screen đôi cầm bóng dùng hai screen liên tiếp cho người cầm bóng trong một tình huống — xếp chồng (một sau một), so le, hoặc cả hai trong phản công (double drag). Đối thủ phải vượt hai bức tường thay vì một, và screen thứ hai tới đúng lúc họ kiệt sức vì screen đầu.",
+      "Đây là đáp án cho hàng thủ PNR đẳng cấp: một screen họ xử được, hai thì không. Cũng là cách đội giải phóng ngôi sao khi mọi tình huống đơn giản đều bị bắt bài."
+    ],
+    "whyItMatters": [
+      "Phòng thủ PNR hiện đại xây để đánh bại một screen — ice, switch, hedge đều mặc định một screen. Screen thứ hai phá vỡ mọi mặc định: người hedge không hedge được hai lần, người switch bị kẹt mismatch vì screen thứ hai. Screen đôi cầm bóng không chỉ tạo lợi thế — nó tạo ra hỗn loạn có cấu trúc."
+    ]
+  },
+  "whatIsIt": [
+    "A double ball screen uses two consecutive screens for the ball handler in one action — stacked (one behind the other), staggered, or both in transition (double drag). The defender must navigate two walls instead of one, and the second screen arrives just as they're exhausted from the first.",
+    "It's the answer to elite PNR defenses: one screen they can handle, two they can't. It's also how teams free a star when every simple action gets scouted."
+  ],
+  "whyItMatters": [
+    "Modern PNR defense is built to beat one screen — ice, switch, and hedge all assume a single screen. The second screen breaks every assumption: the hedger can't hedge twice, the switcher gets stuck in a mismatch by the second screen. Double ball screens don't just create advantage — they create structured chaos."
+  ]
+}

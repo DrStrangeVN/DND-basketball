@@ -69,68 +69,68 @@
     "flow"
   ],
   "title": "Game Flow & Tempo",
+  "vi": {
+    "coachingPoints": [
+      "Dựng một bản sắc tốc độ rõ ràng từ tiền mùa giải — đừng chập chờn nhanh chậm",
+      "Dùng ‘luật tám giây’ quyết liệt: qua nửa sân trong dưới năm giây sau khi ghi điểm lẫn ném hụt",
+      "Đếm số đợt tấn công mỗi trận và điểm mỗi đợt, không chỉ tổng điểm",
+      "Tập cùng bài cuối trận đến khi cầu thủ chạy không cần nghĩ"
+    ],
+    "commonMistakes": [
+      "Chơi nhanh không kế hoạch — tốc độ không giãn đội hình chỉ là hỗn loạn",
+      "Giữ bóng không có lợi thế, để hàng thủ nghỉ",
+      "Bỏ qua tỷ số và tình huống lỗi trong hai phút cuối",
+      "Gọi hội ý khi đội đang có đà thay vì để họ chơi"
+    ],
+    "description": "Tốc độ, nhịp điệu và quản lý trận đấu — nhịp độ định hình tấn công, phòng thủ ra sao và cách kiểm soát nó.",
+    "gameSituations": [
+      "Sau khi ghi điểm — đẩy ngay khi hàng thủ đang chạy bộ về",
+      "Trước đội mạnh hơn — chậm trận đấu, giới hạn số đợt, khiến mỗi đợt đều đáng giá",
+      "Bảo vệ cách biệt — dùng hết đồng hồ, tấn công muộn, không ném nhanh 3 điểm",
+      "Rượt đuổi cách biệt — tăng tốc, phạm lỗi chiến thuật, kéo dài trận bằng hội ý"
+    ],
+    "howTo": [
+      {
+        "detail": "Tốc độ đo bằng số đợt tấn công mỗi trận. Đội nhanh đẩy sau mỗi rebound và sau khi ghi điểm, tấn công trước khi hàng thủ đứng vững. Đội chậm dẫn bóng thong thả lên, câu giờ, trân trọng mỗi đợt bóng.",
+        "title": "Chọn tốc độ của mình"
+      },
+      {
+        "detail": "Sáu đến tám giây đầu sau đổi quyền kiểm soát là cửa sổ ghi điểm hiệu quả nhất bóng rổ. Chạy nước rút khắp sân, chạy làn rộng, tìm drag screen sớm hoặc đường chuyền phát động.",
+        "title": "Tấn công trong tấn công sớm"
+      },
+      {
+        "detail": "Trước hàng thủ đã đứng vững, chạy bài có mục đích: một screen, một pha cắt, một pha đọc — rồi tiếp theo. Đứng câu giờ không có hành động để hàng thủ nghỉ.",
+        "title": "Triển khai ở nửa sân"
+      },
+      {
+        "detail": "Tỷ số, số lỗi, thời gian còn lại phải thay đổi quyết định của bạn. Dẫn 5 điểm còn hai phút? Câu giờ, tấn công khu vực dưới rổ, không phạm lỗi. Thua 8 điểm? Tăng tốc, ném nhanh 3 điểm.",
+        "title": "Để tình huống trận đấu quyết định"
+      },
+      {
+        "detail": "HLV đổi nhịp độ bằng thay người (chân tươi chạy nhanh hơn), hội ý (giết đà đối thủ), gọi bài (đẩy hoặc chậm). Cầu thủ đổi nhịp độ bằng ba bước đầu sau mỗi rebound.",
+        "title": "Kiểm soát nhịp độ chủ động"
+      }
+    ],
+    "tags": [
+      "nhịp độ",
+      "tốc độ trận đấu",
+      "quản lý trận đấu",
+      "dòng chảy"
+    ],
+    "title": "Nhịp độ và dòng chảy trận đấu",
+    "whatIsIt": [
+      "Nhịp độ là tốc độ trận đấu diễn ra — đội chuyển từ phòng thủ sang tấn công nhanh thế nào, và tấn công nhanh thế nào khi có bóng. Có đội chạy nước rút mọi cơ hội; có đội dẫn bóng thong thả lên, câu đồng hồ ném rổ. Không phong cách nào tự động hơn; nhịp độ đúng là nhịp độ hợp đội hình bạn và khai thác đối thủ.",
+      "Dòng chảy trận đấu là cảm giác của nhịp độ từng khoảnh khắc: chuỗi đà tâm lý, quãng lặng, dính lỗi, hội ý, và căng thẳng phút cuối. Đội đọc được dòng chảy biết điều chỉnh — đẩy khi đối thủ mệt, chậm lại khi trận đấu hỗn loạn, quản lý đồng hồ khi tỷ số đòi hỏi."
+    ],
+    "whyItMatters": [
+      "Nhịp độ là vũ khí. Đội nhanh gặp đối thủ to hơn chạy cho họ kiệt sức; đội kỷ luật gặp đối thủ hỗn loạn chậm trận đấu lại, khiến mỗi đợt bóng đều đáng giá. Cầu thủ hiểu dòng chảy ra quyết định tốt hơn — biết khi nào đẩy, khi nào thu, và bảng điểm nên thay đổi lựa chọn của họ ra sao."
+    ]
+  },
   "whatIsIt": [
     "Tempo is the speed at which a game is played — how quickly teams move from defense to offense and how fast they attack once they have the ball. Some teams sprint at every opportunity; others walk the ball up and squeeze the shot clock. Neither style is automatically better; the right tempo is the one that suits your roster and exploits the opponent.",
     "Game flow is how that tempo feels moment to moment: runs of momentum, lulls, foul trouble, timeouts, and the tension of the final minutes. Teams that read the flow adjust — they push when the opponent is tired, slow down when the game gets chaotic, and manage the clock when the score demands it."
   ],
   "whyItMatters": [
     "Tempo is a weapon. A fast team facing a bigger opponent runs them into exhaustion; a disciplined team facing a chaotic opponent slows the game and makes every possession count. Players who understand flow make better decisions — they know when to push, when to pull back, and how the scoreboard should change their choices."
-  ],
-  "vi": {
-    "title": "Nhịp Độ & Dòng Chảy Trận Đấu",
-    "description": "Tốc độ, nhịp điệu và quản lý trận đấu — cách nhịp độ định hình tấn công, phòng thủ và cách kiểm soát nó.",
-    "whatIsIt": [
-      "Nhịp độ là tốc độ diễn ra của trận đấu — đội chuyển từ phòng thủ sang tấn công nhanh thế nào và tấn công nhanh ra sao khi có bóng. Có đội chạy nước rút mọi cơ hội; có đội đi bộ đưa bóng lên và ép đồng hồ tấn công. Không có phong cách nào tự động tốt hơn; nhịp độ đúng là nhịp độ hợp với đội hình của bạn và khai thác được đối thủ.",
-      "Dòng chảy trận đấu là cảm giác của nhịp độ đó trong từng khoảnh khắc: các chuỗi ghi điểm, khoảng lặng, rắc rối lỗi cá nhân, hội ý, và sự căng thẳng của những phút cuối. Đội nào đọc được dòng chảy sẽ điều chỉnh — đẩy nhanh khi đối thủ mệt, chậm lại khi trận đấu hỗn loạn, và quản lý đồng hồ khi tỷ số đòi hỏi."
-    ],
-    "whyItMatters": [
-      "Nhịp độ là một vũ khí. Đội nhanh gặp đối thủ to khỏe hơn sẽ chạy cho họ kiệt sức; đội kỷ luật gặp đối thủ hỗn loạn sẽ làm chậm trận đấu và khiến mỗi lần tấn công đều đáng giá. Cầu thủ hiểu dòng chảy sẽ quyết định tốt hơn — họ biết khi nào đẩy nhanh, khi nào thu lại, và tỷ số nên thay đổi lựa chọn của họ ra sao."
-    ],
-    "howTo": [
-      {
-        "title": "Chọn nhịp độ của bạn",
-        "detail": "Nhịp độ được đo bằng số lần tấn công mỗi trận. Đội nhanh đẩy bóng sau mỗi lần rebound và ghi điểm, tấn công trước khi hàng thủ kịp về. Đội chậm đi bộ đưa bóng lên, chạy đồng hồ, và trân trọng mỗi lần tấn công."
-      },
-      {
-        "title": "Tấn công sớm",
-        "detail": "Sáu đến tám giây đầu sau khi đổi quyền kiểm soát bóng là khung giờ ghi điểm hiệu quả nhất trong bóng rổ. Chạy nước rút lên sân, chạy làn rộng, và tìm đường chắn sớm (drag screen) hoặc đường chuyền vượt tuyến (pitch-ahead)."
-      },
-      {
-        "title": "Triển khai ở nửa sân",
-        "detail": "Trước hàng thủ đã về vị trí, hãy chạy các động tác có mục đích: một lần chắn, một lần cắt, một lần đọc tình huống — rồi tới động tác tiếp theo. Đứng im 'câu giờ' mà không có động tác gì chỉ giúp hàng thủ nghỉ ngơi."
-      },
-      {
-        "title": "Để tình huống trận đấu quyết định",
-        "detail": "Tỷ số, số lỗi, và thời gian còn lại nên thay đổi quyết định của bạn. Dẫn 5 điểm còn 2 phút? Dùng đồng hồ, đánh vào paint, không phạm lỗi. Thua 8 điểm? Đẩy nhanh và ném ba nhanh."
-      },
-      {
-        "title": "Chủ động kiểm soát nhịp độ",
-        "detail": "Huấn luyện viên đổi nhịp độ bằng thay người (chân tươi chạy nhanh hơn), hội ý (dập chuỗi ghi điểm của đối thủ), và gọi chiến thuật (đẩy nhanh hoặc chậm lại). Cầu thủ đổi nhịp độ bằng ba bước đầu tiên sau mỗi lần rebound."
-      }
-    ],
-    "coachingPoints": [
-      "Xây dựng một bản sắc tốc độ rõ ràng từ tiền mùa giải — đừng chần chừ giữa nhanh và chậm.",
-      "Dùng tích cực 'luật tám giây': qua nửa sân trong dưới năm giây sau mỗi lần ghi điểm hay rebound.",
-      "Thống kê số lần tấn công mỗi trận và điểm mỗi lần tấn công, không chỉ tổng điểm.",
-      "Tập các bài đánh cuối trận cho đến khi cầu thủ chạy được mà không cần nghĩ."
-    ],
-    "commonMistakes": [
-      "Chơi nhanh mà không có kế hoạch — nhanh mà không có spacing chỉ là hỗn loạn.",
-      "Giữ bóng mà không có lợi thế, để hàng thủ được nghỉ.",
-      "Bỏ qua tỷ số và tình hình lỗi trong hai phút cuối.",
-      "Gọi hội ý khi đội đang có đà thay vì để họ chơi tiếp."
-    ],
-    "gameSituations": [
-      "Sau khi ghi điểm — đẩy bóng ngay khi hàng thủ còn đang chạy về.",
-      "Gặp đội mạnh hơn — làm chậm trận đấu, hạn chế số lần tấn công, khiến mỗi lần đều đáng giá.",
-      "Bảo vệ cách biệt — dùng hết đồng hồ, tấn công muộn, không ném ba vội.",
-      "Rượt đuổi tỷ số — tăng tốc, phạm lỗi chiến thuật, kéo dài trận đấu bằng hội ý."
-    ],
-    "tags": [
-      "nhịp độ",
-      "tốc độ",
-      "quản lý trận đấu",
-      "dòng chảy trận đấu"
-    ]
-  }
+  ]
 }

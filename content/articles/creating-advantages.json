@@ -73,6 +73,67 @@
     "pick-and-roll"
   ],
   "title": "Creating Advantages",
+  "vi": {
+    "coachingPoints": [
+      "Định nghĩa lợi thế trông như thế nào cho đội mình để mọi cầu thủ nhận ra ngay lập tức.",
+      "Tập \"khởi đầu từ lợi thế\": 1 đấu 1 với người phòng thủ đang áp tới, pick and roll trước hedge — bắt đầu bài tập từ lợi thế.",
+      "Dạy cầu thủ quý đường chuyền \"hockey assist\" — đường chuyền tạo ra đường kiến tạo.",
+      "Theo dõi số lợi thế tạo ra mỗi trận như chỉ số phát triển, không chỉ điểm và kiến tạo."
+    ],
+    "commonMistakes": [
+      "Cố tạo lợi thế bằng iso tỉ lệ thấp thay vì dùng bài tấn công.",
+      "Tạo được lợi thế rồi dừng lại — không tấn công vào rotation mà nó gây ra.",
+      "Bỏ qua lợi thế phản công bằng cách chạy lững thững thay vì nước rút vào tấn công.",
+      "Săn mismatch lâu tới mức cả hàng công đứng hình."
+    ],
+    "description": "Học cách lợi thế được tạo ra trong bóng rổ — qua mặt đối thủ, hút hai người kèm — bước đầu tiên của mọi hàng công hay.",
+    "gameSituations": [
+      "Pick and roll hút cả hai người kèm vào bóng, để người roll trống.",
+      "Tấn công closeout: đối thủ lao vào tay ném thành đường dẫn trống.",
+      "Phản công: đẩy bóng tạo 3 đánh 2 trước khi hàng thủ kịp đứng."
+    ],
+    "howTo": [
+      {
+        "detail": "Lợi thế đơn giản nhất. Một bước đầu sạch đưa vai qua người đối thủ buộc hàng thủ phải đưa người hỗ trợ — mà hỗ trợ nghĩa là có người trống.",
+        "title": "Qua mặt đối thủ"
+      },
+      {
+        "detail": "Pick and roll là cỗ máy tạo lợi thế chắc chắn nhất bóng rổ. Dựng screen vai kề vai, dùng thật sát, và tấn công xuống dốc để ép hai người kèm vào bóng.",
+        "title": "Dùng screen cầm bóng"
+      },
+      {
+        "detail": "Một closeout mạnh là lợi thế đang chờ sẵn. Khi đối thủ lao tới bạn mất kiểm soát, một nhịp dẫn mạnh qua hông họ biến đà của họ thành vũ khí chống lại họ.",
+        "title": "Tấn công closeout"
+      },
+      {
+        "detail": "Một pha cắt mạnh cắt đuôi đối thủ tạo lợi thế cho bạn và cho người chuyền. Cắt lười tạo ra con số không; cắt hết tốc bẻ cong hàng thủ.",
+        "title": "Cắt có mục đích"
+      },
+      {
+        "detail": "Lợi thế quân số như 3 đánh 2 hay 2 đánh 1 chỉ tồn tại vài giây. Chạy hết tốc để tạo ra trước khi hàng thủ kịp đứng — chạy lững thững là phí hoài.",
+        "title": "Đẩy nhanh trong phản công"
+      },
+      {
+        "detail": "Nhận ra khi đối thủ chậm bị switch ra kèm bạn hoặc người nhỏ bị kẹt ở post, và tấn công ngay trước khi hàng thủ kịp giấu họ đi.",
+        "title": "Săn mismatch"
+      }
+    ],
+    "tags": [
+      "iq bóng rổ",
+      "chiến thuật",
+      "tấn công",
+      "pick and roll"
+    ],
+    "title": "Tạo lợi thế tấn công",
+    "whatIsIt": [
+      "Lợi thế là mọi tình huống mà hàng tấn công nắm ưu thế về quân số hoặc vị trí — 2 đánh 1, đối thủ bám sau pha bóng, người to bị switch ra kèm hậu vệ, closeout tới muộn. Chẳng điều gì tốt đẹp xảy ra trong bóng rổ cho tới khi lợi thế được tạo ra; mọi thứ sau đó là về cách dùng nó.",
+      "Lợi thế được tạo ra, không phải nhặt được. Bạn tạo ra nó bằng cách qua mặt đối thủ, dựng một screen tốt, cắt mạnh, đẩy bóng trong phản công. Hàng công hay nhất là cỗ máy sản xuất những lợi thế nhỏ mỗi đợt bóng."
+    ],
+    "whyItMatters": [
+      "Đây là cách bóng rổ hiện đại vận hành: tạo lợi thế, rồi tấn công vào rotation mà nó gây ra. Đội không tạo được lợi thế đành ném những cú bị contest; đội tạo được có cú ném trống gần như mỗi đợt. Hiểu lợi thế biến tấn công ngẫu hứng thành hệ thống.",
+      "Nó cũng đơn giản hoá trận đấu cho cầu thủ trẻ. Thay vì học thuộc hàng chục bài đánh, các em học một việc: tạo lợi thế, rồi đưa ra pha đọc đúng tiếp theo. Mở rộng được từ bóng rổ trẻ tới chuyên nghiệp."
+    ]
+  },
   "whatIsIt": [
     "An advantage is any situation where the offense holds a numbers or positioning edge — a 2-on-1, a defender trailing the play, a big switched onto a guard, a closeout arriving late. Nothing good happens in basketball until an advantage is created; everything after that is about using it.",
     "Advantages are created, not found. You create them by beating your defender off the dribble, by setting a great screen, by cutting hard, by pushing the ball in transition. The best offenses are machines for manufacturing small advantages on every single possession."
@@ -80,66 +141,5 @@
   "whyItMatters": [
     "This is how modern basketball is played: create an advantage, then attack the rotation it causes. Teams that cannot create advantages settle for contested shots; teams that can get open shots on nearly every trip. Understanding advantages turns random offense into a system.",
     "It also simplifies the game for young players. Instead of memorizing dozens of plays, they learn one job: create an edge, then make the next right read. That scales from youth basketball to the pros."
-  ],
-  "vi": {
-    "coachingPoints": [
-      "Định nghĩa lợi thế trông như thế nào cho đội bạn để mọi cầu thủ nhận ra ngay lập tức",
-      "Tập 'khởi đầu từ lợi thế': 1 đấu 1 với hậu vệ đang áp sát, pick-and-roll trước hedge — bắt đầu bài tập từ thế có lợi",
-      "Dạy cầu thủ trân trọng đường chuyền hockey assist — đường chuyền tạo ra đường kiến tạo",
-      "Theo dõi số lợi thế tạo ra mỗi trận như một chỉ số phát triển, không chỉ điểm và kiến tạo"
-    ],
-    "commonMistakes": [
-      "Cố tạo lợi thế bằng isolation tỷ lệ thấp thay vì dùng hệ thống tấn công",
-      "Tạo được lợi thế rồi dừng lại — không bao giờ tấn công vào pha xoay chuyển mà nó gây ra",
-      "Bỏ qua lợi thế phản công vì chạy bộ thay vì chạy nước rút vào tấn công",
-      "Săn mismatch quá lâu khiến cả hệ thống tấn công đình trệ"
-    ],
-    "description": "Học cách lợi thế được tạo ra trong bóng rổ — vượt qua người kèm, kéo hai hậu vệ — bước đầu tiên của mọi hàng công vĩ đại.",
-    "gameSituations": [
-      "Pick-and-roll kéo cả hai hậu vệ về phía bóng, để người lăn tự do",
-      "Tấn công closeout: hậu vệ chạy nước rút về phía tay ném trở thành một đường đột phá",
-      "Phản công: đẩy nhanh để có thế 3 đấu 2 trước khi hàng thủ kịp bày trận"
-    ],
-    "howTo": [
-      {
-        "detail": "Lợi thế đơn giản nhất. Một bước đầu gọn gàng đưa vai bạn qua hậu vệ buộc hàng thủ phải gửi người hỗ trợ — mà hỗ trợ nghĩa là có người đang trống.",
-        "title": "Vượt qua người kèm"
-      },
-      {
-        "detail": "Pick-and-roll là cỗ máy tạo lợi thế đáng tin cậy nhất trong bóng rổ. Dựng màn chắn sát vai, dùng màn chắn chặt, và tấn công xuống dốc để ép hai hậu vệ vào bóng.",
-        "title": "Dùng màn chắn bóng"
-      },
-      {
-        "detail": "Một pha closeout quyết liệt là một lợi thế đang chờ xảy ra. Khi hậu vệ chạy nước rút về phía bạn mất kiểm soát, một cú dẫn mạnh qua hông anh ta biến đà của anh ta thành chống lại chính anh ta.",
-        "title": "Tấn công closeout"
-      },
-      {
-        "detail": "Một pha cắt mạnh bỏ lại hậu vệ tạo lợi thế cho bạn và cho người chuyền. Cắt hời hợt không tạo ra gì; cắt hết tốc lực làm cong hàng thủ.",
-        "title": "Cắt có mục đích"
-      },
-      {
-        "detail": "Những lợi thế hơn người như 3 đấu 2 và 2 đấu 1 chỉ tồn tại vài giây. Chạy nước rút khắp sân để tạo ra chúng trước khi hàng thủ kịp bày trận — chạy bộ là lãng phí chúng.",
-        "title": "Đẩy nhanh trong phản công"
-      },
-      {
-        "detail": "Nhận ra khi một hậu vệ chậm hơn bị switch sang kèm bạn hay một người nhỏ con hơn đang ở trong post, và tấn công ngay trước khi hàng thủ kịp giấu họ đi.",
-        "title": "Săn mismatch"
-      }
-    ],
-    "tags": [
-      "basketball iq",
-      "lợi thế",
-      "tấn công",
-      "pick and roll"
-    ],
-    "title": "Tạo Lợi Thế",
-    "whatIsIt": [
-      "Lợi thế là bất kỳ tình huống nào mà hàng công nắm ưu thế về quân số hay vị trí — 2 đấu 1, một hậu vệ bị bỏ lại phía sau, một big bị switch sang kèm hậu vệ, một pha closeout đến muộn. Không điều tốt đẹp nào xảy ra trong bóng rổ cho đến khi lợi thế được tạo ra; mọi thứ sau đó là về cách tận dụng nó.",
-      "Lợi thế được tạo ra, không phải được tìm thấy. Bạn tạo ra chúng bằng cách vượt hậu vệ khi dẫn bóng, bằng một màn chắn tuyệt vời, bằng pha cắt mạnh, bằng cách đẩy bóng trong phản công. Những hàng công hay nhất là những cỗ máy sản xuất lợi thế nhỏ trong từng đợt tấn công."
-    ],
-    "whyItMatters": [
-      "Đây là cách bóng rổ hiện đại vận hành: tạo lợi thế, rồi tấn công vào pha xoay chuyển mà nó gây ra. Những đội không tạo được lợi thế đành chấp nhận những cú ném bị contest; những đội làm được có những cú ném trống gần như mỗi đợt bóng. Hiểu về lợi thế biến một hệ thống tấn công ngẫu nhiên thành có tổ chức.",
-      "Nó cũng đơn giản hóa trận đấu cho cầu thủ trẻ. Thay vì thuộc lòng hàng chục bài đánh, họ học một nhiệm vụ: tạo ra một ưu thế, rồi ra quyết định đúng tiếp theo. Điều đó đúng từ bóng rổ trẻ đến chuyên nghiệp."
-    ]
-  }
+  ]
 }

@@ -1,56 +1,9 @@
 {
-  "id": "elevator-doors",
-  "slug": "elevator-doors",
-  "title": "Elevator Doors",
-  "description": "Two screeners close like elevator doors on the shooter's defender — the most dramatic screen in basketball.",
-  "hub": "tactics",
-  "subcategory": "offensive-actions",
-  "level": "advanced",
   "ages": [
     "U16",
     "U18",
     "Adult",
     "Competitive"
-  ],
-  "positions": [
-    "ALL"
-  ],
-  "tags": [
-    "elevator doors",
-    "screens",
-    "shooter actions",
-    "plays"
-  ],
-  "readTime": 5,
-  "whatIsIt": [
-    "Elevator doors is a shooter action where the shooter runs through a gap between two screeners, who then step together — closing like elevator doors — trapping the chasing defender behind them. The shooter emerges alone at the top for a wide-open three.",
-    "It's the most visually spectacular screen in basketball, and one of the most effective. The defender literally cannot follow; the doors shut them out of the play.",
-    "The action is usually run for an elite shooter coming from the baseline to the top of the key. Timing is everything — the doors must close exactly as the shooter passes through."
-  ],
-  "whyItMatters": [
-    "Elevator doors produce the cleanest look in basketball: a stationary, wide-open three for your best shooter. Defenses know it's coming and still can't stop it when the timing is right — the geometry is simply unfair."
-  ],
-  "howTo": [
-    {
-      "title": "Set the two screeners apart",
-      "detail": "Two bigs stand a few feet apart at the elbows or the top, leaving a gap — the elevator shaft — for the shooter to run through."
-    },
-    {
-      "title": "Shooter sprints through the gap",
-      "detail": "Come from the baseline at full speed, straight through the middle of the two screeners. Don't drift to either side."
-    },
-    {
-      "title": "Close the doors on time",
-      "detail": "As the shooter clears, both screeners step together and seal. The timing must be exact — too early blocks your own shooter, too late lets the defender through."
-    },
-    {
-      "title": "Stay legal",
-      "detail": "The screeners must be set when contact comes. Closing the doors by moving into the defender is an offensive foul — the seal has to be about position, not shoving."
-    },
-    {
-      "title": "Catch and shoot clean",
-      "detail": "The shooter catches at the top with daylight. Feet set, no rush — this is the shot the whole play was built for."
-    }
   ],
   "coachingPoints": [
     "Reps, reps, reps — the timing window is tiny and only comes with practice.",
@@ -63,13 +16,24 @@
     "Moving into the defender while closing — an easy offensive foul call.",
     "The shooter running through off-center, letting the defender squeeze past."
   ],
-  "gameSituations": [
-    "ATO plays for an elite shooter when you absolutely need a three.",
-    "End-of-quarter or end-of-game situations with a set defense.",
-    "After the defense has adjusted to your pin downs and staggers — the ultimate changeup."
-  ],
+  "dateUpdated": "2026-10-06",
+  "description": "Two screeners close like elevator doors on the shooter's defender — the most dramatic screen in basketball.",
   "diagram": {
-    "title": "Elevator doors: screeners close behind the shooter",
+    "ball": "O1",
+    "defense": [
+      {
+        "label": "X2",
+        "x": 50,
+        "y": 36
+      }
+    ],
+    "moves": [
+      {
+        "from": "O2",
+        "kind": "cut",
+        "to": "O1"
+      }
+    ],
     "offense": [
       {
         "label": "O2",
@@ -92,14 +56,12 @@
         "y": 78
       }
     ],
-    "defense": [
+    "passes": [
       {
-        "label": "X2",
-        "x": 50,
-        "y": 36
+        "from": "O1",
+        "to": "O2"
       }
     ],
-    "ball": "O1",
     "screens": [
       {
         "x": 46,
@@ -110,82 +72,120 @@
         "y": 58
       }
     ],
-    "moves": [
-      {
-        "from": "O2",
-        "to": "O1",
-        "kind": "cut"
-      }
-    ],
-    "passes": [
-      {
-        "from": "O1",
-        "to": "O2"
-      }
-    ],
-    "shots": []
+    "shots": [],
+    "title": "Elevator doors: screeners close behind the shooter"
   },
+  "gameSituations": [
+    "ATO plays for an elite shooter when you absolutely need a three.",
+    "End-of-quarter or end-of-game situations with a set defense.",
+    "After the defense has adjusted to your pin downs and staggers — the ultimate changeup."
+  ],
+  "howTo": [
+    {
+      "detail": "Two bigs stand a few feet apart at the elbows or the top, leaving a gap — the elevator shaft — for the shooter to run through.",
+      "title": "Set the two screeners apart"
+    },
+    {
+      "detail": "Come from the baseline at full speed, straight through the middle of the two screeners. Don't drift to either side.",
+      "title": "Shooter sprints through the gap"
+    },
+    {
+      "detail": "As the shooter clears, both screeners step together and seal. The timing must be exact — too early blocks your own shooter, too late lets the defender through.",
+      "title": "Close the doors on time"
+    },
+    {
+      "detail": "The screeners must be set when contact comes. Closing the doors by moving into the defender is an offensive foul — the seal has to be about position, not shoving.",
+      "title": "Stay legal"
+    },
+    {
+      "detail": "The shooter catches at the top with daylight. Feet set, no rush — this is the shot the whole play was built for.",
+      "title": "Catch and shoot clean"
+    }
+  ],
+  "hub": "tactics",
+  "id": "elevator-doors",
+  "level": "advanced",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 5,
   "related": [
     "stagger-screen",
     "floppy-action",
     "pin-down-screen",
     "iverson-cut"
   ],
-  "dateUpdated": "2026-10-06",
+  "slug": "elevator-doors",
+  "subcategory": "offensive-actions",
+  "tags": [
+    "elevator doors",
+    "screens",
+    "shooter actions",
+    "plays"
+  ],
+  "title": "Elevator Doors",
   "vi": {
-    "title": "Elevator Doors",
-    "description": "Hai người chắn khép lại như cửa thang máy trên hậu vệ của tay ném — pha chắn bóng ngoạn mục nhất trong bóng rổ.",
-    "whatIsIt": [
-      "Elevator doors là một pha chạy chỗ cho tay ném: tay ném chạy xuyên qua khe hở giữa hai người chắn, sau đó họ bước khép lại — đóng lại như cửa thang máy — nhốt hậu vệ đeo bám ở phía sau. Tay ném thoát ra một mình ở đỉnh vòng cung cho một cú ném ba hoàn toàn trống trải.",
-      "Đây là pha chắn bóng mãn nhãn nhất trong bóng rổ, và cũng là một trong những pha hiệu quả nhất. Hậu vệ theo kèm theo nghĩa đen không thể bám theo; cánh cửa đã đóng sập họ ra khỏi tình huống.",
-      "Pha này thường được chạy cho một tay ném cừ khôi từ baseline lên đỉnh vòng cung. Thời điểm là tất cả — cánh cửa phải đóng lại đúng lúc tay ném vừa lướt qua."
+    "coachingPoints": [
+      "Tập, tập, tập — cửa sổ thời điểm rất hẹp, chỉ có được nhờ luyện tập",
+      "Nhấn mạnh tính hợp lệ: trọng tài soi kỹ bài này, cửa di chuyển là bị thổi ngay",
+      "Người chuyền phải đưa bóng đúng lúc; người ném không bao giờ phải chờ bóng",
+      "Có phương án dự phòng: nếu hàng thủ switch cửa, slip một người screen về rổ"
     ],
-    "whyItMatters": [
-      "Elevator doors tạo ra cú ném sạch nhất trong bóng rổ: một cú ném ba đứng yên, hoàn toàn trống trải cho tay ném hay nhất của bạn. Hàng thủ biết nó sắp đến mà vẫn không chặn được khi thời điểm chuẩn xác — về mặt hình học, nó đơn giản là bất công."
+    "commonMistakes": [
+      "Đóng cửa quá sớm, chặn luôn người ném của mình",
+      "Di chuyển vào cầu thủ phòng thủ khi đóng — lỗi tấn công dễ bị thổi",
+      "Người ném chạy qua lệch tâm, để cầu thủ phòng thủ lách qua"
+    ],
+    "description": "Hai người screen khép lại như cửa thang máy, nhốt cầu thủ phòng thủ của người ném — pha screen ấn tượng nhất bóng rổ.",
+    "gameSituations": [
+      "Bài ATO cho tay ném đẳng cấp khi bắt buộc cần 3 điểm",
+      "Cuối hiệp hoặc cuối trận trước hàng thủ đã đứng vững",
+      "Sau khi hàng thủ đã bắt bài pin down và stagger — đòn đổi nhịp tối thượng"
     ],
     "howTo": [
       {
-        "title": "Dựng hai người chắn cách nhau",
-        "detail": "Hai big đứng cách nhau vài bước chân ở vị trí elbow hoặc đỉnh vòng cung, chừa một khe hở — 'giếng thang máy' — để tay ném chạy xuyên qua."
+        "detail": "Hai cầu thủ big đứng cách nhau vài bước chân ở vị trí elbow hoặc đỉnh, chừa khe — ‘giếng thang máy’ — cho người ném chạy qua.",
+        "title": "Đặt hai người screen cách nhau"
       },
       {
-        "title": "Tay ném bứt tốc xuyên qua khe",
-        "detail": "Từ baseline chạy hết tốc độ, thẳng qua giữa hai người chắn. Đừng lệch sang bên nào."
+        "detail": "Từ biên chạy hết tốc độ, xuyên thẳng giữa hai người screen. Đừng lệch sang bên nào.",
+        "title": "Người ném chạy nước rút qua khe"
       },
       {
-        "title": "Đóng cửa đúng thời điểm",
-        "detail": "Ngay khi tay ném vừa lướt qua, cả hai người chắn bước khép lại và bịt kín. Thời điểm phải chính xác tuyệt đối — đóng sớm sẽ chắn luôn tay ném của mình, đóng muộn sẽ để hậu vệ lọt qua."
+        "detail": "Khi người ném vừa lướt qua, cả hai người screen bước khép vào và chặn lại. Thời điểm phải chính xác — đóng sớm chặn luôn người ném của mình, đóng muộn để cầu thủ phòng thủ lọt qua.",
+        "title": "Đóng cửa đúng lúc"
       },
       {
-        "title": "Giữ đúng luật",
-        "detail": "Người chắn phải đứng vững khi va chạm xảy ra. Đóng cửa bằng cách di chuyển vào người hậu vệ là lỗi tấn công — việc bịt kín phải dựa vào vị trí, không phải xô đẩy."
+        "detail": "Người screen phải đứng yên khi va chạm đến. Đóng cửa bằng cách di chuyển vào cầu thủ phòng thủ là lỗi tấn công — cú chặn phải bằng vị trí, không phải xô đẩy.",
+        "title": "Giữ đúng luật"
       },
       {
-        "title": "Nhận bóng và ném sạch",
-        "detail": "Tay ném nhận bóng ở đỉnh vòng cung với khoảng trống mênh mông. Chân đã đặt sẵn, không vội vàng — đây là cú ném mà cả pha bóng được xây dựng để tạo ra."
+        "detail": "Người ném bắt bóng ở đỉnh với khoảng trống mênh mông. Chân đã đặt, không vội — đây là cú ném mà cả bài đánh được xây dựng cho.",
+        "title": "Bắt bóng ném ngay, sạch sẽ"
       }
-    ],
-    "coachingPoints": [
-      "Tập đi tập lại — cửa sổ thời gian rất hẹp và chỉ đến từ luyện tập.",
-      "Nhấn mạnh tính đúng luật: trọng tài theo dõi kỹ pha này, và cửa di chuyển sẽ bị thổi phạt.",
-      "Người chuyền phải chuyền đúng lúc; tay ném không bao giờ được chờ bóng.",
-      "Chuẩn bị phương án đối phó: nếu hàng thủ đổi người ở cửa, cho một người chắn cắt nhanh vào rổ."
-    ],
-    "commonMistakes": [
-      "Đóng cửa quá sớm và chắn luôn tay ném của mình.",
-      "Di chuyển vào người hậu vệ khi đóng cửa — một lỗi tấn công dễ bị thổi.",
-      "Tay ném chạy lệch giữa, để hậu vệ chen qua."
-    ],
-    "gameSituations": [
-      "Các pha ATO cho tay ném cừ khôi khi bạn tuyệt đối cần một cú ném ba.",
-      "Cuối hiệp hoặc cuối trận khi hàng thủ đã vào vị trí.",
-      "Sau khi hàng thủ đã bắt bài các pha pin down và stagger — đòn đổi nhịp tối thượng."
     ],
     "tags": [
       "elevator doors",
-      "chắn bóng",
-      "tay ném",
-      "bài đánh"
+      "screen",
+      "ném rổ",
+      "chiến thuật"
+    ],
+    "title": "Bài elevator doors",
+    "whatIsIt": [
+      "Elevator doors là bài đánh cho người ném: người ném chạy qua khe giữa hai người screen, rồi họ bước khép vào nhau — đóng lại như cửa thang máy — nhốt cầu thủ phòng thủ đang đuổi sau lưng. Người ném thoát ra một mình ở đỉnh vòng cung, ném 3 điểm hoàn toàn trống.",
+      "Đây là pha screen mãn nhãn nhất trong bóng rổ, và cũng hiệu quả bậc nhất. Cầu thủ phòng thủ theo không nổi; cánh cửa đóng sập, loại anh ta khỏi pha bóng.",
+      "Bài này thường chạy cho tay ném đẳng cấp, từ biên lên đỉnh vòng cung. Thời điểm là tất cả — cửa phải đóng đúng lúc người ném lướt qua."
+    ],
+    "whyItMatters": [
+      "Elevator doors tạo ra cú ném sạch nhất bóng rổ: quả 3 điểm đứng yên, hoàn toàn trống, cho tay ném hay nhất của bạn. Hàng thủ biết nó sắp đến mà vẫn không chặn nổi khi thời điểm chuẩn — hình học đơn giản là bất công."
     ]
-  }
+  },
+  "whatIsIt": [
+    "Elevator doors is a shooter action where the shooter runs through a gap between two screeners, who then step together — closing like elevator doors — trapping the chasing defender behind them. The shooter emerges alone at the top for a wide-open three.",
+    "It's the most visually spectacular screen in basketball, and one of the most effective. The defender literally cannot follow; the doors shut them out of the play.",
+    "The action is usually run for an elite shooter coming from the baseline to the top of the key. Timing is everything — the doors must close exactly as the shooter passes through."
+  ],
+  "whyItMatters": [
+    "Elevator doors produce the cleanest look in basketball: a stationary, wide-open three for your best shooter. Defenses know it's coming and still can't stop it when the timing is right — the geometry is simply unfair."
+  ]
 }

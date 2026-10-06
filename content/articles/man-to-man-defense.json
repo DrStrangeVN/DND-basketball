@@ -74,69 +74,69 @@
     "system"
   ],
   "title": "Man-to-Man Defense",
-  "whatIsIt": [
-    "Man-to-man defense is the system where each defender is responsible for guarding a specific offensive player rather than an area of the court. It is the foundation of modern basketball defense — nearly every team plays it as their base, and every other system is understood in relation to it.",
-    "What makes it work is not the matching up; it is what happens off the ball. Good man-to-man is really a help defense system: defenders pressure the ball, play gaps, stunt, rotate, and recover as one connected unit. The matchup is the starting point, not the whole job."
-  ],
-  "whyItMatters": [
-    "Man-to-man teaches every defensive skill that matters: on-ball containment, closeouts, help, rotations, and boxing out. Players who learn real man-to-man principles can play in any system. And because it puts accountability on every matchup, it is the defense coaches trust when one stop decides the game."
-  ],
   "vi": {
-    "title": "Phòng Thủ Kèm Người (Man-to-Man)",
-    "description": "Phòng thủ kèm người: mỗi hậu vệ kèm một cầu thủ — áp lực, hỗ trợ, xoay xở và những thói quen làm nên thành công.",
-    "whatIsIt": [
-      "Phòng thủ kèm người là hệ thống mà mỗi hậu vệ chịu trách nhiệm kèm một cầu thủ tấn công cụ thể, thay vì một khu vực trên sân. Đây là nền tảng của phòng thủ bóng rổ hiện đại — gần như mọi đội đều dùng nó làm hệ thống chính, và mọi hệ thống khác đều được hiểu trong mối liên hệ với nó.",
-      "Điều làm nên hiệu quả không phải là việc kèm người; mà là những gì diễn ra ngoài bóng. Phòng thủ kèm người tốt thực chất là một hệ thống phòng thủ hỗ trợ: các hậu vệ gây áp lực lên bóng, giữ khoảng cách, stunt, xoay xở và hồi phục như một khối thống nhất. Kèm người chỉ là điểm khởi đầu, không phải toàn bộ công việc."
+    "coachingPoints": [
+      "Mỗi lần phòng thủ bắt đầu bằng áp lực lên bóng và đứng khe khi không bóng — không đứng nhìn.",
+      "Hô liên tục: 'bóng', 'hỗ trợ', 'screen', 'switch' — kèm người im lặng là kèm người hỏng.",
+      "Cầu thủ phía bóng gây áp lực; cầu thủ phía yếu bóng hỗ trợ.",
+      "Closeout trong kiểm soát — kèm người sống chết ở closeout.",
+      "Rebound là việc của cả đội: tìm người kèm, tạo va chạm, rồi đi lấy bóng."
     ],
-    "whyItMatters": [
-      "Kèm người dạy mọi kỹ năng phòng thủ quan trọng: kèm bóng, closeout, hỗ trợ, xoay xở và box out. Cầu thủ học được các nguyên tắc kèm người thực sự có thể chơi trong bất kỳ hệ thống nào. Và vì nó đặt trách nhiệm lên từng cặp đấu, đây là hàng thủ mà các huấn luyện viên tin tưởng khi một pha phòng thủ quyết định trận đấu."
+    "commonMistakes": [
+      "Đánh kèm người mà không có nguyên tắc hỗ trợ — chỉ là năm cá nhân.",
+      "Mải nhìn bóng, mất người cắt backdoor.",
+      "Không box out vì ai cũng đuổi theo bóng.",
+      "Switch mọi thứ theo mặc định mà không hô nhau."
+    ],
+    "description": "Phòng thủ kèm người: mỗi cầu thủ phòng thủ kèm một người — áp lực, hỗ trợ, rotation và những thói quen giúp nó vận hành.",
+    "gameSituations": [
+      "Làm hàng thủ gốc của đội trong phần lớn trận đấu.",
+      "Gặp đội có một ngôi sao muốn gây áp lực bằng cầu thủ phòng thủ hay nhất.",
+      "Cuối trận cần trách nhiệm rõ ràng ở từng cặp đấu.",
+      "Khi đội hình đủ thể chất để kèm nhiều vị trí."
     ],
     "howTo": [
       {
-        "title": "Nhận người của bạn",
-        "detail": "Mỗi hậu vệ nhận một cặp đấu — thường là cầu thủ gần nhất khi chuyển trạng thái hoặc do huấn luyện viên chỉ định. Bạn chịu trách nhiệm với cầu thủ đó trong cả lượt bóng."
+        "detail": "Mỗi cầu thủ phòng thủ nhận một cặp đấu — thường là người gần nhất trong chuyển trạng thái hoặc HLV chỉ định. Sở hữu cầu thủ đó trong cả lần phòng thủ.",
+        "title": "Xếp cặp với người kèm"
       },
       {
-        "title": "Kèm bóng hoặc giữ khoảng cách",
-        "detail": "Nếu người của bạn có bóng, bạn là hậu vệ kèm bóng: tư thế, ngăn chặn, tranh chấp. Nếu không, bạn chơi ở khoảng giữa người của mình và bóng, sẵn sàng hỗ trợ."
+        "detail": "Người kèm có bóng thì mình là cầu thủ kèm bóng: tư thế, chặn đứng, contest. Không thì đứng ở khe giữa người kèm và bóng, sẵn sàng hỗ trợ.",
+        "title": "Kèm bóng hoặc kèm khe"
       },
       {
-        "title": "Hỗ trợ và xoay xở như một khối",
-        "detail": "Khi bóng vượt qua đồng đội, hậu vệ gần nhất ập vào hỗ trợ — bước lên chặn bóng — và hậu vệ tiếp theo xoay sang bọc lót người của người hỗ trợ. Chuỗi này tiếp tục cho đến khi bóng bị chặn lại."
+        "detail": "Bóng qua mặt đồng đội thì cầu thủ gần nhất hỗ trợ — bước vào chặn bóng — và cầu thủ tiếp theo rotation bọc người của cầu thủ hỗ trợ. Chuỗi cứ thế tiếp diễn đến khi bóng bị chặn.",
+        "title": "Hỗ trợ và rotation như một khối"
       },
       {
-        "title": "Phòng thủ screen theo đội hình",
-        "detail": "Các pha screen bóng được xử lý theo chiến thuật của đội — drop, switch, hedge hoặc ICE — với cả năm cầu thủ đều biết nhiệm vụ của mình trước khi screen được dựng."
+        "detail": "Ball screen xử lý theo cách của đội — drop, switch, hedge hay ice — cả năm người biết việc của mình trước khi screen dựng.",
+        "title": "Phòng thủ screen theo bài của đội"
       },
       {
-        "title": "Box out người của bạn mỗi cú ném",
-        "detail": "Khi bóng bay lên, tìm người của bạn, tạo tiếp xúc và box out. Rebound trong kèm người rất đơn giản: người của bạn không được chạm vào bóng."
+        "detail": "Bóng lên thì tìm người kèm, tạo va chạm, box out. Rebound trong kèm người rất đơn giản: người mình kèm không được chạm bóng.",
+        "title": "Box out người kèm mỗi cú ném"
       }
-    ],
-    "coachingPoints": [
-      "Mỗi lượt bóng bắt đầu bằng áp lực lên bóng và khoảng cách ngoài bóng — không ai được đứng yên.",
-      "Giao tiếp liên tục: 'ball', 'help', 'screen', 'switch' — một hàng kèm người im lặng là một hàng thủ hỏng.",
-      "Hậu vệ phía bóng gây áp lực; hậu vệ phía yếu hỗ trợ.",
-      "Closeout có kiểm soát — kèm người sống hay chết ở closeout.",
-      "Rebound là việc của cả đội: tìm người của bạn, tạo tiếp xúc, rồi đi lấy bóng."
-    ],
-    "commonMistakes": [
-      "Chơi kèm người mà không có nguyên tắc hỗ trợ — chỉ là năm hậu vệ đơn lẻ.",
-      "Mải nhìn bóng và để cầu thủ cắt backdoor.",
-      "Không box out vì mọi người đều chạy theo bóng.",
-      "Switch mọi thứ theo mặc định mà không giao tiếp."
-    ],
-    "gameSituations": [
-      "Làm hàng thủ chính của đội trong phần lớn trận đấu.",
-      "Trước các đội có một ngôi sao mà bạn muốn dùng hậu vệ tốt nhất để gây áp lực.",
-      "Cuối trận khi bạn cần trách nhiệm rõ ràng ở từng cặp đấu.",
-      "Khi đội hình của bạn đủ thể lực để kèm nhiều vị trí."
     ],
     "tags": [
       "phòng thủ",
       "kèm người",
       "phòng thủ đội",
       "hệ thống"
+    ],
+    "title": "Phòng thủ kèm người",
+    "whatIsIt": [
+      "Phòng thủ kèm người là hệ thống mà mỗi cầu thủ phòng thủ chịu trách nhiệm kèm một cầu thủ tấn công cụ thể thay vì một khu vực sân. Đây là nền tảng của phòng thủ bóng rổ hiện đại — gần như đội nào cũng lấy nó làm gốc, và mọi hệ thống khác đều được hiểu trong tương quan với nó.",
+      "Thứ giúp nó vận hành không phải việc xếp cặp; mà là những gì xảy ra khi không bóng. Kèm người tốt thực chất là một hệ thống phòng thủ hỗ trợ: cầu thủ phòng thủ gây áp lực lên bóng, đứng khe, stunt, rotation và hồi vị trí như một khối. Xếp cặp chỉ là điểm xuất phát, không phải toàn bộ công việc."
+    ],
+    "whyItMatters": [
+      "Kèm người dạy mọi kỹ năng phòng thủ quan trọng: chặn bóng một đấu một, closeout, hỗ trợ, rotation và box out. Cầu thủ học nguyên tắc kèm người thật sự chơi được mọi hệ thống. Và vì nó đặt trách nhiệm lên từng cặp đấu, đây là hàng thủ HLV tin tưởng khi một pha dừng bóng quyết định trận đấu."
     ]
-  }
+  },
+  "whatIsIt": [
+    "Man-to-man defense is the system where each defender is responsible for guarding a specific offensive player rather than an area of the court. It is the foundation of modern basketball defense — nearly every team plays it as their base, and every other system is understood in relation to it.",
+    "What makes it work is not the matching up; it is what happens off the ball. Good man-to-man is really a help defense system: defenders pressure the ball, play gaps, stunt, rotate, and recover as one connected unit. The matchup is the starting point, not the whole job."
+  ],
+  "whyItMatters": [
+    "Man-to-man teaches every defensive skill that matters: on-ball containment, closeouts, help, rotations, and boxing out. Players who learn real man-to-man principles can play in any system. And because it puts accountability on every matchup, it is the defense coaches trust when one stop decides the game."
+  ]
 }

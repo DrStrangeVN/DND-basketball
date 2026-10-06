@@ -1,138 +1,138 @@
 {
- "ages": [
-  "U14",
-  "U16",
-  "U18",
-  "Adult"
- ],
- "coachingPoints": [
-  "Toughness is a behavior, not a personality — any player can learn it through reps in controlled adversity.",
-  "Praise the response, not the result: 'great next-play speed' after a turnover matters more than the turnover itself.",
-  "Keep standards non-negotiable on effort plays: sprinting back, diving on the floor, boxing out. Skill varies; effort doesn't.",
-  "The coach must model toughness first — calm under pressure, accountable after mistakes, relentless in preparation."
- ],
- "commonMistakes": [
-  "Confusing toughness with yelling or punishment — fear produces compliance, not resilience.",
-  "Running 'toughness' drills with no teaching of the response — players just suffer instead of learning.",
-  "Lowering standards for talented players — the moment stars get exemptions, toughness dies for everyone.",
-  "Only demanding toughness in games while practices are soft — toughness is built Monday to Friday."
- ],
- "dateUpdated": "2026-10-06",
- "description": "Build mental toughness through competitive drills, trained responses to adversity, and non-negotiable effort standards.",
- "gameSituations": [
-  "Down 8 with three minutes left, the team runs its offense instead of panicking into hero ball.",
-  "A player misses two free throws, sprints back on defense, and gets a steal on the next possession.",
-  "Opponent goes on a 10-0 run; the huddle stays calm and the next possession is a disciplined set."
- ],
- "howTo": [
-  {
-   "detail": "Name the behaviors: sprint back on every change of possession, dive for every 50-50 ball within reach, box out on every shot, communicate every screen. Post the 4-5 effort standards on the locker room wall — if it's not written and repeated, it's optional.",
-   "title": "Define toughness as behaviors"
-  },
-  {
-   "detail": "Design drills where adversity is guaranteed: 5v5 where the defense starts down 8 with 4 minutes on the clock, or 3v3 where the offense gets one fewer player. Players get reps handling pressure in practice so games feel familiar.",
-   "title": "Create controlled adversity"
-  },
-  {
-   "detail": "After every mistake in practice — a turnover, a missed assignment — require an immediate 3-second reset: sprint, communicate, next play. Time it and call it out: 'Next-play speed: 2 seconds. That's championship speed.' Make the response the celebrated stat.",
-   "title": "Train the next-play response"
-  },
-  {
-   "detail": "Once a week, end practice with a conditioning-plus-skill block that pushes past comfort: 10 full-court sprints, then 10 free throws, repeat twice. When legs are gone and the shot still has to go in, players learn their limits are negotiable.",
-   "title": "Push past comfort deliberately"
-  },
-  {
-   "detail": "Publicly track effort stats — deflections, floor dives, charges taken, box-outs — on a whiteboard. Players who top the toughness board get recognized regardless of scoring. What you measure is what you get.",
-   "title": "Measure and reward toughness"
-  }
- ],
- "hub": "coaching",
- "id": "coaching-toughness",
- "level": "intermediate",
- "positions": [
-  "ALL"
- ],
- "readTime": 6,
- "related": [
-  "coaching-leadership",
-  "building-team-identity",
-  "building-practice-culture",
-  "giving-feedback-that-sticks",
-  "end-of-practice-games"
- ],
- "slug": "coaching-toughness",
- "subcategory": "player-development",
- "tags": [
-  "mental-toughness",
-  "resilience",
-  "competitiveness",
-  "standards",
-  "effort"
- ],
- "title": "Teaching Mental Toughness",
- "vi": {
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
   "coachingPoints": [
-   "Sự cứng rắn là hành vi, không phải tính cách — bất kỳ cầu thủ nào cũng học được qua tập luyện trong nghịch cảnh có kiểm soát.",
-   "Khen phản ứng, không khen kết quả: 'tốc độ next-play tuyệt vời' sau một turnover quan trọng hơn chính turnover đó.",
-   "Giữ tiêu chuẩn nỗ lực không thể thương lượng: chạy về phòng ngự, lao xuống sàn, box out. Kỹ năng có thể khác nhau; nỗ lực thì không.",
-   "Huấn luyện viên phải làm gương về sự cứng rắn trước — bình tĩnh dưới áp lực, chịu trách nhiệm sau sai lầm, không ngừng chuẩn bị."
+    "Toughness is a behavior, not a personality — any player can learn it through reps in controlled adversity.",
+    "Praise the response, not the result: 'great next-play speed' after a turnover matters more than the turnover itself.",
+    "Keep standards non-negotiable on effort plays: sprinting back, diving on the floor, boxing out. Skill varies; effort doesn't.",
+    "The coach must model toughness first — calm under pressure, accountable after mistakes, relentless in preparation."
   ],
   "commonMistakes": [
-   "Nhầm lẫn sự cứng rắn với la hét hay trừng phạt — nỗi sợ tạo ra sự vâng lời, không phải sự kiên cường.",
-   "Chạy bài 'toughness' mà không dạy phản ứng — cầu thủ chỉ chịu đựng thay vì học hỏi.",
-   "Hạ tiêu chuẩn cho cầu thủ tài năng — khi ngôi sao được miễn trừ, sự cứng rắn chết với mọi người.",
-   "Chỉ đòi hỏi cứng rắn trong trận đấu trong khi buổi tập thì nhẹ nhàng — sự cứng rắn được xây từ thứ Hai đến thứ Sáu."
+    "Confusing toughness with yelling or punishment — fear produces compliance, not resilience.",
+    "Running 'toughness' drills with no teaching of the response — players just suffer instead of learning.",
+    "Lowering standards for talented players — the moment stars get exemptions, toughness dies for everyone.",
+    "Only demanding toughness in games while practices are soft — toughness is built Monday to Friday."
   ],
-  "description": "Xây dựng sự cứng rắn tinh thần qua các bài tập thi đấu, phản ứng được huấn luyện trước nghịch cảnh, và tiêu chuẩn nỗ lực không thể thương lượng.",
+  "dateUpdated": "2026-10-06",
+  "description": "Build mental toughness through competitive drills, trained responses to adversity, and non-negotiable effort standards.",
   "gameSituations": [
-   "Bị dẫn 8 điểm còn ba phút, đội vẫn chạy bài tấn công thay vì hoảng loạn đánh hero ball.",
-   "Một cầu thủ ném hỏng hai quả phạt, chạy nước rút về phòng ngự và cướp bóng ở possession tiếp theo.",
-   "Đối thủ ghi liền 10-0; huddle vẫn bình tĩnh và possession tiếp theo là một bài đánh kỷ luật."
+    "Down 8 with three minutes left, the team runs its offense instead of panicking into hero ball.",
+    "A player misses two free throws, sprints back on defense, and gets a steal on the next possession.",
+    "Opponent goes on a 10-0 run; the huddle stays calm and the next possession is a disciplined set."
   ],
   "howTo": [
-   {
-    "detail": "Gọi tên các hành vi: chạy nước rút về sau mỗi lần đổi quyền kiểm soát, lao xuống mọi bóng 50-50 trong tầm với, box out mỗi cú ném, giao tiếp mỗi screen. Dán 4-5 tiêu chuẩn nỗ lực lên tường phòng thay đồ — nếu không viết ra và nhắc lại, nó chỉ là tùy chọn.",
-    "title": "Định nghĩa sự cứng rắn bằng hành vi"
-   },
-   {
-    "detail": "Thiết kế bài tập mà nghịch cảnh là chắc chắn: 5v5 mà đội phòng ngự bắt đầu bị dẫn 8 điểm với 4 phút trên đồng hồ, hoặc 3v3 mà đội tấn công ít hơn một người. Cầu thủ được tập xử lý áp lực trong buổi tập để trận đấu trở nên quen thuộc.",
-    "title": "Tạo nghịch cảnh có kiểm soát"
-   },
-   {
-    "detail": "Sau mỗi sai lầm trong buổi tập — turnover, bỏ kèm — yêu cầu reset ngay trong 3 giây: chạy nước rút, giao tiếp, next play. Bấm giờ và gọi to: 'Tốc độ next-play: 2 giây. Đó là tốc độ vô địch.' Biến phản ứng thành chỉ số được tôn vinh.",
-    "title": "Huấn luyện phản ứng next-play"
-   },
-   {
-    "detail": "Mỗi tuần một lần, kết thúc buổi tập bằng khối conditioning kết hợp kỹ năng đẩy qua giới hạn thoải mái: 10 lần chạy nước rút full-court, rồi 10 quả ném phạt, lặp lại hai lần. Khi chân đã rã mà cú ném vẫn phải vào, cầu thủ học được rằng giới hạn của họ có thể thương lượng.",
-    "title": "Đẩy qua vùng thoải mái một cách chủ ý"
-   },
-   {
-    "detail": "Công khai theo dõi các chỉ số nỗ lực — deflections, lao xuống sàn, charges, box-out — trên bảng trắng. Cầu thủ đứng đầu bảng toughness được vinh danh bất kể ghi bao nhiêu điểm. Cái gì được đo lường sẽ được thực hiện.",
-    "title": "Đo lường và khen thưởng sự cứng rắn"
-   }
+    {
+      "detail": "Name the behaviors: sprint back on every change of possession, dive for every 50-50 ball within reach, box out on every shot, communicate every screen. Post the 4-5 effort standards on the locker room wall — if it's not written and repeated, it's optional.",
+      "title": "Define toughness as behaviors"
+    },
+    {
+      "detail": "Design drills where adversity is guaranteed: 5v5 where the defense starts down 8 with 4 minutes on the clock, or 3v3 where the offense gets one fewer player. Players get reps handling pressure in practice so games feel familiar.",
+      "title": "Create controlled adversity"
+    },
+    {
+      "detail": "After every mistake in practice — a turnover, a missed assignment — require an immediate 3-second reset: sprint, communicate, next play. Time it and call it out: 'Next-play speed: 2 seconds. That's championship speed.' Make the response the celebrated stat.",
+      "title": "Train the next-play response"
+    },
+    {
+      "detail": "Once a week, end practice with a conditioning-plus-skill block that pushes past comfort: 10 full-court sprints, then 10 free throws, repeat twice. When legs are gone and the shot still has to go in, players learn their limits are negotiable.",
+      "title": "Push past comfort deliberately"
+    },
+    {
+      "detail": "Publicly track effort stats — deflections, floor dives, charges taken, box-outs — on a whiteboard. Players who top the toughness board get recognized regardless of scoring. What you measure is what you get.",
+      "title": "Measure and reward toughness"
+    }
   ],
+  "hub": "coaching",
+  "id": "coaching-toughness",
+  "level": "intermediate",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 6,
+  "related": [
+    "coaching-leadership",
+    "building-team-identity",
+    "building-practice-culture",
+    "giving-feedback-that-sticks",
+    "end-of-practice-games"
+  ],
+  "slug": "coaching-toughness",
+  "subcategory": "player-development",
   "tags": [
-   "tinh-thần-thép",
-   "kiên-cường",
-   "tính-cạnh-tranh",
-   "tiêu-chuẩn",
-   "nỗ-lực"
+    "mental-toughness",
+    "resilience",
+    "competitiveness",
+    "standards",
+    "effort"
   ],
-  "title": "Dạy Sự Cứng Rắn Tinh Thần",
+  "title": "Teaching Mental Toughness",
+  "vi": {
+    "coachingPoints": [
+      "Bản lĩnh là hành vi, không phải tính cách — cầu thủ nào cũng học được qua tập luyện trong nghịch cảnh có kiểm soát.",
+      "Khen phản ứng, không khen kết quả: \"tốc độ chuyển pha tốt\" sau khi để mất bóng quan trọng hơn chính pha mất bóng.",
+      "Giữ chuẩn mực nỗ lực không thể mặc cả: chạy về, lao người, box out. Kỹ năng có thể khác nhau; nỗ lực thì không.",
+      "HLV phải làm gương trước — bình tĩnh dưới áp lực, nhận trách nhiệm sau sai lầm, chuẩn bị không ngơi nghỉ."
+    ],
+    "commonMistakes": [
+      "Nhầm bản lĩnh với la hét hay trừng phạt — nỗi sợ chỉ tạo ra sự vâng lời, không tạo ra sức bật.",
+      "Chạy bài \"bản lĩnh\" mà không dạy phản ứng — cầu thủ chỉ chịu khổ chứ không học được gì.",
+      "Hạ chuẩn cho cầu thủ giỏi — ngôi sao được miễn trừ là bản lĩnh chết cho cả đội.",
+      "Chỉ đòi bản lĩnh ở trận đấu trong khi buổi tập dễ dãi — bản lĩnh xây từ thứ Hai tới thứ Sáu."
+    ],
+    "description": "Xây bản lĩnh qua bài tập cạnh tranh, phản ứng được rèn trước nghịch cảnh, và chuẩn mực nỗ lực không thể mặc cả.",
+    "gameSituations": [
+      "Bị dẫn 8 điểm còn 3 phút, đội vẫn chạy bài tấn công thay vì hoảng loạn đánh hero ball.",
+      "Một cầu thủ ném phạt trượt hai quả, chạy về phòng thủ, và cướp bóng ở đợt tiếp theo.",
+      "Đối thủ chạy chuỗi 10-0; buổi hội ý vẫn bình tĩnh và đợt tấn công sau là một bài đánh kỷ luật."
+    ],
+    "howTo": [
+      {
+        "detail": "Nêu tên các hành vi: chạy về mỗi khi đổi quyền bóng, lao vào mọi bóng 50-50 trong tầm với, box out mọi cú ném, hô mọi screen. Dán 4–5 chuẩn mực nỗ lực lên tường phòng thay đồ — không viết ra và không nhắc lại thì nó thành tuỳ chọn.",
+        "title": "Định nghĩa bản lĩnh bằng hành vi"
+      },
+      {
+        "detail": "Thiết kế bài tập mà nghịch cảnh chắc chắn xảy ra: 5 đấu 5 mà đội phòng thủ bị dẫn 8 điểm với 4 phút trên đồng hồ, hoặc 3 đấu 3 mà đội tấn công thiếu một người. Cầu thủ được tập xử lý áp lực ở buổi tập để vào trận thấy quen.",
+        "title": "Tạo nghịch cảnh có kiểm soát"
+      },
+      {
+        "detail": "Sau mỗi lỗi ở buổi tập — để mất bóng, kèm sai người — bắt reset ngay trong 3 giây: chạy, hô, pha tiếp theo. Bấm giờ và hô to: \"Tốc độ chuyển pha: 2 giây. Đó là tốc độ vô địch.\" Biến phản ứng thành chỉ số được khen.",
+        "title": "Rèn phản ứng \"pha tiếp theo\""
+      },
+      {
+        "detail": "Mỗi tuần một lần, kết thúc buổi tập bằng khối thể lực + kỹ năng đẩy qua giới hạn: 10 lần chạy hết sân, rồi 10 quả ném phạt, lặp hai vòng. Khi chân đã rã mà bóng vẫn phải vào rổ, cầu thủ học được rằng giới hạn của mình có thể thương lượng.",
+        "title": "Vượt qua giới hạn một cách chủ ý"
+      },
+      {
+        "detail": "Công khai theo dõi chỉ số nỗ lực — deflection, lao người, hứng lỗi tấn công, box out — trên bảng trắng. Cầu thủ đứng đầu bảng bản lĩnh được vinh danh bất kể ghi bao nhiêu điểm. Đo cái gì thì được cái đó.",
+        "title": "Đo lường và khen thưởng bản lĩnh"
+      }
+    ],
+    "tags": [
+      "huấn luyện",
+      "bản lĩnh",
+      "tâm lý",
+      "chiến thuật"
+    ],
+    "title": "Dạy bản lĩnh thi đấu",
+    "whatIsIt": [
+      "Bản lĩnh là khả năng thực hiện đúng hành vi khi mọi thứ trở nên khó khăn: chân đã mỏi, đang bị dẫn điểm, vừa mắc lỗi, khán giả đối thủ la ó. Nó không phải tố chất bẩm sinh — là tập hợp các phản ứng có thể rèn: tốc độ chuyển sang pha tiếp theo, nỗ lực không đổi, bình tĩnh giữa hỗn loạn.",
+      "Đội nào cũng gặp nghịch cảnh; đội thắng là đội phản ứng tốt hơn. Bản lĩnh quyết định ai ném phạt trúng khi chân đã rã, ai giữ được hàng thủ khi bị dẫn 10 điểm, ai đứng dậy sau khi để mất bóng. Không có nó, tài năng chỉ là tiềm năng chẳng bao giờ tới."
+    ],
+    "whyItMatters": [
+      "Đội nào cũng gặp nghịch cảnh; đội thắng là đội phản ứng tốt hơn. Bản lĩnh quyết định ai ném phạt trúng khi chân đã rã, ai giữ được hàng thủ khi bị dẫn 10 điểm, ai đứng dậy sau khi để mất bóng. Không có nó, tài năng chỉ là tiềm năng chẳng bao giờ tới.",
+      "Tin tốt: bản lĩnh rèn được. Nó hình thành từ những lần tiếp xúc nhỏ, lặp lại với áp lực — bài tập cạnh tranh có thưởng phạt, chuẩn mực không xê dịch trong ngày tệ, và băng ghế dự bị đòi hỏi nỗ lực ngang cầu thủ chính. Dạy phản ứng, không chỉ dạy kết quả, và bản lĩnh thành bản sắc của đội."
+    ]
+  },
   "whatIsIt": [
-   "Sự cứng rắn tinh thần là khả năng thực hiện đúng hành vi khi mọi thứ khó khăn: mệt, bị dẫn điểm, vừa mắc sai lầm, khán giả la ó. Nó không phải tính cách bẩm sinh — đó là một tập hợp các phản ứng có thể huấn luyện được: tốc độ next-play, nỗ lực không đổi, bình tĩnh trong hỗn loạn.",
-   "title-placeholder"
+    "Mental toughness is the ability to execute the right behaviors when things get hard: tired legs, a deficit on the scoreboard, a fresh mistake, a hostile crowd. It's not an inborn trait — it's a set of trainable responses: next-play speed, unchanging effort, calm under chaos.",
+    "Every team faces adversity; winning teams respond better. Mental toughness decides who makes the free throw with dead legs, who holds the defensive shell down 10, who gets up after a turnover. Without it, talent is just potential that never arrives."
   ],
   "whyItMatters": [
-   "Mọi đội đều gặp nghịch cảnh; đội thắng là đội phản ứng tốt hơn. Sự cứng rắn tinh thần quyết định ai thực hiện được cú ném phạt khi chân đã rã, ai giữ được đội hình phòng ngự khi bị dẫn 10 điểm, ai đứng dậy sau turnover. Không có nó, tài năng chỉ là tiềm năng chưa bao giờ thành hiện thực."
+    "Every team faces adversity; the winning team is the one that responds better. Mental toughness decides who makes the free throw with dead legs, who holds the defensive shell down 10, who gets up after a turnover. Without it, talent is just potential that never arrives.",
+    "The good news is toughness is trainable. It is built in small, repeated exposures to pressure — competitive drills with consequences, standards that don't move on bad days, and a bench that demands the same effort as the starters. Coach the response, not just the result, and toughness becomes your program's identity."
   ]
- },
- "whatIsIt": [
-  "Mental toughness is the ability to execute the right behaviors when things get hard: tired legs, a deficit on the scoreboard, a fresh mistake, a hostile crowd. It's not an inborn trait — it's a set of trainable responses: next-play speed, unchanging effort, calm under chaos.",
-  "Every team faces adversity; winning teams respond better. Mental toughness decides who makes the free throw with dead legs, who holds the defensive shell down 10, who gets up after a turnover. Without it, talent is just potential that never arrives."
- ],
- "whyItMatters": [
-  "Every team faces adversity; the winning team is the one that responds better. Mental toughness decides who makes the free throw with dead legs, who holds the defensive shell down 10, who gets up after a turnover. Without it, talent is just potential that never arrives.",
-  "The good news is toughness is trainable. It is built in small, repeated exposures to pressure — competitive drills with consequences, standards that don't move on bad days, and a bench that demands the same effort as the starters. Coach the response, not just the result, and toughness becomes your program's identity."
- ]
 }

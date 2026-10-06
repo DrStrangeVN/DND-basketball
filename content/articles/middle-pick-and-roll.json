@@ -1,131 +1,131 @@
 {
- "title": "Middle Pick & Roll",
- "description": "The pick and roll at the top of the key, with the whole floor open — the most versatile ball-screen action in basketball.",
- "hub": "pick-and-roll",
- "subcategory": "pick-and-roll",
- "level": "beginner",
- "positions": [
-  "ALL"
- ],
- "ages": [
-  "U12",
-  "U14",
-  "U16",
-  "U18",
-  "Adult"
- ],
- "readTime": 5,
- "tags": [
-  "pick and roll",
-  "middle pnr",
-  "offense"
- ],
- "whatIsIt": [
-  "The middle pick and roll is a ball screen set at the top of the key, giving the ball handler the entire floor to work with — drive left, drive right, reject, or snake back. Because no sideline cuts off the play, every read in the PNR playbook is available.",
-  "It is the default ball-screen alignment for most teams: the screener comes from either elbow, the weak side loads up with shooters, and the ball handler attacks the big in space. NBA offenses run variations of middle PNR on a huge share of possessions because the math favors the offense when the floor is fully spread."
- ],
- "whyItMatters": [
-  "If you can only run one ball screen, run this one. Middle PNR teaches every core read — the pocket pass, the lob, the pull-up, the skip — with maximum margin for error. Young guards should master middle PNR before touching side or step-up screens, because the spacing forgives mistakes while the reads stay the same."
- ],
- "howTo": [
-  {
-   "title": "Start high with spacing",
-   "detail": "Begin near half court with the floor spread — corners filled, wings wide. The screener sprints from the elbow to set the screen at the top, giving the ball handler a running start downhill."
-  },
-  {
-   "title": "Rub shoulder-to-shoulder",
-   "detail": "Come off the screen tight, brushing the screener's shoulder. A wide turn lets your defender slide through; a tight turn forces him into the screen and creates separation."
-  },
-  {
-   "title": "Attack the big's top foot",
-   "detail": "Drive at the outside shoulder of the dropping big. Attacking his top foot forces him to open up and commits him — that commitment is what creates the pocket pass or the pull-up window."
-  },
-  {
-   "title": "Read the help",
-   "detail": "With the whole floor open, read the two weak-side defenders. If the nail help stunts, hit the wing. If the low man tags, the corner is open. Middle PNR is a 4-on-3 the moment the big commits."
-  },
-  {
-   "title": "Finish the possession",
-   "detail": "Don't bail out with a contested floater when the roller is open, and don't force the lob into traffic. The right read at the right time — pocket, lob, kick, or pull-up — is the whole skill."
-  }
- ],
- "coachingPoints": [
-  "Sprint into the screen — jogging screens get slipped around with no contact.",
-  "The ball handler must change pace coming off: pause a beat to let the roller dive, then explode.",
-  "Teach 'two feet in the paint' — get the ball into the lane before deciding.",
-  "Weak-side players should drift with the drive to stay in the passing lane."
- ],
- "commonMistakes": [
-  "Starting the PNR too low, near the elbows, which shrinks the floor like a side PNR.",
-  "The screener slipping before contact — no screen, no advantage.",
-  "Predetermining the pass instead of reading the big's commitment."
- ],
- "gameSituations": [
-  "Early offense: flow straight into middle PNR before the defense is set.",
-  "Hunting a drop big: walk him into a middle screen and take what he gives.",
-  "Two-man game: your best guard-big combo, spaced floor, let them cook."
- ],
- "related": [
-  "pick-and-roll-basics",
-  "ball-handler-reads",
-  "roll-man-reads",
-  "screen-angle"
- ],
- "vi": {
-  "title": "Pick & Roll Giữa Sân",
-  "description": "Pick and roll ở đỉnh vòng cấm, với cả sân rộng mở — bài chắn bóng linh hoạt nhất trong bóng rổ.",
-  "whatIsIt": [
-   "Middle pick and roll là tấm chắn bóng dựng ở đỉnh vòng cấm, cho người cầm bóng cả sân để xử lý — đột phá trái, phải, từ chối chắn, hoặc snake quay lại. Vì không có đường biên nào cắt bài đánh, mọi pha đọc trong sách PNR đều dùng được.",
-   "Đây là đội hình chắn bóng mặc định của hầu hết các đội: người chắn chạy từ elbow lên, phía yếu bóng xếp tay ném, và người cầm bóng tấn công big man ngoài không gian. Các đội NBA chạy biến thể middle PNR với tỷ lệ rất lớn vì toán học ủng hộ tấn công khi sân được giãn hết."
-  ],
-  "whyItMatters": [
-   "Nếu chỉ được chạy một bài chắn bóng, hãy chạy bài này. Middle PNR dạy mọi pha đọc cốt lõi — pocket pass, lob, pull-up, skip — với biên độ sai số lớn nhất. Hậu vệ trẻ nên thuần thục middle PNR trước khi đụng đến side hay step-up screen, vì spacing tha thứ lỗi sai trong khi các pha đọc vẫn như nhau."
-  ],
-  "howTo": [
-   {
-    "title": "Bắt đầu cao với spacing",
-    "detail": "Bắt đầu gần giữa sân với sân được giãn — góc có người, wing đứng rộng. Người chắn chạy nước rút từ elbow lên dựng chắn ở đỉnh, cho người cầm bóng đà lao xuống rổ."
-   },
-   {
-    "title": "Cọ vai kề vai",
-    "detail": "Vượt qua chắn thật sát, cọ vai người chắn. Vòng rộng để hậu vệ lách qua; vòng sát ép anh ta đâm vào chắn và tạo khoảng trống."
-   },
-   {
-    "title": "Tấn công chân ngoài của big man",
-    "detail": "Đột phá vào vai ngoài của big man đang lùi. Tấn công chân ngoài ép anh ta phải mở người và commit — chính sự commit đó tạo ra khe pocket pass hoặc khoảng pull-up."
-   },
-   {
-    "title": "Đọc hỗ trợ",
-    "detail": "Với cả sân rộng mở, hãy đọc hai hậu vệ phía yếu bóng. Nếu nail help stunt, chuyền ra wing. Nếu low man tag, góc đang trống. Middle PNR thành 4-đánh-3 ngay khi big man commit."
-   },
-   {
-    "title": "Kết thúc pha bóng",
-    "detail": "Đừng ném floater khó khi người roll đang trống, và đừng cố lob vào đám đông. Pha đọc đúng vào đúng thời điểm — pocket, lob, kick, hay pull-up — chính là toàn bộ kỹ năng."
-   }
+  "ages": [
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
   ],
   "coachingPoints": [
-   "Chạy nước rút vào chắn — chắn đi bộ bị lách qua mà không có va chạm.",
-   "Người cầm bóng phải đổi nhịp khi vượt qua: khựng một nhịp để người roll lao xuống, rồi bùng nổ.",
-   "Dạy 'hai chân trong khu vực cấm' — đưa bóng vào lane trước khi quyết định.",
-   "Cầu thủ phía yếu bóng nên trôi theo pha đột phá để ở trong làn chuyền."
+    "Sprint into the screen — jogging screens get slipped around with no contact.",
+    "The ball handler must change pace coming off: pause a beat to let the roller dive, then explode.",
+    "Teach 'two feet in the paint' — get the ball into the lane before deciding.",
+    "Weak-side players should drift with the drive to stay in the passing lane."
   ],
   "commonMistakes": [
-   "Bắt đầu PNR quá thấp, gần elbow, khiến sân bị thu hẹp như side PNR.",
-   "Người chắn slip trước khi va chạm — không có chắn, không có lợi thế.",
-   "Định sẵn đường chuyền thay vì đọc sự commit của big man."
+    "Starting the PNR too low, near the elbows, which shrinks the floor like a side PNR.",
+    "The screener slipping before contact — no screen, no advantage.",
+    "Predetermining the pass instead of reading the big's commitment."
   ],
+  "dateUpdated": "2026-10-06",
+  "description": "The pick and roll at the top of the key, with the whole floor open — the most versatile ball-screen action in basketball.",
   "gameSituations": [
-   "Tấn công sớm: chảy thẳng vào middle PNR trước khi hàng thủ ổn định.",
-   "Săn big man drop: dẫn anh ta vào chắn giữa và lấy những gì anh ta cho.",
-   "Two-man game: cặp guard-big hay nhất của bạn, sân giãn, để họ xử lý."
+    "Early offense: flow straight into middle PNR before the defense is set.",
+    "Hunting a drop big: walk him into a middle screen and take what he gives.",
+    "Two-man game: your best guard-big combo, spaced floor, let them cook."
   ],
+  "howTo": [
+    {
+      "detail": "Begin near half court with the floor spread — corners filled, wings wide. The screener sprints from the elbow to set the screen at the top, giving the ball handler a running start downhill.",
+      "title": "Start high with spacing"
+    },
+    {
+      "detail": "Come off the screen tight, brushing the screener's shoulder. A wide turn lets your defender slide through; a tight turn forces him into the screen and creates separation.",
+      "title": "Rub shoulder-to-shoulder"
+    },
+    {
+      "detail": "Drive at the outside shoulder of the dropping big. Attacking his top foot forces him to open up and commits him — that commitment is what creates the pocket pass or the pull-up window.",
+      "title": "Attack the big's top foot"
+    },
+    {
+      "detail": "With the whole floor open, read the two weak-side defenders. If the nail help stunts, hit the wing. If the low man tags, the corner is open. Middle PNR is a 4-on-3 the moment the big commits.",
+      "title": "Read the help"
+    },
+    {
+      "detail": "Don't bail out with a contested floater when the roller is open, and don't force the lob into traffic. The right read at the right time — pocket, lob, kick, or pull-up — is the whole skill.",
+      "title": "Finish the possession"
+    }
+  ],
+  "hub": "pick-and-roll",
+  "id": "middle-pick-and-roll",
+  "level": "beginner",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 5,
+  "related": [
+    "pick-and-roll-basics",
+    "ball-handler-reads",
+    "roll-man-reads",
+    "screen-angle"
+  ],
+  "slug": "middle-pick-and-roll",
+  "subcategory": "pick-and-roll",
   "tags": [
-   "pick and roll",
-   "tấn công giữa sân",
-   "tấn công"
+    "pick and roll",
+    "middle pnr",
+    "offense"
+  ],
+  "title": "Middle Pick & Roll",
+  "vi": {
+    "coachingPoints": [
+      "Chạy nước rút vào screen — screen chạy bộ bị luồn qua không va chạm.",
+      "Người cầm bóng phải đổi nhịp khi vòng qua: dừng một nhịp cho người roll dive, rồi bùng nổ.",
+      "Dạy 'hai chân trong khu vực dưới rổ' — đưa bóng vào lane trước khi quyết định.",
+      "Cầu thủ phía yếu bóng trôi theo pha đột phá để ở trong làn chuyền."
+    ],
+    "commonMistakes": [
+      "Bắt đầu PNR quá thấp, gần elbow, thu hẹp sân như side PNR.",
+      "Người screen slip trước va chạm — không screen, không lợi thế.",
+      "Định sẵn đường chuyền thay vì đọc quyết định của big."
+    ],
+    "description": "Pick and roll ở đỉnh vòng cung, cả sân rộng mở — tình huống ball screen linh hoạt nhất trong bóng rổ.",
+    "gameSituations": [
+      "Tấn công sớm: chảy thẳng vào middle PNR trước khi hàng thủ đứng vị trí.",
+      "Săn big drop: dắt họ vào screen giữa sân, lấy thứ họ cho.",
+      "Đánh hai người: cặp hậu vệ-big hay nhất, sân được giãn, để họ tự xử."
+    ],
+    "howTo": [
+      {
+        "detail": "Bắt đầu gần giữa sân với sân được giãn — góc có người, cánh mở rộng. Người screen chạy nước rút từ elbow dựng screen ở đỉnh, cho người cầm bóng đà lao xuống dốc.",
+        "title": "Bắt đầu cao, giãn đội hình"
+      },
+      {
+        "detail": "Vòng qua screen thật sát, cọ vai người screen. Vòng rộng là mời cầu thủ phòng thủ luồn qua; vòng sát ép họ đâm vào screen, tạo khoảng cách.",
+        "title": "Cọ sát vai"
+      },
+      {
+        "detail": "Đột phá vào vai ngoài của big đang drop. Đánh vào chân trên của họ ép họ phải mở người, buộc họ phải quyết — quyết định đó tạo ra pocket pass hay khoảng trống pull-up.",
+        "title": "Tấn công chân trên của big"
+      },
+      {
+        "detail": "Cả sân rộng mở, đọc hai cầu thủ phòng thủ phía yếu bóng. Trợ giúp ở nail stunt thì chuyền ra cánh. Người thấp nhất tag thì góc trống. Middle PNR thành 4-đấu-3 ngay khi big quyết định.",
+        "title": "Đọc trợ giúp"
+      },
+      {
+        "detail": "Đừng nhận cú floater bị contest khi người roll đang trống, cũng đừng cố lob vào đám đông. Đọc đúng, đúng lúc — pocket, lob, kick hay pull-up — là toàn bộ kỹ năng.",
+        "title": "Kết thúc lần cầm bóng"
+      }
+    ],
+    "tags": [
+      "pick and roll",
+      "tấn công",
+      "chiến thuật"
+    ],
+    "title": "Pick and roll giữa sân",
+    "whatIsIt": [
+      "Pick and roll giữa sân là ball screen dựng ở đỉnh vòng cung, cho người cầm bóng cả sân để làm việc — đột phá trái, đột phá phải, reject, hay snake quay lại. Vì không có đường biên cắt ngang pha bóng, mọi cách đọc trong sách PNR đều dùng được.",
+      "Đây là đội hình ball screen mặc định của hầu hết các đội: người screen từ một trong hai elbow lao tới, phía yếu bóng chất đầy tay ném, người cầm bóng tấn công big trong khoảng trống. Các hàng công NBA chạy biến thể middle PNR trong phần lớn lần cầm bóng vì toán học đứng về phía tấn công khi sân được giãn hết cỡ."
+    ],
+    "whyItMatters": [
+      "Nếu chỉ được chạy một ball screen, chạy cái này. Middle PNR dạy mọi cách đọc cốt lõi — pocket pass, lob, pull-up, skip — với biên độ sai số lớn nhất. Hậu vệ trẻ nên làm chủ middle PNR trước khi đụng tới screen bên cánh hay step-up, vì giãn đội hình tha thứ sai lầm trong khi cách đọc vẫn vậy."
+    ]
+  },
+  "whatIsIt": [
+    "The middle pick and roll is a ball screen set at the top of the key, giving the ball handler the entire floor to work with — drive left, drive right, reject, or snake back. Because no sideline cuts off the play, every read in the PNR playbook is available.",
+    "It is the default ball-screen alignment for most teams: the screener comes from either elbow, the weak side loads up with shooters, and the ball handler attacks the big in space. NBA offenses run variations of middle PNR on a huge share of possessions because the math favors the offense when the floor is fully spread."
+  ],
+  "whyItMatters": [
+    "If you can only run one ball screen, run this one. Middle PNR teaches every core read — the pocket pass, the lob, the pull-up, the skip — with maximum margin for error. Young guards should master middle PNR before touching side or step-up screens, because the spacing forgives mistakes while the reads stay the same."
   ]
- },
- "id": "middle-pick-and-roll",
- "slug": "middle-pick-and-roll",
- "dateUpdated": "2026-10-06"
 }

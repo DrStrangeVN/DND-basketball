@@ -63,48 +63,48 @@
   ],
   "dateUpdated": "2026-10-06",
   "vi": {
-    "title": "Dứt Điểm Mạnh Qua Va Chạm",
-    "description": "Dứt điểm hai chân jump-stop mạnh mẽ qua va chạm đệm — pha layup 'cơ bắp' cho những người đột phá không chịu bị húc văng.",
-    "goal": "Dứt điểm mạnh qua va chạm bằng power layup hai chân thăng bằng thay vì né tránh.",
-    "setup": [
-      "Người cầm đệm đứng ngay ngoài vòng charge.",
-      "Người dẫn bắt đầu ở đỉnh với bóng.",
-      "Luân phiên đột phá phải và trái."
-    ],
-    "instructions": [
-      {
-        "title": "Power layup phải",
-        "detail": "Đột phá mạnh, jump-stop hai chân vào cú húc đệm rồi bật mạnh lên hai chân dứt điểm."
-      },
-      {
-        "title": "Power layup trái",
-        "detail": "Tương tự bên trái — đa số né bên này, đó chính là lý do phải tập."
-      },
-      {
-        "title": "Up-and-under sau va chạm",
-        "detail": "Giơ bóng cao qua cú húc rồi luồn dưới cú nhảy của tay chắn để dứt điểm."
-      },
-      {
-        "title": "Vòng and-one",
-        "detail": "Người cầm đệm phạm lỗi mạnh dần mỗi lượt — vẫn phải dứt điểm. 5 cú trúng mỗi bên."
-      }
-    ],
     "coachingPoints": [
-      "Kẹp bóng sát cằm và bật mạnh — dứt điểm yếu ớt sẽ bị block.",
-      "Tiếp đất hai chân thăng bằng; đó mới là cách chịu được va chạm.",
-      "Chủ động tạo va chạm — người đột phá tìm va chạm sẽ được còi."
+      "Kẹp bóng dưới cằm rồi bật mạnh lên — dứt điểm yếu ớt là bị block.",
+      "Tiếp đất hai chân thăng bằng; có vậy mới chịu được cú húc.",
+      "Chủ động tìm va chạm — người đột phá dám va chạm sẽ được hưởng tiếng còi."
     ],
     "commonMistakes": [
-      "Bật một chân vào đệm — bạn sẽ bị húc văng ngang.",
-      "Hạ bóng thấp để help defender cướp mất."
+      "Bật một chân đâm vào đệm — bị húc văng ngang ngay.",
+      "Hạ bóng xuống thấp, đúng tầm tay người help chọc mất."
     ],
-    "progression": "Thêm hậu vệ thứ hai xoay ra để dứt điểm 2-đánh-1 thật.",
-    "regression": "Tập không đệm trước để quen footwork hai chân.",
-    "gameApplication": "Bóng rổ playoff được quyết định ở rổ qua va chạm — ai dứt điểm được and-one sẽ xoay chuyển cả trận đấu.",
-    "players": "2",
+    "description": "Dứt điểm power layup hai chân kiểu jump stop xuyên qua va chạm với đệm — pha layup của người mạnh mẽ, dành cho những ai đột phá mà không chịu bị húc văng khỏi đường đi.",
     "equipment": [
       "Bóng rổ",
       "Đệm chắn"
-    ]
+    ],
+    "gameApplication": "Bóng rổ playoff được quyết định ở khu vực dưới rổ qua những pha va chạm — ai dứt điểm được and-one sẽ xoay chuyển cả trận đấu.",
+    "goal": "Dứt điểm mạnh qua va chạm bằng power layup hai chân thăng bằng, thay vì né tránh cú húc.",
+    "instructions": [
+      {
+        "detail": "Đột phá mạnh, jump stop hai chân đâm vào cú húc của đệm rồi bật mạnh lên dứt điểm.",
+        "title": "Power layup bên phải"
+      },
+      {
+        "detail": "Tương tự bên trái — đa số cầu thủ né bên này, đó chính là lý do phải tập nó.",
+        "title": "Power layup bên trái"
+      },
+      {
+        "detail": "Giơ bóng cao xuyên qua cú húc rồi luồn xuống dưới cú nhảy của người block để dứt điểm.",
+        "title": "Up-and-under sau va chạm"
+      },
+      {
+        "detail": "Người cầm đệm phạm lỗi mạnh dần mỗi lượt — vẫn phải dứt điểm cho bằng được. 5 cú trúng mỗi bên.",
+        "title": "Vòng and-one"
+      }
+    ],
+    "players": "2",
+    "progression": "Thêm hậu vệ thứ hai xoay ra để dứt điểm 2 đánh 1 thật.",
+    "regression": "Tập không đệm trước để nhuần nhuyễn bộ chân hai chân.",
+    "setup": [
+      "Người cầm đệm đứng ngay ngoài vòng charge.",
+      "Người đột phá xuất phát ở đỉnh vòng cung với bóng.",
+      "Luân phiên đột phá bên phải và bên trái."
+    ],
+    "title": "Layup mạnh qua va chạm (power layup)"
   }
 }

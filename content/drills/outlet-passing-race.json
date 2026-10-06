@@ -71,55 +71,55 @@
   ],
   "dateUpdated": "2026-10-06",
   "vi": {
-    "title": "Đua Outlet Pass — Chuyền Phản Công",
-    "description": "Biến rebound phòng ngự thành phản công chớp nhoáng: bắt bóng, xoay người và chuyền outlet hai tay cho đồng đội đang bứt tốc trong một cuộc đua đối đầu.",
-    "goal": "Bắt mọi rebound phòng ngự bằng hai tay, pivot ra ngoài và chuyền outlet chính xác để đồng đội đang chạy bắt bóng đúng đà.",
-    "setup": [
-      "Một người bắt rebound đứng dưới rổ; một người nhận outlet đứng ở đường biên giữa sân.",
-      "Đặt 2 cọc tiêu cách nhau 12 feet (khoảng 3,6m) ở giữa sân để đánh dấu vùng bắt bóng.",
-      "Chuẩn bị sẵn 2 quả bóng dưới rổ; cặp thua sẽ đi nhặt bóng hỏng.",
-      "Chơi đến 5 lần bắt bóng sạch — cặp nào xong trước thắng vòng đó."
-    ],
-    "instructions": [
-      {
-        "title": "Bắt chắc rebound",
-        "detail": "Bắt rebound bằng hai tay ở điểm cao nhất, kẹp bóng dưới cằm (chin the ball) và tiếp đất với chân trụ rộng, thăng bằng."
-      },
-      {
-        "title": "Pivot ra ngoài",
-        "detail": "Pivot bằng chân ngoài, xoay ra xa khỏi áp lực, và dùng mắt tìm người nhận outlet trước khi chuyền."
-      },
-      {
-        "title": "Chuyền đón đầu",
-        "detail": "Chuyền overhead hai tay hoặc baseball pass đón trước 2-3 bước chân để người chạy bắt bóng đúng đà mà không phải khựng lại."
-      },
-      {
-        "title": "Chạy thẳng lane",
-        "detail": "Người nhận outlet chạy một đường thẳng tới vùng bắt bóng, giơ hai tay rộng làm mục tiêu rõ ràng."
-      },
-      {
-        "title": "Tính điểm và đổi vai",
-        "detail": "Một pha bắt bóng sạch bằng hai tay trong vùng được 1 điểm; đổi vai sau mỗi vòng và chơi best-of-3."
-      }
-    ],
     "coachingPoints": [
-      "Kẹp bóng dưới cằm — khuỷu tay dang ra, bóng sát cằm — trước khi nghĩ đến đường chuyền.",
-      "Luôn pivot ra ngoài, xoay xa khỏi hậu vệ để bảo vệ bóng.",
-      "Chuyền đón đầu: chuyền tới nơi người chạy sẽ đến, đón trước ngực họ 2-3 bước.",
-      "Chuyền bổng qua đầu, đừng chuyền xuyên qua đám đông — đường cong cao thắng đường chuyền bẹt vào pressing."
+      "Kẹp bóng dưới cằm trước đã — khuỷu tay dang ra, bóng sát cằm — rồi mới nghĩ đến đường chuyền.",
+      "Luôn pivot ra ngoài, xoay xa khỏi hậu vệ để che bóng.",
+      "Chuyền đón đầu: nhắm nơi người chạy sẽ đến, đón trước ngực họ 2–3 bước.",
+      "Chuyền bổng qua đầu, đừng chuyền xuyên đám đông — đường cong cao luôn thắng đường chuyền bẹt vào giữa rừng người."
     ],
     "commonMistakes": [
-      "Chuyền vắt ngang người mà không pivot — bóng lơ lửng và bị cắt; pivot trước rồi hãy chuyền.",
-      "Người nhận outlet chạy lững thững hoặc dạt ra ngoài — hãy chạy thẳng một lane và giơ mục tiêu rõ.",
-      "Bắt rebound một tay rồi bị móc mất — bắt bằng hai tay và kẹp bóng dưới cằm."
+      "Chuyền vắt ngang người mà không pivot — bóng lơ lửng và bị cắt; pivot trước, chuyền sau.",
+      "Người nhận chạy lững thững hoặc dạt ra biên — chạy thẳng một đường và giơ mục tiêu rõ ràng.",
+      "Bắt rebound một tay rồi bị móc mất — bắt hai tay và kẹp ngay dưới cằm."
     ],
-    "progression": "Thêm một hậu vệ gây áp lực lên người bắt rebound với đếm 4 giây, hoặc yêu cầu đường outlet phải bay qua vạch giữa sân mới được bắt.",
-    "regression": "Rút ngắn cự ly outlet xuống ngang vạch ném phạt kéo dài, đi bộ qua từng bước pivot-và-chuyền, và bỏ phần tính điểm đua.",
-    "gameApplication": "Mọi pha phản công đều bắt đầu từ outlet pass — một đường outlet sạch và chính xác biến pha phòng ngự thành lợi thế 5-đấu-4 trước khi hàng thủ kịp về.",
-    "players": "2+",
+    "description": "Biến rebound phòng thủ thành phản công chớp nhoáng: bắt bóng bật bảng, xoay người và tung đường chuyền phát động hai tay cho đồng đội đang bứt tốc — đua đối đầu xem cặp nào nhanh hơn.",
     "equipment": [
       "Bóng rổ",
       "Cọc tiêu"
-    ]
+    ],
+    "gameApplication": "Mọi pha fast break đều bắt đầu từ đường chuyền phát động — một đường chuyền sạch và chính xác biến pha phòng thủ thành công thành lợi thế 5 đấu 4 trước khi hàng thủ kịp lùi về.",
+    "goal": "Bắt mọi rebound phòng thủ bằng hai tay, pivot xoay ra ngoài và chuyền đường phát động chính xác để đồng đội đang chạy bắt bóng đúng đà.",
+    "instructions": [
+      {
+        "detail": "Nhảy bắt rebound bằng hai tay ở điểm cao nhất, kẹp bóng dưới cằm, tiếp đất chân rộng thăng bằng.",
+        "title": "Bắt chắc rebound"
+      },
+      {
+        "detail": "Pivot bằng chân ngoài, xoay lưng lại áp lực, mắt tìm người nhận đường chuyền trước khi tung bóng.",
+        "title": "Pivot ra ngoài"
+      },
+      {
+        "detail": "Tung đường chuyền phát động hai tay qua đầu hoặc kiểu baseball đón trước 2–3 bước để người chạy bắt bóng đúng đà, không phải khựng lại.",
+        "title": "Chuyền đón đầu"
+      },
+      {
+        "detail": "Người nhận chạy thẳng một đường tới vùng bắt bóng, giơ cao hai tay làm mục tiêu rộng.",
+        "title": "Chạy đường giữa sân"
+      },
+      {
+        "detail": "Bắt bóng sạch hai tay trong vùng được 1 điểm; đổi vai sau mỗi vòng, ai thắng 2 vòng trước thắng chung cuộc.",
+        "title": "Tính điểm và đổi vai"
+      }
+    ],
+    "players": "2+",
+    "progression": "Thêm một hậu vệ gây áp lực lên người bắt rebound với đếm 4 giây, hoặc yêu cầu đường chuyền phải bay qua vạch giữa sân mới được bắt.",
+    "regression": "Rút ngắn đường chuyền xuống ngang vạch ném phạt kéo dài, đi bộ từng bước pivot-và-chuyền, bỏ phần tính điểm đua.",
+    "setup": [
+      "Một người đứng dưới rổ bắt rebound; một người nhận đường chuyền đứng ở đường biên ngang giữa sân.",
+      "Đặt 2 cọc tiêu cách nhau 3,7m ở giữa sân để đánh dấu vùng bắt bóng.",
+      "Chuẩn bị 2 quả bóng dưới rổ; cặp thua đi nhặt bóng hỏng.",
+      "Chơi đến 5 lần bắt bóng sạch — cặp nào xong trước thắng vòng."
+    ],
+    "title": "Đua đường chuyền phát động"
   }
 }

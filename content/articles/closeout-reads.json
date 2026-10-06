@@ -116,6 +116,67 @@
     "driving"
   ],
   "title": "Reading Closeouts",
+  "vi": {
+    "coachingPoints": [
+      "Tập cả ba kiểu closeout — fly-by, closeout ngắn, và closeout cân bằng — mỗi kiểu một đòn phản riêng.",
+      "Dạy rằng động tác giả là một pha đọc, không phải thói quen; chỉ giả khi đối thủ thực sự cắn câu.",
+      "Nhấn mạnh nhịp dẫn đầu tiên qua closeout: mạnh, thấp, vượt qua hông đối thủ.",
+      "Quay video các pha tấn công closeout của cầu thủ — hầu hết chỉ có một đòn phản mặc định và cần thêm đòn thứ hai."
+    ],
+    "commonMistakes": [
+      "Ném bừa qua mọi closeout bất kể mức độ contest.",
+      "Dẫn bóng vào người đã đứng vững, cân bằng thay vì xoay bóng.",
+      "Động tác giả khi đối thủ không hề phản ứng — phí hoài lợi thế.",
+      "Nhấc bóng quá sớm sau khi qua closeout, để hàng thủ hỗ trợ kịp hồi."
+    ],
+    "description": "Cách đọc cầu thủ closeout — tốc độ, góc độ, thăng bằng của họ — và chọn ngay giữa ném, dẫn bóng hay chuyền.",
+    "gameSituations": [
+      "Bắt bóng ở cánh trước hàng thủ đang xoay, đối thủ lao tới.",
+      "Ném 3 đá ra trong phản công nhanh, đối thủ closeout mạnh.",
+      "Dẫn bóng men baseline khi closeout từ giữa ép vào, chặn đường dẫn giữa."
+    ],
+    "howTo": [
+      {
+        "detail": "Closeout lao tới mất kiểm soát là lời mời dẫn bóng. Closeout ngắn, có kiểm soát nghĩa là đường dẫn đã bị chặn — cân nhắc ném hoặc chuyền.",
+        "title": "Đọc tốc độ"
+      },
+      {
+        "detail": "Đà của đối thủ đưa họ qua vai bạn, một nhịp dẫn mạnh là tới rổ. Nếu họ dừng lại thăng bằng, tôn trọng pha contest.",
+        "title": "Đọc thăng bằng"
+      },
+      {
+        "detail": "Closeout áp từ bên trái mở ra đường dẫn tay phải. Tấn công vào chân trên của đối thủ — phía mà đà của họ không hồi kịp.",
+        "title": "Đọc góc độ"
+      },
+      {
+        "detail": "Chân đã đặt, gối đã gập, tay sẵn sàng trước khi bóng tới. Mối đe doạ ném của bạn phải thật, nếu không đối thủ chẳng việc gì phải closeout mạnh.",
+        "title": "Bắt bóng ở tư thế sẵn ném"
+      },
+      {
+        "detail": "Chỉ giả khi đối thủ thực sự nhảy lên hay lao người. Giả với người đã đứng vững là phí lợi thế, để hàng thủ kịp hỗ trợ.",
+        "title": "Dùng động tác giả có chọn lọc"
+      },
+      {
+        "detail": "Qua được closeout mới là bước một. Người hỗ trợ xoay tới là bước hai — biết trước khi dẫn bóng là bạn dứt điểm hay đá ra.",
+        "title": "Biết trước nhịp đọc tiếp theo"
+      }
+    ],
+    "tags": [
+      "iq bóng rổ",
+      "closeout",
+      "ném rổ",
+      "dẫn bóng"
+    ],
+    "title": "Đọc tình huống closeout",
+    "whatIsIt": [
+      "Closeout là cầu thủ phòng thủ lao tới để contest cú ném của bạn, và đọc được nó là một trong những quyết định lặp lại nhiều nhất trong bóng rổ. Trong tích tắc đối thủ áp tới, bạn phải đọc ba thứ: họ lao nhanh cỡ nào, thăng bằng ra sao, và họ chặn phía nào.",
+      "Đối thủ lao tới mất kiểm soát là lời mời dẫn bóng. Closeout ngắn, chắc chắn nghĩa là cú ném có thể bị contest và đường dẫn đã bị chặn — hãy xoay bóng. Tay ném giỏi không chỉ ném qua closeout; họ trừng phạt mọi kiểu closeout bằng đòn phản đúng."
+    ],
+    "whyItMatters": [
+      "Closeout xảy ra hàng chục lần mỗi trận, và mỗi lần là một cơ hội ghi điểm nếu đọc đúng. Người ném bừa qua mọi closeout trở nên dễ đoán và kém hiệu quả; người đọc được closeout khiến hàng thủ luôn phải đoán và tạo ra layup, ném phạt, ném 3 đá ra.",
+      "Đọc closeout còn giúp bạn thành đồng đội tốt hơn. Đường dẫn bóng hút hàng thủ sụp vào tạo ra cú ném trống cho người khác — closeout bạn trừng phạt thường là đường kiến tạo để người khác ghi điểm."
+    ]
+  },
   "whatIsIt": [
     "A closeout is a defender sprinting at you to contest your shot, and reading it is one of the most repeated decisions in basketball. In the split second the defender arrives, you must read three things: how fast they are coming, how balanced they are, and which side they are taking away.",
     "A defender flying out of control is an invitation to drive. A short, balanced closeout means the shot may be contested and the drive is covered — so move the ball. Great shooters do not just shoot over closeouts; they punish every type of closeout with the right counter."
@@ -123,66 +184,5 @@
   "whyItMatters": [
     "Closeouts happen dozens of times per game, and each one is a scoring opportunity if read correctly. Players who shoot over every closeout become predictable and inefficient; players who read them keep the defense guessing and generate layups, free throws, and kick-out threes.",
     "Closeout reads also make you a better teammate. The drive that collapses the defense creates the open shot for someone else — the closeout you punish is often the assist someone else scores."
-  ],
-  "vi": {
-    "coachingPoints": [
-      "Tập cả ba loại closeout — bay qua, ngắn, và cân bằng — mỗi loại với một cách đối phó riêng",
-      "Dạy rằng shot fake là một cách đọc, không phải thói quen; chỉ giả khi hậu vệ thật sự cắn câu",
-      "Nhấn mạnh cú dẫn đầu tiên qua closeout: mạnh, thấp, và vượt qua hông hậu vệ",
-      "Quay video các pha tấn công closeout của cầu thủ — hầu hết chỉ dùng một cách đối phó mặc định và cần thêm cách thứ hai"
-    ],
-    "commonMistakes": [
-      "Ném qua mọi closeout bất kể mức độ contest mạnh thế nào",
-      "Đột phá vào một hậu vệ đã đứng trụ cân bằng thay vì di chuyển bóng",
-      "Giả ném khi hậu vệ không phản ứng — lãng phí lợi thế",
-      "Nhấc bóng lên quá sớm sau khi vượt closeout, để hàng thủ kịp lui về"
-    ],
-    "description": "Cách đọc hậu vệ closeout — tốc độ, góc độ và thăng bằng của họ — và chọn ngay giữa ném, đột phá hay chuyền.",
-    "gameSituations": [
-      "Bắt bóng ở cánh trước hàng thủ đang xoay với một hậu vệ chạy nước rút về phía bạn",
-      "Cú ba điểm kick-out trong phản công với một hậu vệ closeout quyết liệt",
-      "Đột phá baseline khi closeout đến từ giữa sân và chặn đường đột phá giữa"
-    ],
-    "howTo": [
-      {
-        "detail": "Một pha closeout chạy nước rút, mất kiểm soát là lời mời đột phá. Một pha closeout ngắn, có kiểm soát nghĩa là đường đột phá đã bị bịt — hãy cân nhắc ném hoặc chuyền.",
-        "title": "Đọc tốc độ"
-      },
-      {
-        "detail": "Nếu đà của hậu vệ đưa anh ta vượt qua vai bạn, một cú dẫn mạnh là tới rổ. Nếu anh ta dừng lại thăng bằng, hãy tôn trọng pha contest.",
-        "title": "Đọc thăng bằng"
-      },
-      {
-        "detail": "Một pha closeout đến từ bên trái mở ra đường đột phá tay phải. Tấn công vào chân trên của hậu vệ — phía mà đà của anh ta không thể quay lại.",
-        "title": "Đọc góc độ"
-      },
-      {
-        "detail": "Chân đã trụ, gối đã nạp, tay sẵn sàng trước khi bóng tới. Mối đe dọa từ cú ném của bạn phải thật, nếu không hậu vệ chẳng có lý do gì phải closeout quyết liệt.",
-        "title": "Bắt bóng sẵn sàng ném"
-      },
-      {
-        "detail": "Chỉ giả khi hậu vệ thật sự nhảy lên hoặc lao người. Giả với một hậu vệ đang thăng bằng là lãng phí lợi thế và để hàng thủ kịp đến.",
-        "title": "Dùng shot fake có chọn lọc"
-      },
-      {
-        "detail": "Vượt closeout mới là bước một. Hậu vệ hỗ trợ xoay ra là bước hai — hãy biết trước khi đột phá là mình dứt điểm hay kick ra.",
-        "title": "Biết trước cách đọc tiếp theo"
-      }
-    ],
-    "tags": [
-      "basketball iq",
-      "closeout",
-      "ném rổ",
-      "đột phá"
-    ],
-    "title": "Đọc Tình Huống Closeout",
-    "whatIsIt": [
-      "Closeout là một hậu vệ chạy nước rút về phía bạn để contest cú ném, và đọc nó là một trong những quyết định lặp lại nhiều nhất trong bóng rổ. Trong tích tắc hậu vệ đến nơi, bạn phải đọc ba điều: họ đến nhanh thế nào, họ thăng bằng ra sao, và họ đang chặn phía nào.",
-      "Một hậu vệ bay tới mất kiểm soát là lời mời đột phá. Một pha closeout ngắn, cân bằng nghĩa là cú ném có thể bị contest và đường đột phá đã bị bịt — vậy hãy di chuyển bóng. Những tay ném vĩ đại không chỉ ném qua closeout; họ trừng phạt mọi loại closeout bằng cách đối phó đúng."
-    ],
-    "whyItMatters": [
-      "Closeout xảy ra hàng chục lần mỗi trận, và mỗi lần là một cơ hội ghi điểm nếu đọc đúng. Cầu thủ nào cũng ném qua mọi closeout sẽ trở nên dễ đoán và kém hiệu quả; cầu thủ biết đọc chúng khiến hàng thủ luôn phải đoán và tạo ra layup, ném phạt, và những cú ba điểm kick-out.",
-      "Đọc closeout cũng giúp bạn trở thành đồng đội tốt hơn. Pha đột phá làm sụp đổ hàng thủ tạo ra cú ném trống cho người khác — closeout bạn trừng phạt thường là pha kiến tạo để người khác ghi điểm."
-    ]
-  }
+  ]
 }

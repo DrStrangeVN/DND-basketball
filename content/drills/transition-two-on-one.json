@@ -40,52 +40,52 @@
   "related": ["three-man-weave","full-court-finishing","one-on-one-live"],
   "dateUpdated": "2026-10-06",
   "vi":   {
-    "title": "Phản Công 2 Đánh 1",
-    "description": "Bài tập phản công liên tục: hai người tấn công đẩy nhanh đối đầu một hậu vệ lùi về, học cách dụ hậu vệ và dứt điểm khi hơn người.",
-    "goal": "Rèn khả năng tấn công 2-đánh-1 ở tốc độ cao: dụ hậu vệ, chuyền đơn giản và dứt điểm — rồi chạy nhanh về phòng thủ.",
-    "setup": [
-      "Một hậu vệ bắt đầu ở giữa sân; hai cầu thủ tấn công bắt đầu ở đường biên cuối sân cầm bóng.",
-      "Xếp hàng ở cả hai đầu để bài chạy liên tục — nhóm sau đi ngay khi nhóm trước xong.",
-      "Sau lượt, hai người tấn công trở thành hậu vệ tiếp theo và chạy nhanh về."
-    ],
-    "instructions": [
-      {
-        "title": "Đẩy bóng lên sân",
-        "detail": "Người cầm bóng tiến nhanh lên theo đường biên trong khi người tấn công thứ hai chạy lane đối diện, giãn rộng."
-      },
-      {
-        "title": "Dụ hậu vệ",
-        "detail": "Tấn công vào vai hậu vệ đơn độc — ép họ phải chọn bạn trước khi chuyền."
-      },
-      {
-        "title": "Chơi đơn giản",
-        "detail": "Chuyền cho đồng đội trống để layup, hoặc giữ bóng tự dứt điểm nếu hậu vệ bắt đường chuyền. Không chuyền hoa mỹ."
-      },
-      {
-        "title": "Chạy nhanh về thủ",
-        "detail": "Sau khi dứt điểm, cả hai tấn công chạy nhanh về làm hậu vệ 2-1 tiếp theo — bài tập không dừng."
-      },
-      {
-        "title": "Chạy sóng liên tục",
-        "detail": "Giữ các đợt sóng liên tục trong 10 phút; đếm số lần vào của cả nhóm và thách thức phá kỷ lục chuỗi tốt nhất."
-      }
-    ],
     "coachingPoints": [
-      "Hậu vệ chỉ kèm được một người — tấn công vào quyết định của họ và lấy những gì họ cho.",
-      "Đường chuyền phải đúng lúc và đúng tầm; chuyền muộn trong 2-1 để hậu vệ hồi kịp.",
-      "Dứt điểm mạnh ở rổ — 2-1 phải là layup, không phải jumper bị tranh chấp.",
-      "Hậu vệ: chạy nhanh về, chặn bóng trước, rồi cắt đường chuyền nguy hiểm nhất."
+      "Hậu vệ chỉ kèm được một người — đánh vào quyết định của họ, lấy thứ họ dâng.",
+      "Chuyền phải đúng lúc, đúng tầm; chuyền muộn trong 2-đánh-1 cho hậu vệ kịp hồi.",
+      "Dứt điểm mạnh ở rổ — 2-đánh-1 phải là layup, không phải jump shot bị contest.",
+      "Hậu vệ: chạy nước rút về, chặn bóng trước, rồi bịt đường chuyền nguy hiểm nhất."
     ],
     "commonMistakes": [
-      "Chuyền quá sớm trước khi hậu vệ chọn — đường chuyền bị cắt hoặc người nhận vẫn bị kèm.",
-      "Chạy bộ về phòng thủ — phòng thủ phản công bắt đầu từ cú chạy nước rút, không phải từ đội hình."
+      "Chuyền quá sớm trước khi hậu vệ chốt — đường chuyền bị cắt hoặc người nhận vẫn bị kèm.",
+      "Chạy bộ lừ đừ về phòng thủ — phòng thủ phản công bắt đầu từ cú chạy nước rút, không phải từ đội hình."
     ],
-    "progression": "Thành 2-1 cộng thêm hậu vệ đuổi sau (2-2), yêu cầu dứt điểm trong 5 giây, hoặc bắt đầu tấn công từ rebound phòng thủ rồi outlet.",
-    "regression": "Đi bộ qua các lane trước, bỏ yêu cầu chạy nhanh về, hoặc chạy 2-0 để rèn spacing.",
-    "gameApplication": "Trận đấu thắng thua ở phản công — bài này rèn khả năng ra quyết định và dứt điểm biến những pha chặn bóng thành layup trước khi hàng thủ kịp về.",
-    "players": "3+",
+    "description": "Bài phản công nhanh liên tục: hai người tấn công đẩy nhanh đối đầu một hậu vệ lùi về, học cách dụ hậu vệ rồi dứt điểm ưu thế quân số.",
     "equipment": [
       "Bóng rổ"
-    ]
+    ],
+    "gameApplication": "Trận đấu thắng thua ở phản công — bài này rèn khả năng ra quyết định và dứt điểm biến pha phòng thủ thành layup trước khi hàng thủ kịp dựng.",
+    "goal": "Rèn khả năng tấn công 2-đánh-1 ở tốc độ cao: dụ hậu vệ, chuyền đơn giản, dứt điểm — rồi chạy nước rút về phòng thủ.",
+    "instructions": [
+      {
+        "detail": "Người cầm bóng tiến nhanh dọc biên trong khi người tấn công thứ hai chạy lane đối diện, giãn rộng.",
+        "title": "Đẩy bóng dọc sân"
+      },
+      {
+        "detail": "Đánh vào vai hậu vệ đơn độc — ép họ phải chốt vào mình trước khi chuyền.",
+        "title": "Dụ hậu vệ"
+      },
+      {
+        "detail": "Chuyền cho đồng đội trống để layup, hoặc tự dứt điểm nếu hậu vệ cắt đường chuyền. Không chuyền hoa mỹ.",
+        "title": "Chơi đơn giản"
+      },
+      {
+        "detail": "Sau khi dứt điểm, cả hai chạy nước rút về thành hậu vệ 2-đánh-1 tiếp theo — bài không bao giờ dừng.",
+        "title": "Chạy nước rút về phòng thủ"
+      },
+      {
+        "detail": "Giữ sóng nối sóng trong 10 phút; đếm số lần cả đội dứt điểm trúng và thách cả nhóm phá kỷ lục chuỗi.",
+        "title": "Chạy sóng liên tục"
+      }
+    ],
+    "players": "3+",
+    "progression": "Thành 2-1 cộng thêm hậu vệ đuổi sau (2-2), yêu cầu dứt điểm trong 5 giây, hoặc bắt đầu tấn công từ rebound phòng thủ phát outlet.",
+    "regression": "Đi bộ qua các lane trước, bỏ yêu cầu chạy nhanh về, hoặc chạy 2-0 để rèn spacing.",
+    "setup": [
+      "Một hậu vệ đứng giữa sân; hai cầu thủ tấn công xuất phát ở đường biên cuối cầm bóng.",
+      "Xếp hàng ở cả hai đầu để bài chạy liên tục — nhóm sau vào ngay khi nhóm trước xong.",
+      "Sau lượt, hai người tấn công thành hậu vệ tiếp theo và chạy nước rút về."
+    ],
+    "title": "Phản công 2 đánh 1"
   }
 }

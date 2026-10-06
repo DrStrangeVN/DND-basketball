@@ -74,6 +74,67 @@
     "point-guard"
   ],
   "title": "Decision Making",
+  "vi": {
+    "coachingPoints": [
+      "Giảm số quyết định ở bài tập trước khi thêm ở trận đấu — 2 đấu 1 trước 3 đấu 2, 3 đấu 2 trước 5 đấu 5.",
+      "Khen quyết định nhanh, đúng to hơn khen cú ném trúng.",
+      "Dùng giới hạn: \"bạn có ba giây để ném, dẫn, hoặc chuyền.\"",
+      "Dạy cây quyết định, không chỉ kết quả — cầu thủ phải biết vì sao lựa chọn đó đúng."
+    ],
+    "commonMistakes": [
+      "Định sẵn động tác trước khi đọc hàng thủ cho gì.",
+      "Giữ bóng quá lâu chờ phương án \"hoàn hảo\".",
+      "Cố ném tệ thay vì chuyền đơn giản đang có.",
+      "Nghi ngờ giữa chừng — kiểu dẫn nửa vời và động tác giả bỏ dở."
+    ],
+    "description": "Khung đơn giản để quyết định nhanh hơn, chuẩn hơn trên sân — đọc, quyết, thực hiện — dưới áp lực trận đấu thật.",
+    "gameSituations": [
+      "Phản công 2 đánh 1: đọc sự dồn của đối thủ duy nhất để chọn chuyền hay dứt điểm.",
+      "Bắt bóng trước closeout: ném, dẫn, hay xoay bóng — quyết lúc bắt bóng.",
+      "Đồng hồ 24 giây sắp hết: đơn giản hoá thành một hai phương án tốt nhất và dồn vào."
+    ],
+    "howTo": [
+      {
+        "detail": "Mỗi lần bắt bóng hỏi theo thứ tự: ném được không? Không, dẫn được không? Không, xoay bóng. Ba câu hỏi, luôn cùng thứ tự, trả lời trong hai giây.",
+        "title": "Đơn giản hoá thành ba lựa chọn"
+      },
+      {
+        "detail": "Đọc xong khi bóng còn bay để hành động ngay khi bóng tới tay. Quyết định lúc bắt bóng giúp bạn đi trước hàng thủ đang xoay.",
+        "title": "Quyết định lúc bóng trên không"
+      },
+      {
+        "detail": "Họ chui dưới screen thì ném. Họ bỏ người bạn kèm để hỗ trợ thì chuyền cho anh ta. Đừng chống lại hàng thủ — nhận thứ họ cho và trừng phạt nó.",
+        "title": "Lấy thứ hàng thủ cho"
+      },
+      {
+        "detail": "Chưa quyết định được trong hai giây sau khi bắt bóng, chuyền đi và di chuyển lại. Giữ bóng giết lợi thế và cho hàng thủ hồi.",
+        "title": "Dùng luật hai giây"
+      },
+      {
+        "detail": "Đã dẫn thì dẫn. Đã ném thì ném. Do dự giữa chừng tạo ra những lần để mất bóng mà sai lầm tự tin không bao giờ tạo.",
+        "title": "Dồn hết vào lựa chọn"
+      },
+      {
+        "detail": "Phân tích quyết định sau trận bằng video, không phải giữa đợt bóng. Trong trận, tin vào sự chuẩn bị; sau trận, mài sắc pha đọc.",
+        "title": "Xem lại sau trận, không phải giữa trận"
+      }
+    ],
+    "tags": [
+      "iq bóng rổ",
+      "ra quyết định",
+      "tấn công",
+      "hậu vệ dẫn bóng"
+    ],
+    "title": "Ra quyết định trên sân",
+    "whatIsIt": [
+      "Ra quyết định là quá trình chọn việc cần làm — ném, dẫn, hay chuyền — trong nửa giây bạn cầm bóng. Mỗi đợt bóng là một chuỗi quyết định nhỏ, và cầu thủ giỏi nhất không phải người chọn hoàn hảo; là người chọn tốt một cách nhanh chóng.",
+      "Quyết định hay tới từ quy trình lặp lại được: đọc hàng thủ, chọn phương án tốt nhất có được, và dồn hết vào. Do dự — dẫn nửa vời, động tác giả vào khoảng không — tệ hơn quyết định sai nhưng tự tin."
+    ],
+    "whyItMatters": [
+      "Trận đấu do các đợt bóng định đoạt, và đợt bóng do quyết định định đoạt. Đội luôn đưa ra pha đọc đơn giản, đúng đắn thắng đội khoẻ hơn nhưng đoán mò. HLV xây hàng công để tạo ra quyết định; cầu thủ quyết định tốt khiến mọi hàng công vận hành.",
+      "Tốc độ quyết định còn cộng dồn. Một quyết định nhanh, đúng buộc hàng thủ xoay; quyết định nhanh tiếp theo tấn công vào rotation đó. Quyết định chậm cho hàng thủ nghỉ, và hàng thủ được nghỉ không bao giờ vỡ."
+    ]
+  },
   "whatIsIt": [
     "Decision making is the process of choosing what to do — shoot, drive, or pass — in the half-second you have the ball. Every possession is a chain of small decisions, and the best players are not the ones who make perfect choices; they are the ones who make good choices quickly.",
     "Good decisions come from a repeatable process: read the defense, pick the best available option, and commit fully. Indecision — the half-drive, the pump-fake into nothing — is worse than a wrong decision made with confidence."
@@ -81,66 +142,5 @@
   "whyItMatters": [
     "Games are decided by possessions, and possessions are decided by decisions. A team that consistently makes the simple, correct read will beat a more athletic team that guesses. Coaches build offenses to create decisions; players who decide well make any offense work.",
     "Decision speed also compounds. One quick, correct decision forces the defense to rotate; the next quick decision attacks that rotation. Slow decisions let the defense rest, and rested defenses do not break."
-  ],
-  "vi": {
-    "coachingPoints": [
-      "Giảm số quyết định trong bài tập trước khi tăng chúng trong trận đấu — 2 đấu 1 trước 3 đấu 2, 3 đấu 2 trước 5 đấu 5",
-      "Khen những quyết định nhanh, đúng to hơn cả những cú ném vào",
-      "Dùng giới hạn: 'bạn có ba giây để ném, đột phá hoặc chuyền'",
-      "Dạy cây quyết định, không chỉ kết quả — cầu thủ nên biết tại sao lựa chọn đó đúng"
-    ],
-    "commonMistakes": [
-      "Định sẵn động tác trước khi đọc hàng thủ cho thấy gì",
-      "Giữ bóng quá lâu trong khi chờ đợi lựa chọn 'hoàn hảo'",
-      "Ép một cú ném tệ thay vì chuyền đơn giản đang trống",
-      "Nghi ngờ giữa chừng — lối chơi nửa vời của những pha đột phá dở dang và cú giả bỏ cuộc"
-    ],
-    "description": "Một khung đơn giản để ra quyết định nhanh hơn, tốt hơn trên sân — đọc, quyết định, thực hiện — dưới áp lực trận đấu thật.",
-    "gameSituations": [
-      "Phản công 2 đấu 1: đọc sự dồn sức của hậu vệ duy nhất để chọn chuyền hay dứt điểm",
-      "Bắt bóng trước closeout: ném, đột phá hay chuyền ngang — quyết định ngay khi bắt bóng",
-      "Cuối đồng hồ tấn công: đơn giản hóa thành một hai lựa chọn tốt nhất và dồn sức"
-    ],
-    "howTo": [
-      {
-        "detail": "Mỗi lần bắt bóng hãy hỏi theo thứ tự: mình ném được không? Nếu không, mình đột phá được không? Nếu không, di chuyển bóng. Ba câu hỏi, luôn cùng thứ tự, trả lời trong chưa đầy hai giây.",
-        "title": "Đơn giản hóa thành ba lựa chọn"
-      },
-      {
-        "detail": "Đọc tình huống khi bóng còn đang bay để hành động ngay khi bóng tới tay. Quyết định khi bắt bóng giúp bạn đi trước hàng thủ đang xoay.",
-        "title": "Quyết định ngay khi bắt bóng"
-      },
-      {
-        "detail": "Nếu họ chui dưới màn chắn, hãy ném. Nếu họ bỏ người bạn kèm để hỗ trợ, hãy chuyền cho anh ta. Đừng chống lại hàng thủ — hãy nhận những gì nó cho và trừng phạt nó.",
-        "title": "Lấy những gì hàng thủ cho"
-      },
-      {
-        "detail": "Nếu bạn chưa quyết định trong hai giây sau khi bắt bóng, hãy chuyền đi và di chuyển lại. Giữ bóng giết chết lợi thế và để hàng thủ lui về.",
-        "title": "Dùng luật hai giây"
-      },
-      {
-        "detail": "Một khi đã đột phá, hãy đột phá. Một khi đã ném, hãy ném. Do dự giữa chừng tạo ra những pha mất bóng mà những sai lầm tự tin không bao giờ tạo.",
-        "title": "Dồn sức vào lựa chọn"
-      },
-      {
-        "detail": "Phân tích quyết định sau trận bằng video, không phải giữa pha bóng. Trong trận, hãy tin vào sự chuẩn bị; sau trận, hãy mài sắc cách đọc.",
-        "title": "Xem lại sau, không phải trong lúc chơi"
-      }
-    ],
-    "tags": [
-      "basketball iq",
-      "ra quyết định",
-      "tấn công",
-      "point guard"
-    ],
-    "title": "Ra Quyết Định",
-    "whatIsIt": [
-      "Ra quyết định là quá trình chọn việc cần làm — ném, đột phá hay chuyền — trong nửa giây bạn giữ bóng. Mỗi đợt tấn công là một chuỗi những quyết định nhỏ, và những cầu thủ giỏi nhất không phải người luôn chọn hoàn hảo; họ là người chọn tốt một cách nhanh chóng.",
-      "Quyết định tốt đến từ một quy trình có thể lặp lại: đọc hàng thủ, chọn lựa chọn tốt nhất hiện có, và dồn sức hoàn toàn. Do dự — pha đột phá nửa vời, cú giả ném rồi chẳng đi đâu — còn tệ hơn một quyết định sai nhưng tự tin."
-    ],
-    "whyItMatters": [
-      "Trận đấu được quyết định bởi các đợt tấn công, và các đợt tấn công được quyết định bởi quyết định. Một đội luôn ra quyết định đơn giản, đúng đắn sẽ thắng một đội thể hình hơn nhưng đoán mò. Huấn luyện viên xây hệ thống tấn công để tạo ra các quyết định; cầu thủ quyết định tốt khiến mọi hệ thống tấn công vận hành.",
-      "Tốc độ quyết định cũng cộng dồn. Một quyết định nhanh, đúng buộc hàng thủ phải xoay; quyết định nhanh tiếp theo tấn công vào pha xoay đó. Quyết định chậm để hàng thủ nghỉ ngơi, mà hàng thủ được nghỉ thì không vỡ."
-    ]
-  }
+  ]
 }

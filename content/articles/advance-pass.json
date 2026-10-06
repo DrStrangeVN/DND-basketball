@@ -71,69 +71,69 @@
     "outlet"
   ],
   "title": "The Advance Pass",
+  "vi": {
+    "coachingPoints": [
+      "Chuyền càng sớm càng tốt — bóng chỉ thắng được hàng thủ khi đi đủ nhanh",
+      "Bước tới khi chuyền, tay vung hết đà — không vẩy bóng cho có",
+      "Bóng phải đến trước người nhận, dẫn anh ta vào nhịp bắt bóng",
+      "Không thấy đường sâu thì chuyền an toàn — một pha để mất bóng giết chết đợt phản công",
+      "Người nhận bóng: tay sẵn sàng, mắt ngẩng lên, bắt bóng ngay khi đang chạy"
+    ],
+    "commonMistakes": [
+      "Giữ bóng quá lâu — hàng thủ kịp lui về trong lúc còn chần chừ",
+      "Chuyền vào chỗ người nhận đang đứng, không phải chỗ anh ta sắp tới",
+      "Cố chuyền đường bóng dài vào giữa đám đông — để mất bóng còn tệ hơn không phản công",
+      "Người nhận không quan sát — đường chuyền đẹp đập thẳng vào gáy"
+    ],
+    "description": "Đưa bóng vượt lên trước đợt phản công để thắng hàng thủ lui về: thời điểm, mục tiêu và kỹ thuật của đường chuyền advance pass.",
+    "gameSituations": [
+      "Ngay sau rebound phòng thủ, khi cầu thủ cánh đã bứt tốc",
+      "Sau pha cướp bóng, phía trước đang hơn người",
+      "Đường chuyền phát động kiểu quarterback, bỏ qua cả một tuyến phòng thủ",
+      "Người dẫn bóng bị kẹp — đường chuyền là lối thoát duy nhất"
+    ],
+    "howTo": [
+      {
+        "detail": "Vừa kiểm soát được bóng — rebound, cướp bóng hay bắt đường chuyền phát động — ngẩng đầu nhìn lên phần sân đối phương ngay. Advance pass chỉ sống trong hai giây đầu. Qua hai giây, hàng thủ đã về đủ.",
+        "title": "Nhìn lên ngay khi có bóng"
+      },
+      {
+        "detail": "Tìm đồng đội đang ở sâu nhất bên phần sân đối phương mà trước mặt còn đường trống. Đó là mục tiêu — không phải người gần nhất, mà là người làm hàng thủ đau nhất.",
+        "title": "Chọn đồng đội trống ở sâu nhất"
+      },
+      {
+        "detail": "Chuyền một đường bóng chắc, căng — thường là chuyền hai tay qua đầu hoặc đẩy mạnh một tay — đón đầu người nhận. Nhắm điểm cách người nhận hai bước chân, ngang tầm ngực.",
+        "title": "Chuyền đón đầu người chạy"
+      },
+      {
+        "detail": "Bước về phía mục tiêu rồi mới chuyền, tay vung hết đà. Chuyền vội, người mất thăng bằng — bóng bồng bềnh, đối phương cắt ngay. Giữ người cân bằng, bóng đến đúng lúc.",
+        "title": "Bước tới, vung tay theo đà"
+      },
+      {
+        "detail": "Đường chuyền sâu bị bịt kín thì đừng cố. Chuyền đường chuyền phát động an toàn, giữ đợt phản công sống. Advance pass là vũ khí, không phải nghĩa vụ.",
+        "title": "Không có đường sâu thì chuyền an toàn"
+      }
+    ],
+    "tags": [
+      "phản công nhanh",
+      "chuyền bóng",
+      "fast break",
+      "chiến thuật"
+    ],
+    "title": "Đường chuyền vượt tuyến (advance pass)",
+    "whatIsIt": [
+      "Advance pass là đường chuyền dài, chuyền sớm, đưa bóng vượt lên trước hàng thủ trong chuyển trạng thái. Đó là đường chuyền phát động mở ra đợt phản công, là đường chuyền chéo sân bỏ lại một hậu vệ, là đường chuyền kiểu quarterback biến một pha rebound thành layup chỉ trong ba giây.",
+      "Đây là cách đưa bóng lên nhanh nhất trận đấu. Không nhịp dẫn nào, dù nhanh cỡ nào, thắng được một đường chuyền tốt bay trên không. Đội chuyền advance pass tốt chơi với tốc độ hàng thủ không theo kịp. Đội không chuyền được thì mỗi lần tấn công đều phải dẫn bóng cắm đầu vào hàng thủ đã bày sẵn."
+    ],
+    "whyItMatters": [
+      "Một đường advance pass chuẩn đáng giá năm pha dẫn bóng đẹp. Nó phá nát đội hình lui về của đối phương, tạo lợi thế hơn người, dọn ra những cú ném dễ nhất. Nhưng đây cũng là đường chuyền rủi ro nhất khi chuyển trạng thái: một đường chuyền hỏng là để mất bóng ngay lập tức, đối phương phản công ngược. Biết khi nào chuyền, khi nào giữ — đó là ranh giới giữa đội bóng nhanh và đội bóng liều."
+    ]
+  },
   "whatIsIt": [
     "The advance pass is the long, early pass that moves the ball ahead of the defense in transition — the outlet that becomes a break, the cross-court throw that skips a defender, the quarterback pass that turns a rebound into a layup in three seconds.",
     "It is the single fastest way to advance the ball: no dribble, no matter how fast, beats a well-thrown pass through the air. Teams that throw the advance pass well play at a speed defenses cannot match; teams that don't are forced to dribble into a set defense every possession."
   ],
   "whyItMatters": [
     "One great advance pass is worth five good dribbles. It collapses the defense's recovery, creates numbers advantages, and produces the easiest shots in basketball. But it is also the highest-risk pass in transition — a bad one is a turnover going the other way. Learning when to throw it, and when to hold it, is what separates fast teams from reckless ones."
-  ],
-  "vi": {
-    "coachingPoints": [
-      "Chuyền càng sớm càng tốt — đường chuyền chỉ thắng được hàng thủ khi nó đủ nhanh",
-      "Bước tới khi chuyền và vung tay theo đà về phía mục tiêu — không vẩy bóng hời hợt",
-      "Điểm đến của bóng phải ở phía trước người nhận, dẫn anh ta vào tư thế bắt bóng",
-      "Nếu không có đường chuyền sâu, hãy chuyền outlet an toàn — một pha mất bóng giết chết đợt phản công",
-      "Người nhận bóng: bắt bóng khi đang chạy, tay sẵn sàng, mắt ngẩng lên"
-    ],
-    "commonMistakes": [
-      "Giữ bóng quá lâu — hàng thủ kịp lui về trong lúc bạn còn chần chừ",
-      "Chuyền vào vị trí người nhận đang đứng thay vì vị trí anh ta sắp tới",
-      "Cố chuyền đường bóng dài vào giữa đám đông — mất bóng còn tệ hơn không phản công",
-      "Người nhận không quan sát — đường chuyền hoàn hảo đập vào gáy anh ta"
-    ],
-    "description": "Đường chuyền advance pass: đưa bóng vượt lên trước đợt phản công để đánh bại hàng phòng ngự — thời điểm, mục tiêu và kỹ thuật.",
-    "gameSituations": [
-      "Ngay sau khi bắt bóng bật bảng phòng thủ, khi một cầu thủ cánh đã bứt tốc",
-      "Sau một pha cướp bóng khi đang hơn người phía trước bóng",
-      "Đường outlet kiểu quarterback vượt qua cả một tuyến phòng ngự",
-      "Khi người dẫn bóng bị kẹp và đường chuyền là lối thoát duy nhất"
-    ],
-    "howTo": [
-      {
-        "detail": "Ngay khi bạn kiểm soát được bóng — bắt bóng bật bảng, cướp bóng hay nhận đường outlet — hãy đưa mắt nhìn lên sân đối phương. Advance pass chỉ hiệu quả trong hai giây đầu tiên; sau đó, hàng thủ đã lui về.",
-        "title": "Ngẩng đầu quan sát ngay lập tức"
-      },
-      {
-        "detail": "Tìm đồng đội đang ở sâu nhất bên phần sân đối phương mà phía trước còn khoảng trống. Đó là mục tiêu của bạn — không phải người gần nhất, mà là người có thể gây sát thương cho hàng thủ.",
-        "title": "Tìm đồng đội trống trải ở sâu nhất"
-      },
-      {
-        "detail": "Chuyền một đường bóng chắc, căng — thường là chuyền hai tay qua đầu hoặc đẩy mạnh một tay — đón đầu người nhận. Nhắm vào điểm cách người nhận hai bước chân, ngang tầm ngực.",
-        "title": "Chuyền đón đầu người chạy"
-      },
-      {
-        "detail": "Bước về phía mục tiêu và vung tay theo đà. Một cú ném vội, mất thăng bằng sẽ bồng bềnh và bị cắt; một cú chuyền cân bằng sẽ đến đúng lúc.",
-        "title": "Bước tới và vung tay theo đà"
-      },
-      {
-        "detail": "Nếu đường chuyền sâu bị bịt kín, đừng cố — hãy chuyền outlet an toàn và để đợt phản công tiếp tục. Advance pass là một vũ khí, không phải nghĩa vụ.",
-        "title": "Chọn phương án an toàn nếu bị kèm"
-      }
-    ],
-    "tags": [
-      "chuyển trạng thái",
-      "chuyền bóng",
-      "fast break",
-      "chuyền outlet"
-    ],
-    "title": "Đường Chuyền Vượt Tuyến",
-    "whatIsIt": [
-      "Advance pass là đường chuyền dài, chuyền sớm để đưa bóng vượt lên trước hàng phòng ngự trong tình huống chuyển trạng thái — đường outlet mở ra đợt phản công, đường chuyền chéo sân vượt qua một hậu vệ, hay đường chuyền kiểu quarterback biến một pha bắt bóng bật bảng thành một pha layup chỉ trong ba giây.",
-      "Đây là cách đưa bóng lên nhanh nhất: không cú dẫn bóng nào, dù nhanh đến đâu, có thể thắng được một đường chuyền tốt bay trong không khí. Những đội chuyền advance pass tốt chơi với tốc độ mà hàng phòng ngự không thể theo kịp; những đội không làm được thì mỗi lần tấn công đều phải dẫn bóng vào thế phòng ngự đã bày sẵn."
-    ],
-    "whyItMatters": [
-      "Một đường advance pass xuất sắc đáng giá bằng năm pha dẫn bóng tốt. Nó phá vỡ sự lui về của hàng thủ, tạo lợi thế hơn người và mang lại những cú ném dễ nhất trong bóng rổ. Nhưng đây cũng là đường chuyền rủi ro nhất trong chuyển trạng thái — một đường chuyền hỏng là một pha mất bóng ngay lập tức. Học khi nào nên chuyền và khi nào nên giữ bóng là điều phân biệt đội bóng nhanh với đội bóng liều lĩnh."
-    ]
-  }
+  ]
 }

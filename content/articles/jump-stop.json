@@ -69,64 +69,64 @@
     "balance"
   ],
   "title": "Jump Stop",
+  "vi": {
+    "coachingPoints": [
+      "Tiếp đất êm — nghe tiếng đập mạnh là gối chưa cong đủ.",
+      "Bóng trước: thu bóng hai tay trước khi chân chạm sàn.",
+      "Đáp ở triple threat: gối cong, bóng ở hông hoặc ngực, mắt nhìn lên.",
+      "Hai chân chạm đất nghĩa là được pivot — đừng bao giờ bật vào jump stop mà không có kế hoạch.",
+      "Dùng trong đám đông; cú đáp thăng bằng bảo vệ cầu thủ và quả bóng."
+    ],
+    "commonMistakes": [
+      "Tiếp đất chân thẳng — không thăng bằng, không bùng nổ, hại gối.",
+      "Thu bóng muộn — bóng còn nảy lúc tiếp đất; đó là lỗi chạy bước.",
+      "Đáp chôn chân, đứng hình — jump stop là bệ phóng, không phải chỗ đậu xe.",
+      "Bật quá xa về trước — lao vào người phòng thủ thay vì dừng trước họ."
+    ],
+    "description": "Tiếp đất hai chân cùng lúc trong thăng bằng — cú dừng dọn đường cho pha kết thúc mạnh, pivot và pull-up.",
+    "gameSituations": [
+      "Đột phá vào khu vực dưới rổ khi cầu thủ phòng thủ xoay về — dừng lại, lên rổ, kết thúc.",
+      "Bắt bóng trên đà di chuyển trong chuyển trạng thái — đáp thăng bằng, đọc sân.",
+      "Sau động tác dẫn bóng tạo khoảng trống — dừng lại, ném theo nhịp."
+    ],
+    "howTo": [
+      {
+        "detail": "Khi tới điểm dừng, thu bóng bằng hai tay. Phải thu bóng trước khi rời mặt đất — đó là thứ giữ cho pha bóng hợp lệ.",
+        "title": "Thu bóng"
+      },
+      {
+        "detail": "Bật nhẹ, đáp cả hai chân cùng lúc, chân rộng bằng vai, gối cong, hông thấp. Nghĩ 'tư thế thể thao', đừng 'đứng thẳng'.",
+        "title": "Tiếp đất cùng lúc, gối cong"
+      },
+      {
+        "detail": "Về với bóng ở hông hoặc ngực, khuỷu mở, ở tư thế triple threat. Mắt ngẩng lên ngay — phải nhìn được cả sân từ tư thế này.",
+        "title": "Về triple threat"
+      },
+      {
+        "detail": "Từ cú đáp thăng bằng, giờ có thể ném, pivot hoặc chuyền. Đạp đều cả hai chân để bùng nổ vào động tác tiếp theo.",
+        "title": "Bùng nổ vào động tác tiếp theo"
+      }
+    ],
+    "tags": [
+      "bộ chân",
+      "dừng bóng",
+      "nền tảng",
+      "thăng bằng"
+    ],
+    "title": "Kỹ thuật jump stop",
+    "whatIsIt": [
+      "Jump stop là cú tiếp đất hai chân: bật nhẹ rồi đáp cả hai chân cùng lúc, về tư thế thể thao thăng bằng. Đây là cách dừng đà ổn định nhất trong bóng rổ.",
+      "Vì cả hai chân chạm sàn cùng lúc, chân nào cũng có thể thành chân trụ sau đó — lợi thế cực lớn. Jump stop là nền tảng của pha kết thúc mạnh, pro hop và pull-up trong kiểm soát."
+    ],
+    "whyItMatters": [
+      "Không dừng được thì không chơi trong kiểm soát được. Jump stop biến pha đột phá tốc độ tối đa thành cú kết thúc thăng bằng, biến pha bắt bóng thành pha đọc triple threat, biến hỗn loạn thành lựa chọn. HLV ở mọi cấp độ đều tập nó vì đây là cửa ngõ tới mọi động tác hai chân trong bóng rổ."
+    ]
+  },
   "whatIsIt": [
     "The jump stop is a two-foot landing: you hop and land on both feet simultaneously, arriving in a balanced athletic stance. It's the most stable way to stop your momentum in basketball.",
     "Because both feet hit the floor together, either foot can become your pivot foot afterward — a huge advantage. The jump stop is the foundation of power finishes, pro hops, and controlled pull-ups."
   ],
   "whyItMatters": [
     "Players who can't stop can't play under control. The jump stop turns full-speed drives into balanced finishes, catches into triple-threat reads, and chaos into options. Coaches at every level drill it because it's the gateway to every two-foot move in the game."
-  ],
-  "vi": {
-    "title": "Dừng Bật Nhảy (Jump Stop)",
-    "description": "Tiếp đất bằng hai chân cùng lúc trong trạng thái cân bằng — cú dừng mở ra các pha kết thúc mạnh, pivot và pull-up.",
-    "whatIsIt": [
-      "Jump stop là cách tiếp đất bằng hai chân: bạn nhảy lên một chút rồi đáp xuống bằng cả hai chân cùng lúc, dừng lại trong tư thế thể thao cân bằng. Đây là cách dừng đà ổn định nhất trong bóng rổ.",
-      "Vì cả hai chân chạm đất cùng lúc, chân nào cũng có thể trở thành chân trụ sau đó — một lợi thế rất lớn. Jump stop là nền tảng của các pha kết thúc mạnh (power finish), pro hop và các cú pull-up có kiểm soát."
-    ],
-    "whyItMatters": [
-      "Cầu thủ không biết dừng thì không thể chơi có kiểm soát. Jump stop biến những pha đột phá tốc độ cao thành các pha kết thúc cân bằng, biến những pha nhận bóng thành các lần đọc tình huống ở triple threat, và biến sự hỗn loạn thành lựa chọn. Các huấn luyện viên ở mọi cấp độ đều luyện nó vì nó là cánh cửa dẫn đến mọi động tác hai chân trong môn bóng rổ."
-    ],
-    "howTo": [
-      {
-        "title": "Gom bóng trước",
-        "detail": "Khi gần đến điểm dừng, gom bóng bằng hai tay. Động tác gom bóng phải hoàn thành trước khi bạn rời khỏi mặt đất — đó là điều giữ cho pha bóng hợp lệ."
-      },
-      {
-        "title": "Tiếp đất đồng thời, đầu gối chùng",
-        "detail": "Nhảy nhẹ một cái rồi đáp xuống bằng cả hai chân cùng lúc, hai chân rộng ngang vai, đầu gối chùng, hông thấp. Hãy nghĩ 'tư thế thể thao', chứ không phải 'đứng thẳng'."
-      },
-      {
-        "title": "Dừng ở tư thế triple threat",
-        "detail": "Đáp xuống với bóng ở hông hoặc ngực, khuỷu tay mở ra, ở tư thế triple threat. Mắt bạn nhìn lên ngay lập tức — từ tư thế này bạn phải quan sát được toàn sân."
-      },
-      {
-        "title": "Bùng nổ vào động tác tiếp theo",
-        "detail": "Từ tư thế tiếp đất cân bằng, bạn có thể ném, pivot hoặc chuyền. Đạp đều bằng cả hai chân để bùng nổ vào động tác tiếp theo."
-      }
-    ],
-    "coachingPoints": [
-      "Tiếp đất nhẹ nhàng — nếu nghe tiếng vỗ mạnh, đầu gối của bạn chưa chùng đủ.",
-      "Bóng trước: gom bóng bằng hai tay trước khi chân chạm đất.",
-      "Tiếp đất ở tư thế triple threat: đầu gối chùng, bóng ở hông hoặc ngực, mắt nhìn lên.",
-      "Hai chân chạm đất nghĩa là bạn có thể pivot — đừng bao giờ nhảy vào jump stop mà không có kế hoạch.",
-      "Dùng nó trong khu vực đông người; cú tiếp đất cân bằng bảo vệ bạn và quả bóng."
-    ],
-    "commonMistakes": [
-      "Tiếp đất với chân thẳng — không cân bằng, không bùng nổ, lại còn hại đầu gối.",
-      "Gom bóng muộn — bóng vẫn còn nảy khi bạn tiếp đất; đó là lỗi bước.",
-      "Tiếp đất bằng phẳng rồi đứng yên — jump stop là bệ phóng, không phải chỗ đậu xe.",
-      "Nhảy quá xa về phía trước — bạn sẽ đâm vào hậu vệ thay vì dừng lại trước mặt họ."
-    ],
-    "gameSituations": [
-      "Đột phá vào khu vực paint khi hậu vệ xoay người đến — dừng lại, bật lên, kết thúc.",
-      "Nhận bóng khi đang di chuyển trong fast break — tiếp đất cân bằng và đọc toàn sân.",
-      "Sau một động tác dẫn bóng đã tạo khoảng trống — dừng lại và ném theo nhịp."
-    ],
-    "tags": [
-      "bộ chân",
-      "dừng bóng",
-      "cơ bản",
-      "thăng bằng"
-    ]
-  }
+  ]
 }

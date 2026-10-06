@@ -83,64 +83,64 @@
     "Good teaching also compounds across a program. Players taught well become players who practice well, and players who practice well improve without constant supervision."
   ],
   "vi": {
-    "coachingPoints": [
-      "Năng lượng của bạn tạo nên môi trường học tập — hãy nhiệt huyết và kiên nhẫn.",
-      "Khen ngợi nỗ lực và những chi tiết có thể sửa được, không chỉ kết quả.",
-      "Gọi tên cầu thủ thường xuyên; sự quan tâm cá nhân đẩy nhanh việc học.",
-      "Kết thúc mỗi phần dạy bằng một phiên bản vui nhộn, có tính cạnh tranh của bài tập."
-    ],
-    "commonMistakes": [
-      "Nói quá lâu trước khi cho cầu thủ vận động — diễn thuyết giết chết việc học.",
-      "Cố sửa mọi lỗi cùng lúc thay vì từng sửa lỗi một.",
-      "Làm mẫu sai, hoặc ở trình độ mà cầu thủ không thể bắt chước.",
-      "Bỏ qua các bước nâng cao dần và nhảy tới phiên bản nâng cao quá sớm."
-    ],
-    "description": "Cẩm nang dạy kỹ năng đúng cách cho huấn luyện viên — làm mẫu, tập luyện, sửa lỗi — để cầu thủ học nhanh hơn và nhớ lâu hơn.",
-    "gameSituations": [
-      "Tuần đầu với người mới: dạy tư thế triple threat từ con số không.",
-      "Buổi tập trẻ: giới thiệu layup cho các em mười tuổi.",
-      "Buổi tập đội: dạy lại bước chân closeout giữa mùa sau khi những thói quen xấu len lỏi vào."
-    ],
-    "howTo": [
-      {
-        "detail": "Cho xem kỹ năng ở tốc độ thật trước, rồi ở tốc độ chậm. Cầu thủ bắt chước những gì họ thấy đáng tin cậy hơn nhiều so với những gì họ nghe — màn làm mẫu của bạn chính là bài học.",
-        "title": "Làm mẫu trước"
-      },
-      {
-        "detail": "Đưa cho cầu thủ một khẩu lệnh ngắn cho kỹ năng — 'thấp, mắt nhìn lên, đập mạnh' — thay vì một đoạn văn. Ba từ khóa thì nhớ được; ba mươi từ thì không.",
-        "title": "Dùng ba từ khóa"
-      },
-      {
-        "detail": "Tập tại chỗ trước khi di chuyển, không đối kháng trước khi có đối kháng, chậm trước khi nhanh. Mỗi bước nâng cao phải như một bước nhỏ, không phải một bước nhảy vọt.",
-        "title": "Bắt đầu đơn giản, tăng dần độ khó"
-      },
-      {
-        "detail": "Chọn lỗi lớn nhất, sửa nó, rồi chuyển sang lỗi tiếp theo. Nhiều sửa lỗi cùng lúc sẽ làm cầu thủ choáng ngợp và chẳng sửa được gì.",
-        "title": "Sửa từng lỗi một"
-      },
-      {
-        "detail": "Giữ hàng chờ ngắn, dùng nhiều bóng, và giữ mọi cầu thủ luôn vận động. Tốc độ học là số lần tập mỗi phút, còn đứng xếp hàng thì chẳng dạy được gì.",
-        "title": "Tối đa hóa số lần tập chất lượng"
-      },
-      {
-        "detail": "Yêu cầu cầu thủ giải thích lại các điểm chính cho bạn, hoặc để họ dạy lại cho đồng đội. Dạy lại chính là bài kiểm tra nhanh nhất cho sự hiểu bài thực sự.",
-        "title": "Kiểm tra sự hiểu bài"
-      }
-    ],
-    "tags": [
-      "huấn luyện",
-      "dạy học",
-      "cơ bản",
-      "bóng rổ trẻ"
-    ],
-    "title": "Dạy kỹ năng bóng rổ",
-    "whatIsIt": [
-      "Dạy kỹ năng bóng rổ là nghề cốt lõi của huấn luyện viên: chia một kỹ năng thành những phần có thể học được, làm mẫu rõ ràng, và hướng dẫn cầu thủ qua các lần lặp lại cho đến khi động tác trở thành bản năng. Dạy giỏi cũng là một kỹ năng riêng — biết về bóng rổ và dạy bóng rổ là hai việc khác nhau.",
-      "Cách dạy hiệu quả nhất theo một vòng lặp đơn giản: cho xem, giải thích điểm chính bằng ít từ, để cầu thủ thử, và sửa từng lỗi một. Cầu thủ học bằng cách làm nhiều hơn hẳn so với học bằng cách nghe."
-    ],
-    "whyItMatters": [
-      "Cách bạn dạy quyết định tốc độ học của cầu thủ. Hướng dẫn rõ ràng, đơn giản với nhiều lần tập xây dựng những cầu thủ tự tin; những bài diễn thuyết dài và bài tập phức tạp chỉ tạo ra sự rối rắm. Cầu thủ trẻ đặc biệt cần cách dạy phù hợp với cách họ thực sự học — ngắn gọn, trực quan và năng động.",
-      "Dạy tốt còn có hiệu ứng cộng dồn trong cả một chương trình. Cầu thủ được dạy tốt trở thành cầu thủ tập luyện tốt, và cầu thủ tập luyện tốt sẽ tiến bộ mà không cần giám sát liên tục."
-    ]
-  }
+  "title": "Cách dạy kỹ năng bóng rổ",
+  "description": "Cẩm nang cho HLV: dạy kỹ năng đúng cách — thị phạm, tập luyện, sửa lỗi — để cầu thủ học nhanh và nhớ lâu.",
+  "whatIsIt": [
+   "Dạy kỹ năng bóng rổ là nghề cốt lõi của HLV: chia kỹ năng thành từng phần nhỏ dễ học, thị phạm rõ ràng, rồi dẫn cầu thủ qua từng lần lặp cho đến khi động tác thành phản xạ. Dạy giỏi bản thân nó cũng là một kỹ năng — biết đánh bóng và biết dạy đánh bóng là hai chuyện khác nhau.",
+   "Cách dạy hiệu quả nhất theo một vòng lặp đơn giản: thị phạm, giải thích điểm mấu chốt bằng vài từ ngắn, để cầu thủ thử, rồi sửa từng lỗi một. Cầu thủ học bằng cách làm nhiều hơn gấp bội so với nghe giảng."
+  ],
+  "whyItMatters": [
+   "Cách dạy quyết định tốc độ học của cầu thủ. Chỉ dẫn rõ ràng, đơn giản, với nhiều lần lặp sẽ tạo ra cầu thủ tự tin; bài diễn thuyết dài dòng và bài tập phức tạp chỉ tạo ra sự rối loạn. Cầu thủ trẻ đặc biệt cần cách dạy phù hợp với cách họ thực sự học — ngắn gọn, trực quan, vận động nhiều.",
+   "Dạy tốt còn lan tỏa cả chương trình. Cầu thủ được dạy tốt sẽ tập tốt, và cầu thủ tập tốt sẽ tự tiến bộ mà không cần HLV kè kè bên cạnh."
+  ],
+  "howTo": [
+   {
+    "title": "Thị phạm trước",
+    "detail": "Thị phạm kỹ năng ở tốc độ thật trước, rồi chậm lại. Cầu thủ bắt chước cái họ thấy tốt hơn nhiều so với cái họ nghe — buổi thị phạm của HLV chính là bài học."
+   },
+   {
+    "title": "Dùng ba từ khóa",
+    "detail": "Đưa cầu thủ một khẩu lệnh ngắn cho kỹ năng — “thấp, mắt lên, đập mạnh” — thay vì cả đoạn văn. Ba từ khóa thì nhớ được, ba mươi từ thì không."
+   },
+   {
+    "title": "Từ đơn giản đến phức tạp",
+    "detail": "Đứng tại chỗ trước khi di chuyển, không đối kháng trước khi có đối kháng, chậm trước khi nhanh. Mỗi bước nâng cao chỉ nên là một bậc thang nhỏ, không phải một cú nhảy vọt."
+   },
+   {
+    "title": "Mỗi lần sửa một lỗi",
+    "detail": "Chọn lỗi lớn nhất, sửa xong rồi mới sang lỗi tiếp theo. Sửa nhiều lỗi cùng lúc làm cầu thủ quá tải và chẳng sửa được lỗi nào."
+   },
+   {
+    "title": "Tối đa hóa số lần lặp chất lượng",
+    "detail": "Xếp hàng ngắn, dùng nhiều bóng, giữ mọi cầu thủ đều vận động. Tốc độ học bằng số lần lặp mỗi phút — đứng xếp hàng chẳng dạy được gì."
+   },
+   {
+    "title": "Kiểm tra mức độ hiểu",
+    "detail": "Bảo cầu thủ nhắc lại các điểm mấu chốt, hoặc dạy lại cho đồng đội. Dạy lại là bài kiểm tra nhanh nhất xem đã thực sự hiểu hay chưa."
+   }
+  ],
+  "coachingPoints": [
+   "Năng lượng của HLV tạo ra môi trường học — nhiệt tình và kiên nhẫn.",
+   "Khen nỗ lực và những chi tiết sửa được, không chỉ khen kết quả.",
+   "Gọi tên cầu thủ liên tục; sự quan tâm cá nhân giúp học nhanh hơn.",
+   "Kết thúc mỗi buổi dạy bằng phiên bản vui, có tính cạnh tranh của bài tập."
+  ],
+  "commonMistakes": [
+   "Nói quá lâu trước khi cho cầu thủ vận động — diễn thuyết giết chết việc học.",
+   "Cố sửa mọi lỗi cùng lúc thay vì sửa từng lỗi một.",
+   "Thị phạm sai, hoặc ở trình độ cầu thủ không bắt chước được.",
+   "Bỏ qua các bước nâng dần, nhảy ngay lên phiên bản nâng cao."
+  ],
+  "gameSituations": [
+   "Tuần đầu với người mới: dạy tư thế triple threat từ con số không.",
+   "Buổi tập trẻ: giới thiệu layup cho lứa 10 tuổi.",
+   "Buổi tập đội: dạy lại bộ chân closeout giữa mùa sau khi thói quen xấu xuất hiện."
+  ],
+  "tags": [
+   "huấn luyện",
+   "dạy kỹ năng",
+   "kỹ năng cơ bản",
+   "bóng rổ trẻ"
+  ]
+ }
 }

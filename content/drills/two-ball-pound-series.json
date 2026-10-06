@@ -70,53 +70,53 @@
   ],
   "dateUpdated": "2026-10-06",
   "vi": {
-    "title": "Chuỗi Pound Dẫn Bóng Hai Tay",
-    "description": "Chuỗi bài dẫn bóng hai tay tại chỗ giúp tăng sức tay, nhịp độ và khả năng dùng đều cả hai tay với 5 biến thể pound-dribble.",
-    "goal": "Dẫn hai bóng với lực pound đều nhau và kiểm soát tốt bằng cả hai tay.",
-    "setup": [
-      "Cầm hai quả bóng, đứng tư thế thể thao trong khoảng trống 2m.",
-      "Chân rộng hơn vai một chút, gối khụy, mắt nhìn lên, không nhìn bóng.",
-      "Bấm đồng hồ 30 giây hoặc nhờ đồng đội canh giờ cho từng biến thể."
-    ],
-    "instructions": [
-      {
-        "title": "Pound Đồng Thời",
-        "detail": "Dẫn cả hai bóng cùng lúc, đập mạnh để mỗi bóng nảy lên ngang hông. Làm 30 giây, nghỉ 15 giây. Giữ mắt nhìn lên và nhịp dẫn đều."
-      },
-      {
-        "title": "Pound So Le",
-        "detail": "Dẫn so le trái-phải-trái-phải như pít-tông, một bóng lên thì bóng kia xuống. Đập mạnh từng bóng bằng ngón tay trong 30 giây."
-      },
-      {
-        "title": "Một Cao Một Thấp",
-        "detail": "Một bóng dẫn thấp ngang gối, một bóng dẫn cao ngang vai cùng lúc trong 15 giây, rồi đổi tay và đổi độ cao. Bài này ép hai tay hoạt động độc lập."
-      },
-      {
-        "title": "Pound Crossover",
-        "detail": "Crossover cả hai bóng cùng lúc trước mặt, luân phiên tay dẫn đầu mỗi lần đổi hướng. Làm 20 lần crossover, mỗi lần bắt bóng đều đập mạnh."
-      },
-      {
-        "title": "Đi Bộ Kết Thúc",
-        "detail": "Vừa dẫn đồng thời hai bóng vừa bước chậm 10 bước tiến theo đường thẳng rồi 10 bước lùi. Kết thúc bằng 30 giây pound so le với tốc độ tối đa."
-      }
-    ],
     "coachingPoints": [
-      "Đập bóng thật mạnh — dẫn nhẹ là dẫn lười.",
-      "Dùng đầu ngón tay và cổ tay, không dùng lòng bàn tay.",
-      "Mắt nhìn lên suốt bài; dùng tầm nhìn ngoại vi để theo dõi bóng.",
-      "Giữ bóng sát người, không rộng hơn khoảng chân."
+      "Pound bóng mạnh — rê mềm là rê lười.",
+      "Đầu ngón tay và búng cổ tay, không bao giờ dùng lòng bàn tay.",
+      "Mắt nhìn lên suốt; dùng tầm nhìn ngoại vi theo dõi bóng.",
+      "Rê sát người, không rộng hơn tư thế đứng."
     ],
     "commonMistakes": [
-      "Cúi nhìn bóng, làm mất tầm nhìn sân.",
-      "Đập bóng bằng lòng bàn tay thay vì vẩy cổ tay và ngón tay."
+      "Cúi nhìn bóng — giết chết nhãn quan chiến thuật.",
+      "Pound bằng lòng bàn tay thay vì búng cổ tay và ngón tay."
     ],
-    "progression": "Làm toàn bộ chuỗi khi đi bộ, rồi chạy nhẹ, rồi thêm slalom quanh 4 cọc tiêu.",
-    "regression": "Tập từng biến thể bằng một bóng trước, đến khi mỗi tay dẫn được 30 nhịp sạch.",
-    "gameApplication": "Xây dựng khả năng kiểm soát bóng đều hai tay để giữ bóng trước áp lực và tấn công cả hai hướng.",
-    "players": "1",
+    "description": "Chuỗi dẫn bóng 2 bóng tại chỗ tiến bộ: xây dựng sức tay, nhịp độ và khả năng dùng 2 tay đều nhau với 5 biến thể rê mạnh.",
     "equipment": [
       "Bóng rổ",
       "Bóng rổ"
-    ]
+    ],
+    "gameApplication": "Xây dựng khả năng kiểm soát bóng đều hai tay để giữ bóng trước áp lực và tấn công cả hai hướng sau nhịp rê.",
+    "goal": "Rê 2 bóng với lực rê mạnh đều nhau và kiểm soát tốt bằng cả hai tay.",
+    "instructions": [
+      {
+        "detail": "Rê cả hai bóng cùng lúc, rê mạnh để mỗi bóng nảy ngang hông. 30 giây, nghỉ 15 giây. Mắt nhìn lên, nhịp rê đều.",
+        "title": "Pound đồng thời"
+      },
+      {
+        "detail": "Rê xen kẽ trái-phải-trái-phải như piston, bóng này lên thì bóng kia xuống. Rê mạnh mỗi bóng với kiểm soát ngón tay đầy đủ trong 30 giây.",
+        "title": "Pound xen kẽ"
+      },
+      {
+        "detail": "Rê một bóng ngang gối, một bóng ngang vai cùng lúc trong 15 giây, rồi đổi tay và đổi độ cao. Bài này ép hai tay kiểm soát độc lập.",
+        "title": "Một cao một thấp"
+      },
+      {
+        "detail": "Crossover cả hai bóng trước người cùng lúc, xen kẽ tay dẫn mỗi lần. Tổng 20 lần crossover, rê mạnh mỗi lần bắt.",
+        "title": "Pound crossover"
+      },
+      {
+        "detail": "Vừa giữ cả hai bóng rê cùng lúc, vừa đi chậm 10 bước thẳng về trước và 10 bước lùi. Kết thúc bằng 30 giây rê mạnh xen kẽ tốc độ tối đa.",
+        "title": "Kết thúc đi bộ"
+      }
+    ],
+    "players": "1",
+    "progression": "Làm toàn bộ chuỗi khi đi bộ, rồi chạy nhẹ, rồi thêm slalom quanh 4 cọc tiêu.",
+    "regression": "Tập từng biến thể bằng một bóng trước, đến khi mỗi tay rê được 30 nhịp sạch.",
+    "setup": [
+      "Cầm hai quả bóng, đứng tư thế thể thao trong ô vuông 1,8m.",
+      "Chân rộng hơn vai một chút, gối trùng, mắt không nhìn bóng.",
+      "Bấm giờ 30 giây hoặc nhờ đồng đội hô giờ cho mỗi biến thể."
+    ],
+    "title": "Chuỗi rê mạnh 2 bóng"
   }
 }

@@ -62,47 +62,47 @@
   ],
   "dateUpdated": "2026-10-06",
   "vi": {
-    "title": "Sprint 17 Giây + Ném Rổ",
-    "description": "Bài test thể lực nổi tiếng nhất bóng rổ kèm biến tấu ném rổ: sprint full sân đi-về trong 17 giây rồi ra vạch ném phạt khi đang thở dốc.",
+    "coachingPoints": [
+      "Chạy xuyên qua vạch — giảm tốc sớm là cách trượt giờ.",
+      "Kiểm soát hơi thở ở vạch ném: hít sâu, làm đúng routine rồi ném.",
+      "Routine ném phạt phải trụ được qua mệt mỏi — đó chính là thứ đang luyện."
+    ],
+    "commonMistakes": [
+      "Chạy bộ qua các lượt sprint — không thấy khó chịu tức là chưa hiệu quả.",
+      "Vội vàng khi ném phạt — chậm lại, đồng hồ đã dừng rồi."
+    ],
+    "description": "Bài kiểm tra thể lực nổi tiếng nhất bóng rổ kèm biến tấu ném rổ: chạy nước rút cả sân đi-về trong 17 giây rồi ra vạch ném phạt khi đang thở dốc.",
+    "equipment": [
+      "Bóng rổ"
+    ],
+    "gameApplication": "Trận đấu sát nút được quyết định bởi đôi chân mệt mỏi ở vạch ném phạt — bài này luyện đúng khoảnh khắc đó.",
     "goal": "Xây dựng thể lực đẳng cấp thi đấu và khả năng ném phạt khi tim đập thình thịch, chân nặng trĩu.",
+    "instructions": [
+      {
+        "detail": "Chạy cả sân 28m đi-về dưới 17 giây — chạm chân vào đường biên cuối mỗi lần quay đầu.",
+        "title": "Sprint 1–2"
+      },
+      {
+        "detail": "Ném ngay 2 quả phạt — đây mới là ý nghĩa của bài: ném trúng khi đã mệt.",
+        "title": "Ném phạt khi đang mệt"
+      },
+      {
+        "detail": "Vẫn chuẩn đó, không được chậm lại. Ném thêm 2 quả phạt sau lượt 4.",
+        "title": "Sprint 3–4"
+      },
+      {
+        "detail": "Hai lượt cuối rồi 2 quả phạt cuối cùng. Ghi lại tổng số trúng trên 6 quả.",
+        "title": "Sprint 5–6 và kết thúc"
+      }
+    ],
+    "players": "1+",
+    "progression": "Cắt giờ nghỉ còn 20 giây, hoặc yêu cầu 5 trên 6 quả phạt mới được xong bài.",
+    "regression": "Đi bộ xen chạy bộ qua các lượt sprint rồi ném phạt khi còn khỏe.",
     "setup": [
-      "Full sân, xuất phát dưới một rổ.",
+      "Cả sân 28m, xuất phát dưới một rổ.",
       "17 giây mỗi lượt sprint; nghỉ 30 giây giữa các lượt.",
       "Tổng 6 lượt sprint, ném phạt sau lượt 2, 4 và 6."
     ],
-    "instructions": [
-      {
-        "title": "Sprint 1-2",
-        "detail": "Full sân đi-về dưới 17 giây — chạm chân vào baseline mỗi lần quay đầu."
-      },
-      {
-        "title": "Ném phạt khi mệt",
-        "detail": "Ném ngay 2 quả phạt — đây mới là mục đích: ném trúng khi mệt."
-      },
-      {
-        "title": "Sprint 3-4",
-        "detail": "Vẫn chuẩn đó; không được chậm lại. Ném thêm 2 quả phạt sau lượt 4."
-      },
-      {
-        "title": "Sprint 5-6 và kết thúc",
-        "detail": "Hai lượt cuối rồi 2 quả phạt cuối. Ghi lại tổng số trúng trên 6."
-      }
-    ],
-    "coachingPoints": [
-      "Chạy xuyên qua vạch — giảm tốc sớm là cách trượt giờ.",
-      "Kiểm soát hơi thở ở vạch ném: hít sâu, routine, ném.",
-      "Routine ném phạt phải sống sót qua mệt mỏi — đó chính là điều đang luyện."
-    ],
-    "commonMistakes": [
-      "Chạy bộ qua các lượt sprint — không khó chịu là chưa hiệu quả.",
-      "Vội vàng khi ném phạt — chậm lại, đồng hồ đã dừng rồi."
-    ],
-    "progression": "Cắt nghỉ còn 20 giây, hoặc yêu cầu 5/6 quả phạt mới được xong.",
-    "regression": "Đi bộ-chạy bộ qua các lượt sprint và ném phạt khi còn khỏe.",
-    "gameApplication": "Trận đấu sát nút được quyết định bởi đôi chân mệt mỏi ở vạch ném phạt — bài này luyện đúng khoảnh khắc đó.",
-    "players": "1+",
-    "equipment": [
-      "Bóng rổ"
-    ]
+    "title": "Sprint 17 giây + ném rổ"
   }
 }

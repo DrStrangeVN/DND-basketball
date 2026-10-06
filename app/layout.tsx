@@ -19,13 +19,13 @@ const SITE = "https://dndbasketball.vercel.app";
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE),
-  title: { default: "DND Basketball — Trung Tâm Kiến Thức Bóng Rổ Hoàn Chỉnh", template: "%s | DND Basketball" },
+  title: { default: "DND Basketball — Trung tâm kiến thức bóng rổ hoàn chỉnh", template: "%s | DND Basketball" },
   description: "Học kỹ năng, bài tập, chiến thuật, IQ bóng rổ và kiến thức huấn luyện — từ căn bản đến nâng cao. Học. Tập. Hiểu trận đấu.",
   keywords: ["bóng rổ", "kỹ năng bóng rổ", "bài tập bóng rổ", "pick and roll", "IQ bóng rổ", "huấn luyện bóng rổ", "chiến thuật bóng rổ", "basketball"],
   alternates: { canonical: SITE },
   openGraph: {
     type: "website", siteName: "DND Basketball", url: SITE,
-    title: "DND Basketball — Trung Tâm Kiến Thức Bóng Rổ Hoàn Chỉnh",
+    title: "DND Basketball — Trung tâm kiến thức bóng rổ hoàn chỉnh",
     description: "Học kỹ năng, bài tập, chiến thuật, IQ bóng rổ và kiến thức huấn luyện — từ căn bản đến nâng cao.",
   },
   twitter: { card: "summary_large_image", title: "DND Basketball", description: "Học. Tập. Hiểu trận đấu." },

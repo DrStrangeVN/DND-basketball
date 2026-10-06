@@ -74,6 +74,67 @@
     "scouting"
   ],
   "title": "Game Preparation",
+  "vi": {
+    "coachingPoints": [
+      "Chuẩn bị cho thứ đối thủ làm nhiều nhất, không phải mọi thứ họ có thể làm",
+      "Có sẵn phương án B khi cầu thủ hay nhất của họ nóng tay",
+      "Giữ buổi tập trước trận nhẹ nhàng: tự tin và nhịp độ hơn thông tin mới",
+      "Viết sẵn ba bài gọi đầu trước giờ bóng lăn để khỏi đơ dưới áp lực"
+    ],
+    "commonMistakes": [
+      "Nhồi cầu thủ quá nhiều chi tiết scout trước trận",
+      "Đổi kế hoạch phút chót, tạo rối loạn",
+      "Tập quá nặng hôm trước trận, chân nặng trịch",
+      "Không có phương án cho dính lỗi hay chấn thương của trụ cột"
+    ],
+    "description": "Cách chuẩn bị để đội thắng — biến scout thành kế hoạch, buổi tập theo kế hoạch, và thói quen trước trận xây sự tự tin.",
+    "gameSituations": [
+      "Trận playoff trước đội xây quanh một tay ghi điểm vượt trội",
+      "Hai trận liên tiếp, thời gian hồi phục hạn chế",
+      "Trận derby cảm xúc dâng cao, kỷ luật bị thử thách"
+    ],
+    "howTo": [
+      {
+        "detail": "Xác định hai ba cầu thủ hay nhất của đối thủ, bài đánh chính, và điểm yếu của họ — bỏ qua phần còn lại. Scout mọi thứ là không chuẩn bị gì cả.",
+        "title": "Scout có mục đích"
+      },
+      {
+        "detail": "Ba điểm tấn công, ba điểm phòng thủ, viết trong một trang. Kế hoạch không vừa một trang là quá phức tạp để thực hiện.",
+        "title": "Xây kế hoạch đơn giản"
+      },
+      {
+        "detail": "Dành buổi tập trước trận để diễn tập bài của họ trước coverage của mình. Đây không phải lúc lắp bài tấn công mới — là lúc diễn tập kế hoạch.",
+        "title": "Tập theo kế hoạch"
+      },
+      {
+        "detail": "Biết thứ tự thay người đầu và phương án dự phòng dính lỗi trước giờ bóng lăn. Rotation quyết định lúc bình tĩnh hơn quyết định lúc hoảng loạn.",
+        "title": "Chuẩn bị rotation"
+      },
+      {
+        "detail": "Giờ khởi động nhất quán, thông điệp nhất quán, thói quen nhất quán. Cầu thủ cảm thấy sẵn sàng khi ngày thi đấu quen thuộc, không vội vã.",
+        "title": "Đặt thói quen ngày thi đấu"
+      },
+      {
+        "detail": "Truyền kế hoạch trong năm phút tập trung. Cầu thủ nhớ ba điểm, không phải mười lăm — làm mỗi điểm đáng giá.",
+        "title": "Truyền đạt kế hoạch rõ ràng"
+      }
+    ],
+    "tags": [
+      "huấn luyện",
+      "chuẩn bị trận đấu",
+      "chiến thuật",
+      "scout"
+    ],
+    "title": "Chuẩn bị trước trận đấu",
+    "whatIsIt": [
+      "Chuẩn bị trận đấu là mọi việc HLV làm giữa các trận để đội có cơ hội tốt nhất: nghiên cứu đối thủ, xây kế hoạch, thiết kế buổi tập diễn tập nó, và quản lý thể chất, tinh thần của đội trong ngày thi đấu.",
+      "Chuẩn bị giỏi cụ thể nhưng đơn giản — ba việc phải làm, ba việc phải chặn. Cầu thủ chơi thong dong, tự tin khi kế hoạch rõ ràng; chơi căng cứng, rối rắm khi kế hoạch quá tải."
+    ],
+    "whyItMatters": [
+      "Tài năng thắng trận đấu, nhưng chuẩn bị thắng những trận sít sao và những trận lẽ ra không thắng được. Kẻ yếu chuẩn bị kỹ thắng kẻ mạnh chủ quan thường xuyên. Chuẩn bị còn giảm lo lắng — cầu thủ biết kế hoạch thì tin nó dưới áp lực.",
+      "Chuẩn bị nhất quán còn xây bản sắc chương trình. Đội nổi tiếng chuẩn bị kỹ có danh tiếng khiến đối thủ e ngại trước khi trận đấu bắt đầu."
+    ]
+  },
   "whatIsIt": [
     "Game preparation is everything a coach does between games to give the team its best chance: studying the opponent, building a game plan, designing practices that rehearse it, and managing the team's physical and mental state on game day.",
     "Great preparation is specific but simple — three things we must do, three things we must stop. Players play free and confident when the plan is clear; they play tight and confused when it is overloaded."
@@ -81,66 +142,5 @@
   "whyItMatters": [
     "Talent wins games, but preparation wins the close ones and the ones you should not win. A well-prepared underdog beats a talented but unprepared favorite regularly. Preparation also reduces anxiety — players who know the plan trust it under pressure.",
     "Consistent preparation also builds program identity. Teams known for being prepared earn a reputation that intimidates opponents before the game even starts."
-  ],
-  "vi": {
-    "title": "Chuẩn Bị Trận Đấu",
-    "description": "Cách chuẩn bị để đội thắng — chuyển hóa thông tin trinh sát, buổi tập theo kế hoạch, và thói quen trước trận giúp cầu thủ tự tin.",
-    "whatIsIt": [
-      "Chuẩn bị trận đấu là mọi việc huấn luyện viên làm giữa các trận để đội có cơ hội tốt nhất: nghiên cứu đối thủ, xây dựng kế hoạch, thiết kế buổi tập để diễn tập kế hoạch, và quản lý thể trạng lẫn tinh thần của đội trong ngày thi đấu.",
-      "Chuẩn bị tốt là cụ thể nhưng đơn giản — ba việc chúng ta phải làm, ba việc chúng ta phải ngăn. Cầu thủ chơi thoải mái và tự tin khi kế hoạch rõ ràng; họ chơi căng cứng và rối loạn khi kế hoạch bị nhồi nhét quá nhiều."
-    ],
-    "whyItMatters": [
-      "Tài năng giúp thắng trận, nhưng chuẩn bị giúp thắng những trận cân não và những trận lẽ ra phải thua. Đội cửa dưới chuẩn bị kỹ thường xuyên đánh bại đội mạnh nhưng chủ quan. Chuẩn bị cũng giảm lo lắng — cầu thủ biết kế hoạch sẽ tin vào nó dưới áp lực.",
-      "Chuẩn bị đều đặn còn xây dựng bản sắc của cả chương trình. Đội nổi tiếng chuẩn bị kỹ tạo được danh tiếng khiến đối thủ e ngại trước khi trận đấu bắt đầu."
-    ],
-    "howTo": [
-      {
-        "title": "Trinh sát có mục đích",
-        "detail": "Xác định hai đến ba cầu thủ hay nhất của đối thủ, các động tác chính, và điểm yếu của họ — bỏ qua phần còn lại. Trinh sát mọi thứ là chẳng chuẩn bị được gì."
-      },
-      {
-        "title": "Xây dựng kế hoạch đơn giản",
-        "detail": "Ba điểm tấn công và ba điểm phòng thủ, viết gọn trong một trang. Kế hoạch không vừa một trang thì quá phức tạp để thực hiện."
-      },
-      {
-        "title": "Tập luyện theo kế hoạch",
-        "detail": "Dành buổi tập trước trận để diễn tập các động tác của đối thủ trước các cách kèm của bạn. Đây không phải lúc lắp bài tấn công mới — đây là lúc diễn tập kế hoạch."
-      },
-      {
-        "title": "Chuẩn bị đội hình luân chuyển",
-        "detail": "Biết trước lịch thay người đầu tiên và phương án dự phòng khi dính lỗi trước giờ bóng lăn. Luân chuyển quyết định lúc bình tĩnh luôn hơn lúc hoảng loạn."
-      },
-      {
-        "title": "Thiết lập thói quen ngày thi đấu",
-        "detail": "Khởi động đúng giờ, thông điệp nhất quán, thói quen ổn định. Cầu thủ cảm thấy sẵn sàng khi ngày thi đấu quen thuộc, không vội vã."
-      },
-      {
-        "title": "Truyền đạt kế hoạch rõ ràng",
-        "detail": "Truyền đạt kế hoạch trong năm phút tập trung. Cầu thủ nhớ ba điểm, không phải mười lăm — hãy làm cho mỗi điểm đều đáng giá."
-      }
-    ],
-    "coachingPoints": [
-      "Chuẩn bị cho những gì đối thủ làm nhiều nhất, không phải mọi thứ họ có thể làm.",
-      "Có sẵn phương án B cho lúc ngôi sao của họ 'nóng tay'.",
-      "Giữ buổi tập trước trận nhẹ nhàng: tự tin và nhịp điệu quan trọng hơn thông tin mới.",
-      "Viết sẵn ba bài đánh đầu tiên trước giờ bóng lăn để không bị 'đơ' dưới áp lực."
-    ],
-    "commonMistakes": [
-      "Nhồi quá nhiều chi tiết trinh sát cho cầu thủ trước trận.",
-      "Đổi kế hoạch vào phút chót gây rối loạn.",
-      "Tập quá nặng ngày trước trận, khiến chân nặng nề.",
-      "Không có phương án cho rắc rối lỗi hay chấn thương của cầu thủ chủ chốt."
-    ],
-    "gameSituations": [
-      "Trận playoff gặp đội xây dựng quanh một tay ghi điểm chủ lực.",
-      "Thi đấu hai trận liên tiếp với ít thời gian hồi phục.",
-      "Trận derby cảm xúc dâng cao, kỷ luật bị thử thách."
-    ],
-    "tags": [
-      "huấn luyện",
-      "chuẩn bị trận đấu",
-      "chiến thuật",
-      "trinh sát"
-    ]
-  }
+  ]
 }

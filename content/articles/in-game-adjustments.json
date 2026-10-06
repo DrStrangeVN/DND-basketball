@@ -1,147 +1,146 @@
 {
- "ages": [
-  "U16",
-  "U18",
-  "Adult"
- ],
- "coachingPoints": [
-  "Watch the game, not the scoreboard — score lies, patterns don't.",
-  "Prep two \"break glass\" adjustments before every game for their best player and best action.",
-  "Tell the team the adjustment once, clearly — then trust them to execute.",
-  "Track what's working on your clipboard: plus/minus by lineup, their go-to actions.",
-  "Adjust at dead balls and quarter breaks — live changes create confusion."
- ],
- "commonMistakes": [
-  "Overcoaching: changing the defense every timeout until nobody knows the coverage.",
-  "Adjusting to the last play instead of the pattern — chasing ghosts.",
-  "Saving all timeouts for the final two minutes while the game slips away in the third quarter.",
-  "Copying the opponent's adjustment instead of countering it — you end up playing their game."
- ],
- "dateUpdated": "2026-10-06",
- "description": "Read the game like a chess match. Learn how to spot what's beating you, decide what to change — and what to leave alone — without overcoaching.",
- "gameSituations": [
-  "Their star scores 12 straight: change the matchup, send a second defender, or change the coverage — pick one.",
-  "Your offense stalls: simplify to your best action, get the ball to your best decision-maker.",
-  "Opponent goes small: punish with post touches and offensive rebounds before matching small.",
-  "Late-game lead: switch to clock-killing sets and foul-avoidance defense — protect the win."
- ],
- "howTo": [
-  {
-   "detail": "One made three is noise; three straight possessions of the same action beating you is signal. Before adjusting, ask: has this happened three times? If yes, it's a pattern — act. If no, let your players play through it.",
-   "title": "Separate signal from noise"
-  },
-  {
-   "detail": "If their point guard is destroying your drop coverage, the fix might be switching the screen, icing it, or changing the matchup — not yelling \"guard him!\" Diagnose the coverage failure first, then choose the cheapest effective counter.",
-   "title": "Attack the root cause, not the symptom"
-  },
-  {
-   "detail": "Stacking three adjustments in one timeout leaves players thinking instead of playing. Make the single highest-leverage change, tell the team exactly what it is, and give it three to five possessions to work before judging it.",
-   "title": "Change one thing at a time"
-  },
-  {
-   "detail": "Adjustments aren't only X's and O's — a defensive specialist for their hot scorer, a bigger lineup against their small-ball run, fresh legs to change tempo. Planned substitution patterns make tactical changes instant.",
-   "title": "Use your bench as a tactical weapon"
-  },
-  {
-   "detail": "Tempo is the master adjustment: slow the game with half-court sets and deep post touches when you're rattled; speed it up with full-court pressure and early offense when you need a run. Decide your tempo — don't let the opponent decide it for you.",
-   "title": "Manage tempo deliberately"
-  },
-  {
-   "detail": "Some runs are just basketball — missed open shots, a lucky bank. Burning a timeout or changing a working defense during normal variance teaches players to panic. The discipline to hold steady is an adjustment too.",
-   "title": "Know when to do nothing"
-  }
- ],
- "hub": "coaching",
- "id": "in-game-adjustments",
- "level": "advanced",
- "positions": [
-  "ALL"
- ],
- "readTime": 6,
- "related": [
-  "timeout-management",
-  "clock-management",
-  "scouting-opponents",
-  "end-of-game-decisions"
- ],
- "slug": "in-game-adjustments",
- "subcategory": "coaching",
- "tags": [
-  "coaching",
-  "adjustments",
-  "tactics",
-  "game-management",
-  "advanced"
- ],
- "title": "In-Game Adjustments",
- "vi": {
+  "ages": [
+    "U16",
+    "U18",
+    "Adult"
+  ],
   "coachingPoints": [
-   "Xem trận đấu, đừng xem bảng điểm — điểm số nói dối, mẫu hình thì không.",
-   "Chuẩn bị hai điều chỉnh \"phá kính khẩn cấp\" trước mỗi trận cho cầu thủ hay nhất và bài tủ của họ.",
-   "Nói cho đội điều chỉnh một lần, rõ ràng — rồi tin họ thực hiện.",
-   "Theo dõi điều hiệu quả trên clipboard: plus/minus theo đội hình, các bài tủ của họ.",
-   "Điều chỉnh ở bóng chết và giờ nghỉ giữa hiệp — đổi lúc bóng sống gây rối loạn."
+    "Watch the game, not the scoreboard — score lies, patterns don't.",
+    "Prep two \"break glass\" adjustments before every game for their best player and best action.",
+    "Tell the team the adjustment once, clearly — then trust them to execute.",
+    "Track what's working on your clipboard: plus/minus by lineup, their go-to actions.",
+    "Adjust at dead balls and quarter breaks — live changes create confusion."
   ],
   "commonMistakes": [
-   "Huấn luyện quá đà: đổi phòng ngự mỗi timeout đến khi không ai biết coverage nào.",
-   "Điều chỉnh theo pha bóng cuối cùng thay vì mẫu hình — đuổi theo bóng ma.",
-   "Giữ hết timeout cho hai phút cuối trong khi trận đấu tuột khỏi tay ở hiệp ba.",
-   "Bắt chước điều chỉnh của đối thủ thay vì đối phó nó — bạn sẽ chơi theo trận đấu của họ."
+    "Overcoaching: changing the defense every timeout until nobody knows the coverage.",
+    "Adjusting to the last play instead of the pattern — chasing ghosts.",
+    "Saving all timeouts for the final two minutes while the game slips away in the third quarter.",
+    "Copying the opponent's adjustment instead of countering it — you end up playing their game."
   ],
-  "description": "Đọc trận đấu như một ván cờ. Học cách nhận ra điều gì đang đánh bại bạn, quyết định thay đổi gì — và giữ nguyên gì — mà không huấn luyện quá đà.",
+  "dateUpdated": "2026-10-06",
+  "description": "Read the game like a chess match. Learn how to spot what's beating you, decide what to change — and what to leave alone — without overcoaching.",
   "gameSituations": [
-   "Ngôi sao của họ ghi 12 điểm liên tiếp: đổi matchup, gửi thêm một hậu vệ, hoặc đổi coverage — chọn một.",
-   "Tấn công của bạn bế tắc: đơn giản hóa về bài tủ, đưa bóng cho người quyết định tốt nhất.",
-   "Đối thủ chơi small-ball: trừng phạt bằng chạm bóng ở post và rebound tấn công trước khi thu nhỏ theo.",
-   "Dẫn điểm cuối trận: chuyển sang các bài câu giờ và phòng ngự tránh phạm lỗi — bảo vệ chiến thắng."
+    "Their star scores 12 straight: change the matchup, send a second defender, or change the coverage — pick one.",
+    "Your offense stalls: simplify to your best action, get the ball to your best decision-maker.",
+    "Opponent goes small: punish with post touches and offensive rebounds before matching small.",
+    "Late-game lead: switch to clock-killing sets and foul-avoidance defense — protect the win."
   ],
   "howTo": [
-   {
-    "detail": "Một quả ba điểm vào rổ là nhiễu; ba đợt tấn công liên tiếp cùng một bài đánh bại bạn là tín hiệu. Trước khi điều chỉnh, hãy hỏi: điều này đã xảy ra ba lần chưa? Nếu rồi, đó là mẫu hình — hãy hành động. Nếu chưa, để cầu thủ tự vượt qua.",
-    "title": "Phân biệt tín hiệu và nhiễu"
-   },
-   {
-    "detail": "Nếu hậu vệ dẫn bóng của họ đang xé nát drop coverage của bạn, cách sửa có thể là switch màn hình, ice nó, hoặc đổi matchup — không phải hét \"kèm nó vào!\" Chẩn đoán lỗi coverage trước, rồi chọn cách đối phó hiệu quả rẻ nhất.",
-    "title": "Tấn công nguyên nhân gốc, không phải triệu chứng"
-   },
-   {
-    "detail": "Dồn ba điều chỉnh vào một timeout khiến cầu thủ phải nghĩ thay vì chơi. Thực hiện thay đổi có đòn bẩy cao nhất, nói rõ cho đội biết đó là gì, và cho nó ba đến năm đợt bóng để phát huy trước khi đánh giá.",
-    "title": "Mỗi lần chỉ đổi một thứ"
-   },
-   {
-    "detail": "Điều chỉnh không chỉ là X và O — một chuyên gia phòng ngự cho tay ghi điểm đang nóng của họ, đội hình to con hơn trước small-ball của họ, đôi chân tươi mới để đổi tempo. Các mẫu thay người có kế hoạch khiến thay đổi chiến thuật diễn ra tức thì.",
-    "title": "Dùng băng ghế dự bị như vũ khí chiến thuật"
-   },
-   {
-    "detail": "Tempo là điều chỉnh bậc thầy: làm chậm trận đấu bằng các bài half-court và chạm bóng ở post khi đội đang rối; tăng tốc bằng pressure toàn sân và tấn công sớm khi cần một chuỗi điểm. Hãy quyết định tempo của bạn — đừng để đối thủ quyết định thay bạn.",
-    "title": "Quản lý tempo một cách chủ động"
-   },
-   {
-    "detail": "Một số chuỗi điểm chỉ là bóng rổ — ném trống không vào, một quả may mắn. Đốt timeout hay đổi một hàng thủ đang tốt giữa lúc biến động bình thường dạy cầu thủ hoảng loạn. Kỷ luật giữ vững cũng là một điều chỉnh.",
-    "title": "Biết khi nào không làm gì cả"
-   }
+    {
+      "detail": "One made three is noise; three straight possessions of the same action beating you is signal. Before adjusting, ask: has this happened three times? If yes, it's a pattern — act. If no, let your players play through it.",
+      "title": "Separate signal from noise"
+    },
+    {
+      "detail": "If their point guard is destroying your drop coverage, the fix might be switching the screen, icing it, or changing the matchup — not yelling \"guard him!\" Diagnose the coverage failure first, then choose the cheapest effective counter.",
+      "title": "Attack the root cause, not the symptom"
+    },
+    {
+      "detail": "Stacking three adjustments in one timeout leaves players thinking instead of playing. Make the single highest-leverage change, tell the team exactly what it is, and give it three to five possessions to work before judging it.",
+      "title": "Change one thing at a time"
+    },
+    {
+      "detail": "Adjustments aren't only X's and O's — a defensive specialist for their hot scorer, a bigger lineup against their small-ball run, fresh legs to change tempo. Planned substitution patterns make tactical changes instant.",
+      "title": "Use your bench as a tactical weapon"
+    },
+    {
+      "detail": "Tempo is the master adjustment: slow the game with half-court sets and deep post touches when you're rattled; speed it up with full-court pressure and early offense when you need a run. Decide your tempo — don't let the opponent decide it for you.",
+      "title": "Manage tempo deliberately"
+    },
+    {
+      "detail": "Some runs are just basketball — missed open shots, a lucky bank. Burning a timeout or changing a working defense during normal variance teaches players to panic. The discipline to hold steady is an adjustment too.",
+      "title": "Know when to do nothing"
+    }
   ],
+  "hub": "coaching",
+  "id": "in-game-adjustments",
+  "level": "advanced",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 6,
+  "related": [
+    "timeout-management",
+    "clock-management",
+    "scouting-opponents",
+    "end-of-game-decisions"
+  ],
+  "slug": "in-game-adjustments",
+  "subcategory": "coaching",
   "tags": [
-   "huấn luyện",
-   "điều chỉnh",
-   "chiến thuật",
-   "quản lý trận đấu",
-   "nâng cao"
+    "coaching",
+    "adjustments",
+    "tactics",
+    "game-management",
+    "advanced"
   ],
-  "title": "Điều chỉnh trong trận đấu",
+  "title": "In-Game Adjustments",
+  "vi": {
+    "coachingPoints": [
+      "Xem trận đấu, đừng xem bảng điểm — điểm số nói dối, mô thức thì không.",
+      "Chuẩn bị hai điều chỉnh 'phá kính' trước mỗi trận cho cầu thủ hay nhất và bài tủ của họ.",
+      "Nói điều chỉnh một lần, rõ ràng — rồi tin cầu thủ thực hiện.",
+      "Theo dõi cái gì đang hiệu quả trên clipboard: plus-minus theo đội hình, bài tủ của họ.",
+      "Điều chỉnh lúc bóng chết và giờ nghỉ giữa hiệp — đổi lúc bóng sống gây rối."
+    ],
+    "commonMistakes": [
+      "Can thiệp quá tay: đổi phòng thủ mỗi lần hội ý đến khi chẳng ai biết đang đánh kiểu gì.",
+      "Điều chỉnh theo pha bóng cuối cùng thay vì theo mô thức — đuổi theo bóng ma.",
+      "Giữ hết hội ý cho hai phút cuối trong khi trận đấu tuột ở hiệp ba.",
+      "Copy điều chỉnh của đối phương thay vì phản đòn — thành ra chơi theo trận của họ."
+    ],
+    "description": "Đọc trận đấu như ván cờ. Học cách nhận ra thứ đang đánh bại mình, quyết định đổi gì — và giữ nguyên gì — mà không can thiệp quá tay.",
+    "gameSituations": [
+      "Ngôi sao của họ ghi 12 điểm liên tiếp: đổi cặp đấu, gửi thêm người, hoặc đổi cách phòng thủ — chọn một.",
+      "Tấn công bế tắc: đơn giản hóa về bài tủ, đưa bóng cho người quyết định tốt nhất.",
+      "Đối phương đánh nhỏ: trừng phạt bằng bóng vào post và rebound tấn công trước khi đổi nhỏ theo.",
+      "Cuối trận đang dẫn: chuyển sang bài câu giờ và phòng thủ tránh phạm lỗi — bảo vệ chiến thắng."
+    ],
+    "howTo": [
+      {
+        "detail": "Một quả ba vào rổ là nhiễu; ba lần cầm bóng liên tiếp cùng một tình huống đánh bại mình là tín hiệu. Trước khi điều chỉnh, hỏi: chuyện này xảy ra ba lần chưa? Rồi thì đó là mô thức — hành động. Chưa thì để cầu thủ tự vượt qua.",
+        "title": "Tách tín hiệu khỏi nhiễu"
+      },
+      {
+        "detail": "Hậu vệ dẫn bóng của họ đang phá nát drop coverage của mình, cách sửa có thể là switch screen, ice nó, hoặc đổi cặp đấu — chứ không phải hét 'kèm nó vào!'. Chẩn đoán lỗi phòng thủ trước, rồi chọn đòn phản rẻ mà hiệu quả nhất.",
+        "title": "Đánh vào gốc rễ, đừng đánh triệu chứng"
+      },
+      {
+        "detail": "Nhồi ba điều chỉnh trong một lần hội ý khiến cầu thủ phải nghĩ thay vì chơi. Thực hiện thay đổi có đòn bẩy cao nhất, nói rõ cho đội đó là gì, và cho nó ba đến năm lần cầm bóng để chứng minh trước khi phán xét.",
+        "title": "Mỗi lần đổi một thứ"
+      },
+      {
+        "detail": "Điều chỉnh không chỉ là X's và O's — chuyên gia phòng thủ cho tay đang nóng của họ, đội hình to hơn trước small-ball của họ, chân tươi để đổi nhịp độ. Mẫu thay người có kế hoạch biến thay đổi chiến thuật thành tức thì.",
+        "title": "Dùng ghế dự bị như vũ khí chiến thuật"
+      },
+      {
+        "detail": "Nhịp độ là điều chỉnh chủ: chậm trận bằng bài half-court và bóng vào post sâu khi đội đang rối; tăng tốc bằng press toàn sân và tấn công sớm khi cần chuỗi ghi điểm. Tự quyết nhịp độ — đừng để đối phương quyết hộ.",
+        "title": "Chủ động điều khiển nhịp độ"
+      },
+      {
+        "detail": "Có những chuỗi điểm chỉ là bóng rổ — ném trống hỏng, cú ném may mắn chạm bảng. Đốt hội ý hay đổi hàng thủ đang tốt giữa lúc biến động bình thường dạy cầu thủ hoảng loạn. Kỷ luật giữ vững cũng là một điều chỉnh.",
+        "title": "Biết khi nào không làm gì"
+      }
+    ],
+    "tags": [
+      "huấn luyện",
+      "điều chỉnh",
+      "chiến thuật",
+      "quản lý trận đấu"
+    ],
+    "title": "Điều chỉnh trong trận đấu",
+    "whatIsIt": [
+      "Điều chỉnh trong trận là những quyết định tức thời tách HLV giỏi khỏi HLV xuất sắc: đổi cách phòng thủ, đổi cặp đấu, đổi nhịp độ, hay thiết kế lại một tình huống giữa trận. Kỹ năng không nằm ở việc biết mọi đòn phản — mà ở việc nhận ra vấn đề nào thực sự đang quyết định trận đấu.",
+      "Bài này dành cho HLV đã có hệ thống và muốn vận hành nó trực tiếp. Học một khung quyết định: chẩn đoán mô thức, cân nhắc cái giá của thay đổi, chốt một điều chỉnh mỗi lần, đánh giá nhanh. HLV điều chỉnh trong trận giỏi nhất đổi ít hơn tưởng tượng — nhưng đổi đúng thứ cần đổi."
+    ],
+    "whyItMatters": [
+      "Đối phương trinh sát và cố tình đánh vào điểm yếu. HLV không điều chỉnh được sẽ bị bắt bài, mà đội bị bắt bài thua những trận cân não. Nhưng đổi xoành xoạch cũng chết người không kém — làm chính cầu thủ mình rối. Làm chủ điều chỉnh trong trận nghĩa là đội luôn có câu trả lời, được đưa ra bình tĩnh, đúng lúc."
+    ]
+  },
   "whatIsIt": [
-   "Điều chỉnh trong trận là những quyết định thời gian thực phân biệt huấn luyện viên giỏi với huấn luyện viên xuất sắc: đổi cách phòng ngự, chuyển matchup, thay đổi tempo, hay thiết kế lại một pha tấn công giữa trận. Kỹ năng không phải biết mọi cách đối phó — mà là nhận ra vấn đề nào thực sự đang quyết định trận đấu.",
-   "Bài viết này dành cho huấn luyện viên đã có hệ thống và muốn vận hành nó trực tiếp. Bạn sẽ học một khung quyết định: chẩn đoán mẫu hình, cân nhắc chi phí của thay đổi, cam kết một điều chỉnh mỗi lần, và đánh giá nhanh. Huấn luyện viên giỏi nhất thay đổi ít hơn bạn nghĩ — nhưng thay đúng thứ cần thay."
+    "In-game adjustments are the real-time decisions that separate good coaches from great ones: changing a coverage, shifting a matchup, altering tempo, or redesigning an action mid-game. The skill is not knowing every counter — it is recognizing which problem is actually deciding the game.",
+    "This article is for coaches who already have a system and want to manage it live. You will learn a decision framework: diagnose the pattern, weigh the cost of change, commit to one adjustment at a time, and evaluate quickly. The best in-game coaches change less than you think — but change exactly the right thing."
   ],
   "whyItMatters": [
-   "Đối thủ scouting bạn và cố tình tấn công điểm yếu của bạn. Huấn luyện viên không điều chỉnh được sẽ trở nên dễ đoán, và đội dễ đoán thua những trận sát nút. Nhưng thay đổi liên tục bừa bãi cũng nguy hiểm không kém — nó làm chính cầu thủ của bạn rối. Làm chủ điều chỉnh trong trận nghĩa là đội bạn luôn có câu trả lời, được đưa ra bình tĩnh, đúng thời điểm."
+    "Opponents scout you and attack your weaknesses on purpose. A coach who cannot adjust becomes predictable, and predictable teams lose close games. But random constant changes are just as deadly — they confuse your own players. Mastering in-game adjustments means your team always has an answer, delivered calmly, at the right moment."
   ]
- },
- "whatIsIt": [
-  "In-game adjustments are the real-time decisions that separate good coaches from great ones: changing a coverage, shifting a matchup, altering tempo, or redesigning an action mid-game. The skill is not knowing every counter — it is recognizing which problem is actually deciding the game.",
-  "This article is for coaches who already have a system and want to manage it live. You will learn a decision framework: diagnose the pattern, weigh the cost of change, commit to one adjustment at a time, and evaluate quickly. The best in-game coaches change less than you think — but change exactly the right thing."
- ],
- "whyItMatters": [
-  "Opponents scout you and attack your weaknesses on purpose. A coach who cannot adjust becomes predictable, and predictable teams lose close games. But random constant changes are just as deadly — they confuse your own players. Mastering in-game adjustments means your team always has an answer, delivered calmly, at the right moment."
- ]
 }

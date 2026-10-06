@@ -6,37 +6,70 @@
   "level": "intermediate",
   "audience": "Point guards and shooting guards",
   "steps": [
-    {"title": "Level 1 — Change of Pace", "description": "Learn to control tempo with your dribble — the hesitation and pace changes that create separation.", "articles": ["change-of-pace", "hesitation"]},
-    {"title": "Level 2 — Beat Your Man", "description": "Add the crossover to your move package and learn when to attack versus when to probe.", "articles": ["crossover"]},
-    {"title": "Level 3 — Run the Pick & Roll", "description": "Become a ball-screen threat: read the two defenders and make the right decision every time.", "articles": ["ball-handler-reads", "pocket-pass-pnr"]},
-    {"title": "Level 4 — Score in the Midrange", "description": "Master the pull-up jumper and the floater so defenses can't just sit on your drive.", "articles": ["pull-up-jumper", "runner-floater"]},
-    {"title": "Level 5 — See the Whole Floor", "description": "Develop advanced vision: read help defenders, anticipate rotations, and make plays before they happen.", "articles": ["reading-help-defense"]}
+    {
+      "title": "Level 1 — Change of Pace",
+      "description": "Learn to control tempo with your dribble — the hesitation and pace changes that create separation.",
+      "articles": [
+        "change-of-pace",
+        "hesitation"
+      ]
+    },
+    {
+      "title": "Level 2 — Beat Your Man",
+      "description": "Add the crossover to your move package and learn when to attack versus when to probe.",
+      "articles": [
+        "crossover"
+      ]
+    },
+    {
+      "title": "Level 3 — Run the Pick & Roll",
+      "description": "Become a ball-screen threat: read the two defenders and make the right decision every time.",
+      "articles": [
+        "ball-handler-reads",
+        "pocket-pass-pnr"
+      ]
+    },
+    {
+      "title": "Level 4 — Score in the Midrange",
+      "description": "Master the pull-up jumper and the floater so defenses can't just sit on your drive.",
+      "articles": [
+        "pull-up-jumper",
+        "runner-floater"
+      ]
+    },
+    {
+      "title": "Level 5 — See the Whole Floor",
+      "description": "Develop advanced vision: read help defenders, anticipate rotations, and make plays before they happen.",
+      "articles": [
+        "reading-help-defense"
+      ]
+    }
   ],
   "dateUpdated": "2026-10-06",
-  "vi":   {
-    "title": "Phát Triển Hậu Vệ",
-    "description": "Phát triển bộ kỹ năng hậu vệ hoàn chỉnh: rê bóng đẳng cấp, kiến tạo pick-and-roll, ghi điểm pull-up và đọc hàng thủ.",
+  "vi": {
+    "title": "Phát triển hậu vệ",
+    "description": "Xây dựng bộ kỹ năng hậu vệ toàn diện: xử lý bóng đẳng cấp, kiến tạo từ pick and roll, ghi điểm bằng pull-up và đọc phòng thủ.",
     "audience": "Hậu vệ dẫn bóng và hậu vệ ghi điểm",
     "steps": [
       {
-        "title": "Cấp 1 — Đổi Nhịp",
-        "description": "Học cách kiểm soát tempo bằng rê bóng — những pha hesitation và đổi nhịp tạo khoảng trống."
+        "title": "Cấp 1 — Đổi nhịp",
+        "description": "Kiểm soát nhịp độ bằng trái bóng trong tay. Dùng hesitation và đổi tốc độ để tạo khoảng trống."
       },
       {
-        "title": "Cấp 2 — Qua Mặt Đối Thủ",
-        "description": "Thêm crossover vào bộ động tác và học khi nào tấn công, khi nào thăm dò."
+        "title": "Cấp 2 — Qua mặt đối thủ",
+        "description": "Bổ sung crossover vào bộ động tác. Học lúc nào đánh thẳng, lúc nào thăm dò rồi mới đánh."
       },
       {
-        "title": "Cấp 3 — Chạy Pick & Roll",
-        "description": "Trở thành mối đe dọa ball screen: đọc 2 hậu vệ và ra quyết định đúng mọi lần."
+        "title": "Cấp 3 — Điều hành pick and roll",
+        "description": "Biến mình thành mối đe dọa từ ball screen. Đọc hai hậu vệ, ra quyết định đúng mỗi lần."
       },
       {
-        "title": "Cấp 4 — Ghi Điểm Midrange",
-        "description": "Thành thạo pull-up jumper và floater để hàng thủ không thể chỉ ngồi chờ pha đột phá của bạn."
+        "title": "Cấp 4 — Ghi điểm tầm trung",
+        "description": "Chốt pull-up jumper và floater. Khi có cú ném tầm trung, đối phương không dám lùi sâu bít đường đột phá."
       },
       {
-        "title": "Cấp 5 — Nhìn Cả Sân",
-        "description": "Phát triển tầm nhìn nâng cao: đọc hậu vệ help, đoán trước rotation và kiến tạo trước khi tình huống xảy ra."
+        "title": "Cấp 5 — Nhìn toàn sân",
+        "description": "Nâng cấp nhãn quan chiến thuật. Đọc phòng thủ hỗ trợ, đoán trước rotation, kiến tạo trước cả khi tình huống hình thành."
       }
     ]
   }

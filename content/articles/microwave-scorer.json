@@ -1,56 +1,8 @@
 {
-  "id": "microwave-scorer",
-  "slug": "microwave-scorer",
-  "title": "The Microwave Scorer",
-  "description": "The instant-offense bench guard who changes games in four-minute bursts — catching fire from three, attacking in transition, and giving the starters rest without the offense stalling.",
-  "hub": "positions",
-  "subcategory": "modern-roles",
-  "level": "intermediate",
-  "positions": [
-    "PG",
-    "SG"
-  ],
   "ages": [
     "U16",
     "U18",
     "Adult"
-  ],
-  "readTime": 5,
-  "tags": [
-    "guard",
-    "bench scoring",
-    "instant offense",
-    "shot selection",
-    "modern-roles"
-  ],
-  "whatIsIt": [
-    "The microwave scorer is the player coaches call when the offense goes cold: a guard who can get 10 points in four minutes. This role lives on confidence and preparation — you enter the game shooting, hunting early-clock threes, pushing in transition, and bending the defense before it sets.",
-    "Microwaves do not run the offense; they detonate it. The best ones pair their scoring with just enough playmaking and effort on defense to stay on the floor when the shot is not falling."
-  ],
-  "whyItMatters": [
-    "Starters cannot play 40 minutes, and most benches bleed points. A microwave scorer flips non-star minutes from a liability into a weapon — forcing the opponent to game-plan for your bench and letting your stars rest with the lead intact. At every level, from high school to the pros, teams with bench scoring win more close games."
-  ],
-  "howTo": [
-    {
-      "title": "Stay warm before you check in",
-      "detail": "Your first touch might be a shot, so arrive ready: get up jumpers in warmups, visualize your spots, and study the defense from the bench. Know the scouting report — which defender closes out short, who cannot move laterally. Preparation is what makes instant offense possible."
-    },
-    {
-      "title": "Hunt efficient shots first",
-      "detail": "Open the shift with your highest-percentage looks: transition threes, catch-and-shoot off penetration, free throws from aggressive drives. Get one easy bucket before the heat check — makes build rhythm, and rhythm builds makes. The shot diet comes first; the fireworks come second."
-    },
-    {
-      "title": "Manage the heat check",
-      "detail": "Two makes in a row earns you one heat check — a tough, early-clock look. Miss it and go back to the diet immediately; make it and the defense panics. The discipline to stop at one separates a weapon from a chucker. Your coach's trust is the real currency."
-    },
-    {
-      "title": "Push the pace every possession",
-      "detail": "Speed is your superpower: advance the ball with the pass, attack before the defense sets, and turn defensive rebounds into instant offense. A microwave who walks the ball up is just a small guard. Play fast, but play under control — pace without turnovers."
-    },
-    {
-      "title": "Earn minutes with defense and effort",
-      "detail": "You stay on the floor by competing: fight through screens, take the charge, dive for the loose ball. Coaches bench one-dimensional scorers the moment shots stop falling — they keep the ones who defend. Five minutes of all-out effort buys you the next five."
-    }
   ],
   "coachingPoints": [
     "First shot is a good shot — set the tone with your best look.",
@@ -65,12 +17,44 @@
     "Ignoring defense and getting targeted in every switch.",
     "Forcing shots against a set defense instead of moving the ball and re-attacking."
   ],
+  "dateUpdated": "2026-10-06",
+  "description": "The instant-offense bench guard who changes games in four-minute bursts — catching fire from three, attacking in transition, and giving the starters rest without the offense stalling.",
   "gameSituations": [
     "Checking in cold and hitting a transition three on your first touch.",
     "Scoring eight straight during a second-quarter run that flips the lead.",
     "Drawing two defenders on a drive and kicking to the corner for the dagger three.",
     "Taking a charge in the fourth quarter to earn the closing minutes."
   ],
+  "howTo": [
+    {
+      "detail": "Your first touch might be a shot, so arrive ready: get up jumpers in warmups, visualize your spots, and study the defense from the bench. Know the scouting report — which defender closes out short, who cannot move laterally. Preparation is what makes instant offense possible.",
+      "title": "Stay warm before you check in"
+    },
+    {
+      "detail": "Open the shift with your highest-percentage looks: transition threes, catch-and-shoot off penetration, free throws from aggressive drives. Get one easy bucket before the heat check — makes build rhythm, and rhythm builds makes. The shot diet comes first; the fireworks come second.",
+      "title": "Hunt efficient shots first"
+    },
+    {
+      "detail": "Two makes in a row earns you one heat check — a tough, early-clock look. Miss it and go back to the diet immediately; make it and the defense panics. The discipline to stop at one separates a weapon from a chucker. Your coach's trust is the real currency.",
+      "title": "Manage the heat check"
+    },
+    {
+      "detail": "Speed is your superpower: advance the ball with the pass, attack before the defense sets, and turn defensive rebounds into instant offense. A microwave who walks the ball up is just a small guard. Play fast, but play under control — pace without turnovers.",
+      "title": "Push the pace every possession"
+    },
+    {
+      "detail": "You stay on the floor by competing: fight through screens, take the charge, dive for the loose ball. Coaches bench one-dimensional scorers the moment shots stop falling — they keep the ones who defend. Five minutes of all-out effort buys you the next five.",
+      "title": "Earn minutes with defense and effort"
+    }
+  ],
+  "hub": "positions",
+  "id": "microwave-scorer",
+  "level": "intermediate",
+  "positions": [
+    "PG",
+    "SG"
+  ],
+  "readTime": 5,
   "related": [
     "combo-guard",
     "shooting-guard",
@@ -78,64 +62,79 @@
     "catch-and-shoot",
     "developing-bench-players"
   ],
-  "dateUpdated": "2026-10-06",
+  "slug": "microwave-scorer",
+  "subcategory": "modern-roles",
+  "tags": [
+    "guard",
+    "bench scoring",
+    "instant offense",
+    "shot selection",
+    "modern-roles"
+  ],
+  "title": "The Microwave Scorer",
   "vi": {
-    "title": "Microwave Scorer – Tay Ném Dự Bị Lò Vi Sóng",
-    "description": "Hậu vệ dự bị chuyên ghi điểm chớp nhoáng, thay đổi cục diện trong vài phút — bắt lửa từ vạch ba, tấn công trong transition, cho các trụ cột nghỉ mà hàng công không chững lại.",
-    "whatIsIt": [
-      "Microwave scorer là cầu thủ mà HLV gọi vào khi hàng công nguội lạnh: một hậu vệ có thể ghi 10 điểm trong bốn phút. Vai trò này sống bằng sự tự tin và chuẩn bị — vào sân là ném, săn những quả ba sớm đồng hồ, đẩy nhanh transition, và bẻ gãy hàng thủ trước khi nó kịp set.",
-      "Microwave không điều hành tấn công; họ kích nổ nó. Những người giỏi nhất kết hợp khả năng ghi điểm với vừa đủ kiến tạo và nỗ lực phòng ngự để ở lại trên sân cả khi ném không vào."
+    "coachingPoints": [
+      "Cú ném đầu là cú ném tốt — đặt tông bằng cú nhìn hay nhất.",
+      "Mỗi đợt nóng một cú heat check, rồi quay lại chế độ ăn kiêng.",
+      "Chạy nước rút cả hai chiều sân; phút thi đấu phụ thuộc vào nhịp độ.",
+      "Ăn mừng rổ của đồng đội — năng lượng lây lan từ ghế dự bị.",
+      "Hỏng hai cú liên tiếp? Tạo dấu ấn ở pha bóng tiếp theo bằng phòng thủ."
     ],
-    "whyItMatters": [
-      "Trụ cột không thể đá 40 phút, và hầu hết băng ghế dự bị đều mất điểm. Microwave scorer biến những phút không có ngôi sao từ điểm yếu thành vũ khí — buộc đối phương phải lên kế hoạch cho cả dự bị của bạn, và để ngôi sao nghỉ ngơi mà vẫn giữ được lợi thế. Ở mọi cấp độ, từ học sinh đến chuyên nghiệp, đội có điểm số từ dự bị thắng nhiều trận cân não hơn."
+    "commonMistakes": [
+      "Ba cú heat check liên tiếp, ném bay cả trận của đội.",
+      "Đứng ở góc chờ bóng — microwave đi săn, không chờ.",
+      "Bỏ phòng thủ, bị nhắm vào mọi pha switch.",
+      "Cố ném trước hàng thủ đã đứng vị trí thay vì di chuyển bóng rồi tấn công lại."
+    ],
+    "description": "Hậu vệ dự bị ghi điểm tức thì, xoay chuyển trận đấu trong từng đợt bốn phút — bắt lửa từ vạch 3 điểm, tấn công trong chuyển trạng thái, cho đội hình chính nghỉ mà hàng công không chững lại.",
+    "gameSituations": [
+      "Vào sân lạnh, ném 3 điểm chuyển trạng thái ngay lần chạm đầu.",
+      "Ghi tám điểm liên tiếp trong đợt bùng nổ hiệp hai, lật ngược cách biệt.",
+      "Kéo hai cầu thủ phòng thủ trong pha đột phá, chuyền ra góc cho cú ném kết liễu.",
+      "Lấy charge ở hiệp bốn để kiếm phút chốt trận."
     ],
     "howTo": [
       {
-        "title": "Giữ nóng trước khi vào sân",
-        "detail": "Lần chạm bóng đầu tiên của bạn có thể là một cú ném, nên hãy vào sân trong trạng thái sẵn sàng: ném khởi động, hình dung các vị trí của mình, quan sát hàng thủ từ ghế dự bị. Nắm scouting report — hậu vệ nào closeout ngắn, ai xoay trở kém. Chuẩn bị là thứ khiến tấn công chớp nhoáng trở nên khả thi."
+        "detail": "Lần chạm bóng đầu có thể là cú ném, nên vào sân trong trạng thái sẵn sàng: ném khởi động, hình dung vị trí của mình, nghiên cứu hàng thủ từ ghế dự bị. Thuộc báo cáo trinh sát — ai closeout ngắn, ai không di chuyển ngang được. Chuẩn bị là thứ làm nên ghi điểm tức thì.",
+        "title": "Giữ nóng trước khi vào sân"
       },
       {
-        "title": "Săn những cú ném hiệu quả trước",
-        "detail": "Mở đầu bằng những cú ném có tỷ lệ cao nhất: ba điểm transition, catch-and-shoot sau đột phá, ném phạt từ những pha đột phá quyết liệt. Có một rổ dễ trước khi heat check — ghi điểm tạo nhịp, nhịp tạo thêm điểm. Chế độ ném (shot diet) trước; pháo hoa sau."
+        "detail": "Mở đầu bằng những cú nhìn tỷ lệ cao nhất: ném 3 điểm chuyển trạng thái, bắt bóng ném ngay sau pha đột phá, ném phạt từ những pha đột phá quyết liệt. Có một rổ dễ trước khi thử cú 'heat check' — cú vào tạo nhịp, nhịp tạo thêm cú vào. Chế độ ném ăn kiêng trước; pháo hoa sau.",
+        "title": "Săn cú ném hiệu quả trước"
       },
       {
-        "title": "Quản lý cú heat check",
-        "detail": "Hai quả vào liên tiếp cho bạn một cú heat check — một cú ném khó, sớm đồng hồ. Trượt thì quay lại chế độ ném ngay; vào thì hàng thủ hoảng loạn. Kỷ luật dừng ở một cú là thứ phân biệt vũ khí với máy ném bừa. Niềm tin của HLV mới là đồng tiền thật."
+        "detail": "Hai cú vào liên tiếp cho phép một cú heat check — cú ném khó, đầu đồng hồ. Hỏng thì quay lại chế độ ăn kiêng ngay; vào thì hàng thủ hoảng. Kỷ luật dừng ở một cú tách vũ khí khỏi kẻ ném bừa. Niềm tin của HLV mới là đồng tiền thật.",
+        "title": "Quản lý cú heat check"
       },
       {
-        "title": "Đẩy tốc độ mỗi pha bóng",
-        "detail": "Tốc độ là siêu năng lực của bạn: đưa bóng lên bằng đường chuyền, tấn công trước khi hàng thủ set, biến rebound phòng ngự thành điểm số ngay lập tức. Microwave mà dắt bóng thong thả lên sân thì chỉ là hậu vệ nhỏ con. Chơi nhanh nhưng kiểm soát — tốc độ mà không turnover."
+        "detail": "Tốc độ là siêu năng lực: đưa bóng lên bằng đường chuyền, tấn công trước khi hàng thủ đứng vị trí, biến rebound phòng thủ thành ghi điểm tức thì. Microwave mà đi bộ đưa bóng lên chỉ là hậu vệ nhỏ con. Chơi nhanh nhưng trong kiểm soát — nhanh mà không để mất bóng.",
+        "title": "Đẩy nhanh nhịp độ mỗi lần cầm bóng"
       },
       {
-        "title": "Kiếm phút thi đấu bằng phòng ngự và nỗ lực",
-        "detail": "Bạn ở lại trên sân bằng cách chiến đấu: vượt qua screen, đứng lấy charge, lao vào bóng lỏng. HLV rút những tay ghi điểm một chiều ngay khi ném không vào — họ giữ lại những người chịu thủ. Năm phút nỗ lực hết mình mua cho bạn năm phút tiếp theo."
+        "detail": "Ở lại trên sân bằng cách cạnh tranh: luồn qua screen, lấy charge, lao vào bóng lỏng. HLV cho cầu thủ ghi điểm một chiều ngồi ghế ngay khi cú ném tắt — họ giữ những người chịu phòng thủ. Năm phút nỗ lực hết mình mua được năm phút tiếp theo.",
+        "title": "Kiếm phút bằng phòng thủ và nỗ lực"
       }
-    ],
-    "coachingPoints": [
-      "Cú ném đầu tiên phải là cú ném tốt — đặt tông bằng pha bóng hay nhất của bạn.",
-      "Một heat check mỗi lượt vào sân, rồi quay lại chế độ ném.",
-      "Chạy hết tốc cả hai chiều sân; phút thi đấu của bạn phụ thuộc vào nhịp độ.",
-      "Ăn mừng khi đồng đội ghi điểm — năng lượng từ ghế dự bị rất dễ lan.",
-      "Trượt hai quả liên tiếp? Tạo ảnh hưởng ở pha bóng sau bằng phòng ngự."
-    ],
-    "commonMistakes": [
-      "Ném ba heat check liên tiếp và ném bay cả đội khỏi trận đấu.",
-      "Đứng góc sân chờ đợi — microwave đi săn, không chờ.",
-      "Bỏ bê phòng ngự và bị nhắm vào mọi pha switch.",
-      "Cố ném trước hàng thủ đã set thay vì luân chuyển bóng rồi tấn công lại."
-    ],
-    "gameSituations": [
-      "Vào sân từ ghế lạnh và ném vào quả ba transition ngay lần chạm bóng đầu.",
-      "Ghi tám điểm liên tiếp trong hiệp 2, lật ngược thế trận.",
-      "Hút hai hậu vệ khi đột phá rồi chuyền ra góc cho quả ba kết liễu.",
-      "Đứng lấy charge ở hiệp 4 để xứng đáng với những phút cuối trận."
     ],
     "tags": [
       "hậu vệ",
-      "ghi điểm dự bị",
-      "tấn công chớp nhoáng",
-      "chọn cú ném",
-      "vai trò hiện đại"
+      "ghi điểm từ ghế dự bị",
+      "ghi điểm tức thì",
+      "lựa chọn cú ném"
+    ],
+    "title": "Tay ghi điểm microwave",
+    "whatIsIt": [
+      "Microwave scorer là cầu thủ HLV gọi khi hàng công nguội lạnh: một hậu vệ có thể ghi 10 điểm trong bốn phút. Vai trò này sống bằng sự tự tin và chuẩn bị — vào sân là ném, săn ném 3 điểm đầu đồng hồ, đẩy nhanh trong chuyển trạng thái, bẻ cong hàng thủ trước khi nó kịp đứng vị trí.",
+      "Microwave không vận hành hàng công; họ cho nó nổ tung. Những người giỏi nhất kết hợp ghi điểm với vừa đủ kiến tạo và nỗ lực phòng thủ để ở lại trên sân khi cú ném không vào."
+    ],
+    "whyItMatters": [
+      "Đội hình chính không thể đá 40 phút, mà hầu hết ghế dự bị đều rò rỉ điểm. Microwave scorer biến những phút không có ngôi sao từ gánh nặng thành vũ khí — ép đối phương phải lên kế hoạch cho cả ghế dự bị, để ngôi sao nghỉ ngơi mà vẫn giữ được cách biệt. Ở mọi cấp độ, từ trung học tới chuyên nghiệp, đội có điểm từ ghế dự bị thắng nhiều trận cân não hơn."
     ]
-  }
+  },
+  "whatIsIt": [
+    "The microwave scorer is the player coaches call when the offense goes cold: a guard who can get 10 points in four minutes. This role lives on confidence and preparation — you enter the game shooting, hunting early-clock threes, pushing in transition, and bending the defense before it sets.",
+    "Microwaves do not run the offense; they detonate it. The best ones pair their scoring with just enough playmaking and effort on defense to stay on the floor when the shot is not falling."
+  ],
+  "whyItMatters": [
+    "Starters cannot play 40 minutes, and most benches bleed points. A microwave scorer flips non-star minutes from a liability into a weapon — forcing the opponent to game-plan for your bench and letting your stars rest with the lead intact. At every level, from high school to the pros, teams with bench scoring win more close games."
+  ]
 }

@@ -5,16 +5,52 @@
   "description": "A complete guard session: ball handling, change of pace, pick-and-roll reads, pull-up shooting, and finishing — built for lead guards and wings.",
   "level": "intermediate",
   "durationMin": 30,
-  "focus": ["Ball Handling", "Shooting", "Finishing", "Pick & Roll"],
-  "equipment": ["Basketball", "Cones"],
+  "focus": [
+    "Ball Handling",
+    "Shooting",
+    "Finishing",
+    "Pick & Roll"
+  ],
+  "equipment": [
+    "Basketball",
+    "Cones"
+  ],
   "items": [
-    {"name": "Two-ball warm-up", "detail": "Simultaneous pound dribbles 30s, alternating 30s, one-high-one-low 30s each side. Eyes up.", "time": "3:00"},
-    {"name": "Cone move series", "detail": "4 cones, 10 feet apart: crossover, between-the-legs, behind-the-back, combo round — explode out of every move.", "time": "5:00"},
-    {"name": "Change-of-pace attacks", "detail": "Hesitation and go: slow-to-explosive drives from the wing to the rim, 5 each side. Sell the slow.", "time": "4:00"},
-    {"name": "Pick-and-roll reads", "detail": "Use a chair as the screener: come off the screen and make the read — shoot, pocket pass, or reject. 10 reps.", "time": "5:00"},
-    {"name": "Pull-up jumpers", "detail": "One-dribble and two-dribble pull-ups from the elbows and wings: 3 makes per spot.", "time": "5:00"},
-    {"name": "Finishing circuit", "detail": "Full-court drives: euro step, pro hop, reverse — 3 makes of each, full speed.", "time": "5:00"},
-    {"name": "Free-throw finish", "detail": "10 free throws with your routine to close. 8+ makes is the standard.", "time": "3:00"}
+    {
+      "name": "Two-ball warm-up",
+      "detail": "Simultaneous pound dribbles 30s, alternating 30s, one-high-one-low 30s each side. Eyes up.",
+      "time": "3:00"
+    },
+    {
+      "name": "Cone move series",
+      "detail": "4 cones, 10 feet apart: crossover, between-the-legs, behind-the-back, combo round — explode out of every move.",
+      "time": "5:00"
+    },
+    {
+      "name": "Change-of-pace attacks",
+      "detail": "Hesitation and go: slow-to-explosive drives from the wing to the rim, 5 each side. Sell the slow.",
+      "time": "4:00"
+    },
+    {
+      "name": "Pick-and-roll reads",
+      "detail": "Use a chair as the screener: come off the screen and make the read — shoot, pocket pass, or reject. 10 reps.",
+      "time": "5:00"
+    },
+    {
+      "name": "Pull-up jumpers",
+      "detail": "One-dribble and two-dribble pull-ups from the elbows and wings: 3 makes per spot.",
+      "time": "5:00"
+    },
+    {
+      "name": "Finishing circuit",
+      "detail": "Full-court drives: euro step, pro hop, reverse — 3 makes of each, full speed.",
+      "time": "5:00"
+    },
+    {
+      "name": "Free-throw finish",
+      "detail": "10 free throws with your routine to close. 8+ makes is the standard.",
+      "time": "3:00"
+    }
   ],
   "tips": [
     "Guards live on change of pace — every drive in this workout should have a clear slow-to-fast rhythm.",
@@ -23,11 +59,11 @@
     "Log your makes per block so next week's workout has a target to beat."
   ],
   "dateUpdated": "2026-10-06",
-  "vi":   {
-    "title": "Buổi Tập Hậu Vệ 30 Phút",
-    "description": "Buổi tập hậu vệ hoàn chỉnh: rê bóng, đổi nhịp, đọc pick-and-roll, pull-up và dứt điểm — dành cho hậu vệ dẫn bóng và wing.",
+  "vi": {
+    "title": "Giáo án hậu vệ 30 phút",
+    "description": "Giáo án hoàn chỉnh cho hậu vệ: dẫn bóng, đổi nhịp, đọc pick-and-roll, pull-up và dứt điểm — cho hậu vệ dẫn bóng và các vị trí cánh.",
     "focus": [
-      "Rê bóng",
+      "Dẫn bóng",
       "Ném rổ",
       "Dứt điểm",
       "Pick & Roll"
@@ -38,46 +74,46 @@
     ],
     "items": [
       {
-        "name": "Khởi động 2 bóng",
-        "detail": "Rê đập 2 bóng cùng lúc 30 giây, luân phiên 30 giây, một-cao-một-thấp 30 giây mỗi bên. Mắt nhìn lên.",
+        "name": "Khởi động hai bóng",
+        "detail": "Rê đập hai bóng cùng lúc 30 giây, rồi so le 30 giây, rồi một cao một thấp mỗi bên 30 giây. Mắt nhìn lên.",
         "time": "3:00"
       },
       {
-        "name": "Chuỗi động tác qua cọc",
-        "detail": "4 cọc cách nhau 10 feet (3m): crossover, between-the-legs, behind-the-back, vòng combo — bứt tốc sau mọi động tác.",
+        "name": "Chuỗi động tác qua cọc tiêu",
+        "detail": "4 cọc tiêu cách nhau 3m: crossover, xỏ háng, vòng sau lưng, rồi một vòng combo — bứt tốc mạnh ngay sau mỗi động tác.",
         "time": "5:00"
       },
       {
         "name": "Tấn công đổi nhịp",
-        "detail": "Hesitation rồi đi: đột phá chậm-rồi-bùng nổ từ wing ra rổ, mỗi bên 5 lần. Bán thật kỹ pha chậm.",
+        "detail": "Hesitation rồi đi: từ cánh đột phá theo nhịp chậm-rồi-bùng-nổ ra rổ, mỗi bên 5 lần. Diễn pha chậm cho thật.",
         "time": "4:00"
       },
       {
         "name": "Đọc pick-and-roll",
-        "detail": "Dùng ghế làm người screen: ra khỏi screen và đọc — ném, pocket pass hoặc reject. 10 lượt.",
+        "detail": "Dùng ghế làm người screen: thoát khỏi screen rồi đọc tình huống — ném, chuyền pocket pass, hoặc reject. 10 lượt.",
         "time": "5:00"
       },
       {
         "name": "Pull-up jumper",
-        "detail": "Pull-up một nhịp và hai nhịp từ elbow và wing: mỗi điểm vào 3 quả.",
+        "detail": "Pull-up một nhịp và hai nhịp từ vị trí elbow và cánh: mỗi điểm vào 3 quả.",
         "time": "5:00"
       },
       {
         "name": "Chuỗi dứt điểm",
-        "detail": "Đột phá hết sân: euro step, pro hop, reverse — mỗi kiểu vào 3 quả, tốc độ tối đa.",
+        "detail": "Đột phá hết sân: Euro step, pro hop, reverse — mỗi kiểu vào 3 quả, tốc độ tối đa.",
         "time": "5:00"
       },
       {
-        "name": "Chốt bằng ném phạt",
-        "detail": "10 quả phạt với nghi thức của bạn để kết thúc. Chuẩn là vào 8+.",
+        "name": "Chốt buổi bằng ném phạt",
+        "detail": "10 quả phạt với các bước quen thuộc để kết thúc. Chuẩn: vào từ 8 quả trở lên.",
         "time": "3:00"
       }
     ],
     "tips": [
-      "Hậu vệ sống nhờ đổi nhịp — mọi pha đột phá trong buổi này phải có nhịp chậm-rồi-nhanh rõ ràng.",
-      "Đối xử với screen bằng ghế nghiêm túc: dụ hậu vệ, dùng screen, rồi đọc.",
-      "Kết thúc mọi khối ném bằng ném phạt để rèn sự tập trung khi mệt.",
-      "Ghi số lần vào mỗi khối để buổi tuần sau có mục tiêu phá."
+      "Hậu vệ sống bằng đổi nhịp — mọi pha đột phá trong buổi này phải có nhịp chậm-rồi-nhanh rõ ràng.",
+      "Xem screen bằng ghế như screen thật: dụ hậu vệ, dùng screen, rồi đọc tình huống.",
+      "Kết thúc mỗi khối ném bằng ném phạt để rèn sự tập trung khi đã mệt.",
+      "Ghi lại số quả vào của từng khối, tuần sau tập phải phá kỷ lục đó."
     ]
   }
 }

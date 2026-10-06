@@ -112,60 +112,60 @@
     "Players who skip triple threat — catching upright, or dribbling immediately — throw away options before the play begins. The stance buys you a half-second to read the defender, and that half-second is where offense is created: a shot fake becomes a drive, a drive becomes a kick-out pass. Master this position and every catch becomes dangerous."
   ],
   "vi": {
-    "coachingPoints": [
-      "Tập pha bắt-bóng-vào-triple-threat cho đến khi bước chân thành bản năng — bắt bóng, đưa lên cằm, cong gối.",
-      "Dùng khẩu lệnh 'bóng như buộc dây' cho pha xé qua: bóng phải di chuyển cùng cơ thể, không phải trước nó.",
-      "Đừng bao giờ để cầu thủ bắt bóng với chân đứng chết trong buổi tập; mọi pha bắt bóng đều phải đáp vào tư thế thể thao.",
-      "Quay phim cầu thủ từ bên hông để họ thấy cằm và gối của mình đã đúng chưa."
-    ],
-    "commonMistakes": [
-      "Bắt bóng trong tư thế đứng thẳng, điều này giết chết cả ba lựa chọn.",
-      "Giữ bóng ở thắt lưng, nơi hậu vệ có thể đập mất.",
-      "Để lộ ý đồ — nhìn chằm chằm vào chân hậu vệ thay vì đọc cả cơ thể họ.",
-      "Xé qua với bóng vung rộng, dễ bị cướp mất."
-    ],
-    "description": "Tư thế triple threat — ném, chuyền hoặc đột phá từ một vị trí thăng bằng — và cách dùng nó để tấn công.",
-    "gameSituations": [
-      "Bắt bóng ở cánh trước một hậu vệ kèm quá sát — xé qua và đột phá.",
-      "Bắt bóng khi có khoảng trống — bật thẳng lên ném mà không cần dẫn bóng.",
-      "Cuối đồng hồ — triple threat giữ mọi lựa chọn còn sống khi không còn thời gian cho một miếng đánh.",
-      "Khi đối đầu hậu vệ nhỏ hơn — xoay mặt lên và ném qua đầu họ hoặc đột phá qua."
-    ],
-    "howTo": [
-      {
-        "detail": "Bắt bóng với gối cong, chân rộng bằng vai, trọng tâm trên mũi bàn chân. Đáp vào tư thế này — đừng bao giờ bắt bóng trong tư thế thẳng đứng.",
-        "title": "Bắt bóng thấp và thăng bằng"
-      },
-      {
-        "detail": "Đưa bóng lên cằm hoặc má, khuỷu tay dang ra, bảo vệ nó khỏi các hậu vệ. Đây gọi là 'đưa bóng lên cằm' — từ đây bạn có thể ném, chuyền hoặc đột phá mà không cần cầm lại bóng.",
-        "title": "Đưa bóng lên cằm"
-      },
-      {
-        "detail": "Dọa ném trước tiên. Một pha giả ném nhanh hay thậm chí chỉ tư thế của một tay ném cũng buộc hậu vệ phải phản ứng — một hậu vệ phải tôn trọng cú ném của bạn thì không thể kèm pha đột phá của bạn.",
-        "title": "Dọa ném trước"
-      },
-      {
-        "detail": "Nếu hậu vệ closeout mạnh hoặc nghiêng về phía pha giả ném của bạn, hãy xé bóng qua thấp và sát qua hông họ rồi bứt qua họ trong một hoặc hai nhịp dẫn.",
-        "title": "Đọc và tấn công closeout"
-      },
-      {
-        "detail": "Nếu hậu vệ lùi sâu, hãy ném. Nếu họ kèm lệch một bên, hãy đột phá sang bên kia. Nếu sự hỗ trợ tới, hãy chuyền cho đồng đội đang trống. Nguyên tắc: lấy những gì hàng thủ cho bạn, theo thứ tự đó — ném, đột phá, chuyền.",
-        "title": "Lấy những gì hàng thủ cho"
-      }
-    ],
-    "tags": [
-      "triple threat",
-      "bước chân",
-      "cơ bản",
-      "tấn công"
-    ],
-    "title": "Tư thế Triple Threat",
-    "whatIsIt": [
-      "Triple threat là tư thế thăng bằng mà cầu thủ vào sau khi bắt bóng: gối cong, bóng được bảo vệ ở cằm, sẵn sàng làm một trong ba việc — ném, chuyền, hoặc dẫn bóng đột phá. Cái tên đến từ ba mối đe dọa đó, buộc hậu vệ phải kèm mọi thứ cùng lúc.",
-      "Đó là tư thế tấn công cá nhân quan trọng nhất trong bóng rổ. Mọi pha bắt bóng ở vòng ngoài đều nên đáp vào triple threat, vì một cầu thủ có thể ném, đột phá hoặc chuyền từ một tư thế gần như không thể bị kèm một-chọi-một."
-    ],
-    "whyItMatters": [
-      "Những cầu thủ bỏ qua triple threat — bắt bóng trong tư thế thẳng đứng, hoặc dẫn bóng ngay — vứt bỏ các lựa chọn trước khi pha bóng bắt đầu. Tư thế này mua cho bạn nửa giây để đọc hậu vệ, và nửa giây đó chính là nơi hàng công được tạo ra: một pha giả ném thành một pha đột phá, một pha đột phá thành một đường chuyền ra. Làm chủ tư thế này và mọi pha bắt bóng đều trở nên nguy hiểm."
-    ]
-  }
+  "title": "Tư thế triple threat",
+  "description": "Tư thế triple threat — ném, chuyền, hoặc đột phá từ một tư thế cân bằng — và cách dùng nó để tấn công.",
+  "whatIsIt": [
+   "Triple threat là tư thế cân bằng cầu thủ vào sau khi bắt bóng: gối gập, bóng giữ ở cằm, sẵn sàng làm một trong ba việc — ném, chuyền, hoặc dẫn bóng đột phá. Cái tên đến từ ba mối đe dọa đó, ép hậu vệ phải kèm mọi thứ cùng lúc.",
+   "Đây là tư thế tấn công cá nhân quan trọng nhất bóng rổ. Mọi lần bắt bóng ở vòng ngoài nên đáp xuống triple threat, vì cầu thủ vừa ném, vừa đột phá, vừa chuyền được từ một tư thế thì gần như không thể kèm một-chọi-một."
+  ],
+  "whyItMatters": [
+   "Cầu thủ bỏ qua triple threat — bắt bóng đứng thẳng, hoặc dẫn bóng ngay — vứt bỏ lựa chọn trước khi pha bóng bắt đầu. Tư thế mua cho cầu thủ nửa giây đọc hậu vệ, và nửa giây đó là nơi tấn công được tạo ra: động tác giả thành pha đột phá, pha đột phá thành đường chuyền kick-out. Làm chủ tư thế này, mọi lần bắt bóng đều nguy hiểm."
+  ],
+  "howTo": [
+   {
+    "title": "Bắt bóng thấp và cân bằng",
+    "detail": "Bắt bóng với gối gập, chân rộng bằng vai, trọng lượng dồn lên mũi bàn chân. Đáp xuống tư thế này — không bao giờ bắt bóng đứng thẳng đơ."
+   },
+   {
+    "title": "Đưa bóng lên cằm",
+    "detail": "Đưa bóng lên cằm hoặc má, khuỷu tay dang, bảo vệ bóng khỏi hậu vệ. Đây là “chinning the ball” — từ đây ném, chuyền, hoặc đột phá được mà không cần cầm lại bóng."
+   },
+   {
+    "title": "Dọa ném trước",
+    "detail": "Dọa cú ném trước tiên. Một động tác giả nhanh, hay thậm chí chỉ tư thế của tay ném, ép hậu vệ phản ứng — hậu vệ phải tôn trọng cú ném thì không kèm được pha đột phá."
+   },
+   {
+    "title": "Đọc và tấn công closeout",
+    "detail": "Nếu hậu vệ closeout mạnh hoặc nghiêng về phía động tác giả, xé bóng xuống thấp và gọn qua hông anh ta rồi bùng nổ vượt qua trong một đến hai nhịp dẫn."
+   },
+   {
+    "title": "Lấy những gì được cho",
+    "detail": "Hậu vệ lùi xa thì ném. Kèm lệch một bên thì đột phá bên còn lại. Cầu thủ hỗ trợ tới thì chuyền cho đồng đội trống. Quy tắc: lấy những gì hàng thủ cho, theo thứ tự — ném, đột phá, chuyền."
+   }
+  ],
+  "coachingPoints": [
+   "Tập bắt bóng vào triple threat đến khi bộ chân thành tự động — bắt, lên cằm, gập gối.",
+   "Dùng khẩu lệnh “bóng như dính vào dây” cho pha xé bóng: bóng phải đi cùng người, không đi trước người.",
+   "Không bao giờ để cầu thủ bắt bóng chân chưa sẵn trong buổi tập; mọi lần bắt bóng phải đáp xuống tư thế thể thao.",
+   "Quay video cầu thủ từ bên cạnh để họ tự thấy cằm và gối đã đúng chưa."
+  ],
+  "commonMistakes": [
+   "Bắt bóng đứng thẳng đơ, giết chết cả ba lựa chọn.",
+   "Giữ bóng ở ngang hông, nơi hậu vệ vỗ mất.",
+   "Lộ ý đồ — nhìn chằm chằm chân hậu vệ thay vì đọc cả người.",
+   "Xé bóng vung rộng, bị cướp mất."
+  ],
+  "gameSituations": [
+   "Bắt bóng ở cánh đấu hậu vệ kèm quá sát — xé bóng và đột phá.",
+   "Bắt bóng có khoảng trống — bật thẳng lên ném không cần dẫn.",
+   "Cuối đồng hồ — triple threat giữ mọi lựa chọn còn sống khi không còn thời gian chạy bài.",
+   "Đấu hậu vệ nhỏ hơn — face-up ném qua đầu hoặc vượt qua."
+  ],
+  "tags": [
+   "triple threat",
+   "bộ chân",
+   "kỹ năng cơ bản",
+   "tấn công"
+  ]
+ }
 }

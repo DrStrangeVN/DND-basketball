@@ -82,64 +82,64 @@
     "Screens and rebounds do not make highlight reels, but they win games. A power forward who screens with contact creates open shots every possession; one who rebounds ends opponent possessions and starts fast breaks. It is the ultimate winning position — the work is unglamorous, and the impact is enormous."
   ],
   "vi": {
-    "title": "Phát Triển Vị Trí Power Forward",
-    "description": "Phát triển power forward: làm tường (screen), roll và pop, bắt bóng bật bảng, phòng thủ trong và ném xa kiểu stretch-four.",
-    "whatIsIt": [
-      "Power forward — vị trí \"số 4\" — là động cơ khu vực trong của đội: dựng những bức tường chắn giải phóng đồng đội, roll vào rổ hoặc pop ra ném ba, bắt bóng bật bảng cả hai đầu sân và chốt phòng thủ hỗ trợ. Họ làm những việc nặng nhọc giúp công việc của mọi người khác trở nên dễ dàng hơn.",
-      "Vị trí \"số 4\" hiện đại đã tách thành hai phong cách: kiểu \"trâu\" truyền thống sống trong khu vực hình thang, và kiểu \"stretch four\" ném ba điểm kéo các big man đối phương ra xa rổ. Những power forward giỏi nhất pha trộn cả hai."
+    "coachingPoints": [
+      "Mở đầu mỗi buổi tập bằng kỹ thuật dựng screen — đó là kỹ năng đặc trưng của power forward",
+      "Đếm screen assist và box-out, đừng chỉ đếm điểm, để thưởng đúng cho công việc thật sự",
+      "Xây cú ném 3 điểm pick-and-pop trước khi tập roll; khả năng ném tạo ra khoảng trống cho roll",
+      "Tập chuyền short-roll: bắt bóng ở vạch ném phạt, tìm người ở góc trong một nhịp"
     ],
-    "whyItMatters": [
-      "Những pha chắn người và bắt bóng bật bảng không lên highlight, nhưng chúng thắng trận. Một power forward chắn có va chạm tạo ra cú ném trống mỗi lượt tấn công; một người bắt bóng bật bảng chấm dứt lượt tấn công của đối phương và mở fast break. Đây là vị trí thắng trận tuyệt đỉnh — công việc không hào nhoáng, nhưng tác động thì khổng lồ."
+    "commonMistakes": [
+      "Slip mọi screen thay vì tạo va chạm thật — không va chạm, không lợi thế",
+      "Đứng lì ở khu vực dưới rổ khi tấn công, giết chết giãn đội hình",
+      "Ham block mà không chịu đứng thấp contest thẳng đứng",
+      "Từ chối ném những cú 3 điểm trống, để hậu vệ lùi vào khu vực dưới rổ"
+    ],
+    "description": "Phát triển power forward: dựng screen, roll và pop, rebound, phòng thủ trong và ném xa kiểu stretch-four.",
+    "gameSituations": [
+      "Pick & roll — dựng screen, rồi roll mạnh hoặc pop ra vạch 3 điểm",
+      "Rebound tấn công — lao vào từ phía yếu để putback",
+      "Phòng ngự switch — kìm một guard ở vòng ngoài trong hai nhịp dẫn",
+      "Cuối trận — giữ rebound phòng ngự ấn định chiến thắng"
     ],
     "howTo": [
       {
-        "title": "Làm tường, roll và pop",
-        "detail": "Dựng tường chắn rộng, hợp lệ, đúng góc: chạy nhanh đến vị trí, dừng với chân rộng, tay che chắn, giữ một nhịp. Rồi roll mạnh vào rổ với tay sẵn sàng, hoặc pop ra khoảng trống nếu hậu vệ của bạn vào hỗ trợ."
+        "detail": "Dựng screen rộng, hợp lệ, đúng góc: lao tới vị trí, dừng với chân rộng, tay che chắn, giữ một nhịp. Rồi roll mạnh vào rổ với tay sẵn sàng, hoặc pop ra khoảng trống nếu hậu vệ của bạn vào hỗ trợ.",
+        "title": "Dựng screen, roll và pop"
       },
       {
-        "title": "Kéo giãn mặt sân",
-        "detail": "Trở thành mối đe dọa catch-and-shoot đáng tin cậy từ đỉnh vòng và hai cánh. Một power forward ném ba điểm trên 35% là một \"stretch four\" — hậu vệ của họ không thể vào hỗ trợ trong, giúp khu vực hình thang mở ra cho cả đội."
+        "detail": "Thành mối đe dọa bắt bóng ném ngay đáng tin cậy từ đỉnh vòng và hai cánh. Một power forward ném 3 điểm trên 35% là một “stretch four” — hậu vệ của họ không thể vào hỗ trợ trong, mở khu vực dưới rổ cho cả đội.",
+        "title": "Kéo giãn mặt sân"
       },
       {
-        "title": "Bắt mọi quả bật bảng",
-        "detail": "Làm chủ cả hai bảng rổ: dùng cẳng tay khóa người đối phương, đuổi theo bóng bằng hai tay và chuyền outlet nhanh. Bắt bóng bật bảng tấn công từ phía yếu tạo ra những điểm số dễ nhất trong bóng rổ."
+        "detail": "Làm chủ cả hai bảng rổ: dùng cẳng tay khóa người đối phương, đuổi theo bóng bằng hai tay, chuyền outlet nhanh. Rebound tấn công từ phía yếu tạo ra những điểm dễ nhất trong bóng rổ.",
+        "title": "Rebound mọi thứ"
       },
       {
-        "title": "Chốt phòng thủ trong",
-        "detail": "Ưu tiên bảo vệ rổ: là người thấp nhất trong xoay vòng, tag người roll, và contest thẳng đứng ở rổ. Rồi phát triển khả năng switch ra kèm cầu thủ nhỏ trong thời gian ngắn."
+        "detail": "Ưu tiên bảo vệ rổ: là người thấp nhất trong rotation, tag người roll, contest thẳng đứng ở rổ. Rồi phát triển khả năng switch ra kèm cầu thủ nhỏ trong thời gian ngắn.",
+        "title": "Chốt phòng thủ trong"
       },
       {
-        "title": "Kết thúc trong hiệu quả",
-        "detail": "Bắt bóng khi đang di chuyển, kết thúc bằng cả hai tay, dùng drop step, jump hook và up-and-under khi đối đầu 1-1. Giữ số lần dẫn bóng ở mức hai hoặc ít hơn."
+        "detail": "Bắt bóng khi đang di chuyển, kết thúc bằng cả hai tay, dùng drop step, jump hook và up-and-under khi đối đầu 1-1. Giữ số lần dẫn bóng ở hai hoặc ít hơn.",
+        "title": "Kết thúc trong hiệu quả"
       },
       {
-        "title": "Chuyền từ hai khuỷu",
-        "detail": "Từ short roll hoặc high post, đọc phòng ngự và chuyền cho người cắt vào hoặc xạ thủ ở góc. Power forward hiện đại là người kiến tạo, không chỉ là người kết thúc."
+        "detail": "Từ short roll hoặc high post, đọc phòng ngự, chuyền cho người cắt hoặc tay ném ở góc. Power forward hiện đại là người kiến tạo, không chỉ là người kết thúc.",
+        "title": "Chuyền từ vị trí elbow"
       }
     ],
-    "coachingPoints": [
-      "Mở đầu mỗi buổi tập bằng kỹ thuật làm tường — đó là kỹ năng đặc trưng của power forward.",
-      "Theo dõi screen assist và box-out, đừng chỉ đếm điểm, để thưởng đúng cho công việc thật sự.",
-      "Xây dựng cú ném ba pick-and-pop trước khi tập roll; khả năng ném tạo ra khoảng trống cho roll.",
-      "Tập chuyền short-roll: bắt bóng ở vạch ném phạt và tìm người ở góc trong một nhịp."
-    ],
-    "commonMistakes": [
-      "Lách khỏi mọi bức tường thay vì tạo va chạm thật — không va chạm, không lợi thế.",
-      "Đứng lì trong khu vực hình thang khi tấn công, giết chết spacing.",
-      "Ham block mà không chịu đứng thấp contest thẳng đứng.",
-      "Từ chối ném những cú ba trống, để hậu vệ lùi vào trong khu vực hình thang."
-    ],
-    "gameSituations": [
-      "Pick & roll — dựng tường chắn, rồi roll mạnh hoặc pop ra vạch ba.",
-      "Bắt bóng bật bảng tấn công — lao vào từ phía yếu để putback.",
-      "Phòng ngự switch — kìm một hậu vệ ở ngoài vòng trong hai nhịp dẫn.",
-      "Cuối trận — giữ quả bật bảng phòng ngự ấn định chiến thắng."
-    ],
     "tags": [
-      "tiền phong mạnh",
+      "power forward",
       "pf",
-      "làm tường",
-      "bắt rebound"
+      "dựng screen",
+      "rebound"
+    ],
+    "title": "Phát triển vị trí power forward",
+    "whatIsIt": [
+      "Power forward — vị trí “số 4” — là động cơ khu vực trong của đội: dựng screen giải phóng đồng đội, roll vào rổ hoặc pop ra ném 3 điểm, rebound cả hai đầu sân, chốt phòng thủ hỗ trợ. Họ làm việc nặng giúp công việc của mọi người khác dễ dàng hơn.",
+      "Vị trí “số 4” hiện đại tách thành hai phong cách: kiểu “trâu” truyền thống sống ở khu vực dưới rổ, và kiểu “stretch four” ném 3 điểm kéo các big đối phương ra xa rổ. Power forward giỏi nhất pha trộn cả hai."
+    ],
+    "whyItMatters": [
+      "Screen và rebound không lên highlight, nhưng chúng thắng trận. Một power forward dựng screen có va chạm tạo ra cú ném trống mọi lượt bóng; một người rebound chấm dứt lượt bóng của đối thủ, mở phản công nhanh. Đây là vị trí thắng trận tuyệt đỉnh — công việc không hào nhoáng, tác động thì khổng lồ."
     ]
   }
 }

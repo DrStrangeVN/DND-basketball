@@ -64,48 +64,48 @@
   ],
   "dateUpdated": "2026-10-06",
   "vi": {
-    "title": "Chuỗi Ném 3 Điểm",
-    "description": "Giáo án ném 3 điểm có cấu trúc: năm vị trí, ba vòng — catch-and-shoot, pull-up một nhịp, step-back — xây dựng tầm ném với chỉ tiêu ghi điểm mỗi vị trí.",
-    "goal": "Xây dựng khả năng ném 3 điểm ổn định từ cả năm vị trí với di chuyển như trong trận.",
-    "setup": [
-      "Đánh dấu năm vị trí quanh vòng 3 điểm: hai góc, hai wing, đỉnh.",
-      "Chuẩn bị người nhặt bóng hoặc giá bóng; bạn sẽ ném rất nhiều.",
-      "Ghi lại số cú ném trúng mỗi vị trí — chỉ tiêu là 3 cú trúng mỗi vị trí mỗi vòng."
-    ],
-    "instructions": [
-      {
-        "title": "Vòng 1: catch-and-shoot",
-        "detail": "Chạy nước rút qua các vị trí, bắt bóng ở tư thế sẵn sàng rồi ném — 3 cú trúng mỗi vị trí mới chuyển."
-      },
-      {
-        "title": "Vòng 2: pull-up một nhịp",
-        "detail": "Bắt bóng khi di chuyển, một nhịp đập bóng mạnh sang ngang hoặc vào rổ rồi bật ném 3."
-      },
-      {
-        "title": "Vòng 3: step-back 3 điểm",
-        "detail": "Bắt bóng, jab hoặc giả ném, bước lùi ra sau vạch rồi ném qua tay chắn."
-      },
-      {
-        "title": "Ghi chép và lặp lại",
-        "detail": "Ghi tổng số cú trúng trên 45 cú ném; buổi sau phải vượt con số đó."
-      }
-    ],
     "coachingPoints": [
-      "Chân đặt vững trước khi bắt bóng — cú ném bắt đầu từ footwork, không phải từ tay.",
-      "Cùng một routine mỗi lượt: hạ người, bật lên, vung tay theo, giữ nguyên.",
-      "Chạy nước rút giữa các vị trí — thể lực là một phần của ném rổ trong trận."
+      "Chân đặt trước khi nhận bóng — cú ném bắt đầu từ bộ chân, không phải từ cú thả.",
+      "Cùng một routine mỗi lượt: nhún, bật lên, follow-through, giữ.",
+      "Chạy nước rút giữa các điểm — thể lực là một phần của ném rổ trong trận."
     ],
     "commonMistakes": [
-      "Người trôi ngang mỗi cú ném — phải vuông góc với rổ kể cả khi di chuyển.",
-      "Vội vàng khi mệt; chân mệt càng cần dùng CHÂN nhiều hơn, không phải tay."
+      "Nghiêng người ở mọi cú ném — vuông người ngay cả khi di chuyển.",
+      "Vội thả bóng khi mệt; chân mệt cần DÙNG chân nhiều hơn, không phải tay."
     ],
-    "progression": "Nâng chỉ tiêu lên 4 cú trúng mỗi vị trí, hoặc thêm hậu vệ closeout.",
-    "regression": "Kéo các vị trí vào trong tới ngang vạch ném phạt cho đến khi đủ tầm ném.",
-    "gameApplication": "Lối chơi hiện đại sống nhờ vòng 3 điểm — một chuỗi bài bản biến khả năng ném thất thường thành vũ khí đáng tin cậy.",
-    "players": "1+",
+    "description": "Giáo án ném 3 điểm có cấu trúc: 5 vị trí, 3 vòng — bắt bóng ném ngay, pull-up một nhịp rê và step-back — xây dựng tầm ném với mục tiêu trúng ở mỗi điểm.",
     "equipment": [
       "Bóng rổ",
       "Giá bóng (tùy chọn)"
-    ]
+    ],
+    "gameApplication": "Lối chơi hiện đại sống nhờ vòng 3 điểm — một chuỗi bài bản biến khả năng ném thất thường thành vũ khí đáng tin cậy mà hàng thủ phải tôn trọng.",
+    "goal": "Xây dựng khả năng ném 3 điểm ổn định, lặp lại được từ cả 5 vị trí với di chuyển như trong trận.",
+    "instructions": [
+      {
+        "detail": "Chạy nước rút từ điểm này sang điểm kia, nhận bóng trong tư thế sẵn sàng rồi ném — trúng 3 quả ở mỗi điểm trong 5 điểm mới được sang điểm tiếp.",
+        "title": "Vòng 1: bắt bóng ném ngay"
+      },
+      {
+        "detail": "Nhận bóng khi di chuyển, một nhịp rê mạnh ngang hoặc hướng vào rổ, bật lên ném 3 điểm.",
+        "title": "Vòng 2: pull-up một nhịp rê"
+      },
+      {
+        "detail": "Nhận bóng, jab hoặc động tác giả, step-back ra sau vạch rồi ném qua tay contest.",
+        "title": "Vòng 3: step-back 3 điểm"
+      },
+      {
+        "detail": "Ghi tổng số lần trúng trên 45 cú ném; buổi sau phải phá con số đó.",
+        "title": "Ghi lại và lặp lại"
+      }
+    ],
+    "players": "1+",
+    "progression": "Nâng mục tiêu lên 4 lần trúng mỗi điểm, hoặc thêm hậu vệ closeout.",
+    "regression": "Kéo các vị trí vào trong tới ngang vạch ném phạt cho đến khi đủ tầm ném.",
+    "setup": [
+      "Đánh dấu 5 vị trí quanh vòng cung: hai góc, hai cánh, đỉnh.",
+      "Mang theo người rebound hoặc dùng giá bóng; sẽ ném rất nhiều bóng.",
+      "Ghi số lần trúng mỗi điểm — mục tiêu 3 lần trúng mỗi điểm mỗi vòng."
+    ],
+    "title": "Chuỗi ném 3 điểm"
   }
 }

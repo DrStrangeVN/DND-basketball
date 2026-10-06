@@ -1,56 +1,9 @@
 {
-  "id": "ghost-screen",
-  "slug": "ghost-screen",
-  "title": "Ghost Screens",
-  "description": "The screener fakes the screen and slips away before contact, confusing the defense's coverage call.",
-  "hub": "pick-and-roll",
-  "subcategory": "pick-and-roll",
-  "level": "advanced",
   "ages": [
     "U16",
     "U18",
     "Adult",
     "Competitive"
-  ],
-  "positions": [
-    "ALL"
-  ],
-  "tags": [
-    "ghost screen",
-    "pick and roll",
-    "slip",
-    "counters"
-  ],
-  "readTime": 5,
-  "whatIsIt": [
-    "A ghost screen is a fake screen: the screener sprints toward the ball handler as if to set the pick, then veers away before contact — usually slipping to the rim or popping to space. The defense, expecting a screen, reacts to something that never happens.",
-    "It works because modern defenses communicate coverages early. The on-ball defender hears 'screen coming' and prepares to go over or under; the big prepares to hedge or drop. The ghost leaves both defenders guarding a play that doesn't exist — while the 'screener' is already open.",
-    "The ghost is a changeup, not a fastball. Used sparingly, it is devastating; used every time, the defense stops reacting and it becomes just a bad screen."
-  ],
-  "whyItMatters": [
-    "Defenses drill their pick-and-roll coverages thousands of times — the ghost breaks the drill. It punishes the two most common defensive habits: the big showing early and the guard jumping the screen. One well-timed ghost per game keeps every coverage honest."
-  ],
-  "howTo": [
-    {
-      "title": "Sell the approach",
-      "detail": "Sprint at the ball handler exactly like a real screen — same speed, same angle, same body language. The fake only works if it looks real."
-    },
-    {
-      "title": "Read the early reaction",
-      "detail": "If the screener's defender jumps out to hedge or the on-ball defender starts going over early, the ghost is on. If no one reacts, just set the real screen."
-    },
-    {
-      "title": "Veer at the last step",
-      "detail": "One step before contact, plant and cut — slip to the rim if the big committed, or pop to space if they stayed back."
-    },
-    {
-      "title": "Ball handler: play off it",
-      "detail": "When your screener ghosts, attack the confusion immediately. The defense is mid-rotation — drive the gap before they sort it out."
-    },
-    {
-      "title": "Keep it rare",
-      "detail": "Two or three ghosts per game maximum. The threat works because the real screen is the default."
-    }
   ],
   "coachingPoints": [
     "Teach the ghost only after the real screen is automatic — players who can't screen will just fake everything.",
@@ -63,13 +16,34 @@
     "A half-hearted fake that fools nobody and just looks like a missed screen.",
     "Ghosting when the defense hasn't reacted — then it's just abandoning your teammate."
   ],
-  "gameSituations": [
-    "Against aggressive hedge or blitz defenses that show early.",
-    "When the on-ball defender is clearly trying to jump every screen.",
-    "As a surprise counter after running several real pick-and-rolls in a row."
-  ],
+  "dateUpdated": "2026-10-06",
+  "description": "The screener fakes the screen and slips away before contact, confusing the defense's coverage call.",
   "diagram": {
-    "title": "Ghost screen: fake the pick, slip to the rim",
+    "ball": "O1",
+    "defense": [
+      {
+        "label": "X1",
+        "x": 48,
+        "y": 70
+      },
+      {
+        "label": "X5",
+        "x": 62,
+        "y": 64
+      }
+    ],
+    "moves": [
+      {
+        "from": "O5",
+        "kind": "cut",
+        "to": "O1"
+      },
+      {
+        "from": "O1",
+        "kind": "dribble",
+        "to": "O3"
+      }
+    ],
     "offense": [
       {
         "label": "O1",
@@ -87,101 +61,127 @@
         "y": 62
       }
     ],
-    "defense": [
-      {
-        "label": "X1",
-        "x": 48,
-        "y": 70
-      },
-      {
-        "label": "X5",
-        "x": 62,
-        "y": 64
-      }
-    ],
-    "ball": "O1",
-    "screens": [],
-    "moves": [
-      {
-        "from": "O5",
-        "to": "O1",
-        "kind": "cut"
-      },
-      {
-        "from": "O1",
-        "to": "O3",
-        "kind": "dribble"
-      }
-    ],
     "passes": [
       {
         "from": "O1",
         "to": "O5"
       }
     ],
-    "shots": []
+    "screens": [],
+    "shots": [],
+    "title": "Ghost screen: fake the pick, slip to the rim"
   },
+  "gameSituations": [
+    "Against aggressive hedge or blitz defenses that show early.",
+    "When the on-ball defender is clearly trying to jump every screen.",
+    "As a surprise counter after running several real pick-and-rolls in a row."
+  ],
+  "howTo": [
+    {
+      "detail": "Sprint at the ball handler exactly like a real screen — same speed, same angle, same body language. The fake only works if it looks real.",
+      "title": "Sell the approach"
+    },
+    {
+      "detail": "If the screener's defender jumps out to hedge or the on-ball defender starts going over early, the ghost is on. If no one reacts, just set the real screen.",
+      "title": "Read the early reaction"
+    },
+    {
+      "detail": "One step before contact, plant and cut — slip to the rim if the big committed, or pop to space if they stayed back.",
+      "title": "Veer at the last step"
+    },
+    {
+      "detail": "When your screener ghosts, attack the confusion immediately. The defense is mid-rotation — drive the gap before they sort it out.",
+      "title": "Ball handler: play off it"
+    },
+    {
+      "detail": "Two or three ghosts per game maximum. The threat works because the real screen is the default.",
+      "title": "Keep it rare"
+    }
+  ],
+  "hub": "pick-and-roll",
+  "id": "ghost-screen",
+  "level": "advanced",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 5,
   "related": [
     "screen-angle",
     "reject-screen",
     "pick-and-roll-basics",
     "spain-pick-and-roll"
   ],
-  "dateUpdated": "2026-10-06",
+  "slug": "ghost-screen",
+  "subcategory": "pick-and-roll",
+  "tags": [
+    "ghost screen",
+    "pick and roll",
+    "slip",
+    "counters"
+  ],
+  "title": "Ghost Screens",
   "vi": {
-    "title": "Chắn Ma (Ghost Screen)",
-    "description": "Người chắn giả vờ chắn rồi lách đi trước khi va chạm, khiến cách gọi kèm của hàng thủ bị rối loạn.",
-    "whatIsIt": [
-      "Chắn ma là một pha chắn giả: người chắn chạy nước rút về phía người dẫn bóng như thể sắp chắn thật, rồi rẽ đi trước khi va chạm — thường là lách (slip) về rổ hoặc bật ra khoảng trống. Hàng thủ, vì đang chờ một pha chắn, lại phản ứng với thứ không bao giờ xảy ra.",
-      "Nó hiệu quả vì các hàng thủ hiện đại gọi cách kèm từ sớm. Hậu vệ kèm bóng nghe 'sắp có chắn' và chuẩn bị vượt qua hoặc chui dưới; big chuẩn bị hedge hoặc drop. Chắn ma khiến cả hai hậu vệ kèm một tình huống không tồn tại — trong khi 'người chắn' đã trống trải.",
-      "Chắn ma là bóng đổi tốc (changeup), không phải bóng nhanh (fastball). Dùng thưa thì cực kỳ sát thương; dùng mọi lần thì hàng thủ sẽ ngừng phản ứng và nó chỉ còn là một pha chắn dở."
+    "coachingPoints": [
+      "Chỉ dạy ghost sau khi screen thật đã tự động — cầu thủ không biết screen sẽ giả mọi thứ",
+      "Điểm quyết định là phản ứng của cầu thủ phòng thủ, không phải bài gọi sẵn. Rèn như một pha đọc",
+      "Băng hình giúp ích: chiếu đúng khoảnh khắc hàng thủ lao theo động tác giả",
+      "Ghép với slip — bộ chân gần như giống hệt"
     ],
-    "whyItMatters": [
-      "Hàng thủ tập các cách kèm pick-and-roll hàng nghìn lần — chắn ma phá vỡ bài tập đó. Nó trừng phạt hai thói quen phòng thủ phổ biến nhất: big dâng lên sớm và hậu vệ nhảy qua chắn sớm. Một pha chắn ma đúng lúc mỗi trận khiến mọi cách kèm đều phải dè chừng."
+    "commonMistakes": [
+      "Ghost mọi lần, hàng thủ ngừng tôn trọng screen hẳn",
+      "Giả nửa vời không lừa được ai, trông như screen hụt",
+      "Ghost khi hàng thủ chưa phản ứng — thế chỉ là bỏ rơi đồng đội"
+    ],
+    "description": "Người screen giả đặt screen rồi lách đi trước va chạm, khiến hàng thủ gọi coverage nhầm.",
+    "gameSituations": [
+      "Trước hàng thủ hedge hay blitz máu lửa, dâng sớm",
+      "Khi cầu thủ phòng thủ bóng rõ ràng muốn nhảy vào mọi screen",
+      "Đòn bất ngờ sau khi chạy nhiều pick and roll thật liên tiếp"
     ],
     "howTo": [
       {
-        "title": "Diễn cho thật",
-        "detail": "Chạy nước rút về phía người dẫn bóng y hệt một pha chắn thật — cùng tốc độ, cùng góc, cùng ngôn ngữ cơ thể. Pha giả chỉ hiệu quả khi trông như thật."
+        "detail": "Chạy nước rút về phía người cầm bóng y như screen thật — cùng tốc độ, cùng góc, cùng ngôn ngữ cơ thể. Giả chỉ hiệu quả khi trông thật.",
+        "title": "Diễn pha tiếp cận"
       },
       {
-        "title": "Đọc phản ứng sớm",
-        "detail": "Nếu hậu vệ của người chắn nhảy ra hedge hoặc hậu vệ kèm bóng bắt đầu vượt qua sớm, chắn ma đã sẵn sàng. Nếu không ai phản ứng, cứ chắn thật."
+        "detail": "Nếu cầu thủ phòng thủ của người screen nhảy ra hedge hay cầu thủ phòng thủ bóng bắt đầu vượt qua sớm, ghost đã mở. Không ai phản ứng thì cứ đặt screen thật.",
+        "title": "Đọc phản ứng sớm"
       },
       {
-        "title": "Rẽ ở bước cuối cùng",
-        "detail": "Một bước trước khi va chạm, đặt chân trụ và cắt — lách về rổ nếu big đã lao ra, hoặc bật ra khoảng trống nếu họ lùi lại."
+        "detail": "Một bước trước va chạm, cắm chân, cắt — slip về rổ nếu cầu thủ big đã lao ra, hoặc pop ra khoảng trống nếu họ đứng lại.",
+        "title": "Lách ở bước cuối"
       },
       {
-        "title": "Người dẫn bóng: khai thác ngay",
-        "detail": "Khi người chắn của bạn dùng chắn ma, hãy tấn công sự rối loạn ngay lập tức. Hàng thủ đang giữa pha xoay chuyển — đột phá vào khoảng trống trước khi họ kịp sắp xếp lại."
+        "detail": "Khi người screen ghost, tấn công sự rối loạn ngay. Hàng thủ đang giữa rotation — đột phá vào gap trước khi họ sắp xếp lại.",
+        "title": "Người cầm bóng: đánh theo nó"
       },
       {
-        "title": "Giữ cho hiếm",
-        "detail": "Tối đa hai đến ba pha chắn ma mỗi trận. Mối đe dọa chỉ hiệu quả vì chắn thật mới là mặc định."
+        "detail": "Tối đa hai ba ghost mỗi trận. Mối đe dọa hiệu quả vì screen thật là mặc định.",
+        "title": "Giữ hiếm"
       }
-    ],
-    "coachingPoints": [
-      "Chỉ dạy chắn ma sau khi chắn thật đã thành bản năng — cầu thủ không biết chắn sẽ chỉ biết giả vờ.",
-      "Điểm quyết định là phản ứng của hậu vệ, không phải bài gọi sẵn. Hãy tập nó như một tình huống đọc.",
-      "Xem băng hình rất hữu ích: chỉ ra đúng khoảnh khắc hàng thủ 'cắn' pha giả.",
-      "Kết hợp với slip — bộ chân gần như giống hệt."
-    ],
-    "commonMistakes": [
-      "Dùng chắn ma mọi lần, khiến hàng thủ ngừng tôn trọng pha chắn.",
-      "Pha giả nửa vời không lừa được ai, trông như một pha chắn hỏng.",
-      "Dùng chắn ma khi hàng thủ chưa phản ứng — thế là bỏ rơi đồng đội."
-    ],
-    "gameSituations": [
-      "Gặp hàng thủ hedge hoặc blitz mạnh, dâng lên từ sớm.",
-      "Khi hậu vệ kèm bóng rõ ràng muốn nhảy qua mọi pha chắn.",
-      "Đòn bất ngờ sau khi đã chạy nhiều pha pick-and-roll thật liên tiếp."
     ],
     "tags": [
       "ghost screen",
       "pick and roll",
       "slip",
       "đòn phản công"
+    ],
+    "title": "Screen ma (ghost screen)",
+    "whatIsIt": [
+      "Ghost screen là screen giả: người screen chạy nước rút về phía người cầm bóng như sắp đặt pick, rồi lách đi trước va chạm — thường slip về rổ hoặc pop ra khoảng trống. Hàng thủ chờ screen, phản ứng với thứ không bao giờ xảy ra.",
+      "Nó hiệu quả vì hàng thủ hiện đại hô coverage từ sớm. Cầu thủ phòng thủ bóng nghe ‘screen đến’ và chuẩn bị vượt qua hay chui dưới; cầu thủ big chuẩn bị hedge hay drop. Ghost để cả hai cầu thủ phòng thủ kèm một bài không tồn tại — trong khi ‘người screen’ đã trống.",
+      "Ghost là cú đổi nhịp, không phải bóng nhanh. Dùng thưa thớt thì hủy diệt; dùng mọi lần, hàng thủ ngừng phản ứng, nó thành screen tệ."
+    ],
+    "whyItMatters": [
+      "Hàng thủ rèn coverage pick and roll hàng nghìn lần — ghost phá bài rèn. Nó trừng phạt hai thói quen phòng thủ phổ biến nhất: cầu thủ big dâng sớm và hậu vệ nhảy vào screen. Một ghost đúng lúc mỗi trận giữ mọi coverage trung thực."
     ]
-  }
+  },
+  "whatIsIt": [
+    "A ghost screen is a fake screen: the screener sprints toward the ball handler as if to set the pick, then veers away before contact — usually slipping to the rim or popping to space. The defense, expecting a screen, reacts to something that never happens.",
+    "It works because modern defenses communicate coverages early. The on-ball defender hears 'screen coming' and prepares to go over or under; the big prepares to hedge or drop. The ghost leaves both defenders guarding a play that doesn't exist — while the 'screener' is already open.",
+    "The ghost is a changeup, not a fastball. Used sparingly, it is devastating; used every time, the defense stops reacting and it becomes just a bad screen."
+  ],
+  "whyItMatters": [
+    "Defenses drill their pick-and-roll coverages thousands of times — the ghost breaks the drill. It punishes the two most common defensive habits: the big showing early and the guard jumping the screen. One well-timed ghost per game keeps every coverage honest."
+  ]
 }

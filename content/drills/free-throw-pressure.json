@@ -64,48 +64,48 @@
   ],
   "dateUpdated": "2026-10-06",
   "vi": {
-    "title": "Ném Phạt Chịu Áp Lực",
-    "description": "Mô phỏng áp lực ném phạt cuối trận với hình phạt khi hỏng — chạy sprint, kịch bản tỉ số và tiếng ồn khán giả.",
-    "goal": "Ném trúng 8/10 quả ném phạt trong khi chịu áp lực trận đấu mô phỏng và hình phạt.",
-    "setup": [
-      "Người ném đứng vạch ném phạt với một bóng; đồng đội bắt rebound hoặc tự nhặt bóng.",
-      "Đặt kịch bản tỉ số trước mỗi cặp ném: ví dụ 'đang thua 1 điểm, còn 10 giây, 2 quả ném.'",
-      "Thống nhất hình phạt khi hỏng trước khi bắt đầu: chuẩn là mỗi quả hỏng chạy một lượt sprint toàn sân."
-    ],
-    "instructions": [
-      {
-        "title": "Dựng Routine",
-        "detail": "Ném 4 quả ném phạt với đầy đủ routine trước khi ném — cùng số nhịp đập bóng, cùng nhịp thở, cùng thời gian mỗi lần. Chưa có kịch bản. Bước này khóa routine để tin tưởng khi bị áp lực."
-      },
-      {
-        "title": "Ném Theo Cặp Kịch Bản",
-        "detail": "Ném theo cặp, mỗi cặp được hô kịch bản trước: 'tỉ số hòa, còn 5 giây' hoặc 'dẫn 2 điểm, cần cả hai để kết liễu.' Nghỉ đủ 10 giây giữa các cặp như bóng chết thật. Làm 5 cặp (10 quả)."
-      },
-      {
-        "title": "Vòng Hình Phạt",
-        "detail": "Ném thêm 10 quả ném phạt. Mỗi quả hỏng phải lập tức chạy một lượt sprint toàn sân rồi mới ném tiếp, với nhịp tim còn cao. Bài này rèn ném khi mệt và lấy lại tập trung nhanh."
-      },
-      {
-        "title": "Kết Thúc Với Tiếng Ồn",
-        "detail": "Kết thúc bằng 4 quả ném phạt trong khi đồng đội vỗ tay, hò hét, vẫy tay sau rổ. Giữ y nguyên routine — tiếng ồn chẳng là gì nếu routine đã thành tự động."
-      }
-    ],
     "coachingPoints": [
-      "Routine không bao giờ đổi — cùng số nhịp bóng, cùng nhịp thở, cùng nhịp độ, mọi cú ném.",
+      "Nghi thức không đổi — cùng số nhịp bóng, cùng nhịp thở, cùng nhịp độ, mọi cú ném.",
       "Ném theo quy trình, không ném theo tỉ số: tập trung vào điểm kỹ thuật tiếp theo, không phải kịch bản.",
-      "Giữa các cú ném, reset hoàn toàn: bước ra khỏi vạch, thở, bước vào lại.",
-      "Gối mềm và đầu yên thắng mọi sự vội vàng."
+      "Giữa các cú ném reset hoàn toàn: bước ra khỏi vạch, thở, bước vào lại.",
+      "Gối mềm, đầu yên — thắng mọi sự vội vàng."
     ],
     "commonMistakes": [
-      "Đẩy nhanh routine khi kịch bản căng thẳng.",
+      "Đẩy nhanh nghi thức khi kịch bản căng thẳng.",
       "Ngắm bóng vào rổ thay vì tin tưởng động tác ném."
     ],
-    "progression": "Ném vòng hình phạt ngay sau một lượt sprint toàn sân để mọi quả ném phạt đều thực hiện khi chân đã mỏi.",
-    "regression": "Bỏ kịch bản và hình phạt; ném 20 quả ném phạt đếm số trúng, chỉ tập trung vào độ ổn định của routine.",
-    "gameApplication": "Ném phạt quyết định những trận đấu sít sao — bài này rèn cơ thể thực hiện cùng một động tác ném khi áp lực tỉ số là thật.",
-    "players": "1",
+    "description": "Mô phỏng áp lực ném phạt cuối trận: kịch bản tỉ số, hình phạt khi hỏng và tiếng ồn khán giả.",
     "equipment": [
       "Bóng rổ"
-    ]
+    ],
+    "gameApplication": "Ném phạt quyết định những trận đấu sít sao — bài này rèn cơ thể thực hiện cùng một động tác ném khi áp lực tỉ số là thật.",
+    "goal": "Ném trúng 8/10 quả ném phạt trong khi chịu áp lực mô phỏng và hình phạt thật.",
+    "instructions": [
+      {
+        "detail": "Ném 4 quả ném phạt với đủ nghi thức trước mỗi cú ném — cùng số nhịp đập bóng, cùng nhịp thở, cùng nhịp độ. Chưa có kịch bản. Đây là nghi thức sẽ tin tưởng khi bị áp lực.",
+        "title": "Dựng nghi thức"
+      },
+      {
+        "detail": "Ném theo cặp, mỗi cặp được hô kịch bản trước: 'tỉ số hòa, còn 5 giây' hoặc 'dẫn 2 điểm, cần cả hai để kết liễu.' Nghỉ đủ 10 giây giữa các cặp như bóng chết thật. Làm 5 cặp (10 quả).",
+        "title": "Ném theo cặp kịch bản"
+      },
+      {
+        "detail": "Ném thêm 10 quả ném phạt. Mỗi quả hỏng chạy ngay một lượt sprint toàn sân rồi ném tiếp khi nhịp tim còn cao. Rèn ném khi mệt và lấy lại tập trung nhanh.",
+        "title": "Vòng hình phạt"
+      },
+      {
+        "detail": "Chốt bằng 4 quả ném phạt trong khi đồng đội vỗ tay, hò hét, vẫy tay sau rổ. Giữ y nguyên nghi thức — tiếng ồn vô nghĩa khi nghi thức đã thành tự động.",
+        "title": "Kết thúc với tiếng ồn"
+      }
+    ],
+    "players": "1",
+    "progression": "Chạy một lượt sprint toàn sân trước vòng hình phạt, để mọi quả ném phạt đều thực hiện khi chân đã mỏi.",
+    "regression": "Bỏ kịch bản và hình phạt; ném 20 quả ném phạt đếm số trúng, chỉ tập trung vào độ ổn định của nghi thức.",
+    "setup": [
+      "Người ném đứng vạch ném phạt với một bóng; đồng đội bắt rebound hoặc tự nhặt.",
+      "Đặt kịch bản tỉ số trước mỗi cặp ném — ví dụ: 'đang thua 1 điểm, còn 10 giây, 2 quả ném.'",
+      "Thống nhất hình phạt khi hỏng trước khi bắt đầu: chuẩn là một lượt sprint toàn sân cho mỗi quả hỏng."
+    ],
+    "title": "Bài ném phạt dưới áp lực"
   }
 }

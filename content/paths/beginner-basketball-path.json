@@ -16,37 +16,37 @@
   ],
   "dateUpdated": "2026-10-06",
   "vi":   {
-    "title": "Bóng Rổ Cho Người Mới Bắt Đầu",
-    "description": "Bắt đầu từ con số 0: học luật, sân bóng và các kỹ năng cốt lõi — rê bóng, ném rổ, chuyền bóng, layup và phòng thủ — theo đúng thứ tự.",
-    "audience": "Người mới chơi bóng rổ lần đầu",
+    "title": "Bóng rổ cho người mới bắt đầu",
+    "description": "Bắt đầu từ con số 0: học luật chơi, các vạch kẻ trên sân và kỹ năng cốt lõi — dẫn bóng, ném rổ, chuyền bóng, layup và phòng thủ — theo đúng thứ tự.",
+    "audience": "Người mới tập chơi bóng rổ lần đầu",
     "steps": [
       {
-        "title": "Cấp 1 — Hiểu Trận Đấu",
-        "description": "Học luật cơ bản và làm quen với các đường kẻ trên sân để biết mọi thứ diễn ra ở đâu."
+        "title": "Cấp 1 — Nắm luật chơi",
+        "description": "Học luật cơ bản và làm quen các vạch kẻ trên sân, biết rõ mọi tình huống diễn ra ở đâu."
       },
       {
-        "title": "Cấp 2 — Tư Thế Đầu Tiên",
-        "description": "Thành thạo tư thế triple threat — tư thế nền tảng mà mọi kỹ năng tấn công đều xây dựng trên đó."
+        "title": "Cấp 2 — Tư thế triple threat",
+        "description": "Nắm tư thế triple threat — tư thế nền tảng của mọi kỹ năng tấn công. Hạ thấp trọng tâm, mắt nhìn lên."
       },
       {
-        "title": "Cấp 3 — Làm Chủ Bóng",
-        "description": "Xây dựng khả năng kiểm soát rê bóng đứng yên bằng cả hai tay, mắt nhìn lên."
+        "title": "Cấp 3 — Dẫn bóng vững",
+        "description": "Tập dẫn bóng tại chỗ bằng cả hai tay, mắt luôn nhìn lên. Kiểm soát bóng trước, tăng tốc sau."
       },
       {
-        "title": "Cấp 4 — Chuyền Có Chủ Đích",
-        "description": "Học chest pass — đường chuyền dùng nhiều nhất trong bóng rổ — với footwork và follow-through đúng."
+        "title": "Cấp 4 — Chuyền bóng có chủ đích",
+        "description": "Học chest pass — đường chuyền dùng nhiều nhất trong bóng rổ — với bộ chân đúng và động tác kết thúc chuẩn."
       },
       {
-        "title": "Cấp 5 — Ném Đúng Kỹ Thuật",
-        "description": "Phát triển kỹ thuật ném sạch từ cự ly gần trước khi tăng khoảng cách."
+        "title": "Cấp 5 — Ném rổ đúng kỹ thuật",
+        "description": "Xây kỹ thuật ném sạch từ cự ly gần rồi mới tăng dần khoảng cách. Tư thế vững, tay ra bóng đều."
       },
       {
-        "title": "Cấp 6 — Dứt Điểm Ở Rổ",
-        "description": "Học layup cơ bản với footwork đúng ở cả hai bên rổ."
+        "title": "Cấp 6 — Kết thúc ở rổ với layup",
+        "description": "Học layup cơ bản với bộ chân đúng ở cả hai bên rổ. Lên bóng mạnh, tay mềm."
       },
       {
-        "title": "Cấp 7 — Chơi Phòng Thủ",
-        "description": "Vào tư thế phòng thủ thật và học những điều cơ bản về kèm người."
+        "title": "Cấp 7 — Phòng thủ cơ bản",
+        "description": "Vào tư thế phòng thủ thật: hạ thấp trọng tâm, tay luôn hoạt động, kèm người quyết liệt."
       }
     ]
   }

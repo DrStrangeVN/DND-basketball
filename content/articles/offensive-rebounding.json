@@ -75,56 +75,56 @@
     "Second-chance points are the easiest points in basketball — the defense is scrambled and the rim is unprotected. Even two or three offensive rebounds per game can swing a close contest. And the threat of the crash changes how defenses rebound, pulling their bigs away from transition defense."
   ],
   "vi": {
-    "title": "Rebound Tấn Công (Offensive Rebounding)",
-    "description": "Tạo thêm lượt bóng: thời điểm lao vào, góc từ phía yếu, và các cú putback nhanh.",
-    "whatIsIt": [
-      "Rebound tấn công là bắt lại cú ném hỏng của đội mình — tạo ra một lượt bóng hoàn toàn mới từ một pha bóng thất bại. Nó là sự kết hợp của thời điểm, nỗ lực và kỹ thuật: đánh bại pha box-out của đối thủ và kết thúc trước khi hàng thủ ổn định lại.",
-      "Rebound tấn công làm nản lòng hàng thủ. Họ đã phòng thủ tốt suốt 20 giây, ép đối phương ném hỏng — mà chẳng có ý nghĩa gì. Các đội rebound tấn công tốt ghi nhiều điểm second-chance hơn và bào mòn đối thủ cả về thể lực lẫn tinh thần."
+    "coachingPoints": [
+      "Lao vào từ phía yếu — hậu vệ phía yếu hiếm khi box out chắc",
+      "Lao vào lúc bóng vừa bay lên, đừng đợi nó hỏng — người đến muộn chẳng được gì",
+      "Bắt được thì giữ bóng cao — putback là chạm nhanh hoặc úp rổ, không gom bóng xuống",
+      "Đừng lao vào mù quáng: cuối trận đang thua thì tất cả lao vào; đang thắng thì lui về",
+      "Không bắt được thì chạm bóng cho đồng đội — bóng còn sống là lượt bóng mới"
     ],
-    "whyItMatters": [
-      "Điểm second-chance là những điểm dễ nhất trong bóng rổ — hàng thủ đang rối loạn và rổ không được bảo vệ. Chỉ cần hai ba quả rebound tấn công mỗi trận cũng có thể xoay chuyển một trận đấu sít sao. Và mối đe dọa lao vào rebound thay đổi cách hàng thủ rebound, kéo các big man của họ ra khỏi phòng thủ chuyển trạng thái."
+    "commonMistakes": [
+      "Lao vào từ phía mạnh vào pha box out đã vào vị trí — khác gì đâm đầu vào tường",
+      "Đứng nhìn cú ném của chính mình thay vì chạy theo — tay ném nào chạy theo bóng mới có putback",
+      "Gom bóng xuống thấp sau rebound tấn công — đưa thẳng lên; hàng thủ đang rối",
+      "Bỏ hẳn phòng thủ phản công — lao vào là rủi ro có tính toán, không phải thói quen"
+    ],
+    "description": "Tạo thêm lượt bóng: chọn thời điểm lao vào, góc tiếp cận từ phía yếu và putback nhanh.",
+    "gameSituations": [
+      "Đội mình ném — hai người phía yếu lao vào mạnh nhất",
+      "Tình huống putback — không bắt sạch được thì chạm bóng vào rổ",
+      "Gặp đội không box out — trừng phạt họ mọi lượt bóng"
     ],
     "howTo": [
       {
-        "title": "Chọn thời điểm lao vào",
-        "detail": "Khi đồng đội ném, hãy đọc hàng thủ: big man phía yếu và cầu thủ cánh phía yếu là những người lao vào. Bắt đầu di chuyển ngay khi bóng rời tay người ném."
+        "detail": "Khi đồng đội ra tay, đọc ngay hàng thủ: big phía yếu và cánh phía yếu là hai người lao vào. Bắt đầu di chuyển ngay lúc bóng rời tay người ném.",
+        "title": "Chọn đúng thời điểm lao vào"
       },
       {
-        "title": "Đánh bại pha box-out",
-        "detail": "Tấn công từ phía yếu, nơi các pha box-out yếu nhất. Dùng động tác swim move nhanh hoặc xoay người qua pha chắn của hậu vệ — đừng cố đâm xuyên qua ngực họ."
+        "detail": "Tấn công từ phía yếu, nơi các pha box out thường lỏng nhất. Dùng động tác swim move nhanh hoặc xoay người qua điểm tì của hậu vệ — đừng đâm xuyên qua ngực họ.",
+        "title": "Đánh bại pha box out"
       },
       {
-        "title": "Bắt hoặc chạm bóng",
-        "detail": "Nhảy đến điểm cao nhất của bóng. Nếu bạn bắt sạch bằng hai tay được, hãy làm; nếu không, hãy chạm bóng về phía rổ hoặc cho đồng đội."
+        "detail": "Nhảy tới điểm cao nhất của bóng. Bắt sạch được bằng hai tay thì bắt; không thì chạm bóng về phía rổ hoặc chạm cho đồng đội.",
+        "title": "Bắt bóng hoặc chạm bóng"
       },
       {
-        "title": "Putback nhanh",
-        "detail": "Nếu bạn bắt được bóng, hãy đưa bóng lên ngay — không dẫn, không gom bóng. Một cú putback nhanh trước khi hàng thủ hồi phục là cú ném second-chance có tỷ lệ cao nhất."
+        "detail": "Bắt được bóng là đưa lên ngay — không dẫn, không gom bóng. Cú putback nhanh trước khi hàng thủ kịp hồi là cú ném second-chance chắc ăn nhất.",
+        "title": "Putback ngay lập tức"
       }
-    ],
-    "coachingPoints": [
-      "Lao vào từ phía yếu — hậu vệ phía yếu hiếm khi box out tốt.",
-      "Lao vào khi bóng vừa bay lên, không phải khi nó đã hỏng — người đến muộn chẳng được gì.",
-      "Giữ bóng cao nếu bạn bắt được — các cú putback nên là những cú chạm nhanh hoặc dunk, không phải gom bóng xuống.",
-      "Đừng lao vào mù quáng: nắm rõ tình huống trận đấu — cuối trận và đang thua, tất cả lao vào; cuối trận và đang thắng, hãy lui về.",
-      "Chạm bóng cho đồng đội nếu bạn không bắt được — một quả bóng được giữ sống là một lượt bóng mới."
-    ],
-    "commonMistakes": [
-      "Lao vào từ phía mạnh vào một pha box-out đã vào vị trí — bạn đang đâm vào tường.",
-      "Đứng nhìn cú ném của chính mình thay vì chạy theo nó — những tay ném chạy theo bóng sẽ có putback.",
-      "Hạ bóng rebound tấn công xuống thấp — hãy đưa bóng lên ngay; hàng thủ đang rối loạn.",
-      "Bỏ hẳn phòng thủ chuyển trạng thái — lao vào rebound là một rủi ro có tính toán, không phải thói quen."
-    ],
-    "gameSituations": [
-      "Khi đội bạn ném — hai cầu thủ phía yếu lao vào mạnh nhất.",
-      "Các tình huống putback — chạm bóng vào rổ nếu bạn không bắt sạch được.",
-      "Trước các đội không box out — trừng phạt họ mọi lượt bóng."
     ],
     "tags": [
       "rebound",
       "tấn công",
       "putback",
       "nỗ lực"
+    ],
+    "title": "Rebound tấn công",
+    "whatIsIt": [
+      "Rebound tấn công là bắt lại cú ném hỏng của đội mình — biến một pha bóng thất bại thành lượt bóng hoàn toàn mới. Nó là sự hòa trộn của thời điểm, nỗ lực và kỹ thuật: đánh bại pha box out của đối thủ rồi dứt điểm trước khi hàng thủ kịp ổn định.",
+      "Rebound tấn công bào mòn tinh thần hàng thủ. Họ phòng thủ tốt suốt 20 giây, ép được cú ném hỏng — mà chẳng thay đổi được gì. Đội rebound tấn công tốt ghi nhiều điểm second-chance hơn, bào mòn đối thủ cả thể lực lẫn tinh thần."
+    ],
+    "whyItMatters": [
+      "Điểm second-chance là những điểm dễ nhất trong bóng rổ — hàng thủ đang rối loạn, rổ không ai bảo vệ. Hai ba quả rebound tấn công mỗi trận cũng đủ xoay chuyển một trận sít sao. Và mối đe dọa lao vào tranh rebound còn thay đổi cách đối phương rebound, kéo các big của họ ra khỏi nhiệm vụ lùi về phòng thủ phản công."
     ]
   }
 }

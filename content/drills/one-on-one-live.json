@@ -40,52 +40,52 @@
   "related": ["closeout-drill","contact-finishing-drill","transition-two-on-one"],
   "dateUpdated": "2026-10-06",
   "vi":   {
-    "title": "1 Đấu 1 Live",
-    "description": "Đấu 1-1 cạnh tranh từ wing với giới hạn số nhịp rê — bài kiểm tra thuần khiết nhất về tấn công cá nhân, phòng thủ on-ball và khả năng tạo cú ném.",
-    "goal": "Rèn khả năng tạo cú ném, sự lì lợm phòng thủ cá nhân và dứt điểm cạnh tranh trong môi trường 1-1 có kiểm soát.",
-    "setup": [
-      "Tấn công bắt đầu ở wing cầm bóng; phòng thủ đứng trước mặt trong tư thế thủ.",
-      "Đặt giới hạn số nhịp rê — chuẩn là 3 nhịp — để ép ra quyết định nhanh.",
-      "Chơi đến 5 lần ghi điểm; người thắng ở lại, người thách đấu tiếp theo vào."
-    ],
-    "instructions": [
-      {
-        "title": "Check bóng rồi bắt đầu",
-        "detail": "Tấn công check bóng cho hậu vệ, hậu vệ trả lại — lượt bắt đầu khi nhận bóng."
-      },
-      {
-        "title": "Tấn công trong giới hạn rê",
-        "detail": "Tấn công có 3 nhịp rê để tạo cú ném: đột phá, pull-up hoặc step-back — không giữ bóng."
-      },
-      {
-        "title": "Phòng thủ chơi đến khi chặn được",
-        "detail": "Hậu vệ giữ tư thế, tranh bóng không phạm lỗi, và box out khi đối thủ ném — chặn được là đổi bóng."
-      },
-      {
-        "title": "Thắng ở lại sân",
-        "detail": "Ghi điểm thì giữ bóng; trượt hoặc bị chặn thì chuyển sang phòng thủ hoặc xếp hàng chờ."
-      },
-      {
-        "title": "Đổi vị trí xuất phát",
-        "detail": "Sau mỗi ván đến 5 điểm, đổi điểm bắt đầu — wing, đỉnh, góc — để tấn công từ mọi vị trí."
-      }
-    ],
     "coachingPoints": [
-      "Tấn công: tấn công có kế hoạch — một động tác và một đòn phản, không phải năm động tác rồi cầu may.",
-      "Phòng thủ: giữ thấp trong tư thế và di chuyển chân; với tay là phạm lỗi hoặc bị qua mặt.",
-      "Dùng giới hạn rê bóng như một người thầy — nó ép ra những động tác quyết đoán thay vì múa bóng.",
-      "Cạnh tranh mọi lượt; 1-1 bộc lộ ai là người muốn bóng ở những thời khắc lớn."
+      "Tấn công có kế hoạch — một động tác và một đòn phản đòn, đừng múa năm động tác rồi ném cầu may.",
+      "Giữ thấp trọng tâm, di chuyển chân liên tục; với tay là phạm lỗi hoặc bị qua mặt.",
+      "Dùng giới hạn dẫn bóng như một người thầy — nó ép ra những pha xử lý quyết đoán thay vì nhảy múa với bóng.",
+      "Tranh chấp mọi lượt; 1v1 phơi bày ai dám cầm bóng ở thời khắc quyết định."
     ],
     "commonMistakes": [
-      "Chấp nhận ném contested — cầu thủ 1-1 giỏi nhất phải đến được rổ hoặc tạo khoảng trống thật trước.",
-      "Hậu vệ đứng thẳng — 1-1 phơi bày ngay mọi tư thế lười biếng."
+      "Chấp nhận ném trong tư thế bị kèm chặt — cầu thủ 1v1 giỏi phải vào được rổ hoặc tạo khoảng trống thật trước đã.",
+      "Hậu vệ đứng thẳng người — 1v1 phạt ngay mọi tư thế lười biếng."
     ],
-    "progression": "Giảm xuống 2 nhịp rê, bắt đầu từ pha nhận bóng live sau đường chuyền, hoặc chơi 1-1 hết sân để rèn thể lực.",
-    "regression": "Cho rê không giới hạn, bắt đầu tấn công gần rổ hơn, hoặc 1-1 không phòng thủ (tập form) cho cầu thủ trẻ.",
-    "gameApplication": "Những tình huống isolation cuối đồng hồ đều quy về kỹ năng 1-1 — bài này rèn khả năng tạo cú ném và niềm tự hào phòng thủ quyết định những trận đấu sát nút.",
-    "players": "2",
+    "description": "Đấu 1v1 cạnh tranh từ cánh với giới hạn số lần dẫn bóng — bài kiểm tra thuần khiết nhất của kỹ năng tấn công cá nhân, phòng thủ kèm người và khả năng tự tạo cú ném.",
     "equipment": [
       "Bóng rổ"
-    ]
+    ],
+    "gameApplication": "Những tình huống cầm bóng cuối giờ và isolation đều quy về kỹ năng 1v1 — bài này rèn khả năng tự tạo cú ném và lòng tự tôn phòng thủ, thứ quyết định những trận cầu sát nút.",
+    "goal": "Rèn khả năng tự tạo cú ném, sự lì lợm khi phòng thủ cá nhân và bản lĩnh dứt điểm trong môi trường 1v1 có kiểm soát.",
+    "instructions": [
+      {
+        "detail": "Người tấn công chuyền bóng cho hậu vệ kiểm tra rồi nhận lại — lượt đấu bắt đầu ngay khi bắt bóng.",
+        "title": "Chạm bóng kiểm tra rồi bắt đầu"
+      },
+      {
+        "detail": "Chỉ được dẫn tối đa 3 lần để tạo cú ném: đột phá, pull-up hoặc step-back — cấm ôm bóng đứng yên.",
+        "title": "Tấn công trong giới hạn dẫn bóng"
+      },
+      {
+        "detail": "Giữ tư thế thấp, tranh bóng sạch không phạm lỗi, box out khi đối phương ném — chặn được là đổi bóng.",
+        "title": "Phòng thủ đến khi chặn được"
+      },
+      {
+        "detail": "Ném trúng thì giữ bóng; ném trượt hoặc bị chặn thì xuống phòng thủ hoặc ra cuối hàng chờ.",
+        "title": "Thắng thì ở lại"
+      },
+      {
+        "detail": "Hết mỗi ván chạm 5 điểm thì đổi điểm bắt đầu — cánh, đỉnh vòng cung, góc — để tấn công từ mọi vị trí.",
+        "title": "Đổi điểm xuất phát"
+      }
+    ],
+    "players": "2",
+    "progression": "Giảm xuống 2 lần dẫn bóng, bắt đầu từ pha bắt bóng live sau đường chuyền, hoặc chơi 1v1 cả sân để rèn thể lực.",
+    "regression": "Cho dẫn bóng không giới hạn, cho người tấn công xuất phát gần rổ hơn, hoặc chơi 1v1 không phòng thủ (tập động tác chuẩn) cho lứa nhỏ.",
+    "setup": [
+      "Người tấn công cầm bóng đứng ở cánh; cầu thủ phòng thủ đứng đối diện trong tư thế thủ.",
+      "Đặt giới hạn số lần dẫn bóng — chuẩn là 3 lần — để ép ra quyết định nhanh.",
+      "Chơi đến 5 lần ghi điểm; người thắng ở lại, người tiếp theo vào thay."
+    ],
+    "title": "Bài tập 1v1 live"
   }
 }

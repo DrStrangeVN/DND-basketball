@@ -71,6 +71,67 @@
     "pressure"
   ],
   "title": "End-of-Game Decisions",
+  "vi": {
+    "coachingPoints": [
+      "Viết sẵn 3 bài sau hội ý hay nhất và tập dưới áp lực mô phỏng",
+      "Quyết định triết lý phạm lỗi khi dẫn 3 điểm trước mùa giải, không phải trong khoảnh khắc",
+      "Tập ném phạt có hệ quả để mô phỏng áp lực cuối trận",
+      "Mổ xẻ mọi trận sít sao: đánh giá quyết định nào đúng, bất kể kết quả"
+    ],
+    "commonMistakes": [
+      "Phạm lỗi với người ném jumper khi đang dẫn cuối trận",
+      "Dùng hết hội ý quá sớm, không còn cái nào cho đợt bóng cuối",
+      "Cố ném 3 điểm bị kèm trong khi có thể ném nhanh 2 điểm",
+      "Hoảng loạn, bỏ hẳn bài tấn công trong phút cuối"
+    ],
+    "description": "Cách tư duy trong hai phút cuối — chiến thuật phạm lỗi, bài ATO, dùng hội ý, và giữ bình tĩnh khi trận đấu trên lằn ranh.",
+    "gameSituations": [
+      "Hòa điểm, còn 15 giây, một hội ý: giữ bóng chờ cú ném cuối",
+      "Dẫn 3 điểm còn 8 giây: quyết định phạm lỗi hay phòng thủ",
+      "Thua 2 điểm còn 20 giây: ném nhanh 2 điểm rồi phạm lỗi, hay đánh 3 điểm"
+    ],
+    "howTo": [
+      {
+        "detail": "Trước hai phút cuối, xác nhận bức tranh đầy đủ: tỷ số, lỗi đồng đội, hội ý, tình trạng bonus. Mọi quyết định cuối trận đều chảy ra từ những dữ kiện này.",
+        "title": "Biết kịch bản của mình"
+      },
+      {
+        "detail": "Quyết định trước có phạm lỗi để ngăn quả 3 điểm gỡ hòa hay tin vào hàng thủ — và truyền đạt rõ ràng để cả năm người thực hiện cùng một kế hoạch.",
+        "title": "Dẫn 3 điểm cuối trận: có triết lý phạm lỗi"
+      },
+      {
+        "detail": "Thuộc lòng phép tính. Ném nhanh 2 điểm giữ thời gian cho đợt bóng tiếp theo; 3 điểm gỡ hòa ngay. Quyết định trước khi đợt bóng bắt đầu, không phải trong lúc đó.",
+        "title": "Đang thua cuối trận: ném nhanh 2 điểm hay 3 điểm"
+      },
+      {
+        "detail": "Giữ ít nhất một hội ý cho đợt bóng cuối. Thuộc bài phát bóng biên và phát bóng cuối sân sau hội ý — những bài đã thực sự tập.",
+        "title": "Dùng hội ý để đưa bóng lên và tổ chức"
+      },
+      {
+        "detail": "Cú ném cuối thuộc về người kiến tạo và ra quyết định đáng tin nhất — không nhất thiết là tay ném hay nhất. Tin người đọc đúng tình huống dưới áp lực.",
+        "title": "Đưa bóng cho người ra quyết định tốt nhất"
+      },
+      {
+        "detail": "Thở chậm lại, bám kế hoạch, đánh bài đơn giản. Hoảng loạn tạo để mất bóng; bình tĩnh tạo cú ném tốt. Đội lấy cảm xúc từ người dẫn đầu.",
+        "title": "Giữ bình tĩnh"
+      }
+    ],
+    "tags": [
+      "IQ bóng rổ",
+      "cuối trận",
+      "chiến thuật",
+      "áp lực"
+    ],
+    "title": "Ra quyết định cuối trận",
+    "whatIsIt": [
+      "Ra quyết định cuối trận là những lựa chọn trong phút cuối khi mỗi đợt bóng có thể định đoạt kết quả: có phạm lỗi khi dẫn 3 điểm không, dùng hội ý khi nào, chạy bài gì sau hội ý, ai ném cú cuối. Trận đấu chậm lại, áp lực tăng lên, và tư duy tỉnh táo trở thành một kỹ năng riêng.",
+      "Những người kết liễu giỏi chuẩn bị cho khoảnh khắc này từ lâu trước khi nó đến. Họ biết các kịch bản — dẫn 3, thua 2, hòa điểm — và đã có sẵn kế hoạch cho mỗi kịch bản. Bình tĩnh không phải là không có áp lực; là đã có quyết định trước khi áp lực đến."
+    ],
+    "whyItMatters": [
+      "Người ta nhớ ai ném cú cuối, nhưng trận đấu thường được định đoạt bởi năm quyết định nhỏ trước đó. Đội có kế hoạch cuối trận rõ ràng thắng nhiều trận sít sao hơn bất kể tài năng. Đây là nơi huấn luyện và IQ bóng rổ quan trọng nhất.",
+      "Đây cũng là nơi sự chuẩn bị cộng dồn. Đội đã diễn tập kịch bản cuối trận chơi thong dong; đội ứng biến chơi căng cứng. Công sức bỏ ra tháng Mười thắng trận đấu tháng Ba."
+    ]
+  },
   "whatIsIt": [
     "End-of-game decisions are the choices made in the final minutes when every possession can decide the outcome: whether to foul when up three, when to use timeouts, which play to run out of a timeout, who takes the last shot. The game slows down, the pressure rises, and thinking clearly becomes a skill of its own.",
     "Great closers prepare for these moments long before they arrive. They know the scenarios — up 3, down 2, tie game — and already have a plan for each. Composure is not the absence of pressure; it is having a decision already made before the pressure arrives."
@@ -78,66 +139,5 @@
   "whyItMatters": [
     "Players remember who made the last shot, but games are usually decided by the five small decisions before it. Teams with a clear late-game plan win more close games regardless of talent. This is where coaching and basketball IQ matter most.",
     "It is also where preparation compounds. A team that has rehearsed its late-game scenarios plays free; a team improvising plays tight. The work done in October wins the game in March."
-  ],
-  "vi": {
-    "title": "Ra Quyết Định Cuối Trận",
-    "description": "Cách tư duy trong hai phút cuối — chiến thuật phạm lỗi, các pha ATO, cách dùng timeout, và giữ bình tĩnh khi trận đấu được định đoạt.",
-    "whatIsIt": [
-      "Ra quyết định cuối trận là những lựa chọn trong vài phút cuối khi mỗi đợt tấn công đều có thể định đoạt kết quả: có nên phạm lỗi khi đang dẫn 3 điểm, khi nào dùng timeout, chạy bài nào sau timeout, ai là người ném cú cuối. Nhịp trận đấu chậm lại, áp lực tăng cao, và tư duy tỉnh táo trở thành một kỹ năng của riêng nó.",
-      "Những cầu thủ kết liễu trận đấu giỏi chuẩn bị cho những khoảnh khắc này từ rất lâu trước khi chúng đến. Họ biết các kịch bản — dẫn 3, kém 2, hòa điểm — và đã có sẵn kế hoạch cho từng kịch bản. Bình tĩnh không phải là không có áp lực; bình tĩnh là đã có sẵn quyết định trước khi áp lực ập đến."
-    ],
-    "whyItMatters": [
-      "Người ta nhớ ai là người ném cú cuối, nhưng trận đấu thường được định đoạt bởi năm quyết định nhỏ trước đó. Những đội có kế hoạch cuối trận rõ ràng thắng nhiều trận sát nút hơn bất kể tài năng. Đây là lúc huấn luyện và IQ bóng rổ quan trọng nhất.",
-      "Đây cũng là lúc sự chuẩn bị cộng dồn. Một đội đã tập dượt các kịch bản cuối trận sẽ chơi thoải mái; một đội ứng biến tại chỗ sẽ chơi căng cứng. Công sức bỏ ra trong tháng Mười sẽ thắng trận đấu vào tháng Ba."
-    ],
-    "howTo": [
-      {
-        "title": "Nắm rõ kịch bản",
-        "detail": "Trước hai phút cuối, xác nhận đầy đủ bức tranh: tỷ số, lỗi đồng đội, số timeout, tình trạng bonus. Mọi quyết định cuối trận đều xuất phát từ những dữ kiện này."
-      },
-      {
-        "title": "Dẫn 3, cuối trận: có triết lý phạm lỗi",
-        "detail": "Quyết định từ trước xem bạn có phạm lỗi để ngăn cú ném ba gỡ hòa hay tin vào hàng thủ — và truyền đạt rõ ràng để cả năm cầu thủ thực hiện cùng một kế hoạch."
-      },
-      {
-        "title": "Đang kém cuối trận: ném hai nhanh hay ném ba",
-        "detail": "Nắm chắc phép tính. Một cú ném hai nhanh giữ lại thời gian cho đợt tấn công tiếp theo; một cú ném ba gỡ hòa ngay lập tức. Hãy quyết định trước khi đợt tấn công bắt đầu, đừng quyết trong lúc đang đánh."
-      },
-      {
-        "title": "Dùng timeout để đưa bóng lên và tổ chức",
-        "detail": "Giữ lại ít nhất một timeout cho đợt tấn công cuối. Nắm rõ các bài sau timeout từ biên dọc và biên ngang — những bài bạn thực sự đã tập."
-      },
-      {
-        "title": "Đưa bóng cho người ra quyết định tốt nhất",
-        "detail": "Cú ném cuối nên đến từ cầu thủ kiến tạo và ra quyết định đáng tin cậy nhất — không nhất thiết là tay ném giỏi nhất. Hãy tin người đưa ra lựa chọn đúng dưới áp lực."
-      },
-      {
-        "title": "Giữ bình tĩnh",
-        "detail": "Thở chậm lại, bám sát kế hoạch, và thực hiện pha đơn giản. Hoảng loạn tạo ra turnover; bình tĩnh tạo ra cú ném tốt. Cả đội sẽ lấy cảm xúc từ những người thủ lĩnh."
-      }
-    ],
-    "coachingPoints": [
-      "Soạn sẵn 3 bài sau timeout hay nhất và tập chúng dưới áp lực mô phỏng.",
-      "Quyết định triết lý phạm lỗi khi dẫn 3 điểm từ trước mùa giải, đừng quyết trong khoảnh khắc.",
-      "Tập ném phạt có 'hình phạt' để mô phỏng áp lực cuối trận.",
-      "Mổ xẻ mọi trận sát nút: đánh giá quyết định nào đúng, bất kể kết quả ra sao."
-    ],
-    "commonMistakes": [
-      "Phạm lỗi với tay ném đang nhảy ném khi đang dẫn điểm cuối trận.",
-      "Dùng hết timeout quá sớm và không còn timeout nào cho đợt tấn công cuối.",
-      "Cố ném ba bị kèm chặt trong khi hoàn toàn có thể ném hai nhanh.",
-      "Hoảng loạn và bỏ hẳn lối đánh trong phút cuối."
-    ],
-    "gameSituations": [
-      "Trận hòa, còn 15 giây, một timeout: giữ bóng cho cú ném cuối.",
-      "Dẫn 3 điểm còn 8 giây: quyết định phạm lỗi hay phòng thủ.",
-      "Kém 2 điểm còn 20 giây: ném hai nhanh rồi phạm lỗi, hay đánh để ném ba."
-    ],
-    "tags": [
-      "iq bóng rổ",
-      "cuối trận",
-      "chiến thuật",
-      "áp lực"
-    ]
-  }
+  ]
 }

@@ -1,1 +1,127 @@
-{"dateUpdated":"2026-10-06","description":"A pure 45-minute shooting session for serious scorers: form, catch-and-shoot, shots off screens, pull-ups, and pressure free throws — 300+ quality reps.","durationMin":45,"equipment":["Basketball","Cones"],"focus":["Shooting","Footwork","Free Throws"],"id":"shooter-workout","items":[{"detail":"Start 3 feet from the rim: one-hand form shots, hold the follow-through. 20 makes, then step back to 6 feet for 20 more. Every rep perfect.","name":"Form shooting block","time":"5:00"},{"detail":"Five spots around the arc: 5 makes per spot before moving. Sprint between spots — shoot tired, like late in games.","name":"Spot shooting ladder","time":"6:00"},{"detail":"Catch on the move from a partner or toss: plant the inside foot, square up, rise. 10 makes from each wing and the top.","name":"Catch-and-shoot on the move","time":"7:00"},{"detail":"Sprint off a cone screen, catch, and shoot: curls, flares, and straight cuts. 5 makes of each cut, both sides.","name":"Shooting off screens","time":"7:00"},{"detail":"One-dribble pull-ups from the elbow, two-dribble pull-ups from the wing. 4 makes per spot, alternate sides. Game-speed dribbles.","name":"Pull-up series","time":"7:00"},{"detail":"10 free throws in a row: if you miss two in a row, run a suicide and restart the streak. Build pressure-proof routine.","name":"Free throws with pressure","time":"5:00"},{"detail":"Step-back threes and fadeaway midrange: create space with one hard dribble. 3 makes per move — quality over quantity here.","name":"Step-backs and fadeaways","time":"5:00"},{"detail":"Finish soft: 10 easy free throws, deep breaths between each. Leave the gym with your last 10 makes feeling automatic.","name":"Cool-down free throws","time":"3:00"}],"level":"intermediate","slug":"shooter-workout","tips":["Track makes, not attempts — 200 makes beats 500 sloppy shots.","Never practice contested-looking shots standing still; add the cut, the screen, or the dribble.","Your last rep of every block should be your best rep — finish blocks with a make.","Film 60 seconds of your shot from the side once a month and compare."],"title":"Shooter's Workout","vi":{"description":"Buổi tập ném 45 phút thuần túy cho tay ghi điểm: form, catch-and-shoot, ném sau screen, pull-up và ném phạt dưới áp lực — hơn 300 lượt ném chất lượng.","equipment":["Bóng rổ","Cọc tiêu"],"focus":["Ném rổ","Bộ chân","Ném phạt"],"items":[{"detail":"Bắt đầu cách rổ 1m: ném form một tay, giữ follow-through. Vào 20 quả rồi lùi ra 2m ném thêm 20 quả. Mỗi lượt đều chuẩn.","name":"Khối ném form","time":"5:00"},{"detail":"Năm điểm quanh vòng 3 điểm: mỗi điểm vào 5 quả mới chuyển. Chạy nước rút giữa các điểm — ném khi mệt như cuối trận.","name":"Thang ném điểm","time":"6:00"},{"detail":"Bắt bóng khi di chuyển từ đồng đội hoặc tự tung: đặt chân trong, xoay người, bật lên. Mỗi cánh và đỉnh vào 10 quả.","name":"Catch-and-shoot khi di chuyển","time":"7:00"},{"detail":"Chạy vòng qua screen (cọc), bắt bóng và ném: cắt curl, flare và cắt thẳng. Mỗi kiểu vào 5 quả, cả hai bên.","name":"Ném sau screen","time":"7:00"},{"detail":"Pull-up một nhịp ở elbow, pull-up hai nhịp ở wing. Mỗi điểm vào 4 quả, đổi bên. Dẫn bóng đúng tốc độ trận đấu.","name":"Chuỗi pull-up","time":"7:00"},{"detail":"10 quả phạt liên tiếp: trượt 2 quả liền thì chạy một lượt suicide rồi ném lại từ đầu. Rèn routine chịu áp lực.","name":"Ném phạt dưới áp lực","time":"5:00"},{"detail":"Step-back 3 điểm và fadeaway tầm trung: tạo khoảng trống bằng một nhịp dẫn mạnh. Mỗi động tác vào 3 quả — chất lượng hơn số lượng.","name":"Step-back và fadeaway","time":"5:00"},{"detail":"Kết thúc nhẹ nhàng: 10 quả phạt dễ, hít thở sâu giữa mỗi quả. Rời sân với cảm giác 10 quả cuối vào tự động.","name":"Hạ nhiệt bằng ném phạt","time":"3:00"}],"tips":["Đếm số quả vào, không đếm số lần ném — 200 quả vào tốt hơn 500 quả ẩu.","Đừng bao giờ tập ném đứng yên cho những cú cần di chuyển; hãy thêm pha cắt, screen hoặc nhịp dẫn.","Lượt cuối của mỗi khối phải là lượt đẹp nhất — kết thúc khối bằng một quả vào.","Mỗi tháng quay 60 giây cú ném từ bên hông và so sánh."],"title":"Buổi Tập Tay Ném"}}
+{
+  "dateUpdated": "2026-10-06",
+  "description": "A pure 45-minute shooting session for serious scorers: form, catch-and-shoot, shots off screens, pull-ups, and pressure free throws — 300+ quality reps.",
+  "durationMin": 45,
+  "equipment": [
+    "Basketball",
+    "Cones"
+  ],
+  "focus": [
+    "Shooting",
+    "Footwork",
+    "Free Throws"
+  ],
+  "id": "shooter-workout",
+  "items": [
+    {
+      "detail": "Start 3 feet from the rim: one-hand form shots, hold the follow-through. 20 makes, then step back to 6 feet for 20 more. Every rep perfect.",
+      "name": "Form shooting block",
+      "time": "5:00"
+    },
+    {
+      "detail": "Five spots around the arc: 5 makes per spot before moving. Sprint between spots — shoot tired, like late in games.",
+      "name": "Spot shooting ladder",
+      "time": "6:00"
+    },
+    {
+      "detail": "Catch on the move from a partner or toss: plant the inside foot, square up, rise. 10 makes from each wing and the top.",
+      "name": "Catch-and-shoot on the move",
+      "time": "7:00"
+    },
+    {
+      "detail": "Sprint off a cone screen, catch, and shoot: curls, flares, and straight cuts. 5 makes of each cut, both sides.",
+      "name": "Shooting off screens",
+      "time": "7:00"
+    },
+    {
+      "detail": "One-dribble pull-ups from the elbow, two-dribble pull-ups from the wing. 4 makes per spot, alternate sides. Game-speed dribbles.",
+      "name": "Pull-up series",
+      "time": "7:00"
+    },
+    {
+      "detail": "10 free throws in a row: if you miss two in a row, run a suicide and restart the streak. Build pressure-proof routine.",
+      "name": "Free throws with pressure",
+      "time": "5:00"
+    },
+    {
+      "detail": "Step-back threes and fadeaway midrange: create space with one hard dribble. 3 makes per move — quality over quantity here.",
+      "name": "Step-backs and fadeaways",
+      "time": "5:00"
+    },
+    {
+      "detail": "Finish soft: 10 easy free throws, deep breaths between each. Leave the gym with your last 10 makes feeling automatic.",
+      "name": "Cool-down free throws",
+      "time": "3:00"
+    }
+  ],
+  "level": "intermediate",
+  "slug": "shooter-workout",
+  "tips": [
+    "Track makes, not attempts — 200 makes beats 500 sloppy shots.",
+    "Never practice contested-looking shots standing still; add the cut, the screen, or the dribble.",
+    "Your last rep of every block should be your best rep — finish blocks with a make.",
+    "Film 60 seconds of your shot from the side once a month and compare."
+  ],
+  "title": "Shooter's Workout",
+  "vi": {
+    "title": "Giáo án tay ném 45 phút",
+    "description": "Buổi tập ném thuần túy 45 phút cho tay ghi điểm thứ thiệt: form ném, bắt bóng ném ngay, ném sau screen, pull-up và ném phạt dưới áp lực — hơn 300 lượt ném chất lượng.",
+    "focus": [
+      "Ném rổ",
+      "Bộ chân",
+      "Ném phạt"
+    ],
+    "equipment": [
+      "Bóng rổ",
+      "Cọc tiêu"
+    ],
+    "items": [
+      {
+        "name": "Khối ném form",
+        "detail": "Bắt đầu cách rổ 1m: ném form một tay, giữ nguyên tay follow-through. Vào 20 quả rồi lùi ra 1,8m ném thêm 20 quả. Lượt nào cũng phải chuẩn.",
+        "time": "5:00"
+      },
+      {
+        "name": "Thang ném điểm",
+        "detail": "Năm điểm quanh vòng cung 3 điểm: vào đủ 5 quả mới chuyển điểm. Chạy nước rút giữa các điểm — tập ném khi mệt như cuối trận.",
+        "time": "6:00"
+      },
+      {
+        "name": "Bắt bóng ném ngay khi di chuyển",
+        "detail": "Bắt bóng khi đang di chuyển, từ đường chuyền của đồng đội hoặc tự tung bóng: đặt chân trong, xoay người vuông góc rổ, bật lên ném. Mỗi cánh và đỉnh vòng cung vào 10 quả.",
+        "time": "7:00"
+      },
+      {
+        "name": "Ném sau screen",
+        "detail": "Chạy nước rút vòng qua screen (cọc), bắt bóng ném ngay: cắt curl, cắt flare và cắt thẳng. Mỗi kiểu cắt vào 5 quả, cả hai bên.",
+        "time": "7:00"
+      },
+      {
+        "name": "Chuỗi pull-up",
+        "detail": "Pull-up một nhịp rê ở vị trí elbow, pull-up hai nhịp rê ở cánh. Mỗi điểm vào 4 quả, đổi bên liên tục. Nhịp dẫn bóng đúng tốc độ trận đấu.",
+        "time": "7:00"
+      },
+      {
+        "name": "Ném phạt dưới áp lực",
+        "detail": "10 quả ném phạt liên tiếp: trượt 2 quả liền thì chạy một lượt suicide rồi ném lại từ đầu. Rèn nghi thức ném không biết sợ áp lực.",
+        "time": "5:00"
+      },
+      {
+        "name": "Step-back và fadeaway",
+        "detail": "Step-back ném 3 điểm và fadeaway tầm trung: tạo khoảng trống bằng một nhịp dẫn thật mạnh. Mỗi động tác vào 3 quả — ở đây chất lượng hơn số lượng.",
+        "time": "5:00"
+      },
+      {
+        "name": "Hạ nhiệt bằng ném phạt",
+        "detail": "Kết thúc nhẹ nhàng: 10 quả ném phạt dễ, hít thở sâu giữa mỗi quả. Rời sân với cảm giác 10 quả cuối vào như một thói quen.",
+        "time": "3:00"
+      }
+    ],
+    "tips": [
+      "Đếm số quả vào, không đếm số lần ném — 200 quả vào tốt hơn 500 quả ẩu.",
+      "Đừng tập đứng yên những cú ném cần di chuyển trong trận; thêm pha cắt, screen hoặc nhịp dẫn vào.",
+      "Lượt cuối của mỗi khối phải là lượt đẹp nhất — kết thúc khối bằng một quả vào.",
+      "Mỗi tháng quay 60 giây cú ném từ góc nghiêng một lần rồi so sánh các tháng."
+    ]
+  }
+}

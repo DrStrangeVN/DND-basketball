@@ -1,1 +1,131 @@
-{"ages":["U16","U18","Adult","Competitive"],"coachingPoints":["The screener must be set before the driver commits — timing is the whole play.","The shooter drifts with hands ready and eyes on the ball.","The driver reads the strong-side help: if it stays, finish; if it goes to the shooter, dump it.","Practice the skip pass — the hammer often ends with a long cross-court throw."],"commonMistakes":["Screening too early — the defense sees it and switches.","The shooter drifting too far and stepping out of bounds.","Driving without reading — the hammer needs eyes up.","Forgetting the weak-side help can still rotate — it's not always open."],"dateUpdated":"2026-10-06","description":"Baseline drive plus a back screen for the weak-side shooter — the hammer creates the most open three in basketball.","gameSituations":["Baseline drives — the classic hammer setup.","Against help-heavy defenses that sink to the paint.","Late clock — one drive creates a clean corner three.","With an elite corner shooter — run it until they adjust."],"howTo":[{"detail":"The ball handler drives baseline, forcing the defense to collapse. The drive must be a real threat — a half-hearted drive gets no help and no hammer.","title":"Drive baseline with force"},{"detail":"As the drive happens, a weak-side player sets a back screen on the strong-side corner defender — the hammer screen. The corner defender, watching the ball, never sees it coming.","title":"Set the hammer screen"},{"detail":"The weak-side shooter uses the screen to drift to the corner (or the wing, depending on alignment), hands ready. The screen must be legal and the cut must be timed to the drive.","title":"The shooter drifts to the spot"},{"detail":"The driver reads the rotation: if the corner defender fights through and recovers, finish at the rim; if the help commits to you, throw the skip pass to the open shooter.","title":"Read and deliver"}],"hub":"tactics","id":"hammer-action","level":"advanced","positions":["PG","SG","SF"],"readTime":5,"related":["drive-and-kick","skip-pass","spacing-basics","screening-basketball","three-point-shooting"],"slug":"hammer-action","subcategory":"half-court-offense","tags":["hammer","back screen","corner three","offense"],"title":"Hammer Action","vi":{"coachingPoints":["Người screen phải đứng vững trước khi người đột phá dấn vào — thời điểm là tất cả.","Người ném drift với tay sẵn sàng và mắt nhìn bóng.","Người đột phá đọc help phía mạnh: nếu họ ở lại, dứt điểm; nếu họ lao ra shooter, chuyền ra.","Tập đường skip pass — hammer thường kết thúc bằng một đường chuyền dài xuyên sân."],"commonMistakes":["Screen quá sớm — hàng thủ nhìn thấy và switch.","Người ném drift quá xa và dẫm ra ngoài biên.","Đột phá mà không đọc — hammer cần mắt ngẩng.","Quên rằng help phía yếu vẫn có thể xoay kịp — không phải lúc nào cũng trống."],"description":"Đột phá baseline cộng back screen cho shooter phía yếu — hammer tạo ra cú ba điểm trống nhất trong bóng rổ.","gameSituations":["Đột phá baseline — setup hammer kinh điển.","Trước hàng thủ thích co vào paint.","Cuối giờ — một pha đột phá tạo ra cú ném ba góc sạch.","Khi có shooter góc đẳng cấp — chạy đến khi họ điều chỉnh."],"howTo":[{"detail":"Người cầm bóng đột phá baseline, ép hàng thủ co vào. Pha đột phá phải là mối đe dọa thật — đột phá nửa vời không kéo được help và không có hammer.","title":"Đột phá baseline quyết liệt"},{"detail":"Khi pha đột phá diễn ra, một cầu thủ phía yếu đặt back screen vào hậu vệ góc phía mạnh — hammer screen. Hậu vệ góc đang nhìn bóng sẽ không bao giờ thấy nó đến.","title":"Đặt hammer screen"},{"detail":"Shooter phía yếu dùng screen để drift ra góc (hoặc wing, tùy đội hình), tay sẵn sàng. Screen phải hợp lệ và pha cắt phải đúng thời điểm với pha đột phá.","title":"Shooter drift đến điểm ném"},{"detail":"Người đột phá đọc pha xoay: nếu hậu vệ góc vượt qua screen và về kịp, dứt điểm ở rổ; nếu help lao vào bạn, ném skip pass cho shooter đang trống.","title":"Đọc và chuyền"}],"tags":["hammer","back screen","ném ba góc","tấn công"],"title":"Bài Hammer (Hammer Action)","whatIsIt":["Hammer action là sự kết hợp giữa một pha đột phá baseline và một back screen ('hammer screen') đặt vào hậu vệ góc phía mạnh. Khi người đột phá ép hàng thủ co vào, shooter phía yếu dùng screen để thoát ra góc — đúng lúc đường skip pass đến.","Bài này khai thác một thói quen cố hữu của hàng thủ: hậu vệ góc luôn nhìn bóng khi có đột phá baseline. Back screen đến từ điểm mù của họ. Kết quả là cú ném ba điểm trống trải nhất trong bóng rổ — và là lý do các đội NBA chạy hammer hàng chục lần mỗi trận."],"whyItMatters":["Góc sân là cú ném ba điểm hiệu quả nhất (gần hơn, góc nhìn tốt hơn), và hammer là cách đáng tin cậy nhất để tạo ra nó. Hàng thủ có thể lên kế hoạch cho mọi thứ — nhưng họ không thể vừa chặn đột phá baseline vừa giữ được góc khi back screen đến từ điểm mù. Đội nào chạy hammer tốt buộc đối thủ phải chọn: để mất rổ hay để mất góc."]},"whatIsIt":["Hammer action pairs a baseline drive with a back screen (the 'hammer screen') on the strong-side corner defender. As the driver collapses the defense, the weak-side shooter uses the screen to drift to the corner — just as the skip pass arrives.","It exploits a hardwired defensive habit: the corner defender always ball-watches on baseline drives. The back screen comes from their blind spot. The result is the most open three in basketball — which is why NBA teams run hammer dozens of times a game."],"whyItMatters":["The corner is the most efficient three (shorter, better angle), and hammer is the most reliable way to create it. Defenses can game-plan for everything — but they can't stop the baseline drive and keep the corner when the back screen comes blind. Teams that run hammer well force an impossible choice: give up the rim or give up the corner."]}
+{
+  "ages": [
+    "U16",
+    "U18",
+    "Adult",
+    "Competitive"
+  ],
+  "coachingPoints": [
+    "The screener must be set before the driver commits — timing is the whole play.",
+    "The shooter drifts with hands ready and eyes on the ball.",
+    "The driver reads the strong-side help: if it stays, finish; if it goes to the shooter, dump it.",
+    "Practice the skip pass — the hammer often ends with a long cross-court throw."
+  ],
+  "commonMistakes": [
+    "Screening too early — the defense sees it and switches.",
+    "The shooter drifting too far and stepping out of bounds.",
+    "Driving without reading — the hammer needs eyes up.",
+    "Forgetting the weak-side help can still rotate — it's not always open."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "Baseline drive plus a back screen for the weak-side shooter — the hammer creates the most open three in basketball.",
+  "gameSituations": [
+    "Baseline drives — the classic hammer setup.",
+    "Against help-heavy defenses that sink to the paint.",
+    "Late clock — one drive creates a clean corner three.",
+    "With an elite corner shooter — run it until they adjust."
+  ],
+  "howTo": [
+    {
+      "detail": "The ball handler drives baseline, forcing the defense to collapse. The drive must be a real threat — a half-hearted drive gets no help and no hammer.",
+      "title": "Drive baseline with force"
+    },
+    {
+      "detail": "As the drive happens, a weak-side player sets a back screen on the strong-side corner defender — the hammer screen. The corner defender, watching the ball, never sees it coming.",
+      "title": "Set the hammer screen"
+    },
+    {
+      "detail": "The weak-side shooter uses the screen to drift to the corner (or the wing, depending on alignment), hands ready. The screen must be legal and the cut must be timed to the drive.",
+      "title": "The shooter drifts to the spot"
+    },
+    {
+      "detail": "The driver reads the rotation: if the corner defender fights through and recovers, finish at the rim; if the help commits to you, throw the skip pass to the open shooter.",
+      "title": "Read and deliver"
+    }
+  ],
+  "hub": "tactics",
+  "id": "hammer-action",
+  "level": "advanced",
+  "positions": [
+    "PG",
+    "SG",
+    "SF"
+  ],
+  "readTime": 5,
+  "related": [
+    "drive-and-kick",
+    "skip-pass",
+    "spacing-basics",
+    "screening-basketball",
+    "three-point-shooting"
+  ],
+  "slug": "hammer-action",
+  "subcategory": "half-court-offense",
+  "tags": [
+    "hammer",
+    "back screen",
+    "corner three",
+    "offense"
+  ],
+  "title": "Hammer Action",
+  "vi": {
+    "coachingPoints": [
+      "Người screen phải đứng yên trước khi người đột phá dấn vào — nhịp điệu là cả pha bóng.",
+      "Tay ném trôi ra với tay sẵn sàng, mắt nhìn bóng.",
+      "Người đột phá đọc trợ giúp phía mạnh: họ đứng yên thì tự kết thúc; họ lao ra tay ném thì chuyền.",
+      "Tập đường chuyền skip — hammer thường kết thúc bằng một cú ném xa xuyên sân."
+    ],
+    "commonMistakes": [
+      "Screen quá sớm — hàng thủ nhìn thấy và switch.",
+      "Tay ném trôi quá xa, dẫm ra ngoài biên.",
+      "Đột phá không đọc tình huống — hammer cần mắt nhìn lên.",
+      "Quên rằng trợ giúp phía yếu bóng vẫn có thể xoay về — không phải lúc nào cũng trống."
+    ],
+    "description": "Đột phá dọc biên kết hợp screen từ phía sau cho tay ném phía yếu bóng — hammer tạo ra quả ném 3 điểm trống nhất trong bóng rổ.",
+    "gameSituations": [
+      "Đột phá dọc biên — kịch bản hammer kinh điển.",
+      "Gặp hàng thủ ham trợ giúp, hay sập vào khu vực dưới rổ.",
+      "Cuối đồng hồ 24 giây — một pha đột phá tạo ra quả ném 3 điểm sạch ở góc.",
+      "Có tay ném góc đẳng cấp — chạy đến khi họ điều chỉnh."
+    ],
+    "howTo": [
+      {
+        "detail": "Người cầm bóng đột phá dọc đường biên, ép hàng thủ phải sập vào. Pha đột phá phải là mối đe dọa thật — đột phá nửa vời không kéo được trợ giúp, không có hammer.",
+        "title": "Đột phá dọc biên thật quyết liệt"
+      },
+      {
+        "detail": "Trong lúc đột phá, một cầu thủ phía yếu bóng dựng screen từ phía sau vào cầu thủ phòng thủ ở góc mạnh — đó là hammer screen. Người ở góc đang mải nhìn bóng, không bao giờ thấy nó tới.",
+        "title": "Dựng hammer screen"
+      },
+      {
+        "detail": "Tay ném phía yếu bóng dùng screen để trôi ra góc (hoặc cánh, tùy đội hình), tay đã sẵn sàng. Screen phải hợp lệ và pha cắt phải đúng nhịp với pha đột phá.",
+        "title": "Tay ném trôi ra đúng vị trí"
+      },
+      {
+        "detail": "Người đột phá đọc rotation: cầu thủ ở góc luồn qua được và hồi về thì tự kết thúc ở rổ; trợ giúp ập vào người thì tung đường chuyền skip cho tay ném đang trống.",
+        "title": "Đọc và chuyền"
+      }
+    ],
+    "tags": [
+      "hammer",
+      "screen",
+      "ném 3 điểm",
+      "tấn công"
+    ],
+    "title": "Chiến thuật hammer",
+    "whatIsIt": [
+      "Hammer kết hợp một pha đột phá dọc đường biên với một screen từ phía sau (gọi là 'hammer screen') đặt vào cầu thủ phòng thủ ở góc mạnh. Khi người đột phá kéo sập hàng thủ, tay ném ở phía yếu bóng dùng screen để trôi ra góc — đúng lúc đường chuyền skip tới.",
+      "Nó khai thác một thói quen ăn sâu của hàng thủ: cầu thủ ở góc luôn mải nhìn bóng khi có đột phá dọc biên. Screen từ phía sau đến từ điểm mù của họ. Kết quả là quả ném 3 điểm trống nhất trong bóng rổ — vì thế các đội NBA chạy hammer hàng chục lần mỗi trận."
+    ],
+    "whyItMatters": [
+      "Góc sân là vị trí ném 3 điểm hiệu quả nhất (gần hơn, góc tốt hơn), và hammer là cách chắc ăn nhất để tạo ra nó. Hàng thủ có thể lên kế hoạch cho mọi thứ — nhưng không thể vừa chặn đột phá dọc biên vừa giữ được góc khi screen từ phía sau đến từ điểm mù. Đội chạy hammer tốt đặt đối phương trước lựa chọn bất khả thi: nhường rổ hay nhường góc."
+    ]
+  },
+  "whatIsIt": [
+    "Hammer action pairs a baseline drive with a back screen (the 'hammer screen') on the strong-side corner defender. As the driver collapses the defense, the weak-side shooter uses the screen to drift to the corner — just as the skip pass arrives.",
+    "It exploits a hardwired defensive habit: the corner defender always ball-watches on baseline drives. The back screen comes from their blind spot. The result is the most open three in basketball — which is why NBA teams run hammer dozens of times a game."
+  ],
+  "whyItMatters": [
+    "The corner is the most efficient three (shorter, better angle), and hammer is the most reliable way to create it. Defenses can game-plan for everything — but they can't stop the baseline drive and keep the corner when the back screen comes blind. Teams that run hammer well force an impossible choice: give up the rim or give up the corner."
+  ]
+}

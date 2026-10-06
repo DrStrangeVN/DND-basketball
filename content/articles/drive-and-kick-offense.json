@@ -1,11 +1,4 @@
 {
-  "id": "drive-and-kick-offense",
-  "slug": "drive-and-kick-offense",
-  "title": "Drive & Kick Offense",
-  "description": "Attack the paint off the dribble to collapse the defense, then kick out to open shooters.",
-  "hub": "offense",
-  "subcategory": "team-offense",
-  "level": "intermediate",
   "ages": [
     "U12",
     "U14",
@@ -13,46 +6,6 @@
     "U18",
     "Adult",
     "Competitive"
-  ],
-  "positions": [
-    "ALL"
-  ],
-  "tags": [
-    "driving",
-    "kick-out",
-    "spacing",
-    "penetration"
-  ],
-  "readTime": 5,
-  "whatIsIt": [
-    "Drive and kick is the simplest and most explosive offensive concept in basketball: one player beats their defender off the dribble, the defense collapses to help, and the driver kicks the ball out to an open teammate.",
-    "It does not require complex plays. It requires spacing, one player who can get into the paint, and teammates who relocate to open spots as the drive develops.",
-    "Modern analytics love drive and kick because it produces the two most efficient shots in basketball — layups and open threes — on the same possession."
-  ],
-  "whyItMatters": [
-    "Every defense has to choose between giving up the layup or giving up the open three. Drive and kick forces that choice on every possession. It also develops the most valuable guard skill in the modern game: playing in the paint with your eyes up."
-  ],
-  "howTo": [
-    {
-      "title": "Attack a closeout or a mismatch",
-      "detail": "Drives start from advantage — a long closeout, a slower defender, a screen. Drive with a plan, not just to dribble into traffic."
-    },
-    {
-      "title": "Get two feet in the paint",
-      "detail": "The goal is a paint touch. Once two feet are inside, the defense must help, and the kick-out lanes open."
-    },
-    {
-      "title": "Read the help, not your defender",
-      "detail": "Beat your man, then lift your eyes. The pass goes to the spot the helper left — usually the corner or the wing behind the drive."
-    },
-    {
-      "title": "Kick with pace",
-      "detail": "Throw the kick-out hard and on target, to the shooter's pocket. A soft or late pass lets the defense recover."
-    },
-    {
-      "title": "Relocate as the drive happens",
-      "detail": "Off-ball players slide to open windows — corners lift, wings drift. Great drive-and-kick teams move without the ball as much as the driver moves with it."
-    }
   ],
   "coachingPoints": [
     "Teach a two-dribble limit mindset: get into the paint in two dribbles or give it up.",
@@ -65,13 +18,29 @@
     "Kicking out too late, after the defense has already rotated back.",
     "Teammates standing still and watching the drive instead of relocating to space."
   ],
-  "gameSituations": [
-    "Any possession where a defender closes out long or gets beat off the dribble.",
-    "Against zone defenses — dribble penetration collapses zones faster than passing around them.",
-    "Late-clock situations needing one clean look: drive, draw two, kick."
-  ],
+  "dateUpdated": "2026-10-06",
+  "description": "Attack the paint off the dribble to collapse the defense, then kick out to open shooters.",
   "diagram": {
-    "title": "Drive and kick: baseline drive, kick to the corner",
+    "ball": "O1",
+    "defense": [
+      {
+        "label": "X1",
+        "x": 32,
+        "y": 62
+      },
+      {
+        "label": "X2",
+        "x": 24,
+        "y": 40
+      }
+    ],
+    "moves": [
+      {
+        "from": "O1",
+        "kind": "dribble",
+        "to": "O2"
+      }
+    ],
     "offense": [
       {
         "label": "O1",
@@ -89,96 +58,127 @@
         "y": 58
       }
     ],
-    "defense": [
-      {
-        "label": "X1",
-        "x": 32,
-        "y": 62
-      },
-      {
-        "label": "X2",
-        "x": 24,
-        "y": 40
-      }
-    ],
-    "ball": "O1",
-    "screens": [],
-    "moves": [
-      {
-        "from": "O1",
-        "to": "O2",
-        "kind": "dribble"
-      }
-    ],
     "passes": [
       {
         "from": "O1",
         "to": "O2"
       }
     ],
-    "shots": []
+    "screens": [],
+    "shots": [],
+    "title": "Drive and kick: baseline drive, kick to the corner"
   },
+  "gameSituations": [
+    "Any possession where a defender closes out long or gets beat off the dribble.",
+    "Against zone defenses — dribble penetration collapses zones faster than passing around them.",
+    "Late-clock situations needing one clean look: drive, draw two, kick."
+  ],
+  "howTo": [
+    {
+      "detail": "Drives start from advantage — a long closeout, a slower defender, a screen. Drive with a plan, not just to dribble into traffic.",
+      "title": "Attack a closeout or a mismatch"
+    },
+    {
+      "detail": "The goal is a paint touch. Once two feet are inside, the defense must help, and the kick-out lanes open.",
+      "title": "Get two feet in the paint"
+    },
+    {
+      "detail": "Beat your man, then lift your eyes. The pass goes to the spot the helper left — usually the corner or the wing behind the drive.",
+      "title": "Read the help, not your defender"
+    },
+    {
+      "detail": "Throw the kick-out hard and on target, to the shooter's pocket. A soft or late pass lets the defense recover.",
+      "title": "Kick with pace"
+    },
+    {
+      "detail": "Off-ball players slide to open windows — corners lift, wings drift. Great drive-and-kick teams move without the ball as much as the driver moves with it.",
+      "title": "Relocate as the drive happens"
+    }
+  ],
+  "hub": "offense",
+  "id": "drive-and-kick-offense",
+  "level": "intermediate",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 5,
   "related": [
     "five-out-offense",
     "motion-offense",
     "cutting-basketball",
     "dho-action"
   ],
-  "dateUpdated": "2026-10-06",
+  "slug": "drive-and-kick-offense",
+  "subcategory": "team-offense",
+  "tags": [
+    "driving",
+    "kick-out",
+    "spacing",
+    "penetration"
+  ],
+  "title": "Drive & Kick Offense",
   "vi": {
     "coachingPoints": [
-      "Dạy tư duy giới hạn hai lần dẫn: vào khu vực hình thang trong hai lần dẫn hoặc chuyền đi",
-      "Người đột phá phải jump-stop hoặc stride-stop trong hình thang để giữ thăng bằng khi kick ra",
-      "Tay ném nên sẵn sàng ném trước khi bắt bóng — chân đã trụ, tay sẵn sàng",
-      "Thưởng cho đường chuyền thêm: cú kick đầu tiên thường tạo ra cú ném thứ hai tốt hơn"
+      "Dạy tư duy giới hạn hai pha dẫn bóng: vào khu vực dưới rổ trong hai nhịp hoặc nhả bóng",
+      "Người đột phá phải jump-stop hoặc stride-stop trong khu vực dưới rổ để giữ thăng bằng khi chuyền",
+      "Người ném phải sẵn sàng trước khi bắt bóng — chân đã đặt, tay đã chờ",
+      "Thưởng cho đường chuyền thêm: đường chuyền đầu thường tạo ra cú ném thứ hai tốt hơn"
     ],
     "commonMistakes": [
-      "Đột phá cúi đầu và bỏ lỡ đường kick-out đang trống",
-      "Kick ra quá muộn, sau khi hàng thủ đã xoay về",
-      "Đồng đội đứng yên nhìn pha đột phá thay vì di chuyển vào khoảng trống"
+      "Đột phá cúi đầu, bỏ lỡ đường chuyền ra đang trống",
+      "Chuyền ra quá muộn, sau khi hàng thủ đã xoay về",
+      "Đồng đội đứng yên xem đột phá thay vì di chuyển vào khoảng trống"
     ],
-    "description": "Tấn công hình thang khi dẫn bóng để làm sụp đổ hàng thủ, rồi kick ra cho tay ném trống.",
+    "description": "Đột phá vào khu vực dưới rổ để kéo sập hàng thủ, rồi chuyền ra cho người ném trống.",
     "gameSituations": [
-      "Mọi đợt tấn công khi hậu vệ closeout dài hoặc bị vượt qua khi dẫn bóng",
-      "Trước hàng thủ zone — đột phá xuyên thủng zone nhanh hơn chuyền quanh nó",
-      "Cuối đồng hồ cần một cú nhìn sạch: đột phá, kéo hai người, kick ra"
+      "Mọi đợt tấn công mà cầu thủ phòng thủ closeout dài hoặc bị vượt qua",
+      "Trước phòng thủ zone — đột phá làm sập zone nhanh hơn chuyền vòng quanh",
+      "Cuối đồng hồ cần một cú ném sạch: đột phá, hút hai người, chuyền ra"
     ],
     "howTo": [
       {
-        "detail": "Các pha đột phá bắt đầu từ lợi thế — một pha closeout dài, một hậu vệ chậm hơn, một màn chắn. Đột phá có kế hoạch, đừng chỉ dẫn bóng vào đám đông.",
+        "detail": "Cú drive bắt đầu từ lợi thế — closeout dài, cầu thủ phòng thủ chậm hơn, một pha screen. Đột phá có kế hoạch, đừng dẫn bóng đâm vào đám đông.",
         "title": "Tấn công closeout hoặc mismatch"
       },
       {
-        "detail": "Mục tiêu là chạm vào hình thang. Một khi hai chân đã vào trong, hàng thủ buộc phải hỗ trợ, và các đường kick-out mở ra.",
-        "title": "Đưa hai chân vào hình thang"
+        "detail": "Mục tiêu là chạm vào khu vực dưới rổ. Khi hai chân đã vào trong, hàng thủ buộc phải hỗ trợ, và đường chuyền ra mở toang.",
+        "title": "Đưa hai chân vào khu vực dưới rổ"
       },
       {
-        "detail": "Vượt qua người kèm, rồi ngẩng mắt lên. Đường chuyền đi đến điểm mà người hỗ trợ bỏ lại — thường là góc sân hoặc cánh sau pha đột phá.",
-        "title": "Đọc người hỗ trợ, không phải hậu vệ của mình"
+        "detail": "Vượt qua người của mình rồi ngẩng mắt lên. Đường chuyền đến chỗ mà cầu thủ hỗ trợ vừa bỏ — thường là góc hoặc cánh sau hướng đột phá.",
+        "title": "Đọc cầu thủ hỗ trợ, không đọc người kèm mình"
       },
       {
-        "detail": "Ném đường kick-out mạnh và chuẩn, vào túi của tay ném. Một đường chuyền mềm hoặc muộn để hàng thủ kịp lui về.",
-        "title": "Kick ra có lực"
+        "detail": "Ném đường chuyền ra mạnh, đúng tầm tay người ném. Đường chuyền mềm hoặc muộn để hàng thủ kịp hồi.",
+        "title": "Chuyền ra mạnh và chuẩn"
       },
       {
-        "detail": "Cầu thủ không bóng trượt vào các cửa sổ trống — góc sân nhấc lên, cánh trôi đi. Những đội drive-and-kick giỏi di chuyển không bóng nhiều như người đột phá di chuyển có bóng.",
-        "title": "Di chuyển lại khi pha đột phá diễn ra"
+        "detail": "Cầu thủ không bóng trượt đến cửa sổ trống — góc dâng lên, cánh trôi ra. Đội drive-and-kick giỏi di chuyển không bóng nhiều như người đột phá di chuyển có bóng.",
+        "title": "Di chuyển khi pha đột phá diễn ra"
       }
     ],
     "tags": [
-      "đột phá",
-      "kick-out",
+      "dẫn bóng",
+      "chuyền bóng",
       "giãn đội hình",
-      "xuyên thủng"
+      "tấn công"
     ],
-    "title": "Tấn Công Drive & Kick",
+    "title": "Tấn công đột phá chuyền ra (drive and kick)",
     "whatIsIt": [
-      "Drive and kick là khái niệm tấn công đơn giản và bùng nổ nhất trong bóng rổ: một cầu thủ vượt hậu vệ khi dẫn bóng, hàng thủ co cụm để hỗ trợ, và người đột phá kick bóng ra cho đồng đội đang trống.",
-      "Nó không cần những bài đánh phức tạp. Nó cần spacing, một cầu thủ có thể vào được hình thang, và đồng đội di chuyển lại vào các điểm trống khi pha đột phá phát triển.",
-      "Phân tích hiện đại yêu thích drive and kick vì nó tạo ra hai cú ném hiệu quả nhất trong bóng rổ — layup và ba điểm trống — trong cùng một đợt tấn công."
+      "Drive and kick là triết lý tấn công đơn giản mà bùng nổ nhất trong bóng rổ: một cầu thủ vượt qua người kèm mình bằng dẫn bóng, hàng thủ sụp vào hỗ trợ, và người đột phá chuyền bóng ra cho đồng đội trống.",
+      "Không cần bài vở phức tạp. Cần giãn đội hình, một người vào được khu vực dưới rổ, và đồng đội di chuyển đến chỗ trống khi pha đột phá diễn ra.",
+      "Số liệu hiện đại yêu thích drive and kick vì nó tạo ra hai cú ném hiệu quả nhất bóng rổ — layup và 3 điểm trống — trong cùng một đợt tấn công."
     ],
     "whyItMatters": [
-      "Mọi hàng thủ đều phải chọn giữa tặng layup hay tặng cú ba điểm trống. Drive and kick ép lựa chọn đó trong mọi đợt tấn công. Nó cũng phát triển kỹ năng hậu vệ giá trị nhất của bóng rổ hiện đại: chơi trong hình thang với mắt ngẩng lên."
+      "Mọi hàng thủ đều phải chọn: cho layup hay cho 3 điểm trống. Drive and kick bắt họ phải chọn mỗi đợt tấn công. Nó cũng rèn kỹ năng hậu vệ giá trị nhất của bóng rổ hiện đại: chơi trong khu vực dưới rổ với mắt nhìn lên."
     ]
-  }
+  },
+  "whatIsIt": [
+    "Drive and kick is the simplest and most explosive offensive concept in basketball: one player beats their defender off the dribble, the defense collapses to help, and the driver kicks the ball out to an open teammate.",
+    "It does not require complex plays. It requires spacing, one player who can get into the paint, and teammates who relocate to open spots as the drive develops.",
+    "Modern analytics love drive and kick because it produces the two most efficient shots in basketball — layups and open threes — on the same possession."
+  ],
+  "whyItMatters": [
+    "Every defense has to choose between giving up the layup or giving up the open three. Drive and kick forces that choice on every possession. It also develops the most valuable guard skill in the modern game: playing in the paint with your eyes up."
+  ]
 }

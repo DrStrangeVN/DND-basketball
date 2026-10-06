@@ -77,59 +77,59 @@
     "Set defenses take away standing shots; movement creates new ones. Teams that can score off screens force defenses to chase, communicate, and switch — every one of which creates mistakes. For players, it is a superpower: you do not need the ball or elite athleticism to score 15 points, just elite movement and preparation."
   ],
   "vi": {
-    "title": "Ném Sau Screen (Shooting Off Screens)",
-    "description": "Chạy cắt tốc độ cao qua screen, đọc hậu vệ và ném trong chuyển động — kỹ năng chuyên biệt của các tay ném di chuyển đẳng cấp.",
-    "whatIsIt": [
-      "Ném sau screen nghĩa là nhận bóng và ghi điểm khi đang chạy qua một pha screen không bóng — tăng tốc vòng qua pha chắn của đồng đội và ném trước khi hàng thủ kịp hồi phục. Đây là kỹ năng đặc trưng của các tay ném di chuyển (movement shooter): những cầu thủ ghi điểm mà không bao giờ cầm bóng quá một giây.",
-      "Đây là kỹ năng toàn thân, không chỉ là cú ném. Pha cắt, pha đọc hậu vệ, bộ chân khi nhận bóng và cú thả bóng đều diễn ra trong khoảng hai giây. Làm tốt, nó tạo ra những cú ném sạch nhất trong bóng rổ."
+    "coachingPoints": [
+      "Chạy cắt hết tốc độ — screen chỉ hiệu quả ở tốc độ tối đa; chạy bộ qua screen chẳng được gì",
+      "Đọc hậu vệ qua vai khi chạy qua: đuổi theo sau, chui dưới, hay switch",
+      "Đường chạy sát rạt — vai kề vai với người dựng screen, không vòng rộng",
+      "Chân sẵn sàng khi nhận bóng: nhảy vào tư thế ném hoặc đáp xuống để đột phá trong một nhịp",
+      "Tập cả hai phía, cả hai hướng (curl, flare, chạy thẳng) — screen trong trận đến đủ mọi kiểu"
     ],
-    "whyItMatters": [
-      "Hàng thủ đã vào vị trí sẽ khóa các cú ném đứng yên; chuyển động tạo ra những cú ném mới. Các đội ghi điểm được sau screen buộc hàng thủ phải đuổi theo, giao tiếp và switch — mỗi việc trong số đó đều tạo ra sai lầm. Với cầu thủ, đó là siêu năng lực: bạn không cần bóng hay thể lực vượt trội để ghi 15 điểm, chỉ cần di chuyển và chuẩn bị ở đẳng cấp cao."
+    "commonMistakes": [
+      "Chậm lại trước screen — sửa: tăng tốc lao vào screen; tốc độ tạo ra khoảng cách",
+      "Chạy vòng rộng quanh người dựng screen — sửa: cọ vai với người dựng screen; mỗi bước thừa là một hậu vệ kịp hồi",
+      "Nhận bóng khi chân chưa sẵn sàng — sửa: đến nơi bằng cú nhảy chuẩn bị ném để ném hoặc đột phá ngay",
+      "Chỉ tập không ai kèm — sửa: thêm hậu vệ đuổi theo vào bài tập để pha đọc thành bản năng"
+    ],
+    "description": "Chạy cắt hết tốc độ qua screen, đọc hậu vệ và ném trong chuyển động — kỹ năng đặc trưng của các tay ném di chuyển đẳng cấp.",
+    "gameSituations": [
+      "Các bài Floppy và pin-down — chạy hết tốc độ qua screen để bắt bóng ném 3 điểm ngay trong lúc hàng thủ đuổi theo",
+      "Các bài Hammer và wide pin-down — screen ngang sân cho cú ném 3 điểm ở góc trong những giây cuối",
+      "Trước hàng thủ switch — pha cắt cong sát sau screen có thể tạo cặp đấu lệch hoặc cú pull-up trống trải"
     ],
     "howTo": [
       {
-        "title": "Chuẩn bị và tăng tốc vào screen",
-        "detail": "Bắt đầu pha cắt ở tốc độ tối đa, 2–3 bước trước screen. Đánh lừa hậu vệ bằng cách nghiêng người một hướng, rồi bùng nổ qua vai của người dựng screen."
+        "detail": "Bắt đầu pha cắt ở tốc độ tối đa, trước screen 2–3 bước. Mồi hậu vệ bằng cách nghiêng người một hướng, rồi bùng nổ qua vai người dựng screen.",
+        "title": "Mồi và tăng tốc vào screen"
       },
       {
-        "title": "Đi sát người dựng screen",
-        "detail": "Đường chạy của bạn nên gần như chạm vào người dựng screen. Một pha cắt cong sát (tight curl) giữ hậu vệ đuổi theo bị kẹt sau screen."
+        "detail": "Đường chạy gần như chạm vào người dựng screen. Pha cắt cong sát giữ hậu vệ đuổi theo kẹt lại sau screen.",
+        "title": "Đi sát vai người dựng screen"
       },
       {
-        "title": "Đọc hậu vệ giữa pha cắt",
-        "detail": "Liếc qua vai trong khi chạy qua. Nếu hậu vệ đuổi theo sau, tiếp tục chạy ra khoảng trống; nếu họ chui dưới screen, bạn đã trống; nếu họ switch, hãy tấn công cặp đấu lệch."
+        "detail": "Liếc qua vai trong khi chạy qua. Hậu vệ đuổi theo sau, tiếp tục chạy ra khoảng trống; họ chui dưới, bạn đã trống; họ switch, đánh thẳng vào cặp đấu lệch.",
+        "title": "Đọc hậu vệ ngay giữa pha cắt"
       },
       {
-        "title": "Nhận bóng trong tư thế sẵn sàng",
-        "detail": "Nhận bóng với bàn chân đã ở tư thế nhảy chuẩn bị ném. Những tay ném sau screen giỏi nhất đã cân bằng trước khi bóng đến."
+        "detail": "Nhận bóng khi chân đã ở tư thế nhảy chuẩn bị ném. Tay ném sau screen giỏi nhất đã cân bằng từ trước khi bóng tới.",
+        "title": "Nhận bóng trong tư thế sẵn sàng"
       },
       {
-        "title": "Quyết định ngay: ném hay đột phá",
-        "detail": "Ném, đột phá qua pha closeout, hoặc di chuyển lại — pha đọc giữa đường cắt sẽ quyết định. Đừng bao giờ nhận bóng rồi đứng khựng lại."
+        "detail": "Ném, đột phá qua pha closeout hoặc di chuyển chỗ khác — pha đọc giữa đường cắt quyết định tất cả. Nhận bóng rồi đứng khựng lại là điều cấm kỵ.",
+        "title": "Quyết định ngay: ném hay đột phá"
       }
-    ],
-    "coachingPoints": [
-      "Chạy cắt hết tốc độ — screen chỉ hiệu quả ở tốc độ tối đa; chạy bộ qua screen chẳng được gì.",
-      "Đọc hậu vệ qua vai khi chạy qua: họ đuổi theo, họ chui qua, hay họ switch.",
-      "Giữ đường chạy sát — vai kề vai với người dựng screen, đừng bao giờ vòng rộng.",
-      "Bàn chân sẵn sàng khi nhận bóng: nhảy vào tư thế ném hoặc đáp xuống sẵn sàng đột phá trong một động tác.",
-      "Tập cả hai phía và cả hai hướng (curl, flare, chạy thẳng) — screen trong trận đến với đủ mọi hình dạng."
-    ],
-    "commonMistakes": [
-      "Chậm lại trước screen — cách sửa: tăng tốc lao vào screen; tốc độ tạo ra khoảng cách.",
-      "Chạy quá rộng quanh người dựng screen — cách sửa: cọ vai với người dựng screen; mỗi bước thừa là một hậu vệ kịp hồi phục.",
-      "Nhận bóng với chân chưa sẵn sàng — cách sửa: đến nơi trong cú nhảy chuẩn bị ném để có thể ném hoặc đột phá ngay lập tức.",
-      "Chỉ tập không bị kèm — cách sửa: thêm một hậu vệ đuổi theo vào bài tập để pha đọc trở thành bản năng."
-    ],
-    "gameSituations": [
-      "Các bài Floppy và pin-down — chạy tốc độ cao qua screen để nhận bóng ném ba trong khi hàng thủ đuổi theo.",
-      "Các bài Hammer và wide pin-down — screen ngang sân cho các cú ba điểm ở góc trong những giây cuối.",
-      "Trước hàng thủ switch — một pha cắt cong sát sau screen có thể tạo ra cặp đấu lệch hoặc một cú pull-up trống trải."
     ],
     "tags": [
       "ném rổ",
       "screen",
       "tấn công"
+    ],
+    "title": "Ném sau screen (shooting off screens)",
+    "whatIsIt": [
+      "Ném sau screen là nhận bóng và ghi điểm ngay khi chạy qua screen không bóng — tăng tốc vòng qua screen của đồng đội rồi ném trước khi hàng thủ kịp hồi. Đây là kỹ năng đặc trưng của các tay ném di chuyển (movement shooter): những người ghi điểm mà chẳng bao giờ cầm bóng quá một giây.",
+      "Đây là kỹ năng toàn thân, không chỉ là cú ném. Pha cắt, pha đọc hậu vệ, bộ chân lúc nhận bóng và cú ra tay đều gói trong khoảng hai giây. Làm tốt, nó cho ra những cú ném sạch nhất trong bóng rổ."
+    ],
+    "whyItMatters": [
+      "Hàng thủ đã vào vị trí sẽ khóa mọi cú ném đứng yên; chuyển động tạo ra những cú ném mới. Đội nào ghi điểm được sau screen sẽ ép hàng thủ phải đuổi theo, phải hô hoán, phải switch — và mỗi việc đó đều sinh ra sai lầm. Với cầu thủ, đây là siêu năng lực: không cần bóng, không cần thể hình vượt trội vẫn ghi được 15 điểm — chỉ cần di chuyển và chuẩn bị ở đẳng cấp cao."
     ]
   }
 }

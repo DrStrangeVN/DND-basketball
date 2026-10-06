@@ -87,68 +87,68 @@
     "Planning also protects development across a season. Without a plan, teams repeat what is comfortable; with one, they systematically cover what is needed."
   ],
   "vi": {
-    "title": "Lập Kế Hoạch Tập Luyện",
-    "description": "Cách thiết kế buổi tập bóng rổ hiệu quả — cấu trúc, chia khung thời gian và nguyên tắc lập kế hoạch giúp tối đa số lần lặp và khả năng tiếp thu.",
-    "whatIsIt": [
-      "Lập kế hoạch tập luyện là quá trình thiết kế từng buổi tập trước khi nó bắt đầu: bạn sẽ dạy gì, theo thứ tự nào, trong bao lâu, và làm sao biết nó hiệu quả. Những buổi tập hay không tự nhiên mà có — chúng được xây dựng trên giấy trước.",
-      "Một kế hoạch tốt cân bằng các nhu cầu cạnh tranh của buổi tập: khởi động, kỹ năng cá nhân, chiến thuật đội, thi đấu đối kháng và thể lực — tất cả trong quỹ thời gian sân có hạn. Kế hoạch là kim chỉ nam, không phải nhà tù: hãy điều chỉnh theo năng lượng và mức độ tiếp thu trong buổi tập, nhưng đừng bao giờ bước vào sân mà không có kế hoạch."
+    "coachingPoints": [
+      "Lập kế hoạch bằng bút chì: điều chỉnh trực tiếp trong buổi tập, nhưng luôn bước vào sân với một kế hoạch",
+      "Ít mà chất — ba điều dạy kỹ thắng tám điều dạy vội",
+      "Mỗi bài tập cần một “lý do” mà bạn giải thích được trong một câu",
+      "Kết thúc buổi tập bằng một phần thi đấu đối kháng, năng lượng cao mỗi khi có thể"
     ],
-    "whyItMatters": [
-      "Thời gian tập là nguồn lực khan hiếm nhất của một huấn luyện viên. Một buổi tập có kế hoạch mang lại số lần lặp chất lượng gấp nhiều lần so với buổi tập ứng biến, giữ cầu thủ tập trung và xây dựng kỹ năng theo trình tự hợp lý. Cầu thủ cảm nhận được sự khác biệt giữa một huấn luyện viên chuẩn bị kỹ và một người làm theo cảm hứng — và họ phản ứng tương ứng.",
-      "Lập kế hoạch cũng bảo vệ sự phát triển xuyên suốt mùa giải. Không có kế hoạch, các đội cứ lặp lại những gì thoải mái; có kế hoạch, họ bao quát có hệ thống những gì cần thiết."
+    "commonMistakes": [
+      "Lập kế hoạch quá tải: nhồi quá nhiều bài tập vào một buổi",
+      "Để một bài tập chạy lố hai mươi phút chỉ vì nó “đang hay”",
+      "Bỏ qua phần thả lỏng và tổng kết cuối buổi",
+      "Tuần nào cũng chạy đúng một giáo án bất kể đội thật sự cần gì"
+    ],
+    "description": "Cách thiết kế buổi tập bóng rổ hiệu quả — cấu trúc, chia khung thời gian và nguyên tắc lập kế hoạch giúp tối đa reps và khả năng tiếp thu.",
+    "gameSituations": [
+      "Tuần đầu tiền mùa giải: xây nền tảng tấn công và phòng ngự với thời gian sân hạn chế",
+      "Giữa mùa giải: buổi tập 90 phút ngay trước trận — chân nhẹ, đầu óc tỉnh",
+      "Tập trẻ em: 60 phút với mười hai đứa trẻ mười tuổi và khả năng tập trung ngắn"
     ],
     "howTo": [
       {
-        "title": "Bắt đầu với một chủ đề",
-        "detail": "Mỗi buổi tập cần một chủ đề rõ ràng — ví dụ \"closeout phòng ngự\" hay \"tấn công chuyển trạng thái\" — và mọi khung giờ của buổi tập đều phục vụ chủ đề đó."
+        "detail": "Mỗi buổi tập cần một chủ đề rõ ràng — ví dụ “closeout phòng ngự” hay “tấn công phản công” — và mọi khung giờ của buổi tập đều phục vụ chủ đề đó.",
+        "title": "Bắt đầu với một chủ đề"
       },
       {
-        "title": "Làm ngược từ trận đấu",
-        "detail": "Xác định điều đội bạn cần nhất lúc này và dành nhiều thời gian nhất cho nó. Lập kế hoạch ngược từ trận đấu giúp buổi tập luôn bám sát thực tế."
+        "detail": "Xác định điều đội bạn cần nhất lúc này và dành nhiều thời gian nhất cho nó. Lập kế hoạch ngược từ trận đấu giúp buổi tập luôn bám sát thực tế.",
+        "title": "Làm ngược từ trận đấu"
       },
       {
-        "title": "Chia khung thời gian",
-        "detail": "Gán số phút cho từng phần — khởi động 10, kỹ năng 20, đội hình 25, thi đấu 15, thả lỏng 5 — và tôn trọng đồng hồ. Kỷ luật thời gian là kỷ luật huấn luyện."
+        "detail": "Gán số phút cho từng phần — khởi động 10, kỹ năng 20, đội hình 25, thi đấu 15, thả lỏng 5 — và tôn trọng đồng hồ. Kỷ luật thời gian là kỷ luật huấn luyện.",
+        "title": "Chia khung thời gian"
       },
       {
-        "title": "Sắp xếp theo năng lượng",
-        "detail": "Dạy khái niệm mới sớm khi đầu óc còn tỉnh táo; dành thi đấu đối kháng và thể lực cho cuối buổi khi cơ thể đã nóng và năng lượng đang cao."
+        "detail": "Dạy khái niệm mới sớm khi đầu óc còn tỉnh táo; dành thi đấu đối kháng và thể lực cho cuối buổi khi cơ thể đã nóng và năng lượng đang cao.",
+        "title": "Sắp xếp theo năng lượng"
       },
       {
-        "title": "Tối đa số lần lặp mỗi cầu thủ",
-        "detail": "Ưu tiên trạm tập, trò chơi nhỏ (small-sided games) và bài tập nhiều bóng thay vì xếp hàng dài chờ lượt. Số lần lặp mỗi cầu thủ mới là chỉ số quan trọng."
+        "detail": "Ưu tiên trạm tập, trò chơi ít người và bài tập nhiều bóng thay vì xếp hàng dài chờ lượt. Reps mỗi cầu thủ mới là chỉ số quan trọng.",
+        "title": "Tối đa reps mỗi cầu thủ"
       },
       {
-        "title": "Lồng ghép ôn tập",
-        "detail": "Mở đầu bằng năm phút ôn chủ đề hôm qua và khép lại bằng hai phút tóm tắt những gì đã học. Lặp lại qua các ngày giúp ghi nhớ lâu."
+        "detail": "Mở đầu bằng năm phút ôn chủ đề hôm qua, khép lại bằng hai phút tóm tắt những gì đã học. Lặp lại qua các ngày giúp ghi nhớ lâu.",
+        "title": "Lồng ghép ôn tập"
       },
       {
-        "title": "Viết ra và đánh giá sau",
-        "detail": "Giữ lại bản kế hoạch, ghi chú điều gì hiệu quả và điều gì không, rồi điều chỉnh kế hoạch tuần sau cho phù hợp. Lập kế hoạch cũng sinh lời kép như lãi suất."
+        "detail": "Giữ lại bản kế hoạch, ghi chú điều gì hiệu quả và điều gì không, rồi điều chỉnh kế hoạch tuần sau cho phù hợp. Lập kế hoạch cũng sinh lời kép như lãi suất.",
+        "title": "Viết ra và đánh giá sau"
       }
-    ],
-    "coachingPoints": [
-      "Lập kế hoạch bằng bút chì: điều chỉnh trực tiếp trong buổi tập, nhưng luôn bước vào sân với một kế hoạch.",
-      "Ít mà chất — ba điều dạy kỹ thắng tám điều dạy vội.",
-      "Mỗi bài tập cần một \"lý do\" mà bạn giải thích được trong một câu.",
-      "Kết thúc buổi tập bằng một phần thi đấu đối kháng, năng lượng cao mỗi khi có thể."
-    ],
-    "commonMistakes": [
-      "Lập kế hoạch quá tải: nhồi quá nhiều bài tập vào một buổi.",
-      "Để một bài tập chạy lố hai mươi phút chỉ vì nó \"đang hay\".",
-      "Bỏ qua phần thả lỏng và tổng kết cuối buổi.",
-      "Tuần nào cũng chạy đúng một giáo án bất kể đội thật sự cần gì."
-    ],
-    "gameSituations": [
-      "Tuần đầu tiền mùa giải: xây nền tảng tấn công và phòng ngự với thời gian sân hạn chế.",
-      "Giữa mùa giải: buổi tập 90 phút ngay trước trận — chân nhẹ, đầu óc tỉnh.",
-      "Tập trẻ em: 60 phút với mười hai đứa trẻ mười tuổi và khả năng tập trung ngắn."
     ],
     "tags": [
       "huấn luyện",
       "tập luyện",
       "lập kế hoạch",
       "phát triển cầu thủ"
+    ],
+    "title": "Lập kế hoạch tập luyện",
+    "whatIsIt": [
+      "Lập kế hoạch tập luyện là thiết kế từng buổi tập trước khi nó bắt đầu: bạn sẽ dạy gì, theo thứ tự nào, trong bao lâu, và làm sao biết nó hiệu quả. Những buổi tập hay không tự nhiên mà có — chúng được xây dựng trên giấy trước.",
+      "Một kế hoạch tốt cân bằng các nhu cầu cạnh tranh của buổi tập: khởi động, kỹ năng cá nhân, chiến thuật đội, thi đấu đối kháng và thể lực — tất cả trong quỹ thời gian sân có hạn. Kế hoạch là kim chỉ nam, không phải nhà tù: điều chỉnh theo năng lượng và mức độ tiếp thu trong buổi tập, nhưng đừng bao giờ bước vào sân mà không có kế hoạch."
+    ],
+    "whyItMatters": [
+      "Thời gian tập là nguồn lực khan hiếm nhất của một HLV. Một buổi tập có kế hoạch cho số reps chất lượng gấp nhiều lần buổi tập ứng biến, giữ cầu thủ tập trung, xây kỹ năng theo trình tự hợp lý. Cầu thủ cảm nhận được sự khác biệt giữa một HLV chuẩn bị kỹ và một người làm theo cảm hứng — và họ phản ứng tương ứng.",
+      "Lập kế hoạch cũng bảo vệ sự phát triển xuyên suốt mùa giải. Không có kế hoạch, các đội cứ lặp lại những gì thoải mái; có kế hoạch, họ bao quát có hệ thống những gì cần thiết."
     ]
   }
 }

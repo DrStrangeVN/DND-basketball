@@ -75,72 +75,72 @@
     "basics"
   ],
   "title": "Core Defensive Principles",
-  "whatIsIt": [
-    "Defense is a team system built on five habits: a low stance, pressure on the ball, help from teammates, constant communication, and finishing possessions with a rebound. No defender guards alone — the ball handler's defender funnels the drive toward waiting help, and helpers rotate behind the play.",
-    "Great defense is mostly effort and positioning. The teams that defend best are rarely the most athletic; they are the ones that stay in stance, talk, sprint back in transition, and never give up second chances."
-  ],
-  "whyItMatters": [
-    "Defense wins championships because it travels — shooting goes cold, but effort and positioning work every night. Players who defend earn playing time at every level, because coaches can teach offense to anyone but cannot teach the willingness to guard. Understanding defensive principles also makes you a smarter offensive player: you learn exactly how defenses think."
-  ],
   "vi": {
     "coachingPoints": [
-      "Xây mọi bài tập phòng thủ từ tư thế thủ — không tư thế, không phòng thủ",
-      "Dùng shell drill (4 đấu 4, không dẫn bóng) để dạy hỗ trợ và lui về",
-      "Khen phòng thủ 'không cho vào giữa' hơn cả cướp bóng; cướp bóng là phần thưởng thêm, không phải kế hoạch",
-      "Quay một pha bóng mỗi buổi tập và hỏi cầu thủ: bóng ở đâu, người bạn kèm ở đâu, sự hỗ trợ ở đâu?"
+      "Xây mọi bài tập phòng thủ từ tư thế — không tư thế, không phòng thủ.",
+      "Dùng bài shell drill (4 đấu 4, không dẫn bóng) để dạy hỗ trợ và hồi về.",
+      "Khen phòng thủ \"không cho vào giữa\" hơn khen cướp bóng; cướp bóng là thưởng thêm, không phải kế hoạch.",
+      "Quay một đợt bóng mỗi buổi tập và hỏi cầu thủ: bóng ở đâu, người bạn kèm ở đâu, hỗ trợ ở đâu?"
     ],
     "commonMistakes": [
-      "Đứng thẳng người, để người cầm bóng vượt qua dễ dàng",
-      "Nhìn bóng mà mất người kèm trong pha cắt backdoor",
-      "Hỗ trợ quá xa và tặng một cú ba điểm trống",
-      "Phạm lỗi với người ném — sai lầm đắt nhất trong phòng thủ"
+      "Đứng thẳng người, để người cầm bóng qua mặt.",
+      "Nhìn bóng mà mất người mình kèm ở pha cắt backdoor.",
+      "Hỗ trợ quá xa, biếu cú ném 3 trống.",
+      "Phạm lỗi với người ném — sai lầm đắt nhất trong phòng thủ."
     ],
-    "description": "Nền tảng của phòng thủ đồng đội: tư thế, áp lực lên bóng, vị trí hỗ trợ, xoay chuyển và bảo vệ khu vực hình thang.",
+    "description": "Nền tảng của phòng thủ đồng đội: tư thế, áp lực bóng, vị trí hỗ trợ, rotation và bảo vệ khu vực dưới rổ.",
     "gameSituations": [
-      "Màn chắn bóng — hậu vệ kèm bóng vượt qua trong khi người hỗ trợ giữ người lăn",
-      "Đột phá rồi kick ra — các hậu vệ xoay chuyển và closeout có kiểm soát",
-      "Phản công — ba hậu vệ đầu tiên chặn bóng và bảo vệ hình thang",
-      "Cuối trận — không cho vào giữa, không phạm lỗi, ép một cú jumper bị contest"
+      "Screen cầm bóng — người kèm bóng chui qua trong khi người hỗ trợ chặn người roll.",
+      "Dẫn rồi đá ra — người hỗ trợ xoay và closeout trong kiểm soát.",
+      "Phản công — ba người về đầu tiên chặn bóng và bảo vệ khu vực dưới rổ.",
+      "Cuối trận — không cho vào giữa, không phạm lỗi, ép ném xa bị contest."
     ],
     "howTo": [
       {
-        "detail": "Chân rộng hơn vai, gối cong, ngực ưỡn, một tay ở đường chuyền và một tay thấp. Bạn nên chạm được sàn bằng đầu ngón tay — thấp đến thế mới đủ.",
-        "title": "Bắt đầu ở tư thế thủ"
+        "detail": "Chân rộng hơn vai, gối gập, ngực ưỡn, một tay chắn đường chuyền và một tay thấp. Đầu ngón tay chạm được mặt sân — thế là đủ thấp.",
+        "title": "Bắt đầu từ tư thế"
       },
       {
-        "detail": "Ép người cầm bóng ra biên dọc hoặc baseline — đừng bao giờ để họ đột phá vào giữa, nơi họ nhìn thấy cả sân. Một bước lọt vào giữa phá vỡ cả hàng thủ.",
-        "title": "Bảo vệ khu vực giữa"
+        "detail": "Ép người cầm bóng về phía biên dọc hoặc baseline — đừng bao giờ cho họ dẫn vào giữa, nơi họ nhìn cả sân. Một bước lọt vào giữa phá vỡ cả hàng thủ.",
+        "title": "Bảo vệ giữa sân"
       },
       {
-        "detail": "Khi bạn cách bóng một đường chuyền, hãy đứng giữa người kèm và bóng — đủ gần để hỗ trợ pha đột phá, đủ gần để lui về kèm người. Khi cách hai đường chuyền, hãy lùi vào hình thang và quan sát cả hai.",
-        "title": "Hỗ trợ khi cách bóng một đường chuyền"
+        "detail": "Khi cách bóng một đường chuyền, đứng giữa người bạn kèm và bóng — đủ gần để hỗ trợ đường dẫn, đủ gần để hồi về người mình. Khi cách hai đường chuyền, lùi vào khu vực dưới rổ và nhìn cả hai.",
+        "title": "Hỗ trợ từ cách một đường chuyền"
       },
       {
-        "detail": "Hậu vệ phải nói liên tục: 'ball, ball, ball' khi có pha đột phá, 'screen left!' khi có màn chắn, 'help!' khi bị vượt. Hàng thủ im lặng là hàng thủ đã vỡ.",
-        "title": "Giao tiếp mọi hành động"
+        "detail": "Cầu thủ phòng thủ phải nói liên tục: \"bóng, bóng, bóng\" khi đối thủ dẫn vào, \"screen trái!\" khi có screen, \"hỗ trợ!\" khi bị qua mặt. Hàng thủ im lặng là hàng thủ đã vỡ.",
+        "title": "Giao tiếp mọi tình huống"
       },
       {
-        "detail": "Khi bóng bay lên sau cú ném, tìm người của mình, tạo va chạm bằng cẳng tay và box out trước khi tranh bóng. Pha phòng thủ hay nhất cũng vô nghĩa nếu bạn để mất putback.",
+        "detail": "Bóng rời tay, tìm người mình kèm, chạm bằng cẳng tay, và box out trước khi đuổi rebound. Đợt phòng thủ hay nhất vô nghĩa nếu bạn biếu putback.",
         "title": "Box out mọi cú ném"
       },
       {
-        "detail": "Chạy nước rút về mọi lần đổi quyền kiểm soát. Hậu vệ đầu tiên về chặn bóng; hai người tiếp theo bảo vệ hình thang; những người còn lại tìm người để kèm. Phòng thủ phản công là nỗ lực và thói quen thuần túy.",
+        "detail": "Chạy hết tốc về mỗi lần đổi quyền bóng. Người về đầu tiên chặn bóng; hai người tiếp theo bảo vệ khu vực dưới rổ; còn lại tìm người kèm. Phòng thủ phản công là nỗ lực và thói quen thuần tuý.",
         "title": "Chạy nước rút về trong phản công"
       }
     ],
     "tags": [
       "phòng thủ",
       "nguyên tắc",
-      "hỗ trợ phòng thủ",
-      "cơ bản"
+      "phòng thủ hỗ trợ",
+      "kiến thức cơ bản"
     ],
-    "title": "Nguyên Tắc Phòng Thủ Cốt Lõi",
+    "title": "Nguyên tắc phòng thủ cốt lõi",
     "whatIsIt": [
-      "Phòng thủ là một hệ thống đồng đội xây trên năm thói quen: tư thế thấp, áp lực lên bóng, sự hỗ trợ từ đồng đội, giao tiếp liên tục, và kết thúc đợt phòng thủ bằng bắt bóng bật bảng. Không hậu vệ nào kèm một mình — hậu vệ kèm người cầm bóng ép pha đột phá về phía sự hỗ trợ đang chờ, và những người hỗ trợ xoay chuyển phía sau pha bóng.",
-      "Phòng thủ giỏi chủ yếu là nỗ lực và vị trí. Những đội phòng thủ hay nhất hiếm khi là đội thể hình nhất; họ là những đội giữ tư thế, nói chuyện, chạy nước rút về trong phản công, và không bao giờ tặng cơ hội thứ hai."
+      "Phòng thủ là hệ thống đồng đội xây trên năm thói quen: tư thế thấp, áp lực lên bóng, hỗ trợ từ đồng đội, giao tiếp liên tục, và kết thúc đợt bóng bằng rebound. Không ai phòng thủ một mình — người kèm bóng ép đường dẫn về phía người hỗ trợ đang chờ, và người hỗ trợ xoay sau pha bóng.",
+      "Phòng thủ hay chủ yếu là nỗ lực và vị trí. Đội phòng thủ tốt nhất hiếm khi là đội khoẻ nhất; là đội giữ tư thế, nói chuyện, chạy về trong phản công, và không bao giờ biếu cơ hội hai."
     ],
     "whyItMatters": [
-      "Phòng thủ vô địch vì nó luôn đi cùng bạn — cú ném có thể nguội, nhưng nỗ lực và vị trí thì hiệu quả mọi đêm. Cầu thủ biết phòng thủ được ra sân ở mọi cấp độ, vì huấn luyện viên có thể dạy tấn công cho bất kỳ ai nhưng không thể dạy ý chí kèm người. Hiểu nguyên tắc phòng thủ cũng giúp bạn trở thành cầu thủ tấn công thông minh hơn: bạn học chính xác cách hàng thủ suy nghĩ."
+      "Phòng thủ vô địch vì nó đi theo bạn mọi nơi — cú ném có ngày lạnh, nhưng nỗ lực và vị trí đúng mọi đêm. Cầu thủ biết phòng thủ được ra sân ở mọi cấp độ, vì HLV dạy được tấn công cho bất kỳ ai nhưng không dạy được ý chí kèm người. Hiểu nguyên tắc phòng thủ còn khiến bạn thành cầu thủ tấn công thông minh hơn: bạn học chính xác cách hàng thủ nghĩ."
     ]
-  }
+  },
+  "whatIsIt": [
+    "Defense is a team system built on five habits: a low stance, pressure on the ball, help from teammates, constant communication, and finishing possessions with a rebound. No defender guards alone — the ball handler's defender funnels the drive toward waiting help, and helpers rotate behind the play.",
+    "Great defense is mostly effort and positioning. The teams that defend best are rarely the most athletic; they are the ones that stay in stance, talk, sprint back in transition, and never give up second chances."
+  ],
+  "whyItMatters": [
+    "Defense wins championships because it travels — shooting goes cold, but effort and positioning work every night. Players who defend earn playing time at every level, because coaches can teach offense to anyone but cannot teach the willingness to guard. Understanding defensive principles also makes you a smarter offensive player: you learn exactly how defenses think."
+  ]
 }

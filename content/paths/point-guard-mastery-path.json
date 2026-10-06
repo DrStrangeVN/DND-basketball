@@ -1,1 +1,114 @@
-{"audience":"Guards who want to run the team like a floor general","dateUpdated":"2026-10-06","description":"Develop complete lead-guard mastery: tight handles, creative passing, pick-and-roll command, pace control, vocal leadership, and the calm to close games.","id":"point-guard-mastery-path","level":"intermediate","slug":"point-guard-mastery-path","steps":[{"articles":["stationary-dribbling","pound-dribble"],"description":"Own the ball: low, hard, two-handed control with eyes up — the non-negotiable base of every lead guard.","title":"Level 1 — Command the Ball"},{"articles":["change-of-pace","hesitation"],"description":"Control defenders with pace: hesitations, change of speed, and moves that create separation on demand.","title":"Level 2 — Change Gears"},{"articles":["chest-pass","pocket-pass"],"description":"Deliver the ball on time and on target: chest passes, pocket passes, and hitting teammates in stride.","title":"Level 3 — Deliver the Ball"},{"articles":["pick-and-roll-basics","pick-and-roll-reads"],"description":"Master the game's most-run action: set up the screen, read the big, and punish every coverage.","title":"Level 4 — Run the Pick and Roll"},{"articles":["spain-pick-and-roll","pnr-vs-blitz"],"description":"Level up against advanced defenses: Spain action, re-screens, and carving up blitzes and switches.","title":"Level 5 — Advanced PNR Command"},{"articles":["pace-control","transition-offense"],"description":"Dictate tempo: push when you have numbers, slow it down to punish mismatches, and own the middle eight seconds.","title":"Level 6 — Control the Pace"},{"articles":["player-communication","player-development-plan"],"description":"Become the coach on the floor: call coverages, organize teammates, and hold everyone accountable.","title":"Level 7 — Lead with Your Voice"},{"articles":["crunch-time-decisions","two-for-one"],"description":"Win close games: clock management, two-for-one math, and the poise to make the right play with everything on the line.","title":"Level 8 — Close Games"}],"title":"Point Guard Mastery","vi":{"audience":"Hậu vệ muốn điều hành đội bóng như một thủ lĩnh sân đấu","description":"Phát triển toàn diện kỹ năng hậu vệ dẫn dắt: rê bóng chắc, chuyền sáng tạo, chỉ huy pick-and-roll, kiểm soát nhịp độ, lãnh đạo bằng tiếng nói và bản lĩnh kết liễu trận đấu.","steps":[{"description":"Làm chủ trái bóng: kiểm soát thấp, mạnh bằng cả hai tay, mắt nhìn lên — nền tảng bắt buộc của mọi hậu vệ dẫn dắt.","title":"Cấp 1 — Làm Chủ Trái Bóng"},{"description":"Điều khiển hậu vệ đối phương bằng nhịp độ: hesitation, đổi tốc độ và các động tác tạo khoảng trống khi cần.","title":"Cấp 2 — Đổi Nhịp"},{"description":"Đưa bóng đúng lúc đúng chỗ: chest pass, pocket pass và chuyền cho đồng đội đang di chuyển.","title":"Cấp 3 — Chuyền Bóng Chuẩn Xác"},{"description":"Thành thạo tình huống chạy nhiều nhất trận đấu: dựng screen, đọc big man và trừng phạt mọi kiểu phòng thủ.","title":"Cấp 4 — Điều Hành Pick and Roll"},{"description":"Nâng cấp trước hàng thủ cao cấp: Spain action, re-screen và xé nát blitz lẫn switch.","title":"Cấp 5 — PNR Nâng Cao"},{"description":"Áp đặt nhịp độ: đẩy nhanh khi hơn người, chậm lại để khai thác mismatch và làm chủ 8 giây giữa sân.","title":"Cấp 6 — Kiểm Soát Nhịp Độ"},{"description":"Trở thành huấn luyện viên trên sân: hô coverage, sắp xếp đồng đội và bắt mọi người chịu trách nhiệm.","title":"Cấp 7 — Lãnh Đạo Bằng Tiếng Nói"},{"description":"Thắng các trận đấu sít sao: quản lý đồng hồ, tính toán two-for-one và sự điềm tĩnh để ra quyết định đúng dưới áp lực.","title":"Cấp 8 — Kết Liễu Trận Đấu"}],"title":"Bậc Thầy Hậu Vệ Dẫn Dắt"}}
+{
+  "audience": "Guards who want to run the team like a floor general",
+  "dateUpdated": "2026-10-06",
+  "description": "Develop complete lead-guard mastery: tight handles, creative passing, pick-and-roll command, pace control, vocal leadership, and the calm to close games.",
+  "id": "point-guard-mastery-path",
+  "level": "intermediate",
+  "slug": "point-guard-mastery-path",
+  "steps": [
+    {
+      "articles": [
+        "stationary-dribbling",
+        "pound-dribble"
+      ],
+      "description": "Own the ball: low, hard, two-handed control with eyes up — the non-negotiable base of every lead guard.",
+      "title": "Level 1 — Command the Ball"
+    },
+    {
+      "articles": [
+        "change-of-pace",
+        "hesitation"
+      ],
+      "description": "Control defenders with pace: hesitations, change of speed, and moves that create separation on demand.",
+      "title": "Level 2 — Change Gears"
+    },
+    {
+      "articles": [
+        "chest-pass",
+        "pocket-pass"
+      ],
+      "description": "Deliver the ball on time and on target: chest passes, pocket passes, and hitting teammates in stride.",
+      "title": "Level 3 — Deliver the Ball"
+    },
+    {
+      "articles": [
+        "pick-and-roll-basics",
+        "pick-and-roll-reads"
+      ],
+      "description": "Master the game's most-run action: set up the screen, read the big, and punish every coverage.",
+      "title": "Level 4 — Run the Pick and Roll"
+    },
+    {
+      "articles": [
+        "spain-pick-and-roll",
+        "pnr-vs-blitz"
+      ],
+      "description": "Level up against advanced defenses: Spain action, re-screens, and carving up blitzes and switches.",
+      "title": "Level 5 — Advanced PNR Command"
+    },
+    {
+      "articles": [
+        "pace-control",
+        "transition-offense"
+      ],
+      "description": "Dictate tempo: push when you have numbers, slow it down to punish mismatches, and own the middle eight seconds.",
+      "title": "Level 6 — Control the Pace"
+    },
+    {
+      "articles": [
+        "player-communication",
+        "player-development-plan"
+      ],
+      "description": "Become the coach on the floor: call coverages, organize teammates, and hold everyone accountable.",
+      "title": "Level 7 — Lead with Your Voice"
+    },
+    {
+      "articles": [
+        "crunch-time-decisions",
+        "two-for-one"
+      ],
+      "description": "Win close games: clock management, two-for-one math, and the poise to make the right play with everything on the line.",
+      "title": "Level 8 — Close Games"
+    }
+  ],
+  "title": "Point Guard Mastery",
+  "vi": {
+    "title": "Bậc thầy hậu vệ dẫn dắt",
+    "description": "Chinh phục vai trò hậu vệ dẫn dắt: handles chắc chắn, chuyền sáng tạo, chỉ huy pick and roll, kiểm soát nhịp độ, lãnh đạo bằng tiếng nói và sự điềm tĩnh để kết liễu trận đấu.",
+    "audience": "Hậu vệ muốn điều hành đội như một thủ lĩnh trên sân",
+    "steps": [
+      {
+        "title": "Cấp 1 — Làm chủ trái bóng",
+        "description": "Giữ bóng thấp, đập mạnh, kiểm soát bằng hai tay, mắt nhìn lên. Nền tảng bắt buộc của mọi hậu vệ dẫn dắt."
+      },
+      {
+        "title": "Cấp 2 — Đổi nhịp",
+        "description": "Điều khiển đối thủ bằng nhịp độ. Dùng hesitation và đổi tốc độ để tạo khoảng trống đúng lúc."
+      },
+      {
+        "title": "Cấp 3 — Chuyền bóng đúng lúc",
+        "description": "Đưa bóng đúng thời điểm, đúng mục tiêu. Chest pass, pocket pass, chuyền cho đồng đội đang chạy chỗ."
+      },
+      {
+        "title": "Cấp 4 — Điều hành pick and roll",
+        "description": "Chinh phục tình huống được dùng nhiều nhất trận đấu. Dựng screen, đọc big man, trừng phạt mọi coverage."
+      },
+      {
+        "title": "Cấp 5 — Chỉ huy PNR nâng cao",
+        "description": "Đối đầu hàng thủ đẳng cấp cao. Spain action, re-screen, xé nát blitz và switch."
+      },
+      {
+        "title": "Cấp 6 — Kiểm soát nhịp độ",
+        "description": "Áp đặt tempo trận đấu. Đẩy nhanh khi hơn người, chậm lại để khai thác mismatch, làm chủ 8 giây giữa sân."
+      },
+      {
+        "title": "Cấp 7 — Lãnh đạo bằng tiếng nói",
+        "description": "Trở thành HLV trên sân. Hô coverage, sắp xếp đồng đội, bắt cả đội chịu trách nhiệm."
+      },
+      {
+        "title": "Cấp 8 — Kết liễu trận đấu",
+        "description": "Thắng những trận đấu sít sao. Quản lý đồng hồ 24 giây, tính toán two-for-one, giữ điềm tĩnh để ra quyết định đúng dưới áp lực."
+      }
+    ]
+  }
+}

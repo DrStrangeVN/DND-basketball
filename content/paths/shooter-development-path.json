@@ -6,37 +6,70 @@
   "level": "intermediate",
   "audience": "Wings and guards who want to become elite shooters",
   "steps": [
-    {"title": "Level 1 — Build the Shot", "description": "Lock in repeatable shooting mechanics — the foundation every advanced shooting skill depends on.", "articles": ["shooting-mechanics", "shot-preparation"]},
-    {"title": "Level 2 — Catch and Shoot", "description": "Master the catch-and-shoot: footwork, quick release, and shooting off the pass in rhythm.", "articles": ["catch-and-shoot", "free-throw"]},
-    {"title": "Level 3 — Extend Your Range", "description": "Push your range to the three-point line while keeping the same mechanics and preparation.", "articles": ["three-point-shooting"]},
-    {"title": "Level 4 — Shoot on the Move", "description": "Learn to shoot coming off screens — curls, flares, and pin-downs — with balance and speed.", "articles": ["off-screen-shooting", "pin-down-screen"]},
-    {"title": "Level 5 — Choose Your Shots", "description": "Develop shooter IQ: understand which shots help your team and which ones hurt it.", "articles": ["shot-selection-iq"]}
+    {
+      "title": "Level 1 — Build the Shot",
+      "description": "Lock in repeatable shooting mechanics — the foundation every advanced shooting skill depends on.",
+      "articles": [
+        "shooting-mechanics",
+        "shot-preparation"
+      ]
+    },
+    {
+      "title": "Level 2 — Catch and Shoot",
+      "description": "Master the catch-and-shoot: footwork, quick release, and shooting off the pass in rhythm.",
+      "articles": [
+        "catch-and-shoot",
+        "free-throw"
+      ]
+    },
+    {
+      "title": "Level 3 — Extend Your Range",
+      "description": "Push your range to the three-point line while keeping the same mechanics and preparation.",
+      "articles": [
+        "three-point-shooting"
+      ]
+    },
+    {
+      "title": "Level 4 — Shoot on the Move",
+      "description": "Learn to shoot coming off screens — curls, flares, and pin-downs — with balance and speed.",
+      "articles": [
+        "off-screen-shooting",
+        "pin-down-screen"
+      ]
+    },
+    {
+      "title": "Level 5 — Choose Your Shots",
+      "description": "Develop shooter IQ: understand which shots help your team and which ones hurt it.",
+      "articles": [
+        "shot-selection-iq"
+      ]
+    }
   ],
   "dateUpdated": "2026-10-06",
-  "vi":   {
-    "title": "Phát Triển Tay Ném",
-    "description": "Trở thành tay ném hoàn chỉnh: kỹ thuật hoàn hảo, chuẩn bị nhanh, catch-and-shoot đủ tầm, ném sau screen và khả năng chọn cú ném đẳng cấp.",
-    "audience": "Wing và hậu vệ muốn trở thành tay ném đẳng cấp",
+  "vi": {
+    "title": "Phát triển tay ném",
+    "description": "Trở thành tay ném toàn diện: kỹ thuật ném rổ chuẩn xác, chuẩn bị nhanh, bắt bóng ném ngay đủ tầm xa, ném sau screen và lựa chọn cú ném đẳng cấp.",
+    "audience": "Cầu thủ cánh và hậu vệ muốn thành tay ném đẳng cấp",
     "steps": [
       {
-        "title": "Cấp 1 — Xây Dựng Cú Ném",
-        "description": "Khóa chặt kỹ thuật ném có thể lặp lại — nền tảng mà mọi kỹ năng ném nâng cao đều dựa vào."
+        "title": "Cấp 1 — Xây cú ném",
+        "description": "Khóa kỹ thuật ném rổ có thể lặp lại. Nền tảng của mọi kỹ năng ném nâng cao."
       },
       {
-        "title": "Cấp 2 — Nhận và Ném",
-        "description": "Thành thạo catch-and-shoot: footwork, release nhanh và ném sau đường chuyền đúng nhịp."
+        "title": "Cấp 2 — Bắt bóng ném ngay",
+        "description": "Chốt catch and shoot: bộ chân, ra tay nhanh, ném đúng nhịp sau đường chuyền."
       },
       {
-        "title": "Cấp 3 — Mở Rộng Tầm Ném",
-        "description": "Đẩy tầm ném ra vạch 3 điểm trong khi giữ nguyên kỹ thuật và sự chuẩn bị."
+        "title": "Cấp 3 — Mở rộng tầm ném",
+        "description": "Đẩy tầm ném ra vạch 3 điểm mà vẫn giữ nguyên kỹ thuật và cách chuẩn bị."
       },
       {
-        "title": "Cấp 4 — Ném Khi Di Chuyển",
-        "description": "Học cách ném sau screen — curl, flare và pin-down — với sự cân bằng và tốc độ."
+        "title": "Cấp 4 — Ném khi di chuyển",
+        "description": "Ném sau screen — curl, flare, pin down — với thăng bằng và tốc độ."
       },
       {
-        "title": "Cấp 5 — Chọn Cú Ném",
-        "description": "Phát triển IQ của tay ném: hiểu cú ném nào giúp đội và cú nào làm hại đội."
+        "title": "Cấp 5 — Lựa chọn cú ném",
+        "description": "Nâng IQ bóng rổ của tay ném: phân biệt cú ném giúp đội và cú ném làm hại đội."
       }
     ]
   }

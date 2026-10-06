@@ -85,66 +85,66 @@
     "Everything in team defense starts with the ball. If one defender cannot contain the ball, the whole defense has to rotate, which creates open shots everywhere else. Strong on-ball defenders reduce the need for help, which means fewer rotations and fewer breakdowns for the entire team."
   ],
   "vi": {
-    "title": "Phòng Thủ Kèm Người Có Bóng",
-    "description": "Kèm người giữ bóng 1 đối 1: tư thế phòng thủ, di chuyển chân (slide), góc kèm và cách chặn đường đột phá mà không phạm lỗi.",
-    "whatIsIt": [
-      "Phòng thủ kèm bóng (on-ball defense) là kèm cầu thủ đang giữ bóng. Nhiệm vụ của bạn mô tả thì đơn giản nhưng thực hiện thì khó: luôn đứng giữa đối thủ và rổ, không để anh ta vượt qua, và tranh chấp mọi cú ném mà không phạm lỗi.",
-      "Phòng thủ kèm bóng giỏi chủ yếu là vị trí và sự kiên nhẫn. Bạn không cần cướp bóng hay block để thắng một pha tấn công. Nếu người giữ bóng không thể vượt qua bạn, không có cú ném thoáng, và buộc phải chuyền bóng khi đồng hồ sắp hết, bạn đã hoàn thành nhiệm vụ."
+    "coachingPoints": [
+      "Chân trước, tay sau — trượt chân luôn thắng với tay",
+      "Tay trước truy theo bóng, ép người dẫn phải bảo vệ bóng",
+      "Ngực đối ngực người giữ bóng, luôn kèm vuông góc",
+      "Ép bóng về phía đồng đội hỗ trợ — biết đội mình chặn giữa hay ép ra biên",
+      "Không chéo chân khi trượt; chân sau đẩy, chân trước bước",
+      "Tranh chấp mọi cú ném mà không phạm lỗi — tranh chấp sạch thắng block ở hầu hết các pha"
     ],
-    "whyItMatters": [
-      "Mọi thứ trong phòng thủ đồng đội đều bắt đầu từ quả bóng. Nếu một hậu vệ không ngăn được bóng, cả hệ thống phải xoay chuyển để hỗ trợ, tạo ra những cú ném trống trải ở khắp nơi. Người kèm bóng tốt giảm nhu cầu hỗ trợ, tức là ít phải xoay vòng hơn và ít lỗi sập bẫy hơn cho cả đội."
+    "commonMistakes": [
+      "Với tay cướp bóng thay vì trượt chân — một lần với là bị vượt ngay",
+      "Mở hông rồi bị xoay người — giữ vuông góc với người giữ bóng",
+      "Để người giữ bóng đi vào giữa trong lúc đội đang ép ra biên",
+      "Phạm lỗi với cầu thủ ném vì nhảy vào vùng tiếp đất — tranh chấp bằng thân người có kiểm soát"
+    ],
+    "description": "Kèm người giữ bóng 1 đối 1: tư thế phòng thủ, trượt chân, góc kèm và cách chặn đường đột phá mà không phạm lỗi.",
+    "gameSituations": [
+      "Pha isolation 1 đối 1 với người mình kèm",
+      "Sau pha switch, bạn phải kèm bóng",
+      "Đối thủ nhận bóng ở nửa sân",
+      "Cuối đồng hồ tấn công, đối phương cố tạo đột phá từ dẫn bóng"
     ],
     "howTo": [
       {
-        "title": "Vào tư thế phòng thủ đúng khoảng cách",
-        "detail": "Bắt đầu với tư thế phòng thủ thấp, cách người giữ bóng một sải tay cộng thêm nửa bước chân. Đứng quá gần dễ bị vượt mặt; quá xa thì mời đối thủ ném nhịp nhàng."
+        "detail": "Bắt đầu ở tư thế phòng thủ thấp, cách người giữ bóng một sải tay cộng nửa bước. Đứng quá gần là mời anh ta vượt mặt; quá xa là mời cú ném nhịp nhàng.",
+        "title": "Vào tư thế phòng thủ, đúng khoảng cách"
       },
       {
-        "title": "Kèm vuông góc và nhìn vào ngực đối thủ",
-        "detail": "Nhìn vào phần giữa thân người giữ bóng, không nhìn bóng. Giữ ngực của bạn vuông góc với ngực đối thủ để phản ứng được cả hai tay."
+        "detail": "Nhìn vào giữa thân người giữ bóng, không nhìn bóng. Giữ ngực mình vuông góc với ngực đối thủ để phản ứng được cả hai tay.",
+        "title": "Kèm vuông góc, mắt nhìn ngực đối thủ"
       },
       {
-        "title": "Trượt chân theo bóng, đừng với tay",
-        "detail": "Trượt chân ngang bằng bước hạ (drop step) và bước đẩy (push step), không bao giờ chéo chân. Chân sau đẩy, chân trước bước, giữ trọng tâm rộng."
+        "detail": "Trượt ngang bằng drop step và push step, không bao giờ chéo chân. Chân sau đẩy, chân trước bước, giữ trọng tâm rộng.",
+        "title": "Trượt chân theo bóng, đừng với tay"
       },
       {
-        "title": "Dùng tay trước truy theo bóng",
-        "detail": "Giữ tay trước — tay ở phía bóng — ngang tầm bóng để truy theo đường dẫn bóng. Tay còn lại hơi lùi sau để chặn vai đột phá."
+        "detail": "Giữ tay trước — tay phía bóng — ngang tầm bóng để truy theo đường dẫn. Tay còn lại hơi lùi sau, chặn vai đột phá.",
+        "title": "Tay trước truy theo bóng"
       },
       {
-        "title": "Ép hướng đột phá",
-        "detail": "Dùng bước trượt để dẫn người giữ bóng về phía đồng đội hỗ trợ: chặn đường giữa nếu sơ đồ đội bạn ép ra biên, hoặc ngược lại. Đây gọi là ép hướng đột phá (dictating direction)."
+        "detail": "Dùng bước trượt dẫn người giữ bóng về phía đồng đội hỗ trợ: chặn đường giữa nếu sơ đồ ép ra biên, hoặc ngược lại. Đây gọi là ép hướng (dictating direction).",
+        "title": "Ép hướng đột phá"
       },
       {
-        "title": "Tranh chấp cú ném, rồi box out",
-        "detail": "Khi bóng lên, giữ thấp người, giơ tay cao thẳng lên để tranh chấp, tránh lao người vào cầu thủ ném. Sau đó quay lại tìm người kèm để box out."
+        "detail": "Bóng bay lên, giữ thấp người, giơ tay cao thẳng lên tranh chấp, không lao người vào cầu thủ ném. Rồi quay lại tìm người kèm để box out.",
+        "title": "Tranh chấp cú ném rồi box out"
       }
-    ],
-    "coachingPoints": [
-      "Di chuyển chân trước, tay sau — trượt chân luôn thắng với tay cướp bóng",
-      "Dùng tay trước truy theo bóng để buộc người dẫn bóng phải bảo vệ bóng",
-      "Giữ ngực đối diện ngực người giữ bóng để luôn kèm vuông góc",
-      "Ép bóng về phía đồng đội hỗ trợ — biết đội bạn muốn chặn giữa hay ép ra biên",
-      "Không bao giờ chéo chân khi trượt; chân sau đẩy, chân trước bước",
-      "Tranh chấp mọi cú ném mà không phạm lỗi — tranh chấp sạch thắng block ở hầu hết các pha bóng"
-    ],
-    "commonMistakes": [
-      "Với tay cướp bóng thay vì trượt chân — một lần với tay là bị vượt qua ngay",
-      "Mở hông và bị xoay người — luôn giữ vuông góc với người giữ bóng",
-      "Để người giữ bóng đi vào giữa khi đội đang ép ra biên (icing to the baseline)",
-      "Phạm lỗi với cầu thủ ném do nhảy vào vùng tiếp đất — tranh chấp với thân người kiểm soát"
-    ],
-    "gameSituations": [
-      "Một pha isolation 1 đối 1 với người mình kèm",
-      "Sau một pha switch khiến bạn phải kèm bóng",
-      "Khi đối thủ bắt bóng ở nửa sân",
-      "Cuối đồng hồ tấn công khi đối phương cố tạo đột phá từ dẫn bóng"
     ],
     "tags": [
       "phòng thủ",
       "kèm bóng",
-      "kỹ thuật cơ bản",
-      "ngăn chặn"
+      "cơ bản",
+      "chặn đột phá"
+    ],
+    "title": "Phòng thủ kèm người có bóng",
+    "whatIsIt": [
+      "Phòng thủ kèm người có bóng là kèm cầu thủ đang giữ bóng. Nhiệm vụ mô tả thì đơn giản, làm thì khó: luôn đứng giữa người mình kèm và rổ, không để anh ta vượt qua, tranh chấp mọi cú ném mà không phạm lỗi.",
+      "Kèm bóng giỏi chủ yếu là vị trí và kiên nhẫn. Không cần cướp bóng hay block để thắng một lượt bóng. Người giữ bóng không vượt qua được bạn, không có cú ném thoáng, buộc phải chuyền khi đồng hồ sắp hết — thế là bạn đã làm tròn việc."
+    ],
+    "whyItMatters": [
+      "Mọi thứ trong phòng thủ đồng đội đều bắt đầu từ quả bóng. Một hậu vệ không chặn được bóng, cả hệ thống phải xoay chuyển hỗ trợ — và thế là cú ném trống xuất hiện khắp nơi. Kèm bóng tốt giảm nhu cầu hỗ trợ, tức ít rotation hơn, ít sập bẫy hơn cho cả đội."
     ]
   }
 }

@@ -67,52 +67,52 @@
   "outlet-passing"
  ],
  "vi": {
-  "title": "Seal Post Sớm Trong Transition",
-  "description": "Chạy nước rút ra trước rổ trước khi hàng thủ ổn định — những pha chạm post dễ nhất trong bóng rổ đến trong 4 giây đầu.",
+  "title": "Seal post sớm trong phản công (early post seal)",
+  "description": "Chạy nước rút lên trước rổ trước khi hàng thủ ổn định — những lần chạm bóng ở post dễ nhất đến trong bốn giây đầu.",
   "whatIsIt": [
-   "Early post seal xảy ra khi big man chạy nước rút trong transition và seal hậu vệ ở phía trên trước khi hàng thủ ổn định — thường trong 4–5 giây đầu của possession. Guard ném đường chuyền nhanh và big bắt bóng sâu với lợi thế.",
-   "Đó là pha chạm post hiệu quả nhất trong bóng rổ vì hàng thủ chưa kịp dồn help. Không có double team nào đến trong 4 giây đầu — chỉ có big của bạn, đối thủ của anh ta, và rổ."
+   "Seal post sớm xảy ra khi big chạy nước rút cả sân trong phản công và khóa hậu vệ ở phía trên trước khi hàng thủ kịp ổn định — thường trong 4–5 giây đầu của đợt tấn công. Hậu vệ ném đường chuyền vào nhanh, big bắt bóng sâu với lợi thế dẫn bóng còn sống.",
+   "Đây là lần chạm bóng ở post hiệu quả nhất vì hàng thủ chưa kịp dồn cầu thủ hỗ trợ. Không có double team nào đến trong bốn giây đầu — chỉ có big của cầu thủ, người kèm anh ta, và cái rổ."
   ],
   "whyItMatters": [
-   "Chạm post ở half-court rất đắt — tốn thời gian, hút double, làm chậm tấn công. Seal sớm thì miễn phí: cùng pha bắt bóng sâu, không help nào. Các đội chạy lấy vị trí post sớm có 4–6 pha ghi điểm dễ mỗi trận mà half-court không có."
+   "Chạm bóng ở post trong tấn công nửa sân rất đắt — tốn thời gian, hút double team, làm chậm tấn công. Seal sớm thì miễn phí: cùng một lần bắt bóng sâu, không cầu thủ hỗ trợ. Đội chịu chạy lấy vị trí post sớm có 4–6 rổ dễ mỗi trận mà tấn công nửa sân không bao giờ tạo ra."
   ],
   "howTo": [
    {
-    "title": "Chạy nước rút đường giữa",
-    "detail": "Big chạy thẳng đường giữa sân — làn rim-runner — vượt hậu vệ lên trước. Chạy bộ chỉ cho bạn seal ở vạch ba điểm, vô dụng."
+    "title": "Chạy nước rút giữa sân",
+    "detail": "Big chạy nước rút thẳng giữa sân — làn của rim-runner — vượt mặt hậu vệ kèm mình. Chạy thả lỏng chỉ seal được ở vạch 3 điểm, vô dụng."
    },
    {
-    "title": "Seal ở phía nhận bóng",
-    "detail": "Khi bóng tiến lên, seal hậu vệ ở phía trên (về phía giữa sân) với trụ rộng. Seal nên diễn ra trước rổ, không phải sau rổ."
+    "title": "Seal ở phía bóng đến",
+    "detail": "Khi bóng lên, khóa hậu vệ ở phía trên (về phía nửa sân) bằng tư thế chân rộng. Điểm seal phải ở trước rổ, không phải sau rổ."
    },
    {
     "title": "Giơ tay xin bóng",
-    "detail": "Tay giơ cao, gọi bóng. Guard cần thấy bạn sớm — khe thời gian là 2 giây giữa pha seal và help tới."
+    "detail": "Tay giơ cao, gọi xin bóng. Hậu vệ cần thấy cầu thủ sớm — cửa sổ chỉ hai giây từ lúc seal đến lúc cầu thủ hỗ trợ tới."
    },
    {
-    "title": "Bắt và kết thúc nhanh",
-    "detail": "Bắt bóng, tối đa một pha dẫn mạnh, kết thúc. Seal sớm chết khi big bắt rồi quan sát — help đang tới, hãy đi ngay."
+    "title": "Bắt bóng và kết thúc nhanh",
+    "detail": "Bắt bóng, tối đa một nhịp dẫn mạnh, kết thúc. Seal sớm chết khi big bắt bóng rồi quan sát — cầu thủ hỗ trợ đang đến, đi ngay."
    }
   ],
   "coachingPoints": [
-   "Thưởng cho big chạy rim bằng những pha chạm bóng — nếu họ chạy mà không bao giờ nhận bóng, họ sẽ ngừng chạy.",
-   "Guard: nhìn vào trong trước trong transition, rồi mới ra tay ném.",
+   "Thưởng cho big chịu rim-run bằng những lần chạm bóng — họ chạy nước rút mà không bao giờ được bóng, họ sẽ ngừng chạy.",
+   "Hậu vệ: trong phản công nhìn vào trong trước, rồi mới ra tay ném.",
    "Seal phải hợp lệ — không túm áo hậu vệ."
   ],
   "commonMistakes": [
-   "Seal quá cao, cách rổ 15 feet — đó không phải seal, đó là kẹt xe.",
-   "Bắt bóng rồi giữ trong khi hàng thủ dồn lên.",
-   "Guard bỏ lỡ pha đọc sớm và dẫn vào hàng thủ đã ổn định."
+   "Seal quá cao, cách rổ 4,5m — đó không phải seal, đó là kẹt xe.",
+   "Bắt bóng rồi giữ trong lúc hàng thủ dồn lên.",
+   "Hậu vệ bỏ lỡ pha đọc sớm, dẫn bóng vào hàng thủ đã ổn định."
   ],
   "gameSituations": [
-   "Sau mọi rebound phòng thủ — big xuống đầu tiên seal.",
-   "Trước các đội lui về chậm.",
-   "Khi big của bạn có lợi thế thể hình — đưa bóng cho anh ta trước khi help tới."
+   "Sau mỗi rebound phòng thủ — big xuống đầu tiên seal ngay.",
+   "Đấu đội lui chậm, chạy về thả lỏng.",
+   "Khi big của đội có lợi thế thể hình — đưa bóng cho anh ta trước khi cầu thủ hỗ trợ tới."
   ],
   "tags": [
-   "transition",
-   "post",
-   "phản công"
+   "phản công",
+   "đánh post",
+   "seal"
   ]
  },
  "id": "transition-early-post",

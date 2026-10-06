@@ -83,64 +83,64 @@
     "Plans also keep coaches honest. When every player has documented priorities, development stops being accidental and starts being systematic."
   ],
   "vi": {
-    "title": "Lập Kế Hoạch Phát Triển Cầu Thủ",
-    "description": "Xây dựng kế hoạch phát triển cá nhân biến điểm yếu thành điểm mạnh — đánh giá, ưu tiên, và tiến bộ đo lường được cho từng cầu thủ.",
-    "whatIsIt": [
-      "Kế hoạch phát triển cầu thủ là lộ trình cá nhân hóa cho từng vận động viên: họ đang ở đâu, cần đến đâu, và công việc cụ thể để lấp khoảng cách. Nó biến mục tiêu mơ hồ \"tiến bộ hơn\" thành chương trình cụ thể gồm kỹ năng, số lần lặp lại và các cột mốc.",
-      "Kế hoạch tốt nhất thì đơn giản: hai hoặc ba kỹ năng ưu tiên, bài tập rõ ràng cho từng kỹ năng, và cách đo lường tiến bộ. Kế hoạch được xây dựng CÙNG cầu thủ, không phải THAY họ — sự làm chủ là điều giúp kế hoạch sống sót qua cả mùa giải."
+    "coachingPoints": [
+      "Để cầu thủ tham gia đặt ưu tiên — sự đồng thuận luôn thắng áp đặt",
+      "Ưu tiên điểm yếu đang hạn chế thời gian thi đấu, không chỉ kỹ năng cầu thủ thích",
+      "Giữ mỗi kế hoạch trong một trang; phức tạp giết chết kiên trì",
+      "Ăn mừng cột mốc công khai để củng cố quá trình phát triển"
     ],
-    "whyItMatters": [
-      "Đội bóng tiến bộ khi từng cá nhân tiến bộ. Buổi tập chung phát triển mỗi người một chút; kế hoạch cá nhân phát triển mỗi người rất nhiều. Cầu thủ có kế hoạch tập luyện có mục đích trong mùa hè, tự theo dõi sự tiến bộ, và đến buổi tuyển chọn với diện mạo hoàn toàn mới.",
-      "Kế hoạch còn giúp HLV trung thực với chính mình. Khi mỗi cầu thủ đều có ưu tiên được ghi lại, sự phát triển không còn là ngẫu nhiên mà trở thành hệ thống."
+    "commonMistakes": [
+      "Cố sửa mọi thứ cùng lúc thay vì tập trung hai ba ưu tiên",
+      "Viết kế hoạch rồi không bao giờ xem lại",
+      "Đặt mục tiêu mơ hồ không chỉ tiêu đo được",
+      "Sao chép cùng một kế hoạch chung cho mọi cầu thủ"
+    ],
+    "description": "Xây kế hoạch phát triển cá nhân biến điểm yếu thành điểm mạnh — đánh giá, ưu tiên và tiến bộ đo được cho từng cầu thủ.",
+    "gameSituations": [
+      "Mùa nghỉ: xây chương trình tập hè cho một guard đang phát triển",
+      "Trong mùa giải: buổi tập cá nhân 15 phút trước buổi tập đội",
+      "Sau tuyển chọn: đưa cầu thủ bị loại một kế hoạch cụ thể để trở lại mạnh hơn"
     ],
     "howTo": [
       {
-        "title": "Đánh giá trung thực",
-        "detail": "Đánh giá kỹ năng, thể lực và basketball IQ của từng cầu thủ bằng video và các bài kiểm tra đơn giản — không chỉ dựa vào trí nhớ hay tiếng tăm. Điểm xuất phát trung thực tạo nên kế hoạch trung thực."
+        "detail": "Đánh giá kỹ năng, thể chất và IQ bóng rổ của từng cầu thủ bằng video và bài test đơn giản — không chỉ dựa vào trí nhớ hay tiếng tăm. Điểm xuất phát trung thực cho ra kế hoạch trung thực.",
+        "title": "Đánh giá trung thực"
       },
       {
-        "title": "Chọn hai đến ba ưu tiên",
-        "detail": "Chọn hai hoặc ba kỹ năng sẽ thay đổi trận đấu của cầu thủ này nhiều nhất — ví dụ dứt điểm bằng tay yếu hoặc độ ổn định catch-and-shoot. Tập trung thắng trải rộng."
+        "detail": "Chọn hai ba kỹ năng thay đổi trận đấu của cầu thủ này nhiều nhất — ví dụ dứt điểm tay không thuận hay độ ổn định bắt bóng ném ngay. Tập trung thắng trải rộng.",
+        "title": "Chọn hai đến ba ưu tiên"
       },
       {
-        "title": "Định nghĩa công việc",
-        "detail": "Giao bài tập cụ thể, chỉ tiêu số lần lặp và số phút mỗi tuần cho từng ưu tiên. \"Tập tay trái đi\" là ước muốn; \"100 lần dứt điểm tay trái, ba lần mỗi tuần\" mới là kế hoạch."
+        "detail": "Giao bài tập cụ thể, chỉ tiêu reps và số phút mỗi tuần cho từng ưu tiên. “Tập tay trái đi” là ước muốn; “100 lần dứt điểm tay trái, ba lần mỗi tuần” mới là kế hoạch.",
+        "title": "Định nghĩa công việc"
       },
       {
-        "title": "Đặt cột mốc đo lường được",
-        "detail": "\"Ném trúng 70% ném phạt trong buổi tập\" hay hơn \"cải thiện khả năng ném\". Cột mốc đo lường được cho cầu thủ — và cho bạn — biết kế hoạch có đang hiệu quả không."
+        "detail": "“Ném trúng 70% ném phạt trong buổi tập” hay hơn “cải thiện ném rổ”. Cột mốc đo được cho cầu thủ — và cho bạn — biết kế hoạch có đang hiệu quả không.",
+        "title": "Đặt cột mốc đo được"
       },
       {
-        "title": "Rà soát hằng tháng",
-        "detail": "Ngồi xuống với cầu thủ mỗi tháng, kiểm tra tiến bộ so với các cột mốc, và điều chỉnh. Kế hoạch là tài liệu sống, không phải giấy tờ tiền mùa giải."
+        "detail": "Ngồi với cầu thủ mỗi tháng, kiểm tra tiến bộ so với cột mốc, rồi điều chỉnh. Kế hoạch là tài liệu sống, không phải giấy tờ tiền mùa giải.",
+        "title": "Rà soát hằng tháng"
       },
       {
-        "title": "Gắn với vai trò của họ",
-        "detail": "Cho thấy mỗi ưu tiên giúp cầu thủ đóng góp cho đội bóng mùa này như thế nào. Phát triển gắn với vai trò thực tế tạo động lực hơn nhiều so với sự tiến bộ trừu tượng."
+        "detail": "Cho thấy mỗi ưu tiên giúp cầu thủ đóng góp cho đội mùa này ra sao. Phát triển gắn với vai trò thực tạo động lực hơn nhiều so với tiến bộ trừu tượng.",
+        "title": "Gắn với vai trò của họ"
       }
-    ],
-    "coachingPoints": [
-      "Để cầu thủ tham gia đặt ưu tiên — sự đồng thuận luôn thắng việc áp đặt.",
-      "Ưu tiên những điểm yếu đang hạn chế thời gian thi đấu, không chỉ những kỹ năng cầu thủ thích.",
-      "Giữ mỗi kế hoạch trong một trang; phức tạp giết chết sự kiên trì.",
-      "Ăn mừng các cột mốc công khai để củng cố quá trình phát triển."
-    ],
-    "commonMistakes": [
-      "Cố sửa mọi thứ cùng lúc thay vì tập trung vào hai ba ưu tiên.",
-      "Viết kế hoạch rồi không bao giờ xem lại.",
-      "Đặt mục tiêu mơ hồ không có chỉ tiêu đo lường.",
-      "Sao chép cùng một kế hoạch chung cho mọi cầu thủ trong đội hình."
-    ],
-    "gameSituations": [
-      "Mùa nghỉ: xây dựng chương trình tập hè cho một hậu vệ đang phát triển.",
-      "Trong mùa giải: các buổi tập cá nhân 15 phút trước buổi tập đội.",
-      "Sau tuyển chọn: đưa cho cầu thủ bị loại một kế hoạch cụ thể để trở lại mạnh mẽ hơn."
     ],
     "tags": [
       "huấn luyện",
       "phát triển cầu thủ",
       "lập kế hoạch",
       "kỹ năng"
+    ],
+    "title": "Lập kế hoạch phát triển cầu thủ",
+    "whatIsIt": [
+      "Kế hoạch phát triển cầu thủ là lộ trình cá nhân cho từng vận động viên: họ đang ở đâu, cần tới đâu, và công việc cụ thể để lấp khoảng cách. Nó biến mục tiêu mơ hồ “tiến bộ hơn” thành chương trình cụ thể gồm kỹ năng, reps và cột mốc.",
+      "Kế hoạch tốt nhất thì đơn giản: hai ba kỹ năng ưu tiên, bài tập rõ ràng cho từng kỹ năng, và cách đo tiến bộ. Kế hoạch xây cùng cầu thủ, không phải thay họ — sự làm chủ là điều giúp kế hoạch sống sót qua mùa giải."
+    ],
+    "whyItMatters": [
+      "Đội tiến bộ khi từng cá nhân tiến bộ. Tập chung phát triển mỗi người một chút; kế hoạch cá nhân phát triển mỗi người rất nhiều. Cầu thủ có kế hoạch tập có mục đích trong mùa nghỉ, tự theo dõi tiến bộ, và tới buổi tuyển chọn với diện mạo hoàn toàn mới.",
+      "Kế hoạch còn giữ HLV trung thực. Mỗi cầu thủ đều có ưu tiên được ghi lại, phát triển không còn là ngẫu nhiên mà thành hệ thống."
     ]
   }
 }

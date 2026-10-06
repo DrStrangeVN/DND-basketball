@@ -73,58 +73,58 @@
   "ball-handler-reads"
  ],
  "vi": {
-  "title": "Đánh Bại Hard Hedge",
-  "description": "Khi hậu vệ của người chắn nhảy cao chặn bóng, hãy split, kéo giãn, hoặc trừng phạt — bộ đòn phản đầy đủ.",
-  "whatIsIt": [
-   "Hard hedge là khi hậu vệ của người chắn nhảy cao — đôi khi đến giữa sân — để chặn người cầm bóng và ép bóng ra khỏi tay anh ta. Đó là kiểu kèm PNR hung hăng nhất, thiết kế để phá bài ngay từ đầu.",
-   "Đánh bại nó cần một bộ đòn, không phải một động tác: split qua hedge, kéo big man ra rồi tấn công, trả bóng cho người chắn, hoặc slip trước khi hedge tới. Các đội PNR giỏi có sẵn cả bốn đáp án."
-  ],
-  "whyItMatters": [
-   "Nếu không đánh bại được hard hedge, các đội hung hăng sẽ triệt PNR của bạn hoàn toàn. Nhưng mọi hedge đều là canh bạc — hai hậu vệ kèm bóng nghĩa là có người trống. Đội trừng phạt được hedge biến vũ khí mạnh nhất của hàng thủ thành các pha layup 4-đánh-3."
-  ],
-  "howTo": [
-   {
-    "title": "Split qua hedge",
-    "detail": "Tấn công vai ngoài của big man đang hedge bằng crossover mạnh hoặc inside-out dribble, lách giữa anh ta và hậu vệ đang hồi của bạn. Split là đòn phản tàn khốc nhất — đánh bại cả hai hậu vệ cùng lúc."
-   },
-   {
-    "title": "Kéo giãn rồi tấn công lại",
-    "detail": "Nếu không split được, kéo dẫn lùi và ngang để lôi big man hedge xa rổ hơn, rồi bùng nổ qua anh ta xuống rổ. Anh ta ở ngoài càng lâu, roll càng trống."
-   },
-   {
-    "title": "Trả bóng cho người chắn",
-    "detail": "Khi big man commit mạnh vào bạn, trả bóng cho người chắn đang pop hoặc short-roll sau lưng. Anh ta bắt bóng với lane mở và hàng thủ đang xoay."
-   },
-   {
-    "title": "Slip trước khi hedge tới",
-    "detail": "Nếu thấy hedge đến sớm, cho người chắn slip thay vì dựng chắn. Big man hedge chạy vào khoảng trống trong khi đồng đội bạn lao vào rổ."
-   },
-   {
-    "title": "Bắt họ trả giá hai lần",
-    "detail": "Sau hai đòn phản thành công, hàng thủ sẽ hedge nhẹ lại — và điều đó mở lại PNR thường của bạn. Bộ đòn hiệu quả vì mỗi đáp án dọn đường cho đáp án tiếp theo."
-   }
-  ],
-  "coachingPoints": [
-   "Dạy split trước — đó là kỹ năng khiến hedge không thể duy trì.",
-   "Người cầm bóng phải giữ thấp người qua hedge; đứng thẳng là bị móc bóng.",
-   "Drill 2-đấu-2 (guard-big vs guard-big) với hàng thủ bắt buộc hard hedge."
-  ],
-  "commonMistakes": [
-   "Nhấc bóng lên khi hedge tới — giờ bạn bị bẫy.",
-   "Cố split một hedge đã chọn góc tốt thay vì kéo giãn nó ra trước.",
-   "Người chắn roll vào big man đang hedge thay vì slip hoặc pop."
-  ],
-  "gameSituations": [
-   "Trước mọi đội hard hedge hoặc blitz chắn bóng.",
-   "Cuối trận: hedge càng hung hăng — hãy sẵn đòn phản.",
-   "Với guard nhanh split được và big man bắt bóng khi di chuyển tốt."
-  ],
-  "tags": [
-   "pick and roll",
-   "phòng thủ",
-   "đọc tình huống"
-  ]
- },
+    "coachingPoints": [
+      "Dạy split trước — đó là kỹ năng khiến hedge không thể duy trì",
+      "Người giữ bóng giữ thấp người qua hedge; đứng thẳng là bị móc bóng",
+      "Tập 2-đấu-2 (guard-big đấu guard-big) với hàng thủ bắt buộc hard hedge"
+    ],
+    "commonMistakes": [
+      "Ôm bóng khi hedge tới — giờ bạn bị bẫy",
+      "Cố split một hedge đã chọn góc tốt thay vì kéo giãn nó ra trước",
+      "Người dựng screen roll vào big đang hedge thay vì slip hoặc pop"
+    ],
+    "description": "Khi hậu vệ của người dựng screen nhảy cao chặn bóng — split, kéo giãn, hoặc trừng phạt: bộ đòn phản đầy đủ.",
+    "gameSituations": [
+      "Đấu mọi đội hard hedge hoặc blitz screen bóng",
+      "Cuối trận: hedge càng hung hăng — chuẩn bị sẵn đòn phản",
+      "Có guard nhanh split được và big bắt bóng tốt khi di chuyển"
+    ],
+    "howTo": [
+      {
+        "detail": "Đánh vào vai ngoài của big đang hedge bằng crossover mạnh hoặc inside-out dribble, lách giữa anh ta và hậu vệ đang hồi của bạn. Split là đòn phản tàn khốc nhất — hạ cả hai hậu vệ cùng lúc.",
+        "title": "Split qua hedge"
+      },
+      {
+        "detail": "Không split được, kéo dẫn lùi và ngang để lôi big đang hedge xa rổ hơn, rồi bùng nổ qua anh ta xuống rổ. Anh ta ở ngoài càng lâu, đường roll càng trống.",
+        "title": "Kéo giãn rồi tấn công lại"
+      },
+      {
+        "detail": "Big dấn mạnh vào bạn, trả bóng cho người dựng screen đang pop hoặc short-roll sau lưng pha bóng. Anh ta bắt bóng với đường mở, hàng thủ đang xoay.",
+        "title": "Trả bóng cho người dựng screen"
+      },
+      {
+        "detail": "Thấy hedge đến sớm, cho người dựng screen slip thay vì đặt screen. Big đang hedge chạy vào khoảng không trong lúc đồng đội bạn lao vào rổ.",
+        "title": "Slip trước khi hedge tới"
+      },
+      {
+        "detail": "Hai đòn phản thành công, hàng thủ sẽ hedge nhẹ lại — và PNR thường của bạn mở lại. Bộ đòn hiệu quả vì mỗi đáp án dọn đường cho đáp án tiếp theo.",
+        "title": "Bắt họ trả giá hai lần"
+      }
+    ],
+    "tags": [
+      "pick and roll",
+      "hedge",
+      "đọc tình huống"
+    ],
+    "title": "Đánh bại hard hedge",
+    "whatIsIt": [
+      "Hard hedge là khi hậu vệ của người dựng screen nhảy cao — đôi khi tới giữa sân — để chặn người giữ bóng, ép bóng ra khỏi tay anh ta. Đây là coverage PNR hung hăng nhất, thiết kế để phá bài ngay từ đầu.",
+      "Đánh bại nó cần một bộ đòn, không phải một động tác: split qua hedge, kéo big ra rồi tấn công, trả bóng cho người dựng screen đang pop, hoặc slip trước khi hedge tới. Đội PNR giỏi có sẵn cả bốn đáp án."
+    ],
+    "whyItMatters": [
+      "Không đánh bại được hard hedge, các đội hung hăng sẽ triệt PNR của bạn hoàn toàn. Nhưng mọi hedge đều là canh bạc — hai hậu vệ kèm bóng nghĩa là có người trống. Đội trừng phạt được hedge biến vũ khí mạnh nhất của hàng thủ thành layup 4-đánh-3."
+    ]
+  },
  "id": "pnr-vs-hedge",
  "slug": "pnr-vs-hedge",
  "dateUpdated": "2026-10-06"

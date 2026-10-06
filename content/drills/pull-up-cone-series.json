@@ -66,49 +66,49 @@
   ],
   "dateUpdated": "2026-10-06",
   "vi": {
-    "title": "Chuỗi Pull-Up Qua Cọc Tiêu",
-    "description": "Rèn cú ném pull-up sau một nhịp dẫn qua cọc tiêu ở ba cự ly — khuỷu, cánh và xa — với nhịp giảm tốc ở tốc độ trận đấu.",
-    "goal": "Ném trúng 6/10 quả pull-up một nhịp dẫn ở mỗi cự ly trong 3 cự ly cọc tiêu với điểm dừng thăng bằng.",
-    "setup": [
-      "Đặt 3 cọc tiêu bên phải: ở khuỷu (4.5m), khu vực cánh ba điểm (6m) và xa (7.5m). Nếu còn thời gian thì đặt đối xứng bên trái.",
-      "Mỗi rep bắt đầu ở giữa sân có bóng, sprint hướng về cọc tiêu.",
-      "Đồng đội bắt rebound hoặc dùng bóng dự phòng; để sẵn bóng thứ hai ở giữa sân để giữ nhịp."
-    ],
-    "instructions": [
-      {
-        "title": "Pull-Up Khuỷu",
-        "detail": "Sprint dẫn bóng tới cọc, một nhịp dẫn mạnh vượt qua cọc, rồi cắm chân vào tư thế pull-up hai chân thăng bằng ở cự ly 4.5m. Giảm tốc bằng bước dừng 1-2, ngực ngẩng. Ném 10 quả, đếm số trúng, mục tiêu 6 quả."
-      },
-      {
-        "title": "Pull-Up Cánh",
-        "detail": "Sang cọc cánh. Cùng kiểu: sprint, một nhịp dẫn vượt cọc, pull-up từ 6m. Điểm dừng phải dứt khoát — phanh gấp bằng chân trong và bật thẳng lên. Ném 10 quả."
-      },
-      {
-        "title": "Pull-Up Xa",
-        "detail": "Từ cọc xa 7.5m, sprint vào và pull-up ngay trong hoặc ngoài vạch ba điểm. Giữ cùng nhịp dừng nhanh và tay ném cao; không ngả người tránh hậu vệ tưởng tượng. Ném 10 quả."
-      },
-      {
-        "title": "Đổi Bên",
-        "detail": "Lặp lại toàn bộ chuỗi 3 cọc ở bên trái sân, tấn công bằng tay trái. Kết thúc bằng 5 quả trúng liên tiếp luân phiên khuỷu-cánh-xa ở bên tùy chọn."
-      }
-    ],
     "coachingPoints": [
-      "Điểm dừng quyết định cú ném: chặt chân và xoay ngực về rổ trước khi bật lên.",
-      "Một nhịp dẫn, không hơn — dẫn thêm là cho đối phương kịp hồi phòng ngự.",
+      "Điểm dừng quyết định cú ném: chặt chân, xoay ngực về rổ rồi mới bật lên.",
+      "Một nhịp dẫn, không hơn — dẫn thêm là cho hàng thủ kịp hồi.",
       "Giữ bóng thấp và sát người khi tấn công để cú pull-up bắt đầu từ bóng sống.",
-      "Bật thẳng lên; ngả người khi pull-up là thói quen giết tỉ lệ ném."
+      "Bật thẳng lên; ngả người khi pull-up là thói quen giết chết tỉ lệ ném."
     ],
     "commonMistakes": [
       "Trôi ngang khi dừng thay vì cắm chân thăng bằng.",
-      "Nhấc bóng lên quá sớm, biến pull-up thành set shot chậm chạp."
+      "Nhấc bóng lên quá sớm, biến pull-up thành cú ném đứng chậm chạp."
     ],
-    "progression": "Thêm huấn luyện viên hoặc đồng đội làm hậu vệ đuổi theo contest nhẹ, hoặc yêu cầu một động tác hesitation trước nhịp dẫn.",
-    "regression": "Đi bộ vào mỗi cú pull-up thay vì sprint cho đến khi footwork điểm dừng thành tự động, rồi mới tăng tốc.",
-    "gameApplication": "Pull-up một nhịp dẫn là đòn đáp trả khi đối phương chặn đường đột phá — dừng thăng bằng và ném qua người hồi thủ.",
-    "players": "1",
+    "description": "Rèn cú pull-up sau một nhịp dẫn qua cọc tiêu ở ba cự ly — vị trí elbow, cánh và xa — với nhịp giảm tốc ở tốc độ trận đấu.",
     "equipment": [
       "Bóng rổ",
       "Cọc tiêu"
-    ]
+    ],
+    "gameApplication": "Pull-up một nhịp dẫn là đòn đáp trả khi hàng thủ chặn đường đột phá — dừng thăng bằng rồi ném qua đầu người hồi thủ.",
+    "goal": "Ném trúng 6 trên 10 quả pull-up một nhịp dẫn ở mỗi cự ly trong 3 cự ly cọc tiêu, điểm dừng thăng bằng.",
+    "instructions": [
+      {
+        "detail": "Tăng tốc dẫn bóng tới cọc, một nhịp dẫn mạnh vượt qua cọc rồi cắm chân vào tư thế pull-up hai chân thăng bằng ở cự ly 4,5m. Giảm tốc bằng bước dừng 1-2, ngực ngẩng cao. Ném 10 quả, đếm số trúng, mục tiêu 6 quả.",
+        "title": "Pull-up ở elbow"
+      },
+      {
+        "detail": "Sang cọc ở cánh. Vẫn công thức đó: tăng tốc, một nhịp dẫn vượt cọc, pull-up từ 6m. Điểm dừng phải dứt khoát — phanh gấp bằng chân trong rồi bật thẳng lên. Ném 10 quả.",
+        "title": "Pull-up ở cánh"
+      },
+      {
+        "detail": "Từ cọc xa 7,5m, tăng tốc vào rồi pull-up ngay trong hoặc ngoài vạch 3 điểm. Giữ cùng nhịp dừng nhanh và tay ném cao; đừng ngả người tránh hậu vệ tưởng tượng. Ném 10 quả.",
+        "title": "Pull-up xa"
+      },
+      {
+        "detail": "Lặp lại toàn bộ chuỗi 3 cọc ở nửa sân bên trái, tấn công bằng tay trái. Chốt bài bằng 5 quả trúng liên tiếp, luân phiên elbow-cánh-xa ở bên tùy chọn.",
+        "title": "Đổi bên"
+      }
+    ],
+    "players": "1",
+    "progression": "Thêm HLV hoặc đồng đội làm hậu vệ đuổi theo contest nhẹ, hoặc yêu cầu một động tác hesitation trước nhịp dẫn.",
+    "regression": "Đi bộ vào mỗi cú pull-up thay vì tăng tốc cho đến khi bộ chân điểm dừng thành phản xạ, rồi mới tăng tốc độ.",
+    "setup": [
+      "Đặt 3 cọc tiêu bên phải: ở vị trí elbow (4,5m), khu vực ném 3 điểm ở cánh (6m) và xa (7,5m). Còn thời gian thì đặt đối xứng bên trái.",
+      "Mỗi lượt bắt đầu ở giữa sân có bóng, tăng tốc hướng về cọc tiêu.",
+      "Đồng đội bắt rebound hoặc dùng bóng dự phòng; để sẵn quả bóng thứ hai ở giữa sân để giữ nhịp."
+    ],
+    "title": "Chuỗi pull-up qua cọc tiêu"
   }
 }

@@ -5,17 +5,58 @@
   "description": "An advanced 40-minute floor-general session: elite ball handling, live pick-and-roll reads, passing under pressure, pull-up scoring, and leadership reps.",
   "level": "advanced",
   "durationMin": 40,
-  "focus": ["Ball Handling", "Pick & Roll", "Passing", "Shooting", "Finishing"],
-  "equipment": ["Basketball", "Cones"],
+  "focus": [
+    "Ball Handling",
+    "Pick & Roll",
+    "Passing",
+    "Shooting",
+    "Finishing"
+  ],
+  "equipment": [
+    "Basketball",
+    "Cones"
+  ],
   "items": [
-    {"name": "Advanced two-ball series", "detail": "Two-ball crossovers, between-the-legs, and behind-the-back while walking the court. 4 lengths, eyes up.", "time": "4:00"},
-    {"name": "Pressure ball handling", "detail": "Partner or coach applies token pressure with a hand: retreat dribbles, spin-outs, and pocket protection. Stay composed.", "time": "4:00"},
-    {"name": "Pick-and-roll mastery block", "detail": "Chair screen at the top: snake, reject, split, and pocket-pass reads — 5 reps of each, full speed.", "time": "8:00"},
-    {"name": "Live passing reads", "detail": "Drive-and-kick: attack a cone, jump-stop, and hit a target (chair) on the wing or corner. 10 accurate passes.", "time": "5:00"},
-    {"name": "Pull-up and floater package", "detail": "Elbow pull-ups, one-dribble side-steps, and runners: 3 makes per spot, both sides.", "time": "7:00"},
-    {"name": "Transition decision-making", "detail": "Full-court 1-on-0 push: advance the ball, read an imaginary trailer, finish or pull up. 8 trips.", "time": "5:00"},
-    {"name": "Free throws with consequences", "detail": "10 free throws: every miss is 10 seconds of defensive slides. Train focus when it costs you.", "time": "4:00"},
-    {"name": "Cool-down and visualization", "detail": "Light shooting while visualizing your team's sets — see yourself making the right read 5 times.", "time": "3:00"}
+    {
+      "name": "Advanced two-ball series",
+      "detail": "Two-ball crossovers, between-the-legs, and behind-the-back while walking the court. 4 lengths, eyes up.",
+      "time": "4:00"
+    },
+    {
+      "name": "Pressure ball handling",
+      "detail": "Partner or coach applies token pressure with a hand: retreat dribbles, spin-outs, and pocket protection. Stay composed.",
+      "time": "4:00"
+    },
+    {
+      "name": "Pick-and-roll mastery block",
+      "detail": "Chair screen at the top: snake, reject, split, and pocket-pass reads — 5 reps of each, full speed.",
+      "time": "8:00"
+    },
+    {
+      "name": "Live passing reads",
+      "detail": "Drive-and-kick: attack a cone, jump-stop, and hit a target (chair) on the wing or corner. 10 accurate passes.",
+      "time": "5:00"
+    },
+    {
+      "name": "Pull-up and floater package",
+      "detail": "Elbow pull-ups, one-dribble side-steps, and runners: 3 makes per spot, both sides.",
+      "time": "7:00"
+    },
+    {
+      "name": "Transition decision-making",
+      "detail": "Full-court 1-on-0 push: advance the ball, read an imaginary trailer, finish or pull up. 8 trips.",
+      "time": "5:00"
+    },
+    {
+      "name": "Free throws with consequences",
+      "detail": "10 free throws: every miss is 10 seconds of defensive slides. Train focus when it costs you.",
+      "time": "4:00"
+    },
+    {
+      "name": "Cool-down and visualization",
+      "detail": "Light shooting while visualizing your team's sets — see yourself making the right read 5 times.",
+      "time": "3:00"
+    }
   ],
   "tips": [
     "A point guard's workout is measured in decisions, not just makes — narrate your reads out loud.",
@@ -24,11 +65,11 @@
     "Bring a partner for the pressure and passing blocks — point guard work is better with a defense."
   ],
   "dateUpdated": "2026-10-06",
-  "vi":   {
-    "title": "Buổi Tập Hậu Vệ Dẫn Bóng",
-    "description": "Buổi tập floor-general nâng cao 40 phút: rê bóng đẳng cấp, đọc pick-and-roll live, chuyền dưới áp lực, ghi điểm pull-up và các lượt lãnh đạo.",
+  "vi": {
+    "title": "Giáo án hậu vệ dẫn bóng 40 phút",
+    "description": "Buổi tập floor-general nâng cao 40 phút: dẫn bóng đẳng cấp, đọc pick-and-roll live, chuyền bóng dưới áp lực, ghi điểm bằng pull-up và rèn bản lĩnh thủ lĩnh.",
     "focus": [
-      "Rê bóng",
+      "Dẫn bóng",
       "Pick & Roll",
       "Chuyền bóng",
       "Ném rổ",
@@ -41,50 +82,50 @@
     "items": [
       {
         "name": "Chuỗi 2 bóng nâng cao",
-        "detail": "Crossover, between-the-legs và behind-the-back 2 bóng khi đi bộ hết sân. 4 lượt, mắt nhìn lên.",
+        "detail": "Crossover, xỏ háng và vòng sau lưng với 2 bóng, vừa đi bộ hết sân vừa làm. 4 lượt sân, mắt nhìn lên.",
         "time": "4:00"
       },
       {
-        "name": "Rê bóng dưới áp lực",
-        "detail": "Đồng đội hoặc HLV tạo áp lực nhẹ bằng tay: retreat dribble, spin-out và che bóng. Giữ bình tĩnh.",
+        "name": "Dẫn bóng dưới áp lực",
+        "detail": "Đồng đội hoặc HLV gây áp lực nhẹ bằng một tay: retreat dribble, spin-out và che bóng sát người. Giữ đầu lạnh.",
         "time": "4:00"
       },
       {
         "name": "Khối pick-and-roll chuyên sâu",
-        "detail": "Screen bằng ghế ở đỉnh: snake, reject, split và pocket-pass read — mỗi kiểu 5 lượt, tốc độ tối đa.",
+        "detail": "Screen bằng ghế ở đỉnh vòng cung: snake, reject, split và đọc pocket-pass — mỗi kiểu 5 lượt, tốc độ tối đa.",
         "time": "8:00"
       },
       {
         "name": "Đọc chuyền live",
-        "detail": "Drive-and-kick: tấn công cọc, jump-stop và chuyền trúng mục tiêu (ghế) ở wing hoặc góc. 10 đường chuyền chính xác.",
+        "detail": "Drive-and-kick: đột phá vào cọc, jump-stop rồi chuyền trúng mục tiêu (ghế) ở cánh hoặc góc. 10 đường chuyền chính xác.",
         "time": "5:00"
       },
       {
         "name": "Gói pull-up và floater",
-        "detail": "Pull-up ở elbow, side-step một nhịp và runner: mỗi điểm vào 3 quả, cả hai bên.",
+        "detail": "Pull-up ở vị trí elbow, side-step một nhịp rồi ném, và runner: mỗi điểm vào 3 quả, cả hai bên.",
         "time": "7:00"
       },
       {
         "name": "Ra quyết định phản công",
-        "detail": "Đẩy bóng hết sân 1-0: đưa bóng lên, đọc đồng đội tưởng tượng, dứt điểm hoặc pull-up. 8 lượt.",
+        "detail": "Đẩy bóng hết sân 1-0: đưa bóng lên nhanh, đọc vị trí đồng đội tưởng tượng chạy sau, dứt điểm hoặc pull-up. 8 lượt.",
         "time": "5:00"
       },
       {
         "name": "Ném phạt có hậu quả",
-        "detail": "10 quả phạt: mỗi lần trượt là 10 giây trượt phòng thủ. Rèn sự tập trung khi phải trả giá.",
+        "detail": "10 quả ném phạt: trượt một quả là 10 giây trượt phòng thủ. Rèn khả năng tập trung khi mỗi quả đều có giá.",
         "time": "4:00"
       },
       {
         "name": "Hạ nhiệt và hình dung",
-        "detail": "Ném nhẹ trong khi hình dung các bài của đội — thấy mình ra quyết định đúng 5 lần.",
+        "detail": "Ném nhẹ trong lúc hình dung các miếng đánh của đội — thấy mình đọc đúng tình huống 5 lần.",
         "time": "3:00"
       }
     ],
     "tips": [
-      "Buổi tập của hậu vệ dẫn bóng đo bằng quyết định, không chỉ số lần vào — hãy nói to các read của bạn.",
-      "Rèn rê bóng live tay yếu đến khi thấy chán; lúc đó mới là sẵn sàng cho trận.",
-      "Mọi bài tập phải kết thúc bằng một quyết định: ném, chuyền hay đột phá. Đừng bao giờ tập cho có.",
-      "Rủ đồng đội cho các khối áp lực và chuyền — tập hậu vệ có hàng thủ vẫn tốt hơn."
+      "Buổi tập của hậu vệ dẫn bóng đo bằng số quyết định đúng, không chỉ số quả vào — đọc to các tình huống vừa xử lý.",
+      "Rèn dẫn bóng live bằng tay không thuận đến khi thấy chán; chán rồi mới là sẵn sàng cho trận.",
+      "Mọi bài tập đều phải kết thúc bằng một quyết định: ném, chuyền hay đột phá. Không tập cho có.",
+      "Rủ thêm đồng đội cho các khối áp lực và chuyền bóng — tập hậu vệ có đối kháng vẫn tốt hơn."
     ]
   }
 }

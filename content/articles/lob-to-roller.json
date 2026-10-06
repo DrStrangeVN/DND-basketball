@@ -1,123 +1,123 @@
 {
- "title": "The Lob to the Roller",
- "description": "When the defense takes away everything underneath, go over the top — timing, placement, and trust in the lob pass.",
- "hub": "pick-and-roll",
- "subcategory": "pick-and-roll",
- "level": "intermediate",
- "positions": [
-  "PG",
-  "SG",
-  "C",
-  "PF"
- ],
- "ages": [
-  "U14",
-  "U16",
-  "U18",
-  "Adult"
- ],
- "readTime": 4,
- "tags": [
-  "pick and roll",
-  "lob",
-  "pass"
- ],
- "whatIsIt": [
-  "The lob to the roller is a high pass thrown over the defense to the screener diving to the basket — used when the on-ball defender goes under, the big drops deep, or the help is late. The ball travels over everyone and drops into the roller's hands at the rim.",
-  "It is the most explosive finish in the PNR playbook and a momentum weapon. But it is also the highest-risk pass: thrown late or short, it becomes a turnover or a volleyball spike for the defense."
- ],
- "whyItMatters": [
-  "The threat of the lob changes how defenses guard your PNR. When the big knows the lob is coming, he can't sit in the lane — and that opens the pull-up, the pocket pass, and the drive. Even two successful lobs a game bend the entire defense."
- ],
- "howTo": [
-  {
-   "title": "Read the coverage first",
-   "detail": "Lob when the big drops or your defender goes under — never into a set hedge or a high switch. The read is: is there airspace between the big and the rim?"
-  },
-  {
-   "title": "Throw it early and high",
-   "detail": "Release the lob as the roller plants his second step, throwing it to where he's going — about a foot above the rim, toward the middle of the lane."
-  },
-  {
-   "title": "Use the right touch",
-   "detail": "One-handed push with soft touch, not a heave. Think 'drop it in the basket from above' — the ball should fall, not fly."
-  },
-  {
-   "title": "Roller: catch and finish",
-   "detail": "The roller jumps off two feet, catches at the peak with two hands, and finishes without bringing the ball down. Catch high, keep it high."
-  }
- ],
- "coachingPoints": [
-  "Only lob to players who catch lobs — know your personnel.",
-  "The lob must beat the low man's rotation; if he's already there, take the pocket pass instead.",
-  "Drill the timing 2-on-0 before trying it 2-on-2."
- ],
- "commonMistakes": [
-  "Lobbing into traffic — the most common PNR turnover.",
-  "Throwing it too flat, letting the recovering big volleyball it.",
-  "The roller jumping too early and coming down with the ball."
- ],
- "gameSituations": [
-  "Vs drop coverage with an athletic rolling big.",
-  "After the pocket pass has worked twice — the defense sags, the lob goes over.",
-  "In transition drag screens when the defense isn't matched up."
- ],
- "related": [
-  "roll-man-reads",
-  "pocket-pass-pnr",
-  "pick-and-roll-basics",
-  "drag-screen"
- ],
- "vi": {
-  "title": "Lob Cho Người Roll",
-  "description": "Khi hàng thủ lấy hết mọi thứ bên dưới, hãy đi trên đỉnh — căn giờ, điểm rơi và niềm tin vào đường lob.",
-  "whatIsIt": [
-   "Lob cho người roll là đường chuyền cao qua đầu hàng thủ đến người chắn đang lao vào rổ — dùng khi hậu vệ kèm bóng chui dưới, big man drop sâu, hoặc help đến muộn. Bóng đi qua mọi người và rơi vào tay người roll ở rổ.",
-   "Đó là pha kết thúc bùng nổ nhất trong sách PNR và là vũ khí tinh thần. Nhưng cũng là đường chuyền rủi ro nhất: ném muộn hoặc ngắn, nó thành turnover hoặc thành pha đập bóng chuyền cho hàng thủ."
-  ],
-  "whyItMatters": [
-   "Mối đe dọa lob thay đổi cách hàng thủ kèm PNR của bạn. Khi big man biết lob sắp tới, anh ta không thể ngồi trong lane — và điều đó mở ra pull-up, pocket pass và đột phá. Ngay cả hai lob thành công mỗi trận cũng bẻ cong cả hàng thủ."
-  ],
-  "howTo": [
-   {
-    "title": "Đọc kiểu kèm trước",
-    "detail": "Lob khi big man drop hoặc người kèm bạn chui dưới — không bao giờ lob vào hedge đã ổn định hay switch cao. Pha đọc là: có khoảng không giữa big man và rổ không?"
-   },
-   {
-    "title": "Ném sớm và cao",
-    "detail": "Thả lob khi người roll đặt bước thứ hai, ném đến nơi anh ta sẽ đến — khoảng một foot trên rổ, về phía giữa lane."
-   },
-   {
-    "title": "Dùng cảm giác tay đúng",
-    "detail": "Đẩy một tay với cảm giác mềm, không phải ném mạnh. Hãy nghĩ 'thả bóng vào rổ từ trên' — bóng nên rơi, không phải bay."
-   },
-   {
-    "title": "Người roll: bắt và kết thúc",
-    "detail": "Người roll nhảy hai chân, bắt ở điểm cao nhất bằng hai tay, và kết thúc mà không hạ bóng xuống. Bắt cao, giữ cao."
-   }
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
   ],
   "coachingPoints": [
-   "Chỉ lob cho cầu thủ bắt được lob — hiểu nhân sự của bạn.",
-   "Lob phải đánh bại pha xoay của low man; nếu anh ta đã ở đó, hãy chuyền pocket.",
-   "Drill căn giờ 2-đấu-0 trước khi thử 2-đấu-2."
+    "Only lob to players who catch lobs — know your personnel.",
+    "The lob must beat the low man's rotation; if he's already there, take the pocket pass instead.",
+    "Drill the timing 2-on-0 before trying it 2-on-2."
   ],
   "commonMistakes": [
-   "Lob vào đám đông — turnover PNR phổ biến nhất.",
-   "Ném quá phẳng, để big man đang hồi đập bóng chuyền.",
-   "Người roll nhảy quá sớm và rơi xuống cùng bóng."
+    "Lobbing into traffic — the most common PNR turnover.",
+    "Throwing it too flat, letting the recovering big volleyball it.",
+    "The roller jumping too early and coming down with the ball."
   ],
+  "dateUpdated": "2026-10-06",
+  "description": "When the defense takes away everything underneath, go over the top — timing, placement, and trust in the lob pass.",
   "gameSituations": [
-   "Trước drop coverage với big man roll athletic.",
-   "Sau khi pocket pass đã hiệu quả hai lần — hàng thủ lún xuống, lob đi qua đầu.",
-   "Trong drag screen transition khi hàng thủ chưa kèm người."
+    "Vs drop coverage with an athletic rolling big.",
+    "After the pocket pass has worked twice — the defense sags, the lob goes over.",
+    "In transition drag screens when the defense isn't matched up."
   ],
+  "howTo": [
+    {
+      "detail": "Lob when the big drops or your defender goes under — never into a set hedge or a high switch. The read is: is there airspace between the big and the rim?",
+      "title": "Read the coverage first"
+    },
+    {
+      "detail": "Release the lob as the roller plants his second step, throwing it to where he's going — about a foot above the rim, toward the middle of the lane.",
+      "title": "Throw it early and high"
+    },
+    {
+      "detail": "One-handed push with soft touch, not a heave. Think 'drop it in the basket from above' — the ball should fall, not fly.",
+      "title": "Use the right touch"
+    },
+    {
+      "detail": "The roller jumps off two feet, catches at the peak with two hands, and finishes without bringing the ball down. Catch high, keep it high.",
+      "title": "Roller: catch and finish"
+    }
+  ],
+  "hub": "pick-and-roll",
+  "id": "lob-to-roller",
+  "level": "intermediate",
+  "positions": [
+    "PG",
+    "SG",
+    "C",
+    "PF"
+  ],
+  "readTime": 4,
+  "related": [
+    "roll-man-reads",
+    "pocket-pass-pnr",
+    "pick-and-roll-basics",
+    "drag-screen"
+  ],
+  "slug": "lob-to-roller",
+  "subcategory": "pick-and-roll",
   "tags": [
-   "pick and roll",
-   "chuyền bóng",
-   "dứt điểm"
+    "pick and roll",
+    "lob",
+    "pass"
+  ],
+  "title": "The Lob to the Roller",
+  "vi": {
+    "coachingPoints": [
+      "Chỉ lob cho người bắt được lob — biết cầu thủ của mình là ai.",
+      "Lob phải qua được rotation của người thấp nhất; họ đã tới nơi thì chuyền pocket thay vì lob.",
+      "Tập nhịp điệu 2-đấu-0 trước khi thử 2-đấu-2."
+    ],
+    "commonMistakes": [
+      "Lob vào đám đông — để mất bóng PNR phổ biến nhất.",
+      "Ném quá ngang, để big hồi về đập như bóng chuyền.",
+      "Người roll bật quá sớm, rơi xuống cùng quả bóng."
+    ],
+    "description": "Khi hàng thủ lấy mất mọi thứ phía dưới, đi vòng qua đầu họ — nhịp điệu, vị trí đặt bóng và niềm tin vào đường chuyền lob.",
+    "gameSituations": [
+      "Gặp drop coverage với big roll khỏe.",
+      "Sau khi pocket pass hiệu quả hai lần — hàng thủ lùi sâu, lob đi qua đầu.",
+      "Trong drag screen chuyển trạng thái khi hàng thủ chưa kịp xếp cặp đấu."
+    ],
+    "howTo": [
+      {
+        "detail": "Lob khi big drop hoặc cầu thủ kèm mình đi dưới — đừng lob vào hedge đã đứng sẵn hay switch cao. Cách đọc: có khoảng không giữa big và rổ không?",
+        "title": "Đọc cách phòng thủ trước"
+      },
+      {
+        "detail": "Thả lob khi người roll đặt bước thứ hai, ném tới nơi họ sẽ tới — cao hơn rổ khoảng 30cm, về phía giữa lane.",
+        "title": "Ném sớm và cao"
+      },
+      {
+        "detail": "Đẩy một tay với cảm giác mềm, đừng quăng mạnh. Nghĩ 'thả bóng vào rổ từ trên xuống' — bóng phải rơi, không phải bay.",
+        "title": "Chạm bóng đúng"
+      },
+      {
+        "detail": "Người roll bật hai chân, bắt ở đỉnh với hai tay, kết thúc mà không hạ bóng xuống. Bắt cao, giữ cao.",
+        "title": "Người roll: bắt và kết thúc"
+      }
+    ],
+    "tags": [
+      "pick and roll",
+      "lob",
+      "chuyền bóng"
+    ],
+    "title": "Đường chuyền lob cho người roll",
+    "whatIsIt": [
+      "Lob cho người roll là đường chuyền cao qua đầu hàng thủ tới người screen đang dive vào rổ — dùng khi cầu thủ kèm bóng đi dưới screen, big drop sâu, hoặc trợ giúp tới muộn. Bóng bay qua đầu tất cả, rơi vào tay người roll ngay rổ.",
+      "Đây là cú kết thúc bùng nổ nhất trong sách PNR, một vũ khí tinh thần. Nhưng cũng là đường chuyền rủi ro nhất: ném muộn hay ngắn là thành để mất bóng, hoặc thành cú đập bóng chuyền cho hàng thủ."
+    ],
+    "whyItMatters": [
+      "Mối đe dọa của lob thay đổi cách hàng thủ kèm PNR. Khi big biết lob sắp tới, họ không dám ngồi trong lane — và thế là pull-up, pocket pass và pha đột phá mở ra. Chỉ cần hai pha lob thành công mỗi trận là cả hàng thủ cong theo."
+    ]
+  },
+  "whatIsIt": [
+    "The lob to the roller is a high pass thrown over the defense to the screener diving to the basket — used when the on-ball defender goes under, the big drops deep, or the help is late. The ball travels over everyone and drops into the roller's hands at the rim.",
+    "It is the most explosive finish in the PNR playbook and a momentum weapon. But it is also the highest-risk pass: thrown late or short, it becomes a turnover or a volleyball spike for the defense."
+  ],
+  "whyItMatters": [
+    "The threat of the lob changes how defenses guard your PNR. When the big knows the lob is coming, he can't sit in the lane — and that opens the pull-up, the pocket pass, and the drive. Even two successful lobs a game bend the entire defense."
   ]
- },
- "id": "lob-to-roller",
- "slug": "lob-to-roller",
- "dateUpdated": "2026-10-06"
 }

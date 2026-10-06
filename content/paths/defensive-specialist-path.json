@@ -14,29 +14,29 @@
   ],
   "dateUpdated": "2026-10-06",
   "vi":   {
-    "title": "Chuyên Gia Phòng Thủ",
-    "description": "Trở thành hậu vệ mà mọi HLV đều tin tưởng: tư thế đẳng cấp, lì lợm on-ball, kỷ luật closeout, rotation help và các coverage chống ball screen.",
+    "title": "Chuyên gia phòng thủ",
+    "description": "Thành cầu thủ phòng thủ mà HLV nào cũng tin dùng: tư thế chắc, kèm bóng lì lợm, closeout kỷ luật, rotation hỗ trợ chuẩn và các phương án chống ball screen.",
     "audience": "Cầu thủ muốn kiếm phút thi đấu bằng phòng thủ",
     "steps": [
       {
-        "title": "Cấp 1 — Tư Thế và Trượt Chân",
-        "description": "Xây dựng tư thế phòng thủ thấp, cân bằng và sự nhanh nhẹn ngang — nền tảng của mọi phòng thủ."
+        "title": "Cấp 1 — Tư thế và bước trượt (slide)",
+        "description": "Hạ thấp trọng tâm, giữ thăng bằng và di chuyển ngang nhanh nhẹn — nền tảng của mọi phòng thủ."
       },
       {
-        "title": "Cấp 2 — Closeout Đúng Cách",
-        "description": "Học cách lao ra người ném có kiểm soát — tranh cú ném mà không để bị qua mặt."
+        "title": "Cấp 2 — Closeout đúng cách",
+        "description": "Lao ra người ném có kiểm soát: tranh cú ném mà không để bị qua mặt."
       },
       {
-        "title": "Cấp 3 — Hỗ Trợ Đồng Đội",
-        "description": "Hiểu vị trí help-side, rotation và cách bảo vệ paint mà không mất người kèm."
+        "title": "Cấp 3 — Hỗ trợ đồng đội",
+        "description": "Nắm vị trí help-side và rotation: bảo vệ khu vực dưới rổ mà không bỏ người kèm."
       },
       {
-        "title": "Cấp 4 — Chống Ball Screen",
-        "description": "Thành thạo các coverage pick-and-roll chính — switch, hedge và drop — và biết khi nào dùng loại nào."
+        "title": "Cấp 4 — Chống ball screen",
+        "description": "Nắm các phương án chống pick and roll — switch, hedge, drop — và biết khi nào dùng phương án nào."
       },
       {
-        "title": "Cấp 5 — Kết Thúc Đợt Bóng",
-        "description": "Kết thúc mọi đợt phòng thủ bằng box out và một rebound chắc chắn."
+        "title": "Cấp 5 — Khép đợt bóng",
+        "description": "Mọi đợt phòng thủ đều kết thúc bằng box out và một rebound chắc chắn."
       }
     ]
   }

@@ -39,32 +39,6 @@
   "related": ["full-court-finishing","euro-step-finishing","box-out-battle"],
   "dateUpdated": "2026-10-06",
   "vi":   {
-    "title": "Bài Mikan",
-    "description": "Bài tập layup luân phiên dưới rổ kinh điển, xây dựng cảm giác bóng, footwork và khả năng dứt điểm bằng cả hai tay ngay sát rổ.",
-    "goal": "Xây dựng cảm giác bóng mềm mại và footwork chuẩn để dứt điểm bằng cả hai tay ngay dưới rổ.",
-    "setup": [
-      "Đứng ngay dưới rổ với bóng.",
-      "Bắt đầu với bóng ở tay phải, phía bên phải của vành rổ.",
-      "Không cần dụng cụ gì ngoài bóng và rổ."
-    ],
-    "instructions": [
-      {
-        "title": "Layup tay phải qua bảng",
-        "detail": "Bước chân trái và đặt bóng vào rổ bằng tay phải qua bảng; bắt bóng trước khi nó chạm đất."
-      },
-      {
-        "title": "Dứt điểm tay trái, không nảy bóng",
-        "detail": "Ngay lập tức dứt điểm tay trái bật chân phải ở phía trái — bóng không được chạm đất giữa các lượt."
-      },
-      {
-        "title": "Tiếp tục luân phiên",
-        "detail": "Luân phiên phải-trái-phải-trái liên tục 2 phút, giữ kiểm soát và dùng bảng rổ mọi lần."
-      },
-      {
-        "title": "Vòng reverse Mikan",
-        "detail": "2 phút cuối, dứt điểm ở phía xa của vành — cùng footwork, nhưng quét bóng vòng dưới rổ cho những cú reverse layup."
-      }
-    ],
     "coachingPoints": [
       "Dùng bảng rổ mọi lượt — bảng cao, chạm nhẹ.",
       "Chân đối diện, tay đối diện: dứt điểm tay phải thì bật chân trái.",
@@ -75,12 +49,38 @@
       "Ném bẹt vào bảng — ngắm cao trên bảng để bóng rơi nhẹ vào rổ.",
       "Để bóng chạm đất — giữ liên tục để rèn tốc độ từ rebound sang dứt điểm."
     ],
-    "progression": "Thêm một nhịp rê mạnh trước mỗi lần dứt điểm, chỉ dùng reverse Mikan, hoặc dứt điểm bằng jump hook thay vì layup.",
-    "regression": "Chậm nhịp lại, cho bóng nảy một lần giữa các lượt, hoặc tập một bên đến khi footwork thuần thục.",
-    "gameApplication": "Big man và người đột phá đều cần những pha dứt điểm nhanh, chắc chắn quanh rổ — bài Mikan là nền tảng của mọi cú putback, drop-off và dứt điểm sau seal.",
-    "players": "1",
+    "description": "Bài tập layup luân phiên dưới rổ kinh điển, xây dựng cảm giác bóng, bộ chân và khả năng dứt điểm bằng cả hai tay ngay sát rổ.",
     "equipment": [
       "Bóng rổ"
-    ]
+    ],
+    "gameApplication": "Big man và người đột phá đều cần những pha dứt điểm nhanh, chắc chắn quanh rổ — bài Mikan là nền tảng của mọi cú putback, drop-off và dứt điểm sau seal.",
+    "goal": "Xây dựng cảm giác bóng mềm và bộ chân chuẩn để dứt điểm bằng cả hai tay ngay dưới rổ.",
+    "instructions": [
+      {
+        "detail": "Bước chân trái, đặt bóng vào rổ bằng tay phải qua bảng; bắt bóng trước khi nó chạm đất.",
+        "title": "Layup tay phải qua bảng"
+      },
+      {
+        "detail": "Ngay lập tức dứt điểm tay trái bật chân phải ở phía trái — bóng không chạm đất giữa các lượt.",
+        "title": "Dứt điểm tay trái, không nảy bóng"
+      },
+      {
+        "detail": "Luân phiên phải-trái-phải-trái liên tục 2 phút, giữ kiểm soát và dùng bảng rổ mọi lần.",
+        "title": "Tiếp tục luân phiên"
+      },
+      {
+        "detail": "2 phút cuối, dứt điểm ở phía xa của vành — cùng bộ chân, nhưng quét bóng vòng dưới rổ cho những cú reverse layup.",
+        "title": "Vòng reverse Mikan"
+      }
+    ],
+    "players": "1",
+    "progression": "Thêm một nhịp rê mạnh trước mỗi lần dứt điểm, chỉ dùng reverse Mikan, hoặc dứt điểm bằng jump hook thay vì layup.",
+    "regression": "Chậm nhịp lại, cho bóng nảy một lần giữa các lượt, hoặc tập một bên tới khi bộ chân thuần thục.",
+    "setup": [
+      "Đứng ngay dưới rổ với bóng.",
+      "Bắt đầu với bóng ở tay phải, phía bên phải của vành rổ.",
+      "Không cần dụng cụ gì ngoài bóng và rổ."
+    ],
+    "title": "Bài tập Mikan (Mikan drill)"
   }
 }

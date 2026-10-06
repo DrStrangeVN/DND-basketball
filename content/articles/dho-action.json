@@ -1,11 +1,4 @@
 {
-  "id": "dho-action",
-  "slug": "dho-action",
-  "title": "DHO — Dribble Hand-Off",
-  "description": "The ball handler dribbles to a teammate and hands the ball off — a moving screen that creates instant offense.",
-  "hub": "tactics",
-  "subcategory": "offensive-actions",
-  "level": "intermediate",
   "ages": [
     "U12",
     "U14",
@@ -13,46 +6,6 @@
     "U18",
     "Adult",
     "Competitive"
-  ],
-  "positions": [
-    "ALL"
-  ],
-  "tags": [
-    "dho",
-    "hand-off",
-    "screens",
-    "actions"
-  ],
-  "readTime": 5,
-  "whatIsIt": [
-    "A dribble hand-off (DHO) is when the ball handler dribbles directly at a teammate and hands them the ball, then immediately becomes their screener. It is a pick-and-roll in motion — the handoff itself is the screen.",
-    "DHOs are everywhere in modern offense because they combine three actions into one: a pass, a screen, and a downhill start. The receiver catches the ball already moving at speed, which makes them incredibly hard to guard.",
-    "Teams use DHOs to get shooters open, to attack slow-footed bigs, and to flow from one action into the next without the ball ever stopping."
-  ],
-  "whyItMatters": [
-    "A stationary catch lets the defense set; a DHO catch comes with momentum and a live screen attached. It is the most efficient way to get a shooter a clean look or a driver a running start, and it keeps the ball moving — exactly what modern offenses want."
-  ],
-  "howTo": [
-    {
-      "title": "Dribble at your teammate with pace",
-      "detail": "Attack the handoff at speed, dribbling to the receiver's outside hip. A slow DHO lets the defense switch it cleanly."
-    },
-    {
-      "title": "Hand off pocket-to-pocket",
-      "detail": "Place the ball in the receiver's pocket as they take it — don't toss it. The exchange should happen at full speed without bobbling."
-    },
-    {
-      "title": "Become the screen instantly",
-      "detail": "The moment the ball leaves your hands, you are a screener. Set your feet, stay legal, and wall off the receiver's defender."
-    },
-    {
-      "title": "Receiver: take it on the move",
-      "detail": "Time your cut to meet the ball at speed, shoulders past your defender. Catch and go — shoot, drive, or attack the closeout."
-    },
-    {
-      "title": "Read the defense like a PNR",
-      "detail": "If they go under, shoot. If they chase, drive. If they switch, attack the mismatch. The DHO creates the same reads as a ball screen."
-    }
   ],
   "coachingPoints": [
     "Drill the exchange at full speed — walk-through DHOs teach bad timing.",
@@ -65,25 +18,10 @@
     "The 'screener' running away after the handoff instead of setting a real screen.",
     "Tossing the ball instead of placing it — leading to fumbles in traffic."
   ],
-  "gameSituations": [
-    "Getting a shooter an open three when the defense is locked in.",
-    "Attacking a big defender who can't move laterally with the handoff action.",
-    "As a flow action: DHO into pick-and-roll keeps the defense scrambling."
-  ],
+  "dateUpdated": "2026-10-06",
+  "description": "The ball handler dribbles to a teammate and hands the ball off — a moving screen that creates instant offense.",
   "diagram": {
-    "title": "DHO: dribble to teammate, hand off, screen",
-    "offense": [
-      {
-        "label": "O1",
-        "x": 50,
-        "y": 74
-      },
-      {
-        "label": "O2",
-        "x": 30,
-        "y": 62
-      }
-    ],
+    "ball": "O1",
     "defense": [
       {
         "label": "X1",
@@ -96,89 +34,151 @@
         "y": 58
       }
     ],
-    "ball": "O1",
+    "moves": [
+      {
+        "from": "O1",
+        "kind": "dribble",
+        "to": "O2"
+      },
+      {
+        "from": "O2",
+        "kind": "cut",
+        "to": "O1"
+      }
+    ],
+    "offense": [
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 74
+      },
+      {
+        "label": "O2",
+        "x": 30,
+        "y": 62
+      }
+    ],
+    "passes": [],
     "screens": [
       {
         "x": 44,
         "y": 68
       }
     ],
-    "moves": [
-      {
-        "from": "O1",
-        "to": "O2",
-        "kind": "dribble"
-      },
-      {
-        "from": "O2",
-        "to": "O1",
-        "kind": "cut"
-      }
-    ],
-    "passes": [],
-    "shots": []
+    "shots": [],
+    "title": "DHO: dribble to teammate, hand off, screen"
   },
+  "gameSituations": [
+    "Getting a shooter an open three when the defense is locked in.",
+    "Attacking a big defender who can't move laterally with the handoff action.",
+    "As a flow action: DHO into pick-and-roll keeps the defense scrambling."
+  ],
+  "howTo": [
+    {
+      "detail": "Attack the handoff at speed, dribbling to the receiver's outside hip. A slow DHO lets the defense switch it cleanly.",
+      "title": "Dribble at your teammate with pace"
+    },
+    {
+      "detail": "Place the ball in the receiver's pocket as they take it — don't toss it. The exchange should happen at full speed without bobbling.",
+      "title": "Hand off pocket-to-pocket"
+    },
+    {
+      "detail": "The moment the ball leaves your hands, you are a screener. Set your feet, stay legal, and wall off the receiver's defender.",
+      "title": "Become the screen instantly"
+    },
+    {
+      "detail": "Time your cut to meet the ball at speed, shoulders past your defender. Catch and go — shoot, drive, or attack the closeout.",
+      "title": "Receiver: take it on the move"
+    },
+    {
+      "detail": "If they go under, shoot. If they chase, drive. If they switch, attack the mismatch. The DHO creates the same reads as a ball screen.",
+      "title": "Read the defense like a PNR"
+    }
+  ],
+  "hub": "tactics",
+  "id": "dho-action",
+  "level": "intermediate",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 5,
   "related": [
     "zoom-action",
     "screening-basketball",
     "drive-and-kick-offense",
     "pistol-action"
   ],
-  "dateUpdated": "2026-10-06",
+  "slug": "dho-action",
+  "subcategory": "offensive-actions",
+  "tags": [
+    "dho",
+    "hand-off",
+    "screens",
+    "actions"
+  ],
+  "title": "DHO — Dribble Hand-Off",
   "vi": {
     "coachingPoints": [
-      "Tập pha trao bóng ở tốc độ cao — DHO đi bộ dạy thời điểm sai",
-      "Pha handoff phải sạch: những pha trao bóng lóng ngóng là mất bóng sống",
-      "Dạy người chắn xoay góc màn chắn dựa vào hướng hậu vệ đang nghiêng",
-      "Nối DHO vào các bài đánh khác: DHO nối màn chắn bóng là món tủ của tấn công hiện đại"
+      "Tập pha trao đổi ở tốc độ cao — DHO đi bộ dạy nhịp sai.",
+      "Pha trao tay phải sạch: trao hỏng là để mất bóng sống.",
+      "Dạy người screen lật góc theo hướng đối thủ đang nghiêng.",
+      "Nối DHO vào các tình huống khác: DHO rồi screen cầm bóng là bài tủ của tấn công hiện đại."
     ],
     "commonMistakes": [
-      "Trao bóng khi chân đứng yên, cho hàng thủ thời gian switch hoặc vượt qua",
-      "'Người chắn' chạy đi sau handoff thay vì dựng một màn chắn thật",
-      "Ném bóng thay vì đặt bóng — dẫn đến lóng ngóng khi đông người"
+      "Trao tay đứng chôn chân, cho hàng thủ thời gian switch hoặc chui qua.",
+      "\"Người screen\" chạy đi sau pha trao tay thay vì dựng screen thật.",
+      "Ném bóng thay vì đặt bóng — lóng ngóng trong đám đông."
     ],
-    "description": "Người cầm bóng dẫn tới đồng đội và trao bóng — một màn chắn di động tạo ra tấn công tức thì.",
+    "description": "Người cầm bóng dẫn tới đồng đội và trao bóng tay — một screen di động tạo ra tấn công tức thì.",
     "gameSituations": [
-      "Tạo cho tay ném một cú ba điểm trống khi hàng thủ đang tập trung cao độ",
-      "Tấn công một big chậm chân không xoay ngang kịp với bài handoff",
-      "Như một bài đánh chuyển tiếp: DHO nối pick-and-roll khiến hàng thủ chạy loạn"
+      "Tạo cú ném 3 trống cho tay ném khi hàng thủ đã vào guồng.",
+      "Tấn công người to không xoay sở kịp bằng tình huống trao tay.",
+      "Làm tình huống chảy: DHO rồi pick and roll khiến hàng thủ xoay sở không kịp."
     ],
     "howTo": [
       {
-        "detail": "Tấn công pha handoff với tốc độ, dẫn bóng tới hông ngoài của người nhận. Một pha DHO chậm để hàng thủ switch gọn gàng.",
-        "title": "Dẫn bóng tới đồng đội với tốc độ"
+        "detail": "Tấn công pha trao tay ở tốc độ cao, dẫn tới hông ngoài của người nhận. DHO chậm cho hàng thủ switch sạch sẽ.",
+        "title": "Dẫn tới đồng đội với tốc độ"
       },
       {
-        "detail": "Đặt bóng vào túi của người nhận khi họ lấy nó — đừng ném. Pha trao đổi nên diễn ra ở tốc độ cao mà không lóng ngóng.",
-        "title": "Trao bóng túi-đối-túi"
+        "detail": "Đặt bóng vào túi tay người nhận lúc họ lấy — đừng ném. Pha trao đổi diễn ra ở tốc độ cao mà không lóng ngóng.",
+        "title": "Trao bóng túi-tới-túi"
       },
       {
-        "detail": "Ngay khi bóng rời tay bạn, bạn là một người chắn. Dựng chân, giữ hợp lệ, và chặn hậu vệ của người nhận lại.",
-        "title": "Trở thành màn chắn ngay lập tức"
+        "detail": "Bóng vừa rời tay, bạn là người screen. Đứng chân, giữ hợp lệ, và chặn cầu thủ phòng thủ kèm người nhận.",
+        "title": "Thành screen ngay lập tức"
       },
       {
-        "detail": "Căn thời gian pha cắt để đón bóng khi đang chạy, vai vượt qua hậu vệ. Bắt bóng và đi — ném, đột phá, hoặc tấn công closeout.",
-        "title": "Người nhận: lấy bóng khi đang di chuyển"
+        "detail": "Canh nhịp cắt để đón bóng ở tốc độ cao, vai qua người đối thủ. Bắt và đi — ném, dẫn, hoặc tấn công closeout.",
+        "title": "Người nhận: lấy bóng trên đà chạy"
       },
       {
-        "detail": "Nếu họ chui dưới, hãy ném. Nếu họ đuổi theo, hãy đột phá. Nếu họ switch, hãy tấn công mismatch. DHO tạo ra cùng những cách đọc như màn chắn bóng.",
+        "detail": "Họ chui dưới thì ném. Họ đuổi theo thì dẫn. Họ switch thì tấn công mismatch. DHO tạo ra cùng pha đọc như screen cầm bóng.",
         "title": "Đọc hàng thủ như PNR"
       }
     ],
     "tags": [
       "dho",
-      "trao bóng",
-      "màn chắn",
-      "bài đánh"
+      "trao bóng tay",
+      "screen",
+      "chiến thuật"
     ],
-    "title": "DHO — Trao Bóng Khi Dẫn",
+    "title": "Tình huống DHO (dribble hand-off)",
     "whatIsIt": [
-      "Dribble hand-off (DHO) là khi người cầm bóng dẫn thẳng tới đồng đội và trao bóng cho họ, rồi ngay lập tức trở thành người chắn cho họ. Đó là một pha pick-and-roll đang chuyển động — chính pha handoff là màn chắn.",
-      "DHO có mặt khắp nơi trong tấn công hiện đại vì nó gộp ba hành động thành một: một đường chuyền, một màn chắn, và một pha xuất phát xuống dốc. Người nhận bắt bóng khi đã đang di chuyển với tốc độ, khiến họ cực kỳ khó kèm.",
-      "Các đội dùng DHO để tạo khoảng trống cho tay ném, tấn công những big chậm chân, và chảy từ bài đánh này sang bài đánh khác mà bóng không bao giờ dừng."
+      "Dribble hand-off (DHO) là khi người cầm bóng dẫn thẳng tới đồng đội và trao bóng, rồi lập tức thành người screen cho họ. Nó là pick and roll trong chuyển động — chính pha trao tay là screen.",
+      "DHO có mặt khắp nơi trong tấn công hiện đại vì nó gộp ba hành động thành một: chuyền, screen, và khởi đầu xuống dốc. Người nhận bắt bóng đã chạy đà, khiến họ cực khó kèm.",
+      "Các đội dùng DHO để tạo khoảng trống cho tay ném, tấn công người to chậm chân, và chảy từ tình huống này sang tình huống khác mà bóng không bao giờ dừng."
     ],
     "whyItMatters": [
-      "Một pha bắt bóng đứng yên để hàng thủ bày trận; một pha bắt bóng DHO đi kèm đà và một màn chắn sống. Đây là cách hiệu quả nhất để tạo cho tay ném một cú nhìn sạch hoặc cho người đột phá một pha xuất phát đà, và nó giữ bóng di chuyển — đúng điều mà các hệ thống tấn công hiện đại muốn."
+      "Bắt bóng đứng yên cho hàng thủ kịp đứng; bắt bóng từ DHO đi kèm đà và một screen còn sống. Đây là cách hiệu quả nhất để tay ném có cú nhìn sạch hoặc người dẫn có đà xuất phát, và nó giữ bóng di chuyển — đúng thứ tấn công hiện đại muốn."
     ]
-  }
+  },
+  "whatIsIt": [
+    "A dribble hand-off (DHO) is when the ball handler dribbles directly at a teammate and hands them the ball, then immediately becomes their screener. It is a pick-and-roll in motion — the handoff itself is the screen.",
+    "DHOs are everywhere in modern offense because they combine three actions into one: a pass, a screen, and a downhill start. The receiver catches the ball already moving at speed, which makes them incredibly hard to guard.",
+    "Teams use DHOs to get shooters open, to attack slow-footed bigs, and to flow from one action into the next without the ball ever stopping."
+  ],
+  "whyItMatters": [
+    "A stationary catch lets the defense set; a DHO catch comes with momentum and a live screen attached. It is the most efficient way to get a shooter a clean look or a driver a running start, and it keeps the ball moving — exactly what modern offenses want."
+  ]
 }

@@ -1,1 +1,129 @@
-{"dateUpdated":"2026-10-06","description":"A 35-minute defensive grind: stance and slides, closeouts, help rotations, live 1-on-1 stops, and the conditioning to guard for 40 minutes.","durationMin":35,"equipment":["Basketball","Cones"],"focus":["Defense","Footwork","Rebounding","Conditioning"],"id":"defensive-workout","items":[{"detail":"Low stance, butt down, hands wide: slide baseline to baseline, 4 trips. Short choppy steps, never cross your feet.","name":"Stance and slides warmup","time":"4:00"},{"detail":"Sprint to a cone, chop steps, high hands: contest without fouling. 10 closeouts each side — the last two steps are everything.","name":"Closeout technique","time":"5:00"},{"detail":"Zig-zag full court: slide, sprint back, slide. 4 trips. Turn your hips, don't backpedal — backpedaling is slow.","name":"Zig-zag defensive slides","time":"4:00"},{"detail":"Start in help, stunt at the ball, recover to your cone. Then x-out: two defenders rotate on a skip pass. 8 rotations.","name":"Help and recover rotations","time":"6:00"},{"detail":"Live 1-on-1 from the wing: defender must get 3 stops in a row to switch. No fouls — move your feet, use your chest.","name":"1-on-1 live stops","time":"6:00"},{"detail":"Partner shoots, you find a body, box out, and rebound: 8 reps. Then reverse — you shoot, they box you out. Feel both sides.","name":"Box-out battle","time":"4:00"},{"detail":"Defensive slides half-court and back, straight into a full-court sprint: 5 rounds. This is the fourth-quarter simulator.","name":"Slides to sprints conditioning","time":"4:00"},{"detail":"Walk the court, deep breaths, stretch hip flexors and calves. Defense is played low — take care of the legs that carry you.","name":"Cool-down stretch","time":"2:00"}],"level":"intermediate","slug":"defensive-workout","tips":["Defense is 90% effort and stance — the drills are simple, the standard is not.","Talk on every rep: 'ball!', 'help!', 'shot!' — silent defenders get scored on.","Never cross your feet on a slide; the day you do is the day you get blown by.","Guard the yard, not the player: keep your chest between your man and the rim."],"title":"Defensive Grind Workout","vi":{"description":"Buổi tập phòng thủ 35 phút: stance và trượt chân, closeout, xoay help, kèm 1-1 live và thể lực để kèm suốt 40 phút.","equipment":["Bóng rổ","Cọc tiêu"],"focus":["Phòng thủ","Bộ chân","Tranh bóng bật bảng","Thể lực"],"items":[{"detail":"Hạ thấp trọng tâm, mông xuống, tay rộng: trượt hết sân, 4 lượt. Bước ngắn nhanh, không bao giờ bắt chéo chân.","name":"Khởi động stance và trượt","time":"4:00"},{"detail":"Chạy nước rút tới cọc, bước nhỏ dần, tay giơ cao: contest không phạm lỗi. Mỗi bên 10 lần — hai bước cuối quyết định tất cả.","name":"Kỹ thuật closeout","time":"5:00"},{"detail":"Trượt zig-zag hết sân: trượt, chạy lùi, trượt. 4 lượt. Xoay hông, đừng chạy lùi — chạy lùi rất chậm.","name":"Trượt phòng thủ zig-zag","time":"4:00"},{"detail":"Đứng help, stunt vào bóng, hồi về cọc. Rồi x-out: hai người xoay khi bóng skip pass. 8 lượt xoay.","name":"Xoay help và hồi vị","time":"6:00"},{"detail":"Kèm 1-1 live từ wing: phòng thủ phải chặn 3 lần liên tiếp mới được đổi. Không phạm lỗi — di chuyển chân, dùng ngực.","name":"Chặn 1-1 live","time":"6:00"},{"detail":"Đồng đội ném, bạn tìm người, box out và bắt bóng: 8 lượt. Rồi đổi vai — bạn ném, họ box out bạn. Cảm nhận cả hai phía.","name":"Tranh box-out","time":"4:00"},{"detail":"Trượt phòng thủ nửa sân rồi chạy nước rút hết sân: 5 vòng. Đây là mô phỏng hiệp 4.","name":"Thể lực trượt-chạy","time":"4:00"},{"detail":"Đi bộ quanh sân, hít thở sâu, giãn cơ hông và bắp chân. Phòng thủ chơi ở tư thế thấp — chăm đôi chân gánh bạn.","name":"Giãn cơ hạ nhiệt","time":"2:00"}],"tips":["Phòng thủ là 90% nỗ lực và tư thế — bài tập thì đơn giản, tiêu chuẩn thì không.","Nói to mỗi lượt: 'bóng!', 'help!', 'ném!' — phòng thủ im lặng là bị ghi điểm.","Không bao giờ bắt chéo chân khi trượt; ngày nào làm vậy là ngày bị qua mặt.","Kèm khoảng sân, đừng kèm người: giữ ngực giữa người kèm và rổ."],"title":"Buổi Tập Phòng Thủ Cày Cuốc"}}
+{
+  "dateUpdated": "2026-10-06",
+  "description": "A 35-minute defensive grind: stance and slides, closeouts, help rotations, live 1-on-1 stops, and the conditioning to guard for 40 minutes.",
+  "durationMin": 35,
+  "equipment": [
+    "Basketball",
+    "Cones"
+  ],
+  "focus": [
+    "Defense",
+    "Footwork",
+    "Rebounding",
+    "Conditioning"
+  ],
+  "id": "defensive-workout",
+  "items": [
+    {
+      "detail": "Low stance, butt down, hands wide: slide baseline to baseline, 4 trips. Short choppy steps, never cross your feet.",
+      "name": "Stance and slides warmup",
+      "time": "4:00"
+    },
+    {
+      "detail": "Sprint to a cone, chop steps, high hands: contest without fouling. 10 closeouts each side — the last two steps are everything.",
+      "name": "Closeout technique",
+      "time": "5:00"
+    },
+    {
+      "detail": "Zig-zag full court: slide, sprint back, slide. 4 trips. Turn your hips, don't backpedal — backpedaling is slow.",
+      "name": "Zig-zag defensive slides",
+      "time": "4:00"
+    },
+    {
+      "detail": "Start in help, stunt at the ball, recover to your cone. Then x-out: two defenders rotate on a skip pass. 8 rotations.",
+      "name": "Help and recover rotations",
+      "time": "6:00"
+    },
+    {
+      "detail": "Live 1-on-1 from the wing: defender must get 3 stops in a row to switch. No fouls — move your feet, use your chest.",
+      "name": "1-on-1 live stops",
+      "time": "6:00"
+    },
+    {
+      "detail": "Partner shoots, you find a body, box out, and rebound: 8 reps. Then reverse — you shoot, they box you out. Feel both sides.",
+      "name": "Box-out battle",
+      "time": "4:00"
+    },
+    {
+      "detail": "Defensive slides half-court and back, straight into a full-court sprint: 5 rounds. This is the fourth-quarter simulator.",
+      "name": "Slides to sprints conditioning",
+      "time": "4:00"
+    },
+    {
+      "detail": "Walk the court, deep breaths, stretch hip flexors and calves. Defense is played low — take care of the legs that carry you.",
+      "name": "Cool-down stretch",
+      "time": "2:00"
+    }
+  ],
+  "level": "intermediate",
+  "slug": "defensive-workout",
+  "tips": [
+    "Defense is 90% effort and stance — the drills are simple, the standard is not.",
+    "Talk on every rep: 'ball!', 'help!', 'shot!' — silent defenders get scored on.",
+    "Never cross your feet on a slide; the day you do is the day you get blown by.",
+    "Guard the yard, not the player: keep your chest between your man and the rim."
+  ],
+  "title": "Defensive Grind Workout",
+  "vi": {
+    "title": "Giáo án phòng thủ 35 phút",
+    "description": "Giáo án phòng thủ 35 phút: tư thế và trượt phòng thủ, closeout, xoay chuyển hỗ trợ phòng thủ, kèm 1 đấu 1 live và rèn thể lực để kèm suốt 40 phút.",
+    "focus": [
+      "Phòng thủ",
+      "Bộ chân",
+      "Tranh bóng bật bảng",
+      "Thể lực"
+    ],
+    "equipment": [
+      "Bóng rổ",
+      "Cọc tiêu"
+    ],
+    "items": [
+      {
+        "name": "Khởi động tư thế và trượt phòng thủ",
+        "detail": "Hạ thấp trọng tâm, mông xuống, tay dang rộng: trượt hết sân từ baseline này sang baseline kia, 4 lượt. Bước ngắn nhanh, không bắt chéo chân.",
+        "time": "4:00"
+      },
+      {
+        "name": "Kỹ thuật closeout",
+        "detail": "Chạy nước rút tới cọc, rút ngắn bước chân, tay giơ cao: gây áp lực lên cú ném mà không phạm lỗi. Mỗi bên 10 lượt closeout — hai bước cuối quyết định mọi thứ.",
+        "time": "5:00"
+      },
+      {
+        "name": "Trượt phòng thủ zig-zag",
+        "detail": "Trượt zig-zag hết sân: trượt ngang, chạy nước rút quay lại, trượt ngang. 4 lượt. Xoay hông khi đổi hướng, đừng chạy giật lùi — giật lùi chậm hơn hẳn.",
+        "time": "4:00"
+      },
+      {
+        "name": "Xoay chuyển hỗ trợ và hồi vị",
+        "detail": "Đứng ở vị trí phòng thủ hỗ trợ, stunt vào bóng rồi hồi về cọc. Tiếp theo là x-out: hai hậu vệ xoay chuyển khi có đường skip pass. 8 lượt rotation.",
+        "time": "6:00"
+      },
+      {
+        "name": "Kèm 1 đấu 1 live",
+        "detail": "Kèm 1 đấu 1 live từ cánh: hậu vệ phải chặn 3 pha liên tiếp mới được đổi vai. Không phạm lỗi — di chuyển chân, dùng ngực cản.",
+        "time": "6:00"
+      },
+      {
+        "name": "Bài tập box out",
+        "detail": "Đồng đội ném, bạn tìm người, box out rồi bắt rebound: 8 lượt. Rồi đổi vai — bạn ném, họ box out bạn. Cảm nhận cả hai phía.",
+        "time": "4:00"
+      },
+      {
+        "name": "Thể lực: trượt rồi chạy nước rút",
+        "detail": "Trượt phòng thủ nửa sân rồi quay về, nối ngay một pha chạy nước rút hết sân: 5 vòng. Đây là bài mô phỏng hiệp 4.",
+        "time": "4:00"
+      },
+      {
+        "name": "Giãn cơ hạ nhiệt",
+        "detail": "Đi bộ quanh sân, hít thở sâu, giãn cơ gập hông và bắp chân. Phòng thủ là chơi thấp — chăm sóc đôi chân gánh cả trận.",
+        "time": "2:00"
+      }
+    ],
+    "tips": [
+      "Phòng thủ là 90% nỗ lực và tư thế — bài tập thì đơn giản, yêu cầu thì không.",
+      "Gọi to mỗi lượt: 'bóng!', 'help!', 'ném!' — ai im lặng là bị qua mặt.",
+      "Trượt phòng thủ không bao giờ bắt chéo chân — ngày nào bắt chéo là ngày bị qua mặt.",
+      "Kèm khoảng sân, không kèm người: giữ ngực chắn giữa đối phương và rổ."
+    ]
+  }
+}

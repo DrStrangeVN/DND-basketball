@@ -39,48 +39,48 @@
   "related": ["euro-step-finishing","full-court-finishing","one-on-one-live"],
   "dateUpdated": "2026-10-06",
   "vi":   {
-    "title": "Dứt Điểm Qua Va Chạm",
-    "description": "Bài tập 2 người với tấm đệm (pad) hoặc va chạm cơ thể ở rổ, rèn khả năng dứt điểm qua va chạm, bản lĩnh and-one và ném phạt sau đó.",
-    "goal": "Xây dựng sức mạnh và khả năng kiểm soát cơ thể để dứt điểm ở rổ qua va chạm thật của hậu vệ và tận dụng cơ hội and-one.",
-    "setup": [
-      "Một người là người dứt điểm, người còn lại là hậu vệ cầm tấm đệm chặn — hoặc dùng va chạm cơ thể có kiểm soát nếu không có đệm.",
-      "Người dứt điểm bắt đầu ở wing hoặc đỉnh vòng với bóng; hậu vệ chờ gần khu vực paint.",
-      "Đổi vai mỗi 5 lần ghi điểm để cả hai đều được tập va chạm."
-    ],
-    "instructions": [
-      {
-        "title": "Đột phá và chịu va chạm",
-        "detail": "Người dứt điểm tấn công rổ ở tốc độ cao trong khi hậu vệ dùng đệm húc vào lúc thu bóng (gather) — người dứt điểm phải giữ bóng cao và ghi điểm."
-      },
-      {
-        "title": "Dứt điểm 2 chân đầy sức mạnh",
-        "detail": "Thu bóng bằng jump stop 2 chân và bật mạnh qua cú húc, dùng rổ để che bóng khỏi hậu vệ."
-      },
-      {
-        "title": "Ném phạt and-one",
-        "detail": "Sau mỗi lần ghi điểm qua va chạm, người dứt điểm ném ngay 1 quả phạt — biến thói quen and-one thành tự động."
-      },
-      {
-        "title": "Đổi bên và đổi vai",
-        "detail": "Đột phá phải 5 lần ghi điểm, trái 5 lần, rồi đổi vai và lặp lại."
-      }
-    ],
     "coachingPoints": [
-      "Hãy chủ động tạo va chạm — người dứt điểm tìm va chạm sẽ giữ cân bằng; người né va chạm sẽ bị đánh lệch hướng.",
+      "Tự mình tạo ra va chạm — người dứt điểm chủ động tìm va chạm sẽ giữ thăng bằng; người né tránh sẽ bị đánh lệch hướng.",
       "Giữ bóng cao và chặt khi thu bóng — bóng thấp sẽ bị cướp khi va chạm.",
-      "Bật mạnh bằng 2 tay khi thu bóng, rồi dứt điểm bằng 1 tay — đừng bao giờ hạ bóng xuống ngang hông.",
-      "Tiếp đất cân bằng và sẵn sàng cho putback; dứt điểm qua va chạm thường cần nỗ lực thứ hai."
+      "Bật mạnh bằng hai tay khi thu bóng, rồi dứt điểm bằng một tay — không bao giờ hạ bóng xuống ngang hông.",
+      "Tiếp đất thăng bằng và sẵn sàng cho putback; dứt điểm qua va chạm thường cần nỗ lực thứ hai."
     ],
     "commonMistakes": [
-      "Né tránh va chạm — trôi người sang ngang biến cơ hội and-one thành cú ném bị block.",
-      "Hạ bóng xuống khi bị húc — giữ bóng cao từ cằm đến rổ xuyên suốt cú va chạm."
+      "Ngả người tránh va chạm — trôi người sang ngang biến cơ hội and-one thành cú ném bị block.",
+      "Hạ bóng xuống khi bị húc — giữ bóng cao từ cằm đến rổ suốt cú va chạm."
     ],
-    "progression": "Hậu vệ giơ tay tranh bóng theo chiều dọc thay vì chỉ húc, người dứt điểm phải ghi điểm qua 2 cú húc liên tiếp, hoặc thêm hậu vệ help xoay ra.",
-    "regression": "Húc nhẹ hơn, bắt đầu đột phá gần rổ hơn, hoặc bỏ hậu vệ và tập kỹ thuật dứt điểm 2 chân trước.",
-    "gameApplication": "Bóng rổ playoff và cuối trận rất thể lực — cầu thủ dứt điểm được qua va chạm sẽ kiếm lỗi và ghi điểm 3-point play thay vì chấp nhận ném khó.",
-    "players": "2",
+    "description": "Bài tập 2 người với tấm đệm hoặc va chạm cơ thể ở gần rổ, rèn khả năng dứt điểm qua va chạm, bản lĩnh and-one và ném phạt sau đó.",
     "equipment": [
       "Bóng rổ"
-    ]
+    ],
+    "gameApplication": "Bóng rổ playoff và cuối trận rất quyết liệt — cầu thủ dứt điểm được qua va chạm sẽ kiếm lỗi và ghi điểm 3-point play thay vì chấp nhận ném khó.",
+    "goal": "Xây dựng sức mạnh và khả năng kiểm soát cơ thể để dứt điểm ở rổ qua va chạm thật của hàng thủ và tận dụng cơ hội and-one.",
+    "instructions": [
+      {
+        "detail": "Người dứt điểm tấn công rổ ở tốc độ cao trong khi cầu thủ phòng thủ dùng đệm húc vào lúc thu bóng — người dứt điểm phải giữ bóng cao và ghi điểm.",
+        "title": "Đột phá và chịu va chạm"
+      },
+      {
+        "detail": "Thu bóng bằng động tác dừng hai chân rồi bật mạnh qua cú húc, dùng rổ để che bóng khỏi cầu thủ phòng thủ.",
+        "title": "Dứt điểm mạnh bằng hai chân"
+      },
+      {
+        "detail": "Sau mỗi lần ghi điểm qua va chạm, người dứt điểm ném ngay một quả phạt — biến thói quen and-one thành tự động.",
+        "title": "Ném phạt and-one"
+      },
+      {
+        "detail": "Đột phá bên phải 5 lần ghi điểm, bên trái 5 lần, rồi đổi vai và lặp lại.",
+        "title": "Đổi bên và đổi vai"
+      }
+    ],
+    "players": "2",
+    "progression": "Cầu thủ phòng thủ giơ tay tranh bóng theo chiều dọc thay vì chỉ húc, người dứt điểm phải ghi điểm qua hai cú húc liên tiếp, hoặc thêm cầu thủ phòng thủ hỗ trợ xoay ra.",
+    "regression": "Húc nhẹ hơn, bắt đầu đột phá gần rổ hơn, hoặc bỏ cầu thủ phòng thủ để tập kỹ thuật dứt điểm hai chân trước.",
+    "setup": [
+      "Một người là người dứt điểm, người còn lại là cầu thủ phòng thủ cầm tấm đệm — hoặc dùng va chạm cơ thể có kiểm soát nếu không có đệm.",
+      "Người dứt điểm bắt đầu ở cánh hoặc đỉnh vòng với bóng; cầu thủ phòng thủ chờ gần khu vực dưới rổ.",
+      "Đổi vai mỗi 5 lần ghi điểm để cả hai đều được tập va chạm."
+    ],
+    "title": "Dứt điểm qua va chạm"
   }
 }

@@ -65,49 +65,49 @@
   ],
   "dateUpdated": "2026-10-06",
   "vi": {
-    "title": "Bài Ném Reverse Layup",
-    "description": "Dạy cú kết thúc reverse layup dùng vành rổ làm lá chắn trước người block, từ cả hai bên rổ.",
-    "goal": "Ném trúng 8/10 quả reverse layup mỗi bên, dùng vành rổ che chắn cú ném.",
-    "setup": [
-      "Đặt cọc tiêu ở mỗi khuỷu kéo dài để đánh dấu điểm xuất phát đột phá cả hai bên.",
-      "Người ném bắt đầu ở cọc phải có bóng; đột phá phía baseline hướng về rổ.",
-      "Đồng đội bắt rebound hoặc tự nhặt bóng hỏng để giữ nhịp bài."
-    ],
-    "instructions": [
-      {
-        "title": "Reverse Bên Phải",
-        "detail": "Dẫn bóng từ cọc phải về phía rổ, đi hai bước và bật chân trái ở phía phải của vành rổ. Vươn bóng sang phía xa của vành rổ và đặt bóng vào bảng. Ném 10 quả, mục tiêu 8 quả trúng."
-      },
-      {
-        "title": "Reverse Bên Trái",
-        "detail": "Sang cọc trái và làm đối xứng: đột phá vào, bật chân phải ở phía trái rổ, kết thúc bằng tay trái ở phía xa của vành rổ. Ném 10 quả bằng tay trái."
-      },
-      {
-        "title": "Mô Phỏng Va Chạm",
-        "detail": "Nhờ đồng đội đứng giơ thẳng tay ở phía gần của vành rổ làm người block. Đột phá và kết thúc reverse ở phía xa, dùng vành rổ ngăn giữa mình và cánh tay. Làm 6 rep mỗi bên."
-      },
-      {
-        "title": "Chuỗi Đổi Bên",
-        "detail": "Xen kẽ reverse layup bên phải và bên trái. Trúng 6 quả liên tiếp đổi bên để kết thúc bài. Hỏng quả nào là đếm lại chuỗi."
-      }
-    ],
     "coachingPoints": [
       "Dùng vành rổ làm khiên — bóng luôn ở phía đối diện với hậu vệ.",
-      "Bật người về phía xa, không bật thẳng lên, để tạo khoảng cách.",
+      "Bật người về phía xa chứ đừng bật thẳng lên để tạo khoảng cách.",
       "Chạm bảng nhẹ nhàng; ngắm góc trên của ô vuông trên bảng rổ.",
-      "Bảo vệ bóng bằng vai ngoài suốt đường đột phá."
+      "Che bóng bằng vai ngoài suốt đường đột phá."
     ],
     "commonMistakes": [
-      "Ra tay ở phía gần nơi người block đang chờ sẵn.",
+      "Ra tay ở phía gần, đúng chỗ người block đang chờ.",
       "Bật thẳng lên thay vì vươn người luồn qua dưới vành rổ."
     ],
-    "progression": "Thêm hậu vệ thật đuổi theo sau pha đột phá được block, ép phải đọc tình huống thật để quyết định reverse.",
-    "regression": "Đứng dưới rổ ném 20 quả reverse layup tại chỗ đổi tay, không cần dẫn bóng.",
-    "gameApplication": "Reverse layup là đáp án cho người block xoay ra — dùng chính vành rổ làm screen của mình.",
-    "players": "1",
+    "description": "Dạy cú kết thúc reverse layup dùng vành rổ làm lá chắn trước người block — tập cả hai bên rổ.",
     "equipment": [
       "Bóng rổ",
       "Cọc tiêu"
-    ]
+    ],
+    "gameApplication": "Reverse layup là đáp án cho người block xoay ra — dùng chính vành rổ làm screen của mình.",
+    "goal": "Ném trúng 8 trên 10 quả reverse layup mỗi bên, dùng vành rổ che chắn cú ném.",
+    "instructions": [
+      {
+        "detail": "Dẫn bóng từ cọc phải về rổ, đi hai bước rồi bật chân trái ở phía phải vành rổ. Vươn bóng sang phía xa của vành rổ, đặt bóng nhẹ vào bảng. Ném 10 quả, mục tiêu 8 quả trúng.",
+        "title": "Reverse bên phải"
+      },
+      {
+        "detail": "Sang cọc trái và làm đối xứng: đột phá vào, bật chân phải ở phía trái rổ, dứt điểm tay trái ở phía xa vành rổ. Ném 10 quả bằng tay trái.",
+        "title": "Reverse bên trái"
+      },
+      {
+        "detail": "Nhờ đồng đội đứng giơ thẳng tay ở phía gần vành rổ làm người block. Đột phá rồi kết thúc reverse ở phía xa, để vành rổ chắn giữa mình và cánh tay họ. Làm 6 lượt mỗi bên.",
+        "title": "Mô phỏng va chạm"
+      },
+      {
+        "detail": "Xen kẽ reverse layup phải-trái. Trúng 6 quả liên tiếp đổi bên thì xong bài; hỏng quả nào đếm lại chuỗi từ đầu.",
+        "title": "Chuỗi đổi bên"
+      }
+    ],
+    "players": "1",
+    "progression": "Thêm hậu vệ thật đuổi theo sau pha đột phá, được block thoải mái — ép phải đọc tình huống thật để quyết định có reverse hay không.",
+    "regression": "Đứng dưới rổ ném 20 quả reverse layup tại chỗ, đổi tay liên tục, không cần dẫn bóng.",
+    "setup": [
+      "Đặt cọc tiêu ở mỗi vị trí elbow kéo dài để đánh dấu điểm xuất phát đột phá cả hai bên.",
+      "Người ném xuất phát ở cọc bên phải có bóng; đột phá phía baseline hướng về rổ.",
+      "Đồng đội bắt rebound, hoặc tự nhặt bóng hỏng để giữ nhịp bài."
+    ],
+    "title": "Bài tập reverse layup"
   }
 }

@@ -65,47 +65,47 @@
   ],
   "dateUpdated": "2026-10-06",
   "vi": {
-    "title": "Tranh Chấp Box-Out Khi Ném Phạt",
-    "description": "Biến ném phạt thành cuộc chiến: 2v2 tranh box-out mỗi khi ném trượt — tìm người, tạo va chạm và giành rebound trước đối thủ.",
-    "goal": "Thắng rebound ném phạt bằng kỹ thuật box-out thật — va chạm trước, rồi mới đuổi bóng.",
-    "setup": [
-      "Hai hậu vệ ở vạch box-out, hai tấn công đứng ngoài.",
-      "Người ném ở vạch; còn lại tránh ra.",
-      "Cố tình ném trượt vài lượt để chắc chắn có rebound."
-    ],
-    "instructions": [
-      {
-        "title": "Tìm người",
-        "detail": "Khi bóng bay lên, hậu vệ tìm thân người tấn công gần nhất — không phải nhìn bóng."
-      },
-      {
-        "title": "Húc và seal",
-        "detail": "Tạo va chạm bằng cẳng tay, xoay người seal đối thủ sau lưng."
-      },
-      {
-        "title": "Đuổi bóng",
-        "detail": "Seal xong thì lao tới rebound hai tay — kẹp bóng sát cằm ngay."
-      },
-      {
-        "title": "Vòng đấu",
-        "detail": "Đội nào 5 rebound phòng thủ trước thì thắng; đội thua chạy phạt."
-      }
-    ],
     "coachingPoints": [
-      "Va chạm trước khi đuổi bóng — không chạm là không box-out.",
+      "Va chạm trước khi đuổi bóng — không chạm là không box out.",
       "Chân rộng, mông thấp — đòn bẩy thắng sức bật.",
-      "Giữ seal cho đến khi bóng đã chắc trong tay."
+      "Giữ seal tới khi bóng chắc trong tay."
     ],
     "commonMistakes": [
-      "Mải nhìn bóng để đối thủ chạy vòng qua.",
-      "Nhảy tranh rebound mà không tạo va chạm trước."
+      "Mải nhìn bóng, để đối thủ chạy vòng qua người.",
+      "Nhảy tranh rebound mà chưa tạo va chạm."
     ],
-    "progression": "Chơi 3v3 với thêm một người lao vào tranh offensive rebound.",
-    "regression": "Không cần tấn công — chỉ tập footwork húc-và-seal.",
-    "gameApplication": "Rebound ném phạt là nỗ lực và kỹ thuật thuần túy — đội nào thắng chúng sẽ thắng cuộc chiến kiểm soát bóng quyết định trận đấu sát nút.",
-    "players": "5",
+    "description": "Biến ném phạt thành cuộc chiến: 2v2 tranh box out mỗi khi ném trượt — tìm người, tạo va chạm, giành rebound trước đối thủ.",
     "equipment": [
       "Bóng rổ"
-    ]
+    ],
+    "gameApplication": "Rebound ném phạt là nỗ lực và kỹ thuật thuần túy — đội thắng những pha này thắng cuộc chiến kiểm soát bóng ở những trận đấu sát nút.",
+    "goal": "Thắng rebound ném phạt bằng kỹ thuật box out thật — va chạm trước, đuổi bóng sau.",
+    "instructions": [
+      {
+        "detail": "Ngay khi bóng bay lên, tìm thân người tấn công gần nhất — nhìn người, không nhìn bóng.",
+        "title": "Tìm người"
+      },
+      {
+        "detail": "Dùng cẳng tay tạo va chạm, xoay người seal đối thủ sau lưng.",
+        "title": "Tạo va chạm và seal"
+      },
+      {
+        "detail": "Seal xong, lao tới rebound hai tay — kẹp bóng sát cằm ngay.",
+        "title": "Đuổi bóng"
+      },
+      {
+        "detail": "Đội nào có 5 rebound phòng thủ trước thì thắng; đội thua chạy phạt.",
+        "title": "Thi đấu theo vòng"
+      }
+    ],
+    "players": "5",
+    "progression": "Nâng lên 3v3, thêm một cầu thủ tấn công lao vào tranh offensive rebound.",
+    "regression": "Không cần tấn công — chỉ tập bộ chân húc-và-seal.",
+    "setup": [
+      "Hai cầu thủ phòng thủ đứng ở vạch box out, hai cầu thủ tấn công đứng ngoài.",
+      "Người ném đứng ở vạch ném phạt; những người còn lại tránh ra.",
+      "Cố tình ném trượt vài lượt để chắc chắn có rebound tranh."
+    ],
+    "title": "Box out tranh rebound sau ném phạt (free-throw box-out battle)"
   }
 }

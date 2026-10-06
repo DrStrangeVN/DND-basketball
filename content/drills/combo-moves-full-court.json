@@ -69,53 +69,53 @@
   ],
   "dateUpdated": "2026-10-06",
   "vi": {
-    "title": "Chuỗi Động Tác Liên Hoàn Full Sân",
-    "description": "Nối các chuỗi 2-3 động tác dẫn bóng ở tốc độ tối đa dọc sân — crossover nối between-the-legs, behind-the-back nối hesitation và nhiều hơn nữa.",
-    "goal": "Xây dựng khả năng nối nhiều động tác dẫn bóng liên tiếp ở tốc độ thi đấu mà không mất bóng hay mất thăng bằng.",
-    "setup": [
-      "Đặt 4 cọc tiêu cách đều nhau dọc sân.",
-      "Bắt đầu dưới một rổ với bóng.",
-      "Một lượt đi hết sân = một chuỗi combo hoàn chỉnh; chạy bộ về và lặp lại."
-    ],
-    "instructions": [
-      {
-        "title": "Crossover nối between-the-legs",
-        "detail": "Ở cọc 1, crossover trước mặt rồi ngay lập tức đập bóng qua hai chân để đổi lại — hai động tác, một nhịp."
-      },
-      {
-        "title": "Behind-the-back nối hesitation",
-        "detail": "Ở cọc 2, vòng bóng sau lưng, hesitation để đóng băng hậu vệ tưởng tượng rồi bứt tốc."
-      },
-      {
-        "title": "Spin nối crossover",
-        "detail": "Ở cọc 3, spin move qua cọc, tiếp đất thăng bằng rồi crossover ngay không bước lỗi."
-      },
-      {
-        "title": "Combo tự do",
-        "detail": "Ở cọc 4, nối bất kỳ 3 động tác nào — nhưng mỗi động tác phải có mục đích, không chỉ để đẹp mắt."
-      },
-      {
-        "title": "Bấm giờ",
-        "detail": "Thực hiện 6 lượt full sân; mỗi lượt dưới 20 giây kể cả chạy bộ về."
-      }
-    ],
     "coachingPoints": [
-      "Đổi tốc độ giữa các động tác — nhanh-chậm-nhanh mới đánh lừa được hậu vệ.",
-      "Mắt luôn nhìn lên cả quãng đường; sân không di chuyển đâu.",
-      "Tiếp đất sau mỗi pha spin và behind-the-back ở tư thế sẵn sàng cho động tác tiếp theo.",
-      "Mất bóng thì sprint nhặt ngay — trong trận không có còi dừng đâu."
+      "Đổi tốc giữa các động tác — nhanh-chậm-nhanh mới đánh lừa được cầu thủ phòng thủ.",
+      "Mắt luôn nhìn lên cả quãng đường; sân không chạy đi đâu cả.",
+      "Tiếp đất sau mỗi pha spin và vòng sau lưng ở tư thế sẵn sàng cho động tác tiếp theo.",
+      "Mất bóng thì lao ngay đi nhặt — trong trận không có còi dừng."
     ],
     "commonMistakes": [
       "Mọi động tác cùng một tốc độ — combo không đổi nhịp chẳng lừa được ai.",
-      "Vớt bóng (carrying) khi vội ở pha between-the-legs."
+      "Vớt bóng khi vội ở pha xỏ háng."
     ],
-    "progression": "Thêm một hậu vệ đuổi theo cố chọc bóng mỗi lượt.",
-    "regression": "Đi bộ qua các combo trước, rồi nửa tốc độ, rồi full tốc độ.",
-    "gameApplication": "Đột phá thất bại khi một động tác là chưa đủ — nối combo ở tốc độ cao là cách các hậu vệ tạo khoảng trống trước hàng thủ đã vào vị trí.",
-    "players": "1",
+    "description": "Nối các chuỗi 2-3 động tác ở tốc độ tối đa dọc sân — crossover nối xỏ háng, vòng sau lưng nối hesitation và nhiều hơn nữa.",
     "equipment": [
       "Bóng rổ",
       "4 cọc tiêu"
-    ]
+    ],
+    "gameApplication": "Pha đột phá thất bại khi một động tác là chưa đủ — nối combo ở tốc độ cao là cách các hậu vệ tạo khoảng trống trước hàng thủ đã vào vị trí.",
+    "goal": "Nối nhiều động tác dẫn bóng liên tiếp ở tốc độ thi đấu mà không mất bóng hay mất thăng bằng.",
+    "instructions": [
+      {
+        "detail": "Ở cọc 1, crossover trước mặt rồi ngay lập tức đập bóng xỏ háng để đổi lại — hai động tác, một nhịp.",
+        "title": "Crossover nối xỏ háng"
+      },
+      {
+        "detail": "Ở cọc 2, vòng bóng sau lưng, hesitation để đóng băng hậu vệ tưởng tượng rồi bứt tốc.",
+        "title": "Vòng sau lưng nối hesitation"
+      },
+      {
+        "detail": "Ở cọc 3, xoay người qua cọc, tiếp đất thăng bằng rồi crossover ngay mà không chạy bước.",
+        "title": "Spin nối crossover"
+      },
+      {
+        "detail": "Ở cọc 4, nối bất kỳ 3 động tác nào — nhưng mỗi động tác phải có mục đích, không chỉ để đẹp mắt.",
+        "title": "Combo tự do"
+      },
+      {
+        "detail": "Chạy 6 lượt cả sân; mỗi lượt dưới 20 giây kể cả chạy bộ về.",
+        "title": "Bấm giờ từng lượt"
+      }
+    ],
+    "players": "1",
+    "progression": "Thêm một cầu thủ phòng thủ đuổi theo cố chọc bóng mỗi lượt.",
+    "regression": "Đi bộ qua các combo trước, rồi nửa tốc độ, rồi tốc độ tối đa.",
+    "setup": [
+      "Đặt 4 cọc tiêu cách đều nhau dọc chiều dài sân.",
+      "Bắt đầu dưới một rổ với bóng trong tay.",
+      "Một lượt đi hết sân là một chuỗi combo hoàn chỉnh; chạy bộ về và lặp lại."
+    ],
+    "title": "Chuỗi động tác liên hoàn cả sân"
   }
 }

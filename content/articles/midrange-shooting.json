@@ -69,67 +69,67 @@
     "offense"
   ],
   "title": "Midrange Shooting",
+  "vi": {
+    "coachingPoints": [
+      "Làm chủ 2–3 điểm midrange trước khi mở rộng — tinh thông thắng tầm xa.",
+      "Midrange là cách đọc, không phải kế hoạch: lấy thứ hàng thủ cho, đừng bao giờ cố.",
+      "Ném lần nào cũng một kiểu: kỹ thuật y hệt ném 3 điểm, chỉ gần hơn.",
+      "Tập cả sau dẫn bóng LẪN sau khi bắt — midrange trong trận tới cả hai đường.",
+      "Theo dõi tỷ lệ ở các điểm của mình; midrange đẳng cấp là 45%+ và đáng xây hàng công quanh nó."
+    ],
+    "commonMistakes": [
+      "Mê mẩn midrange bị contest — sửa: cú ném dành cho những cú nhìn trống hoặc contest nhẹ, không phải bóng anh hùng.",
+      "Ném ngang — sửa: vòng cung quan trọng hơn ở midrange; ngắm mép sau của rổ.",
+      "Bỏ hẳn vì phân tích số liệu — sửa: midrange trừng phạt drop coverage và đồng hồ chết; nó có vai trò.",
+      "Tay ném khác ném 3 điểm — sửa: một động tác ném ở mọi khoảng cách; chỉ lực chân thay đổi."
+    ],
+    "description": "Làm chủ vùng giữa: pull-up, tầm floater và những cú ném ở elbow trừng phạt hàng thủ hay lùi sâu.",
+    "gameSituations": [
+      "Đánh drop coverage — big lùi sâu, midrange trống trơn, và đây là câu trả lời tỷ lệ cao nhất.",
+      "Cứu bóng cuối đồng hồ — khi bài vỡ, pull-up midrange đáng tin là cách kiến tạo an toàn nhất.",
+      "Tấn công half-court kiểu playoff — ném 3 điểm bị contest, rổ bị bịt, midrange giữ hàng công sống."
+    ],
+    "howTo": [
+      {
+        "detail": "Chọn 2–3 điểm tựa đáng tin: hai elbow, đường ném phạt kéo dài, và góc ngắn của khu vực dưới rổ. Đây là những vùng tỷ lệ cao kinh điển.",
+        "title": "Chọn vị trí của mình"
+      },
+      {
+        "detail": "Tới sau dẫn bóng (pull-up), sau khi bắt (chuẩn bị ném), hoặc sau screen. Đổi cách vào để hàng thủ không đoán được.",
+        "title": "Tới đó bằng nhiều cách"
+      },
+      {
+        "detail": "Dừng thăng bằng — 1-2 hoặc nhảy đệm — vai vuông góc. Ném midrange hỏng hầu như luôn tới từ chân, không phải tay.",
+        "title": "Dừng trong thăng bằng"
+      },
+      {
+        "detail": "Lên thẳng với kỹ thuật bình thường. Ở khoảng cách này, chạm bóng mềm và vòng cung tốt thắng sức mạnh thô.",
+        "title": "Ném với vòng cung mềm"
+      },
+      {
+        "detail": "Giữ follow-through, nhìn đường bay của bóng. Midrange là cú ném cảm giác; phản hồi từ việc quan sát giúp hiệu chỉnh.",
+        "title": "Giữ tay và đọc kết quả"
+      }
+    ],
+    "tags": [
+      "ném rổ",
+      "ghi điểm",
+      "tấn công"
+    ],
+    "title": "Kỹ thuật ném midrange",
+    "whatIsIt": [
+      "Ném midrange bao trùm mọi cú ném trong vạch 3 điểm nhưng ngoài khu vực dưới rổ — các vị trí elbow, quanh đường ném phạt, và những cú pull-up ngắn sau dẫn bóng. Đây là vùng ghi điểm lâu đời nhất trong bóng rổ và, bất chấp phân tích hiện đại, vẫn là một trong những kỹ năng giá trị nhất cầu thủ có thể sở hữu.",
+      "Midrange là nơi hàng thủ nhường khoảng trống. Drop coverage lùi ở đó, đồng hồ chết ở đó, phòng thủ playoff sống ở đó. Cầu thủ nào ghi điểm ổn định từ khoảng 3,5–5,5m luôn có câu trả lời."
+    ],
+    "whyItMatters": [
+      "Bóng rổ cứ tái khám phá midrange: mọi sơ đồ phòng thủ lấy mất rổ và ném 3 điểm đều mặc định để hở nó. Những tay ghi điểm hay nhất — ở mọi cấp độ — đều sở hữu midrange vì đây là cú ném không hàng thủ nào lấy hết được. Với cầu thủ đang phát triển, đây còn là kỹ năng ném chuyển giao tốt nhất: kỹ thuật y hệt ném 3 điểm, chỉ ít lực chân hơn."
+    ]
+  },
   "whatIsIt": [
     "Midrange shooting covers every jumper taken inside the three-point line but outside the paint — the elbows, the free-throw line area, and the short pull-ups off the dribble. It is the oldest scoring zone in basketball and, despite modern analytics, still one of the most valuable skills a player can own.",
     "The midrange is where defenses concede space. Drop coverages sag there, late clocks die there, and playoff defenses live there. A player who can reliably score from 12–18 feet always has an answer."
   ],
   "whyItMatters": [
     "Basketball keeps rediscovering the midrange: every defensive scheme that takes away the rim and the three leaves it open by design. The game's best scorers — at every level — own a midrange game because it is the one shot no defense can fully remove. For developing players, it is also the most transferable shooting skill: the mechanics are identical to the three, just with less leg drive."
-  ],
-  "vi": {
-    "title": "Ném Tầm Trung (Midrange)",
-    "description": "Làm chủ vùng ném 'lỡ cỡ': các cú pull-up, tầm ném floater và cú ném ở elbow — trừng phạt những hàng thủ lùi sâu.",
-    "whatIsIt": [
-      "Ném tầm trung bao gồm mọi cú ném trong vạch ba điểm nhưng ngoài khu vực paint — vùng elbow, khu vực quanh đường ném phạt, và các cú pull-up ngắn sau dẫn bóng. Đây là vùng ghi điểm lâu đời nhất của bóng rổ và, bất chấp các phân tích hiện đại, vẫn là một trong những kỹ năng giá trị nhất mà cầu thủ có thể sở hữu.",
-      "Tầm trung là nơi hàng thủ nhường khoảng trống. Các chiến thuật drop coverage lùi sâu ở đó, những giây cuối đồng hồ chết ở đó, và hàng thủ playoff sống ở đó. Cầu thủ nào ghi điểm ổn định từ khoảng 3,5–5,5 mét (12–18 feet) luôn có câu trả lời."
-    ],
-    "whyItMatters": [
-      "Bóng rổ cứ liên tục tái khám phá tầm trung: mọi sơ đồ phòng thủ khóa rổ và vạch ba điểm đều vô tình để hở nó. Những tay ghi điểm hay nhất — ở mọi cấp độ — đều sở hữu lối chơi tầm trung vì đó là cú ném mà không hàng thủ nào có thể khóa hoàn toàn. Với cầu thủ đang phát triển, đây cũng là kỹ năng ném dễ chuyển đổi nhất: kỹ thuật giống hệt cú ném ba, chỉ khác lực chân ít hơn."
-    ],
-    "howTo": [
-      {
-        "title": "Chọn điểm ném của bạn",
-        "detail": "Chọn 2–3 điểm đáng tin cậy: hai bên elbow, đường kéo dài của vạch ném phạt, và hai góc ngắn của paint. Đây là những vùng có tỷ lệ thành công cao kinh điển."
-      },
-      {
-        "title": "Đến đó bằng nhiều cách",
-        "detail": "Đến điểm ném bằng dẫn bóng (pull-up), bằng nhận bóng (chuẩn bị ném), hoặc qua screen. Đa dạng cách tiếp cận để hàng thủ không đoán được."
-      },
-      {
-        "title": "Dừng lại trong cân bằng",
-        "detail": "Dừng cân bằng — kiểu 1-2 hoặc nhảy dừng — với vai vuông góc. Các cú ném tầm trung hỏng gần như luôn đến từ bàn chân, không phải từ tay."
-      },
-      {
-        "title": "Ném với độ cong mềm",
-        "detail": "Bật thẳng lên với kỹ thuật bình thường của bạn. Ở khoảng cách này, chạm bóng mềm và độ cong tốt thắng sức mạnh thô."
-      },
-      {
-        "title": "Giữ tay và đọc kết quả",
-        "detail": "Giữ tư thế follow-through và nhìn đường bay của bóng. Ném tầm trung là cú ném của cảm giác; việc quan sát giúp bạn hiệu chỉnh."
-      }
-    ],
-    "coachingPoints": [
-      "Làm chủ 2–3 điểm tầm trung trước khi mở rộng — tinh thông thắng phạm vi.",
-      "Tầm trung là một pha đọc tình huống, không phải kế hoạch: lấy những gì hàng thủ cho, đừng bao giờ cố ép.",
-      "Ném giống hệt nhau mỗi lần: kỹ thuật y như cú ném ba của bạn, chỉ gần hơn.",
-      "Tập cả ném sau dẫn bóng VÀ sau nhận bóng — ném tầm trung trong trận đến từ cả hai cách.",
-      "Theo dõi tỷ lệ ném từ các điểm của bạn; ném tầm trung đẳng cấp đạt 45%+ và xứng đáng để xây dựng lối chơi quanh nó."
-    ],
-    "commonMistakes": [
-      "Mê mẩn những cú ném tầm trung bị kèm chặt — cách sửa: cú ném này dành cho các pha trống trải hoặc bị kèm nhẹ, không phải bóng anh hùng.",
-      "Ném bóng bẹt — cách sửa: độ cong càng quan trọng ở tầm trung; hãy nhắm vào phía sau vành rổ.",
-      "Bỏ qua hẳn vì nghe theo phân tích số liệu — cách sửa: tầm trung trừng phạt drop coverage và những giây cuối đồng hồ; nó có vai trò của mình.",
-      "Tư thế ném khác với cú ném ba — cách sửa: một động tác ném duy nhất ở mọi khoảng cách; chỉ lực chân thay đổi."
-    ],
-    "gameSituations": [
-      "Tấn công drop coverage — big man lùi sâu, tầm trung hoàn toàn trống, và đó là đáp án có tỷ lệ cao nhất.",
-      "Cứu bóng cuối đồng hồ — khi bài tấn công vỡ, một cú pull-up tầm trung đáng tin cậy là cách tạo điểm an toàn nhất.",
-      "Lối đánh half-court kiểu playoff — khi các cú ba điểm bị kèm và đường vào rổ bị bịt kín, tầm trung giữ cho hàng công sống sót."
-    ],
-    "tags": [
-      "ném rổ",
-      "ghi điểm",
-      "tấn công"
-    ]
-  }
+  ]
 }

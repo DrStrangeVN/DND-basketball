@@ -40,52 +40,52 @@
   "related": ["skip-pass-shooting","transition-two-on-one"],
   "dateUpdated": "2026-10-06",
   "vi":   {
-    "title": "Đan Bóng 3 Người",
-    "description": "Bài tập chuyền bóng hết sân 3 người kinh điển, rèn đường chuyền dẫn (lead pass), bắt bóng khi di chuyển và giao tiếp ở tốc độ cao.",
-    "goal": "Phát triển đường chuyền dẫn chính xác và khả năng bắt bóng ở tốc độ tối đa khi chạy sân theo đội hình 3 người phối hợp.",
-    "setup": [
-      "Ba cầu thủ xếp hàng ngang đường biên cuối sân: người giữa cầm bóng, hai người ở cánh.",
-      "Cần cả sân; các nhóm 3 người luân phiên — nhóm sau bắt đầu khi nhóm trước đến giữa sân.",
-      "Có thể dùng 2 bóng với nhóm đông để mọi người đều di chuyển."
-    ],
-    "instructions": [
-      {
-        "title": "Chuyền rồi cắt sau lưng",
-        "detail": "Người giữa chuyền cho một cánh rồi cắt sau lưng người nhận; cánh đó lại chuyền cho cánh đối diện đang cắt sau lưng, cứ thế tiếp tục."
-      },
-      {
-        "title": "Giữ bóng di chuyển xuống sân",
-        "detail": "Tiếp tục mẫu chuyền-và-đi-sau-lưng hết chiều dài sân — bóng không được dừng."
-      },
-      {
-        "title": "Kết thúc bằng layup",
-        "detail": "Người nhận đường chuyền cuối gần rổ dứt điểm layup; hai người còn lại theo sau rebound và putback."
-      },
-      {
-        "title": "Xoay vòng và tiếp tục",
-        "detail": "Nhóm 3 tiếp theo bắt đầu ngay khi nhóm trước qua giữa sân; mỗi nhóm chạy 4 lượt hết sân."
-      },
-      {
-        "title": "Thử thách không rê",
-        "detail": "Vòng cuối: bóng không được chạm đất — mọi đường chuyền phải dẫn người chạy hoàn hảo."
-      }
-    ],
     "coachingPoints": [
-      "Chuyền đến nơi người chạy sẽ đến, không phải nơi họ đang đứng — dẫn mục tiêu 2 bước.",
-      "Ném chest pass có lực; đường chuyền bổng làm chậm cả bài tập.",
-      "Cắt sau lưng người bạn vừa chuyền — bài đan chỉ hiệu quả khi mọi người đều đi sau lưng.",
-      "Hô to: gọi tên và 'ball!' để đường chuyền đến đúng lúc."
+      "Chuyền tới nơi người chạy sẽ tới, không phải nơi họ đang đứng — dẫn trước mục tiêu hai bước.",
+      "Chuyền ngực có búng tay; chuyền bổng làm chậm cả bài.",
+      "Cắt sau lưng người mình vừa chuyền — đan bóng chỉ chạy khi mọi người đều đi sau.",
+      "Nói chuyện: gọi tên và hô 'bóng!' để đường chuyền tới đúng lúc."
     ],
     "commonMistakes": [
-      "Chuyền sau lưng người chạy — đường chuyền ngang hông ép họ dừng lại và giết chết nhịp bài.",
-      "Cắt trước mặt thay vì sau lưng — làm vỡ đội hình và gây va chạm."
+      "Chuyền sau lưng người chạy — chuyền ngang hông ép họ dừng lại, giết chết nhịp bài.",
+      "Cắt trước mặt thay vì sau lưng — phá vỡ đội hình và gây va chạm."
     ],
-    "progression": "Không rê cả bài, thêm hậu vệ đuổi theo sau bóng, hoặc kết thúc bằng pull-up jumper thay vì layup.",
-    "regression": "Đi bộ qua đội hình trước, cho một nhịp rê mỗi lần nhận bóng, hoặc rút ngắn thành đan nửa sân.",
-    "gameApplication": "Phản công sống chết nhờ đường chuyền dẫn — bài này xây dựng timing và độ chính xác biến những pha chặn bóng thành rổ dễ dàng.",
-    "players": "3+",
+    "description": "Bài chuyền bóng hết sân 3 người kinh điển: rèn đường chuyền dẫn, bắt bóng khi di chuyển và giao tiếp ở tốc độ cao.",
     "equipment": [
       "Bóng rổ"
-    ]
+    ],
+    "gameApplication": "Phản công sống chết nhờ đường chuyền dẫn — bài này xây dựng timing và độ chính xác biến pha phòng thủ thành điểm số dễ dàng.",
+    "goal": "Phát triển đường chuyền dẫn chính xác và khả năng bắt bóng ở tốc độ tối đa khi chạy đội hình 3 người phối hợp.",
+    "instructions": [
+      {
+        "detail": "Người giữa chuyền cho một cánh rồi cắt sau lưng người nhận; cánh đó chuyền tiếp cho cánh đối diện đang cắt sau lưng theo.",
+        "title": "Chuyền rồi cắt sau lưng"
+      },
+      {
+        "detail": "Tiếp tục mẫu chuyền-rồi-đi-sau hết chiều dài sân — bóng không bao giờ được dừng.",
+        "title": "Giữ bóng chạy dọc sân"
+      },
+      {
+        "detail": "Người nhận đường chuyền cuối gần rổ kết thúc bằng layup; hai người còn lại chạy theo rebound và putback.",
+        "title": "Kết thúc bằng layup"
+      },
+      {
+        "detail": "Nhóm sau xuất phát ngay khi nhóm trước qua giữa sân; mỗi nhóm chạy 4 lượt dọc sân.",
+        "title": "Xoay vòng chạy tiếp"
+      },
+      {
+        "detail": "Vòng cuối: bóng không được chạm sàn lần nào — mọi đường chuyền phải dẫn đúng đà người chạy.",
+        "title": "Thử thách không rê"
+      }
+    ],
+    "players": "3+",
+    "progression": "Không rê cả bài, thêm hậu vệ đuổi theo sau bóng, hoặc kết thúc bằng pull-up jump shot thay vì layup.",
+    "regression": "Đi bộ qua đội hình trước, cho một nhịp rê mỗi lần nhận bóng, hoặc rút ngắn thành đan bóng nửa sân.",
+    "setup": [
+      "Ba người xếp hàng ngang đường biên cuối: người giữa cầm bóng, hai người ở cánh.",
+      "Cần cả sân; các nhóm 3 xoay vòng, nhóm sau xuất phát khi nhóm trước tới giữa sân.",
+      "Nhóm đông có thể dùng hai bóng để mọi người đều vận động."
+    ],
+    "title": "Đan bóng 3 người"
   }
 }

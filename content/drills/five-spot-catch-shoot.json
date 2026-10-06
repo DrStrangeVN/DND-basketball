@@ -65,48 +65,48 @@
   ],
   "dateUpdated": "2026-10-06",
   "vi": {
-    "title": "Bắt Bóng Ném Ngay 5 Điểm",
-    "description": "Bài ném tầm trung cơ bản ở 5 điểm quanh khu vực ném phạt, xây dựng kỹ thuật catch-and-shoot lặp lại ổn định.",
-    "goal": "Ném trúng 5 quả liên tiếp ở mỗi điểm trong 5 điểm tầm trung với form giống hệt nhau.",
-    "setup": [
-      "Đánh dấu 5 điểm tầm trung: khuỷu baseline phải, cánh phải, đỉnh ngang vạch ném phạt, cánh trái, khuỷu baseline trái — mỗi điểm cách rổ 4-5m.",
-      "Một người ném, một người chuyền đứng dưới rổ; người chuyền bắt rebound và chuyền chắc tay.",
-      "Người ném bắt đầu ở điểm 1; mục tiêu là 5 quả trúng liên tiếp mới được sang điểm tiếp."
-    ],
-    "instructions": [
-      {
-        "title": "Điểm 1 Và 2",
-        "detail": "Bắt đầu ở khuỷu baseline phải. Bắt bóng bằng bước 1-2 vào tư thế ném, bật thẳng lên và ném. Cần 5 quả trúng liên tiếp mới được đi tiếp. Hỏng một quả là đếm lại từ đầu ở điểm đó."
-      },
-      {
-        "title": "Điểm 3 Đỉnh",
-        "detail": "Sang đỉnh ngang vạch ném phạt. Luật như cũ: 5 quả liên tiếp. Tập trung bật thẳng lên thẳng xuống không trôi người, vì đây là góc nhìn trực diện."
-      },
-      {
-        "title": "Điểm 4 Và 5",
-        "detail": "Hoàn thành cánh trái và khuỷu baseline trái với cùng luật 5 quả liên tiếp. Giữ y nguyên footwork và động tác ra tay ở mọi điểm — thứ duy nhất đổi là góc ném."
-      },
-      {
-        "title": "Vòng Hai Tính Giờ",
-        "detail": "Chạy lại cả 5 điểm với đồng hồ 5 phút. Lần này chỉ cần 3 quả trúng mỗi điểm, nhưng mỗi quả hỏng phải sprint ra giữa sân rồi về. Đổi vai người ném và người chuyền, rồi lặp lại."
-      }
-    ],
     "coachingPoints": [
       "Form giống hệt ở mọi điểm: cùng nhịp hạ người, cùng bật lên, cùng ra tay.",
       "Tiếp đất đúng chỗ đã bật — trôi người là mất thăng bằng.",
-      "Bắt bóng khi chân còn trên không và tiếp đất bằng bước 1-2 để cú ném là một chuyển động liền.",
+      "Bắt bóng khi chân còn trên không và tiếp đất bằng bước 1-2 để cú ném là một chuyển động liền mạch.",
       "Mắt nhìn mục tiêu từ lúc bắt bóng, không nhìn bóng."
     ],
     "commonMistakes": [
       "Vội ném trước khi chân đã đặt vững.",
       "Để tay dẫn đẩy bóng thay vì chỉ dẫn hướng."
     ],
-    "progression": "Lùi cả 5 điểm ra vạch ba điểm và yêu cầu 4 quả trúng liên tiếp mỗi điểm.",
-    "regression": "Ném set shot không ai kèm từ cự ly 2.5m ở mỗi điểm, không cần chuỗi liên tiếp, chỉ cần 10 quả trúng mỗi điểm.",
-    "gameApplication": "Xây dựng cú ném tầm trung catch-and-shoot tự động mà mọi đội bóng đều cần khi đối phương chui dưới screen hoặc lùi sâu.",
-    "players": "2",
+    "description": "Bài ném tầm trung cơ bản ở 5 điểm quanh khu vực ném phạt, xây dựng kỹ thuật bắt bóng ném ngay lặp lại ổn định.",
     "equipment": [
       "Bóng rổ"
-    ]
+    ],
+    "gameApplication": "Xây dựng cú ném tầm trung bắt bóng ném ngay tự động mà mọi đội bóng đều cần khi đối phương chui dưới screen hoặc lùi sâu.",
+    "goal": "Ném trúng 5 quả liên tiếp ở mỗi điểm trong 5 điểm tầm trung với form giống hệt nhau.",
+    "instructions": [
+      {
+        "detail": "Bắt đầu ở khuỷu baseline phải. Bắt bóng bằng bước 1-2 vào tư thế ném, bật thẳng lên và ném. Cần 5 quả trúng liên tiếp mới được đi tiếp; hỏng một quả là đếm lại từ đầu ở điểm đó.",
+        "title": "Điểm 1 và 2"
+      },
+      {
+        "detail": "Sang đỉnh ngang vạch ném phạt. Luật như cũ: 5 quả liên tiếp. Tập trung bật thẳng lên xuống không trôi người, vì đây là góc ném trực diện.",
+        "title": "Điểm 3 ở đỉnh"
+      },
+      {
+        "detail": "Hoàn thành cánh trái và khuỷu baseline trái với cùng luật 5 quả liên tiếp. Giữ y nguyên bộ chân và động tác ra tay ở mọi điểm — thứ duy nhất đổi là góc ném.",
+        "title": "Điểm 4 và 5"
+      },
+      {
+        "detail": "Chạy lại cả 5 điểm với đồng hồ 5 phút. Lần này chỉ cần 3 quả trúng mỗi điểm, nhưng mỗi quả hỏng phải chạy nước rút ra giữa sân rồi về. Đổi vai người ném và người chuyền, rồi lặp lại.",
+        "title": "Vòng hai tính giờ"
+      }
+    ],
+    "players": "2",
+    "progression": "Lùi cả 5 điểm ra vạch 3 điểm và yêu cầu 4 quả trúng liên tiếp mỗi điểm.",
+    "regression": "Ném set shot không ai kèm từ cự ly 2,4m ở mỗi điểm, không cần chuỗi liên tiếp, chỉ cần 10 quả trúng mỗi điểm.",
+    "setup": [
+      "Đánh dấu 5 điểm tầm trung: khuỷu baseline phải, cánh phải, đỉnh ngang vạch ném phạt, cánh trái, khuỷu baseline trái — mỗi điểm cách rổ 3,6-4,5m.",
+      "Một người ném, một người chuyền đứng dưới rổ; người chuyền bắt rebound và chuyền chắc tay.",
+      "Người ném bắt đầu ở điểm 1; mục tiêu là 5 quả trúng liên tiếp mới được sang điểm tiếp theo."
+    ],
+    "title": "Bắt bóng ném ngay 5 điểm"
   }
 }

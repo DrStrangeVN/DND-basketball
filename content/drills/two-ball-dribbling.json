@@ -70,53 +70,53 @@
   ],
   "dateUpdated": "2026-10-06",
   "vi":   {
-    "title": "Chuỗi Rê 2 Bóng",
-    "description": "Chuỗi rê bóng 2 bóng tiến bộ, xây dựng khả năng dùng 2 tay đều nhau, sự tự tin tay yếu và kiểm soát rê bóng mắt nhìn lên.",
-    "goal": "Phát triển khả năng kiểm soát đều ở cả hai tay và rê bóng mà không cần cúi nhìn bóng.",
-    "setup": [
-      "Tìm mặt sân phẳng có chỗ di chuyển — nửa sân hoặc một lane trống là đủ.",
-      "Dùng 2 quả bóng rổ; có thể dùng bóng hơi non hoặc bóng nặng cho tay thuận nếu có.",
-      "Luôn giữ mắt nhìn lên — chọn một điểm trên tường hoặc rổ để nhìn."
-    ],
-    "instructions": [
-      {
-        "title": "Rê đập 2 bóng cùng lúc",
-        "detail": "Đập cả 2 bóng cùng lúc 30 giây, thấp và mạnh, mắt nhìn lên."
-      },
-      {
-        "title": "Rê luân phiên",
-        "detail": "Rê 2 bóng theo nhịp luân phiên — trái-phải-trái-phải — trong 30 giây."
-      },
-      {
-        "title": "Một cao một thấp",
-        "detail": "Giữ một bóng thấp và nhanh trong khi bóng còn lại cao và chậm 30 giây, rồi đổi tay."
-      },
-      {
-        "title": "Crossover khi di chuyển",
-        "detail": "Đi bộ hết chiều dài sân, crossover cả 2 bóng trước mặt cùng lúc — tổng 4 lượt."
-      },
-      {
-        "title": "Đi bộ between-the-legs",
-        "detail": "Đi bộ hết sân, nảy cả 2 bóng qua chân mỗi bước, rồi quay về bằng crossover."
-      }
-    ],
     "coachingPoints": [
-      "Đập bóng mạnh — rê yếu bóng nảy về tay muộn và ép bạn phải cúi nhìn.",
-      "Dùng đầu ngón tay và cổ tay, không dùng lòng bàn tay; bóng phải xoáy sạch.",
-      "Giữ thấp trong tư thế thể thao — rê bóng diễn ra dưới đầu gối, không phải ngang hông.",
-      "Mắt luôn nhìn lên; mất bóng không sao, cúi nhìn mới là vấn đề."
+      "Pound bóng — rê yếu bóng nảy về tay muộn, ép mình phải cúi nhìn.",
+      "Dùng đầu ngón tay và búng cổ tay, không dùng lòng bàn tay; bóng phải xoáy sạch.",
+      "Giữ thấp ở tư thế thể thao — rê bóng dưới gối, không ngang hông.",
+      "Mắt luôn nhìn lên; mất bóng không sao, cúi nhìn mới không được."
     ],
     "commonMistakes": [
-      "Rê bằng lòng bàn tay — bóng đập bẹt và nảy lệch; giữ tiếp xúc ở đệm ngón tay.",
-      "Đứng thẳng và rê cao — hạ hông để bóng được bảo vệ và nhanh."
+      "Rê bằng lòng bàn tay — bóng đập bẹt và nảy lệch; giữ tiếp xúc ở đầu ngón tay.",
+      "Đứng thẳng rê cao — hạ hông để bóng được che chắn và nhanh."
     ],
-    "progression": "Thực hiện chuỗi khi di chuyển ở tốc độ chạy bộ, thêm bàn tay hậu vệ vẫy trước mặt, hoặc thực hiện các động tác (crossover, between-the-legs) với 2 bóng khi di chuyển.",
-    "regression": "Chỉ dùng 1 bóng, chậm nhịp lại, hoặc thực hiện chuỗi đứng yên thay vì đi bộ.",
-    "gameApplication": "Tập 2 bóng rèn khả năng kiểm soát tay yếu để bạn tấn công được cả hai hướng trong trận — hậu vệ sẽ khai thác những cầu thủ chỉ đi được một hướng.",
-    "players": "1",
+    "description": "Chuỗi dẫn bóng 2 bóng tiến bộ: xây dựng khả năng dùng 2 tay đều nhau, sự tự tin tay không thuận và khả năng rê bóng mắt nhìn lên.",
     "equipment": [
       "Bóng rổ",
       "Bóng rổ"
-    ]
+    ],
+    "gameApplication": "Tập 2 bóng rèn khả năng kiểm soát tay không thuận để tấn công được cả hai hướng trong trận — hậu vệ luôn khai thác người chỉ đi được một hướng.",
+    "goal": "Phát triển khả năng kiểm soát đều ở cả hai tay và rê bóng mà không cần cúi nhìn bóng.",
+    "instructions": [
+      {
+        "detail": "Pound cả hai bóng cùng lúc trong 30 giây, thấp và mạnh, mắt nhìn lên.",
+        "title": "Pound hai bóng cùng lúc"
+      },
+      {
+        "detail": "Rê hai bóng nhịp xen kẽ — trái-phải-trái-phải — trong 30 giây.",
+        "title": "Rê xen kẽ"
+      },
+      {
+        "detail": "Một bóng thấp và nhanh, một bóng cao và chậm trong 30 giây, rồi đổi tay.",
+        "title": "Một cao một thấp"
+      },
+      {
+        "detail": "Đi bộ hết chiều dài sân, crossover cả hai bóng trước người cùng lúc — tổng 4 lượt sân.",
+        "title": "Crossover khi di chuyển"
+      },
+      {
+        "detail": "Đi bộ dọc sân, mỗi bước nảy cả hai bóng xỏ háng, rồi quay lại bằng crossover.",
+        "title": "Xỏ háng khi đi bộ"
+      }
+    ],
+    "players": "1",
+    "progression": "Thực hiện chuỗi khi di chuyển ở tốc độ chạy bộ, thêm bàn tay hậu vệ vẫy trước mặt, hoặc làm động tác (crossover, xỏ háng) với 2 bóng khi di chuyển.",
+    "regression": "Chỉ dùng 1 bóng, chậm nhịp lại, hoặc thực hiện chuỗi đứng yên thay vì đi bộ.",
+    "setup": [
+      "Tìm mặt phẳng có chỗ di chuyển — nửa sân hoặc một lane trống là đủ.",
+      "Dùng hai quả bóng; nếu có, tay thuận có thể dùng bóng hơi xẹp hoặc bóng nặng.",
+      "Mắt luôn nhìn lên — chọn một điểm trên tường hoặc vành rổ để nhìn."
+    ],
+    "title": "Chuỗi rê 2 bóng"
   }
 }

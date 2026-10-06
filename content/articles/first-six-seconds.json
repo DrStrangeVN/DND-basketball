@@ -1,120 +1,120 @@
 {
- "title": "The First Six Seconds",
- "description": "Basketball's most efficient offense lives in the first six seconds of the shot clock — here's how to own them.",
- "hub": "transition",
- "subcategory": "transition",
- "level": "intermediate",
- "positions": [
-  "ALL"
- ],
- "ages": [
-  "U14",
-  "U16",
-  "U18",
-  "Adult"
- ],
- "readTime": 5,
- "tags": [
-  "transition",
-  "shot clock",
-  "efficiency"
- ],
- "whatIsIt": [
-  "The first six seconds of a possession — from rebound or make to the first real action — produce the highest points-per-possession in basketball. Defenses are unmatched, unbalanced, and communicating; offenses that attack this window shoot layups and open threes instead of contested jumpers.",
-  "Owning the first six seconds is a team skill, not just speed. It requires outlet habits, lane discipline, early decision-making, and the courage to attack before everything looks perfect."
- ],
- "whyItMatters": [
-  "Analytics are brutal on this point: early-clock shots are worth dramatically more than late-clock shots. A team that consistently attacks in the first six seconds effectively plays a different, easier game than one that walks into the same half-court defense every trip."
- ],
- "howTo": [
-  {
-   "title": "Win the first two seconds",
-   "detail": "The rebounder outlets in under 2 seconds and the wings sprint. Most teams lose the first six seconds right here — jogging the ball up while the defense sets."
-  },
-  {
-   "title": "Attack with numbers",
-   "detail": "Push the ball to create a numbers advantage — 3-on-2, 2-on-1. Don't wait for all five; attack the advantage you have right now."
-  },
-  {
-   "title": "Take the great early shot",
-   "detail": "A wide-open corner three at second 4 beats a contested midrange at second 18 every time. Teach your team which early shots are green lights."
-  },
-  {
-   "title": "Have a six-second rule",
-   "detail": "If nothing's there by second 6, flow into offense — don't force it. The rule gives players permission to be aggressive early and discipline to stop forcing late."
-  }
- ],
- "coachingPoints": [
-  "Track it: chart how many possessions get a shot off in the first 8 seconds. What gets measured gets attacked.",
-  "The first six seconds start on defense — a great box-out is the first step of early offense.",
-  "Not every player has a green light at second 4 — define roles clearly."
- ],
- "commonMistakes": [
-  "Confusing fast with rushed — sprinting into a bad shot isn't owning the window.",
-  "The point guard outrunning his teammates and going 1-on-3.",
-  "Walking the ball up after a make — the easiest six seconds to steal, wasted."
- ],
- "gameSituations": [
-  "After opponent makes: the defense relaxes — steal six seconds.",
-  "Vs older, slower teams — run them into the ground early.",
-  "When your half-court offense stalls — manufacture easy points in transition."
- ],
- "related": [
-  "transition-offense",
-  "secondary-break",
-  "advancing-the-ball",
-  "transition-decision-making"
- ],
- "vi": {
-  "title": "Sáu Giây Đầu Tiên",
-  "description": "Tấn công hiệu quả nhất trong bóng rổ nằm trong sáu giây đầu của đồng hồ — đây là cách làm chủ chúng.",
-  "whatIsIt": [
-   "Sáu giây đầu của một possession — từ rebound hoặc ghi điểm đến bài đánh thực sự đầu tiên — cho điểm mỗi possession cao nhất trong bóng rổ. Hàng thủ chưa kèm người, mất cân bằng, đang hô nhau; tấn công đánh vào khoảng này được ném layup và ba điểm trống thay vì ném khó.",
-   "Làm chủ sáu giây đầu là kỹ năng của cả đội, không chỉ tốc độ. Nó cần thói quen outlet, kỷ luật lane, ra quyết định sớm, và dũng khí tấn công trước khi mọi thứ trông hoàn hảo."
-  ],
-  "whyItMatters": [
-   "Số liệu rất phũ về điểm này: cú ném sớm giá trị hơn hẳn cú ném muộn. Đội tấn công đều đặn trong sáu giây đầu thực chất đang chơi một trận khác, dễ hơn, so với đội cứ đi bộ vào cùng một hàng thủ half-court mỗi lượt."
-  ],
-  "howTo": [
-   {
-    "title": "Thắng hai giây đầu",
-    "detail": "Người rebound outlet trong dưới 2 giây và các wing chạy nước rút. Hầu hết các đội thua sáu giây đầu ngay đây — dẫn bộ bóng lên trong khi hàng thủ ổn định."
-   },
-   {
-    "title": "Tấn công với lợi thế số",
-    "detail": "Đẩy bóng tạo lợi thế số — 3-đánh-2, 2-đánh-1. Đừng chờ đủ năm người; tấn công lợi thế bạn đang có ngay."
-   },
-   {
-    "title": "Ném cú tốt từ sớm",
-    "detail": "Một cú ba góc trống ở giây thứ 4 hơn cú tầm trung khó ở giây 18 mọi lần. Dạy đội bạn những cú ném sớm nào được đèn xanh."
-   },
-   {
-    "title": "Có quy tắc sáu giây",
-    "detail": "Nếu đến giây 6 không có gì, chảy vào tấn công — đừng cố. Quy tắc cho cầu thủ quyền hung hăng sớm và kỷ luật ngừng cố muộn."
-   }
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
   ],
   "coachingPoints": [
-   "Theo dõi nó: thống kê bao nhiêu possession ném trong 8 giây đầu. Cái gì được đo sẽ được tấn công.",
-   "Sáu giây đầu bắt đầu từ phòng thủ — một pha box-out tốt là bước đầu của tấn công sớm.",
-   "Không phải cầu thủ nào cũng có đèn xanh ở giây 4 — định nghĩa vai trò rõ ràng."
+    "Track it: chart how many possessions get a shot off in the first 8 seconds. What gets measured gets attacked.",
+    "The first six seconds start on defense — a great box-out is the first step of early offense.",
+    "Not every player has a green light at second 4 — define roles clearly."
   ],
   "commonMistakes": [
-   "Nhầm nhanh với vội — chạy nước rút vào cú ném tệ không phải làm chủ khoảng thời gian.",
-   "Point guard chạy vượt đồng đội rồi 1-đánh-3.",
-   "Dẫn bộ bóng lên sau khi đối thủ ghi điểm — sáu giây dễ cướp nhất bị phí."
+    "Confusing fast with rushed — sprinting into a bad shot isn't owning the window.",
+    "The point guard outrunning his teammates and going 1-on-3.",
+    "Walking the ball up after a make — the easiest six seconds to steal, wasted."
   ],
+  "dateUpdated": "2026-10-06",
+  "description": "Basketball's most efficient offense lives in the first six seconds of the shot clock — here's how to own them.",
   "gameSituations": [
-   "Sau khi đối thủ ghi điểm: hàng thủ thả lỏng — cướp sáu giây.",
-   "Trước các đội già, chậm — chạy họ kiệt sức từ sớm.",
-   "Khi tấn công half-court bế tắc — tạo điểm dễ trong transition."
+    "After opponent makes: the defense relaxes — steal six seconds.",
+    "Vs older, slower teams — run them into the ground early.",
+    "When your half-court offense stalls — manufacture easy points in transition."
   ],
+  "howTo": [
+    {
+      "detail": "The rebounder outlets in under 2 seconds and the wings sprint. Most teams lose the first six seconds right here — jogging the ball up while the defense sets.",
+      "title": "Win the first two seconds"
+    },
+    {
+      "detail": "Push the ball to create a numbers advantage — 3-on-2, 2-on-1. Don't wait for all five; attack the advantage you have right now.",
+      "title": "Attack with numbers"
+    },
+    {
+      "detail": "A wide-open corner three at second 4 beats a contested midrange at second 18 every time. Teach your team which early shots are green lights.",
+      "title": "Take the great early shot"
+    },
+    {
+      "detail": "If nothing's there by second 6, flow into offense — don't force it. The rule gives players permission to be aggressive early and discipline to stop forcing late.",
+      "title": "Have a six-second rule"
+    }
+  ],
+  "hub": "transition",
+  "id": "first-six-seconds",
+  "level": "intermediate",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 5,
+  "related": [
+    "transition-offense",
+    "secondary-break",
+    "advancing-the-ball",
+    "transition-decision-making"
+  ],
+  "slug": "first-six-seconds",
+  "subcategory": "transition",
   "tags": [
-   "transition",
-   "phản công",
-   "hiệu suất"
+    "transition",
+    "shot clock",
+    "efficiency"
+  ],
+  "title": "The First Six Seconds",
+  "vi": {
+    "coachingPoints": [
+      "Theo dõi: đếm bao nhiêu đợt tấn công có cú ném trong 8 giây đầu. Cái gì được đo sẽ được tấn công",
+      "Sáu giây đầu bắt đầu từ phòng thủ — box out tốt là bước đầu của tấn công sớm",
+      "Không phải ai cũng được đèn xanh ở giây thứ 4 — phân vai rõ ràng"
+    ],
+    "commonMistakes": [
+      "Nhầm nhanh với vội — chạy nước rút vào cú ném tệ không phải làm chủ cửa sổ",
+      "Hậu vệ dẫn bóng chạy nhanh hơn đồng đội, một mình 1-đánh-3",
+      "Dẫn bóng thong thả lên sau khi ghi điểm — sáu giây dễ cướp nhất bị phí hoài"
+    ],
+    "description": "Tấn công hiệu quả nhất bóng rổ sống trong sáu giây đầu của đồng hồ ném rổ — cách làm chủ chúng.",
+    "gameSituations": [
+      "Sau khi đối phương ghi điểm: hàng thủ thả lỏng — cướp sáu giây",
+      "Trước đội già, chậm — chạy cho họ kiệt sức từ sớm",
+      "Khi tấn công nửa sân bế tắc — tự tạo điểm dễ từ phản công"
+    ],
+    "howTo": [
+      {
+        "detail": "Người rebound chuyền phát động trong dưới 2 giây, cánh chạy nước rút. Hầu hết đội thua sáu giây đầu ngay đây — dẫn bóng thong thả lên trong khi hàng thủ đứng vững.",
+        "title": "Thắng hai giây đầu"
+      },
+      {
+        "detail": "Đẩy bóng để tạo hơn người — 3-đánh-2, 2-đánh-1. Đừng chờ đủ năm người; tấn công lợi thế đang có ngay lúc này.",
+        "title": "Tấn công khi hơn người"
+      },
+      {
+        "detail": "Quả 3 điểm góc trống ở giây thứ 4 hơn cú tầm trung bị kèm ở giây 18 mọi lần. Dạy đội bạn cú ném đầu giờ nào được đèn xanh.",
+        "title": "Ném cú tốt đầu giờ"
+      },
+      {
+        "detail": "Đến giây 6 mà không có gì, chuyển vào bài tấn công — đừng cố. Luật này cho cầu thủ quyền máu lửa đầu giờ và kỷ luật ngừng cố cuối giờ.",
+        "title": "Có luật sáu giây"
+      }
+    ],
+    "tags": [
+      "phản công nhanh",
+      "đồng hồ 24 giây",
+      "hiệu suất"
+    ],
+    "title": "Sáu giây đầu tiên",
+    "whatIsIt": [
+      "Sáu giây đầu của một đợt tấn công — từ rebound hoặc sau khi ghi điểm đến hành động thật đầu tiên — cho điểm mỗi đợt cao nhất bóng rổ. Hàng thủ chưa kèm người, mất cân bằng, đang hô nhau; đội tấn công cửa sổ này ném layup và 3 điểm trống thay vì jumper bị kèm.",
+      "Làm chủ sáu giây đầu là kỹ năng tập thể, không chỉ tốc độ. Nó đòi hỏi thói quen chuyền phát động, kỷ luật làn đường, ra quyết định sớm, và dũng khí tấn công trước khi mọi thứ trông hoàn hảo."
+    ],
+    "whyItMatters": [
+      "Số liệu phũ phàng ở điểm này: cú ném đầu đồng hồ giá trị hơn hẳn cú ném cuối đồng hồ. Đội liên tục tấn công trong sáu giây đầu thực chất chơi một trò khác, dễ hơn hẳn đội cứ đi bộ vào cùng một hàng thủ nửa sân mỗi đợt."
+    ]
+  },
+  "whatIsIt": [
+    "The first six seconds of a possession — from rebound or make to the first real action — produce the highest points-per-possession in basketball. Defenses are unmatched, unbalanced, and communicating; offenses that attack this window shoot layups and open threes instead of contested jumpers.",
+    "Owning the first six seconds is a team skill, not just speed. It requires outlet habits, lane discipline, early decision-making, and the courage to attack before everything looks perfect."
+  ],
+  "whyItMatters": [
+    "Analytics are brutal on this point: early-clock shots are worth dramatically more than late-clock shots. A team that consistently attacks in the first six seconds effectively plays a different, easier game than one that walks into the same half-court defense every trip."
   ]
- },
- "id": "first-six-seconds",
- "slug": "first-six-seconds",
- "dateUpdated": "2026-10-06"
 }

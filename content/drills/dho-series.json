@@ -65,47 +65,47 @@
   ],
   "dateUpdated": "2026-10-06",
   "vi": {
-    "title": "Chuỗi Dribble Handoff",
-    "description": "Dribble handoff với đủ ba cách đọc: giữ bóng vượt qua, reject cắt backdoor, hoặc snake quay lại giữa khi hàng thủ bắt bài.",
-    "goal": "Chạy DHO sạch và đọc đúng — keep, reject hay snake — dựa vào cách hậu vệ xử lý.",
-    "setup": [
-      "Người cầm bóng bắt đầu ở wing; người nhận bắt đầu ở slot.",
-      "Một hậu vệ kèm người nhận.",
-      "Sau handoff thì đấu live nửa sân."
-    ],
-    "instructions": [
-      {
-        "title": "Giữ bóng vượt qua",
-        "detail": "Nhận handoff, vượt sát hông người giao bóng rồi tấn công rổ."
-      },
-      {
-        "title": "Reject cắt backdoor",
-        "detail": "Khi hậu vệ nhảy qua handoff sớm, reject và cắt backdoor nhận bóng trả lại."
-      },
-      {
-        "title": "Snake về giữa",
-        "detail": "Nếu hàng thủ switch hoặc bắt bài, snake bóng về giữa để pull-up hoặc pocket pass."
-      },
-      {
-        "title": "Đấu live 2v2",
-        "detail": "Chơi DHO live 2v2 chạm 3 lần thủng lưới; người nhận phải hô to cách đọc."
-      }
-    ],
     "coachingPoints": [
       "Trao bóng đúng tầm tay người nhận — handoff ẩu dễ bị cướp.",
-      "Người nhận phải đánh lừa hậu vệ ra xa handoff trước.",
-      "Đọc hông hậu vệ, không phải đọc bóng."
+      "Người nhận phải đánh lừa cầu thủ phòng thủ ra xa điểm handoff trước.",
+      "Đọc hông của cầu thủ phòng thủ, không phải đọc bóng."
     ],
     "commonMistakes": [
-      "Chạy đâm vào chính người giao bóng — spacing là tất cả.",
-      "Quyết định cách đọc trước khi hậu vệ lộ ý đồ."
+      "Chạy đâm vào chính người giao bóng — giãn đội hình là tất cả.",
+      "Quyết định cách đọc trước khi cầu thủ phòng thủ lộ ý đồ."
     ],
-    "progression": "Chơi 3v3 với help defense xoay theo DHO.",
-    "regression": "Đi bộ qua từng cách đọc 5 lần không phòng thủ trước.",
-    "gameApplication": "DHO là pick-and-roll hiện đại cho người không phải big man — đội nào đọc đúng sẽ tạo ra 3 điểm trống và layup mỗi lượt tấn công.",
-    "players": "3",
+    "description": "Dribble handoff với đủ ba cách đọc: giữ bóng vượt qua, reject cắt backdoor, hoặc snake quay lại giữa khi hàng thủ bắt bài.",
     "equipment": [
       "Bóng rổ"
-    ]
+    ],
+    "gameApplication": "DHO là pick-and-roll hiện đại cho người không phải big man — đội nào đọc đúng sẽ tạo ra những cú ném 3 điểm trống và layup mỗi đợt tấn công.",
+    "goal": "Chạy DHO sạch và đọc đúng — giữ bóng, reject hay snake — dựa vào cách cầu thủ phòng thủ xử lý.",
+    "instructions": [
+      {
+        "detail": "Nhận handoff, vượt sát hông người giao bóng rồi tấn công rổ.",
+        "title": "Giữ bóng vượt qua"
+      },
+      {
+        "detail": "Khi cầu thủ phòng thủ nhảy qua handoff sớm, reject và cắt backdoor nhận bóng trả lại.",
+        "title": "Reject cắt backdoor"
+      },
+      {
+        "detail": "Nếu hàng thủ switch hoặc bắt bài, snake bóng về giữa để pull-up hoặc pocket pass.",
+        "title": "Snake về giữa sân"
+      },
+      {
+        "detail": "Chơi DHO live 2 đấu 2 đến 3 lần chặn đứng; người nhận phải hô to cách đọc.",
+        "title": "Đấu live 2 đấu 2"
+      }
+    ],
+    "players": "3",
+    "progression": "Chơi 3 đấu 3 với hàng thủ hỗ trợ xoay theo DHO.",
+    "regression": "Đi bộ qua từng cách đọc 5 lần không phòng thủ trước.",
+    "setup": [
+      "Người cầm bóng bắt đầu ở cánh; người nhận bắt đầu ở vị trí slot.",
+      "Một cầu thủ phòng thủ kèm người nhận.",
+      "Sau handoff thì đấu live nửa sân."
+    ],
+    "title": "Chuỗi dribble handoff (DHO)"
   }
 }

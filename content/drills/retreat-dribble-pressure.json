@@ -66,48 +66,48 @@
   ],
   "dateUpdated": "2026-10-06",
   "vi": {
-    "title": "Retreat Dribble Trước Áp Lực",
-    "description": "Dạy động tác retreat dribble để thoát khỏi kèm người 1-1 với hậu vệ thật, bao gồm nhịp dẫn nhử và tái tấn công.",
-    "goal": "Thoát áp lực kèm bóng bằng retreat dribble có kiểm soát và tái tấn công giữ thăng bằng.",
-    "setup": [
-      "Chia cặp, mỗi cặp một bóng; một người tấn công, một người phòng ngự thật.",
-      "Bắt đầu ở vạch giữa sân, hậu vệ đứng phòng ngự hợp lệ cách 1m.",
-      "Đánh dấu hành lang rộng 4m bằng cọc tiêu để hậu vệ phòng ngự đúng."
-    ],
-    "instructions": [
-      {
-        "title": "Cảm Nhận Áp Lực",
-        "detail": "Hậu vệ áp sát và gây áp lực thật trong 5 giây, người tấn công chỉ giữ bóng. Chưa retreat — đứng thấp, bóng sát người, mắt nhìn lên. Xong mỗi rep thì reset."
-      },
-      {
-        "title": "Retreat Khi Bị Ép",
-        "detail": "Khi hậu vệ lao tới hoặc với tay, lùi 2-3 nhịp retreat dribble dài thẳng về sau bằng drop step, giữ bóng ở hông ngoài. Bóng phải thấp dưới gối."
-      },
-      {
-        "title": "Tái Tấn Công Rổ",
-        "detail": "Sau khi retreat tạo khoảng trống 1.5-2m, bùng nổ 2 nhịp dẫn mạnh rồi tấn công rổ hoặc pull-up. Hậu vệ vẫn kèm thật suốt đường."
-      },
-      {
-        "title": "Đổi Vai Và Thêm Screen",
-        "detail": "Đổi vai sau mỗi 6 rep. Bản nâng cao: thêm người thứ ba làm screen ở giữa sân — người cầm bóng retreat thoát áp lực rồi dùng screen tái tấn công."
-      }
-    ],
     "coachingPoints": [
-      "Retreat có mục đích: nhịp dẫn dài và thấp, không bao giờ nảy cao để hậu vệ chọc.",
-      "Luôn giữ thân người giữa hậu vệ và bóng.",
-      "Mắt nhìn lên khi retreat để quan sát sân và đường tái tấn công.",
-      "Nhử bằng vai khi retreat, rồi đổi tốc độ mạnh khi tái tấn công."
+      "Lùi có chủ đích: nhịp dẫn dài và thấp, đừng bao giờ nảy bóng cao để hậu vệ chọc.",
+      "Luôn giữ thân người chắn giữa hậu vệ và bóng.",
+      "Mắt nhìn lên khi lùi để quan sát sân và đường tái tấn công.",
+      "Nhử bằng vai khi lùi, rồi đổi tốc độ thật mạnh khi tái tấn công."
     ],
     "commonMistakes": [
-      "Retreat thẳng ra biên hoặc vào bẫy — nên lùi chếch về giữa sân.",
-      "Nhấc bóng lên khi retreat, làm hỏng pha thoát."
+      "Lùi thẳng ra biên hoặc lùi vào bẫy — lùi chếch về giữa sân.",
+      "Nhấc bóng lên giữa lúc lùi, tự giết chết pha thoát."
     ],
-    "progression": "Thêm hậu vệ thứ hai mô phỏng bẫy double team; người cầm bóng phải retreat, xé hoặc chuyền thoát.",
-    "regression": "Tập với hậu vệ thụ động chỉ theo kèm không với tay, tập trung vào footwork của retreat.",
-    "gameApplication": "Cách thoát chuẩn khi hậu vệ áp sát — retreat, tạo khoảng trống rồi tái tấn công thay vì mất bóng.",
-    "players": "2",
+    "description": "Dạy động tác retreat dribble thoát khỏi áp lực kèm bóng với hậu vệ thật — gồm nhịp dẫn nhử, lùi bóng và tái tấn công.",
     "equipment": [
       "Bóng rổ"
-    ]
+    ],
+    "gameApplication": "Đây là cách thoát chuẩn khi hậu vệ áp sát vào người — lùi bóng, tạo khoảng trống rồi tái tấn công thay vì để mất bóng.",
+    "goal": "Thoát áp lực kèm bóng bằng retreat dribble có kiểm soát rồi tái tấn công trong tư thế thăng bằng.",
+    "instructions": [
+      {
+        "detail": "Hậu vệ áp sát và gây áp lực thật trong 5 giây, người tấn công chỉ việc giữ bóng. Chưa lùi — đứng thấp, bóng sát người, mắt nhìn lên. Xong mỗi lượt thì làm lại.",
+        "title": "Cảm nhận áp lực"
+      },
+      {
+        "detail": "Khi hậu vệ lao tới hoặc với tay, lùi 2–3 nhịp dẫn dài thẳng về sau bằng drop step, giữ bóng ở hông ngoài. Bóng luôn thấp dưới gối.",
+        "title": "Lùi bóng khi bị ép"
+      },
+      {
+        "detail": "Khi đã tạo được khoảng trống 1,2–1,8m, bùng nổ 2 nhịp dẫn mạnh rồi tấn công rổ hoặc pull-up. Hậu vệ kèm thật suốt đường.",
+        "title": "Tái tấn công rổ"
+      },
+      {
+        "detail": "Đổi vai sau mỗi 6 lượt. Bản nâng cao: thêm người thứ ba làm screen ở giữa sân — người cầm bóng retreat thoát áp lực rồi dùng screen tái tấn công.",
+        "title": "Đổi vai và thêm screen"
+      }
+    ],
+    "players": "2",
+    "progression": "Thêm hậu vệ thứ hai mô phỏng bẫy double team; người cầm bóng phải lùi, xé đôi hoặc chuyền thoát.",
+    "regression": "Tập với hậu vệ thụ động chỉ theo kèm không với tay, tập trung vào bộ chân của pha lùi.",
+    "setup": [
+      "Chia cặp, mỗi cặp một bóng; một người tấn công, một người phòng thủ thật.",
+      "Xuất phát ở vạch giữa sân, hậu vệ đứng phòng thủ hợp lệ cách 1m.",
+      "Dùng cọc tiêu đánh dấu hành lang rộng 3,7m để hậu vệ giữ đúng vị trí, không gian lận."
+    ],
+    "title": "Retreat dribble trước áp lực"
   }
 }

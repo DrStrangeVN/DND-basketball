@@ -70,54 +70,54 @@
   ],
   "dateUpdated": "2026-10-06",
   "vi": {
-    "title": "Closeout Rồi Contest",
-    "description": "Bứt tốc từ vị trí help, giảm tốc vào closeout thăng bằng, contest cú ném bằng tay giơ cao — rồi block out.",
-    "goal": "Closeout trong kiểm soát dưới 2 giây, contest bằng tay giơ cao mà không phạm lỗi, và kết thúc bằng pha block out người ném.",
-    "setup": [
-      "Hậu vệ đứng ở vạch ném phạt (vị trí help); người ném đứng ở cánh với bóng.",
-      "Khi có đường chuyền hoặc hiệu lệnh của HLV, hậu vệ bứt tốc closeout.",
-      "Người ném ném một quả mỗi lượt; hậu vệ contest rồi block out.",
-      "8 lượt mỗi bên, sau đó đổi vai; đếm số pha contest khiến đối phương ném trượt."
-    ],
-    "instructions": [
-      {
-        "title": "Bứt tốc 12 feet đầu",
-        "detail": "Bật ra khỏi tư thế thủ và chạy hết tốc — 2/3 đầu của closeout hoàn toàn là tốc độ."
-      },
-      {
-        "title": "Giảm tốc từ sớm",
-        "detail": "Nhỏ bước chân trong 6 feet cuối (1,8m), hạ thấp trọng tâm với chân trụ rộng, ngực hướng về người ném."
-      },
-      {
-        "title": "Contest bằng tay cao",
-        "detail": "Giơ tay trong lên cao để che tầm nhìn người ném; đừng bao giờ nhảy vào vùng tiếp đất của họ."
-      },
-      {
-        "title": "Block out khi bóng rời tay",
-        "detail": "Ngay khi bóng rời tay đối phương, tìm người họ, tạo va chạm rồi lao vào tranh rebound."
-      },
-      {
-        "title": "Hồi vị và lặp lại",
-        "detail": "Chạy nhanh về vị trí help sau mỗi lượt — closeout trong trận đến theo từng đợt, nên phải tập cả pha hồi về."
-      }
-    ],
     "coachingPoints": [
-      "Bước ngắn, nhanh ở đoạn cuối — sải dài là bay qua mặt người ném.",
+      "Bước ngắn, nhanh ở đoạn cuối — sải chân dài là bay qua mặt người ném.",
       "Contest bằng tay gần bóng nhất, giơ thẳng lên cao — không quạt tay xuống.",
-      "Giữ chân trên mặt đất; shot fake luôn thắng pha contest bằng nhảy lên.",
-      "Closeout chưa xong cho đến khi block out — contest trước, va chạm sau."
+      "Giữ chân trên mặt đất; động tác giả luôn thắng pha contest bằng bật nhảy.",
+      "Closeout chưa xong cho đến khi box out — contest trước, va chạm sau."
     ],
     "commonMistakes": [
-      "Lao hết tốc xuyên qua người ném — hoặc phạm lỗi hoặc bị qua mặt; hãy giảm tốc từ sớm.",
+      "Lao hết tốc xuyên qua người ném — hoặc phạm lỗi hoặc bị qua mặt; ghìm bước từ sớm.",
       "Contest bằng tay thấp ngang hông người ném — vừa phạm lỗi vừa chẳng che được gì.",
-      "Mải nhìn đường bóng bay mà quên block out — tìm người trước đã."
+      "Mải nhìn đường bóng bay mà quên box out — tìm người trước đã."
     ],
-    "progression": "Cho người ném được drive khi closeout mạnh, buộc thành chuỗi closeout-rồi-slide thật, hoặc cho hậu vệ xuất phát từ block đối diện.",
-    "regression": "Đi bộ qua footwork closeout không cần người ném, hoặc cho người ném chỉ giữ bóng chứ không ném.",
-    "gameApplication": "Mọi đợt phòng ngự đều kết thúc bằng closeout — bứt tốc trong kiểm soát và contest không phạm lỗi biến những cú ném trống thành những cú ném bị contest trượt.",
-    "players": "2+",
+    "description": "Bứt tốc từ vị trí hỗ trợ, ghìm bước vào closeout cân bằng và contest cú ném bằng tay giơ cao — rồi box out.",
     "equipment": [
       "Bóng rổ"
-    ]
+    ],
+    "gameApplication": "Mọi đợt phòng thủ đều kết thúc bằng closeout — bứt tốc trong kiểm soát và contest không phạm lỗi biến những cú ném trống thành những cú ném bị contest trượt.",
+    "goal": "Closeout trong kiểm soát dưới 2 giây, contest bằng tay giơ cao mà không phạm lỗi, và kết thúc bằng pha box out người ném.",
+    "instructions": [
+      {
+        "detail": "Bật khỏi tư thế thủ và chạy hết tốc — hai phần ba đầu của closeout hoàn toàn là tốc độ.",
+        "title": "Bứt tốc 3,6m đầu"
+      },
+      {
+        "detail": "Chuyển sang bước ngắn trong 1,8m cuối, hạ thấp trọng tâm với chân rộng, ngực hướng về người ném.",
+        "title": "Ghìm bước từ sớm"
+      },
+      {
+        "detail": "Giơ tay trong lên cao để che tầm nhìn người ném; không bao giờ nhảy vào vùng tiếp đất của họ.",
+        "title": "Contest bằng tay giơ cao"
+      },
+      {
+        "detail": "Ngay khi bóng rời tay đối phương, tìm người họ, tạo va chạm rồi lao vào tranh rebound.",
+        "title": "Box out khi bóng rời tay"
+      },
+      {
+        "detail": "Chạy nhanh về vị trí hỗ trợ sau mỗi lượt — closeout trong trận đến theo từng đợt, nên phải tập cả pha hồi về.",
+        "title": "Hồi vị và lặp lại"
+      }
+    ],
+    "players": "2+",
+    "progression": "Cho người ném được đột phá khi closeout mạnh, buộc thành chuỗi closeout-rồi-slide thật, hoặc cho cầu thủ phòng thủ xuất phát từ block đối diện.",
+    "regression": "Đi bộ qua bộ chân closeout không cần người ném, hoặc cho người ném chỉ giữ bóng chứ không ném.",
+    "setup": [
+      "Cầu thủ phòng thủ đứng ở vạch ném phạt (vị trí hỗ trợ); người ném đứng ở cánh cầm bóng.",
+      "Khi có đường chuyền hoặc hiệu lệnh của HLV, cầu thủ phòng thủ bứt tốc closeout.",
+      "Người ném ném một quả mỗi lượt; cầu thủ phòng thủ contest rồi box out.",
+      "8 lượt mỗi bên rồi đổi vai; đếm số pha contest khiến đối phương ném trượt."
+    ],
+    "title": "Closeout rồi contest"
   }
 }

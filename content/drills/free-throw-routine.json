@@ -39,48 +39,48 @@
   "related": ["form-shooting","spot-shooting-ladder"],
   "dateUpdated": "2026-10-06",
   "vi":   {
-    "title": "Nghi Thức Ném Phạt",
-    "description": "Bài tập xây dựng áp lực biến cú ném phạt của bạn thành nghi thức tự động, lặp lại được — rồi kiểm tra nó dưới áp lực như trong trận.",
-    "goal": "Khóa chặt nghi thức trước khi ném (pre-shot routine) ổn định và xây dựng sự tự tin ném phạt dưới áp lực mô phỏng.",
-    "setup": [
-      "Bắt đầu ở vạch ném phạt với một quả bóng.",
-      "Quyết định nghi thức cá nhân trước: ví dụ 2 nhịp rê, xoay bóng, hít thở sâu — giữ dưới 10 giây.",
-      "Bạn cần không gian để chạy nước rút hoặc tập thể lực nhanh giữa các vòng cho giai đoạn áp lực."
-    ],
-    "instructions": [
-      {
-        "title": "Ném 10 quả phạt theo nghi thức",
-        "detail": "Ném 10 quả phạt với đúng nghi thức của bạn ở mọi lượt — cùng số nhịp rê, cùng hơi thở, cùng nhịp điệu."
-      },
-      {
-        "title": "Thêm áp lực nhẹ",
-        "detail": "Chạy nước rút nửa sân đi-về, rồi ném ngay 2 quả phạt với nghi thức trong khi nhịp tim còn cao."
-      },
-      {
-        "title": "Tăng mức cược",
-        "detail": "Ném theo cặp: trượt 1 trong 2 quả thì chạy nước rút lại; vào cả 2 thì nghỉ 20 giây rồi tiếp tục. Thực hiện 5 cặp."
-      },
-      {
-        "title": "Chốt bằng mục tiêu swish",
-        "detail": "Kết thúc bằng 3 cú swish liên tiếp — chỉ tính bóng chạm lưới, chạm vành thì đếm lại từ đầu."
-      }
-    ],
     "coachingPoints": [
-      "Nghi thức không bao giờ thay đổi — cùng nhịp rê, cùng tư thế, cùng hơi thở, mọi lần.",
-      "Ném cú ném tự nhiên của bạn; ném phạt chỉ là form shooting khi đứng yên.",
-      "Mắt nhìn vào mép trước của vành hoặc một móc rổ cụ thể — chọn một điểm ngắm, không phải cả cái rổ.",
-      "Giữ follow-through đến khi bóng chạm vành."
+      "Nghi thức không đổi — cùng nhịp rê, cùng tư thế, cùng hơi thở, mọi lần.",
+      "Ném cú ném tự nhiên của mình; ném phạt chỉ là chỉnh form ném khi đứng yên.",
+      "Mắt khóa vào mép trước vành hoặc một điểm cụ thể trên vành — chọn một điểm ngắm, không phải cả cái rổ.",
+      "Giữ follow-through tới khi bóng chạm vành."
     ],
     "commonMistakes": [
-      "Vội vàng sau khi trượt — nghi thức giúp bạn reset, hãy dùng trọn vẹn thay vì ném trong bực tức.",
-      "Nín thở — thở ra khi ném để vai được thả lỏng."
+      "Vội vàng sau khi trượt — nghi thức là nút reset, dùng trọn vẹn thay vì ném trong bực tức.",
+      "Nín thở — thở ra khi ném để vai thả lỏng."
     ],
-    "progression": "Biến thành thắng-thua: 10 quả phạt, 7+ lần vào là thắng, dưới là thua và chịu phạt thể lực; hoặc thêm đồng đội đứng xem và đếm.",
-    "regression": "Bỏ các lượt chạy nước rút, ném từ cự ly 10 feet (3m) thay vì vạch phạt, hoặc chỉ tập các lượt nghi thức không áp lực.",
-    "gameApplication": "Ném phạt quyết định những trận đấu sát nút — một nghi thức được rèn kỹ giúp bạn ném ở hiệp 4 đúng như cú ném lúc khởi động.",
-    "players": "1",
+    "description": "Xây dựng nghi thức ném phạt thành phản xạ tự động, rồi kiểm tra nó dưới áp lực mô phỏng như trong trận.",
     "equipment": [
       "Bóng rổ"
-    ]
+    ],
+    "gameApplication": "Ném phạt quyết định những trận đấu sát nút — nghi thức được rèn kỹ giúp hiệp 4 ném đúng như lúc khởi động.",
+    "goal": "Khóa chặt nghi thức trước khi ném ổn định và tự tin ném phạt dưới áp lực mô phỏng.",
+    "instructions": [
+      {
+        "detail": "Ném 10 quả ném phạt với đúng nghi thức ở mọi lượt — cùng số nhịp rê, cùng hơi thở, cùng nhịp độ.",
+        "title": "Ném 10 quả phạt theo nghi thức"
+      },
+      {
+        "detail": "Sprint nửa sân đi-về, rồi ném ngay 2 quả phạt theo nghi thức khi nhịp tim còn cao.",
+        "title": "Thêm áp lực nhẹ"
+      },
+      {
+        "detail": "Ném theo cặp: trượt một trong hai quả thì chạy sprint lại; vào cả hai thì nghỉ 20 giây rồi tiếp tục. Làm 5 cặp.",
+        "title": "Tăng mức cược"
+      },
+      {
+        "detail": "Kết thúc bằng 3 cú swish liên tiếp — chỉ tính bóng chạm lưới, chạm vành thì đếm lại từ đầu.",
+        "title": "Chốt bằng mục tiêu swish"
+      }
+    ],
+    "players": "1",
+    "progression": "Biến thành thắng-thua: 10 quả phạt, trúng từ 7 trở lên là thắng, dưới là thua và chịu phạt thể lực; hoặc thêm đồng đội đứng xem và đếm.",
+    "regression": "Bỏ các lượt sprint, ném từ 3m thay vì vạch phạt, hoặc chỉ tập các lượt nghi thức không áp lực.",
+    "setup": [
+      "Đứng ở vạch ném phạt với một quả bóng.",
+      "Chốt nghi thức cá nhân trước: ví dụ 2 nhịp rê, xoay bóng, hít sâu — gói gọn trong 10 giây.",
+      "Chừa khoảng trống để sprint hoặc tập thể lực nhanh giữa các vòng cho giai đoạn áp lực."
+    ],
+    "title": "Nghi thức ném phạt (free-throw routine)"
   }
 }

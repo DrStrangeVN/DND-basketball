@@ -1,139 +1,140 @@
 {
- "ages": [
-  "U12",
-  "U14",
-  "U16",
-  "U18",
-  "Adult"
- ],
- "coachingPoints": [
-  "Keep finishers under 10 minutes — short, sharp, and high-stakes beats long and draining.",
-  "Rotate the game weekly so it stays fresh; retire any finisher players stop caring about.",
-  "Consequences should be effort-based (sprints, push-ups), never humiliation-based.",
-  "Let players call the scores and settle disputes — ownership of the game builds ownership of the team."
- ],
- "commonMistakes": [
-  "Running the same finisher for months until players go through the motions.",
-  "Making the consequence so harsh that players play scared instead of competitive.",
-  "Letting finishers run 20+ minutes and eating into the next day's legs.",
-  "Skipping the debrief — a 30-second 'what won that?' turns a game into a lesson."
- ],
- "dateUpdated": "2026-10-06",
- "description": "Short, high-stakes games to close practice with an edge — building competitiveness, clutch habits, and a winning culture.",
- "gameSituations": [
-  "Practice ends with a 3-minute free-throw pressure game instead of players jogging off casually.",
-  "Two teams battle in a full-court 4v4 where every basket is worth double in the final minute.",
-  "A shooting competition decides who runs sprints, and the gym is louder than most games."
- ],
- "howTo": [
-  {
-   "detail": "Split the squad into two teams for a 5-minute full-court game to 7, win by 2, losers run one suicide. Short clock forces urgency; the small consequence makes every possession matter without draining legs.",
-   "title": "Sudden-death scrimmage"
-  },
-  {
-   "detail": "Each player shoots two free throws; the team needs a combined percentage (e.g., 70%) to avoid running. Teammates rebound for each other and the pressure is shared. Track the team's percentage weekly and post it — improvement becomes the story.",
-   "title": "Pressure free-throw team challenge"
-  },
-  {
-   "detail": "Two lines at half court: one player drives full speed for a layup while a chaser sprints behind. Make the layup under pressure, sprint back, next pair goes. First team to 10 makes wins. It trains finishing with a defender closing — exactly the game skill that matters.",
-   "title": "Chaser layup race"
-  },
-  {
-   "detail": "3v3 half-court, first to 5 baskets, winners stay on. Losers do 10 push-ups and rotate back in. The king-of-the-court format creates natural rivalries and the short games keep intensity maxed — nobody coasts when the next game starts in 90 seconds.",
-   "title": "King of the court 3v3"
-  },
-  {
-   "detail": "One shooter, one rebounder per pair: 2 minutes, one point per make, minus one per miss from beyond the arc. Partners compete against every other pair. It ends practice with shooting under fatigue and a clear winner — and players beg for rematches.",
-   "title": "Two-minute shooting showdown"
-  }
- ],
- "hub": "coaching",
- "id": "end-of-practice-games",
- "level": "beginner",
- "positions": [
-  "ALL"
- ],
- "readTime": 5,
- "related": [
-  "practice-tempo",
-  "building-practice-culture",
-  "coaching-toughness",
-  "practice-planning",
-  "coaching-leadership"
- ],
- "slug": "end-of-practice-games",
- "subcategory": "practice-design",
- "tags": [
-  "practice-games",
-  "competitiveness",
-  "finishers",
-  "culture",
-  "clutch"
- ],
- "title": "Competitive Practice Finishers",
- "vi": {
+  "ages": [
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
   "coachingPoints": [
-   "Giữ các trò kết thúc dưới 10 phút — ngắn, sắc và kịch tính tốt hơn dài và kiệt sức.",
-   "Luân phiên trò chơi hàng tuần để luôn mới mẻ; loại bỏ trò nào mà cầu thủ không còn hứng thú.",
-   "Hình phạt nên dựa trên nỗ lực (chạy nước rút, chống đẩy), không bao giờ dựa trên làm nhục.",
-   "Để cầu thủ tự đếm điểm và giải quyết tranh cãi — sở hữu trò chơi tạo ra sở hữu đội bóng."
+    "Keep finishers under 10 minutes — short, sharp, and high-stakes beats long and draining.",
+    "Rotate the game weekly so it stays fresh; retire any finisher players stop caring about.",
+    "Consequences should be effort-based (sprints, push-ups), never humiliation-based.",
+    "Let players call the scores and settle disputes — ownership of the game builds ownership of the team."
   ],
   "commonMistakes": [
-   "Chạy cùng một trò kết thúc hàng tháng đến khi cầu thủ chỉ làm cho có.",
-   "Đặt hình phạt quá nặng khiến cầu thủ thi đấu trong sợ hãi thay vì cạnh tranh.",
-   "Để trò kết thúc kéo dài 20+ phút và bào mòn thể lực ngày hôm sau.",
-   "Bỏ qua phần rút kinh nghiệm — 30 giây 'điều gì đã thắng?' biến trò chơi thành bài học."
+    "Running the same finisher for months until players go through the motions.",
+    "Making the consequence so harsh that players play scared instead of competitive.",
+    "Letting finishers run 20+ minutes and eating into the next day's legs.",
+    "Skipping the debrief — a 30-second 'what won that?' turns a game into a lesson."
   ],
-  "description": "Các trò chơi ngắn, kịch tính cao để kết thúc buổi tập với sự sắc bén — xây dựng tính cạnh tranh, thói quen clutch và văn hóa chiến thắng.",
+  "dateUpdated": "2026-10-06",
+  "description": "Short, high-stakes games to close practice with an edge — building competitiveness, clutch habits, and a winning culture.",
   "gameSituations": [
-   "Buổi tập kết thúc bằng trò ném phạt chịu áp lực 3 phút thay vì cầu thủ chạy bộ ra về.",
-   "Hai đội đấu 4v4 full-court mà mỗi rổ ở phút cuối tính điểm đôi.",
-   "Một cuộc thi ném quyết định ai phải chạy nước rút, và nhà thi đấu ồn ào hơn cả trận đấu thật."
+    "Practice ends with a 3-minute free-throw pressure game instead of players jogging off casually.",
+    "Two teams battle in a full-court 4v4 where every basket is worth double in the final minute.",
+    "A shooting competition decides who runs sprints, and the gym is louder than most games."
   ],
   "howTo": [
-   {
-    "detail": "Chia đội thành hai nhóm đấu 5 phút full-court đến 7 điểm, thắng cách 2, đội thua chạy một suicide. Đồng hồ ngắn ép sự khẩn trương; hình phạt nhỏ khiến mỗi possession đều quan trọng mà không bào mòn thể lực.",
-    "title": "Đấu loại trực tiếp chớp nhoáng"
-   },
-   {
-    "detail": "Mỗi cầu thủ ném hai quả phạt; cả đội cần đạt tỷ lệ tổng hợp (ví dụ 70%) để tránh chạy phạt. Đồng đội rebound cho nhau và áp lực được chia sẻ. Theo dõi tỷ lệ của đội hàng tuần và dán lên — sự tiến bộ trở thành câu chuyện.",
-    "title": "Thử thách ném phạt đồng đội"
-   },
-   {
-    "detail": "Hai hàng ở giữa sân: một cầu thủ drive hết tốc độ lên rổ trong khi một người đuổi theo phía sau. Ném trúng dưới áp lực, chạy nước rút về, cặp tiếp theo lên. Đội nào 10 cú trúng trước thì thắng. Bài này tập finish khi có hậu vệ áp sát — đúng kỹ năng trận đấu quan trọng nhất.",
-    "title": "Đua lên rổ có người đuổi"
-   },
-   {
-    "detail": "3v3 half-court, đội nào 5 rổ trước thì thắng, thắng ở lại sân. Thua chống đẩy 10 cái rồi xoay vào lại. Thể thức king-of-the-court tạo ra các cặp kình địch tự nhiên và các game ngắn giữ cường độ tối đa — không ai lười khi game tiếp theo bắt đầu sau 90 giây.",
-    "title": "Vua sân 3v3"
-   },
-   {
-    "detail": "Một người ném, một người rebound mỗi cặp: 2 phút, mỗi cú trúng 1 điểm, mỗi cú hỏng ngoài vạch 3 điểm trừ 1 điểm. Các cặp đấu với nhau. Kết thúc buổi tập bằng ném dưới mệt mỏi với người thắng rõ ràng — và cầu thủ sẽ xin tái đấu.",
-    "title": "Đọ ném 2 phút"
-   }
+    {
+      "detail": "Split the squad into two teams for a 5-minute full-court game to 7, win by 2, losers run one suicide. Short clock forces urgency; the small consequence makes every possession matter without draining legs.",
+      "title": "Sudden-death scrimmage"
+    },
+    {
+      "detail": "Each player shoots two free throws; the team needs a combined percentage (e.g., 70%) to avoid running. Teammates rebound for each other and the pressure is shared. Track the team's percentage weekly and post it — improvement becomes the story.",
+      "title": "Pressure free-throw team challenge"
+    },
+    {
+      "detail": "Two lines at half court: one player drives full speed for a layup while a chaser sprints behind. Make the layup under pressure, sprint back, next pair goes. First team to 10 makes wins. It trains finishing with a defender closing — exactly the game skill that matters.",
+      "title": "Chaser layup race"
+    },
+    {
+      "detail": "3v3 half-court, first to 5 baskets, winners stay on. Losers do 10 push-ups and rotate back in. The king-of-the-court format creates natural rivalries and the short games keep intensity maxed — nobody coasts when the next game starts in 90 seconds.",
+      "title": "King of the court 3v3"
+    },
+    {
+      "detail": "One shooter, one rebounder per pair: 2 minutes, one point per make, minus one per miss from beyond the arc. Partners compete against every other pair. It ends practice with shooting under fatigue and a clear winner — and players beg for rematches.",
+      "title": "Two-minute shooting showdown"
+    }
   ],
+  "hub": "coaching",
+  "id": "end-of-practice-games",
+  "level": "beginner",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 5,
+  "related": [
+    "practice-tempo",
+    "building-practice-culture",
+    "coaching-toughness",
+    "practice-planning",
+    "coaching-leadership"
+  ],
+  "slug": "end-of-practice-games",
+  "subcategory": "practice-design",
   "tags": [
-   "trò-chơi-tập-luyện",
-   "tính-cạnh-tranh",
-   "kết-thúc-buổi-tập",
-   "văn-hóa",
-   "clutch"
+    "practice-games",
+    "competitiveness",
+    "finishers",
+    "culture",
+    "clutch"
   ],
-  "title": "Các Trò Thi Đấu Kết Thúc Buổi Tập",
+  "title": "Competitive Practice Finishers",
+  "vi": {
+    "coachingPoints": [
+      "Giữ trò kết thúc dưới 10 phút — ngắn, gọn, cược cao hơn dài lê thê",
+      "Đổi trò mỗi tuần cho mới mẻ; khai tử trò nào cầu thủ không còn hào hứng",
+      "Hình phạt phải dựa trên nỗ lực (chạy, hít đất), không bao giờ là sỉ nhục",
+      "Để cầu thủ tự tính điểm, tự giải quyết tranh cãi — làm chủ trò chơi rèn làm chủ đội bóng"
+    ],
+    "commonMistakes": [
+      "Chạy cùng một trò kết thúc suốt nhiều tháng đến khi cầu thủ làm cho có",
+      "Hình phạt quá nặng khiến cầu thủ chơi sợ hãi thay vì cạnh tranh",
+      "Để trò kết thúc kéo 20+ phút, ăn mất sức ngày hôm sau",
+      "Bỏ qua phần rút kinh nghiệm — 30 giây ‘cái gì đã thắng?’ biến trò chơi thành bài học"
+    ],
+    "description": "Những trò chơi ngắn, cược cao để khép buổi tập — rèn tính cạnh tranh, thói quen clutch và văn hóa chiến thắng.",
+    "gameSituations": [
+      "Cuối buổi tập chơi trò ném phạt áp lực 3 phút thay vì cầu thủ chạy bộ ra về hời hợt",
+      "Hai đội đấu 4v4 toàn sân, mỗi rổ nhân đôi điểm trong phút cuối",
+      "Cuộc thi ném rổ quyết định ai chạy nước rút, và nhà thi đấu ồn hơn cả trận đấu"
+    ],
+    "howTo": [
+      {
+        "detail": "Chia đội hình thành hai đội, đấu toàn sân 5 phút đến 7 điểm, thắng cách 2, đội thua chạy một vòng suicide. Đồng hồ ngắn ép sự khẩn trương; hình phạt nhỏ khiến mỗi đợt bóng đều có ý nghĩa mà không vắt kiệt chân.",
+        "title": "Đấu tập sinh tử"
+      },
+      {
+        "detail": "Mỗi cầu thủ ném hai quả phạt; cả đội cần đạt tỷ lệ tổng (ví dụ 70%) để khỏi chạy. Đồng đội rebound cho nhau, áp lực được chia đều. Theo dõi tỷ lệ đội mỗi tuần và dán lên — sự tiến bộ thành câu chuyện.",
+        "title": "Thử thách ném phạt đồng đội dưới áp lực"
+      },
+      {
+        "detail": "Hai hàng ở giữa sân: một người đột phá hết tốc độ lên layup trong khi người đuổi chạy nước rút phía sau. Ném layup thành công dưới áp lực, chạy về, cặp tiếp theo lên. Đội nào 10 cú vào trước thắng. Bài này rèn dứt điểm khi có cầu thủ phòng thủ ập đến — đúng kỹ năng trận đấu cần.",
+        "title": "Đua layup có người đuổi"
+      },
+      {
+        "detail": "3v3 nửa sân, đội nào 5 rổ trước thắng, đội thắng ở lại. Đội thua hít đất 10 cái rồi xoay vào lại. Thể thức vua sân tạo kình địch tự nhiên, trận ngắn giữ cường độ tối đa — không ai thả lỏng khi trận tiếp theo bắt đầu sau 90 giây.",
+        "title": "3v3 vua sân đấu"
+      },
+      {
+        "detail": "Mỗi cặp một người ném, một người rebound: 2 phút, vào một quả được một điểm, ném hụt ngoài vòng cung trừ một điểm. Các cặp đấu với mọi cặp khác. Khép buổi tập bằng ném rổ trong mệt mỏi và một người thắng rõ ràng — cầu thủ sẽ xin tái đấu.",
+        "title": "Đọ ném rổ hai phút"
+      }
+    ],
+    "tags": [
+      "trò chơi tập luyện",
+      "tính cạnh tranh",
+      "kết thúc buổi tập",
+      "văn hóa đội",
+      "clutch"
+    ],
+    "title": "Trò chơi kết thúc buổi tập",
+    "whatIsIt": [
+      "Trò kết thúc buổi tập là cuộc thi đấu ngắn có tính điểm trong 5–10 phút cuối buổi tập. Nó biến phần kết thường nhạt nhẽo thành khoảnh khắc căng nhất ngày — nơi cầu thủ học cạnh tranh khi mệt, dưới áp lực, và có cái để mất.",
+      "Cách bạn kết thúc buổi tập là thứ cầu thủ nhớ. Trò cạnh tranh cuối buổi dạy thói quen clutch — thực hiện dưới áp lực, tập trung xuyên mệt mỏi — mà không bài tập nào tái tạo được. Đó còn là liều văn hóa mỗi ngày: đội cạnh tranh máu lửa trong trò nhỏ thì cạnh tranh máu lửa trong trận lớn."
+    ],
+    "whyItMatters": [
+      "Cầu thủ cạnh tranh máu lửa trong trò nhỏ thì cạnh tranh máu lửa trong trận lớn. Trò cuối buổi tập dạy đội bạn thi đấu khi mệt, khi tỷ số có ý nghĩa, và khi đồng đội đang nhìn — đúng điều kiện của hiệp bốn.",
+      "Nó còn cho bạn bản kiểm tra tính cạnh tranh mỗi ngày. Bạn sẽ nhanh chóng biết ai đón nhận áp lực, ai né tránh — và biết chính xác ngày mai cần huấn luyện gì. Kết thúc mọi buổi tập bằng thứ gì đó có tính điểm, và tính cạnh tranh thành thói quen thay vì bài diễn văn giờ nghỉ."
+    ]
+  },
   "whatIsIt": [
-   "Trò kết thúc buổi tập là một cuộc thi ngắn, có tính điểm, diễn ra trong 5-10 phút cuối buổi tập. Nó biến phần kết thúc thường uể oải thành khoảnh khắc căng thẳng nhất trong ngày — nơi cầu thủ học cách thi đấu khi mệt, khi bị áp lực, và khi có điều gì đó bị đe dọa.",
-   "title-placeholder"
+    "A practice finisher is a short, scored competition run in the final 5-10 minutes of practice. It turns the usually flat ending into the most intense moment of the day — where players learn to compete tired, under pressure, and with something on the line.",
+    "How you end practice is what players remember. A competitive finisher teaches clutch habits — executing under pressure, focusing through fatigue — that no drill can replicate. It's also a daily culture dose: teams that compete hard in small games compete hard in big ones."
   ],
   "whyItMatters": [
-   "Cách bạn kết thúc buổi tập là điều cầu thủ nhớ nhất. Một trò kết thúc có tính cạnh tranh dạy thói quen clutch — thực hiện dưới áp lực, tập trung khi mệt — mà không bài tập nào dạy được. Nó cũng là liều văn hóa hàng ngày: đội nào thi đấu máu lửa trong trò chơi nhỏ sẽ thi đấu máu lửa trong trận đấu lớn."
+    "Players who compete hard in small games compete hard in big ones. End-of-practice games teach your team to perform when they're tired, when the score matters, and when teammates are watching — the exact conditions of the fourth quarter.",
+    "They also give you a daily competitiveness audit. You'll quickly learn who embraces pressure and who avoids it, which tells you exactly what to coach tomorrow. Finish every practice with something scored, and competitiveness becomes a habit instead of a halftime speech."
   ]
- },
- "whatIsIt": [
-  "A practice finisher is a short, scored competition run in the final 5-10 minutes of practice. It turns the usually flat ending into the most intense moment of the day — where players learn to compete tired, under pressure, and with something on the line.",
-  "How you end practice is what players remember. A competitive finisher teaches clutch habits — executing under pressure, focusing through fatigue — that no drill can replicate. It's also a daily culture dose: teams that compete hard in small games compete hard in big ones."
- ],
- "whyItMatters": [
-  "Players who compete hard in small games compete hard in big ones. End-of-practice games teach your team to perform when they're tired, when the score matters, and when teammates are watching — the exact conditions of the fourth quarter.",
-  "They also give you a daily competitiveness audit. You'll quickly learn who embraces pressure and who avoids it, which tells you exactly what to coach tomorrow. Finish every practice with something scored, and competitiveness becomes a habit instead of a halftime speech."
- ]
 }

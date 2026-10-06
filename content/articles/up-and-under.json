@@ -80,60 +80,60 @@
     "One-dimensional post players get scouted and stopped. The up-and-under makes you two-dimensional: contest the hook and get stepped through; stay down and get hooked over. That dilemma is what makes great post scorers efficient — the defense has no right answer."
   ],
   "vi": {
-    "coachingPoints": [
-      "Pha giả phải trông Y HỆT pha hook thật của bạn — cùng đường vung, cùng ánh mắt, cùng cú nhảy.",
-      "Bán pha giả bằng ánh mắt nhìn rổ; hậu vệ đọc ánh mắt trước cơ thể.",
-      "Giữ thăng bằng suốt pha giả — một pha giả ẩu sẽ khiến bạn mất thăng bằng cho miếng đánh thật.",
-      "Một nhịp dẫn sau pha giả thường là đủ; dẫn thêm sẽ cho hàng hỗ trợ kịp tới.",
-      "Tập chuỗi động tác chậm trước: thời điểm của bước xuyên qua là tất cả."
+    "title": "Động tác up-and-under",
+    "description": "Giả pha hook, bước xuyên qua hậu vệ đang nhảy lên rồi dứt điểm — đòn phản tối thượng trong vùng post.",
+    "whatIsIt": [
+      "Up-and-under là đòn phản trong vùng post: giả pha jump hook — nhấc lên như sắp ném — rồi hạ bóng, bước xuyên qua hậu vệ đang nhảy lên và dứt điểm ở rổ. Hậu vệ nhảy 'lên' để block; bạn chui 'xuống dưới' họ để lên layup.",
+      "Đây là đòn trừng phạt sự hung hăng của các tay block. Khi pha hook đã thành mối đe dọa thật, hậu vệ buộc phải tranh chấp. Up-and-under biến kỷ luật của họ thành điểm yếu — càng cố block, miếng phản của bạn càng dễ."
     ],
-    "commonMistakes": [
-      "Pha giả lười biếng mà hậu vệ phớt lờ — hãy quyết tâm như thể bạn thật sự đang ném.",
-      "Nhảy quá cao ở pha giả — bạn cần đôi chân cho bước xuyên qua.",
-      "Bước xuyên vào ngực hậu vệ — đó là lỗi tấn công; hãy bước vòng qua hông họ.",
-      "Cố ép khi hậu vệ không bị lừa — nếu họ đứng yên, cứ ném pha hook."
-    ],
-    "description": "Giả pha hook, bước qua hậu vệ đang nhảy lên, và kết thúc — miếng đánh phản công tối thượng trong vùng post.",
-    "gameSituations": [
-      "Sau khi bạn đã ném vào hai pha hook — hậu vệ sẽ nhảy ở pha thứ ba; hãy trừng phạt nó.",
-      "Khi đối đầu những tay block hung hăng tranh chấp mọi thứ — cứ để họ bay qua.",
-      "Những pha post một-chọi-một cuối đồng hồ — miếng đánh phản công tạo ra cú ném sạch nhất."
+    "whyItMatters": [
+      "Cầu thủ post một chiều dễ bị bắt bài. Up-and-under cho bạn hai lựa chọn: tranh chấp pha hook thì bị bước qua, đứng yên thì bị hook qua đầu. Tiến thoái lưỡng nan đó là thứ làm nên những tay ghi điểm post hiệu quả — hàng thủ không có đáp án đúng."
     ],
     "howTo": [
       {
-        "detail": "Bắt bóng ở block và bắt đầu động tác jump-hook bình thường — cùng tư thế trụ, cùng đường vung bóng, cùng ánh mắt nhìn rổ. Hậu vệ phải tin rằng cú ném đang đến.",
-        "title": "Bắt đầu pha hook thật nghiêm túc"
+        "title": "Bắt đầu pha hook thật",
+        "detail": "Bắt bóng ở block, vào động tác jump hook như thật — cùng tư thế trụ, cùng đường vung bóng, mắt nhìn rổ. Hậu vệ phải tin cú ném sắp tới."
       },
       {
-        "detail": "Khi hơi nhấc lên, hãy dừng động tác ném và đưa bóng trở lại hông. Hậu vệ, đã quyết tâm block, sẽ nhảy qua khỏi bạn.",
-        "title": "Đóng băng giữa động tác"
+        "title": "Dừng đột ngột giữa đà",
+        "detail": "Vừa nhấc lên, dừng động tác ném và hạ bóng về hông. Hậu vệ đã quyết block sẽ nhảy qua khỏi bạn."
       },
       {
-        "detail": "Tiếp đất nhẹ nhàng giữ thăng bằng. Chân trụ của bạn vẫn giữ nguyên — đây là chuỗi pivot hợp lệ, không phải lỗi bước.",
-        "title": "Tiếp đất giữ thăng bằng"
+        "title": "Tiếp đất giữ thăng bằng",
+        "detail": "Tiếp đất nhẹ, giữ thăng bằng. Chân trụ giữ nguyên — chuỗi pivot hợp lệ, không phải lỗi chạy bước."
       },
       {
-        "detail": "Bước xuyên qua bằng chân không phải chân trụ, qua hông hậu vệ — hướng tới rổ, vòng quanh cơ thể họ. Giữ bóng được bảo vệ ở hông khi bước.",
-        "title": "Bước xuyên qua khoảng trống"
+        "title": "Bước xuyên qua khoảng trống",
+        "detail": "Bước chân không trụ xuyên qua hông hậu vệ — hướng tới rổ, vòng quanh người họ. Giữ bóng sát hông khi bước."
       },
       {
-        "detail": "Bật mạnh sau bước xuyên qua để lên layup hoặc cú kết thúc gần không bị tranh chấp. Hậu vệ đã ở sau bạn; rổ đang trống.",
-        "title": "Kết thúc ở rổ"
+        "title": "Dứt điểm ở rổ",
+        "detail": "Bật mạnh sau bước xuyên qua, lên layup hoặc dứt điểm gần không ai tranh chấp. Hậu vệ đã ở sau lưng; rổ đang trống."
       }
+    ],
+    "coachingPoints": [
+      "Pha giả phải Y HỆT pha hook thật — cùng đường vung, cùng ánh mắt, cùng cú nhảy.",
+      "Bán pha giả bằng mắt nhìn rổ. Hậu vệ đọc mắt trước khi đọc người.",
+      "Giữ thăng bằng suốt pha giả. Pha giả ẩu làm bạn mất đà cho đòn thật.",
+      "Một nhịp dẫn sau pha giả thường đủ. Dẫn thêm là hàng hỗ trợ kịp tới.",
+      "Tập chậm trước. Thời điểm của bước xuyên qua quyết định tất cả."
+    ],
+    "commonMistakes": [
+      "Pha giả hời hợt, hậu vệ phớt lờ — quyết tâm như đang ném thật.",
+      "Nhảy quá cao ở pha giả — để dành chân cho bước xuyên qua.",
+      "Bước xuyên vào ngực hậu vệ — đó là lỗi tấn công. Bước vòng qua hông họ.",
+      "Cố ép khi hậu vệ không bị lừa — họ đứng yên thì cứ ném pha hook."
+    ],
+    "gameSituations": [
+      "Sau khi đã ném vào hai pha hook — pha thứ ba hậu vệ sẽ nhảy, trừng phạt ngay.",
+      "Gặp tay block hung hăng tranh chấp mọi thứ — cứ để họ bay qua.",
+      "Pha post một-chọi-một cuối đồng hồ — đòn phản cho cú ném sạch nhất."
     ],
     "tags": [
       "post",
-      "phản công",
-      "bước chân",
-      "kết thúc"
-    ],
-    "title": "Up & Under",
-    "whatIsIt": [
-      "Up-and-under là một miếng đánh phản công trong vùng post: bạn giả pha jump hook — nhấc lên như sắp ném — rồi hạ bóng xuống, bước qua hậu vệ đang nhảy lên, và kết thúc ở rổ. Hậu vệ nhảy 'lên' để block; bạn chui 'xuống dưới' họ để lên layup.",
-      "Đó là miếng đánh trừng phạt sự hung hăng của những tay block. Một khi bạn đã tạo dựng pha hook thành mối đe dọa, các hậu vệ buộc phải tranh chấp nó. Up-and-under biến kỷ luật của họ thành điểm yếu — họ càng cố block cú ném của bạn, miếng đánh phản công của bạn càng dễ."
-    ],
-    "whyItMatters": [
-      "Những cầu thủ post một chiều sẽ bị nghiên cứu và bắt chết. Up-and-under khiến bạn trở thành hai chiều: tranh chấp pha hook thì bị bước qua; đứng yên thì bị hook qua đầu. Tiến thoái lưỡng nan đó là điều khiến những tay ghi điểm post vĩ đại hiệu quả — hàng thủ không có đáp án đúng."
+      "đòn phản",
+      "bộ chân",
+      "dứt điểm"
     ]
   }
 }

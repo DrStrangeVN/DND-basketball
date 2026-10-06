@@ -71,62 +71,63 @@
  ],
  "title": "Designing an Offseason Program",
  "vi": {
-  "coachingPoints": [
-   "Kỹ năng trước sức mạnh với cầu thủ trẻ: dưới 16 tuổi nên dành 70% thời gian offseason cho kỹ năng, 30% cho thể chất.",
-   "Theo dõi mọi thứ trên một sheet chung — cái gì được đo trong tháng Bảy sẽ xuất hiện vào tháng Mười.",
-   "Open gym cần cấu trúc: 3v3 và 4v4 có ràng buộc luôn tốt hơn 5v5 tự do.",
-   "Xây 2 tuần giảm tải mỗi khối 8 tuần; cầu thủ tập quá sức sẽ bước vào tiền mùa giải trong tình trạng đã hỏng."
-  ],
-  "commonMistakes": [
-   "Không có kế hoạch gì — 'hè này cứ chơi nhiều vào' tạo ra cùng một cầu thủ vào tháng Mười.",
-   "Dồn mọi thứ vào tháng Tám sau khi không làm gì tháng Sáu và tháng Bảy.",
-   "Bỏ hoàn toàn tập sức mạnh cho hậu vệ và bỏ tập kỹ năng cho cầu thủ cao.",
-   "Không theo dõi, nên không ai biết ai thực sự tập luyện và văn hóa thưởng cho người nói nhiều hơn người làm nhiều."
-  ],
-  "description": "Cấu trúc mùa hè với các khối kỹ năng, giai đoạn sức mạnh, open gym có tổ chức và hệ thống theo dõi để cầu thủ trở lại tháng Mười tốt hơn lúc rời đi tháng Năm.",
-  "gameSituations": [
-   "Một hậu vệ trở lại tháng Mười với cú pull-up jumper đáng tin cậy được xây từ 2.000 reps hè có theo dõi.",
-   "Các big của bạn trở lại khỏe hơn 5kg và điều đó thể hiện trong mọi bài box-out của tuần đầu tiên.",
-   "Open-gym 3v3 với ràng buộc 'không dribble quá nửa sân' tạo ra hàng công transition tốt nhất của bạn trước tiền mùa giải."
-  ],
-  "howTo": [
-   {
-    "detail": "Chia offseason 12-16 tuần thành ba giai đoạn: Giai đoạn 1 (tuần 1-5) — nền tảng kỹ năng cá nhân, 4 buổi/tuần, mỗi buổi 60-75 phút; Giai đoạn 2 (tuần 6-10) — kỹ năng + sức mạnh, thêm 2 buổi tạ; Giai đoạn 3 (tuần 11+) — khái niệm đồng đội, open gym, đọc tình huống 5v5. Mỗi giai đoạn có một chủ đề để cầu thủ biết 'thắng mùa hè' nghĩa là gì.",
-    "title": "Chia mùa hè thành ba giai đoạn"
-   },
-   {
-    "detail": "Giao mỗi cầu thủ 2 kỹ năng trọng tâm, không phải mười. Hậu vệ có thể sở hữu pull-up jumper và finish tay yếu; big sở hữu footwork face-up và chuyền outlet. Giao chỉ tiêu reps hàng tuần (ví dụ 300 pull-up/tuần, tính theo số trúng) và kiểm tra log mỗi thứ Hai. Chiều sâu reps thắng chiều rộng bài tập.",
-    "title": "Giao khối kỹ năng cá nhân"
-   },
-   {
-    "detail": "Tối thiểu hai buổi sức mạnh mỗi tuần cho U16+: các bài compound toàn thân (squat, hinge, push, pull, carry), 45-60 phút, tăng tải lũy tiến. U14 trở xuống thì tập bodyweight và chất lượng vận động — 20 phút sau phần kỹ năng. Hợp tác với huấn luyện viên thể lực có chuyên môn; tập tạ sai vào hè thành chấn thương vào đông.",
-    "title": "Xếp lớp tập sức mạnh"
-   },
-   {
-    "detail": "Chạy 2 open gym mỗi tuần, 90 phút, có luật: 30 phút đầu trạm kỹ năng, sau đó 3v3/4v4 với một ràng buộc mỗi tuần (giới hạn dribble, phải chạm paint, đồng hồ ném 7 giây). 5v5 full-court không ràng buộc dạy thói quen xấu — ràng buộc trận đấu để dạy cách đọc tình huống bạn muốn.",
-    "title": "Cấu trúc open gym bằng ràng buộc"
-   },
-   {
-    "detail": "Một spreadsheet chung: các cột cho reps kỹ năng, buổi tạ, điểm danh open-gym, và một chỉ số đo được cho mỗi cầu thủ (ví dụ tỷ lệ ném phạt, bật cao, thời gian chạy 3/4 sân). Test các chỉ số ở tuần 1 và tuần 12. Công bố bảng xếp hạng hàng tháng — theo dõi công khai là hệ thống trách nhiệm rẻ nhất trong thể thao.",
-    "title": "Theo dõi mọi thứ công khai"
-   }
-  ],
-  "tags": [
-   "offseason",
-   "phát-triển-cầu-thủ",
-   "tập-sức-mạnh",
-   "phát-triển-kỹ-năng",
-   "theo-dõi"
-  ],
-  "title": "Thiết Kế Chương Trình Offseason",
-  "whatIsIt": [
-   "Chương trình offseason là kế hoạch có cấu trúc cho 12-16 tuần giữa các mùa giải: cầu thủ tập gì, bao nhiêu, khi nào, và đo lường ra sao. Nó thay thế lời khuyên mơ hồ 'hè này tập nhiều vào' bằng các giai đoạn rõ ràng — khối kỹ năng, tập sức mạnh, open gym có ràng buộc — và một hệ thống theo dõi duy nhất.",
-   "title-placeholder"
-  ],
-  "whyItMatters": [
-   "Mùa giải được thắng vào mùa hè. Đội trở lại tháng Mười với kỹ năng mới, cơ thể khỏe hơn và thói quen tốt hơn sẽ vượt lên trong khi đối thủ vẫn dậm chân tại chỗ. Không có chương trình offseason, tháng Sáu đến tháng Tám là thời gian chết — và bạn không bao giờ lấy lại được những tuần đó."
-  ]
- },
+    "coachingPoints": [
+      "Kỹ năng trước sức mạnh với cầu thủ trẻ: dưới 16 tuổi, 70% thời gian offseason cho kỹ năng, 30% cho thể chất",
+      "Ghi mọi thứ vào một bảng chung — cái gì được đo trong tháng Bảy sẽ thể hiện vào tháng Mười",
+      "Open gym cần cấu trúc: 3v3 và 4v4 có ràng buộc luôn thắng 5v5 tự do",
+      "Cài 2 tuần giảm tải cho mỗi khối 8 tuần; cầu thủ tập quá sức sẽ bước vào tiền mùa giải trong tình trạng kiệt quệ"
+    ],
+    "commonMistakes": [
+      "Không có kế hoạch — “hè này cứ chơi nhiều vào” cho ra đúng một cầu thủ cũ vào tháng Mười",
+      "Dồn hết vào tháng Tám sau khi bỏ không tháng Sáu, tháng Bảy",
+      "Bỏ hẳn tập sức mạnh cho hậu vệ, bỏ hẳn tập kỹ năng cho big",
+      "Không theo dõi — không ai biết ai thực sự tập, văn hóa thưởng người nói nhiều hơn người làm nhiều"
+    ],
+    "description": "Cấu trúc mùa nghỉ với các khối kỹ năng, giai đoạn sức mạnh, open gym có tổ chức và hệ thống theo dõi — để cầu thủ trở lại tháng Mười tốt hơn lúc rời đi tháng Năm.",
+    "gameSituations": [
+      "Hậu vệ trở lại tháng Mười với cú pull-up jumper đáng tin cậy, xây từ 2.000 reps hè có ghi chép",
+      "Các big trở lại khỏe hơn 5kg — thể hiện ngay trong mọi bài box out tuần đầu",
+      "Open gym 3v3 với ràng buộc “không dẫn bóng quá nửa sân” cho ra hàng công phản công tốt nhất trước tiền mùa giải"
+    ],
+    "howTo": [
+      {
+        "detail": "Chia 12–16 tuần offseason thành ba giai đoạn: giai đoạn 1 (tuần 1–5) — nền tảng kỹ năng cá nhân, 4 buổi/tuần, mỗi buổi 60–75 phút; giai đoạn 2 (tuần 6–10) — kỹ năng + sức mạnh, thêm 2 buổi tạ; giai đoạn 3 (tuần 11 trở đi) — khái niệm đồng đội, open gym, đọc tình huống 5v5. Mỗi giai đoạn một chủ đề, để cầu thủ hiểu “thắng mùa hè” nghĩa là gì.",
+        "title": "Chia mùa hè thành ba giai đoạn"
+      },
+      {
+        "detail": "Mỗi cầu thủ chỉ hai kỹ năng trọng tâm, không phải mười. Hậu vệ có thể chọn pull-up jumper và dứt điểm tay không thuận; big chọn bộ chân face-up và đường chuyền phát động. Giao chỉ tiêu reps hàng tuần (ví dụ 300 cú pull-up/tuần, tính theo số trúng) và kiểm tra sổ tập mỗi thứ Hai. Reps sâu thắng bài tập rộng.",
+        "title": "Giao khối kỹ năng cá nhân"
+      },
+      {
+        "detail": "U16 trở lên: tối thiểu hai buổi sức mạnh mỗi tuần — các bài compound toàn thân (squat, hinge, đẩy, kéo, gánh tạ), 45–60 phút, tăng tải lũy tiến. U14 trở xuống: bài bodyweight và chất lượng vận động — 20 phút sau phần kỹ năng. Hợp tác với HLV thể lực có chuyên môn; tập tạ sai mùa hè thành chấn thương mùa đông.",
+        "title": "Xếp lớp tập sức mạnh"
+      },
+      {
+        "detail": "Hai open gym mỗi tuần, 90 phút, có luật: 30 phút đầu là trạm kỹ năng, sau đó 3v3/4v4 với một ràng buộc mỗi tuần (giới hạn dẫn bóng, bắt buộc chạm khu vực dưới rổ, đồng hồ ném 7 giây). 5v5 full-court không ràng buộc chỉ dạy thói quen xấu — ràng buộc trận đấu để dạy đúng pha đọc bạn muốn.",
+        "title": "Cấu trúc open gym bằng ràng buộc"
+      },
+      {
+        "detail": "Một bảng tính chung: cột reps kỹ năng, buổi tạ, điểm danh open gym, và một chỉ số đo được cho mỗi cầu thủ (ví dụ tỷ lệ ném phạt, bật cao, thời gian chạy 3/4 sân). Test chỉ số ở tuần 1 và tuần 12. Công bố bảng xếp hạng hàng tháng — theo dõi công khai là hệ thống trách nhiệm rẻ nhất trong thể thao.",
+        "title": "Theo dõi mọi thứ công khai"
+      }
+    ],
+    "tags": [
+      "offseason",
+      "phát triển cầu thủ",
+      "tập sức mạnh",
+      "phát triển kỹ năng",
+      "theo dõi"
+    ],
+    "title": "Thiết kế chương trình offseason",
+    "whatIsIt": [
+      "Chương trình offseason là kế hoạch có cấu trúc cho 12–16 tuần giữa hai mùa giải: cầu thủ tập gì, tập bao nhiêu, tập khi nào và đo lường ra sao. Nó thay lời khuyên chung chung “hè này tập nhiều vào” bằng các giai đoạn rõ ràng — khối kỹ năng, tập sức mạnh, open gym có ràng buộc — và một hệ thống theo dõi duy nhất.",
+      "Mùa giải thắng từ mùa hè. Đội trở lại tháng Mười với kỹ năng mới, cơ thể khỏe hơn, thói quen tốt hơn sẽ bứt lên trong lúc đối thủ dậm chân tại chỗ. Không có chương trình offseason, tháng Sáu đến tháng Tám là thời gian chết — và không bao giờ lấy lại được những tuần đó."
+    ],
+    "whyItMatters": [
+      "Mùa giải thắng từ mùa hè. Đội trở lại tháng Mười với kỹ năng mới, cơ thể khỏe hơn và thói quen tốt hơn sẽ bứt lên trong lúc đối thủ dậm chân tại chỗ. Không có chương trình offseason, tháng Sáu đến tháng Tám là thời gian chết — và không bao giờ lấy lại được những tuần đó.",
+      "Cấu trúc thắng động lực. Không có kế hoạch, lịch kiểm tra và mục tiêu đo được, cầu thủ không thể tự tập đều đặn. Một offseason được thiết kế biến ước muốn chung chung “phải tiến bộ” thành công việc hàng tuần — và nó thể hiện rõ trên sân."
+    ]
+  },
  "whatIsIt": [
   "An offseason program is the structured plan for the 12-16 weeks between seasons: what players work on, how much, when, and how it's measured. It replaces vague 'work hard this summer' advice with clear phases — skill blocks, strength work, constrained open gyms — and a single tracking system.",
   "Seasons are won in the summer. The team that returns in October with new skills, stronger bodies, and better habits pulls away while opponents stand still. Without an offseason program, June through August is dead time — and you never get those weeks back."

@@ -69,67 +69,67 @@
     "footwork"
   ],
   "title": "Hesitation Move",
+  "vi": {
+    "coachingPoints": [
+      "Khoảng dừng rất nhỏ — một nhịp, không phải dừng hẳn. Dừng hẳn là cho đối phương cơ hội đứng lại vị trí.",
+      "Giữ bóng sống và thấp trong lúc giả; bóng chết là giết chết lợi thế vừa tạo ra.",
+      "Bán pha chậm bằng cả cơ thể: hạ người, nghiêng, thở ra — rồi bùng nổ.",
+      "Hơi đổi hướng khi bứt; hesitation đường thẳng dễ bị hồi về.",
+      "Đọc chân đối phương: họ khựng, lùi hay nhảy là hesitation đã thành công — đi thôi."
+    ],
+    "commonMistakes": [
+      "Nhấc bóng lên trong lúc giả — sửa: hesitation chỉ hiệu quả vì bóng còn sống; cứ dẫn xuyên qua nó.",
+      "Dừng quá lâu — sửa: đếm thầm 'một'; tới 'hai' là đợi quá lâu.",
+      "Không thực sự chậm lại — sửa: tập phóng đại cú giảm tốc để bản tốc độ trận đấu đọc rõ.",
+      "Hesitation mà không có kế hoạch — sửa: quyết định đòn tấn công (đột phá hay pull-up) trước khi bắt đầu; hesitation tạo khoảnh khắc, không tạo quyết định."
+    ],
+    "description": "Chậm lại một nhịp tim để đóng băng cầu thủ phòng thủ, rồi bùng nổ — động tác đổi nhịp đơn giản mà hiệu quả nhất trong bóng rổ.",
+    "gameSituations": [
+      "Tấn công trong chuyển trạng thái — một cú hesitation trong pha fast break 1 đấu 1 có thể đóng băng cầu thủ phòng thủ đơn độc đủ lâu để vượt qua.",
+      "Dọn đường cho pull-up — hesitation khiến đối phương thả lỏng, rồi lên ném khi họ còn đang giảm tốc.",
+      "Gặp cầu thủ phòng thủ nhanh, khỏe — người nhanh hay với sớm; hesitation trừng phạt sự hiếu chiến của họ, biến tốc độ thành điểm yếu."
+    ],
+    "howTo": [
+      {
+        "detail": "Dẫn bóng về phía cầu thủ phòng thủ ở nhịp mạnh, mắt nhìn lên. Hesitation chỉ hiệu quả khi đối phương đang phải kèm mình ở tốc độ cao.",
+        "title": "Tấn công ở tốc độ tối đa"
+      },
+      {
+        "detail": "Hạ hông, chậm nhịp dẫn, để cơ thể chìm xuống một nhịp. Mọi thứ — vai, bóng, sải chân — đều nói rằng mình đang dừng.",
+        "title": "Phanh gấp một nhịp"
+      },
+      {
+        "detail": "Ngẩng mắt lên như đang tìm đường chuyền hay quan sát sân. Một tín hiệu này đủ khiến cầu thủ phòng thủ tin pha đột phá đã kết thúc.",
+        "title": "Bán cú dừng bằng ánh mắt"
+      },
+      {
+        "detail": "Quan sát họ: một bước khựng, một cú nhảy lùi, hay tay hạ xuống bóng. Bất kỳ dấu hiệu đóng băng nào cũng là đèn xanh.",
+        "title": "Đọc phản ứng đóng băng"
+      },
+      {
+        "detail": "Đạp mạnh chân ngoài, đột phá vào lane hoặc pull-up — cú bứt phải hết sức vì khoảng trống chỉ kéo dài khoảng nửa giây.",
+        "title": "Bùng nổ qua khoảnh khắc đóng băng"
+      }
+    ],
+    "tags": [
+      "dẫn bóng",
+      "động tác qua người",
+      "bộ chân"
+    ],
+    "title": "Động tác hesitation",
+    "whatIsIt": [
+      "Hesitation là động tác đổi nhịp: đang tấn công ở tốc độ cao, bỗng chậm lại trong tích tắc — như tài xế nhấp phanh — rồi bùng nổ trở lại. Khoảnh khắc chậm lại khiến cầu thủ phòng thủ thả lỏng hoặc khựng lại, và cầu thủ tấn công tăng tốc khi đối phương còn đang chôn chân.",
+      "Đây là động tác hay mà lặng lẽ nhất trong bóng rổ. Không có mánh bóng màu mè; bóng ở nguyên một tay. Vũ khí là nhịp điệu: phá nhịp của cầu thủ phòng thủ, mà nhịp đã vỡ thì phòng thủ cũng vỡ."
+    ],
+    "whyItMatters": [
+      "Tốc độ đơn thuần dễ kèm — cầu thủ phòng thủ chỉ cần lùi dần. Đổi nhịp khó hơn nhiều, vì đối phương phải đọc và phản ứng với một cú dừng giả. Hesitation là biểu hiện thuần khiết nhất của điều đó: một cú phá nhịp đơn giản, hiệu quả ở mọi cấp độ, từ sân phủi tới chuyên nghiệp. Ai làm chủ nó không cần thể chất vượt trội để qua người — nhịp điệu làm thay công việc đó."
+    ]
+  },
   "whatIsIt": [
     "The hesitation is a change-of-pace move: you are attacking at speed, then suddenly slow down for a split second — like a driver tapping the brakes — before exploding again. The brief slowdown tricks the defender into relaxing or stopping, and you accelerate while he is flat-footed.",
     "It is the quietest great move in basketball. There is no fancy ball trick; the ball stays in the same hand. The weapon is rhythm: you break the defender's timing, and broken timing becomes broken defense."
   ],
   "whyItMatters": [
     "Speed alone is easy to guard — defenders just backpedal. Pace changes are much harder, because the defender has to read and react to a false stop. The hesitation is the purest expression of this: one simple rhythm break that works at every level, from pickup games to the pros. Players who master it stop needing athleticism to beat defenders — timing does the work."
-  ],
-  "vi": {
-    "title": "Động Tác Hesitation (Chần Chừ)",
-    "description": "Chậm lại một nhịp tim để đóng băng hậu vệ, rồi bùng nổ — động tác đổi tốc đơn giản mà hiệu quả nhất trong bóng rổ.",
-    "whatIsIt": [
-      "Hesitation là động tác đổi tốc: bạn đang tấn công với tốc độ cao, rồi đột ngột chậm lại trong tích tắc — như tài xế nhấp phanh — trước khi bùng nổ trở lại. Pha chậm ngắn ngủi khiến hậu vệ thả lỏng hoặc dừng lại, và bạn tăng tốc khi anh ta còn đang chôn chân.",
-      "Đây là động tác vĩ đại thầm lặng nhất trong bóng rổ. Không có mánh bóng cầu kỳ nào; bóng vẫn ở cùng một tay. Vũ khí là nhịp điệu: bạn phá vỡ thời điểm của hậu vệ, và thời điểm bị phá vỡ thành hàng thủ bị phá vỡ."
-    ],
-    "whyItMatters": [
-      "Chỉ nhanh thôi thì dễ kèm — hậu vệ cứ lùi lại. Đổi tốc khó hơn nhiều, vì hậu vệ phải đọc và phản ứng với một pha dừng giả. Hesitation là biểu hiện thuần khiết nhất của điều này: một lần phá nhịp đơn giản, hiệu quả ở mọi cấp độ, từ sân phủi tới chuyên nghiệp. Cầu thủ làm chủ nó không cần thể lực vượt trội để qua người — thời điểm làm việc đó."
-    ],
-    "howTo": [
-      {
-        "title": "Tấn công với tốc độ tối đa",
-        "detail": "Dẫn bóng về phía hậu vệ với tốc độ mạnh, mắt nhìn lên. Hesitation chỉ hiệu quả khi anh ta đang kèm bạn ở tốc độ cao trước đã."
-      },
-      {
-        "title": "Phanh mạnh một nhịp",
-        "detail": "Hạ hông, chậm nhịp dẫn, và để cơ thể chìm xuống một nhịp. Mọi thứ — vai, bóng, sải chân — đều nói rằng bạn đang dừng lại."
-      },
-      {
-        "title": "Diễn pha dừng bằng mắt",
-        "detail": "Ngẩng mắt lên như đang tìm đường chuyền hay quan sát sân. Một tín hiệu duy nhất này thuyết phục hậu vệ rằng pha đột phá đã kết thúc."
-      },
-      {
-        "title": "Đọc pha 'đóng băng' của hậu vệ",
-        "detail": "Quan sát phản ứng của anh ta: bước khựng, nhảy lùi, hay tay hạ xuống định cướp bóng. Bất kỳ pha đóng băng nào cũng là đèn xanh của bạn."
-      },
-      {
-        "title": "Bùng nổ qua pha đóng băng",
-        "detail": "Đạp mạnh chân ngoài và tấn công lane hoặc pull-up — cú bùng nổ phải tối đa vì khung thời gian chỉ kéo dài khoảng nửa giây."
-      }
-    ],
-    "coachingPoints": [
-      "Pha dừng rất ngắn — một nhịp, không phải dừng hẳn. Dừng hẳn để hậu vệ kịp reset.",
-      "Giữ bóng sống và thấp trong pha giả; bóng chết giết chết lợi thế bạn vừa tạo ra.",
-      "Diễn pha chậm bằng cả cơ thể: chìm xuống, nghiêng người, thở ra — rồi bùng nổ.",
-      "Hơi đổi hướng khi bùng nổ; hesitation đường thẳng dễ bị đuổi kịp hơn.",
-      "Đọc chân hậu vệ: nếu anh ta khựng, lùi, hay nhảy lên, hesitation đã thành công — đi thôi."
-    ],
-    "commonMistakes": [
-      "Nhấc bóng lên ở pha giả — cách sửa: hesitation chỉ hiệu quả vì bóng còn sống; hãy dẫn xuyên suốt pha giả.",
-      "Dừng quá lâu — cách sửa: đếm thầm 'một'; nếu đếm tới 'hai' là bạn đã chờ quá lâu.",
-      "Không thật sự chậm lại — cách sửa: phóng đại pha giảm tốc khi tập để bản tốc độ trận đấu đọc rõ.",
-      "Hesitation mà không có kế hoạch — cách sửa: quyết định đòn tấn công (đột phá hay pull-up) trước khi bắt đầu; hesitation tạo ra khoảnh khắc, không phải quyết định."
-    ],
-    "gameSituations": [
-      "Tấn công trong chuyển đổi — hesitation ở pha 1 đấu 1 trong fast break có thể đóng băng hậu vệ duy nhất đủ lâu để vượt qua.",
-      "Chuẩn bị pull-up — hesitation khiến hậu vệ thả lỏng, rồi bật lên ném khi anh ta còn đang giảm tốc.",
-      "Gặp hậu vệ nhanh, khỏe — hậu vệ nhanh hay với tay sớm; hesitation trừng phạt sự hiếu chiến của họ và biến tốc độ của họ thành của bạn."
-    ],
-    "tags": [
-      "dẫn bóng",
-      "động tác qua người",
-      "bộ chân"
-    ]
-  }
+  ]
 }
