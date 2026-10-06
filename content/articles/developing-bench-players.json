@@ -1,0 +1,140 @@
+{
+ "ages": [
+  "U14",
+  "U16",
+  "U18",
+  "Adult"
+ ],
+ "coachingPoints": [
+  "Track bench players' development reps weekly — what gets measured gets done.",
+  "Pair each bench player with a starter mentor for their position.",
+  "Celebrate bench progress publicly — it signals the whole roster matters.",
+  "Use blowouts strategically: real minutes, real roles, not garbage time.",
+  "Film one bench player's shift per game — five minutes of individual film is gold."
+ ],
+ "commonMistakes": [
+  "Only developing the top seven — then panicking when you need the eighth.",
+  "Giving bench players random minutes with no role — minutes without purpose don't develop anyone.",
+  "Judging a bench player on one bad stint — small samples lie.",
+  "Promising development but running the same seven-man scrimmage all season."
+ ],
+ "dateUpdated": "2026-10-06",
+ "description": "Your season is decided by players 8 through 12. Learn how to keep bench players improving, engaged, and ready — so they're weapons, not worries.",
+ "gameSituations": [
+  "Starter in foul trouble: your prepared 8th man steps in with a defined role.",
+  "Back-to-back games: a developed bench lets you rest starters without dropping the game.",
+  "Blowout win: run real sets for the bench unit instead of just dribbling out the clock.",
+  "Playoff rotation shortens: tell bench players their exact spot-duty role so they stay locked in."
+ ],
+ "howTo": [
+  {
+   "detail": "Not a full skill overhaul — one thing: \"You're becoming our best closeout defender\" or \"You're adding a corner three.\" One clear focus makes limited reps productive and gives the player something to measure.",
+   "title": "Give every bench player one development focus"
+  },
+  {
+   "detail": "Ten minutes before or after practice, or a dedicated second-unit segment: reps for the players who don't get them in scrimmage. This is where bench development actually happens — not in the three minutes they get in a blowout.",
+   "title": "Create bench-only development time"
+  },
+  {
+   "detail": "Early-season minutes are an investment. Give your 9th–12th players real first-half minutes in early games so they're not debuting in a playoff. Early-season development minutes pay off when it matters.",
+   "title": "Play them early in the season on purpose"
+  },
+  {
+   "detail": "Same feedback, same film clips, same standards. Nothing kills a bench player's growth faster than feeling like an afterthought. The moment they feel like real investments, they train like it.",
+   "title": "Coach them like starters in practice"
+  },
+  {
+   "detail": "Tell each bench player exactly what you'll need from them in a crisis: \"If our point guard fouls out, you're our backup ball-handler — here's your package.\" A player with a defined emergency role steps in ready instead of terrified.",
+   "title": "Define their emergency role now"
+  }
+ ],
+ "hub": "coaching",
+ "id": "developing-bench-players",
+ "level": "intermediate",
+ "positions": [
+  "ALL"
+ ],
+ "readTime": 5,
+ "related": [
+  "player-development-plan",
+  "youth-coaching",
+  "practice-planning",
+  "team-culture"
+ ],
+ "slug": "developing-bench-players",
+ "subcategory": "coaching",
+ "tags": [
+  "coaching",
+  "player-development",
+  "bench",
+  "rotation",
+  "development"
+ ],
+ "title": "Developing Bench Players",
+ "vi": {
+  "coachingPoints": [
+   "Theo dõi số lần lặp phát triển của cầu thủ dự bị hàng tuần — cái gì được đo lường sẽ được thực hiện.",
+   "Ghép mỗi cầu thủ dự bị với một đàn anh cùng vị trí làm người dẫn dắt.",
+   "Tôn vinh tiến bộ của dự bị công khai — nó báo hiệu cả đội hình đều quan trọng.",
+   "Dùng các trận cách biệt một cách chiến lược: số phút thật, vai trò thật, không phải thời gian rác.",
+   "Quay film một lượt vào sân của cầu thủ dự bị mỗi trận — năm phút film cá nhân là vàng."
+  ],
+  "commonMistakes": [
+   "Chỉ phát triển bảy người đầu — rồi hoảng loạn khi cần người thứ tám.",
+   "Cho cầu thủ dự bị số phút ngẫu nhiên không vai trò — số phút không mục đích chẳng phát triển được ai.",
+   "Đánh giá cầu thủ dự bị qua một lần vào sân tệ — mẫu nhỏ nói dối.",
+   "Hứa phát triển nhưng cả mùa chỉ chạy đấu tập bảy người."
+  ],
+  "description": "Mùa giải của bạn được quyết định bởi các cầu thủ thứ 8 đến 12. Học cách giữ cầu thủ dự bị tiến bộ, gắn bó và sẵn sàng — để họ là vũ khí, không phải nỗi lo.",
+  "gameSituations": [
+   "Trụ cột dính lỗi cá nhân: cầu thủ thứ 8 đã được chuẩn bị bước vào với vai trò rõ ràng.",
+   "Các trận back-to-back: băng ghế được phát triển cho bạn nghỉ trụ cột mà không đánh rơi trận đấu.",
+   "Trận thắng cách biệt: chạy các bài thật cho đội dự bị thay vì chỉ rê bóng câu giờ.",
+   "Rotation playoff rút ngắn: nói cho cầu thủ dự bị vai trò spot-duty chính xác để họ luôn tập trung."
+  ],
+  "howTo": [
+   {
+    "detail": "Không phải đại tu toàn bộ kỹ năng — một thứ duy nhất: \"Em sẽ thành hậu vệ closeout tốt nhất của chúng ta\" hoặc \"Em sẽ thêm cú ném ba góc.\" Một trọng tâm rõ ràng khiến số lần lặp ít ỏi trở nên hiệu quả và cho cầu thủ thứ để đo lường.",
+    "title": "Cho mỗi cầu thủ dự bị một trọng tâm phát triển"
+   },
+   {
+    "detail": "Mười phút trước hoặc sau buổi tập, hoặc một phần riêng cho đội hình hai: các lần lặp cho những cầu thủ không có được trong đấu tập. Đây là nơi phát triển dự bị thực sự diễn ra — không phải ba phút họ có trong trận cách biệt.",
+    "title": "Tạo thời gian phát triển riêng cho dự bị"
+   },
+   {
+    "detail": "Số phút đầu mùa là một khoản đầu tư. Cho các cầu thủ thứ 9–12 số phút hiệp một thật sự ở các trận đầu mùa để họ không phải \"ra mắt\" ở playoff. Số phút phát triển đầu mùa sẽ trả công khi cần thiết.",
+    "title": "Cho họ thi đấu đầu mùa một cách chủ đích"
+   },
+   {
+    "detail": "Cùng phản hồi, cùng clip film, cùng tiêu chuẩn. Không gì giết chết sự phát triển của cầu thủ dự bị nhanh hơn cảm giác bị xem là phụ. Khoảnh khắc họ cảm thấy mình là khoản đầu tư thật, họ sẽ tập như vậy.",
+    "title": "Huấn luyện họ như đội hình chính trong buổi tập"
+   },
+   {
+    "detail": "Nói với mỗi cầu thủ dự bị chính xác điều bạn cần ở họ trong khủng hoảng: \"Nếu hậu vệ dẫn bóng của chúng ta bị truất quyền thi đấu, em là người cầm bóng dự phòng — đây là gói bài của em.\" Một cầu thủ có vai trò khẩn cấp rõ ràng bước vào sân sẵn sàng thay vì sợ hãi.",
+    "title": "Định nghĩa vai trò khẩn cấp của họ ngay từ bây giờ"
+   }
+  ],
+  "tags": [
+   "huấn luyện",
+   "phát triển cầu thủ",
+   "dự bị",
+   "rotation",
+   "phát triển"
+  ],
+  "title": "Phát triển cầu thủ dự bị",
+  "whatIsIt": [
+   "Cầu thủ dự bị là nhóm ít được huấn luyện nhất trong bóng rổ. Họ nhận ít lần lặp, ít phản hồi, ít quan tâm hơn — rồi bị ném vào một trận playoff trong trạng thái lạnh và bị đổ lỗi vì chưa sẵn sàng. Phát triển cầu thủ dự bị nghĩa là cho họ một kế hoạch phát triển thật sự dù số phút hạn chế.",
+   "Lợi ích là rất lớn: một băng ghế sâu vượt qua chấn thương, rắc rối lỗi cá nhân và mùa giải dài. Các đội có dự bị được phát triển thắng những trận mà đội hình chính không thể — các trận back-to-back, những trận cách biệt bị rút ngắn, trận playoff mà một trụ cột bị truất quyền thi đấu. Bài viết này chỉ bạn cách xây chiều sâu đó một cách chủ đích."
+  ],
+  "whyItMatters": [
+   "Mỗi mùa giải, điều gì đó sẽ trục trặc: chấn thương, sa sút, trụ cột dính lỗi. Các đội vượt qua là những đội mà cầu thủ thứ 9 đã được phát triển cả năm. Ngoài tình huống khẩn cấp, phát triển băng ghế nâng cường độ buổi tập — đội hình chính không thể thả lỏng khi đội hai đang ép — và giữ cả đội hình gắn bó."
+  ]
+ },
+ "whatIsIt": [
+  "Bench players are the most under-coached group in basketball. They get fewer reps, less feedback, and less attention — then get thrown into a playoff game cold and blamed for being unready. Developing bench players means giving them a real development plan despite limited minutes.",
+  "The payoff is enormous: a deep bench survives injuries, foul trouble, and long seasons. Teams with developed benches win the games their starters can't — the back-to-backs, the blowouts that stay close, the playoff game where a starter fouls out. This article shows you how to build that depth on purpose."
+ ],
+ "whyItMatters": [
+  "Every season, something goes wrong: an injury, a slump, a starter in foul trouble. The teams that survive are the ones whose 9th man has been developed all year. Beyond emergencies, developing the bench raises practice intensity — starters can't coast when the second unit is pushing them — and it keeps your whole roster bought in."
+ ]
+}

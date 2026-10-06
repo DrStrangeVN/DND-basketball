@@ -1,0 +1,139 @@
+{
+ "ages": [
+  "U12",
+  "U14",
+  "U16"
+ ],
+ "coachingPoints": [
+  "Give parents one clear channel — email or a team app — and stick to it.",
+  "Share the season calendar early so families can plan around basketball.",
+  "Thank parents publicly for support — volunteers, drivers, loud-but-positive fans.",
+  "Never promise playing time to a parent — promise development and fairness.",
+  "If a parent crosses the line at games, address it privately and quickly."
+ ],
+ "commonMistakes": [
+  "No preseason meeting — then being surprised when expectations clash.",
+  "Arguing with a parent right after a game — nobody wins that conversation.",
+  "Discussing other players' minutes to justify decisions — breaks trust instantly.",
+  "Ignoring a reasonable parent concern until it becomes an unreasonable one."
+ ],
+ "dateUpdated": "2026-10-06",
+ "description": "Turn parents from critics into partners. Learn how to set expectations early, handle complaints calmly, and build a parent culture that supports the team.",
+ "gameSituations": [
+  "A parent confronts you after a loss: invoke the 24-hour rule and schedule a meeting.",
+  "Sideline coaching from a parent: speak privately, ask for one voice — yours.",
+  "A parent questions playing time: walk through the development plan and practice data.",
+  "Team parent group chat turns toxic: set norms early or move official news to your channel only."
+ ],
+ "howTo": [
+  {
+   "detail": "Before the first practice, gather parents and cover: your philosophy, playing-time approach, communication channels, and behavior expectations at games. A 30-minute meeting early in the season prevents 30 angry emails later. Put the key points in writing.",
+   "title": "Hold a preseason parent meeting"
+  },
+  {
+   "detail": "Tell parents: no discussions about playing time or coaching decisions within 24 hours of a game. Emotions cool, facts stay. This single rule eliminates most heated confrontations — and protects you from conversations you'll regret.",
+   "title": "Set a 24-hour rule for complaints"
+  },
+  {
+   "detail": "A short weekly update — practice schedule, what the team worked on, upcoming games — keeps parents informed and removes the mystery that breeds complaints. Silence from the coach gets filled with speculation.",
+   "title": "Communicate on a schedule, not just in crises"
+  },
+  {
+   "detail": "When a parent raises a concern, redirect to their kid's development: \"Here's what he's working on and how he can earn more minutes.\" Parents can argue about fairness; they can't argue with a development plan for their own child.",
+   "title": "Keep every conversation about the child, not the team"
+  },
+  {
+   "detail": "Follow up important conversations with a short written summary. Never discuss one child with another parent. And never argue on the sideline — move heated discussions to a scheduled, private meeting. Professionalism is your shield.",
+   "title": "Document and stay professional"
+  }
+ ],
+ "hub": "coaching",
+ "id": "parent-communication",
+ "level": "beginner",
+ "positions": [
+  "ALL"
+ ],
+ "readTime": 5,
+ "related": [
+  "youth-coaching",
+  "game-preparation",
+  "player-communication",
+  "teaching-basketball"
+ ],
+ "slug": "parent-communication",
+ "subcategory": "coaching",
+ "tags": [
+  "coaching",
+  "parents",
+  "communication",
+  "youth",
+  "leadership"
+ ],
+ "title": "Parent Communication",
+ "vi": {
+  "coachingPoints": [
+   "Cho phụ huynh một kênh rõ ràng duy nhất — email hoặc app đội — và kiên trì với nó.",
+   "Chia sẻ lịch cả mùa sớm để gia đình sắp xếp quanh bóng rổ.",
+   "Cảm ơn phụ huynh công khai vì sự hỗ trợ — tình nguyện viên, tài xế, cổ động viên nhiệt tình.",
+   "Không bao giờ hứa thời gian thi đấu với phụ huynh — hãy hứa phát triển và công bằng.",
+   "Nếu phụ huynh vượt giới hạn ở trận đấu, xử lý riêng tư và nhanh chóng."
+  ],
+  "commonMistakes": [
+   "Không họp đầu mùa — rồi ngạc nhiên khi kỳ vọng xung đột.",
+   "Tranh cãi với phụ huynh ngay sau trận — không ai thắng cuộc trò chuyện đó.",
+   "Bàn về số phút của cầu thủ khác để biện minh quyết định — mất niềm tin ngay lập tức.",
+   "Phớt lờ một mối quan ngại hợp lý của phụ huynh cho đến khi nó trở thành phi lý."
+  ],
+  "description": "Biến phụ huynh từ người phê bình thành đối tác. Học cách đặt kỳ vọng sớm, xử lý khiếu nại bình tĩnh và xây dựng văn hóa phụ huynh hỗ trợ đội bóng.",
+  "gameSituations": [
+   "Một phụ huynh đối chất sau trận thua: viện dẫn quy tắc 24 giờ và hẹn một buổi gặp.",
+   "Phụ huynh \"huấn luyện\" từ bên lề sân: nói riêng, yêu cầu chỉ một tiếng nói — tiếng nói của bạn.",
+   "Phụ huynh thắc mắc thời gian thi đấu: đi qua kế hoạch phát triển và dữ liệu buổi tập.",
+   "Nhóm chat phụ huynh trở nên độc hại: đặt chuẩn mực sớm hoặc chuyển tin chính thức sang chỉ kênh của bạn."
+  ],
+  "howTo": [
+   {
+    "detail": "Trước buổi tập đầu tiên, tập hợp phụ huynh và trình bày: triết lý của bạn, cách tiếp cận thời gian thi đấu, kênh giao tiếp, và kỳ vọng hành vi ở trận đấu. Một buổi họp 30 phút đầu mùa ngăn được 30 email giận dữ về sau. Đưa các điểm chính thành văn bản.",
+    "title": "Tổ chức buổi họp phụ huynh đầu mùa"
+   },
+   {
+    "detail": "Nói với phụ huynh: không thảo luận về thời gian thi đấu hay quyết định huấn luyện trong 24 giờ sau trận đấu. Cảm xúc nguội đi, sự thật ở lại. Một quy tắc duy nhất này loại bỏ hầu hết đối đầu gay gắt — và bảo vệ bạn khỏi những cuộc trò chuyện mà bạn sẽ hối hận.",
+    "title": "Đặt quy tắc 24 giờ cho khiếu nại"
+   },
+   {
+    "detail": "Một bản cập nhật ngắn hàng tuần — lịch tập, điều đội đã làm, các trận sắp tới — giúp phụ huynh nắm thông tin và xóa đi sự bí ẩn vốn nuôi dưỡng khiếu nại. Sự im lặng từ huấn luyện viên sẽ bị lấp bằng suy đoán.",
+    "title": "Giao tiếp theo lịch trình, không chỉ khi khủng hoảng"
+   },
+   {
+    "detail": "Khi phụ huynh nêu mối quan ngại, hãy hướng về sự phát triển của con họ: \"Đây là điều cháu đang rèn luyện và cách cháu có thể có thêm số phút.\" Phụ huynh có thể tranh cãi về công bằng; họ không thể tranh cãi với một kế hoạch phát triển cho chính con mình.",
+    "title": "Giữ mọi cuộc trò chuyện về đứa trẻ, không phải về đội"
+   },
+   {
+    "detail": "Sau các cuộc trò chuyện quan trọng, gửi một bản tóm tắt ngắn bằng văn bản. Không bao giờ bàn về một em với phụ huynh khác. Và không bao giờ tranh cãi bên lề sân — chuyển các thảo luận gay gắt sang một cuộc họp riêng đã hẹn. Sự chuyên nghiệp là lá chắn của bạn.",
+    "title": "Ghi chép và giữ chuyên nghiệp"
+   }
+  ],
+  "tags": [
+   "huấn luyện",
+   "phụ huynh",
+   "giao tiếp",
+   "cầu thủ trẻ",
+   "lãnh đạo"
+  ],
+  "title": "Giao tiếp với phụ huynh",
+  "whatIsIt": [
+   "Phụ huynh là một phần của mọi đội trẻ dù bạn có lên kế hoạch hay không. Họ lái xe đưa đón, đóng phí, và định hình cảm nhận của các em về môn thể thao — và khi giao tiếp đổ vỡ, họ trở thành vấn đề ồn ào nhất của mùa giải.",
+   "Giao tiếp tốt với phụ huynh là chủ động, không phải bị động. Nghĩa là đặt kỳ vọng trước mùa giải, chia sẻ thông tin đều đặn, và có quy trình rõ ràng cho các mối quan ngại. Làm tốt, phụ huynh trở thành người ủng hộ lớn nhất; làm tệ, họ trở thành một \"ban huấn luyện thứ hai\" chống lại bạn."
+  ],
+  "whyItMatters": [
+   "Hầu hết xung đột trong huấn luyện trẻ là xung đột với phụ huynh. Một phụ huynh không hài lòng có thể đầu độc bầu không khí đội, biến thảo luận thời gian thi đấu thành chính trị, và đẩy các em rời khỏi môn thể thao. Huấn luyện viên giao tiếp tốt với phụ huynh bảo vệ trải nghiệm của cầu thủ — và sự tỉnh táo của chính mình. Vài giờ đầu tư trước mùa giải tiết kiệm hàng chục cuộc trò chuyện đau đầu về sau."
+  ]
+ },
+ "whatIsIt": [
+  "Parents are part of every youth team whether you plan for it or not. They drive the carpools, pay the fees, and shape how kids feel about the sport — and when communication breaks down, they become the loudest problem in your season.",
+  "Good parent communication is proactive, not reactive. It means setting expectations before the season, sharing information consistently, and having a clear process for concerns. Done well, parents become your biggest supporters; done poorly, they become a second coaching staff working against you."
+ ],
+ "whyItMatters": [
+  "Most youth coaching conflicts are parent conflicts. A single unhappy parent can poison a team's atmosphere, turn playing-time discussions into politics, and drive kids out of the sport. Coaches who communicate well with parents protect their players' experience — and their own sanity. The few hours you invest preseason save dozens of painful conversations later."
+ ]
+}

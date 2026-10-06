@@ -1,0 +1,138 @@
+{
+ "ages": [
+  "U14",
+  "U16",
+  "U18",
+  "Adult"
+ ],
+ "coachingPoints": [
+  "Assign an assistant to track one stat per half — you can't watch everything.",
+  "Ask your captains what they're seeing before you finalize the message.",
+  "Fix transition defense first — it's the cheapest halftime adjustment.",
+  "Keep water, ice, and treatment going — logistics matter in a short break.",
+  "Write your two adjustments on the board before players sit down."
+ ],
+ "commonMistakes": [
+  "Talking for 12 of 15 minutes — players need rest and air, not a lecture.",
+  "Changing the entire game plan — adjust the edges, not the identity.",
+  "Blaming individuals in front of the group — correct privately, adjust publicly.",
+  "Ignoring the emotional state of the team — a deflated team needs belief before tactics."
+ ],
+ "dateUpdated": "2026-10-06",
+ "description": "Fifteen minutes to change the game. Learn how to diagnose the first half fast and deliver a halftime message that actually changes the second half.",
+ "gameSituations": [
+  "Down 10 at half: identify the run source (usually transition or one matchup) and attack it first.",
+  "Up 15: warn against complacency — set a specific second-half standard, not just \"keep it up.\"",
+  "Foul trouble on a key player: redesign the rotation on the board so everyone sees the plan.",
+  "Opponent changed defense: name it, show the counter on the board, rep it once in the hallway if you can."
+ ],
+ "howTo": [
+  {
+   "detail": "Use the walk to the locker room to decide: what is actually beating us? Pick the top two factors — one offensive, one defensive — and build the whole message around them. If you can't name them in one sentence each, you're not ready to talk.",
+   "title": "Diagnose before you speak"
+  },
+  {
+   "detail": "Players mirror your energy. Walk in calm, even if you're losing. A composed coach signals that the game is still winnable; a panicking coach signals it's already lost. Save intensity for specific moments, not the whole break.",
+   "title": "Lead with composure, not volume"
+  },
+  {
+   "detail": "Halftime is not a clinic. \"We're switching all pick and rolls, we're running everything through the high post, and we're sprinting back every possession.\" Three clear instructions players can remember under pressure beat ten clever ones they forget.",
+   "title": "Give two or three changes, max"
+  },
+  {
+   "detail": "Use the whiteboard for one diagram — the key adjustment — and walk through it with the players who execute it. A 60-second visual of the new coverage is worth five minutes of talking.",
+   "title": "Show it, don't just say it"
+  },
+  {
+   "detail": "Close with why you'll win the second half and one trigger phrase for the court: \"First five minutes — stops and run.\" Players need to walk out with clarity and confidence, not a head full of notes.",
+   "title": "End with belief and one trigger"
+  }
+ ],
+ "hub": "coaching",
+ "id": "halftime-adjustments",
+ "level": "intermediate",
+ "positions": [
+  "ALL"
+ ],
+ "readTime": 5,
+ "related": [
+  "timeout-management",
+  "end-of-game-decisions",
+  "game-preparation",
+  "scouting-opponents"
+ ],
+ "slug": "halftime-adjustments",
+ "subcategory": "coaching",
+ "tags": [
+  "coaching",
+  "halftime",
+  "adjustments",
+  "tactics"
+ ],
+ "title": "Halftime Adjustments",
+ "vi": {
+  "coachingPoints": [
+   "Giao cho trợ lý theo dõi một chỉ số mỗi hiệp — bạn không thể xem hết mọi thứ.",
+   "Hỏi đội trưởng họ thấy gì trước khi bạn chốt thông điệp.",
+   "Sửa phòng ngự chuyển trạng thái trước — đó là điều chỉnh giờ nghỉ \"rẻ\" nhất.",
+   "Duy trì nước, đá và chăm sóc — hậu cần quan trọng trong quãng nghỉ ngắn.",
+   "Viết hai điều chỉnh lên bảng trước khi cầu thủ ngồi xuống."
+  ],
+  "commonMistakes": [
+   "Nói 12 trong 15 phút — cầu thủ cần nghỉ ngơi và thở, không phải bài giảng.",
+   "Thay toàn bộ kế hoạch trận đấu — điều chỉnh phần rìa, không phải bản sắc.",
+   "Đổ lỗi cá nhân trước cả nhóm — sửa riêng tư, điều chỉnh công khai.",
+   "Bỏ qua trạng thái cảm xúc của đội — một đội suy sụp cần niềm tin trước chiến thuật."
+  ],
+  "description": "Mười lăm phút để thay đổi trận đấu. Học cách chẩn đoán hiệp một nhanh chóng và đưa thông điệp giờ nghỉ thực sự thay đổi hiệp hai.",
+  "gameSituations": [
+   "Đang thua 10 điểm: xác định nguồn cơn của chuỗi điểm đối phương (thường là chuyển trạng thái hoặc một matchup) và xử lý nó trước.",
+   "Đang dẫn 15: cảnh báo tự mãn — đặt một tiêu chuẩn hiệp hai cụ thể, không chỉ \"cứ thế phát huy.\"",
+   "Trụ cột dính lỗi cá nhân: thiết kế lại rotation trên bảng để mọi người thấy kế hoạch.",
+   "Đối thủ đổi phòng ngự: gọi tên nó, vẽ cách đối phó lên bảng, tập thử một lần ở hành lang nếu có thể."
+  ],
+  "howTo": [
+   {
+    "detail": "Dùng quãng đường vào phòng thay đồ để quyết định: điều gì thực sự đang đánh bại chúng ta? Chọn hai yếu tố hàng đầu — một tấn công, một phòng ngự — và xây toàn bộ thông điệp quanh chúng. Nếu bạn không gọi tên được mỗi yếu tố trong một câu, bạn chưa sẵn sàng để nói.",
+    "title": "Chẩn đoán trước khi nói"
+   },
+   {
+    "detail": "Cầu thủ phản chiếu năng lượng của bạn. Bước vào thật bình tĩnh, ngay cả khi đang thua. Một huấn luyện viên điềm tĩnh báo hiệu trận đấu vẫn có thể thắng; một huấn luyện viên hoảng loạn báo hiệu nó đã thua. Dành sự quyết liệt cho những khoảnh khắc cụ thể, không phải cả giờ nghỉ.",
+    "title": "Mở đầu bằng bình tĩnh, không phải âm lượng"
+   },
+   {
+    "detail": "Giờ nghỉ không phải lớp học chiến thuật. \"Chúng ta switch mọi pick and roll, mọi thứ chạy qua high post, và sprint về mỗi đợt phòng ngự.\" Ba chỉ dẫn rõ ràng mà cầu thủ nhớ được dưới áp lực tốt hơn mười ý tưởng thông minh mà họ quên.",
+    "title": "Tối đa hai đến ba thay đổi"
+   },
+   {
+    "detail": "Dùng bảng trắng cho một sơ đồ — điều chỉnh then chốt — và đi qua nó với những cầu thủ thực hiện. 60 giây hình ảnh về cách phòng ngự mới đáng giá năm phút nói suông.",
+    "title": "Cho xem, đừng chỉ nói"
+   },
+   {
+    "detail": "Khép lại bằng lý do bạn sẽ thắng hiệp hai và một cụm từ kích hoạt trên sân: \"Năm phút đầu — phòng ngự chắc và chạy.\" Cầu thủ cần bước ra với sự rõ ràng và tự tin, không phải cái đầu đầy ghi chú.",
+    "title": "Kết thúc bằng niềm tin và một cụm từ kích hoạt"
+   }
+  ],
+  "tags": [
+   "huấn luyện",
+   "giờ nghỉ",
+   "điều chỉnh",
+   "chiến thuật"
+  ],
+  "title": "Điều chỉnh giờ nghỉ giữa hiệp",
+  "whatIsIt": [
+   "Giờ nghỉ giữa hiệp là khoảng thời gian huấn luyện tập trung nhất trong bóng rổ: một quãng nghỉ ngắn để bạn nhìn toàn cảnh hiệp một, nạp lại năng lượng và thay đổi kế hoạch. Điều chỉnh giờ nghỉ tốt không phải bài phát biểu dài — mà là hai ba thay đổi rõ ràng cầu thủ có thể thực hiện ngay.",
+   "Hầu hết huấn luyện viên lãng phí giờ nghỉ vào cảm xúc hoặc nhồi nhét thông tin. Cách hiệu quả là chẩn đoán: tìm ra một hai điều đang quyết định trận đấu, sửa những gì sửa được, và đưa cho đội một kế hoạch đơn giản, tự tin cho hiệp hai."
+  ],
+  "whyItMatters": [
+   "Các trận đấu thường được quyết định bởi đội nào điều chỉnh tốt hơn ở giờ nghỉ. Đối thủ sẽ thay đổi cách tiếp cận — nếu bạn không thay đổi, bạn trao thế chủ động cho họ. Một thông điệp giờ nghỉ bình tĩnh, tập trung còn giúp ổn định tinh thần và cho cầu thủ niềm tin rằng ban huấn luyện nhìn trận đấu rõ ràng — đó đã là nửa trận chiến trong các trận sát nút."
+  ]
+ },
+ "whatIsIt": [
+  "Halftime is the most concentrated coaching window in basketball: a short break where you can see the whole first half, reset energy, and change the plan. Good halftime adjustments are not a long speech — they are two or three clear changes your players can execute immediately.",
+  "Most coaches waste halftime on emotion or information overload. The effective approach is diagnostic: figure out the one or two things deciding the game, fix what you can fix, and give the team a simple, confident plan for the second half."
+ ],
+ "whyItMatters": [
+  "Games are often decided by which team adjusts at halftime. The opponent will change their approach — if you don't, you hand them the initiative. A calm, focused halftime message also settles nerves and gives players belief that the coaching staff sees the game clearly, which is half the battle in close games."
+ ]
+}
