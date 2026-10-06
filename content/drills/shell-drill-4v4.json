@@ -1,0 +1,109 @@
+{
+  "id": "shell-drill-4v4",
+  "slug": "shell-drill-4v4",
+  "title": "Shell Drill 4v4",
+  "description": "The classic team defense builder: 4v4 shell with ball rotations, closeouts, help positioning, and skip-pass recoveries — the foundation of every great defense.",
+  "skill": "Defense",
+  "level": "intermediate",
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "players": "8+",
+  "equipment": [
+    "Basketball"
+  ],
+  "durationMin": 15,
+  "intensity": "medium",
+  "goal": "Install correct help-side positioning, closeout technique, and rotation habits in a controlled 4v4 setting.",
+  "setup": [
+    "4 offense around the arc (no dribble), 4 defense in shell positions.",
+    "Coach passes the ball around; defense shifts on every pass.",
+    "Rotate offense to defense every 3 minutes."
+  ],
+  "instructions": [
+    {
+      "title": "Shift on the pass",
+      "detail": "On every pass, the whole defense shifts — ball-side defenders up, help-side defenders in and down."
+    },
+    {
+      "title": "Close out the skip",
+      "detail": "On a skip pass, the defender sprints half, chops feet, and closes out with a high hand."
+    },
+    {
+      "title": "Help and recover",
+      "detail": "On a drive, the help defender stunts or helps, then sprints back to their man on the pass out."
+    },
+    {
+      "title": "Live 4v4",
+      "detail": "Finish with live 4v4 to 3 stops — no coaches talking, players must communicate."
+    }
+  ],
+  "coachingPoints": [
+    "Talk on every rotation — silent shell is useless shell.",
+    "See both your man and the ball; head on a swivel.",
+    "Closeouts under control — sprinting past the shooter gives up the drive."
+  ],
+  "commonMistakes": [
+    "Ball-watching and losing your man on the skip.",
+    "Helping too far and giving up the corner three."
+  ],
+  "progression": "Allow the offense to dribble and drive; defense must rotate live.",
+  "regression": "Walk through positions with no ball movement first.",
+  "gameApplication": "Championship defenses are built in shell drill — it's where help, rotations, and communication become instinct instead of thought.",
+  "related": [
+    "shell-drill",
+    "help-and-recover",
+    "closeout-rotations"
+  ],
+  "dateUpdated": "2026-10-06",
+  "vi": {
+    "title": "Bài Shell 4v4",
+    "description": "Bài xây dựng phòng thủ đồng đội kinh điển: shell 4v4 với xoay bóng, closeout, vị trí help và hồi phục sau skip pass — nền tảng của mọi hàng thủ vĩ đại.",
+    "goal": "Lắp đặt vị trí help-side đúng, kỹ thuật closeout và thói quen xoay người trong môi trường 4v4 có kiểm soát.",
+    "setup": [
+      "4 tấn công quanh vòng 3 điểm (không đập bóng), 4 phòng thủ ở vị trí shell.",
+      "HLV chuyền bóng vòng quanh; hàng thủ dịch chuyển mỗi đường chuyền.",
+      "Xoay tấn công thành phòng thủ mỗi 3 phút."
+    ],
+    "instructions": [
+      {
+        "title": "Dịch chuyển theo đường chuyền",
+        "detail": "Mỗi đường chuyền, cả hàng thủ dịch chuyển — bên bóng dâng lên, bên help lùi vào và xuống."
+      },
+      {
+        "title": "Closeout đường skip",
+        "detail": "Khi skip pass, hậu vệ sprint nửa đường, chém chân rồi closeout tay cao."
+      },
+      {
+        "title": "Help và hồi phục",
+        "detail": "Khi bị đột phá, help defender stunt hoặc help rồi sprint về người mình khi bóng chuyền ra."
+      },
+      {
+        "title": "Đấu live 4v4",
+        "detail": "Kết thúc bằng 4v4 live chạm 3 lần thủng lưới — không HLV nhắc, cầu thủ phải tự giao tiếp."
+      }
+    ],
+    "coachingPoints": [
+      "Nói trong mỗi lần xoay — shell im lặng là shell vô dụng.",
+      "Nhìn cả người mình và bóng; đầu phải xoay liên tục.",
+      "Closeout có kiểm soát — lao qua người ném là dâng luôn đường đột phá."
+    ],
+    "commonMistakes": [
+      "Mải nhìn bóng để mất người khi skip pass.",
+      "Help quá xa để lộ cú 3 điểm góc."
+    ],
+    "progression": "Cho tấn công được đập bóng và đột phá; phòng thủ phải xoay live.",
+    "regression": "Đi bộ qua các vị trí không cần bóng trước.",
+    "gameApplication": "Hàng thủ vô địch được xây trong shell drill — đó là nơi help, xoay người và giao tiếp thành bản năng thay vì suy nghĩ.",
+    "players": "8+",
+    "equipment": [
+      "Bóng rổ"
+    ]
+  }
+}

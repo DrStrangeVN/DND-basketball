@@ -1,0 +1,111 @@
+{
+  "id": "jab-step-series",
+  "slug": "jab-step-series",
+  "title": "Jab Step Series",
+  "description": "Weaponize the jab: jab-and-go, jab-and-crossover, and jab-and-shoot from triple threat — selling every fake with your shoulders and eyes.",
+  "skill": "Footwork",
+  "level": "beginner",
+  "ages": [
+    "U10",
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "players": "1",
+  "equipment": [
+    "Basketball"
+  ],
+  "durationMin": 10,
+  "intensity": "low",
+  "goal": "Build a triple-threat jab series with three counters so defenders can never sit on your first move.",
+  "setup": [
+    "Start at the wing in triple threat with a ball.",
+    "Use a cone or chair as the imaginary defender.",
+    "Work both sides of the floor."
+  ],
+  "instructions": [
+    {
+      "title": "Jab and go",
+      "detail": "Explosive jab step with the outside foot, read the defender's shift, then drive hard past the front foot."
+    },
+    {
+      "title": "Jab crossover",
+      "detail": "Jab one way to move the defender, then crossover and drive the other way in one motion."
+    },
+    {
+      "title": "Jab and shoot",
+      "detail": "When the defender backs off the jab, rise straight into the jumper — no extra dribble needed."
+    },
+    {
+      "title": "Combo jabs",
+      "detail": "Double jab — jab, jab again, then pick your counter based on which way the defender leaned."
+    }
+  ],
+  "coachingPoints": [
+    "The jab sells with the whole body — shoulders, eyes, and ball all lie together.",
+    "Keep the pivot foot planted; a travel kills the move before it starts.",
+    "Go somewhere after the jab — a jab with no attack is just dancing."
+  ],
+  "commonMistakes": [
+    "Hopping on the jab instead of stepping — that's a travel.",
+    "Jabbing without reading the defender's reaction."
+  ],
+  "progression": "Add a live defender who must react to each jab honestly.",
+  "regression": "Practice the jab step footwork without a ball first.",
+  "gameApplication": "Every catch in triple threat is a decision — a real jab series turns those decisions into blow-bys and open jumpers.",
+  "related": [
+    "jump-stop-series",
+    "pivot-gauntlet",
+    "hesitation-series"
+  ],
+  "dateUpdated": "2026-10-06",
+  "vi": {
+    "title": "Chuỗi Động Tác Jab Step",
+    "description": "Biến jab step thành vũ khí: jab-and-go, jab-and-crossover và jab-and-shoot từ triple threat — 'bán' mỗi pha giả bằng vai và mắt.",
+    "goal": "Xây dựng chuỗi jab từ triple threat với ba biến thể để hậu vệ không bao giờ bắt bài được.",
+    "setup": [
+      "Bắt đầu ở wing tư thế triple threat với bóng.",
+      "Dùng cọc tiêu hoặc ghế làm hậu vệ tưởng tượng.",
+      "Tập cả hai bên sân."
+    ],
+    "instructions": [
+      {
+        "title": "Jab rồi đi",
+        "detail": "Jab mạnh bằng chân ngoài, đọc sự dịch chuyển của hậu vệ rồi đột phá qua chân trước."
+      },
+      {
+        "title": "Jab crossover",
+        "detail": "Jab một hướng để đẩy hậu vệ lệch rồi crossover đột phá hướng ngược lại trong một nhịp."
+      },
+      {
+        "title": "Jab rồi ném",
+        "detail": "Khi hậu vệ lùi sau cú jab, bật ném ngay — không cần thêm nhịp đập nào."
+      },
+      {
+        "title": "Jab kép",
+        "detail": "Jab hai lần — jab, jab nữa, rồi chọn biến thể dựa vào hướng hậu vệ nghiêng."
+      }
+    ],
+    "coachingPoints": [
+      "Jab phải 'bán' bằng cả cơ thể — vai, mắt và bóng cùng nói dối.",
+      "Giữ chân trụ cố định; bước lỗi giết chết động tác trước khi nó bắt đầu.",
+      "Phải đi đâu đó sau jab — jab mà không tấn công chỉ là nhảy múa."
+    ],
+    "commonMistakes": [
+      "Nhảy lò cò khi jab thay vì bước — đó là bước lỗi.",
+      "Jab mà không đọc phản ứng của hậu vệ."
+    ],
+    "progression": "Thêm hậu vệ thật phải phản ứng trung thực với mỗi cú jab.",
+    "regression": "Tập footwork jab step không bóng trước.",
+    "gameApplication": "Mỗi lần bắt bóng ở triple threat là một quyết định — chuỗi jab thật biến những quyết định đó thành pha vượt qua và cú ném trống.",
+    "players": "1",
+    "equipment": [
+      "Bóng rổ"
+    ]
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "id": "power-layup-finishing",
+  "slug": "power-layup-finishing",
+  "title": "Power Layups Through Contact",
+  "description": "Two-foot jump-stop power finishes through pad contact — the strong man's layup for drivers who refuse to get bumped off their line.",
+  "skill": "Finishing",
+  "level": "advanced",
+  "ages": [
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "players": "2",
+  "equipment": [
+    "Basketball",
+    "Blocking pad"
+  ],
+  "durationMin": 12,
+  "intensity": "high",
+  "goal": "Finish strong through contact with balanced two-foot power layups instead of fading away from hits.",
+  "setup": [
+    "Pad holder stands just outside the charge circle.",
+    "Driver starts at the top with a ball.",
+    "Alternate driving right and left."
+  ],
+  "instructions": [
+    {
+      "title": "Jump-stop power layup right",
+      "detail": "Drive hard, jump-stop on two feet into the pad bump, and power up strong off two feet."
+    },
+    {
+      "title": "Power layup left",
+      "detail": "Same thing going left — most players avoid this side, which is exactly why you drill it."
+    },
+    {
+      "title": "Up-and-under after contact",
+      "detail": "Show the ball high through the bump, then go under the shot-blocker's jump for the finish."
+    },
+    {
+      "title": "And-one round",
+      "detail": "Pad holder fouls harder each rep — finish anyway. 5 makes each side."
+    }
+  ],
+  "coachingPoints": [
+    "Chin the ball and go up strong — weak finishes get pinned.",
+    "Land on two feet in balance; that's what lets you absorb the hit.",
+    "Initiate the contact — the driver who seeks it gets the whistle."
+  ],
+  "commonMistakes": [
+    "Jumping off one foot into the pad — you'll get knocked sideways.",
+    "Bringing the ball down low where help can strip it."
+  ],
+  "progression": "Add a second defender rotating over for the real 2-on-1 finish.",
+  "regression": "Do it without the pad first to groove the two-foot footwork.",
+  "gameApplication": "Playoff basketball is decided at the rim through contact — players who finish and-ones swing entire games.",
+  "related": [
+    "contact-finishing-drill",
+    "mikan-drill",
+    "full-court-finishing"
+  ],
+  "dateUpdated": "2026-10-06",
+  "vi": {
+    "title": "Dứt Điểm Mạnh Qua Va Chạm",
+    "description": "Dứt điểm hai chân jump-stop mạnh mẽ qua va chạm đệm — pha layup 'cơ bắp' cho những người đột phá không chịu bị húc văng.",
+    "goal": "Dứt điểm mạnh qua va chạm bằng power layup hai chân thăng bằng thay vì né tránh.",
+    "setup": [
+      "Người cầm đệm đứng ngay ngoài vòng charge.",
+      "Người dẫn bắt đầu ở đỉnh với bóng.",
+      "Luân phiên đột phá phải và trái."
+    ],
+    "instructions": [
+      {
+        "title": "Power layup phải",
+        "detail": "Đột phá mạnh, jump-stop hai chân vào cú húc đệm rồi bật mạnh lên hai chân dứt điểm."
+      },
+      {
+        "title": "Power layup trái",
+        "detail": "Tương tự bên trái — đa số né bên này, đó chính là lý do phải tập."
+      },
+      {
+        "title": "Up-and-under sau va chạm",
+        "detail": "Giơ bóng cao qua cú húc rồi luồn dưới cú nhảy của tay chắn để dứt điểm."
+      },
+      {
+        "title": "Vòng and-one",
+        "detail": "Người cầm đệm phạm lỗi mạnh dần mỗi lượt — vẫn phải dứt điểm. 5 cú trúng mỗi bên."
+      }
+    ],
+    "coachingPoints": [
+      "Kẹp bóng sát cằm và bật mạnh — dứt điểm yếu ớt sẽ bị block.",
+      "Tiếp đất hai chân thăng bằng; đó mới là cách chịu được va chạm.",
+      "Chủ động tạo va chạm — người đột phá tìm va chạm sẽ được còi."
+    ],
+    "commonMistakes": [
+      "Bật một chân vào đệm — bạn sẽ bị húc văng ngang.",
+      "Hạ bóng thấp để help defender cướp mất."
+    ],
+    "progression": "Thêm hậu vệ thứ hai xoay ra để dứt điểm 2-đánh-1 thật.",
+    "regression": "Tập không đệm trước để quen footwork hai chân.",
+    "gameApplication": "Bóng rổ playoff được quyết định ở rổ qua va chạm — ai dứt điểm được and-one sẽ xoay chuyển cả trận đấu.",
+    "players": "2",
+    "equipment": [
+      "Bóng rổ",
+      "Đệm chắn"
+    ]
+  }
+}

@@ -2,11 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://dndbasketball.vercel.app/</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
   <url><loc>https://dndbasketball.vercel.app/basketball-iq</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://dndbasketball.vercel.app/basketball-iq/baseline-drive-reads</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/basketball-iq/clock-management</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/basketball-iq/closeout-reads</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/basketball-iq/creating-advantages</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/basketball-iq/crunch-time-decisions</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/basketball-iq/decision-making</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://dndbasketball.vercel.app/basketball-iq/end-game-fouling-strategy</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/basketball-iq/end-of-game-decisions</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/basketball-iq/foul-management</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/basketball-iq/help-side-rotation-timing</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -14,27 +16,39 @@
   <url><loc>https://dndbasketball.vercel.app/basketball-iq/mismatch-hunting</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/basketball-iq/pace-control</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/basketball-iq/pick-and-roll-reads</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://dndbasketball.vercel.app/basketball-iq/playing-with-a-lead</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/basketball-iq/reading-ball-screens</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/basketball-iq/reading-help-defense</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://dndbasketball.vercel.app/basketball-iq/reading-nail-defense</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/basketball-iq/reading-the-defense</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/basketball-iq/shot-selection-analytics</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/basketball-iq/shot-selection-iq</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://dndbasketball.vercel.app/basketball-iq/skip-pass-reads</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://dndbasketball.vercel.app/basketball-iq/team-analytics</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/basketball-iq/timing-basketball</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/basketball-iq/two-for-one</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://dndbasketball.vercel.app/basketball-iq/weak-side-timing</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/coaching</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://dndbasketball.vercel.app/coaching/building-practice-culture</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://dndbasketball.vercel.app/coaching/building-team-identity</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://dndbasketball.vercel.app/coaching/coaching-leadership</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://dndbasketball.vercel.app/coaching/coaching-toughness</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/coaching/coaching-youth-confidence</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/coaching/developing-bench-players</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://dndbasketball.vercel.app/coaching/end-of-practice-games</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/coaching/film-study-coaching</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/coaching/game-preparation</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/coaching/giving-feedback-that-sticks</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/coaching/halftime-adjustments</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/coaching/in-game-adjustments</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/coaching/managing-playing-time</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://dndbasketball.vercel.app/coaching/offseason-program-design</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/coaching/parent-communication</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/coaching/player-communication</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/coaching/player-development-plan</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/coaching/practice-planning</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://dndbasketball.vercel.app/coaching/practice-tempo</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://dndbasketball.vercel.app/coaching/rotation-patterns</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/coaching/scouting-opponents</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/coaching/teaching-basketball</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/coaching/team-culture</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -65,42 +79,62 @@
   <url><loc>https://dndbasketball.vercel.app/drills/box-out-battle</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/drills/change-of-pace-ladder</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/drills/closeout-drill</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://dndbasketball.vercel.app/drills/closeout-rotations</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/drills/closeout-to-contest</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://dndbasketball.vercel.app/drills/combo-moves-full-court</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/drills/cone-crossover-series</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/drills/contact-finishing-drill</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/drills/defensive-slide-ladder</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://dndbasketball.vercel.app/drills/dho-series</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://dndbasketball.vercel.app/drills/drop-step-finishing</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/drills/euro-step-finishing</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/drills/five-spot-catch-shoot</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/drills/floater-series</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://dndbasketball.vercel.app/drills/floater-vs-contact</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/drills/form-shooting</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://dndbasketball.vercel.app/drills/free-throw-boxout-battle</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/drills/free-throw-pressure</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/drills/free-throw-routine</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/drills/full-court-finishing</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/drills/full-court-zigzag-handles</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/drills/help-and-recover</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://dndbasketball.vercel.app/drills/hesitation-series</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://dndbasketball.vercel.app/drills/jab-step-series</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/drills/jump-stop-series</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://dndbasketball.vercel.app/drills/midrange-series</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/drills/mikan-drill</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://dndbasketball.vercel.app/drills/off-screen-shooting-drill</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://dndbasketball.vercel.app/drills/offensive-tip-drill</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://dndbasketball.vercel.app/drills/one-on-one-closeout-live</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/drills/one-on-one-live</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/drills/outlet-passing-race</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/drills/pick-and-roll-two-on-two</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/drills/pivot-gauntlet</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/drills/pocket-pass-drill</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://dndbasketball.vercel.app/drills/post-entry-passing</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://dndbasketball.vercel.app/drills/power-layup-finishing</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/drills/pro-hop-finishing</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/drills/pull-up-cone-series</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/drills/retreat-dribble-pressure</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/drills/reverse-layup-drill</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://dndbasketball.vercel.app/drills/runner-series</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://dndbasketball.vercel.app/drills/seventeen-sprint-shooting</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/drills/shell-drill</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://dndbasketball.vercel.app/drills/shell-drill-4v4</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/drills/skip-pass-accuracy</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/drills/skip-pass-shooting</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/drills/spot-shooting-ladder</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/drills/star-shooting</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://dndbasketball.vercel.app/drills/tag-and-recover</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/drills/three-man-weave</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://dndbasketball.vercel.app/drills/three-point-series</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/drills/three-point-star</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/drills/tip-back-drill</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/drills/transition-two-on-one</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/drills/two-ball-dribbling</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/drills/two-ball-pound-series</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/drills/war-rebounding</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://dndbasketball.vercel.app/drills/weak-hand-only-game</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/drills/zigzag-defense</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/film-room</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://dndbasketball.vercel.app/fundamentals</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
@@ -162,23 +196,39 @@
   <url><loc>https://dndbasketball.vercel.app/pick-and-roll/double-ball-screen</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/pick-and-roll/drag-screen</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/pick-and-roll/ghost-screen</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://dndbasketball.vercel.app/pick-and-roll/gortat-screen</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/pick-and-roll/horns-pick-and-roll</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://dndbasketball.vercel.app/pick-and-roll/lob-to-roller</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://dndbasketball.vercel.app/pick-and-roll/middle-pick-and-roll</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/pick-and-roll/pick-and-pop</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/pick-and-roll/pick-and-roll-basics</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://dndbasketball.vercel.app/pick-and-roll/pnr-flat-screen</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/pick-and-roll/pnr-vs-blitz</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://dndbasketball.vercel.app/pick-and-roll/pnr-vs-drop</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://dndbasketball.vercel.app/pick-and-roll/pnr-vs-hedge</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://dndbasketball.vercel.app/pick-and-roll/pnr-vs-ice</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://dndbasketball.vercel.app/pick-and-roll/pnr-vs-switch</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/pick-and-roll/pocket-pass-pnr</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/pick-and-roll/reject-screen</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/pick-and-roll/rescreen-pnr</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/pick-and-roll/roll-man-reads</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/pick-and-roll/screen-angle</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/pick-and-roll/short-roll</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://dndbasketball.vercel.app/pick-and-roll/side-pick-and-roll</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://dndbasketball.vercel.app/pick-and-roll/slip-screen</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/pick-and-roll/snake-dribble</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/pick-and-roll/spain-pick-and-roll</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://dndbasketball.vercel.app/pick-and-roll/step-up-screen</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://dndbasketball.vercel.app/pick-and-roll/throwback-pass</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://dndbasketball.vercel.app/pick-and-roll/veer-screen</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/positions</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://dndbasketball.vercel.app/positions/3-and-d-wing</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/positions/backup-big-man</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/positions/center-basketball</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/positions/combo-guard</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://dndbasketball.vercel.app/positions/defensive-anchor</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://dndbasketball.vercel.app/positions/glue-guy</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://dndbasketball.vercel.app/positions/microwave-scorer</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/positions/point-forward</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/positions/point-guard</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/positions/positionless-basketball</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -186,9 +236,12 @@
   <url><loc>https://dndbasketball.vercel.app/positions/rim-running-center</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/positions/shooting-guard</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/positions/shooting-guard-skills</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://dndbasketball.vercel.app/positions/small-ball-five</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/positions/small-forward</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/positions/small-forward-versatility</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://dndbasketball.vercel.app/positions/stretch-five</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/positions/stretch-four</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://dndbasketball.vercel.app/positions/two-way-wing</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/search</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://dndbasketball.vercel.app/skills</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://dndbasketball.vercel.app/skills/ball-handling</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -249,6 +302,7 @@
   <url><loc>https://dndbasketball.vercel.app/tactics/flare-screen</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/tactics/flex-action</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/tactics/floppy-action</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://dndbasketball.vercel.app/tactics/get-action</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/tactics/hammer-action</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/tactics/horns-offense</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/tactics/horns-variations</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -257,24 +311,40 @@
   <url><loc>https://dndbasketball.vercel.app/tactics/pinch-post-action</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/tactics/pistol-action</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/tactics/post-split-action</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://dndbasketball.vercel.app/tactics/slice-action</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/tactics/stagger-screen</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/tactics/ucla-cut</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/tactics/zoom-action</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/transition</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://dndbasketball.vercel.app/transition/advance-pass</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/transition/advancing-the-ball</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://dndbasketball.vercel.app/transition/crash-or-get-back</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/transition/defense-to-offense</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://dndbasketball.vercel.app/transition/defensive-balance</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/transition/drag-screen-transition</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://dndbasketball.vercel.app/transition/first-six-seconds</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/transition/kick-ahead-threes</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/transition/numbered-break</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/transition/outlet-passing</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://dndbasketball.vercel.app/transition/outlet-spots</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://dndbasketball.vercel.app/transition/pitch-ahead-pass</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://dndbasketball.vercel.app/transition/rebound-outlet-connection</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/transition/rim-runner</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/transition/running-lanes</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/transition/secondary-break</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://dndbasketball.vercel.app/transition/sprint-back-habits</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://dndbasketball.vercel.app/transition/trailer-threes</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/transition/trailing-big-transition</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://dndbasketball.vercel.app/transition/transition-communication</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/transition/transition-decision-making</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/transition/transition-defense</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://dndbasketball.vercel.app/transition/transition-dribble-push</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://dndbasketball.vercel.app/transition/transition-early-post</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://dndbasketball.vercel.app/transition/transition-flow</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/transition/transition-offense</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://dndbasketball.vercel.app/transition/transition-secondary-actions</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://dndbasketball.vercel.app/transition/transition-spacing</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://dndbasketball.vercel.app/transition/transition-trail-threes</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/workouts</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://dndbasketball.vercel.app/workouts/10-minute-ball-handling</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dndbasketball.vercel.app/workouts/20-minute-shooting</loc><lastmod>2026-10-06</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>

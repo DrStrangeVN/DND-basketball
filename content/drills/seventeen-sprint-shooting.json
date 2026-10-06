@@ -1,0 +1,108 @@
+{
+  "id": "seventeen-sprint-shooting",
+  "slug": "seventeen-sprint-shooting",
+  "title": "17-Second Sprints + Shooting",
+  "description": "Basketball's most famous conditioning test with a shooting twist: full-court sprint and back in 17 seconds, then step to the line and make free throws while gassed.",
+  "skill": "Conditioning",
+  "level": "advanced",
+  "ages": [
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "players": "1+",
+  "equipment": [
+    "Basketball"
+  ],
+  "durationMin": 15,
+  "intensity": "high",
+  "goal": "Build game-level conditioning and the ability to shoot free throws with a pounding heart and heavy legs.",
+  "setup": [
+    "Full court, start under one basket.",
+    "17 seconds per sprint; rest 30 seconds between reps.",
+    "6 total sprints, free throws after sprints 2, 4, and 6."
+  ],
+  "instructions": [
+    {
+      "title": "Sprint 1-2",
+      "detail": "Full court and back in under 17 seconds — touch the baseline with your foot each turn."
+    },
+    {
+      "title": "Gassed free throws",
+      "detail": "Immediately shoot 2 free throws — this is the whole point: make them tired."
+    },
+    {
+      "title": "Sprint 3-4",
+      "detail": "Same standard; no slowing down. Shoot 2 more free throws after sprint 4."
+    },
+    {
+      "title": "Sprint 5-6 and finish",
+      "detail": "Last two sprints, then 2 final free throws. Track total FT makes out of 6."
+    }
+  ],
+  "coachingPoints": [
+    "Run through the lines — decelerating early is how you miss the time.",
+    "Control your breathing at the line: deep breath, routine, shoot.",
+    "Your free-throw routine must survive fatigue — that's what you're training."
+  ],
+  "commonMistakes": [
+    "Jogging the sprints — if you're not uncomfortable, it's not working.",
+    "Rushing the free throws — slow down, the clock already stopped."
+  ],
+  "progression": "Cut rest to 20 seconds, or require 5/6 free throws to finish.",
+  "regression": "Walk-jog the sprints and shoot the free throws fresh.",
+  "gameApplication": "Close games are decided by tired legs at the free-throw line — this drill trains exactly that moment.",
+  "related": [
+    "free-throw-pressure",
+    "full-court-finishing",
+    "defensive-slide-ladder"
+  ],
+  "dateUpdated": "2026-10-06",
+  "vi": {
+    "title": "Sprint 17 Giây + Ném Rổ",
+    "description": "Bài test thể lực nổi tiếng nhất bóng rổ kèm biến tấu ném rổ: sprint full sân đi-về trong 17 giây rồi ra vạch ném phạt khi đang thở dốc.",
+    "goal": "Xây dựng thể lực đẳng cấp thi đấu và khả năng ném phạt khi tim đập thình thịch, chân nặng trĩu.",
+    "setup": [
+      "Full sân, xuất phát dưới một rổ.",
+      "17 giây mỗi lượt sprint; nghỉ 30 giây giữa các lượt.",
+      "Tổng 6 lượt sprint, ném phạt sau lượt 2, 4 và 6."
+    ],
+    "instructions": [
+      {
+        "title": "Sprint 1-2",
+        "detail": "Full sân đi-về dưới 17 giây — chạm chân vào baseline mỗi lần quay đầu."
+      },
+      {
+        "title": "Ném phạt khi mệt",
+        "detail": "Ném ngay 2 quả phạt — đây mới là mục đích: ném trúng khi mệt."
+      },
+      {
+        "title": "Sprint 3-4",
+        "detail": "Vẫn chuẩn đó; không được chậm lại. Ném thêm 2 quả phạt sau lượt 4."
+      },
+      {
+        "title": "Sprint 5-6 và kết thúc",
+        "detail": "Hai lượt cuối rồi 2 quả phạt cuối. Ghi lại tổng số trúng trên 6."
+      }
+    ],
+    "coachingPoints": [
+      "Chạy xuyên qua vạch — giảm tốc sớm là cách trượt giờ.",
+      "Kiểm soát hơi thở ở vạch ném: hít sâu, routine, ném.",
+      "Routine ném phạt phải sống sót qua mệt mỏi — đó chính là điều đang luyện."
+    ],
+    "commonMistakes": [
+      "Chạy bộ qua các lượt sprint — không khó chịu là chưa hiệu quả.",
+      "Vội vàng khi ném phạt — chậm lại, đồng hồ đã dừng rồi."
+    ],
+    "progression": "Cắt nghỉ còn 20 giây, hoặc yêu cầu 5/6 quả phạt mới được xong.",
+    "regression": "Đi bộ-chạy bộ qua các lượt sprint và ném phạt khi còn khỏe.",
+    "gameApplication": "Trận đấu sát nút được quyết định bởi đôi chân mệt mỏi ở vạch ném phạt — bài này luyện đúng khoảnh khắc đó.",
+    "players": "1+",
+    "equipment": [
+      "Bóng rổ"
+    ]
+  }
+}

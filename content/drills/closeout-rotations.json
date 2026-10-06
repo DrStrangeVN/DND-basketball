@@ -1,0 +1,109 @@
+{
+  "id": "closeout-rotations",
+  "slug": "closeout-rotations",
+  "title": "Closeout Rotations",
+  "description": "3v3 closeout and rotate: sprint to contest the skip pass, then rotate on the drive — training the two hardest defensive movements back to back.",
+  "skill": "Defense",
+  "level": "intermediate",
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "players": "6",
+  "equipment": [
+    "Basketball"
+  ],
+  "durationMin": 12,
+  "intensity": "high",
+  "goal": "Close out under control and rotate correctly on the ensuing drive, without giving up the corner three.",
+  "setup": [
+    "3 offense spaced on one side, 3 defense starting in help positions.",
+    "Coach initiates with a skip pass.",
+    "Defense must get 3 stops to rotate out."
+  ],
+  "instructions": [
+    {
+      "title": "Sprint and chop",
+      "detail": "On the skip pass, the defender sprints 80% then chops feet into a balanced closeout with high hand."
+    },
+    {
+      "title": "Contain the drive",
+      "detail": "Offense attacks the closeout; on-ball defender slides and funnels toward help."
+    },
+    {
+      "title": "Rotate on help",
+      "detail": "When help commits, the next defender rotates to the helper's man — no open corner threes."
+    },
+    {
+      "title": "Finish the stop",
+      "detail": "Communicate through the whole sequence and finish with a box-out on the shot."
+    }
+  ],
+  "coachingPoints": [
+    "Closeout short — arrive under control, not out of control.",
+    "Early help is on time; late help is a foul.",
+    "Point and talk on every rotation so nobody doubles the same man."
+  ],
+  "commonMistakes": [
+    "Flying past the shooter on the closeout.",
+    "Rotating to the ball and leaving two men open."
+  ],
+  "progression": "Go 4v4 with the extra helper tagging the roller.",
+  "regression": "No drive allowed — just closeout and recover to the pass.",
+  "gameApplication": "Most defensive breakdowns happen in the two seconds after a closeout — drilling the rotation turns chaos into stops.",
+  "related": [
+    "closeout-drill",
+    "closeout-to-contest",
+    "help-and-recover"
+  ],
+  "dateUpdated": "2026-10-06",
+  "vi": {
+    "title": "Xoay Người Sau Closeout",
+    "description": "Closeout và xoay người 3v3: sprint ra contest đường skip pass rồi xoay khi bị đột phá — luyện hai động tác phòng thủ khó nhất liên tiếp.",
+    "goal": "Closeout có kiểm soát và xoay đúng khi bị đột phá tiếp theo, không để lộ 3 điểm góc.",
+    "setup": [
+      "3 tấn công dàn một bên, 3 phòng thủ bắt đầu ở vị trí help.",
+      "HLV khởi động bằng skip pass.",
+      "Phòng thủ phải có 3 lần chặn để được ra."
+    ],
+    "instructions": [
+      {
+        "title": "Sprint rồi chém chân",
+        "detail": "Khi skip pass, hậu vệ sprint 80% rồi chém chân vào closeout thăng bằng, tay cao."
+      },
+      {
+        "title": "Chặn đường đột phá",
+        "detail": "Tấn công đánh vào closeout; hậu vệ kèm bóng slide và ép về phía help."
+      },
+      {
+        "title": "Xoay khi help",
+        "detail": "Khi help đã lao vào, hậu vệ tiếp theo xoay sang người của helper — không để trống 3 điểm góc."
+      },
+      {
+        "title": "Hoàn tất pha thủ",
+        "detail": "Giao tiếp suốt chuỗi và kết thúc bằng box-out khi đối thủ ném."
+      }
+    ],
+    "coachingPoints": [
+      "Closeout ngắn — tới nơi trong kiểm soát, không phải mất kiểm soát.",
+      "Help sớm là đúng giờ; help muộn là phạm lỗi.",
+      "Chỉ tay và hô mỗi lần xoay để không hai người kèm một."
+    ],
+    "commonMistakes": [
+      "Lao qua người ném khi closeout.",
+      "Xoay về bóng để lộ hai người trống."
+    ],
+    "progression": "Chơi 4v4 với helper phụ tag roller.",
+    "regression": "Không cho đột phá — chỉ closeout và hồi về đường chuyền.",
+    "gameApplication": "Hầu hết pha vỡ phòng thủ xảy ra trong hai giây sau closeout — luyện xoay người biến hỗn loạn thành pha chặn đứng.",
+    "players": "6",
+    "equipment": [
+      "Bóng rổ"
+    ]
+  }
+}

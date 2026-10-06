@@ -1,0 +1,113 @@
+{
+  "id": "floater-vs-contact",
+  "slug": "floater-vs-contact",
+  "title": "Floaters vs Contact",
+  "description": "Finish over shot-blockers: drive into a pad, absorb the bump with two feet or one, and float it over the contest from 6 to 12 feet.",
+  "skill": "Finishing",
+  "level": "intermediate",
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "PG",
+    "SG",
+    "SF"
+  ],
+  "players": "2",
+  "equipment": [
+    "Basketball",
+    "Blocking pad"
+  ],
+  "durationMin": 12,
+  "intensity": "medium",
+  "goal": "Develop a soft, high-arcing floater that scores over help defenders even after taking contact on the drive.",
+  "setup": [
+    "Pad holder stands at the charge circle; driver starts at the wing with a ball.",
+    "Mark floater spots with tape at 6, 9, and 12 feet.",
+    "Driver goes 1-on-0 into the pad, then finishes."
+  ],
+  "instructions": [
+    {
+      "title": "Bump and one-foot floater",
+      "detail": "Drive in, take the pad bump on your shoulder, and float it off one foot over the help."
+    },
+    {
+      "title": "Two-foot power floater",
+      "detail": "Jump-stop into the contact, stay balanced on two feet, and shoot the floater straight up."
+    },
+    {
+      "title": "Wrong-foot floater",
+      "detail": "Finish off the inside foot to change the timing the shot-blocker expects."
+    },
+    {
+      "title": "Make target",
+      "detail": "5 makes from each of the three distances before switching roles."
+    }
+  ],
+  "coachingPoints": [
+    "High arc — the floater must come down on the rim, not line-drive into it.",
+    "Absorb contact with your off-shoulder and keep the ball high.",
+    "Decide the floater early; late decisions become charges."
+  ],
+  "commonMistakes": [
+    "Jumping into the defender's chest — veer slightly to create the angle.",
+    "Shooting it flat when tired."
+  ],
+  "progression": "Let the pad holder contest with a hand up after the bump.",
+  "regression": "Remove the pad and master the floater touch first.",
+  "gameApplication": "Help defenders erase layups — the floater is the shot that keeps small guards scoring in a big man's paint.",
+  "related": [
+    "floater-series",
+    "contact-finishing-drill",
+    "runner-series"
+  ],
+  "dateUpdated": "2026-10-06",
+  "vi": {
+    "title": "Floater Trước Va Chạm",
+    "description": "Dứt điểm qua tay chắn: đâm vào đệm, chịu va chạm bằng một hoặc hai chân rồi float bóng qua người chắn từ 6 đến 12 feet.",
+    "goal": "Phát triển cú floater mềm, vòng cung cao để ghi điểm qua help defender ngay cả sau khi chịu va chạm.",
+    "setup": [
+      "Người cầm đệm đứng ở vòng charge; người dẫn bắt đầu ở wing với bóng.",
+      "Đánh dấu các điểm floater ở 6, 9 và 12 feet.",
+      "Người dẫn 1-không vào đệm rồi dứt điểm."
+    ],
+    "instructions": [
+      {
+        "title": "Chịu đệm, floater một chân",
+        "detail": "Đâm vào, chịu cú húc đệm bằng vai rồi float bóng một chân qua help defender."
+      },
+      {
+        "title": "Floater hai chân",
+        "detail": "Jump-stop vào va chạm, giữ thăng bằng hai chân rồi ném floater thẳng lên."
+      },
+      {
+        "title": "Floater chân trong",
+        "detail": "Dứt điểm bằng chân trong để đổi nhịp mà tay chắn không ngờ."
+      },
+      {
+        "title": "Chỉ tiêu",
+        "detail": "5 cú trúng mỗi cự ly trong ba cự ly rồi đổi vai."
+      }
+    ],
+    "coachingPoints": [
+      "Vòng cung cao — floater phải rơi xuống rổ, không phải bay thẳng vào rổ.",
+      "Chịu va chạm bằng vai phụ và giữ bóng cao.",
+      "Quyết định floater sớm; quyết định muộn dễ thành lỗi tấn công."
+    ],
+    "commonMistakes": [
+      "Nhảy thẳng vào ngực hậu vệ — hơi lách để tạo góc.",
+      "Ném bẹt khi mệt."
+    ],
+    "progression": "Cho người cầm đệm giơ tay chắn sau cú húc.",
+    "regression": "Bỏ đệm ra, luyện cảm giác floater trước.",
+    "gameApplication": "Help defender xóa sổ các pha layup — floater là cú ném giúp các hậu vệ nhỏ vẫn ghi điểm trong vùng paint của các 'tòa tháp'.",
+    "players": "2",
+    "equipment": [
+      "Bóng rổ",
+      "Đệm chắn"
+    ]
+  }
+}

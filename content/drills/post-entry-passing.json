@@ -1,0 +1,110 @@
+{
+  "id": "post-entry-passing",
+  "slug": "post-entry-passing",
+  "title": "Post Entry Passing",
+  "description": "Feed the post the right way every time: bounce pass against fronting, lob over the top, and direct entry when sealed — with a seal-and-read progression.",
+  "skill": "Passing",
+  "level": "intermediate",
+  "ages": [
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "players": "3",
+  "equipment": [
+    "Basketball"
+  ],
+  "durationMin": 12,
+  "intensity": "low",
+  "goal": "Deliver accurate post entries against all three coverages — front, behind, and 3/4 — without turnovers.",
+  "setup": [
+    "Passer at the wing, big man on the block, defender guarding the post.",
+    "Rotate roles every 3 minutes.",
+    "Start with no defense, then add each coverage."
+  ],
+  "instructions": [
+    {
+      "title": "Direct entry vs behind",
+      "detail": "When the defender plays behind, throw a firm one-hand bounce or chest pass to the outside shoulder — lead the big away from the help."
+    },
+    {
+      "title": "Bounce pass vs fronting",
+      "detail": "When fronted, fake high and bounce-pass low to the baseline side where only your teammate can get it."
+    },
+    {
+      "title": "Lob over the top",
+      "detail": "When the defender is small or sealed deep, throw the lob high where only the big can catch it."
+    },
+    {
+      "title": "Seal and read",
+      "detail": "Big seals, passer reads the coverage and picks the right of the three entries — defender calls the coverage out loud first, then goes live."
+    }
+  ],
+  "coachingPoints": [
+    "Pass to the outside shoulder — away from the defender, always.",
+    "Fake before you pass; a pass with no fake against a set defender is a turnover.",
+    "The big must seal first — no seal, no entry."
+  ],
+  "commonMistakes": [
+    "Lobbing it when the big isn't sealed — that's a steal.",
+    "Passing to the middle of the post where the defender is standing."
+  ],
+  "progression": "Go live 2v2: entry, then play out of the post.",
+  "regression": "No defense — just groove the three pass angles.",
+  "gameApplication": "Everything in half-court offense starts with getting the ball where it needs to go — clean post entries turn size into points instead of turnovers.",
+  "related": [
+    "three-man-weave",
+    "outlet-passing-race",
+    "dho-series"
+  ],
+  "dateUpdated": "2026-10-06",
+  "vi": {
+    "title": "Chuyền Bóng Vào Post",
+    "description": "Đưa bóng vào post đúng cách mọi lúc: bounce pass khi bị fronting, lob qua đầu khi bị kèm sau, và chuyền thẳng khi đã seal — kèm tiến trình seal-và-đọc.",
+    "goal": "Chuyền vào post chính xác trước cả ba kiểu kèm — front, kèm sau và 3/4 — không mất bóng.",
+    "setup": [
+      "Người chuyền ở wing, big man ở block, hậu vệ kèm post.",
+      "Xoay vai trò mỗi 3 phút.",
+      "Bắt đầu không phòng thủ, rồi thêm từng kiểu kèm."
+    ],
+    "instructions": [
+      {
+        "title": "Chuyền thẳng khi kèm sau",
+        "detail": "Khi hậu vệ kèm sau, chuyền một tay mạnh bằng bounce hoặc chest pass tới vai ngoài — dẫn big man ra xa help defender."
+      },
+      {
+        "title": "Bounce pass khi bị fronting",
+        "detail": "Khi bị fronting, giả ném cao rồi bounce pass thấp về phía baseline nơi chỉ đồng đội với tới."
+      },
+      {
+        "title": "Lob qua đầu",
+        "detail": "Khi hậu vệ nhỏ con hoặc big man đã seal sâu, lob cao nơi chỉ big man bắt được."
+      },
+      {
+        "title": "Seal và đọc",
+        "detail": "Big man seal, người chuyền đọc kiểu kèm và chọn đúng một trong ba đường chuyền — hậu vệ hô to kiểu kèm trước, rồi đấu live."
+      }
+    ],
+    "coachingPoints": [
+      "Chuyền tới vai ngoài — tránh xa hậu vệ, luôn luôn.",
+      "Giả trước khi chuyền; chuyền mà không giả trước hậu vệ đã vào vị trí là mất bóng.",
+      "Big man phải seal trước — không seal, không chuyền vào."
+    ],
+    "commonMistakes": [
+      "Lob khi big man chưa seal — đó là pha cướp bóng.",
+      "Chuyền vào giữa post nơi hậu vệ đang đứng."
+    ],
+    "progression": "Chơi live 2v2: chuyền vào rồi đánh tiếp từ post.",
+    "regression": "Không phòng thủ — chỉ luyện ba góc chuyền.",
+    "gameApplication": "Mọi thứ trong tấn công nửa sân bắt đầu từ việc đưa bóng đến đúng chỗ — chuyền vào post sạch biến lợi thế chiều cao thành điểm số thay vì turnover.",
+    "players": "3",
+    "equipment": [
+      "Bóng rổ"
+    ]
+  }
+}

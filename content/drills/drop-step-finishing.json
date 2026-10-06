@@ -1,0 +1,113 @@
+{
+  "id": "drop-step-finishing",
+  "slug": "drop-step-finishing",
+  "title": "Drop Step Finishing",
+  "description": "The big man's bread and butter: catch on the block, feel the defender, drop-step baseline or middle, and finish through contact.",
+  "skill": "Footwork",
+  "level": "intermediate",
+  "ages": [
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "PF",
+    "C"
+  ],
+  "players": "2",
+  "equipment": [
+    "Basketball",
+    "Blocking pad (optional)"
+  ],
+  "durationMin": 12,
+  "intensity": "medium",
+  "goal": "Master the drop step both directions with a power finish, so a sealed defender becomes two points.",
+  "setup": [
+    "Big catches on the block; partner plays light defense or holds a pad.",
+    "Alternate baseline and middle drop steps.",
+    "5 makes each direction before switching."
+  ],
+  "instructions": [
+    {
+      "title": "Baseline drop step",
+      "detail": "Catch, feel the defender on your back, drop-step along the baseline with the baseline foot, and power up for the finish."
+    },
+    {
+      "title": "Middle drop step",
+      "detail": "Same catch, drop-step toward the middle with the middle foot, seal with your shoulder, finish strong."
+    },
+    {
+      "title": "Drop step vs contact",
+      "detail": "Partner bumps with the pad on the drop — stay balanced on two feet and finish through it."
+    },
+    {
+      "title": "Counter when walled off",
+      "detail": "If the defender beats you to the spot, step through to the other side instead of forcing it."
+    }
+  ],
+  "coachingPoints": [
+    "Seal first, then step — the drop step only works with contact on your back.",
+    "Keep the ball high and tight; dropping it low invites the strip.",
+    "Two-foot power finish — don't fade away from the contact you created."
+  ],
+  "commonMistakes": [
+    "Stepping before sealing — you'll travel or get pushed out.",
+    "Bringing the ball down to waist height on the gather."
+  ],
+  "progression": "Go live 1v1 from the catch — score or get stopped.",
+  "regression": "Practice the footwork without a ball against a wall.",
+  "gameApplication": "Deep post position is the most efficient shot in basketball — the drop step is how you convert it when the defense knows it's coming.",
+  "related": [
+    "pivot-gauntlet",
+    "mikan-drill",
+    "power-layup-finishing"
+  ],
+  "dateUpdated": "2026-10-06",
+  "vi": {
+    "title": "Dứt Điểm Bằng Drop Step",
+    "description": "Món 'cơm' của big man: bắt bóng ở block, cảm nhận hậu vệ, drop-step ra baseline hoặc vào giữa rồi dứt điểm qua va chạm.",
+    "goal": "Làm chủ drop step cả hai hướng với pha dứt điểm mạnh mẽ, để một pha seal tốt thành hai điểm.",
+    "setup": [
+      "Big man bắt bóng ở block; đồng đội kèm nhẹ hoặc cầm đệm.",
+      "Luân phiên drop-step baseline và middle.",
+      "5 cú trúng mỗi hướng rồi đổi vai."
+    ],
+    "instructions": [
+      {
+        "title": "Drop step baseline",
+        "detail": "Bắt bóng, cảm nhận hậu vệ sau lưng, drop-step dọc baseline bằng chân baseline rồi bật mạnh dứt điểm."
+      },
+      {
+        "title": "Drop step middle",
+        "detail": "Vẫn pha bắt đó, drop-step vào giữa bằng chân middle, seal bằng vai rồi dứt điểm mạnh."
+      },
+      {
+        "title": "Drop step trước va chạm",
+        "detail": "Đồng đội húc đệm khi bạn drop — giữ thăng bằng hai chân và dứt điểm xuyên qua."
+      },
+      {
+        "title": "Biến thể khi bị chặn",
+        "detail": "Nếu hậu vệ chiếm chỗ trước, step-through sang phía bên kia thay vì cố ép."
+      }
+    ],
+    "coachingPoints": [
+      "Seal trước rồi mới bước — drop step chỉ hiệu quả khi có tiếp xúc sau lưng.",
+      "Giữ bóng cao và sát người; hạ bóng thấp là mời cướp.",
+      "Dứt điểm hai chân mạnh mẽ — đừng ngả người tránh va chạm mình vừa tạo ra."
+    ],
+    "commonMistakes": [
+      "Bước trước khi seal — sẽ bị bước lỗi hoặc đẩy văng.",
+      "Hạ bóng xuống ngang eo khi gom bóng."
+    ],
+    "progression": "Chơi live 1v1 từ pha bắt bóng — ghi điểm hoặc bị chặn.",
+    "regression": "Tập footwork không bóng với tường.",
+    "gameApplication": "Vị trí post sâu là cú ném hiệu quả nhất trong bóng rổ — drop step là cách bạn tận dụng nó khi hàng thủ đã biết trước.",
+    "players": "2",
+    "equipment": [
+      "Bóng rổ",
+      "Đệm chắn (tùy chọn)"
+    ]
+  }
+}

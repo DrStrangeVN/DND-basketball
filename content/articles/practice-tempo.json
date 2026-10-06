@@ -1,0 +1,137 @@
+{
+ "ages": [
+  "U14",
+  "U16",
+  "U18",
+  "Adult"
+ ],
+ "coachingPoints": [
+  "Transitions should take under 60 seconds — coach with a whistle, cones pre-set, balls pre-placed.",
+  "Alternate high-intensity and skill/teaching segments to keep energy and focus high all practice.",
+  "Finish the most competitive segment when energy peaks, not when practice is scheduled to end.",
+  "Track minutes per segment on a clipboard; tempo discipline starts with the coach's clock."
+ ],
+ "commonMistakes": [
+  "Lecturing for 5+ minutes while players stand cold — attention and intensity both die standing still.",
+  "Stacking conditioning, live scrimmage, and defensive slides back-to-back with no recovery or teaching break.",
+  "Letting water breaks stretch to 4-5 minutes because nothing is set up for the next drill.",
+  "Running every practice at one flat speed — flat tempo teaches flat habits."
+ ],
+ "dateUpdated": "2026-10-06",
+ "description": "Structure practice pacing with fast transitions, energy waves, and deliberate rhythm so intensity stays high for the full 90-120 minutes.",
+ "gameSituations": [
+  "Practice moves from a 10-minute full-court drill to a half-court teaching block in under a minute.",
+  "You sense energy dipping at minute 70, so you drop in a 5-minute competitive finisher to spike it back up.",
+  "Players know the practice rhythm so well they move to the next spot before the whistle."
+ ],
+ "howTo": [
+  {
+   "detail": "Break practice into 8-12 minute blocks with a printed plan taped to your clipboard. Each block has a single purpose, a whistle time, and the setup for the next block pre-placed. No block should require more than 60 seconds of transition.",
+   "title": "Script the practice in blocks"
+  },
+  {
+   "detail": "Design the energy arc: start medium (warm-up, shooting), rise to the first peak (competitive 3v3 or transition), dip for teaching (half-court concepts, walk-throughs), second peak (live 5v5), then close with a competitive finisher. Never put two max-effort blocks back-to-back without a teaching valley.",
+   "title": "Build an energy wave"
+  },
+  {
+   "detail": "Set cones, move balls, and place pinnies before the current block ends. Use two whistles — one to stop, one to start — and players sprint to the next spot. Reward the fastest transitions publicly; penalize standing around with one extra sprint at the end.",
+   "title": "Make transitions a drill"
+  },
+  {
+   "detail": "Every block ends with a score or a number: makes in 2 minutes, stops in 3 possessions, winners stay on. Even teaching blocks get a measurable check — 'show me three perfect closeouts before we move on.' Tempo without measurement drifts.",
+   "title": "Put a scoreboard on everything"
+  },
+  {
+   "detail": "After 4-5 practices, audit your clipboard times against the plan. Where did you lose 10 minutes? Which block dragged? Adjust block lengths to reality — a 90-minute plan you execute beats a 120-minute plan you never finish.",
+   "title": "Audit and adjust weekly"
+  }
+ ],
+ "hub": "coaching",
+ "id": "practice-tempo",
+ "level": "intermediate",
+ "positions": [
+  "ALL"
+ ],
+ "readTime": 6,
+ "related": [
+  "practice-planning",
+  "building-practice-culture",
+  "end-of-practice-games",
+  "coaching-toughness",
+  "timeout-management"
+ ],
+ "slug": "practice-tempo",
+ "subcategory": "practice-design",
+ "tags": [
+  "practice-design",
+  "tempo",
+  "energy-management",
+  "transitions",
+  "practice-planning"
+ ],
+ "title": "Designing Practice Tempo & Flow",
+ "vi": {
+  "coachingPoints": [
+   "Chuyển bài tập phải dưới 60 giây — huấn luyện viên dùng còi, cone đặt sẵn, bóng để sẵn.",
+   "Xen kẽ các đoạn cường độ cao và đoạn dạy kỹ năng để giữ năng lượng và sự tập trung suốt buổi.",
+   "Kết thúc đoạn thi đấu căng nhất khi năng lượng đang đỉnh, không phải khi lịch nói phải kết thúc.",
+   "Ghi số phút từng đoạn lên clipboard; kỷ luật nhịp độ bắt đầu từ đồng hồ của huấn luyện viên."
+  ],
+  "commonMistakes": [
+   "Giảng 5+ phút trong khi cầu thủ đứng lạnh — cả sự chú ý và cường độ đều chết khi đứng yên.",
+   "Xếp conditioning, đấu tập live và defensive slides liên tiếp nhau mà không có đoạn hồi phục hay dạy kỹ năng.",
+   "Để giờ nghỉ nước kéo dài 4-5 phút vì chưa chuẩn bị gì cho bài tiếp theo.",
+   "Chạy mọi buổi tập ở một tốc độ đều đều — nhịp độ phẳng tạo thói quen phẳng."
+  ],
+  "description": "Cấu trúc nhịp độ buổi tập với chuyển bài nhanh, sóng năng lượng và nhịp điệu có chủ ý để cường độ duy trì cao suốt 90-120 phút.",
+  "gameSituations": [
+   "Buổi tập chuyển từ bài full-court 10 phút sang bài dạy half-court trong chưa đầy một phút.",
+   "Bạn thấy năng lượng chùng xuống ở phút 70, nên tung vào một trò thi đấu 5 phút để kéo năng lượng lên lại.",
+   "Cầu thủ thuộc nhịp buổi tập đến mức tự di chuyển đến vị trí tiếp theo trước cả tiếng còi."
+  ],
+  "howTo": [
+   {
+    "detail": "Chia buổi tập thành các khối 8-12 phút với kế hoạch in ra dán trên clipboard. Mỗi khối có một mục đích duy nhất, giờ thổi còi, và dụng cụ cho khối tiếp theo đã đặt sẵn. Không khối nào cần quá 60 giây chuyển đổi.",
+    "title": "Viết kịch bản buổi tập theo khối"
+   },
+   {
+    "detail": "Thiết kế đường cong năng lượng: bắt đầu vừa (khởi động, ném), lên đỉnh đầu tiên (3v3 thi đấu hoặc transition), hạ xuống để dạy (khái niệm half-court, walk-through), đỉnh thứ hai (5v5 live), rồi kết thúc bằng trò thi đấu. Không bao giờ xếp hai khối gắng sức tối đa liên tiếp mà không có thung lũng dạy kỹ năng.",
+    "title": "Xây dựng sóng năng lượng"
+   },
+   {
+    "detail": "Đặt cone, di chuyển bóng, chuẩn bị áo bib trước khi khối hiện tại kết thúc. Dùng hai tiếng còi — một để dừng, một để bắt đầu — và cầu thủ chạy nước rút đến vị trí tiếp theo. Khen công khai nhóm chuyển nhanh nhất; phạt đứng ì bằng một lần chạy nước rút thêm cuối buổi.",
+    "title": "Biến chuyển bài thành một bài tập"
+   },
+   {
+    "detail": "Mỗi khối kết thúc bằng điểm số hoặc con số: số cú ném trúng trong 2 phút, số lần phòng ngự thành công trong 3 possession, thắng ở lại sân. Ngay cả khối dạy kỹ năng cũng có kiểm tra đo được — 'cho tôi xem ba closeout hoàn hảo trước khi chuyển.' Nhịp độ không đo lường sẽ trôi dạt.",
+    "title": "Đặt bảng điểm cho mọi thứ"
+   },
+   {
+    "detail": "Sau 4-5 buổi tập, đối chiếu thời gian thực trên clipboard với kế hoạch. Bạn mất 10 phút ở đâu? Khối nào bị kéo dài? Điều chỉnh độ dài khối theo thực tế — kế hoạch 90 phút thực hiện được tốt hơn kế hoạch 120 phút không bao giờ xong.",
+    "title": "Kiểm tra và điều chỉnh hàng tuần"
+   }
+  ],
+  "tags": [
+   "thiết-kế-buổi-tập",
+   "nhịp-độ",
+   "quản-lý-năng-lượng",
+   "chuyển-bài",
+   "kế-hoạch-tập"
+  ],
+  "title": "Thiết Kế Nhịp Độ & Dòng Chảy Buổi Tập",
+  "whatIsIt": [
+   "Nhịp độ buổi tập là tốc độ và nhịp điệu mà các bài tập nối tiếp nhau — nhanh hay chậm, căng hay trùng, dạy hay thi đấu. Một buổi tập 90 phút có thể cho 60 phút bóng rổ thực sự hoặc chỉ 35 phút, tùy hoàn toàn vào cách bạn thiết kế các đoạn và chuyển đổi giữa chúng.",
+   "title-placeholder"
+  ],
+  "whyItMatters": [
+   "Cầu thủ tập luyện với cường độ của buổi tập. Nhịp độ nhanh, chuyển bài gọn tạo ra thói quen thi đấu nhanh và tập trung; nhịp độ chậm, giảng dài tạo ra cầu thủ đứng xem. Năng lượng của đội trong trận đấu phản ánh năng lượng của buổi tập — thiết kế nhịp độ chính là thiết kế đội bóng."
+  ]
+ },
+ "whatIsIt": [
+  "Practice tempo is the speed and rhythm at which drills flow into each other — fast or slow, intense or flat, teaching or competing. A 90-minute practice can deliver 60 minutes of real basketball or only 35, depending entirely on how you design segments and transitions between them.",
+  "Players practice at the tempo you set. Fast tempo with crisp transitions builds game-like urgency; slow tempo with long lectures builds standing-around habits. Your team's game energy mirrors your practice energy — design the tempo, and you design the team."
+ ],
+ "whyItMatters": [
+  "Players compete at the tempo they practice. Fast tempo with crisp transitions builds game-like urgency; slow tempo with long lectures builds standing-around habits. Your team's game energy mirrors your practice energy — design the tempo, and you design the team."
+ ]
+}

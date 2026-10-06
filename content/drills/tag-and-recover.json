@@ -1,0 +1,109 @@
+{
+  "id": "tag-and-recover",
+  "slug": "tag-and-recover",
+  "title": "Tag and Recover",
+  "description": "The modern help skill: stunt at the rolling big to slow the pocket pass, then sprint-recover to your shooter before the kick-out arrives.",
+  "skill": "Defense",
+  "level": "intermediate",
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "players": "4",
+  "equipment": [
+    "Basketball"
+  ],
+  "durationMin": 10,
+  "intensity": "medium",
+  "goal": "Tag the roller hard enough to disrupt the pass, then recover to contest the shooter — the two-effort sequence of modern defense.",
+  "setup": [
+    "2v2 on one side: ball handler and roller vs on-ball defender and tagger.",
+    "Tagger starts one pass away.",
+    "Coach feeds the ball handler to start the pick-and-roll."
+  ],
+  "instructions": [
+    {
+      "title": "Read the roll",
+      "detail": "As the screen comes, the tagger reads the roller's path — not the ball."
+    },
+    {
+      "title": "Tag with two steps",
+      "detail": "Take two hard steps at the roller, hands up, to take away the pocket pass window."
+    },
+    {
+      "title": "Sprint recover",
+      "detail": "The moment the ball leaves the handler's hands, sprint back to your shooter — arrive before the catch."
+    },
+    {
+      "title": "Live reps",
+      "detail": "Play the pick-and-roll live; tagger must tag AND recover — one effort isn't enough."
+    }
+  ],
+  "coachingPoints": [
+    "Tag with your chest facing the roller — half-tags don't slow anything.",
+    "Recover on the pass, not the catch — you're already late if you wait.",
+    "Communicate 'tag!' so the on-ball defender knows help is there."
+  ],
+  "commonMistakes": [
+    "Staying glued to your shooter and giving up the roll — that's not defense, that's spectating.",
+    "Tagging so long you never get back — it's tag AND recover."
+  ],
+  "progression": "Add a third offensive player so the tagger must choose who to help off.",
+  "regression": "No recovery required — just practice the tag timing first.",
+  "gameApplication": "The tag-and-recover is the defining skill of modern NBA defense — it lets you guard the pick-and-roll without surrendering open threes.",
+  "related": [
+    "help-and-recover",
+    "shell-drill-4v4",
+    "closeout-rotations"
+  ],
+  "dateUpdated": "2026-10-06",
+  "vi": {
+    "title": "Tag Rồi Hồi Phục",
+    "description": "Kỹ năng help hiện đại: stunt vào big man đang roll để chặn pocket pass rồi sprint hồi về người ném trước khi kick-out tới.",
+    "goal": "Tag roller đủ mạnh để phá đường chuyền rồi hồi về contest người ném — chuỗi hai nỗ lực của phòng thủ hiện đại.",
+    "setup": [
+      "2v2 một bên: người cầm bóng và roller đấu với hậu vệ kèm bóng và tagger.",
+      "Tagger bắt đầu cách một đường chuyền.",
+      "HLV đưa bóng cho người cầm để bắt đầu pick-and-roll."
+    ],
+    "instructions": [
+      {
+        "title": "Đọc pha roll",
+        "detail": "Khi screen tới, tagger đọc đường roll của roller — không phải nhìn bóng."
+      },
+      {
+        "title": "Tag hai bước",
+        "detail": "Hai bước mạnh vào roller, tay giơ cao, để lấy mất cửa sổ pocket pass."
+      },
+      {
+        "title": "Sprint hồi phục",
+        "detail": "Ngay khi bóng rời tay người cầm, sprint về người ném — tới nơi trước khi họ bắt bóng."
+      },
+      {
+        "title": "Lượt live",
+        "detail": "Chơi pick-and-roll live; tagger phải tag VÀ hồi phục — một nỗ lực là chưa đủ."
+      }
+    ],
+    "coachingPoints": [
+      "Tag bằng ngực hướng về roller — tag nửa vời chẳng làm chậm được gì.",
+      "Hồi phục theo đường chuyền, không phải theo pha bắt bóng — đợi bắt bóng mới chạy là đã muộn.",
+      "Hô 'tag!' để hậu vệ kèm bóng biết có help."
+    ],
+    "commonMistakes": [
+      "Dính chặt người ném để lộ pha roll — đó không phải phòng thủ, đó là xem kịch.",
+      "Tag lâu quá không về kịp — phải tag VÀ hồi phục."
+    ],
+    "progression": "Thêm cầu thủ tấn công thứ ba để tagger phải chọn help ai.",
+    "regression": "Chưa cần hồi phục — chỉ tập nhịp tag trước.",
+    "gameApplication": "Tag-and-recover là kỹ năng định nghĩa phòng thủ NBA hiện đại — nó cho phép bạn chống pick-and-roll mà không dâng 3 điểm trống.",
+    "players": "4",
+    "equipment": [
+      "Bóng rổ"
+    ]
+  }
+}

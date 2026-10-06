@@ -1,0 +1,142 @@
+{
+  "id": "two-way-wing",
+  "slug": "two-way-wing",
+  "title": "The Two-Way Wing",
+  "description": "The modern wing who guards the opponent's best perimeter player, knocks down spot-up threes, attacks closeouts, and runs the floor — the most in-demand archetype in today's game.",
+  "hub": "positions",
+  "subcategory": "modern-roles",
+  "level": "intermediate",
+  "positions": [
+    "SG",
+    "SF"
+  ],
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "readTime": 6,
+  "tags": [
+    "wing",
+    "two-way",
+    "defense",
+    "spot-up shooting",
+    "modern-roles"
+  ],
+  "whatIsIt": [
+    "The two-way wing is a 6-foot-5 to 6-foot-9 player who impacts both ends without needing the ball. On defense they take the toughest wing assignment and guard one through four in switches; on offense they space the floor, cut with timing, and punish closeouts with straight-line drives.",
+    "This is the role every contender overpays for, because it solves two problems at once: perimeter defense and floor spacing. You do not need 20 points — you need stops, threes, and zero plays off."
+  ],
+  "whyItMatters": [
+    "Lineups live or die on wings who can do both jobs. A wing who only scores gets hunted on defense; a wing who only defends gets ignored on offense and clogs spacing. The two-way wing lets coaches play small, switch everything, and never hide anyone — that is why the archetype starts on championship teams at every level."
+  ],
+  "howTo": [
+    {
+      "title": "Lock in as a point-of-attack defender",
+      "detail": "Take the other team's best wing and make every catch difficult: chest-to-chest on the ball, deny the easy catch off it. Slide, do not reach — fouls kill your minutes faster than missed shots. Study one tendency per opponent (favorite hand, pet move) and take it away."
+    },
+    {
+      "title": "Become automatic from the corners",
+      "detail": "Your offensive currency is the catch-and-shoot three, especially from the corners. Get 300 game-speed reps a week: sprint to the spot, set your feet in the air, catch ready to rise. A 38 percent corner shooter is never coming off the floor."
+    },
+    {
+      "title": "Attack the closeout with two dribbles or less",
+      "detail": "When the defense runs at you, the drive is already open — one or two hard dribbles to the rim or the pull-up. Read the defender's momentum: sprinting at you means drive, under control means shoot. Never take four dribbles into traffic; that is a turnover wearing a jersey."
+    },
+    {
+      "title": "Run every transition lane hard",
+      "detail": "Wings win games in the open floor: sprint wide, fill the corner or the rim, and finish through contact. The trailer three and the early seal are your easy points. Coaches trust wings who run — it is the cheapest offense in basketball."
+    },
+    {
+      "title": "Guard up a position in switches",
+      "detail": "You will end up on power forwards — hold your ground with a low base, early contact, and active hands. Front the post when the ball is on your side; three-quarter it when it is weak. Surviving the switch is what makes small-ball lineups possible."
+    }
+  ],
+  "coachingPoints": [
+    "Defense travels — bring it every night, even when the shot is off.",
+    "Feet set on every catch; no drifting sideways on the jumper.",
+    "Close out short and under control — you attack closeouts, do not give them up.",
+    "Talk through every screen; wings get screened more than anyone.",
+    "Rebound your area — wings who board stay on the floor."
+  ],
+  "commonMistakes": [
+    "Reaching on defense instead of moving your feet.",
+    "Holding the ball and overdribbling — the role is catch, decide, go.",
+    "Jogging in transition and killing the numbers advantage.",
+    "Settling for long twos instead of threes or rim attacks."
+  ],
+  "gameSituations": [
+    "Checking the opponent's leading scorer full court in the fourth quarter.",
+    "Catching in the corner and driving a hard closeout for a dunk.",
+    "Switching onto a bigger forward and forcing a contested fadeaway.",
+    "Sprinting the wing lane for a transition layup off the advance pass."
+  ],
+  "related": [
+    "3-and-d-wing",
+    "small-forward",
+    "small-forward-versatility",
+    "shooting-guard",
+    "attacking-the-closeout"
+  ],
+  "dateUpdated": "2026-10-06",
+  "vi": {
+    "title": "Two-Way Wing – Cánh Toàn Diện",
+    "description": "Mẫu wing hiện đại: kèm chặt ngôi sao ngoài vòng của đối phương, ném spot-up ba điểm, tấn công closeout và chạy phản công — hình mẫu được săn đón nhất trong bóng rổ ngày nay.",
+    "whatIsIt": [
+      "Two-way wing là cầu thủ cao khoảng 1m96 đến 2m06, tạo ảnh hưởng cả hai đầu sân mà không cần cầm bóng nhiều. Phòng ngự, họ nhận nhiệm vụ kèm wing khó nhất và switch kèm từ vị trí 1 đến 4; tấn công, họ giãn sân, cắt rổ đúng thời điểm, và trừng phạt closeout bằng những pha đột phá thẳng.",
+      "Đây là vai trò mà mọi đội đua vô địch đều sẵn sàng trả giá cao, vì nó giải quyết hai bài toán cùng lúc: phòng ngự ngoài vòng và spacing. Bạn không cần 20 điểm — bạn cần những pha thủ, những quả ba, và không một pha bóng nào tắt điện."
+    ],
+    "whyItMatters": [
+      "Đội hình sống hay chết phụ thuộc vào wing làm được cả hai việc. Wing chỉ biết ghi điểm sẽ bị săn trên mặt trận phòng ngự; wing chỉ biết thủ sẽ bị bỏ trống và làm nghẽn spacing. Two-way wing giúp HLV chơi small-ball, switch mọi thứ, không phải giấu ai — đó là lý do hình mẫu này đá chính ở mọi đội vô địch, mọi cấp độ."
+    ],
+    "howTo": [
+      {
+        "title": "Khóa chặt ở vị trí point-of-attack",
+        "detail": "Nhận kèm wing hay nhất của đối phương và khiến mọi pha bắt bóng của hắn đều khó khăn: ngực áp ngực khi kèm bóng, deny pha bắt bóng dễ khi không bóng. Trượt chân, đừng với tay — phạm lỗi giết phút thi đấu của bạn nhanh hơn ném trượt. Nghiên cứu một thói quen của từng đối thủ (tay thuận, đòn tủ) và khóa nó lại."
+      },
+      {
+        "title": "Trở nên tự động từ hai góc",
+        "detail": "Đồng tiền tấn công của bạn là cú catch-and-shoot ba điểm, đặc biệt từ góc sân. Tập 300 lần mỗi tuần đúng tốc độ trận đấu: chạy nước rút ra vị trí, set chân trên không, bắt bóng sẵn sàng bật ném. Tay ném góc đạt 38% không bao giờ phải ngồi ngoài."
+      },
+      {
+        "title": "Tấn công closeout trong tối đa hai nhịp dribble",
+        "detail": "Khi hàng thủ lao ra, đường đột phá đã mở — một hai nhịp dribble mạnh tới rổ hoặc pull-up. Đọc đà của hậu vệ: lao tới nghĩa là đột phá, giữ thăng bằng nghĩa là ném. Đừng bao giờ dribble bốn nhịp vào đám đông; đó là turnover mặc áo đấu."
+      },
+      {
+        "title": "Chạy mọi lane phản công hết tốc lực",
+        "detail": "Wing thắng trận ở sân trống: chạy rộng, lấp đầy góc hoặc lao vào rổ, finish qua va chạm. Cú ba trailer và pha seal sớm là những điểm dễ của bạn. HLV tin wing nào chịu chạy — đó là thứ tấn công rẻ nhất trong bóng rổ."
+      },
+      {
+        "title": "Kèm được cả vị trí to hơn khi switch",
+        "detail": "Bạn sẽ phải kèm power forward — giữ vững bằng chân thấp, va chạm sớm, tay hoạt động. Front ở post khi bóng cùng phía; three-quarter khi bóng phía yếu. Sống sót qua switch là điều khiến đội hình small-ball khả thi."
+      }
+    ],
+    "coachingPoints": [
+      "Phòng ngự đi theo bạn mọi đêm — mang nó ra sân dù hôm nay ném không vào.",
+      "Chân set mỗi lần bắt bóng; không trôi ngang khi nhảy ném.",
+      "Closeout ngắn và kiểm soát — bạn tấn công closeout, đừng tặng closeout cho người ta.",
+      "Hô qua mọi screen; wing là người bị screen nhiều nhất.",
+      "Rebound đúng khu vực — wing nào rebound được thì ở lại trên sân."
+    ],
+    "commonMistakes": [
+      "Với tay phòng ngự thay vì di chuyển chân.",
+      "Giữ bóng và dribble quá nhiều — vai trò này là bắt, quyết định, đi.",
+      "Chạy bộ thong thả trong transition, giết lợi thế quân số.",
+      "Chấp nhận ném hai điểm xa thay vì ba điểm hoặc tấn công rổ."
+    ],
+    "gameSituations": [
+      "Kèm ngôi sao ghi điểm của đối phương full court trong hiệp 4.",
+      "Bắt bóng ở góc rồi đột phá qua closeout mạnh để dunk.",
+      "Switch ra kèm forward to hơn và ép cú fadeaway khó.",
+      "Chạy lane cánh để lên rổ phản công từ đường advance pass."
+    ],
+    "tags": [
+      "wing",
+      "toàn diện",
+      "phòng ngự",
+      "ném spot-up",
+      "vai trò hiện đại"
+    ]
+  }
+}

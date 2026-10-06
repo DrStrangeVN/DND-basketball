@@ -1,0 +1,120 @@
+{
+ "title": "Secondary Actions After the Break",
+ "description": "The initial break is stopped — now attack the scrambling defense with a second wave before it recovers.",
+ "hub": "transition",
+ "subcategory": "transition",
+ "level": "advanced",
+ "positions": [
+  "ALL"
+ ],
+ "ages": [
+  "U16",
+  "U18",
+  "Adult",
+  "Competitive"
+ ],
+ "readTime": 5,
+ "tags": [
+  "transition",
+  "secondary break",
+  "offense"
+ ],
+ "whatIsIt": [
+  "Secondary actions are the immediate follow-ups when the initial fast break doesn't produce a shot: a quick ball screen, a DHO, a flare for a shooter — run within 3–4 seconds, while the defense is still scrambling back and mismatched. It's not the break and it's not half-court offense; it's the lethal in-between.",
+  "Elite transition teams live here. The first wave bends the defense; the secondary action breaks it — because the defense spent its organization stopping wave one."
+ ],
+ "whyItMatters": [
+  "Defenses drill to 'stop the break' — and they're good at it. But nobody is set after stopping a break; they're just less broken. Secondary actions attack that exact moment of partial recovery, generating the easiest half-court looks you'll ever get."
+ ],
+ "howTo": [
+  {
+   "title": "Don't reset — reload",
+   "detail": "When the break stalls at the arc, don't back it out. The ball handler keeps his dribble alive and the nearest big flows into a ball screen within two seconds."
+  },
+  {
+   "title": "Attack the mismatch",
+   "detail": "The break created cross-matches — a big on a guard, a guard on a big. Find it immediately and attack before the defense sorts itself out."
+  },
+  {
+   "title": "Use the DHO",
+   "detail": "A dribble handoff on the move is the perfect secondary action: it re-attacks downhill while the defense is still turning to find shooters."
+  },
+  {
+   "title": "Keep the tempo",
+   "detail": "Secondary actions only work at speed. Walk into them and they're just slow half-court offense — the whole advantage evaporates."
+  }
+ ],
+ "coachingPoints": [
+  "Call it by name — 'second wave!' — so players recognize the moment.",
+  "Your secondary action should be one automatic trigger, not a menu of options.",
+  "The trailer is usually the trigger man — he arrives as the break stalls."
+ ],
+ "commonMistakes": [
+  "Backing the ball out to 'run something' — you've just gifted the defense a reset.",
+  "Running the secondary action too slowly — speed is the entire weapon.",
+  "Forcing the initial break instead of flowing to secondary — know when wave one is dead."
+ ],
+ "gameSituations": [
+  "When the defense gets back but is cross-matched and scrambling.",
+  "After opponent makes — secondary break off the inbound.",
+  "With a versatile trailer who can screen, pop, or drive."
+ ],
+ "related": [
+  "secondary-break",
+  "transition-flow",
+  "drag-screen-transition",
+  "transition-offense"
+ ],
+ "vi": {
+  "title": "Bài Đánh Làn Sóng Hai Sau Break",
+  "description": "Pha break đầu bị chặn — giờ tấn công hàng thủ đang rối bằng làn sóng hai trước khi nó hồi.",
+  "whatIsIt": [
+   "Secondary actions là những pha tiếp nối ngay khi pha phản công đầu không tạo ra cú ném: một chắn bóng nhanh, một DHO, một flare cho tay ném — chạy trong 3–4 giây, khi hàng thủ còn đang chạy về rối loạn và lệch kèm. Nó không phải break cũng không phải half-court; nó là khoảng giữa chết người.",
+   "Các đội transition đỉnh cao sống ở đây. Làn sóng đầu bẻ cong hàng thủ; bài đánh làn hai phá vỡ nó — vì hàng thủ đã dùng hết tổ chức để chặn làn một."
+  ],
+  "whyItMatters": [
+   "Hàng thủ drill để 'chặn break' — và họ giỏi việc đó. Nhưng không ai ổn định sau khi chặn break; họ chỉ ít rối hơn. Bài đánh làn hai tấn công đúng khoảnh khắc hồi phục dở dang đó, tạo những cú nhìn half-court dễ nhất bạn từng có."
+  ],
+  "howTo": [
+   {
+    "title": "Đừng reset — hãy nạp lại",
+    "detail": "Khi break chững ở vòng cung, đừng kéo bóng ra. Người cầm bóng giữ dẫn sống và big gần nhất chảy vào chắn bóng trong hai giây."
+   },
+   {
+    "title": "Tấn công mismatch",
+    "detail": "Break tạo ra lệch kèm — big kèm guard, guard kèm big. Tìm ngay và tấn công trước khi hàng thủ tự sắp xếp."
+   },
+   {
+    "title": "Dùng DHO",
+    "detail": "Dribble handoff khi đang di chuyển là bài làn hai hoàn hảo: nó tấn công lại xuống dốc trong khi hàng thủ còn đang quay tìm tay ném."
+   },
+   {
+    "title": "Giữ nhịp",
+    "detail": "Bài làn hai chỉ hiệu quả ở tốc độ. Đi bộ vào nó thì chỉ là tấn công half-court chậm — toàn bộ lợi thế bay hơi."
+   }
+  ],
+  "coachingPoints": [
+   "Gọi tên nó — 'làn sóng hai!' — để cầu thủ nhận ra khoảnh khắc.",
+   "Bài làn hai nên là một trigger tự động, không phải menu lựa chọn.",
+   "Trailer thường là người kích hoạt — anh ta đến nơi khi break chững."
+  ],
+  "commonMistakes": [
+   "Kéo bóng ra để 'chạy bài gì đó' — bạn vừa tặng hàng thủ một pha reset.",
+   "Chạy bài làn hai quá chậm — tốc độ là toàn bộ vũ khí.",
+   "Cố pha break đầu thay vì chảy sang làn hai — biết khi nào làn một đã chết."
+  ],
+  "gameSituations": [
+   "Khi hàng thủ đã về nhưng lệch kèm và đang rối.",
+   "Sau khi đối thủ ghi điểm — secondary break từ ném biên.",
+   "Với trailer đa năng có thể chắn, pop hoặc đột phá."
+  ],
+  "tags": [
+   "transition",
+   "tấn công",
+   "phản công"
+  ]
+ },
+ "id": "transition-secondary-actions",
+ "slug": "transition-secondary-actions",
+ "dateUpdated": "2026-10-06"
+}

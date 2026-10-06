@@ -1,0 +1,121 @@
+{
+ "title": "Outlet Spots & Responsibilities",
+ "description": "Every player has an outlet job the moment a shot goes up — define the spots and the break starts itself.",
+ "hub": "transition",
+ "subcategory": "transition",
+ "level": "beginner",
+ "positions": [
+  "ALL"
+ ],
+ "ages": [
+  "U12",
+  "U14",
+  "U16",
+  "U18",
+  "Adult"
+ ],
+ "readTime": 4,
+ "tags": [
+  "transition",
+  "outlet",
+  "rebounding"
+ ],
+ "whatIsIt": [
+  "Outlet spots are the designated floor positions each player sprints to the instant a shot goes up — before anyone knows who got the rebound. The guards go to the outlet spots (sidelines at the free-throw line extended), the wings sprint the lanes, the bigs crash then run.",
+  "When everyone knows their spot, the rebounder doesn't have to look — he throws to a spot, and a teammate is there. The break starts in one second instead of five."
+ ],
+ "whyItMatters": [
+  "Slow breaks aren't slow because players run slowly — they're slow because nobody knows where to go. Defined outlet spots remove every decision from the first three seconds: run to your spot, and the ball finds you. It's the cheapest speed upgrade in basketball."
+ ],
+ "howTo": [
+  {
+   "title": "Guards: hit the outlet spots",
+   "detail": "The two guards sprint to opposite sidelines at the free-throw line extended — the classic outlet spots. Present a target: butt to the sideline, hands up, calling for the ball."
+  },
+  {
+   "title": "Wings: run the lanes",
+   "detail": "Wings don't wait for the outlet — they sprint their lanes immediately. The outlet goes to a guard, but the wings are already gone, which is what makes the break dangerous."
+  },
+  {
+   "title": "Bigs: crash, then go",
+   "detail": "Bigs crash the boards first. If you get the rebound, chin it and outlet. If a teammate gets it, you're the rim runner — sprint the middle."
+  },
+  {
+   "title": "Rebounder: throw to the spot",
+   "detail": "Don't wait to see someone open — throw to the outlet spot. Your teammate's job is to be there; your job is to deliver it on time."
+  }
+ ],
+ "coachingPoints": [
+  "Drill it 5-on-0: coach shoots, everyone sprints to spots, rebounder outlets. Rep until it's automatic.",
+  "The outlet spots never change — same spots, every rebound, every game.",
+  "Guards who leak out early for outlets give up offensive rebounds — crash first, then go."
+ ],
+ "commonMistakes": [
+  "Everyone running to the ball instead of their spots — the break never starts.",
+  "Guards standing at half court waiting instead of coming back to the outlet spots.",
+  "The rebounder holding the ball and looking — the spots only work if the throw is immediate."
+ ],
+ "gameSituations": [
+  "After every defensive rebound — the foundation of all transition offense.",
+  "With young teams: spots simplify the break more than any play call.",
+  "Vs pressing teams: defined spots beat the press because everyone knows the first pass."
+ ],
+ "related": [
+  "outlet-passing",
+  "running-lanes",
+  "transition-offense",
+  "defensive-rebounding"
+ ],
+ "vi": {
+  "title": "Vị Trí Outlet & Nhiệm Vụ",
+  "description": "Mỗi cầu thủ có một nhiệm vụ outlet ngay khi bóng rời tay ném — định nghĩa các vị trí và pha phản công tự bắt đầu.",
+  "whatIsIt": [
+   "Outlet spots là các vị trí sân được chỉ định mà mỗi cầu thủ chạy đến ngay khi cú ném lên — trước khi ai biết ai rebound được. Guard chạy đến outlet spots (biên dọc ngang vạch ném phạt kéo dài), wing chạy nước rút các lane, big tranh bóng rồi chạy.",
+   "Khi mọi người biết vị trí của mình, người rebound không phải nhìn — anh ta ném đến một vị trí, và đồng đội ở đó. Pha break bắt đầu trong một giây thay vì năm giây."
+  ],
+  "whyItMatters": [
+   "Break chậm không phải vì cầu thủ chạy chậm — mà vì không ai biết đi đâu. Outlet spots xác định loại bỏ mọi quyết định trong ba giây đầu: chạy đến vị trí của bạn, và bóng sẽ tìm bạn. Đó là nâng cấp tốc độ rẻ nhất trong bóng rổ."
+  ],
+  "howTo": [
+   {
+    "title": "Guard: đến outlet spots",
+    "detail": "Hai guard chạy nước rút đến hai biên dọc ngang vạch ném phạt kéo dài — outlet spots kinh điển. Giơ mục tiêu: mông về biên, tay giơ cao, gọi bóng."
+   },
+   {
+    "title": "Wing: chạy lanes",
+    "detail": "Wing không chờ outlet — họ chạy nước rút lanes ngay. Outlet đến guard, nhưng wing đã đi mất, và đó là điều khiến break nguy hiểm."
+   },
+   {
+    "title": "Big: tranh, rồi chạy",
+    "detail": "Big tranh bảng trước. Nếu bạn rebound được, ôm bóng cằm và outlet. Nếu đồng đội rebound, bạn là rim runner — chạy nước rút đường giữa."
+   },
+   {
+    "title": "Người rebound: ném đến vị trí",
+    "detail": "Đừng chờ thấy ai trống — ném đến outlet spot. Việc của đồng đội là ở đó; việc của bạn là đưa bóng đúng giờ."
+   }
+  ],
+  "coachingPoints": [
+   "Drill 5-đấu-0: huấn luyện viên ném, mọi người chạy đến vị trí, người rebound outlet. Tập đến khi thành tự động.",
+   "Outlet spots không bao giờ đổi — cùng vị trí, mọi rebound, mọi trận.",
+   "Guard lẻn ra sớm chờ outlet sẽ mất rebound tấn công — tranh trước, rồi đi."
+  ],
+  "commonMistakes": [
+   "Mọi người chạy về phía bóng thay vì vị trí — break không bao giờ bắt đầu.",
+   "Guard đứng ở giữa sân chờ thay vì quay lại outlet spots.",
+   "Người rebound giữ bóng và nhìn — các vị trí chỉ hiệu quả khi ném ngay."
+  ],
+  "gameSituations": [
+   "Sau mọi rebound phòng thủ — nền tảng của mọi tấn công transition.",
+   "Với đội trẻ: các vị trí đơn giản hóa break hơn mọi bài gọi.",
+   "Trước các đội press: vị trí xác định đánh bại press vì mọi người biết đường chuyền đầu."
+  ],
+  "tags": [
+   "transition",
+   "chuyền bóng",
+   "rebound"
+  ]
+ },
+ "id": "outlet-spots",
+ "slug": "outlet-spots",
+ "dateUpdated": "2026-10-06"
+}

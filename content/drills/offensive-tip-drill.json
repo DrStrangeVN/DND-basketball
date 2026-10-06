@@ -1,0 +1,110 @@
+{
+  "id": "offensive-tip-drill",
+  "slug": "offensive-tip-drill",
+  "title": "Offensive Tip Drill",
+  "description": "Crash and tip: beat your man to the spot, tip the miss back up or to a teammate — second chances are won before the shot even lands.",
+  "skill": "Rebounding",
+  "level": "intermediate",
+  "ages": [
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "players": "2+",
+  "equipment": [
+    "Basketball"
+  ],
+  "durationMin": 10,
+  "intensity": "high",
+  "goal": "Develop the timing and touch to tip offensive rebounds for putbacks instead of trying to grab everything clean.",
+  "setup": [
+    "Shooter at the wing, tipper starts at the opposite elbow.",
+    "Coach calls 'shot' — shooter shoots, tipper crashes.",
+    "Alternate intentional misses off different parts of the rim."
+  ],
+  "instructions": [
+    {
+      "title": "Read the miss",
+      "detail": "Watch the shooter's angle — long shots bounce long, short shots drop short."
+    },
+    {
+      "title": "Beat your man",
+      "detail": "Swim or spin past the box-out before the ball hits the rim."
+    },
+    {
+      "title": "Tip, don't grab",
+      "detail": "In traffic, tip the ball up softly or tip it to the open side — clean catches are rare."
+    },
+    {
+      "title": "Putback finish",
+      "detail": "When the tip drops near the rim, go straight back up strong for the and-one chance."
+    }
+  ],
+  "coachingPoints": [
+    "Go on the shot, not the make-or-miss — early crashers get the tips.",
+    "Tip it UP — tipping down or out gives the defense the ball.",
+    "Keep the ball above your shoulders in traffic."
+  ],
+  "commonMistakes": [
+    "Standing and watching the shot — you're already too late.",
+    "Trying to catch everything clean in a crowd — tip it."
+  ],
+  "progression": "Add a live box-out defender the tipper must beat.",
+  "regression": "Start with self-tossed misses and no defender.",
+  "gameApplication": "Offensive rebounds break defenses psychologically — a tip that turns into a putback deflates the team that just played 20 seconds of defense.",
+  "related": [
+    "tip-back-drill",
+    "war-rebounding",
+    "box-out-battle"
+  ],
+  "dateUpdated": "2026-10-06",
+  "vi": {
+    "title": "Bài Tip Bóng Tấn Công",
+    "description": "Lao vào và tip: tới chỗ trước đối thủ, tip bóng trượt lên lại hoặc cho đồng đội — cơ hội thứ hai được giành trước khi bóng chạm vành.",
+    "goal": "Phát triển nhịp và cảm giác để tip offensive rebound thành putback thay vì cố bắt sạch mọi thứ.",
+    "setup": [
+      "Người ném ở wing, người tip bắt đầu ở elbow đối diện.",
+      "HLV hô 'ném' — người ném ném, người tip lao vào.",
+      "Luân phiên ném trượt cố ý vào các phần khác nhau của vành rổ."
+    ],
+    "instructions": [
+      {
+        "title": "Đọc hướng nảy",
+        "detail": "Nhìn góc ném — ném xa nảy xa, ném non rớt gần."
+      },
+      {
+        "title": "Vượt qua người kèm",
+        "detail": "Swim hoặc spin qua box-out trước khi bóng chạm vành."
+      },
+      {
+        "title": "Tip, đừng bắt",
+        "detail": "Trong đám đông, tip bóng nhẹ lên hoặc tip sang phía trống — bắt sạch hiếm khi xảy ra."
+      },
+      {
+        "title": "Putback",
+        "detail": "Khi tip rơi gần rổ, bật ngay lên mạnh mẽ dứt điểm kiếm and-one."
+      }
+    ],
+    "coachingPoints": [
+      "Lao vào khi bóng vừa ném, đừng đợi biết trúng hay trượt — người vào sớm mới tip được.",
+      "Tip bóng LÊN — tip xuống hay ra ngoài là dâng bóng cho đối thủ.",
+      "Giữ bóng trên vai trong đám đông."
+    ],
+    "commonMistakes": [
+      "Đứng nhìn cú ném — thế là đã muộn.",
+      "Cố bắt sạch mọi thứ trong đám đông — hãy tip nó."
+    ],
+    "progression": "Thêm hậu vệ box-out thật mà người tip phải vượt qua.",
+    "regression": "Bắt đầu tự tung bóng trượt, không hậu vệ.",
+    "gameApplication": "Offensive rebound bẻ gãy tinh thần hàng thủ — một pha tip thành putback làm xẹp ý chí đội vừa thủ 20 giây.",
+    "players": "2+",
+    "equipment": [
+      "Bóng rổ"
+    ]
+  }
+}

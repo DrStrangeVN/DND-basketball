@@ -1,0 +1,111 @@
+{
+  "id": "weak-hand-only-game",
+  "slug": "weak-hand-only-game",
+  "title": "Weak-Hand-Only Game",
+  "description": "Play live 1v1 or 3v3 where every dribble, pass, and finish must come from your weak hand — the fastest way to make it game-ready.",
+  "skill": "Ball Handling",
+  "level": "beginner",
+  "ages": [
+    "U10",
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "players": "2+",
+  "equipment": [
+    "Basketball"
+  ],
+  "durationMin": 12,
+  "intensity": "medium",
+  "goal": "Force real-game reps with your weak hand so it stops being a liability by the end of the session.",
+  "setup": [
+    "Split into teams for 1v1, 2v2, or 3v3 on a half court.",
+    "Rule: every dribble, pass, and shot must use the weak hand — violations turn the ball over.",
+    "Play first to 7 baskets, then switch matchups."
+  ],
+  "instructions": [
+    {
+      "title": "Warm up weak-hand only",
+      "detail": "Two minutes of weak-hand pound dribbles, crossovers, and layups before the games start."
+    },
+    {
+      "title": "Play to 7",
+      "detail": "Live game, weak hand only. Dribble moves, passes, finishes — all weak hand."
+    },
+    {
+      "title": "Weak-hand finishes only",
+      "detail": "Even on fast breaks, finish with the weak hand — no switching mid-air."
+    },
+    {
+      "title": "Second round, new matchup",
+      "detail": "Play again against a different defender; notice what got easier."
+    }
+  ],
+  "coachingPoints": [
+    "Protect the ball with your strong-side shoulder — the weak hand needs body protection.",
+    "It's fine to be slow at first; control beats speed while learning.",
+    "Call for the ball — hiding doesn't develop anything."
+  ],
+  "commonMistakes": [
+    "Switching to the strong hand 'just this once' — that's the habit you're breaking.",
+    "Avoiding contact because the weak hand feels exposed."
+  ],
+  "progression": "Restrict to half court 1v1 with no help defense.",
+  "regression": "Allow strong-hand passes but require weak-hand dribbles and finishes.",
+  "gameApplication": "Defenses hunt weak hands in real games — thirty minutes of forced weak-hand play builds more confidence than a month of casual dribbling.",
+  "related": [
+    "two-ball-dribbling",
+    "two-ball-pound-series",
+    "one-on-one-live"
+  ],
+  "dateUpdated": "2026-10-06",
+  "vi": {
+    "title": "Trận Đấu Chỉ Dùng Tay Yếu",
+    "description": "Chơi 1v1 hoặc 3v3 mà mọi pha dẫn bóng, chuyền và dứt điểm đều phải dùng tay yếu — cách nhanh nhất để tay yếu sẵn sàng thi đấu.",
+    "goal": "Ép bản thân dùng tay yếu trong tình huống thật để nó không còn là điểm yếu sau buổi tập.",
+    "setup": [
+      "Chia đội chơi 1v1, 2v2 hoặc 3v3 nửa sân.",
+      "Luật: mọi pha dẫn bóng, chuyền và ném đều phải dùng tay yếu — vi phạm là mất bóng.",
+      "Chơi chạm 7 điểm rồi đổi cặp đấu."
+    ],
+    "instructions": [
+      {
+        "title": "Khởi động chỉ tay yếu",
+        "detail": "Hai phút đập bóng, crossover và layup bằng tay yếu trước khi đấu."
+      },
+      {
+        "title": "Chơi chạm 7",
+        "detail": "Đấu thật, chỉ tay yếu. Dẫn bóng, chuyền, dứt điểm — tất cả tay yếu."
+      },
+      {
+        "title": "Chỉ dứt điểm tay yếu",
+        "detail": "Kể cả phản công nhanh cũng dứt điểm tay yếu — không đổi tay giữa không trung."
+      },
+      {
+        "title": "Lượt hai, đối thủ mới",
+        "detail": "Đấu lại với người khác; để ý xem điều gì đã dễ hơn."
+      }
+    ],
+    "coachingPoints": [
+      "Che bóng bằng vai bên tay thuận — tay yếu cần cơ thể bảo vệ.",
+      "Chậm lúc đầu cũng được; kiểm soát quan trọng hơn tốc độ khi đang học.",
+      "Chủ động xin bóng — trốn tránh chẳng phát triển được gì."
+    ],
+    "commonMistakes": [
+      "Lén dùng tay thuận 'chỉ lần này thôi' — đó chính là thói quen cần phá bỏ.",
+      "Né va chạm vì thấy tay yếu dễ lộ bóng."
+    ],
+    "progression": "Giới hạn 1v1 nửa sân, không có help defense.",
+    "regression": "Cho phép chuyền tay thuận nhưng bắt buộc dẫn bóng và dứt điểm tay yếu.",
+    "gameApplication": "Hậu vệ luôn săn tay yếu trong trận thật — ba mươi phút ép dùng tay yếu hiệu quả hơn cả tháng tập dẫn bóng hời hợt.",
+    "players": "2+",
+    "equipment": [
+      "Bóng rổ"
+    ]
+  }
+}

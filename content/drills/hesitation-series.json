@@ -1,0 +1,114 @@
+{
+  "id": "hesitation-series",
+  "slug": "hesitation-series",
+  "title": "Hesitation Series",
+  "description": "Master the hesitation move and its counters — freeze the defender, then explode past with a hesitation go, crossover, or behind-the-back.",
+  "skill": "Ball Handling",
+  "level": "intermediate",
+  "ages": [
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "players": "1",
+  "equipment": [
+    "Basketball",
+    "2 cones"
+  ],
+  "durationMin": 10,
+  "intensity": "medium",
+  "goal": "Build a reliable hesitation move with two live counters so you can beat a defender who sits on your first option.",
+  "setup": [
+    "Place two cones: one at half court, one at the top of the key.",
+    "Start at half court with the ball in your strong hand.",
+    "Work one side at a time, then switch hands."
+  ],
+  "instructions": [
+    {
+      "title": "Hesitation and go",
+      "detail": "Dribble at the first cone, hesitate — stutter your feet and lift the ball slightly — then explode past the cone with one hard dribble."
+    },
+    {
+      "title": "Hesitation crossover",
+      "detail": "Same setup, but after the freeze, cross the ball over to your weak hand and attack the new angle."
+    },
+    {
+      "title": "Hesitation behind-the-back",
+      "detail": "Freeze the defender, then wrap the ball behind your back to change hands without exposing it."
+    },
+    {
+      "title": "Live read",
+      "detail": "Have a partner call out 'go', 'cross', or 'back' as you hesitate — react without breaking rhythm."
+    }
+  ],
+  "coachingPoints": [
+    "The hesitation sells with your shoulders and eyes, not just the ball.",
+    "Stay low through the freeze — standing up kills your burst.",
+    "Explode out of the move: the first step after the hesitation decides everything.",
+    "Keep the ball tight on counters; a wide crossover gets stolen."
+  ],
+  "commonMistakes": [
+    "Hesitating without a burst — a freeze with no go is just standing still.",
+    "Looking at the ball during the counter move."
+  ],
+  "progression": "Add a defender at the cone who reacts to your first move.",
+  "regression": "Walk through the footwork without a ball until the rhythm feels natural.",
+  "gameApplication": "Every isolation possession starts with a read — the hesitation series gives you a go-to move plus answers when the defense takes it away.",
+  "related": [
+    "cone-crossover-series",
+    "change-of-pace-ladder",
+    "retreat-dribble-pressure"
+  ],
+  "dateUpdated": "2026-10-06",
+  "vi": {
+    "title": "Chuỗi Động Tác Hesitation",
+    "description": "Làm chủ động tác hesitation và các biến thể — đóng băng hậu vệ rồi bứt tốc vượt qua bằng hesitation go, crossover hoặc behind-the-back.",
+    "goal": "Xây dựng một động tác hesitation đáng tin cậy cùng hai biến thể để vượt qua hậu vệ khi họ bắt bài phương án đầu tiên.",
+    "setup": [
+      "Đặt hai cọc tiêu: một ở giữa sân, một ở đỉnh vòng 3 điểm.",
+      "Bắt đầu ở giữa sân, bóng ở tay thuận.",
+      "Tập từng bên một rồi đổi tay."
+    ],
+    "instructions": [
+      {
+        "title": "Hesitation rồi bứt tốc",
+        "detail": "Dẫn bóng tới cọc tiêu, hesitation — khựng chân và nhấc bóng nhẹ — rồi bứt tốc vượt qua cọc bằng một pha đập bóng mạnh."
+      },
+      {
+        "title": "Hesitation crossover",
+        "detail": "Tương tự nhưng sau khi đóng băng đối thủ, crossover sang tay yếu và tấn công góc mới."
+      },
+      {
+        "title": "Hesitation behind-the-back",
+        "detail": "Đóng băng hậu vệ rồi vòng bóng sau lưng để đổi tay mà không lộ bóng."
+      },
+      {
+        "title": "Đọc tình huống",
+        "detail": "Nhờ đồng đội hô 'go', 'cross' hoặc 'back' khi bạn hesitation — phản ứng ngay không mất nhịp."
+      }
+    ],
+    "coachingPoints": [
+      "Hesitation phải 'bán' bằng vai và mắt, không chỉ bằng bóng.",
+      "Giữ thấp người khi khựng — đứng thẳng lên sẽ mất đà bứt tốc.",
+      "Bứt tốc ngay sau động tác: bước đầu tiên quyết định tất cả.",
+      "Giữ bóng gọn khi đổi hướng; crossover quá rộng dễ bị cướp."
+    ],
+    "commonMistakes": [
+      "Hesitation mà không bứt tốc — khựng lại mà không đi thì chỉ là đứng yên.",
+      "Nhìn xuống bóng khi thực hiện biến thể."
+    ],
+    "progression": "Thêm một hậu vệ ở cọc tiêu để phản ứng với động tác đầu tiên của bạn.",
+    "regression": "Đi bộ qua footwork không cần bóng cho đến khi quen nhịp.",
+    "gameApplication": "Mỗi pha isolation đều bắt đầu bằng việc đọc đối thủ — chuỗi hesitation cho bạn một tuyệt chiêu cùng phương án dự phòng khi bị bắt bài.",
+    "players": "1",
+    "equipment": [
+      "Bóng rổ",
+      "2 cọc tiêu"
+    ]
+  }
+}

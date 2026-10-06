@@ -1,0 +1,111 @@
+{
+  "id": "free-throw-boxout-battle",
+  "slug": "free-throw-boxout-battle",
+  "title": "Free-Throw Box-Out Battle",
+  "description": "Turn free throws into a war: 2v2 box-out battle on every miss — find a body, make contact, and own the rebound before the offense does.",
+  "skill": "Rebounding",
+  "level": "beginner",
+  "ages": [
+    "U10",
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "players": "5",
+  "equipment": [
+    "Basketball"
+  ],
+  "durationMin": 10,
+  "intensity": "medium",
+  "goal": "Win free-throw rebounds with real box-out technique — contact first, then pursue.",
+  "setup": [
+    "Two defenders on the marked lane spots, two offensive players outside them.",
+    "Shooter at the line; everyone else clears.",
+    "Miss intentionally on some reps to guarantee rebound chances."
+  ],
+  "instructions": [
+    {
+      "title": "Find your man",
+      "detail": "As the shot goes up, the defender finds the nearest offensive body — not the ball."
+    },
+    {
+      "title": "Hit and seal",
+      "detail": "Make forearm contact, pivot, and seal the offensive player behind you."
+    },
+    {
+      "title": "Pursue the ball",
+      "detail": "Once sealed, go get the rebound with two hands — chin it immediately."
+    },
+    {
+      "title": "Battle rounds",
+      "detail": "First team to 5 defensive rebounds wins; losers run."
+    }
+  ],
+  "coachingPoints": [
+    "Contact before pursuit — no touch, no box-out.",
+    "Wide base, butt down — leverage beats jumping.",
+    "Hold the seal until the ball is secured."
+  ],
+  "commonMistakes": [
+    "Watching the ball and letting your man run around you.",
+    "Jumping for the rebound without making contact first."
+  ],
+  "progression": "Go 3v3 with an extra offensive rebounder crashing.",
+  "regression": "No offense — just practice the hit-and-seal footwork.",
+  "gameApplication": "Free-throw rebounds are pure effort and technique — teams that win them win the possession battle that decides close games.",
+  "related": [
+    "box-out-battle",
+    "tip-back-drill",
+    "war-rebounding"
+  ],
+  "dateUpdated": "2026-10-06",
+  "vi": {
+    "title": "Tranh Chấp Box-Out Khi Ném Phạt",
+    "description": "Biến ném phạt thành cuộc chiến: 2v2 tranh box-out mỗi khi ném trượt — tìm người, tạo va chạm và giành rebound trước đối thủ.",
+    "goal": "Thắng rebound ném phạt bằng kỹ thuật box-out thật — va chạm trước, rồi mới đuổi bóng.",
+    "setup": [
+      "Hai hậu vệ ở vạch box-out, hai tấn công đứng ngoài.",
+      "Người ném ở vạch; còn lại tránh ra.",
+      "Cố tình ném trượt vài lượt để chắc chắn có rebound."
+    ],
+    "instructions": [
+      {
+        "title": "Tìm người",
+        "detail": "Khi bóng bay lên, hậu vệ tìm thân người tấn công gần nhất — không phải nhìn bóng."
+      },
+      {
+        "title": "Húc và seal",
+        "detail": "Tạo va chạm bằng cẳng tay, xoay người seal đối thủ sau lưng."
+      },
+      {
+        "title": "Đuổi bóng",
+        "detail": "Seal xong thì lao tới rebound hai tay — kẹp bóng sát cằm ngay."
+      },
+      {
+        "title": "Vòng đấu",
+        "detail": "Đội nào 5 rebound phòng thủ trước thì thắng; đội thua chạy phạt."
+      }
+    ],
+    "coachingPoints": [
+      "Va chạm trước khi đuổi bóng — không chạm là không box-out.",
+      "Chân rộng, mông thấp — đòn bẩy thắng sức bật.",
+      "Giữ seal cho đến khi bóng đã chắc trong tay."
+    ],
+    "commonMistakes": [
+      "Mải nhìn bóng để đối thủ chạy vòng qua.",
+      "Nhảy tranh rebound mà không tạo va chạm trước."
+    ],
+    "progression": "Chơi 3v3 với thêm một người lao vào tranh offensive rebound.",
+    "regression": "Không cần tấn công — chỉ tập footwork húc-và-seal.",
+    "gameApplication": "Rebound ném phạt là nỗ lực và kỹ thuật thuần túy — đội nào thắng chúng sẽ thắng cuộc chiến kiểm soát bóng quyết định trận đấu sát nút.",
+    "players": "5",
+    "equipment": [
+      "Bóng rổ"
+    ]
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "id": "dho-series",
+  "slug": "dho-series",
+  "title": "DHO Series",
+  "description": "The dribble handoff with all three reads: keep it and turn the corner, reject it backdoor, or snake back middle when the defense overplays.",
+  "skill": "Passing",
+  "level": "intermediate",
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "PG",
+    "SG",
+    "SF"
+  ],
+  "players": "3",
+  "equipment": [
+    "Basketball"
+  ],
+  "durationMin": 12,
+  "intensity": "medium",
+  "goal": "Run a clean DHO and make the right read — keep, reject, or snake — based on how the defender plays it.",
+  "setup": [
+    "Ball handler starts at the wing; receiver starts at the slot.",
+    "A defender guards the receiver.",
+    "Go half-court live after the handoff."
+  ],
+  "instructions": [
+    {
+      "title": "Keep and turn the corner",
+      "detail": "Take the handoff, turn the corner tight off the handler's hip, and attack the rim."
+    },
+    {
+      "title": "Reject backdoor",
+      "detail": "When your defender jumps over the handoff early, reject it and cut backdoor for the give-and-go."
+    },
+    {
+      "title": "Snake back middle",
+      "detail": "If the defense switches or overplays, snake the dribble back toward the middle for a pull-up or pocket pass."
+    },
+    {
+      "title": "Live 2v2",
+      "detail": "Play the DHO live 2v2 to 3 stops; the receiver must call the read out loud."
+    }
+  ],
+  "coachingPoints": [
+    "Hand the ball off at the receiver's pocket — lazy handoffs get stolen.",
+    "The receiver sets up the defender away from the handoff first.",
+    "Read the defender's hips, not the ball."
+  ],
+  "commonMistakes": [
+    "Running into your own handoff man — spacing is everything.",
+    "Deciding the read before the defender shows you anything."
+  ],
+  "progression": "Go 3v3 with help defense rotating on the DHO.",
+  "regression": "Walk through each read 5 times with no defense first.",
+  "gameApplication": "The DHO is the modern pick-and-roll for non-bigs — teams that read it correctly generate open threes and layups every possession.",
+  "related": [
+    "three-man-weave",
+    "pick-and-roll-two-on-two",
+    "skip-pass-accuracy"
+  ],
+  "dateUpdated": "2026-10-06",
+  "vi": {
+    "title": "Chuỗi Dribble Handoff",
+    "description": "Dribble handoff với đủ ba cách đọc: giữ bóng vượt qua, reject cắt backdoor, hoặc snake quay lại giữa khi hàng thủ bắt bài.",
+    "goal": "Chạy DHO sạch và đọc đúng — keep, reject hay snake — dựa vào cách hậu vệ xử lý.",
+    "setup": [
+      "Người cầm bóng bắt đầu ở wing; người nhận bắt đầu ở slot.",
+      "Một hậu vệ kèm người nhận.",
+      "Sau handoff thì đấu live nửa sân."
+    ],
+    "instructions": [
+      {
+        "title": "Giữ bóng vượt qua",
+        "detail": "Nhận handoff, vượt sát hông người giao bóng rồi tấn công rổ."
+      },
+      {
+        "title": "Reject cắt backdoor",
+        "detail": "Khi hậu vệ nhảy qua handoff sớm, reject và cắt backdoor nhận bóng trả lại."
+      },
+      {
+        "title": "Snake về giữa",
+        "detail": "Nếu hàng thủ switch hoặc bắt bài, snake bóng về giữa để pull-up hoặc pocket pass."
+      },
+      {
+        "title": "Đấu live 2v2",
+        "detail": "Chơi DHO live 2v2 chạm 3 lần thủng lưới; người nhận phải hô to cách đọc."
+      }
+    ],
+    "coachingPoints": [
+      "Trao bóng đúng tầm tay người nhận — handoff ẩu dễ bị cướp.",
+      "Người nhận phải đánh lừa hậu vệ ra xa handoff trước.",
+      "Đọc hông hậu vệ, không phải đọc bóng."
+    ],
+    "commonMistakes": [
+      "Chạy đâm vào chính người giao bóng — spacing là tất cả.",
+      "Quyết định cách đọc trước khi hậu vệ lộ ý đồ."
+    ],
+    "progression": "Chơi 3v3 với help defense xoay theo DHO.",
+    "regression": "Đi bộ qua từng cách đọc 5 lần không phòng thủ trước.",
+    "gameApplication": "DHO là pick-and-roll hiện đại cho người không phải big man — đội nào đọc đúng sẽ tạo ra 3 điểm trống và layup mỗi lượt tấn công.",
+    "players": "3",
+    "equipment": [
+      "Bóng rổ"
+    ]
+  }
+}

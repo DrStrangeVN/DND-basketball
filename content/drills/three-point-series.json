@@ -1,0 +1,111 @@
+{
+  "id": "three-point-series",
+  "slug": "three-point-series",
+  "title": "Three-Point Series",
+  "description": "A structured 3-point workout: five spots, three rounds — catch-and-shoot, one-dribble pull-up, and step-back — building range with a make target at every spot.",
+  "skill": "Shooting",
+  "level": "intermediate",
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "players": "1+",
+  "equipment": [
+    "Basketball",
+    "Ball rack (optional)"
+  ],
+  "durationMin": 20,
+  "intensity": "medium",
+  "goal": "Build consistent, repeatable 3-point shooting from all five spots with game-like movement between shots.",
+  "setup": [
+    "Mark five spots around the arc: corners, wings, top.",
+    "Bring a rebounder or use a ball rack; you'll shoot a lot of balls.",
+    "Track makes per spot — the target is 3 makes per spot per round."
+  ],
+  "instructions": [
+    {
+      "title": "Round 1: catch-and-shoot",
+      "detail": "Sprint spot to spot, catch in a stance, and shoot — 3 makes at each of the five spots before moving on."
+    },
+    {
+      "title": "Round 2: one-dribble pull-up",
+      "detail": "Catch on the move, take one hard dribble sideways or toward the rim, rise into the three."
+    },
+    {
+      "title": "Round 3: step-back three",
+      "detail": "Catch, jab or shot-fake, step back behind the line, and shoot over the contest."
+    },
+    {
+      "title": "Record and repeat",
+      "detail": "Write down total makes out of 45 shots; beat the number next session."
+    }
+  ],
+  "coachingPoints": [
+    "Feet set before the catch — the shot starts with your footwork, not your release.",
+    "Same routine every rep: dip, rise, follow through, hold.",
+    "Sprint between spots — conditioning is part of shooting in games."
+  ],
+  "commonMistakes": [
+    "Drifting sideways on every shot — square up even when moving.",
+    "Rushing the release when tired; tired legs need MORE legs, not arms."
+  ],
+  "progression": "Raise the target to 4 makes per spot, or add a defender closing out.",
+  "regression": "Move the spots in to the free-throw line extended until range develops.",
+  "gameApplication": "Modern offenses live behind the arc — a structured series turns streaky shooting into a reliable weapon defenses must respect.",
+  "related": [
+    "three-point-star",
+    "star-shooting",
+    "five-spot-catch-shoot"
+  ],
+  "dateUpdated": "2026-10-06",
+  "vi": {
+    "title": "Chuỗi Ném 3 Điểm",
+    "description": "Giáo án ném 3 điểm có cấu trúc: năm vị trí, ba vòng — catch-and-shoot, pull-up một nhịp, step-back — xây dựng tầm ném với chỉ tiêu ghi điểm mỗi vị trí.",
+    "goal": "Xây dựng khả năng ném 3 điểm ổn định từ cả năm vị trí với di chuyển như trong trận.",
+    "setup": [
+      "Đánh dấu năm vị trí quanh vòng 3 điểm: hai góc, hai wing, đỉnh.",
+      "Chuẩn bị người nhặt bóng hoặc giá bóng; bạn sẽ ném rất nhiều.",
+      "Ghi lại số cú ném trúng mỗi vị trí — chỉ tiêu là 3 cú trúng mỗi vị trí mỗi vòng."
+    ],
+    "instructions": [
+      {
+        "title": "Vòng 1: catch-and-shoot",
+        "detail": "Chạy nước rút qua các vị trí, bắt bóng ở tư thế sẵn sàng rồi ném — 3 cú trúng mỗi vị trí mới chuyển."
+      },
+      {
+        "title": "Vòng 2: pull-up một nhịp",
+        "detail": "Bắt bóng khi di chuyển, một nhịp đập bóng mạnh sang ngang hoặc vào rổ rồi bật ném 3."
+      },
+      {
+        "title": "Vòng 3: step-back 3 điểm",
+        "detail": "Bắt bóng, jab hoặc giả ném, bước lùi ra sau vạch rồi ném qua tay chắn."
+      },
+      {
+        "title": "Ghi chép và lặp lại",
+        "detail": "Ghi tổng số cú trúng trên 45 cú ném; buổi sau phải vượt con số đó."
+      }
+    ],
+    "coachingPoints": [
+      "Chân đặt vững trước khi bắt bóng — cú ném bắt đầu từ footwork, không phải từ tay.",
+      "Cùng một routine mỗi lượt: hạ người, bật lên, vung tay theo, giữ nguyên.",
+      "Chạy nước rút giữa các vị trí — thể lực là một phần của ném rổ trong trận."
+    ],
+    "commonMistakes": [
+      "Người trôi ngang mỗi cú ném — phải vuông góc với rổ kể cả khi di chuyển.",
+      "Vội vàng khi mệt; chân mệt càng cần dùng CHÂN nhiều hơn, không phải tay."
+    ],
+    "progression": "Nâng chỉ tiêu lên 4 cú trúng mỗi vị trí, hoặc thêm hậu vệ closeout.",
+    "regression": "Kéo các vị trí vào trong tới ngang vạch ném phạt cho đến khi đủ tầm ném.",
+    "gameApplication": "Lối chơi hiện đại sống nhờ vòng 3 điểm — một chuỗi bài bản biến khả năng ném thất thường thành vũ khí đáng tin cậy.",
+    "players": "1+",
+    "equipment": [
+      "Bóng rổ",
+      "Giá bóng (tùy chọn)"
+    ]
+  }
+}

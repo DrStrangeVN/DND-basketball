@@ -1,0 +1,141 @@
+{
+  "id": "defensive-anchor",
+  "slug": "defensive-anchor",
+  "title": "The Defensive Anchor",
+  "description": "The rim protector and on-court organizer every good defense is built around — controlling the paint with positioning and verticality, and directing teammates with constant communication.",
+  "hub": "positions",
+  "subcategory": "modern-roles",
+  "level": "advanced",
+  "positions": [
+    "C"
+  ],
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "readTime": 6,
+  "tags": [
+    "center",
+    "rim protection",
+    "communication",
+    "defense",
+    "modern-roles"
+  ],
+  "whatIsIt": [
+    "The defensive anchor is usually the center, but the role is defined by responsibility, not size: protect the rim, clean the glass, and quarterback the defense. Anchors see the whole floor from the back line — they call out screens, direct switches, and tell guards when help is coming.",
+    "Great anchors rarely lead highlight reels; they lead defensive ratings. Their value is in shots that never happen — drivers who pull up, cutters who think twice, and pick-and-rolls that go nowhere because the coverage was organized two passes early."
+  ],
+  "whyItMatters": [
+    "Defense is five players moving as one, and one voice has to coordinate it. Without an anchor, rotations arrive late, nobody calls the screen, and the same breakdown repeats all game. A player who communicates and protects the paint raises the floor of the entire defense — coaches build schemes around anchors because they make everyone else's job simpler."
+  ],
+  "howTo": [
+    {
+      "title": "Own the paint with early positioning",
+      "detail": "Beat the ball to your spot: get to the restricted-area line before the driver does, with active hands and a wide base. The best rim protection happens before the shot — a driver who sees you set pulls up or kicks out. Sprint back in transition; an anchor who jogs gives up a layup every other trip."
+    },
+    {
+      "title": "Master verticality",
+      "detail": "Jump straight up with high hands and a still chest — verticality turns would-be fouls into clean contests. Time the second jump for the putback, not the first fake. Study film of your own contests: hands straight up means no whistle, hands forward means two free throws."
+    },
+    {
+      "title": "Talk nonstop",
+      "detail": "Call screen left, switch, I got help, shot and box out — early and loud. Your voice is the defense's GPS; silence is a turnover waiting to happen. Develop three or four standard calls with your team and use the same words every practice until they are automatic."
+    },
+    {
+      "title": "Run the pick-and-roll coverage",
+      "detail": "You decide drop, hedge, or switch — then execute it with full commitment. In a drop, stay between ball and rim and contain two dribbles; in a hedge, show hard and recover sprinting; on a switch, take the ball and trust the rotation. Half-measures give up both the drive and the roll."
+    },
+    {
+      "title": "Finish possessions on the glass",
+      "detail": "The stop is not complete until you secure the rebound. Hit first, then pursue: make contact on your box-out, then go get the ball at its highest point. Outlet quickly to start the break — anchors who rebound and throw the advance pass ignite transition offense."
+    }
+  ],
+  "coachingPoints": [
+    "See ball and man — never turn your back to both.",
+    "Call the coverage before the screen arrives, not during it.",
+    "Wall up; do not swipe down.",
+    "Two hands on the rebound in traffic; one hand invites a strip.",
+    "Your energy sets the defense's energy — sprint, talk, repeat."
+  ],
+  "commonMistakes": [
+    "Chasing blocks and leaving your feet on every pump fake.",
+    "Going silent — assuming teammates see what you see.",
+    "Boxing out the wrong man or admiring the shot instead of hitting someone.",
+    "Hedging halfway and recovering late, giving up both options."
+  ],
+  "gameSituations": [
+    "Rotating from the weak side to meet a baseline driver at the rim.",
+    "Calling out a switch on a late-clock ball screen and containing the guard.",
+    "Securing a contested rebound in traffic and firing the outlet pass.",
+    "Organizing a scramble rotation after the defense is broken — pointing and recovering."
+  ],
+  "related": [
+    "center-basketball",
+    "rim-running-center",
+    "defensive-principles",
+    "box-out",
+    "closeout-defense"
+  ],
+  "dateUpdated": "2026-10-06",
+  "vi": {
+    "title": "Defensive Anchor – Trụ Cột Phòng Ngự",
+    "description": "Người bảo vệ rổ và tổ chức phòng ngự trên sân mà mọi hàng thủ tốt đều xây dựng xung quanh — kiểm soát paint bằng vị trí và verticality, chỉ huy đồng đội bằng giao tiếp liên tục.",
+    "whatIsIt": [
+      "Defensive anchor thường là trung phong, nhưng vai trò này được định nghĩa bằng trách nhiệm chứ không phải chiều cao: bảo vệ rổ, dọn bảng rổ, và làm người điều phối của hàng thủ. Anchor nhìn toàn sân từ tuyến sau — hô screen, chỉ đạo switch, và báo cho hậu vệ biết khi nào có help.",
+      "Anchor giỏi hiếm khi lên highlight; họ dẫn đầu các chỉ số phòng ngự. Giá trị của họ nằm ở những cú ném không bao giờ xảy ra — tay đột phá phải dừng lại, người cắt rổ phải đắn đo, và pick-and-roll đi vào ngõ cụt vì coverage đã được tổ chức từ hai đường chuyền trước."
+    ],
+    "whyItMatters": [
+      "Phòng ngự là năm người di chuyển như một, và cần một giọng nói điều phối. Không có anchor, rotation đến muộn, không ai hô screen, và cùng một lỗi lặp lại cả trận. Cầu thủ vừa giao tiếp vừa bảo vệ paint nâng tầm toàn bộ hàng thủ — HLV xây dựng sơ đồ quanh anchor vì họ khiến công việc của mọi người khác đơn giản hơn."
+    ],
+    "howTo": [
+      {
+        "title": "Làm chủ paint bằng vị trí sớm",
+        "detail": "Đến vị trí trước bóng: đứng ở vạch restricted area trước khi tay đột phá tới, tay hoạt động, chân rộng. Bảo vệ rổ tốt nhất diễn ra trước cú ném — tay đột phá thấy bạn đã set sẽ phải dừng hoặc chuyền ra. Chạy nước rút về thủ trong transition; anchor mà chạy bộ thong thả là tặng layup."
+      },
+      {
+        "title": "Nắm vững verticality",
+        "detail": "Nhảy thẳng đứng, tay cao, ngực đứng yên — verticality biến những pha suýt phạm lỗi thành contest sạch. Dành cú nhảy thứ hai cho pha putback, đừng nhảy theo fake đầu tiên. Xem lại film các pha contest của mình: tay thẳng đứng là không còi, tay chồm tới là hai quả phạt."
+      },
+      {
+        "title": "Nói không ngừng",
+        "detail": "Hô screen trái, switch, có help, ném rồi box out — sớm và to. Giọng bạn là GPS của hàng thủ; im lặng là turnover đang chờ. Thống nhất ba bốn câu hô chuẩn với cả đội và dùng đúng những từ đó mỗi buổi tập đến khi thành phản xạ."
+      },
+      {
+        "title": "Điều hành phòng ngự pick-and-roll",
+        "detail": "Bạn quyết định drop, hedge hay switch — rồi thực hiện với toàn bộ quyết tâm. Drop thì đứng giữa bóng và rổ, chặn hai nhịp dribble; hedge thì lao ra mạnh rồi chạy nước rút về; switch thì nhận bóng và tin vào rotation. Làm nửa vời là mất cả đột phá lẫn roll."
+      },
+      {
+        "title": "Kết thúc pha bóng trên bảng rổ",
+        "detail": "Pha thủ chưa xong cho đến khi bạn giữ được rebound. Va chạm trước, đuổi bóng sau: box out có tiếp xúc, rồi bắt bóng ở điểm cao nhất. Chuyền outlet nhanh để mở phản công — anchor nào rebound rồi ném đường chuyền advance pass sẽ châm ngòi cho transition offense."
+      }
+    ],
+    "coachingPoints": [
+      "Nhìn cả bóng lẫn người — đừng quay lưng với cả hai.",
+      "Hô coverage trước khi screen tới, đừng đợi lúc đang bị screen.",
+      "Dựng tường tay; đừng quơ tay xuống.",
+      "Hai tay bắt rebound khi đông người; một tay là mời bị strip.",
+      "Năng lượng của bạn đặt tông cho cả hàng thủ — chạy, hô, lặp lại."
+    ],
+    "commonMistakes": [
+      "Ham block mà nhảy theo mọi pha pump fake.",
+      "Im lặng — tưởng đồng đội cũng thấy những gì mình thấy.",
+      "Box out nhầm người hoặc mải nhìn bóng thay vì va chạm.",
+      "Hedge nửa vời rồi về muộn, mất cả hai phương án."
+    ],
+    "gameSituations": [
+      "Xoay từ weak side ra đón tay đột phá baseline ngay tại rổ.",
+      "Hô switch ở ball screen cuối giờ và khóa chặt hậu vệ.",
+      "Giữ rebound tranh chấp đông người rồi ném đường outlet.",
+      "Tổ chức rotation chắp vá khi hàng thủ vỡ — chỉ tay và hồi vị trí."
+    ],
+    "tags": [
+      "trung phong",
+      "bảo vệ rổ",
+      "giao tiếp",
+      "phòng ngự",
+      "vai trò hiện đại"
+    ]
+  }
+}

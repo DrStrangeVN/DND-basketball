@@ -1,0 +1,111 @@
+{
+  "id": "off-screen-shooting-drill",
+  "slug": "off-screen-shooting-drill",
+  "title": "Shooting Off Screens",
+  "description": "Come off pin-down and flare screens like a pro: curl to the rim, flare for three, or fade to the wing — reading the defender every rep.",
+  "skill": "Shooting",
+  "level": "advanced",
+  "ages": [
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "SG",
+    "SF"
+  ],
+  "players": "2+",
+  "equipment": [
+    "Basketball",
+    "Chair or cone (screener)"
+  ],
+  "durationMin": 15,
+  "intensity": "medium",
+  "goal": "Train the three reads off a down screen — curl, flare, fade — so you punish defenders no matter how they chase.",
+  "setup": [
+    "Set a chair at the elbow as the screener; passer stands at the wing with balls.",
+    "Shooter starts under the basket.",
+    "Passer calls the read or the shooter reads a live defender."
+  ],
+  "instructions": [
+    {
+      "title": "Curl",
+      "detail": "Sprint shoulder-to-shoulder off the chair, curl tight toward the rim, catch and finish or pull up."
+    },
+    {
+      "title": "Flare",
+      "detail": "Plant off the screen and flare to the wing/corner for a catch-and-shoot three."
+    },
+    {
+      "title": "Fade",
+      "detail": "Drift behind the screen to the wing when the defender goes under — catch ready to shoot."
+    },
+    {
+      "title": "Live reads",
+      "detail": "Add a defender chasing; the shooter must pick the right of the three reads based on the chase angle."
+    }
+  ],
+  "coachingPoints": [
+    "Set up your defender before the screen — change pace so you arrive with separation.",
+    "Come off the screen low and tight; wide loops let the defender recover.",
+    "Hands ready and feet set on the catch — the shot window is one second."
+  ],
+  "commonMistakes": [
+    "Running the route at one speed — the screen only works with a pace change.",
+    "Deciding your read before seeing the defender."
+  ],
+  "progression": "Use a live screener who flips the angle, and a live chasing defender.",
+  "regression": "Walk through each route slowly to learn the footwork before adding speed.",
+  "gameApplication": "Elite shooters don't need the ball to score — mastering screen reads turns you into a constant threat that bends entire defenses.",
+  "related": [
+    "skip-pass-shooting",
+    "star-shooting",
+    "five-spot-catch-shoot"
+  ],
+  "dateUpdated": "2026-10-06",
+  "vi": {
+    "title": "Ném Rổ Sau Screen",
+    "description": "Chạy qua pin-down và flare screen như dân chuyên: curl vào rổ, flare ra ném 3, hoặc fade ra wing — đọc hậu vệ mỗi lượt.",
+    "goal": "Luyện ba cách đọc sau down screen — curl, flare, fade — để trừng phạt hậu vệ dù họ đuổi theo kiểu nào.",
+    "setup": [
+      "Đặt ghế ở elbow làm người screen; người chuyền đứng ở wing với bóng.",
+      "Người ném bắt đầu dưới rổ.",
+      "Người chuyền hô cách đọc hoặc người ném tự đọc hậu vệ thật."
+    ],
+    "instructions": [
+      {
+        "title": "Curl",
+        "detail": "Chạy sát vai qua ghế, curl gọn vào rổ, bắt bóng dứt điểm hoặc pull-up."
+      },
+      {
+        "title": "Flare",
+        "detail": "Dừng sau screen rồi flare ra wing/góc để catch-and-shoot 3 điểm."
+      },
+      {
+        "title": "Fade",
+        "detail": "Trôi ra sau screen về phía wing khi hậu vệ chui dưới — bắt bóng sẵn sàng ném."
+      },
+      {
+        "title": "Đọc tình huống thật",
+        "detail": "Thêm hậu vệ đuổi theo; người ném phải chọn đúng một trong ba cách đọc dựa vào góc đuổi."
+      }
+    ],
+    "coachingPoints": [
+      "Đánh lừa hậu vệ trước screen — đổi tốc độ để tới screen với khoảng trống.",
+      "Chạy qua screen thấp người và sát; chạy vòng rộng để hậu vệ kịp hồi.",
+      "Tay sẵn sàng, chân đặt vững khi bắt bóng — cửa sổ ném chỉ một giây."
+    ],
+    "commonMistakes": [
+      "Chạy bài cùng một tốc độ — screen chỉ hiệu quả khi đổi nhịp.",
+      "Quyết định cách đọc trước khi nhìn hậu vệ."
+    ],
+    "progression": "Dùng người screen thật đổi góc, và hậu vệ đuổi thật.",
+    "regression": "Đi bộ qua từng đường chạy để học footwork trước khi tăng tốc.",
+    "gameApplication": "Xạ thủ đẳng cấp không cần cầm bóng để ghi điểm — làm chủ cách đọc screen biến bạn thành mối đe dọa liên tục khiến cả hàng thủ chao đảo.",
+    "players": "2+",
+    "equipment": [
+      "Bóng rổ",
+      "Ghế hoặc cọc tiêu (làm người screen)"
+    ]
+  }
+}

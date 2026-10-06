@@ -1,0 +1,123 @@
+{
+ "title": "Trail Threes in Transition",
+ "description": "The last player up the floor becomes the most dangerous shooter — trailing into open threes behind the break.",
+ "hub": "transition",
+ "subcategory": "transition",
+ "level": "intermediate",
+ "positions": [
+  "PG",
+  "SG",
+  "SF",
+  "PF"
+ ],
+ "ages": [
+  "U14",
+  "U16",
+  "U18",
+  "Adult"
+ ],
+ "readTime": 4,
+ "tags": [
+  "transition",
+  "shooting",
+  "three-pointer"
+ ],
+ "whatIsIt": [
+  "A trail three happens when a player — usually a guard or stretch big — runs behind the fast break instead of in it, then catches and shoots as the defense collapses on the drivers. While everyone sprints to the rim, the trailer jogs into the shooter's dream: a wide-open three with the defense's back turned.",
+  "It is the counter to defenses that load up to stop the ball. They pack the paint to take the layup, and the trailer makes them pay from deep."
+ ],
+ "whyItMatters": [
+  "Trail threes are among the most efficient shots in basketball — open, in rhythm, with the defense scrambling. Teams that trail properly turn every fast break into a dilemma: stop the ball and give up three, or stay home and give up the layup."
+ ],
+ "howTo": [
+  {
+   "title": "Trail, don't jog",
+   "detail": "Run with purpose 10–15 feet behind the break, on the ball side or the middle. You're not lazy — you're relocating to the spot the defense is abandoning."
+  },
+  {
+   "title": "Find the soft spot",
+   "detail": "As the break develops, read where the help is coming from and drift to the opposite spot — usually the top or the wing. The soft spot moves; move with it."
+  },
+  {
+   "title": "Be shot-ready",
+   "detail": "Hands up, feet set as the ball swings. Trailers who catch flat-footed pump-fake themselves out of the shot — be ready before the ball arrives."
+  },
+  {
+   "title": "Take it or drive it",
+   "detail": "If the closeout flies at you, put it down and drive — the defense is in full scramble and the lane is open behind the closeout."
+  }
+ ],
+ "coachingPoints": [
+  "Designate your trailers — usually the 4th and 5th players up the floor.",
+  "The trail three is a rhythm shot — practice it in transition drills, not just spot shooting.",
+  "If the defense starts picking up the trailer, the rim opens back up — that's the dilemma working."
+ ],
+ "commonMistakes": [
+  "Trailing too close to the break and clogging the lane.",
+  "Catching unprepared and passing up the open look.",
+  "Everybody trailing and nobody running the rim — someone must threaten the basket."
+ ],
+ "gameSituations": [
+  "Vs defenses that pack the paint in transition.",
+  "With a stretch big or a shooting guard who runs the floor.",
+  "After the break has worked twice — the defense sags, the trail opens."
+ ],
+ "related": [
+  "kick-ahead-threes",
+  "transition-offense",
+  "secondary-break",
+  "catch-and-shoot"
+ ],
+ "vi": {
+  "title": "Ném Ba Trail Trong Transition",
+  "description": "Người lên sau cùng thành tay ném nguy hiểm nhất — theo sau pha break để ném ba trống.",
+  "whatIsIt": [
+   "Trail three xảy ra khi một cầu thủ — thường là guard hoặc stretch big — chạy sau pha phản công thay vì trong nó, rồi bắt-ném khi hàng thủ sập vào người đột phá. Trong khi mọi người chạy nước rút vào rổ, trailer chạy bộ vào giấc mơ của tay ném: cú ba trống hoàn toàn với lưng hàng thủ quay lại.",
+   "Đó là đòn phản cho hàng thủ dồn vào chặn bóng. Họ lấp paint để lấy layup, và trailer bắt họ trả giá từ xa."
+  ],
+  "whyItMatters": [
+   "Trail three là những cú ném hiệu quả nhất trong bóng rổ — trống, đúng nhịp, với hàng thủ đang rối. Các đội trail đúng biến mọi pha phản công thành thế tiến thoái lưỡng nan: chặn bóng thì mất ba điểm, ở yên thì mất layup."
+  ],
+  "howTo": [
+   {
+    "title": "Trail, đừng chạy bộ",
+    "detail": "Chạy có mục đích 10–15 feet sau break, ở phía bóng hoặc giữa. Bạn không lười — bạn đang di chuyển đến điểm hàng thủ bỏ lại."
+   },
+   {
+    "title": "Tìm điểm mềm",
+    "detail": "Khi break phát triển, đọc help đến từ đâu và trôi đến điểm đối diện — thường là đỉnh hoặc wing. Điểm mềm di chuyển; hãy di chuyển theo."
+   },
+   {
+    "title": "Sẵn sàng ném",
+    "detail": "Tay giơ, chân đặt khi bóng đảo. Trailer bắt bóng chân bẹp sẽ pump-fake mất cú ném — hãy sẵn sàng trước khi bóng đến."
+   },
+   {
+    "title": "Ném hoặc đột phá",
+    "detail": "Nếu closeout bay vào bạn, hạ bóng đột phá — hàng thủ đang rối hoàn toàn và lane mở sau closeout."
+   }
+  ],
+  "coachingPoints": [
+   "Chỉ định trailer — thường là người thứ 4 và 5 lên sân.",
+   "Trail three là cú ném nhịp — tập nó trong drill transition, không chỉ ném cố định.",
+   "Nếu hàng thủ bắt đầu kèm trailer, rổ mở lại — đó là thế lưỡng nan đang hoạt động."
+  ],
+  "commonMistakes": [
+   "Trail quá gần break và làm tắc lane.",
+   "Bắt bóng chưa sẵn sàng và bỏ lỡ cơ hội trống.",
+   "Ai cũng trail mà không ai chạy rổ — phải có người đe dọa rổ."
+  ],
+  "gameSituations": [
+   "Trước hàng thủ lấp paint trong transition.",
+   "Với stretch big hoặc shooting guard chạy sân tốt.",
+   "Sau khi break đã hiệu quả hai lần — hàng thủ lún xuống, trail mở ra."
+  ],
+  "tags": [
+   "transition",
+   "ném rổ",
+   "ba điểm"
+  ]
+ },
+ "id": "transition-trail-threes",
+ "slug": "transition-trail-threes",
+ "dateUpdated": "2026-10-06"
+}

@@ -1,0 +1,143 @@
+{
+  "id": "glue-guy",
+  "slug": "glue-guy",
+  "title": "The Glue Guy",
+  "description": "The intangibles specialist who holds lineups together — extra passes, 50-50 balls, hard screens, timely cuts — the player every winning team has and every box score undervalues.",
+  "hub": "positions",
+  "subcategory": "modern-roles",
+  "level": "beginner",
+  "positions": [
+    "SF",
+    "PF"
+  ],
+  "ages": [
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "readTime": 5,
+  "tags": [
+    "intangibles",
+    "teamwork",
+    "hustle",
+    "screening",
+    "modern-roles"
+  ],
+  "whatIsIt": [
+    "The glue guy is the connective tissue of a basketball team: the player who makes the extra pass, sets the screen that frees the shooter, dives on the loose ball, and takes the charge nobody else wants. Their fingerprints are on winning plays that never show up in their own stat line.",
+    "Glue guys earn minutes through trust. Coaches play them because the offense flows better, the defense communicates louder, and the locker room holds together — intangibles that show up in plus-minus long before they show up in points."
+  ],
+  "whyItMatters": [
+    "Talent wins highlights; glue wins games. Every roster has scorers, but the lineups that actually outscore opponents are the ones with a player doing the unglamorous work — screening, rotating, boxing out someone else's man. If you want a long career at any level, this is the most reliable path: skills that never slump and coaches never stop valuing."
+  ],
+  "howTo": [
+    {
+      "title": "Master the extra pass",
+      "detail": "Catch with your eyes up and make the next right play: the swing pass against rotation, the dump-off when two defenders commit, the hockey assist that starts it all. One more pass turns a good shot into a great one. Teams shoot better when the ball moves — be the reason it moves."
+    },
+    {
+      "title": "Win every 50-50 ball",
+      "detail": "Loose balls, long rebounds, deflections — chase them all like they are yours. Dive first, think later; the floor burn is the job description. One extra possession per quarter swings close games, and coaches count your floor dives even when the stat sheet does not."
+    },
+    {
+      "title": "Set screens that actually free people",
+      "detail": "Wide stance, still body, correct angle — then hold it until the ball-handler clears. Re-screen when the first one gets iced. Great screeners manufacture open shots without touching the ball; it is the most undervalued skill in basketball."
+    },
+    {
+      "title": "Cut with purpose and timing",
+      "detail": "Read the defense, not the ball: cut backdoor when your defender ball-watches, fill behind the drive, relocate when the post gets doubled. Smart cuts punish help defense and keep the offense flowing. Move with a plan every possession."
+    },
+    {
+      "title": "Be the culture carrier",
+      "detail": "Talk on defense, celebrate teammates, hold the huddle together after a bad run. Pick up the rookie, challenge the star, accept your role publicly. Glue guys set the team's emotional thermostat — coaches build programs around players like you."
+    }
+  ],
+  "coachingPoints": [
+    "Do the dirty work first; the pretty plays follow.",
+    "Eyes up on every catch — the extra pass is always there.",
+    "Sprint to every loose ball; jogging there is the same as quitting.",
+    "Hold your screen a half-count longer than feels natural.",
+    "Your body language is the team's body language."
+  ],
+  "commonMistakes": [
+    "Chasing stats and breaking the offense to get yours.",
+    "Setting lazy screens with no contact and slipping early.",
+    "Ball-watching on defense instead of helping and recovering.",
+    "Going quiet when things go wrong — that is when the team needs your voice most."
+  ],
+  "gameSituations": [
+    "Making the extra pass that turns a contested two into a corner three.",
+    "Diving for a loose ball in the final minute to seal the win.",
+    "Setting a flare screen that frees the shooter for the go-ahead bucket.",
+    "Taking a charge on a fast break to kill the opponent's momentum."
+  ],
+  "related": [
+    "small-forward",
+    "power-forward",
+    "3-and-d-wing",
+    "backup-big-man",
+    "box-out"
+  ],
+  "dateUpdated": "2026-10-06",
+  "vi": {
+    "title": "Glue Guy – Chất Keo Của Đội Bóng",
+    "description": "Chuyên gia của những điều vô hình, gắn kết đội hình — đường chuyền thừa, bóng 50-50, screen chắc, cắt rổ đúng lúc — cầu thủ mà đội thắng nào cũng có và mọi bảng thống kê đều đánh giá thấp.",
+    "whatIsIt": [
+      "Glue guy là mô liên kết của đội bóng rổ: cầu thủ chuyền thêm một nhịp, dựng screen giải phóng tay ném, lao vào bóng lỏng, và đứng lấy charge mà không ai muốn. Dấu ấn của họ in trên những pha bóng thắng trận mà bảng thống kê cá nhân không bao giờ ghi nhận.",
+      "Glue guy kiếm phút thi đấu bằng niềm tin. HLV dùng họ vì hàng công chảy hơn, hàng thủ hô to hơn, phòng thay đồ gắn kết hơn — những điều vô hình thể hiện ở chỉ số plus-minus từ lâu trước khi thể hiện ở điểm số."
+    ],
+    "whyItMatters": [
+      "Tài năng tạo highlight; chất keo thắng trận đấu. Đội hình nào cũng có tay ghi điểm, nhưng những lineup thực sự hơn điểm đối thủ là những lineup có người làm việc thầm lặng — screen, rotation, box out hộ đồng đội. Nếu bạn muốn sự nghiệp dài ở bất kỳ cấp độ nào, đây là con đường đáng tin nhất: kỹ năng không bao giờ sa sút và HLV không bao giờ ngừng trân trọng."
+    ],
+    "howTo": [
+      {
+        "title": "Nắm vững đường chuyền thừa",
+        "detail": "Bắt bóng với mắt ngẩng lên và thực hiện pha bóng đúng tiếp theo: chuyền swing khi đối phương rotation, chuyền dump-off khi hai hậu vệ ập vào, đường hockey assist khởi nguồn mọi thứ. Một đường chuyền nữa biến cú ném tốt thành cú ném tuyệt vời. Đội ném tốt hơn khi bóng di chuyển — hãy là lý do bóng di chuyển."
+      },
+      {
+        "title": "Thắng mọi pha bóng 50-50",
+        "detail": "Bóng lỏng, bóng bật xa, deflection — đuổi theo tất cả như thể chúng là của bạn. Lao xuống trước, nghĩ sau; vết xước sàn là bản mô tả công việc. Một lần giành thêm bóng mỗi hiệp xoay chuyển những trận cân não, và HLV đếm những pha lao người của bạn dù bảng thống kê không."
+      },
+      {
+        "title": "Dựng screen thực sự giải phóng đồng đội",
+        "detail": "Chân rộng, người đứng yên, góc đúng — rồi giữ đến khi người cầm bóng thoát. Screen lại khi screen đầu bị iced. Người screen giỏi tạo ra cú ném trống mà không cần chạm bóng; đó là kỹ năng bị đánh giá thấp nhất trong bóng rổ."
+      },
+      {
+        "title": "Cắt rổ có mục đích và đúng thời điểm",
+        "detail": "Đọc hàng thủ, đừng nhìn bóng: cắt backdoor khi người kèm mải nhìn bóng, lấp đầy phía sau pha đột phá, di chuyển khi post bị double. Những pha cắt thông minh trừng phạt help defense và giữ hàng công chảy. Mỗi pha bóng đều di chuyển có kế hoạch."
+      },
+      {
+        "title": "Là người giữ văn hóa đội",
+        "detail": "Hô trên mặt trận phòng ngự, ăn mừng cùng đồng đội, giữ vòng tròn đội sau chuỗi pha bóng tệ. Nâng đỡ tân binh, thách thức ngôi sao, công khai chấp nhận vai trò. Glue guy đặt nhiệt kế cảm xúc của đội — HLV xây dựng cả chương trình quanh những cầu thủ như bạn."
+      }
+    ],
+    "coachingPoints": [
+      "Làm việc nặng nhọc trước; những pha đẹp sẽ đến sau.",
+      "Ngẩng mắt mỗi lần bắt bóng — đường chuyền thừa luôn ở đó.",
+      "Chạy nước rút tới mọi bóng lỏng; chạy bộ tới đó cũng như bỏ cuộc.",
+      "Giữ screen lâu hơn nửa nhịp so với cảm giác tự nhiên.",
+      "Ngôn ngữ cơ thể của bạn là ngôn ngữ cơ thể của cả đội."
+    ],
+    "commonMistakes": [
+      "Chạy theo thống kê và phá vỡ hàng công để lấy phần mình.",
+      "Dựng screen hời hợt không va chạm rồi slip sớm.",
+      "Mải nhìn bóng khi phòng ngự thay vì help rồi hồi vị trí.",
+      "Im lặng khi mọi thứ tệ đi — đó chính là lúc đội cần giọng bạn nhất."
+    ],
+    "gameSituations": [
+      "Chuyền thêm một nhịp, biến cú ném hai khó thành quả ba ở góc.",
+      "Lao vào bóng lỏng ở phút cuối để khóa chặt chiến thắng.",
+      "Dựng flare screen giải phóng tay ném cho cú dẫn điểm quyết định.",
+      "Đứng lấy charge trong pha phản công nhanh, dập tắt đà của đối phương."
+    ],
+    "tags": [
+      "điều vô hình",
+      "đồng đội",
+      "nỗ lực",
+      "screen",
+      "vai trò hiện đại"
+    ]
+  }
+}

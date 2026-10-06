@@ -1,0 +1,141 @@
+{
+ "ages": [
+  "U16",
+  "U18",
+  "Adult"
+ ],
+ "coachingPoints": [
+  "The back screen must be a real screen — shoulder-to-shoulder contact on the defender, not a fly-by.",
+  "Timing is everything: the back screen lands as the ball handler comes off the ball screen, not before.",
+  "Teach the ball handler to read the big's defender first — everything flows from that one read.",
+  "Drill it 5v0 until the timing is automatic, then add one live defender, then go live."
+ ],
+ "commonMistakes": [
+  "Setting a soft back screen that the defender slides through — the whole action dies there.",
+  "The screener slipping the ball screen too early before the back screen has done its job.",
+  "Ball handler predetermining the pass instead of reading the help defender.",
+  "Running Slice with no spacing — corners must be filled or the help rotates for free."
+ ],
+ "dateUpdated": "2026-10-06",
+ "description": "A back screen for the screener flowing directly into a ball screen — setup, primary reads, and counters when the defense adjusts.",
+ "gameSituations": [
+  "Late clock: you need a clean look for your shooter, and Slice creates the separation in one action.",
+  "The defense switches everything — Slice punishes the switch with a size mismatch on the roll.",
+  "Against drop coverage, the back screen frees the screener to pop for an open three."
+ ],
+ "howTo": [
+  {
+   "detail": "Start in a 1-4 or horns alignment: ball handler up top, two bigs at the elbows, wings in the corners. The wing on the ball side sets a back screen on the elbow big's defender while the opposite big steps up to set the ball screen. Two screens, one continuous motion.",
+   "title": "Set the formation"
+  },
+  {
+   "detail": "The wing sprints in and sets a hard back screen on the big's defender — hips low, wide base, holding for a one-count. The big cuts shoulder-to-shoulder off the screen toward the rim. If the defender gets screened, the big is open for a lob or dump-down.",
+   "title": "Land the back screen first"
+  },
+  {
+   "detail": "As the big clears the back screen, he plants and sets the ball screen for the guard — now it's a live pick and roll with the defense already in rotation. The guard reads the big's defender: drop = pull-up, hedge = split or hit the roll, switch = attack the mismatch.",
+   "title": "Flow into the ball screen"
+  },
+  {
+   "detail": "If the defense switches the back screen, the big seals the small defender and the guard throws the lob — that's the primary counter and it should be drilled as option 1B. If the big's defender goes under the ball screen, the guard takes the open three. If help collapses on the roll, kick to the weak-side corner.",
+   "title": "Read the defense's answers"
+  },
+  {
+   "detail": "Install progression: 5v0 walk-through for timing (10 reps), then 3v3 with the back-screen defender live, then full 5v5 with a constraint — the offense must run Slice twice before any other action. Players learn the reads only when the defense gives real answers.",
+   "title": "Install it in layers"
+  }
+ ],
+ "hub": "tactics",
+ "id": "slice-action",
+ "level": "advanced",
+ "positions": [
+  "PG",
+  "SG",
+  "SF",
+  "PF",
+  "C"
+ ],
+ "readTime": 6,
+ "related": [
+  "chicago-action",
+  "dho-action",
+  "horns-offense",
+  "pin-down-screen",
+  "stagger-screen"
+ ],
+ "slug": "slice-action",
+ "subcategory": "half-court-actions",
+ "tags": [
+  "slice-action",
+  "back-screen",
+  "ball-screen",
+  "pick-and-roll",
+  "set-play"
+ ],
+ "title": "Slice Action",
+ "vi": {
+  "coachingPoints": [
+   "Back screen phải là screen thật — vai chạm vai với hậu vệ, không phải chạy lướt qua.",
+   "Thời điểm là tất cả: back screen hạ xuống đúng lúc người cầm bóng ra khỏi ball screen, không phải trước đó.",
+   "Dạy người cầm bóng đọc hậu vệ của big trước — mọi thứ chảy từ một lần đọc đó.",
+   "Tập 5v0 đến khi thời điểm thành tự động, rồi thêm một hậu vệ live, rồi đánh live."
+  ],
+  "commonMistakes": [
+   "Đặt back screen mềm để hậu vệ lách qua — cả bài đánh chết ngay đó.",
+   "Người screen slip ball screen quá sớm trước khi back screen hoàn thành nhiệm vụ.",
+   "Người cầm bóng định sẵn đường chuyền thay vì đọc hậu vệ help.",
+   "Chạy Slice mà không có spacing — hai góc phải có người nếu không help sẽ xoay tự do."
+  ],
+  "description": "Back screen cho người screen rồi chảy thẳng vào ball screen — cách setup, các lần đọc chính và phương án đối phó khi phòng ngự điều chỉnh.",
+  "gameSituations": [
+   "Cuối đồng hồ: bạn cần một cú ném sạch cho shooter, và Slice tạo khoảng trống chỉ trong một bài đánh.",
+   "Phòng ngự switch mọi thứ — Slice trừng phạt switch bằng mismatch chiều cao ở pha roll.",
+   "Trước drop coverage, back screen giải phóng người screen để pop ra ném ba trống trải."
+  ],
+  "howTo": [
+   {
+    "detail": "Bắt đầu với đội hình 1-4 hoặc horns: người cầm bóng ở trên đỉnh, hai big ở elbows, wings ở hai góc. Wing phía bóng đặt back screen lên hậu vệ của big ở elbow trong khi big còn lại bước lên đặt ball screen. Hai screen, một chuyển động liên tục.",
+    "title": "Dựng đội hình"
+   },
+   {
+    "detail": "Wing chạy nước rút vào và đặt back screen cứng lên hậu vệ của big — hông thấp, chân rộng, giữ một nhịp. Big cắt vai-kề-vai qua screen hướng về rổ. Nếu hậu vệ bị screen chặn, big trống để nhận lob hoặc chuyền dump-down.",
+    "title": "Hạ back screen trước"
+   },
+   {
+    "detail": "Khi big thoát khỏi back screen, anh ta đứng vững và đặt ball screen cho hậu vệ — giờ đây là pick and roll live trong khi phòng ngự đã phải xoay. Hậu vệ đọc hậu vệ của big: drop = pull-up, hedge = split hoặc chuyền roll, switch = tấn công mismatch.",
+    "title": "Chảy vào ball screen"
+   },
+   {
+    "detail": "Nếu phòng ngự switch back screen, big seal hậu vệ nhỏ và người cầm bóng ném lob — đó là phương án đối phó chính và nên được tập như option 1B. Nếu hậu vệ của big đi under ball screen, người cầm bóng ném ba trống. Nếu help sập vào pha roll, kick ra góc yếu.",
+    "title": "Đọc câu trả lời của phòng ngự"
+   },
+   {
+    "detail": "Tiến trình lắp đặt: walk-through 5v0 để tập thời điểm (10 reps), rồi 3v3 với hậu vệ back-screen live, rồi 5v5 đầy đủ với ràng buộc — hàng công phải chạy Slice hai lần trước mọi bài khác. Cầu thủ chỉ học được cách đọc khi phòng ngự đưa ra câu trả lời thật.",
+    "title": "Lắp đặt theo từng lớp"
+   }
+  ],
+  "tags": [
+   "slice-action",
+   "back-screen",
+   "ball-screen",
+   "pick-and-roll",
+   "bài-đánh"
+  ],
+  "title": "Bài Đánh Slice",
+  "whatIsIt": [
+   "Slice là bài đánh hai lớp: một back screen cho big (thường do wing đặt) chảy trực tiếp thành ball screen cho người cầm bóng. Phòng ngự vừa bị screen ở phía yếu đã phải ngay lập tức xử lý pick and roll ở phía mạnh — hai vấn đề trong một possession, không có thời gian hồi phục ở giữa.",
+   "Hầu hết các bài pick and roll đơn lẻ đều bị phòng ngự giỏi bẻ gãy bằng cách chuẩn bị sẵn. Slice tấn công trước khi phòng ngự kịp chuẩn bị — back screen tạo ra sự hỗn loạn và mismatch, và ball screen khai thác nó ngay lập tức. Đó là bài đánh cuối đồng hồ và cuối trận lý tưởng vì nó tạo ra cú ném tốt từ một lần chạm bóng duy nhất."
+  ],
+  "whyItMatters": [
+   "Hầu hết các bài pick and roll đơn lẻ đều bị phòng ngự giỏi bẻ gãy bằng cách chuẩn bị sẵn. Slice tấn công trước khi phòng ngự kịp chuẩn bị — back screen tạo ra sự hỗn loạn và mismatch, và ball screen khai thác nó ngay lập tức. Đó là bài đánh cuối đồng hồ và cuối trận lý tưởng vì nó tạo ra cú ném tốt từ một lần chạm bóng duy nhất."
+  ]
+ },
+ "whatIsIt": [
+  "Slice is a two-layer action: a back screen for a big (usually set by a wing) flowing directly into a ball screen for the ball handler. The defense gets screened on the weak side and must immediately handle a pick and roll on the strong side — two problems in one possession with no recovery time between them.",
+  "Most single pick-and-rolls get solved by good defenses with preparation. Slice attacks before the defense can set — the back screen creates chaos and mismatches, and the ball screen exploits them instantly. It's an ideal late-clock and late-game action because it manufactures a good shot out of a single touch."
+ ],
+ "whyItMatters": [
+  "Most single pick and rolls get solved by good defenses with preparation. The Slice attacks before the defense can set — the back screen creates chaos and a mismatch, and the ball screen exploits it instantly. It is the ideal late-clock and late-game action because it generates a good shot from a single touch.",
+  "The Slice punishes scouting. Defenses drill their PNR coverages all week; the back-screen wrinkle breaks every rotation rule they rehearsed. When you need a bucket and the opponent knows your plays, run the action they haven't seen."
+ ]
+}

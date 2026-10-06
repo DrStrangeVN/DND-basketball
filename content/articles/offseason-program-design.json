@@ -1,0 +1,138 @@
+{
+ "ages": [
+  "U14",
+  "U16",
+  "U18",
+  "Adult"
+ ],
+ "coachingPoints": [
+  "Skill before strength for youth: players under 16 should spend 70% of offseason time on skill, 30% on athleticism.",
+  "Track everything in one shared sheet — what gets measured in July shows up in October.",
+  "Open gyms need structure: 3v3 and 4v4 with constraints beat unstructured 5v5 run every time.",
+  "Build in 2 deload weeks per 8-week block; overtrained players arrive at preseason already broken."
+ ],
+ "commonMistakes": [
+  "No plan at all — 'just play a lot this summer' produces the same player in October.",
+  "Cramming everything into August after doing nothing in June and July.",
+  "Skipping strength work entirely for guards and skill work entirely for bigs.",
+  "No tracking, so nobody knows who actually worked and the culture rewards talkers over workers."
+ ],
+ "dateUpdated": "2026-10-06",
+ "description": "Structure the offseason with skill blocks, strength phases, organized open gyms, and tracking so players return in October better than they left in May.",
+ "gameSituations": [
+  "A guard returns in October with a reliable pull-up jumper built over 2,000 tracked summer reps.",
+  "Your bigs come back 5kg stronger and it shows in every box-out drill of week one.",
+  "Open-gym 3v3 with a 'no dribble over half court' constraint produces your best transition offense by preseason."
+ ],
+ "howTo": [
+  {
+   "detail": "Split the 12-16 week offseason into three phases: Phase 1 (weeks 1-5) — individual skill foundations, 4 sessions/week, 60-75 min each; Phase 2 (weeks 6-10) — skill + strength, add 2 lift days; Phase 3 (weeks 11+) — team concepts, open gyms, 5v5 reads. Each phase has one theme so players know what 'winning the summer' means.",
+   "title": "Phase the summer in three blocks"
+  },
+  {
+   "detail": "Give every player a 2-skill focus, not ten. A guard might own pull-up jumpers and weak-hand finishes; a big owns face-up footwork and outlet passing. Assign weekly rep targets (e.g., 300 pull-ups/week, tracked by makes) and check the log every Monday. Depth of reps beats breadth of drills.",
+   "title": "Assign individual skill blocks"
+  },
+  {
+   "detail": "Two strength sessions per week minimum for U16+: full-body compound lifts (squat, hinge, push, pull, carry), 45-60 minutes, progressive overload. For U14 and under, bodyweight circuits and movement quality — 20 minutes after skill work. Partner with a qualified strength coach; bad lifting in summer becomes an injury in winter.",
+   "title": "Layer in strength work"
+  },
+  {
+   "detail": "Run 2 open gyms per week, 90 minutes, with rules: first 30 min skill stations, then 3v3/4v4 with one constraint per week (no dribble limits, must touch the paint, 7-second shot clock). Full-court 5v5 with no constraints teaches bad habits — constrain the game to teach the reads you want.",
+   "title": "Structure open gyms with constraints"
+  },
+  {
+   "detail": "One shared spreadsheet: columns for skill reps, lift sessions, open-gym attendance, and one measurable per player (e.g., free-throw %, max vertical, 3/4-court sprint time). Test the measurables in week 1 and week 12. Publish the leaderboard monthly — public tracking is the cheapest accountability system in sports.",
+   "title": "Track it all publicly"
+  }
+ ],
+ "hub": "coaching",
+ "id": "offseason-program-design",
+ "level": "intermediate",
+ "positions": [
+  "ALL"
+ ],
+ "readTime": 7,
+ "related": [
+  "player-development-plan",
+  "developing-bench-players",
+  "practice-planning",
+  "building-team-identity",
+  "coaching-leadership"
+ ],
+ "slug": "offseason-program-design",
+ "subcategory": "player-development",
+ "tags": [
+  "offseason",
+  "player-development",
+  "strength-training",
+  "skill-development",
+  "tracking"
+ ],
+ "title": "Designing an Offseason Program",
+ "vi": {
+  "coachingPoints": [
+   "Kỹ năng trước sức mạnh với cầu thủ trẻ: dưới 16 tuổi nên dành 70% thời gian offseason cho kỹ năng, 30% cho thể chất.",
+   "Theo dõi mọi thứ trên một sheet chung — cái gì được đo trong tháng Bảy sẽ xuất hiện vào tháng Mười.",
+   "Open gym cần cấu trúc: 3v3 và 4v4 có ràng buộc luôn tốt hơn 5v5 tự do.",
+   "Xây 2 tuần giảm tải mỗi khối 8 tuần; cầu thủ tập quá sức sẽ bước vào tiền mùa giải trong tình trạng đã hỏng."
+  ],
+  "commonMistakes": [
+   "Không có kế hoạch gì — 'hè này cứ chơi nhiều vào' tạo ra cùng một cầu thủ vào tháng Mười.",
+   "Dồn mọi thứ vào tháng Tám sau khi không làm gì tháng Sáu và tháng Bảy.",
+   "Bỏ hoàn toàn tập sức mạnh cho hậu vệ và bỏ tập kỹ năng cho cầu thủ cao.",
+   "Không theo dõi, nên không ai biết ai thực sự tập luyện và văn hóa thưởng cho người nói nhiều hơn người làm nhiều."
+  ],
+  "description": "Cấu trúc mùa hè với các khối kỹ năng, giai đoạn sức mạnh, open gym có tổ chức và hệ thống theo dõi để cầu thủ trở lại tháng Mười tốt hơn lúc rời đi tháng Năm.",
+  "gameSituations": [
+   "Một hậu vệ trở lại tháng Mười với cú pull-up jumper đáng tin cậy được xây từ 2.000 reps hè có theo dõi.",
+   "Các big của bạn trở lại khỏe hơn 5kg và điều đó thể hiện trong mọi bài box-out của tuần đầu tiên.",
+   "Open-gym 3v3 với ràng buộc 'không dribble quá nửa sân' tạo ra hàng công transition tốt nhất của bạn trước tiền mùa giải."
+  ],
+  "howTo": [
+   {
+    "detail": "Chia offseason 12-16 tuần thành ba giai đoạn: Giai đoạn 1 (tuần 1-5) — nền tảng kỹ năng cá nhân, 4 buổi/tuần, mỗi buổi 60-75 phút; Giai đoạn 2 (tuần 6-10) — kỹ năng + sức mạnh, thêm 2 buổi tạ; Giai đoạn 3 (tuần 11+) — khái niệm đồng đội, open gym, đọc tình huống 5v5. Mỗi giai đoạn có một chủ đề để cầu thủ biết 'thắng mùa hè' nghĩa là gì.",
+    "title": "Chia mùa hè thành ba giai đoạn"
+   },
+   {
+    "detail": "Giao mỗi cầu thủ 2 kỹ năng trọng tâm, không phải mười. Hậu vệ có thể sở hữu pull-up jumper và finish tay yếu; big sở hữu footwork face-up và chuyền outlet. Giao chỉ tiêu reps hàng tuần (ví dụ 300 pull-up/tuần, tính theo số trúng) và kiểm tra log mỗi thứ Hai. Chiều sâu reps thắng chiều rộng bài tập.",
+    "title": "Giao khối kỹ năng cá nhân"
+   },
+   {
+    "detail": "Tối thiểu hai buổi sức mạnh mỗi tuần cho U16+: các bài compound toàn thân (squat, hinge, push, pull, carry), 45-60 phút, tăng tải lũy tiến. U14 trở xuống thì tập bodyweight và chất lượng vận động — 20 phút sau phần kỹ năng. Hợp tác với huấn luyện viên thể lực có chuyên môn; tập tạ sai vào hè thành chấn thương vào đông.",
+    "title": "Xếp lớp tập sức mạnh"
+   },
+   {
+    "detail": "Chạy 2 open gym mỗi tuần, 90 phút, có luật: 30 phút đầu trạm kỹ năng, sau đó 3v3/4v4 với một ràng buộc mỗi tuần (giới hạn dribble, phải chạm paint, đồng hồ ném 7 giây). 5v5 full-court không ràng buộc dạy thói quen xấu — ràng buộc trận đấu để dạy cách đọc tình huống bạn muốn.",
+    "title": "Cấu trúc open gym bằng ràng buộc"
+   },
+   {
+    "detail": "Một spreadsheet chung: các cột cho reps kỹ năng, buổi tạ, điểm danh open-gym, và một chỉ số đo được cho mỗi cầu thủ (ví dụ tỷ lệ ném phạt, bật cao, thời gian chạy 3/4 sân). Test các chỉ số ở tuần 1 và tuần 12. Công bố bảng xếp hạng hàng tháng — theo dõi công khai là hệ thống trách nhiệm rẻ nhất trong thể thao.",
+    "title": "Theo dõi mọi thứ công khai"
+   }
+  ],
+  "tags": [
+   "offseason",
+   "phát-triển-cầu-thủ",
+   "tập-sức-mạnh",
+   "phát-triển-kỹ-năng",
+   "theo-dõi"
+  ],
+  "title": "Thiết Kế Chương Trình Offseason",
+  "whatIsIt": [
+   "Chương trình offseason là kế hoạch có cấu trúc cho 12-16 tuần giữa các mùa giải: cầu thủ tập gì, bao nhiêu, khi nào, và đo lường ra sao. Nó thay thế lời khuyên mơ hồ 'hè này tập nhiều vào' bằng các giai đoạn rõ ràng — khối kỹ năng, tập sức mạnh, open gym có ràng buộc — và một hệ thống theo dõi duy nhất.",
+   "title-placeholder"
+  ],
+  "whyItMatters": [
+   "Mùa giải được thắng vào mùa hè. Đội trở lại tháng Mười với kỹ năng mới, cơ thể khỏe hơn và thói quen tốt hơn sẽ vượt lên trong khi đối thủ vẫn dậm chân tại chỗ. Không có chương trình offseason, tháng Sáu đến tháng Tám là thời gian chết — và bạn không bao giờ lấy lại được những tuần đó."
+  ]
+ },
+ "whatIsIt": [
+  "An offseason program is the structured plan for the 12-16 weeks between seasons: what players work on, how much, when, and how it's measured. It replaces vague 'work hard this summer' advice with clear phases — skill blocks, strength work, constrained open gyms — and a single tracking system.",
+  "Seasons are won in the summer. The team that returns in October with new skills, stronger bodies, and better habits pulls away while opponents stand still. Without an offseason program, June through August is dead time — and you never get those weeks back."
+ ],
+ "whyItMatters": [
+  "Seasons are won in the summer. The team that returns in October with new skills, stronger bodies, and better habits pulls away while opponents stand still. Without an offseason program, June through August is dead time — and you never get those weeks back.",
+  "Structure beats motivation. Players won't consistently train on their own without a plan, check-ins, and measurable goals. A designed offseason turns vague 'get better' wishes into weekly work that actually shows up on the court."
+ ]
+}

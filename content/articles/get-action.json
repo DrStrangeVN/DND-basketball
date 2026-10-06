@@ -1,0 +1,141 @@
+{
+ "ages": [
+  "U16",
+  "U18",
+  "Adult"
+ ],
+ "coachingPoints": [
+  "The pin-down must make real contact — the shooter sprints shoulder-to-shoulder off the screen, never curling early.",
+  "The DHO handoff needs a live dribble and a pocket pass to the shooter's shooting pocket — chest-high, on the move.",
+  "Footwork is the whole action: the shooter plants the inside foot on the catch so he's square and loaded.",
+  "Drill the read progression 3v0 before going live — players must know all three options before the defense tests them."
+ ],
+ "commonMistakes": [
+  "Shooter jogging through the pin-down instead of sprinting — a slow cut lets the defender trail comfortably.",
+  "Big handing off with a dead dribble or tossing the ball — the DHO becomes a turnover risk.",
+  "Catching the handoff flat-footed and needing an extra dribble — the shot window closes.",
+  "No spacing on the weak side, so the help defender stunts at the shooter for free."
+ ],
+ "dateUpdated": "2026-10-06",
+ "description": "A pin-down screen flowing into a dribble handoff — footwork details, the three core reads, and counters for aggressive defenses.",
+ "gameSituations": [
+  "Your best shooter needs a clean three late in the shot clock — Get manufactures one in a single action.",
+  "The defense goes under every screen — the Get action turns that into an open pull-up three.",
+  "Against a switching defense, the DHO creates a mismatch the ball handler can attack downhill."
+ ],
+ "howTo": [
+  {
+   "detail": "Start with the shooter on the weak-side block, a big at the elbow, and the ball on the opposite wing. The big sprints down and sets a pin-down on the shooter's defender at the block. The shooter cuts hard off the screen to the wing — this first cut must be full speed to force the defense to react.",
+   "title": "Run the pin-down first"
+  },
+  {
+   "detail": "As the shooter arrives at the wing, the big catches the reversal pass and immediately turns into the DHO — one live dribble toward the shooter, ball extended in the shooting pocket. The handoff happens on the move, never from a standstill. Timing: the DHO starts the instant the shooter's second foot plants.",
+   "title": "Turn the catch into the DHO"
+  },
+  {
+   "detail": "The shooter's footwork decides everything: plant the inside foot on the catch, shoulders square to the rim, eyes up. From this loaded position there are three reads — defender trails: shoot it; defender goes under the handoff: reject and drive; defender jumps the handoff: slip the big to the rim.",
+   "title": "Master the catch footwork"
+  },
+  {
+   "detail": "Teach the three reads as a progression: (1) trail = shoot the three, (2) under = reject the handoff and attack the rim, (3) overplay/jump = big slips for the lob. The big must read the same defender the shooter reads — if the defender jumps the handoff, the slip is open before the shooter even turns.",
+   "title": "Teach the three reads"
+  },
+  {
+   "detail": "Counters for aggressive defenses: if the defense switches the DHO, the big seals and rolls to the post for a mismatch; if they blitz the handoff, the big short-rolls into the pocket for a 4-on-3; if they deny the pin-down entirely, the shooter back-cuts for a layup. Install one counter per week.",
+   "title": "Install the counters"
+  }
+ ],
+ "hub": "tactics",
+ "id": "get-action",
+ "level": "advanced",
+ "positions": [
+  "PG",
+  "SG",
+  "SF",
+  "PF",
+  "C"
+ ],
+ "readTime": 6,
+ "related": [
+  "dho-action",
+  "pin-down-screen",
+  "chicago-action",
+  "flare-screen",
+  "stagger-screen"
+ ],
+ "slug": "get-action",
+ "subcategory": "half-court-actions",
+ "tags": [
+  "get-action",
+  "pin-down",
+  "dho",
+  "shooter-action",
+  "set-play"
+ ],
+ "title": "\"Get\" Action",
+ "vi": {
+  "coachingPoints": [
+   "Pin-down phải va chạm thật — shooter chạy nước rút vai-kề-vai qua screen, không bao giờ curl sớm.",
+   "DHO cần một dribble còn sống và đường chuyền pocket vào đúng túi ném của shooter — cao ngang ngực, khi đang di chuyển.",
+   "Footwork là toàn bộ bài đánh: shooter đặt chân trong xuống khi bắt bóng để người vuông và sẵn sàng ném.",
+   "Tập tiến trình đọc tình huống 3v0 trước khi đánh live — cầu thủ phải biết cả ba option trước khi phòng ngự thử thách họ."
+  ],
+  "commonMistakes": [
+   "Shooter chạy lững thững qua pin-down thay vì nước rút — cắt chậm để hậu vệ bám thoải mái.",
+   "Big handoff với dribble đã chết hoặc ném bóng bổng — DHO trở thành nguy cơ turnover.",
+   "Bắt handoff với chân đứng yên và cần thêm một dribble — cửa sổ ném khép lại.",
+   "Không có spacing ở phía yếu, nên hậu vệ help stunt vào shooter miễn phí."
+  ],
+  "description": "Pin-down screen chảy vào dribble handoff — chi tiết footwork, ba lần đọc cốt lõi và phương án đối phó với phòng ngự hung hăng.",
+  "gameSituations": [
+   "Shooter giỏi nhất của bạn cần một cú ba sạch cuối đồng hồ — Get tạo ra nó chỉ trong một bài đánh.",
+   "Phòng ngự đi under mọi screen — bài Get biến điều đó thành cú pull-up ba trống trải.",
+   "Trước phòng ngự switch, DHO tạo mismatch để người cầm bóng tấn công downhill."
+  ],
+  "howTo": [
+   {
+    "detail": "Bắt đầu với shooter ở block phía yếu, một big ở elbow, và bóng ở wing đối diện. Big chạy nước rút xuống đặt pin-down lên hậu vệ của shooter ở block. Shooter cắt mạnh qua screen ra wing — nhát cắt đầu tiên này phải hết tốc độ để ép phòng ngự phản ứng.",
+    "title": "Chạy pin-down trước"
+   },
+   {
+    "detail": "Khi shooter đến wing, big bắt đường chuyền reversal và ngay lập tức xoay thành DHO — một dribble còn sống hướng về shooter, bóng đưa ra ở túi ném. Handoff diễn ra khi đang di chuyển, không bao giờ từ đứng yên. Thời điểm: DHO bắt đầu ngay khi chân thứ hai của shooter chạm đất.",
+    "title": "Biến pha bắt bóng thành DHO"
+   },
+   {
+    "detail": "Footwork của shooter quyết định mọi thứ: đặt chân trong xuống khi bắt bóng, vai vuông với rổ, mắt nhìn lên. Từ tư thế sẵn sàng này có ba lần đọc — hậu vệ bám sau: ném luôn; hậu vệ đi under handoff: reject và drive; hậu vệ nhảy đón handoff: big slip vào rổ.",
+    "title": "Nắm vững footwork khi bắt bóng"
+   },
+   {
+    "detail": "Dạy ba lần đọc theo tiến trình: (1) trail = ném ba, (2) under = từ chối handoff và tấn công rổ, (3) overplay/nhảy đón = big slip nhận lob. Big phải đọc cùng một hậu vệ mà shooter đọc — nếu hậu vệ nhảy đón handoff, pha slip đã trống trước cả khi shooter xoay người.",
+    "title": "Dạy ba lần đọc"
+   },
+   {
+    "detail": "Phương án đối phó với phòng ngự hung hăng: nếu phòng ngự switch DHO, big seal và roll vào post tạo mismatch; nếu họ blitz handoff, big short-roll vào pocket tạo 4-on-3; nếu họ deny pin-down hoàn toàn, shooter back-cut lên rổ. Lắp đặt một counter mỗi tuần.",
+    "title": "Lắp đặt các phương án đối phó"
+   }
+  ],
+  "tags": [
+   "get-action",
+   "pin-down",
+   "dho",
+   "bài-đánh-cho-shooter",
+   "bài-đánh"
+  ],
+  "title": "Bài Đánh \"Get\"",
+  "whatIsIt": [
+   "\"Get\" là bài đánh liên hoàn cho shooter: một pin-down screen đưa shooter từ block ra wing, và ngay khi bắt bóng, big xoay thành dribble handoff (DHO) để shooter có thêm một screen nữa khi đang di chuyển. Hai screen, một chuyển động liên tục, một shooter luôn trong tư thế sẵn sàng ném.",
+   "Shooter giỏi nhất của bạn hiếm khi được ném trống — phòng ngự bám sát, deny và switch mọi thứ. Bài Get tạo ra cú ném sạch bằng thiết kế chứ không phải bằng may mắn: pin-down ép hậu vệ phải chạy qua screen, và DHO cho shooter thêm một lớp bảo vệ nữa. Đó là cách các đội giỏi đảm bảo shooter của họ chạm bóng ở vị trí nguy hiểm mỗi possession quan trọng."
+  ],
+  "whyItMatters": [
+   "Shooter giỏi nhất của bạn hiếm khi được ném trống — phòng ngự bám sát, deny và switch mọi thứ. Bài Get tạo ra cú ném sạch bằng thiết kế chứ không phải bằng may mắn: pin-down ép hậu vệ phải chạy qua screen, và DHO cho shooter thêm một lớp bảo vệ nữa. Đó là cách các đội giỏi đảm bảo shooter của họ chạm bóng ở vị trí nguy hiểm mỗi possession quan trọng."
+  ]
+ },
+ "whatIsIt": [
+  "\"Get\" is a continuous shooter action: a pin-down screen brings the shooter from the block to the wing, and the moment he catches, the big turns it into a dribble handoff (DHO) for a second screen on the move. Two screens, one continuous motion, one shooter always in a loaded stance.",
+  "Your best shooter rarely gets open looks — defenses trail, deny, and switch everything. Get manufactures a clean shot by design, not by luck: the pin-down forces the defender to fight through a screen, and the DHO gives the shooter one more layer of protection. It's how good teams guarantee their shooter touches the ball in a dangerous spot every crucial possession."
+ ],
+ "whyItMatters": [
+  "Your best shooter rarely gets open looks — defenses stick to him, deny, and switch everything. The Get action manufactures a clean look by design, not by luck: the pin-down forces his defender to chase through a screen, and the DHO gives the shooter one more layer of protection. It is how good teams guarantee their shooter touches the ball in a dangerous spot every crucial possession.",
+  "Without a designed action, your shooter spends the game working for scraps. The Get is efficient because it combines two actions the defense must honor separately — chase the pin-down and you give up the curl, go under the DHO and you give up the pull-up. One action, two problems for the defense."
+ ]
+}

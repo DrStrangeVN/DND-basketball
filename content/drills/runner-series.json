@@ -1,0 +1,112 @@
+{
+  "id": "runner-series",
+  "slug": "runner-series",
+  "title": "Runner Series",
+  "description": "The one-legged runner from 8 to 14 feet — push off the outside foot, release high, and land ready — from both sides of the floor.",
+  "skill": "Finishing",
+  "level": "intermediate",
+  "ages": [
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "PG",
+    "SG",
+    "SF"
+  ],
+  "players": "1",
+  "equipment": [
+    "Basketball"
+  ],
+  "durationMin": 10,
+  "intensity": "low",
+  "goal": "Add a reliable one-legged runner to attack the space between the help defender and the rim.",
+  "setup": [
+    "Start at the right wing with a ball, no defender.",
+    "Spots: 8, 11, and 14 feet, both sides.",
+    "5 makes per spot before moving."
+  ],
+  "instructions": [
+    {
+      "title": "Right-side runners",
+      "detail": "One-dribble attack from the right wing, push off your left (outside) foot, release the runner high off the glass or over the rim."
+    },
+    {
+      "title": "Left-side runners",
+      "detail": "Mirror it: push off the right foot, finish with the left hand when the angle calls for it."
+    },
+    {
+      "title": "Runner off the catch",
+      "detail": "Catch on the move, one dribble, runner — no gather steps, keep it quick."
+    },
+    {
+      "title": "Runner vs closeout",
+      "detail": "Have a partner close out short; read it and take the runner instead of forcing the drive."
+    }
+  ],
+  "coachingPoints": [
+    "Push off the outside foot and jump toward the rim, not away from it.",
+    "Release at the top of your jump with a soft wrist.",
+    "Land on balance — the runner sets up your next move, not a fall."
+  ],
+  "commonMistakes": [
+    "Two-footing it into a contested layup — commit to the one-legged release.",
+    "Releasing on the way down, which kills the arc."
+  ],
+  "progression": "Add a shot-blocker who jumps late; change the arc and timing.",
+  "regression": "Start stationary: toss, one step, runner — then add the dribble.",
+  "gameApplication": "The runner lives in the dead zone help defenders can't reach — it's the signature shot of guards who torch drop coverage.",
+  "related": [
+    "floater-series",
+    "floater-vs-contact",
+    "pull-up-cone-series"
+  ],
+  "dateUpdated": "2026-10-06",
+  "vi": {
+    "title": "Chuỗi Cú Runner",
+    "description": "Cú runner một chân từ 8 đến 14 feet — bật chân ngoài, thả bóng cao rồi tiếp đất sẵn sàng — cả hai bên sân.",
+    "goal": "Bổ sung cú runner một chân đáng tin cậy để tấn công khoảng trống giữa help defender và rổ.",
+    "setup": [
+      "Bắt đầu ở wing phải với bóng, không hậu vệ.",
+      "Các điểm: 8, 11 và 14 feet, cả hai bên.",
+      "5 cú trúng mỗi điểm mới chuyển."
+    ],
+    "instructions": [
+      {
+        "title": "Runner bên phải",
+        "detail": "Một nhịp đập tấn công từ wing phải, bật chân trái (chân ngoài), thả runner cao qua bảng hoặc qua rổ."
+      },
+      {
+        "title": "Runner bên trái",
+        "detail": "Đảo lại: bật chân phải, dứt điểm tay trái khi góc yêu cầu."
+      },
+      {
+        "title": "Runner sau khi bắt bóng",
+        "detail": "Bắt bóng khi di chuyển, một nhịp đập, runner ngay — không bước dồn, giữ nhanh gọn."
+      },
+      {
+        "title": "Runner trước closeout",
+        "detail": "Nhờ đồng đội closeout ngắn; đọc tình huống và chọn runner thay vì cố đâm vào."
+      }
+    ],
+    "coachingPoints": [
+      "Bật chân ngoài và nhảy về phía rổ, không phải ra xa.",
+      "Thả bóng ở đỉnh cú nhảy với cổ tay mềm.",
+      "Tiếp đất thăng bằng — runner mở ra đòn tiếp theo chứ không phải cú ngã."
+    ],
+    "commonMistakes": [
+      "Dùng hai chân thành pha layup bị chắn — hãy quyết tâm thả bóng một chân.",
+      "Thả bóng khi đang rơi xuống làm mất vòng cung."
+    ],
+    "progression": "Thêm tay chắn nhảy muộn; đổi vòng cung và nhịp.",
+    "regression": "Bắt đầu đứng yên: tung bóng, một bước, runner — rồi mới thêm nhịp đập.",
+    "gameApplication": "Runner sống ở 'vùng chết' mà help defender không với tới — đó là cú ném đặc trưng của các hậu vệ xé nát drop coverage.",
+    "players": "1",
+    "equipment": [
+      "Bóng rổ"
+    ]
+  }
+}

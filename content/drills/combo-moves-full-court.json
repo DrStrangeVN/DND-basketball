@@ -1,0 +1,121 @@
+{
+  "id": "combo-moves-full-court",
+  "slug": "combo-moves-full-court",
+  "title": "Combo Moves Full Court",
+  "description": "Chain two and three-move combinations at full speed the length of the court — crossover into between-the-legs, behind-the-back into hesitation, and more.",
+  "skill": "Ball Handling",
+  "level": "advanced",
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "players": "1",
+  "equipment": [
+    "Basketball",
+    "4 cones"
+  ],
+  "durationMin": 10,
+  "intensity": "high",
+  "goal": "Build the ability to link multiple dribble moves together at game speed without losing the ball or your balance.",
+  "setup": [
+    "Place 4 cones evenly spaced down the length of the court.",
+    "Start under one basket with the ball.",
+    "One trip down = one full set of combos; jog back and repeat."
+  ],
+  "instructions": [
+    {
+      "title": "Crossover to between-the-legs",
+      "detail": "At cone 1, crossover in front, then immediately bounce between the legs to switch back — two moves, one rhythm."
+    },
+    {
+      "title": "Behind-the-back to hesitation",
+      "detail": "At cone 2, wrap behind the back, hesitate to freeze the imaginary defender, then burst."
+    },
+    {
+      "title": "Spin to crossover",
+      "detail": "At cone 3, spin move off the cone, land balanced, and crossover out of it without traveling."
+    },
+    {
+      "title": "Freestyle combo",
+      "detail": "At cone 4, link any three moves of your choice — but every move must have a purpose, not just look flashy."
+    },
+    {
+      "title": "Timed trips",
+      "detail": "Do 6 full-court trips; each trip should take under 20 seconds including the jog back."
+    }
+  ],
+  "coachingPoints": [
+    "Change pace between moves — fast-slow-fast is what beats defenders.",
+    "Keep your eyes up the whole trip; the court doesn't move.",
+    "Land every spin and behind-the-back in a stance, ready for the next move.",
+    "If you lose the ball, sprint to get it — in games there's no whistle."
+  ],
+  "commonMistakes": [
+    "Doing moves at the same speed — combos without pace change don't fool anyone.",
+    "Carrying the ball on the between-the-legs when rushing."
+  ],
+  "progression": "Add a trailing defender who tries to poke the ball free on each trip.",
+  "regression": "Walk the combos first, then half speed, then full speed.",
+  "gameApplication": "Breakdowns happen when one move isn't enough — chaining combos at speed is how guards create separation against set defenses.",
+  "related": [
+    "full-court-zigzag-handles",
+    "change-of-pace-ladder",
+    "two-ball-pound-series"
+  ],
+  "dateUpdated": "2026-10-06",
+  "vi": {
+    "title": "Chuỗi Động Tác Liên Hoàn Full Sân",
+    "description": "Nối các chuỗi 2-3 động tác dẫn bóng ở tốc độ tối đa dọc sân — crossover nối between-the-legs, behind-the-back nối hesitation và nhiều hơn nữa.",
+    "goal": "Xây dựng khả năng nối nhiều động tác dẫn bóng liên tiếp ở tốc độ thi đấu mà không mất bóng hay mất thăng bằng.",
+    "setup": [
+      "Đặt 4 cọc tiêu cách đều nhau dọc sân.",
+      "Bắt đầu dưới một rổ với bóng.",
+      "Một lượt đi hết sân = một chuỗi combo hoàn chỉnh; chạy bộ về và lặp lại."
+    ],
+    "instructions": [
+      {
+        "title": "Crossover nối between-the-legs",
+        "detail": "Ở cọc 1, crossover trước mặt rồi ngay lập tức đập bóng qua hai chân để đổi lại — hai động tác, một nhịp."
+      },
+      {
+        "title": "Behind-the-back nối hesitation",
+        "detail": "Ở cọc 2, vòng bóng sau lưng, hesitation để đóng băng hậu vệ tưởng tượng rồi bứt tốc."
+      },
+      {
+        "title": "Spin nối crossover",
+        "detail": "Ở cọc 3, spin move qua cọc, tiếp đất thăng bằng rồi crossover ngay không bước lỗi."
+      },
+      {
+        "title": "Combo tự do",
+        "detail": "Ở cọc 4, nối bất kỳ 3 động tác nào — nhưng mỗi động tác phải có mục đích, không chỉ để đẹp mắt."
+      },
+      {
+        "title": "Bấm giờ",
+        "detail": "Thực hiện 6 lượt full sân; mỗi lượt dưới 20 giây kể cả chạy bộ về."
+      }
+    ],
+    "coachingPoints": [
+      "Đổi tốc độ giữa các động tác — nhanh-chậm-nhanh mới đánh lừa được hậu vệ.",
+      "Mắt luôn nhìn lên cả quãng đường; sân không di chuyển đâu.",
+      "Tiếp đất sau mỗi pha spin và behind-the-back ở tư thế sẵn sàng cho động tác tiếp theo.",
+      "Mất bóng thì sprint nhặt ngay — trong trận không có còi dừng đâu."
+    ],
+    "commonMistakes": [
+      "Mọi động tác cùng một tốc độ — combo không đổi nhịp chẳng lừa được ai.",
+      "Vớt bóng (carrying) khi vội ở pha between-the-legs."
+    ],
+    "progression": "Thêm một hậu vệ đuổi theo cố chọc bóng mỗi lượt.",
+    "regression": "Đi bộ qua các combo trước, rồi nửa tốc độ, rồi full tốc độ.",
+    "gameApplication": "Đột phá thất bại khi một động tác là chưa đủ — nối combo ở tốc độ cao là cách các hậu vệ tạo khoảng trống trước hàng thủ đã vào vị trí.",
+    "players": "1",
+    "equipment": [
+      "Bóng rổ",
+      "4 cọc tiêu"
+    ]
+  }
+}

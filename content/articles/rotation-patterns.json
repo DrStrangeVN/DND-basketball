@@ -1,0 +1,137 @@
+{
+ "ages": [
+  "U16",
+  "U18",
+  "Adult"
+ ],
+ "coachingPoints": [
+  "Plan rotations before the game: write the first-half sub pattern on your card and follow it unless fouls force changes.",
+  "Stagger your stars so one elite creator is always on the floor — never sub both out together.",
+  "Track lineup net rating in a notebook; after 5-6 games the data tells you which combos work.",
+  "Manage fouls proactively: two fouls in the first half means a planned sit, not a panic sub."
+ ],
+ "commonMistakes": [
+  "Subbing five players at once and destroying all on-court chemistry and rhythm.",
+  "Leaving starters in too long in the first quarter, then having dead legs in the fourth.",
+  "Matching the opponent's subs instead of dictating your own rotation plan.",
+  "Playing only 7 players in a blowout — development minutes in easy games win you close games later."
+ ],
+ "dateUpdated": "2026-10-06",
+ "description": "Build lineup combinations, stagger star minutes, and manage fouls with a planned rotation system instead of gut-feel subs.",
+ "gameSituations": [
+  "Your point guard picks up a second foul in the first quarter — you already have the backup's entry minute planned.",
+  "The opponent goes small; you counter with your pre-planned small-ball lineup instead of improvising.",
+  "Up 18 in the third quarter, your bench gets 8 real minutes and closes the game out."
+ ],
+ "howTo": [
+  {
+   "detail": "Divide the 40-minute game into 5-minute blocks and assign each starter a minutes target (e.g., 28-32 for stars, 15-20 for rotation players). Write the planned first-half pattern on an index card: who enters at the 5:00 mark, who at 2:30. A plan you deviate from beats no plan at all.",
+   "title": "Script the first half"
+  },
+  {
+   "detail": "If you have two star creators, never let both sit at once. Sub star A at the 4:00 mark of Q1, bring A back to start Q2 while star B rests. The floor always has one player who can create a shot — your offense never goes through a dead stretch.",
+   "title": "Stagger your stars"
+  },
+  {
+   "detail": "Identify 3-4 lineup combos with defined roles: starters, defensive lockdown unit (best 5 defenders for late-clock stops), small-ball (switch everything), and development (bench + one veteran anchor). Call them by name in practice so players know their unit's job before the game.",
+   "title": "Build lineup combos with jobs"
+  },
+  {
+   "detail": "Set foul rules before tip-off and communicate them: 2 fouls in the first half = sit until halftime (stars) or until the 4:00 mark of Q2 (rotation players). 3 fouls = planned rest, re-enter with 6:00 left in Q3. Rules remove emotion from the decision.",
+   "title": "Manage fouls with rules, not panic"
+  },
+  {
+   "detail": "Decide before the season: in games decided by 15+ at halftime, the bench gets the entire fourth quarter. Track development minutes per player monthly. Players who get real minutes in January are ready for real minutes in the playoffs.",
+   "title": "Protect development minutes"
+  }
+ ],
+ "hub": "coaching",
+ "id": "rotation-patterns",
+ "level": "advanced",
+ "positions": [
+  "ALL"
+ ],
+ "readTime": 7,
+ "related": [
+  "managing-playing-time",
+  "developing-bench-players",
+  "in-game-adjustments",
+  "timeout-management",
+  "game-preparation"
+ ],
+ "slug": "rotation-patterns",
+ "subcategory": "game-management",
+ "tags": [
+  "rotations",
+  "substitutions",
+  "lineups",
+  "foul-management",
+  "strategy"
+ ],
+ "title": "Substitution Strategy & Rotation Patterns",
+ "vi": {
+  "coachingPoints": [
+   "Lên kế hoạch rotation trước trận: viết mẫu thay người hiệp một lên thẻ và tuân theo trừ khi lỗi buộc phải đổi.",
+   "So le thời gian của các ngôi sao để luôn có một người tạo đột biến trên sân — không bao giờ thay cả hai ra cùng lúc.",
+   "Ghi net rating của từng lineup vào sổ; sau 5-6 trận, dữ liệu sẽ cho bạn biết combo nào hiệu quả.",
+   "Quản lý lỗi một cách chủ động: hai lỗi trong hiệp một nghĩa là ngồi theo kế hoạch, không phải thay người hoảng loạn."
+  ],
+  "commonMistakes": [
+   "Thay năm cầu thủ một lúc và phá hủy mọi chemistry và nhịp độ trên sân.",
+   "Để đội hình chính đá quá lâu ở hiệp một, rồi chân rã ở hiệp bốn.",
+   "Thay người theo đối thủ thay vì áp đặt kế hoạch rotation của mình.",
+   "Chỉ dùng 7 cầu thủ trong trận thắng đậm — phút thi đấu phát triển ở trận dễ sẽ giúp bạn thắng trận căng sau này."
+  ],
+  "description": "Xây dựng các tổ hợp lineup, so le thời gian của ngôi sao, và quản lý lỗi bằng hệ thống rotation có kế hoạch thay vì thay người theo cảm tính.",
+  "gameSituations": [
+   "Hậu vệ dẫn bóng của bạn dính lỗi thứ hai ở hiệp một — bạn đã có sẵn phút vào sân của dự bị trong kế hoạch.",
+   "Đối thủ chuyển sang đội hình nhỏ; bạn đáp trả bằng lineup small-ball đã chuẩn bị sẵn thay vì ứng biến.",
+   "Dẫn 18 điểm ở hiệp ba, băng ghế dự bị được 8 phút thi đấu thực sự và khép lại trận đấu."
+  ],
+  "howTo": [
+   {
+    "detail": "Chia trận đấu 40 phút thành các khối 5 phút và giao chỉ tiêu phút cho từng cầu thủ chính (ví dụ 28-32 cho ngôi sao, 15-20 cho cầu thủ rotation). Viết mẫu thay người hiệp một lên thẻ: ai vào ở phút 5:00, ai vào ở phút 2:30. Kế hoạch bị lệch vẫn tốt hơn không có kế hoạch.",
+    "title": "Viết kịch bản hiệp một"
+   },
+   {
+    "detail": "Nếu bạn có hai ngôi sao tạo đột biến, không bao giờ để cả hai ngồi cùng lúc. Thay ngôi sao A ở phút 4:00 hiệp một, đưa A trở lại đầu hiệp hai trong khi ngôi sao B nghỉ. Sân luôn có một cầu thủ tạo được cú ném — hàng công không bao giờ rơi vào đoạn chết.",
+    "title": "So le thời gian ngôi sao"
+   },
+   {
+    "detail": "Xác định 3-4 tổ hợp lineup với vai trò rõ ràng: đội hình chính, unit phòng ngự khóa chặt (5 hậu vệ tốt nhất cho các pha bóng cuối đồng hồ), small-ball (switch mọi thứ), và phát triển (dự bị + một cựu binh neo giữ). Gọi tên chúng trong buổi tập để cầu thủ biết nhiệm vụ của unit mình trước trận đấu.",
+    "title": "Xây dựng combo lineup có nhiệm vụ"
+   },
+   {
+    "detail": "Đặt quy tắc lỗi trước khi bóng lăn và thông báo rõ: 2 lỗi trong hiệp một = ngồi đến hết hiệp (ngôi sao) hoặc đến phút 4:00 hiệp hai (cầu thủ rotation). 3 lỗi = nghỉ theo kế hoạch, trở lại khi hiệp ba còn 6:00. Quy tắc loại bỏ cảm xúc khỏi quyết định.",
+    "title": "Quản lý lỗi bằng quy tắc, không hoảng loạn"
+   },
+   {
+    "detail": "Quyết định trước mùa giải: ở các trận cách biệt 15+ điểm khi hết hiệp một, băng ghế dự bị đá cả hiệp bốn. Theo dõi phút phát triển của từng cầu thủ hàng tháng. Cầu thủ được đá phút thật vào tháng Một sẽ sẵn sàng cho phút thật ở playoff.",
+    "title": "Bảo vệ phút thi đấu phát triển"
+   }
+  ],
+  "tags": [
+   "rotation",
+   "thay-người",
+   "lineup",
+   "quản-lý-lỗi",
+   "chiến-thuật"
+  ],
+  "title": "Chiến Thuật Thay Người & Mẫu Rotation",
+  "whatIsIt": [
+   "Rotation patterns là kế hoạch có cấu trúc về ai thi đấu khi nào, với ai, và trong bao lâu — thay vì thay người theo cảm tính khi trận đấu diễn ra. Nó bao gồm so le thời gian ngôi sao, các combo lineup theo vai trò, quy tắc quản lý lỗi, và phút phát triển cho băng ghế dự bị.",
+   "title-placeholder"
+  ],
+  "whyItMatters": [
+   "Các trận đấu thường được quyết định ở những phút không có ngôi sao trên sân — đoạn 3-4 phút mà đội hình hai để mất lợi thế 8 điểm. Một hệ thống rotation tốt loại bỏ những đoạn chết đó, giữ cầu thủ chính sung sức cho hiệp bốn, và phát triển băng ghế dự bị đủ sâu để tin tưởng khi playoff đến."
+  ]
+ },
+ "whatIsIt": [
+  "Rotation patterns are the structured plan for who plays when, with whom, and for how long — instead of subbing by gut feel as the game unfolds. It covers staggering star minutes, role-based lineup combos, foul management rules, and development minutes for the bench.",
+  "Games are often decided in the minutes your stars sit — the 3-4 minute stretch where the second unit bleeds an 8-point lead. A good rotation system eliminates those dead stretches, keeps starters fresh for the fourth quarter, and develops a bench deep enough to trust when the playoffs arrive."
+ ],
+ "whyItMatters": [
+  "Games are often decided in the minutes your star sits — the 3–4 minute stretch where the second unit gives back an 8-point lead. A good rotation system eliminates those dead stretches, keeps your starters fresh for the fourth quarter, and develops a bench deep enough to trust when the playoffs arrive.",
+  "Rotations also prevent the two silent killers of team chemistry: unpredictable minutes and exhausted starters. When every player knows his windows, effort stays high and roles stay clear — nobody paces himself for minutes that might never come."
+ ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": "midrange-series",
+  "slug": "midrange-series",
+  "title": "Midrange Series",
+  "description": "Own the in-between game: pull-up jumpers from the elbows, wings, and baseline — the shots defenses concede when they take away the rim and the three.",
+  "skill": "Shooting",
+  "level": "intermediate",
+  "ages": [
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "players": "1+",
+  "equipment": [
+    "Basketball",
+    "2 cones"
+  ],
+  "durationMin": 15,
+  "intensity": "medium",
+  "goal": "Build automatic midrange pull-up mechanics from the six most common spots so the in-between shot becomes a weapon, not a bailout.",
+  "setup": [
+    "Place cones at both elbows, both wings (free-throw line extended), and both baseline midrange spots.",
+    "Start with a ball at the top; a partner or rack feeds, or self-toss.",
+    "Goal: 5 makes per spot before advancing."
+  ],
+  "instructions": [
+    {
+      "title": "Elbow pull-ups",
+      "detail": "Catch at the elbow off a V-cut, one-dribble pull-up going middle — 5 makes each elbow."
+    },
+    {
+      "title": "Wing pull-ups",
+      "detail": "Catch at the wing, rip through or jab, one dribble toward the elbow, rise and shoot."
+    },
+    {
+      "title": "Baseline runners",
+      "detail": "Catch at the baseline spot, one dribble along the baseline, pull up — finish over the imaginary contest."
+    },
+    {
+      "title": "Free-throw line fade",
+      "detail": "Finish with 10 free throws to lock in touch after the midrange work."
+    }
+  ],
+  "coachingPoints": [
+    "Stop on balance — the pull-up is only as good as the stop.",
+    "Rise straight up; drifting turns makes into misses.",
+    "Shoot it like you mean it — hesitant midrange shots are the worst shots in basketball."
+  ],
+  "commonMistakes": [
+    "Fading away with no defender there — stay vertical until contact forces otherwise.",
+    "Walking into the shot instead of stopping on two feet."
+  ],
+  "progression": "Add a closeout defender who contests every rep.",
+  "regression": "Start with stationary catch-and-shoot midrange before adding the dribble.",
+  "gameApplication": "When defenses run you off the three and wall off the rim, the midrange is where games are decided — players who own it stay unguardable.",
+  "related": [
+    "pull-up-cone-series",
+    "spot-shooting-ladder",
+    "free-throw-routine"
+  ],
+  "dateUpdated": "2026-10-06",
+  "vi": {
+    "title": "Chuỗi Ném Tầm Trung",
+    "description": "Làm chủ vùng 'lưng chừng': pull-up jumper từ hai elbow, hai wing và baseline — những cú ném mà hàng thủ 'cho không' khi họ khóa rổ và vạch 3 điểm.",
+    "goal": "Xây dựng kỹ thuật pull-up tầm trung tự động từ sáu vị trí phổ biến nhất để cú ném lưng chừng thành vũ khí chứ không phải giải pháp tình thế.",
+    "setup": [
+      "Đặt cọc ở hai elbow, hai wing (ngang vạch ném phạt) và hai vị trí baseline tầm trung.",
+      "Bắt đầu với bóng ở đỉnh; đồng đội chuyền hoặc tự tung bóng.",
+      "Mục tiêu: 5 cú trúng mỗi vị trí mới chuyển tiếp."
+    ],
+    "instructions": [
+      {
+        "title": "Pull-up ở elbow",
+        "detail": "Bắt bóng ở elbow sau pha V-cut, một nhịp đập bóng vào giữa rồi bật ném — 5 cú trúng mỗi elbow."
+      },
+      {
+        "title": "Pull-up ở wing",
+        "detail": "Bắt bóng ở wing, rip qua hoặc jab, một nhịp đập về phía elbow rồi bật ném."
+      },
+      {
+        "title": "Runner ở baseline",
+        "detail": "Bắt bóng ở baseline, một nhịp đập dọc baseline rồi pull-up — dứt điểm qua tay chắn tưởng tượng."
+      },
+      {
+        "title": "Ném phạt kết thúc",
+        "detail": "Kết thúc với 10 quả ném phạt để khóa cảm giác bóng sau phần tầm trung."
+      }
+    ],
+    "coachingPoints": [
+      "Dừng thăng bằng — pull-up chỉ tốt bằng cú dừng của bạn.",
+      "Bật thẳng lên; trôi người biến cú trúng thành cú trượt.",
+      "Ném như thể bạn tin vào nó — cú ném tầm trung do dự là cú ném tệ nhất."
+    ],
+    "commonMistakes": [
+      "Ngả người khi chẳng có ai chắn — giữ thẳng đứng cho đến khi va chạm buộc phải khác.",
+      "Đi bộ vào cú ném thay vì dừng bằng hai chân."
+    ],
+    "progression": "Thêm hậu vệ closeout chắn mỗi lượt.",
+    "regression": "Bắt đầu với catch-and-shoot tầm trung đứng yên trước khi thêm nhịp đập bóng.",
+    "gameApplication": "Khi hàng thủ đuổi bạn khỏi vạch 3 điểm và bịt kín đường vào rổ, vùng tầm trung là nơi quyết định trận đấu — ai làm chủ nó sẽ không thể bị khóa.",
+    "players": "1+",
+    "equipment": [
+      "Bóng rổ",
+      "2 cọc tiêu"
+    ]
+  }
+}

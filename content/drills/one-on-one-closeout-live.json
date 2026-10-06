@@ -1,0 +1,108 @@
+{
+  "id": "one-on-one-closeout-live",
+  "slug": "one-on-one-closeout-live",
+  "title": "Live 1v1 Closeouts",
+  "description": "Close out and guard live: sprint from the paint to contest a catch on the wing, then play 1v1 live — the closest thing to real game defense.",
+  "skill": "Defense",
+  "level": "advanced",
+  "ages": [
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "players": "2",
+  "equipment": [
+    "Basketball"
+  ],
+  "durationMin": 10,
+  "intensity": "high",
+  "goal": "Turn closeouts into stops by arriving balanced and guarding the first move live.",
+  "setup": [
+    "Defender starts under the basket; offensive player at the wing with a ball.",
+    "Coach or partner passes to the wing to start.",
+    "Play to 3 makes, then switch roles."
+  ],
+  "instructions": [
+    {
+      "title": "Sprint and chop",
+      "detail": "On the pass, sprint out, chop your feet, and arrive in a stance with a high hand — no fly-bys."
+    },
+    {
+      "title": "Guard the first move",
+      "detail": "Stay down through the jab series; the first move is a lie, the second one is real."
+    },
+    {
+      "title": "Finish the possession",
+      "detail": "Contest the shot without fouling, then box out — the stop isn't over until the rebound."
+    },
+    {
+      "title": "Rotate spots",
+      "detail": "Move the starting spot: wing, top, corner — closeout angles change everything."
+    }
+  ],
+  "coachingPoints": [
+    "Arrive low — a high closeout is a blow-by waiting to happen.",
+    "Contest with the high hand, slide with the low foot.",
+    "Make them score over you, not around you."
+  ],
+  "commonMistakes": [
+    "Reaching on the first jab — discipline beats gambling.",
+    "Fouling the jump shooter by crowding the landing space."
+  ],
+  "progression": "Offense gets 2 dribbles max — score quickly or not at all.",
+  "regression": "Defender starts closer (free-throw line) to shorten the closeout.",
+  "gameApplication": "Games are won on closeouts — the defender who arrives balanced turns open shots into contested misses.",
+  "related": [
+    "closeout-rotations",
+    "one-on-one-live",
+    "zigzag-defense"
+  ],
+  "dateUpdated": "2026-10-06",
+  "vi": {
+    "title": "Closeout Live 1v1",
+    "description": "Closeout rồi kèm live: sprint từ paint ra contest pha bắt bóng ở wing rồi chơi 1v1 live — gần với phòng thủ trận thật nhất.",
+    "goal": "Biến closeout thành pha chặn đứng bằng cách tới nơi thăng bằng và kèm được động tác đầu tiên.",
+    "setup": [
+      "Hậu vệ bắt đầu dưới rổ; người tấn công ở wing với bóng.",
+      "HLV hoặc đồng đội chuyền ra wing để bắt đầu.",
+      "Chơi chạm 3 cú ném trúng rồi đổi vai."
+    ],
+    "instructions": [
+      {
+        "title": "Sprint rồi chém chân",
+        "detail": "Khi bóng chuyền, sprint ra, chém chân, tới nơi ở tư thế thấp tay cao — không lao qua."
+      },
+      {
+        "title": "Kèm động tác đầu tiên",
+        "detail": "Giữ thấp người qua chuỗi jab; động tác đầu là giả, động tác thứ hai mới thật."
+      },
+      {
+        "title": "Hoàn tất pha bóng",
+        "detail": "Contest cú ném không phạm lỗi rồi box-out — pha thủ chưa xong cho tới khi có rebound."
+      },
+      {
+        "title": "Xoay vị trí",
+        "detail": "Đổi điểm xuất phát: wing, đỉnh, góc — góc closeout thay đổi mọi thứ."
+      }
+    ],
+    "coachingPoints": [
+      "Tới nơi thấp người — closeout cao là lời mời đột phá.",
+      "Contest bằng tay cao, slide bằng chân thấp.",
+      "Bắt họ ghi điểm qua mặt bạn, không phải vòng qua bạn."
+    ],
+    "commonMistakes": [
+      "Với tay ở cú jab đầu — kỷ luật hơn cờ bạc.",
+      "Phạm lỗi người ném vì lấn không gian tiếp đất."
+    ],
+    "progression": "Tấn công tối đa 2 nhịp đập — ghi nhanh hoặc không ghi.",
+    "regression": "Hậu vệ bắt đầu gần hơn (vạch ném phạt) để rút ngắn closeout.",
+    "gameApplication": "Trận đấu thắng nhờ closeout — hậu vệ tới nơi thăng bằng biến cú ném trống thành cú ném bị contest.",
+    "players": "2",
+    "equipment": [
+      "Bóng rổ"
+    ]
+  }
+}
