@@ -26,6 +26,8 @@ export default function Home() {
   const latest = latestArticles(4);
   const vision = getCourtVision();
   const workoutsCount = getAllWorkouts().length;
+  const drillsCount = getAllDrills().length;
+  const pathsCount = getAllPaths().length;
 
   const data: HomeData = {
     articleCount: articles.length,
@@ -44,6 +46,8 @@ export default function Home() {
       return { card, learnUrl: a ? articleUrl(a) : "/basketball-iq" };
     }),
     workoutsCount,
+    drillsCount,
+    pathsCount,
     quickLearn: QUICK_LEARN.map((slug) => {
       const a = getArticleBySlug(slug);
       return { slug, url: a ? articleUrl(a) : "/learn" };

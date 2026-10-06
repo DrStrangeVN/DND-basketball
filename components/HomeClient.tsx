@@ -59,6 +59,8 @@ export interface HomeData {
   latest: ArticleCardData[];
   vision: { card: CourtVisionCardT; learnUrl: string }[];
   workoutsCount: number;
+  drillsCount: number;
+  pathsCount: number;
   quickLearn: { slug: string; url: string }[];
 }
 
@@ -90,8 +92,8 @@ export default function HomeClient({ data }: { data: HomeData }) {
           </div>
           <div className="mt-6 flex gap-6 text-sm">
             <span><strong className="text-lg font-extrabold">{data.articleCount}+</strong> <span className="text-[color:var(--muted)]">{t("home.stats.concepts")}</span></span>
-            <span><strong className="text-lg font-extrabold">{drills.length}</strong> <span className="text-[color:var(--muted)]">{t("home.stats.drills")}</span></span>
-            <span><strong className="text-lg font-extrabold">{paths.length}</strong> <span className="text-[color:var(--muted)]">{t("home.stats.paths")}</span></span>
+            <span><strong className="text-lg font-extrabold">{data.drillsCount}</strong> <span className="text-[color:var(--muted)]">{t("home.stats.drills")}</span></span>
+            <span><strong className="text-lg font-extrabold">{data.pathsCount}</strong> <span className="text-[color:var(--muted)]">{t("home.stats.paths")}</span></span>
           </div>
         </div>
         <div className="neu-inset p-4 sm:p-5">

@@ -182,8 +182,8 @@ const STRINGS: Record<string, { vi: string; en: string }> = {
   "home.workoutsCta.desc": { vi: "{n} giáo án có cấu trúc kèm checklist — từ dẫn bóng 10 phút đến routine ngày thi đấu.", en: "{n} structured workouts with checklists — from 10-minute ball handling to game-day routines." },
   "home.workoutsCta.button": { vi: "Xem giáo án", en: "Browse Workouts" },
   "home.hero.subtitle": {
-    vi: "132 bài viết chuyên sâu, 18 bài tập, 8 giáo án, 6 lộ trình học — từ căn bản đến chiến thuật nâng cao, tất cả được cấu trúc để bạn học theo trình tự.",
-    en: "132 in-depth articles, 18 drills, 8 workouts, 6 learning paths — from fundamentals to advanced tactics, all structured for progressive learning.",
+    vi: "200 bài học chuyên sâu, 40 bài tập, 14 giáo án, 10 lộ trình học — từ căn bản đến chiến thuật nâng cao, tất cả được cấu trúc để bạn học theo trình tự.",
+    en: "200 in-depth lessons, 40 drills, 14 workouts, 10 learning paths — from fundamentals to advanced tactics, all structured for progressive learning.",
   },
   "home.hero.searchCta": { vi: "Bắt đầu tìm kiếm", en: "Start searching" },
   "home.hero.browseCta": { vi: "Khám phá các trung tâm", en: "Browse the hubs" },
