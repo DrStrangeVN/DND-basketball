@@ -1,0 +1,157 @@
+{
+  "id": "perf-ap-repeated-sprint-ability",
+  "slug": "ap-repeated-sprint-ability",
+  "hub": "athletic-performance",
+  "category": "conditioning",
+  "subcategory": "repeated-sprints",
+  "title": "Repeated Sprint Ability",
+  "description": "The ability to sprint, recover, and sprint again — the engine of the fourth quarter. Train 6-10 short sprints with short rests, and learn when to stop.",
+  "level": "advanced",
+  "positions": [
+    "all"
+  ],
+  "trainingPhase": [
+    "pre-season",
+    "in-season"
+  ],
+  "goal": [
+    "conditioning",
+    "get-faster"
+  ],
+  "duration": "20–25 min",
+  "equipment": [
+    "Cones"
+  ],
+  "whatItDevelops": [
+    "Repeat-sprint capacity",
+    "Recovery between sprints",
+    "Sprint mechanics under fatigue"
+  ],
+  "whyBasketball": [
+    "Games demand repeated efforts: transition, closeout, fast break, repeat.",
+    "Players who recover faster get more good possessions.",
+    "Late-game speed wins close games."
+  ],
+  "howTo": [
+    {
+      "title": "Set up and warm up",
+      "detail": "Mark 20-30 m with cones. Warm up 10 minutes, then run 3-4 build-up sprints at increasing speed."
+    },
+    {
+      "title": "Sprint at full effort",
+      "detail": "Sprint the 20-30 m at full effort. Then rest 25-30 seconds."
+    },
+    {
+      "title": "Repeat 6-10 times",
+      "detail": "Each sprint plus rest is one rep. 6-10 reps make one set."
+    },
+    {
+      "title": "Rest between sets",
+      "detail": "Rest 3-5 minutes after the set. Run a second set only if you still feel fresh."
+    },
+    {
+      "title": "Stop when quality drops",
+      "detail": "If your times drop sharply or your form breaks down, stop. Quality beats quantity in this workout."
+    }
+  ],
+  "coachingPoints": [
+    "Full effort on every sprint — half speed trains nothing here.",
+    "Time your sprints to track fatigue.",
+    "Pump your arms, drive your knees, stay tall.",
+    "Walk during rest — do not sit down.",
+    "Stop when quality drops. That is the workout talking to you."
+  ],
+  "commonMistakes": [
+    "Going too easy — it becomes jogging.",
+    "Resting too long between sprints.",
+    "Running sprints when already exhausted from practice.",
+    "Ignoring fatigue signs and pushing through bad form."
+  ],
+  "setsReps": "1-2 sessions per week. 1-2 sets of 6-10 x 20-30 m sprints. Rest 25-30 s between reps, 3-5 min between sets.",
+  "basketballTransfer": "Repeat-sprint ability is what lets you run the floor in the fourth quarter as fast as in the first.",
+  "progression": [
+    "Beginner: 6 x 20 m, 40 s rest, 1 set.",
+    "Intermediate: 8 x 25 m, 30 s rest, 1-2 sets.",
+    "Advanced: 10 x 30 m, 25 s rest, 2 sets."
+  ],
+  "relatedTopics": [
+    "ip-training-load-basics",
+    "hyd-after-practice-hydration",
+    "rec-foam-rolling-basics",
+    "ap-basketball-conditioning"
+  ],
+  "tags": [
+    "speed",
+    "sprints",
+    "conditioning",
+    "fourth-quarter"
+  ],
+  "references": [
+    "NSCA — Repeated sprint ability in team sports",
+    "USA Basketball — Speed and conditioning resources"
+  ],
+  "dateUpdated": "2026-10-06",
+  "vi": {
+    "title": "Khả năng lặp lại nước rút (repeated sprint)",
+    "description": "Khả năng nước rút, hồi phục, rồi lại nước rút — động cơ của hiệp 4. Tập 6-10 lần nước rút ngắn với thời gian nghỉ ngắn, và học cách dừng đúng lúc.",
+    "duration": "20–25 phút",
+    "whatItDevelops": [
+      "Khả năng nước rút lặp lại",
+      "Hồi phục giữa các lần nước rút",
+      "Kỹ thuật chạy khi mệt"
+    ],
+    "whyBasketball": [
+      "Trận đấu đòi hỏi nỗ lực lặp lại: chuyển trạng thái, closeout, phản công nhanh, lặp lại.",
+      "Cầu thủ hồi phục nhanh hơn có nhiều pha bóng tốt hơn.",
+      "Tốc độ cuối trận quyết định những trận cầu sát nút."
+    ],
+    "howTo": [
+      {
+        "title": "Chuẩn bị và khởi động",
+        "detail": "Đặt cone đánh dấu 20-30m. Khởi động 10 phút, rồi chạy 3-4 lần tăng tốc dần."
+      },
+      {
+        "title": "Nước rút hết sức",
+        "detail": "Nước rút 20-30m hết sức. Sau đó nghỉ 25-30 giây."
+      },
+      {
+        "title": "Lặp lại 6-10 lần",
+        "detail": "Mỗi lần nước rút cộng nghỉ là một rep. 6-10 rep tạo thành một hiệp."
+      },
+      {
+        "title": "Nghỉ giữa các hiệp",
+        "detail": "Nghỉ 3-5 phút sau mỗi hiệp. Chỉ chạy hiệp thứ hai nếu vẫn thấy khỏe."
+      },
+      {
+        "title": "Dừng khi chất lượng giảm",
+        "detail": "Nếu thời gian chạy tụt mạnh hoặc kỹ thuật vỡ, dừng lại. Bài này chất lượng quan trọng hơn số lượng."
+      }
+    ],
+    "coachingPoints": [
+      "Mỗi lần nước rút phải hết sức — chạy nửa vời không tập được gì ở đây.",
+      "Bấm giờ các lần chạy để theo dõi mức độ mệt.",
+      "Vung tay mạnh, nâng cao gối, giữ thân trên thẳng.",
+      "Đi bộ khi nghỉ — không ngồi xuống.",
+      "Dừng khi chất lượng giảm. Đó là cơ thể đang nói với bạn."
+    ],
+    "commonMistakes": [
+      "Chạy quá nhẹ — bài tập thành chạy bộ.",
+      "Nghỉ quá lâu giữa các lần nước rút.",
+      "Nước rút khi đã kiệt sức sau buổi tập kỹ thuật.",
+      "Bỏ qua dấu hiệu mệt và cố chạy với kỹ thuật sai."
+    ],
+    "setsReps": "1-2 buổi/tuần. 1-2 hiệp, mỗi hiệp 6-10 lần nước rút 20-30m. Nghỉ 25-30 giây giữa các lần, 3-5 phút giữa các hiệp.",
+    "basketballTransfer": "Khả năng lặp lại nước rút giúp bạn chạy sân ở hiệp 4 nhanh như hiệp 1.",
+    "progression": [
+      "Mới bắt đầu: 6 lần x 20m, nghỉ 40 giây, 1 hiệp.",
+      "Trung cấp: 8 lần x 25m, nghỉ 30 giây, 1-2 hiệp.",
+      "Nâng cao: 10 lần x 30m, nghỉ 25 giây, 2 hiệp."
+    ],
+    "tags": [
+      "tốc độ",
+      "nước rút",
+      "thể lực",
+      "hiệp 4"
+    ]
+  }
+}

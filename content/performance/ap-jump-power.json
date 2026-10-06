@@ -1,0 +1,166 @@
+{
+  "id": "perf-ap-jump-power",
+  "slug": "ap-jump-power",
+  "hub": "athletic-performance",
+  "category": "power",
+  "subcategory": "jump-power",
+  "title": "Jump Power Development",
+  "description": "Combine strength work with plyometrics to build a higher vertical. Understand approach jumps vs. standing verticals, and manage your weekly jump volume.",
+  "level": "intermediate",
+  "positions": [
+    "all"
+  ],
+  "trainingPhase": [
+    "off-season",
+    "pre-season"
+  ],
+  "goal": [
+    "jump-higher",
+    "explosive"
+  ],
+  "duration": "20–30 min",
+  "equipment": [
+    "Plyo box",
+    "Barbell or dumbbells"
+  ],
+  "whatItDevelops": [
+    "Standing and approach-jump vertical",
+    "Strength-power combination",
+    "Jump volume management"
+  ],
+  "whyBasketball": [
+    "Rebounds, blocks, and finishes at the rim all reward a bigger vertical",
+    "Approach jumps translate directly to game situations",
+    "Managing jump count keeps knees healthy through a long season"
+  ],
+  "howTo": [
+    {
+      "title": "Build the base with strength",
+      "detail": "Start with a strength move: goblet squat or trap-bar style deadlift, 3 sets × 5 reps. Heavy, controlled, full rest. Strength is the raw material of jump power."
+    },
+    {
+      "title": "Transfer it with countermovement jumps",
+      "detail": "Right after the strength work, do 4 sets × 5 countermovement jumps — hands on hips, dip and explode straight up. Land soft, reset between reps."
+    },
+    {
+      "title": "Train the approach jump",
+      "detail": "Take 2–3 quick steps, plant, and jump for maximum height. This is the game jump — layups, blocks, putbacks. 3 sets × 4 jumps each side."
+    },
+    {
+      "title": "Add depth jumps only when ready",
+      "detail": "Step off a low box (30–45cm), land, and immediately jump as high as possible. Ground contact should be short and springy. 3 sets × 5 reps."
+    },
+    {
+      "title": "Count and cap your jumps",
+      "detail": "Keep total jumps to 40–60 per session. Log them. When legs feel heavy two days in a row, cut volume in half for the week."
+    },
+    {
+      "title": "Finish with calf and ankle mobility",
+      "detail": "Two minutes of calf raises and ankle circles. Jump power travels through the ankle — keep it mobile and strong."
+    }
+  ],
+  "coachingPoints": [
+    "Strength first, plyometrics second — order matters in the session.",
+    "Max intent on every jump: sub-maximal jumping builds sub-maximal power.",
+    "Quiet landings always, even when you are tired.",
+    "Track jump count like sets — volume is a training variable.",
+    "Stop depth jumps the moment ground contact gets slow and heavy."
+  ],
+  "commonMistakes": [
+    "Doing plyometrics before the strength base is built.",
+    "Jumping maximally with no plan for weekly volume.",
+    "Training depth jumps off boxes that are too high.",
+    "Ignoring heavy legs and stacking more jump sessions."
+  ],
+  "setsReps": "Strength: 3 sets × 5 reps; plyometrics: 3–4 sets × 4–5 reps; total jumps 40–60 per session.",
+  "basketballTransfer": "Standing vertical wins the tip; approach vertical wins the rebound, the block, and the putback. Train both, and your game jumps go up together.",
+  "progression": [
+    "Beginner: goblet squats plus countermovement jumps, 30–40 total jumps per session. No depth jumps yet.",
+    "Intermediate: add barbell or dumbbell deadlifts and approach jumps, 40–60 total jumps per session.",
+    "Advanced: add depth jumps from 30–45cm boxes and single-leg hops, 60–80 total jumps with strict volume logging."
+  ],
+  "relatedTopics": [
+    "ap-explosive-power-basics",
+    "ap-posterior-chain",
+    "ip-landing-mechanics",
+    "ip-training-load-basics"
+  ],
+  "tags": [
+    "power",
+    "vertical jump",
+    "plyometrics",
+    "approach jump"
+  ],
+  "references": [
+    "NSCA — Essentials of Strength Training and Conditioning (4th ed.)",
+    "USA Basketball — Strength and Conditioning Guidelines"
+  ],
+  "dateUpdated": "2026-10-06",
+  "vi": {
+    "title": "Phát triển sức bật nhảy (jump power)",
+    "description": "Kết hợp tập sức mạnh với plyometric để nâng chiều cao bật nhảy. Hiểu nhảy đà so với nhảy tại chỗ, và quản lý khối lượng nhảy mỗi tuần.",
+    "whatItDevelops": [
+      "Bật nhảy tại chỗ và nhảy đà",
+      "Kết hợp sức mạnh — power",
+      "Quản lý khối lượng nhảy"
+    ],
+    "whyBasketball": [
+      "Rebound, block và dứt điểm gần rổ đều cần bật nhảy cao hơn",
+      "Nhảy đà chuyển thẳng vào tình huống thi đấu",
+      "Quản lý số lần nhảy giúp đầu gối khỏe suốt mùa giải dài"
+    ],
+    "howTo": [
+      {
+        "title": "Xây nền bằng sức mạnh",
+        "detail": "Bắt đầu với một động tác sức mạnh: goblet squat hoặc deadlift kiểu trap-bar, 3 hiệp × 5 lần. Nặng, kiểm soát, nghỉ đầy đủ. Sức mạnh là nguyên liệu thô của sức bật."
+      },
+      {
+        "title": "Chuyển hóa bằng nhảy countermovement",
+        "detail": "Ngay sau phần sức mạnh, làm 4 hiệp × 5 lần nhảy countermovement — tay chống hông, hạ người rồi bật thẳng lên. Tiếp đất êm, nghỉ giữa các lần lặp."
+      },
+      {
+        "title": "Tập nhảy đà",
+        "detail": "Chạy 2–3 bước nhanh, đặt chân trụ và bật cao tối đa. Đây là cú nhảy trong trận — layup, block, putback. 3 hiệp × 4 lần mỗi bên."
+      },
+      {
+        "title": "Thêm depth jump khi đã sẵn sàng",
+        "detail": "Bước khỏi hộp thấp (30–45cm), tiếp đất rồi bật ngay lên cao nhất có thể. Thời gian chạm đất ngắn và nảy. 3 hiệp × 5 lần."
+      },
+      {
+        "title": "Đếm và giới hạn số lần nhảy",
+        "detail": "Giữ tổng số lần nhảy ở 40–60 mỗi buổi. Ghi lại. Khi chân nặng hai ngày liên tiếp, giảm một nửa khối lượng trong tuần đó."
+      },
+      {
+        "title": "Kết thúc bằng vận động bắp chân và cổ chân",
+        "detail": "Hai phút nâng gót và xoay cổ chân. Sức bật truyền qua cổ chân — giữ nó linh hoạt và khỏe."
+      }
+    ],
+    "coachingPoints": [
+      "Sức mạnh trước, plyometric sau — thứ tự trong buổi tập rất quan trọng.",
+      "Dốc toàn lực mỗi cú nhảy: nhảy dưới sức tối đa chỉ tạo ra power dưới tối đa.",
+      "Tiếp đất êm mọi lúc, kể cả khi mệt.",
+      "Theo dõi số lần nhảy như theo dõi hiệp tập — khối lượng là một biến số huấn luyện.",
+      "Dừng depth jump ngay khi thời gian chạm đất chậm và nặng nề."
+    ],
+    "commonMistakes": [
+      "Tập plyometric trước khi nền sức mạnh đủ vững.",
+      "Nhảy hết sức mà không có kế hoạch khối lượng theo tuần.",
+      "Tập depth jump với hộp quá cao.",
+      "Bỏ qua dấu hiệu chân nặng và tiếp tục chồng thêm buổi nhảy."
+    ],
+    "setsReps": "Sức mạnh: 3 hiệp × 5 lần; plyometric: 3–4 hiệp × 4–5 lần; tổng 40–60 lần nhảy mỗi buổi.",
+    "basketballTransfer": "Nhảy tại chỗ thắng pha nhảy tranh bóng đầu trận; nhảy đà thắng rebound, block và putback. Tập cả hai, khả năng bật trong trận cùng tăng.",
+    "progression": [
+      "Người mới: goblet squat kết hợp nhảy countermovement, 30–40 lần nhảy mỗi buổi. Chưa tập depth jump.",
+      "Trung cấp: thêm deadlift với đòn tạ hoặc tạ đôi và nhảy đà, 40–60 lần nhảy mỗi buổi.",
+      "Nâng cao: thêm depth jump từ hộp 30–45cm và nhảy một chân, 60–80 lần nhảy với ghi chép khối lượng nghiêm ngặt."
+    ],
+    "tags": [
+      "sức bật",
+      "bật nhảy cao",
+      "plyometric",
+      "nhảy đà"
+    ],
+    "duration": "20–30 phút"
+  }
+}

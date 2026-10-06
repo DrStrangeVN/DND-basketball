@@ -29,6 +29,16 @@ for (const f of ls("drills")) urls.add(`/drills/${read(join(CONTENT, "drills", f
 for (const f of ls("workouts")) urls.add(`/workouts/${read(join(CONTENT, "workouts", f)).slug}`);
 for (const f of ls("paths")) urls.add(`/learning-paths/${read(join(CONTENT, "paths", f)).slug}`);
 
+// Phase 2 — Player Performance
+urls.add("/performance");
+if (existsSync(join(CONTENT, "performance"))) {
+  for (const f of ls("performance")) {
+    const p = read(join(CONTENT, "performance", f));
+    urls.add(`/performance/${p.hub}`);
+    urls.add(`/performance/${p.hub}/${p.slug}`);
+  }
+}
+
 const today = new Date().toISOString().slice(0, 10);
 const xml = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n` +
   [...urls].sort().map((u) =>

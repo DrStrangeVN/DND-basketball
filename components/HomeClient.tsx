@@ -1,8 +1,9 @@
 "use client";
 import Link from "next/link";
+import { useState } from "react";
 import {
   Volleyball, Target, Brain, Network, Dumbbell, Clapperboard, Shield, Zap,
-  ClipboardList, ArrowRight, Sparkles, Flame,
+  ClipboardList, ArrowRight, Sparkles, Flame, RefreshCw, Salad, Droplets, ShieldPlus,
 } from "lucide-react";
 import type { ArticleCardData, DrillCardData, LearningPath, FilmVideo, CourtVisionCard as CourtVisionCardT } from "@/lib/types";
 import { articleUrl } from "@/lib/urls";
@@ -62,11 +63,47 @@ export interface HomeData {
   drillsCount: number;
   pathsCount: number;
   quickLearn: { slug: string; url: string }[];
+  perfCounts: Record<string, number>;
+  todayPerf: { hub: string; title: string; titleVi: string; description: string; descriptionVi: string; url: string }[];
 }
+
+const PERF_HOME_CARDS: { href: string; hub: string; icon: typeof Dumbbell; titleKey: string; descKey: string }[] = [
+  { href: "/performance/athletic-performance", hub: "athletic-performance", icon: Dumbbell, titleKey: "perf.card.athletic.t", descKey: "perf.tagline.athleticPerformance" },
+  { href: "/performance/recovery", hub: "recovery", icon: RefreshCw, titleKey: "perf.card.recovery.t", descKey: "perf.tagline.recovery" },
+  { href: "/performance/nutrition", hub: "nutrition", icon: Salad, titleKey: "perf.card.nutrition.t", descKey: "perf.tagline.nutrition" },
+  { href: "/performance/hydration", hub: "hydration", icon: Droplets, titleKey: "perf.card.hydration.t", descKey: "perf.tagline.hydration" },
+  { href: "/performance/injury-prevention", hub: "injury-prevention", icon: ShieldPlus, titleKey: "perf.card.injury.t", descKey: "perf.tagline.injuryPrevention" },
+];
+
+const PERF_TIP_KEY: Record<string, string> = {
+  "athletic-performance": "perf.tip.performance",
+  recovery: "perf.tip.recovery",
+  nutrition: "perf.tip.nutrition",
+  hydration: "perf.tip.hydration",
+};
 
 export default function HomeClient({ data }: { data: HomeData }) {
   const { lang, t } = useLanguage();
-  const { concept, popular, paths, drills, films, coaches, latest, vision, workoutsCount, quickLearn } = data;
+  const { concept, popular, paths, drills, films, coaches, latest, vision, workoutsCount, quickLearn, perfCounts, todayPerf } = data;
+  const [dayTab, setDayTab] = useState(0);
+
+  const dayTabs = [
+    ...(concept ? [{
+      key: "skill",
+      label: t("home.concept.title"),
+      title: pick(lang, concept.title, concept.vi?.title),
+      desc: pick(lang, concept.description, concept.vi?.description),
+      url: articleUrl(concept),
+    }] : []),
+    ...todayPerf.map((p) => ({
+      key: p.hub,
+      label: t(PERF_TIP_KEY[p.hub] ?? "perf.tip.performance"),
+      title: pick(lang, p.title, p.titleVi),
+      desc: pick(lang, p.description, p.descriptionVi),
+      url: p.url,
+    })),
+  ];
+  const activeTab = dayTabs.length ? dayTabs[Math.min(dayTab, dayTabs.length - 1)] : null;
 
   return (
     <div className="space-y-14 pb-6">
@@ -114,21 +151,58 @@ export default function HomeClient({ data }: { data: HomeData }) {
         </div>
       </section>
 
+      {/* PERFORMANCE — BUILD THE COMPLETE PLAYER */}
+      <section aria-labelledby="perf-h">
+        <div id="perf-h"><SectionTitle eyebrow={t("nav.performance")} title={t("perf.buildComplete")} description={t("perf.buildCompleteDesc")} href="/performance" /></div>
+        <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-5">
+          {PERF_HOME_CARDS.map((c) => (
+            <Link key={c.href} href={c.href} className="neu-card flex flex-col gap-3 p-5">
+              <span className="neu-sm flex h-12 w-12 items-center justify-center">
+                <c.icon className="h-6 w-6 text-[color:var(--orange)]" aria-hidden />
+              </span>
+              <span className="text-[16px] font-bold tracking-tight">{t(c.titleKey)}</span>
+              <span className="text-[13px] leading-relaxed text-[color:var(--muted)]">{t(c.descKey)}</span>
+              <span className="mt-auto pt-1 text-[12px] font-bold uppercase tracking-wide text-[color:var(--orange)]">
+                {(perfCounts[c.hub] ?? 0)} {t("perf.guides")}
+              </span>
+            </Link>
+          ))}
+        </div>
+        <div className="mt-5 text-center">
+          <Link href="/performance" className="neu-btn inline-flex items-center gap-2 bg-[color:var(--orange)] px-6 py-3 text-[15px] font-bold text-white">
+            {t("perf.explorePerformance")} <ArrowRight className="h-4 w-4" aria-hidden />
+          </Link>
+        </div>
+      </section>
+
       {/* CONCEPT OF THE DAY + QUICK LEARN */}
       <section className="grid gap-4 lg:grid-cols-5" aria-label="Daily learning">
         <div className="neu relative overflow-hidden p-6 sm:p-8 lg:col-span-3">
           <div className="absolute inset-x-0 top-0 h-1.5 bg-[color:var(--orange)]" aria-hidden />
           <p className="mb-1 flex items-center gap-1.5 text-[11px] font-bold uppercase tracking-[0.16em] text-[color:var(--orange)]">
-            <Flame className="h-3.5 w-3.5" aria-hidden /> {t("home.concept.title")}
+            <Flame className="h-3.5 w-3.5" aria-hidden /> {t("perf.todayTitle")}
           </p>
-          {concept && (
-            <>
-              <h2 className="mt-1 text-2xl font-extrabold tracking-tight sm:text-3xl">{pick(lang, concept.title, concept.vi?.title)}</h2>
-              <p className="mt-2 max-w-lg text-[15px] leading-relaxed text-[color:var(--muted)]">{pick(lang, concept.description, concept.vi?.description)}</p>
-              <Link href={articleUrl(concept)} className="neu-btn mt-5 inline-flex items-center gap-2 px-5 py-2.5 text-sm font-bold text-[color:var(--orange)]">
+          <div className="mt-3 flex flex-wrap gap-2" role="tablist" aria-label={t("perf.todayTitle")}>
+            {dayTabs.map((tb, i) => (
+              <button
+                key={tb.key}
+                role="tab"
+                aria-selected={i === dayTab}
+                onClick={() => setDayTab(i)}
+                className={`rounded-full px-3.5 py-1.5 text-[12px] font-bold transition-all ${i === dayTab ? "bg-[color:var(--orange)] text-white" : "neu-btn text-[color:var(--muted)]"}`}
+              >
+                {tb.label}
+              </button>
+            ))}
+          </div>
+          {activeTab && (
+            <div key={activeTab.key} role="tabpanel" className="mt-4">
+              <h2 className="mt-1 text-2xl font-extrabold tracking-tight sm:text-3xl">{activeTab.title}</h2>
+              <p className="mt-2 max-w-lg text-[15px] leading-relaxed text-[color:var(--muted)]">{activeTab.desc}</p>
+              <Link href={activeTab.url} className="neu-btn mt-5 inline-flex items-center gap-2 px-5 py-2.5 text-sm font-bold text-[color:var(--orange)]">
                 {t("cards.learnConcept")} <ArrowRight className="h-4 w-4" aria-hidden />
               </Link>
-            </>
+            </div>
           )}
         </div>
         <div className="neu p-6 sm:p-8 lg:col-span-2">

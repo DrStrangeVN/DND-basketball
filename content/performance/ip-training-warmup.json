@@ -1,0 +1,153 @@
+{
+  "id": "perf-ip-training-warmup",
+  "slug": "ip-training-warmup",
+  "hub": "injury-prevention",
+  "dateUpdated": "2026-10-06",
+  "category": "warm-up",
+  "subcategory": "warmup-routines",
+  "title": "Training Warm-Up Routine",
+  "description": "A pre-practice warm-up that adapts to the session: general movement prep followed by activation and sport-specific patterns matched to what the training day demands.",
+  "level": "beginner",
+  "positions": [
+    "all"
+  ],
+  "trainingPhase": [
+    "off-season",
+    "pre-season",
+    "in-season"
+  ],
+  "goal": [
+    "move-better",
+    "conditioning"
+  ],
+  "duration": "8–10 min",
+  "equipment": [
+    "Open court space",
+    "Basketball"
+  ],
+  "whatItDevelops": [
+    "Full-body readiness for any training focus",
+    "Activation tailored to the session's main content",
+    "Sport-specific movement patterns at rising intensity"
+  ],
+  "whyBasketball": [
+    "A leg-strength day and a shooting day need different preparation",
+    "Matching the warm-up to the session reduces wasted energy",
+    "Consistent routine builds a professional training habit"
+  ],
+  "howTo": [
+    {
+      "title": "Easy jog — 2 minutes",
+      "detail": "Light jogging around the court, adding high knees and butt kicks on the second lap."
+    },
+    {
+      "title": "Dynamic mobility circuit — 3 minutes",
+      "detail": "Leg swings, walking lunges, hip circles, and inchworms. Cover hips, hamstrings, and ankles."
+    },
+    {
+      "title": "Activation matched to the session — 2 minutes",
+      "detail": "Leg-strength day: glute bridges and bodyweight squats. Shooting or skill day: shoulder and arm work plus a short core set."
+    },
+    {
+      "title": "Movement patterns — 2 minutes",
+      "detail": "Defensive slides, backpedals, and change of direction, raising the intensity with each rep."
+    },
+    {
+      "title": "Ramp to full speed — 1 to 2 minutes",
+      "detail": "Build-up sprints ending at game speed, so the first drill of practice starts sharp."
+    }
+  ],
+  "coachingPoints": [
+    "Ask what the session focuses on, then pick the matching activation",
+    "Keep the warm-up under 10 minutes — save energy for practice",
+    "Move with intent; sloppy warm-ups carry into sloppy practice",
+    "Finish at full speed so there is no gap before the first drill"
+  ],
+  "commonMistakes": [
+    "Using the same generic jog-and-stretch every day",
+    "Skipping activation on skill days",
+    "Warming up for 20 minutes and starting practice tired"
+  ],
+  "setsReps": "Run once at the start of every practice (≈8–10 minutes). Trim the mobility circuit on light recovery days.",
+  "basketballTransfer": "Session-matched preparation means legs are ready for a strength block, shoulders are ready for a shooting block, and the first drill always starts at full quality.",
+  "progression": [
+    "Beginner: follow the template exactly as written",
+    "Intermediate: adjust the activation block to the session focus without prompting",
+    "Advanced: add one session-specific primer (e.g., landing mechanics before a plyometric block)"
+  ],
+  "relatedTopics": [
+    "ip-warmup-10-min",
+    "ip-hamstring-strength",
+    "rec-active-recovery"
+  ],
+  "tags": [
+    "warm-up",
+    "training",
+    "movement preparation",
+    "injury risk reduction",
+    "routine"
+  ],
+  "medicalDisclaimer": false,
+  "vi": {
+    "title": "Routine khởi động trước buổi tập",
+    "description": "Bài khởi động trước buổi tập linh hoạt theo nội dung buổi tập: chuẩn bị vận động chung, rồi đánh thức cơ và các mẫu di chuyển đặc thù đúng với yêu cầu của ngày tập.",
+    "whatItDevelops": [
+      "Sẵn sàng toàn thân cho mọi trọng tâm buổi tập",
+      "Đánh thức cơ đúng với nội dung chính của buổi tập",
+      "Các mẫu di chuyển đặc thù bóng rổ với cường độ tăng dần"
+    ],
+    "whyBasketball": [
+      "Ngày tập sức mạnh chân và ngày tập ném cần phần chuẩn bị khác nhau",
+      "Khởi động đúng trọng tâm giúp tiết kiệm năng lượng",
+      "Routine ổn định rèn thói quen tập luyện chuyên nghiệp"
+    ],
+    "howTo": [
+      {
+        "title": "Chạy nhẹ — 2 phút",
+        "detail": "Chạy nhẹ quanh sân, vòng hai thêm nâng cao đùi và đá gót chạm mông."
+      },
+      {
+        "title": "Chuỗi linh hoạt động — 3 phút",
+        "detail": "Vung chân, lunge đi bộ, xoay hông và inchworm. Mở hông, gân kheo và cổ chân."
+      },
+      {
+        "title": "Đánh thức cơ đúng trọng tâm buổi tập — 2 phút",
+        "detail": "Ngày tập sức mạnh chân: glute bridge và squat không tạ. Ngày tập ném hoặc kỹ năng: bài vai, tay và một chuỗi core ngắn."
+      },
+      {
+        "title": "Mẫu di chuyển — 2 phút",
+        "detail": "Slide phòng thủ, chạy lùi và đổi hướng, tăng dần cường độ mỗi lượt."
+      },
+      {
+        "title": "Tăng tốc lên tốc độ tối đa — 1 đến 2 phút",
+        "detail": "Sprint tăng dần kết thúc ở tốc độ trận đấu, để bài tập đầu tiên của buổi tập vào nhịp ngay."
+      }
+    ],
+    "coachingPoints": [
+      "Xác định trọng tâm buổi tập, rồi chọn phần đánh thức cơ phù hợp",
+      "Giữ phần khởi động dưới 10 phút — dành năng lượng cho buổi tập",
+      "Di chuyển có chủ đích; khởi động cẩu thả kéo theo buổi tập cẩu thả",
+      "Kết thúc ở tốc độ tối đa để không có khoảng trống trước bài tập đầu tiên"
+    ],
+    "commonMistakes": [
+      "Ngày nào cũng chỉ chạy nhẹ và giãn cơ qua loa",
+      "Bỏ phần đánh thức cơ vào ngày tập kỹ năng",
+      "Khởi động 20 phút rồi bắt đầu buổi tập trong trạng thái mệt"
+    ],
+    "setsReps": "Chạy một lần đầu mỗi buổi tập (≈8–10 phút). Rút ngắn chuỗi linh hoạt vào ngày hồi phục nhẹ.",
+    "basketballTransfer": "Chuẩn bị đúng trọng tâm giúp chân sẵn sàng cho khối sức mạnh, vai sẵn sàng cho khối ném rổ, và bài tập đầu tiên luôn bắt đầu với chất lượng cao nhất.",
+    "progression": [
+      "Beginner: làm đúng theo mẫu từng bước",
+      "Intermediate: tự điều chỉnh phần đánh thức cơ theo trọng tâm buổi tập",
+      "Advanced: thêm một bài mồi đặc thù (ví dụ: kỹ thuật tiếp đất trước khối nhảy plyometric)"
+    ],
+    "tags": [
+      "khởi động",
+      "buổi tập",
+      "chuẩn bị vận động",
+      "giảm rủi ro chấn thương",
+      "routine"
+    ],
+    "duration": "8–10 phút"
+  }
+}

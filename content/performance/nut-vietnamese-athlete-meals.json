@@ -1,0 +1,174 @@
+{
+  "basketballTransfer": "Consistent fueling means full legs in the fourth quarter, sharper decisions late in games, and faster recovery between practices.",
+  "category": "vietnamese-meals",
+  "coachingPoints": [
+    "Rice is fuel, not the enemy — players who train hard need carbs",
+    "Pair protein with carbs after every session (eggs, chicken, fish, tofu)",
+    "Fruit and yogurt beat candy when you crave something sweet",
+    "Drink water with every meal, not just at practice",
+    "Game-day rule: eat only foods you have already tried before"
+  ],
+  "commonMistakes": [
+    "Skipping meals to 'get lighter' — energy drops before the legs do",
+    "Eating only vegetables before a hard session — not enough fuel",
+    "Deep-frying everything: same food, twice the oil, half the energy",
+    "Copying a pro's diet exactly — bodies and schedules differ",
+    "Post-game: waiting hours to eat because you're not hungry yet"
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "A practical guide to real Vietnamese dishes for basketball players: which food groups fuel training and games, what each group gives you, and flexible combo examples for pre-practice, post-practice, and game day — no rigid meal plans.",
+  "duration": "15 min",
+  "equipment": [
+    "Basic kitchen setup"
+  ],
+  "goal": [
+    "get-stronger",
+    "conditioning"
+  ],
+  "howTo": [
+    {
+      "detail": "Cơm with chicken, pork, beef, fish, eggs, or tofu is the perfect athlete plate: rice gives carbs for energy, the main dish gives protein for muscle recovery, and cooked vegetables plus fruit round it out. Eat a full bowl — small portions are for rest days, not training days.",
+      "title": "Rice + main dishes: the fuel base"
+    },
+    {
+      "detail": "A bowl of phở bò or bún thịt nướng is an excellent pre-training meal 2–3 hours before practice: noodles for carbs, beef or pork for protein, broth for fluid and salt. Ask for extra noodles on hard training days and go easy on fried toppings like hành phi.",
+      "title": "Noodle soups: phở, bún, miến, hủ tiếu"
+    },
+    {
+      "detail": "Bánh mì trứng or bánh mì thịt is a solid on-the-go meal. Xôi gà gives fast carbs before a session, while cháo thịt bằm is gentle on the stomach when you feel nervous before a game. Choose grilled over deep-fried fillings when you can.",
+      "title": "Bánh mì, xôi, cháo: quick and flexible"
+    },
+    {
+      "detail": "Bananas are the classic basketball snack — fast carbs, easy to carry. Sữa, sữa chua, and đậu nành add protein and calcium; khoai lang luộc is a great slow carb. A handful of peanuts or cashews covers healthy fats. These fill the gaps between main meals.",
+      "title": "Fruit, milk, yogurt, nuts: the supporting cast"
+    },
+    {
+      "detail": "Pre-practice (2–3h before): cơm gà + rau, or phở bò. Post-practice (within 2h): cơm cá/chicken + extra vegetables + fruit, or bánh mì trứng + sữa. Game day: eat only dishes you have tried before, keep it simple and familiar, and finish your main meal 3–4 hours before tip-off. These are examples, not a fixed menu — mix and match.",
+      "title": "Flexible combo examples"
+    }
+  ],
+  "hub": "nutrition",
+  "id": "perf-nut-vietnamese-athlete-meals",
+  "level": "beginner",
+  "positions": [
+    "all"
+  ],
+  "progression": [
+    "Beginner: eat 3 real meals a day — no skipping, rice is allowed",
+    "Intermediate: add a pre-practice and post-practice eating routine with familiar dishes",
+    "Advanced: match plate size and timing to training load across the week (light day, hard day, game day)"
+  ],
+  "references": [
+    "FIBA — Nutrition guidelines for basketball players",
+    "NBA Academy — Fueling for performance",
+    "USA Basketball — Nutrition basics for young athletes"
+  ],
+  "relatedTopics": [
+    "nut-performance-plate",
+    "nut-food-library-carbs",
+    "nut-food-library-protein",
+    "hyd-hydration-basics",
+    "rec-post-game-recovery"
+  ],
+  "setsReps": "Build every main meal from the plate template: carbs + protein + vegetables/fruit + water, 3 times a day.",
+  "slug": "nut-vietnamese-athlete-meals",
+  "subcategory": "staples",
+  "tags": [
+    "nutrition",
+    "vietnamese food",
+    "meal ideas",
+    "carbs",
+    "protein",
+    "game day",
+    "fueling"
+  ],
+  "title": "Vietnamese Athlete Meals",
+  "trainingPhase": [
+    "off-season",
+    "pre-season",
+    "in-season",
+    "game-day",
+    "recovery-day"
+  ],
+  "vi": {
+    "basketballTransfer": "Ăn đều và đủ giúp chân còn sức ở hiệp cuối, quyết định tỉnh táo cuối trận, hồi phục nhanh giữa các buổi tập.",
+    "coachingPoints": [
+      "Cơm là nhiên liệu, không phải kẻ thù — tập nặng thì cần carbs",
+      "Sau mỗi buổi tập, kẹp đạm với carbs (trứng, thịt gà, cá, đậu phụ)",
+      "Thèm ngọt thì chọn trái cây, sữa chua thay vì kẹo",
+      "Uống nước trong mỗi bữa ăn, không chỉ lúc tập",
+      "Quy tắc ngày thi đấu: chỉ ăn món đã từng ăn"
+    ],
+    "commonMistakes": [
+      "Bỏ bữa để 'nhẹ người' — năng lượng tụt trước khi chân mỏi",
+      "Chỉ ăn rau trước buổi tập nặng — thiếu nhiên liệu",
+      "Chiên ngập dầu mọi thứ: cùng món ăn, gấp đôi dầu, nửa năng lượng",
+      "Sao chép y nguyên thực đơn của cầu thủ chuyên nghiệp — cơ thể và lịch tập khác nhau",
+      "Sau trận: đợi hàng giờ mới ăn vì chưa thấy đói"
+    ],
+    "description": "Hướng dẫn thực tế về món ăn Việt cho cầu thủ bóng rổ: nhóm món nào nuôi buổi tập và ngày thi đấu, mỗi nhóm cho bạn gì, và ví dụ combo linh hoạt cho trước tập, sau tập, ngày thi đấu — không áp thực đơn cứng nhắc.",
+    "duration": "15 phút",
+    "howTo": [
+      {
+        "detail": "Cơm với thịt gà, thịt heo, thịt bò, cá, trứng hoặc đậu phụ là đĩa ăn chuẩn của cầu thủ: cơm cho carbs tạo năng lượng, món mặn cho đạm phục hồi cơ, rau luộc/xào và trái cây hoàn thiện bữa ăn. Ăn đầy bát — khẩu phần nhỏ dành cho ngày nghỉ, không phải ngày tập.",
+        "title": "Nhóm cơm + món mặn: nền tảng nhiên liệu"
+      },
+      {
+        "detail": "Một tô phở bò hay bún thịt nướng là bữa ăn tuyệt vời trước buổi tập 2–3 tiếng: bánh phở cho carbs, thịt bò/thịt heo cho đạm, nước dùng cho nước và muối. Ngày tập nặng gọi thêm bánh, hạn chế topping chiên như hành phi.",
+        "title": "Nhóm phở, bún, miến, hủ tiếu"
+      },
+      {
+        "detail": "Bánh mì trứng hay bánh mì thịt là bữa ăn chắc bụng khi di chuyển. Xôi gà cho carbs nhanh trước buổi tập, cháo thịt bằm nhẹ bụng khi hồi hộp trước trận. Ưu tiên nhân nướng thay vì nhân chiên ngập dầu khi có thể.",
+        "title": "Nhóm bánh mì, xôi, cháo: nhanh và linh hoạt"
+      },
+      {
+        "detail": "Chuối là snack kinh điển của bóng rổ — carbs nhanh, dễ mang theo. Sữa, sữa chua và sữa đậu nành bổ sung đạm và canxi; khoai lang luộc là carbs chậm tuyệt vời. Một nắm đậu phộng hay hạt điều lo phần chất béo tốt. Nhóm này lấp khoảng trống giữa các bữa chính.",
+        "title": "Nhóm trái cây, sữa, sữa chua, các loại hạt: đội hỗ trợ"
+      },
+      {
+        "detail": "Trước tập (2–3 tiếng): cơm gà + rau, hoặc phở bò. Sau tập (trong 2 tiếng): cơm cá/thịt gà + thêm rau + trái cây, hoặc bánh mì trứng + sữa. Ngày thi đấu: chỉ ăn món đã từng ăn, giữ đơn giản và quen thuộc, kết thúc bữa chính trước giờ bóng lăn 3–4 tiếng. Đây là ví dụ, không phải thực đơn cố định — cứ kết hợp linh hoạt.",
+        "title": "Ví dụ combo linh hoạt"
+      }
+    ],
+    "progression": [
+      "Cơ bản: ăn 3 bữa thật mỗi ngày — không bỏ bữa, cơm được phép ăn",
+      "Trung cấp: thêm thói quen ăn trước và sau buổi tập bằng món quen thuộc",
+      "Nâng cao: điều chỉnh cỡ đĩa và thời điểm ăn theo tải tập của từng ngày (ngày nhẹ, ngày nặng, ngày thi đấu)"
+    ],
+    "setsReps": "Mỗi bữa chính dựng theo mẫu đĩa ăn: carbs + đạm + rau/trái cây + nước, 3 lần mỗi ngày.",
+    "tags": [
+      "dinh dưỡng",
+      "món việt",
+      "bữa ăn",
+      "carbs",
+      "đạm",
+      "ngày thi đấu",
+      "nạp năng lượng"
+    ],
+    "title": "Các món ăn Việt Nam cho cầu thủ bóng rổ",
+    "whatItDevelops": [
+      "Nạp năng lượng bằng món Việt quen thuộc",
+      "Nhận biết đĩa ăn cân bằng",
+      "Ăn đúng thời điểm quanh buổi tập",
+      "Thói quen ăn bền vững, không cần thực phẩm nhập khẩu"
+    ],
+    "whyBasketball": [
+      "Bóng rổ cần carbs để bứt tốc và bật nhảy, cần đạm để hồi phục, và cần đủ năng lượng cho buổi tập dài",
+      "Ăn món mình thích luôn bền hơn 'thực đơn hoàn hảo' rồi bỏ dở sau một tuần",
+      "Món quen thuộc như cơm, bún phở, trứng, cá, trái cây đã đủ cho cầu thủ",
+      "Ngày thi đấu chỉ ăn món đã quen — không thử món mới trước giờ bóng lăn"
+    ]
+  },
+  "whatItDevelops": [
+    "Fueling with familiar Vietnamese food",
+    "Balanced plate awareness",
+    "Practical meal timing around training",
+    "Sustainable eating habits without imported supplements"
+  ],
+  "whyBasketball": [
+    "Basketball needs carbs for sprinting and jumping, protein for recovery, and enough total food for long sessions",
+    "Eating foods you actually like beats any 'perfect' plan you quit in a week",
+    "Vietnamese staples like rice, noodles, eggs, fish, and fruit already cover what athletes need",
+    "Game day demands familiar food — never experiment with new dishes before a game"
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "id": "perf-ap-3-day-basketball-strength",
+  "slug": "ap-3-day-basketball-strength",
+  "hub": "athletic-performance",
+  "category": "programs",
+  "subcategory": "3-day-strength",
+  "title": "3-Day Basketball Strength Program",
+  "description": "A simple three-day strength plan for the off-season: two heavy days for lower and upper body, one power day. Built for basketball, not bodybuilding.",
+  "level": "intermediate",
+  "positions": [
+    "all"
+  ],
+  "trainingPhase": [
+    "off-season"
+  ],
+  "goal": [
+    "get-stronger"
+  ],
+  "duration": "45–60 min",
+  "equipment": [
+    "Full gym access",
+    "Barbell",
+    "Dumbbells",
+    "Plyo box"
+  ],
+  "whatItDevelops": [
+    "Lower-body max strength",
+    "Upper-body push and pull strength",
+    "Core stability",
+    "Bone and tendon resilience"
+  ],
+  "whyBasketball": [
+    "Stronger legs finish through contact and rebound with more authority.",
+    "Upper-body strength protects you on drives and box outs.",
+    "A stronger body holds up better over a long season."
+  ],
+  "howTo": [
+    {
+      "title": "Day 1 — Lower-body strength",
+      "detail": "Back squat 4x5, Romanian deadlift 3x8, walking lunge 2x10 each leg, calf raises 2x15. Rest 2-3 minutes between heavy sets."
+    },
+    {
+      "title": "Day 2 — Upper body + core",
+      "detail": "Bench press or overhead press 4x6, single-arm dumbbell row 3x10 each side, push-ups 2x max, dead bug 3x12, side plank 3x30s each side."
+    },
+    {
+      "title": "Day 3 — Power + single-leg",
+      "detail": "Box jump 4x5, Bulgarian split squat 3x8 each leg, medicine-ball chest pass 3x8, dumbbell hip hinge 3x10. Finish with a 5-minute core finisher."
+    },
+    {
+      "title": "Sample weekly schedule",
+      "detail": "Monday Day 1, Wednesday Day 2, Friday Day 3. Fill the gaps with light court work or mobility. Take the weekend fully off or shoot lightly."
+    },
+    {
+      "title": "Recovery rules",
+      "detail": "Sleep 8+ hours. Eat protein within 2 hours after lifting. Keep at least 48 hours between hard sessions. Deload every 4th week."
+    }
+  ],
+  "coachingPoints": [
+    "Warm up 10 minutes before every session.",
+    "Move the bar fast, control it on the way down.",
+    "Leave 1-2 reps in the tank on heavy lifts.",
+    "Exhale on the effort.",
+    "Track your numbers every week."
+  ],
+  "commonMistakes": [
+    "Lifting heavy the day before a game.",
+    "Skipping legs and only training chest and arms.",
+    "Adding weight before the form is solid.",
+    "No deload weeks — always maxing out."
+  ],
+  "setsReps": "Day 1: 4-5 sets of 4-6 reps, heavy. Day 2: 3-4 sets of 6-12 reps, moderate. Day 3: 3-4 sets of 5-8 explosive reps, moderate. Rest 2-3 min on heavy lifts, 60-90 s on accessories.",
+  "basketballTransfer": "Strength from squats and deadlifts shows up when you hold your position under the rim. Power work transfers directly to first-step quickness and vertical jump.",
+  "progression": [
+    "Beginner: 2 full-body days per week, light weights, learn the movements.",
+    "Intermediate: this 3-day plan, adding small weight each week.",
+    "Advanced: add a 4th day or Olympic lift variations (clean, snatch) with a qualified coach."
+  ],
+  "relatedTopics": [
+    "nut-protein-for-basketball",
+    "ip-warm-up-5-minute",
+    "rec-post-practice-cooldown",
+    "nut-post-training-recovery-meal"
+  ],
+  "tags": [
+    "strength",
+    "off-season",
+    "gym",
+    "full-body"
+  ],
+  "references": [
+    "NSCA — Essentials of Strength Training and Conditioning (strength training for basketball)",
+    "USA Basketball — Strength and conditioning guidelines",
+    "FIBA — Physical preparation resources"
+  ],
+  "dateUpdated": "2026-10-06",
+  "vi": {
+    "title": "Chương trình sức mạnh 3 buổi/tuần (3-day strength)",
+    "description": "Giáo án 3 buổi/tuần cho giai đoạn nghỉ: hai buổi nặng cho thân dưới và thân trên, một buổi power. Tập để chơi bóng rổ, không phải thể hình.",
+    "duration": "45–60 phút",
+    "whatItDevelops": [
+      "Sức mạnh tối đa thân dưới",
+      "Sức mạnh đẩy và kéo thân trên",
+      "Ổn định vùng core",
+      "Độ bền xương và gân"
+    ],
+    "whyBasketball": [
+      "Chân khỏe giúp dứt điểm qua va chạm và rebound chắc chắn hơn.",
+      "Thân trên khỏe bảo vệ đường lên rổ và khi box out.",
+      "Cơ thể khỏe hơn trụ được cả mùa giải dài."
+    ],
+    "howTo": [
+      {
+        "title": "Ngày 1 — Sức mạnh thân dưới",
+        "detail": "Back squat 4x5, Romanian deadlift 3x8, walking lunge 2x10 mỗi chân, calf raises 2x15. Nghỉ 2-3 phút giữa các hiệp nặng."
+      },
+      {
+        "title": "Ngày 2 — Thân trên + core",
+        "detail": "Bench press hoặc overhead press 4x6, dumbbell row một tay 3x10 mỗi bên, chống đẩy 2x tối đa, dead bug 3x12, side plank 3x30 giây mỗi bên."
+      },
+      {
+        "title": "Ngày 3 — Power + chân đơn",
+        "detail": "Box jump 4x5, Bulgarian split squat 3x8 mỗi chân, chest pass với bóng medicine 3x8, hip hinge với tạ đơn 3x10. Kết thúc bằng 5 phút core."
+      },
+      {
+        "title": "Lịch tuần mẫu",
+        "detail": "Thứ 2 ngày 1, thứ 4 ngày 2, thứ 6 ngày 3. Các ngày xen kẽ tập nhẹ trên sân hoặc mobility. Cuối tuần nghỉ hẳn hoặc ném rổ nhẹ."
+      },
+      {
+        "title": "Nguyên tắc hồi phục",
+        "detail": "Ngủ từ 8 tiếng trở lên. Ăn protein trong 2 giờ sau khi tập. Cách nhau ít nhất 48 giờ giữa các buổi nặng. Tuần thứ 4 giảm tải."
+      }
+    ],
+    "coachingPoints": [
+      "Khởi động 10 phút trước mỗi buổi tập.",
+      "Đẩy tạ nhanh, hạ tạ chậm có kiểm soát.",
+      "Giữ lại 1-2 rep dự phòng ở các mức nặng.",
+      "Thở ra khi gắng sức.",
+      "Ghi số liệu tập mỗi tuần."
+    ],
+    "commonMistakes": [
+      "Tập nặng sát ngày thi đấu.",
+      "Chỉ tập ngực, tay mà bỏ chân.",
+      "Tăng tạ khi kỹ thuật chưa chắc.",
+      "Không có tuần giảm tải, tuần nào cũng max."
+    ],
+    "setsReps": "Ngày 1: 4-5 hiệp x 4-6 lần, tạ nặng. Ngày 2: 3-4 hiệp x 6-12 lần, tạ vừa. Ngày 3: 3-4 hiệp x 5-8 lần bùng nổ, tạ vừa. Nghỉ 2-3 phút ở mức nặng, 60-90 giây ở bài phụ.",
+    "basketballTransfer": "Sức mạnh từ squat và deadlift thể hiện khi giữ vị trí dưới rổ. Bài power chuyển thẳng sang bước đầu nhanh và bật nhảy.",
+    "progression": [
+      "Mới bắt đầu: 2 buổi toàn thân/tuần, tạ nhẹ, học kỹ thuật động tác.",
+      "Trung cấp: giáo án 3 buổi này, tăng tạ nhẹ mỗi tuần.",
+      "Nâng cao: thêm buổi thứ 4 hoặc biến thể cử tạ (clean, snatch) với HLV có chuyên môn."
+    ],
+    "tags": [
+      "sức mạnh",
+      "giai đoạn nghỉ",
+      "tập gym",
+      "toàn thân"
+    ]
+  }
+}

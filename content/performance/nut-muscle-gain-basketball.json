@@ -1,0 +1,150 @@
+{
+  "basketballTransfer": "Useful muscle shows up as stronger finishes through contact, better box-outs, and holding your ground on defense — without losing your first step.",
+  "category": "goals",
+  "coachingPoints": [
+    "Off-season is the window — gaining during the competitive season is much harder",
+    "Track body weight weekly, same morning; don't panic over daily changes",
+    "If your vertical or sprint times drop, the surplus is too big — pull back",
+    "Guards: you need strength too, just with an even smaller surplus"
+  ],
+  "commonMistakes": [
+    "Eating everything in sight and gaining fat, not muscle",
+    "Skipping strength training and expecting food alone to build muscle",
+    "Gaining 3 kg in a month then wondering why the vertical dropped",
+    "Copying a bodybuilder's bulk diet with zero basketball conditioning"
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "How basketball players add useful muscle without turning into bodybuilders: a small steady energy surplus, protein spread through the day, strength training, and sleep.",
+  "duration": "9 min",
+  "equipment": [
+    "Kitchen scale (optional)"
+  ],
+  "goal": [
+    "get-stronger",
+    "explosive"
+  ],
+  "howTo": [
+    {
+      "detail": "Add roughly one extra snack or a slightly bigger dinner daily. Gain slowly — about 0.25–0.5 kg per week at most. Principles and flexible examples, not a rigid menu: adjust to your appetite, schedule, and budget.",
+      "title": "Eat slightly more, not massively more"
+    },
+    {
+      "detail": "Hit your daily protein range across 3–4 meals — muscle grows between meals, not just after shakes. (See the protein article for the target range.)",
+      "title": "Keep protein spread through the day"
+    },
+    {
+      "detail": "2–4 strength sessions per week focused on legs, hips, and core. Muscle without strength training is just weight.",
+      "title": "Lift with a basketball plan"
+    },
+    {
+      "detail": "Muscle is built overnight. Short sleep caps your gains no matter how well you eat.",
+      "title": "Sleep like it's training"
+    }
+  ],
+  "hub": "nutrition",
+  "id": "perf-nut-muscle-gain-basketball",
+  "level": "intermediate",
+  "positions": [
+    "all"
+  ],
+  "progression": [
+    "Beginner: add one protein-rich snack daily and start 2 strength sessions/week",
+    "Intermediate: track weight weekly and adjust food up or down",
+    "Advanced: periodize nutrition with training blocks and monitor performance metrics"
+  ],
+  "references": [
+    "IOC Consensus Statement on Sports Nutrition",
+    "ACSM Position Stand: Nutrition and Athletic Performance",
+    "NSCA Essentials of Strength Training and Conditioning"
+  ],
+  "relatedTopics": [
+    "nut-protein-basketball",
+    "ap-basketball-conditioning",
+    "rec-sleep-for-athletes",
+    "ip-training-load"
+  ],
+  "setsReps": "Small daily surplus + protein target + 2–4 strength sessions/week; weigh in weekly",
+  "slug": "nut-muscle-gain-basketball",
+  "subcategory": "muscle-gain",
+  "tags": [
+    "nutrition",
+    "muscle gain",
+    "strength",
+    "off-season",
+    "protein"
+  ],
+  "title": "Gaining Muscle for Basketball",
+  "trainingPhase": [
+    "off-season",
+    "pre-season"
+  ],
+  "vi": {
+    "basketballTransfer": "Cơ bắp hữu ích thể hiện ở các pha lên rổ mạnh qua va chạm, box out tốt hơn và đứng vững khi phòng thủ — mà không mất bước đầu tiên.",
+    "coachingPoints": [
+      "Giai đoạn nghỉ là cửa sổ vàng — tăng cơ trong mùa giải khó hơn nhiều",
+      "Cân mỗi tuần một lần vào cùng buổi sáng, đừng hoảng loạn vì thay đổi từng ngày",
+      "Nếu sức bật hoặc tốc độ chạy giảm, mức thặng dư đang quá lớn — giảm lại",
+      "Hậu vệ cũng cần sức mạnh, chỉ là mức thặng dư càng phải nhỏ hơn"
+    ],
+    "commonMistakes": [
+      "Ăn mọi thứ thấy được rồi tăng mỡ chứ không tăng cơ",
+      "Bỏ tập sức mạnh mà mong thức ăn tự biến thành cơ",
+      "Tăng 3 kg trong một tháng rồi thắc mắc sao bật thấp hẳn",
+      "Sao chép chế độ ăn của dân thể hình mà không tập thể lực bóng rổ"
+    ],
+    "description": "Cách cầu thủ bóng rổ tăng cơ hữu ích mà không biến thành dân thể hình: thặng dư năng lượng nhỏ và ổn định, đạm chia đều trong ngày, tập sức mạnh và ngủ đủ.",
+    "duration": "9 phút",
+    "howTo": [
+      {
+        "detail": "Thêm khoảng một bữa phụ hoặc tăng nhẹ bữa tối mỗi ngày. Tăng chậm — tối đa khoảng 0,25–0,5 kg mỗi tuần. Đây là nguyên tắc và ví dụ linh hoạt, không phải thực đơn cứng: điều chỉnh theo khẩu vị, lịch trình và túi tiền.",
+        "title": "Ăn nhiều hơn một chút, không phải nhiều gấp đôi"
+      },
+      {
+        "detail": "Đạt mức đạm ngày qua 3–4 bữa — cơ phát triển giữa các bữa, không chỉ sau ly sữa protein. (Xem bài về đạm để biết khoảng mục tiêu.)",
+        "title": "Chia đạm đều trong ngày"
+      },
+      {
+        "detail": "2–4 buổi tập sức mạnh mỗi tuần, tập trung chân, hông và core. Tăng cơ mà không tập sức mạnh chỉ là tăng cân.",
+        "title": "Tập sức mạnh theo giáo án bóng rổ"
+      },
+      {
+        "detail": "Cơ bắp được xây trong lúc ngủ. Thiếu ngủ thì ăn tốt mấy cũng hạn chế tăng cơ.",
+        "title": "Ngủ như một buổi tập"
+      }
+    ],
+    "progression": [
+      "Cơ bản: thêm một bữa phụ giàu đạm mỗi ngày và bắt đầu 2 buổi tập sức mạnh/tuần",
+      "Trung cấp: theo dõi cân nặng hàng tuần và điều chỉnh lượng ăn lên xuống",
+      "Nâng cao: điều chỉnh dinh dưỡng theo từng giai đoạn tập và theo dõi chỉ số thi đấu"
+    ],
+    "setsReps": "Thặng dư nhỏ mỗi ngày + đạt mức đạm + 2–4 buổi tập sức mạnh/tuần; cân mỗi tuần một lần",
+    "tags": [
+      "dinh dưỡng",
+      "tăng cơ",
+      "sức mạnh",
+      "giai đoạn nghỉ",
+      "đạm"
+    ],
+    "title": "Tăng cơ cho cầu thủ bóng rổ",
+    "whatItDevelops": [
+      "Cơ nạc phục vụ va chạm và sức mạnh",
+      "Thói quen ăn thặng dư thông minh",
+      "Duy trì tập sức mạnh đều đặn"
+    ],
+    "whyBasketball": [
+      "Cơ bắp thêm bảo vệ khớp trong va chạm và tạo lực cho các pha lên rổ giữa đám đông",
+      "Cầu thủ khỏe hơn giữ được vị trí khi tranh bóng bật bảng và phòng thủ dưới rổ",
+      "Nhưng tăng cân quá nhanh giết chết tốc độ và sức bật — mức thặng dư phải giữ nhỏ"
+    ]
+  },
+  "whatItDevelops": [
+    "Lean muscle for contact and power",
+    "Smart surplus eating habit",
+    "Strength-training consistency"
+  ],
+  "whyBasketball": [
+    "Extra muscle protects joints in contact and powers finishes through traffic",
+    "Stronger players hold position for rebounds and post defense",
+    "But fast weight gain kills speed and vertical — the surplus must stay small"
+  ]
+}

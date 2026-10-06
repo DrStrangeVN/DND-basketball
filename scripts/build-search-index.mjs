@@ -46,6 +46,16 @@ if (existsSync(join(CONTENT, "glossary.json"))) {
       titleVi: t.term, descriptionVi: t.vi?.definition, tagsVi: ["thuật ngữ", "định nghĩa"] });
   }
 }
+if (existsSync(join(CONTENT, "performance"))) {
+  const performanceUrl = (p) => `/performance/${p.hub}/${p.slug}`;
+  for (const f of readdirSync(join(CONTENT, "performance")).filter((f) => f.endsWith(".json"))) {
+    const p = read(join(CONTENT, "performance", f));
+    idx.push({ type: "performance", id: p.slug, title: p.title, description: p.description, hub: p.hub,
+      subcategory: p.category, level: p.level, ages: [], positions: p.positions,
+      tags: [...(p.tags ?? []), ...(p.goal ?? [])], url: performanceUrl(p),
+      titleVi: p.vi?.title, descriptionVi: p.vi?.description, tagsVi: p.vi?.tags });
+  }
+}
 
 mkdirSync(OUT, { recursive: true });
 writeFileSync(join(OUT, "search-index.json"), JSON.stringify(idx));

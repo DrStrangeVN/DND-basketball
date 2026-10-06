@@ -2,7 +2,9 @@ import type { Metadata } from "next";
 import {
   getAllArticles, getArticleBySlug, getAllDrills, getAllPaths, getAllWorkouts,
   getFilms, getCourtVision, conceptOfDay, latestArticles, articleUrl,
+  getPerformanceByHub, performanceOfDay,
 } from "@/lib/content";
+import { performanceUrl } from "@/lib/urls";
 import HomeClient, { type HomeData } from "@/components/HomeClient";
 import { toArticleCard, toDrillCard } from "@/lib/types";
 
@@ -29,6 +31,20 @@ export default function Home() {
   const drillsCount = getAllDrills().length;
   const pathsCount = getAllPaths().length;
 
+  const PERF_HUBS = ["athletic-performance", "recovery", "nutrition", "hydration", "injury-prevention"];
+  const perfCounts: Record<string, number> = {};
+  for (const h of PERF_HUBS) perfCounts[h] = getPerformanceByHub(h).length;
+  const todayPerf = ["athletic-performance", "recovery", "nutrition", "hydration"]
+    .map((hub) => {
+      const p = performanceOfDay(hub);
+      return p ? {
+        hub, title: p.title, titleVi: p.vi.title,
+        description: p.description, descriptionVi: p.vi.description,
+        url: performanceUrl(p.hub, p.slug),
+      } : null;
+    })
+    .filter((x): x is NonNullable<typeof x> => Boolean(x));
+
   const data: HomeData = {
     articleCount: articles.length,
     concept,
@@ -48,6 +64,8 @@ export default function Home() {
     workoutsCount,
     drillsCount,
     pathsCount,
+    perfCounts,
+    todayPerf,
     quickLearn: QUICK_LEARN.map((slug) => {
       const a = getArticleBySlug(slug);
       return { slug, url: a ? articleUrl(a) : "/learn" };

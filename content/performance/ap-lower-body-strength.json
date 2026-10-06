@@ -1,0 +1,175 @@
+{
+  "basketballTransfer": "Leg strength becomes vertical jump, first-step burst, and the ability to hold your ground in the post. It also gives you the brakes to stop and change direction without wasted steps.",
+  "category": "strength",
+  "coachingPoints": [
+    "Push the floor away — every rep ends with full hip extension.",
+    "Control the lowering phase. Strength lives there.",
+    "Knees track over toes. Never let them cave in.",
+    "Rest 2–3 minutes between heavy sets. Power needs recovery.",
+    "Pair this session with landing practice for full transfer."
+  ],
+  "commonMistakes": [
+    "Cutting squats short above parallel.",
+    "Letting the knees collapse inward under load.",
+    "Bouncing out of the bottom of the squat.",
+    "Training legs heavy the day before a game."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "Build the legs that basketball runs on: squat, lunge, step-up, and Romanian deadlift. Stronger legs mean higher jumps, harder box-outs, and cleaner first steps.",
+  "duration": "20–30 min",
+  "equipment": [
+    "Squat rack",
+    "Dumbbells",
+    "Box"
+  ],
+  "goal": [
+    "get-stronger",
+    "explosive"
+  ],
+  "howTo": [
+    {
+      "detail": "Bike or jog, then bodyweight squats, lunges, and leg swings. Open the hips.",
+      "title": "Warm up 5 minutes"
+    },
+    {
+      "detail": "Bar on your upper back or dumbbell at your chest. Break at the hips, sit to parallel, drive up hard. Keep your chest up.",
+      "title": "Back or goblet squat"
+    },
+    {
+      "detail": "Dumbbells in front of your thighs. Hinge back, flat back, lower to mid-shin. Drive hips through to stand.",
+      "title": "Romanian deadlift"
+    },
+    {
+      "detail": "Long stride, front knee over ankle, back knee toward the floor. Push through the front heel to step forward.",
+      "title": "Walking lunge"
+    },
+    {
+      "detail": "Full foot on the box. Drive through the heel, stand tall, lower slow. Don't push off the back leg.",
+      "title": "Step-up"
+    },
+    {
+      "detail": "Slow up, pause at the top, slow down. Ankles finish every jump.",
+      "title": "Calf raise (finisher)"
+    }
+  ],
+  "hub": "athletic-performance",
+  "id": "perf-ap-lower-body-strength",
+  "level": "intermediate",
+  "positions": [
+    "all"
+  ],
+  "progression": [
+    "Beginner: goblet squats and bodyweight lunges, 2 sessions per week.",
+    "Intermediate: barbell back squat and RDL, add single-leg step-ups, 2–3 sessions per week.",
+    "Advanced: heavier barbell work plus contrast sets (heavy squat paired with jumps) under coaching."
+  ],
+  "references": [
+    "NSCA — Essentials of Strength Training and Conditioning",
+    "USA Basketball — Strength & Conditioning Guidelines",
+    "NBA Academy — Lower Body Development"
+  ],
+  "relatedTopics": [
+    "ap-single-leg-strength",
+    "ap-basketball-strength-fundamentals",
+    "ip-landing-mechanics",
+    "rec-post-practice-cooldown",
+    "nut-protein-for-basketball"
+  ],
+  "setsReps": "3–4 sets × 5–8 reps on main lifts; 2–3 sets × 8–10 on step-ups and lunges. Rest 90 seconds to 3 minutes. Adjust load and volume to your coach's program.",
+  "slug": "ap-lower-body-strength",
+  "subcategory": "lower-body",
+  "tags": [
+    "strength",
+    "lower body",
+    "squat",
+    "jumping",
+    "explosive"
+  ],
+  "title": "Lower Body Strength for Basketball",
+  "trainingPhase": [
+    "off-season",
+    "pre-season"
+  ],
+  "vi": {
+    "basketballTransfer": "Sức mạnh chân trở thành khả năng bật nhảy, bước đầu tiên bùng nổ và khả năng giữ vị trí ở khu vực dưới rổ. Nó còn cho bạn 'phanh' để dừng và đổi hướng mà không lãng phí bước chạy.",
+    "coachingPoints": [
+      "Đẩy sàn ra xa — mỗi lần thực hiện kết thúc bằng hông duỗi thẳng hoàn toàn.",
+      "Kiểm soát pha hạ xuống. Sức mạnh nằm ở đó.",
+      "Đầu gối đi theo hướng mũi chân. Không để sập vào trong.",
+      "Nghỉ 2–3 phút giữa các hiệp nặng. Sức bật cần hồi phục.",
+      "Kết hợp buổi này với tập tiếp đất để chuyển hóa tối đa."
+    ],
+    "commonMistakes": [
+      "Squat chưa tới ngang đùi.",
+      "Để đầu gối sập vào trong khi chịu tải.",
+      "Nảy bật ở điểm thấp nhất của squat.",
+      "Tập chân nặng vào ngày trước trận đấu."
+    ],
+    "description": "Xây đôi chân cho bóng rổ: squat, lunge, step-up và Romanian deadlift. Chân khỏe hơn đồng nghĩa bật cao hơn, tranh chấp tốt hơn và bước đầu tiên nhanh hơn.",
+    "duration": "20–30 phút",
+    "howTo": [
+      {
+        "detail": "Đạp xe hoặc chạy nhẹ, rồi squat không tạ, lunge và đá chân. Mở khớp hông.",
+        "title": "Khởi động 5 phút"
+      },
+      {
+        "detail": "Tạ đòn đặt trên lưng trên hoặc ôm tạ đơn trước ngực. Gập hông xuống tới ngang đùi, đẩy lên mạnh. Giữ ngực ngẩng cao.",
+        "title": "Squat tạ đòn hoặc goblet"
+      },
+      {
+        "detail": "Tạ đơn đặt trước đùi. Đẩy hông ra sau, lưng thẳng, hạ tạ tới giữa ống chân. Đẩy hông về trước để đứng lên.",
+        "title": "Romanian deadlift"
+      },
+      {
+        "detail": "Bước dài, đầu gối trước trên mắt cá, đầu gối sau gần chạm sàn. Đẩy bằng gót chân trước để bước tiếp.",
+        "title": "Lunge bước đi"
+      },
+      {
+        "detail": "Đặt nguyên bàn chân lên bục. Đẩy bằng gót chân, đứng thẳng, hạ xuống chậm. Không dùng chân sau đẩy lên.",
+        "title": "Step-up"
+      },
+      {
+        "detail": "Lên chậm, giữ ở đỉnh, xuống chậm. Cổ chân tham gia mọi cú nhảy.",
+        "title": "Nhón gót (kết thúc)"
+      }
+    ],
+    "progression": [
+      "Người mới: goblet squat và lunge không tạ, 2 buổi/tuần.",
+      "Trung cấp: back squat và RDL với tạ đòn, thêm step-up một chân, 2–3 buổi/tuần.",
+      "Nâng cao: tạ đòn nặng hơn kèm hiệp tương phản (squat nặng rồi bật nhảy ngay) dưới sự hướng dẫn của HLV."
+    ],
+    "setsReps": "Bài chính 3–4 hiệp × 5–8 lần; step-up và lunge 2–3 hiệp × 8–10 lần. Nghỉ 90 giây đến 3 phút. Điều chỉnh mức tạ và khối lượng theo giáo án của HLV.",
+    "tags": [
+      "sức mạnh",
+      "thân dưới",
+      "squat",
+      "bật nhảy",
+      "sức bật"
+    ],
+    "title": "Sức mạnh thân dưới cho bóng rổ (lower body strength)",
+    "whatItDevelops": [
+      "Sức mạnh thân dưới tối đa và lặp lại",
+      "Lực bật cho những cú nhảy và bước đầu tiên",
+      "Sức mạnh cơ đùi sau và cơ mông để giảm tốc",
+      "Kiểm soát đầu gối và hông khi chịu tải"
+    ],
+    "whyBasketball": [
+      "Bật nhảy, chạy nước rút và di chuyển ngang đều bắt đầu từ đôi chân.",
+      "Đùi sau và mông khỏe giúp giảm tốc và đổi hướng an toàn.",
+      "Tranh chấp rebound thắng nhờ lực đẩy từ chân.",
+      "Sức mạnh chân chuyển thẳng sang khả năng bật nhảy."
+    ]
+  },
+  "whatItDevelops": [
+    "Maximal and repeat lower-body strength",
+    "Single-push power for jumps and first steps",
+    "Hamstring and glute strength for deceleration",
+    "Knee and hip control under load"
+  ],
+  "whyBasketball": [
+    "Jumping, sprinting, and shuffling all start from the legs.",
+    "Strong hamstrings and glutes help you slow down and change direction safely.",
+    "Rebounding battles are won with leg drive.",
+    "Leg strength carries over directly to vertical jump."
+  ]
+}

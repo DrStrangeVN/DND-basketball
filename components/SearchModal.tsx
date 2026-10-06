@@ -3,10 +3,10 @@ import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import { useRouter } from "next/navigation";
 import { fuzzySearch } from "@/lib/fuzzy-search";
 import { useLanguage, pick } from "@/lib/i18n";
-import { Search, X, BookOpen, Dumbbell, Timer, Route, BookMarked, TrendingUp, ArrowRight } from "lucide-react";
+import { Search, X, BookOpen, Dumbbell, Timer, Route, BookMarked, TrendingUp, ArrowRight, Activity } from "lucide-react";
 
 interface Entry {
-  type: "article" | "drill" | "workout" | "path" | "glossary";
+  type: "article" | "drill" | "workout" | "path" | "glossary" | "performance";
   id: string; title: string; description: string; hub: string;
   subcategory: string; level: string; tags: string[]; url: string;
   titleVi?: string; descriptionVi?: string; tagsVi?: string[];
@@ -14,6 +14,7 @@ interface Entry {
 
 const TYPE_ICON: Record<Entry["type"], typeof BookOpen> = {
   article: BookOpen, drill: Dumbbell, workout: Timer, path: Route, glossary: BookMarked,
+  performance: Activity,
 };
 
 export default function SearchModal() {
@@ -27,7 +28,7 @@ export default function SearchModal() {
 
   const TYPE_LABEL: Record<Entry["type"], string> = {
     article: t("search.articles"), drill: t("search.drills"), workout: t("search.workouts"),
-    path: t("search.paths"), glossary: t("search.glossary"),
+    path: t("search.paths"), glossary: t("search.glossary"), performance: t("search.performance"),
   };
   const POPULAR = lang === "vi"
     ? ["pick and roll", "ném rổ", "phòng thủ zone", "crossover", "giãn đội hình", "euro step"]

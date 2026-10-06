@@ -1,0 +1,155 @@
+{
+  "basketballTransfer": "You play game three like game one — steady fuel between games means no second-half collapse in the semifinal.",
+  "category": "tournament",
+  "coachingPoints": [
+    "Tournament fueling is a marathon strategy, not three separate game days.",
+    "Small and frequent beats big and rare — every time.",
+    "Pack your own food. Venue food is unpredictable.",
+    "Eat on the clock, not on hunger — hunger arrives too late.",
+    "The last game of the day deserves the same fuel as the first."
+  ],
+  "commonMistakes": [
+    "Eating one big meal and sitting for two hours before the next game.",
+    "Skipping food between games because of nerves or schedule chaos.",
+    "Loading up on candy and energy drinks — a spike now, a crash later.",
+    "Forgetting water between games — dehydration compounds across the day."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "Fuel across a multi-game tournament day: small repeated meals between games, portable snacks in your bag, and steady hydration — so game three feels like game one.",
+  "duration": "25 min",
+  "equipment": [
+    "Cooler bag",
+    "Water bottles",
+    "Portable snacks"
+  ],
+  "goal": [
+    "conditioning"
+  ],
+  "howTo": [
+    {
+      "detail": "Tournament day is about grazing, not feasting. Eat a normal breakfast 3–4 hours before game one, then small meals or snacks every 2–3 hours between games. Each bite should be small enough that you could warm up comfortably 45 minutes later.",
+      "title": "Eat small, eat often"
+    },
+    {
+      "detail": "Between games, reach for portable carbs you packed yourself: xôi, bánh mì, chuối, sữa, bánh mì ngọt, or rice balls. These travel well in a gym bag, need no fridge, and digest fast. Avoid anything that needs reheating or sits heavy.",
+      "title": "Pack portable carbs"
+    },
+    {
+      "detail": "Never eat a full heavy meal between games. A big sit-down meal pulls blood to digestion and leaves you sluggish for the next tip-off. If there's a long 4+ hour gap, eat a medium meal early in the gap — not right before the next game.",
+      "title": "Never eat heavy between games"
+    },
+    {
+      "detail": "Sweat loss adds up across three games. Drink water constantly between games, and add an electrolyte drink or lightly salted food (xôi muối vừng, phở) for long hot days. Your bottle should never be empty at a tournament.",
+      "title": "Hydrate all day long"
+    },
+    {
+      "detail": "Plan the day the night before: breakfast time, what goes in the bag, where the gaps are. Tournament schedules shift — having your food with you means a delayed game never becomes a missed meal.",
+      "title": "Plan the day, pack the bag"
+    }
+  ],
+  "hub": "nutrition",
+  "id": "perf-nut-tournament-day-fueling",
+  "level": "intermediate",
+  "positions": [
+    "all"
+  ],
+  "progression": [
+    "Beginner: for your first tournament, pack just three things — bananas, bread, and water — and eat between every game.",
+    "Intermediate: build a repeatable tournament menu (breakfast + 2–3 between-game snacks) and reuse it every tournament.",
+    "Advanced: adjust by schedule — tighter gaps mean smaller snacks, longer gaps allow a real medium meal."
+  ],
+  "relatedTopics": [
+    "nut-post-game-recovery-nutrition",
+    "hyd-electrolytes-explained",
+    "rec-sleep-for-athletes",
+    "ip-training-load"
+  ],
+  "setsReps": "One breakfast + small snacks or meals every 2–3 hours between games; water continuously all day.",
+  "slug": "nut-tournament-day-fueling",
+  "subcategory": "multi-game",
+  "tags": [
+    "tournament",
+    "fueling",
+    "snacks",
+    "multi-game",
+    "carbs"
+  ],
+  "title": "Tournament Day Fueling",
+  "trainingPhase": [
+    "game-day"
+  ],
+  "vi": {
+    "basketballTransfer": "Chơi trận thứ ba như trận thứ nhất — nạp năng lượng đều giữa các trận thì bán kết không bị sụp ở hiệp hai.",
+    "coachingPoints": [
+      "Nạp năng lượng ngày giải là chiến thuật marathon, không phải ba ngày thi đấu riêng lẻ.",
+      "Nhỏ và thường xuyên luôn thắng to và hiếm — mọi lúc.",
+      "Tự mang đồ ăn theo. Đồ ăn ở sân không đoán trước được.",
+      "Ăn theo đồng hồ, đừng đợi đói — đói đến thì đã muộn.",
+      "Trận cuối ngày xứng đáng được nạp năng lượng như trận đầu."
+    ],
+    "commonMistakes": [
+      "Ăn một bữa thật to rồi ngồi ì hai tiếng trước trận tiếp theo.",
+      "Bỏ ăn giữa các trận vì hồi hộp hoặc lịch loạn.",
+      "Nạp kẹo và nước tăng lực — lên nhanh lúc này, tụt nhanh lúc sau.",
+      "Quên uống nước giữa các trận — thiếu nước cộng dồn cả ngày."
+    ],
+    "description": "Nạp năng lượng xuyên suốt ngày thi đấu nhiều trận: bữa nhỏ lặp lại giữa các trận, đồ ăn nhẹ mang theo trong túi, và bù nước đều — để trận thứ ba vẫn như trận thứ nhất.",
+    "duration": "25 phút",
+    "howTo": [
+      {
+        "detail": "Ngày thi đấu giải là ăn lai rai, không phải ăn tiệc. Ăn sáng bình thường 3–4 tiếng trước trận đầu, rồi bữa nhỏ hoặc món ăn nhẹ mỗi 2–3 tiếng giữa các trận. Mỗi lần ăn phải nhẹ đến mức 45 phút sau vẫn khởi động thoải mái.",
+        "title": "Ăn nhỏ, ăn thường xuyên"
+      },
+      {
+        "detail": "Giữa các trận, dùng tinh bột mang theo tự chuẩn bị: xôi, bánh mì, chuối, sữa, bánh mì ngọt. Mấy món này để trong túi đồ tập tốt, không cần tủ lạnh, tiêu hóa nhanh. Tránh món cần hâm nóng hay ăn vào nặng bụng.",
+        "title": "Mang theo tinh bột gọn nhẹ"
+      },
+      {
+        "detail": "Đừng bao giờ ăn một bữa no căng giữa các trận. Bữa to làm cơ thể dồn sức tiêu hóa, vào trận tiếp theo sẽ ì ạch. Nếu khoảng nghỉ dài trên 4 tiếng, ăn một bữa vừa vào đầu khoảng nghỉ — không ăn sát trận sau.",
+        "title": "Không ăn no giữa các trận"
+      },
+      {
+        "detail": "Mồ hôi mất đi cộng dồn qua ba trận. Uống nước liên tục giữa các trận, và thêm nước điện giải hoặc món hơi mặn (xôi muối vừng, phở) cho ngày dài nóng nực. Chai nước ở giải đấu không bao giờ được để cạn.",
+        "title": "Bù nước suốt cả ngày"
+      },
+      {
+        "detail": "Lên kế hoạch từ tối hôm trước: giờ ăn sáng, đồ gì bỏ vào túi, khoảng nghỉ ở đâu. Lịch giải hay thay đổi — mang đồ ăn theo thì trận bị hoãn cũng không thành bữa bị lỡ.",
+        "title": "Lên kế hoạch, xếp đồ vào túi"
+      }
+    ],
+    "progression": [
+      "Mới bắt đầu: giải đầu tiên chỉ cần mang ba thứ — chuối, bánh mì và nước — và ăn giữa mọi trận.",
+      "Nâng cao dần: xây thực đơn giải đấu lặp lại được (bữa sáng + 2–3 món ăn nhẹ giữa trận) và dùng lại mỗi giải.",
+      "Nâng cao: chỉnh theo lịch — khoảng nghỉ ngắn thì món ăn nhỏ hơn, khoảng nghỉ dài thì ăn được một bữa vừa."
+    ],
+    "setsReps": "Một bữa sáng + bữa nhỏ hoặc món ăn nhẹ mỗi 2–3 tiếng giữa các trận; uống nước liên tục cả ngày.",
+    "tags": [
+      "giải đấu",
+      "nạp năng lượng",
+      "ăn nhẹ",
+      "nhiều trận",
+      "tinh bột"
+    ],
+    "title": "Nạp năng lượng ngày thi đấu giải",
+    "whatItDevelops": [
+      "Năng lượng ổn định qua nhiều trận trong ngày",
+      "Thói quen ăn nhỏ, thường xuyên giữa các trận",
+      "Kỹ năng tự chuẩn bị đồ ăn khi thi đấu xa"
+    ],
+    "whyBasketball": [
+      "Giải đấu đòi hỏi chơi 2–3 trận một ngày — không có chiến thuật ăn uống, trận cuối sẽ kiệt sức.",
+      "Ăn nhỏ thường xuyên giữ đường huyết ổn định hơn một bữa to duy nhất.",
+      "Cầu thủ tự mang đồ ăn không bị động khi lịch thi đấu thay đổi."
+    ]
+  },
+  "whatItDevelops": [
+    "Steady energy across multiple games in one day",
+    "A small-and-often eating rhythm between games",
+    "Self-sufficient fueling when playing away"
+  ],
+  "whyBasketball": [
+    "Tournaments demand 2–3 games in a day — without a fueling plan, the last game is played on empty.",
+    "Small frequent meals keep energy steadier than one big meal.",
+    "Players who pack their own food stay in control when schedules change."
+  ]
+}

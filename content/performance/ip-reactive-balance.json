@@ -1,0 +1,156 @@
+{
+  "id": "perf-ip-reactive-balance",
+  "slug": "ip-reactive-balance",
+  "hub": "injury-prevention",
+  "dateUpdated": "2026-10-06",
+  "category": "ankle-prevention",
+  "subcategory": "ankle-resilience",
+  "title": "Reactive Balance Training",
+  "description": "Train balance that survives contact: single-leg holds challenged by ball tosses, light partner pushes, and land-and-hold commands — balance for real game chaos.",
+  "level": "intermediate",
+  "positions": [
+    "all"
+  ],
+  "trainingPhase": [
+    "off-season",
+    "pre-season",
+    "in-season"
+  ],
+  "goal": [
+    "move-better"
+  ],
+  "duration": "10–15 min",
+  "equipment": [
+    "Basketball",
+    "Training partner (recommended)",
+    "Wall"
+  ],
+  "whatItDevelops": [
+    "Single-leg balance under disturbance",
+    "Ankle and hip stabilizing reactions",
+    "Composure through unexpected pushes"
+  ],
+  "whyBasketball": [
+    "Box-out battles, contested rebounds, and drives all involve contact",
+    "Balance that only works in stillness fails in games",
+    "Reactive control reduces the awkward landings that lead to ankle rolls"
+  ],
+  "howTo": [
+    {
+      "title": "Single-leg stance, eyes open — 30 seconds per leg",
+      "detail": "Stand on one leg with a soft knee. Arms relaxed at the sides. Find stillness before adding challenges."
+    },
+    {
+      "title": "Single-leg ball toss — 10 per leg",
+      "detail": "On one leg, toss a ball against a wall and catch it. Keep the hips level and the standing knee steady."
+    },
+    {
+      "title": "Partner light push — 6 per leg",
+      "detail": "Stand on one leg while a partner gives light, unpredictable nudges to the shoulders. Stay upright without stepping down. Pushes must stay light and controlled."
+    },
+    {
+      "title": "Land-and-hold on command — 6 reps",
+      "detail": "Take a small hop. On the partner's call of 'hold', freeze in a single-leg landing. Hold for 3 seconds."
+    },
+    {
+      "title": "Single-leg stance, eyes closed — 15 seconds per leg",
+      "detail": "Remove vision to challenge the ankle's own feedback. Stand near a wall for safety."
+    }
+  ],
+  "coachingPoints": [
+    "The standing knee stays soft and aligned — never locked",
+    "Recover balance with the ankle and hip, not by flailing the arms",
+    "Partner pushes stay light; this is balance training, not wrestling",
+    "Stop if the ankle feels unstable or painful and consult a professional"
+  ],
+  "commonMistakes": [
+    "Locking the standing knee straight",
+    "Grabbing the wall at the first wobble instead of fighting for balance",
+    "Letting partners push too hard and turning it into a shoving match",
+    "Skipping the eyes-closed work because it feels hard"
+  ],
+  "setsReps": "2 rounds of the circuit. Rest 30–45 seconds between rounds.",
+  "basketballTransfer": "Rebounds in traffic, box-out contact, and contested landings all disturb balance. Reactive training keeps players on their feet through the chaos — and landing safely.",
+  "progression": [
+    "Beginner: eyes-open stance and ball toss only",
+    "Intermediate: add light partner pushes and land-and-hold",
+    "Advanced: eyes-closed holds and pushes from multiple directions"
+  ],
+  "relatedTopics": [
+    "ip-balance-basics",
+    "ip-single-leg-landing",
+    "ip-ankle-guide",
+    "ap-single-leg-strength"
+  ],
+  "tags": [
+    "balance",
+    "ankle",
+    "reactive",
+    "injury risk reduction",
+    "single leg"
+  ],
+  "medicalDisclaimer": true,
+  "vi": {
+    "title": "Tập thăng bằng phản ứng",
+    "description": "Rèn thăng bằng chịu được va chạm: giữ một chân trong khi tung bắt bóng, bạn tập đẩy nhẹ, và lệnh tiếp đất giữ tư thế — thăng bằng cho sự hỗn loạn thật của trận đấu.",
+    "whatItDevelops": [
+      "Thăng bằng một chân khi bị nhiễu loạn",
+      "Phản xạ ổn định của cổ chân và hông",
+      "Bình tĩnh trước những cú đẩy bất ngờ"
+    ],
+    "whyBasketball": [
+      "Tranh vị trí box out, rebound tranh chấp và đột phá đều có va chạm",
+      "Thăng bằng chỉ tốt khi đứng yên thì không dùng được trong trận",
+      "Kiểm soát phản ứng giúp giảm các pha tiếp đất vụng về dễ lật cổ chân"
+    ],
+    "howTo": [
+      {
+        "title": "Đứng một chân, mở mắt — 30 giây mỗi chân",
+        "detail": "Đứng một chân, gối hơi gập. Tay thả lỏng hai bên. Tìm sự ổn định trước khi thêm thử thách."
+      },
+      {
+        "title": "Tung bắt bóng một chân — 10 lần mỗi chân",
+        "detail": "Đứng một chân, tung bóng vào tường rồi bắt lại. Giữ hông cân bằng, gối chân trụ ổn định."
+      },
+      {
+        "title": "Bạn tập đẩy nhẹ — 6 lần mỗi chân",
+        "detail": "Đứng một chân trong khi bạn tập đẩy nhẹ, bất ngờ vào vai. Giữ người thẳng, không chạm chân xuống. Cú đẩy phải nhẹ và có kiểm soát."
+      },
+      {
+        "title": "Tiếp đất giữ tư thế theo lệnh — 6 lần",
+        "detail": "Nhảy thấp một cái. Nghe bạn tập hô 'giữ', đóng băng ở tư thế tiếp đất một chân. Giữ 3 giây."
+      },
+      {
+        "title": "Đứng một chân, nhắm mắt — 15 giây mỗi chân",
+        "detail": "Bỏ thị giác để thử thách phản hồi của chính cổ chân. Đứng gần tường cho an toàn."
+      }
+    ],
+    "coachingPoints": [
+      "Gối chân trụ luôn hơi gập và thẳng hàng — không khóa cứng",
+      "Lấy lại thăng bằng bằng cổ chân và hông, không quờ quạng tay",
+      "Bạn tập chỉ đẩy nhẹ; đây là tập thăng bằng, không phải vật nhau",
+      "Dừng ngay nếu cổ chân thấy mất ổn định hoặc đau, tham khảo ý kiến chuyên gia"
+    ],
+    "commonMistakes": [
+      "Khóa cứng gối chân trụ",
+      "Vịn tường ngay khi vừa chao đảo thay vì cố giữ thăng bằng",
+      "Để bạn tập đẩy quá mạnh, biến thành xô đẩy",
+      "Bỏ bài nhắm mắt vì thấy khó"
+    ],
+    "setsReps": "2 vòng chuỗi bài. Nghỉ 30–45 giây giữa các vòng.",
+    "basketballTransfer": "Rebound trong tranh chấp, va chạm khi box out và tiếp đất bị kèm đều làm mất thăng bằng. Tập phản ứng giúp cầu thủ đứng vững giữa hỗn loạn — và tiếp đất an toàn.",
+    "progression": [
+      "Beginner: chỉ đứng mở mắt và tung bắt bóng",
+      "Intermediate: thêm đẩy nhẹ của bạn tập và tiếp đất giữ tư thế",
+      "Advanced: giữ thăng bằng nhắm mắt và đẩy từ nhiều hướng"
+    ],
+    "tags": [
+      "thăng bằng",
+      "cổ chân",
+      "phản ứng",
+      "giảm rủi ro chấn thương",
+      "một chân"
+    ],
+    "duration": "10–15 phút"
+  }
+}

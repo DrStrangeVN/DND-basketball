@@ -1,0 +1,156 @@
+{
+  "id": "perf-ip-ankle-mobility",
+  "slug": "ip-ankle-mobility",
+  "hub": "injury-prevention",
+  "dateUpdated": "2026-10-06",
+  "category": "ankle-prevention",
+  "subcategory": "ankle-resilience",
+  "title": "Ankle Mobility for Basketball",
+  "description": "Build the ankle range basketball demands: dorsiflexion for deep stances and landings, the knee-over-toe pattern, and a simple wall self-check to track your own mobility.",
+  "level": "beginner",
+  "positions": [
+    "all"
+  ],
+  "trainingPhase": [
+    "off-season",
+    "pre-season",
+    "in-season",
+    "recovery-day"
+  ],
+  "goal": [
+    "move-better"
+  ],
+  "duration": "10 min",
+  "equipment": [
+    "Wall",
+    "Mat (optional)"
+  ],
+  "whatItDevelops": [
+    "Ankle dorsiflexion range",
+    "Knee-over-toe movement pattern",
+    "Calf flexibility for deep stances"
+  ],
+  "whyBasketball": [
+    "Deep defensive stances and soft landings both need ankle bend",
+    "Limited ankle mobility pushes extra stress up to the knees",
+    "Mobile ankles let players stay low without the heels lifting"
+  ],
+  "howTo": [
+    {
+      "title": "Calf stretch at the wall — 30 seconds per leg",
+      "detail": "Hands on the wall, one leg back with the heel pressed down and the knee straight. Feel the stretch in the upper calf."
+    },
+    {
+      "title": "Half-kneel ankle rocks — 10 per side",
+      "detail": "In a half-kneeling position, rock the front knee forward over the toes. Keep the heel glued to the floor."
+    },
+    {
+      "title": "Wall knee test (self-check) — 3 attempts per side",
+      "detail": "Half-kneel with the big toe about 10 cm from the wall. Drive the knee forward to touch the wall without the heel lifting. This is a mobility self-check to track your own progress — not a medical diagnosis. If one side is clearly different or there is pain, see a medical professional."
+    },
+    {
+      "title": "Deep squat hold with heels down — 20 seconds × 2",
+      "detail": "Squat as deep as possible while keeping both heels on the floor. Hold onto a rack or doorframe for balance if needed."
+    },
+    {
+      "title": "Tibialis raises — 10 reps",
+      "detail": "Back against a wall, lift the toes toward the shins. Strengthens the front of the shin to balance the calf."
+    }
+  ],
+  "coachingPoints": [
+    "The heel must stay down on every ankle drill",
+    "Move slowly — mobility work is not a race",
+    "Compare left and right; work the tighter side a little more",
+    "Stop any drill that causes sharp pain and consult a professional"
+  ],
+  "commonMistakes": [
+    "Letting the heel lift to fake more range",
+    "Bouncing aggressively at the end range",
+    "Only stretching the calf and skipping the knee-over-toe work",
+    "Treating the wall test as a diagnosis instead of a progress check"
+  ],
+  "setsReps": "1–2 rounds of the circuit, 3–4 times per week. Consistency beats intensity for mobility.",
+  "basketballTransfer": "Mobile ankles support deeper defensive stances, softer landings, and cleaner first steps — with less compensating stress on the knees.",
+  "progression": [
+    "Beginner: hold a support during the squat and ankle rocks",
+    "Intermediate: complete the full circuit unassisted",
+    "Advanced: add a light loaded stretch (e.g., goblet squat hold) once the basics are easy"
+  ],
+  "relatedTopics": [
+    "ip-calf-strength",
+    "ip-ankle-guide",
+    "ip-balance-basics",
+    "rec-post-game-recovery"
+  ],
+  "tags": [
+    "ankle",
+    "mobility",
+    "dorsiflexion",
+    "injury risk reduction",
+    "beginner"
+  ],
+  "medicalDisclaimer": true,
+  "vi": {
+    "title": "Độ linh hoạt cổ chân cho bóng rổ",
+    "description": "Xây dựng biên độ cổ chân mà bóng rổ đòi hỏi: gập mu bàn chân (dorsiflexion) cho tư thế thấp và tiếp đất, mẫu gối vượt mũi chân, và bài tự kiểm tra đơn giản với tường để theo dõi tiến bộ.",
+    "whatItDevelops": [
+      "Biên độ gập mu bàn chân",
+      "Mẫu di chuyển gối vượt mũi chân",
+      "Độ dẻo bắp chân cho tư thế thấp"
+    ],
+    "whyBasketball": [
+      "Tư thế phòng thủ thấp và tiếp đất êm đều cần cổ chân gập tốt",
+      "Cổ chân kém linh hoạt dồn áp lực lên đầu gối",
+      "Cổ chân linh hoạt giúp cầu thủ giữ thấp người mà gót không nhấc lên"
+    ],
+    "howTo": [
+      {
+        "title": "Giãn bắp chân với tường — 30 giây mỗi chân",
+        "detail": "Hai tay chống tường, một chân lùi ra sau, gót ấn xuống sàn, gối duỗi thẳng. Cảm nhận bắp chân trên được kéo giãn."
+      },
+      {
+        "title": "Đưa gối qua mũi chân ở tư thế quỳ nửa — 10 lần mỗi bên",
+        "detail": "Ở tư thế quỳ một gối, đưa gối trước vượt qua mũi chân. Giữ gót chân dính chặt sàn."
+      },
+      {
+        "title": "Bài kiểm tra gối chạm tường (tự kiểm tra) — 3 lần thử mỗi bên",
+        "detail": "Quỳ nửa với ngón chân cái cách tường khoảng 10cm. Đưa gối chạm tường mà gót không nhấc lên. Đây là bài tự kiểm tra linh hoạt để theo dõi tiến bộ — không phải chẩn đoán y tế. Nếu hai bên chênh lệch rõ hoặc có đau, hãy gặp chuyên gia y tế."
+      },
+      {
+        "title": "Giữ squat sâu với gót chạm sàn — 20 giây × 2",
+        "detail": "Squat sâu nhất có thể trong khi hai gót vẫn chạm sàn. Vịn giá hoặc khung cửa để giữ thăng bằng nếu cần."
+      },
+      {
+        "title": "Nâng mũi chân (tibialis raise) — 10 lần",
+        "detail": "Lưng dựa tường, nâng mũi chân về phía ống chân. Tăng sức mạnh mặt trước ống chân để cân bằng với bắp chân."
+      }
+    ],
+    "coachingPoints": [
+      "Gót chân phải chạm sàn ở mọi bài tập cổ chân",
+      "Di chuyển chậm — tập linh hoạt không phải cuộc đua",
+      "So sánh trái và phải; tập bên cứng hơn nhiều hơn một chút",
+      "Dừng ngay bài nào gây đau nhói và tham khảo ý kiến chuyên gia"
+    ],
+    "commonMistakes": [
+      "Nhấc gót lên để giả vờ có biên độ lớn hơn",
+      "Nhún mạnh ở cuối biên độ",
+      "Chỉ giãn bắp chân mà bỏ phần gối vượt mũi chân",
+      "Coi bài kiểm tra với tường như chẩn đoán thay vì theo dõi tiến bộ"
+    ],
+    "setsReps": "1–2 vòng chuỗi bài, 3–4 lần mỗi tuần. Với linh hoạt, đều đặn quan trọng hơn cường độ.",
+    "basketballTransfer": "Cổ chân linh hoạt hỗ trợ tư thế phòng thủ sâu hơn, tiếp đất êm hơn và bước đầu tiên gọn hơn — với ít áp lực bù trừ dồn lên đầu gối.",
+    "progression": [
+      "Beginner: vịn tay khi squat và đưa gối qua mũi chân",
+      "Intermediate: hoàn thành toàn bộ chuỗi không cần vịn",
+      "Advanced: thêm giãn cơ có tải nhẹ (ví dụ: giữ goblet squat) khi các bài cơ bản đã dễ"
+    ],
+    "tags": [
+      "cổ chân",
+      "linh hoạt",
+      "gập mu bàn chân",
+      "giảm rủi ro chấn thương",
+      "người mới"
+    ],
+    "duration": "10 phút"
+  }
+}

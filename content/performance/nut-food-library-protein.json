@@ -1,0 +1,172 @@
+{
+  "basketballTransfer": "Steady protein across the day means muscles rebuild between sessions, contact at the rim hurts less the next day, and strength work actually turns into strength.",
+  "category": "food-library",
+  "coachingPoints": [
+    "Spread protein across the day — the body uses it better in portions",
+    "Every main meal needs a protein anchor: eggs, meat, fish, or tofu",
+    "Post-training protein within 2 hours speeds up recovery",
+    "Plant proteins count — combine beans, tofu, and peanuts through the day",
+    "Milk and yogurt are the easiest protein many players underuse"
+  ],
+  "commonMistakes": [
+    "One giant protein dinner and nothing at breakfast or lunch",
+    "Protein shakes as a meal replacement instead of real food",
+    "Skipping protein on rest days — muscles rebuild on rest days too",
+    "Only chicken breast, getting bored, then quitting the habit",
+    "Ignoring dairy and eggs — the cheapest complete proteins available"
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "A library of protein sources for basketball players — eggs, chicken, fish, beef, tofu, milk, yogurt, beans — and how to spread protein across the day for steady recovery.",
+  "duration": "10 min",
+  "equipment": [
+    "None required"
+  ],
+  "goal": [
+    "get-stronger",
+    "jump-higher"
+  ],
+  "howTo": [
+    {
+      "detail": "Basketball breaks muscle down — jumping, sprinting, contact. Protein provides the building blocks to rebuild it stronger. Without enough protein, hard training just makes you tired instead of making you better.",
+      "title": "Why protein matters for basketball"
+    },
+    {
+      "detail": "Trứng (cheap, complete, anywhere), ức gà/thịt gà (lean and versatile), cá — cá basa, cá thu, cá nục (omega-3 plus protein), thịt bò (iron plus protein), thịt heo nạc, tôm, đậu phụ and đậu hũ (soy protein), sữa/sữa chua (easy and cheap), đậu đen/đậu đỏ/đậu phộng (plant protein + fiber). Rotate through the week — variety keeps the habit alive.",
+      "title": "Vietnamese protein sources"
+    },
+    {
+      "detail": "Aim for a palm-sized protein portion at breakfast, lunch, and dinner — plus a smaller protein snack (sữa chua, sữa đậu nành, trứng luộc, handful of peanuts) between meals. Three to four protein moments a day beats one giant steak at night.",
+      "title": "Spread protein across the day"
+    },
+    {
+      "detail": "Within 2 hours after training or a game: carbs + protein together. Easy options: cơm + cá/thịt, bánh mì trứng + sữa, phở bò, or sữa chua + chuối. The carbs refill energy while the protein starts repairs.",
+      "title": "Post-training protein"
+    },
+    {
+      "detail": "No meat? No problem: đậu phụ, đậu hũ ky, tempeh-style fermented beans, đậu đen/đỏ/xanh, đậu phộng, hạt điều, sữa đậu nành, and eggs/dairy if vegetarian. Combine different plant sources through the day to cover all building blocks.",
+      "title": "Plant-based options"
+    }
+  ],
+  "hub": "nutrition",
+  "id": "perf-nut-food-library-protein",
+  "level": "beginner",
+  "positions": [
+    "all"
+  ],
+  "progression": [
+    "Beginner: put a protein food at all 3 main meals every day",
+    "Intermediate: add a protein snack between meals and a post-training protein routine",
+    "Advanced: vary protein sources across the week — fish days, egg days, bean days"
+  ],
+  "references": [
+    "FIBA — Nutrition guidelines for basketball players",
+    "IOC — Consensus statement on sports nutrition",
+    "NSCA — Protein recommendations for athletes"
+  ],
+  "relatedTopics": [
+    "nut-vietnamese-athlete-meals",
+    "nut-performance-plate",
+    "nut-food-library-carbs",
+    "rec-post-game-recovery",
+    "ip-training-load"
+  ],
+  "setsReps": "Include a palm-sized protein portion at every main meal plus one protein snack daily.",
+  "slug": "nut-food-library-protein",
+  "subcategory": "protein",
+  "tags": [
+    "nutrition",
+    "protein",
+    "food library",
+    "vietnamese food",
+    "recovery",
+    "muscle"
+  ],
+  "title": "Food Library: Protein",
+  "trainingPhase": [
+    "off-season",
+    "pre-season",
+    "in-season",
+    "game-day",
+    "recovery-day"
+  ],
+  "vi": {
+    "basketballTransfer": "Đạm đều cả ngày giúp cơ bắp tái tạo giữa các buổi tập, va chạm dưới rổ bớt ê ẩm hôm sau, và tập sức mạnh thật sự thành sức mạnh.",
+    "coachingPoints": [
+      "Rải đạm đều trong ngày — cơ thể dùng tốt hơn khi chia nhỏ",
+      "Mỗi bữa chính cần một món đạm chủ lực: trứng, thịt, cá hoặc đậu phụ",
+      "Đạm sau tập trong 2 tiếng giúp hồi phục nhanh hơn",
+      "Đạm thực vật vẫn tính — kết hợp đậu, đậu phụ, đậu phộng trong ngày",
+      "Sữa và sữa chua là nguồn đạm dễ nhất mà nhiều cầu thủ bỏ quên"
+    ],
+    "commonMistakes": [
+      "Tối ăn đạm ồ ạt, sáng trưa chẳng có gì",
+      "Dùng bột đạm thay bữa ăn thật",
+      "Ngày nghỉ bỏ đạm — cơ bắp tái tạo vào ngày nghỉ",
+      "Chỉ ăn ức gà, ngán rồi bỏ luôn thói quen",
+      "Bỏ qua sữa và trứng — đạm hoàn chỉnh rẻ nhất"
+    ],
+    "description": "Thư viện nguồn đạm cho cầu thủ bóng rổ — trứng, thịt gà, cá, thịt bò, đậu phụ, sữa, sữa chua, các loại đậu — và cách rải đạm đều trong ngày để hồi phục ổn định.",
+    "duration": "10 phút",
+    "howTo": [
+      {
+        "detail": "Bóng rổ phá vỡ cơ bắp — bật nhảy, bứt tốc, va chạm. Đạm cung cấp nguyên liệu để tái tạo cơ khỏe hơn. Thiếu đạm, tập nặng chỉ khiến bạn mệt chứ không khiến bạn tiến bộ.",
+        "title": "Vì sao đạm quan trọng với bóng rổ"
+      },
+      {
+        "detail": "Trứng (rẻ, đạm hoàn chỉnh, đâu cũng có), ức gà/thịt gà (nạc, dễ chế biến), cá — cá basa, cá thu, cá nục (vừa đạm vừa omega-3), thịt bò (đạm + sắt), thịt heo nạc, tôm, đậu phụ và đậu hũ (đạm đậu nành), sữa/sữa chua (dễ và rẻ), đậu đen/đậu đỏ/đậu phộng (đạm thực vật + chất xơ). Xoay vòng trong tuần — đa dạng giữ thói quen lâu bền.",
+        "title": "Nguồn đạm món Việt"
+      },
+      {
+        "detail": "Mỗi bữa sáng, trưa, tối một phần đạm cỡ lòng bàn tay — thêm một snack đạm nhỏ giữa bữa (sữa chua, sữa đậu nành, trứng luộc, nắm đậu phộng). Ba đến bốn lần đạm mỗi ngày tốt hơn một miếng bít tết khổng lồ buổi tối.",
+        "title": "Rải đạm đều trong ngày"
+      },
+      {
+        "detail": "Trong 2 tiếng sau tập hoặc sau trận: carbs + đạm đi cùng nhau. Lựa chọn dễ: cơm + cá/thịt, bánh mì trứng + sữa, phở bò, hoặc sữa chua + chuối. Carbs nạp lại năng lượng trong khi đạm bắt đầu sửa chữa.",
+        "title": "Đạm sau buổi tập"
+      },
+      {
+        "detail": "Không ăn thịt? Không sao: đậu phụ, đậu hũ ky, đậu đen/đỏ/xanh, đậu phộng, hạt điều, sữa đậu nành, thêm trứng/sữa nếu ăn chay có trứng sữa. Kết hợp nhiều nguồn thực vật trong ngày để đủ mọi thành phần.",
+        "title": "Lựa chọn đạm thực vật"
+      }
+    ],
+    "progression": [
+      "Cơ bản: mỗi ngày cả 3 bữa chính đều có món đạm",
+      "Trung cấp: thêm snack đạm giữa bữa và thói quen đạm sau tập",
+      "Nâng cao: xoay vòng nguồn đạm trong tuần — ngày cá, ngày trứng, ngày đậu"
+    ],
+    "setsReps": "Mỗi bữa chính một phần đạm cỡ lòng bàn tay, thêm một snack đạm mỗi ngày.",
+    "tags": [
+      "dinh dưỡng",
+      "đạm",
+      "thư viện thực phẩm",
+      "món việt",
+      "hồi phục",
+      "cơ bắp"
+    ],
+    "title": "Thư viện thực phẩm: Đạm",
+    "whatItDevelops": [
+      "Nhận biết nguồn đạm đa dạng",
+      "Rải đạm đều trong ngày",
+      "Đạm sau buổi tập",
+      "Lựa chọn đạm thực vật"
+    ],
+    "whyBasketball": [
+      "Nhảy, bứt tốc, va chạm phá vỡ sợi cơ mỗi buổi tập",
+      "Đạm là nguyên liệu tái tạo — thiếu đạm thì tập chỉ mệt thêm",
+      "Món Việt giàu đạm rẻ: trứng, cá, đậu phụ, sữa",
+      "Đạm đều giúp tập sức mạnh chuyển thành sức mạnh thật"
+    ]
+  },
+  "whatItDevelops": [
+    "Recognizing diverse protein sources",
+    "Spreading protein across the day",
+    "Post-training protein",
+    "Plant-based protein options"
+  ],
+  "whyBasketball": [
+    "Jumping, sprinting, and contact break muscle fibers every session",
+    "Protein is the rebuild material — without it, training just adds fatigue",
+    "Vietnamese food is rich in cheap protein: eggs, fish, tofu, milk",
+    "Steady protein turns strength training into real strength"
+  ]
+}

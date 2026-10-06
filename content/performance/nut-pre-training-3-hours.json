@@ -1,0 +1,149 @@
+{
+  "basketballTransfer": "Full glycogen stores let you keep fast-break speed and jump explosiveness through the last drill of practice.",
+  "category": "pre-training",
+  "coachingPoints": [
+    "Carbs are the star of this meal — rice, noodles, potatoes, bread",
+    "Protein supports, but a steak-and-eggs plate with no carbs is the wrong call",
+    "If the session runs longer than 2 hours, slightly increase the carb portion",
+    "Traveling athletes: plain rice + grilled chicken is available almost anywhere"
+  ],
+  "commonMistakes": [
+    "Eating the big meal only 60–90 minutes before and starting nauseous",
+    "Loading up on greasy food that sits in the stomach all session",
+    "Training on an empty stomach to 'feel lighter'",
+    "Forgetting water until warm-up starts"
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "Your last full meal before training: how to build a high-carb, moderate-protein plate that digests comfortably and keeps energy high through a 2-hour session.",
+  "duration": "6 min",
+  "equipment": [
+    "Water bottle",
+    "Portable snack container"
+  ],
+  "goal": [
+    "conditioning"
+  ],
+  "howTo": [
+    {
+      "detail": "Rice or noodles as the base, a palm-sized portion of lean protein (chicken, fish, eggs), and vegetables. This is your fuel tank for the session.",
+      "title": "Eat a full, balanced meal"
+    },
+    {
+      "detail": "A little oil and vegetables is fine; avoid deep-fried food or huge salads that slow digestion.",
+      "title": "Keep fat and fiber modest"
+    },
+    {
+      "detail": "500 ml to 1 liter with and after the meal starts hydration early.",
+      "title": "Drink water with the meal"
+    },
+    {
+      "detail": "The day before a game is not the time to try a brand-new dish. Eat what your stomach already knows.",
+      "title": "Skip the experiment"
+    }
+  ],
+  "hub": "nutrition",
+  "id": "perf-nut-pre-training-3-hours",
+  "level": "beginner",
+  "positions": [
+    "all"
+  ],
+  "progression": [
+    "Beginner: eat any real meal 3 hours before training",
+    "Intermediate: build the high-carb plate with moderate protein",
+    "Advanced: fine-tune portions to session length and your own digestion"
+  ],
+  "references": [
+    "IOC Consensus Statement on Sports Nutrition",
+    "FIBA Nutrition Guidelines"
+  ],
+  "relatedTopics": [
+    "nut-pre-training-1-2-hours",
+    "nut-carbs-basketball",
+    "hyd-game-day-hydration"
+  ],
+  "setsReps": "1 full meal 3 hours before training; 500 ml–1 L water with the meal",
+  "slug": "nut-pre-training-3-hours",
+  "subcategory": "timing",
+  "tags": [
+    "nutrition",
+    "pre-training",
+    "meal timing",
+    "carbs",
+    "game day"
+  ],
+  "title": "Eating 3 Hours Before Training",
+  "trainingPhase": [
+    "pre-season",
+    "in-season",
+    "game-day"
+  ],
+  "vi": {
+    "basketballTransfer": "Glycogen đầy giúp giữ tốc độ phản công nhanh và sức bật đến bài tập cuối cùng của buổi.",
+    "coachingPoints": [
+      "Tinh bột là nhân vật chính của bữa này — cơm, bún, khoai, bánh mì",
+      "Đạm chỉ hỗ trợ; một đĩa bít tết trứng mà không có tinh bột là lựa chọn sai",
+      "Buổi tập dài hơn 2 tiếng thì tăng phần tinh bột lên một chút",
+      "Đi thi đấu xa: cơm trắng + gà nướng ở đâu cũng có"
+    ],
+    "commonMistakes": [
+      "Ăn bữa lớn chỉ trước tập 60–90 phút rồi bước vào buổi tập với cảm giác buồn nôn",
+      "Ăn đồ nhiều dầu mỡ khiến dạ dày ì ạch cả buổi",
+      "Nhịn ăn để 'người nhẹ' rồi đuối giữa buổi",
+      "Quên uống nước cho đến khi khởi động mới nhớ"
+    ],
+    "description": "Bữa ăn chính cuối cùng trước buổi tập: cách xếp một đĩa ăn giàu tinh bột, đạm vừa phải để tiêu hóa nhẹ nhàng và giữ năng lượng suốt buổi tập 2 tiếng.",
+    "duration": "6 phút",
+    "howTo": [
+      {
+        "detail": "Cơm hoặc bún làm nền, một miếng đạm nạc cỡ lòng bàn tay (gà, cá, trứng) và rau củ. Đây là bình nhiên liệu của bạn.",
+        "title": "Ăn một bữa đầy đủ, cân bằng"
+      },
+      {
+        "detail": "Một ít dầu ăn và rau là ổn; tránh đồ chiên ngập dầu hay tô salad quá lớn làm chậm tiêu hóa.",
+        "title": "Giữ chất béo và chất xơ ở mức vừa"
+      },
+      {
+        "detail": "Uống 500 ml đến 1 lít nước trong và sau bữa ăn để bắt đầu bù nước sớm.",
+        "title": "Uống nước trong bữa ăn"
+      },
+      {
+        "detail": "Ngày trước trận không phải lúc thử món lạ. Ăn món dạ dày đã quen.",
+        "title": "Đừng thử món mới"
+      }
+    ],
+    "progression": [
+      "Cơ bản: ăn một bữa thật trước buổi tập 3 tiếng",
+      "Trung cấp: xếp đĩa ăn giàu tinh bột, đạm vừa phải",
+      "Nâng cao: tinh chỉnh khẩu phần theo độ dài buổi tập và khả năng tiêu hóa của mình"
+    ],
+    "setsReps": "1 bữa đầy đủ trước buổi tập 3 tiếng; 500 ml–1 L nước trong bữa ăn",
+    "tags": [
+      "dinh dưỡng",
+      "ăn trước tập",
+      "thời điểm bữa ăn",
+      "tinh bột",
+      "ngày thi đấu"
+    ],
+    "title": "Ăn gì 3 tiếng trước buổi tập",
+    "whatItDevelops": [
+      "Canh thời gian bữa ăn trước tập",
+      "Cách xếp đĩa ăn giàu tinh bột",
+      "Chọn món ăn dễ tiêu"
+    ],
+    "whyBasketball": [
+      "3 tiếng đủ để dạ dày tiêu hóa xong — bước vào buổi tập người nhẹ mà năng lượng đầy",
+      "Lượng glycogen dự trữ trong cơ quyết định bạn lặp lại được bao nhiêu lần chạy nước rút",
+      "Tập khi đói làm đuối sớm và kỹ thuật rối ngay từ đầu buổi"
+    ]
+  },
+  "whatItDevelops": [
+    "Pre-training meal timing",
+    "High-carb plate building",
+    "Digestion-friendly food choices"
+  ],
+  "whyBasketball": [
+    "3 hours gives the stomach time to empty — you start training light but fully fueled",
+    "Muscle glycogen stores determine how many high-intensity runs you can repeat",
+    "Training fasted leads to early fatigue and sloppy technique"
+  ]
+}

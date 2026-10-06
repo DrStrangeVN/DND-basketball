@@ -1,0 +1,149 @@
+{
+  "basketballTransfer": "Your body rebuilds between game days — steady protein and full meals mean you return to the court fresh, not flat.",
+  "category": "recovery-day",
+  "coachingPoints": [
+    "Recovery days are for rebuilding, not dieting — eat enough.",
+    "Protein at every meal beats one giant protein dinner.",
+    "Fruits and vegetables do quiet recovery work — eat the colors.",
+    "Keep drinking water even though you're not sweating.",
+    "A recovery day still needs three real meals — don't graze on snacks all day."
+  ],
+  "commonMistakes": [
+    "Slashing calories hard because 'I'm not training today'.",
+    "Eating one big dinner and almost nothing all day.",
+    "Living on snacks and instant noodles on rest days.",
+    "Forgetting water because there's no practice to remind you."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "Eat to rebuild on rest days: full meals, protein spread across the day, plenty of fruits and vegetables — no drastic cuts, just steady fuel for recovery.",
+  "duration": "15 min",
+  "equipment": [
+    "None required"
+  ],
+  "goal": [],
+  "howTo": [
+    {
+      "detail": "Your muscles are repairing today — that work needs energy. Eat your normal three meals at normal sizes. A small reduction is fine if you're barely moving, but a rest day is not a diet day. Undereating slows recovery.",
+      "title": "Eat enough — don't diet on rest days"
+    },
+    {
+      "detail": "Put a protein source in every meal: trứng or thịt at breakfast, cá or đậu hũ at lunch, thịt or sữa chua at dinner. Spreading protein across the day supports muscle repair better than loading it all into one meal.",
+      "title": "Protein at every meal"
+    },
+    {
+      "detail": "Load the plate with vegetables and add fruit as snacks — rau muống, cải, cà rốt, chuối, cam, dưa hấu. The vitamins, minerals, and antioxidants in colorful produce support the immune system and recovery processes that run quietly in the background.",
+      "title": "Eat colorful fruits and vegetables"
+    },
+    {
+      "detail": "Keep the fried and sugary stuff moderate — a rest day isn't a free pass, but it isn't a punishment either. One treat is fine; a whole day of junk food leaves you sluggish tomorrow.",
+      "title": "Keep treats moderate"
+    },
+    {
+      "detail": "No practice doesn't mean no water. Keep a bottle nearby and drink through the day — hydration supports every recovery process, from nutrient delivery to sleep quality.",
+      "title": "Keep drinking water"
+    }
+  ],
+  "hub": "nutrition",
+  "id": "perf-nut-recovery-day-nutrition",
+  "level": "beginner",
+  "positions": [
+    "all"
+  ],
+  "progression": [
+    "Beginner: commit to three real meals on your next rest day — no skipping.",
+    "Intermediate: plan rest-day meals the night before so you don't default to snacks.",
+    "Advanced: match rest-day eating to the week — slightly more after heavy game weeks, normal after light weeks."
+  ],
+  "relatedTopics": [
+    "rec-post-game-recovery",
+    "rec-sleep-for-athletes",
+    "hyd-hydration-basics",
+    "nut-post-game-recovery-nutrition"
+  ],
+  "setsReps": "Three real meals with protein in each; fruit and vegetables daily; water throughout the day.",
+  "slug": "nut-recovery-day-nutrition",
+  "subcategory": "fueling",
+  "tags": [
+    "recovery day",
+    "rest day",
+    "protein",
+    "rebuilding"
+  ],
+  "title": "Recovery Day Nutrition",
+  "trainingPhase": [
+    "recovery-day"
+  ],
+  "vi": {
+    "basketballTransfer": "Cơ thể tái tạo giữa các ngày thi đấu — protein đều đặn và bữa ăn đầy đủ giúp bạn trở lại sân tươi tỉnh, không ì ạch.",
+    "coachingPoints": [
+      "Ngày nghỉ để tái tạo, không phải để ăn kiêng — ăn đủ.",
+      "Protein mỗi bữa tốt hơn một bữa tối protein khổng lồ.",
+      "Rau củ quả làm công việc hồi phục thầm lặng — ăn đủ màu sắc.",
+      "Không đổ mồ hôi vẫn phải uống nước đều.",
+      "Ngày nghỉ vẫn cần ba bữa thật — đừng ăn vặt lai rai cả ngày."
+    ],
+    "commonMistakes": [
+      "Cắt giảm calo mạnh vì 'hôm nay có tập đâu'.",
+      "Cả ngày ăn ít, dồn một bữa tối thật to.",
+      "Ngày nghỉ chỉ ăn vặt và mì gói.",
+      "Quên uống nước vì không có buổi tập nhắc nhở."
+    ],
+    "description": "Ăn để tái tạo vào ngày nghỉ: bữa ăn đầy đủ, protein chia đều các bữa, nhiều rau củ quả — không cắt giảm đột ngột, chỉ nạp năng lượng đều cho hồi phục.",
+    "duration": "15 phút",
+    "howTo": [
+      {
+        "detail": "Hôm nay cơ bắp đang sửa chữa — công việc đó cần năng lượng. Ăn đủ ba bữa với khẩu phần bình thường. Giảm nhẹ chút cũng được nếu cả ngày ít vận động, nhưng ngày nghỉ không phải ngày ăn kiêng. Ăn thiếu làm hồi phục chậm lại.",
+        "title": "Ăn đủ — ngày nghỉ không ăn kiêng"
+      },
+      {
+        "detail": "Mỗi bữa đều có nguồn protein: trứng hoặc thịt vào bữa sáng, cá hoặc đậu hũ vào bữa trưa, thịt hoặc sữa chua vào bữa tối. Chia protein đều trong ngày giúp sửa chữa cơ tốt hơn dồn hết vào một bữa.",
+        "title": "Bữa nào cũng có protein"
+      },
+      {
+        "detail": "Chất đầy rau lên đĩa và ăn trái cây làm món nhẹ — rau muống, cải, cà rốt, chuối, cam, dưa hấu. Vitamin, khoáng chất và chất chống oxy hóa trong rau củ quả nhiều màu sắc hỗ trợ hệ miễn dịch và các quá trình hồi phục diễn ra thầm lặng.",
+        "title": "Ăn rau củ quả nhiều màu"
+      },
+      {
+        "detail": "Đồ chiên và đồ ngọt ăn vừa phải — ngày nghỉ không phải giấy phép ăn xả, nhưng cũng không phải hình phạt. Một món ngon thì được; cả ngày ăn đồ linh tinh thì hôm sau sẽ ì.",
+        "title": "Đồ ngon ăn vừa phải"
+      },
+      {
+        "detail": "Không tập không có nghĩa là không uống nước. Để chai nước bên cạnh và uống suốt ngày — nước hỗ trợ mọi quá trình hồi phục, từ vận chuyển dinh dưỡng đến chất lượng giấc ngủ.",
+        "title": "Tiếp tục uống nước"
+      }
+    ],
+    "progression": [
+      "Mới bắt đầu: ngày nghỉ tới ăn đủ ba bữa thật — không bỏ bữa.",
+      "Nâng cao dần: lên thực đơn ngày nghỉ từ tối hôm trước để không ăn vặt cho qua bữa.",
+      "Nâng cao: chỉnh theo tuần — tuần thi đấu nặng thì ăn nhiều hơn chút, tuần nhẹ thì ăn bình thường."
+    ],
+    "setsReps": "Ba bữa thật, bữa nào cũng có protein; rau củ quả mỗi ngày; uống nước suốt ngày.",
+    "tags": [
+      "ngày hồi phục",
+      "ngày nghỉ",
+      "protein",
+      "tái tạo"
+    ],
+    "title": "Dinh dưỡng ngày hồi phục",
+    "whatItDevelops": [
+      "Năng lượng ổn định cho quá trình tái tạo",
+      "Protein đều đặn hỗ trợ sửa chữa cơ",
+      "Thói quen ăn uống lành mạnh ngày nghỉ"
+    ],
+    "whyBasketball": [
+      "Ngày nghỉ là lúc cơ thể sửa chữa tổn thương từ tập luyện và thi đấu — thiếu dinh dưỡng thì sửa chữa chậm.",
+      "Cầu thủ ăn đủ ngày nghỉ thường trở lại sân tươi tỉnh hơn vào buổi tập tiếp theo.",
+      "Ăn kiêng đột ngột vào ngày nghỉ dễ gây mệt mỏi, mất tập trung và chấn thương vặt."
+    ]
+  },
+  "whatItDevelops": [
+    "Steady energy for rebuilding",
+    "Even protein supporting muscle repair",
+    "Healthy rest-day eating habits"
+  ],
+  "whyBasketball": [
+    "Rest days are when your body repairs training and game damage — without nutrition, repair stalls.",
+    "Players who eat enough on rest days return to the next session fresher.",
+    "Crash dieting on rest days leads to fatigue, poor focus, and nagging injuries."
+  ]
+}

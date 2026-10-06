@@ -1,0 +1,151 @@
+{
+  "basketballTransfer": "Walk onto the court with full fuel and a calm stomach — first-quarter legs that don't fade.",
+  "category": "game-day",
+  "coachingPoints": [
+    "Nothing new on game day — eat what your stomach already knows.",
+    "Bland and familiar beats exciting and risky.",
+    "If the game tips at 9:00, breakfast is at 5:00–6:00 — set the alarm, don't skip.",
+    "Carbs carry the morning; protein rides along in moderation.",
+    "Eat slowly and calmly — a rushed breakfast digests like a rushed warm-up."
+  ],
+  "commonMistakes": [
+    "Skipping breakfast and trying to 'play hungry' on yesterday's dinner.",
+    "Trying a new restaurant or a dish you've never eaten before game day.",
+    "Eating too close to tip-off and starting the game still digesting.",
+    "Going heavy on fried, greasy food that sits in the stomach for hours."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "Eat a familiar, carb-based breakfast 3–4 hours before a morning game — enough fuel for the first quarter without a heavy stomach.",
+  "duration": "15 min",
+  "equipment": [
+    "Cooler bag",
+    "Water bottle",
+    "Portable snacks"
+  ],
+  "goal": [],
+  "howTo": [
+    {
+      "detail": "A morning game means breakfast is your pre-game meal. Give your body a full 3–4 hours to digest: for a 9:00 tip-off, eat by 5:30–6:00. Set the alarm the night before so you never have to choose between sleep and eating.",
+      "title": "Eat 3–4 hours before tip-off"
+    },
+    {
+      "detail": "Build the plate around carbohydrates you eat every week: rice, noodles, or bread. Vietnamese staples work perfectly — phở gà, cơm tấm sườn (ask for lean meat, less fat), bánh mì trứng, or cháo gà. Carbs refill the glycogen your body burned overnight.",
+      "title": "Build it around carbs you know"
+    },
+    {
+      "detail": "Add a moderate serving of protein — one or two eggs, some chicken, or a little pork. Enough to feel satisfied, not a bodybuilder's plate. Protein steadies energy but digests slower, so keep it modest this far out.",
+      "title": "Add a moderate amount of protein"
+    },
+    {
+      "detail": "Game morning is not the time for a big bowl of chả giò, heavy fried food, or extra-spicy dishes. High-fat and high-fiber foods digest slowly and can cause cramps or nausea once you start running. Keep it light and simple.",
+      "title": "Keep fat and fiber light"
+    },
+    {
+      "detail": "Drink a full glass or two of water with breakfast — your body wakes up mildly dehydrated. If you like tea or coffee, keep it to your normal amount and add water alongside it, not instead of it.",
+      "title": "Hydrate with the meal"
+    }
+  ],
+  "hub": "nutrition",
+  "id": "perf-nut-game-day-breakfast",
+  "level": "beginner",
+  "positions": [
+    "all"
+  ],
+  "progression": [
+    "Beginner: pick one familiar breakfast (e.g. phở gà) and repeat it for every morning game for a month.",
+    "Intermediate: add a small side — a banana or yogurt — and note how your first quarter feels.",
+    "Advanced: adjust portion by tip-off time — a fuller breakfast for 8:00 games, lighter for afternoon games when a second meal follows."
+  ],
+  "relatedTopics": [
+    "hyd-game-day-hydration",
+    "nut-pre-game-meal",
+    "nut-pre-game-snack",
+    "rec-sleep-for-athletes"
+  ],
+  "setsReps": "One meal, finished 3–4 hours before tip-off; repeat the same familiar routine every game day.",
+  "slug": "nut-game-day-breakfast",
+  "subcategory": "morning",
+  "tags": [
+    "game day",
+    "breakfast",
+    "carbs",
+    "fueling"
+  ],
+  "title": "Game Day Breakfast",
+  "trainingPhase": [
+    "game-day"
+  ],
+  "vi": {
+    "basketballTransfer": "Bước ra sân với bình năng lượng đầy và dạ dày êm — hiệp đầu không hụt hơi.",
+    "coachingPoints": [
+      "Ngày thi đấu không ăn món lạ — chỉ ăn món dạ dày đã quen.",
+      "Đơn giản, quen thuộc tốt hơn ngon miệng, mạo hiểm.",
+      "Trận đấu lúc 9 giờ sáng thì bữa sáng lúc 5–6 giờ — đặt báo thức, đừng bỏ bữa.",
+      "Tinh bột gánh năng lượng buổi sáng; protein ăn vừa phải thôi.",
+      "Ăn chậm rãi, bình tĩnh — ăn vội tiêu hóa cũng vội như khởi động vội."
+    ],
+    "commonMistakes": [
+      "Bỏ bữa sáng rồi ra sân 'chơi đói' bằng bữa tối hôm qua.",
+      "Ngày thi đấu lại thử quán mới hoặc món chưa từng ăn.",
+      "Ăn quá sát giờ thi đấu, vào trận vẫn còn đang tiêu hóa.",
+      "Ăn đồ chiên nhiều dầu mỡ, nặng bụng suốt mấy tiếng."
+    ],
+    "description": "Ăn một bữa sáng quen thuộc, giàu tinh bột, cách giờ thi đấu 3–4 tiếng — đủ năng lượng cho hiệp đầu mà bụng vẫn nhẹ.",
+    "duration": "15 phút",
+    "howTo": [
+      {
+        "detail": "Trận sáng thì bữa sáng chính là bữa trước trận. Cho cơ thể trọn 3–4 tiếng tiêu hóa: trận 9 giờ sáng thì ăn xong trước 5 giờ 30–6 giờ. Đặt báo thức từ tối hôm trước để không phải chọn giữa ngủ và ăn.",
+        "title": "Ăn trước giờ thi đấu 3–4 tiếng"
+      },
+      {
+        "detail": "Xây bữa ăn quanh tinh bột quen thuộc: cơm, bún, phở hoặc bánh mì. Món Việt rất hợp — phở gà, cơm tấm sườn (chọn thịt nạc, ít mỡ), bánh mì trứng, cháo gà. Tinh bột bù lại năng lượng cơ thể đã đốt suốt đêm.",
+        "title": "Xây bữa ăn quanh tinh bột quen thuộc"
+      },
+      {
+        "detail": "Thêm lượng protein vừa phải — một đến hai quả trứng, ít thịt gà hoặc thịt heo. Đủ để no bụng, không phải kiểu ăn của dân tập tạ. Protein giữ năng lượng ổn định nhưng tiêu hóa chậm, nên đừng ăn quá nhiều vào lúc này.",
+        "title": "Thêm protein vừa phải"
+      },
+      {
+        "detail": "Buổi sáng ngày thi đấu không phải lúc ăn chả giò, đồ chiên ngập dầu hay món quá cay. Đồ nhiều dầu mỡ, nhiều xơ tiêu hóa chậm, dễ gây chuột rút hoặc buồn nôn khi chạy. Ăn nhẹ và đơn giản.",
+        "title": "Ăn ít dầu mỡ, ít xơ"
+      },
+      {
+        "detail": "Uống một đến hai ly nước đầy cùng bữa sáng — cơ thể thức dậy luôn thiếu nước nhẹ. Nếu quen uống trà hay cà phê, giữ đúng lượng bình thường và uống thêm nước, không thay nước bằng trà cà phê.",
+        "title": "Uống nước cùng bữa ăn"
+      }
+    ],
+    "progression": [
+      "Mới bắt đầu: chọn một bữa sáng quen thuộc (ví dụ phở gà) và lặp lại cho mọi trận buổi sáng trong một tháng.",
+      "Nâng cao dần: thêm một món nhỏ — quả chuối hoặc hộp sữa chua — và ghi nhận cảm giác hiệp đầu.",
+      "Nâng cao: chỉnh khẩu phần theo giờ thi đấu — ăn đầy hơn cho trận 8 giờ sáng, ăn nhẹ hơn cho trận chiều khi còn bữa sau."
+    ],
+    "setsReps": "Một bữa, ăn xong 3–4 tiếng trước giờ thi đấu; lặp lại đúng thói quen quen thuộc mỗi ngày thi đấu.",
+    "tags": [
+      "ngày thi đấu",
+      "bữa sáng",
+      "tinh bột",
+      "nạp năng lượng"
+    ],
+    "title": "Bữa sáng ngày thi đấu",
+    "whatItDevelops": [
+      "Năng lượng ổn định trước trận từ tinh bột quen thuộc",
+      "Tiêu hóa êm ái trước giờ bóng lăn",
+      "Thói quen buổi sáng ngày thi đấu lặp lại được"
+    ],
+    "whyBasketball": [
+      "Trận buổi sáng nghĩa là bữa ăn gần nhất là bữa tối — bình năng lượng mới đầy một nửa.",
+      "Bữa sáng nặng hoặc lạ làm cầu thủ chậm chạp, dễ đau bụng ngay hiệp đầu.",
+      "Cầu thủ ăn bữa sáng bình tĩnh, quen thuộc thường vào trận sắc hơn và đuối muộn hơn."
+    ]
+  },
+  "whatItDevelops": [
+    "Steady pre-game energy from familiar carbohydrates",
+    "Comfortable digestion before tip-off",
+    "A repeatable game-day morning routine"
+  ],
+  "whyBasketball": [
+    "A morning game means your last meal was dinner — your fuel tank is half empty.",
+    "Heavy or unfamiliar breakfast food slows you down and can cause stomach issues in the first quarter.",
+    "Players who eat a calm, familiar breakfast start games sharper and fade later."
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "basketballTransfer": "You leave the gym recovering, not just resting — carbs and protein kick off repair while water and sleep do the rest.",
+  "category": "game-day",
+  "coachingPoints": [
+    "Recovery nutrition starts in the first 1–2 hours after the game, not the next morning.",
+    "You don't need a perfect meal — a decent meal soon beats a perfect meal late.",
+    "Eat even if you're not hungry — appetite often returns after 30 minutes.",
+    "Adults and youth players recover the same way; youth players just eat kid-sized portions.",
+    "Keep drinking water after the game — food plus fluid is the recovery combo."
+  ],
+  "commonMistakes": [
+    "Waiting 3–4 hours to eat and missing the best recovery window.",
+    "Eating only carbs (or only protein) — recovery needs both.",
+    "Grabbing fast food as the only post-game meal after every game.",
+    "Drinking only soda or sweet tea instead of water after the game."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "Refuel within 1–2 hours after the final buzzer: carbs to refill energy, protein to repair muscle, and plenty of water — the meal that starts tomorrow's recovery today.",
+  "duration": "20 min",
+  "equipment": [
+    "Cooler bag",
+    "Water bottle",
+    "Portable snacks"
+  ],
+  "goal": [
+    "conditioning"
+  ],
+  "howTo": [
+    {
+      "detail": "The recovery window opens the moment the game ends. Aim to eat a real meal within 1–2 hours after the final buzzer. If the venue is far from food, a small bridge snack right away (a banana, a bread roll, sữa) buys you time until the meal.",
+      "title": "Eat within 1–2 hours after the game"
+    },
+    {
+      "detail": "Your body just burned through its glycogen — refill it with carbs: cơm, bún, phở, bánh mì, mì. A bowl of phở bò, cơm with meat and vegetables, or bánh mì with sữa all do the job. This is the one meal where carbs are the hero.",
+      "title": "Lead with carbs"
+    },
+    {
+      "detail": "Add a solid protein portion to start muscle repair: thịt bò, gà, cá, trứng, đậu hũ, or sữa chua. Roughly a palm-sized portion for adults, smaller for youth players. Protein without carbs still helps, but the pair works best.",
+      "title": "Add protein for repair"
+    },
+    {
+      "detail": "Drink water steadily after the game — a bottle in the bag for the ride home. If the game was long or the gym was hot, an electrolyte drink or lightly salted soup (like phở broth) helps replace what sweat took out.",
+      "title": "Rehydrate with the meal"
+    },
+    {
+      "detail": "Eat at a normal pace and stop when satisfied — this is recovery fuel, not a reward binge. Then get to sleep on time: the meal starts recovery, sleep finishes it.",
+      "title": "Eat normally, then sleep"
+    }
+  ],
+  "hub": "nutrition",
+  "id": "perf-nut-post-game-recovery-nutrition",
+  "level": "beginner",
+  "positions": [
+    "all"
+  ],
+  "progression": [
+    "Beginner: plan one post-game meal option near your usual gym before the season starts.",
+    "Intermediate: prepare a bridge snack in your bag every game day so the 1–2 hour window never slips.",
+    "Advanced: adjust by game load — a bigger meal after double overtime, a lighter one after a short blowout."
+  ],
+  "relatedTopics": [
+    "rec-post-game-recovery",
+    "hyd-hydration-basics",
+    "rec-sleep-for-athletes",
+    "nut-tournament-day-fueling"
+  ],
+  "setsReps": "One recovery meal within 1–2 hours after the game; a bridge snack immediately if the meal is delayed.",
+  "slug": "nut-post-game-recovery-nutrition",
+  "subcategory": "post-game",
+  "tags": [
+    "game day",
+    "recovery",
+    "protein",
+    "carbs",
+    "refuel"
+  ],
+  "title": "Post-Game Recovery Nutrition",
+  "trainingPhase": [
+    "game-day",
+    "recovery-day"
+  ],
+  "vi": {
+    "basketballTransfer": "Rời sân trong trạng thái đang hồi phục, không chỉ đang nghỉ — tinh bột và protein khởi động quá trình sửa chữa, nước và giấc ngủ làm phần còn lại.",
+    "coachingPoints": [
+      "Dinh dưỡng hồi phục bắt đầu trong 1–2 tiếng sau trận, không phải sáng hôm sau.",
+      "Không cần bữa ăn hoàn hảo — bữa ăn tạm ổn ăn sớm tốt hơn bữa hoàn hảo ăn muộn.",
+      "Ăn dù chưa thấy đói — cảm giác thèm ăn thường quay lại sau 30 phút.",
+      "Cầu thủ lớn và cầu thủ trẻ hồi phục như nhau; cầu thủ trẻ chỉ ăn phần nhỏ hơn.",
+      "Tiếp tục uống nước sau trận — thức ăn cộng nước là combo hồi phục."
+    ],
+    "commonMistakes": [
+      "Đợi 3–4 tiếng mới ăn, bỏ lỡ cửa sổ hồi phục tốt nhất.",
+      "Chỉ ăn tinh bột (hoặc chỉ ăn protein) — hồi phục cần cả hai.",
+      "Trận nào cũng ăn đồ ăn nhanh làm bữa duy nhất sau trận.",
+      "Chỉ uống nước ngọt hay trà đường thay vì nước lọc sau trận."
+    ],
+    "description": "Nạp lại năng lượng trong 1–2 tiếng sau tiếng còi mãn cuộc: tinh bột để bù năng lượng, protein để sửa chữa cơ, và nhiều nước — bữa ăn khởi động quá trình hồi phục cho ngày mai ngay hôm nay.",
+    "duration": "20 phút",
+    "howTo": [
+      {
+        "detail": "Cửa sổ hồi phục mở ra ngay khi trận đấu kết thúc. Cố gắng ăn một bữa thật trong 1–2 tiếng sau tiếng còi mãn cuộc. Nếu từ sân về chỗ ăn xa, một món ăn nhẹ bắc cầu ngay lập tức (quả chuối, ổ bánh mì, hộp sữa) giúp bạn cầm cự đến bữa chính.",
+        "title": "Ăn trong 1–2 tiếng sau trận"
+      },
+      {
+        "detail": "Cơ thể vừa đốt sạch kho năng lượng — bù lại bằng tinh bột: cơm, bún, phở, bánh mì, mì. Tô phở bò, đĩa cơm với thịt và rau, hay bánh mì với sữa đều tốt. Đây là bữa duy nhất mà tinh bột là nhân vật chính.",
+        "title": "Tinh bột đi đầu"
+      },
+      {
+        "detail": "Thêm một phần protein chắc để bắt đầu sửa chữa cơ: thịt bò, gà, cá, trứng, đậu hũ hoặc sữa chua. Khoảng một lòng bàn tay với người lớn, nhỏ hơn với cầu thủ trẻ. Protein không kèm tinh bột vẫn có ích, nhưng cặp đôi này đi cùng nhau tốt nhất.",
+        "title": "Thêm protein để sửa chữa"
+      },
+      {
+        "detail": "Uống nước đều sau trận — chai nước trong túi cho đường về. Nếu trận dài hoặc nhà thi đấu nóng, nước điện giải hoặc canh hơi mặn (như nước dùng phở) giúp bù lại những gì mồ hôi đã lấy đi.",
+        "title": "Bù nước cùng bữa ăn"
+      },
+      {
+        "detail": "Ăn với tốc độ bình thường, no thì dừng — đây là nhiên liệu hồi phục, không phải bữa ăn mừng xả láng. Rồi đi ngủ đúng giờ: bữa ăn khởi động hồi phục, giấc ngủ hoàn tất nó.",
+        "title": "Ăn bình thường, rồi đi ngủ"
+      }
+    ],
+    "progression": [
+      "Mới bắt đầu: chọn sẵn một quán ăn sau trận gần sân nhà trước khi mùa giải bắt đầu.",
+      "Nâng cao dần: để sẵn món ăn nhẹ bắc cầu trong túi mỗi ngày thi đấu để không bao giờ lỡ cửa sổ 1–2 tiếng.",
+      "Nâng cao: chỉnh theo mức độ trận đấu — ăn nhiều hơn sau trận kéo dài hai hiệp phụ, ăn nhẹ hơn sau trận thắng cách biệt ngắn."
+    ],
+    "setsReps": "Một bữa hồi phục trong 1–2 tiếng sau trận; một món ăn nhẹ bắc cầu ngay lập tức nếu bữa chính bị trễ.",
+    "tags": [
+      "ngày thi đấu",
+      "hồi phục",
+      "protein",
+      "tinh bột",
+      "nạp lại năng lượng"
+    ],
+    "title": "Dinh dưỡng hồi phục sau trận",
+    "whatItDevelops": [
+      "Bù năng lượng đã tiêu hao sau trận",
+      "Khởi động sửa chữa cơ bằng protein",
+      "Thói quen ăn sau trận đúng giờ"
+    ],
+    "whyBasketball": [
+      "Sau trận, kho năng lượng cạn và cơ bắp cần nguyên liệu sửa chữa — bữa ăn sau trận cung cấp cả hai.",
+      "Cầu thủ ăn đúng giờ sau trận thường đỡ đau nhức và sẵn sàng tập lại sớm hơn.",
+      "Bỏ bữa sau trận làm quá trình hồi phục chậm lại cả ngày hôm sau."
+    ]
+  },
+  "whatItDevelops": [
+    "Refilled energy after the game",
+    "Kick-started muscle repair with protein",
+    "A reliable post-game eating routine"
+  ],
+  "whyBasketball": [
+    "After a game your fuel stores are empty and your muscles need repair material — the post-game meal delivers both.",
+    "Players who eat on time after games feel less sore and get back to training sooner.",
+    "Skipping the post-game meal slows recovery for the whole next day."
+  ]
+}

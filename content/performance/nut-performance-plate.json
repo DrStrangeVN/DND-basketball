@@ -1,0 +1,171 @@
+{
+  "basketballTransfer": "A player who plates instinctively eats right on road trips, at team dinners, and at home — no app, no scale, no excuses.",
+  "category": "basics",
+  "coachingPoints": [
+    "Start with the plate, not the calorie app — habits beat math",
+    "Carbs scale with training: more on hard days, less on rest days",
+    "Protein stays constant every day — muscles rebuild daily",
+    "Vegetables and fruit add up across the day, not in one heroic salad",
+    "Water belongs on the plate visual — drink with the meal"
+  ],
+  "commonMistakes": [
+    "Half the plate is fried food — the oil hijacks the whole template",
+    "Protein-only plates before training — missing the fuel part",
+    "No vegetables for a whole week and wondering why recovery feels slow",
+    "Game-day plate experimentation — new foods on new days",
+    "One giant meal instead of three steady plates"
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "A simple visual template: split your plate into carbs, protein, vegetables/fruit, and water — with three versions for light days, training days, and game days, each shown with a Vietnamese rice-plate example.",
+  "duration": "10 min",
+  "equipment": [
+    "Kitchen scale (optional)"
+  ],
+  "goal": [
+    "conditioning",
+    "get-stronger"
+  ],
+  "howTo": [
+    {
+      "detail": "Carbs are your energy currency: rice, noodles, bánh mì, xôi, khoai lang, corn. On training and game days they take the biggest share of the plate — roughly half. On rest days, shrink them to about a quarter and let vegetables take over.",
+      "title": "Carbs: the energy share"
+    },
+    {
+      "detail": "Protein rebuilds muscle: a palm-sized portion of chicken, fish, pork, beef, eggs, tofu, or shrimp at every main meal. Keep this share steady at about a quarter of the plate, every day — training or not.",
+      "title": "Protein: the rebuild share"
+    },
+    {
+      "detail": "Vegetables and fruit bring vitamins, minerals, and fiber: rau luộc, canh rau, dưa leo, cà chua, plus fruit after the meal. Fill the remaining quarter (more on light days). Color on the plate usually means nutrients in the body.",
+      "title": "Vegetables and fruit: the color share"
+    },
+    {
+      "detail": "Water sits next to the plate, not on it — but it belongs in the visual. One to two glasses with the meal, more around training. Sweet drinks don't count as the water share.",
+      "title": "Water: the invisible quarter"
+    },
+    {
+      "detail": "Light day: 1/4 carbs, 1/4 protein, 1/2 vegetables — e.g. small rice portion with cá kho + big canh rau. Training day: 1/2 carbs, 1/4 protein, 1/4 vegetables — e.g. full bowl of cơm gà + rau. Game day: like training day but blander and more familiar — e.g. cơm thịt heo luộc + canh, nothing new.",
+      "title": "Three versions: light day, training day, game day"
+    }
+  ],
+  "hub": "nutrition",
+  "id": "perf-nut-performance-plate",
+  "level": "beginner",
+  "positions": [
+    "all"
+  ],
+  "progression": [
+    "Beginner: check your plate once a day — does it have all four parts?",
+    "Intermediate: adjust the carb share up or down with training load automatically",
+    "Advanced: plate correctly in any setting — team dinner, street stall, away tournament"
+  ],
+  "references": [
+    "USA Basketball — Nutrition basics for young athletes",
+    "FIBA — Nutrition guidelines for basketball players",
+    "IOC — Consensus statement on sports nutrition"
+  ],
+  "relatedTopics": [
+    "nut-vietnamese-athlete-meals",
+    "nut-food-library-carbs",
+    "nut-food-library-protein",
+    "nut-healthy-fats",
+    "hyd-hydration-basics"
+  ],
+  "setsReps": "Plate every main meal with the template: carbs + protein + vegetables/fruit + water, 3 times a day.",
+  "slug": "nut-performance-plate",
+  "subcategory": "performance-plate",
+  "tags": [
+    "nutrition",
+    "performance plate",
+    "meal template",
+    "carbs",
+    "protein",
+    "vegetables"
+  ],
+  "title": "Basketball Performance Plate",
+  "trainingPhase": [
+    "off-season",
+    "pre-season",
+    "in-season",
+    "recovery-day"
+  ],
+  "vi": {
+    "basketballTransfer": "Cầu thủ chia đĩa theo bản năng sẽ ăn đúng khi đi thi đấu xa, ăn cùng đội hay ở nhà — không cần app, không cần cân, không viện cớ.",
+    "coachingPoints": [
+      "Bắt đầu từ cái đĩa, không phải app đếm calo — thói quen thắng con số",
+      "Carbs tăng giảm theo buổi tập: nhiều vào ngày nặng, ít vào ngày nghỉ",
+      "Đạm giữ ổn định mỗi ngày — cơ bắp tái tạo hàng ngày",
+      "Rau và trái cây cộng dồn cả ngày, không cần một đĩa salad hoành tráng",
+      "Nước thuộc về hình ảnh cái đĩa — uống kèm bữa ăn"
+    ],
+    "commonMistakes": [
+      "Nửa đĩa là đồ chiên — dầu mỡ chiếm trọn mẫu đĩa",
+      "Đĩa chỉ toàn đạm trước giờ tập — thiếu phần nhiên liệu",
+      "Cả tuần không rau rồi thắc mắc sao hồi phục chậm",
+      "Thử món mới vào ngày thi đấu",
+      "Một bữa khổng lồ thay vì ba đĩa đều đặn"
+    ],
+    "description": "Mẫu hình ảnh đơn giản: chia đĩa thành carbs, đạm, rau/trái cây và nước — với 3 biến thể cho ngày nhẹ, ngày tập và ngày thi đấu, mỗi biến thể có ví dụ đĩa cơm Việt.",
+    "duration": "10 phút",
+    "howTo": [
+      {
+        "detail": "Carbs là tiền năng lượng: cơm, bún phở, bánh mì, xôi, khoai lang, bắp. Ngày tập và ngày thi đấu, carbs chiếm phần lớn nhất của đĩa — khoảng một nửa. Ngày nghỉ, thu nhỏ còn khoảng một phần tư, nhường chỗ cho rau.",
+        "title": "Carbs: phần năng lượng"
+      },
+      {
+        "detail": "Đạm tái tạo cơ bắp: một phần cỡ lòng bàn tay gồm thịt gà, cá, thịt heo, thịt bò, trứng, đậu phụ hoặc tôm trong mỗi bữa chính. Giữ phần này ổn định khoảng một phần tư đĩa, mỗi ngày — tập hay nghỉ đều vậy.",
+        "title": "Đạm: phần tái tạo"
+      },
+      {
+        "detail": "Rau và trái cây mang vitamin, khoáng chất và chất xơ: rau luộc, canh rau, dưa leo, cà chua, thêm trái cây sau bữa. Lấp phần tư còn lại (nhiều hơn vào ngày nhẹ). Đĩa ăn nhiều màu thường nghĩa là cơ thể đủ dưỡng chất.",
+        "title": "Rau và trái cây: phần màu sắc"
+      },
+      {
+        "detail": "Nước đặt cạnh đĩa chứ không nằm trên đĩa — nhưng thuộc về hình ảnh mẫu. Một đến hai ly kèm bữa ăn, uống nhiều hơn quanh buổi tập. Nước ngọt không tính vào phần nước.",
+        "title": "Nước: phần tư vô hình"
+      },
+      {
+        "detail": "Ngày nhẹ: 1/4 carbs, 1/4 đạm, 1/2 rau — ví dụ cơm ít với cá kho + tô canh rau lớn. Ngày tập: 1/2 carbs, 1/4 đạm, 1/4 rau — ví dụ đầy bát cơm gà + rau. Ngày thi đấu: như ngày tập nhưng nhạt và quen thuộc hơn — ví dụ cơm thịt heo luộc + canh, không món mới.",
+        "title": "3 biến thể: ngày nhẹ, ngày tập, ngày thi đấu"
+      }
+    ],
+    "progression": [
+      "Cơ bản: mỗi ngày kiểm tra đĩa ăn một lần — đủ cả 4 phần chưa?",
+      "Trung cấp: tự động tăng giảm phần carbs theo tải tập",
+      "Nâng cao: chia đĩa đúng trong mọi hoàn cảnh — ăn cùng đội, quán vỉa hè, giải đấu xa"
+    ],
+    "setsReps": "Mỗi bữa chính chia theo mẫu: carbs + đạm + rau/trái cây + nước, 3 lần mỗi ngày.",
+    "tags": [
+      "dinh dưỡng",
+      "đĩa ăn hiệu suất",
+      "mẫu bữa ăn",
+      "carbs",
+      "đạm",
+      "rau củ"
+    ],
+    "title": "Đĩa ăn hiệu suất cho bóng rổ",
+    "whatItDevelops": [
+      "Chia đĩa ăn theo mẫu hình ảnh",
+      "Điều chỉnh carbs theo ngày tập",
+      "Ăn đúng khi không có cân đo",
+      "Thói quen ăn ổn định mỗi ngày"
+    ],
+    "whyBasketball": [
+      "Cầu thủ ăn ba bữa ngoài quán nhiều hơn ở nhà — cần mẫu đơn giản nhớ được",
+      "Carbs theo ngày tập giúp chân khỏe ngày nặng, người nhẹ ngày nghỉ",
+      "Đạm đều mỗi ngày giúp cơ bắp phục hồi giữa các buổi tập",
+      "Mẫu đĩa loại bỏ chuyện đếm calo phức tạp"
+    ]
+  },
+  "whatItDevelops": [
+    "Plating by a visual template",
+    "Scaling carbs to training days",
+    "Eating right without weighing food",
+    "Steady daily eating habits"
+  ],
+  "whyBasketball": [
+    "Players eat more meals out than at home — they need a template simple enough to remember",
+    "Carbs matched to training days keep legs fresh on hard days and bodies light on rest days",
+    "Daily steady protein helps muscles recover between sessions",
+    "The plate template removes complicated calorie counting"
+  ]
+}

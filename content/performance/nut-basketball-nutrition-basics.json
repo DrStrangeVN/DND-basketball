@@ -1,0 +1,154 @@
+{
+  "basketballTransfer": "Well-fueled players maintain sprint speed and decision quality in the fourth quarter instead of fading.",
+  "category": "basics",
+  "coachingPoints": [
+    "Carbs are the primary fuel for high-intensity basketball — never fear rice or noodles before training",
+    "Protein at every meal matters more than one giant post-workout shake",
+    "Fat is essential too — don't stay extremely low-fat for months",
+    "Young athletes who are still growing need even more total energy"
+  ],
+  "commonMistakes": [
+    "Skipping breakfast, then dragging through morning practice",
+    "Eating too little on heavy days and wondering why legs feel dead",
+    "Drinking only during training, never before or after",
+    "Starting a strict 'clean eating' plan that lasts five days and collapses"
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "The complete foundation of eating for basketball: the three macronutrients, water, and how to fuel two-session training days without rigid meal plans.",
+  "duration": "8 min",
+  "equipment": [
+    "Kitchen scale (optional)"
+  ],
+  "goal": [
+    "conditioning"
+  ],
+  "howTo": [
+    {
+      "detail": "Fill half your plate with carbs (rice, noodles, potatoes), a quarter with protein (meat, fish, eggs, tofu), and a quarter with vegetables and fruit. Push the carb portion higher on heavy training days.",
+      "title": "Build the athlete's plate"
+    },
+    {
+      "detail": "On days with morning practice plus evening scrimmage, add a full extra meal or two big snacks. Eat before each session, not just after.",
+      "title": "Fuel two-session days"
+    },
+    {
+      "detail": "Carry a bottle everywhere. Pale-yellow urine means you're on track. Plain water covers the needs of most training sessions.",
+      "title": "Drink water all day"
+    },
+    {
+      "detail": "Eat clean and purposeful 80% of the time; the other 20% is real life. One enjoyable meal never ruins a week of training.",
+      "title": "Follow the 80/20 rule"
+    }
+  ],
+  "hub": "nutrition",
+  "id": "perf-nut-basketball-nutrition-basics",
+  "level": "beginner",
+  "positions": [
+    "all"
+  ],
+  "progression": [
+    "Beginner: eat 3 real meals daily and carry a water bottle",
+    "Intermediate: time carbs around training and apply the 80/20 rule",
+    "Advanced: adjust portions by session load and track energy across a full week"
+  ],
+  "references": [
+    "FIBA Nutrition Guidelines",
+    "IOC Consensus Statement on Sports Nutrition",
+    "ACSM Position Stand: Nutrition and Athletic Performance"
+  ],
+  "relatedTopics": [
+    "nut-carbs-basketball",
+    "nut-protein-basketball",
+    "hyd-hydration-basics",
+    "ap-basketball-conditioning"
+  ],
+  "setsReps": "3 balanced meals + 1–2 snacks daily; full meal 2–3 hours before training",
+  "slug": "nut-basketball-nutrition-basics",
+  "subcategory": "foundations",
+  "tags": [
+    "nutrition",
+    "fundamentals",
+    "energy",
+    "meal planning",
+    "hydration"
+  ],
+  "title": "Basketball Nutrition Basics",
+  "trainingPhase": [
+    "off-season",
+    "pre-season",
+    "in-season",
+    "game-day",
+    "recovery-day"
+  ],
+  "vi": {
+    "basketballTransfer": "Cầu thủ nạp đủ năng lượng giữ được tốc độ và khả năng xử lý bóng đến hiệp 4 thay vì hụt hơi.",
+    "coachingPoints": [
+      "Tinh bột là nhiên liệu chính của bóng rổ cường độ cao — đừng sợ cơm hay bún trước buổi tập",
+      "Ăn đạm ở mọi bữa quan trọng hơn một ly sữa protein lớn sau tập",
+      "Chất béo cũng cần thiết — đừng ăn kiêng béo cực đoan kéo dài",
+      "Cầu thủ trẻ đang tuổi lớn cần tổng năng lượng nhiều hơn nữa"
+    ],
+    "commonMistakes": [
+      "Bỏ bữa sáng rồi lê lết qua buổi tập sáng",
+      "Ăn quá ít trong ngày tập nặng rồi thắc mắc sao chân nặng như chì",
+      "Chỉ uống nước trong lúc tập, trước và sau đều không uống",
+      "Theo chế độ ăn kiêng khắt khe được 5 ngày rồi bỏ cuộc"
+    ],
+    "description": "Nền tảng dinh dưỡng cho cầu thủ bóng rổ: ba nhóm chất chính, nước và cách nạp đủ năng lượng cho những ngày tập 2 buổi mà không cần thực đơn cứng nhắc.",
+    "duration": "8 phút",
+    "howTo": [
+      {
+        "detail": "Một nửa đĩa là tinh bột (cơm, bún, khoai), một phần tư là đạm (thịt, cá, trứng, đậu phụ), một phần tư còn lại là rau củ và trái cây. Ngày tập nặng thì tăng phần tinh bột lên.",
+        "title": "Xếp đĩa ăn chuẩn cầu thủ"
+      },
+      {
+        "detail": "Ngày nào sáng tập chiều đấu tập thì ăn thêm một bữa chính hoặc hai bữa phụ lớn. Ăn trước mỗi buổi tập, đừng chỉ ăn sau khi tập xong.",
+        "title": "Nạp đủ cho ngày tập 2 buổi"
+      },
+      {
+        "detail": "Mang bình nước theo người. Nước tiểu màu vàng nhạt là dấu hiệu bù nước tốt. Nước lọc là đủ cho hầu hết buổi tập.",
+        "title": "Uống nước cả ngày"
+      },
+      {
+        "detail": "Ăn chuẩn và có mục đích 80% thời gian, 20% còn lại cứ thoải mái. Một bữa ăn vui không phá hỏng cả tuần tập luyện.",
+        "title": "Áp dụng nguyên tắc 80/20"
+      }
+    ],
+    "progression": [
+      "Cơ bản: ăn đủ 3 bữa chính mỗi ngày và mang bình nước theo người",
+      "Trung cấp: canh tinh bột quanh buổi tập và áp dụng nguyên tắc 80/20",
+      "Nâng cao: điều chỉnh khẩu phần theo cường độ từng buổi và theo dõi năng lượng cả tuần"
+    ],
+    "setsReps": "3 bữa chính cân bằng + 1–2 bữa phụ mỗi ngày; bữa chính đầy đủ trước buổi tập 2–3 tiếng",
+    "tags": [
+      "dinh dưỡng",
+      "nền tảng",
+      "năng lượng",
+      "bữa ăn",
+      "bù nước"
+    ],
+    "title": "Nền tảng dinh dưỡng bóng rổ",
+    "whatItDevelops": [
+      "Chiến lược nạp năng lượng cho buổi tập và trận đấu",
+      "Thói quen xếp bữa ăn cân bằng",
+      "Ý thức bù nước cả ngày",
+      "Tư duy ăn uống linh hoạt (nguyên tắc 80/20)"
+    ],
+    "whyBasketball": [
+      "Ngày tập 2 buổi có thể tiêu tốn hơn 3.500 calo — ăn thiếu thể hiện ngay ở đôi chân nặng nề trong hiệp 4",
+      "Thiếu tinh bột làm cầu thủ chạy chậm hơn và xử lý bóng chậm hơn ở cuối trận",
+      "Mất nước chỉ 2% trọng lượng cơ thể cũng làm giảm sức bật và khả năng tập trung"
+    ]
+  },
+  "whatItDevelops": [
+    "Fueling strategy for training and games",
+    "Balanced plate habit",
+    "All-day hydration awareness",
+    "Flexible eating mindset (80/20)"
+  ],
+  "whyBasketball": [
+    "Two-a-day schedules can burn 3,500+ calories — under-fueling shows up as heavy legs in the 4th quarter",
+    "Carb-depleted players sprint slower and decide slower late in games",
+    "Fluid losses of even 2% body weight impair jump performance and focus"
+  ]
+}

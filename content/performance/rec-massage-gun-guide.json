@@ -1,0 +1,148 @@
+{
+  "basketballTransfer": "Used well, a massage gun is a 5-minute shortcut to looser quads and calves before practice. Used badly, it is an expensive way to bruise yourself. The difference is entirely technique and restraint.",
+  "category": "methods",
+  "coachingPoints": [
+    "Start on the lowest setting. You can always go up; you cannot un-bruise.",
+    "Keep it moving — 30–60 seconds per muscle, never parked on one spot.",
+    "Use the soft ball head for big muscles; save the pointed heads for... actually, skip the pointed heads near bones entirely.",
+    "If it hurts sharply, stop. Discomfort that fades is fine; pain that spikes is not."
+  ],
+  "commonMistakes": [
+    "Max speed, max pressure, on a sore muscle the night before finals.",
+    "Using it directly on the Achilles tendon, knee, or spine.",
+    "Lending it to a teammate who immediately goes full power on your neck.",
+    "Replacing sleep, food, and training load management with a gadget."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "How basketball players actually use a massage gun — right technique, right timing, and the limits nobody mentions.",
+  "duration": "5–10 min",
+  "equipment": [
+    "Massage gun"
+  ],
+  "goal": [
+    "move-better"
+  ],
+  "howTo": [
+    {
+      "detail": "Large ball or flat head for quads, glutes, calves. Lowest speed to start. These heads spread force safely over big muscles.",
+      "title": "Pick the right head"
+    },
+    {
+      "detail": "Slow passes along the muscle, 30–60 seconds each. Quads, hamstrings, glutes, calves — the basketball big four.",
+      "title": "Keep it moving"
+    },
+    {
+      "detail": "Never on: Achilles tendon, front of the knee, spine, neck arteries, or any swollen/bruised area. When in doubt, move to the muscle belly nearby.",
+      "title": "Avoid danger zones"
+    },
+    {
+      "detail": "Best before practice as a quick primer (2–3 min per area) or after for relaxation. Not during acute injury — that needs a professional.",
+      "title": "Time it right"
+    }
+  ],
+  "hub": "recovery",
+  "id": "perf-rec-massage-gun-guide",
+  "level": "intermediate",
+  "medicalDisclaimer": true,
+  "positions": [
+    "all"
+  ],
+  "progression": [
+    "Beginner: lowest setting, quads + calves only, 5 minutes.",
+    "Intermediate: full lower body routine, pre-practice primer.",
+    "Advanced: integrate with a full recovery protocol — gun for speed, hands and movement for depth."
+  ],
+  "relatedTopics": [
+    "rec-foam-rolling-guide",
+    "rec-mobility-routine",
+    "rec-active-recovery",
+    "rec-myth-expensive-equipment",
+    "ip-basketball-warm-up"
+  ],
+  "setsReps": "30–60 seconds per muscle group, lowest effective setting. If you need max power, the muscle needs rest, not pounding.",
+  "slug": "rec-massage-gun-guide",
+  "subcategory": "massage-gun",
+  "tags": [
+    "recovery",
+    "massage-gun",
+    "mobility",
+    "routine"
+  ],
+  "title": "Massage Gun: How Players Use It",
+  "trainingPhase": [
+    "in-season",
+    "off-season",
+    "pre-season",
+    "recovery-day"
+  ],
+  "vi": {
+    "basketballTransfer": "Dùng đúng, súng massage là lối tắt 5 phút để đùi và bắp chân thả lỏng trước buổi tập. Dùng sai, nó là cách đắt tiền để tự làm mình bầm tím. Khác biệt hoàn toàn nằm ở kỹ thuật và sự tiết chế.",
+    "coachingPoints": [
+      "Bắt đầu ở mức thấp nhất. Tăng lên lúc nào cũng được; vết bầm thì không xóa được.",
+      "Giữ đầu súng di chuyển — mỗi nhóm cơ 30–60 giây, không dí một chỗ.",
+      "Đầu bi mềm cho nhóm cơ lớn; đầu nhọn thì... thôi, đừng dùng gần xương.",
+      "Đau nhói thì dừng. Khó chịu dịu dần thì được; đau tăng vọt thì không."
+    ],
+    "commonMistakes": [
+      "Tốc độ tối đa, lực tối đa, lên nhóm cơ đang đau ngay đêm trước chung kết.",
+      "Dí trực tiếp lên gân Achilles, mặt trước gối, cột sống.",
+      "Cho đồng đội mượn rồi bạn dí hết công suất lên cổ mình.",
+      "Lấy thiết bị thay cho giấc ngủ, ăn uống và quản lý tải tập."
+    ],
+    "description": "Cách cầu thủ bóng rổ dùng súng massage trong thực tế — kỹ thuật đúng, thời điểm đúng, và những giới hạn ít ai nói.",
+    "duration": "5–10 phút",
+    "howTo": [
+      {
+        "detail": "Đầu bi to hoặc đầu phẳng cho đùi, mông, bắp chân. Bắt đầu ở tốc độ thấp nhất. Các đầu này phân tán lực an toàn trên nhóm cơ lớn.",
+        "title": "Chọn đầu súng đúng"
+      },
+      {
+        "detail": "Di chuyển chậm dọc theo cơ, mỗi nhóm 30–60 giây. Đùi trước, đùi sau, mông, bắp chân — 4 nhóm cơ chính của bóng rổ.",
+        "title": "Giữ súng di chuyển"
+      },
+      {
+        "detail": "Tuyệt đối tránh: gân Achilles, mặt trước gối, cột sống, động mạch cổ, vùng sưng/bầm. Không chắc thì chuyển sang phần bụng cơ gần đó.",
+        "title": "Tránh vùng nguy hiểm"
+      },
+      {
+        "detail": "Tốt nhất trước tập để 'mở máy' nhanh (mỗi vùng 2–3 phút) hoặc sau tập để thư giãn. Không dùng khi chấn thương cấp — cái đó cần chuyên môn.",
+        "title": "Dùng đúng thời điểm"
+      }
+    ],
+    "progression": [
+      "Cơ bản: mức thấp nhất, chỉ đùi trước + bắp chân, 5 phút.",
+      "Trung cấp: đủ thân dưới, dùng mở máy trước tập.",
+      "Nâng cao: kết hợp vào quy trình hồi phục đầy đủ — súng cho nhanh, tay và vận động cho sâu."
+    ],
+    "setsReps": "Mỗi nhóm cơ 30–60 giây, mức thấp nhất mà vẫn hiệu quả. Nếu phải dùng hết công suất, nghĩa là cơ cần nghỉ chứ không cần bị nện.",
+    "tags": [
+      "hồi phục",
+      "súng massage",
+      "mobility",
+      "thói quen"
+    ],
+    "title": "Súng massage: cách cầu thủ dùng đúng",
+    "whatItDevelops": [
+      "Kỹ thuật dùng súng an toàn",
+      "Thả lỏng nhanh trước tập",
+      "Tự chăm sóc có kỷ luật",
+      "Hiểu giới hạn thiết bị"
+    ],
+    "whyBasketball": [
+      "Súng massage phổ biến trong phòng thay đồ vì nó nhanh: 5 phút là đùi nhẹ hẳn trước buổi tập. Tốc độ là ưu điểm thật.",
+      "Nhưng nhanh không có nghĩa là mạnh. Hiểu lầm tai hại nhất là 'càng mạnh càng sâu càng tốt' — thực tế lực quá đà chỉ gây bầm và co cơ phòng thủ.",
+      "Quy tắc vàng: súng là để tiết kiệm thời gian, không phải để thay thế ngủ, ăn và quản lý tải tập. Đội nào hiểu điều này thì thiết bị mới đáng tiền."
+    ]
+  },
+  "whatItDevelops": [
+    "Safe gun technique",
+    "Quick pre-practice loosening",
+    "Disciplined self-care",
+    "Understanding device limits"
+  ],
+  "whyBasketball": [
+    "Massage guns are popular in locker rooms because they are fast: 5 minutes and the quads feel lighter before practice. Speed is a genuine advantage.",
+    "But fast does not mean forceful. The most damaging misconception is 'harder and deeper is better' — excessive force just causes bruising and protective tightening.",
+    "The golden rule: the gun saves time, it does not replace sleep, food, and load management. Teams that understand this get their money's worth."
+  ]
+}

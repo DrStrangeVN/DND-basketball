@@ -1,0 +1,148 @@
+{
+  "basketballTransfer": "Players who master food-first fueling recover better and perform more consistently than those chasing the next powder.",
+  "category": "supplements",
+  "coachingPoints": [
+    "Protein powder is just convenient food — it never outperforms real meals",
+    "Multivitamins don't fix a diet of instant noodles",
+    "If a product promises dramatic results in weeks, that's a red flag",
+    "Young athletes: your body is still developing — extra caution applies"
+  ],
+  "commonMistakes": [
+    "Buying supplements before fixing skipped meals",
+    "Trusting influencer ads over third-party certification",
+    "Stacking multiple products with overlapping ingredients",
+    "Assuming 'natural' on the label means safe and legal"
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "A careful look at sports supplements: real food always comes first, supplements only fill genuine gaps, and how to evaluate any product before it touches your body.",
+  "duration": "8 min",
+  "equipment": [
+    "None required"
+  ],
+  "goal": [],
+  "howTo": [
+    {
+      "detail": "Before considering any product: 3 real meals daily, protein at each meal, water all day, 8+ hours of sleep. Most 'gaps' disappear here.",
+      "title": "Fix food first"
+    },
+    {
+      "detail": "A genuine gap looks like: can't eat enough during school days, vegetarian with low protein, or a doctor-confirmed deficiency — not 'I want faster gains'.",
+      "title": "Identify a real gap"
+    },
+    {
+      "detail": "Look for NSF Certified for Sport or Informed-Sport logos. These programs test for banned substances and label accuracy. No logo, no trust.",
+      "title": "Check third-party testing"
+    },
+    {
+      "detail": "Ask your coach or a sports doctor before buying anything. Never take a product just because a teammate 'recommends' it.",
+      "title": "Talk to an expert first"
+    }
+  ],
+  "hub": "nutrition",
+  "id": "perf-nut-supplements-vs-food",
+  "level": "intermediate",
+  "medicalDisclaimer": true,
+  "positions": [
+    "all"
+  ],
+  "progression": [
+    "Beginner: nail 3 real meals daily for a month before even thinking about supplements",
+    "Intermediate: identify one genuine gap with your coach and research certified options",
+    "Advanced: maintain a short, reviewed supplement list — or none at all"
+  ],
+  "references": [
+    "IOC Consensus Statement on Dietary Supplements and the High-Performance Athlete",
+    "NSF Certified for Sport",
+    "Informed-Sport"
+  ],
+  "relatedTopics": [
+    "nut-supplement-safety",
+    "nut-basketball-nutrition-basics",
+    "rec-sleep-for-athletes"
+  ],
+  "setsReps": "Food-first audit monthly; any supplement decision goes through coach/doctor review",
+  "slug": "nut-supplements-vs-food",
+  "subcategory": "food-first",
+  "tags": [
+    "nutrition",
+    "supplements",
+    "food first",
+    "safety"
+  ],
+  "title": "Supplements vs Food First",
+  "trainingPhase": [
+    "off-season",
+    "pre-season",
+    "in-season",
+    "game-day",
+    "recovery-day"
+  ],
+  "vi": {
+    "basketballTransfer": "Cầu thủ nắm vững nguyên tắc thức ăn là nền tảng hồi phục tốt hơn và thi đấu ổn định hơn những người chạy theo loại bột mới nhất.",
+    "coachingPoints": [
+      "Bột protein chỉ là thức ăn tiện lợi — không bao giờ hơn được bữa ăn thật",
+      "Vitamin tổng hợp không sửa được chế độ ăn toàn mì gói",
+      "Sản phẩm nào hứa hẹn kết quả ngoạn mục trong vài tuần là dấu hiệu đáng ngờ",
+      "VĐV trẻ: cơ thể còn đang phát triển — càng phải thận trọng gấp bội"
+    ],
+    "commonMistakes": [
+      "Mua thực phẩm bổ sung trong khi vẫn bỏ bữa",
+      "Tin quảng cáo của người nổi tiếng hơn chứng nhận kiểm nghiệm độc lập",
+      "Dùng chồng nhiều sản phẩm có thành phần trùng nhau",
+      "Nghĩ chữ 'tự nhiên' trên nhãn nghĩa là an toàn và hợp lệ"
+    ],
+    "description": "Nhìn nhận thận trọng về thực phẩm bổ sung thể thao: thức ăn thật luôn là nền tảng, thực phẩm bổ sung chỉ lấp khoảng trống thật sự, và cách đánh giá bất kỳ sản phẩm nào trước khi đưa vào cơ thể.",
+    "duration": "8 phút",
+    "howTo": [
+      {
+        "detail": "Trước khi nghĩ đến bất kỳ sản phẩm nào: 3 bữa thật mỗi ngày, đạm trong mỗi bữa, nước cả ngày, ngủ 8 tiếng trở lên. Hầu hết 'khoảng trống' biến mất ở bước này.",
+        "title": "Sửa thức ăn trước"
+      },
+      {
+        "detail": "Khoảng trống thật trông như: không ăn đủ trong ngày đi học, ăn chay thiếu đạm, hoặc bác sĩ xác nhận thiếu chất — chứ không phải 'muốn lên cơ nhanh'.",
+        "title": "Xác định khoảng trống thật sự"
+      },
+      {
+        "detail": "Tìm logo NSF Certified for Sport hoặc Informed-Sport. Các chương trình này kiểm tra chất cấm và độ chính xác nhãn mác. Không có logo thì không tin.",
+        "title": "Kiểm tra chứng nhận kiểm nghiệm độc lập"
+      },
+      {
+        "detail": "Hỏi HLV hoặc bác sĩ thể thao trước khi mua bất cứ thứ gì. Đừng bao giờ dùng sản phẩm chỉ vì đồng đội 'giới thiệu'.",
+        "title": "Hỏi chuyên gia trước"
+      }
+    ],
+    "progression": [
+      "Cơ bản: ăn đủ 3 bữa thật mỗi ngày trong một tháng trước khi nghĩ đến thực phẩm bổ sung",
+      "Trung cấp: cùng HLV xác định một khoảng trống thật và tìm hiểu sản phẩm có chứng nhận",
+      "Nâng cao: duy trì danh sách thực phẩm bổ sung ngắn gọn đã được duyệt — hoặc không dùng gì cả"
+    ],
+    "setsReps": "Rà soát lại thức ăn mỗi tháng; mọi quyết định dùng thực phẩm bổ sung đều qua HLV/bác sĩ",
+    "tags": [
+      "dinh dưỡng",
+      "thực phẩm bổ sung",
+      "thức ăn là nền tảng",
+      "an toàn"
+    ],
+    "title": "Thức ăn trước, thực phẩm bổ sung sau",
+    "whatItDevelops": [
+      "Khung ra quyết định lấy thức ăn làm gốc",
+      "Kỹ năng đánh giá thực phẩm bổ sung",
+      "Tư duy tỉnh táo trước quảng cáo"
+    ],
+    "whyBasketball": [
+      "Hầu hết cầu thủ trẻ không cần bất kỳ thực phẩm bổ sung nào — bữa ăn đều đặn thắng mọi loại bột",
+      "Tiền đổ vào thực phẩm bổ sung không cần thiết là tiền không còn để mua thức ăn thật",
+      "Chọn sai sản phẩm có thể ảnh hưởng sức khỏe và tư cách thi đấu — đánh giá kỹ là bắt buộc"
+    ]
+  },
+  "whatItDevelops": [
+    "Food-first decision framework",
+    "Supplement evaluation skills",
+    "Healthy skepticism toward marketing"
+  ],
+  "whyBasketball": [
+    "Most young players don't need any supplements — consistent meals beat any powder",
+    "Money spent on unneeded supplements is money not spent on real food",
+    "A bad supplement choice can risk health and eligibility — evaluation matters"
+  ]
+}

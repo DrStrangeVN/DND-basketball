@@ -1,0 +1,151 @@
+{
+  "basketballTransfer": "Full fuel tanks mean your 10th sprint of the game looks like your first — and your jumper stays smooth late.",
+  "category": "basics",
+  "coachingPoints": [
+    "Rice is a perfect basketball fuel — cheap, familiar, and effective",
+    "Don't fear carbs before games; fear arriving depleted",
+    "Fruit counts as carbs too — bananas, mango, and watermelon are great",
+    "On tournament days with multiple games, eat carbs between games, not just before the first"
+  ],
+  "commonMistakes": [
+    "Cutting carbs to 'get lean' and losing all explosiveness",
+    "Eating a huge carb meal 30 minutes before tip-off",
+    "Choosing only sugary snacks and crashing mid-session",
+    "Eating the same small portions on game days as on rest days"
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "Why carbs are a basketball player's best friend: how they power sprints and jumps, when to load them around training, and the best Vietnamese carb sources.",
+  "duration": "7 min",
+  "equipment": [
+    "Kitchen scale (optional)"
+  ],
+  "goal": [
+    "conditioning"
+  ],
+  "howTo": [
+    {
+      "detail": "Rice, noodles, pho, bread, sweet potato, or oats — roughly half your plate on training days.",
+      "title": "Make carbs the base of every meal"
+    },
+    {
+      "detail": "Bigger carb portions at the meals before training; lighter ones after rest days.",
+      "title": "Front-load training days"
+    },
+    {
+      "detail": "Carbs in the recovery meal restock glycogen for tomorrow's session.",
+      "title": "Refill after sessions"
+    },
+    {
+      "detail": "Plain rice beats an exotic superfood your stomach has never met.",
+      "title": "Choose familiar, not fancy"
+    }
+  ],
+  "hub": "nutrition",
+  "id": "perf-nut-carbs-basketball",
+  "level": "beginner",
+  "positions": [
+    "all"
+  ],
+  "progression": [
+    "Beginner: add a carb food to every meal, every day",
+    "Intermediate: time bigger carb portions around training sessions",
+    "Advanced: match carb intake to session type — sprint days vs. skill days"
+  ],
+  "references": [
+    "IOC Consensus Statement on Sports Nutrition",
+    "ACSM Position Stand: Nutrition and Athletic Performance"
+  ],
+  "relatedTopics": [
+    "nut-pre-training-3-hours",
+    "nut-post-training-recovery-meal",
+    "ap-basketball-conditioning",
+    "nut-basketball-nutrition-basics"
+  ],
+  "setsReps": "Carbs at every meal; larger portions pre-training and post-training",
+  "slug": "nut-carbs-basketball",
+  "subcategory": "carbohydrates",
+  "tags": [
+    "nutrition",
+    "carbs",
+    "energy",
+    "fueling",
+    "game day"
+  ],
+  "title": "Carbohydrates: Basketball Fuel",
+  "trainingPhase": [
+    "off-season",
+    "pre-season",
+    "in-season",
+    "game-day",
+    "recovery-day"
+  ],
+  "vi": {
+    "basketballTransfer": "Bình nhiên liệu đầy giúp lần chạy nước rút thứ 10 trong trận vẫn như lần đầu — và cú ném vẫn mượt ở cuối trận.",
+    "coachingPoints": [
+      "Cơm là nhiên liệu bóng rổ hoàn hảo — rẻ, quen thuộc và hiệu quả",
+      "Đừng sợ tinh bột trước trận; hãy sợ bước vào trận với bình nhiên liệu cạn",
+      "Trái cây cũng là tinh bột — chuối, xoài, dưa hấu đều tuyệt vời",
+      "Ngày thi đấu nhiều trận, ăn tinh bột giữa các trận chứ không chỉ trước trận đầu"
+    ],
+    "commonMistakes": [
+      "Cắt tinh bột để 'giảm mỡ' rồi mất hết sức bật",
+      "Ăn một bữa tinh bột lớn 30 phút trước giờ thi đấu",
+      "Chỉ ăn đồ ngọt rồi tụt năng lượng giữa buổi",
+      "Ăn khẩu phần như ngày nghỉ trong khi hôm đó có trận đấu"
+    ],
+    "description": "Vì sao tinh bột là người bạn tốt nhất của cầu thủ bóng rổ: cách tinh bột tạo năng lượng cho chạy nước rút và bật nhảy, khi nào nạp quanh buổi tập, và những nguồn tinh bột Việt Nam tốt nhất.",
+    "duration": "7 phút",
+    "howTo": [
+      {
+        "detail": "Cơm, bún, phở, bánh mì, khoai lang hoặc yến mạch — khoảng nửa đĩa trong ngày tập.",
+        "title": "Lấy tinh bột làm nền mỗi bữa"
+      },
+      {
+        "detail": "Tăng phần tinh bột ở các bữa trước buổi tập; giảm bớt vào ngày nghỉ.",
+        "title": "Nạp nhiều vào ngày tập"
+      },
+      {
+        "detail": "Tinh bột trong bữa hồi phục giúp đầy lại glycogen cho ngày mai.",
+        "title": "Nạp lại sau buổi tập"
+      },
+      {
+        "detail": "Cơm trắng tốt hơn món 'siêu thực phẩm' lạ mà dạ dày chưa từng gặp.",
+        "title": "Chọn món quen, đừng cầu kỳ"
+      }
+    ],
+    "progression": [
+      "Cơ bản: thêm một món tinh bột vào mọi bữa, mỗi ngày",
+      "Trung cấp: canh khẩu phần tinh bột lớn quanh buổi tập",
+      "Nâng cao: điều chỉnh tinh bột theo loại buổi tập — ngày chạy nước rút khác ngày tập kỹ thuật"
+    ],
+    "setsReps": "Tinh bột trong mọi bữa; tăng khẩu phần trước và sau buổi tập",
+    "tags": [
+      "dinh dưỡng",
+      "tinh bột",
+      "năng lượng",
+      "nạp nhiên liệu",
+      "ngày thi đấu"
+    ],
+    "title": "Tinh bột: nhiên liệu của bóng rổ",
+    "whatItDevelops": [
+      "Tư duy nạp năng lượng lấy tinh bột làm chủ đạo",
+      "Canh thời điểm tinh bột trước/sau tập",
+      "Chọn nguồn tinh bột Việt Nam thông minh"
+    ],
+    "whyBasketball": [
+      "Bóng rổ là chuỗi bùng nổ cường độ cao lặp đi lặp lại — chỉ tinh bột mới tạo năng lượng đủ nhanh",
+      "Cầu thủ ăn ít tinh bột hết 'số' từ hiệp hai",
+      "Cơ thiếu glycogen dễ chuột rút hơn và hồi phục chậm hơn"
+    ]
+  },
+  "whatItDevelops": [
+    "Carb-first fueling mindset",
+    "Pre/post-training carb timing",
+    "Smart Vietnamese carb choices"
+  ],
+  "whyBasketball": [
+    "Basketball is repeated high-intensity bursts — carbs are the only fuel fast enough for them",
+    "Low-carb players run out of gears in the second half",
+    "Glycogen-depleted muscles cramp sooner and recover slower"
+  ]
+}

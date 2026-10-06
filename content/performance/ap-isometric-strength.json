@@ -1,0 +1,160 @@
+{
+  "id": "perf-ap-isometric-strength",
+  "slug": "ap-isometric-strength",
+  "hub": "athletic-performance",
+  "category": "strength",
+  "subcategory": "isometric",
+  "title": "Isometric Strength",
+  "description": "Hold strong positions under pressure. Wall sits, iso lunge holds, and iso push-up holds build strength with low fatigue — perfect for in-season maintenance.",
+  "level": "intermediate",
+  "positions": [
+    "all"
+  ],
+  "trainingPhase": [
+    "pre-season",
+    "in-season"
+  ],
+  "goal": [
+    "get-stronger",
+    "move-better"
+  ],
+  "duration": "10–15 min",
+  "equipment": [
+    "Wall",
+    "Squat rack or sturdy frame"
+  ],
+  "whatItDevelops": [
+    "Static strength at key joint angles",
+    "Tendon and connective tissue tolerance",
+    "Position control under fatigue"
+  ],
+  "whyBasketball": [
+    "Builds strength without heavy soreness — you can play the next day",
+    "Trains the low stance you live in on defense",
+    "Ideal for in-season when gym time and recovery are limited"
+  ],
+  "howTo": [
+    {
+      "title": "Wall sit",
+      "detail": "Back flat against the wall, slide down until thighs are parallel to the floor. Knees over ankles, feet flat. Hold and breathe steadily."
+    },
+    {
+      "title": "Iso lunge hold",
+      "detail": "Drop into a lunge with front thigh parallel to the floor and back knee just off the ground. Hold, chest tall, hips square. Switch legs."
+    },
+    {
+      "title": "Iso push-up hold",
+      "detail": "Lower into a push-up until your chest is a fist-width above the floor. Hold with a straight body line — no sagging hips."
+    },
+    {
+      "title": "Breathe through the shake",
+      "detail": "When the muscles start shaking, do not hold your breath. Slow nose inhales, long mouth exhales. The shake is the work."
+    },
+    {
+      "title": "Finish with one round of all three",
+      "detail": "Run through wall sit, both lunges, and push-up hold one final time at slightly shorter holds. Then stand up and shake everything out."
+    }
+  ],
+  "coachingPoints": [
+    "Pick positions that match basketball: parallel thighs, 90-degree knees.",
+    "Breathe continuously — never hold your breath under tension.",
+    "Quality beats duration: stop the set when position breaks down.",
+    "Keep the body line rigid — hips, ribs, and shoulders move as one.",
+    "Rest 45–60 seconds between holds."
+  ],
+  "commonMistakes": [
+    "Holding the breath during hard efforts.",
+    "Letting the knees drift past the toes in the lunge.",
+    "Sagging hips in the push-up hold.",
+    "Chasing longer holds with sloppy, broken positions."
+  ],
+  "setsReps": "3 sets × 20–45 second holds per exercise; 45–60 seconds rest between sets.",
+  "basketballTransfer": "Defense is a series of holds: low stance through a possession, boxing out through contact, absorbing a charge. Isometrics train exactly that.",
+  "progression": [
+    "Beginner: 3 sets × 20-second holds with 60 seconds rest. Master clean positions first.",
+    "Intermediate: 3–4 sets × 30–45-second holds. Add a light pause at the hardest joint angle.",
+    "Advanced: 4 sets × 45–60-second holds, or add load — a plate on the lap for wall sits, a vest for lunges."
+  ],
+  "relatedTopics": [
+    "ap-posterior-chain",
+    "ap-explosive-power-basics",
+    "ip-warm-up-5-minute",
+    "ip-knee-risk-reduction"
+  ],
+  "tags": [
+    "strength",
+    "isometric",
+    "wall sit",
+    "in-season",
+    "low fatigue"
+  ],
+  "references": [
+    "NSCA — Essentials of Strength Training and Conditioning (4th ed.)",
+    "USA Basketball — Strength and Conditioning Guidelines"
+  ],
+  "dateUpdated": "2026-10-06",
+  "vi": {
+    "title": "Sức mạnh tĩnh (isometric strength)",
+    "description": "Giữ vững tư thế dưới áp lực. Wall sit, iso lunge hold và iso push-up hold xây dựng sức mạnh với độ mệt mỏi thấp — lý tưởng để duy trì trong mùa giải.",
+    "whatItDevelops": [
+      "Sức mạnh tĩnh tại các góc khớp quan trọng",
+      "Khả năng chịu tải của gân và mô liên kết",
+      "Kiểm soát tư thế khi mệt"
+    ],
+    "whyBasketball": [
+      "Tăng sức mạnh mà không ê ẩm nặng — hôm sau vẫn thi đấu tốt",
+      "Rèn tư thế thấp, tư thế gắn liền với phòng thủ",
+      "Phù hợp trong mùa giải khi thời gian tập tạ và hồi phục hạn chế"
+    ],
+    "howTo": [
+      {
+        "title": "Wall sit",
+        "detail": "Lưng áp sát tường, trượt xuống đến khi đùi song song mặt sàn. Đầu gối trên mắt cá chân, bàn chân đặt phẳng. Giữ và thở đều."
+      },
+      {
+        "title": "Iso lunge hold",
+        "detail": "Hạ người vào tư thế lunge với đùi trước song song mặt sàn, đầu gối sau gần chạm đất. Giữ, ngực dựng thẳng, hông vuông góc. Đổi chân."
+      },
+      {
+        "title": "Iso push-up hold",
+        "detail": "Hạ người trong tư thế chống đẩy đến khi ngực cách sàn một nắm tay. Giữ thân người thẳng — không võng hông."
+      },
+      {
+        "title": "Thở xuyên qua cơn run",
+        "detail": "Khi cơ bắt đầu run, không nín thở. Hít vào bằng mũi, thở ra dài bằng miệng. Cơn run chính là bài tập đang phát huy."
+      },
+      {
+        "title": "Kết thúc bằng một vòng cả ba động tác",
+        "detail": "Chạy lại wall sit, lunge hai bên và push-up hold một vòng cuối với thời gian giữ ngắn hơn. Sau đó đứng dậy, thả lỏng toàn thân."
+      }
+    ],
+    "coachingPoints": [
+      "Chọn tư thế đúng bóng rổ: đùi song song sàn, đầu gối 90 độ.",
+      "Thở liên tục — không bao giờ nín thở khi gồng.",
+      "Chất lượng hơn thời gian: dừng hiệp khi tư thế vỡ.",
+      "Giữ đường thân cứng — hông, sườn và vai chuyển động như một khối.",
+      "Nghỉ 45–60 giây giữa các lần giữ."
+    ],
+    "commonMistakes": [
+      "Nín thở khi gồng mạnh.",
+      "Để đầu gối vượt quá mũi chân trong lunge.",
+      "Võng hông trong push-up hold.",
+      "Chạy theo thời gian giữ dài hơn bằng tư thế hỏng."
+    ],
+    "setsReps": "3 hiệp × giữ 20–45 giây cho mỗi động tác; nghỉ 45–60 giây giữa các hiệp.",
+    "basketballTransfer": "Phòng thủ là chuỗi các lần giữ: tư thế thấp suốt một đợt tấn công, box out chịu va chạm, hấp thụ pha phạm lỗi tấn công. Tập tĩnh rèn đúng những điều đó.",
+    "progression": [
+      "Người mới: 3 hiệp × giữ 20 giây, nghỉ 60 giây. Nắm vững tư thế chuẩn trước.",
+      "Trung cấp: 3–4 hiệp × giữ 30–45 giây. Thêm một nhịp dừng ở góc khớp khó nhất.",
+      "Nâng cao: 4 hiệp × giữ 45–60 giây, hoặc thêm tải — đặt đĩa tạ lên đùi khi wall sit, mặc áo tạ khi lunge."
+    ],
+    "tags": [
+      "sức mạnh",
+      "tập tĩnh",
+      "wall sit",
+      "trong mùa giải",
+      "ít mệt mỏi"
+    ],
+    "duration": "10–15 phút"
+  }
+}

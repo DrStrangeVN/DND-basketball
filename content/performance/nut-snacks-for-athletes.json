@@ -1,0 +1,171 @@
+{
+  "basketballTransfer": "Smart snacking keeps energy steady across double sessions and tournaments — no more fading in the afternoon game because lunch was six hours ago.",
+  "category": "basics",
+  "coachingPoints": [
+    "A snack is a bridge between meals, not a meal itself — keep it small",
+    "Carbs lead in snacks around training; protein helps between meals",
+    "Pack snacks the night before a tournament or away game",
+    "Familiar snacks only on game day — no new products",
+    "Water first: sometimes 'hunger' before training is thirst"
+  ],
+  "commonMistakes": [
+    "A snack as big as a meal, then no appetite for real food",
+    "Only candy and chips — sugar spike, then a crash mid-session",
+    "No snacks on tournament days — running on fumes by game two",
+    "Expensive imported bars when bananas do the same job",
+    "Forgetting snacks for the trip home after late games"
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "Smart snacks for basketball players: what to eat before and after training, and portable options to bring to tournaments — prioritizing cheap, familiar Vietnamese foods like bananas, bread, milk, yogurt, boiled eggs, and boiled sweet potato.",
+  "duration": "10 min",
+  "equipment": [
+    "Kitchen scale (optional)"
+  ],
+  "goal": [
+    "conditioning",
+    "explosive"
+  ],
+  "howTo": [
+    {
+      "detail": "A good athlete snack is small, familiar, easy to digest, and matched to timing: carbs-forward before training, carbs + protein after, and portable for travel days. If it needs a fridge, a microwave, or chopsticks, it's not a travel snack.",
+      "title": "What makes a good athlete snack"
+    },
+    {
+      "detail": "60–90 minutes before: chuối (1–2), bánh mì không or bánh mì nhỏ, sữa đậu nành, a few bánh quy, or khoai lang luộc nhỏ. Quick carbs, light stomach. Nothing new, nothing heavy.",
+      "title": "Pre-training snacks"
+    },
+    {
+      "detail": "Within 2 hours after: the snack should carry you to a real meal — sữa chua + chuối, hộp sữa + bánh mì, trứng luộc + bánh quy, or đậu phộng rang + trái cây. Carbs refill, protein starts repairs.",
+      "title": "Post-training snacks"
+    },
+    {
+      "detail": "Pack for the bag: chuối, bánh mì, hộp sữa/sữa đậu nành, trứng luộc (eat within a few hours), khoai lang luộc, bánh quy, đậu phộng/hạt điều gói nhỏ, sữa chua uống. All cheap, all available at any Vietnamese market or convenience store.",
+      "title": "Portable game-day snacks"
+    },
+    {
+      "detail": "Night before: pack the bag — snacks, water bottle, and a spare. Morning of: eat the pre-game snack on schedule even if nerves say skip. Between games: banana + water first, then something more filling. After the last game: real food within 2 hours.",
+      "title": "Snack routine for tournament days"
+    }
+  ],
+  "hub": "nutrition",
+  "id": "perf-nut-snacks-for-athletes",
+  "level": "beginner",
+  "positions": [
+    "all"
+  ],
+  "progression": [
+    "Beginner: keep bananas and milk at home — never train on empty again",
+    "Intermediate: pack a snack bag for every away game and tournament",
+    "Advanced: match snack type and timing to the day's schedule automatically"
+  ],
+  "references": [
+    "FIBA — Nutrition guidelines for basketball players",
+    "USA Basketball — Nutrition basics for young athletes",
+    "NBA Academy — Fueling for performance"
+  ],
+  "relatedTopics": [
+    "nut-vn-pre-practice-meals",
+    "nut-vn-game-day-meals",
+    "nut-food-library-carbs",
+    "nut-food-library-protein",
+    "hyd-hydration-basics"
+  ],
+  "setsReps": "Eat a small snack 60–90 min before training, a carbs + protein snack within 2h after, and pack portable snacks for every game day.",
+  "slug": "nut-snacks-for-athletes",
+  "subcategory": "snacks",
+  "tags": [
+    "nutrition",
+    "snacks",
+    "pre-training",
+    "post-training",
+    "game day",
+    "vietnamese food"
+  ],
+  "title": "Smart Snacks for Basketball Players",
+  "trainingPhase": [
+    "off-season",
+    "pre-season",
+    "in-season",
+    "game-day"
+  ],
+  "vi": {
+    "basketballTransfer": "Snack đúng giữ năng lượng ổn định suốt ngày tập 2 buổi và giải đấu — không còn đuối ở trận chiều vì bữa trưa đã cách 6 tiếng.",
+    "coachingPoints": [
+      "Snack là cầu nối giữa các bữa, không phải bữa ăn — giữ nhỏ",
+      "Snack quanh buổi tập ưu tiên carbs; giữa các bữa thì thêm đạm",
+      "Tối hôm trước giải đấu hoặc trận sân khách: chuẩn bị snack sẵn",
+      "Ngày thi đấu chỉ snack quen — không thử sản phẩm mới",
+      "Nước trước đã: đôi khi 'đói' trước tập thật ra là khát"
+    ],
+    "commonMistakes": [
+      "Snack to như bữa ăn, rồi mất cảm giác thèm bữa thật",
+      "Chỉ kẹo và bim bim — đường tăng vọt rồi tụt giữa buổi",
+      "Ngày giải đấu không snack — trận thứ hai chạy bằng hơi tàn",
+      "Mua thanh năng lượng ngoại đắt tiền trong khi chuối làm được việc tương tự",
+      "Quên snack cho đường về sau trận tối muộn"
+    ],
+    "description": "Snack thông minh cho cầu thủ bóng rổ: ăn gì trước và sau buổi tập, và món mang theo đi thi đấu — ưu tiên đồ Việt rẻ, quen thuộc như chuối, bánh mì, sữa, sữa chua, trứng luộc, khoai lang luộc.",
+    "duration": "10 phút",
+    "howTo": [
+      {
+        "detail": "Snack tốt cho cầu thủ là nhỏ, quen thuộc, dễ tiêu, và hợp thời điểm: nhiều carbs trước tập, carbs + đạm sau tập, gọn nhẹ để mang đi. Món nào cần tủ lạnh, lò vi sóng hay đũa thì không phải snack mang theo.",
+        "title": "Snack tốt cho cầu thủ là gì"
+      },
+      {
+        "detail": "Trước 60–90 phút: chuối (1–2 quả), bánh mì không hoặc bánh mì nhỏ, sữa đậu nành, vài chiếc bánh quy, hoặc khoai lang luộc nhỏ. Carbs nhanh, bụng nhẹ. Không món mới, không món nặng.",
+        "title": "Snack trước buổi tập"
+      },
+      {
+        "detail": "Trong 2 tiếng sau tập: snack giữ sức tới bữa thật — sữa chua + chuối, hộp sữa + bánh mì, trứng luộc + bánh quy, hoặc đậu phộng rang + trái cây. Carbs nạp lại, đạm bắt đầu sửa chữa.",
+        "title": "Snack sau buổi tập"
+      },
+      {
+        "detail": "Bỏ túi mang theo: chuối, bánh mì, hộp sữa/sữa đậu nành, trứng luộc (ăn trong vài tiếng), khoai lang luộc, bánh quy, đậu phộng/hạt điều gói nhỏ, sữa chua uống. Toàn món rẻ, chợ hay cửa hàng tiện lợi Việt Nam nào cũng có.",
+        "title": "Snack mang theo ngày thi đấu"
+      },
+      {
+        "detail": "Tối hôm trước: chuẩn bị túi — snack, bình nước, đồ dự phòng. Sáng hôm thi đấu: ăn snack trước trận đúng giờ dù hồi hộp muốn bỏ. Giữa các trận: chuối + nước trước, rồi món chắc bụng hơn. Sau trận cuối: bữa thật trong 2 tiếng.",
+        "title": "Thói quen snack ngày giải đấu"
+      }
+    ],
+    "progression": [
+      "Cơ bản: luôn có chuối và sữa ở nhà — không tập với bụng đói nữa",
+      "Trung cấp: chuẩn bị túi snack cho mọi trận sân khách và giải đấu",
+      "Nâng cao: tự động chọn loại snack và thời điểm theo lịch của từng ngày"
+    ],
+    "setsReps": "Snack nhỏ trước tập 60–90 phút, snack carbs + đạm trong 2 tiếng sau tập, và túi snack mang theo mỗi ngày thi đấu.",
+    "tags": [
+      "dinh dưỡng",
+      "snack",
+      "trước buổi tập",
+      "sau buổi tập",
+      "ngày thi đấu",
+      "món việt"
+    ],
+    "title": "Snack thông minh cho cầu thủ bóng rổ",
+    "whatItDevelops": [
+      "Chọn snack đúng thời điểm",
+      "Snack mang theo đi thi đấu",
+      "Kết hợp carbs và đạm trong snack",
+      "Thói quen chuẩn bị snack"
+    ],
+    "whyBasketball": [
+      "Khoảng trống giữa các bữa dài — snack giữ năng lượng không đứt quãng",
+      "Ngày giải đấu nhiều trận, không snack là đuối từ trận hai",
+      "Snack Việt rẻ và dễ mua hơn thanh năng lượng ngoại",
+      "Thói quen snack ổn định giúp buổi tập đều phong độ"
+    ]
+  },
+  "whatItDevelops": [
+    "Choosing snacks for the right timing",
+    "Portable game-day snacking",
+    "Combining carbs and protein in snacks",
+    "A snack-prep habit"
+  ],
+  "whyBasketball": [
+    "Gaps between meals are long — snacks keep energy continuous",
+    "Tournament days have multiple games; no snacks means fading by game two",
+    "Vietnamese snacks are cheaper and easier to buy than imported bars",
+    "A steady snacking habit keeps practice performance consistent"
+  ]
+}

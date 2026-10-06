@@ -1,0 +1,151 @@
+{
+  "basketballTransfer": "You arrive at the away gym fueled and hydrated — travel fatigue stays in the bus, not on the court.",
+  "category": "tournament",
+  "coachingPoints": [
+    "Pack food like you pack your shoes — it's game equipment.",
+    "Eat on your normal schedule, even if the bus stops at odd hours.",
+    "A homemade lunchbox beats any rest-stop meal.",
+    "Fried rest-stop food is the number one travel-day trap.",
+    "Water is your travel companion — drink more on travel days, not less."
+  ],
+  "commonMistakes": [
+    "Leaving with no food and 'figuring it out' on the road.",
+    "Eating a huge greasy meal at a rest stop right before the game.",
+    "Skipping meals because the schedule is chaotic.",
+    "Forgetting water and arriving dehydrated after a long bus ride."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "Eat well on the road: pack your own food, keep your normal meal schedule, and skip the greasy rest-stop traps — arrive at the away gym ready to play.",
+  "duration": "15 min",
+  "equipment": [
+    "Cooler bag",
+    "Water bottles",
+    "Portable snacks"
+  ],
+  "goal": [],
+  "howTo": [
+    {
+      "detail": "Before you leave, pack a travel bag of food: cơm hộp, bánh mì, trứng luộc, trái cây (chuối, cam), sữa, and a water bottle. Enough for the trip plus one extra meal in case of delays. This bag is as important as your jersey.",
+      "title": "Pack food before you leave"
+    },
+    {
+      "detail": "Travel scrambles routines — anchor your day with meals at your normal times. Set phone reminders if needed. A missed lunch on the bus becomes a weak fourth quarter at the gym.",
+      "title": "Eat on schedule, not on convenience"
+    },
+    {
+      "detail": "Rest stops sell fried, salty, heavy food designed to sit in your stomach for hours. If you must eat there, pick the simplest option — plain rice, grilled items, fruit — and keep the portion moderate. Save the feast for after you're home.",
+      "title": "Avoid the fried rest-stop trap"
+    },
+    {
+      "detail": "Buses and cars dehydrate you quietly — air conditioning, no reminders to drink. Sip water through the whole trip and refill at every stop. Arriving even mildly dehydrated makes the first quarter feel twice as hard.",
+      "title": "Drink more water, not less"
+    },
+    {
+      "detail": "Plan one proper meal at your destination before the game — the pre-game meal timing (3–4 hours before tip-off) still applies. If arrival is tight, eat your packed food on the bus so the timing holds.",
+      "title": "Protect the pre-game meal"
+    }
+  ],
+  "hub": "nutrition",
+  "id": "perf-nut-travel-day-nutrition",
+  "level": "beginner",
+  "positions": [
+    "all"
+  ],
+  "progression": [
+    "Beginner: for your next away trip, pack just a lunchbox and a water bottle — no rest-stop food.",
+    "Intermediate: build a standard travel food list and reuse it for every away game.",
+    "Advanced: coordinate with teammates — one person brings fruit, another brings bread, and nobody depends on the road."
+  ],
+  "relatedTopics": [
+    "hyd-hydration-basics",
+    "nut-game-day-breakfast",
+    "nut-tournament-day-fueling",
+    "rec-sleep-for-athletes"
+  ],
+  "setsReps": "Packed travel food + meals on normal schedule; water sipped throughout the trip.",
+  "slug": "nut-travel-day-nutrition",
+  "subcategory": "travel",
+  "tags": [
+    "travel",
+    "away game",
+    "meal prep",
+    "hydration"
+  ],
+  "title": "Travel Day Nutrition",
+  "trainingPhase": [
+    "game-day"
+  ],
+  "vi": {
+    "basketballTransfer": "Đến sân khách với năng lượng và nước đầy đủ — mệt vì đi đường để lại trên xe, không mang lên sân.",
+    "coachingPoints": [
+      "Xếp đồ ăn như xếp giày — đó là trang bị thi đấu.",
+      "Ăn đúng giờ bình thường, dù xe có dừng vào giờ lạ.",
+      "Hộp cơm nhà luôn thắng mọi bữa ăn ở trạm dừng.",
+      "Đồ chiên ở trạm dừng là cái bẫy số một của ngày đi xa.",
+      "Nước là bạn đồng hành — ngày đi xa uống nhiều hơn, không phải ít đi."
+    ],
+    "commonMistakes": [
+      "Ra khỏi nhà tay không rồi 'tính sau' trên đường.",
+      "Ăn một bữa chiên xào thật to ở trạm dừng ngay trước trận.",
+      "Bỏ bữa vì lịch trình lộn xộn.",
+      "Quên uống nước, đến nơi đã thiếu nước sau chuyến xe dài."
+    ],
+    "description": "Ăn tốt khi đi xa: tự mang đồ ăn theo, giữ đúng giờ ăn bình thường, tránh bẫy đồ chiên ở trạm dừng — đến sân khách trong trạng thái sẵn sàng thi đấu.",
+    "duration": "15 phút",
+    "howTo": [
+      {
+        "detail": "Trước khi đi, xếp túi đồ ăn mang theo: cơm hộp, bánh mì, trứng luộc, trái cây (chuối, cam), sữa và chai nước. Đủ cho chuyến đi cộng thêm một bữa dự phòng khi kẹt xe. Túi này quan trọng như áo đấu.",
+        "title": "Xếp đồ ăn trước khi đi"
+      },
+      {
+        "detail": "Đi xa làm lịch sinh hoạt loạn — giữ bữa ăn đúng giờ bình thường để neo ngày lại. Đặt nhắc nhở trên điện thoại nếu cần. Bỏ bữa trưa trên xe thì hiệp bốn ở sân sẽ yếu.",
+        "title": "Ăn đúng giờ, không ăn tiện đâu hay đó"
+      },
+      {
+        "detail": "Trạm dừng bán đồ chiên, mặn, nặng bụng — ăn vào ì ạch hàng tiếng. Nếu bắt buộc ăn ở đó, chọn món đơn giản nhất — cơm trắng, đồ nướng, trái cây — và ăn vừa phải. Bữa ngon để dành khi về nhà.",
+        "title": "Tránh bẫy đồ chiên ở trạm dừng"
+      },
+      {
+        "detail": "Xe khách, ô tô làm cơ thể mất nước âm thầm — điều hòa, không ai nhắc uống nước. Nhấp nước suốt chuyến đi và châm đầy ở mỗi trạm dừng. Đến nơi đã thiếu nước nhẹ thì hiệp đầu sẽ mệt gấp đôi.",
+        "title": "Uống nhiều nước hơn, không phải ít đi"
+      },
+      {
+        "detail": "Sắp xếp một bữa tử tế ở điểm đến trước trận — mốc 3–4 tiếng trước giờ thi đấu vẫn áp dụng. Nếu đến nơi gấp, ăn đồ đã mang theo trên xe để giữ đúng giờ.",
+        "title": "Bảo vệ bữa ăn trước trận"
+      }
+    ],
+    "progression": [
+      "Mới bắt đầu: chuyến đi xa tới chỉ cần mang hộp cơm và chai nước — không ăn ở trạm dừng.",
+      "Nâng cao dần: lập danh sách đồ ăn đi xa chuẩn và dùng lại cho mọi trận sân khách.",
+      "Nâng cao: phối hợp với đồng đội — người mang trái cây, người mang bánh mì, không ai phụ thuộc vào đường đi."
+    ],
+    "setsReps": "Đồ ăn mang theo + bữa ăn đúng giờ bình thường; nhấp nước suốt chuyến đi.",
+    "tags": [
+      "đi xa",
+      "sân khách",
+      "chuẩn bị đồ ăn",
+      "bù nước"
+    ],
+    "title": "Dinh dưỡng ngày đi xa",
+    "whatItDevelops": [
+      "Ăn uống ổn định khi di chuyển",
+      "Thói quen tự chuẩn bị đồ ăn",
+      "Bù nước đầy đủ trên đường đi"
+    ],
+    "whyBasketball": [
+      "Trận sân khách nào cũng có chuyến đi — ăn uống lộn xộn trên đường làm mất phong độ trước cả giờ bóng lăn.",
+      "Đồ chiên ở trạm dừng là nguyên nhân phổ biến nhất gây nặng bụng, buồn nôn ở trận sân khách.",
+      "Cầu thủ tự mang đồ ăn đến sân khách với cùng trạng thái như sân nhà."
+    ]
+  },
+  "whatItDevelops": [
+    "Consistent eating while traveling",
+    "A pack-your-own-food habit",
+    "Staying hydrated on the road"
+  ],
+  "whyBasketball": [
+    "Every away game starts with a trip — messy road eating ruins performance before tip-off.",
+    "Fried rest-stop food is the most common cause of heavy stomachs and nausea in away games.",
+    "Players who pack their own food arrive at away gyms in the same shape as at home."
+  ]
+}

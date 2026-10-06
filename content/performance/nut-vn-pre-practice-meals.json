@@ -1,0 +1,170 @@
+{
+  "basketballTransfer": "Well-timed pre-practice food means full-speed warm-ups, no energy dips mid-session, and legs that stay springy through the last drill.",
+  "category": "vietnamese-meals",
+  "coachingPoints": [
+    "A pre-practice meal is fuel, not a feast — eat to feel energized, not stuffed",
+    "Familiar food only: the meal before practice is not the time to try a new restaurant",
+    "Carbs lead, protein supports — don't invert that before training",
+    "If you're still nervous about eating before practice, start with small snacks and build up",
+    "Early morning practice: something small beats nothing at all"
+  ],
+  "commonMistakes": [
+    "Eating a huge bowl of bún bò Huế 30 minutes before sprints — stomach vs. legs, legs lose",
+    "Arriving on an empty stomach after skipping lunch",
+    "A protein-only snack (just eggs) before a long session — missing carbs",
+    "Trying a new milk tea flavor right before practice",
+    "Forgetting water — food without fluid still leaves you flat"
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "What to eat before practice using real Vietnamese food, organized by timing: a full meal 3 hours out, a lighter meal 1–2 hours out, and small snacks 30–60 minutes out.",
+  "duration": "10 min",
+  "equipment": [
+    "Basic kitchen setup"
+  ],
+  "goal": [
+    "conditioning",
+    "explosive"
+  ],
+  "howTo": [
+    {
+      "detail": "Eat a full familiar meal: cơm gà/cá + rau, or a bowl of phở bò with extra noodles. This is your main fuel load — plenty of carbs, moderate protein, some vegetables. Avoid very greasy or very spicy dishes here so your stomach is settled long before warm-up.",
+      "title": "3 hours before: a full meal"
+    },
+    {
+      "detail": "Go lighter: bánh mì trứng, a small bowl of cháo thịt bằm, or xôi gà. Enough carbs to top up energy, easy to digest. Skip deep-fried extras (chả giò, hành phi) at this window — oil slows digestion right when you need speed.",
+      "title": "1–2 hours before: a lighter meal"
+    },
+    {
+      "detail": "Keep it tiny and fast: 1–2 bananas, a small sữa đậu nành or hộp sữa, a few bánh quy, or a small bánh mì không. The goal is just to stop hunger and add a little quick fuel — not a real meal.",
+      "title": "30–60 minutes before: a small snack"
+    },
+    {
+      "detail": "Drink water with your pre-practice food and keep sipping until warm-up. For sessions over an hour, plan to drink during breaks too. Sweet drinks are unnecessary — water is the baseline.",
+      "title": "Fluids alongside food"
+    },
+    {
+      "detail": "If practice starts at 6–7 AM, eat something within 30 minutes of waking: chuối + sữa, xôi gà nhỏ, or bánh mì trứng. A small breakfast you digest well beats a perfect breakfast you skip.",
+      "title": "Early morning practice: eat something, anything"
+    }
+  ],
+  "hub": "nutrition",
+  "id": "perf-nut-vn-pre-practice-meals",
+  "level": "beginner",
+  "positions": [
+    "all"
+  ],
+  "progression": [
+    "Beginner: stop arriving on an empty stomach — add the 30–60 minute snack habit",
+    "Intermediate: plan the 1–2 hour lighter meal around your regular practice schedule",
+    "Advanced: adjust meal size to session intensity — big fuel for hard days, lighter for shootaround"
+  ],
+  "references": [
+    "FIBA — Nutrition guidelines for basketball players",
+    "USA Basketball — Nutrition basics for young athletes",
+    "IOC — Consensus statement on sports nutrition"
+  ],
+  "relatedTopics": [
+    "nut-vietnamese-athlete-meals",
+    "nut-vn-game-day-meals",
+    "nut-performance-plate",
+    "hyd-game-day-hydration",
+    "ap-basketball-conditioning"
+  ],
+  "setsReps": "Match every practice with a food plan: full meal 3h out → lighter meal 1–2h out → small snack 30–60 min out.",
+  "slug": "nut-vn-pre-practice-meals",
+  "subcategory": "pre-training",
+  "tags": [
+    "nutrition",
+    "vietnamese food",
+    "pre-practice",
+    "meal timing",
+    "carbs",
+    "snacks"
+  ],
+  "title": "Vietnamese Pre-Practice Meal Ideas",
+  "trainingPhase": [
+    "off-season",
+    "pre-season",
+    "in-season"
+  ],
+  "vi": {
+    "basketballTransfer": "Ăn đúng giờ trước buổi tập giúp khởi động hết tốc độ, không tụt năng lượng giữa buổi, chân vẫn bật tốt tới bài tập cuối cùng.",
+    "coachingPoints": [
+      "Bữa trước tập là nhiên liệu, không phải bữa tiệc — ăn để thấy khỏe, không phải ăn no căng",
+      "Chỉ ăn món quen: bữa trước tập không phải lúc thử quán mới",
+      "Carbs dẫn đầu, đạm hỗ trợ — đừng đảo ngược trước giờ tập",
+      "Nếu ngại ăn trước tập, bắt đầu từ snack nhỏ rồi tăng dần",
+      "Tập sáng sớm: ăn chút gì đó vẫn hơn bỏ hẳn"
+    ],
+    "commonMistakes": [
+      "Ăn tô bún bò Huế đầy 30 phút trước khi chạy nước rút — bụng đấu với chân, chân thua",
+      "Đến sân với bụng đói vì bỏ bữa trưa",
+      "Snack chỉ có đạm (toàn trứng) trước buổi tập dài — thiếu carbs",
+      "Thử vị trà sữa mới ngay trước giờ tập",
+      "Quên uống nước — có ăn mà thiếu nước vẫn đuối"
+    ],
+    "description": "Ăn gì trước buổi tập bằng món Việt thật, chia theo khung giờ: bữa no trước 3 tiếng, bữa nhẹ trước 1–2 tiếng, và snack nhỏ trước 30–60 phút.",
+    "duration": "10 phút",
+    "howTo": [
+      {
+        "detail": "Ăn một bữa đầy đủ và quen thuộc: cơm gà/cá + rau, hoặc tô phở bò thêm bánh. Đây là lần nạp nhiên liệu chính — nhiều carbs, đạm vừa phải, thêm rau. Tránh món quá dầu mỡ hay quá cay ở bữa này để bụng êm trước giờ khởi động.",
+        "title": "Trước 3 tiếng: một bữa no"
+      },
+      {
+        "detail": "Ăn nhẹ hơn: bánh mì trứng, bát cháo thịt bằm nhỏ, hoặc xôi gà. Đủ carbs để nạp thêm năng lượng, dễ tiêu. Bỏ qua đồ chiên kèm (chả giò, hành phi) ở khung giờ này — dầu làm chậm tiêu hóa đúng lúc bạn cần tốc độ.",
+        "title": "Trước 1–2 tiếng: bữa nhẹ"
+      },
+      {
+        "detail": "Giữ thật nhỏ và nhanh: 1–2 quả chuối, một bịch sữa đậu nành hay hộp sữa, vài chiếc bánh quy, hoặc ổ bánh mì không nhỏ. Mục tiêu chỉ là hết đói và thêm chút nhiên liệu nhanh — không phải bữa ăn thật.",
+        "title": "Trước 30–60 phút: snack nhỏ"
+      },
+      {
+        "detail": "Uống nước cùng bữa ăn trước tập và nhấp tiếp tới lúc khởi động. Buổi tập trên một tiếng thì lên kế hoạch uống trong giờ nghỉ. Không cần nước ngọt — nước lọc là nền tảng.",
+        "title": "Nước uống kèm theo"
+      },
+      {
+        "detail": "Nếu tập từ 6–7 giờ sáng, ăn gì đó trong 30 phút sau khi dậy: chuối + sữa, xôi gà nhỏ, hoặc bánh mì trứng. Bữa sáng nhỏ mà tiêu hóa tốt vẫn hơn bữa sáng hoàn hảo mà bỏ.",
+        "title": "Tập sáng sớm: ăn gì cũng được, miễn là ăn"
+      }
+    ],
+    "progression": [
+      "Cơ bản: không đến sân với bụng đói nữa — tập thói quen snack trước 30–60 phút",
+      "Trung cấp: lên kế hoạch bữa nhẹ 1–2 tiếng theo lịch tập cố định",
+      "Nâng cao: điều chỉnh cỡ bữa theo độ nặng buổi tập — nạp nhiều cho ngày nặng, nhẹ cho buổi ném rổ"
+    ],
+    "setsReps": "Mỗi buổi tập đi kèm kế hoạch ăn: bữa no trước 3 tiếng → bữa nhẹ trước 1–2 tiếng → snack nhỏ trước 30–60 phút.",
+    "tags": [
+      "dinh dưỡng",
+      "món việt",
+      "trước buổi tập",
+      "thời điểm ăn",
+      "carbs",
+      "snack"
+    ],
+    "title": "Ý tưởng bữa ăn Việt trước buổi tập",
+    "whatItDevelops": [
+      "Chọn món Việt đúng khung giờ trước tập",
+      "Cân bằng no bụng và đủ năng lượng",
+      "Thói quen ăn trước tập đều đặn",
+      "Tránh ăn sai giờ gây nặng bụng"
+    ],
+    "whyBasketball": [
+      "Buổi tập bóng rổ dài và nặng — đến sân với bụng đói là tự làm khó mình",
+      "Ăn quá no quá gần giờ tập khiến bụng ì, chạy không nổi",
+      "Món Việt quen thuộc dễ kiếm quanh sân tập, không cần đồ ngoại",
+      "Thói quen ăn trước tập ổn định giúp phong độ buổi tập đều hơn"
+    ]
+  },
+  "whatItDevelops": [
+    "Choosing Vietnamese food at the right pre-practice timing",
+    "Balancing fullness and energy",
+    "A consistent pre-practice eating routine",
+    "Avoiding badly timed meals that weigh you down"
+  ],
+  "whyBasketball": [
+    "Basketball practices are long and intense — arriving hungry is self-sabotage",
+    "Eating too much too close to practice leaves you sluggish and slow",
+    "Familiar Vietnamese food is available near any court — no imported products needed",
+    "A stable pre-practice routine makes practice performance more consistent"
+  ]
+}

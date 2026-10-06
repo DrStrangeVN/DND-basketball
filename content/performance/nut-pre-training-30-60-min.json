@@ -1,0 +1,147 @@
+{
+  "basketballTransfer": "No hunger fog in the opening drills — you lock in from the first whistle.",
+  "category": "pre-training",
+  "coachingPoints": [
+    "This snack never replaces a missed meal — it is damage control",
+    "Keep a banana or crackers in your gym bag as the default plan",
+    "If your stomach is sensitive, test this snack on an easy practice day first",
+    "Caffeine and energy drinks are not the answer here — food and water are"
+  ],
+  "commonMistakes": [
+    "Eating a full sandwich 20 minutes before and cramping in suicides",
+    "Choosing chocolate or candy that spikes then crashes energy",
+    "Drinking nothing until the first water break",
+    "Using this window as an excuse to skip real meals regularly"
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "The last top-up: a small, mostly simple-carb snack plus water to take the edge off hunger and sharpen focus for tip-off.",
+  "duration": "5 min",
+  "equipment": [
+    "Water bottle",
+    "Portable snack container"
+  ],
+  "goal": [
+    "conditioning"
+  ],
+  "howTo": [
+    {
+      "detail": "100–200 calories of familiar food: a banana, a few crackers, or a small bread roll.",
+      "title": "Keep it tiny"
+    },
+    {
+      "detail": "No fiber-heavy, fatty, or protein-heavy foods this close — they won't digest in time.",
+      "title": "Simple carbs only"
+    },
+    {
+      "detail": "200–300 ml now; you'll drink more during breaks.",
+      "title": "Sip water"
+    },
+    {
+      "detail": "Finish eating about 15 minutes before warm-up starts.",
+      "title": "Stop at 15 minutes out"
+    }
+  ],
+  "hub": "nutrition",
+  "id": "perf-nut-pre-training-30-60-min",
+  "level": "beginner",
+  "positions": [
+    "all"
+  ],
+  "progression": [
+    "Beginner: bring one banana to every practice",
+    "Intermediate: match the snack size to how hungry you actually are",
+    "Advanced: own a personal last-minute menu for home and away games"
+  ],
+  "references": [
+    "IOC Consensus Statement on Sports Nutrition",
+    "FIBA Nutrition Guidelines"
+  ],
+  "relatedTopics": [
+    "nut-pre-training-1-2-hours",
+    "nut-carbs-basketball",
+    "hyd-game-day-hydration"
+  ],
+  "setsReps": "1 small snack + 200–300 ml water, finished 15 minutes before warm-up",
+  "slug": "nut-pre-training-30-60-min",
+  "subcategory": "timing",
+  "tags": [
+    "nutrition",
+    "pre-training",
+    "snacks",
+    "quick energy"
+  ],
+  "title": "Eating 30–60 Minutes Before Training",
+  "trainingPhase": [
+    "pre-season",
+    "in-season",
+    "game-day"
+  ],
+  "vi": {
+    "basketballTransfer": "Không còn cảm giác đói làm mờ đầu óc trong các bài mở đầu — tập trung ngay từ tiếng còi đầu tiên.",
+    "coachingPoints": [
+      "Bữa vặt này không bao giờ thay được bữa chính đã lỡ — nó chỉ là giải pháp tình thế",
+      "Để sẵn chuối hoặc bánh quy trong túi tập làm phương án mặc định",
+      "Dạ dày nhạy cảm thì thử món này vào buổi tập nhẹ trước",
+      "Caffeine và nước tăng lực không phải đáp án ở đây — thức ăn và nước mới đúng"
+    ],
+    "commonMistakes": [
+      "Ăn cả ổ bánh mì đầy 20 phút trước tập rồi đau bụng trong bài chạy suicides",
+      "Chọn sô-cô-la hay kẹo làm năng lượng tăng vọt rồi tụt nhanh",
+      "Không uống gì cho đến giờ nghỉ đầu tiên",
+      "Lấy cớ khung giờ này để thường xuyên bỏ bữa chính"
+    ],
+    "description": "Lần nạp cuối: một bữa ăn vặt nhỏ, chủ yếu là tinh bột đơn giản cùng với nước để xua cơn đói và giữ sự tỉnh táo cho giờ tập.",
+    "duration": "5 phút",
+    "howTo": [
+      {
+        "detail": "Khoảng 100–200 calo từ món quen: một quả chuối, vài chiếc bánh quy hoặc một ổ bánh mì nhỏ.",
+        "title": "Ăn thật ít"
+      },
+      {
+        "detail": "Sát giờ tập tránh đồ nhiều xơ, nhiều béo hay nhiều đạm — dạ dày không kịp tiêu hóa.",
+        "title": "Chỉ tinh bột đơn giản"
+      },
+      {
+        "detail": "Uống 200–300 ml lúc này; trong giờ nghỉ sẽ uống thêm.",
+        "title": "Nhấp nước"
+      },
+      {
+        "detail": "Ăn xong trước lúc khởi động khoảng 15 phút.",
+        "title": "Dừng ăn trước 15 phút"
+      }
+    ],
+    "progression": [
+      "Cơ bản: mang một quả chuối đến mọi buổi tập",
+      "Trung cấp: điều chỉnh lượng ăn theo mức đói thật của mình",
+      "Nâng cao: có thực đơn phút chót riêng cho cả sân nhà lẫn sân khách"
+    ],
+    "setsReps": "1 bữa ăn vặt nhỏ + 200–300 ml nước, ăn xong trước lúc khởi động 15 phút",
+    "tags": [
+      "dinh dưỡng",
+      "ăn trước tập",
+      "bữa ăn nhẹ",
+      "năng lượng nhanh"
+    ],
+    "title": "Ăn nhẹ 30–60 phút trước buổi tập",
+    "whatItDevelops": [
+      "Nạp năng lượng phút chót",
+      "Chọn bữa ăn vặt tinh bột đơn giản",
+      "Bù nước lần cuối trước buổi tập"
+    ],
+    "whyBasketball": [
+      "Xóa cảm giác đói làm mất tập trung trong bài tập đầu tiên",
+      "Tinh bột đơn giản vào máu nhanh khi thời gian gấp",
+      "Một chút năng lượng cộng với nước giúp tỉnh táo ngay từ phần khởi động"
+    ]
+  },
+  "whatItDevelops": [
+    "Last-minute fueling",
+    "Simple-carb snack choices",
+    "Pre-session hydration top-up"
+  ],
+  "whyBasketball": [
+    "Eliminates the distraction of hunger during the first drill",
+    "Simple carbs reach the blood quickly when time is short",
+    "A small top-up plus water sharpens focus for warm-up intensity"
+  ]
+}

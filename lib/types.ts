@@ -104,3 +104,75 @@ export function toDrillCard(d: Drill): DrillCardData {
   };
 }
 
+/* ------------------------------------------------------------------ */
+/* Phase 2 — Player Performance (performance articles + hub metadata)  */
+/* ------------------------------------------------------------------ */
+
+export type PerfHubId =
+  | "athletic-performance" | "recovery" | "nutrition" | "hydration" | "injury-prevention";
+
+export interface PerfStep { title: string; detail: string }
+
+export interface PerformanceVi {
+  title: string; description: string;
+  whatItDevelops: string[]; whyBasketball: string[];
+  howTo: PerfStep[]; coachingPoints: string[]; commonMistakes: string[];
+  setsReps: string; basketballTransfer: string; progression: string[];
+  tags: string[];
+}
+
+export interface PerformanceArticle {
+  id: string; slug: string; hub: PerfHubId;
+  category: string; subcategory: string;
+  title: string; description: string;
+  level: "beginner" | "intermediate" | "advanced";
+  positions: string[]; trainingPhase: string[]; goal: string[];
+  duration: string; equipment: string[];
+  whatItDevelops: string[]; whyBasketball: string[];
+  howTo: PerfStep[]; coachingPoints: string[]; commonMistakes: string[];
+  setsReps: string; basketballTransfer: string; progression: string[];
+  relatedTopics: string[];
+  video?: { title: string; url: string };
+  tags: string[]; references?: string[]; dateUpdated: string;
+  medicalDisclaimer?: boolean;
+  vi: PerformanceVi & { duration: string };
+}
+
+export interface PerfHubMeta {
+  id: PerfHubId; name: string; nameVi: string;
+  tagline: string; taglineVi: string; icon: string;
+}
+
+export const PERF_HUBS: Record<PerfHubId, PerfHubMeta> = {
+  "athletic-performance": {
+    id: "athletic-performance", name: "Athletic Performance", nameVi: "Thể lực bóng rổ",
+    tagline: "Build the physical qualities that translate to basketball.",
+    taglineVi: "Xây dựng thể chất chuyển hóa trực tiếp lên sân đấu.",
+    icon: "Dumbbell",
+  },
+  recovery: {
+    id: "recovery", name: "Recovery", nameVi: "Hồi phục",
+    tagline: "Recover today so you can perform tomorrow.",
+    taglineVi: "Hồi phục hôm nay để ngày mai thi đấu tốt hơn.",
+    icon: "BatteryCharging",
+  },
+  nutrition: {
+    id: "nutrition", name: "Nutrition", nameVi: "Dinh dưỡng",
+    tagline: "Fuel training. Recover faster. Perform consistently.",
+    taglineVi: "Nạp năng lượng đúng cách. Hồi phục nhanh hơn. Thi đấu ổn định.",
+    icon: "Salad",
+  },
+  hydration: {
+    id: "hydration", name: "Hydration", nameVi: "Bù nước",
+    tagline: "Stay hydrated. Stay sharp. Stay in the game.",
+    taglineVi: "Đủ nước. Tỉnh táo. Bám trụ đến cuối trận.",
+    icon: "Droplets",
+  },
+  "injury-prevention": {
+    id: "injury-prevention", name: "Injury Prevention", nameVi: "Phòng ngừa chấn thương",
+    tagline: "Move better. Build capacity. Reduce preventable injury risk.",
+    taglineVi: "Di chuyển tốt hơn. Tăng sức chịu tải. Giảm nguy cơ chấn thương có thể phòng tránh.",
+    icon: "ShieldPlus",
+  },
+};
+

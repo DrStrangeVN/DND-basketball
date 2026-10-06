@@ -1,0 +1,151 @@
+{
+  "basketballTransfer": "You tip off with full glycogen stores and an empty-feeling stomach — explosive in the first quarter, steady in the fourth.",
+  "category": "game-day",
+  "coachingPoints": [
+    "The pre-game meal is insurance, not magic — it tops up what you already ate today.",
+    "If you eat well all day, this meal just needs to be solid, not special.",
+    "Never test a new restaurant on game day.",
+    "Big players can eat toward the higher end of the range; smaller players scale down.",
+    "Pair it with water — don't wait until warm-up to start drinking."
+  ],
+  "commonMistakes": [
+    "Eating a huge, heavy meal 'for energy' 1–2 hours before the game.",
+    "Loading up on spicy or high-fiber foods that cause stomach issues on court.",
+    "Treating the pre-game meal as a cheat meal with fast food.",
+    "Forgetting to drink water with it — food needs fluid to digest well."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "The main pre-game meal 3–4 hours before tip-off: a familiar plate of carbs with moderate protein, low in fat and fiber — the fuel window that decides your first half.",
+  "duration": "20 min",
+  "equipment": [
+    "Cooler bag",
+    "Water bottle",
+    "Portable snacks"
+  ],
+  "goal": [],
+  "howTo": [
+    {
+      "detail": "Plan backward from tip-off: game at 19:00 means dinner done by 15:00–16:00. This window lets the meal digest fully while glycogen stores stay topped up. Closer than 2 hours and you'll play heavy; earlier than 5 hours and the tank runs low.",
+      "title": "Eat 3–4 hours before tip-off"
+    },
+    {
+      "detail": "Build the plate the same way every time: roughly half carbohydrates (cơm, bún, phở, bánh mì, mì), a moderate portion of protein (gà, cá, trứng, thịt heo nạc), and a small serving of vegetables. Familiar Vietnamese home cooking is ideal — a rice plate with lean meat and light soup.",
+      "title": "Half carbs, moderate protein, light veg"
+    },
+    {
+      "detail": "This is a general guideline, not a prescription: most players aim for roughly 500–700 kcal — a normal full meal, not a feast. If you're a smaller player, eat a normal meal; if you're a big, adjust up slightly. Listen to your stomach, not a calculator.",
+      "title": "Aim for a normal full meal"
+    },
+    {
+      "detail": "Skip the fried chicken, extra cheese, heavy sauces, and huge salads. High-fat foods slow digestion for hours, and high-fiber foods can cause bloating mid-game. Save the exciting meals for rest days.",
+      "title": "Go easy on fat and fiber"
+    },
+    {
+      "detail": "Drink two full glasses of water with the meal and keep sipping over the next hours. Dehydration starts before tip-off, not during the game — start hydrated and you stay hydrated longer.",
+      "title": "Hydrate with the meal, not at tip-off"
+    }
+  ],
+  "hub": "nutrition",
+  "id": "perf-nut-pre-game-meal",
+  "level": "beginner",
+  "positions": [
+    "all"
+  ],
+  "progression": [
+    "Beginner: write down one pre-game meal that works for you and repeat it for a month.",
+    "Intermediate: adjust portions by game intensity — rivalry games get the full plate, casual scrimmages can be lighter.",
+    "Advanced: coordinate with your warm-up — finish eating so that digestion is done before you start dynamic stretches."
+  ],
+  "relatedTopics": [
+    "hyd-game-day-hydration",
+    "nut-pre-game-snack",
+    "nut-game-day-breakfast",
+    "ap-basketball-conditioning"
+  ],
+  "setsReps": "One main meal, finished 3–4 hours before tip-off; same plate structure every game day.",
+  "slug": "nut-pre-game-meal",
+  "subcategory": "pre-game",
+  "tags": [
+    "game day",
+    "pre-game meal",
+    "carbs",
+    "fueling"
+  ],
+  "title": "Pre-Game Meal",
+  "trainingPhase": [
+    "game-day"
+  ],
+  "vi": {
+    "basketballTransfer": "Bước ra sân với kho năng lượng đầy và bụng nhẹ tênh — hiệp đầu bùng nổ, hiệp cuối vẫn đều sức.",
+    "coachingPoints": [
+      "Bữa trước trận là bảo hiểm, không phải phép màu — nó chỉ nạp đầy những gì bạn đã ăn trong ngày.",
+      "Nếu cả ngày ăn tốt, bữa này chỉ cần chắc, không cần đặc biệt.",
+      "Đừng bao giờ thử quán mới vào ngày thi đấu.",
+      "Cầu thủ to con ăn theo mức trên của khoảng gợi ý; cầu thủ nhỏ ăn ít hơn.",
+      "Uống nước kèm bữa ăn — đừng đợi đến lúc khởi động mới bắt đầu uống."
+    ],
+    "commonMistakes": [
+      "Ăn một bữa thật to 'để lấy sức' chỉ 1–2 tiếng trước trận.",
+      "Ăn cay hoặc nhiều xơ gây đau bụng ngay trên sân.",
+      "Coi bữa trước trận là bữa 'xả' với đồ ăn nhanh.",
+      "Quên uống nước kèm bữa ăn — thức ăn cần nước để tiêu hóa tốt."
+    ],
+    "description": "Bữa chính trước trận 3–4 tiếng trước giờ bóng lăn: đĩa tinh bột quen thuộc kèm protein vừa phải, ít dầu mỡ và ít xơ — cửa sổ năng lượng quyết định hiệp đầu của bạn.",
+    "duration": "20 phút",
+    "howTo": [
+      {
+        "detail": "Tính ngược từ giờ thi đấu: trận 19 giờ thì bữa tối ăn xong trước 15–16 giờ. Khoảng này đủ để tiêu hóa trọn vẹn mà kho năng lượng vẫn đầy. Ăn gần hơn 2 tiếng thì vào trận nặng bụng; xa hơn 5 tiếng thì năng lượng hụt.",
+        "title": "Ăn trước giờ thi đấu 3–4 tiếng"
+      },
+      {
+        "detail": "Xây đĩa ăn giống nhau mỗi lần: khoảng một nửa là tinh bột (cơm, bún, phở, bánh mì, mì), một phần protein vừa phải (gà, cá, trứng, thịt heo nạc) và ít rau. Cơm nhà quen thuộc là lựa chọn lý tưởng — cơm với thịt nạc và canh nhẹ.",
+        "title": "Một nửa tinh bột, protein vừa, ít rau"
+      },
+      {
+        "detail": "Đây là khoảng gợi ý chung, không phải đơn kê: phần lớn cầu thủ ăn khoảng 500–700 kcal — một bữa no bình thường, không phải bữa tiệc. Cầu thủ nhỏ ăn một bữa bình thường; cầu thủ to con ăn nhiều hơn chút. Nghe dạ dày của mình, đừng nghe máy tính.",
+        "title": "Ăn một bữa no bình thường"
+      },
+      {
+        "detail": "Tránh gà rán, nhiều phô mai, sốt béo và salad quá to. Đồ nhiều dầu mỡ làm tiêu hóa chậm hàng tiếng, đồ nhiều xơ dễ đầy hơi giữa trận. Món ngon lạ để dành cho ngày nghỉ.",
+        "title": "Ít dầu mỡ, ít xơ"
+      },
+      {
+        "detail": "Uống hai ly nước đầy cùng bữa ăn và tiếp tục nhấp từng ngụm trong các giờ sau. Thiếu nước bắt đầu trước giờ thi đấu, không phải trong trận — uống đủ nước sớm thì giữ nước được lâu hơn.",
+        "title": "Uống nước kèm bữa ăn, đừng đợi giờ thi đấu"
+      }
+    ],
+    "progression": [
+      "Mới bắt đầu: ghi lại một bữa trước trận hợp với mình và lặp lại trong một tháng.",
+      "Nâng cao dần: chỉnh khẩu phần theo độ căng của trận — trận derby thì ăn đầy đủ, đấu tập nhẹ thì ăn nhẹ hơn.",
+      "Nâng cao: phối hợp với khởi động — ăn xong đủ sớm để tiêu hóa xong trước khi bắt đầu giãn cơ động."
+    ],
+    "setsReps": "Một bữa chính, ăn xong 3–4 tiếng trước giờ thi đấu; cấu trúc đĩa ăn giống nhau mỗi ngày thi đấu.",
+    "tags": [
+      "ngày thi đấu",
+      "bữa trước trận",
+      "tinh bột",
+      "nạp năng lượng"
+    ],
+    "title": "Bữa ăn trước trận",
+    "whatItDevelops": [
+      "Kho năng lượng đầy trước giờ bóng lăn",
+      "Dạ dày nhẹ, không nặng bụng khi vào trận",
+      "Thói quen ăn trước trận ổn định"
+    ],
+    "whyBasketball": [
+      "Bóng rổ đốt năng lượng nhanh — hiệp một đã có thể cạn kho nếu bữa trước trận quá ít.",
+      "Bữa ăn nặng, nhiều dầu mỡ làm cầu thủ chậm một nhịp và dễ đau bụng khi chạy nhanh.",
+      "Cầu thủ ăn bữa trước trận đúng giờ thường giữ nhịp tốt ở hiệp ba, hiệp bốn."
+    ]
+  },
+  "whatItDevelops": [
+    "Full glycogen stores before tip-off",
+    "A light stomach when the game starts",
+    "A consistent pre-game eating routine"
+  ],
+  "whyBasketball": [
+    "Basketball burns fuel fast — the first half can drain you if the pre-game meal is too light.",
+    "Heavy, greasy pre-game meals slow players down and cause stomach problems on fast breaks.",
+    "Players who eat the pre-game meal on time hold their pace better in the third and fourth quarters."
+  ]
+}

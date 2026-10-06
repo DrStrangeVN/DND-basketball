@@ -1,0 +1,148 @@
+{
+  "basketballTransfer": "Walking is the recovery method with the best compliance rate in sports — because it asks for nothing and gives back circulation, fresh air, and a clear head. The best recovery tool is the one you actually do.",
+  "category": "methods",
+  "coachingPoints": [
+    "Brisk but comfortable — you should be able to hold a conversation the whole time.",
+    "Morning walks set up the day; evening walks wind it down. Both count.",
+    "Leave the phone in your pocket. The mental break is half the benefit.",
+    "Hills are fine, sprints are not. This is recovery, remember?"
+  ],
+  "commonMistakes": [
+    "Walking so slowly it barely raises the heart rate — then calling it recovery.",
+    "Turning it into a power-walk workout with a weighted vest.",
+    "Only walking when injured, never as a planned habit.",
+    "One 2-hour weekend walk instead of 20 minutes most days."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "Why walking might be the most underrated recovery tool in basketball — and how to use it deliberately.",
+  "duration": "15–30 min",
+  "equipment": [
+    "None"
+  ],
+  "goal": [
+    "conditioning",
+    "move-better"
+  ],
+  "howTo": [
+    {
+      "detail": "Flat route, comfortable shoes, easy pace. Fifteen minutes is the minimum useful dose.",
+      "title": "Pick an easy route"
+    },
+    {
+      "detail": "Conversational pace the whole way. If you are breathing hard, slow down — intensity is the enemy here.",
+      "title": "Walk, don't work out"
+    },
+    {
+      "detail": "Shoulders down, breathe through the nose, notice how the legs feel. This is a body scan in motion.",
+      "title": "Check in with the body"
+    },
+    {
+      "detail": "Daily is ideal, but 4–5 days a week transforms how stiff you feel. Anchor it: after breakfast, after practice, after dinner.",
+      "title": "Make it a daily anchor"
+    }
+  ],
+  "hub": "recovery",
+  "id": "perf-rec-walking-recovery",
+  "level": "beginner",
+  "positions": [
+    "all"
+  ],
+  "progression": [
+    "Beginner: 15-minute easy walk, 3x per week.",
+    "Intermediate: 20–30 minutes daily, anchored to a meal or practice.",
+    "Advanced: morning walk + evening wind-down walk on rest days."
+  ],
+  "relatedTopics": [
+    "rec-active-recovery",
+    "rec-post-game-evening",
+    "rec-mobility-routine",
+    "rec-sleep-for-athletes",
+    "hyd-hydration-basics"
+  ],
+  "setsReps": "15–30 minutes, conversational pace, 4–7 days per week. The simplest prescription in this entire hub.",
+  "slug": "rec-walking-recovery",
+  "subcategory": "walking",
+  "tags": [
+    "recovery",
+    "walking",
+    "rest-day",
+    "routine"
+  ],
+  "title": "Walking as Recovery",
+  "trainingPhase": [
+    "in-season",
+    "off-season",
+    "pre-season",
+    "recovery-day"
+  ],
+  "vi": {
+    "basketballTransfer": "Đi bộ là phương pháp hồi phục có tỷ lệ duy trì cao nhất trong thể thao — vì nó không đòi hỏi gì mà cho lại lưu thông máu, không khí trong lành và đầu óc tỉnh táo. Công cụ hồi phục tốt nhất là công cụ bạn thực sự dùng.",
+    "coachingPoints": [
+      "Nhanh nhưng thoải mái — phải nói chuyện được suốt quãng đường.",
+      "Đi buổi sáng mở đầu ngày; đi buổi tối thư giãn. Cả hai đều tính.",
+      "Để điện thoại trong túi. Khoảng nghỉ tinh thần là nửa lợi ích.",
+      "Dốc thì được, chạy nước rút thì không. Nhớ đây là hồi phục."
+    ],
+    "commonMistakes": [
+      "Đi chậm đến mức tim chẳng tăng nhịp — rồi gọi đó là hồi phục.",
+      "Biến thành buổi đi bộ cường độ cao với áo tạ.",
+      "Chỉ đi bộ khi chấn thương, không bao giờ thành thói quen.",
+      "Một cuốc 2 tiếng cuối tuần thay vì 20 phút mỗi ngày."
+    ],
+    "description": "Vì sao đi bộ có thể là công cụ hồi phục bị đánh giá thấp nhất trong bóng rổ — và cách dùng nó một cách chủ đích.",
+    "duration": "15–30 phút",
+    "howTo": [
+      {
+        "detail": "Đường bằng, giày thoải mái, tốc độ dễ chịu. 15 phút là liều tối thiểu có tác dụng.",
+        "title": "Chọn đường dễ đi"
+      },
+      {
+        "detail": "Tốc độ vừa đi vừa nói chuyện suốt quãng. Thở gấp là đang nhanh quá — cường độ là kẻ thù ở đây.",
+        "title": "Đi bộ, không phải tập"
+      },
+      {
+        "detail": "Hạ vai, thở bằng mũi, cảm nhận đôi chân. Đây là buổi quét cơ thể trong lúc di chuyển.",
+        "title": "Lắng nghe cơ thể"
+      },
+      {
+        "detail": "Mỗi ngày là lý tưởng, nhưng 4–5 ngày/tuần đã thay đổi hẳn cảm giác cứng cơ. Neo nó vào: sau bữa sáng, sau buổi tập, sau bữa tối.",
+        "title": "Biến thành neo mỗi ngày"
+      }
+    ],
+    "progression": [
+      "Cơ bản: đi bộ nhẹ 15 phút, 3 lần/tuần.",
+      "Trung cấp: 20–30 phút mỗi ngày, neo vào bữa ăn hoặc buổi tập.",
+      "Nâng cao: đi bộ sáng + đi bộ thư giãn tối vào ngày nghỉ."
+    ],
+    "setsReps": "15–30 phút, tốc độ vừa nói chuyện được, 4–7 ngày/tuần. Đơn thuốc đơn giản nhất trong cả hub này.",
+    "tags": [
+      "hồi phục",
+      "đi bộ",
+      "ngày nghỉ",
+      "thói quen"
+    ],
+    "title": "Đi bộ để hồi phục",
+    "whatItDevelops": [
+      "Thói quen đi bộ mỗi ngày",
+      "Lưu thông máu nhẹ nhàng",
+      "Nghỉ ngơi tinh thần",
+      "Kỷ luật đơn giản"
+    ],
+    "whyBasketball": [
+      "Cầu thủ hay coi thường đi bộ vì nó 'quá dễ'. Nhưng dễ chính là điểm mạnh: không cần sân, không cần đồ, không mệt thêm — nên mới làm được mỗi ngày.",
+      "Đi bộ sau buổi tối thi đấu còn giúp ngủ ngon hơn: cơ thể hạ nhiệt từ từ, đầu óc thôi tua lại trận đấu.",
+      "Đừng tìm công cụ phức tạp khi chưa làm tốt thứ đơn giản. Đi bộ 20 phút mỗi ngày trong 1 tháng, rồi hẵng nói về bốt nén khí."
+    ]
+  },
+  "whatItDevelops": [
+    "Daily walking habit",
+    "Gentle circulation",
+    "Mental rest",
+    "Simple discipline"
+  ],
+  "whyBasketball": [
+    "Players dismiss walking because it feels 'too easy'. But easy is the point: no court, no gear, no added fatigue — so it actually happens daily.",
+    "An evening walk after game day also improves sleep: the body cools gradually, the mind stops replaying the game.",
+    "Do not chase complex tools before mastering the simple one. Walk 20 minutes daily for a month, then talk about compression boots."
+  ]
+}

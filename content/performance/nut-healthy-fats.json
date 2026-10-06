@@ -1,0 +1,171 @@
+{
+  "basketballTransfer": "Smart fat choices protect joints through a long season, keep hormones steady during heavy training blocks, and stop fried food from sabotaging game day.",
+  "category": "basics",
+  "coachingPoints": [
+    "Fat is essential — the goal is the right fats, not zero fat",
+    "Get fats from whole foods first: fish, nuts, peanuts, eggs",
+    "A little oil in cooking is fine — drowning food in oil is not",
+    "Nuts and peanuts are calorie-dense: a handful, not a bag",
+    "On game day, keep fats light so digestion stays fast"
+  ],
+  "commonMistakes": [
+    "Fearing all fat and eating plain boiled everything — unsustainable and unnecessary",
+    "A bag of peanuts as a 'healthy snack' — that's a meal's worth of calories",
+    "Deep-fried snacks before training — slow, greasy, sluggish",
+    "Butter and cheese overload from copying foreign diet plans",
+    "Zero fat on game day then bingeing fried food after"
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "Why basketball players need healthy fats, the best sources (fish, nuts, peanuts, sensible cooking oils, peanut butter), how much is enough, and the deep-fried trap to avoid.",
+  "duration": "10 min",
+  "equipment": [
+    "Kitchen scale (optional)"
+  ],
+  "goal": [
+    "get-stronger",
+    "move-better"
+  ],
+  "howTo": [
+    {
+      "detail": "Fats protect joints, help absorb vitamins A, D, E, K, support hormones, and provide long-lasting energy. Players in heavy training who eat almost no fat often feel flat, get sick more, and recover slower. Fat is fuel and protection — not the enemy.",
+      "title": "What fats do for players"
+    },
+    {
+      "detail": "Cá béo — cá thu, cá nục, cá basa (omega-3), đậu phộng, hạt điều, hạt bí, mè (vừng), trứng (yolks have healthy fats), bơ đậu phộng (a spoon, not the jar), dầu đậu nành/dầu ô liu for cooking in normal amounts, and quả bơ when in season. These are everyday Vietnamese-market foods.",
+      "title": "Good fat sources"
+    },
+    {
+      "detail": "Think small and steady: a handful of peanuts or cashews a day, fish 3–4 times a week, normal oil in home cooking. Fats should be the smallest visible share of the plate — roughly a thumb-sized portion per meal. Enough to function, not enough to slow you down.",
+      "title": "How much is enough"
+    },
+    {
+      "detail": "The trap isn't fat — it's deep-frying: gà rán, chả giò chiên ngập dầu, khoai tây chiên, bánh chiên. Same food grilled or boiled gives the same protein and carbs with a fraction of the oil. Fried food occasionally is fine; fried food as the daily default drains energy and adds empty calories.",
+      "title": "The deep-fried trap"
+    },
+    {
+      "detail": "On game day, keep fats light: grilled or boiled dishes over fried ones, small nut portions, no heavy oily meals within 3 hours of tip-off. Save the celebratory fried chicken for after the win, not before it.",
+      "title": "Fats on game day"
+    }
+  ],
+  "hub": "nutrition",
+  "id": "perf-nut-healthy-fats",
+  "level": "beginner",
+  "positions": [
+    "all"
+  ],
+  "progression": [
+    "Beginner: add one good fat source a day — fish, eggs, or a handful of peanuts",
+    "Intermediate: swap one deep-fried weekly meal for a grilled or boiled version",
+    "Advanced: keep fats steady and light automatically, even on game days and road trips"
+  ],
+  "references": [
+    "FIBA — Nutrition guidelines for basketball players",
+    "IOC — Consensus statement on sports nutrition",
+    "USA Basketball — Nutrition basics for young athletes"
+  ],
+  "relatedTopics": [
+    "nut-vietnamese-athlete-meals",
+    "nut-performance-plate",
+    "nut-food-library-protein",
+    "rec-sleep-for-athletes",
+    "ip-training-load"
+  ],
+  "setsReps": "Include one good fat source daily (fish, nuts, or eggs) and keep deep-fried food to an occasional treat.",
+  "slug": "nut-healthy-fats",
+  "subcategory": "fats",
+  "tags": [
+    "nutrition",
+    "healthy fats",
+    "omega-3",
+    "fish",
+    "nuts",
+    "fried food"
+  ],
+  "title": "Healthy Fats for Basketball Players",
+  "trainingPhase": [
+    "off-season",
+    "pre-season",
+    "in-season",
+    "recovery-day"
+  ],
+  "vi": {
+    "basketballTransfer": "Chọn chất béo đúng giúp bảo vệ khớp suốt mùa giải dài, giữ nội tiết ổn định trong giai đoạn tập nặng, và ngăn đồ chiên phá hỏng ngày thi đấu.",
+    "coachingPoints": [
+      "Chất béo rất cần thiết — mục tiêu là béo tốt, không phải cắt béo",
+      "Ưu tiên béo từ thực phẩm nguyên dạng: cá, các loại hạt, đậu phộng, trứng",
+      "Chút dầu khi nấu ăn là ổn — dìm đồ ăn trong dầu thì không",
+      "Các loại hạt nhiều năng lượng: một nắm, không phải một bịch",
+      "Ngày thi đấu giữ béo nhẹ để tiêu hóa nhanh"
+    ],
+    "commonMistakes": [
+      "Sợ mọi chất béo, ăn luộc nhạt nhẽo — không bền và không cần thiết",
+      "Một bịch đậu phộng coi như 'snack lành mạnh' — bằng cả bữa ăn",
+      "Ăn đồ chiên trước giờ tập — ì ạch, ngấy, chậm chạp",
+      "Ăn bơ sữa quá đà vì sao chép thực đơn nước ngoài",
+      "Ngày thi đấu cắt béo rồi ăn chiên bù sau trận"
+    ],
+    "description": "Vì sao cầu thủ bóng rổ cần chất béo tốt, nguồn tốt nhất (cá, các loại hạt, đậu phộng, dầu ăn vừa phải, bơ đậu phộng), bao nhiêu là đủ, và cái bẫy đồ chiên ngập dầu.",
+    "duration": "10 phút",
+    "howTo": [
+      {
+        "detail": "Chất béo bảo vệ khớp, giúp hấp thu vitamin A, D, E, K, hỗ trợ nội tiết và cho năng lượng bền. Cầu thủ tập nặng mà ăn gần như không béo thường thấy uể oải, dễ ốm, hồi phục chậm. Béo là nhiên liệu và lá chắn — không phải kẻ thù.",
+        "title": "Chất béo làm gì cho cầu thủ"
+      },
+      {
+        "detail": "Cá béo — cá thu, cá nục, cá basa (omega-3), đậu phộng, hạt điều, hạt bí, mè, trứng (lòng đỏ có béo tốt), bơ đậu phộng (một thìa, không phải cả hũ), dầu đậu nành/dầu ô liu nấu ăn với lượng bình thường, và quả bơ khi vào mùa. Toàn món chợ Việt Nam ngày nào cũng có.",
+        "title": "Nguồn béo tốt"
+      },
+      {
+        "detail": "Nghĩ theo kiểu ít mà đều: mỗi ngày một nắm đậu phộng hoặc hạt điều, cá 3–4 lần mỗi tuần, dầu ăn bình thường khi nấu ở nhà. Béo nên là phần nhỏ nhất thấy được trên đĩa — khoảng một đốt ngón tay cái mỗi bữa. Đủ để cơ thể vận hành, không đủ để làm bạn ì.",
+        "title": "Bao nhiêu là đủ"
+      },
+      {
+        "detail": "Cái bẫy không phải chất béo — mà là chiên ngập dầu: gà rán, chả giò chiên, khoai tây chiên, bánh chiên. Cùng món đó mà nướng hoặc luộc thì vẫn đủ đạm và carbs với lượng dầu ít hơn nhiều. Thỉnh thoảng ăn chiên thì ổn; lấy đồ chiên làm mặc định hàng ngày thì hao năng lượng và thừa calo rỗng.",
+        "title": "Cái bẫy đồ chiên ngập dầu"
+      },
+      {
+        "detail": "Ngày thi đấu giữ béo nhẹ: chọn món nướng/luộc thay vì chiên, các loại hạt ăn ít, không bữa nhiều dầu mỡ trong 3 tiếng trước giờ bóng lăn. Để dành gà rán ăn mừng sau chiến thắng, không phải trước trận.",
+        "title": "Chất béo ngày thi đấu"
+      }
+    ],
+    "progression": [
+      "Cơ bản: mỗi ngày thêm một nguồn béo tốt — cá, trứng, hoặc nắm đậu phộng",
+      "Trung cấp: đổi một bữa chiên mỗi tuần sang món nướng hoặc luộc",
+      "Nâng cao: giữ béo ổn định và nhẹ một cách tự động, cả ngày thi đấu lẫn đi xa"
+    ],
+    "setsReps": "Mỗi ngày một nguồn béo tốt (cá, các loại hạt hoặc trứng), đồ chiên ngập dầu chỉ là món thỉnh thoảng.",
+    "tags": [
+      "dinh dưỡng",
+      "chất béo tốt",
+      "omega-3",
+      "cá",
+      "các loại hạt",
+      "đồ chiên"
+    ],
+    "title": "Chất béo tốt cho cầu thủ bóng rổ",
+    "whatItDevelops": [
+      "Hiểu vai trò chất béo",
+      "Chọn nguồn béo tốt",
+      "Nhận diện bẫy đồ chiên",
+      "Điều chỉnh béo ngày thi đấu"
+    ],
+    "whyBasketball": [
+      "Khớp chịu tải cả mùa giải — béo tốt hỗ trợ chống viêm",
+      "Tập nặng cần nội tiết ổn định, chất béo quá thấp làm rối loạn",
+      "Đồ chiên là thủ phạm phổ biến khiến cầu thủ ì trước trận",
+      "Béo tốt từ cá và hạt rẻ, dễ mua ở chợ Việt Nam"
+    ]
+  },
+  "whatItDevelops": [
+    "Understanding the role of fats",
+    "Choosing good fat sources",
+    "Spotting the fried-food trap",
+    "Adjusting fats on game day"
+  ],
+  "whyBasketball": [
+    "Joints take load all season — good fats support anti-inflammation",
+    "Heavy training needs stable hormones; too-low fat disrupts them",
+    "Fried food is the common culprit behind sluggish pre-game legs",
+    "Good fats from fish and nuts are cheap at Vietnamese markets"
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "id": "perf-ap-explosive-power-basics",
+  "slug": "ap-explosive-power-basics",
+  "hub": "athletic-performance",
+  "category": "power",
+  "subcategory": "explosive-basics",
+  "title": "Explosive Power Basics",
+  "description": "Power is force × speed. Learn the basics with jump squats, medicine ball throws, and low box jumps — technique before intensity, always.",
+  "level": "beginner",
+  "positions": [
+    "all"
+  ],
+  "trainingPhase": [
+    "pre-season"
+  ],
+  "goal": [
+    "explosive"
+  ],
+  "duration": "15–20 min",
+  "equipment": [
+    "Medicine ball",
+    "Plyo box"
+  ],
+  "whatItDevelops": [
+    "Understanding of power as force × speed",
+    "Basic jump and throw mechanics",
+    "Landing control at low intensity"
+  ],
+  "whyBasketball": [
+    "Every explosive play — first step, block, putback — is a power movement",
+    "Safe entry point before real plyometric training",
+    "Better landings protect joints when intensity rises later"
+  ],
+  "howTo": [
+    {
+      "title": "Learn what power means",
+      "detail": "Power = force × speed. You build it by moving strong loads fast, or light loads very fast. Today we train the fast part with clean technique."
+    },
+    {
+      "title": "Jump squat",
+      "detail": "Drop into a quarter squat, then explode up as high as you can. Land softly on the balls of your feet with knees bent. Reset fully between reps."
+    },
+    {
+      "title": "Medicine ball chest throw",
+      "detail": "Stand tall, chest-pass the ball hard at the wall. Load through the legs and hips, punch the ball off your chest. Catch, reset, throw again."
+    },
+    {
+      "title": "Low box jump",
+      "detail": "Stand in front of a low box (30–40cm). Swing your arms, jump up, and land on the box with both feet at the same time, knees bent. Step down — never jump down."
+    },
+    {
+      "title": "Rest like it matters",
+      "detail": "Rest 60–90 seconds between sets. Power training with short rest becomes conditioning, and that is not today's goal."
+    }
+  ],
+  "coachingPoints": [
+    "Technique first, intensity second — speed of movement never replaces control.",
+    "Every jump ends with a quiet, soft landing.",
+    "Step down off the box. Always. Landing from the box doubles impact.",
+    "Full effort on every rep, then full recovery between sets.",
+    "Keep reps low (4–6): power dies before fatigue does."
+  ],
+  "commonMistakes": [
+    "Skipping rest and turning power work into cardio.",
+    "Jumping down off the box instead of stepping down.",
+    "Landing stiff-legged and loud.",
+    "Doing too many reps — power quality collapses after 6 reps."
+  ],
+  "setsReps": "3–4 sets × 4–6 reps per exercise; 60–90 seconds rest between sets.",
+  "basketballTransfer": "The first step past a closeout, the quick jump for a rebound, the putback dunk — all are force × speed. This is where that starts.",
+  "progression": [
+    "Beginner: jump squats and chest throws only, 3 sets × 4 reps. Learn landings on the floor before using a box.",
+    "Intermediate: add low box jumps (30–40cm), 3–4 sets × 5 reps. Keep every landing quiet.",
+    "Advanced: raise the box to 45–60cm and add medicine ball overhead throws, 4 sets × 5 reps with full recovery."
+  ],
+  "relatedTopics": [
+    "ap-jump-power",
+    "ap-first-step-explosion",
+    "ip-landing-mechanics",
+    "hyd-after-practice-hydration"
+  ],
+  "tags": [
+    "power",
+    "explosive",
+    "plyometrics",
+    "jump squat",
+    "beginner"
+  ],
+  "references": [
+    "NSCA — Essentials of Strength Training and Conditioning (4th ed.)",
+    "USA Basketball — Strength and Conditioning Guidelines"
+  ],
+  "dateUpdated": "2026-10-06",
+  "vi": {
+    "title": "Sức bật nền tảng (explosive power)",
+    "description": "Power là lực × tốc độ. Làm quen với jump squat, ném bóng medicine ball và nhảy hộp thấp — kỹ thuật trước cường độ, luôn luôn như vậy.",
+    "whatItDevelops": [
+      "Hiểu đúng power là lực × tốc độ",
+      "Kỹ thuật nhảy và ném cơ bản",
+      "Kiểm soát tiếp đất ở cường độ thấp"
+    ],
+    "whyBasketball": [
+      "Mọi pha bóng bùng nổ — bước đầu tiên, block, putback — đều là chuyển động power",
+      "Điểm vào an toàn trước khi tập plyometric thật sự",
+      "Tiếp đất tốt hơn giúp khớp khỏe khi cường độ tăng dần"
+    ],
+    "howTo": [
+      {
+        "title": "Hiểu power là gì",
+        "detail": "Power = lực × tốc độ. Tăng power bằng cách di chuyển tải nặng thật nhanh, hoặc tải nhẹ cực nhanh. Hôm nay tập phần nhanh với kỹ thuật chuẩn."
+      },
+      {
+        "title": "Jump squat",
+        "detail": "Hạ người vào tư thế squat nông, rồi bật lên cao hết sức. Tiếp đất nhẹ bằng mũi chân, đầu gối cong. Nghỉ hoàn toàn giữa các lần lặp."
+      },
+      {
+        "title": "Ném bóng medicine ball bằng ngực",
+        "detail": "Đứng thẳng, chuyền bóng mạnh vào tường. Dồn lực từ chân và hông, đẩy bóng khỏi ngực. Bắt bóng, chỉnh lại, ném tiếp."
+      },
+      {
+        "title": "Nhảy hộp thấp",
+        "detail": "Đứng trước hộp thấp (30–40cm). Vung tay, nhảy lên và tiếp đất trên hộp bằng cả hai chân cùng lúc, đầu gối cong. Bước xuống — không bao giờ nhảy xuống."
+      },
+      {
+        "title": "Nghỉ nghiêm túc",
+        "detail": "Nghỉ 60–90 giây giữa các hiệp. Tập power với nghỉ ngắn sẽ biến thành tập sức bền, và đó không phải mục tiêu hôm nay."
+      }
+    ],
+    "coachingPoints": [
+      "Kỹ thuật trước, cường độ sau — tốc độ di chuyển không bao giờ thay thế kiểm soát.",
+      "Mỗi cú nhảy kết thúc bằng một lần tiếp đất êm, nhẹ.",
+      "Luôn bước xuống khỏi hộp. Tiếp đất từ trên hộp xuống làm lực va chạm tăng gấp đôi.",
+      "Dốc toàn lực mỗi lần lặp, rồi hồi phục hoàn toàn giữa các hiệp.",
+      "Giữ số lần lặp thấp (4–6): power tắt trước khi cơ thể mệt."
+    ],
+    "commonMistakes": [
+      "Bỏ qua nghỉ, biến bài tập power thành cardio.",
+      "Nhảy từ hộp xuống thay vì bước xuống.",
+      "Tiếp đất bằng chân thẳng và tạo tiếng động mạnh.",
+      "Làm quá nhiều lần lặp — chất lượng power sụp sau 6 lần."
+    ],
+    "setsReps": "3–4 hiệp × 4–6 lần cho mỗi động tác; nghỉ 60–90 giây giữa các hiệp.",
+    "basketballTransfer": "Bước đầu tiên vượt qua closeout, cú nhảy tranh rebound, pha putback — tất cả đều là lực × tốc độ. Mọi thứ bắt đầu từ đây.",
+    "progression": [
+      "Người mới: chỉ jump squat và ném bóng bằng ngực, 3 hiệp × 4 lần. Học tiếp đất trên sàn trước khi dùng hộp.",
+      "Trung cấp: thêm nhảy hộp thấp (30–40cm), 3–4 hiệp × 5 lần. Mỗi lần tiếp đất đều phải êm.",
+      "Nâng cao: nâng hộp lên 45–60cm và thêm ném bóng qua đầu, 4 hiệp × 5 lần với hồi phục đầy đủ."
+    ],
+    "tags": [
+      "sức bật",
+      "bùng nổ",
+      "plyometric",
+      "jump squat",
+      "người mới"
+    ],
+    "duration": "15–20 phút"
+  }
+}

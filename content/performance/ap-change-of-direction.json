@@ -1,0 +1,157 @@
+{
+  "id": "perf-ap-change-of-direction",
+  "hub": "athletic-performance",
+  "slug": "ap-change-of-direction",
+  "category": "agility",
+  "subcategory": "change-of-direction",
+  "title": "Change of Direction Mechanics",
+  "description": "Learn the mechanics of sharp cuts: drop your hips, push with the outside foot, and re-accelerate in the new direction. Core work for the 5-10-5 and V-cut drills.",
+  "level": "intermediate",
+  "positions": [
+    "all"
+  ],
+  "trainingPhase": [
+    "pre-season",
+    "in-season"
+  ],
+  "goal": [
+    "move-better",
+    "get-faster"
+  ],
+  "duration": "15–20 min",
+  "equipment": [
+    "Cones"
+  ],
+  "whatItDevelops": [
+    "Drop-cut mechanics",
+    "First-step acceleration after a cut",
+    "Hip and ankle stability in turns"
+  ],
+  "whyBasketball": [
+    "Every drive, closeout, and defensive rotation ends with a cut",
+    "Sharper cuts create separation from defenders",
+    "Good mechanics keep you balanced under pressure"
+  ],
+  "howTo": [
+    {
+      "title": "Drop your hips",
+      "detail": "Bend your knees and sink your hips before the plant, keeping your chest up."
+    },
+    {
+      "title": "Plant the outside foot",
+      "detail": "Plant the foot opposite the new direction, driving it firmly into the floor."
+    },
+    {
+      "title": "Lean into the new direction",
+      "detail": "Tilt your torso toward where you are going, not straight up."
+    },
+    {
+      "title": "Push and sprint out",
+      "detail": "Explode off the planted foot for 3–5 hard steps, staying low."
+    },
+    {
+      "title": "Drill it: 5-10-5 and V-cut",
+      "detail": "Start at half speed; add speed only when each cut is clean. 5-10-5: sprint 5m, cut 180°, sprint 10m, cut back. V-cut: push one way, then cut hard back toward the ball."
+    }
+  ],
+  "coachingPoints": [
+    "Keep your eyes up — never stare at your feet.",
+    "Low plant, high exit: sink before the cut, sprint tall after.",
+    "Short, quick steps before the plant — never long strides.",
+    "Keep the ball-side foot ready if a crossover follows.",
+    "Practice cuts off both legs equally."
+  ],
+  "commonMistakes": [
+    "Standing upright at the plant, losing all power.",
+    "Long strides into the turn, which skid and slow you down.",
+    "Looking down at the floor.",
+    "Only training one direction."
+  ],
+  "setsReps": "3–4 sets × 6–8 cuts per side, full rest between reps",
+  "basketballTransfer": "The same drop-and-push mechanic powers your crossover, your closeout recovery, and every defensive slide that turns into a sprint.",
+  "progression": [
+    "Beginner: slow, rehearsed cuts through cones — focus on the hip drop and a clean plant.",
+    "Intermediate: full-speed 5-10-5 with a timed score.",
+    "Advanced: reactive cuts — change direction on a coach's signal or a live defender's move."
+  ],
+  "relatedTopics": [
+    "ip-warm-up-5-minute",
+    "ip-knee-risk-reduction",
+    "ap-lateral-quickness",
+    "hyd-after-practice-hydration"
+  ],
+  "tags": [
+    "agility",
+    "change of direction",
+    "cutting",
+    "first step"
+  ],
+  "references": [
+    "NSCA — Essentials of Strength Training and Conditioning: change-of-direction mechanics",
+    "USA Basketball — Player Development Curriculum: footwork and agility progressions"
+  ],
+  "vi": {
+    "title": "Kỹ thuật cắt hướng (change of direction)",
+    "description": "Tập cơ chế cắt hướng chuẩn: hạ trọng tâm, đạp chân ngoài, bật tăng tốc theo hướng mới. Bài tập cốt lõi: 5-10-5 và V-cut.",
+    "whatItDevelops": [
+      "Cơ chế cắt hướng chuẩn",
+      "Bật bước đầu sau mỗi lần cắt",
+      "Ổn định hông và cổ chân khi đổi hướng"
+    ],
+    "whyBasketball": [
+      "Mọi pha đột phá, closeout và xoay chuyển phòng thủ đều kết thúc bằng một lần cắt hướng",
+      "Cắt hướng sắc tạo khoảng trống với cầu thủ phòng thủ",
+      "Kỹ thuật tốt giữ thăng bằng khi bị áp lực"
+    ],
+    "howTo": [
+      {
+        "title": "Hạ trọng tâm",
+        "detail": "Gập gối, hạ hông trước khi đạp chân, ngực giữ thẳng."
+      },
+      {
+        "title": "Đạp chân ngoài",
+        "detail": "Đạp chân ngược với hướng mới, găm chắc xuống mặt sân."
+      },
+      {
+        "title": "Nghiêng người theo hướng mới",
+        "detail": "Nghiêng thân về phía cần chạy, không dựng đứng."
+      },
+      {
+        "title": "Bật và tăng tốc",
+        "detail": "Bật mạnh khỏi chân đạp, 3–5 bước đầu giữ thấp."
+      },
+      {
+        "title": "Bài tập: 5-10-5 và V-cut",
+        "detail": "Bắt đầu nửa tốc độ, tăng tốc chỉ khi mỗi lần cắt đã sạch. 5-10-5: chạy 5m, cắt 180°, chạy 10m, cắt về. V-cut: đẩy một hướng rồi cắt mạnh về phía bóng."
+      }
+    ],
+    "coachingPoints": [
+      "Mắt nhìn lên — không nhìn xuống chân.",
+      "Hạ thấp trước khi cắt, vươn người sau khi cắt.",
+      "Bước ngắn, nhanh trước khi đạp — không bước dài.",
+      "Chân bên bóng luôn sẵn sàng nếu tiếp theo là crossover.",
+      "Tập cắt đều hai chân."
+    ],
+    "commonMistakes": [
+      "Đứng dựng người khi đạp, mất hết lực.",
+      "Bước dài vào khúc cua, trượt và chậm lại.",
+      "Nhìn xuống mặt sân.",
+      "Chỉ tập một hướng."
+    ],
+    "setsReps": "3–4 hiệp × 6–8 lần cắt mỗi bên, nghỉ đủ giữa các lần",
+    "basketballTransfer": "Cùng một cơ chế hạ-đạp này tạo lực cho crossover, cho pha closeout quay lại kèm người, và cho mọi pha trượt phòng thủ chuyển thành chạy nhanh.",
+    "progression": [
+      "Cơ bản: cắt chậm theo bài đặt sẵn qua cone — tập trung hạ hông và đạp sạch.",
+      "Trung cấp: 5-10-5 hết tốc độ, bấm giờ chấm điểm.",
+      "Nâng cao: cắt theo phản ứng — đổi hướng theo hiệu lệnh của HLV hoặc động tác của cầu thủ tấn công thật."
+    ],
+    "tags": [
+      "cắt hướng",
+      "nhanh nhẹn",
+      "bộ chân",
+      "kèm người"
+    ],
+    "duration": "15–20 phút"
+  },
+  "dateUpdated": "2026-10-06"
+}

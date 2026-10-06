@@ -1,0 +1,155 @@
+{
+  "basketballTransfer": "The players with the best recovery in your league probably own the least gear. They sleep, eat, hydrate, and move — boring, free, and brutally effective. Gear is the final 5%, not the foundation.",
+  "category": "myths",
+  "coachingPoints": [
+    "Master the free four first: sleep, food, fluids, movement. Then consider gear.",
+    "If you buy one thing, make it a foam roller — cheap, versatile, proven useful.",
+    "Borrow before buying. Most gear gets used twice, then collects dust.",
+    "Any product promising to 'eliminate soreness' or 'recover 10x faster' is selling hope, not science."
+  ],
+  "commonMistakes": [
+    "Buying a massage gun before fixing a 5-hour sleep habit.",
+    "A drawer full of sleeves, balls, and rollers — used once each.",
+    "Skipping meals to afford supplements.",
+    "Believing the price tag correlates with recovery quality."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "Do you really need expensive recovery equipment? What actually matters, ranked honestly by impact per dollar.",
+  "duration": "Read: 4 min",
+  "equipment": [
+    "None"
+  ],
+  "goal": [
+    "conditioning"
+  ],
+  "howTo": [
+    {
+      "detail": "Consistent 8+ hours. Costs nothing. Outperforms every device ever sold for recovery.",
+      "title": "1. Fix sleep (free)"
+    },
+    {
+      "detail": "Enough carbs and protein, timed around training. Rice and eggs beat any powder for most players.",
+      "title": "2. Eat like an athlete (cheap)"
+    },
+    {
+      "detail": "Water all day, electrolytes when sweating heavily. A bottle you actually carry beats a smart bottle you don't.",
+      "title": "3. Hydrate (nearly free)"
+    },
+    {
+      "detail": "Walk daily, mobility 10 minutes. Free forever.",
+      "title": "4. Move easy (free)"
+    },
+    {
+      "detail": "Only after 1–4 are solid: a foam roller (~200k VND), then whatever you will actually use weekly.",
+      "title": "5. Then consider gear"
+    }
+  ],
+  "hub": "recovery",
+  "id": "perf-rec-myth-expensive-equipment",
+  "level": "beginner",
+  "positions": [
+    "all"
+  ],
+  "progression": [
+    "Beginner: audit your free four before spending anything.",
+    "Intermediate: add one piece of gear you will use 3x per week minimum.",
+    "Advanced: build a team recovery corner with shared basics — rollers, bands, mats."
+  ],
+  "relatedTopics": [
+    "rec-foam-rolling-guide",
+    "rec-massage-gun-guide",
+    "rec-compression-gear",
+    "rec-sleep-for-athletes",
+    "nut-supplements-explained"
+  ],
+  "setsReps": "No sets — a spending philosophy. Revisit before every purchase.",
+  "slug": "rec-myth-expensive-equipment",
+  "subcategory": "myth-fact",
+  "tags": [
+    "recovery",
+    "myths",
+    "gear",
+    "education"
+  ],
+  "title": "Myth or Fact: You Need Expensive Recovery Equipment",
+  "trainingPhase": [
+    "in-season",
+    "off-season",
+    "pre-season",
+    "recovery-day"
+  ],
+  "vi": {
+    "basketballTransfer": "Cầu thủ hồi phục tốt nhất giải của bạn có lẽ sở hữu ít đồ nhất. Họ ngủ, ăn, uống nước và vận động — nhàm chán, miễn phí và hiệu quả tàn nhẫn. Thiết bị chỉ là 5% cuối, không phải nền móng.",
+    "coachingPoints": [
+      "Làm tốt 4 thứ miễn phí trước: ngủ, ăn, nước, vận động. Rồi hẵng nghĩ đến đồ.",
+      "Nếu mua một món, mua foam roller — rẻ, đa năng, hữu ích đã được chứng minh.",
+      "Mượn thử trước khi mua. Đa số đồ mua về dùng 2 lần rồi đắp chiếu.",
+      "Sản phẩm nào hứa 'xóa sạch đau mỏi' hay 'hồi phục nhanh gấp 10' là đang bán hy vọng, không phải khoa học."
+    ],
+    "commonMistakes": [
+      "Mua súng massage trước khi sửa thói quen ngủ 5 tiếng.",
+      "Ngăn kéo đầy tay bó, bóng, con lăn — mỗi thứ dùng đúng 1 lần.",
+      "Nhịn ăn để dành tiền mua thực phẩm bổ sung.",
+      "Tin rằng giá tiền tỷ lệ thuận với chất lượng hồi phục."
+    ],
+    "description": "Có thật cần thiết bị hồi phục đắt tiền? Điều gì thật sự quan trọng, xếp hạng thẳng thắn theo hiệu quả trên đồng tiền.",
+    "duration": "Đọc: 4 phút",
+    "howTo": [
+      {
+        "detail": "8+ tiếng đều đặn. Không tốn đồng nào. Vượt mọi thiết bị từng được bán về hồi phục.",
+        "title": "1. Sửa giấc ngủ (miễn phí)"
+      },
+      {
+        "detail": "Đủ tinh bột và đạm, ăn quanh buổi tập. Cơm với trứng thắng mọi loại bột với đa số cầu thủ.",
+        "title": "2. Ăn như VĐV (rẻ)"
+      },
+      {
+        "detail": "Nước cả ngày, điện giải khi ra nhiều mồ hôi. Chai nước mang theo người thắng chai thông minh để ở nhà.",
+        "title": "3. Uống nước (gần như miễn phí)"
+      },
+      {
+        "detail": "Đi bộ mỗi ngày, mobility 10 phút. Miễn phí mãi mãi.",
+        "title": "4. Vận động nhẹ (miễn phí)"
+      },
+      {
+        "detail": "Chỉ khi 1–4 đã vững: một con lăn foam (khoảng 200k), rồi món nào bạn thật sự dùng hàng tuần.",
+        "title": "5. Rồi hẵng nghĩ đến đồ"
+      }
+    ],
+    "progression": [
+      "Cơ bản: kiểm tra 4 thứ miễn phí trước khi tiêu đồng nào.",
+      "Trung cấp: thêm một món đồ mà bạn sẽ dùng tối thiểu 3 lần/tuần.",
+      "Nâng cao: dựng góc hồi phục chung cho đội — con lăn, dây kháng lực, thảm."
+    ],
+    "setsReps": "Không có hiệp nào — đây là triết lý chi tiêu. Ôn lại trước mỗi lần mua sắm.",
+    "tags": [
+      "hồi phục",
+      "hiểu lầm",
+      "trang bị",
+      "kiến thức"
+    ],
+    "title": "Đúng hay sai: cần thiết bị đắt tiền mới hồi phục tốt?",
+    "whatItDevelops": [
+      "Tư duy chi tiêu đúng",
+      "Ưu tiên thứ miễn phí",
+      "Đánh giá thiết bị tỉnh táo",
+      "Tự chủ hồi phục"
+    ],
+    "whyBasketball": [
+      "Kết luận ngắn gọn: SAI. Chưa có thiết bị nào vượt qua được giấc ngủ, ăn uống và quản lý tải tập — mà 3 thứ đó gần như miễn phí.",
+      "Ngành công nghiệp hồi phục bán cảm giác kiểm soát: mua đồ thấy mình 'nghiêm túc'. Nhưng nghiêm túc thật là đi ngủ đúng giờ 30 ngày liên tiếp.",
+      "Ngoại lệ duy nhất đáng tiền sớm: foam roller rẻ và dây kháng lực — 2 món đa năng, dùng được hàng ngày, tổng chưa đến một buổi ăn ngoài. Mọi thứ khác: làm tốt 4 thứ miễn phí trước đã."
+    ]
+  },
+  "whatItDevelops": [
+    "Smart spending mindset",
+    "Prioritizing the free stuff",
+    "Sober gear evaluation",
+    "Recovery self-reliance"
+  ],
+  "whyBasketball": [
+    "The short verdict: MYTH. No device has ever outperformed sleep, nutrition, and load management — and those three are nearly free.",
+    "The recovery industry sells a feeling of control: buying gear feels 'serious'. But real serious is going to bed on time for 30 straight days.",
+    "The only early purchases worth it: a cheap foam roller and resistance bands — versatile, daily-use, less than one dinner out. Everything else: master the free four first."
+  ]
+}

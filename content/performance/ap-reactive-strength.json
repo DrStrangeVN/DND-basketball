@@ -1,0 +1,161 @@
+{
+  "id": "perf-ap-reactive-strength",
+  "slug": "ap-reactive-strength",
+  "hub": "athletic-performance",
+  "category": "power",
+  "subcategory": "reactive-strength",
+  "title": "Reactive Strength",
+  "description": "Reactive strength is how fast you turn a landing into the next jump. Short ground contacts, drop jumps, and hurdle hops build the elastic power behind back-to-back rebounds and closeout-recover sequences.",
+  "level": "advanced",
+  "positions": [
+    "all"
+  ],
+  "trainingPhase": [
+    "pre-season"
+  ],
+  "goal": [
+    "explosive",
+    "jump-higher"
+  ],
+  "duration": "15–20 min",
+  "equipment": [
+    "Plyo boxes",
+    "Hurdles"
+  ],
+  "whatItDevelops": [
+    "Short ground-contact power",
+    "Ankle and tendon stiffness",
+    "Drop jump technique",
+    "Repeated-jump capacity"
+  ],
+  "whyBasketball": [
+    "Basketball rarely gives you one clean jump. Rebounds come in pairs.",
+    "The player who leaves the floor second-fastest wins the second ball.",
+    "Closeout, recover, closeout again — elastic legs decide these sequences."
+  ],
+  "howTo": [
+    {
+      "title": "Check your base first.",
+      "detail": "You need 6+ months of landing training and a bodyweight squat before this work. No base, no reactive training."
+    },
+    {
+      "title": "Drop jump.",
+      "detail": "Step off a 30–45 cm box. Hit the ground and bounce up immediately — hands on hips at first. Ground contact under a quarter second."
+    },
+    {
+      "title": "Hurdle hops.",
+      "detail": "Set 3–5 low hurdles in a row. Hop over each with minimal ground time. Stay tall, ankles do the work."
+    },
+    {
+      "title": "Repeated tuck jumps.",
+      "detail": "Five quick tuck jumps in a row, minimal pause between them. Land balanced every time or stop the set."
+    },
+    {
+      "title": "Keep sessions short.",
+      "detail": "Reactive work is neural, not muscular. 15–20 minutes, fully fresh, 2–3 minute rests between sets."
+    }
+  ],
+  "coachingPoints": [
+    "Think 'hot ground' — get off the floor fast.",
+    "Stay tall; don't sink into a deep squat between jumps.",
+    "Ankles stiff like springs, not loose.",
+    "Hands on hips early to isolate the legs.",
+    "Fresh legs only. This is day-one-of-the-week work."
+  ],
+  "commonMistakes": [
+    "Turning drop jumps into slow squat jumps.",
+    "Starting reactive work without a landing foundation.",
+    "Doing these at the end of a hard practice.",
+    "Chasing box height instead of contact speed."
+  ],
+  "setsReps": "3–4 sets × 5–6 reps per exercise; 2–3 min rest",
+  "basketballTransfer": "Fast ground contacts transfer to consecutive rebounds, tip-in attempts, and closeout-recover sequences where the second effort decides the play.",
+  "progression": [
+    "Beginner: pogo hops and ankle hops only. Build tendon stiffness for 4–6 weeks before any drop work.",
+    "Intermediate: drop jumps from 30 cm, low hurdle hops. 3 sets per exercise, full recovery.",
+    "Advanced: drop jumps from 45–60 cm, single-leg drop jumps, light weighted-vest pogo hops. Add only when contact times stay short."
+  ],
+  "relatedTopics": [
+    "ip-landing-mechanics",
+    "ip-ankle-prevention-basics",
+    "ip-training-load-basics",
+    "rec-post-practice-cooldown"
+  ],
+  "tags": [
+    "power",
+    "reactive strength",
+    "drop jump",
+    "explosive",
+    "rebounding"
+  ],
+  "references": [
+    "NSCA. Essentials of Strength Training and Conditioning (4th ed.). Human Kinetics.",
+    "Suchomel, T. J., et al. The Importance of Muscular Strength in Athletic Performance. Sports Medicine, 2016."
+  ],
+  "dateUpdated": "2026-10-06",
+  "vi": {
+    "title": "Sức mạnh phản ứng (reactive strength)",
+    "description": "Sức mạnh phản ứng là khả năng biến cú tiếp đất thành cú nhảy tiếp theo thật nhanh. Chạm đất ngắn, drop jump và nhảy rào thấp xây dựng sức đàn hồi cho rebound liên tiếp và chuỗi closeout–thu hồi.",
+    "whatItDevelops": [
+      "Sức phát lực khi chạm đất ngắn",
+      "Độ cứng cổ chân và gân",
+      "Kỹ thuật drop jump",
+      "Khả năng nhảy liên tục"
+    ],
+    "whyBasketball": [
+      "Bóng rổ hiếm khi cho bạn một cú nhảy sạch. Rebound thường đến theo cặp.",
+      "Cầu thủ rời mặt sân nhanh thứ hai sẽ thắng quả bóng thứ hai.",
+      "Closeout, thu hồi, closeout tiếp — đôi chân đàn hồi quyết định những chuỗi này."
+    ],
+    "howTo": [
+      {
+        "title": "Kiểm tra nền tảng trước.",
+        "detail": "Cần ít nhất 6 tháng tập tiếp đất và squat được với trọng lượng cơ thể. Không có nền thì chưa tập bài này."
+      },
+      {
+        "title": "Drop jump.",
+        "detail": "Bước khỏi bục 30–45 cm. Chạm đất rồi bật lên ngay — lúc đầu chống tay vào hông. Thời gian chạm đất dưới 1/4 giây."
+      },
+      {
+        "title": "Nhảy rào thấp.",
+        "detail": "Xếp 3–5 rào thấp thành hàng. Nhảy qua từng rào với thời gian chạm đất tối thiểu. Giữ thân thẳng, để cổ chân làm việc."
+      },
+      {
+        "title": "Nhảy co gối liên tục.",
+        "detail": "5 lần nhảy co gối liên tiếp, gần như không nghỉ giữa các lần. Lần nào tiếp đất mất thăng bằng thì dừng hiệp."
+      },
+      {
+        "title": "Giữ buổi tập ngắn.",
+        "detail": "Bài phản ứng là bài thần kinh, không phải bài cơ. 15–20 phút, cơ thể tươi hoàn toàn, nghỉ 2–3 phút giữa hiệp."
+      }
+    ],
+    "coachingPoints": [
+      "Nghĩ 'mặt sân nóng' — rời sàn thật nhanh.",
+      "Giữ thân thẳng; đừng chìm sâu thành squat giữa các lần nhảy.",
+      "Cổ chân cứng như lò xo, không lỏng lẻo.",
+      "Lúc đầu chống tay vào hông để cô lập đôi chân.",
+      "Chỉ tập khi chân tươi. Đây là bài của ngày đầu tuần."
+    ],
+    "commonMistakes": [
+      "Biến drop jump thành nhảy squat chậm.",
+      "Tập phản ứng khi chưa có nền tảng tiếp đất.",
+      "Nhét bài này vào cuối buổi tập nặng.",
+      "Chạy theo độ cao bục thay vì tốc độ chạm đất."
+    ],
+    "setsReps": "3–4 hiệp × 5–6 lần mỗi bài; nghỉ 2–3 phút",
+    "basketballTransfer": "Chạm đất nhanh chuyển thành rebound liên tiếp, những lần tip bóng và chuỗi closeout–thu hồi nơi nỗ lực thứ hai quyết định pha bóng.",
+    "progression": [
+      "Cơ bản: chỉ tập pogo hop và bật cổ chân. Xây độ cứng gân 4–6 tuần trước khi chạm vào drop jump.",
+      "Trung cấp: drop jump từ bục 30 cm, nhảy rào thấp. 3 hiệp mỗi bài, nghỉ hồi phục hoàn toàn.",
+      "Nâng cao: drop jump từ 45–60 cm, drop jump một chân, pogo hop đeo tạ nhẹ. Chỉ thêm khi thời gian chạm đất vẫn ngắn."
+    ],
+    "tags": [
+      "sức mạnh phản ứng",
+      "drop jump",
+      "nhảy liên tục",
+      "bùng nổ",
+      "rebound"
+    ],
+    "duration": "15–20 phút"
+  }
+}

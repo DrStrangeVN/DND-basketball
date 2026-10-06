@@ -1,0 +1,152 @@
+{
+  "basketballTransfer": "Clean, informed athletes never lose a season to an avoidable violation — discipline off the court protects everything on it.",
+  "category": "supplements",
+  "coachingPoints": [
+    "Contamination is real — studies have repeatedly found banned substances in uncertified products",
+    "Teammates, friends, and online sellers are not reliable safety sources",
+    "Keep a record of everything you take, with batch numbers when possible",
+    "When in doubt, don't take it — no supplement is worth your career"
+  ],
+  "commonMistakes": [
+    "Assuming a famous brand can't be contaminated",
+    "Taking a pre-workout a friend shared at the gym",
+    "Never reading the WADA Prohibited List",
+    "Believing 'it was just a supplement' will excuse a positive test"
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "What every competitive player must know: contaminated supplements can trigger a doping violation, athletes carry strict liability under WADA rules, and the safe steps before using any product.",
+  "duration": "7 min",
+  "equipment": [
+    "None required"
+  ],
+  "goal": [],
+  "howTo": [
+    {
+      "detail": "Under WADA rules, you are responsible for everything in your body — no matter who gave it to you or what the label said.",
+      "title": "Understand strict liability"
+    },
+    {
+      "detail": "Review WADA's Prohibited List every year; some everyday medicines and common ingredients are banned in competition.",
+      "title": "Check the prohibited list"
+    },
+    {
+      "detail": "If you use anything, choose products carrying NSF Certified for Sport or Informed-Sport certification, which screen for banned substances.",
+      "title": "Choose only certified products"
+    },
+    {
+      "detail": "Talk to your coach and a sports doctor before taking any product — including vitamins, pre-workouts, and herbal products. No personal dosing is recommended here; decisions belong to qualified professionals.",
+      "title": "Consult before you consume"
+    }
+  ],
+  "hub": "nutrition",
+  "id": "perf-nut-supplement-safety",
+  "level": "intermediate",
+  "medicalDisclaimer": true,
+  "positions": [
+    "all"
+  ],
+  "progression": [
+    "Beginner: learn what strict liability means and where the Prohibited List lives",
+    "Intermediate: audit everything you currently take with your coach",
+    "Advanced: build a personal 'safe list' process with a sports doctor for your whole career"
+  ],
+  "references": [
+    "WADA World Anti-Doping Code",
+    "WADA Prohibited List",
+    "NSF Certified for Sport",
+    "Informed-Sport"
+  ],
+  "relatedTopics": [
+    "nut-supplements-vs-food",
+    "rec-sleep-for-athletes",
+    "ip-training-load",
+    "hyd-hydration-basics"
+  ],
+  "setsReps": "Review the WADA Prohibited List yearly; check every product's certification before use",
+  "slug": "nut-supplement-safety",
+  "subcategory": "safety",
+  "tags": [
+    "nutrition",
+    "supplements",
+    "anti-doping",
+    "safety",
+    "wada"
+  ],
+  "title": "Supplement Safety and Anti-Doping Awareness",
+  "trainingPhase": [
+    "off-season",
+    "pre-season",
+    "in-season",
+    "game-day",
+    "recovery-day"
+  ],
+  "vi": {
+    "basketballTransfer": "VĐV sạch và hiểu biết không bao giờ mất mùa giải vì vi phạm có thể tránh — kỷ luật ngoài sân bảo vệ mọi thứ trên sân.",
+    "coachingPoints": [
+      "Nhiễm bẩn là có thật — nhiều nghiên cứu liên tục phát hiện chất cấm trong sản phẩm không chứng nhận",
+      "Đồng đội, bạn bè và người bán online không phải nguồn đảm bảo an toàn",
+      "Ghi lại mọi thứ bạn dùng, kèm số lô sản xuất nếu có",
+      "Khi còn nghi ngờ, đừng dùng — không thực phẩm bổ sung nào đáng đánh đổi sự nghiệp"
+    ],
+    "commonMistakes": [
+      "Nghĩ thương hiệu nổi tiếng thì không thể nhiễm bẩn",
+      "Dùng pre-workout do bạn đưa ở phòng gym",
+      "Chưa bao giờ đọc Danh mục cấm của WADA",
+      "Tin rằng 'chỉ là thực phẩm bổ sung' sẽ giúp thoát án khi dương tính"
+    ],
+    "description": "Điều mọi VĐV thi đấu phải biết: thực phẩm bổ sung nhiễm bẩn có thể gây vi phạm doping, VĐV chịu trách nhiệm tuyệt đối theo luật WADA, và các bước an toàn trước khi dùng bất kỳ sản phẩm nào.",
+    "duration": "7 phút",
+    "howTo": [
+      {
+        "detail": "Theo luật WADA, bạn chịu trách nhiệm với mọi thứ trong cơ thể mình — bất kể ai đưa cho bạn hay nhãn mác ghi gì.",
+        "title": "Hiểu trách nhiệm tuyệt đối"
+      },
+      {
+        "detail": "Xem lại Danh mục cấm của WADA mỗi năm; một số thuốc thông thường và thành phần quen thuộc bị cấm khi thi đấu.",
+        "title": "Kiểm tra danh mục cấm"
+      },
+      {
+        "detail": "Nếu dùng bất cứ thứ gì, chọn sản phẩm mang chứng nhận NSF Certified for Sport hoặc Informed-Sport — các tổ chức này sàng lọc chất cấm.",
+        "title": "Chỉ chọn sản phẩm có chứng nhận"
+      },
+      {
+        "detail": "Trao đổi với HLV và bác sĩ thể thao trước khi dùng bất kỳ sản phẩm nào — kể cả vitamin, pre-workout và thảo dược. Bài này không khuyến nghị liều dùng cá nhân; mọi quyết định thuộc về chuyên gia có chuyên môn.",
+        "title": "Tham khảo trước khi dùng"
+      }
+    ],
+    "progression": [
+      "Cơ bản: hiểu trách nhiệm tuyệt đối là gì và Danh mục cấm nằm ở đâu",
+      "Trung cấp: cùng HLV rà soát mọi thứ đang dùng",
+      "Nâng cao: xây quy trình 'danh sách an toàn' cá nhân với bác sĩ thể thao cho cả sự nghiệp"
+    ],
+    "setsReps": "Rà soát Danh mục cấm WADA mỗi năm; kiểm tra chứng nhận của mọi sản phẩm trước khi dùng",
+    "tags": [
+      "dinh dưỡng",
+      "thực phẩm bổ sung",
+      "chống doping",
+      "an toàn",
+      "wada"
+    ],
+    "title": "An toàn thực phẩm bổ sung và nhận thức chống doping",
+    "whatItDevelops": [
+      "Nhận thức về chống doping",
+      "Hiểu nguyên tắc trách nhiệm tuyệt đối",
+      "Quy trình ra quyết định an toàn với mọi sản phẩm"
+    ],
+    "whyBasketball": [
+      "Dương tính vì thực phẩm bổ sung nhiễm bẩn có thể kết thúc mùa giải và danh tiếng — 'tôi không biết' không phải lý do bào chữa",
+      "Bóng rổ ở cấp độ cao có kiểm tra doping; thói quen đúng bắt đầu từ bây giờ",
+      "Hiểu luật là cách bảo vệ bản thân và cả đội bóng"
+    ]
+  },
+  "whatItDevelops": [
+    "Anti-doping awareness",
+    "Strict-liability understanding",
+    "Safe decision process for any product"
+  ],
+  "whyBasketball": [
+    "A positive test from a contaminated supplement ends seasons and reputations — 'I didn't know' is not a defense",
+    "Basketball at higher levels includes doping control; correct habits start now",
+    "Knowing the rules protects both you and your team"
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "id": "perf-ap-first-step-explosion",
+  "slug": "ap-first-step-explosion",
+  "hub": "athletic-performance",
+  "category": "power",
+  "subcategory": "first-step",
+  "title": "First-Step Explosion",
+  "description": "The first step beats the defender. Train body lean, back-leg drive, and arm swing to attack closeouts and run the fast break.",
+  "level": "intermediate",
+  "positions": [
+    "guard",
+    "wing",
+    "all"
+  ],
+  "trainingPhase": [
+    "pre-season",
+    "in-season"
+  ],
+  "goal": [
+    "get-faster",
+    "explosive"
+  ],
+  "duration": "15–20 min",
+  "equipment": [
+    "Cones",
+    "Resistance bands"
+  ],
+  "whatItDevelops": [
+    "First-step acceleration mechanics",
+    "Back-leg drive and arm swing coordination",
+    "Closeout-attack and fast-break speed"
+  ],
+  "whyBasketball": [
+    "Beating a closeout starts with one explosive step",
+    "Fast breaks are won in the first three steps",
+    "Better mechanics mean more speed with less wasted energy"
+  ],
+  "howTo": [
+    {
+      "title": "Set the lean",
+      "detail": "Stand tall, then fall forward until you must step to catch yourself. That lean angle — about 45 degrees from the ground — is your acceleration posture. Feel it."
+    },
+    {
+      "title": "Banded starts",
+      "detail": "Anchor a band behind you at hip height. Lean into the band and drive out for 5–7 meters, focusing on pushing the ground away with the back leg. Walk back, repeat."
+    },
+    {
+      "title": "Drive the back leg, swing the arms",
+      "detail": "Power comes from the leg behind you pushing, not the front leg reaching. Punch the opposite arm forward hard — arms drive legs."
+    },
+    {
+      "title": "Cone reaction starts",
+      "detail": "Partner points left or right; you explode that way for 5 meters. React, lean, drive. 6–8 reps. No false steps."
+    },
+    {
+      "title": "Closeout attack reps",
+      "detail": "Start from triple threat at the wing. On the signal, jab and explode past an imaginary closeout to the rim. Finish with a layup or pull-up. 5 reps each side."
+    }
+  ],
+  "coachingPoints": [
+    "Lean first, then step — never step first and lean later.",
+    "Push the ground behind you; the back leg is the engine.",
+    "Arms punch forward and back violently — lazy arms mean lazy legs.",
+    "Keep steps short and quick for the first three strides.",
+    "Eyes up — see the rim or the open lane, not the floor."
+  ],
+  "commonMistakes": [
+    "Standing upright and reaching with the front foot.",
+    "False-stepping backward before going forward.",
+    "Swinging arms across the body instead of straight through.",
+    "Looking down at the ball or the floor on the drive."
+  ],
+  "setsReps": "5–8 reps per drill × 3–4 rounds; full walk-back recovery between reps.",
+  "basketballTransfer": "Closeout comes flying — one lean, one drive, you are past him. Rebound secured — three steps and you lead the fast break. The first step is the whole play.",
+  "progression": [
+    "Beginner: banded starts and lean drills only, 3 rounds × 5 reps. Learn the posture before adding speed.",
+    "Intermediate: add cone reaction starts and closeout attack reps, 4 rounds × 6 reps.",
+    "Advanced: add resisted sprints with a partner holding the band, plus live 1-on-1 closeout attacks, 4 rounds × 8 reps."
+  ],
+  "relatedTopics": [
+    "ap-explosive-power-basics",
+    "ap-jump-power",
+    "rec-post-practice-cooldown"
+  ],
+  "tags": [
+    "power",
+    "first step",
+    "acceleration",
+    "closeout",
+    "fast break"
+  ],
+  "references": [
+    "NSCA — Essentials of Strength Training and Conditioning (4th ed.)",
+    "USA Basketball — Strength and Conditioning Guidelines"
+  ],
+  "dateUpdated": "2026-10-06",
+  "vi": {
+    "title": "Bùng nổ bước đầu tiên (first-step explosion)",
+    "description": "Bước đầu tiên đánh bại hậu vệ. Rèn góc nghiêng người, chân sau đạp mạnh và tay đánh để tấn công closeout và chạy phản công nhanh.",
+    "whatItDevelops": [
+      "Kỹ thuật tăng tốc bước đầu tiên",
+      "Phối hợp chân sau đạp và tay đánh",
+      "Tốc độ tấn công closeout và phản công nhanh"
+    ],
+    "whyBasketball": [
+      "Vượt qua closeout bắt đầu bằng một bước bùng nổ",
+      "Phản công nhanh thắng thua trong ba bước đầu tiên",
+      "Kỹ thuật tốt hơn cho tốc độ cao hơn với ít năng lượng lãng phí hơn"
+    ],
+    "howTo": [
+      {
+        "title": "Thiết lập góc nghiêng",
+        "detail": "Đứng thẳng, rồi đổ người tới trước đến khi buộc phải bước để giữ thăng bằng. Góc nghiêng đó — khoảng 45 độ so với mặt đất — là tư thế tăng tốc. Cảm nhận nó."
+      },
+      {
+        "title": "Xuất phát với dây kháng lực",
+        "detail": "Cố định dây sau lưng ở ngang hông. Nghiêng người vào dây và bật ra 5–7 mét, tập trung đẩy mặt đất ra sau bằng chân sau. Đi bộ về, lặp lại."
+      },
+      {
+        "title": "Chân sau đạp, tay đánh mạnh",
+        "detail": "Lực đến từ chân sau đẩy, không phải chân trước với tới. Đánh mạnh tay ngược phía tới trước — tay dẫn chân."
+      },
+      {
+        "title": "Xuất phát phản ứng theo nón",
+        "detail": "Đồng đội chỉ trái hoặc phải; bạn bùng nổ theo hướng đó 5 mét. Phản ứng, nghiêng, đạp. 6–8 lần. Không bước thừa."
+      },
+      {
+        "title": "Tấn công closeout",
+        "detail": "Bắt đầu từ triple threat ở cánh. Theo hiệu lệnh, jab rồi bùng nổ vượt qua closeout tưởng tượng để lên rổ. Kết thúc bằng layup hoặc pull-up. 5 lần mỗi bên."
+      }
+    ],
+    "coachingPoints": [
+      "Nghiêng trước, bước sau — không bao giờ bước trước rồi mới nghiêng.",
+      "Đẩy mặt đất ra phía sau; chân sau là động cơ.",
+      "Tay đánh tới lui dứt khoát — tay lười thì chân lười.",
+      "Giữ bước chân ngắn và nhanh trong ba sải đầu tiên.",
+      "Mắt nhìn lên — nhìn rổ hoặc đường lên rổ trống, không nhìn sàn."
+    ],
+    "commonMistakes": [
+      "Đứng thẳng người và với chân trước tới.",
+      "Bước thừa ra sau trước khi lao tới.",
+      "Vung tay chéo qua thân người thay vì đánh thẳng.",
+      "Cúi nhìn bóng hoặc nhìn sàn khi đột phá."
+    ],
+    "setsReps": "5–8 lần mỗi bài × 3–4 vòng; đi bộ về hồi phục hoàn toàn giữa các lần.",
+    "basketballTransfer": "Closeout lao tới — một lần nghiêng, một lần đạp, bạn đã vượt qua. Rebound về tay — ba bước là bạn dẫn đầu phản công nhanh. Bước đầu tiên là cả pha bóng.",
+    "progression": [
+      "Người mới: chỉ xuất phát với dây kháng lực và bài tập góc nghiêng, 3 vòng × 5 lần. Học tư thế trước khi tăng tốc.",
+      "Trung cấp: thêm xuất phát phản ứng theo nón và tấn công closeout, 4 vòng × 6 lần.",
+      "Nâng cao: thêm chạy nước rút có kháng lực với đồng đội giữ dây, cùng tấn công closeout 1-đấu-1 thật, 4 vòng × 8 lần."
+    ],
+    "tags": [
+      "sức bật",
+      "bước đầu tiên",
+      "tăng tốc",
+      "closeout",
+      "phản công nhanh"
+    ],
+    "duration": "15–20 phút"
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "basketballTransfer": "Championships are won in February practices, not just March games — and February practices are survived through recovery. The players still standing in playoff time are the ones who recovered on random Tuesdays.",
+  "category": "myths",
+  "coachingPoints": [
+    "Recovery is daily maintenance, like brushing teeth — not emergency repair.",
+    "The Tuesday practice recovery matters more than the Saturday game recovery, because there are fifty Tuesdays.",
+    "Build the boring routine: sleep, food, fluids, easy movement. Every day.",
+    "Games just make recovery visible. Practices are where it compounds."
+  ],
+  "commonMistakes": [
+    "Going all-out all week, then doing one giant 'recovery day' before the game.",
+    "Sleeping 5 hours on practice nights because 'it's not a game night'.",
+    "Eating terribly all week and 'fueling up' only on game day.",
+    "Treating practice soreness as meaningless and game soreness as an emergency."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "Is recovery only a game-day thing? Why the days between games matter more than game day itself.",
+  "duration": "Read: 4 min",
+  "equipment": [
+    "None"
+  ],
+  "goal": [
+    "conditioning"
+  ],
+  "howTo": [
+    {
+      "detail": "Same wake time, wind-down, phone out of the bedroom — whether tomorrow is a game or a math test.",
+      "title": "Sleep like every night matters"
+    },
+    {
+      "detail": "Practice days need the same post-session meal and fluids as game days. The body cannot tell the calendar.",
+      "title": "Refuel after practices too"
+    },
+    {
+      "detail": "Soreness from Tuesday's practice becomes Thursday's compensation pattern. Manage it on Tuesday.",
+      "title": "Manage practice soreness early"
+    },
+    {
+      "detail": "One light day per week, planned — not earned by collapse. Consistency beats intensity, including in recovery.",
+      "title": "Schedule the easy day"
+    }
+  ],
+  "hub": "recovery",
+  "id": "perf-rec-myth-recovery-only-games",
+  "level": "beginner",
+  "positions": [
+    "all"
+  ],
+  "progression": [
+    "Beginner: apply the post-practice protocol after every session, not just games.",
+    "Intermediate: track sleep and soreness across a full training week.",
+    "Advanced: periodize recovery with the season plan — hardest weeks get the most recovery attention."
+  ],
+  "references": [
+    "NSCA Essentials of Strength Training and Conditioning"
+  ],
+  "relatedTopics": [
+    "rec-post-practice-protocol",
+    "rec-active-recovery",
+    "rec-sleep-for-athletes",
+    "rec-myth-soreness-progress",
+    "nut-post-training-recovery"
+  ],
+  "setsReps": "Daily. Recovery is a lifestyle input, not a game-day event.",
+  "slug": "rec-myth-recovery-only-games",
+  "subcategory": "myth-fact",
+  "tags": [
+    "recovery",
+    "myths",
+    "routine",
+    "education"
+  ],
+  "title": "Myth or Fact: Recovery Only Matters After Games",
+  "trainingPhase": [
+    "in-season",
+    "off-season",
+    "pre-season",
+    "recovery-day"
+  ],
+  "vi": {
+    "basketballTransfer": "Chức vô địch thắng ở buổi tập tháng Hai, không chỉ trận đấu tháng Ba — mà buổi tập tháng Hai thì sống sót nhờ hồi phục. Cầu thủ còn đứng vững đến playoff là người đã hồi phục vào những ngày thứ Ba bình thường.",
+    "coachingPoints": [
+      "Hồi phục là bảo dưỡng mỗi ngày, như đánh răng — không phải sửa chữa khẩn cấp.",
+      "Hồi phục sau buổi tập thứ Ba quan trọng hơn sau trận thứ Bảy, vì có đến 50 ngày thứ Ba.",
+      "Dựng nếp nhàm chán: ngủ, ăn, nước, vận động nhẹ. Mỗi ngày.",
+      "Trận đấu chỉ làm hồi phục lộ ra. Buổi tập mới là nơi nó cộng dồn."
+    ],
+    "commonMistakes": [
+      "Bung hết sức cả tuần rồi làm một 'ngày hồi phục' hoành tráng trước trận.",
+      "Ngủ 5 tiếng vào đêm tập vì 'đâu phải đêm thi đấu'.",
+      "Ăn uống tệ cả tuần rồi 'nạp' mỗi ngày thi đấu.",
+      "Coi đau mỏi sau tập là vô nghĩa, đau sau trận mới là khẩn cấp."
+    ],
+    "description": "Hồi phục chỉ cần sau trận đấu? Vì sao những ngày giữa các trận còn quan trọng hơn chính ngày thi đấu.",
+    "duration": "Đọc: 4 phút",
+    "howTo": [
+      {
+        "detail": "Cùng giờ dậy, cùng nếp thư giãn, điện thoại ra khỏi phòng ngủ — dù mai là trận đấu hay bài kiểm tra toán.",
+        "title": "Ngủ như đêm nào cũng quan trọng"
+      },
+      {
+        "detail": "Ngày tập cần bữa ăn và nước sau buổi như ngày thi đấu. Cơ thể không biết xem lịch.",
+        "title": "Nạp lại sau buổi tập nữa"
+      },
+      {
+        "detail": "Đau mỏi từ buổi tập thứ Ba thành kiểu bù trừ của thứ Năm. Xử lý nó ngay từ thứ Ba.",
+        "title": "Xử lý đau sau tập sớm"
+      },
+      {
+        "detail": "Một ngày nhẹ mỗi tuần, lên kế hoạch trước — không phải đợi sập mới nghỉ. Đều đặn thắng cường độ, kể cả trong hồi phục.",
+        "title": "Lên lịch ngày nhẹ"
+      }
+    ],
+    "progression": [
+      "Cơ bản: áp dụng quy trình sau tập cho mọi buổi, không chỉ trận đấu.",
+      "Trung cấp: theo dõi giấc ngủ và đau mỏi suốt tuần tập.",
+      "Nâng cao: xếp hồi phục theo kế hoạch mùa — tuần càng nặng càng cần hồi phục kỹ."
+    ],
+    "setsReps": "Mỗi ngày. Hồi phục là nếp sống, không phải sự kiện ngày thi đấu.",
+    "tags": [
+      "hồi phục",
+      "hiểu lầm",
+      "thói quen",
+      "kiến thức"
+    ],
+    "title": "Đúng hay sai: chỉ cần hồi phục sau trận?",
+    "whatItDevelops": [
+      "Tư duy hồi phục mỗi ngày",
+      "Nếp sau buổi tập",
+      "Quản lý tuần tập",
+      "Nhìn xa cả mùa giải"
+    ],
+    "whyBasketball": [
+      "Kết luận ngắn gọn: SAI. Cơ thể thích nghi (và quá tải) theo những gì bạn làm mỗi ngày, không phải mỗi trận. Bỏ hồi phục 5 ngày tập để 'dồn' cho 1 trận là công thức chấn thương.",
+      "Phép tính đơn giản: 1 mùa có khoảng 30 trận nhưng 150+ buổi tập. Nơi bạn dành 80% thời gian mới là nơi hồi phục tạo ra khác biệt lớn nhất.",
+      "Tin tốt: hồi phục ngày thường rất đơn giản — ngủ đủ, ăn sau tập, uống nước, đi bộ. Không cần nghi thức gì cầu kỳ. Chỉ cần làm mỗi ngày."
+    ]
+  },
+  "whatItDevelops": [
+    "Daily recovery mindset",
+    "Post-practice routine",
+    "Training-week management",
+    "Season-long perspective"
+  ],
+  "whyBasketball": [
+    "The short verdict: MYTH. The body adapts (and overloads) to what you do daily, not just on game days. Skipping recovery for five practices to 'save it' for one game is an injury recipe.",
+    "Simple math: a season has ~30 games but 150+ practices. Where you spend 80% of your time is where recovery makes the biggest difference.",
+    "The good news: weekday recovery is simple — sleep enough, eat after training, drink water, walk. No elaborate ritual needed. Just daily."
+  ]
+}

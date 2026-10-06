@@ -1,0 +1,151 @@
+{
+  "basketballTransfer": "You start the game topped up and settled — no hunger dip in the second quarter, no heavy stomach in the first.",
+  "category": "game-day",
+  "coachingPoints": [
+    "The snack is a top-up, not a meal — small and fast.",
+    "Carbs first, everything else second.",
+    "Bring it yourself — don't depend on what's sold at the gym.",
+    "If you're not hungry, a half-snack beats a full one.",
+    "Water always rides along with the snack."
+  ],
+  "commonMistakes": [
+    "Skipping the snack and starting the game on fumes.",
+    "Eating a full meal as the 'snack' 30 minutes before tip-off.",
+    "Grabbing a candy bar or chips — sugar spike, then a crash.",
+    "Trying a new energy bar you've never tested in practice."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "A small, easy-to-digest carb snack 60–90 minutes before tip-off — a banana, a small sweet bun, or bread with water — to top up energy without upsetting your stomach.",
+  "duration": "10 min",
+  "equipment": [
+    "Cooler bag",
+    "Water bottle",
+    "Portable snacks"
+  ],
+  "goal": [],
+  "howTo": [
+    {
+      "detail": "The snack bridges the gap between your last meal and tip-off. Sixty to ninety minutes is the sweet spot: close enough that the energy is available, far enough that the stomach is empty. For a 19:00 game, snack around 17:30–18:00.",
+      "title": "Snack 60–90 minutes before tip-off"
+    },
+    {
+      "detail": "Pick carbs that digest fast: a banana, a small bánh mì ngọt, a couple of rice crackers, or a small piece of white bread. Familiar and plain beats fancy — this is fuel, not cuisine.",
+      "title": "Pick fast, familiar carbs"
+    },
+    {
+      "detail": "Pair the snack with water — a small bottle or a few big sips. The carbs move into your system better with fluid, and you're starting your in-game hydration early.",
+      "title": "Add water, always"
+    },
+    {
+      "detail": "A small handful is the right size: one banana, one small bun, one small sandwich. If the game is delayed, you can repeat a half-snack; if you're nervous and not hungry, half a banana still helps.",
+      "title": "Keep it small"
+    },
+    {
+      "detail": "Eat the same snack before practices for two weeks before using it on game day. Your stomach should already know it. Never debut a new energy bar, gel, or drink in a real game.",
+      "title": "Test it in practice first"
+    }
+  ],
+  "hub": "nutrition",
+  "id": "perf-nut-pre-game-snack",
+  "level": "beginner",
+  "positions": [
+    "all"
+  ],
+  "progression": [
+    "Beginner: pick one snack (a banana) and use it before every game for a month.",
+    "Intermediate: match snack size to hunger — full snack after a long day, half snack if you ate recently.",
+    "Advanced: build a small game-day kit — snack + water bottle in your bag so you never depend on the venue."
+  ],
+  "relatedTopics": [
+    "nut-pre-game-meal",
+    "hyd-game-day-hydration",
+    "nut-game-day-breakfast",
+    "ap-basketball-conditioning"
+  ],
+  "setsReps": "One small snack, 60–90 minutes before tip-off; same snack every game day.",
+  "slug": "nut-pre-game-snack",
+  "subcategory": "pre-game",
+  "tags": [
+    "game day",
+    "pre-game snack",
+    "carbs",
+    "quick energy"
+  ],
+  "title": "Pre-Game Snack",
+  "trainingPhase": [
+    "game-day"
+  ],
+  "vi": {
+    "basketballTransfer": "Bước vào trận với năng lượng được nạp đầy và dạ dày êm — hiệp hai không hụt sức, hiệp một không nặng bụng.",
+    "coachingPoints": [
+      "Món ăn nhẹ là nạp thêm, không phải bữa chính — nhỏ và nhanh.",
+      "Tinh bột trước, mọi thứ khác sau.",
+      "Tự mang theo — đừng trông chờ đồ bán ở nhà thi đấu.",
+      "Nếu không đói, ăn nửa phần vẫn hơn ăn đủ phần.",
+      "Nước luôn đi cùng món ăn nhẹ."
+    ],
+    "commonMistakes": [
+      "Bỏ qua món ăn nhẹ, ra sân với bình năng lượng cạn.",
+      "Ăn một bữa no như 'món nhẹ' chỉ 30 phút trước giờ thi đấu.",
+      "Vớ đại thanh kẹo hay bim bim — đường lên nhanh rồi tụt nhanh.",
+      "Thử thanh năng lượng mới toanh chưa từng ăn khi tập."
+    ],
+    "description": "Một món ăn nhẹ nhỏ, dễ tiêu, giàu tinh bột, ăn 60–90 phút trước giờ bóng lăn — quả chuối, chiếc bánh mì ngọt nhỏ hay bánh mì với nước — để nạp thêm năng lượng mà không làm khó dạ dày.",
+    "duration": "10 phút",
+    "howTo": [
+      {
+        "detail": "Món ăn nhẹ bắc cầu giữa bữa ăn gần nhất và giờ thi đấu. 60–90 phút là khoảng đẹp: đủ gần để năng lượng kịp dùng, đủ xa để dạ dày kịp rỗng. Trận 19 giờ thì ăn nhẹ khoảng 17 giờ 30–18 giờ.",
+        "title": "Ăn nhẹ 60–90 phút trước giờ thi đấu"
+      },
+      {
+        "detail": "Chọn tinh bột tiêu hóa nhanh: quả chuối, chiếc bánh mì ngọt nhỏ, vài miếng bánh tráng gạo, hoặc lát bánh mì trắng nhỏ. Quen thuộc và đơn giản tốt hơn cầu kỳ — đây là nhiên liệu, không phải ẩm thực.",
+        "title": "Chọn tinh bột nhanh, quen thuộc"
+      },
+      {
+        "detail": "Ăn kèm với nước — chai nhỏ hoặc vài ngụm lớn. Tinh bột đi vào cơ thể tốt hơn khi có nước, và bạn đã bắt đầu bù nước cho trận đấu từ sớm.",
+        "title": "Luôn uống nước kèm theo"
+      },
+      {
+        "detail": "Một nắm tay nhỏ là đúng cỡ: một quả chuối, một chiếc bánh nhỏ, một ổ bánh mì nhỏ. Nếu trận bị hoãn, ăn thêm nửa phần; nếu hồi hộp không đói, nửa quả chuối vẫn có ích.",
+        "title": "Giữ phần ăn nhỏ"
+      },
+      {
+        "detail": "Ăn đúng món này trước các buổi tập trong hai tuần rồi mới dùng vào ngày thi đấu. Dạ dày phải quen nó từ trước. Đừng bao giờ thử thanh năng lượng, gel hay nước uống mới trong trận thật.",
+        "title": "Thử khi tập trước đã"
+      }
+    ],
+    "progression": [
+      "Mới bắt đầu: chọn một món (quả chuối) và dùng trước mọi trận trong một tháng.",
+      "Nâng cao dần: chỉnh cỡ phần ăn theo cơn đói — đói thì ăn đủ phần, vừa ăn xong thì ăn nửa phần.",
+      "Nâng cao: chuẩn bị bộ đồ nghề ngày thi đấu — món ăn nhẹ + chai nước trong túi để không phụ thuộc vào sân bãi."
+    ],
+    "setsReps": "Một món ăn nhẹ nhỏ, 60–90 phút trước giờ thi đấu; cùng một món mỗi ngày thi đấu.",
+    "tags": [
+      "ngày thi đấu",
+      "ăn nhẹ trước trận",
+      "tinh bột",
+      "năng lượng nhanh"
+    ],
+    "title": "Món ăn nhẹ trước trận",
+    "whatItDevelops": [
+      "Nạp thêm năng lượng trước giờ bóng lăn",
+      "Dạ dày nhẹ, không bị nặng khi vào trận",
+      "Thói quen ăn nhẹ trước trận ổn định"
+    ],
+    "whyBasketball": [
+      "Khoảng cách giữa bữa ăn và trận đấu thường dài — món ăn nhẹ giữ năng lượng không bị hụt.",
+      "Ăn nhẹ đúng lúc giúp cầu thủ tránh cơn đói ập đến giữa hiệp hai.",
+      "Cầu thủ có thói quen ăn nhẹ trước trận ít bị tụt phong độ vì đói hơn."
+    ]
+  },
+  "whatItDevelops": [
+    "A top-up of energy before tip-off",
+    "A settled stomach at game start",
+    "A reliable pre-game snack routine"
+  ],
+  "whyBasketball": [
+    "The gap between your last meal and tip-off is often long — the snack keeps energy from dipping.",
+    "A well-timed snack stops hunger from hitting you in the second quarter.",
+    "Players with a pre-game snack routine rarely fade from hunger mid-game."
+  ]
+}

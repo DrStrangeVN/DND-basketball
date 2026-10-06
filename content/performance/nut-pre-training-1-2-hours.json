@@ -1,0 +1,149 @@
+{
+  "basketballTransfer": "Arriving fueled means your first 30 minutes of practice — when coaches evaluate effort — are at full quality.",
+  "category": "pre-training",
+  "coachingPoints": [
+    "This snack is a bridge, not a replacement for the 3-hour meal",
+    "If you only have 60 minutes, go even smaller and simpler",
+    "Avoid high-fiber and spicy foods this close to training",
+    "School-day tip: eat this right after class on the way to the gym"
+  ],
+  "commonMistakes": [
+    "Treating it as a second full meal and feeling heavy",
+    "Choosing fried street food right before sprints",
+    "Drinking a huge amount of water at once and sloshing through warm-up",
+    "Skipping it entirely because 'the real meal was missed anyway'"
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "Missed the 3-hour meal? This is your backup plan: a lighter, easy-to-digest snack that tops up energy without weighing you down.",
+  "duration": "6 min",
+  "equipment": [
+    "Water bottle",
+    "Portable snack container"
+  ],
+  "goal": [
+    "conditioning"
+  ],
+  "howTo": [
+    {
+      "detail": "About half a normal meal. Choose familiar foods your stomach trusts.",
+      "title": "Keep it small and simple"
+    },
+    {
+      "detail": "Bread, porridge, banana, or yogurt with honey — quick energy that digests easily.",
+      "title": "Lead with carbs"
+    },
+    {
+      "detail": "One egg is fine; a cheeseburger is not.",
+      "title": "Keep fat and protein light"
+    },
+    {
+      "detail": "A glass or two now; save the bigger drinking for warm-up and breaks.",
+      "title": "Add water, not a big bottle"
+    }
+  ],
+  "hub": "nutrition",
+  "id": "perf-nut-pre-training-1-2-hours",
+  "level": "beginner",
+  "positions": [
+    "all"
+  ],
+  "progression": [
+    "Beginner: eat anything familiar 90 minutes before training",
+    "Intermediate: build the carb-led light snack and time your water",
+    "Advanced: know your personal menu for every time window, including travel days"
+  ],
+  "references": [
+    "IOC Consensus Statement on Sports Nutrition",
+    "FIBA Nutrition Guidelines"
+  ],
+  "relatedTopics": [
+    "nut-pre-training-3-hours",
+    "nut-pre-training-30-60-min",
+    "hyd-hydration-basics"
+  ],
+  "setsReps": "1 light snack 1–2 hours before training; ~300–400 ml water",
+  "slug": "nut-pre-training-1-2-hours",
+  "subcategory": "timing",
+  "tags": [
+    "nutrition",
+    "pre-training",
+    "snacks",
+    "energy",
+    "digestion"
+  ],
+  "title": "Eating 1–2 Hours Before Training",
+  "trainingPhase": [
+    "pre-season",
+    "in-season",
+    "game-day"
+  ],
+  "vi": {
+    "basketballTransfer": "Bước vào buổi tập với năng lượng đầy giúp 30 phút đầu — lúc HLV đánh giá thái độ — đạt chất lượng cao nhất.",
+    "coachingPoints": [
+      "Bữa này là cầu nối, không thay thế bữa ăn 3 tiếng trước tập",
+      "Nếu chỉ còn 60 phút, ăn càng ít và càng đơn giản càng tốt",
+      "Tránh đồ nhiều chất xơ và đồ cay sát giờ tập",
+      "Mẹo cho ngày đi học: ăn ngay sau giờ học trên đường đến sân"
+    ],
+    "commonMistakes": [
+      "Ăn như một bữa chính thứ hai rồi người nặng trịch",
+      "Chọn đồ chiên vỉa hè ngay trước giờ chạy nước rút",
+      "Tu một hơi quá nhiều nước rồi ì ạch qua phần khởi động",
+      "Bỏ luôn vì nghĩ 'đằng nào cũng lỡ bữa chính'"
+    ],
+    "description": "Lỡ bữa ăn 3 tiếng trước tập? Đây là phương án dự phòng: bữa ăn nhẹ, dễ tiêu để nạp thêm năng lượng mà không làm người nặng nề.",
+    "duration": "6 phút",
+    "howTo": [
+      {
+        "detail": "Khoảng nửa bữa bình thường. Chọn món quen, dạ dày tin tưởng.",
+        "title": "Ăn ít và đơn giản"
+      },
+      {
+        "detail": "Bánh mì, cháo, chuối hoặc sữa chua với mật ong — năng lượng nhanh, dễ tiêu.",
+        "title": "Ưu tiên tinh bột"
+      },
+      {
+        "detail": "Một quả trứng thì được; một chiếc burger phô mai thì không.",
+        "title": "Đạm và béo giữ ở mức nhẹ"
+      },
+      {
+        "detail": "Một hai ly lúc này; phần uống nhiều để dành cho lúc khởi động và giờ nghỉ.",
+        "title": "Uống nước vừa phải"
+      }
+    ],
+    "progression": [
+      "Cơ bản: ăn món quen bất kỳ trước tập 90 phút",
+      "Trung cấp: xây bữa nhẹ lấy tinh bột làm chủ đạo và canh lượng nước",
+      "Nâng cao: có sẵn thực đơn cho từng khung giờ, kể cả ngày đi thi đấu xa"
+    ],
+    "setsReps": "1 bữa ăn nhẹ trước buổi tập 1–2 tiếng; khoảng 300–400 ml nước",
+    "tags": [
+      "dinh dưỡng",
+      "ăn trước tập",
+      "bữa ăn nhẹ",
+      "năng lượng",
+      "tiêu hóa"
+    ],
+    "title": "Ăn gì 1–2 tiếng trước buổi tập",
+    "whatItDevelops": [
+      "Kế hoạch nạp năng lượng dự phòng",
+      "Chọn bữa ăn nhẹ phù hợp",
+      "Hiểu khả năng tiêu hóa của bản thân"
+    ],
+    "whyBasketball": [
+      "Ăn gì đó luôn tốt hơn tập lúc đói — một quả chuối cũng đổi khác cả buổi tập",
+      "Bữa nhẹ tiêu hóa nhanh, không gây khó chịu dạ dày trong các bài chạy",
+      "Giữ đường huyết ổn định suốt giờ tập đầu tiên"
+    ]
+  },
+  "whatItDevelops": [
+    "Backup fueling plan",
+    "Light snack selection",
+    "Reading your own digestion"
+  ],
+  "whyBasketball": [
+    "Something is always better than training fasted — even a banana changes the session",
+    "Light snacks digest fast enough to avoid stomach discomfort during running drills",
+    "Keeps blood sugar stable through the first hour of practice"
+  ]
+}

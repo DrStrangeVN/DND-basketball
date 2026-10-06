@@ -1,0 +1,169 @@
+{
+  "id": "perf-ap-medicine-ball-power",
+  "slug": "ap-medicine-ball-power",
+  "hub": "athletic-performance",
+  "category": "power",
+  "subcategory": "medicine-ball",
+  "title": "Medicine Ball Power",
+  "description": "Medicine ball throws build full-body power that shows up in long outlet passes, strong box outs, and finishes through contact. Simple tools, big carryover.",
+  "level": "intermediate",
+  "positions": [
+    "all"
+  ],
+  "trainingPhase": [
+    "off-season",
+    "pre-season"
+  ],
+  "goal": [
+    "explosive"
+  ],
+  "duration": "15–20 min",
+  "equipment": [
+    "Medicine ball",
+    "Wall"
+  ],
+  "whatItDevelops": [
+    "Full-body power from legs through trunk to arms",
+    "Rotational power for the core",
+    "Overhead throwing power",
+    "Chest-pass power and release speed"
+  ],
+  "whyBasketball": [
+    "Basketball runs on short bursts of force, not slow grinding strength.",
+    "An explosive outlet pass turns defense into offense in one throw.",
+    "Power keeps you stable when you box out or finish through a bump."
+  ],
+  "howTo": [
+    {
+      "title": "Warm up first.",
+      "detail": "Two minutes of dynamic movement: arm circles, leg swings, bodyweight squats. Never throw cold."
+    },
+    {
+      "title": "Overhead throw.",
+      "detail": "Stand 3–4 m from a wall, ball held overhead. Extend hips, then trunk, then arms in one wave. Snap the ball at the wall."
+    },
+    {
+      "title": "Chest pass throw.",
+      "detail": "Hold the ball at chest height, elbows out. Drive off the floor, punch the ball forward. Step into the throw."
+    },
+    {
+      "title": "Rotational throw.",
+      "detail": "Stand sideways to the wall. Load the back hip, rotate the trunk, release the ball across your body. Alternate sides evenly."
+    },
+    {
+      "title": "Rest between sets.",
+      "detail": "Take 90 seconds between sets. Power work needs fresh muscles — tired throws build bad habits."
+    },
+    {
+      "title": "Finish easy.",
+      "detail": "Cool down with light arm circles and a few slow practice reps at half speed."
+    }
+  ],
+  "coachingPoints": [
+    "Throw with the whole body, not just the arms.",
+    "Keep the ball moving fast — snap it, don't push it.",
+    "Brace your core on every rotation throw.",
+    "Reset your stance fully before each rep.",
+    "Quality beats quantity. Stop when speed drops."
+  ],
+  "commonMistakes": [
+    "Throwing with the arms only — no leg drive.",
+    "Using a ball so heavy the throw slows down.",
+    "Rushing reps with almost no rest.",
+    "Skipping the warm-up and throwing cold."
+  ],
+  "setsReps": "3–4 sets × 6–8 throws per exercise",
+  "basketballTransfer": "Full-body power transfers to outlet passes that beat the press, box outs that move defenders, and finishes that stay controlled through contact.",
+  "progression": [
+    "Beginner: use a light ball (2–4 kg). Partner chest passes from 3 m. Focus on form, not distance.",
+    "Intermediate: 4–6 kg ball. Add overhead and rotational wall throws. 3–4 sets per exercise.",
+    "Advanced: heavier ball. Link exercises into continuous series (overhead → chest → rotational). Add a countermovement before release."
+  ],
+  "relatedTopics": [
+    "ip-landing-mechanics",
+    "nut-post-training-recovery-meal",
+    "hyd-after-practice-hydration",
+    "ip-warm-up-5-minute"
+  ],
+  "tags": [
+    "power",
+    "medicine ball",
+    "throws",
+    "explosive",
+    "upper body"
+  ],
+  "references": [
+    "NSCA. Essentials of Strength Training and Conditioning (4th ed.). Human Kinetics.",
+    "USA Basketball. Youth Development & Strength and Conditioning Guidelines."
+  ],
+  "dateUpdated": "2026-10-06",
+  "vi": {
+    "title": "Phát lực với medicine ball (medicine ball power)",
+    "description": "Bài tập ném bóng medicine ball xây dựng sức phát lực toàn thân — dùng cho đường chuyền phát động xa, tranh chấp khi box out và dứt điểm qua va chạm. Dụng cụ đơn giản, hiệu quả lên sân rất rõ.",
+    "whatItDevelops": [
+      "Phát lực toàn thân từ chân qua thân lên tay",
+      "Phát lực xoay thân cho vùng core",
+      "Sức ném bóng qua đầu",
+      "Sức chuyền ngực và tốc độ ra tay"
+    ],
+    "whyBasketball": [
+      "Bóng rổ sống bằng những pha bộc phát lực ngắn, không phải sức mạnh gồng chậm.",
+      "Một đường chuyền phát động mạnh biến phòng thủ thành tấn công chỉ trong một nhịp.",
+      "Sức phát lực giúp bạn vững vàng khi box out và dứt điểm qua va chạm."
+    ],
+    "howTo": [
+      {
+        "title": "Khởi động trước.",
+        "detail": "2 phút vận động: xoay tay, đá chân, squat không tạ. Không bao giờ ném khi cơ còn nguội."
+      },
+      {
+        "title": "Ném bóng qua đầu.",
+        "detail": "Đứng cách tường 3–4 m, bóng giữ trên đầu. Duỗi hông, rồi thân, rồi tay trong một nhịp sóng. Quật bóng vào tường."
+      },
+      {
+        "title": "Ném chuyền ngực.",
+        "detail": "Ôm bóng ngang ngực, khuỷu tay mở. Đạp mạnh xuống sàn, đẩy bóng tới trước. Bước chân theo nhịp ném."
+      },
+      {
+        "title": "Ném xoay thân.",
+        "detail": "Đứng nghiêng người so với tường. Nén hông sau, xoay thân, thả bóng cắt ngang người. Đổi bên đều nhau."
+      },
+      {
+        "title": "Nghỉ giữa các hiệp.",
+        "detail": "Nghỉ 90 giây mỗi hiệp. Tập phát lực cần cơ tươi — ném khi mệt chỉ tạo thói quen xấu."
+      },
+      {
+        "title": "Thả lỏng cuối buổi.",
+        "detail": "Xoay tay nhẹ và vài lần ném chậm ở nửa tốc độ."
+      }
+    ],
+    "coachingPoints": [
+      "Ném bằng cả cơ thể, không chỉ tay.",
+      "Giữ bóng bay nhanh — quật bóng, đừng đẩy bóng.",
+      "Siết cơ bụng trong mỗi lần ném xoay.",
+      "Chỉnh lại tư thế đứng trước mỗi lần ném.",
+      "Chất lượng hơn số lượng. Thấy tốc độ giảm thì dừng."
+    ],
+    "commonMistakes": [
+      "Chỉ ném bằng tay, không dùng lực chân.",
+      "Bóng quá nặng khiến cú ném chậm lại.",
+      "Ném dồn dập, gần như không nghỉ.",
+      "Bỏ khởi động, ném khi cơ còn nguội."
+    ],
+    "setsReps": "3–4 hiệp × 6–8 lần ném mỗi bài",
+    "basketballTransfer": "Phát lực toàn thân chuyển thành đường chuyền phát động vượt qua press, cú box out đẩy được đối thủ và những pha dứt điểm vững vàng qua va chạm.",
+    "progression": [
+      "Cơ bản: bóng nhẹ (2–4 kg). Chuyền ngực với bạn tập từ 3 m. Ưu tiên kỹ thuật, không cần xa.",
+      "Trung cấp: bóng 4–6 kg. Thêm ném qua đầu và ném xoay vào tường. 3–4 hiệp mỗi bài.",
+      "Nâng cao: bóng nặng hơn. Nối các bài thành chuỗi liên tục (qua đầu → ngực → xoay). Thêm nhịp nhún người trước khi thả bóng."
+    ],
+    "tags": [
+      "phát lực",
+      "bóng medicine ball",
+      "ném bóng",
+      "sức mạnh toàn thân",
+      "bùng nổ"
+    ],
+    "duration": "15–20 phút"
+  }
+}

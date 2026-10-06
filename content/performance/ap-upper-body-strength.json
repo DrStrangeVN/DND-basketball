@@ -1,0 +1,172 @@
+{
+  "basketballTransfer": "Upper-body strength shows up when you absorb a bump and still finish, when you rip a rebound out of traffic, and when your shooting shoulder stays healthy deep into the season.",
+  "category": "strength",
+  "coachingPoints": [
+    "Keep the ribs down on presses — no back arch.",
+    "Pull with the back, not the arms, on rows.",
+    "Full range of motion beats heavy half-reps.",
+    "Balance push and pull volume across the week.",
+    "Stop if a shoulder pinches — pain is information, not weakness."
+  ],
+  "commonMistakes": [
+    "Flaring elbows wide on push-ups and presses.",
+    "Arching the lower back on overhead press.",
+    "Only training chest, skipping rows and pull-aparts.",
+    "Using momentum instead of muscle on rows."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "Push-up, row, and overhead press progressions for guards, wings, and bigs. A strong upper body keeps you balanced through contact and helps you finish at the rim.",
+  "duration": "15–20 min",
+  "equipment": [
+    "Dumbbells",
+    "Resistance bands",
+    "Pull-up bar"
+  ],
+  "goal": [
+    "get-stronger"
+  ],
+  "howTo": [
+    {
+      "detail": "Arm circles, band pull-aparts, easy push-ups. Wake up the shoulders and upper back.",
+      "title": "Warm up 5 minutes"
+    },
+    {
+      "detail": "Body straight from head to heels. Chest to the floor, press up. Add a dumbbell on your back or elevate feet to progress.",
+      "title": "Push-up"
+    },
+    {
+      "detail": "Back flat, dumbbells at chest. Press up, lower slow. Keep elbows at 45 degrees.",
+      "title": "Dumbbell bench or floor press"
+    },
+    {
+      "detail": "Hinge over a bench, back flat. Pull to your hip, squeeze the shoulder blade. No rotation.",
+      "title": "Single-arm dumbbell row"
+    },
+    {
+      "detail": "Dumbbells at shoulders, brace your core. Press overhead without arching your back. Lower with control.",
+      "title": "Standing overhead press"
+    },
+    {
+      "detail": "Arms straight, pull the band apart to your chest. Squeeze shoulder blades. Posture work.",
+      "title": "Band pull-apart (finisher)"
+    }
+  ],
+  "hub": "athletic-performance",
+  "id": "perf-ap-upper-body-strength",
+  "level": "beginner",
+  "positions": [
+    "all"
+  ],
+  "progression": [
+    "Beginner: bodyweight push-ups and band rows, 2 sessions per week.",
+    "Intermediate: dumbbell presses and single-arm rows with progressive load.",
+    "Advanced: weighted push-ups, pull-up progressions, and heavier dumbbell work."
+  ],
+  "references": [
+    "NSCA — Essentials of Strength Training and Conditioning",
+    "USA Basketball — Strength & Conditioning Guidelines"
+  ],
+  "relatedTopics": [
+    "ap-basketball-strength-fundamentals",
+    "ap-core-strength-basketball",
+    "ip-warm-up-5-minute",
+    "nut-protein-for-basketball",
+    "rec-sleep-for-athletes"
+  ],
+  "setsReps": "3 sets × 8–12 reps per exercise. Rest 60–90 seconds. Adjust to your coach's plan and your training age.",
+  "slug": "ap-upper-body-strength",
+  "subcategory": "upper-body",
+  "tags": [
+    "strength",
+    "upper body",
+    "push-up",
+    "contact",
+    "finishing"
+  ],
+  "title": "Upper Body Strength for Basketball",
+  "trainingPhase": [
+    "off-season"
+  ],
+  "vi": {
+    "basketballTransfer": "Sức mạnh thân trên thể hiện khi bạn chịu một cú húc mà vẫn kết thúc được, khi bạn giật rebound giữa đám đông, và khi vai ném giữ được sức khỏe tới cuối mùa.",
+    "coachingPoints": [
+      "Hạ sườn xuống khi đẩy — không ưỡn lưng.",
+      "Kéo bằng lưng, không phải bằng tay.",
+      "Biên độ đầy đủ hơn tạ nặng nửa vời.",
+      "Cân bằng khối lượng đẩy và kéo trong tuần.",
+      "Vai nhói đau thì dừng — đau là tín hiệu, không phải yếu đuối."
+    ],
+    "commonMistakes": [
+      "Xòe khuỷu tay quá rộng khi chống đẩy và đẩy tạ.",
+      "Ưỡn lưng dưới khi đẩy tạ qua đầu.",
+      "Chỉ tập ngực, bỏ qua kéo tạ và kéo dây.",
+      "Dùng đà thay vì dùng cơ khi kéo tạ."
+    ],
+    "description": "Các bài chống đẩy, kéo tạ và đẩy tạ qua đầu cho mọi vị trí. Thân trên khỏe giúp giữ thăng bằng khi va chạm và kết thúc tốt ở gần rổ.",
+    "duration": "15–20 phút",
+    "howTo": [
+      {
+        "detail": "Xoay tay, kéo dây kháng lực ngang ngực, chống đẩy nhẹ. Đánh thức vai và lưng trên.",
+        "title": "Khởi động 5 phút"
+      },
+      {
+        "detail": "Người thẳng từ đầu tới gót. Hạ ngực chạm sàn, đẩy lên. Đặt tạ đơn lên lưng hoặc kê chân cao để tăng độ khó.",
+        "title": "Chống đẩy"
+      },
+      {
+        "detail": "Lưng ép sát ghế, tạ ở ngang ngực. Đẩy lên, hạ xuống chậm. Giữ khuỷu tay khoảng 45 độ.",
+        "title": "Đẩy tạ đơn nằm"
+      },
+      {
+        "detail": "Gập người trên ghế, lưng thẳng. Kéo tạ về hông, siết xương bả vai. Không xoay người.",
+        "title": "Kéo tạ một tay"
+      },
+      {
+        "detail": "Tạ ở ngang vai, siết cơ bụng. Đẩy tạ lên cao, không ưỡn lưng. Hạ xuống có kiểm soát.",
+        "title": "Đẩy tạ qua đầu đứng"
+      },
+      {
+        "detail": "Tay thẳng, kéo dây ra ngang ngực. Siết xương bả vai. Bài này cho tư thế.",
+        "title": "Kéo dây ngang ngực (kết thúc)"
+      }
+    ],
+    "progression": [
+      "Người mới: chống đẩy không tạ và kéo dây kháng lực, 2 buổi/tuần.",
+      "Trung cấp: đẩy tạ đơn và kéo tạ một tay, tăng dần mức tạ.",
+      "Nâng cao: chống đẩy có thêm tạ, các biến thể xà đơn và tạ đơn nặng hơn."
+    ],
+    "setsReps": "3 hiệp × 8–12 lần mỗi bài. Nghỉ 60–90 giây. Điều chỉnh theo kế hoạch của HLV và số năm tập luyện của bạn.",
+    "tags": [
+      "sức mạnh",
+      "thân trên",
+      "chống đẩy",
+      "va chạm",
+      "kết thúc rổ"
+    ],
+    "title": "Sức mạnh thân trên cho bóng rổ (upper body strength)",
+    "whatItDevelops": [
+      "Sức đẩy và sức kéo cho các tình huống va chạm",
+      "Ổn định vai cho ném rổ và tranh chấp rebound",
+      "Lực nắm và sức tay để kiểm soát bóng",
+      "Tư thế vững, khó bị húc lệch"
+    ],
+    "whyBasketball": [
+      "Kết thúc có va chạm cần thân trên khỏe và ổn định.",
+      "Tranh chấp rebound trong đám đông thưởng cho người giữ được vị trí.",
+      "Vai ổn định chịu được hàng nghìn cú ném mỗi mùa.",
+      "Cầu thủ phòng thủ húc bạn mỗi pha bóng — sức mạnh giữ bạn đúng đường."
+    ]
+  },
+  "whatItDevelops": [
+    "Push and pull strength for contact situations",
+    "Shoulder stability for shooting and rebounding",
+    "Grip and arm strength for ball control",
+    "Posture that resists being bumped off line"
+  ],
+  "whyBasketball": [
+    "Finishes through contact need a strong, stable upper body.",
+    "Rebounding in traffic rewards players who hold their ground.",
+    "Shoulder stability supports thousands of shots per season.",
+    "Defenders bump you every possession — strength keeps your line."
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "basketballTransfer": "Single-leg strength is the engine of the layup, the closeout, and every hard cut. It also builds the stable landings that keep knees and ankles healthy.",
+  "category": "strength",
+  "coachingPoints": [
+    "Start bodyweight. Add load only when balance is solid.",
+    "Keep the hips level — no dropping to one side.",
+    "The working leg does the work. Don't bounce off the back foot.",
+    "Slow down the lowering phase to build control.",
+    "Train both legs equally, weak side first."
+  ],
+  "commonMistakes": [
+    "Letting the knee collapse inward on split squats.",
+    "Rounding the back on single-leg deadlifts.",
+    "Pushing off the floor with the back leg.",
+    "Skipping the weak side."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "Split squats, single-leg Romanian deadlifts, and step-ups. Basketball is played on one leg — layups, closeouts, and cuts all start from a single foot.",
+  "duration": "15–20 min",
+  "equipment": [
+    "Dumbbells",
+    "Box or bench"
+  ],
+  "goal": [
+    "get-stronger",
+    "move-better"
+  ],
+  "howTo": [
+    {
+      "detail": "Easy jog, leg swings, bodyweight split squats. Wake up the hips and ankles.",
+      "title": "Warm up 5 minutes"
+    },
+    {
+      "detail": "Back foot on a bench. Drop straight down, front knee over ankle. Drive up through the front heel.",
+      "title": "Bulgarian split squat"
+    },
+    {
+      "detail": "Dumbbells in hands. Hinge on one leg, back leg extends behind you. Flat back, slow and controlled.",
+      "title": "Single-leg Romanian deadlift"
+    },
+    {
+      "detail": "Full foot on the box. Drive through the heel. Lower slow — the lowering is half the rep.",
+      "title": "Step-up"
+    },
+    {
+      "detail": "Stand sideways to the box. Step up sideways, drive through the heel. Train the cut, not just the jump.",
+      "title": "Lateral step-up"
+    }
+  ],
+  "hub": "athletic-performance",
+  "id": "perf-ap-single-leg-strength",
+  "level": "intermediate",
+  "positions": [
+    "all"
+  ],
+  "progression": [
+    "Beginner: bodyweight split squats and step-ups, 2 sessions per week.",
+    "Intermediate: add dumbbells, introduce single-leg RDL and lateral step-ups.",
+    "Advanced: heavier loads plus single-leg hops paired with the strength work."
+  ],
+  "references": [
+    "NSCA — Essentials of Strength Training and Conditioning",
+    "NBA Academy — Strength & Conditioning Foundations"
+  ],
+  "relatedTopics": [
+    "ap-lower-body-strength",
+    "ip-ankle-prevention-basics",
+    "ip-landing-mechanics",
+    "rec-foam-rolling-basics"
+  ],
+  "setsReps": "2–3 sets × 6–10 reps per leg. Rest 60–90 seconds between sets. Adjust load and volume to your coach's program.",
+  "slug": "ap-single-leg-strength",
+  "subcategory": "single-leg",
+  "tags": [
+    "strength",
+    "single leg",
+    "balance",
+    "layup",
+    "stability"
+  ],
+  "title": "Single-Leg Strength",
+  "trainingPhase": [
+    "off-season",
+    "pre-season"
+  ],
+  "vi": {
+    "basketballTransfer": "Sức mạnh một chân là động cơ của layup, closeout và mọi pha cắt hướng mạnh. Nó còn tạo ra những lần tiếp đất ổn định, giữ đầu gối và cổ chân khỏe mạnh.",
+    "coachingPoints": [
+      "Bắt đầu không tạ. Chỉ thêm tạ khi thăng bằng đã vững.",
+      "Giữ hông cân bằng — không nghiêng sang một bên.",
+      "Chân tập làm việc chính. Không bật bằng chân sau.",
+      "Hạ xuống chậm để xây khả năng kiểm soát.",
+      "Tập hai chân đều nhau, bắt đầu từ bên yếu."
+    ],
+    "commonMistakes": [
+      "Để đầu gối sập vào trong khi split squat.",
+      "Cong lưng khi deadlift một chân.",
+      "Dùng chân sau bật lên.",
+      "Bỏ qua bên chân yếu."
+    ],
+    "description": "Split squat, Romanian deadlift một chân và step-up. Bóng rổ là môn chơi bằng một chân — layup, closeout và đổi hướng đều bắt đầu từ một bàn chân.",
+    "duration": "15–20 phút",
+    "howTo": [
+      {
+        "detail": "Chạy nhẹ, đá chân, split squat không tạ. Đánh thức hông và cổ chân.",
+        "title": "Khởi động 5 phút"
+      },
+      {
+        "detail": "Chân sau đặt trên ghế. Hạ người thẳng xuống, đầu gối trước trên mắt cá. Đẩy lên bằng gót chân trước.",
+        "title": "Bulgarian split squat"
+      },
+      {
+        "detail": "Cầm tạ đơn hai tay. Gập hông trên một chân, chân sau duỗi ra sau. Lưng thẳng, chậm và có kiểm soát.",
+        "title": "Romanian deadlift một chân"
+      },
+      {
+        "detail": "Đặt nguyên bàn chân lên bục. Đẩy bằng gót chân. Hạ xuống chậm — pha hạ là nửa bài tập.",
+        "title": "Step-up"
+      },
+      {
+        "detail": "Đứng nghiêng so với bục. Bước lên theo hướng ngang, đẩy bằng gót chân. Tập cho pha cắt hướng, không chỉ pha bật nhảy.",
+        "title": "Step-up ngang"
+      }
+    ],
+    "progression": [
+      "Người mới: split squat và step-up không tạ, 2 buổi/tuần.",
+      "Trung cấp: thêm tạ đơn, đưa vào RDL một chân và step-up ngang.",
+      "Nâng cao: mức tạ nặng hơn kèm bật nhảy một chân sau phần sức mạnh."
+    ],
+    "setsReps": "2–3 hiệp × 6–10 lần mỗi chân. Nghỉ 60–90 giây giữa các hiệp. Điều chỉnh mức tạ và khối lượng theo giáo án của HLV.",
+    "tags": [
+      "sức mạnh",
+      "một chân",
+      "thăng bằng",
+      "layup",
+      "ổn định"
+    ],
+    "title": "Sức mạnh một chân (single-leg strength)",
+    "whatItDevelops": [
+      "Sức mạnh và thăng bằng trên một chân",
+      "Ổn định hông và cổ chân khi chịu tải",
+      "Cân bằng trái-phải để lấp khoảng yếu",
+      "Kiểm soát giảm tốc trên một chân"
+    ],
+    "whyBasketball": [
+      "Layup, closeout và Euro step đều bật từ một chân.",
+      "Hầu hết các pha đổi hướng đều đạp bằng một chân.",
+      "Tập một chân lộ ra bên yếu mà các bài hai chân che giấu.",
+      "Tiếp đất một chân khỏe bảo vệ đầu gối và cổ chân."
+    ]
+  },
+  "whatItDevelops": [
+    "Single-leg strength and balance",
+    "Hip and ankle stability under load",
+    "Left-right balance to fix weak-side gaps",
+    "Deceleration control on one foot"
+  ],
+  "whyBasketball": [
+    "Layups, closeouts, and Euro steps all launch from one leg.",
+    "Most direction changes push off a single foot.",
+    "Single-leg work exposes weak sides that bilateral lifts hide.",
+    "Strong single-leg landings protect knees and ankles."
+  ]
+}

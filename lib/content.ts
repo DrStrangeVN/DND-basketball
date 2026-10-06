@@ -6,12 +6,16 @@ const ROOT = join(process.cwd(), "content");
 import type {
   Article, Drill, Workout, WorkoutItem, LearningPath, PathStep,
   GlossaryTerm, FilmVideo, CourtVisionCard, ArticleStep,
+  PerformanceArticle, PerfHubId, PerfStep,
 } from "./types";
-export { articleUrl } from "./urls";
+import { articleUrl, performanceUrl } from "./urls";
+export { articleUrl, performanceUrl };
 export type {
   Article, Drill, Workout, WorkoutItem, LearningPath, PathStep,
   GlossaryTerm, FilmVideo, CourtVisionCard, ArticleStep,
+  PerformanceArticle, PerfHubId, PerfStep,
 };
+export { PERF_HUBS } from "./types";
 
 
 const cache = new Map<string, unknown>();
@@ -91,4 +95,94 @@ export function latestArticles(n = 8): Article[] {
   return [...getAllArticles()]
     .sort((a, b) => b.dateUpdated.localeCompare(a.dateUpdated) || a.title.localeCompare(b.title))
     .slice(0, n);
+}
+
+/* ------------------------------------------------------------------ */
+/* Phase 2 — Player Performance                                        */
+/* ------------------------------------------------------------------ */
+
+export const getAllPerformance = () => loadDir<PerformanceArticle>("performance");
+
+export function getPerformanceBySlug(slug: string): PerformanceArticle | undefined {
+  return getAllPerformance().find((p) => p.slug === slug);
+}
+export function getPerformanceByHub(hub: string): PerformanceArticle[] {
+  return getAllPerformance().filter((p) => p.hub === hub);
+}
+export function getPerformanceByCategory(hub: string, category: string): PerformanceArticle[] {
+  return getAllPerformance().filter((p) => p.hub === hub && p.category === category);
+}
+
+/** Related performance content: explicit cross-hub relatedTopics first, then same hub / shared tags / shared goals. */
+export function getRelatedPerformance(a: PerformanceArticle, n = 4): PerformanceArticle[] {
+  const bySlug = new Map(getAllPerformance().map((x) => [x.slug, x]));
+  const rel = (a.relatedTopics ?? []).map((s) => bySlug.get(s)).filter(Boolean) as PerformanceArticle[];
+  if (rel.length >= n) return rel.slice(0, n);
+  const extra = getAllPerformance().filter(
+    (x) => x.slug !== a.slug && !rel.includes(x) &&
+      (x.hub === a.hub ||
+        x.tags.some((t) => a.tags.includes(t)) ||
+        x.goal.some((g) => a.goal.includes(g)))
+  );
+  return [...rel, ...extra].slice(0, n);
+}
+
+/** Deterministic "performance pick of the day" per hub (same pattern as conceptOfDay). */
+export function performanceOfDay(hub: string, date = new Date()): PerformanceArticle | undefined {
+  const list = getPerformanceByHub(hub);
+  if (!list.length) return undefined;
+  const days = Math.floor(date.getTime() / 86400000);
+  return list[days % list.length];
+}
+
+export interface PerfCrossLink { title: string; titleVi?: string; url: string }
+export interface PerfCrossLinks {
+  skills: PerfCrossLink[];
+  exercises: PerfCrossLink[];
+  recovery: PerfCrossLink[];
+  nutrition: PerfCrossLink[];
+  injuryPrevention: PerfCrossLink[];
+}
+
+/** Cross-linking data for "Continue Your Development" on performance article pages. */
+export function getPerformanceCrossLinks(a: PerformanceArticle): PerfCrossLinks {
+  const tagset = new Set(a.tags.map((t) => t.toLowerCase()));
+  const tagScore = (tags: string[]) =>
+    tags.filter((t) => tagset.has(t.toLowerCase())).length;
+
+  const skills = getAllArticles()
+    .map((x) => ({ x, s: tagScore(x.tags) + (x.hub === "coaching" ? 0 : 0) }))
+    .filter((e) => e.s > 0)
+    .sort((p, q) => q.s - p.s)
+    .slice(0, 2)
+    .map((e) => ({
+      title: e.x.title, titleVi: e.x.vi?.title, url: articleUrl(e.x),
+    }));
+
+  const words = new Set(a.tags.flatMap((t) => t.toLowerCase().split(/[\s-]+/)));
+  const exercises = getAllDrills()
+    .map((d) => ({
+      d,
+      s: `${d.skill} ${d.title} ${d.goal}`.toLowerCase().split(/[\s-]+/).filter((w) => words.has(w)).length,
+    }))
+    .filter((e) => e.s > 0)
+    .sort((p, q) => q.s - p.s)
+    .slice(0, 2)
+    .map((e) => ({
+      title: e.d.title, titleVi: e.d.vi?.title, url: `/drills/${e.d.slug}`,
+    }));
+
+  const rel = getRelatedPerformance(a, 12);
+  const hubLinks = (hub: string): PerfCrossLink[] =>
+    rel.filter((p) => p.hub === hub && p.slug !== a.slug).slice(0, 2).map((p) => ({
+      title: p.title, titleVi: p.vi?.title, url: performanceUrl(p.hub, p.slug),
+    }));
+
+  return {
+    skills,
+    exercises,
+    recovery: hubLinks("recovery"),
+    nutrition: hubLinks("nutrition"),
+    injuryPrevention: hubLinks("injury-prevention"),
+  };
 }

@@ -1,0 +1,151 @@
+{
+  "basketballTransfer": "Consistent protein intake keeps you strong through contact and recovering faster between weekend tournament games.",
+  "category": "basics",
+  "coachingPoints": [
+    "Vietnamese staples cover this easily: eggs, chicken, fish, tofu, milk, soy milk",
+    "You don't need expensive supplements to hit the range with real food",
+    "Growing teenagers need the higher end of the range, not the lower",
+    "Vegetarian players: combine tofu, soy milk, beans, and eggs through the day"
+  ],
+  "commonMistakes": [
+    "Drinking a huge shake but skipping protein at breakfast and lunch",
+    "Assuming more is always better — excess protein doesn't build extra muscle",
+    "Fearing that protein makes you 'bulky' and slow — it doesn't",
+    "Eating tons of meat but zero carbs alongside it"
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "How much protein basketball players actually need, why spreading it across meals beats one giant shake, and the best affordable Vietnamese protein sources.",
+  "duration": "8 min",
+  "equipment": [
+    "Kitchen scale (optional)"
+  ],
+  "goal": [
+    "get-stronger"
+  ],
+  "howTo": [
+    {
+      "detail": "Most basketball players do well around 1.6–2.0 grams of protein per kilogram of body weight daily (ACSM/IOC guidance). A 70 kg player targets roughly 110–140 g. Individual needs vary — treat this as a range, not a prescription.",
+      "title": "Aim for the athlete range"
+    },
+    {
+      "detail": "30–40 g per meal beats 100 g at dinner and crumbs the rest of the day.",
+      "title": "Spread it across 3–4 meals"
+    },
+    {
+      "detail": "Eggs at breakfast, chicken/fish/tofu at lunch and dinner, milk or soy milk as snacks.",
+      "title": "Anchor every meal with protein"
+    },
+    {
+      "detail": "Make the post-session meal one of your biggest protein servings of the day.",
+      "title": "Post-training counts double"
+    }
+  ],
+  "hub": "nutrition",
+  "id": "perf-nut-protein-basketball",
+  "level": "intermediate",
+  "positions": [
+    "all"
+  ],
+  "progression": [
+    "Beginner: add one protein food to every meal",
+    "Intermediate: hit the daily range with real food, tracked for a week",
+    "Advanced: adjust protein with training blocks — more in strength phases"
+  ],
+  "references": [
+    "ACSM Position Stand: Nutrition and Athletic Performance",
+    "IOC Consensus Statement on Sports Nutrition"
+  ],
+  "relatedTopics": [
+    "nut-muscle-gain-basketball",
+    "nut-post-training-recovery-meal",
+    "rec-sleep-for-athletes",
+    "nut-basketball-nutrition-basics"
+  ],
+  "setsReps": "1.6–2.0 g/kg/day, split into 3–4 servings of 30–40 g",
+  "slug": "nut-protein-basketball",
+  "subcategory": "protein",
+  "tags": [
+    "nutrition",
+    "protein",
+    "recovery",
+    "muscle",
+    "strength"
+  ],
+  "title": "Protein for Basketball Players",
+  "trainingPhase": [
+    "off-season",
+    "pre-season",
+    "in-season",
+    "game-day",
+    "recovery-day"
+  ],
+  "vi": {
+    "basketballTransfer": "Nạp đạm đều đặn giúp giữ sức trong các pha va chạm và hồi phục nhanh hơn giữa các trận đấu cuối tuần.",
+    "coachingPoints": [
+      "Món Việt Nam đáp ứng dễ dàng: trứng, gà, cá, đậu phụ, sữa, sữa đậu nành",
+      "Không cần thực phẩm bổ sung đắt tiền mới đạt mức đạm này bằng thức ăn thật",
+      "Cầu thủ tuổi teen đang lớn cần mức cao của khoảng khuyến nghị, không phải mức thấp",
+      "Cầu thủ ăn chay: kết hợp đậu phụ, sữa đậu nành, các loại đậu và trứng trong ngày"
+    ],
+    "commonMistakes": [
+      "Uống ly sữa protein to đùng nhưng bỏ đạm ở bữa sáng và trưa",
+      "Nghĩ càng nhiều càng tốt — đạm thừa không tạo thêm cơ",
+      "Sợ ăn đạm làm người 'cồng kềnh' chậm chạp — không có chuyện đó",
+      "Ăn thật nhiều thịt nhưng không ăn kèm tinh bột"
+    ],
+    "description": "Cầu thủ bóng rổ thật sự cần bao nhiêu đạm, vì sao chia đều đạm ra các bữa hiệu quả hơn một ly sữa lớn, và những nguồn đạm Việt Nam ngon-bổ-rẻ.",
+    "duration": "8 phút",
+    "howTo": [
+      {
+        "detail": "Hầu hết cầu thủ bóng rổ phù hợp với khoảng 1,6–2,0 g đạm/kg trọng lượng cơ thể mỗi ngày (hướng dẫn ACSM/IOC). Cầu thủ 70 kg cần khoảng 110–140 g. Nhu cầu mỗi người khác nhau — xem đây là khoảng tham khảo, không phải đơn thuốc.",
+        "title": "Nhắm vào khoảng dành cho VĐV"
+      },
+      {
+        "detail": "Mỗi bữa 30–40 g hiệu quả hơn dồn 100 g vào bữa tối rồi các bữa còn lại ăn qua loa.",
+        "title": "Chia đều ra 3–4 bữa"
+      },
+      {
+        "detail": "Trứng vào bữa sáng, gà/cá/đậu phụ vào bữa trưa và tối, sữa hoặc sữa đậu nành cho bữa phụ.",
+        "title": "Mỗi bữa có một món đạm chủ đạo"
+      },
+      {
+        "detail": "Biến bữa ăn sau buổi tập thành một trong những bữa giàu đạm nhất trong ngày.",
+        "title": "Bữa sau tập ưu tiên gấp đôi"
+      }
+    ],
+    "progression": [
+      "Cơ bản: thêm một món đạm vào mỗi bữa ăn",
+      "Trung cấp: đạt mức đạm ngày bằng thức ăn thật, theo dõi trong một tuần",
+      "Nâng cao: điều chỉnh đạm theo giai đoạn tập — tăng trong giai đoạn tập sức mạnh"
+    ],
+    "setsReps": "1,6–2,0 g/kg/ngày, chia 3–4 lần, mỗi lần 30–40 g",
+    "tags": [
+      "dinh dưỡng",
+      "đạm",
+      "hồi phục",
+      "cơ bắp",
+      "sức mạnh"
+    ],
+    "title": "Đạm cho cầu thủ bóng rổ",
+    "whatItDevelops": [
+      "Hiểu nhu cầu đạm mỗi ngày",
+      "Chia đạm đều ra các bữa",
+      "Chọn nguồn đạm Việt Nam thông minh"
+    ],
+    "whyBasketball": [
+      "Đạm sửa chữa tổn thương cơ do bật nhảy, đổi hướng và va chạm",
+      "Đạm chia đều các bữa hỗ trợ tăng sức mạnh từ phòng gym",
+      "Ăn thiếu đạm thể hiện ở hồi phục chậm và ê ẩm kéo dài"
+    ]
+  },
+  "whatItDevelops": [
+    "Daily protein target understanding",
+    "Even distribution across meals",
+    "Smart Vietnamese protein choices"
+  ],
+  "whyBasketball": [
+    "Protein repairs the muscle damage from jumping, cutting, and contact",
+    "Well-distributed protein supports strength gains from the weight room",
+    "Under-eating protein shows up as slow recovery and nagging soreness"
+  ]
+}

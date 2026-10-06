@@ -1,0 +1,177 @@
+{
+  "basketballTransfer": "A calm, well-fueled game day means fast legs from the opening tip, no stomach surprises, and a body that recovers overnight for the next session.",
+  "category": "vietnamese-meals",
+  "coachingPoints": [
+    "Game day is for familiar food only — no experiments, no new restaurants",
+    "Finish your last big meal 3–4 hours before tip-off",
+    "Keep portions normal — nerves shrink appetite, so eat on schedule not on hunger",
+    "Between games in a tournament: carbs + fluids first, protein second",
+    "Post-game: eat within 2 hours even if adrenaline killed your appetite"
+  ],
+  "commonMistakes": [
+    "Trying a new dish on game day because the team went somewhere new",
+    "A giant greasy meal 1 hour before the game — slow legs guaranteed",
+    "Skipping lunch because of nerves, then crashing in the 3rd quarter",
+    "Halftime candy binge — a sugar spike now, a crash later",
+    "Post-game: celebrating with only beer and snacks, no real food"
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "How to eat through a full game day with Vietnamese food: morning, pre-game meal, snacks, halftime, post-game, and dinner — plus what to avoid on game day.",
+  "duration": "15 min",
+  "equipment": [
+    "Basic kitchen setup"
+  ],
+  "goal": [
+    "conditioning",
+    "get-faster"
+  ],
+  "howTo": [
+    {
+      "detail": "Eat a normal, familiar breakfast: cơm tấm or cơm gà, phở, or bánh mì trứng + sữa. This sets your energy base for the day. If the game is in the afternoon, add a solid mid-morning snack (chuối, xôi, sữa chua) so lunch doesn't have to do all the work.",
+      "title": "Morning: a normal familiar breakfast"
+    },
+    {
+      "detail": "3–4 hours before tip-off, eat your last full meal: cơm + thịt/cá + rau, or phở/bún with meat. Familiar, moderate portions, not too greasy, not too spicy. This meal carries you into the game.",
+      "title": "Pre-game meal: 3–4 hours before tip-off"
+    },
+    {
+      "detail": "1–2 hours before: a light top-up — chuối, bánh mì nhỏ, sữa đậu nành, or a few bánh quy. 30 minutes before: just water and maybe half a banana. Nothing new, nothing heavy.",
+      "title": "Pre-game snack: 1–2 hours before"
+    },
+    {
+      "detail": "Sip water. If you play multiple games in a day, eat between games: bánh mì, xôi, chuối + sữa — quick carbs first, then some protein. Avoid heavy fried food between games.",
+      "title": "Halftime and between games"
+    },
+    {
+      "detail": "Within 2 hours after the final whistle: a real meal — cơm cá/thịt + rau + trái cây. Your body rebuilds overnight, and dinner is part of recovery. Add an evening snack (sữa, sữa chua, trái cây) if you finished early and dinner is far away.",
+      "title": "Post-game meal and dinner"
+    },
+    {
+      "detail": "Avoid: brand-new dishes or restaurants, very greasy deep-fried food (gà rán ngập dầu, chả giò chiên đầy), extremely spicy food if your stomach is sensitive, huge fiber loads (a mountain of raw vegetables), and alcohol before the game. Save experiments for off days.",
+      "title": "What to avoid on game day"
+    }
+  ],
+  "hub": "nutrition",
+  "id": "perf-nut-vn-game-day-meals",
+  "level": "intermediate",
+  "positions": [
+    "all"
+  ],
+  "progression": [
+    "Beginner: lock in the 3–4 hour pre-game meal rule with one familiar dish",
+    "Intermediate: build a full game-day timeline — breakfast, meal, snack, post-game",
+    "Advanced: adapt the plan for tournaments (multiple games) and away games with limited food options"
+  ],
+  "references": [
+    "FIBA — Nutrition guidelines for basketball players",
+    "NBA Academy — Fueling for performance",
+    "USA Basketball — Game day nutrition"
+  ],
+  "relatedTopics": [
+    "nut-vn-pre-practice-meals",
+    "nut-vietnamese-athlete-meals",
+    "nut-snacks-for-athletes",
+    "hyd-game-day-hydration",
+    "rec-sleep-for-athletes"
+  ],
+  "setsReps": "Run the same game-day food timeline every game: breakfast → meal 3–4h before → snack 1–2h before → real food within 2h after.",
+  "slug": "nut-vn-game-day-meals",
+  "subcategory": "game-day",
+  "tags": [
+    "nutrition",
+    "vietnamese food",
+    "game day",
+    "meal plan",
+    "pre-game",
+    "post-game"
+  ],
+  "title": "Vietnamese Game Day Meal Plan",
+  "trainingPhase": [
+    "game-day",
+    "in-season"
+  ],
+  "vi": {
+    "basketballTransfer": "Ngày thi đấu ăn đúng giúp chân nhanh từ pha bóng đầu tiên, bụng không gây bất ngờ, cơ thể hồi phục qua đêm cho buổi tập tiếp theo.",
+    "coachingPoints": [
+      "Ngày thi đấu chỉ ăn món quen — không thử nghiệm, không quán mới",
+      "Kết thúc bữa lớn cuối cùng trước giờ bóng lăn 3–4 tiếng",
+      "Giữ khẩu phần bình thường — hồi hộp làm mất cảm giác đói, nên ăn theo giờ chứ không theo cơn đói",
+      "Giữa các trận ở giải đấu: carbs + nước trước, đạm sau",
+      "Sau trận: ăn trong 2 tiếng dù adrenaline làm bạn chưa thấy đói"
+    ],
+    "commonMistakes": [
+      "Thử món mới vào ngày thi đấu vì cả đội rủ đi quán lạ",
+      "Ăn bữa chiên ngập dầu 1 tiếng trước trận — chân ì là chắc chắn",
+      "Bỏ bữa trưa vì hồi hộp, rồi đuối ở hiệp 3",
+      "Ăn kẹo ồ ạt giờ nghỉ giữa hiệp — đường tăng vọt rồi tụt",
+      "Sau trận: chỉ nhậu nhẹt, không ăn bữa thật"
+    ],
+    "description": "Cách ăn trọn ngày thi đấu bằng món Việt: buổi sáng, bữa trước trận, snack, giờ nghỉ, sau trận và bữa tối — kèm những món nên tránh ngày thi đấu.",
+    "duration": "15 phút",
+    "howTo": [
+      {
+        "detail": "Ăn sáng bình thường và quen thuộc: cơm tấm hay cơm gà, phở, hoặc bánh mì trứng + sữa. Bữa này đặt nền năng lượng cho cả ngày. Nếu trận đấu buổi chiều, thêm snack giữa buổi (chuối, xôi, sữa chua) để bữa trưa không phải gánh hết.",
+        "title": "Buổi sáng: bữa sáng quen thuộc"
+      },
+      {
+        "detail": "Trước giờ bóng lăn 3–4 tiếng, ăn bữa no cuối cùng: cơm + thịt/cá + rau, hoặc phở/bún có thịt. Quen thuộc, khẩu phần vừa phải, không quá dầu mỡ, không quá cay. Bữa này đưa bạn vào trận.",
+        "title": "Bữa trước trận: trước 3–4 tiếng"
+      },
+      {
+        "detail": "Trước 1–2 tiếng: nạp nhẹ — chuối, bánh mì nhỏ, sữa đậu nành, hoặc vài chiếc bánh quy. Trước 30 phút: chỉ uống nước và có thể nửa quả chuối. Không món mới, không món nặng.",
+        "title": "Snack trước trận: trước 1–2 tiếng"
+      },
+      {
+        "detail": "Nhấp nước. Nếu đấu nhiều trận trong ngày, ăn giữa các trận: bánh mì, xôi, chuối + sữa — carbs nhanh trước, rồi thêm đạm. Tránh đồ chiên nặng giữa các trận.",
+        "title": "Giờ nghỉ giữa hiệp và giữa các trận"
+      },
+      {
+        "detail": "Trong 2 tiếng sau tiếng còi mãn cuộc: một bữa thật — cơm cá/thịt + rau + trái cây. Cơ thể tái tạo qua đêm, và bữa tối là một phần của hồi phục. Thêm snack tối (sữa, sữa chua, trái cây) nếu trận kết thúc sớm mà bữa tối còn xa.",
+        "title": "Bữa sau trận và bữa tối"
+      },
+      {
+        "detail": "Tránh: món mới hoặc quán mới, đồ chiên ngập dầu (gà rán, chả giò chiên đầy đĩa), món quá cay nếu bụng nhạy cảm, chất xơ ồ ạt (núi rau sống), và rượu bia trước trận. Để dành thử nghiệm cho ngày nghỉ.",
+        "title": "Món nên tránh ngày thi đấu"
+      }
+    ],
+    "progression": [
+      "Cơ bản: chốt quy tắc bữa trước trận 3–4 tiếng với một món quen thuộc",
+      "Trung cấp: dựng timeline ăn trọn ngày thi đấu — sáng, bữa chính, snack, sau trận",
+      "Nâng cao: điều chỉnh cho giải đấu nhiều trận và trận sân khách ít lựa chọn đồ ăn"
+    ],
+    "setsReps": "Mỗi trận chạy cùng một timeline ăn: bữa sáng → bữa chính trước 3–4 tiếng → snack trước 1–2 tiếng → bữa thật trong 2 tiếng sau trận.",
+    "tags": [
+      "dinh dưỡng",
+      "món việt",
+      "ngày thi đấu",
+      "kế hoạch bữa ăn",
+      "trước trận",
+      "sau trận"
+    ],
+    "title": "Kế hoạch bữa ăn Việt ngày thi đấu",
+    "whatItDevelops": [
+      "Ăn trọn ngày thi đấu bằng món Việt",
+      "Bữa trước trận đúng giờ",
+      "Xử lý bữa ăn giữa các trận",
+      "Biết món nên tránh ngày thi đấu"
+    ],
+    "whyBasketball": [
+      "Ngày thi đấu dài — ăn sai một bữa là ảnh hưởng cả trận",
+      "Món lạ ngày thi đấu là rủi ro không đáng có cho bụng",
+      "Bữa sau trận là một phần của hồi phục, không phải phần thưởng tùy hứng",
+      "Timeline ăn ổn định giúp tâm lý thi đấu bình tĩnh hơn"
+    ]
+  },
+  "whatItDevelops": [
+    "Eating through a full game day with Vietnamese food",
+    "Well-timed pre-game meals",
+    "Between-games fueling",
+    "Knowing what to avoid on game day"
+  ],
+  "whyBasketball": [
+    "Game day is long — one wrong meal affects the whole game",
+    "New food on game day is a needless stomach risk",
+    "The post-game meal is part of recovery, not a random reward",
+    "A stable eating timeline keeps your game-day mindset calmer"
+  ]
+}

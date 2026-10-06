@@ -96,6 +96,48 @@ if (existsSync(join(CONTENT, "film.json"))) {
   console.log(`film videos: ${films.length}`);
 }
 
+/* Phase 2 — Player Performance */
+const PERF_HUBS = ["athletic-performance","recovery","nutrition","hydration","injury-prevention"];
+const PERF_REQ = ["id","slug","hub","category","subcategory","title","description","level","positions","trainingPhase","goal","duration","equipment","whatItDevelops","whyBasketball","howTo","coachingPoints","commonMistakes","setsReps","basketballTransfer","progression","relatedTopics","tags","dateUpdated","vi"];
+const PERF_VI_REQ = ["title","description","duration","whatItDevelops","whyBasketball","howTo","coachingPoints","commonMistakes","setsReps","basketballTransfer","progression","tags"];
+const PERF_LEVELS = ["beginner","intermediate","advanced"];
+const PERF_POSITIONS = ["guard","wing","big","all"];
+const PERF_PHASES = ["off-season","pre-season","in-season","game-day","recovery-day"];
+const PERF_GOALS = ["jump-higher","get-faster","get-stronger","move-better","conditioning","explosive"];
+
+const perfs = list("performance").map((f) => ({ file: f, data: read(join(CONTENT, "performance", f)) }));
+const perfSlugs = new Set();
+for (const { file, data: p } of perfs) {
+  for (const k of PERF_REQ) if (!(k in p)) err(`performance/${file}: missing field "${k}"`);
+  if (!/^[a-z0-9-]+$/.test(p.slug ?? "")) err(`performance/${file}: bad slug "${p.slug}"`);
+  if (file !== `${p.slug}.json`) err(`performance/${file}: filename must equal <slug>.json`);
+  if (!PERF_HUBS.includes(p.hub)) err(`performance/${file}: unknown hub "${p.hub}"`);
+  if (!PERF_LEVELS.includes(p.level)) err(`performance/${file}: unknown level "${p.level}"`);
+  if (!Array.isArray(p.progression) || p.progression.length !== 3) err(`performance/${file}: progression needs exactly 3 steps (Beginner → Intermediate → Advanced)`);
+  if (!Array.isArray(p.howTo) || p.howTo.length < 3) err(`performance/${file}: howTo needs >=3 steps`);
+  if (!Array.isArray(p.coachingPoints) || p.coachingPoints.length < 3) err(`performance/${file}: coachingPoints needs >=3`);
+  for (const pos of p.positions ?? []) if (!PERF_POSITIONS.includes(pos)) err(`performance/${file}: unknown position "${pos}"`);
+  for (const ph of p.trainingPhase ?? []) if (!PERF_PHASES.includes(ph)) err(`performance/${file}: unknown trainingPhase "${ph}"`);
+  for (const g of p.goal ?? []) if (!PERF_GOALS.includes(g)) err(`performance/${file}: unknown goal "${g}"`);
+  if (perfSlugs.has(p.slug)) err(`duplicate performance slug: ${p.slug}`);
+  perfSlugs.add(p.slug);
+  const v = p.vi ?? {};
+  for (const k of PERF_VI_REQ) {
+    const val = v[k];
+    if (val === undefined || val === null) err(`performance/${file}: vi missing "${k}"`);
+    else if (Array.isArray(val) && val.length === 0) err(`performance/${file}: vi."${k}" must not be empty`);
+    else if (typeof val === "string" && val.trim() === "") err(`performance/${file}: vi."${k}" must not be empty`);
+  }
+  if (Array.isArray(v.howTo) && Array.isArray(p.howTo) && v.howTo.length !== p.howTo.length) err(`performance/${file}: vi.howTo count !== EN howTo count`);
+  if (Array.isArray(v.progression) && v.progression.length !== 3) err(`performance/${file}: vi.progression needs exactly 3 steps`);
+}
+for (const { file, data: p } of perfs) {
+  for (const r of p.relatedTopics ?? []) {
+    if (!perfSlugs.has(r) && !articleSlugs.has(r)) err(`performance/${file}: relatedTopics "${r}" does not exist`);
+  }
+}
+console.log(`performance: ${perfs.length} articles (${PERF_HUBS.length} hubs)`);
+
 console.log(`articles: ${articles.length}, drills: ${drills.length}, workouts: ${workouts.length}, paths: ${paths.length}`);
 if (errors.length) { console.error(`\n${errors.length} ERRORS:`); errors.forEach((e) => console.error(" - " + e)); process.exit(1); }
 console.log("CONTENT OK");

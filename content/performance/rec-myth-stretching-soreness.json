@@ -1,0 +1,150 @@
+{
+  "basketballTransfer": "Players who expect stretching to erase soreness get disappointed and quit all mobility work — losing the real benefits along with the imagined one. Knowing what stretching actually does keeps the useful habit alive.",
+  "category": "myths",
+  "coachingPoints": [
+    "Stretch for range of motion and movement quality — goals it actually achieves.",
+    "Treat soreness with sleep, nutrition, and load management — the tools that actually work.",
+    "Keep both habits: mobility for movement, recovery basics for soreness.",
+    "Be skeptical of any single method promising to 'eliminate' soreness."
+  ],
+  "commonMistakes": [
+    "A 30-minute desperate stretching marathon the night of heavy soreness.",
+    "Quitting all stretching because 'it didn't fix my soreness'.",
+    "Aggressive stretching on very sore muscles, causing more irritation.",
+    "Buying 'soreness cure' programs that are just stretching repackaged."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "Can stretching wipe out muscle soreness? The honest answer — and what stretching is actually great for.",
+  "duration": "Read: 4 min",
+  "equipment": [
+    "None"
+  ],
+  "goal": [
+    "move-better"
+  ],
+  "howTo": [
+    {
+      "detail": "Trials consistently show stretching has little to no effect on DOMS. If it worked, soreness would not be so universal.",
+      "title": "Accept the evidence"
+    },
+    {
+      "detail": "Maintaining hip, ankle, and thoracic range so you can defend low, land well, and shoot cleanly when tired.",
+      "title": "Use stretching for its real job"
+    },
+    {
+      "detail": "Sleep 8+ hours, eat enough protein and carbs, manage weekly load. These move the soreness needle; stretching barely touches it.",
+      "title": "Treat soreness with real tools"
+    },
+    {
+      "detail": "Light movement beats static stretching for next-day soreness every time. Walk, bike easy, mobilize gently.",
+      "title": "Move instead of forcing range"
+    }
+  ],
+  "hub": "recovery",
+  "id": "perf-rec-myth-stretching-soreness",
+  "level": "beginner",
+  "positions": [
+    "all"
+  ],
+  "progression": [
+    "Beginner: stop expecting stretching to cure soreness.",
+    "Intermediate: split the goals — stretching for range, sleep/food for soreness.",
+    "Advanced: teach younger teammates the distinction."
+  ],
+  "references": [
+    "Peer-reviewed trials on stretching and DOMS (multiple)"
+  ],
+  "relatedTopics": [
+    "rec-stretching-basketball",
+    "rec-doms-explained",
+    "rec-active-recovery",
+    "rec-myth-soreness-progress",
+    "ip-basketball-warm-up"
+  ],
+  "setsReps": "No sets — a knowledge fix. Keep stretching for mobility; stop prescribing it for soreness.",
+  "slug": "rec-myth-stretching-soreness",
+  "subcategory": "myth-fact",
+  "tags": [
+    "recovery",
+    "myths",
+    "stretching",
+    "education"
+  ],
+  "title": "Myth or Fact: Stretching Removes All Soreness",
+  "trainingPhase": [
+    "in-season",
+    "off-season",
+    "pre-season",
+    "recovery-day"
+  ],
+  "vi": {
+    "basketballTransfer": "Cầu thủ mong giãn cơ xóa tan đau mỏi sẽ thất vọng rồi bỏ luôn mọi bài mobility — mất luôn lợi ích thật cùng với lợi ích tưởng tượng. Biết giãn cơ thật sự làm được gì thì thói quen hữu ích mới sống sót.",
+    "coachingPoints": [
+      "Giãn cơ vì biên độ và chất lượng vận động — những mục tiêu nó thật sự đạt được.",
+      "Xử lý đau mỏi bằng ngủ, ăn và quản lý tải — những công cụ thật sự hiệu quả.",
+      "Giữ cả hai thói quen: mobility cho vận động, kiến thức hồi phục cơ bản cho đau mỏi.",
+      "Nghi ngờ mọi phương pháp hứa 'xóa sạch' đau mỏi."
+    ],
+    "commonMistakes": [
+      "Giãn cơ 30 phút trong tuyệt vọng vào đêm đau mỏi nặng.",
+      "Bỏ hẳn giãn cơ vì 'nó có chữa được đau đâu'.",
+      "Giãn mạnh bạo trên cơ đang rất đau, gây kích ứng thêm.",
+      "Mua các chương trình 'chữa đau mỏi' mà thực chất chỉ là giãn cơ đóng gói lại."
+    ],
+    "description": "Giãn cơ có xóa được đau nhức cơ? Câu trả lời thẳng thắn — và giãn cơ thật sự giỏi việc gì.",
+    "duration": "Đọc: 4 phút",
+    "howTo": [
+      {
+        "detail": "Các thử nghiệm consistently cho thấy giãn cơ gần như không ảnh hưởng đến DOMS. Nếu nó hiệu quả, đau mỏi đã không phổ biến đến vậy.",
+        "title": "Chấp nhận bằng chứng"
+      },
+      {
+        "detail": "Duy trì biên độ hông, cổ chân, cột sống ngực để phòng thủ thấp, tiếp đất tốt và ném sạch khi mệt.",
+        "title": "Dùng giãn cơ đúng việc của nó"
+      },
+      {
+        "detail": "Ngủ 8+ tiếng, ăn đủ đạm và tinh bột, quản lý tải tuần. Những thứ này mới lay chuyển được đau mỏi; giãn cơ thì không.",
+        "title": "Trị đau mỏi bằng công cụ thật"
+      },
+      {
+        "detail": "Vận động nhẹ luôn thắng giãn tĩnh về đau mỏi hôm sau. Đi bộ, đạp xe nhẹ, mobility nhẹ nhàng.",
+        "title": "Vận động thay vì ép biên độ"
+      }
+    ],
+    "progression": [
+      "Cơ bản: ngừng mong giãn cơ chữa đau mỏi.",
+      "Trung cấp: tách mục tiêu — giãn cơ cho biên độ, ngủ/ăn cho đau mỏi.",
+      "Nâng cao: dạy lại cho đàn em sự khác biệt này."
+    ],
+    "setsReps": "Không có hiệp nào — đây là sửa kiến thức. Giữ giãn cơ cho mobility; ngừng kê nó để trị đau mỏi.",
+    "tags": [
+      "hồi phục",
+      "hiểu lầm",
+      "giãn cơ",
+      "kiến thức"
+    ],
+    "title": "Đúng hay sai: giãn cơ hết đau nhức?",
+    "whatItDevelops": [
+      "Hiểu đúng vai trò giãn cơ",
+      "Tách mục tiêu mobility và hồi phục",
+      "Tư duy dựa trên bằng chứng",
+      "Tránh kỳ vọng sai"
+    ],
+    "whyBasketball": [
+      "Kết luận ngắn gọn: SAI. Giãn cơ gần như không làm giảm DOMS — đây là một trong những phát hiện nhất quán nhất trong nghiên cứu hồi phục.",
+      "Nhưng đừng vứt bỏ giãn cơ: nó xuất sắc trong việc duy trì biên độ để bạn phòng thủ thấp và tiếp đất an toàn. Vấn đề không phải giãn cơ vô dụng, mà là kỳ vọng sai việc.",
+      "Công thức đúng: giãn cơ cho vận động + ngủ/ăn/vận động nhẹ cho đau mỏi. Mỗi thứ đúng việc của nó."
+    ]
+  },
+  "whatItDevelops": [
+    "Correct role of stretching",
+    "Separating mobility from soreness goals",
+    "Evidence-based thinking",
+    "Avoiding false expectations"
+  ],
+  "whyBasketball": [
+    "The short verdict: MYTH. Stretching has little to no effect on DOMS — one of the most consistent findings in recovery research.",
+    "But do not throw stretching away: it is excellent at maintaining the ranges you need to defend low and land safely. The problem was never stretching; it was expecting the wrong job from it.",
+    "The correct formula: stretching for movement + sleep/food/light movement for soreness. Each tool doing its own job."
+  ]
+}

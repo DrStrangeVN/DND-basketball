@@ -1,0 +1,165 @@
+{
+  "basketballTransfer": "A strong core is invisible on the stat sheet and obvious on the court: you stay upright through bumps, your cuts stay sharp late in games, and your landings stay quiet.",
+  "category": "strength",
+  "coachingPoints": [
+    "Brace like someone is about to poke your stomach.",
+    "Quality over time. A 20-second perfect plank beats a 60-second sag.",
+    "Keep breathing. Never hold your breath to fake stability.",
+    "Train rotation resistance, not just crunches.",
+    "Add this to the end of lifting days or as a standalone 10-minute block."
+  ],
+  "commonMistakes": [
+    "Letting the hips sag in planks.",
+    "Arching the lower back on dead bugs.",
+    "Holding breath through the whole set.",
+    "Only doing crunches and calling it core work."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "Anti-rotation work, plank variations, and carries. A strong core keeps you stable through contact, cuts, and landings.",
+  "duration": "10–15 min",
+  "equipment": [
+    "Bodyweight",
+    "Exercise mat"
+  ],
+  "goal": [
+    "get-stronger",
+    "move-better"
+  ],
+  "howTo": [
+    {
+      "detail": "Back flat on the floor. Extend opposite arm and leg, return slow. Keep the lower back glued down.",
+      "title": "Dead bug"
+    },
+    {
+      "detail": "Elbows under shoulders, body straight. Squeeze glutes, brace. Start with 20–30 seconds.",
+      "title": "Front plank"
+    },
+    {
+      "detail": "Elbow under shoulder, hips high, body straight. Build both sides equally.",
+      "title": "Side plank"
+    },
+    {
+      "detail": "On all fours. Extend opposite arm and leg, hold 2 seconds. Hips stay level — no rocking.",
+      "title": "Bird dog"
+    },
+    {
+      "detail": "Heavy dumbbells or any weight at your sides. Walk tall for 20 meters. No leaning, no shrugging.",
+      "title": "Farmer's carry"
+    }
+  ],
+  "hub": "athletic-performance",
+  "id": "perf-ap-core-strength-basketball",
+  "level": "beginner",
+  "positions": [
+    "all"
+  ],
+  "progression": [
+    "Beginner: dead bugs, knee planks, and light carries, 2–3 times per week.",
+    "Intermediate: full planks, side planks, bird dogs with holds, and heavier carries.",
+    "Advanced: longer carries, plank reaches, and single-leg dead bug variations."
+  ],
+  "references": [
+    "NSCA — Essentials of Strength Training and Conditioning",
+    "USA Basketball — Strength & Conditioning Guidelines"
+  ],
+  "relatedTopics": [
+    "ap-basketball-strength-fundamentals",
+    "ap-upper-body-strength",
+    "ip-warm-up-5-minute",
+    "rec-post-practice-cooldown"
+  ],
+  "setsReps": "2–3 sets × 30–45 seconds (holds) or 8–12 reps (moving exercises). Rest 30–60 seconds. Adjust to your coach's plan.",
+  "slug": "ap-core-strength-basketball",
+  "subcategory": "core",
+  "tags": [
+    "strength",
+    "core",
+    "stability",
+    "plank",
+    "contact"
+  ],
+  "title": "Core Strength for Basketball",
+  "trainingPhase": [
+    "off-season",
+    "pre-season",
+    "in-season"
+  ],
+  "vi": {
+    "basketballTransfer": "Cơ trung tâm khỏe không hiện trên bảng thống kê nhưng rất rõ trên sân: bạn đứng vững qua va chạm, những pha cắt hướng vẫn sắc ở cuối trận, và tiếp đất êm.",
+    "coachingPoints": [
+      "Siết bụng như thể sắp có người chọc vào bụng bạn.",
+      "Chất lượng hơn thời gian. Plank chuẩn 20 giây hơn plank võng lưng 60 giây.",
+      "Giữ nhịp thở. Đừng nín thở để giả vờ ổn định.",
+      "Tập khả năng chống xoay, không chỉ gập bụng.",
+      "Thêm phần này vào cuối buổi tạ hoặc tập riêng 10 phút."
+    ],
+    "commonMistakes": [
+      "Để hông võng xuống khi plank.",
+      "Ưỡn lưng dưới khi tập dead bug.",
+      "Nín thở suốt cả hiệp.",
+      "Chỉ gập bụng rồi gọi đó là tập cơ trung tâm."
+    ],
+    "description": "Các bài chống xoay, biến thể plank và gánh tạ đi bộ. Cơ trung tâm khỏe giữ bạn ổn định khi va chạm, đổi hướng và tiếp đất.",
+    "duration": "10–15 phút",
+    "howTo": [
+      {
+        "detail": "Lưng ép sát sàn. Duỗi tay và chân đối diện, thu về chậm. Giữ lưng dưới dán chặt xuống sàn.",
+        "title": "Dead bug"
+      },
+      {
+        "detail": "Khuỷu tay dưới vai, người thẳng. Siết mông, siết bụng. Bắt đầu với 20–30 giây.",
+        "title": "Plank trước"
+      },
+      {
+        "detail": "Khuỷu tay dưới vai, hông nâng cao, người thẳng. Tập hai bên đều nhau.",
+        "title": "Plank nghiêng"
+      },
+      {
+        "detail": "Chống bốn điểm. Duỗi tay và chân đối diện, giữ 2 giây. Hông giữ cân bằng — không lắc lư.",
+        "title": "Bird dog"
+      },
+      {
+        "detail": "Cầm tạ đơn nặng hoặc vật nặng bất kỳ hai bên. Đi thẳng người 20m. Không nghiêng, không nhún vai.",
+        "title": "Gánh tạ đi bộ"
+      }
+    ],
+    "progression": [
+      "Người mới: dead bug, plank gối và gánh tạ nhẹ, 2–3 lần/tuần.",
+      "Trung cấp: plank đầy đủ, plank nghiêng, bird dog giữ lâu và gánh tạ nặng hơn.",
+      "Nâng cao: gánh tạ xa hơn, plank với tay và các biến thể dead bug một chân."
+    ],
+    "setsReps": "2–3 hiệp × 30–45 giây (bài giữ) hoặc 8–12 lần (bài chuyển động). Nghỉ 30–60 giây. Điều chỉnh theo kế hoạch của HLV.",
+    "tags": [
+      "sức mạnh",
+      "cơ trung tâm",
+      "ổn định",
+      "plank",
+      "va chạm"
+    ],
+    "title": "Sức mạnh cơ trung tâm cho bóng rổ (core strength)",
+    "whatItDevelops": [
+      "Sức mạnh cơ trung tâm chống xoay và chống ưỡn",
+      "Ổn định thân người khi va chạm và đổi hướng",
+      "Kỹ thuật siết cơ bảo vệ lưng dưới",
+      "Kiểm soát tư thế khi mệt"
+    ],
+    "whyBasketball": [
+      "Mọi pha cắt hướng, va chạm và tiếp đất đều đi qua cơ trung tâm.",
+      "Thân người cứng truyền lực chân lên cú ném.",
+      "Cơ trung tâm khỏe giữ thăng bằng khi cầu thủ phòng thủ húc vào.",
+      "Đây là phần tập rẻ nhất cho sự bền bỉ mà bạn mua được với 10 phút."
+    ]
+  },
+  "whatItDevelops": [
+    "Anti-rotation and anti-extension core strength",
+    "Trunk stability for contact and cuts",
+    "Bracing that protects the lower back",
+    "Posture control under fatigue"
+  ],
+  "whyBasketball": [
+    "Every cut, bump, and landing runs through the core.",
+    "A stiff trunk transfers leg power to the shot.",
+    "Core strength keeps your balance when defenders hit you.",
+    "It is the cheapest durability work you can buy with 10 minutes."
+  ]
+}

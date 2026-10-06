@@ -1,0 +1,155 @@
+{
+  "id": "perf-ip-single-leg-landing",
+  "slug": "ip-single-leg-landing",
+  "hub": "injury-prevention",
+  "dateUpdated": "2026-10-06",
+  "category": "landing-deceleration",
+  "subcategory": "landing-mechanics",
+  "title": "Single-Leg Landing Control",
+  "description": "Control landings on one leg after layups and drives: stick the landing, hold balance for three seconds, and progress from low steps to full layup landings.",
+  "level": "intermediate",
+  "positions": [
+    "all"
+  ],
+  "trainingPhase": [
+    "off-season",
+    "pre-season"
+  ],
+  "goal": [
+    "jump-higher",
+    "move-better"
+  ],
+  "duration": "10–15 min",
+  "equipment": [
+    "Low box or step (20–30 cm)",
+    "Basketball"
+  ],
+  "whatItDevelops": [
+    "Single-leg force absorption",
+    "Balance and body control on landing",
+    "Knee stability under one-leg load"
+  ],
+  "whyBasketball": [
+    "Layups, floaters, and contested drives often end on one leg",
+    "Losing balance on landing leads to falls and awkward twists",
+    "Controlled single-leg landings build confidence attacking the rim"
+  ],
+  "howTo": [
+    {
+      "title": "Single-leg stance hold — 20 seconds per leg",
+      "detail": "Stand on one leg, knee soft, hips level. Arms out for balance. Switch legs."
+    },
+    {
+      "title": "Step-off single-leg landing — 5 per leg",
+      "detail": "Step off a low step onto one foot. Absorb with the hip, knee, and ankle bending. Hold for 3 seconds."
+    },
+    {
+      "title": "Hop in place, stick one leg — 6 per leg",
+      "detail": "Small hop, land on one foot, and freeze. The free leg stays tucked behind. No wobbling."
+    },
+    {
+      "title": "Layup landing hold — 4 per side",
+      "detail": "Finish an easy layup, then land on the inside foot and hold for 3 seconds. Keep the chest up and the knee over the toes."
+    },
+    {
+      "title": "Box step-off to balance — 4 per leg",
+      "detail": "From a slightly higher box, step off onto one foot and hold. Land soft, stay tall through the hips."
+    }
+  ],
+  "coachingPoints": [
+    "Hold every landing for a full 3 seconds — no hopping away",
+    "Keep the hips level; do not let one side drop",
+    "The landing knee stays over the toes, never caving in",
+    "Start low and only raise the box when landings are silent"
+  ],
+  "commonMistakes": [
+    "Rushing the hold and bouncing out of the landing",
+    "Letting the hips tilt to one side",
+    "Landing with the knee collapsing inward",
+    "Progressing to height before mastering the low step"
+  ],
+  "setsReps": "2 sets per leg of each drill. Rest 45–60 seconds between sets.",
+  "basketballTransfer": "Layups in traffic, Euro steps, and contested finishes all end on one leg. This control keeps players upright and ready for the next play — or the fast break back.",
+  "progression": [
+    "Beginner: stance holds and low step-offs only",
+    "Intermediate: add hops and layup landing holds",
+    "Advanced: add a light perturbation — catch a ball while holding the landing"
+  ],
+  "relatedTopics": [
+    "ip-two-foot-landing",
+    "ip-reactive-balance",
+    "ip-balance-basics",
+    "ap-single-leg-strength"
+  ],
+  "tags": [
+    "landing",
+    "single leg",
+    "balance",
+    "injury risk reduction",
+    "layup"
+  ],
+  "medicalDisclaimer": true,
+  "vi": {
+    "title": "Kiểm soát tiếp đất một chân",
+    "description": "Kiểm soát các pha tiếp đất một chân sau khi lên rổ và đột phá: giữ vững tư thế tiếp đất, giữ thăng bằng 3 giây, nâng dần từ bậc thấp đến tiếp đất sau lên rổ.",
+    "whatItDevelops": [
+      "Hấp thụ lực bằng một chân",
+      "Thăng bằng và kiểm soát cơ thể khi tiếp đất",
+      "Ổn định đầu gối khi chịu tải một chân"
+    ],
+    "whyBasketball": [
+      "Lên rổ, floater và các pha đột phá tranh chấp thường kết thúc bằng một chân",
+      "Mất thăng bằng khi tiếp đất dễ dẫn đến ngã và vặn người",
+      "Tiếp đất một chân có kiểm soát giúp tự tin tấn công rổ hơn"
+    ],
+    "howTo": [
+      {
+        "title": "Đứng một chân giữ thăng bằng — 20 giây mỗi chân",
+        "detail": "Đứng một chân, gối hơi gập, hông cân bằng. Dang tay giữ thăng bằng. Đổi chân."
+      },
+      {
+        "title": "Bước xuống tiếp đất một chân — 5 lần mỗi chân",
+        "detail": "Bước xuống từ bậc thấp bằng một chân. Hấp thụ lực bằng hông, gối, cổ chân gập. Giữ 3 giây."
+      },
+      {
+        "title": "Nhảy tại chỗ, giữ một chân — 6 lần mỗi chân",
+        "detail": "Nhảy thấp, tiếp đất một chân, đóng băng tư thế. Chân còn lại co ra sau. Không chao đảo."
+      },
+      {
+        "title": "Giữ tư thế sau khi lên rổ — 4 lần mỗi bên",
+        "detail": "Hoàn thành một pha lên rổ nhẹ, tiếp đất bằng chân trong, giữ 3 giây. Ngực ưỡn, gối hướng theo mũi chân."
+      },
+      {
+        "title": "Bước xuống từ hộp cao hơn — 4 lần mỗi chân",
+        "detail": "Từ hộp cao hơn một chút, bước xuống một chân và giữ thăng bằng. Tiếp đất nhẹ, giữ hông thẳng."
+      }
+    ],
+    "coachingPoints": [
+      "Giữ mỗi cú tiếp đất đủ 3 giây — không nhảy vội ra",
+      "Giữ hông cân bằng, không để một bên sụp xuống",
+      "Gối tiếp đất luôn hướng theo mũi chân, không chụm vào",
+      "Bắt đầu từ bậc thấp, chỉ nâng cao khi tiếp đất đã êm"
+    ],
+    "commonMistakes": [
+      "Giữ tư thế qua loa rồi bật vội ra",
+      "Để hông nghiêng sang một bên",
+      "Tiếp đất với gối chụm vào trong",
+      "Tăng độ cao khi chưa làm chủ bậc thấp"
+    ],
+    "setsReps": "2 hiệp mỗi chân cho từng bài. Nghỉ 45–60 giây giữa các hiệp.",
+    "basketballTransfer": "Lên rổ trong tranh chấp, Euro step và các pha kết thúc bị kèm đều kết thúc bằng một chân. Khả năng kiểm soát này giúp cầu thủ đứng vững, sẵn sàng cho pha bóng tiếp theo — hay pha phản công nhanh.",
+    "progression": [
+      "Beginner: chỉ đứng giữ thăng bằng và bước xuống bậc thấp",
+      "Intermediate: thêm nhảy tại chỗ và giữ tư thế sau lên rổ",
+      "Advanced: thêm nhiễu loạn nhẹ — bắt bóng trong lúc giữ tư thế tiếp đất"
+    ],
+    "tags": [
+      "tiếp đất",
+      "một chân",
+      "thăng bằng",
+      "giảm rủi ro chấn thương",
+      "lên rổ"
+    ],
+    "duration": "10–15 phút"
+  }
+}

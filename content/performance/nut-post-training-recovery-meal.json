@@ -1,0 +1,152 @@
+{
+  "basketballTransfer": "Faster overnight recovery shows up as fresher legs and a smoother shooting touch in the next day's session.",
+  "category": "post-training",
+  "coachingPoints": [
+    "Chocolate milk counts — it is a legitimate recovery drink, not junk",
+    "If dinner is far away, a snack (milk + bread) bridges the gap",
+    "Big appetites after hard sessions are normal — feed them with real food",
+    "Recovery eating matters most during tournament weeks with games on consecutive days"
+  ],
+  "commonMistakes": [
+    "Waiting 3+ hours 'to burn more fat' — it just delays recovery",
+    "Eating only protein and skipping the carbs muscles need",
+    "Replacing the meal with a protein shake and nothing else",
+    "Celebrating every session with fast food and calling it recovery"
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "What to eat in the first 1–2 hours after training: carbs to refill, protein to repair, and real Vietnamese meal ideas that fit a student budget.",
+  "duration": "7 min",
+  "equipment": [
+    "Water bottle",
+    "Shaker bottle (optional)"
+  ],
+  "goal": [
+    "conditioning"
+  ],
+  "howTo": [
+    {
+      "detail": "The sooner the better; don't wait until you're starving at 10 pm.",
+      "title": "Eat within 1–2 hours"
+    },
+    {
+      "detail": "Rice/noodles/pho plus meat, fish, eggs, or tofu. A palm-and-a-half of carbs, a palm of protein.",
+      "title": "Lead with carbs, add protein"
+    },
+    {
+      "detail": "Keep drinking; the meal doesn't replace fluids.",
+      "title": "Drink water with it"
+    },
+    {
+      "detail": "Cơm thịt, phở bò/gà, bún chả, or milk + bánh mì — all excellent recovery meals.",
+      "title": "Use real Vietnamese meals"
+    }
+  ],
+  "hub": "nutrition",
+  "id": "perf-nut-post-training-recovery-meal",
+  "level": "beginner",
+  "positions": [
+    "all"
+  ],
+  "progression": [
+    "Beginner: eat something real within 2 hours, every session",
+    "Intermediate: build the carb-first plate with a protein anchor",
+    "Advanced: plan the recovery meal before training starts, especially on two-a-days"
+  ],
+  "references": [
+    "IOC Consensus Statement on Sports Nutrition",
+    "FIBA Nutrition Guidelines"
+  ],
+  "relatedTopics": [
+    "nut-protein-basketball",
+    "nut-carbs-basketball",
+    "rec-post-game-recovery",
+    "hyd-hydration-basics"
+  ],
+  "setsReps": "1 recovery meal within 1–2 hours; snack bridge if dinner is late",
+  "slug": "nut-post-training-recovery-meal",
+  "subcategory": "recovery-meals",
+  "tags": [
+    "nutrition",
+    "recovery",
+    "post-training",
+    "protein",
+    "carbs"
+  ],
+  "title": "Post-Training Recovery Nutrition",
+  "trainingPhase": [
+    "off-season",
+    "pre-season",
+    "in-season",
+    "game-day",
+    "recovery-day"
+  ],
+  "vi": {
+    "basketballTransfer": "Hồi phục nhanh qua đêm thể hiện ở đôi chân tươi mới và cảm giác ném rổ chuẩn hơn trong buổi tập hôm sau.",
+    "coachingPoints": [
+      "Sữa sô-cô-la được tính — đó là thức uống hồi phục hợp lệ, không phải đồ ăn vặt vô bổ",
+      "Nếu bữa tối còn xa, một bữa phụ (sữa + bánh mì) lấp khoảng trống",
+      "Đói nhiều sau buổi tập nặng là bình thường — đáp ứng bằng thức ăn thật",
+      "Ăn hồi phục quan trọng nhất trong tuần thi đấu có trận liên tiếp các ngày"
+    ],
+    "commonMistakes": [
+      "Đợi 3 tiếng trở lên 'để đốt mỡ' — thực ra chỉ làm chậm hồi phục",
+      "Chỉ ăn đạm mà bỏ tinh bột cơ bắp đang cần",
+      "Thay bữa ăn bằng mỗi ly sữa protein rồi thôi",
+      "Ăn mừng mỗi buổi tập bằng đồ ăn nhanh rồi gọi đó là hồi phục"
+    ],
+    "description": "Ăn gì trong 1–2 tiếng đầu sau buổi tập: tinh bột để nạp lại năng lượng, đạm để phục hồi cơ, cùng gợi ý món ăn Việt Nam thực tế, hợp túi tiền học sinh sinh viên.",
+    "duration": "7 phút",
+    "howTo": [
+      {
+        "detail": "Ăn càng sớm càng tốt; đừng để đến 10 giờ tối đói lả mới ăn.",
+        "title": "Ăn trong 1–2 tiếng sau tập"
+      },
+      {
+        "detail": "Cơm/bún/phở cùng thịt, cá, trứng hoặc đậu phụ. Tinh bột khoảng một lòng bàn tay rưỡi, đạm một lòng bàn tay.",
+        "title": "Tinh bột làm nền, thêm đạm"
+      },
+      {
+        "detail": "Tiếp tục uống nước; bữa ăn không thay thế việc bù nước.",
+        "title": "Uống nước trong bữa"
+      },
+      {
+        "detail": "Cơm thịt, phở bò/gà, bún chả hoặc sữa + bánh mì — đều là bữa hồi phục tuyệt vời.",
+        "title": "Dùng ngay món ăn Việt Nam"
+      }
+    ],
+    "progression": [
+      "Cơ bản: ăn món thật trong 2 tiếng sau mỗi buổi tập",
+      "Trung cấp: xếp đĩa ăn lấy tinh bột làm nền, đạm làm trụ",
+      "Nâng cao: lên kế hoạch bữa hồi phục trước khi buổi tập bắt đầu, nhất là ngày tập 2 buổi"
+    ],
+    "setsReps": "1 bữa hồi phục trong 1–2 tiếng sau tập; thêm bữa phụ nếu bữa tối còn xa",
+    "tags": [
+      "dinh dưỡng",
+      "hồi phục",
+      "sau buổi tập",
+      "đạm",
+      "tinh bột"
+    ],
+    "title": "Ăn gì sau buổi tập để hồi phục",
+    "whatItDevelops": [
+      "Thói quen nạp lại năng lượng sau buổi tập",
+      "Kết hợp tinh bột và đạm đúng cách",
+      "Chọn bữa ăn thực tế, hợp túi tiền"
+    ],
+    "whyBasketball": [
+      "Cơ bắp hấp thu dinh dưỡng tốt nhất trong vài tiếng đầu sau buổi tập nặng",
+      "Bỏ bữa hồi phục biến một buổi tập nặng thành hai ngày chân nặng trịch",
+      "Ăn hồi phục tốt là điều giúp bạn tập tiếp buổi ngày mai với chất lượng cao"
+    ]
+  },
+  "whatItDevelops": [
+    "Post-session refueling habit",
+    "Carb + protein pairing",
+    "Realistic meal choices on a budget"
+  ],
+  "whyBasketball": [
+    "Muscles are most receptive to refueling in the first couple of hours after hard sessions",
+    "Skipping the recovery meal turns one hard session into two days of heavy legs",
+    "Good recovery eating is what lets you back up today's session with tomorrow's"
+  ]
+}

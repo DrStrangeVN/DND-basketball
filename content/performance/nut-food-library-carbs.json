@@ -1,0 +1,172 @@
+{
+  "basketballTransfer": "Players who know their carb sources never run out of fuel — they eat the right carbs at the right time, from food they can find anywhere in Vietnam.",
+  "category": "food-library",
+  "coachingPoints": [
+    "Carbs are not the enemy — low energy is the enemy",
+    "Match carb type to timing: fast before/during, slow as the daily base",
+    "Rice, noodles, and bread are all legitimate athlete fuel",
+    "Around training, carbs matter more than protein",
+    "Whole fruit beats fruit juice — fiber slows the sugar rush"
+  ],
+  "commonMistakes": [
+    "Fearing rice and eating tiny portions on heavy training days",
+    "Only fast carbs all day (candy, sweet drinks) — energy spikes then crashes",
+    "Zero carbs before a game to 'feel light' — legs feel heavy instead",
+    "Giant carb load at midnight before game day — timing matters more than volume",
+    "Forgetting carbs in the post-training window"
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "A library of carbohydrate sources for basketball players — including Vietnamese staples like rice, xôi, phở, bánh mì, sweet potato, and banana — and when to use fast vs. slow carbs.",
+  "duration": "10 min",
+  "equipment": [
+    "None required"
+  ],
+  "goal": [
+    "conditioning",
+    "explosive"
+  ],
+  "howTo": [
+    {
+      "detail": "Fast carbs digest quickly and raise energy fast: white rice, xôi, bánh mì trắng, ripe banana, corn, honey, sports drinks. Use them 30–90 minutes before training, during long sessions, and right after training when the body needs quick refueling.",
+      "title": "Fast carbs: quick energy"
+    },
+    {
+      "detail": "Slow carbs release energy steadily: brown rice, khoai lang, yến mạch, whole-grain bread, beans, bắp. Make them the base of main meals 2–4 hours before training so energy lasts through the whole session.",
+      "title": "Slow carbs: the steady base"
+    },
+    {
+      "detail": "Vietnamese staples cover everything: cơm (the everyday base), xôi gà/xôi đậu (fast pre-training fuel), phở/bún/miến (noodles + broth), bánh mì (portable), khoai lang luộc (slow carb king), chuối (the basketball fruit), bắp luộc, and chè đậu (sweet but watch the sugar). You don't need imported oats to fuel like an athlete.",
+      "title": "Vietnamese carb sources"
+    },
+    {
+      "detail": "Think in plates, not grams: training days need a visibly bigger carb share than rest days. A simple rule — if you train hard today, today's rice bowl is bigger than yesterday's rest-day bowl. Big players and two-a-days need more; adjust by hunger and energy, not by a fixed number.",
+      "title": "How much per meal"
+    },
+    {
+      "detail": "Pre-training (2–3h): slow carbs as the meal base. Pre-training (30–60 min): a fast carb snack. During long sessions (90+ min): water first, a banana at the break if needed. Post-training (within 2h): fast carbs + protein to refill and rebuild.",
+      "title": "Carbs around training"
+    }
+  ],
+  "hub": "nutrition",
+  "id": "perf-nut-food-library-carbs",
+  "level": "beginner",
+  "positions": [
+    "all"
+  ],
+  "progression": [
+    "Beginner: name your 3 go-to carb foods and eat them daily",
+    "Intermediate: time fast vs. slow carbs around your training schedule",
+    "Advanced: scale carb portions up and down across the training week by feel"
+  ],
+  "references": [
+    "FIBA — Nutrition guidelines for basketball players",
+    "IOC — Consensus statement on sports nutrition",
+    "USA Basketball — Nutrition basics for young athletes"
+  ],
+  "relatedTopics": [
+    "nut-vietnamese-athlete-meals",
+    "nut-performance-plate",
+    "nut-vn-pre-practice-meals",
+    "hyd-game-day-hydration",
+    "ap-basketball-conditioning"
+  ],
+  "setsReps": "Put a carb source at every meal and a fast-carb snack around every training session, every day.",
+  "slug": "nut-food-library-carbs",
+  "subcategory": "carbs",
+  "tags": [
+    "nutrition",
+    "carbs",
+    "food library",
+    "vietnamese food",
+    "energy",
+    "fueling"
+  ],
+  "title": "Food Library: Carbohydrates",
+  "trainingPhase": [
+    "off-season",
+    "pre-season",
+    "in-season",
+    "game-day",
+    "recovery-day"
+  ],
+  "vi": {
+    "basketballTransfer": "Cầu thủ biết rõ nguồn carbs không bao giờ cạn nhiên liệu — ăn đúng loại carbs, đúng thời điểm, từ món tìm được ở bất cứ đâu tại Việt Nam.",
+    "coachingPoints": [
+      "Carbs không phải kẻ thù — thiếu năng lượng mới là kẻ thù",
+      "Chọn loại carbs theo thời điểm: nhanh trước/trong buổi tập, chậm làm nền hàng ngày",
+      "Cơm, bún phở, bánh mì đều là nhiên liệu hợp lệ của cầu thủ",
+      "Quanh buổi tập, carbs quan trọng hơn đạm",
+      "Ăn trái cây nguyên quả tốt hơn nước ép — chất xơ làm chậm đường"
+    ],
+    "commonMistakes": [
+      "Sợ cơm, ăn khẩu phần tí hon vào ngày tập nặng",
+      "Cả ngày chỉ carbs nhanh (kẹo, nước ngọt) — năng lượng tăng vọt rồi tụt",
+      "Cắt carbs trước trận để 'nhẹ người' — chân lại thấy nặng",
+      "Ăn carbs ồ ạt nửa đêm trước ngày thi đấu — thời điểm quan trọng hơn số lượng",
+      "Quên carbs trong cửa sổ sau buổi tập"
+    ],
+    "description": "Thư viện nguồn carbs cho cầu thủ bóng rổ — gồm món Việt quen thuộc như cơm, xôi, phở, bánh mì, khoai lang, chuối — và cách dùng carbs nhanh/chậm đúng lúc.",
+    "duration": "10 phút",
+    "howTo": [
+      {
+        "detail": "Carbs nhanh tiêu hóa nhanh, lên năng lượng nhanh: cơm trắng, xôi, bánh mì trắng, chuối chín, bắp, mật ong, nước thể thao. Dùng 30–90 phút trước tập, trong buổi tập dài, và ngay sau tập khi cơ thể cần nạp lại gấp.",
+        "title": "Carbs nhanh: năng lượng tức thì"
+      },
+      {
+        "detail": "Carbs chậm nhả năng lượng đều: gạo lứt, khoai lang, yến mạch, bánh mì nguyên cám, các loại đậu, bắp. Lấy chúng làm nền bữa chính trước tập 2–4 tiếng để năng lượng kéo dài suốt buổi.",
+        "title": "Carbs chậm: nền tảng bền bỉ"
+      },
+      {
+        "detail": "Món Việt lo đủ mọi nhu cầu: cơm (nền hàng ngày), xôi gà/xôi đậu (nhiên liệu nhanh trước tập), phở/bún/miến (bánh + nước dùng), bánh mì (mang theo tiện), khoai lang luộc (vua carbs chậm), chuối (trái cây của bóng rổ), bắp luộc, chè đậu (ngọt nên coi chừng đường). Không cần yến mạch nhập khẩu mới ăn như cầu thủ.",
+        "title": "Nguồn carbs món Việt"
+      },
+      {
+        "detail": "Nghĩ theo đĩa ăn, không theo gram: ngày tập cần phần carbs to rõ rệt hơn ngày nghỉ. Quy tắc đơn giản — hôm nay tập nặng thì bát cơm hôm nay to hơn bát cơm ngày nghỉ hôm qua. Cầu thủ to con và tập 2 buổi/ngày cần nhiều hơn; điều chỉnh theo cơn đói và năng lượng, không theo con số cố định.",
+        "title": "Mỗi bữa ăn bao nhiêu"
+      },
+      {
+        "detail": "Trước tập (2–3 tiếng): carbs chậm làm nền bữa ăn. Trước tập (30–60 phút): snack carbs nhanh. Trong buổi tập dài (trên 90 phút): nước trước, chuối ở giờ nghỉ nếu cần. Sau tập (trong 2 tiếng): carbs nhanh + đạm để nạp lại và tái tạo.",
+        "title": "Carbs quanh buổi tập"
+      }
+    ],
+    "progression": [
+      "Cơ bản: gọi tên 3 món carbs ruột và ăn chúng mỗi ngày",
+      "Trung cấp: xếp carbs nhanh/chậm quanh lịch tập",
+      "Nâng cao: tăng giảm khẩu phần carbs theo tuần tập bằng cảm nhận"
+    ],
+    "setsReps": "Mỗi bữa có một nguồn carbs, mỗi buổi tập có snack carbs nhanh đi kèm, mỗi ngày.",
+    "tags": [
+      "dinh dưỡng",
+      "carbs",
+      "thư viện thực phẩm",
+      "món việt",
+      "năng lượng",
+      "nạp nhiên liệu"
+    ],
+    "title": "Thư viện thực phẩm: Carbs",
+    "whatItDevelops": [
+      "Nhận biết nguồn carbs nhanh và chậm",
+      "Chọn carbs đúng thời điểm",
+      "Dùng món Việt làm nhiên liệu",
+      "Điều chỉnh carbs theo ngày tập"
+    ],
+    "whyBasketball": [
+      "Bóng rổ là môn ngắt quãng cường độ cao — carbs là nhiên liệu chính",
+      "Ăn sai loại carbs, sai giờ là đuối giữa buổi tập",
+      "Món Việt có đủ cả carbs nhanh và chậm, không cần đồ ngoại",
+      "Hiểu carbs giúp ngày thi đấu nạp năng lượng chủ động"
+    ]
+  },
+  "whatItDevelops": [
+    "Recognizing fast vs. slow carb sources",
+    "Timing carbs to training",
+    "Fueling with Vietnamese food",
+    "Scaling carbs to training days"
+  ],
+  "whyBasketball": [
+    "Basketball is high-intensity intermittent work — carbs are the primary fuel",
+    "Wrong carb type at the wrong time means fading mid-session",
+    "Vietnamese food covers both fast and slow carbs — no imports needed",
+    "Understanding carbs lets you fuel game day proactively"
+  ]
+}

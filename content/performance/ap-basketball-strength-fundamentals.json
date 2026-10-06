@@ -1,0 +1,173 @@
+{
+  "basketballTransfer": "This base shows up on the court as balance through contact, cleaner landings, and a body that survives a long season. Strength is not separate from skill — it protects it.",
+  "category": "strength",
+  "coachingPoints": [
+    "Brace your core before every rep — ribs down, belly tight.",
+    "Move with control. Two seconds down, explode up.",
+    "Knees track over toes on squats and lunges.",
+    "Quality first. Stop a set when form breaks, not when the reps run out.",
+    "Breathe: inhale on the way down, exhale on the effort."
+  ],
+  "commonMistakes": [
+    "Rounding the lower back on hinges and rows.",
+    "Adding weight before the pattern is clean.",
+    "Rushing reps to hit a number.",
+    "Skipping the warm-up."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "A beginner strength session built on five basic movement patterns: squat, hinge, push, pull, and carry. Strength is the foundation for speed, jumping, and durability.",
+  "duration": "15–20 min",
+  "equipment": [
+    "Bodyweight",
+    "Dumbbells",
+    "Resistance bands"
+  ],
+  "goal": [
+    "get-stronger"
+  ],
+  "howTo": [
+    {
+      "detail": "Easy jog or bike, then bodyweight squats, leg swings, and arm circles. Get warm, not tired.",
+      "title": "Warm up 5 minutes"
+    },
+    {
+      "detail": "Hold a dumbbell at your chest. Sit back and down, chest tall, knees tracking over toes. Drive up through your heels.",
+      "title": "Goblet squat"
+    },
+    {
+      "detail": "Soft knees, push your hips back to the wall behind you. Keep a flat back. Feel the stretch in your hamstrings, then drive hips forward.",
+      "title": "Hip hinge (RDL pattern)"
+    },
+    {
+      "detail": "Hands under shoulders, body in one straight line. Lower your chest to the floor, press up hard. Elevate hands if form breaks.",
+      "title": "Push-up"
+    },
+    {
+      "detail": "One knee on a bench, back flat. Pull the dumbbell to your hip, squeeze, lower slow. No twisting.",
+      "title": "Single-arm dumbbell row"
+    },
+    {
+      "detail": "Heavy dumbbells at your sides. Stand tall, shoulders back. Walk 20 meters. Grip, posture, and core work together.",
+      "title": "Farmer's carry"
+    }
+  ],
+  "hub": "athletic-performance",
+  "id": "perf-ap-basketball-strength-fundamentals",
+  "level": "beginner",
+  "positions": [
+    "all"
+  ],
+  "progression": [
+    "Beginner: bodyweight and light dumbbells, 2 sessions per week, master each pattern.",
+    "Intermediate: add load and one extra set, introduce split-stance and single-leg variations.",
+    "Advanced: barbell progressions (back squat, deadlift) under a coach's supervision."
+  ],
+  "references": [
+    "NSCA — Essentials of Strength Training and Conditioning",
+    "USA Basketball — Player Development Curriculum",
+    "NBA Academy — Strength & Conditioning Foundations"
+  ],
+  "relatedTopics": [
+    "ap-lower-body-strength",
+    "ap-core-strength-basketball",
+    "ip-warm-up-5-minute",
+    "nut-protein-for-basketball"
+  ],
+  "setsReps": "3–4 sets × 6–8 reps per exercise. Rest 60–90 seconds between sets. Your coach sets the final plan — adjust load and volume to your experience.",
+  "slug": "ap-basketball-strength-fundamentals",
+  "subcategory": "strength-fundamentals",
+  "tags": [
+    "strength",
+    "beginner",
+    "squat",
+    "fundamentals",
+    "off-season"
+  ],
+  "title": "Basketball Strength Fundamentals",
+  "trainingPhase": [
+    "off-season",
+    "pre-season"
+  ],
+  "vi": {
+    "basketballTransfer": "Nền tảng này thể hiện trên sân qua khả năng giữ thăng bằng khi va chạm, tiếp đất sạch và cơ thể chịu được mùa giải dài. Sức mạnh không tách rời kỹ năng — nó bảo vệ kỹ năng.",
+    "coachingPoints": [
+      "Siết cơ bụng trước mỗi lần thực hiện — hạ sườn xuống, bụng căng cứng.",
+      "Chuyển động có kiểm soát. Hạ xuống 2 giây, lên thì bật mạnh.",
+      "Đầu gối đi theo hướng mũi chân khi squat và lunge.",
+      "Chất lượng trước tiên. Dáng sai thì dừng hiệp, không cố đủ số lần.",
+      "Hít vào khi hạ xuống, thở ra khi dùng sức."
+    ],
+    "commonMistakes": [
+      "Cong lưng dưới khi gập hông và kéo tạ.",
+      "Tăng tạ khi kỹ thuật chưa sạch.",
+      "Làm nhanh cho đủ số lần.",
+      "Bỏ qua phần khởi động."
+    ],
+    "description": "Buổi tập sức mạnh cho người mới, xây dựng trên 5 kiểu chuyển động cơ bản: squat, gập hông, đẩy, kéo và gánh tạ đi bộ. Sức mạnh là nền móng cho tốc độ, bật nhảy và sự bền bỉ.",
+    "duration": "15–20 phút",
+    "howTo": [
+      {
+        "detail": "Chạy nhẹ hoặc đạp xe, rồi squat không tạ, đá chân và xoay tay. Khởi động cho ấm, đừng để mệt.",
+        "title": "Khởi động 5 phút"
+      },
+      {
+        "detail": "Ôm tạ đơn trước ngực. Ngồi xuống, ngực ngẩng cao, đầu gối đi theo hướng mũi chân. Đứng lên bằng lực gót chân.",
+        "title": "Goblet squat"
+      },
+      {
+        "detail": "Đầu gối hơi chùng, đẩy hông ra sau. Giữ lưng thẳng. Cảm nhận cơ đùi sau căng, rồi đẩy hông về phía trước.",
+        "title": "Gập hông (kiểu RDL)"
+      },
+      {
+        "detail": "Tay đặt dưới vai, người thành một đường thẳng. Hạ ngực chạm sàn, đẩy lên dứt khoát. Kê tay lên bục nếu mất dáng.",
+        "title": "Chống đẩy"
+      },
+      {
+        "detail": "Một gối đặt trên ghế, lưng thẳng. Kéo tạ về phía hông, siết lại, hạ xuống chậm. Không xoay người.",
+        "title": "Kéo tạ một tay"
+      },
+      {
+        "detail": "Cầm tạ đơn nặng hai bên. Đứng thẳng, vai mở ra sau. Đi bộ 20m. Lực nắm, tư thế và cơ trung tâm cùng làm việc.",
+        "title": "Gánh tạ đi bộ"
+      }
+    ],
+    "progression": [
+      "Người mới: tập với trọng lượng cơ thể và tạ đơn nhẹ, 2 buổi/tuần, làm chủ từng kiểu chuyển động.",
+      "Trung cấp: tăng mức tạ và thêm một hiệp, đưa vào các biến thể chân so le và một chân.",
+      "Nâng cao: chuyển sang bài tạ đòn (back squat, deadlift) dưới sự giám sát của HLV."
+    ],
+    "setsReps": "3–4 hiệp × 6–8 lần mỗi bài. Nghỉ 60–90 giây giữa các hiệp. HLV quyết định kế hoạch cuối — điều chỉnh mức tạ và khối lượng theo trình độ của bạn.",
+    "tags": [
+      "sức mạnh",
+      "người mới bắt đầu",
+      "squat",
+      "kỹ thuật nền tảng",
+      "giai đoạn nghỉ"
+    ],
+    "title": "Nền tảng sức mạnh cho bóng rổ (strength fundamentals)",
+    "whatItDevelops": [
+      "Kỹ thuật an toàn của squat, gập hông, đẩy, kéo và gánh tạ đi bộ",
+      "Sức mạnh nền toàn thân cho cả mùa giải",
+      "Khả năng kiểm soát khớp và siết cơ trung tâm khi chịu tải",
+      "Chất lượng chuyển động trước khi lên tạ nặng"
+    ],
+    "whyBasketball": [
+      "Người khỏe hơn thắng trong va chạm: screen, box out và những pha kết thúc có va chạm.",
+      "Sức mạnh nền bảo vệ khớp khi lịch thi đấu dày.",
+      "Mọi bài nâng tạ nâng cao đều xây trên 5 kiểu chuyển động này.",
+      "Có nền sức mạnh, cơ thể chịu mệt trong mùa giải tốt hơn."
+    ]
+  },
+  "whatItDevelops": [
+    "Safe squat, hinge, push, pull, and carry mechanics",
+    "Total-body base strength for the full season",
+    "Joint control and bracing under load",
+    "Movement quality before heavy weights"
+  ],
+  "whyBasketball": [
+    "Stronger players win contact: screens, box-outs, and finishes through contact.",
+    "Base strength protects joints when the schedule gets dense.",
+    "Every advanced lift builds on these five patterns.",
+    "In-season fatigue is easier to handle with a strength base."
+  ]
+}
