@@ -73,3 +73,34 @@ export interface CourtVisionCard {
   vi?: { title: string; setup: string; question: string; options: string[]; explanation: string };
 }
 
+/** Slimmed article fields for cards/lists — avoids serializing full article bodies into page props. */
+export interface ArticleCardData {
+  slug: string; title: string; description: string;
+  level: Article["level"]; readTime: number;
+  hub: string; subcategory: string;
+  vi?: { title: string; description: string };
+}
+/** Slimmed drill fields for cards/lists. */
+export interface DrillCardData {
+  slug: string; title: string; description: string;
+  level: Article["level"]; skill: string;
+  durationMin: number; players: string; intensity: "low" | "medium" | "high";
+  vi?: { title: string; description: string; players: string };
+}
+
+export function toArticleCard(a: Article): ArticleCardData {
+  return {
+    slug: a.slug, title: a.title, description: a.description,
+    level: a.level, readTime: a.readTime, hub: a.hub, subcategory: a.subcategory,
+    vi: a.vi ? { title: a.vi.title, description: a.vi.description } : undefined,
+  };
+}
+export function toDrillCard(d: Drill): DrillCardData {
+  return {
+    slug: d.slug, title: d.title, description: d.description,
+    level: d.level, skill: d.skill, durationMin: d.durationMin,
+    players: d.players, intensity: d.intensity,
+    vi: d.vi ? { title: d.vi.title, description: d.vi.description, players: d.vi.players } : undefined,
+  };
+}
+

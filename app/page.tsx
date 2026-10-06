@@ -4,6 +4,7 @@ import {
   getFilms, getCourtVision, conceptOfDay, latestArticles, articleUrl,
 } from "@/lib/content";
 import HomeClient, { type HomeData } from "@/components/HomeClient";
+import { toArticleCard, toDrillCard } from "@/lib/types";
 
 export const metadata: Metadata = {
   title: "DND Basketball — Trung Tâm Kiến Thức Bóng Rổ Hoàn Chỉnh",
@@ -15,7 +16,8 @@ const QUICK_LEARN = ["drop-coverage-defense", "spain-pick-and-roll", "ice-defens
 
 export default function Home() {
   const articles = getAllArticles();
-  const concept = conceptOfDay();
+  const _concept = conceptOfDay();
+  const concept = _concept ? toArticleCard(_concept) : _concept;
   const popular = POPULAR.map(getArticleBySlug).filter((a): a is NonNullable<typeof a> => Boolean(a));
   const paths = getAllPaths().slice(0, 4);
   const drills = getAllDrills().slice(0, 6);
@@ -26,17 +28,17 @@ export default function Home() {
   const workoutsCount = getAllWorkouts().length;
 
   const data: HomeData = {
-    articles,
+    articleCount: articles.length,
     concept,
-    popular,
+    popular: popular.map(toArticleCard),
     paths: paths.map((path) => ({
       path,
       articleCount: path.steps.reduce((n, s) => n + s.articles.length, 0),
     })),
-    drills,
+    drills: drills.map(toDrillCard),
     films,
-    coaches,
-    latest,
+    coaches: coaches.map(toArticleCard),
+    latest: latest.map(toArticleCard),
     vision: vision.map((card) => {
       const a = getArticleBySlug(card.relatedArticle);
       return { card, learnUrl: a ? articleUrl(a) : "/basketball-iq" };

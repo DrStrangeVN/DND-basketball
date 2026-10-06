@@ -1,7 +1,7 @@
 "use client";
 import Link from "next/link";
 import { CheckCircle2, AlertTriangle, Clock, Users, Dumbbell, Package } from "lucide-react";
-import type { Drill } from "@/lib/types";
+import type { Drill, DrillCardData } from "@/lib/types";
 import { Breadcrumbs, LevelBadge } from "@/components/ui";
 import { DrillCard } from "@/components/cards";
 import FavoriteButton from "@/components/FavoriteButton";
@@ -27,7 +27,7 @@ function localize(d: Drill, lang: Lang) {
   };
 }
 
-export default function DrillView({ drill, related }: { drill: Drill; related: Drill[] }) {
+export default function DrillView({ drill, related }: { drill: Drill; related: DrillCardData[] }) {
   const { lang, t } = useLanguage();
   const L = localize(drill, lang);
   const url = `/drills/${drill.slug}`;

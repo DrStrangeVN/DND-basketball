@@ -1,7 +1,7 @@
 "use client";
 import type { HubMeta, HubGroup } from "@/lib/hubs";
 import { hubText, hubGroupText } from "@/lib/hubs";
-import type { Article } from "@/lib/types";
+import type { ArticleCardData } from "@/lib/types";
 import { useLanguage } from "@/lib/i18n";
 import { Breadcrumbs, SectionTitle } from "./ui";
 import { KnowledgeCard } from "./cards";
@@ -9,7 +9,7 @@ import HubIcon from "./HubIcon";
 
 export default function HubViewClient({ hub, groupsData, groupId, showGroupTitles }: {
   hub: HubMeta;
-  groupsData: { group: HubGroup; articles: Article[] }[];
+  groupsData: { group: HubGroup; articles: ArticleCardData[] }[];
   groupId?: string;
   showGroupTitles: boolean;
 }) {

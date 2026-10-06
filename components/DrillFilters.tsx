@@ -1,7 +1,7 @@
 "use client";
 import { useMemo, useState } from "react";
 import { Search } from "lucide-react";
-import type { Drill } from "@/lib/types";
+import type { DrillCardData } from "@/lib/types";
 import { useLanguage, pick } from "@/lib/i18n";
 import { DrillCard } from "@/components/cards";
 
@@ -30,7 +30,7 @@ function Chip({ active, onClick, children }: { active: boolean; onClick: () => v
   );
 }
 
-export default function DrillFilters({ drills }: { drills: Drill[] }) {
+export default function DrillFilters({ drills }: { drills: DrillCardData[] }) {
   const [q, setQ] = useState("");
   const [skill, setSkill] = useState<string | null>(null);
   const [level, setLevel] = useState<string | null>(null);

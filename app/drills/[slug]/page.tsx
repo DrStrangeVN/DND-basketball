@@ -1,6 +1,7 @@
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import { getAllDrills, getDrillBySlug } from "@/lib/content";
+import { toDrillCard } from "@/lib/types";
 import DrillView from "@/components/DrillView";
 import RecentTracker from "@/components/RecentTracker";
 
@@ -26,7 +27,7 @@ export default async function DrillPage({ params }: { params: Promise<{ slug: st
   const drill = getDrillBySlug((await params).slug);
   if (!drill) notFound();
   const url = `/drills/${drill.slug}`;
-  const related = getAllDrills().filter((d) => drill.related.includes(d.slug)).slice(0, 3);
+  const related = getAllDrills().filter((d) => drill.related.includes(d.slug)).slice(0, 3).map(toDrillCard);
   return (
     <>
       <DrillView drill={drill} related={related} />

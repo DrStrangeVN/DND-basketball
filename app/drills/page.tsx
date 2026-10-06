@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { getAllDrills } from "@/lib/content";
+import { toDrillCard } from "@/lib/types";
 import DrillFilters from "@/components/DrillFilters";
 import PageHeader from "@/components/PageHeader";
 
@@ -10,7 +11,7 @@ export const metadata: Metadata = {
 };
 
 export default function DrillsPage() {
-  const drills = getAllDrills();
+  const drills = getAllDrills().map(toDrillCard);
   return (
     <div className="pb-6">
       <PageHeader

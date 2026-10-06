@@ -4,7 +4,7 @@ import {
   Volleyball, Target, Brain, Network, Dumbbell, Clapperboard, Shield, Zap,
   ClipboardList, ArrowRight, Sparkles, Flame,
 } from "lucide-react";
-import type { Article, Drill, LearningPath, FilmVideo, CourtVisionCard as CourtVisionCardT } from "@/lib/types";
+import type { ArticleCardData, DrillCardData, LearningPath, FilmVideo, CourtVisionCard as CourtVisionCardT } from "@/lib/types";
 import { articleUrl } from "@/lib/urls";
 import { useLanguage, pick } from "@/lib/i18n";
 import CourtDiagram from "@/components/CourtDiagram";
@@ -49,14 +49,14 @@ const HERO_DIAGRAM = {
 };
 
 export interface HomeData {
-  articles: Article[];
-  concept: Article | null | undefined;
-  popular: Article[];
+  articleCount: number;
+  concept: ArticleCardData | null | undefined;
+  popular: ArticleCardData[];
   paths: { path: LearningPath; articleCount: number }[];
-  drills: Drill[];
+  drills: DrillCardData[];
   films: FilmVideo[];
-  coaches: Article[];
-  latest: Article[];
+  coaches: ArticleCardData[];
+  latest: ArticleCardData[];
   vision: { card: CourtVisionCardT; learnUrl: string }[];
   workoutsCount: number;
   quickLearn: { slug: string; url: string }[];
@@ -89,7 +89,7 @@ export default function HomeClient({ data }: { data: HomeData }) {
             </Link>
           </div>
           <div className="mt-6 flex gap-6 text-sm">
-            <span><strong className="text-lg font-extrabold">{data.articles.length}+</strong> <span className="text-[color:var(--muted)]">{t("home.stats.concepts")}</span></span>
+            <span><strong className="text-lg font-extrabold">{data.articleCount}+</strong> <span className="text-[color:var(--muted)]">{t("home.stats.concepts")}</span></span>
             <span><strong className="text-lg font-extrabold">{drills.length}</strong> <span className="text-[color:var(--muted)]">{t("home.stats.drills")}</span></span>
             <span><strong className="text-lg font-extrabold">{paths.length}</strong> <span className="text-[color:var(--muted)]">{t("home.stats.paths")}</span></span>
           </div>

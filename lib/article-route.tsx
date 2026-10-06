@@ -2,6 +2,7 @@ import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import { getAllArticles, getArticleBySlug, articleUrl, getRelatedArticles, getDrillsForArticle, type Article } from "./content";
 import { hubById } from "./hubs";
+import { toArticleCard, toDrillCard } from "./types";
 import ArticleView from "@/components/ArticleView";
 import RecentTracker from "@/components/RecentTracker";
 
@@ -24,8 +25,8 @@ function metadataFor(a: Article): Metadata {
 }
 
 function PageShell({ article }: { article: Article }) {
-  const related = getRelatedArticles(article, 4);
-  const drills = getDrillsForArticle(article, 3);
+  const related = getRelatedArticles(article, 4).map(toArticleCard);
+  const drills = getDrillsForArticle(article, 3).map(toDrillCard);
   return (
     <>
       <ArticleView article={article} related={related} drills={drills} />

@@ -1,6 +1,6 @@
 "use client";
 import { AlertTriangle, CheckCircle2, Lightbulb, PlayCircle, Target } from "lucide-react";
-import type { Article, Drill } from "@/lib/types";
+import type { Article, ArticleCardData, DrillCardData } from "@/lib/types";
 import { articleUrl } from "@/lib/urls";
 import { hubById, hubText, hubGroupText } from "@/lib/hubs";
 import { useLanguage, pick, type Lang } from "@/lib/i18n";
@@ -38,7 +38,7 @@ function localize(a: Article, lang: Lang) {
 }
 
 export default function ArticleView({ article, related, drills }: {
-  article: Article; related: Article[]; drills: Drill[];
+  article: Article; related: ArticleCardData[]; drills: DrillCardData[];
 }) {
   const { lang, t } = useLanguage();
   const hub = hubById(article.hub);

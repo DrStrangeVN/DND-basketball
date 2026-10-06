@@ -1,12 +1,12 @@
 "use client";
 import Link from "next/link";
 import { ArrowRight, Clock, Users, Route, Dumbbell, Timer, Play } from "lucide-react";
-import type { Article, Drill, LearningPath, Workout, FilmVideo } from "@/lib/types";
+import type { ArticleCardData, DrillCardData, LearningPath, Workout, FilmVideo } from "@/lib/types";
 import { articleUrl } from "@/lib/urls";
 import { LevelBadge, ReadTime } from "./ui";
 import { useLanguage, pick } from "@/lib/i18n";
 
-export function KnowledgeCard({ article }: { article: Article }) {
+export function KnowledgeCard({ article }: { article: ArticleCardData }) {
   const { lang, t } = useLanguage();
   return (
     <Link href={articleUrl(article)} className="neu-card flex flex-col p-5">
@@ -23,7 +23,7 @@ export function KnowledgeCard({ article }: { article: Article }) {
   );
 }
 
-export function DrillCard({ drill }: { drill: Drill }) {
+export function DrillCard({ drill }: { drill: DrillCardData }) {
   const { lang, t } = useLanguage();
   return (
     <Link href={`/drills/${drill.slug}`} className="neu-card flex flex-col p-5">
