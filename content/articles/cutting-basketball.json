@@ -1,0 +1,80 @@
+{
+  "id": "cutting-basketball",
+  "slug": "cutting-basketball",
+  "title": "Cutting",
+  "description": "Hard, purposeful off-ball movement — basket cuts, backdoor cuts, and V-cuts that break down defenses.",
+  "hub": "offense",
+  "subcategory": "team-offense",
+  "level": "beginner",
+  "ages": [
+    "U10",
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "tags": [
+    "cutting",
+    "off-ball",
+    "movement",
+    "fundamentals"
+  ],
+  "readTime": 5,
+  "whatIsIt": [
+    "Cutting is moving without the ball to get open or to create an opening for a teammate. The main types are the basket cut (straight to the rim), the backdoor cut (behind an overplaying defender), the V-cut (out then back in), and the shallow cut (across the perimeter to exchange spots).",
+    "Great cutters are always a threat. Defenders have to watch them, which stretches the defense and opens driving lanes and passing angles for everyone else.",
+    "Cutting is one of the first team concepts young players should learn, because it teaches the core habit of playing without the ball — where most of basketball actually happens."
+  ],
+  "whyItMatters": [
+    "You only have the ball a few minutes per game; you play without it the rest of the time. Players who cut hard get easy baskets, draw help that frees teammates, and make any offense — motion, 5-out, or set plays — actually work."
+  ],
+  "howTo": [
+    {
+      "title": "Set up your defender first",
+      "detail": "Take your defender one way — toward the ball or away from it — then explode the opposite way. Cuts without a setup step are easy to follow."
+    },
+    {
+      "title": "Cut hard and change pace",
+      "detail": "Walk the defender to sleep, then sprint. The speed change is what creates the separation, not the route."
+    },
+    {
+      "title": "Cut to score, not to move",
+      "detail": "Every cut should look like it could end in a layup. Cuts that threaten the rim force the defense to react."
+    },
+    {
+      "title": "Show a target hand",
+      "detail": "As you cut into open space, show the passer a hand. It gives them a clear window and speeds up the pass."
+    },
+    {
+      "title": "Clear through if you're not open",
+      "detail": "If the pass doesn't come, cut all the way through to the other side and fill a spot. Half-cuts clog the lane for the next action."
+    }
+  ],
+  "coachingPoints": [
+    "Demand full-speed cuts in practice — jogging in drills becomes jogging in games.",
+    "Teach cutters to read their defender's eyes: if the defender looks at the ball, cut backdoor.",
+    "Time cuts to the passer's rhythm; early cuts arrive before the passer is ready.",
+    "Praise hard cuts even when the pass doesn't come — the habit matters more than the basket."
+  ],
+  "commonMistakes": [
+    "Cutting at half speed, which lets the defender recover without helping.",
+    "Cutting directly into a teammate's driving lane or another cutter's path.",
+    "Stopping mid-cut when the ball doesn't arrive immediately, clogging the paint."
+  ],
+  "gameSituations": [
+    "Against defenders who overplay passing lanes or deny the wing.",
+    "When the ball is in the post — cut off the post player's eyes.",
+    "In motion offense, as the automatic movement after every pass."
+  ],
+  "related": [
+    "screening-basketball",
+    "motion-offense",
+    "iverson-cut",
+    "ucla-cut"
+  ],
+  "dateUpdated": "2026-10-06"
+}

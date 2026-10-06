@@ -1,0 +1,126 @@
+{
+  "id": "reject-screen",
+  "slug": "reject-screen",
+  "title": "Rejecting the Screen",
+  "description": "When the defense overplays the screen, the ball handler rejects it and attacks the other way.",
+  "hub": "pick-and-roll",
+  "subcategory": "pick-and-roll",
+  "level": "advanced",
+  "ages": [
+    "U16",
+    "U18",
+    "Adult",
+    "Competitive"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "tags": [
+    "pick and roll",
+    "reject",
+    "reads",
+    "advanced"
+  ],
+  "readTime": 5,
+  "whatIsIt": [
+    "Rejecting the screen means the ball handler fakes toward the screen, then explodes the opposite direction instead of using it. It is the counter to a defense that cheats — when the on-ball defender jumps over the screen early, or the screener's defender shows before the screen arrives.",
+    "The reject works because the defense has already committed. Both defenders are leaning toward the screen side, which means the other side of the floor is empty. One hard crossover or behind-the-back move and the ball handler is downhill with no one in front.",
+    "It is an advanced read because it requires selling the fake. A lazy reject with no setup is just dribbling away from a screen — the defense stays balanced and nothing is gained."
+  ],
+  "whyItMatters": [
+    "Defenses that overplay the pick-and-roll are begging to be rejected. Without the reject threat, defenders can cheat every screen with no consequence. With it, they have to play honest — and honest defense against a good PNR is already losing."
+  ],
+  "howTo": [
+    {
+      "title": "Sell the screen first",
+      "detail": "Take two hard dribbles toward the screen with your eyes up. The fake is what moves the defenders — without it, there is nothing to reject against."
+    },
+    {
+      "title": "Read the cheat",
+      "detail": "Watch for the on-ball defender sprinting to get over early, or the screener's defender stepping out before contact. Either cheat is your green light."
+    },
+    {
+      "title": "Explode opposite",
+      "detail": "One hard move — crossover, between the legs, or behind the back — and go. The first step must be violent; a slow reject lets the defense recover."
+    },
+    {
+      "title": "Attack the empty side",
+      "detail": "The defense shaded to the screen, so the opposite lane is open. Drive it all the way or pull up if the rim protector rotates."
+    },
+    {
+      "title": "Keep the screener involved",
+      "detail": "A good screener reads the reject and dives or flashes to space. Communicate — a quick call or eye contact keeps the two-man game alive."
+    }
+  ],
+  "coachingPoints": [
+    "Teach the reject only after the basic PNR reads are solid — it is a counter, not a starting point.",
+    "Drill the setup: the fake toward the screen must look identical to a real PNR attack.",
+    "Film study helps — show players what a cheating defender looks like before the screen.",
+    "Reps against a live defender who is instructed to cheat; reads don't develop against cones."
+  ],
+  "commonMistakes": [
+    "Rejecting with no setup — the defense never commits, so nothing is gained.",
+    "Rejecting into the screener's defender, who is sitting in the driving lane.",
+    "A slow first step that lets the cheating defender recover anyway."
+  ],
+  "gameSituations": [
+    "When the on-ball defender is clearly trying to beat you to the screen side.",
+    "Against aggressive hedge defenses that show early.",
+    "Late in games when the defense has seen your PNR all night and starts jumping it."
+  ],
+  "diagram": {
+    "title": "Reject: fake to the screen, explode the other way",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 76
+      },
+      {
+        "label": "O5",
+        "x": 57,
+        "y": 68
+      },
+      {
+        "label": "O3",
+        "x": 30,
+        "y": 60
+      }
+    ],
+    "defense": [
+      {
+        "label": "X1",
+        "x": 54,
+        "y": 70
+      },
+      {
+        "label": "X5",
+        "x": 62,
+        "y": 64
+      }
+    ],
+    "ball": "O1",
+    "screens": [
+      {
+        "x": 57,
+        "y": 68
+      }
+    ],
+    "moves": [
+      {
+        "from": "O1",
+        "to": "O3",
+        "kind": "dribble"
+      }
+    ],
+    "passes": [],
+    "shots": []
+  },
+  "related": [
+    "pick-and-roll-basics",
+    "ball-handler-reads",
+    "screen-angle",
+    "snake-dribble"
+  ],
+  "dateUpdated": "2026-10-06"
+}

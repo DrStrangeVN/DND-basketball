@@ -1,0 +1,26 @@
+{
+  "id": "30-minute-guard-workout",
+  "slug": "30-minute-guard-workout",
+  "title": "30-Minute Guard Workout",
+  "description": "A complete guard session: ball handling, change of pace, pick-and-roll reads, pull-up shooting, and finishing — built for lead guards and wings.",
+  "level": "intermediate",
+  "durationMin": 30,
+  "focus": ["Ball Handling", "Shooting", "Finishing", "Pick & Roll"],
+  "equipment": ["Basketball", "Cones"],
+  "items": [
+    {"name": "Two-ball warm-up", "detail": "Simultaneous pound dribbles 30s, alternating 30s, one-high-one-low 30s each side. Eyes up.", "time": "3:00"},
+    {"name": "Cone move series", "detail": "4 cones, 10 feet apart: crossover, between-the-legs, behind-the-back, combo round — explode out of every move.", "time": "5:00"},
+    {"name": "Change-of-pace attacks", "detail": "Hesitation and go: slow-to-explosive drives from the wing to the rim, 5 each side. Sell the slow.", "time": "4:00"},
+    {"name": "Pick-and-roll reads", "detail": "Use a chair as the screener: come off the screen and make the read — shoot, pocket pass, or reject. 10 reps.", "time": "5:00"},
+    {"name": "Pull-up jumpers", "detail": "One-dribble and two-dribble pull-ups from the elbows and wings: 3 makes per spot.", "time": "5:00"},
+    {"name": "Finishing circuit", "detail": "Full-court drives: euro step, pro hop, reverse — 3 makes of each, full speed.", "time": "5:00"},
+    {"name": "Free-throw finish", "detail": "10 free throws with your routine to close. 8+ makes is the standard.", "time": "3:00"}
+  ],
+  "tips": [
+    "Guards live on change of pace — every drive in this workout should have a clear slow-to-fast rhythm.",
+    "Treat the chair screen seriously: set up the defender, use the screen, then read.",
+    "Finish every shooting block with free throws to train focus when fatigued.",
+    "Log your makes per block so next week's workout has a target to beat."
+  ],
+  "dateUpdated": "2026-10-06"
+}

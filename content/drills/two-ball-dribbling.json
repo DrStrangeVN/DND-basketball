@@ -1,0 +1,72 @@
+{
+  "id": "two-ball-dribbling",
+  "slug": "two-ball-dribbling",
+  "title": "Two-Ball Dribbling Series",
+  "description": "A progressive two-ball ball-handling series that builds ambidexterity, weak-hand confidence, and eyes-up dribbling control.",
+  "skill": "Ball Handling",
+  "level": "beginner",
+  "ages": [
+    "U10",
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "players": "1",
+  "equipment": [
+    "Basketball",
+    "Basketball"
+  ],
+  "durationMin": 10,
+  "intensity": "medium",
+  "goal": "Develop equal control in both hands and the ability to dribble without looking down at the ball.",
+  "setup": [
+    "Find a flat area with room to move — half-court or an open lane is enough.",
+    "Use two basketballs; a slightly deflated or heavy ball can work for the strong hand if available.",
+    "Keep your eyes up at all times — pick a target on the wall or rim to watch."
+  ],
+  "instructions": [
+    {
+      "title": "Pound dribbles together",
+      "detail": "Pound both balls simultaneously for 30 seconds, low and hard, eyes up."
+    },
+    {
+      "title": "Alternate dribbles",
+      "detail": "Dribble the balls in alternating rhythm — left-right-left-right — for 30 seconds."
+    },
+    {
+      "title": "One high, one low",
+      "detail": "Keep one ball low and quick while the other stays high and slow for 30 seconds, then switch hands."
+    },
+    {
+      "title": "Moving crossovers",
+      "detail": "Walk the length of the court crossing both balls in front of you at the same time — 4 lengths total."
+    },
+    {
+      "title": "Between-the-legs walk",
+      "detail": "Walk the court bouncing both balls through your legs on each step, then back with crossovers."
+    }
+  ],
+  "coachingPoints": [
+    "Pound the ball — weak dribbles bounce back into your hand late and force you to look down.",
+    "Use fingertips and wrist snap, not the palm; the ball should spin cleanly.",
+    "Stay low in an athletic stance — dribbling happens below the knees, not at the waist.",
+    "Eyes up always; losing the ball is fine, looking down is not."
+  ],
+  "commonMistakes": [
+    "Dribbling with palms — the ball slaps and bounces off-line; keep contact on the finger pads.",
+    "Standing tall and dribbling high — drop your hips so the ball stays protected and quick."
+  ],
+  "progression": "Do the series while moving at jogging speed, add a defender's hand waving in front, or perform moves (crossover, between-the-legs) with two balls in motion.",
+  "regression": "Use one ball only, slow the rhythm down, or do the series stationary instead of walking.",
+  "gameApplication": "Two-ball work builds the weak-hand control that lets you attack either direction in games — defenders exploit players who can only go one way.",
+  "related": [
+    "cone-crossover-series",
+    "full-court-finishing"
+  ],
+  "dateUpdated": "2026-10-06"
+}

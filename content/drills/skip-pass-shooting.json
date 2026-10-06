@@ -1,0 +1,42 @@
+{
+  "id": "skip-pass-shooting",
+  "slug": "skip-pass-shooting",
+  "title": "Skip Pass Shooting",
+  "description": "Drive-and-kick footwork meets skip passing: swing the ball across the court and knock down the weak-side three in rhythm.",
+  "skill": "Passing",
+  "level": "intermediate",
+  "ages": ["U14","U16","U18","Adult","Competitive"],
+  "positions": ["ALL"],
+  "players": "3+",
+  "equipment": ["Basketball"],
+  "durationMin": 12,
+  "intensity": "medium",
+  "goal": "Train the drive-kick-skip sequence: drive to collapse the defense, skip the ball to the weak side, and shoot it in rhythm.",
+  "setup": [
+    "Set up three lines: a driver at the top, a skip passer on the wing, and a shooter in the opposite corner.",
+    "Driver starts with the ball; shooter starts with hands ready in the corner.",
+    "Rotate lines after each rep: driver to shooter, shooter to passer, passer to driver."
+  ],
+  "instructions": [
+    {"title": "Drive to collapse", "detail": "Driver attacks the paint with two hard dribbles, forcing the help defense to commit."},
+    {"title": "Kick to the wing", "detail": "Driver jump-stops and kicks out to the wing passer — a crisp two-handed pass on target."},
+    {"title": "Skip across the court", "detail": "Wing catches and immediately skips the ball to the opposite corner — one quick swing, no extra dribbles."},
+    {"title": "Catch and shoot in rhythm", "detail": "Corner shooter catches with feet set and shoots the three in one motion; follow your shot and rotate lines."},
+    {"title": "Run 10 makes per player", "detail": "Each player shoots until they make 10 corner threes, then the drill flips to the other side of the floor."}
+  ],
+  "coachingPoints": [
+    "The skip pass must be flat and fast — a lobbed skip gives the defense time to recover.",
+    "Shooter: be shot-ready before the catch, not after — feet set, knees loaded.",
+    "Driver: jump-stop under control; out-of-control drives create turnovers, not open shots.",
+    "Passer: catch and skip in one motion — every extra dribble lets the closeout arrive."
+  ],
+  "commonMistakes": [
+    "Throwing a soft, high skip pass — it gets deflected or arrives too late for a rhythm shot.",
+    "Shooter catching flat-footed — if you're not ready before the catch, the closeout beats you."
+  ],
+  "progression": "Add a closeout defender sprinting at the shooter, require the shooter to shot-fake and drive on the closeout, or skip from a live pick-and-roll instead of a set drive.",
+  "regression": "Shorten the skip to a wing-to-wing swing, shoot from 15 feet instead of three, or remove the drive and start from a stationary kickout.",
+  "gameApplication": "Modern offenses generate threes through drive-and-kick skip passes — this drill trains the exact sequence that beats rotating defenses.",
+  "related": ["three-man-weave","three-point-star","spot-shooting-ladder"],
+  "dateUpdated": "2026-10-06"
+}

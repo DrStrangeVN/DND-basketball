@@ -1,0 +1,26 @@
+{
+  "id": "finishing-workout",
+  "slug": "finishing-workout",
+  "title": "Finishing Workout",
+  "description": "25 minutes dedicated to scoring at the rim: touch finishes, euro steps, two-foot power, contact, and transition layups.",
+  "level": "intermediate",
+  "durationMin": 25,
+  "focus": ["Finishing"],
+  "equipment": ["Basketball", "Cones"],
+  "items": [
+    {"name": "Mikan drill", "detail": "Alternating under-basket layups, right and left, ball never touches the floor. Use the glass every rep.", "time": "3:00"},
+    {"name": "Power layups", "detail": "One-dribble power layups from each wing: jump off two feet, finish high off the glass. 5 makes each side.", "time": "4:00"},
+    {"name": "Euro step series", "detail": "Drive at a cone 'defender' and euro around it both directions. 5 makes each way, then 5 reactive.", "time": "4:00"},
+    {"name": "Reverse finishes", "detail": "Baseline drives finishing on the far side of the rim: 5 makes each side. Sweep the ball under.", "time": "4:00"},
+    {"name": "Floater and runner", "detail": "One-dribble into floaters from the elbows and short corners: 3 makes per spot, soft touch.", "time": "4:00"},
+    {"name": "Full-court finishing", "detail": "Full-speed drives from half-court alternating hands and finishes. 10 consecutive makes to finish.", "time": "4:00"},
+    {"name": "Free-throw cool down", "detail": "8 free throws with your routine. Breathe, reset, finish strong.", "time": "2:00"}
+  ],
+  "tips": [
+    "Finish with your eyes on the target spot on the glass, not the ball.",
+    "Alternate hands deliberately — your weak hand needs twice the reps your strong hand gets.",
+    "Use the rim as protection: finish on the side away from the imaginary defender.",
+    "Touch beats power inside 6 feet — soft hands score more than hard throws."
+  ],
+  "dateUpdated": "2026-10-06"
+}

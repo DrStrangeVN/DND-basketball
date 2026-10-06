@@ -1,0 +1,16 @@
+{
+  "id": "guard-development-path",
+  "slug": "guard-development-path",
+  "title": "Guard Development",
+  "description": "Develop the complete guard skill set: elite ball handling, pick-and-roll playmaking, pull-up scoring, and reading the defense.",
+  "level": "intermediate",
+  "audience": "Point guards and shooting guards",
+  "steps": [
+    {"title": "Level 1 — Change of Pace", "description": "Learn to control tempo with your dribble — the hesitation and pace changes that create separation.", "articles": ["change-of-pace", "hesitation"]},
+    {"title": "Level 2 — Beat Your Man", "description": "Add the crossover to your move package and learn when to attack versus when to probe.", "articles": ["crossover"]},
+    {"title": "Level 3 — Run the Pick & Roll", "description": "Become a ball-screen threat: read the two defenders and make the right decision every time.", "articles": ["ball-handler-reads", "pocket-pass-pnr"]},
+    {"title": "Level 4 — Score in the Midrange", "description": "Master the pull-up jumper and the floater so defenses can't just sit on your drive.", "articles": ["pull-up-jumper", "runner-floater"]},
+    {"title": "Level 5 — See the Whole Floor", "description": "Develop advanced vision: read help defenders, anticipate rotations, and make plays before they happen.", "articles": ["reading-help-defense"]}
+  ],
+  "dateUpdated": "2026-10-06"
+}

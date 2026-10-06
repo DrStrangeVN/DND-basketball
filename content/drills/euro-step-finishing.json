@@ -1,0 +1,42 @@
+{
+  "id": "euro-step-finishing",
+  "slug": "euro-step-finishing",
+  "title": "Euro Step Finishing",
+  "description": "Learn the two-step directional change that wrong-foots shot blockers, then finish with touch off either hand.",
+  "skill": "Finishing",
+  "level": "intermediate",
+  "ages": ["U12","U14","U16","U18","Adult","Competitive"],
+  "positions": ["ALL"],
+  "players": "1",
+  "equipment": ["Basketball","Cones"],
+  "durationMin": 10,
+  "intensity": "medium",
+  "goal": "Master the euro step gather and directional change to finish around shot blockers without charging.",
+  "setup": [
+    "Place one cone at the top of the key as your starting drive point and one cone near the elbow as the 'defender'.",
+    "Start each rep dribbling at the defender cone from the top.",
+    "A chair or pad at the rim can simulate a shot blocker."
+  ],
+  "instructions": [
+    {"title": "Drive at the defender cone", "detail": "Attack the cone at the elbow with speed, as if a help defender is sliding over."},
+    {"title": "Pick up and step one", "detail": "Gather the ball and take a long first step to one side of the cone — sell it with your shoulders."},
+    {"title": "Step two across", "detail": "Push off and step across to the opposite side of the cone, changing direction sharply while keeping the ball protected."},
+    {"title": "Finish off the glass", "detail": "Finish with the outside hand off the backboard — right side finishes with the right hand, left side with the left."},
+    {"title": "Alternate both directions", "detail": "Do 5 euro steps going right-to-left and 5 going left-to-right, then 5 where you choose the direction reactively."}
+  ],
+  "coachingPoints": [
+    "The first step must be long and convincing — a short step doesn't move the defender.",
+    "Keep the ball tight to your body through both steps; a loose ball gets poked away.",
+    "Stay low and balanced — the euro step is a change of direction, not a leap.",
+    "Land and finish under control; don't drift under the basket."
+  ],
+  "commonMistakes": [
+    "Taking a third step — gather cleanly and count your two steps; extra steps are travels in games.",
+    "Jumping sideways instead of stepping — the move works through footwork and deception, not athleticism."
+  ],
+  "progression": "Add a live defender at the cone who commits to one side, add a shot-blocker pad at the rim, or chain the euro into a reverse finish.",
+  "regression": "Walk through the footwork without a ball first, do it from a standstill gather, or remove the defender cone.",
+  "gameApplication": "Help defenders meet you at the rim in every game — the euro step is the primary tool for finishing around them without forcing contact.",
+  "related": ["full-court-finishing","contact-finishing-drill","mikan-drill"],
+  "dateUpdated": "2026-10-06"
+}

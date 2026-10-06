@@ -1,0 +1,42 @@
+{
+  "id": "shell-drill",
+  "slug": "shell-drill",
+  "title": "4v4 Shell Drill",
+  "description": "The foundational team-defense drill: 4-on-4 in the half court with the ball rotating around the perimeter while defenders practice help, closeouts, and rotations.",
+  "skill": "Defense",
+  "level": "intermediate",
+  "ages": ["U14","U16","U18","Adult","Competitive"],
+  "positions": ["ALL"],
+  "players": "8+",
+  "equipment": ["Basketball"],
+  "durationMin": 15,
+  "intensity": "medium",
+  "goal": "Install team defensive principles — help positioning, closeout discipline, and rotation timing — in a controlled 4-on-4 setting.",
+  "setup": [
+    "Four offensive players spaced around the perimeter (two wings, two slots); four defenders matched up.",
+    "Start in the half court with the ball on one wing.",
+    "A coach stands at the top to call out rotations and freeze the drill for teaching moments."
+  ],
+  "instructions": [
+    {"title": "Ball swings, defense shifts", "detail": "Offense passes the ball around the perimeter — no dribbling at first; defenders shift between on-ball, deny, and help positions on every pass."},
+    {"title": "Add closeouts", "detail": "Each pass triggers a closeout from the new on-ball defender while off-ball defenders adjust their help angles."},
+    {"title": "Add one dribble", "detail": "Offense is allowed one dribble per catch to attack closeouts — defenders practice containing the drive and rotating on help."},
+    {"title": "Go live", "detail": "Play 4-on-4 live until the offense scores, the defense gets a stop, or 30 seconds pass; reset and go again."},
+    {"title": "Score the defense", "detail": "Defense earns a point for every stop; offense earns a point per basket. First to 7 wins the round."}
+  ],
+  "coachingPoints": [
+    "See ball and man — defenders should be in stance with vision split between their matchup and the ball.",
+    "Help defenders: one step off the line between your man and the ball, ready to stunt or rotate.",
+    "Close out under control — the shell exposes every lazy closeout instantly.",
+    "Talk constantly: 'ball!', 'help left!', 'shooter!' — silent shell is broken shell."
+  ],
+  "commonMistakes": [
+    "Ball-watching and losing your man on cuts — keep your head on a swivel.",
+    "Help defenders standing straight up — help position is a low stance, not a resting spot."
+  ],
+  "progression": "Add a fifth player both sides (5-on-5 shell), allow unlimited dribbles, or add ball screens to force pick-and-roll coverage decisions.",
+  "regression": "Walk through rotations without live offense, reduce to 3-on-3, or keep the no-dribble rule for the whole drill.",
+  "gameApplication": "Shell drill is where team defense is built — every rotation, closeout, and help decision in a game traces back to these reps.",
+  "related": ["closeout-drill","box-out-battle","pick-and-roll-two-on-two"],
+  "dateUpdated": "2026-10-06"
+}

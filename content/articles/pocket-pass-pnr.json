@@ -1,0 +1,127 @@
+{
+  "id": "pocket-pass-pnr",
+  "slug": "pocket-pass-pnr",
+  "title": "The Pocket Pass",
+  "description": "The threaded bounce pass between defenders that hits the rolling big in stride.",
+  "hub": "pick-and-roll",
+  "subcategory": "pick-and-roll",
+  "level": "intermediate",
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult",
+    "Competitive"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "tags": [
+    "pick and roll",
+    "passing",
+    "pocket pass",
+    "ball handler"
+  ],
+  "readTime": 5,
+  "whatIsIt": [
+    "The pocket pass is a one-handed bounce pass thrown into the gap — the pocket — between the on-ball defender trailing the play and the screener's defender caught in between. It hits the rolling big in stride for a layup or dunk.",
+    "It is the signature pass of the pick-and-roll. When a defense hedges or when the big's defender is stuck between helping and recovering, the pocket opens for a split second. The pass must be on time, on target, and bounced.",
+    "Throwing it well requires touch and timing more than arm strength. The best pocket passes look effortless because the read was made early."
+  ],
+  "whyItMatters": [
+    "Defenses are built to take away the obvious — the drive and the kick-out. The pocket pass punishes the in-between: the moment both defenders hesitate. Guards who can throw it force defenses to pick their poison, which opens everything else."
+  ],
+  "howTo": [
+    {
+      "title": "Read the in-between defender",
+      "detail": "The pocket exists when the screener's defender is caught halfway — not fully committed to the ball, not fully back to the roller. That's your window."
+    },
+    {
+      "title": "Throw it off the dribble",
+      "detail": "One-hand push pass off a live dribble, usually with the outside hand. Picking up the ball first makes the pass late and telegraphed."
+    },
+    {
+      "title": "Bounce it through the gap",
+      "detail": "Aim the bounce about two-thirds of the way to the roller, leading them toward the rim. A bounced pass is harder to deflect than a chest pass in traffic."
+    },
+    {
+      "title": "Lead the roller",
+      "detail": "Throw to where the big is going, not where they are. The pass should meet their stride at full speed."
+    },
+    {
+      "title": "Throw it early",
+      "detail": "The pocket closes fast. If you wait until the roller is at the rim, the help has arrived. Trust the read and throw it on the catch of the idea."
+    }
+  ],
+  "coachingPoints": [
+    "Drill the pass 2v2 with a coach as the in-between defender before going live.",
+    "Emphasize the bounce point — most bad pocket passes are thrown as flat chest passes into hands.",
+    "Teach guards to keep the dribble alive through the read so the pass stays a surprise.",
+    "The roller must present a target hand; no target, no pass."
+  ],
+  "commonMistakes": [
+    "Throwing a chest pass through traffic instead of a bounce pass — easy deflection.",
+    "Waiting too long, so the window closes and the pass becomes a turnover.",
+    "Leading the roller into the help defender instead of away from them."
+  ],
+  "gameSituations": [
+    "Against hedge or soft-trap coverages where the big's defender is caught in no-man's land.",
+    "With an athletic rolling big who finishes lobs and layups in stride.",
+    "When the on-ball defender trails hard over the screen, opening the inside lane."
+  ],
+  "diagram": {
+    "title": "Pocket pass threaded between the two defenders",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 76
+      },
+      {
+        "label": "O5",
+        "x": 57,
+        "y": 68
+      }
+    ],
+    "defense": [
+      {
+        "label": "X1",
+        "x": 46,
+        "y": 68
+      },
+      {
+        "label": "X5",
+        "x": 60,
+        "y": 62
+      }
+    ],
+    "ball": "O1",
+    "screens": [
+      {
+        "x": 57,
+        "y": 68
+      }
+    ],
+    "moves": [
+      {
+        "from": "O5",
+        "to": "O1",
+        "kind": "cut"
+      }
+    ],
+    "passes": [
+      {
+        "from": "O1",
+        "to": "O5"
+      }
+    ],
+    "shots": []
+  },
+  "related": [
+    "pick-and-roll-basics",
+    "ball-handler-reads",
+    "roll-man-reads",
+    "short-roll"
+  ],
+  "dateUpdated": "2026-10-06"
+}

@@ -1,0 +1,136 @@
+{
+  "id": "stagger-screen",
+  "slug": "stagger-screen",
+  "title": "Stagger Screens",
+  "description": "Two screens set in a line, one after another — double trouble for the shooter's defender.",
+  "hub": "tactics",
+  "subcategory": "offensive-actions",
+  "level": "intermediate",
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult",
+    "Competitive"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "tags": [
+    "stagger",
+    "screens",
+    "shooting",
+    "off-ball"
+  ],
+  "readTime": 5,
+  "whatIsIt": [
+    "A stagger is two off-ball screens set in a line — one behind the other — for the same cutter. The shooter's defender has to fight through two screens in about two seconds, which is nearly impossible to do cleanly.",
+    "Staggers are usually run for shooters coming from the baseline to the wing or top: pin down, then a second pin down right behind it. The double screen is the point — one screen is navigable, two in sequence usually aren't.",
+    "It's a staple of every serious offense because it's simple to teach and brutally effective. Two screeners, one shooter, one open jumper."
+  ],
+  "whyItMatters": [
+    "One screen can be fought through; two screens in a stagger force the defense to choose between switching (mismatch), trailing (late contest), or going under (open shot). Every option favors the offense."
+  ],
+  "howTo": [
+    {
+      "title": "Line up the two screeners",
+      "detail": "Set the screens in a vertical line with a step or two between them — both legal, both set before the cutter arrives."
+    },
+    {
+      "title": "Shooter: sprint the gauntlet",
+      "detail": "Come off the first screen shoulder-to-shoulder, then immediately the second. Don't slow down between them — the speed is what breaks the defender."
+    },
+    {
+      "title": "Read after the second screen",
+      "detail": "Curl if the defender trails, flare if they cheat, straight for the jumper if they go under. The read comes after screen two."
+    },
+    {
+      "title": "Screeners: hold both",
+      "detail": "Both screens must be held through contact. If the first screener releases early, the defender slips through and the stagger collapses."
+    },
+    {
+      "title": "Time the pass",
+      "detail": "The passer throws as the shooter clears the second screen — not before, not after. Late passes get contested."
+    }
+  ],
+  "coachingPoints": [
+    "Spacing between the screens matters — too close and it's one screen, too far and the defender recovers between them.",
+    "Drill both screeners' timing: the second must be set before the cutter arrives.",
+    "Teach the shooter to read, not to run a route — the defender's reaction decides the finish.",
+    "Practice vs a switching defense too; staggers create switches that must be exploited."
+  ],
+  "commonMistakes": [
+    "Screens set too far apart, letting the defender recover between them.",
+    "The shooter slowing down after the first screen.",
+    "Screeners moving or leaning — two moving screens is two turnovers."
+  ],
+  "gameSituations": [
+    "Freeing a shooter when single pin downs aren't working.",
+    "ATO plays where you need a guaranteed clean look.",
+    "Against aggressive man defense that fights through single screens well."
+  ],
+  "diagram": {
+    "title": "Stagger: two screens in line for the shooter",
+    "offense": [
+      {
+        "label": "O2",
+        "x": 70,
+        "y": 34
+      },
+      {
+        "label": "O5",
+        "x": 70,
+        "y": 46
+      },
+      {
+        "label": "O4",
+        "x": 70,
+        "y": 56
+      },
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 74
+      }
+    ],
+    "defense": [
+      {
+        "label": "X2",
+        "x": 72,
+        "y": 38
+      }
+    ],
+    "ball": "O1",
+    "screens": [
+      {
+        "x": 70,
+        "y": 42
+      },
+      {
+        "x": 70,
+        "y": 52
+      }
+    ],
+    "moves": [
+      {
+        "from": "O2",
+        "to": "O1",
+        "kind": "cut"
+      }
+    ],
+    "passes": [
+      {
+        "from": "O1",
+        "to": "O2"
+      }
+    ],
+    "shots": []
+  },
+  "related": [
+    "pin-down-screen",
+    "floppy-action",
+    "screening-basketball",
+    "elevator-doors"
+  ],
+  "dateUpdated": "2026-10-06"
+}

@@ -1,0 +1,128 @@
+{
+  "id": "pin-down-screen",
+  "slug": "pin-down-screen",
+  "title": "Pin Down Screens",
+  "description": "A screener pins the shooter's defender down low, freeing the shooter to sprint up for a jumper.",
+  "hub": "tactics",
+  "subcategory": "offensive-actions",
+  "level": "intermediate",
+  "ages": [
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult",
+    "Competitive"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "tags": [
+    "pin down",
+    "screens",
+    "shooting",
+    "off-ball"
+  ],
+  "readTime": 5,
+  "whatIsIt": [
+    "A pin down is an off-ball screen set with the screener's back to the baseline, 'pinning' the shooter's defender down near the paint while the shooter sprints up to the wing or top for a catch-and-shoot.",
+    "It's the most common shooter screen in basketball. The geometry favors the offense: the defender has to fight around the screen and then sprint uphill to contest, usually arriving a step late.",
+    "Pin downs come in singles and doubles, and they pair with everything — curls, flares, DHOs, and re-screens all start from a pin down look."
+  ],
+  "whyItMatters": [
+    "Every team needs a reliable way to get its shooters open, and the pin down is the simplest one that actually works. It creates the game's most efficient shot — the open catch-and-shoot three — from a teachable, repeatable action."
+  ],
+  "howTo": [
+    {
+      "title": "Set the pin low",
+      "detail": "The screener sets up near the paint with back to the baseline, feet wide and still. The screen must be set before the shooter starts their cut."
+    },
+    {
+      "title": "Shooter: set up then explode",
+      "detail": "Take the defender low with a step toward the basket, then sprint up off the screen. The change of pace is what creates separation."
+    },
+    {
+      "title": "Go shoulder-to-shoulder",
+      "detail": "Brush the screener's shoulder on the way up. A wide curl gives the defender room to slide through."
+    },
+    {
+      "title": "Read the defender",
+      "detail": "Curl to the rim if they trail, flare if they jump the screen, straight cut for the jumper if they go under. The read happens mid-sprint."
+    },
+    {
+      "title": "Catch shot-ready",
+      "detail": "Land with feet set and hands ready. The pass should arrive as you come open — timing between cutter and passer is everything."
+    }
+  ],
+  "coachingPoints": [
+    "Drill the shooter's footwork: the setup step and the explosion are the whole skill.",
+    "Screeners must hold the screen — early releases let defenders through.",
+    "Teach all three reads (curl, flare, straight) from day one so shooters aren't one-dimensional.",
+    "Re-screen when the first one doesn't produce a shot — great shooting teams screen twice."
+  ],
+  "commonMistakes": [
+    "The shooter jogging through the screen instead of sprinting.",
+    "Setting the screen too high, so the shooter catches too far from the basket.",
+    "Only ever curling — predictable shooters get scouted and stopped."
+  ],
+  "gameSituations": [
+    "Freeing a shooter against man-to-man defense in the half court.",
+    "As the first action in Chicago action or floppy sets.",
+    "Late-clock when one screen is all you have time for."
+  ],
+  "diagram": {
+    "title": "Pin down: shooter sprints up off the low screen",
+    "offense": [
+      {
+        "label": "O2",
+        "x": 70,
+        "y": 38
+      },
+      {
+        "label": "O5",
+        "x": 70,
+        "y": 50
+      },
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 74
+      }
+    ],
+    "defense": [
+      {
+        "label": "X2",
+        "x": 72,
+        "y": 42
+      }
+    ],
+    "ball": "O1",
+    "screens": [
+      {
+        "x": 70,
+        "y": 46
+      }
+    ],
+    "moves": [
+      {
+        "from": "O2",
+        "to": "O1",
+        "kind": "cut"
+      }
+    ],
+    "passes": [
+      {
+        "from": "O1",
+        "to": "O2"
+      }
+    ],
+    "shots": []
+  },
+  "related": [
+    "stagger-screen",
+    "floppy-action",
+    "screening-basketball",
+    "chicago-action"
+  ],
+  "dateUpdated": "2026-10-06"
+}

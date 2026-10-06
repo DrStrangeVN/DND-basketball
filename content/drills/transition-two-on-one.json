@@ -1,0 +1,42 @@
+{
+  "id": "transition-two-on-one",
+  "slug": "transition-two-on-one",
+  "title": "2-on-1 Transition",
+  "description": "A continuous fast-break drill: two attackers push against one retreating defender, learning to draw the defender and finish numbers advantages.",
+  "skill": "Conditioning",
+  "level": "intermediate",
+  "ages": ["U12","U14","U16","U18","Adult","Competitive"],
+  "positions": ["ALL"],
+  "players": "3+",
+  "equipment": ["Basketball"],
+  "durationMin": 10,
+  "intensity": "high",
+  "goal": "Train attacking 2-on-1 advantages at speed: draw the defender, make the simple pass, and finish — then sprint back on defense.",
+  "setup": [
+    "One defender starts at half-court; two offensive players start at the baseline with the ball.",
+    "Set up lines at both ends so the drill runs continuously — the next group goes as soon as the previous finishes.",
+    "After the rep, the two offensive players become the next defenders and sprint back."
+  ],
+  "instructions": [
+    {"title": "Push the ball up the floor", "detail": "The ball-handler advances quickly up the sideline while the second attacker runs the opposite lane wide."},
+    {"title": "Draw the defender", "detail": "Attack the lone defender's shoulder — force them to commit to you before making any pass."},
+    {"title": "Make the simple play", "detail": "Pass to the open teammate for the layup, or keep it and finish if the defender takes the pass away. No fancy passes."},
+    {"title": "Sprint back on defense", "detail": "After the finish, both attackers sprint back to become the next 2-on-1 defenders — the drill never stops."},
+    {"title": "Run continuous waves", "detail": "Keep waves coming for 10 minutes; count team makes and challenge the group to beat their best streak."}
+  ],
+  "coachingPoints": [
+    "The defender can only guard one player — attack their commitment and take what they give you.",
+    "Passes must be on time and on target; a late pass in 2-on-1 lets the defender recover.",
+    "Finish strong at the rim — 2-on-1 should be a layup, not a contested jumper.",
+    "Defender: sprint back, stop the ball first, then take away the most dangerous pass."
+  ],
+  "commonMistakes": [
+    "Passing too early before the defender commits — the pass gets picked off or the receiver is still covered.",
+    "Jogging back on defense — transition defense starts with the sprint, not the setup."
+  ],
+  "progression": "Make it 2-on-1 plus a trailing defender (2-on-2), require the finish within 5 seconds, or start the offense from a defensive rebound outlet.",
+  "regression": "Walk through the lanes first, remove the sprint-back requirement, or run it 2-on-0 to groove the spacing.",
+  "gameApplication": "Games are won in transition — this drill builds the decision-making and finishing that turn defensive stops into layups before the defense sets.",
+  "related": ["three-man-weave","full-court-finishing","one-on-one-live"],
+  "dateUpdated": "2026-10-06"
+}

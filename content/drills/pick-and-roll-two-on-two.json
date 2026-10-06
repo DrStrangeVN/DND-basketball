@@ -1,0 +1,42 @@
+{
+  "id": "pick-and-roll-two-on-two",
+  "slug": "pick-and-roll-two-on-two",
+  "title": "2-on-2 Pick & Roll",
+  "description": "Live two-on-two from a ball screen: the ball handler reads the coverage while the roller and defenders battle through every coverage type.",
+  "skill": "Finishing",
+  "level": "advanced",
+  "ages": ["U16","U18","Adult","Competitive"],
+  "positions": ["ALL"],
+  "players": "4",
+  "equipment": ["Basketball"],
+  "durationMin": 15,
+  "intensity": "high",
+  "goal": "Develop live pick-and-roll reads — ball handler decisions, roller timing, and defensive coverages — in a competitive 2-on-2 setting.",
+  "setup": [
+    "Two offensive players (ball handler + screener) start at the top; two defenders matched up.",
+    "A coach calls the defensive coverage before each rep: drop, hedge, switch, or blitz.",
+    "Play to a set score (e.g., first to 7) with makes and stops both counting."
+  ],
+  "instructions": [
+    {"title": "Set the screen with purpose", "detail": "Screener sprints to set a legal, angled screen — no slipping early unless the coverage invites it."},
+    {"title": "Ball handler reads the coverage", "detail": "Use the screen and read the two defenders: reject if they cheat, snake if they trail, split if they hedge soft."},
+    {"title": "Roller times the roll", "detail": "Roller holds the screen for a two-count, then rolls hard to the rim with hands ready — or pops if the coverage drops deep."},
+    {"title": "Play it live", "detail": "Play the possession out — the offense can pass, drive, or shoot; the defense must communicate the coverage and rotate."},
+    {"title": "Rotate coverages", "detail": "Change the called coverage every 3 reps so the offense sees drop, hedge, switch, and blitz in one session."}
+  ],
+  "coachingPoints": [
+    "The screen angle decides everything — a flat screen lets the defender slide through; an angled screen forces a real decision.",
+    "Ball handler: get downhill off the screen — drifting sideways lets both defenders recover.",
+    "Roller: roll with purpose to the rim, not to the spot where you set the screen.",
+    "Defenders: call the coverage early and loud — late communication in pick-and-roll is a layup."
+  ],
+  "commonMistakes": [
+    "Rolling before the screen lands — a moving screen is a turnover and the ball handler has no advantage.",
+    "Ball handler predetermining the read — read the defenders' hips and positioning, not the plan in your head."
+  ],
+  "progression": "Add a third defender as a low-man tagger (2-on-3), let the defense choose coverage without announcing it, or play full-court 2-on-2 starting with a ball screen.",
+  "regression": "Walk through each coverage first, go 2-on-1 with only the ball-handler's defender live, or script the read (e.g., 'today we only attack the drop').",
+  "gameApplication": "The pick-and-roll is the most-run action in modern basketball — live 2-on-2 reps build the reads that turn ball screens into efficient offense.",
+  "related": ["one-on-one-live","shell-drill","closeout-drill"],
+  "dateUpdated": "2026-10-06"
+}

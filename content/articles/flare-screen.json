@@ -1,0 +1,131 @@
+{
+  "id": "flare-screen",
+  "slug": "flare-screen",
+  "title": "Flare Screens",
+  "description": "The screener angles the cutter away from the ball toward the sideline — a deadly counter for shooters.",
+  "hub": "tactics",
+  "subcategory": "offensive-actions",
+  "level": "advanced",
+  "ages": [
+    "U16",
+    "U18",
+    "Adult",
+    "Competitive"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "tags": [
+    "flare screen",
+    "screens",
+    "shooting",
+    "counters"
+  ],
+  "readTime": 5,
+  "whatIsIt": [
+    "A flare screen sends the cutter away from the ball toward the sideline — the opposite direction of most screens. The screener sets up facing the baseline and the shooter flares out to the wing for a catch-and-shoot three.",
+    "It's a counter punch. Defenses are drilled to chase shooters coming toward the ball (pin downs, curls); the flare goes the other way, and defenders' momentum carries them the wrong direction.",
+    "Flare screens are also a great mismatch tool: when the defense switches, the screener — often a big — suddenly has a small defender to exploit."
+  ],
+  "whyItMatters": [
+    "The flare attacks the defense's habits. After fighting through pin downs all game, defenders lean toward the ball — and the flare goes exactly where they aren't. It's the screen that keeps every other screen honest."
+  ],
+  "howTo": [
+    {
+      "title": "Angle the screen to the sideline",
+      "detail": "The screener faces the baseline/sideline area, setting the screen so the cutter's path leads away from the ball. The angle is the whole play."
+    },
+    {
+      "title": "Shooter: sell inside, flare out",
+      "detail": "Take a step toward the ball or the basket first, then explode to the flare. The fake is what gets the defender leaning wrong."
+    },
+    {
+      "title": "Sprint to the three-point line",
+      "detail": "The flare usually ends at the wing three. Full speed — the window closes fast."
+    },
+    {
+      "title": "Catch and shoot in rhythm",
+      "detail": "Feet set as you catch, straight into the shot. Flare threes are rhythm shots; hesitation kills them."
+    },
+    {
+      "title": "Read the switch",
+      "detail": "If the defense switches the flare, look immediately for the mismatch — the screener posting a guard, or the shooter attacking a big."
+    }
+  ],
+  "coachingPoints": [
+    "The angle must be taught precisely — a bad flare angle screens nobody.",
+    "Drill the shooter's setup fake; without it, the defender just follows.",
+    "Teach the switch read early — flares create switches constantly.",
+    "Pair flares with pin downs in practice so players feel the contrast."
+  ],
+  "commonMistakes": [
+    "Setting the flare at a pin-down angle, sending the cutter into traffic.",
+    "No setup fake, so the defender simply mirrors the cut.",
+    "Catching and holding instead of shooting in rhythm."
+  ],
+  "gameSituations": [
+    "As a counter when the defense is jumping your pin downs and curls.",
+    "Against switching defenses to manufacture mismatches.",
+    "For elite shooters who need a changeup look after repeated pin downs."
+  ],
+  "diagram": {
+    "title": "Flare screen: cutter sprints away from the ball",
+    "offense": [
+      {
+        "label": "O2",
+        "x": 50,
+        "y": 60
+      },
+      {
+        "label": "O5",
+        "x": 56,
+        "y": 60
+      },
+      {
+        "label": "O1",
+        "x": 30,
+        "y": 72
+      },
+      {
+        "label": "O3",
+        "x": 80,
+        "y": 55
+      }
+    ],
+    "defense": [
+      {
+        "label": "X2",
+        "x": 48,
+        "y": 56
+      }
+    ],
+    "ball": "O1",
+    "screens": [
+      {
+        "x": 54,
+        "y": 60
+      }
+    ],
+    "moves": [
+      {
+        "from": "O2",
+        "to": "O3",
+        "kind": "cut"
+      }
+    ],
+    "passes": [
+      {
+        "from": "O1",
+        "to": "O2"
+      }
+    ],
+    "shots": []
+  },
+  "related": [
+    "pin-down-screen",
+    "stagger-screen",
+    "screening-basketball",
+    "zoom-action"
+  ],
+  "dateUpdated": "2026-10-06"
+}

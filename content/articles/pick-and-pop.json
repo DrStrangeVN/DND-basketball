@@ -1,0 +1,137 @@
+{
+  "id": "pick-and-pop",
+  "slug": "pick-and-pop",
+  "title": "Pick & Pop",
+  "description": "Instead of rolling, the screener pops out to space for a jumper after setting the screen.",
+  "hub": "pick-and-roll",
+  "subcategory": "pick-and-roll",
+  "level": "intermediate",
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult",
+    "Competitive"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "tags": [
+    "pick and pop",
+    "shooting",
+    "pick and roll",
+    "spacing"
+  ],
+  "readTime": 5,
+  "whatIsIt": [
+    "The pick-and-pop is the pick-and-roll's twin: the screener sets the screen, then instead of rolling to the rim, pops out to the perimeter — usually the top or the wing — for an open jump shot.",
+    "It punishes defenses that overcommit to the roll. When the screener's defender sinks to protect the paint or helps on the ball, the pop leaves them too far away to contest the jumper.",
+    "The pop turned shooting bigs into offensive weapons. A center who can set a real screen and then knock down a three warps the entire defense."
+  ],
+  "whyItMatters": [
+    "Roll-only bigs let the defense keep its rim protector home. A pop threat drags that protector out of the paint, which opens driving lanes for guards and cutting lanes for everyone else. Even the threat of the pop changes how defenses guard the screen."
+  ],
+  "howTo": [
+    {
+      "title": "Set a real screen first",
+      "detail": "The pop only works if the screen is genuine. Lazy screens let both defenders stay attached, and the pop is contested."
+    },
+    {
+      "title": "Read your defender",
+      "detail": "If they drop toward the rim or help on the ball, pop. If they stay attached to you, roll instead — take what they give."
+    },
+    {
+      "title": "Pop to space, not to a spot",
+      "detail": "Flare to the open area where your defender can't recover — usually up and out, away from the ball handler's drive."
+    },
+    {
+      "title": "Be shot-ready on the catch",
+      "detail": "Feet set, hands ready, eyes on the rim as you pop. The window is short; preparation is everything."
+    },
+    {
+      "title": "Keep the roll as a counter",
+      "detail": "If the defense starts flying out at your pop, slip or roll the next time. The threat of both is what makes each one work."
+    }
+  ],
+  "coachingPoints": [
+    "Bigs must practice pick-and-pop footwork: screen, pivot out, sprint to the spot — it's a specific movement pattern.",
+    "Teach the read, not a rule: pop vs roll is decided by the defender, never predetermined.",
+    "The ball handler must look for the pop early — late passes get contested.",
+    "Rebounding: poppers are far from the rim, so guards must crash when the pop goes up."
+  ],
+  "commonMistakes": [
+    "Popping before setting the screen — no contact means no separation.",
+    "Popping into the ball handler's driving lane and clogging the play.",
+    "Predetermining the pop and ignoring a wide-open roll to the rim."
+  ],
+  "gameSituations": [
+    "With a shooting big against a drop-coverage defense that sinks to the paint.",
+    "When the defense is over-helping on the roll and leaving the perimeter.",
+    "Late-game needing a three: pick-and-pop for your best shooting big."
+  ],
+  "diagram": {
+    "title": "Pick-and-pop: screener flares to the arc for the jumper",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 76
+      },
+      {
+        "label": "O5",
+        "x": 57,
+        "y": 68
+      },
+      {
+        "label": "O3",
+        "x": 78,
+        "y": 60
+      }
+    ],
+    "defense": [
+      {
+        "label": "X1",
+        "x": 47,
+        "y": 69
+      },
+      {
+        "label": "X5",
+        "x": 58,
+        "y": 58
+      }
+    ],
+    "ball": "O1",
+    "screens": [
+      {
+        "x": 57,
+        "y": 68
+      }
+    ],
+    "moves": [
+      {
+        "from": "O1",
+        "to": "O3",
+        "kind": "dribble"
+      },
+      {
+        "from": "O5",
+        "to": "O1",
+        "kind": "move"
+      }
+    ],
+    "passes": [
+      {
+        "from": "O1",
+        "to": "O5"
+      }
+    ],
+    "shots": []
+  },
+  "related": [
+    "pick-and-roll-basics",
+    "screen-angle",
+    "ball-handler-reads",
+    "horns-pick-and-roll"
+  ],
+  "dateUpdated": "2026-10-06"
+}

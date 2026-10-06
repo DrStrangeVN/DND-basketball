@@ -1,0 +1,16 @@
+{
+  "id": "defensive-specialist-path",
+  "slug": "defensive-specialist-path",
+  "title": "Defensive Specialist",
+  "description": "Become the defender every coach trusts: elite stance, on-ball toughness, closeout discipline, help rotations, and ball-screen coverages.",
+  "level": "intermediate",
+  "audience": "Players who want to earn minutes through defense",
+  "steps": [
+    {"title": "Level 1 — Stance and Slides", "description": "Build the low, balanced defensive stance and lateral quickness that all defense starts from.", "articles": ["defensive-stance", "on-ball-defense"]},
+    {"title": "Level 2 — Close Out Right", "description": "Learn to sprint at shooters under control — contest the shot without giving up the drive.", "articles": ["closeout-defense"]},
+    {"title": "Level 3 — Help Your Team", "description": "Understand help-side positioning, rotations, and how to protect the paint without losing your man.", "articles": ["help-defense"]},
+    {"title": "Level 4 — Guard the Ball Screen", "description": "Master the main pick-and-roll coverages — switch, hedge, and drop — and know when to use each.", "articles": ["ball-screen-defense", "switch-defense"]},
+    {"title": "Level 5 — Finish the Possession", "description": "End every defensive stand with a box-out and a secured rebound.", "articles": ["box-out"]}
+  ],
+  "dateUpdated": "2026-10-06"
+}

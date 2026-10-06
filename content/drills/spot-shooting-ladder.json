@@ -1,0 +1,42 @@
+{
+  "id": "spot-shooting-ladder",
+  "slug": "spot-shooting-ladder",
+  "title": "Spot Shooting Ladder",
+  "description": "A structured circuit around the arc that builds range, footwork rhythm, and makes shooting volume fun and trackable.",
+  "skill": "Shooting",
+  "level": "beginner",
+  "ages": ["U12","U14","U16","U18","Adult"],
+  "positions": ["ALL"],
+  "players": "1",
+  "equipment": ["Basketball","Cones"],
+  "durationMin": 12,
+  "intensity": "medium",
+  "goal": "Develop range and consistent shot preparation by shooting a set number of makes from five spots around the arc.",
+  "setup": [
+    "Place 5 cones in a ladder around the basket: right corner, right wing, top of the key, left wing, left corner.",
+    "Start at the right corner cone, about midrange distance — move the cones back as you improve.",
+    "Bring your own ball or work with a rebounder; have a phone ready to log makes."
+  ],
+  "instructions": [
+    {"title": "Make 5 at spot one", "detail": "Shoot until you make 5 from the right corner, then move to the next cone — no skipping spots."},
+    {"title": "Keep feet ready", "detail": "Arrive at each spot with feet set, knees bent, and hands ready before you catch the ball."},
+    {"title": "Catch low and lift", "detail": "Catch the ball low and lift straight into your shot in one smooth motion — no dipping or pausing."},
+    {"title": "Run the ladder twice", "detail": "Complete all 5 spots (25 makes), then run the ladder back down in reverse order for a second round."},
+    {"title": "Score yourself", "detail": "Count total attempts across both rounds and try to beat your score next session."}
+  ],
+  "coachingPoints": [
+    "Same shot preparation at every spot — don't let the corner change your form.",
+    "Hold your follow-through and track the ball with your eyes.",
+    "Move between spots with urgency but reset your feet completely before shooting.",
+    "Breathe out on the release to stay relaxed."
+  ],
+  "commonMistakes": [
+    "Rushing the release without set feet — misses long and short come from sloppy preparation, not the arms.",
+    "Drifting sideways on corner threes — stay vertical and land balanced."
+  ],
+  "progression": "Move every spot back to the three-point line, add a one-dribble relocation between spots, or require consecutive makes before advancing.",
+  "regression": "Shorten the ladder to 3 spots (right wing, top, left wing) and shoot from 8-10 feet instead of the arc.",
+  "gameApplication": "Games reward shooters who are ready in any spot — this drill trains the footwork and rhythm you need off drive-and-kick and skip passes.",
+  "related": ["form-shooting","three-point-star","free-throw-routine"],
+  "dateUpdated": "2026-10-06"
+}

@@ -1,0 +1,122 @@
+{
+  "id": "screen-angle",
+  "slug": "screen-angle",
+  "title": "Screen Angles",
+  "description": "The angle of the screen decides where the ball handler can go — master it and you control the defense.",
+  "hub": "pick-and-roll",
+  "subcategory": "pick-and-roll",
+  "level": "intermediate",
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult",
+    "Competitive"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "tags": [
+    "pick and roll",
+    "screens",
+    "angles",
+    "technique"
+  ],
+  "readTime": 5,
+  "whatIsIt": [
+    "Screen angle is the direction the screener's chest and feet face when the screen is set. That angle is a steering wheel: it determines which direction the ball handler is funneled and which defender gets screened out of the play.",
+    "A flat screen (parallel to the baseline) sends the ball handler downhill toward the middle. An angled screen (turned toward the sideline) pushes them toward the sideline. A step-up screen flips the angle to attack the middle from the wing.",
+    "Elite screeners adjust the angle based on the coverage they expect. The angle is set before contact — once the screen is live, it cannot move."
+  ],
+  "whyItMatters": [
+    "Most failed pick-and-rolls fail at the angle, not the effort. A bad angle screens your own teammate, gives the on-ball defender an easy slide-through, or funnels the ball handler into help. A great angle creates the advantage before the dribble even starts."
+  ],
+  "howTo": [
+    {
+      "title": "Square to the defender's path",
+      "detail": "Point your chest at where the on-ball defender is going, not at your teammate. You are blocking the defender's route."
+    },
+    {
+      "title": "Choose middle or sideline",
+      "detail": "Middle pick-and-rolls give the ball handler the whole floor; side pick-and-rolls use the sideline as an extra defender for you. Decide with your coach before the game."
+    },
+    {
+      "title": "Set the angle early",
+      "detail": "Sprint to the spot and set your feet before the ball handler arrives. Adjusting late is a moving screen."
+    },
+    {
+      "title": "Stay still on contact",
+      "detail": "Once set, freeze. Feet wide, knees bent, arms in. The angle only works if the screen is legal."
+    },
+    {
+      "title": "Re-screen if they go under",
+      "detail": "If the defense goes under and the action dies, flip and set it again immediately. The second screen usually gets a cleaner angle because the defense is already reacting."
+    }
+  ],
+  "coachingPoints": [
+    "Walk players through angles without defense first — most young screeners have never thought about direction.",
+    "Use cones to mark the defender's path and have screeners square to it.",
+    "Film the screen from the baseline angle; players are shocked how often they screen air.",
+    "Teach the re-screen as a habit, not a bailout — great PNR teams screen twice."
+  ],
+  "commonMistakes": [
+    "Facing the ball handler instead of the defender's path, screening nobody.",
+    "Setting the screen too high or too wide, giving the defender an easy under route.",
+    "Moving the feet on contact and turning a great angle into an offensive foul."
+  ],
+  "gameSituations": [
+    "Attacking a specific defender: angle the screen to force the switch or the mismatch you want.",
+    "Against ICE coverage, where the angle decides whether the sideline trap works.",
+    "End-of-game: one perfectly angled screen is often the whole play."
+  ],
+  "diagram": {
+    "title": "Angled screen steering the ball handler middle",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 68,
+        "y": 72
+      },
+      {
+        "label": "O5",
+        "x": 62,
+        "y": 66
+      }
+    ],
+    "defense": [
+      {
+        "label": "X1",
+        "x": 70,
+        "y": 66
+      },
+      {
+        "label": "X5",
+        "x": 58,
+        "y": 58
+      }
+    ],
+    "ball": "O1",
+    "screens": [
+      {
+        "x": 63,
+        "y": 66
+      }
+    ],
+    "moves": [
+      {
+        "from": "O1",
+        "to": "O5",
+        "kind": "dribble"
+      }
+    ],
+    "passes": [],
+    "shots": []
+  },
+  "related": [
+    "pick-and-roll-basics",
+    "ball-handler-reads",
+    "reject-screen",
+    "ghost-screen"
+  ],
+  "dateUpdated": "2026-10-06"
+}

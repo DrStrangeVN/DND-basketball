@@ -1,0 +1,42 @@
+{
+  "id": "three-man-weave",
+  "slug": "three-man-weave",
+  "title": "3-Man Weave",
+  "description": "The classic three-player full-court passing drill that trains lead passes, catching on the move, and communication at speed.",
+  "skill": "Passing",
+  "level": "beginner",
+  "ages": ["U10","U12","U14","U16","U18","Adult"],
+  "positions": ["ALL"],
+  "players": "3+",
+  "equipment": ["Basketball"],
+  "durationMin": 10,
+  "intensity": "medium",
+  "goal": "Develop accurate lead passing and full-speed catching while running the floor in a coordinated three-man pattern.",
+  "setup": [
+    "Three players line up across the baseline: middle player has the ball, two on the wings.",
+    "You need a full court; groups of 3 rotate through with the next trio starting when the first reaches half-court.",
+    "Two balls can be used with larger groups to keep everyone moving."
+  ],
+  "instructions": [
+    {"title": "Pass and cut behind", "detail": "Middle player passes to a wing and cuts behind that receiver; the wing then passes to the opposite wing cutting behind in turn."},
+    {"title": "Keep it moving downcourt", "detail": "Continue the pass-and-go-behind pattern the full length of the court — the ball should never stop."},
+    {"title": "Finish with a layup", "detail": "The player who receives the final pass near the rim finishes a layup; the other two follow for the rebound and putback."},
+    {"title": "Rotate and go again", "detail": "The next trio starts as soon as the first crosses half-court; each group runs 4 trips down the floor."},
+    {"title": "No-dribble challenge", "detail": "Final round: the ball cannot touch the floor at all — every pass must lead the runner perfectly."}
+  ],
+  "coachingPoints": [
+    "Pass to where the runner is going, not where they are — lead the target by two steps.",
+    "Throw chest passes with snap; lobbed passes slow the whole drill down.",
+    "Cut behind the player you passed to — the weave only works if everyone goes behind.",
+    "Talk: call out names and 'ball!' so passes arrive on time."
+  ],
+  "commonMistakes": [
+    "Passing behind the runner — a pass at the hips forces a stop and kills the flow.",
+    "Cutting in front instead of behind — this breaks the pattern and causes collisions."
+  ],
+  "progression": "No-dribble the entire drill, add a trailing defender chasing the ball, or finish with a pull-up jumper instead of a layup.",
+  "regression": "Walk through the pattern first, allow one dribble per catch, or shorten to half-court weaves.",
+  "gameApplication": "Fast breaks live and die on lead passes — this drill builds the timing and accuracy that turn defensive stops into easy baskets.",
+  "related": ["skip-pass-shooting","transition-two-on-one"],
+  "dateUpdated": "2026-10-06"
+}

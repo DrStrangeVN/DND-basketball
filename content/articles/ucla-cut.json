@@ -1,0 +1,128 @@
+{
+  "id": "ucla-cut",
+  "slug": "ucla-cut",
+  "title": "UCLA Cut",
+  "description": "Pass to the wing, then cut off a high-post screen to the basket — the timeless backdoor of team offense.",
+  "hub": "tactics",
+  "subcategory": "offensive-actions",
+  "level": "beginner",
+  "ages": [
+    "U10",
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "tags": [
+    "ucla cut",
+    "cutting",
+    "backdoor",
+    "fundamentals"
+  ],
+  "readTime": 4,
+  "whatIsIt": [
+    "The UCLA cut is one of basketball's oldest and simplest actions: the guard passes to the wing, then cuts off a screen set by the high-post player, straight to the basket. It's named after John Wooden's UCLA dynasty, which ran it to perfection.",
+    "It works because the defender naturally relaxes after the pass — their man just gave up the ball, so why stay attached? The screen and the hard cut punish that relaxation with a layup.",
+    "Every player should learn the UCLA cut early. It teaches the two habits that power all off-ball offense: pass and move, and use a screen with purpose."
+  ],
+  "whyItMatters": [
+    "The UCLA cut is the purest expression of team basketball: give up the ball, use a teammate, get a layup. It punishes the most common defensive sin — relaxing off the ball — and it works at every level from youth leagues to the pros."
+  ],
+  "howTo": [
+    {
+      "title": "Pass to the wing",
+      "detail": "Make a crisp pass to the wing and take one step toward the ball — the setup sells that you're clearing out."
+    },
+    {
+      "title": "Cut hard off the high screen",
+      "detail": "The high-post player sets a screen on your defender. Explode off it shoulder-to-shoulder, straight to the rim."
+    },
+    {
+      "title": "Show a target",
+      "detail": "As you cut, show the passer a hand. The pass should lead you to the basket for a layup."
+    },
+    {
+      "title": "Clear through if covered",
+      "detail": "If the pass isn't there, cut all the way through to the opposite corner. Don't stop in the paint."
+    },
+    {
+      "title": "Screener: read and react",
+      "detail": "After screening, the high-post player can pop back out or roll — the defense's reaction decides."
+    }
+  ],
+  "coachingPoints": [
+    "Perfect first action for young teams — it teaches passing, screening, and cutting in one rep.",
+    "Demand the cut at full speed; a jogging UCLA cut never gets open.",
+    "The screener must be set before the cutter arrives — timing drill it.",
+    "Praise the pass-and-cut habit even when the layup isn't there."
+  ],
+  "commonMistakes": [
+    "Standing and admiring the pass instead of cutting immediately.",
+    "Cutting wide around the screen, giving the defender room to follow.",
+    "The wing holding the ball too long and missing the cutting window."
+  ],
+  "gameSituations": [
+    "Against defenders who relax after their man passes.",
+    "As a youth offense staple — simple, effective, educational.",
+    "When the defense is overplaying the wings and the middle is soft."
+  ],
+  "diagram": {
+    "title": "UCLA cut: pass to wing, cut off the high screen",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 74
+      },
+      {
+        "label": "O2",
+        "x": 76,
+        "y": 58
+      },
+      {
+        "label": "O5",
+        "x": 50,
+        "y": 58
+      }
+    ],
+    "defense": [
+      {
+        "label": "X1",
+        "x": 50,
+        "y": 68
+      }
+    ],
+    "ball": "O2",
+    "screens": [
+      {
+        "x": 50,
+        "y": 62
+      }
+    ],
+    "moves": [
+      {
+        "from": "O1",
+        "to": "O5",
+        "kind": "cut"
+      }
+    ],
+    "passes": [
+      {
+        "from": "O1",
+        "to": "O2"
+      }
+    ],
+    "shots": []
+  },
+  "related": [
+    "screening-basketball",
+    "cutting-basketball",
+    "motion-offense",
+    "iverson-cut"
+  ],
+  "dateUpdated": "2026-10-06"
+}

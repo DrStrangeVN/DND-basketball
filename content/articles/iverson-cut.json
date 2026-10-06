@@ -1,0 +1,136 @@
+{
+  "id": "iverson-cut",
+  "slug": "iverson-cut",
+  "title": "Iverson Cut",
+  "description": "The shooter sprints across the top, using screens on both elbows — named after Allen Iverson.",
+  "hub": "tactics",
+  "subcategory": "offensive-actions",
+  "level": "intermediate",
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult",
+    "Competitive"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "tags": [
+    "iverson cut",
+    "screens",
+    "shooter actions",
+    "off-ball"
+  ],
+  "readTime": 5,
+  "whatIsIt": [
+    "The Iverson cut is an off-ball action where a player starts on one wing, sprints across the top of the key, and uses screens set at both elbows — catching the ball on the opposite wing. It's named after Allen Iverson, who ran it endlessly in Philadelphia.",
+    "The cut does two things at once: it can free the cutter for a catch-and-shoot, and it reverses the ball to the weak side, shifting the entire defense. Even when the cutter doesn't get the ball, the action creates the next advantage.",
+    "It's a staple entry in modern offenses — simple, fast, and useful as the first action that flows into pick-and-roll or DHO on the catch."
+  ],
+  "whyItMatters": [
+    "The Iverson cut reverses the ball and moves a shooter at the same time — two valuable things in one action. It's also the perfect setup: the cutter often catches and immediately flows into a ball screen or handoff with a running start."
+  ],
+  "howTo": [
+    {
+      "title": "Start on the wing, time the cut",
+      "detail": "Begin on one wing as the ball is on the opposite side. Sprint — don't jog — across the top as the ball swings."
+    },
+    {
+      "title": "Use both elbow screens",
+      "detail": "Bigs at the elbows screen the cutter's defender. Go shoulder-to-shoulder; the second screen is often the one that actually frees you."
+    },
+    {
+      "title": "Catch on the move",
+      "detail": "Receive the ball on the opposite wing with momentum. You're now in triple threat with the defense shifted."
+    },
+    {
+      "title": "Flow into the next action",
+      "detail": "Don't hold it — the catch flows into a DHO, a ball screen, or an attack. The Iverson cut is a setup, not a destination."
+    },
+    {
+      "title": "Read the defender",
+      "detail": "If they trail, curl. If they go under the screens, pop for the jumper. If they switch, you may have a mismatch to attack."
+    }
+  ],
+  "coachingPoints": [
+    "Full speed is non-negotiable — a jogging Iverson cut is just a slow walk across the court.",
+    "The elbow screeners must be set and legal before the cutter arrives.",
+    "Teach the catch-and-go: the value is in what happens after the catch.",
+    "Use it as an entry, then let players choose the next action — it teaches flow."
+  ],
+  "commonMistakes": [
+    "Cutting at half speed, letting the defender cruise through both screens.",
+    "Catching and holding the ball, killing the advantage the cut created.",
+    "Screeners arriving late, so the cutter runs through empty space."
+  ],
+  "gameSituations": [
+    "As a half-court entry to reverse the ball and get a shooter moving.",
+    "Before a ball screen or DHO — the catch comes with momentum.",
+    "Against defenses that overplay the ball side; the cut attacks the shift."
+  ],
+  "diagram": {
+    "title": "Iverson cut: sprint across the top off elbow screens",
+    "offense": [
+      {
+        "label": "O2",
+        "x": 24,
+        "y": 58
+      },
+      {
+        "label": "O5",
+        "x": 42,
+        "y": 62
+      },
+      {
+        "label": "O4",
+        "x": 58,
+        "y": 62
+      },
+      {
+        "label": "O1",
+        "x": 76,
+        "y": 58
+      }
+    ],
+    "defense": [
+      {
+        "label": "X2",
+        "x": 26,
+        "y": 54
+      }
+    ],
+    "ball": "O1",
+    "screens": [
+      {
+        "x": 44,
+        "y": 60
+      },
+      {
+        "x": 56,
+        "y": 60
+      }
+    ],
+    "moves": [
+      {
+        "from": "O2",
+        "to": "O1",
+        "kind": "cut"
+      }
+    ],
+    "passes": [
+      {
+        "from": "O1",
+        "to": "O2"
+      }
+    ],
+    "shots": []
+  },
+  "related": [
+    "floppy-action",
+    "horns-offense",
+    "screening-basketball",
+    "dho-action"
+  ],
+  "dateUpdated": "2026-10-06"
+}

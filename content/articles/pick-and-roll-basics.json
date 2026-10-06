@@ -1,0 +1,142 @@
+{
+  "id": "pick-and-roll-basics",
+  "slug": "pick-and-roll-basics",
+  "title": "Pick & Roll Basics",
+  "description": "The most important two-man action in basketball: one player screens for the ball handler, then rolls or pops.",
+  "hub": "pick-and-roll",
+  "subcategory": "pick-and-roll",
+  "level": "beginner",
+  "ages": [
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult",
+    "Competitive"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "tags": [
+    "pick and roll",
+    "ball screen",
+    "two-man game",
+    "offense"
+  ],
+  "readTime": 6,
+  "whatIsIt": [
+    "The pick-and-roll (PNR) is a two-player action: one offensive player sets a screen (the pick) for the ball handler, and then moves toward the basket (the roll) or out to space (the pop). It is the most-run action in modern basketball at every level.",
+    "What makes it special is the math. The screen momentarily takes one defender out of the play, creating a two-on-one: ball handler and screener against the ball handler's defender and the screener's defender. If both offensive players read correctly, the defense cannot guard both.",
+    "Every advanced concept — Spain PNR, short rolls, snake dribbles — is just a variation on these basics. Master the foundation and the rest becomes readable."
+  ],
+  "whyItMatters": [
+    "Pick-and-roll is the backbone of modern offense because it manufactures an advantage from nothing. Even without a great one-on-one player, a well-run PNR forces the defense to make a decision — and every decision leaves something open. Teams that run it well score efficiently; teams that defend it poorly give up layups and open threes all game."
+  ],
+  "howTo": [
+    {
+      "title": "Set the screen at the right spot",
+      "detail": "The screener sprints to set the screen on the ball handler's defender, usually at the top or on the wing. Feet wide, knees bent, completely still — moving screens are turnovers."
+    },
+    {
+      "title": "Angle the screen",
+      "detail": "The screener's chest should face the defender's path, steering the ball handler toward the middle or the sideline depending on the game plan."
+    },
+    {
+      "title": "Wait for contact",
+      "detail": "The ball handler must be patient — let the defender run into the screen. Going too early wastes the pick and lets the defender slide under."
+    },
+    {
+      "title": "Go shoulder-to-shoulder",
+      "detail": "The ball handler dribbles tight off the screener's hip, forcing the on-ball defender to go over or under. A wide turn gives the defender room to recover."
+    },
+    {
+      "title": "Read the two defenders",
+      "detail": "After the screen, read: did the on-ball defender go over, under, or get stuck? Did the screener's defender drop, hedge, or switch? The answer tells you whether to shoot, drive, or pass."
+    },
+    {
+      "title": "Screener: roll or pop",
+      "detail": "If the screener's defender helps on the ball, roll hard to the rim. If that defender stays back or the screener can shoot, pop out to space for a jumper."
+    }
+  ],
+  "coachingPoints": [
+    "Teach patience first — young players rush the screen and never create real separation.",
+    "The screener should call out the screen and point the ball handler toward the open side.",
+    "Reps at game speed: walk-through PNR teaches nothing about timing and contact.",
+    "Start 2v2 before adding help defenders; let players master the two-on-one read."
+  ],
+  "commonMistakes": [
+    "Slipping the screen every time instead of making contact — no contact, no advantage.",
+    "The ball handler dribbling away from the screen or too wide around it.",
+    "The screener rolling to a spot where their own defender is already waiting.",
+    "Both players looking at each other instead of reading the defense."
+  ],
+  "gameSituations": [
+    "Against any man-to-man defense as a primary half-court weapon.",
+    "When you have a guard who can shoot or a big who can finish — the classic PNR pairing.",
+    "Late-clock: one good screen is often enough to create a shot."
+  ],
+  "diagram": {
+    "title": "Basic pick-and-roll: screen at the top, roll to the rim",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 76
+      },
+      {
+        "label": "O5",
+        "x": 57,
+        "y": 68
+      },
+      {
+        "label": "O3",
+        "x": 80,
+        "y": 55
+      }
+    ],
+    "defense": [
+      {
+        "label": "X1",
+        "x": 48,
+        "y": 70
+      },
+      {
+        "label": "X5",
+        "x": 60,
+        "y": 60
+      }
+    ],
+    "ball": "O1",
+    "screens": [
+      {
+        "x": 57,
+        "y": 68
+      }
+    ],
+    "moves": [
+      {
+        "from": "O1",
+        "to": "O5",
+        "kind": "dribble"
+      },
+      {
+        "from": "O5",
+        "to": "O1",
+        "kind": "cut"
+      }
+    ],
+    "passes": [],
+    "shots": []
+  },
+  "related": [
+    "screen-angle",
+    "ball-handler-reads",
+    "roll-man-reads",
+    "pocket-pass-pnr"
+  ],
+  "references": [
+    "USA Basketball",
+    "FIBA"
+  ],
+  "dateUpdated": "2026-10-06"
+}

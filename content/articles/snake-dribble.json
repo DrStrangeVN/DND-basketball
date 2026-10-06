@@ -1,0 +1,126 @@
+{
+  "id": "snake-dribble",
+  "slug": "snake-dribble",
+  "title": "Snake Dribble",
+  "description": "The ball handler dribbles back toward the screen to re-attack a drop defender who won't come up.",
+  "hub": "pick-and-roll",
+  "subcategory": "pick-and-roll",
+  "level": "advanced",
+  "ages": [
+    "U16",
+    "U18",
+    "Adult",
+    "Competitive"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "tags": [
+    "pick and roll",
+    "snake",
+    "drop coverage",
+    "advanced"
+  ],
+  "readTime": 5,
+  "whatIsIt": [
+    "The snake dribble is a counter to drop coverage. When the screener's defender drops deep to protect the rim, the ball handler — instead of settling for a pull-up — dribbles back toward the screen (snaking behind it), keeping the big on their back and re-attacking downhill.",
+    "The move keeps the drop defender in jail: they are behind the play, the on-ball defender is trailing, and the ball handler now has a running start at the rim with the roller beside them. It turns a conservative coverage into a disadvantage.",
+    "It demands elite ball control and patience. Snaking too deep invites the trap; snaking without a plan just burns the shot clock."
+  ],
+  "whyItMatters": [
+    "Drop coverage is designed to take away the rim and dare you to shoot. The snake punishes the drop by refusing the dare — instead of a contested pull-up, you get a downhill attack with the big defender sealed behind you. It is how elite guards destroy conservative defenses."
+  ],
+  "howTo": [
+    {
+      "title": "Recognize the drop",
+      "detail": "As you come off the screen, see the big sinking toward the paint instead of stepping up. That depth is your invitation to snake."
+    },
+    {
+      "title": "Keep the dribble alive and low",
+      "detail": "Stay low, protect the ball with your body, and keep the big on your back hip. A high or loose dribble gets poked away."
+    },
+    {
+      "title": "Snake back behind the screen",
+      "detail": "Dribble laterally back toward the screener, using their body as a shield. You are re-setting the two-on-one with a running start."
+    },
+    {
+      "title": "Attack downhill on the second move",
+      "detail": "Once the big is sealed, explode to the rim. The on-ball defender is trailing and the drop big cannot recover in time."
+    },
+    {
+      "title": "Read the help on the drive",
+      "detail": "If the low man rotates, hit the roller or skip to the corner. The snake creates the same reads as a fresh PNR — just closer to the basket."
+    }
+  ],
+  "coachingPoints": [
+    "Only teach the snake after the pull-up vs drop read is automatic — it is a counter to settling, not a default.",
+    "Emphasize keeping the big on the back hip; losing that seal turns the snake into a trap.",
+    "Drill with a live drop defender — the timing of the re-attack can't be learned against air.",
+    "Count the dribbles: two to snake, two to attack. More than that and the help arrives."
+  ],
+  "commonMistakes": [
+    "Snaking too deep toward the baseline, where the trap and the sideline kill the play.",
+    "Losing the ball on a high dribble while trying to keep the big sealed.",
+    "Snaking when the defense is hedging or switching — the move only beats the drop."
+  ],
+  "gameSituations": [
+    "Against drop coverage with a guard who can finish and a big who rolls hard.",
+    "When the pull-up jumper isn't falling and you need rim pressure another way.",
+    "Late-clock, when one downhill attack is better than a contested jumper."
+  ],
+  "diagram": {
+    "title": "Snake dribble: re-attack behind the screen vs drop",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 44,
+        "y": 66
+      },
+      {
+        "label": "O5",
+        "x": 57,
+        "y": 68
+      }
+    ],
+    "defense": [
+      {
+        "label": "X1",
+        "x": 42,
+        "y": 60
+      },
+      {
+        "label": "X5",
+        "x": 58,
+        "y": 50
+      }
+    ],
+    "ball": "O1",
+    "screens": [
+      {
+        "x": 57,
+        "y": 68
+      }
+    ],
+    "moves": [
+      {
+        "from": "O1",
+        "to": "O5",
+        "kind": "dribble"
+      },
+      {
+        "from": "O5",
+        "to": "O1",
+        "kind": "cut"
+      }
+    ],
+    "passes": [],
+    "shots": []
+  },
+  "related": [
+    "ball-handler-reads",
+    "reject-screen",
+    "pick-and-roll-basics",
+    "pocket-pass-pnr"
+  ],
+  "dateUpdated": "2026-10-06"
+}

@@ -1,0 +1,135 @@
+{
+  "id": "elevator-doors",
+  "slug": "elevator-doors",
+  "title": "Elevator Doors",
+  "description": "Two screeners close like elevator doors on the shooter's defender — the most dramatic screen in basketball.",
+  "hub": "tactics",
+  "subcategory": "offensive-actions",
+  "level": "advanced",
+  "ages": [
+    "U16",
+    "U18",
+    "Adult",
+    "Competitive"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "tags": [
+    "elevator doors",
+    "screens",
+    "shooter actions",
+    "plays"
+  ],
+  "readTime": 5,
+  "whatIsIt": [
+    "Elevator doors is a shooter action where the shooter runs through a gap between two screeners, who then step together — closing like elevator doors — trapping the chasing defender behind them. The shooter emerges alone at the top for a wide-open three.",
+    "It's the most visually spectacular screen in basketball, and one of the most effective. The defender literally cannot follow; the doors shut them out of the play.",
+    "The action is usually run for an elite shooter coming from the baseline to the top of the key. Timing is everything — the doors must close exactly as the shooter passes through."
+  ],
+  "whyItMatters": [
+    "Elevator doors produce the cleanest look in basketball: a stationary, wide-open three for your best shooter. Defenses know it's coming and still can't stop it when the timing is right — the geometry is simply unfair."
+  ],
+  "howTo": [
+    {
+      "title": "Set the two screeners apart",
+      "detail": "Two bigs stand a few feet apart at the elbows or the top, leaving a gap — the elevator shaft — for the shooter to run through."
+    },
+    {
+      "title": "Shooter sprints through the gap",
+      "detail": "Come from the baseline at full speed, straight through the middle of the two screeners. Don't drift to either side."
+    },
+    {
+      "title": "Close the doors on time",
+      "detail": "As the shooter clears, both screeners step together and seal. The timing must be exact — too early blocks your own shooter, too late lets the defender through."
+    },
+    {
+      "title": "Stay legal",
+      "detail": "The screeners must be set when contact comes. Closing the doors by moving into the defender is an offensive foul — the seal has to be about position, not shoving."
+    },
+    {
+      "title": "Catch and shoot clean",
+      "detail": "The shooter catches at the top with daylight. Feet set, no rush — this is the shot the whole play was built for."
+    }
+  ],
+  "coachingPoints": [
+    "Reps, reps, reps — the timing window is tiny and only comes with practice.",
+    "Emphasize legality: officials watch this play closely, and moving doors get called.",
+    "The passer must deliver on time; the shooter should never wait on the catch.",
+    "Have a counter: if the defense switches the doors, slip a screener to the rim."
+  ],
+  "commonMistakes": [
+    "Closing the doors too early and screening your own shooter.",
+    "Moving into the defender while closing — an easy offensive foul call.",
+    "The shooter running through off-center, letting the defender squeeze past."
+  ],
+  "gameSituations": [
+    "ATO plays for an elite shooter when you absolutely need a three.",
+    "End-of-quarter or end-of-game situations with a set defense.",
+    "After the defense has adjusted to your pin downs and staggers — the ultimate changeup."
+  ],
+  "diagram": {
+    "title": "Elevator doors: screeners close behind the shooter",
+    "offense": [
+      {
+        "label": "O2",
+        "x": 50,
+        "y": 30
+      },
+      {
+        "label": "O5",
+        "x": 44,
+        "y": 58
+      },
+      {
+        "label": "O4",
+        "x": 56,
+        "y": 58
+      },
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 78
+      }
+    ],
+    "defense": [
+      {
+        "label": "X2",
+        "x": 50,
+        "y": 36
+      }
+    ],
+    "ball": "O1",
+    "screens": [
+      {
+        "x": 46,
+        "y": 58
+      },
+      {
+        "x": 54,
+        "y": 58
+      }
+    ],
+    "moves": [
+      {
+        "from": "O2",
+        "to": "O1",
+        "kind": "cut"
+      }
+    ],
+    "passes": [
+      {
+        "from": "O1",
+        "to": "O2"
+      }
+    ],
+    "shots": []
+  },
+  "related": [
+    "stagger-screen",
+    "floppy-action",
+    "pin-down-screen",
+    "iverson-cut"
+  ],
+  "dateUpdated": "2026-10-06"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "mikan-drill",
+  "slug": "mikan-drill",
+  "title": "Mikan Drill",
+  "description": "The classic under-basket alternating layup drill that builds touch, footwork, and ambidextrous finishing right at the rim.",
+  "skill": "Finishing",
+  "level": "beginner",
+  "ages": ["U8","U10","U12","U14","U16","U18","Adult"],
+  "positions": ["ALL"],
+  "players": "1",
+  "equipment": ["Basketball"],
+  "durationMin": 8,
+  "intensity": "low",
+  "goal": "Build soft touch and correct footwork finishing with either hand from directly under the basket.",
+  "setup": [
+    "Stand directly under the basket with the ball.",
+    "Start with the ball in your right hand on the right side of the rim.",
+    "No equipment needed beyond a ball and a hoop."
+  ],
+  "instructions": [
+    {"title": "Right-hand layup off the glass", "detail": "Step with your left foot and lay the ball in with your right hand off the backboard; catch the ball before it hits the floor."},
+    {"title": "Left-hand finish, no bounce", "detail": "Immediately finish with your left hand off your right foot on the left side — the ball should not touch the ground between reps."},
+    {"title": "Keep alternating", "detail": "Alternate right-left-right-left for 2 minutes straight, staying under control and using the backboard every time."},
+    {"title": "Reverse Mikan round", "detail": "For the final 2 minutes, finish on the far side of the rim — same footwork, but sweep the ball under the basket for reverse layups."}
+  ],
+  "coachingPoints": [
+    "Use the backboard on every rep — high on the glass, soft touch.",
+    "Opposite foot, opposite hand: right-hand finish jumps off the left foot.",
+    "Catch the ball out of the net to build quick second-jump timing.",
+    "Eyes on the target spot on the backboard, not the ball."
+  ],
+  "commonMistakes": [
+    "Shooting flat against the board — aim high on the glass so the ball drops in softly.",
+    "Letting the ball hit the floor — keep it continuous to train rebound-to-finish speed."
+  ],
+  "progression": "Add a power dribble before each finish, use a reverse Mikan only, or finish with a jump hook instead of a layup.",
+  "regression": "Slow the pace, allow the ball to bounce once between reps, or stay on one side until the footwork feels natural.",
+  "gameApplication": "Bigs and drivers alike need instant, reliable finishes around the rim — the Mikan drill is the foundation of every putback, drop-off, and seal finish.",
+  "related": ["full-court-finishing","euro-step-finishing","box-out-battle"],
+  "dateUpdated": "2026-10-06"
+}

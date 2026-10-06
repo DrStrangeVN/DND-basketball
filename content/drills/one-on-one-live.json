@@ -1,0 +1,42 @@
+{
+  "id": "one-on-one-live",
+  "slug": "one-on-one-live",
+  "title": "1-on-1 Live",
+  "description": "Competitive one-on-one from the wing with a dribble limit — the purest test of individual offense, on-ball defense, and shot creation.",
+  "skill": "Conditioning",
+  "level": "intermediate",
+  "ages": ["U14","U16","U18","Adult","Competitive"],
+  "positions": ["ALL"],
+  "players": "2",
+  "equipment": ["Basketball"],
+  "durationMin": 12,
+  "intensity": "high",
+  "goal": "Build shot creation, individual defensive toughness, and competitive finishing in a controlled one-on-one environment.",
+  "setup": [
+    "Offense starts on the wing with the ball; defense starts in front in a stance.",
+    "Set a dribble limit — 3 dribbles is the standard — to force quick decisions.",
+    "Play to 5 makes; winner stays on, next challenger rotates in."
+  ],
+  "instructions": [
+    {"title": "Check the ball and go", "detail": "Offense checks the ball to the defender, who returns it — the rep starts on the catch."},
+    {"title": "Attack within the dribble limit", "detail": "Offense has 3 dribbles to create a shot: drive, pull-up, or step-back — no holding the ball."},
+    {"title": "Defense plays to a stop", "detail": "Defender stays in stance, contests without fouling, and boxes out on the shot — a stop means the ball changes hands."},
+    {"title": "Winner stays on", "detail": "Make your shot and you keep the ball; miss or get stopped and you rotate to defense or the back of the line."},
+    {"title": "Rotate spots", "detail": "After each game to 5, move the starting spot — wing, top, corner — so players attack from everywhere."}
+  ],
+  "coachingPoints": [
+    "Offense: attack with a plan — one move and a counter, not five moves and a prayer.",
+    "Defense: stay down in your stance and move your feet; reaching is a foul or a blow-by.",
+    "Use the dribble limit as a teacher — it forces decisive moves instead of dancing with the ball.",
+    "Compete on every rep; 1-on-1 reveals who wants the ball in big moments."
+  ],
+  "commonMistakes": [
+    "Settling for contested jumpers — the best 1-on-1 players get to the rim or create real separation first.",
+    "Defender standing upright — 1-on-1 exposes every lazy stance immediately."
+  ],
+  "progression": "Reduce to 2 dribbles, start from a live catch off a pass, or play 1-on-1 full court for conditioning.",
+  "regression": "Allow unlimited dribbles, start the offense closer to the rim, or make it 1-on-1 with no defense (form reps) for younger players.",
+  "gameApplication": "Late-clock and isolation situations come down to 1-on-1 skill — this drill builds the shot creation and defensive pride that decide close games.",
+  "related": ["closeout-drill","contact-finishing-drill","transition-two-on-one"],
+  "dateUpdated": "2026-10-06"
+}

@@ -1,0 +1,138 @@
+{
+  "id": "ball-handler-reads",
+  "slug": "ball-handler-reads",
+  "title": "Ball Handler Reads",
+  "description": "What the ball handler should see and decide after the screen: shoot, drive, pass, or reject.",
+  "hub": "pick-and-roll",
+  "subcategory": "pick-and-roll",
+  "level": "intermediate",
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult",
+    "Competitive"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "tags": [
+    "pick and roll",
+    "reads",
+    "ball handler",
+    "decision making"
+  ],
+  "readTime": 7,
+  "whatIsIt": [
+    "After the screen is set, the ball handler faces a rapid series of decisions. The two defenders involved will choose a coverage — go over, go under, switch, hedge, blitz, or drop — and each choice opens a different answer.",
+    "Reading a pick-and-roll means processing three things in about one second: where is my defender, where is the screener's defender, and where is the help. Elite ball handlers see all three before the screen even arrives.",
+    "This is a trainable skill. Reads follow patterns — the same coverages produce the same openings every time — so film study and live reps turn slow guessing into instant recognition."
+  ],
+  "whyItMatters": [
+    "The ball handler touches the ball on every pick-and-roll, so their reads decide the outcome of the most-run action in basketball. A guard who reads correctly turns every screen into points; one who guesses turns it into turnovers. This is the core skill separating good guards from great ones."
+  ],
+  "howTo": [
+    {
+      "title": "Read your defender first",
+      "detail": "Did they go over the screen (chase you), go under (give you space), or get stuck? Over means drive or pull-up; under means shoot the open jumper."
+    },
+    {
+      "title": "Read the screener's defender",
+      "detail": "Did they drop (protect the rim), hedge (jump out), blitz (trap), or switch? Drop means pull-up jumper; hedge or blitz means pass to the rolling screener; switch means attack the mismatch."
+    },
+    {
+      "title": "Find the third defender",
+      "detail": "The help defender — often the low man — decides the pass. If they stay home, hit the roller; if they tag the roller, skip to the corner."
+    },
+    {
+      "title": "Take what the defense gives",
+      "detail": "Never force your favorite option. The coverage dictates the answer: over = drive, under = shoot, drop = pull-up, switch = isolate, trap = pass out."
+    },
+    {
+      "title": "Keep your dribble alive",
+      "detail": "Don't pick up the ball until the read is made. A live dribble keeps every option open; a dead dribble kills the possession."
+    },
+    {
+      "title": "Reject when they cheat",
+      "detail": "If your defender tries to jump over the screen early or the screener's defender shows too soon, reject the screen and drive the other way — the defense just gave you a free lane."
+    }
+  ],
+  "coachingPoints": [
+    "Teach one coverage and its answer at a time — master drop coverage reads before adding hedge and switch.",
+    "Use film: pause at the moment of the screen and ask the guard what they see before revealing the outcome.",
+    "Reps must include a live help defender; 2v0 reads don't transfer to games.",
+    "Praise correct reads even on missed shots — process over results builds confident decision-makers."
+  ],
+  "commonMistakes": [
+    "Deciding before the screen — predetermined reads get punished by any decent defense.",
+    "Dribbling with the head down and missing the rolling screener completely.",
+    "Pulling up against a drop when the roller is open, or forcing the pass into a trap.",
+    "Picking up the dribble too early and getting stranded with no options."
+  ],
+  "gameSituations": [
+    "Every pick-and-roll possession — reads are the ball handler's full-time job.",
+    "Against switching defenses, where reading the mismatch quickly is everything.",
+    "Late-game, when the defense shows its coverage early and dares you to beat it."
+  ],
+  "diagram": {
+    "title": "Reading the drop: pull-up jumper vs pocket pass",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 76
+      },
+      {
+        "label": "O5",
+        "x": 57,
+        "y": 68
+      },
+      {
+        "label": "O3",
+        "x": 82,
+        "y": 55
+      }
+    ],
+    "defense": [
+      {
+        "label": "X1",
+        "x": 47,
+        "y": 69
+      },
+      {
+        "label": "X5",
+        "x": 58,
+        "y": 55
+      }
+    ],
+    "ball": "O1",
+    "screens": [
+      {
+        "x": 57,
+        "y": 68
+      }
+    ],
+    "moves": [
+      {
+        "from": "O1",
+        "to": "O3",
+        "kind": "dribble"
+      }
+    ],
+    "passes": [
+      {
+        "from": "O1",
+        "to": "O5"
+      }
+    ],
+    "shots": []
+  },
+  "related": [
+    "pick-and-roll-basics",
+    "screen-angle",
+    "pocket-pass-pnr",
+    "reject-screen",
+    "snake-dribble"
+  ],
+  "dateUpdated": "2026-10-06"
+}

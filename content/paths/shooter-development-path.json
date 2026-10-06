@@ -1,0 +1,16 @@
+{
+  "id": "shooter-development-path",
+  "slug": "shooter-development-path",
+  "title": "Shooter Development",
+  "description": "Become a complete shooter: flawless mechanics, quick preparation, catch-and-shoot range, off-screen shooting, and elite shot selection.",
+  "level": "intermediate",
+  "audience": "Wings and guards who want to become elite shooters",
+  "steps": [
+    {"title": "Level 1 — Build the Shot", "description": "Lock in repeatable shooting mechanics — the foundation every advanced shooting skill depends on.", "articles": ["shooting-mechanics", "shot-preparation"]},
+    {"title": "Level 2 — Catch and Shoot", "description": "Master the catch-and-shoot: footwork, quick release, and shooting off the pass in rhythm.", "articles": ["catch-and-shoot", "free-throw"]},
+    {"title": "Level 3 — Extend Your Range", "description": "Push your range to the three-point line while keeping the same mechanics and preparation.", "articles": ["three-point-shooting"]},
+    {"title": "Level 4 — Shoot on the Move", "description": "Learn to shoot coming off screens — curls, flares, and pin-downs — with balance and speed.", "articles": ["off-screen-shooting", "pin-down-screen"]},
+    {"title": "Level 5 — Choose Your Shots", "description": "Develop shooter IQ: understand which shots help your team and which ones hurt it.", "articles": ["shot-selection-iq"]}
+  ],
+  "dateUpdated": "2026-10-06"
+}

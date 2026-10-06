@@ -1,0 +1,27 @@
+{
+  "id": "big-man-workout",
+  "slug": "big-man-workout",
+  "title": "Big Man Workout",
+  "description": "A 35-minute post and paint session: footwork, seals, hooks, face-up moves, pick-and-roll finishing, and rebounding toughness.",
+  "level": "intermediate",
+  "durationMin": 35,
+  "focus": ["Post Play", "Finishing", "Rebounding", "Pick & Roll"],
+  "equipment": ["Basketball"],
+  "items": [
+    {"name": "Mikan and reverse Mikan", "detail": "2 minutes standard, 2 minutes reverse. Ball never touches the floor; use the glass.", "time": "4:00"},
+    {"name": "Drop-step series", "detail": "Catch on the block, drop-step baseline and middle: 5 makes each side, finishing strong off two feet.", "time": "5:00"},
+    {"name": "Jump-hook series", "detail": "Baby hooks over an imaginary defender: 5 makes each hand, each side. High release, soft touch.", "time": "5:00"},
+    {"name": "Up-and-under counters", "detail": "Shot-fake, step-through finishes: 5 makes each side. Sell the fake with your eyes and shoulders.", "time": "4:00"},
+    {"name": "Face-up moves", "detail": "Catch at the elbow, face up: jab-and-go drives and jab-and-shoot, 5 makes each. Read the defender's feet.", "time": "5:00"},
+    {"name": "Pick-and-roll finishing", "detail": "Sprint to screen a chair, roll hard to the rim, catch and finish: short rolls, lobs, and seals. 10 reps.", "time": "6:00"},
+    {"name": "Rebounding battle", "detail": "Toss the ball off the glass, box out an imaginary man, pursue and chin it. 20 aggressive rebounds.", "time": "3:00"},
+    {"name": "Free-throw finish", "detail": "Bigs shoot free throws too: 10 with your routine. 7+ makes is the standard.", "time": "3:00"}
+  ],
+  "tips": [
+    "Every post move starts with the seal — no seal, no catch, no move.",
+    "Finish off two feet through contact; one-foot floaters are for guards.",
+    "Keep the ball high on every catch — bringing it down invites strips.",
+    "Rebounding is a mindset drill: attack the glass like every miss is yours."
+  ],
+  "dateUpdated": "2026-10-06"
+}

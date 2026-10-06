@@ -1,0 +1,142 @@
+{
+  "id": "roll-man-reads",
+  "slug": "roll-man-reads",
+  "title": "Roll Man Reads",
+  "description": "How the screener reads the defense after the screen: roll hard, short roll, pop, or slip.",
+  "hub": "pick-and-roll",
+  "subcategory": "pick-and-roll",
+  "level": "intermediate",
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult",
+    "Competitive"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "tags": [
+    "pick and roll",
+    "roll man",
+    "screener",
+    "reads"
+  ],
+  "readTime": 6,
+  "whatIsIt": [
+    "The screener's job doesn't end at contact — it starts there. After the screen, the roll man must read the defense in the same split second as the ball handler: is my defender attached to me, helping on the ball, or stuck in between?",
+    "The four main answers are: roll hard to the rim (defender helps on the ball), short roll to the free-throw area (help comes from elsewhere), pop to space (defender drops deep or you can shoot), and slip (your defender jumps out to trap before you set the screen).",
+    "Great roll men are finishers and decision-makers. The modern big must catch on the move, finish through contact, and make the next pass when the defense collapses."
+  ],
+  "whyItMatters": [
+    "The roll man is usually the player with the biggest physical advantage in the action — bigger, closer to the rim, or both. A screener who reads correctly turns every pick-and-roll into a layup, a dunk, or a collapsed defense. A screener who just stands there wastes the entire action."
+  ],
+  "howTo": [
+    {
+      "title": "Make real contact first",
+      "detail": "Set a legal, physical screen. Without contact, the defense never has to choose, and there is nothing to read."
+    },
+    {
+      "title": "Roll when your defender helps",
+      "detail": "If your defender steps toward the ball handler, sprint to the rim with hands ready. This is the default read — roll hard every time until the defense proves otherwise."
+    },
+    {
+      "title": "Short roll against the tag",
+      "detail": "If a help defender rotates to stop your roll (the tag), stop in the pocket around the free-throw line. Catch there and you become the playmaker: shoot, drive, or hit the open shooter."
+    },
+    {
+      "title": "Pop when they drop deep",
+      "detail": "If your defender sinks all the way to the rim to protect against the roll, pop out to your shooting spot instead. Never roll into a defender who is already waiting."
+    },
+    {
+      "title": "Slip the early trap",
+      "detail": "If your defender jumps out to blitz before you even set the screen, slip straight to the basket — the rim is undefended and the pass is easy."
+    },
+    {
+      "title": "Catch ready to decide",
+      "detail": "Hands up, eyes up, feet ready. The catch is not the end of the play — it's the start of the next decision."
+    }
+  ],
+  "coachingPoints": [
+    "Teach roll timing: roll a half-second after the ball handler clears, not at the same moment.",
+    "Hands must be up and calling for the ball — passive rollers don't get passes.",
+    "Drill catching on the move: rolls are caught sprinting, not standing still.",
+    "Bigs must practice the short-roll pass — the modern roll man is a hub, not just a finisher."
+  ],
+  "commonMistakes": [
+    "Rolling soft or jogging — a slow roll lets the defense recover and tag easily.",
+    "Rolling straight into a dropped defender instead of popping or short-rolling.",
+    "Watching the ball handler instead of reading their own defender.",
+    "Catching with hands down, leading to fumbles on perfect passes."
+  ],
+  "gameSituations": [
+    "When the ball handler draws two defenders — the roll is the release valve.",
+    "Against drop coverage, where the roll to the rim is open if timed well.",
+    "With a skilled passing big, the short roll becomes a second playmaking hub."
+  ],
+  "diagram": {
+    "title": "Roll vs short roll: reading the tag defender",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 76
+      },
+      {
+        "label": "O5",
+        "x": 57,
+        "y": 68
+      },
+      {
+        "label": "O4",
+        "x": 80,
+        "y": 40
+      }
+    ],
+    "defense": [
+      {
+        "label": "X1",
+        "x": 47,
+        "y": 69
+      },
+      {
+        "label": "X5",
+        "x": 60,
+        "y": 58
+      },
+      {
+        "label": "X4",
+        "x": 68,
+        "y": 42
+      }
+    ],
+    "ball": "O1",
+    "screens": [
+      {
+        "x": 57,
+        "y": 68
+      }
+    ],
+    "moves": [
+      {
+        "from": "O5",
+        "to": "O1",
+        "kind": "cut"
+      }
+    ],
+    "passes": [
+      {
+        "from": "O1",
+        "to": "O5"
+      }
+    ],
+    "shots": []
+  },
+  "related": [
+    "pick-and-roll-basics",
+    "short-roll",
+    "screen-angle",
+    "pocket-pass-pnr"
+  ],
+  "dateUpdated": "2026-10-06"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "beginner-full-workout",
+  "slug": "beginner-full-workout",
+  "title": "Beginner Full Workout",
+  "description": "A complete 25-minute starter session: dribbling, form shooting, layups, passing, and defense basics — everything a new player needs.",
+  "level": "beginner",
+  "durationMin": 25,
+  "focus": ["Ball Handling", "Shooting", "Finishing", "Passing", "Defense"],
+  "equipment": ["Basketball"],
+  "items": [
+    {"name": "Pound dribble warm-up", "detail": "Stationary pound dribbles: 30 seconds right hand, 30 left, 30 alternating. Eyes up.", "time": "2:00"},
+    {"name": "Crossover basics", "detail": "Low stationary crossovers: 1 minute. Then walking crossovers down the court and back.", "time": "3:00"},
+    {"name": "Form shooting", "detail": "One-hand shots from 4 feet: 5 makes each side and middle. Hold the follow-through.", "time": "4:00"},
+    {"name": "Right-hand layups", "detail": "Dribble from the wing and finish right-hand layups: 5 makes. Right hand, left foot.", "time": "3:00"},
+    {"name": "Left-hand layups", "detail": "Same from the left side: 5 makes with your left hand. It's okay if it's ugly — reps fix it.", "time": "3:00"},
+    {"name": "Passing against the wall", "detail": "Chest passes and bounce passes against a wall: 20 of each, stepping into every pass.", "time": "3:00"},
+    {"name": "Defensive slides", "detail": "Lane slides in a low stance: down and back twice. Stay low, don't cross your feet.", "time": "3:00"},
+    {"name": "Free-throw finish", "detail": "10 free throws. Pick a simple routine (two dribbles, breathe, shoot) and use it every time.", "time": "4:00"}
+  ],
+  "tips": [
+    "Master the basics before adding anything fancy — fundamentals win games.",
+    "Your weak hand deserves half your practice time. It feels awkward now; it won't in a month.",
+    "Rest 30-60 seconds between blocks if you need it. Quality reps beat tired reps.",
+    "Do this workout 3 times a week and you will be shocked how fast you improve."
+  ],
+  "dateUpdated": "2026-10-06"
+}

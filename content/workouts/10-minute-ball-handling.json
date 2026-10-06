@@ -1,0 +1,26 @@
+{
+  "id": "10-minute-ball-handling",
+  "slug": "10-minute-ball-handling",
+  "title": "10-Minute Ball Handling",
+  "description": "A quick daily ball-handling session you can do anywhere — stationary control, weak-hand work, and live moves in just 10 minutes.",
+  "level": "beginner",
+  "durationMin": 10,
+  "focus": ["Ball Handling"],
+  "equipment": ["Basketball"],
+  "items": [
+    {"name": "Warm-up pound dribbles", "detail": "Pound the ball low and hard, 30 seconds right hand, 30 seconds left hand. Eyes up.", "time": "1:00"},
+    {"name": "Figure-8 wraps", "detail": "Wrap the ball around both legs in a figure-8 without dribbling. Low stance, quick hands.", "time": "1:00"},
+    {"name": "Stationary crossovers", "detail": "Low, hard crossovers in front, 30 seconds each direction. Ball stays below the knees.", "time": "1:00"},
+    {"name": "Between-the-legs series", "detail": "Alternate: right leg through, left leg through, then continuous alternating. Stay low.", "time": "1:30"},
+    {"name": "Behind-the-back wraps", "detail": "Stationary behind-the-back dribbles, 30 seconds each direction. Wrap it tight.", "time": "1:00"},
+    {"name": "Walking combos", "detail": "Walk the court: crossover at each line, then between-the-legs coming back. Eyes up.", "time": "2:30"},
+    {"name": "Attack moves", "detail": "From the three-point line: one hard move (crossover, hesitation, or in-and-out) and explode to the rim. Alternate sides.", "time": "2:00"}
+  ],
+  "tips": [
+    "Do this workout daily — 10 minutes of ball handling compounds faster than one long weekly session.",
+    "Eyes up on every drill; looking down builds a habit that breaks in games.",
+    "Pound the ball hard — weak dribbles train weak handles.",
+    "If you lose the ball, reset quickly and keep going. Mistakes are part of the workout."
+  ],
+  "dateUpdated": "2026-10-06"
+}

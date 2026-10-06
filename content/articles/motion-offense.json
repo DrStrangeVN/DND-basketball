@@ -1,0 +1,144 @@
+{
+  "id": "motion-offense",
+  "slug": "motion-offense",
+  "title": "Motion Offense",
+  "description": "A continuous, read-based offense where players pass, cut, and screen instead of running set plays every possession.",
+  "hub": "offense",
+  "subcategory": "team-offense",
+  "level": "intermediate",
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult",
+    "Competitive"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "tags": [
+    "motion",
+    "team offense",
+    "spacing",
+    "cutting",
+    "screening"
+  ],
+  "readTime": 7,
+  "whatIsIt": [
+    "Motion offense is a style of team offense built on constant movement rather than called plays. Instead of following a scripted pattern, players follow a set of rules: pass and cut, screen away, replace yourself, keep the ball moving.",
+    "Every possession is different because every defense is different. The offense flows continuously — a cut becomes a screen, a screen becomes a cut — until the defense breaks down and gives up an open shot, a driving lane, or a post entry.",
+    "Good motion offense looks chaotic to a defender but is disciplined for the attacker. Everyone knows the rules, everyone has spacing discipline, and everyone is a threat on every possession."
+  ],
+  "whyItMatters": [
+    "Motion offense is hard to scout because it has no fixed pattern to prepare for. Defenses cannot load up on tendencies, and young players develop real basketball IQ instead of memorizing plays. It also scales: the same rules work for 3v3, 5v5, youth teams, and elite teams.",
+    "Coaches love it because it teaches decision-making. Players learn to read the defense — if your defender helps, cut backdoor; if the lane opens, drive — which transfers to every other offense they will ever run."
+  ],
+  "howTo": [
+    {
+      "title": "Space the floor on the catch",
+      "detail": "On every catch, the receiver should be 15 to 20 feet from the nearest teammate. Spacing is the engine of motion — without it, cuts and screens jam into each other."
+    },
+    {
+      "title": "Pass and cut or pass and screen",
+      "detail": "After passing, the passer never stands still. Cut through the lane to the opposite side, or screen away for a teammate. Standing after the pass kills the motion."
+    },
+    {
+      "title": "Replace the cutter",
+      "detail": "When a player cuts through the paint, the player on the opposite wing or corner fills the vacated spot. This keeps five-out or four-out spacing intact at all times."
+    },
+    {
+      "title": "Screen away after the second pass",
+      "detail": "If your cut does not produce a shot, turn around and screen away for the next player. On-ball and off-ball screens are the second wave of the attack."
+    },
+    {
+      "title": "Drive on advantage",
+      "detail": "Any time a closeout is long, a defender is off balance, or a screen creates separation, drive aggressively. Motion without dribble penetration rarely creates paint touches."
+    },
+    {
+      "title": "Cut on help",
+      "detail": "When your defender turns their head to help on a drive, cut behind them. Motion offense punishes help defense more than any set play can."
+    }
+  ],
+  "coachingPoints": [
+    "Teach 3 or 4 rules maximum at first — pass and cut, replace, screen away. Add more only when the basics are automatic.",
+    "Use 3v3 and 4v4 small-sided games to teach motion; full 5v5 hides mistakes and slows reps.",
+    "Demand the ball move every 1-2 seconds. A stuck ball lets the defense recover.",
+    "Cuts must be hard and purposeful — jogged cuts are easy to guard and never create advantages.",
+    "Every player must be a screening threat; motion dies when only the bigs screen."
+  ],
+  "commonMistakes": [
+    "Standing and watching after passing — the fix is a hard rule: pass, then move every single time.",
+    "All five players on one side of the floor, which lets two defenders guard three cutters.",
+    "Cutting without looking at the ball — cutters who never see the ball never get open.",
+    "Too many dribbles between actions, which lets the defense reset and kills the flow."
+  ],
+  "gameSituations": [
+    "Teams without a dominant isolation scorer that need everyone to contribute.",
+    "Youth and development teams where learning reads matters more than winning with one play.",
+    "Against aggressive defenses that over-help — motion punishes help with backdoor cuts."
+  ],
+  "diagram": {
+    "title": "Motion offense: pass, cut, and replace",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 74
+      },
+      {
+        "label": "O2",
+        "x": 24,
+        "y": 60
+      },
+      {
+        "label": "O3",
+        "x": 76,
+        "y": 60
+      },
+      {
+        "label": "O5",
+        "x": 50,
+        "y": 30
+      }
+    ],
+    "defense": [
+      {
+        "label": "X1",
+        "x": 50,
+        "y": 69
+      },
+      {
+        "label": "X2",
+        "x": 26,
+        "y": 57
+      }
+    ],
+    "ball": "O1",
+    "screens": [],
+    "moves": [
+      {
+        "from": "O1",
+        "to": "O2",
+        "kind": "cut"
+      }
+    ],
+    "passes": [
+      {
+        "from": "O2",
+        "to": "O1"
+      }
+    ],
+    "shots": []
+  },
+  "related": [
+    "five-out-offense",
+    "four-out-one-in",
+    "cutting-basketball",
+    "screening-basketball"
+  ],
+  "references": [
+    "USA Basketball",
+    "FIBA"
+  ],
+  "dateUpdated": "2026-10-06"
+}

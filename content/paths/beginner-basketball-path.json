@@ -1,0 +1,18 @@
+{
+  "id": "beginner-basketball-path",
+  "slug": "beginner-basketball-path",
+  "title": "Beginner Basketball",
+  "description": "Start from zero: learn the rules, the court, and the core skills — dribbling, shooting, passing, layups, and defense — in the right order.",
+  "level": "beginner",
+  "audience": "New players learning the game for the first time",
+  "steps": [
+    {"title": "Level 1 — Know the Game", "description": "Learn the basic rules and get familiar with the court lines so you know where everything happens.", "articles": ["basketball-rules", "court-and-lines"]},
+    {"title": "Level 2 — Your First Stance", "description": "Master the triple threat position — the foundation stance every offensive skill builds on.", "articles": ["triple-threat", "spacing-basics"]},
+    {"title": "Level 3 — Handle the Ball", "description": "Build stationary dribbling control in both hands with your eyes up.", "articles": ["stationary-dribbling"]},
+    {"title": "Level 4 — Pass with Purpose", "description": "Learn the chest pass — the most-used pass in basketball — with proper footwork and follow-through.", "articles": ["chest-pass"]},
+    {"title": "Level 5 — Shoot It Right", "description": "Develop clean shooting mechanics from close range before adding distance.", "articles": ["shooting-mechanics"]},
+    {"title": "Level 6 — Finish at the Rim", "description": "Learn the basic layup with correct footwork off both sides of the basket.", "articles": ["basic-layup"]},
+    {"title": "Level 7 — Play Defense", "description": "Get into a real defensive stance and learn the fundamentals of guarding your man.", "articles": ["defensive-stance"]}
+  ],
+  "dateUpdated": "2026-10-06"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "box-out-battle",
+  "slug": "box-out-battle",
+  "title": "Box Out Battle",
+  "description": "A competitive two-player rebounding drill: find your man, make contact, seal, and secure the board against live competition.",
+  "skill": "Rebounding",
+  "level": "beginner",
+  "ages": ["U10","U12","U14","U16","U18","Adult"],
+  "positions": ["ALL"],
+  "players": "2+",
+  "equipment": ["Basketball"],
+  "durationMin": 10,
+  "intensity": "medium",
+  "goal": "Build the habit of finding a body, making contact, and sealing before pursuing the rebound.",
+  "setup": [
+    "Pair up: one offensive rebounder, one defender. Start at the elbows or low blocks.",
+    "A coach or third player shoots from the perimeter to start each rep.",
+    "First to 5 secured rebounds wins the round; then swap offense and defense."
+  ],
+  "instructions": [
+    {"title": "Find your man on the shot", "detail": "The moment the shot goes up, the defender turns, finds the offensive player, and makes forearm contact."},
+    {"title": "Seal and drive back", "detail": "Defender pivots into the offensive player, seals with a wide base, and drives them away from the basket."},
+    {"title": "Pursue the ball", "detail": "After contact, both players go after the rebound — the defender keeps the seal until the ball is secured."},
+    {"title": "Finish the rep", "detail": "Whoever grabs the rebound must chin the ball and make a strong outlet pass before the next rep starts."},
+    {"title": "Rotate spots", "detail": "Move the starting positions around the paint — elbows, blocks, short corner — 5 reps each, then switch roles."}
+  ],
+  "coachingPoints": [
+    "Contact first, ball second — players who chase the ball without contact get out-rebounded.",
+    "Wide base and low hips on the seal; a narrow stance gets pushed under the basket.",
+    "Chin the rebound with two hands and elbows out — then outlet, don't dribble into trouble.",
+    "The offensive player should practice the counter: swim move, spin, or quick second jump around the seal."
+  ],
+  "commonMistakes": [
+    "Watching the shot instead of finding a body — by the time you look, the offensive player is already past you.",
+    "Boxing out with arms instead of the body — contact comes from the hips and legs, not a push."
+  ],
+  "progression": "Go 2-on-2 or 3-on-3 with a shot from anywhere, require the offense to tip the ball before securing, or play to 7 with a conditioning penalty for the loser.",
+  "regression": "Start from a stationary box-out hold (no live rebound), slow the pace, or remove the offensive player and practice seal-and-pursue footwork solo.",
+  "gameApplication": "Rebounding is effort plus technique — teams that box out consistently end possessions and create the transition chances that win games.",
+  "related": ["shell-drill","mikan-drill","transition-two-on-one"],
+  "dateUpdated": "2026-10-06"
+}

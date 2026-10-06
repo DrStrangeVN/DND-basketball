@@ -1,0 +1,153 @@
+{
+  "id": "spain-pick-and-roll",
+  "slug": "spain-pick-and-roll",
+  "title": "Spain Pick & Roll",
+  "description": "A standard pick-and-roll with a back screen on the roller's defender — the action that broke modern defenses.",
+  "hub": "pick-and-roll",
+  "subcategory": "pick-and-roll",
+  "level": "elite",
+  "ages": [
+    "U18",
+    "Adult",
+    "Competitive"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "tags": [
+    "spain pnr",
+    "pick and roll",
+    "back screen",
+    "elite offense"
+  ],
+  "readTime": 8,
+  "whatIsIt": [
+    "Spain pick-and-roll starts like any ball screen — then adds a twist: as the screener rolls, a third offensive player sets a back screen on the roller's defender. That back screen is what makes it 'Spain.'",
+    "The genius is in the conflict it creates. The roller's defender is taught to tag the roll or help on the ball — but now someone is screening their back. If they help, the back screener's man is open; if they stay, the roller is open; if the defense switches everything, mismatches appear everywhere.",
+    "Named after the Spanish national team that popularized it internationally, Spain PNR is now a staple of NBA and EuroLeague offenses — and the ultimate test of a defense's communication."
+  ],
+  "whyItMatters": [
+    "Spain PNR attacks the exact defender every coverage relies on: the roller's defender, the one who tags, helps, or drops. By screening that player, the offense removes the defense's safety net. It is the most efficient half-court action in modern basketball because it creates a good shot against almost any coverage."
+  ],
+  "howTo": [
+    {
+      "title": "Start a normal side pick-and-roll",
+      "detail": "Ball handler and screener run a standard side PNR. Everything must look ordinary — the surprise is the point."
+    },
+    {
+      "title": "Time the back screen",
+      "detail": "As the screener rolls, the third player (often in the opposite corner or slot) sprints up to set a back screen on the roller's defender. Timing is everything — too early and the defense sees it, too late and the roller is already tagged."
+    },
+    {
+      "title": "Read the roller's defender",
+      "detail": "If they fight through the back screen, the roller is open at the rim. If they get stuck, the back screener pops or slips for their own shot."
+    },
+    {
+      "title": "Ball handler: attack the chaos",
+      "detail": "With the middle of the defense screened, drive or pull up. The defense is now guarding three threats with two and a half defenders."
+    },
+    {
+      "title": "Have a counter for the switch",
+      "detail": "If the defense switches the back screen, the back screener's defender is now on the roller — usually a mismatch. Feed the post or re-screen."
+    },
+    {
+      "title": "Space the weak side",
+      "detail": "The two uninvolved players must hold the defense honest — corners filled, ready to shoot. Their gravity is what keeps help from arriving."
+    }
+  ],
+  "coachingPoints": [
+    "Teach it 3v3 first: ball handler, roller, back screener vs three defenders. Add the other two later.",
+    "The back screen must be legal and physical — a soft back screen gets slipped and the action dies.",
+    "Timing reps are non-negotiable: run it until the back screener arrives exactly as the roll develops.",
+    "Teach all three reads (roller, back screener, ball handler) — players tend to only see their own."
+  ],
+  "commonMistakes": [
+    "Setting the back screen too early, letting the defense call it out and switch cleanly.",
+    "The back screener screening air because the roller's defender already helped elsewhere.",
+    "Forgetting weak-side spacing, so a third defender helps and kills the advantage.",
+    "Running it with players who can't make the reads — Spain PNR punishes low-IQ lineups."
+  ],
+  "gameSituations": [
+    "Against drop coverage, where the back screen removes the drop big from the play.",
+    "When the defense tags the roller aggressively — the back screen is the direct counter.",
+    "Late-game or ATO (after timeout) when you need one high-efficiency look."
+  ],
+  "diagram": {
+    "title": "Spain PNR: back screen on the roller's defender",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 62,
+        "y": 72
+      },
+      {
+        "label": "O5",
+        "x": 68,
+        "y": 64
+      },
+      {
+        "label": "O3",
+        "x": 80,
+        "y": 40
+      }
+    ],
+    "defense": [
+      {
+        "label": "X1",
+        "x": 60,
+        "y": 66
+      },
+      {
+        "label": "X5",
+        "x": 70,
+        "y": 56
+      },
+      {
+        "label": "X3",
+        "x": 78,
+        "y": 44
+      }
+    ],
+    "ball": "O1",
+    "screens": [
+      {
+        "x": 68,
+        "y": 64
+      },
+      {
+        "x": 74,
+        "y": 50
+      }
+    ],
+    "moves": [
+      {
+        "from": "O1",
+        "to": "O5",
+        "kind": "dribble"
+      },
+      {
+        "from": "O5",
+        "to": "O1",
+        "kind": "cut"
+      },
+      {
+        "from": "O3",
+        "to": "O5",
+        "kind": "cut"
+      }
+    ],
+    "passes": [],
+    "shots": []
+  },
+  "related": [
+    "pick-and-roll-basics",
+    "ball-handler-reads",
+    "roll-man-reads",
+    "horns-pick-and-roll",
+    "short-roll"
+  ],
+  "references": [
+    "FIBA"
+  ],
+  "dateUpdated": "2026-10-06"
+}

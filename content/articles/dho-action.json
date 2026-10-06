@@ -1,0 +1,128 @@
+{
+  "id": "dho-action",
+  "slug": "dho-action",
+  "title": "DHO — Dribble Hand-Off",
+  "description": "The ball handler dribbles to a teammate and hands the ball off — a moving screen that creates instant offense.",
+  "hub": "tactics",
+  "subcategory": "offensive-actions",
+  "level": "intermediate",
+  "ages": [
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult",
+    "Competitive"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "tags": [
+    "dho",
+    "hand-off",
+    "screens",
+    "actions"
+  ],
+  "readTime": 5,
+  "whatIsIt": [
+    "A dribble hand-off (DHO) is when the ball handler dribbles directly at a teammate and hands them the ball, then immediately becomes their screener. It is a pick-and-roll in motion — the handoff itself is the screen.",
+    "DHOs are everywhere in modern offense because they combine three actions into one: a pass, a screen, and a downhill start. The receiver catches the ball already moving at speed, which makes them incredibly hard to guard.",
+    "Teams use DHOs to get shooters open, to attack slow-footed bigs, and to flow from one action into the next without the ball ever stopping."
+  ],
+  "whyItMatters": [
+    "A stationary catch lets the defense set; a DHO catch comes with momentum and a live screen attached. It is the most efficient way to get a shooter a clean look or a driver a running start, and it keeps the ball moving — exactly what modern offenses want."
+  ],
+  "howTo": [
+    {
+      "title": "Dribble at your teammate with pace",
+      "detail": "Attack the handoff at speed, dribbling to the receiver's outside hip. A slow DHO lets the defense switch it cleanly."
+    },
+    {
+      "title": "Hand off pocket-to-pocket",
+      "detail": "Place the ball in the receiver's pocket as they take it — don't toss it. The exchange should happen at full speed without bobbling."
+    },
+    {
+      "title": "Become the screen instantly",
+      "detail": "The moment the ball leaves your hands, you are a screener. Set your feet, stay legal, and wall off the receiver's defender."
+    },
+    {
+      "title": "Receiver: take it on the move",
+      "detail": "Time your cut to meet the ball at speed, shoulders past your defender. Catch and go — shoot, drive, or attack the closeout."
+    },
+    {
+      "title": "Read the defense like a PNR",
+      "detail": "If they go under, shoot. If they chase, drive. If they switch, attack the mismatch. The DHO creates the same reads as a ball screen."
+    }
+  ],
+  "coachingPoints": [
+    "Drill the exchange at full speed — walk-through DHOs teach bad timing.",
+    "The hand-off must be clean: fumbled exchanges are live-ball turnovers.",
+    "Teach the screener to flip the angle based on where the defender is leaning.",
+    "Chain DHOs into other actions: DHO into ball screen is a staple of modern offense."
+  ],
+  "commonMistakes": [
+    "Handing off flat-footed, which gives the defense time to switch or fight through.",
+    "The 'screener' running away after the handoff instead of setting a real screen.",
+    "Tossing the ball instead of placing it — leading to fumbles in traffic."
+  ],
+  "gameSituations": [
+    "Getting a shooter an open three when the defense is locked in.",
+    "Attacking a big defender who can't move laterally with the handoff action.",
+    "As a flow action: DHO into pick-and-roll keeps the defense scrambling."
+  ],
+  "diagram": {
+    "title": "DHO: dribble to teammate, hand off, screen",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 74
+      },
+      {
+        "label": "O2",
+        "x": 30,
+        "y": 62
+      }
+    ],
+    "defense": [
+      {
+        "label": "X1",
+        "x": 52,
+        "y": 68
+      },
+      {
+        "label": "X2",
+        "x": 28,
+        "y": 58
+      }
+    ],
+    "ball": "O1",
+    "screens": [
+      {
+        "x": 44,
+        "y": 68
+      }
+    ],
+    "moves": [
+      {
+        "from": "O1",
+        "to": "O2",
+        "kind": "dribble"
+      },
+      {
+        "from": "O2",
+        "to": "O1",
+        "kind": "cut"
+      }
+    ],
+    "passes": [],
+    "shots": []
+  },
+  "related": [
+    "zoom-action",
+    "screening-basketball",
+    "drive-and-kick-offense",
+    "pistol-action"
+  ],
+  "dateUpdated": "2026-10-06"
+}

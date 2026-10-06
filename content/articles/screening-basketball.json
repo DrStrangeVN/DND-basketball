@@ -1,0 +1,128 @@
+{
+  "id": "screening-basketball",
+  "slug": "screening-basketball",
+  "title": "Screening",
+  "description": "Legal, well-angled screens — on-ball and off-ball — that free teammates and create advantages.",
+  "hub": "offense",
+  "subcategory": "team-offense",
+  "level": "intermediate",
+  "ages": [
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult",
+    "Competitive"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "tags": [
+    "screens",
+    "pick and roll",
+    "off-ball",
+    "team offense"
+  ],
+  "readTime": 6,
+  "whatIsIt": [
+    "A screen is a legal blocking action where an offensive player stands in a defender's path to free a teammate. On-ball screens free the ball handler (the pick-and-roll); off-ball screens free cutters and shooters (pin downs, flares, staggers).",
+    "Good screening is a skill, not just standing still. It requires the right angle, the right timing, a wide legal stance, and — critically — what the screener does after contact: roll, pop, or slip.",
+    "Teams that screen well get open shots without needing elite one-on-one players. Screening is the great equalizer of team offense."
+  ],
+  "whyItMatters": [
+    "Almost every open shot in basketball starts with a screen. A well-set screen creates a two-on-one advantage; a lazy screen creates a turnover or an offensive foul. Learning to screen — and to use screens — is learning how team offense actually functions."
+  ],
+  "howTo": [
+    {
+      "title": "Sprint to the spot",
+      "detail": "Get to the screening angle before the defender expects it. Late screens let the defender see them coming and slip under."
+    },
+    {
+      "title": "Set a wide, legal base",
+      "detail": "Feet wider than shoulders, knees bent, hands protecting yourself. Stay completely still on contact — moving screens are turnovers."
+    },
+    {
+      "title": "Angle the screen correctly",
+      "detail": "Square your chest to the defender's path, not to your teammate. The angle decides where the ball handler can go — study screen angles as its own skill."
+    },
+    {
+      "title": "Hold the screen",
+      "detail": "Stay for a one-count after contact so your teammate actually gets separation. Early slips are for specific reads, not habits."
+    },
+    {
+      "title": "Do something after",
+      "detail": "Roll to the rim, pop to space, or slip if your defender jumps out early. A screener who stands still after the screen wastes the advantage."
+    },
+    {
+      "title": "Set up your defender as the user",
+      "detail": "Walk your defender into the screen — take them toward it, then explode off the screener's shoulder. Never run so wide that you give the defender room to slide through."
+    }
+  ],
+  "coachingPoints": [
+    "Repetition matters: screen footwork and angles only become automatic with hundreds of reps.",
+    "Teach screeners to call out the screen — communication prevents collisions and confusion.",
+    "The screener's defender often makes the coverage call; teach screeners to read that defender's position.",
+    "Contact should be chest-to-chest and legal — teach players to absorb, not to shove."
+  ],
+  "commonMistakes": [
+    "Moving on the screen — the most common offensive foul in basketball.",
+    "Setting the screen at a bad angle, which screens your own teammate instead of the defender.",
+    "Slipping every screen instead of making contact, which never creates real separation.",
+    "The ball handler going too wide around the screen, letting the defender recover."
+  ],
+  "gameSituations": [
+    "Freeing a shooter with off-ball screens (pin downs, flares) against man defense.",
+    "Creating a two-on-one with a ball screen when the defense is set.",
+    "Late-clock situations where one clean screen is all you need for a shot."
+  ],
+  "diagram": {
+    "title": "Off-ball screen: pin down for a shooter",
+    "offense": [
+      {
+        "label": "O2",
+        "x": 70,
+        "y": 45
+      },
+      {
+        "label": "O5",
+        "x": 70,
+        "y": 58
+      },
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 76
+      }
+    ],
+    "defense": [
+      {
+        "label": "X2",
+        "x": 72,
+        "y": 42
+      }
+    ],
+    "ball": "O1",
+    "screens": [
+      {
+        "x": 70,
+        "y": 52
+      }
+    ],
+    "moves": [
+      {
+        "from": "O2",
+        "to": "O1",
+        "kind": "cut"
+      }
+    ],
+    "passes": [],
+    "shots": []
+  },
+  "related": [
+    "cutting-basketball",
+    "motion-offense",
+    "pin-down-screen",
+    "stagger-screen"
+  ],
+  "dateUpdated": "2026-10-06"
+}

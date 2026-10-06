@@ -1,0 +1,141 @@
+{
+  "id": "horns-pick-and-roll",
+  "slug": "horns-pick-and-roll",
+  "title": "Horns Pick & Roll",
+  "description": "Pick-and-roll run from the Horns alignment — two screeners at the elbows, endless options either side.",
+  "hub": "pick-and-roll",
+  "subcategory": "pick-and-roll",
+  "level": "advanced",
+  "ages": [
+    "U16",
+    "U18",
+    "Adult",
+    "Competitive"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "tags": [
+    "horns",
+    "pick and roll",
+    "alignment",
+    "playcalling"
+  ],
+  "readTime": 6,
+  "whatIsIt": [
+    "Horns is an alignment: the ball handler up top, two bigs at the elbows (the 'horns'), and two wings in the corners. The horns pick-and-roll is a ball screen set by either elbow big, with the other big available as a second screener, a pop threat, or a dive man.",
+    "Its power is symmetry. The defense doesn't know which side the screen is coming from, and after the first screen, the second big can re-screen, slip, or space. It is a play call that contains multitudes.",
+    "Horns PNR is a favorite late-game and ATO call because it is simple to run but hard to guard — the same look produces a drive, a roll, a pop, or a second-side action."
+  ],
+  "whyItMatters": [
+    "Most PNR attacks come from one predictable spot. Horns gives you two screeners, two sides, and built-in counters without changing the call. For coaches, it is maximum optionality from minimum teaching; for players, it is a read-based action that rewards IQ."
+  ],
+  "howTo": [
+    {
+      "title": "Set the Horns alignment",
+      "detail": "Ball up top, bigs at the elbows, wings in the corners. Spacing must be exact — the elbows are the launch pads."
+    },
+    {
+      "title": "Choose the screen side",
+      "detail": "Either big sets the ball screen. Go to the side with the weaker on-ball defender or the slower big."
+    },
+    {
+      "title": "Use the second big",
+      "detail": "After the first screen, the opposite big can re-screen (double drag look), dive to the rim, or pop. This is what separates Horns from a plain PNR."
+    },
+    {
+      "title": "Read the coverage",
+      "detail": "Same reads as any PNR — over, under, drop, switch — but now with a second screener as the release valve when the first action is covered."
+    },
+    {
+      "title": "Flow to the weak side",
+      "detail": "If the first side is walled off, swing the ball and run the other horn. The defense just shifted; attack the new gap."
+    }
+  ],
+  "coachingPoints": [
+    "Teach the alignment first — bad Horns spacing (bigs too low or too wide) ruins every option.",
+    "Give the ball handler freedom to choose the side; called sides become predictable.",
+    "Drill the second-big reads separately: re-screen, dive, and pop are three different skills.",
+    "Wings must stay in the corners until the action develops — early drifting lets help arrive."
+  ],
+  "commonMistakes": [
+    "Running the screen with the wrong big for the matchup — always attack the weaker side.",
+    "The second big standing and watching instead of re-screening or spacing.",
+    "Forcing the first side when the defense has clearly loaded up on it."
+  ],
+  "gameSituations": [
+    "ATO plays and late-game, when you need a reliable high-option action.",
+    "With two skilled bigs who can both screen and make decisions.",
+    "Against switching defenses — the second screener punishes the switch."
+  ],
+  "diagram": {
+    "title": "Horns PNR: elbow screen with second big available",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 78
+      },
+      {
+        "label": "O5",
+        "x": 42,
+        "y": 66
+      },
+      {
+        "label": "O4",
+        "x": 58,
+        "y": 66
+      },
+      {
+        "label": "O2",
+        "x": 16,
+        "y": 30
+      },
+      {
+        "label": "O3",
+        "x": 84,
+        "y": 30
+      }
+    ],
+    "defense": [
+      {
+        "label": "X1",
+        "x": 50,
+        "y": 72
+      },
+      {
+        "label": "X5",
+        "x": 40,
+        "y": 60
+      }
+    ],
+    "ball": "O1",
+    "screens": [
+      {
+        "x": 44,
+        "y": 68
+      }
+    ],
+    "moves": [
+      {
+        "from": "O1",
+        "to": "O2",
+        "kind": "dribble"
+      },
+      {
+        "from": "O5",
+        "to": "O1",
+        "kind": "cut"
+      }
+    ],
+    "passes": [],
+    "shots": []
+  },
+  "related": [
+    "horns-offense",
+    "pick-and-roll-basics",
+    "pick-and-pop",
+    "spain-pick-and-roll"
+  ],
+  "dateUpdated": "2026-10-06"
+}

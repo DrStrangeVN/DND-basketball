@@ -1,0 +1,17 @@
+{
+  "id": "coach-fundamentals-path",
+  "slug": "coach-fundamentals-path",
+  "title": "Coach Fundamentals",
+  "description": "Learn to teach the game: how players learn, how to plan practices, develop players over a season, coach youth, study film, and build culture.",
+  "level": "beginner",
+  "audience": "New and youth coaches",
+  "steps": [
+    {"title": "Level 1 — How to Teach Basketball", "description": "Learn the principles of teaching skills: demonstration, progression, and feedback that actually sticks.", "articles": ["teaching-basketball"]},
+    {"title": "Level 2 — Plan Great Practices", "description": "Design practices with purpose — warm-up, skill work, small-sided games, and competition in the right balance.", "articles": ["practice-planning"]},
+    {"title": "Level 3 — Develop Players Long-Term", "description": "Build season-long player development plans that grow skills progressively instead of randomly.", "articles": ["player-development-plan"]},
+    {"title": "Level 4 — Coach Youth the Right Way", "description": "Adapt your coaching for young players: age-appropriate expectations, fun, and fundamentals first.", "articles": ["youth-coaching"]},
+    {"title": "Level 5 — Study Film", "description": "Use video to teach — what to look for, how to clip it, and how to turn film sessions into learning.", "articles": ["film-study-coaching"]},
+    {"title": "Level 6 — Build Team Culture", "description": "Create the standards, communication, and accountability that make teams greater than their talent.", "articles": ["team-culture"]}
+  ],
+  "dateUpdated": "2026-10-06"
+}

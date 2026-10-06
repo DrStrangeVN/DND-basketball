@@ -1,0 +1,113 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+:root {
+  --bg: #edf0f4;
+  --surface: #edf0f4;
+  --surface-2: #e6ebf1;
+  --ink: #23272f;
+  --muted: #5d6675;
+  --faint: #8a93a3;
+  --orange: #f26b1d;
+  --orange-soft: rgba(242, 107, 29, 0.12);
+  --shadow-dark: #d2d9e2;
+  --shadow-light: #ffffff;
+  --line: rgba(35, 39, 47, 0.08);
+}
+
+.dark {
+  --bg: #171a20;
+  --surface: #1b1f27;
+  --surface-2: #222833;
+  --ink: #e9edf3;
+  --muted: #a3adbd;
+  --faint: #6f7a8c;
+  --orange: #ff7a2e;
+  --orange-soft: rgba(255, 122, 46, 0.16);
+  --shadow-dark: #0e1116;
+  --shadow-light: #262c38;
+  --line: rgba(255, 255, 255, 0.08);
+}
+
+@theme inline {
+  --color-dndbg: var(--bg);
+  --color-dndsurface: var(--surface);
+  --color-dndink: var(--ink);
+  --color-dndmuted: var(--muted);
+  --color-dndorange: var(--orange);
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+}
+
+html { scroll-behavior: smooth; }
+
+body {
+  background: var(--bg);
+  color: var(--ink);
+  font-family: var(--font-inter), ui-sans-serif, system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+/* ---------- Neumorphic primitives ---------- */
+.neu {
+  background: var(--surface);
+  border-radius: 22px;
+  box-shadow: 9px 9px 22px var(--shadow-dark), -9px -9px 22px var(--shadow-light);
+}
+.neu-sm {
+  background: var(--surface);
+  border-radius: 16px;
+  box-shadow: 5px 5px 12px var(--shadow-dark), -5px -5px 12px var(--shadow-light);
+}
+.neu-inset {
+  background: var(--surface);
+  border-radius: 16px;
+  box-shadow: inset 5px 5px 12px var(--shadow-dark), inset -5px -5px 12px var(--shadow-light);
+}
+.neu-btn {
+  background: var(--surface);
+  border-radius: 999px;
+  box-shadow: 5px 5px 12px var(--shadow-dark), -5px -5px 12px var(--shadow-light);
+  transition: box-shadow 0.18s ease, transform 0.18s ease;
+}
+.neu-btn:hover { box-shadow: 7px 7px 16px var(--shadow-dark), -7px -7px 16px var(--shadow-light); }
+.neu-btn:active {
+  box-shadow: inset 4px 4px 10px var(--shadow-dark), inset -4px -4px 10px var(--shadow-light);
+  transform: translateY(1px);
+}
+.neu-card {
+  background: var(--surface);
+  border-radius: 22px;
+  box-shadow: 7px 7px 18px var(--shadow-dark), -7px -7px 18px var(--shadow-light);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+a.neu-card:hover, button.neu-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 10px 10px 26px var(--shadow-dark), -10px -10px 26px var(--shadow-light);
+}
+a.neu-card:active, button.neu-card:active {
+  transform: translateY(0);
+  box-shadow: inset 5px 5px 12px var(--shadow-dark), inset -5px -5px 12px var(--shadow-light);
+}
+
+.neu-input {
+  background: var(--surface);
+  border-radius: 999px;
+  box-shadow: inset 4px 4px 10px var(--shadow-dark), inset -4px -4px 10px var(--shadow-light);
+  outline: none;
+}
+.neu-input:focus { box-shadow: inset 4px 4px 10px var(--shadow-dark), inset -4px -4px 10px var(--shadow-light), 0 0 0 2px var(--orange-soft); }
+
+.text-balance { text-wrap: balance; }
+
+::selection { background: var(--orange); color: #fff; }
+
+/* thin scrollbars for filter rows */
+.nice-scroll::-webkit-scrollbar { height: 6px; width: 6px; }
+.nice-scroll::-webkit-scrollbar-thumb { background: var(--faint); border-radius: 3px; }
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation-duration: 0.01ms !important; transition-duration: 0.01ms !important; }
+  html { scroll-behavior: auto; }
+}

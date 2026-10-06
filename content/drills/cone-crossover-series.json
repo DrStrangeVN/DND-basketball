@@ -1,0 +1,73 @@
+{
+  "id": "cone-crossover-series",
+  "slug": "cone-crossover-series",
+  "title": "Cone Crossover Series",
+  "description": "A multi-move dribble series through cones that trains explosive change of direction, low moves, and accelerating out of each crossover.",
+  "skill": "Ball Handling",
+  "level": "intermediate",
+  "ages": [
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult",
+    "Competitive"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "players": "1",
+  "equipment": [
+    "Basketball",
+    "Cones"
+  ],
+  "durationMin": 12,
+  "intensity": "medium",
+  "goal": "Sharpen live-dribble moves — crossover, between-the-legs, behind-the-back — with a burst of speed out of every move.",
+  "setup": [
+    "Set 4 cones in a straight line, about 8-10 feet apart, starting near half-court.",
+    "Start with the ball in your right hand at the first cone.",
+    "Keep a second ball nearby for quick resets."
+  ],
+  "instructions": [
+    {
+      "title": "Crossover at every cone",
+      "detail": "Dribble to each cone and make a low, hard crossover; explode 2-3 dribbles past the cone before the next one. Go down and back."
+    },
+    {
+      "title": "Between-the-legs round",
+      "detail": "Repeat the line using a between-the-legs move at each cone — keep your body low and the ball below the knees."
+    },
+    {
+      "title": "Behind-the-back round",
+      "detail": "Repeat with a behind-the-back move at each cone; wrap the ball tightly so it doesn't drift wide."
+    },
+    {
+      "title": "Combo round",
+      "detail": "Chain two moves per cone — e.g., crossover then between-the-legs — and attack out of the second move every time."
+    },
+    {
+      "title": "Timed finish",
+      "detail": "Race the full line doing one move per cone as fast as possible with zero ball losses; repeat twice."
+    }
+  ],
+  "coachingPoints": [
+    "The move is only as good as the explosion after it — accelerate out of every move, don't jog through.",
+    "Sell the move with your shoulders and eyes before shifting the ball.",
+    "Keep moves tight to your body; wide moves get stolen in games.",
+    "Change pace: slow into the cone, explode out of it."
+  ],
+  "commonMistakes": [
+    "Crossing the ball over at waist height — keep the ball below the knees where defenders can't reach it.",
+    "No burst after the move — if you don't attack space, the move achieved nothing.",
+    "Looking down during behind-the-back — trust the wrap and keep your eyes up."
+  ],
+  "progression": "Add a retreat dribble after each cone before exploding forward, do the series at full sprint speed, or have a coach point left/right to dictate the move reactively.",
+  "regression": "Walk through each move first, reduce to one move type per session, or widen the cone spacing for more setup room.",
+  "gameApplication": "Every drive in a game starts with beating a defender off the dribble — this series trains the exact move-and-burst rhythm that creates driving lanes.",
+  "related": [
+    "two-ball-dribbling",
+    "one-on-one-live"
+  ],
+  "dateUpdated": "2026-10-06"
+}

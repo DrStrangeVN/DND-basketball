@@ -1,0 +1,135 @@
+{
+  "id": "zoom-action",
+  "slug": "zoom-action",
+  "title": "Zoom Action",
+  "description": "A DHO flowing directly into a ball screen — two actions in one, with the defense always a step behind.",
+  "hub": "tactics",
+  "subcategory": "offensive-actions",
+  "level": "advanced",
+  "ages": [
+    "U16",
+    "U18",
+    "Adult",
+    "Competitive"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "tags": [
+    "zoom",
+    "dho",
+    "ball screen",
+    "actions"
+  ],
+  "readTime": 6,
+  "whatIsIt": [
+    "Zoom action is a DHO that flows immediately into a ball screen: the player who receives the handoff turns and uses a second screen from a big, all in one continuous motion. The defense has to guard a handoff and a pick-and-roll back-to-back with no time to reset.",
+    "It is called 'zoom' because of the speed — the receiver catches on the move and is instantly into the next screen. Defenders who relax after surviving the DHO get destroyed by the second action.",
+    "Zoom is a staple of NBA offenses because it manufactures the same advantage as a great PNR but starts with the ball handler already at full speed."
+  ],
+  "whyItMatters": [
+    "One action is guardable; two actions with no pause between them usually aren't. Zoom forces the defense to communicate through a handoff coverage and a ball-screen coverage in about two seconds — and most defenses can only handle one at a time."
+  ],
+  "howTo": [
+    {
+      "title": "Run a clean DHO first",
+      "detail": "The handoff must be at speed with a real screen attached. A sloppy DHO gives the defense time to set for what's next."
+    },
+    {
+      "title": "Sprint to the second screen",
+      "detail": "The big must already be moving into position as the DHO happens. Late second screens let the defense catch its breath."
+    },
+    {
+      "title": "Turn the corner tight",
+      "detail": "The receiver comes off the DHO and immediately tight off the ball screen — no gather, no hesitation. The zoom is one motion."
+    },
+    {
+      "title": "Read both coverages",
+      "detail": "The defense might switch the DHO and drop the PNR, or vice versa. Read the second action like any pick-and-roll: over, under, drop, switch."
+    },
+    {
+      "title": "Keep the weak side spaced",
+      "detail": "With two actions on one side, the weak side must stay wide and shot-ready. Their gravity prevents the third defender from helping."
+    }
+  ],
+  "coachingPoints": [
+    "Teach it as one action, not two — the continuity is the whole point.",
+    "Timing reps: the big's second screen must arrive exactly as the receiver turns.",
+    "Start 3v3 before going 5v5; the reads are complex enough without extra help.",
+    "Film the footwork: receivers who take an extra gather step kill the zoom."
+  ],
+  "commonMistakes": [
+    "Pausing between the DHO and the screen, which lets the defense reset.",
+    "The second screener arriving late or at a bad angle.",
+    "Predetermining the read instead of reading the second coverage."
+  ],
+  "gameSituations": [
+    "Getting your best scorer downhill with a running start against a set defense.",
+    "When the defense switches DHOs well — the second screen attacks the switch.",
+    "ATO plays where you need a high-efficiency look with built-in counters."
+  ],
+  "diagram": {
+    "title": "Zoom: DHO into an immediate ball screen",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 56,
+        "y": 72
+      },
+      {
+        "label": "O2",
+        "x": 36,
+        "y": 64
+      },
+      {
+        "label": "O5",
+        "x": 44,
+        "y": 56
+      }
+    ],
+    "defense": [
+      {
+        "label": "X1",
+        "x": 58,
+        "y": 66
+      },
+      {
+        "label": "X5",
+        "x": 46,
+        "y": 50
+      }
+    ],
+    "ball": "O1",
+    "screens": [
+      {
+        "x": 50,
+        "y": 68
+      },
+      {
+        "x": 44,
+        "y": 58
+      }
+    ],
+    "moves": [
+      {
+        "from": "O1",
+        "to": "O2",
+        "kind": "dribble"
+      },
+      {
+        "from": "O2",
+        "to": "O5",
+        "kind": "dribble"
+      }
+    ],
+    "passes": [],
+    "shots": []
+  },
+  "related": [
+    "dho-action",
+    "screening-basketball",
+    "iverson-cut",
+    "flare-screen"
+  ],
+  "dateUpdated": "2026-10-06"
+}

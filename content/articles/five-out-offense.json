@@ -1,0 +1,130 @@
+{
+  "id": "five-out-offense",
+  "slug": "five-out-offense",
+  "title": "5-Out Offense",
+  "description": "All five players start outside the three-point line, opening the paint for drives, cuts, and kick-out threes.",
+  "hub": "offense",
+  "subcategory": "team-offense",
+  "level": "intermediate",
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult",
+    "Competitive"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "tags": [
+    "5-out",
+    "spacing",
+    "team offense",
+    "drive and kick"
+  ],
+  "readTime": 6,
+  "whatIsIt": [
+    "5-out offense places all five players around the three-point arc — two in the corners, two on the wings, one at the top. No one starts in the post. The result is maximum spacing: the paint is completely empty, which makes every drive and every cut more dangerous.",
+    "It is the defining offense of modern positionless basketball. Because there is no designated post player, anyone can drive, anyone can screen, and the defense cannot hide a slow big in the paint.",
+    "5-out is usually run as a motion offense — pass, cut, and replace — or as a ball-screen offense with the screener popping to the arc instead of rolling to a clogged rim."
+  ],
+  "whyItMatters": [
+    "Spacing is the single most important offensive principle, and 5-out gives you the most of it. Driving lanes are wider, help defenders arrive later, and kick-out threes are cleaner. It also develops every player's full skill set instead of parking bigs in the post."
+  ],
+  "howTo": [
+    {
+      "title": "Set the five spots",
+      "detail": "Corners, wings, and top — each player about 18-20 feet apart. The paint should be completely empty to start every possession."
+    },
+    {
+      "title": "Pass and cut through",
+      "detail": "After passing, cut through the empty paint to the opposite side. With no post defender waiting, basket cuts are extremely hard to stop."
+    },
+    {
+      "title": "Fill behind the cut",
+      "detail": "The player on the weak side slides up or over to replace the cutter's spot, keeping five players on the perimeter."
+    },
+    {
+      "title": "Drive into space",
+      "detail": "With the paint empty, any closeout or slow rotation is a green light to drive. Attack the rim and read the help."
+    },
+    {
+      "title": "Screen, don't post",
+      "detail": "Use ball screens and off-ball screens rather than post entries. A popped screener at the arc keeps the paint open for the next action."
+    }
+  ],
+  "coachingPoints": [
+    "Shooting is non-negotiable — if two or more players cannot shoot, defenses will sag and the spacing collapses.",
+    "Teach players to catch on the move; standing catches in 5-out let the defense recover.",
+    "Rebounding requires all five to crash — there is no big parked under the rim, so gang rebounding is a must.",
+    "Keep dribble counts low. The ball should move faster than the defense can rotate."
+  ],
+  "commonMistakes": [
+    "Running 5-out with non-shooters, which invites the defense to pack the paint anyway.",
+    "Cutting soft through the paint — with no post presence, lazy cuts get intercepted.",
+    "Forgetting offensive rebounding because everyone drifts back to the arc after the shot."
+  ],
+  "gameSituations": [
+    "Teams with five players who can all shoot and handle the ball.",
+    "Against drop-coverage defenses that struggle to guard an empty paint.",
+    "Late-game situations needing a three or a clean driving lane."
+  ],
+  "diagram": {
+    "title": "5-out alignment: five players on the arc, empty paint",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 76
+      },
+      {
+        "label": "O2",
+        "x": 22,
+        "y": 58
+      },
+      {
+        "label": "O3",
+        "x": 78,
+        "y": 58
+      },
+      {
+        "label": "O4",
+        "x": 14,
+        "y": 30
+      },
+      {
+        "label": "O5",
+        "x": 86,
+        "y": 30
+      }
+    ],
+    "defense": [
+      {
+        "label": "X1",
+        "x": 50,
+        "y": 70
+      }
+    ],
+    "ball": "O1",
+    "screens": [],
+    "moves": [
+      {
+        "from": "O1",
+        "to": "O2",
+        "kind": "cut"
+      }
+    ],
+    "passes": [],
+    "shots": []
+  },
+  "related": [
+    "motion-offense",
+    "four-out-one-in",
+    "drive-and-kick-offense",
+    "cutting-basketball"
+  ],
+  "references": [
+    "USA Basketball"
+  ],
+  "dateUpdated": "2026-10-06"
+}

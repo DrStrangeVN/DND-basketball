@@ -1,0 +1,44 @@
+{
+  "id": "form-shooting",
+  "slug": "form-shooting",
+  "title": "Form Shooting",
+  "description": "One-hand shooting close to the basket to build clean mechanics, straight-line energy transfer, and a soft finish on every shot.",
+  "skill": "Shooting",
+  "level": "beginner",
+  "ages": ["U10","U12","U14","U16","U18","Adult"],
+  "positions": ["ALL"],
+  "players": "1",
+  "equipment": ["Basketball"],
+  "durationMin": 10,
+  "intensity": "low",
+  "goal": "Groove repeatable shooting mechanics — balanced base, straight guide hand, and a clean wrist snap — from close range.",
+  "setup": [
+    "Start 3-5 feet from the basket, facing the rim at a slight angle.",
+    "Shoot with one hand only; tuck the off-hand behind your back.",
+    "Place your shooting hand under the ball, wrist cocked, fingers spread.",
+    "Stand in an athletic stance with your shooting-side foot slightly forward."
+  ],
+  "instructions": [
+    {"title": "Make 5 from the right side", "detail": "Shoot 5 makes with your shooting hand only, holding the follow-through on every rep until the ball hits the rim."},
+    {"title": "Switch sides", "detail": "Move to the left side of the basket and make 5 more, focusing on the same one-hand rhythm."},
+    {"title": "Move to the middle", "detail": "Make 5 from directly in front, keeping your elbow under the ball and your guide hand out of the shot."},
+    {"title": "Add the guide hand", "detail": "Place your off-hand on the side of the ball as a guide only, then shoot 10 makes — the guide hand must not push or spin the ball."},
+    {"title": "Finish with swishes", "detail": "Aim for 5 consecutive swishes; reset your count if you hit rim and focus on soft backspin on every release."}
+  ],
+  "coachingPoints": [
+    "Elbow under the ball, shooting wrist fully cocked before the lift.",
+    "Ball comes off the index and middle fingers with clean backspin.",
+    "Hold the follow-through — 'hand in the cookie jar' — until the ball reaches the rim.",
+    "Land in balance, eyes locked on the front of the rim."
+  ],
+  "commonMistakes": [
+    "Guide hand pushing the ball, causing sideways spin — keep the off-hand passive and remove it early.",
+    "Short-arming the shot with no wrist snap — finish with fingers pointing down at the floor.",
+    "Leaning sideways on release — square your shoulders and land where you jumped."
+  ],
+  "progression": "Add the guide hand and step back one foot at a time, then add a shot fake or a one-dribble pull-up while keeping the same release mechanics.",
+  "regression": "Stand even closer, allow makes off the backboard, or shoot seated-style with just the arm lift to isolate the wrist snap.",
+  "gameApplication": "Every jump shot in a game starts with this release — clean form from close range makes your catch-and-shoot and pull-up mechanics hold up under pressure.",
+  "related": ["spot-shooting-ladder","free-throw-routine"],
+  "dateUpdated": "2026-10-06"
+}

@@ -1,0 +1,135 @@
+{
+  "id": "pistol-action",
+  "slug": "pistol-action",
+  "title": "Pistol Action",
+  "description": "A quick-hitting early-offense action: DHO into an immediate ball screen in transition.",
+  "hub": "tactics",
+  "subcategory": "offensive-actions",
+  "level": "advanced",
+  "ages": [
+    "U16",
+    "U18",
+    "Adult",
+    "Competitive"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "tags": [
+    "pistol",
+    "transition",
+    "dho",
+    "early offense"
+  ],
+  "readTime": 5,
+  "whatIsIt": [
+    "Pistol action is early-offense basketball: as the team comes up the floor, the point guard dribbles into a DHO with a wing, who immediately turns into a ball screen from a trailing big. Three players, two actions, zero seconds wasted.",
+    "It is designed for speed. The defense is still getting matched up from transition when the DHO hits, and the ball screen arrives before they can set their coverage. Pistol turns a semi-transition moment into a structured advantage.",
+    "The name comes from the shape — the alignment looks like a pistol from above — but what matters is the tempo. Pistol is about attacking before the defense is ready."
+  ],
+  "whyItMatters": [
+    "The most efficient offense in basketball is early offense, before the defense sets. Pistol gives structure to those chaotic first seconds — instead of freelancing in transition, you run a proven two-action sequence at full speed."
+  ],
+  "howTo": [
+    {
+      "title": "Push the ball up the sideline",
+      "detail": "The point guard advances quickly up one side. Speed is the weapon — the defense must feel rushed."
+    },
+    {
+      "title": "Hit the wing with the DHO",
+      "detail": "Around the wing area, the guard dribbles into a handoff with the wing player, who takes it on the move toward the middle."
+    },
+    {
+      "title": "Trail big sets the screen",
+      "detail": "The big trailing the play sprints into a ball screen as the wing turns. The screen must be set early — the action happens around the three-point line, not at half court."
+    },
+    {
+      "title": "Attack before they set",
+      "detail": "The wing reads the scrambling defense: drive the gap, pull up, or hit the roller. Decisions must be instant."
+    },
+    {
+      "title": "Fill the corners",
+      "detail": "The other two players sprint to the corners. Their spacing is what keeps help defenders from collapsing on the action."
+    }
+  ],
+  "coachingPoints": [
+    "Drill it 3v2 first — the advantage feel of early offense must be learned.",
+    "The trail big's sprint is the key; jogging bigs arrive after the defense sets.",
+    "Teach the wing to read, not to run a script — transition defense is unpredictable.",
+    "Conditioning matters: pistol only works at full speed."
+  ],
+  "commonMistakes": [
+    "Running it too slowly, so it becomes a regular half-court PNR with no advantage.",
+    "The DHO happening too high, wasting the downhill angle.",
+    "Forgetting the corners — without spacing, the help collapses and kills it."
+  ],
+  "gameSituations": [
+    "After a defensive rebound or a make, pushing for early offense.",
+    "When your team is faster or better conditioned than the opponent.",
+    "To steal easy baskets before the defense can set its matchups."
+  ],
+  "diagram": {
+    "title": "Pistol: transition DHO into a trail ball screen",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 66,
+        "y": 80
+      },
+      {
+        "label": "O2",
+        "x": 78,
+        "y": 66
+      },
+      {
+        "label": "O5",
+        "x": 60,
+        "y": 70
+      }
+    ],
+    "defense": [
+      {
+        "label": "X1",
+        "x": 68,
+        "y": 74
+      },
+      {
+        "label": "X5",
+        "x": 58,
+        "y": 62
+      }
+    ],
+    "ball": "O1",
+    "screens": [
+      {
+        "x": 72,
+        "y": 72
+      },
+      {
+        "x": 62,
+        "y": 66
+      }
+    ],
+    "moves": [
+      {
+        "from": "O1",
+        "to": "O2",
+        "kind": "dribble"
+      },
+      {
+        "from": "O2",
+        "to": "O5",
+        "kind": "dribble"
+      }
+    ],
+    "passes": [],
+    "shots": []
+  },
+  "related": [
+    "dho-action",
+    "motion-offense",
+    "iverson-cut",
+    "drive-and-kick-offense"
+  ],
+  "dateUpdated": "2026-10-06"
+}

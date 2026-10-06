@@ -1,0 +1,42 @@
+{
+  "id": "closeout-drill",
+  "slug": "closeout-drill",
+  "title": "Closeout & Contest",
+  "description": "A two-player drill that trains the sprint-to-shooter closeout: balanced arrival, high hands, and contesting without fouling.",
+  "skill": "Defense",
+  "level": "intermediate",
+  "ages": ["U12","U14","U16","U18","Adult","Competitive"],
+  "positions": ["ALL"],
+  "players": "2",
+  "equipment": ["Basketball"],
+  "durationMin": 10,
+  "intensity": "medium",
+  "goal": "Build a disciplined closeout — sprint under control, arrive balanced, and contest the shot without giving up the drive.",
+  "setup": [
+    "Defender starts under the basket; offensive player stands on the wing with the ball.",
+    "Offense can shoot or drive on the catch — the defender doesn't know which.",
+    "Rotate roles every 5 reps so both players practice closeouts."
+  ],
+  "instructions": [
+    {"title": "Sprint to the shooter", "detail": "On the pass, the defender sprints from the paint to the wing, chopping steps in the last 3-4 feet to stay balanced."},
+    {"title": "Arrive with high hands", "detail": "Close out with one hand high to contest the shot and the other hand low to discourage the drive."},
+    {"title": "React to the offense", "detail": "If the offense shoots, contest vertically without jumping into them; if they drive, slide and contain."},
+    {"title": "Finish the possession", "detail": "Play the rep live until a shot goes up, then box out and rebound — every rep ends with a box-out."},
+    {"title": "Switch angles", "detail": "Move the starting spot: wing, corner, top — 5 reps each, then swap roles."}
+  ],
+  "coachingPoints": [
+    "Sprint the first 80% of the closeout, then chop your steps — flying past the shooter is worse than arriving late.",
+    "Stay low on arrival with a wide base; tall closeouts get blown by.",
+    "Contest the shot with a high hand but keep your body vertical — no leaning into the shooter.",
+    "Take away the drive by closing out slightly to the shooter's strong hand side."
+  ],
+  "commonMistakes": [
+    "Jumping at the shot fake — stay down and let the shooter prove they will shoot.",
+    "Closing out too upright — a high stance means you can't react to the drive."
+  ],
+  "progression": "Offense gets a live dribble after the catch, defender must close out from farther (paint to corner), or add a second offensive player for closeout-and-recover reps.",
+  "regression": "Offense is shoot-only (no drive), defender starts closer, or walk through the closeout footwork first.",
+  "gameApplication": "Every defensive possession involves a closeout — disciplined closeouts turn open threes into contested misses without surrendering blow-bys.",
+  "related": ["shell-drill","one-on-one-live","three-man-weave"],
+  "dateUpdated": "2026-10-06"
+}

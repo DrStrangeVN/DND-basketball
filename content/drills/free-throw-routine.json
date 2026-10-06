@@ -1,0 +1,41 @@
+{
+  "id": "free-throw-routine",
+  "slug": "free-throw-routine",
+  "title": "Free Throw Routine",
+  "description": "A pressure-building routine drill that turns your free throw into an automatic, repeatable ritual — then tests it under game-like stress.",
+  "skill": "Shooting",
+  "level": "beginner",
+  "ages": ["U10","U12","U14","U16","U18","Adult"],
+  "positions": ["ALL"],
+  "players": "1",
+  "equipment": ["Basketball"],
+  "durationMin": 10,
+  "intensity": "low",
+  "goal": "Lock in a consistent pre-shot routine and build confidence shooting free throws under simulated pressure.",
+  "setup": [
+    "Start at the free-throw line with one ball.",
+    "Decide your personal routine first: e.g., two dribbles, spin the ball, deep breath — keep it under 10 seconds.",
+    "You will need space to sprint or do quick conditioning between rounds for the pressure phase."
+  ],
+  "instructions": [
+    {"title": "Shoot 10 routine free throws", "detail": "Shoot 10 free throws using your exact routine on every single rep — same dribbles, same breath, same rhythm."},
+    {"title": "Add mild pressure", "detail": "Sprint a half-court down-and-back, then immediately shoot 2 free throws with your routine while your heart rate is up."},
+    {"title": "Raise the stakes", "detail": "Shoot pairs: if you miss either free throw, repeat the sprint; if you make both, rest 20 seconds and go again. Do 5 pairs."},
+    {"title": "Finish with a swish goal", "detail": "End by making 3 swishes in a row — only net counts, rim misses reset the count."}
+  ],
+  "coachingPoints": [
+    "The routine never changes — same dribbles, same stance, same breath, every time.",
+    "Shoot your natural shot; the free throw is just form shooting standing still.",
+    "Eyes on the front of the rim or a specific rim hook — pick a target, not the whole basket.",
+    "Follow through and hold it until the ball reaches the rim."
+  ],
+  "commonMistakes": [
+    "Rushing after a miss — the routine resets you, so use it fully instead of shooting angry.",
+    "Holding your breath — exhale through the shot to keep shoulders loose."
+  ],
+  "progression": "Make it win-or-lose: 10 free throws where 7+ makes is a win, below is a loss with a conditioning penalty; or add a teammate watching and calling the count.",
+  "regression": "Remove the sprints, shoot from 10 feet instead of the line, or focus only on routine reps without pressure rounds.",
+  "gameApplication": "Free throws decide close games — a drilled routine lets you shoot the same shot in the fourth quarter that you shoot in warm-ups.",
+  "related": ["form-shooting","spot-shooting-ladder"],
+  "dateUpdated": "2026-10-06"
+}

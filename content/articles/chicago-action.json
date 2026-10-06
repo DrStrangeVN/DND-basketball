@@ -1,0 +1,130 @@
+{
+  "id": "chicago-action",
+  "slug": "chicago-action",
+  "title": "Chicago Action",
+  "description": "A pin down screen flowing into a DHO — the classic shooter action, run by every elite offense.",
+  "hub": "tactics",
+  "subcategory": "offensive-actions",
+  "level": "advanced",
+  "ages": [
+    "U16",
+    "U18",
+    "Adult",
+    "Competitive"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "tags": [
+    "chicago",
+    "pin down",
+    "dho",
+    "shooter actions"
+  ],
+  "readTime": 6,
+  "whatIsIt": [
+    "Chicago action is a two-part shooter action: first a pin down screen frees the shooter coming up from the baseline, then the shooter immediately receives a DHO from the screener and attacks. Pin down, catch, handoff — one flowing sequence.",
+    "It is the NBA's favorite way to get elite shooters open because it stacks two hard-to-guard actions. The defender fights through a screen, then immediately has to navigate a handoff — usually while trailing by a step.",
+    "The action is named after the Chicago Bulls' triangle-era sets, but it is now universal. If you watch any high-level game, you will see Chicago action within minutes."
+  ],
+  "whyItMatters": [
+    "Great shooters draw so much attention that one screen is never enough. Chicago gives them two actions in sequence, and the second one starts with them already moving. It is the most reliable way to manufacture an open three for your best shooter."
+  ],
+  "howTo": [
+    {
+      "title": "Set a physical pin down",
+      "detail": "The big pins the shooter's defender down low. It must be a real screen — the whole action depends on the shooter arriving with separation."
+    },
+    {
+      "title": "Curl tight off the pin",
+      "detail": "The shooter comes off the screen shoulder-to-shoulder, reading their defender: curl if they're trailing, flare if they're beat."
+    },
+    {
+      "title": "Meet the DHO at speed",
+      "detail": "As the shooter clears the pin down, the ball handler dribbles into the handoff. The exchange happens on the move, flowing up the floor."
+    },
+    {
+      "title": "Turn and attack",
+      "detail": "Off the DHO, the shooter reads: shoot the three if there's space, drive the closeout if the defender flies out, or hit the screener rolling."
+    },
+    {
+      "title": "Screener: screen then hand off",
+      "detail": "The pin-down screener often becomes the DHO man. Set the first screen, then sprint to deliver the handoff — conditioning matters."
+    }
+  ],
+  "coachingPoints": [
+    "The shooter's footwork off the pin down is the skill — drill the curl, the flare, and the straight cut separately.",
+    "Timing between the pin down and the DHO is everything; drill it as one sequence.",
+    "Teach the shooter all three reads (shoot, drive, pass) — one-dimensional shooters get scouted.",
+    "Use it for your best shooter, but run the counters too: the backdoor is open when defenders overplay."
+  ],
+  "commonMistakes": [
+    "A soft pin down that the defender slips, ruining the timing of everything after.",
+    "The shooter catching flat-footed instead of on the move.",
+    "Forcing the three when the drive or the pass is the better read."
+  ],
+  "gameSituations": [
+    "Getting your best shooter a clean look against a locked-in defense.",
+    "After timeouts, when you can set the precise timing the action needs.",
+    "When the defense is switching everything — the pin down creates the mismatch first."
+  ],
+  "diagram": {
+    "title": "Chicago: pin down into DHO for the shooter",
+    "offense": [
+      {
+        "label": "O2",
+        "x": 72,
+        "y": 38
+      },
+      {
+        "label": "O5",
+        "x": 72,
+        "y": 52
+      },
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 70
+      }
+    ],
+    "defense": [
+      {
+        "label": "X2",
+        "x": 74,
+        "y": 42
+      }
+    ],
+    "ball": "O1",
+    "screens": [
+      {
+        "x": 72,
+        "y": 46
+      },
+      {
+        "x": 62,
+        "y": 64
+      }
+    ],
+    "moves": [
+      {
+        "from": "O2",
+        "to": "O1",
+        "kind": "cut"
+      },
+      {
+        "from": "O1",
+        "to": "O2",
+        "kind": "dribble"
+      }
+    ],
+    "passes": [],
+    "shots": []
+  },
+  "related": [
+    "dho-action",
+    "pin-down-screen",
+    "zoom-action",
+    "iverson-cut"
+  ],
+  "dateUpdated": "2026-10-06"
+}

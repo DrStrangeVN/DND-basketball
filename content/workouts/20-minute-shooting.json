@@ -1,0 +1,53 @@
+{
+  "id": "20-minute-shooting",
+  "slug": "20-minute-shooting",
+  "title": "20-Minute Shooting Workout",
+  "description": "A focused shooting session covering form, spot shooting, free throws, and movement shooting — 20 minutes, high rep count.",
+  "level": "intermediate",
+  "durationMin": 20,
+  "focus": [
+    "Shooting"
+  ],
+  "equipment": [
+    "Basketball"
+  ],
+  "items": [
+    {
+      "name": "Form shooting",
+      "detail": "One-hand form shots from 4 feet: 5 makes right side, 5 left, 5 middle. Hold every follow-through.",
+      "time": "2:30"
+    },
+    {
+      "name": "Spot shooting ladder",
+      "detail": "5 spots around the arc (corners, wings, top): make 5 from each spot at midrange. Feet set every rep.",
+      "time": "4:30"
+    },
+    {
+      "name": "Catch-and-shoot threes",
+      "detail": "Same 5 spots from three-point range: 3 makes per spot. Catch low, lift straight into the shot.",
+      "time": "4:30"
+    },
+    {
+      "name": "Free throws under pressure",
+      "detail": "Shoot 10 free throws with your full routine. Miss = 5 push-ups before the next pair.",
+      "time": "3:00"
+    },
+    {
+      "name": "One-dribble pull-ups",
+      "detail": "From each wing: one hard dribble into a pull-up jumper, 3 makes per side. Rise up balanced.",
+      "time": "3:30"
+    },
+    {
+      "name": "Relocation threes",
+      "detail": "Catch on the wing, one-dribble side-step into a three: 2 makes per side. Create space like a closeout is coming.",
+      "time": "2:00"
+    }
+  ],
+  "tips": [
+    "Track makes, not attempts — your score is what improves over time.",
+    "Never shoot tired-form reps; if your mechanics break down, shorten the range.",
+    "Use the same routine and rhythm you would in a game — practice how you play.",
+    "A rebounder doubles the value of this workout. Recruit one when you can."
+  ],
+  "dateUpdated": "2026-10-06"
+}

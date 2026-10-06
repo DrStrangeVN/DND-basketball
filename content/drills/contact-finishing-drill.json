@@ -1,0 +1,41 @@
+{
+  "id": "contact-finishing-drill",
+  "slug": "contact-finishing-drill",
+  "title": "Contact Finishing",
+  "description": "A two-player drill with a pad or bump at the rim that trains finishing through contact, and-one toughness, and free-throw conversion.",
+  "skill": "Finishing",
+  "level": "advanced",
+  "ages": ["U16","U18","Adult","Competitive"],
+  "positions": ["ALL"],
+  "players": "2",
+  "equipment": ["Basketball"],
+  "durationMin": 12,
+  "intensity": "high",
+  "goal": "Build the strength and body control to finish at the rim through real defensive contact and convert and-one opportunities.",
+  "setup": [
+    "One player is the finisher, the other is the defender with a blocking pad — or uses a controlled body bump if no pad is available.",
+    "Finisher starts at the wing or top with the ball; defender waits near the paint.",
+    "Rotate roles every 5 makes so both players get contact reps."
+  ],
+  "instructions": [
+    {"title": "Drive and absorb contact", "detail": "Finisher attacks the rim at speed while the defender bumps with the pad at the gather — finisher must keep the ball high and finish."},
+    {"title": "Two-foot power finishes", "detail": "Gather into a two-foot jump stop and go up strong through the bump, using the rim to protect the ball from the defender."},
+    {"title": "And-one free throws", "detail": "After every make through contact, the finisher immediately shoots one free throw — makes the and-one habit automatic."},
+    {"title": "Switch sides and roles", "detail": "Do 5 makes driving right and 5 driving left, then swap roles and repeat."}
+  ],
+  "coachingPoints": [
+    "Initiate the contact yourself — a finisher who seeks the bump stays balanced; one who avoids it gets knocked off line.",
+    "Keep the ball high and tight on the gather — low balls get stripped on contact.",
+    "Go up strong with two hands on the gather, then finish with one — never bring the ball down to your waist.",
+    "Land balanced and be ready for the putback; contact finishes often need a second effort."
+  ],
+  "commonMistakes": [
+    "Fading away from contact — drifting sideways turns an and-one into a blocked shot.",
+    "Bringing the ball down on the bump — keep it chin-to-rim high through the hit."
+  ],
+  "progression": "Defender contests vertically with a hand up instead of just bumping, finisher must score through two consecutive bumps, or add a help defender rotating over.",
+  "regression": "Use lighter bumps, start the drive closer to the rim, or remove the defender and focus on two-foot power mechanics first.",
+  "gameApplication": "Playoff and late-game basketball is physical — players who finish through contact draw fouls and convert three-point plays instead of settling.",
+  "related": ["euro-step-finishing","full-court-finishing","one-on-one-live"],
+  "dateUpdated": "2026-10-06"
+}

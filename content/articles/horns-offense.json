@@ -1,0 +1,121 @@
+{
+  "id": "horns-offense",
+  "slug": "horns-offense",
+  "title": "Horns Offense",
+  "description": "The versatile elbow alignment — two bigs up top, endless entries, screens, and counters from one look.",
+  "hub": "tactics",
+  "subcategory": "offensive-actions",
+  "level": "intermediate",
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult",
+    "Competitive"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "tags": [
+    "horns",
+    "alignment",
+    "entries",
+    "team offense"
+  ],
+  "readTime": 6,
+  "whatIsIt": [
+    "Horns is an offensive alignment, not a single play: the ball handler up top, a big at each elbow, and wings in the corners. From this one look, teams can run ball screens either side, elbow entries, flex cuts, flares, DHOs, and Spain PNR — all without changing the formation.",
+    "Its popularity comes from optionality. The defense sees the same alignment every time but never knows what's coming: a PNR left, a PNR right, a post entry, or a shooter action. That uncertainty is the offense.",
+    "Horns is a favorite of coaches at every level because it is easy to teach (one alignment, clear spots) but hard to scout (many options)."
+  ],
+  "whyItMatters": [
+    "Most offenses telegraph their intentions by their alignment. Horns hides them — the same set produces ten different attacks. For a team, that means less to memorize and more to choose from; for a defense, it means guessing on every possession."
+  ],
+  "howTo": [
+    {
+      "title": "Set the exact spots",
+      "detail": "Ball up top, bigs on the elbows (free-throw line extended), wings deep in the corners. Precision matters — sloppy Horns is just a crowd."
+    },
+    {
+      "title": "Pick your entry",
+      "detail": "The simplest entries: ball screen from either elbow, elbow catch and handoff, or a wing entry into flex action. Call the entry, not the whole play."
+    },
+    {
+      "title": "Use both bigs",
+      "detail": "The non-screening big is the secret weapon: re-screen, dive, pop, or flash to the high post. One-big Horns is just a PNR."
+    },
+    {
+      "title": "Flow to the second side",
+      "detail": "If the first action is covered, swing the ball and attack from the other elbow. The defense shifted; punish the new gap."
+    },
+    {
+      "title": "Keep the corners filled",
+      "detail": "Wings stay home until the action commits. Their shooting gravity is what keeps the paint open for everything else."
+    }
+  ],
+  "coachingPoints": [
+    "Teach the alignment before any plays — players must know their spots cold.",
+    "Install one entry per week; Horns with five half-learned options is worse than one mastered.",
+    "Let the point guard choose the side — called sides become predictable fast.",
+    "Bigs need screening, popping, and short-roll skills; Horns asks a lot of them."
+  ],
+  "commonMistakes": [
+    "Bigs setting up too low or too wide, destroying the elbow geometry.",
+    "Running the same entry every time — the alignment's power is its variety.",
+    "Wings drifting in early and letting help defenders clog the paint."
+  ],
+  "gameSituations": [
+    "ATO plays and late-game, when one alignment with many options is ideal.",
+    "Teams with two skilled bigs who can screen, pop, and decide.",
+    "Against switching defenses, where the second big punishes every switch."
+  ],
+  "diagram": {
+    "title": "Horns alignment: two elbows, corners filled",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 78
+      },
+      {
+        "label": "O5",
+        "x": 40,
+        "y": 62
+      },
+      {
+        "label": "O4",
+        "x": 60,
+        "y": 62
+      },
+      {
+        "label": "O2",
+        "x": 16,
+        "y": 30
+      },
+      {
+        "label": "O3",
+        "x": 84,
+        "y": 30
+      }
+    ],
+    "defense": [
+      {
+        "label": "X1",
+        "x": 50,
+        "y": 72
+      }
+    ],
+    "ball": "O1",
+    "screens": [],
+    "moves": [],
+    "passes": [],
+    "shots": []
+  },
+  "related": [
+    "horns-pick-and-roll",
+    "motion-offense",
+    "pin-down-screen",
+    "iverson-cut"
+  ],
+  "dateUpdated": "2026-10-06"
+}

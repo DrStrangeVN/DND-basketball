@@ -1,0 +1,141 @@
+{
+  "id": "floppy-action",
+  "slug": "floppy-action",
+  "title": "Floppy Action",
+  "description": "Cross screens under the basket to free a shooter sprinting to either wing — the classic shooter set.",
+  "hub": "tactics",
+  "subcategory": "offensive-actions",
+  "level": "intermediate",
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult",
+    "Competitive"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "tags": [
+    "floppy",
+    "screens",
+    "shooter actions",
+    "plays"
+  ],
+  "readTime": 5,
+  "whatIsIt": [
+    "Floppy is a set play for a shooter: two bigs set cross screens for each other under the basket while the shooter chooses which side to sprint to, then receives a screen to pop out to the wing for a catch-and-shoot.",
+    "Its beauty is the choice. The shooter reads their defender and picks the open side — the defense can't prepare for both. The double-screen action underneath occupies the help, so the shooter usually emerges with real separation.",
+    "Floppy has freed the game's great shooters for decades. It's simple, it's repeatable, and it's almost impossible to take away completely."
+  ],
+  "whyItMatters": [
+    "Elite shooters warp defenses, but only if they get open. Floppy is the most reliable delivery system ever designed for a catch-and-shoot three — two screens, a read, and a shot, all in about four seconds."
+  ],
+  "howTo": [
+    {
+      "title": "Stack the bigs under the rim",
+      "detail": "Two screeners start on opposite blocks. Their first job is to screen for each other — the cross screen occupies the help defenders."
+    },
+    {
+      "title": "Shooter reads and chooses",
+      "detail": "The shooter starts under the basket, reads their defender's position, and sprints to the open side. The choice is the weapon."
+    },
+    {
+      "title": "Sprint off the screen",
+      "detail": "One of the bigs turns and screens for the shooter coming out. Shoulder-to-shoulder, full speed — the shooter should catch with separation."
+    },
+    {
+      "title": "Catch shot-ready",
+      "detail": "Feet set in the air, hands ready, eyes on the rim. The pass should meet the shooter in their shooting pocket."
+    },
+    {
+      "title": "Have the counter ready",
+      "detail": "If the defender trails hard, the shooter curls to the rim. If they go under, it's a straight catch-and-shoot. Teach both."
+    }
+  ],
+  "coachingPoints": [
+    "The shooter's read is the skill — drill choosing sides against a live defender.",
+    "Screens must be legal and physical; moving screens kill the play and the rhythm.",
+    "The passer must throw on time — late passes turn open shots into contested ones.",
+    "Run it to both sides in practice so the defense can't shade."
+  ],
+  "commonMistakes": [
+    "The shooter deciding the side before reading the defender — then it's just a slow cut.",
+    "Bigs screening air because they never made contact with anyone.",
+    "Catching flat-footed and needing an extra beat to shoot."
+  ],
+  "gameSituations": [
+    "ATO plays designed for your best shooter.",
+    "When the defense is denying your shooter and you need a structured way to free them.",
+    "End-of-quarter, when one clean three is the goal."
+  ],
+  "diagram": {
+    "title": "Floppy: cross screens, shooter sprints to the wing",
+    "offense": [
+      {
+        "label": "O2",
+        "x": 50,
+        "y": 22
+      },
+      {
+        "label": "O5",
+        "x": 42,
+        "y": 28
+      },
+      {
+        "label": "O4",
+        "x": 58,
+        "y": 28
+      },
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 72
+      },
+      {
+        "label": "O3",
+        "x": 78,
+        "y": 58
+      }
+    ],
+    "defense": [
+      {
+        "label": "X2",
+        "x": 52,
+        "y": 24
+      }
+    ],
+    "ball": "O1",
+    "screens": [
+      {
+        "x": 50,
+        "y": 28
+      },
+      {
+        "x": 62,
+        "y": 44
+      }
+    ],
+    "moves": [
+      {
+        "from": "O2",
+        "to": "O3",
+        "kind": "cut"
+      }
+    ],
+    "passes": [
+      {
+        "from": "O1",
+        "to": "O2"
+      }
+    ],
+    "shots": []
+  },
+  "related": [
+    "pin-down-screen",
+    "stagger-screen",
+    "elevator-doors",
+    "iverson-cut"
+  ],
+  "dateUpdated": "2026-10-06"
+}

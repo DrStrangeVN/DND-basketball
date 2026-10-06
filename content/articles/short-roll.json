@@ -1,0 +1,150 @@
+{
+  "id": "short-roll",
+  "slug": "short-roll",
+  "title": "Short Roll Decisions",
+  "description": "Instead of rolling all the way, the screener catches in the pocket and becomes the playmaker.",
+  "hub": "pick-and-roll",
+  "subcategory": "pick-and-roll",
+  "level": "advanced",
+  "ages": [
+    "U16",
+    "U18",
+    "Adult",
+    "Competitive"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "tags": [
+    "pick and roll",
+    "short roll",
+    "playmaking",
+    "big men"
+  ],
+  "readTime": 6,
+  "whatIsIt": [
+    "The short roll is when the screener, instead of rolling all the way to the rim, stops in the middle of the floor — around the free-throw line or the nail — to catch the ball. From there, the big becomes a playmaker with the whole floor in front of them.",
+    "It is the answer to the tag: when a help defender rotates to stop the deep roll, the short roll catches the ball in the exact spot the helper left. Now it's 4-on-3 with a skilled decision-maker in the middle.",
+    "The short roll turned modern big men into hubs. Catch, read, and choose: shoot the open jumper, drive the closeout, hit the roller cutting behind, or skip to the weak side."
+  ],
+  "whyItMatters": [
+    "Defenses solved the deep roll by tagging with the low man. The short roll re-solves it by turning the tag into an advantage — the helper's rotation creates the very space the big catches in. Teams with a short-roll threat make help defense a losing proposition."
+  ],
+  "howTo": [
+    {
+      "title": "Read the tag early",
+      "detail": "As you roll, feel or see the help defender rotating toward you. Stop your roll in the pocket — don't run into the tag."
+    },
+    {
+      "title": "Catch balanced and facing",
+      "detail": "Catch on two feet, facing the basket, ball high. You need to see the whole floor the instant the ball arrives."
+    },
+    {
+      "title": "Shoot if they ignore you",
+      "detail": "If no one steps up, take the free-throw jumper. The defense must respect it, or the short roll becomes a layup line."
+    },
+    {
+      "title": "Drive the hard closeout",
+      "detail": "If a defender sprints at you, put it on the floor — one or two dribbles to the rim or to draw the next rotation."
+    },
+    {
+      "title": "Hit the next rotation",
+      "detail": "When the defense scrambles, find the open man: the corner shooter the tagger left, or the roller cutting behind the play. The skip pass is the kill shot."
+    },
+    {
+      "title": "Keep it quick",
+      "detail": "Catch and decide in one beat. Holding the ball lets the defense recover and kills the 4-on-3."
+    }
+  ],
+  "coachingPoints": [
+    "Bigs need guard skills for this: catching, facing up, and making quick decisions must be drilled.",
+    "Teach the exact catch spot — the nail/free-throw area — with floor markers in practice.",
+    "Reps must include a live tagger; the read is the whole skill.",
+    "Film the decision: pause at the catch and ask the big what they see before playing on."
+  ],
+  "commonMistakes": [
+    "Rolling all the way into the tag defender instead of stopping short.",
+    "Catching flat-footed and facing the sideline, unable to see the floor.",
+    "Holding the ball too long and letting the 4-on-3 advantage evaporate.",
+    "Forcing the pass to the roller when the skip to the corner is wide open."
+  ],
+  "gameSituations": [
+    "Against any defense that tags the roller with the low man.",
+    "With a skilled passing big — the short roll becomes your best playmaking action.",
+    "When the deep roll is walled off but the middle of the floor is open."
+  ],
+  "diagram": {
+    "title": "Short roll: catch at the nail, playmake 4-on-3",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 76
+      },
+      {
+        "label": "O5",
+        "x": 57,
+        "y": 68
+      },
+      {
+        "label": "O3",
+        "x": 84,
+        "y": 45
+      },
+      {
+        "label": "O2",
+        "x": 16,
+        "y": 30
+      }
+    ],
+    "defense": [
+      {
+        "label": "X1",
+        "x": 47,
+        "y": 69
+      },
+      {
+        "label": "X5",
+        "x": 60,
+        "y": 58
+      },
+      {
+        "label": "X3",
+        "x": 70,
+        "y": 42
+      }
+    ],
+    "ball": "O5",
+    "screens": [
+      {
+        "x": 57,
+        "y": 68
+      }
+    ],
+    "moves": [
+      {
+        "from": "O5",
+        "to": "O3",
+        "kind": "cut"
+      }
+    ],
+    "passes": [
+      {
+        "from": "O1",
+        "to": "O5"
+      },
+      {
+        "from": "O5",
+        "to": "O2"
+      }
+    ],
+    "shots": []
+  },
+  "related": [
+    "roll-man-reads",
+    "pick-and-roll-basics",
+    "pocket-pass-pnr",
+    "ball-handler-reads"
+  ],
+  "dateUpdated": "2026-10-06"
+}

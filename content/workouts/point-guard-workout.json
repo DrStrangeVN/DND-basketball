@@ -1,0 +1,27 @@
+{
+  "id": "point-guard-workout",
+  "slug": "point-guard-workout",
+  "title": "Point Guard Workout",
+  "description": "An advanced 40-minute floor-general session: elite ball handling, live pick-and-roll reads, passing under pressure, pull-up scoring, and leadership reps.",
+  "level": "advanced",
+  "durationMin": 40,
+  "focus": ["Ball Handling", "Pick & Roll", "Passing", "Shooting", "Finishing"],
+  "equipment": ["Basketball", "Cones"],
+  "items": [
+    {"name": "Advanced two-ball series", "detail": "Two-ball crossovers, between-the-legs, and behind-the-back while walking the court. 4 lengths, eyes up.", "time": "4:00"},
+    {"name": "Pressure ball handling", "detail": "Partner or coach applies token pressure with a hand: retreat dribbles, spin-outs, and pocket protection. Stay composed.", "time": "4:00"},
+    {"name": "Pick-and-roll mastery block", "detail": "Chair screen at the top: snake, reject, split, and pocket-pass reads — 5 reps of each, full speed.", "time": "8:00"},
+    {"name": "Live passing reads", "detail": "Drive-and-kick: attack a cone, jump-stop, and hit a target (chair) on the wing or corner. 10 accurate passes.", "time": "5:00"},
+    {"name": "Pull-up and floater package", "detail": "Elbow pull-ups, one-dribble side-steps, and runners: 3 makes per spot, both sides.", "time": "7:00"},
+    {"name": "Transition decision-making", "detail": "Full-court 1-on-0 push: advance the ball, read an imaginary trailer, finish or pull up. 8 trips.", "time": "5:00"},
+    {"name": "Free throws with consequences", "detail": "10 free throws: every miss is 10 seconds of defensive slides. Train focus when it costs you.", "time": "4:00"},
+    {"name": "Cool-down and visualization", "detail": "Light shooting while visualizing your team's sets — see yourself making the right read 5 times.", "time": "3:00"}
+  ],
+  "tips": [
+    "A point guard's workout is measured in decisions, not just makes — narrate your reads out loud.",
+    "Train your weak-hand live dribble until it's boring; that's when it's game-ready.",
+    "Every drill should end with a decision: shoot, pass, or drive. Never go through the motions.",
+    "Bring a partner for the pressure and passing blocks — point guard work is better with a defense."
+  ],
+  "dateUpdated": "2026-10-06"
+}

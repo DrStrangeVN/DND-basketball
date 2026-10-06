@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dndbasketball.vercel.app/sitemap.xml

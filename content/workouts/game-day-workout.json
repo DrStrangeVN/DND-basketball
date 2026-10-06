@@ -1,0 +1,25 @@
+{
+  "id": "game-day-workout",
+  "slug": "game-day-workout",
+  "title": "Game-Day Workout",
+  "description": "A light 20-minute game-day tune-up: rhythm shooting, touch finishes, and free throws — sharpens feel without tiring your legs.",
+  "level": "intermediate",
+  "durationMin": 20,
+  "focus": ["Shooting", "Finishing"],
+  "equipment": ["Basketball"],
+  "items": [
+    {"name": "Form shooting", "detail": "Easy one-hand form shots close to the rim: 10 makes. Loose, relaxed, find your touch.", "time": "3:00"},
+    {"name": "Spot shooting", "detail": "Midrange spots you will shoot tonight: 3 makes per spot, game-speed footwork, no rushing.", "time": "5:00"},
+    {"name": "Game-spot threes", "detail": "Threes from your real game spots only: 2 makes per spot. See the ball go through the net.", "time": "4:00"},
+    {"name": "Touch finishes", "detail": "Easy layups both hands, a few floaters — no contact, no jumping max. Just feel.", "time": "3:00"},
+    {"name": "Free throws", "detail": "10 free throws with your exact game routine. End on a swish.", "time": "3:00"},
+    {"name": "Visualization", "detail": "Stand at half-court, close your eyes, and picture 3 successful plays from tonight's game.", "time": "2:00"}
+  ],
+  "tips": [
+    "Game day is about confidence, not conditioning — if your legs feel heavy, you did too much.",
+    "Shoot only from spots you will actually get in the game tonight.",
+    "End every shooting block on a make. Your last rep is what your brain remembers.",
+    "Stay off your feet after the workout — save your legs for tip-off."
+  ],
+  "dateUpdated": "2026-10-06"
+}

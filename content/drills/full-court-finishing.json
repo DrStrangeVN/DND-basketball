@@ -1,0 +1,42 @@
+{
+  "id": "full-court-finishing",
+  "slug": "full-court-finishing",
+  "title": "Full-Court Finishing",
+  "description": "Full-speed dribble drives from half-court to the rim, alternating finishes off both feet and both hands at game pace.",
+  "skill": "Finishing",
+  "level": "intermediate",
+  "ages": ["U12","U14","U16","U18","Adult","Competitive"],
+  "positions": ["ALL"],
+  "players": "1",
+  "equipment": ["Basketball"],
+  "durationMin": 12,
+  "intensity": "high",
+  "goal": "Train attacking the rim at full speed with balanced, controlled finishes off either foot and either hand.",
+  "setup": [
+    "Start at half-court with the ball, alternating which side of the court you attack.",
+    "No defender needed for the base version; add a cone at the elbow as a 'defender' to change your angle if you like.",
+    "Have water nearby — this drill keeps your heart rate high."
+  ],
+  "instructions": [
+    {"title": "Right-hand layup, full speed", "detail": "Dribble full court at 90% speed and finish a right-hand layup off the left foot; grab your rebound and repeat from the other side."},
+    {"title": "Left-hand layup", "detail": "Attack the left side and finish with your left hand off your right foot — 5 makes each side."},
+    {"title": "Euro step finishes", "detail": "Approach the paint at speed and finish with a euro step, alternating direction each rep — 5 makes."},
+    {"title": "Pro hop / two-foot finishes", "detail": "Gather into a two-foot power stop and finish off the glass through contact — imagine a shot blocker and go up strong."},
+    {"title": "Conditioning finish", "detail": "Make 10 consecutive layups full court, alternating hands, without stopping — miss and keep going until you hit 10."}
+  ],
+  "coachingPoints": [
+    "Attack at speed — the drill only works if you carry real pace into the paint.",
+    "Protect the ball with your outside shoulder and body on every drive.",
+    "Jump off the inside foot on one-foot finishes; land balanced, not falling away.",
+    "Use the backboard on angle finishes — high glass, soft touch."
+  ],
+  "commonMistakes": [
+    "Slowing down before the rim — deceleration at the basket invites the block; keep your speed into the gather.",
+    "One-hand dominant finishing — if your left hand is weak, it will cost you points in games."
+  ],
+  "progression": "Add a chasing defender who starts a step behind, add a shot-blocker pad at the rim, or require a specific finish called out mid-drive.",
+  "regression": "Slow to 70% speed, start from the three-point line instead of half-court, or finish stationary from two dribbles.",
+  "gameApplication": "Transition and drive finishes decide games — this drill builds the speed, touch, and ambidexterity to score at the rim when the defense is scrambling.",
+  "related": ["mikan-drill","euro-step-finishing","transition-two-on-one"],
+  "dateUpdated": "2026-10-06"
+}

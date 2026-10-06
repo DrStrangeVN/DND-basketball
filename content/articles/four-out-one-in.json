@@ -1,0 +1,80 @@
+{
+  "id": "four-out-one-in",
+  "slug": "four-out-one-in",
+  "title": "4-Out 1-In Offense",
+  "description": "Four perimeter players plus one interior player — the classic balance of spacing and post presence.",
+  "hub": "offense",
+  "subcategory": "team-offense",
+  "level": "intermediate",
+  "ages": [
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult",
+    "Competitive"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "tags": [
+    "4-out",
+    "post play",
+    "spacing",
+    "team offense"
+  ],
+  "readTime": 6,
+  "whatIsIt": [
+    "4-out 1-in places four players on the perimeter — corners and wings or a top-and-wings look — with one player inside, usually on the block or at the elbow. It is the most common offensive alignment in basketball history.",
+    "The inside player gives the offense a post threat, a high-low option, and an offensive rebounder, while the four perimeter players keep the floor spaced for drives and ball screens.",
+    "It works as motion, as a ball-screen offense, or as a post-entry offense. The key tension to manage: the post player must not clog the driving lanes the four perimeter players create."
+  ],
+  "whyItMatters": [
+    "Most teams have one player who is bigger or stronger than everyone else, and 4-out 1-in lets that player matter without shrinking the floor. It teaches inside-out basketball — post touches that collapse the defense and kick out to shooters — which is a winning formula at every level."
+  ],
+  "howTo": [
+    {
+      "title": "Place the post on the ball-side block",
+      "detail": "The inside player seals on the block or flashes to the elbow depending on the entry angle. Keep them out of the middle driving lane."
+    },
+    {
+      "title": "Enter the post with purpose",
+      "detail": "Pass into the post only when the sealer has position — defender on the back or high side. A bad entry pass is a live-ball turnover."
+    },
+    {
+      "title": "Cut and move off the entry",
+      "detail": "When the ball goes inside, perimeter players cut, screen, or relocate. Standing around the post entry makes doubles easy."
+    },
+    {
+      "title": "Play inside-out",
+      "detail": "If the post is doubled, the kick-out to the perimeter is the primary read. Swing the ball and attack the rotating defense."
+    },
+    {
+      "title": "Use the post as a screener",
+      "detail": "When the post is not getting touches, bring them up to set ball screens or cross-screens — a moving big is harder to guard than a parked one."
+    }
+  ],
+  "coachingPoints": [
+    "Teach the post to seal early — position is won before the pass, not after it.",
+    "Perimeter players must time their cuts to the post player's moves, not freelance randomly.",
+    "If the defense fronts the post, use a lob or a back-screen; never force a contested entry.",
+    "The post player should be your best screener — use them in pick-and-roll when the post game stalls."
+  ],
+  "commonMistakes": [
+    "Parking the big in the lane and killing every driving angle for the guards.",
+    "Forcing post entries against fronting defenses instead of reversing the ball.",
+    "Perimeter players standing still on post touches, letting the double team arrive cleanly."
+  ],
+  "gameSituations": [
+    "Teams with one dominant interior player and four capable perimeter players.",
+    "Against smaller lineups that cannot handle a post threat one-on-one.",
+    "When you need reliable half-court scoring and offensive rebounding."
+  ],
+  "related": [
+    "five-out-offense",
+    "motion-offense",
+    "drive-and-kick-offense",
+    "horns-offense"
+  ],
+  "dateUpdated": "2026-10-06"
+}

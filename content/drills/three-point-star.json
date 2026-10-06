@@ -1,0 +1,42 @@
+{
+  "id": "three-point-star",
+  "slug": "three-point-star",
+  "title": "Three-Point Star",
+  "description": "A five-spot three-point shooting gauntlet with a scoring target that builds range, stamina, and competitive shooting under fatigue.",
+  "skill": "Shooting",
+  "level": "intermediate",
+  "ages": ["U14","U16","U18","Adult","Competitive"],
+  "positions": ["ALL"],
+  "players": "1",
+  "equipment": ["Basketball"],
+  "durationMin": 15,
+  "intensity": "medium",
+  "goal": "Build reliable three-point range from all five spots with a scored target that forces concentration and efficiency.",
+  "setup": [
+    "Mark five three-point spots: both corners, both wings, and top of the key.",
+    "You need a rebounder or be willing to chase — a rebounder makes the drill far more productive.",
+    "Set a target score: 3 points for a swish, 2 for a make, 0 for a miss."
+  ],
+  "instructions": [
+    {"title": "Shoot 5 from each spot", "detail": "Take 5 shots from the right corner, scoring 3 for swish and 2 for make, then move to the next spot."},
+    {"title": "Minimum score to advance", "detail": "You need at least 12 points (out of a possible 15) per spot to move on — repeat the spot if you fall short."},
+    {"title": "Work through all five spots", "detail": "Complete corners, wings, and top with the same minimum-score rule at every location."},
+    {"title": "Add a conditioning finish", "detail": "After the fifth spot, shoot a free throw; if you miss, run a full-court sprint and repeat until you make one."},
+    {"title": "Track your total", "detail": "Record your score out of 75 and aim to beat it next session."}
+  ],
+  "coachingPoints": [
+    "Use your legs — three-point range comes from the lower body, not muscling the ball.",
+    "Keep the same form as your midrange shot; only the power changes.",
+    "Shot preparation is faster at three — feet set and ball ready before the catch.",
+    "Track arc on your shots: a flat three rarely goes in."
+  ],
+  "commonMistakes": [
+    "Landing forward past the line — you are drifting into the shot instead of elevating straight up.",
+    "Changing form when tired — fatigue exposes mechanics; shorten the session before your form breaks."
+  ],
+  "progression": "Require consecutive makes to advance, add a closeout defender who contests each shot, or shoot off a one-dribble side-step at each spot.",
+  "regression": "Shoot from two feet inside the line, drop the minimum score to 8 per spot, or cut to three spots instead of five.",
+  "gameApplication": "Catch-and-shoot threes from every spot are the backbone of modern spacing — this drill trains you to knock them down even when your legs are tired.",
+  "related": ["spot-shooting-ladder","form-shooting","skip-pass-shooting"],
+  "dateUpdated": "2026-10-06"
+}

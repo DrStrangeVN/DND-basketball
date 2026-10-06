@@ -1,0 +1,6 @@
+import HubView from "@/components/HubView";
+import { hubMetadata } from "@/lib/article-route";
+export const metadata = hubMetadata("fundamentals");
+export default function Page() {
+  return <HubView hubId="fundamentals" />;
+}

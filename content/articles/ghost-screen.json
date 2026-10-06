@@ -1,0 +1,131 @@
+{
+  "id": "ghost-screen",
+  "slug": "ghost-screen",
+  "title": "Ghost Screens",
+  "description": "The screener fakes the screen and slips away before contact, confusing the defense's coverage call.",
+  "hub": "pick-and-roll",
+  "subcategory": "pick-and-roll",
+  "level": "advanced",
+  "ages": [
+    "U16",
+    "U18",
+    "Adult",
+    "Competitive"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "tags": [
+    "ghost screen",
+    "pick and roll",
+    "slip",
+    "counters"
+  ],
+  "readTime": 5,
+  "whatIsIt": [
+    "A ghost screen is a fake screen: the screener sprints toward the ball handler as if to set the pick, then veers away before contact — usually slipping to the rim or popping to space. The defense, expecting a screen, reacts to something that never happens.",
+    "It works because modern defenses communicate coverages early. The on-ball defender hears 'screen coming' and prepares to go over or under; the big prepares to hedge or drop. The ghost leaves both defenders guarding a play that doesn't exist — while the 'screener' is already open.",
+    "The ghost is a changeup, not a fastball. Used sparingly, it is devastating; used every time, the defense stops reacting and it becomes just a bad screen."
+  ],
+  "whyItMatters": [
+    "Defenses drill their pick-and-roll coverages thousands of times — the ghost breaks the drill. It punishes the two most common defensive habits: the big showing early and the guard jumping the screen. One well-timed ghost per game keeps every coverage honest."
+  ],
+  "howTo": [
+    {
+      "title": "Sell the approach",
+      "detail": "Sprint at the ball handler exactly like a real screen — same speed, same angle, same body language. The fake only works if it looks real."
+    },
+    {
+      "title": "Read the early reaction",
+      "detail": "If the screener's defender jumps out to hedge or the on-ball defender starts going over early, the ghost is on. If no one reacts, just set the real screen."
+    },
+    {
+      "title": "Veer at the last step",
+      "detail": "One step before contact, plant and cut — slip to the rim if the big committed, or pop to space if they stayed back."
+    },
+    {
+      "title": "Ball handler: play off it",
+      "detail": "When your screener ghosts, attack the confusion immediately. The defense is mid-rotation — drive the gap before they sort it out."
+    },
+    {
+      "title": "Keep it rare",
+      "detail": "Two or three ghosts per game maximum. The threat works because the real screen is the default."
+    }
+  ],
+  "coachingPoints": [
+    "Teach the ghost only after the real screen is automatic — players who can't screen will just fake everything.",
+    "The decision point is the defender's reaction, not a called play. Drill it as a read.",
+    "Film helps: show the exact moment the defense commits to the fake.",
+    "Pair it with the slip — the footwork is nearly identical."
+  ],
+  "commonMistakes": [
+    "Ghosting every time, so the defense stops honoring the screen at all.",
+    "A half-hearted fake that fools nobody and just looks like a missed screen.",
+    "Ghosting when the defense hasn't reacted — then it's just abandoning your teammate."
+  ],
+  "gameSituations": [
+    "Against aggressive hedge or blitz defenses that show early.",
+    "When the on-ball defender is clearly trying to jump every screen.",
+    "As a surprise counter after running several real pick-and-rolls in a row."
+  ],
+  "diagram": {
+    "title": "Ghost screen: fake the pick, slip to the rim",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 76
+      },
+      {
+        "label": "O5",
+        "x": 57,
+        "y": 70
+      },
+      {
+        "label": "O3",
+        "x": 32,
+        "y": 62
+      }
+    ],
+    "defense": [
+      {
+        "label": "X1",
+        "x": 48,
+        "y": 70
+      },
+      {
+        "label": "X5",
+        "x": 62,
+        "y": 64
+      }
+    ],
+    "ball": "O1",
+    "screens": [],
+    "moves": [
+      {
+        "from": "O5",
+        "to": "O1",
+        "kind": "cut"
+      },
+      {
+        "from": "O1",
+        "to": "O3",
+        "kind": "dribble"
+      }
+    ],
+    "passes": [
+      {
+        "from": "O1",
+        "to": "O5"
+      }
+    ],
+    "shots": []
+  },
+  "related": [
+    "screen-angle",
+    "reject-screen",
+    "pick-and-roll-basics",
+    "spain-pick-and-roll"
+  ],
+  "dateUpdated": "2026-10-06"
+}

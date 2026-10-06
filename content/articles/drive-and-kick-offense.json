@@ -1,0 +1,128 @@
+{
+  "id": "drive-and-kick-offense",
+  "slug": "drive-and-kick-offense",
+  "title": "Drive & Kick Offense",
+  "description": "Attack the paint off the dribble to collapse the defense, then kick out to open shooters.",
+  "hub": "offense",
+  "subcategory": "team-offense",
+  "level": "intermediate",
+  "ages": [
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult",
+    "Competitive"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "tags": [
+    "driving",
+    "kick-out",
+    "spacing",
+    "penetration"
+  ],
+  "readTime": 5,
+  "whatIsIt": [
+    "Drive and kick is the simplest and most explosive offensive concept in basketball: one player beats their defender off the dribble, the defense collapses to help, and the driver kicks the ball out to an open teammate.",
+    "It does not require complex plays. It requires spacing, one player who can get into the paint, and teammates who relocate to open spots as the drive develops.",
+    "Modern analytics love drive and kick because it produces the two most efficient shots in basketball — layups and open threes — on the same possession."
+  ],
+  "whyItMatters": [
+    "Every defense has to choose between giving up the layup or giving up the open three. Drive and kick forces that choice on every possession. It also develops the most valuable guard skill in the modern game: playing in the paint with your eyes up."
+  ],
+  "howTo": [
+    {
+      "title": "Attack a closeout or a mismatch",
+      "detail": "Drives start from advantage — a long closeout, a slower defender, a screen. Drive with a plan, not just to dribble into traffic."
+    },
+    {
+      "title": "Get two feet in the paint",
+      "detail": "The goal is a paint touch. Once two feet are inside, the defense must help, and the kick-out lanes open."
+    },
+    {
+      "title": "Read the help, not your defender",
+      "detail": "Beat your man, then lift your eyes. The pass goes to the spot the helper left — usually the corner or the wing behind the drive."
+    },
+    {
+      "title": "Kick with pace",
+      "detail": "Throw the kick-out hard and on target, to the shooter's pocket. A soft or late pass lets the defense recover."
+    },
+    {
+      "title": "Relocate as the drive happens",
+      "detail": "Off-ball players slide to open windows — corners lift, wings drift. Great drive-and-kick teams move without the ball as much as the driver moves with it."
+    }
+  ],
+  "coachingPoints": [
+    "Teach a two-dribble limit mindset: get into the paint in two dribbles or give it up.",
+    "Drivers must jump-stop or stride-stop in the paint to stay balanced for the kick.",
+    "Shooters should be shot-ready before the catch — feet set, hands ready.",
+    "Reward the extra pass: the first kick often creates the second, better shot."
+  ],
+  "commonMistakes": [
+    "Driving with the head down and missing the open kick-out.",
+    "Kicking out too late, after the defense has already rotated back.",
+    "Teammates standing still and watching the drive instead of relocating to space."
+  ],
+  "gameSituations": [
+    "Any possession where a defender closes out long or gets beat off the dribble.",
+    "Against zone defenses — dribble penetration collapses zones faster than passing around them.",
+    "Late-clock situations needing one clean look: drive, draw two, kick."
+  ],
+  "diagram": {
+    "title": "Drive and kick: baseline drive, kick to the corner",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 30,
+        "y": 70
+      },
+      {
+        "label": "O2",
+        "x": 12,
+        "y": 28
+      },
+      {
+        "label": "O3",
+        "x": 78,
+        "y": 58
+      }
+    ],
+    "defense": [
+      {
+        "label": "X1",
+        "x": 32,
+        "y": 62
+      },
+      {
+        "label": "X2",
+        "x": 24,
+        "y": 40
+      }
+    ],
+    "ball": "O1",
+    "screens": [],
+    "moves": [
+      {
+        "from": "O1",
+        "to": "O2",
+        "kind": "dribble"
+      }
+    ],
+    "passes": [
+      {
+        "from": "O1",
+        "to": "O2"
+      }
+    ],
+    "shots": []
+  },
+  "related": [
+    "five-out-offense",
+    "motion-offense",
+    "cutting-basketball",
+    "dho-action"
+  ],
+  "dateUpdated": "2026-10-06"
+}
