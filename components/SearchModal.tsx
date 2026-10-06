@@ -1,7 +1,7 @@
 "use client";
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import { useRouter } from "next/navigation";
-import Fuse from "fuse.js";
+import { fuzzySearch } from "@/lib/fuzzy-search";
 import { Search, X, BookOpen, Dumbbell, Timer, Route, BookMarked, TrendingUp, ArrowRight } from "lucide-react";
 
 interface Entry {
@@ -26,20 +26,10 @@ export default function SearchModal() {
   const inputRef = useRef<HTMLInputElement>(null);
   const router = useRouter();
 
-  const fuse = useMemo(() => index ? new Fuse(index, {
-    keys: [
-      { name: "title", weight: 0.5 },
-      { name: "tags", weight: 0.25 },
-      { name: "description", weight: 0.15 },
-      { name: "hub", weight: 0.1 },
-    ],
-    threshold: 0.38, ignoreLocation: true, minMatchCharLength: 2,
-  }) : null, [index]);
-
   const results = useMemo(() => {
-    if (!fuse || q.trim().length < 2) return [];
-    return fuse.search(q.trim()).slice(0, 8).map((r) => r.item);
-  }, [fuse, q]);
+    if (!index || q.trim().length < 2) return [];
+    return fuzzySearch(index, q.trim(), 8);
+  }, [index, q]);
 
   const openModal = useCallback(() => setOpen(true), []);
   useEffect(() => {

@@ -2,7 +2,7 @@
 import { Suspense, useEffect, useMemo, useState } from "react";
 import { useSearchParams, useRouter } from "next/navigation";
 import Link from "next/link";
-import Fuse from "fuse.js";
+import { fuzzySearch } from "@/lib/fuzzy-search";
 import { Search, BookOpen, Dumbbell, Timer, Route, BookMarked, X } from "lucide-react";
 import { Breadcrumbs, LevelBadge } from "@/components/ui";
 
@@ -27,14 +27,6 @@ function SearchView() {
     fetch("/search-index.json").then((r) => r.json()).then(setIndex).catch(() => {});
   }, []);
 
-  const fuse = useMemo(() => index ? new Fuse(index, {
-    keys: [
-      { name: "title", weight: 0.5 }, { name: "tags", weight: 0.25 },
-      { name: "description", weight: 0.15 }, { name: "hub", weight: 0.1 },
-    ],
-    threshold: 0.38, ignoreLocation: true, minMatchCharLength: 2,
-  }) : null, [index]);
-
   const tag = params.get("tag");
   const results = useMemo(() => {
     if (!index) return [];
@@ -43,11 +35,11 @@ function SearchView() {
     if (tag) items = index.filter((e) => e.tags.includes(tag.toLowerCase()));
     else if (level && !needle) items = index.filter((e) => e.level === level);
     else if (!needle) items = [];
-    else items = (fuse ? fuse.search(needle).map((r) => r.item) : []);
+    else items = fuzzySearch(index, needle, 60);
     if (type) items = items.filter((e) => e.type === type);
     if (level && needle) items = items.filter((e) => e.level === level);
     return items.slice(0, 60);
-  }, [index, fuse, q, type, level, tag]);
+  }, [index, q, type, level, tag]);
 
   const clearTag = () => router.push("/search");
 
