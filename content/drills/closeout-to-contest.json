@@ -1,0 +1,123 @@
+{
+  "id": "closeout-to-contest",
+  "slug": "closeout-to-contest",
+  "title": "Closeout to Contest",
+  "description": "Sprint from help position, break down into a balanced closeout, and contest the shot with a high hand — then block out.",
+  "skill": "Defense",
+  "level": "intermediate",
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "players": "2+",
+  "equipment": [
+    "Basketball"
+  ],
+  "durationMin": 10,
+  "intensity": "medium",
+  "goal": "Close out under control in under 2 seconds, contest with a high hand without fouling, and finish by blocking out the shooter.",
+  "setup": [
+    "Defender starts at the free-throw line (help position); the shooter stands at the wing with a ball.",
+    "On the pass or the coach's call, the defender sprints to close out.",
+    "The shooter takes one shot per rep; the defender contests, then blocks out.",
+    "8 reps per side, then switch; track contests that force a miss."
+  ],
+  "instructions": [
+    {
+      "title": "Sprint the first 12 feet",
+      "detail": "Explode out of your stance and sprint hard — the first two-thirds of the closeout is all speed."
+    },
+    {
+      "title": "Break down early",
+      "detail": "Chop your steps over the last 6 feet, get low with a wide base, and keep your chest facing the shooter."
+    },
+    {
+      "title": "High-hand contest",
+      "detail": "Throw your inside hand high to contest the shooter's vision; never jump into their landing space."
+    },
+    {
+      "title": "Block out on the shot",
+      "detail": "The moment the ball leaves their hands, find the shooter's body, make contact, and pursue the rebound."
+    },
+    {
+      "title": "Reset and repeat",
+      "detail": "Sprint back to help position after each rep — closeouts in games come in waves, so train the recovery."
+    }
+  ],
+  "coachingPoints": [
+    "Short, choppy steps at the end — long strides mean you fly past the shooter.",
+    "Contest with the hand closest to the ball, high and straight up — no swiping down.",
+    "Stay on your feet; a shot fake beats a jumping contest every time.",
+    "The closeout is not finished until you block out — contest, then contact."
+  ],
+  "commonMistakes": [
+    "Sprinting all the way through the shooter — you foul or give up the blow-by; break down early.",
+    "Contesting with a low hand at the shooter's waist — it fouls and never bothers the shot.",
+    "Watching the ball flight instead of blocking out — find a body first."
+  ],
+  "progression": "Let the shooter drive on a hard closeout, forcing a real closeout-to-slide sequence, or start the defender from the opposite block.",
+  "regression": "Walk through the closeout footwork without a shooter, or have the shooter hold the ball instead of shooting.",
+  "gameApplication": "Every defensive possession ends with a closeout — sprinting under control and contesting without fouling turns open looks into contested misses.",
+  "related": [
+    "closeout-drill",
+    "shell-drill",
+    "one-on-one-live"
+  ],
+  "dateUpdated": "2026-10-06",
+  "vi": {
+    "title": "Closeout Rồi Contest",
+    "description": "Bứt tốc từ vị trí help, giảm tốc vào closeout thăng bằng, contest cú ném bằng tay giơ cao — rồi block out.",
+    "goal": "Closeout trong kiểm soát dưới 2 giây, contest bằng tay giơ cao mà không phạm lỗi, và kết thúc bằng pha block out người ném.",
+    "setup": [
+      "Hậu vệ đứng ở vạch ném phạt (vị trí help); người ném đứng ở cánh với bóng.",
+      "Khi có đường chuyền hoặc hiệu lệnh của HLV, hậu vệ bứt tốc closeout.",
+      "Người ném ném một quả mỗi lượt; hậu vệ contest rồi block out.",
+      "8 lượt mỗi bên, sau đó đổi vai; đếm số pha contest khiến đối phương ném trượt."
+    ],
+    "instructions": [
+      {
+        "title": "Bứt tốc 12 feet đầu",
+        "detail": "Bật ra khỏi tư thế thủ và chạy hết tốc — 2/3 đầu của closeout hoàn toàn là tốc độ."
+      },
+      {
+        "title": "Giảm tốc từ sớm",
+        "detail": "Nhỏ bước chân trong 6 feet cuối (1,8m), hạ thấp trọng tâm với chân trụ rộng, ngực hướng về người ném."
+      },
+      {
+        "title": "Contest bằng tay cao",
+        "detail": "Giơ tay trong lên cao để che tầm nhìn người ném; đừng bao giờ nhảy vào vùng tiếp đất của họ."
+      },
+      {
+        "title": "Block out khi bóng rời tay",
+        "detail": "Ngay khi bóng rời tay đối phương, tìm người họ, tạo va chạm rồi lao vào tranh rebound."
+      },
+      {
+        "title": "Hồi vị và lặp lại",
+        "detail": "Chạy nhanh về vị trí help sau mỗi lượt — closeout trong trận đến theo từng đợt, nên phải tập cả pha hồi về."
+      }
+    ],
+    "coachingPoints": [
+      "Bước ngắn, nhanh ở đoạn cuối — sải dài là bay qua mặt người ném.",
+      "Contest bằng tay gần bóng nhất, giơ thẳng lên cao — không quạt tay xuống.",
+      "Giữ chân trên mặt đất; shot fake luôn thắng pha contest bằng nhảy lên.",
+      "Closeout chưa xong cho đến khi block out — contest trước, va chạm sau."
+    ],
+    "commonMistakes": [
+      "Lao hết tốc xuyên qua người ném — hoặc phạm lỗi hoặc bị qua mặt; hãy giảm tốc từ sớm.",
+      "Contest bằng tay thấp ngang hông người ném — vừa phạm lỗi vừa chẳng che được gì.",
+      "Mải nhìn đường bóng bay mà quên block out — tìm người trước đã."
+    ],
+    "progression": "Cho người ném được drive khi closeout mạnh, buộc thành chuỗi closeout-rồi-slide thật, hoặc cho hậu vệ xuất phát từ block đối diện.",
+    "regression": "Đi bộ qua footwork closeout không cần người ném, hoặc cho người ném chỉ giữ bóng chứ không ném.",
+    "gameApplication": "Mọi đợt phòng ngự đều kết thúc bằng closeout — bứt tốc trong kiểm soát và contest không phạm lỗi biến những cú ném trống thành những cú ném bị contest trượt.",
+    "players": "2+",
+    "equipment": [
+      "Bóng rổ"
+    ]
+  }
+}

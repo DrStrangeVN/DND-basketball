@@ -1,0 +1,123 @@
+{
+  "id": "tip-back-drill",
+  "slug": "tip-back-drill",
+  "title": "Tip Back Drill",
+  "description": "Develop soft hands and second-jump timing by tipping your own misses back off the glass.",
+  "skill": "Rebounding",
+  "level": "intermediate",
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "players": "1",
+  "equipment": [
+    "Basketball"
+  ],
+  "durationMin": 10,
+  "intensity": "medium",
+  "goal": "Tip 8 self-created misses back in off the glass — 4 with two hands, 4 with one hand — keeping the ball above the rim.",
+  "setup": [
+    "Stand on the right block with a ball; the basket is your only partner.",
+    "Toss the ball off the backboard to yourself to start each rep.",
+    "Keep every tip above rim level — no catching, no bringing the ball down.",
+    "8 makes per side: 4 two-hand tips, then 4 one-hand tips."
+  ],
+  "instructions": [
+    {
+      "title": "Toss it up",
+      "detail": "Throw the ball firmly off the glass so it rebounds out to the edge of the paint — high enough to jump for."
+    },
+    {
+      "title": "Time the second jump",
+      "detail": "Jump as the ball comes off the board and meet it at its peak with both hands, fingertips first."
+    },
+    {
+      "title": "Tip it soft",
+      "detail": "Redirect the ball gently off the glass — think catch-and-release in one motion, not a slap."
+    },
+    {
+      "title": "Switch to one hand",
+      "detail": "After 4 two-hand makes, use your outside hand only, keeping the ball high and your wrist firm."
+    },
+    {
+      "title": "Move to the left",
+      "detail": "Repeat the full sequence on the left block with your left hand for the one-hand round."
+    }
+  ],
+  "coachingPoints": [
+    "Meet the ball at its highest point — waiting for it to drop kills the tip.",
+    "Fingertips, not palms — soft hands guide the ball, hard hands send it flying.",
+    "Keep the ball above the rim on every touch; bringing it down invites the block.",
+    "Jump off two feet for balance, and land ready to jump again."
+  ],
+  "commonMistakes": [
+    "Slapping at the ball with a stiff wrist — relax the hand and guide it.",
+    "Catching instead of tipping — the drill's whole point is the quick second touch.",
+    "Jumping late and tipping on the way down — time your jump to meet the peak."
+  ],
+  "progression": "Have a partner toss the ball off the glass at random angles, or add a pad-wielding defender who bumps you mid-jump.",
+  "regression": "Allow one controlled catch-and-finish after the tip, or start with the ball already above the rim from a low toss.",
+  "gameApplication": "Offensive rebounds become instant points when you can tip the ball back up — second-chance points win close games.",
+  "related": [
+    "mikan-drill",
+    "box-out-battle",
+    "contact-finishing-drill"
+  ],
+  "dateUpdated": "2026-10-06",
+  "vi": {
+    "title": "Bài Tập Tip-Back",
+    "description": "Rèn đôi tay mềm và khả năng canh nhịp nhảy lần hai bằng cách tip những cú ném trượt của chính mình vào lại qua bảng.",
+    "goal": "Tip 8 cú tự tạo trượt vào lại qua bảng — 4 lần hai tay, 4 lần một tay — luôn giữ bóng ở trên vành rổ.",
+    "setup": [
+      "Đứng ở right block với bóng; cái rổ là đồng đội duy nhất của bạn.",
+      "Tự ném bóng dội bảng về phía mình để bắt đầu mỗi lượt.",
+      "Mọi pha tip đều phải ở trên vành rổ — không bắt dính, không kéo bóng xuống.",
+      "8 lần thành công mỗi bên: 4 lần tip hai tay, rồi 4 lần tip một tay."
+    ],
+    "instructions": [
+      {
+        "title": "Tung bóng lên",
+        "detail": "Ném bóng mạnh vào bảng để bóng dội ra tới mép vùng paint — đủ cao để bạn bật nhảy với tới."
+      },
+      {
+        "title": "Canh nhịp nhảy hai",
+        "detail": "Bật nhảy ngay khi bóng rời bảng và đón bóng ở điểm cao nhất bằng cả hai tay, đầu ngón tay chạm trước."
+      },
+      {
+        "title": "Tip nhẹ nhàng",
+        "detail": "Đẩy bóng nhẹ nhàng vào bảng — nghĩ như bắt-rồi-thả trong một chuyển động, đừng đập mạnh."
+      },
+      {
+        "title": "Chuyển sang một tay",
+        "detail": "Sau 4 lần thành công bằng hai tay, chỉ dùng tay ngoài, giữ bóng cao và cổ tay chắc."
+      },
+      {
+        "title": "Đổi sang bên trái",
+        "detail": "Lặp lại toàn bộ chuỗi ở left block, vòng một tay dùng tay trái."
+      }
+    ],
+    "coachingPoints": [
+      "Đón bóng ở điểm cao nhất — đợi bóng rớt xuống là giết chết pha tip.",
+      "Dùng đầu ngón tay, đừng dùng lòng bàn tay — tay mềm dẫn bóng, tay cứng đánh bóng bay.",
+      "Giữ bóng trên vành rổ ở mọi lần chạm; kéo bóng xuống là mời đối phương block.",
+      "Bật bằng hai chân để thăng bằng, tiếp đất trong tư thế sẵn sàng nhảy tiếp."
+    ],
+    "commonMistakes": [
+      "Đập bóng bằng cổ tay cứng — thả lỏng tay và dẫn bóng đi.",
+      "Bắt dính thay vì tip — cả bài tập này là về cú chạm thứ hai thật nhanh.",
+      "Nhảy muộn, tip lúc đang rơi xuống — canh nhịp nhảy để đón đúng đỉnh bóng."
+    ],
+    "progression": "Nhờ đồng đội ném bóng dội bảng ở các góc ngẫu nhiên, hoặc thêm một hậu vệ cầm đệm húc bạn giữa đà nhảy.",
+    "regression": "Cho phép một pha bắt-rồi-finish có kiểm soát sau cú tip, hoặc bắt đầu với bóng đã ở trên vành từ một cú tung thấp.",
+    "gameApplication": "Rebound tấn công thành điểm số ngay lập tức khi bạn tip được bóng vào lại — những điểm second-chance quyết định các trận đấu sít sao.",
+    "players": "1",
+    "equipment": [
+      "Bóng rổ"
+    ]
+  }
+}

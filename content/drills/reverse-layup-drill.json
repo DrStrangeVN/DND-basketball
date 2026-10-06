@@ -1,0 +1,113 @@
+{
+  "id": "reverse-layup-drill",
+  "slug": "reverse-layup-drill",
+  "title": "Reverse Layup Drill",
+  "description": "Teaches the reverse layup finish using the rim as protection against shot-blockers, from both sides of the basket.",
+  "skill": "Finishing",
+  "level": "intermediate",
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "players": "1",
+  "equipment": [
+    "Basketball",
+    "Cones"
+  ],
+  "durationMin": 10,
+  "intensity": "medium",
+  "goal": "Make 8 of 10 reverse layups from each side using the rim to shield the shot.",
+  "setup": [
+    "Place a cone at each elbow extended to mark the drive start on both sides.",
+    "Shooter starts at the right cone with the ball; drive baseline-side toward the hoop.",
+    "A partner rebounds or chase your own misses to keep the drill moving."
+  ],
+  "instructions": [
+    {
+      "title": "Right Side Reverse",
+      "detail": "Dribble from the right cone toward the basket, take your two steps, and jump off your left foot on the right side of the rim. Extend the ball to the far side of the rim and lay it in off the glass. Shoot 10, target 8 makes."
+    },
+    {
+      "title": "Left Side Reverse",
+      "detail": "Move to the left cone and mirror it: drive in, jump off your right foot on the left side, and finish with your left hand on the far side of the rim. Shoot 10 with the left hand."
+    },
+    {
+      "title": "Contact Simulation",
+      "detail": "Have a partner stand with arms straight up on the near side of the rim as a shot-blocker. Drive and finish the reverse on the far side, using the rim between you and the arms. Do 6 reps per side."
+    },
+    {
+      "title": "Alternating Streak",
+      "detail": "Alternate right-side and left-side reverse layups. Make 6 in a row alternating sides to finish the drill. Any miss restarts the streak."
+    }
+  ],
+  "coachingPoints": [
+    "Use the rim as a shield - the ball stays on the opposite side from the defender.",
+    "Jump toward the far side, not straight up, to create separation.",
+    "Soft touch off the glass; aim for the top corner of the backboard square.",
+    "Protect the ball with your outside shoulder through the drive."
+  ],
+  "commonMistakes": [
+    "Releasing the ball on the near side where the shot-blocker is waiting.",
+    "Jumping straight up instead of extending under and across the rim."
+  ],
+  "progression": "Add a live defender trailing the drive who can block, forcing a real read on when to go reverse.",
+  "regression": "Stand under the basket and shoot 20 stationary reverse layups alternating hands with no dribble.",
+  "gameApplication": "The reverse layup is the answer to a rotating shot-blocker - use the rim itself as your screener.",
+  "related": [
+    "mikan-drill",
+    "euro-step-finishing",
+    "floater-series"
+  ],
+  "dateUpdated": "2026-10-06",
+  "vi": {
+    "title": "Bài Ném Reverse Layup",
+    "description": "Dạy cú kết thúc reverse layup dùng vành rổ làm lá chắn trước người block, từ cả hai bên rổ.",
+    "goal": "Ném trúng 8/10 quả reverse layup mỗi bên, dùng vành rổ che chắn cú ném.",
+    "setup": [
+      "Đặt cọc tiêu ở mỗi khuỷu kéo dài để đánh dấu điểm xuất phát đột phá cả hai bên.",
+      "Người ném bắt đầu ở cọc phải có bóng; đột phá phía baseline hướng về rổ.",
+      "Đồng đội bắt rebound hoặc tự nhặt bóng hỏng để giữ nhịp bài."
+    ],
+    "instructions": [
+      {
+        "title": "Reverse Bên Phải",
+        "detail": "Dẫn bóng từ cọc phải về phía rổ, đi hai bước và bật chân trái ở phía phải của vành rổ. Vươn bóng sang phía xa của vành rổ và đặt bóng vào bảng. Ném 10 quả, mục tiêu 8 quả trúng."
+      },
+      {
+        "title": "Reverse Bên Trái",
+        "detail": "Sang cọc trái và làm đối xứng: đột phá vào, bật chân phải ở phía trái rổ, kết thúc bằng tay trái ở phía xa của vành rổ. Ném 10 quả bằng tay trái."
+      },
+      {
+        "title": "Mô Phỏng Va Chạm",
+        "detail": "Nhờ đồng đội đứng giơ thẳng tay ở phía gần của vành rổ làm người block. Đột phá và kết thúc reverse ở phía xa, dùng vành rổ ngăn giữa mình và cánh tay. Làm 6 rep mỗi bên."
+      },
+      {
+        "title": "Chuỗi Đổi Bên",
+        "detail": "Xen kẽ reverse layup bên phải và bên trái. Trúng 6 quả liên tiếp đổi bên để kết thúc bài. Hỏng quả nào là đếm lại chuỗi."
+      }
+    ],
+    "coachingPoints": [
+      "Dùng vành rổ làm khiên — bóng luôn ở phía đối diện với hậu vệ.",
+      "Bật người về phía xa, không bật thẳng lên, để tạo khoảng cách.",
+      "Chạm bảng nhẹ nhàng; ngắm góc trên của ô vuông trên bảng rổ.",
+      "Bảo vệ bóng bằng vai ngoài suốt đường đột phá."
+    ],
+    "commonMistakes": [
+      "Ra tay ở phía gần nơi người block đang chờ sẵn.",
+      "Bật thẳng lên thay vì vươn người luồn qua dưới vành rổ."
+    ],
+    "progression": "Thêm hậu vệ thật đuổi theo sau pha đột phá được block, ép phải đọc tình huống thật để quyết định reverse.",
+    "regression": "Đứng dưới rổ ném 20 quả reverse layup tại chỗ đổi tay, không cần dẫn bóng.",
+    "gameApplication": "Reverse layup là đáp án cho người block xoay ra — dùng chính vành rổ làm screen của mình.",
+    "players": "1",
+    "equipment": [
+      "Bóng rổ",
+      "Cọc tiêu"
+    ]
+  }
+}

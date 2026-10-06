@@ -1,0 +1,124 @@
+{
+  "id": "defensive-slide-ladder",
+  "slug": "defensive-slide-ladder",
+  "title": "Defensive Slide Ladder",
+  "description": "Build lateral quickness and stance discipline sliding through a cone ladder across the lane.",
+  "skill": "Defense",
+  "level": "beginner",
+  "ages": [
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "players": "1",
+  "equipment": [
+    "Cones"
+  ],
+  "durationMin": 10,
+  "intensity": "medium",
+  "goal": "Slide laterally through 6 cones in under 12 seconds without crossing your feet or standing upright.",
+  "setup": [
+    "Place 6 cones in a line, 4 feet apart, across the free-throw lane.",
+    "Start in a defensive stance at cone 1, facing the baseline.",
+    "Down and back equals 1 set; complete 4 sets with 30 seconds rest between.",
+    "A partner can point left or right at each cone to add a reaction element."
+  ],
+  "instructions": [
+    {
+      "title": "Lock your stance",
+      "detail": "Drop your hips, chest up, weight on the balls of your feet — hold the stance for 5 seconds before you move."
+    },
+    {
+      "title": "Push-step slide",
+      "detail": "Push off your trail foot and step with your lead foot — never cross your feet or click your heels together."
+    },
+    {
+      "title": "Touch each cone",
+      "detail": "Slide to each cone and touch it with your lead hand while staying low; keep your head level the whole way."
+    },
+    {
+      "title": "Sprint the turn",
+      "detail": "At the last cone, drop-step and sprint back to the start, then immediately reset your stance."
+    },
+    {
+      "title": "Beat your time",
+      "detail": "Time each set; the goal is under 12 seconds per down-and-back with zero stance breakdowns."
+    }
+  ],
+  "coachingPoints": [
+    "Butt down, back straight — if your head bobs, your stance is too high.",
+    "Push off the trail foot; reaching with the lead foot only gets you beat.",
+    "Hands wide and active — one hand traces the ball, the other takes the passing lane.",
+    "Never cross your feet; crossed feet cannot change direction."
+  ],
+  "commonMistakes": [
+    "Standing up mid-slide — the moment you rise, you lose quickness; stay low.",
+    "Hopping with both feet together — slide, do not jump.",
+    "Looking down at the cones — eyes up on your imaginary man."
+  ],
+  "progression": "Add a ball handler who dribbles at you between cones, or run the ladder with a resistance band around your waist.",
+  "regression": "Widen the cones to 6 feet apart, slow to half speed, and hold each stance 3 seconds before sliding.",
+  "gameApplication": "Lateral slides are the foundation of on-ball defense — clean footwork here keeps you in front of quicker guards in games.",
+  "related": [
+    "shell-drill",
+    "closeout-drill",
+    "transition-two-on-one"
+  ],
+  "dateUpdated": "2026-10-06",
+  "vi": {
+    "title": "Thang Trượt Phòng Ngự",
+    "description": "Rèn tốc độ di chuyển ngang và kỷ luật tư thế thủ khi slide qua một hàng cọc tiêu ngang vùng paint.",
+    "goal": "Slide ngang qua 6 cọc tiêu dưới 12 giây mà không bắt chéo chân và không đứng thẳng người lên.",
+    "setup": [
+      "Xếp 6 cọc tiêu thành hàng, cách nhau 4 feet (1,2m), ngang qua lane ném phạt.",
+      "Bắt đầu ở tư thế phòng ngự tại cọc 1, mặt hướng về đường biên cuối sân.",
+      "Đi-về tính là 1 set; hoàn thành 4 set, nghỉ 30 giây giữa các set.",
+      "Đồng đội có thể chỉ trái/phải ở mỗi cọc để thêm yếu tố phản xạ."
+    ],
+    "instructions": [
+      {
+        "title": "Khóa tư thế thủ",
+        "detail": "Hạ hông, ưỡn ngực, dồn trọng lượng lên mũi bàn chân — giữ tư thế 5 giây trước khi di chuyển."
+      },
+      {
+        "title": "Slide kiểu đẩy-bước",
+        "detail": "Đạp mạnh chân sau và bước bằng chân trước — không bao giờ bắt chéo chân hay khép gót vào nhau."
+      },
+      {
+        "title": "Chạm từng cọc",
+        "detail": "Slide tới mỗi cọc và chạm nó bằng tay trước trong khi giữ người thấp; giữ đầu ngang bằng suốt đường."
+      },
+      {
+        "title": "Chạy nước rút khi quay đầu",
+        "detail": "Tới cọc cuối, drop-step rồi chạy nước rút về điểm xuất phát, sau đó lập tức vào lại tư thế thủ."
+      },
+      {
+        "title": "Phá kỷ lục của chính mình",
+        "detail": "Bấm giờ mỗi set; mục tiêu là dưới 12 giây cho một lượt đi-về mà tư thế không vỡ lần nào."
+      }
+    ],
+    "coachingPoints": [
+      "Mông hạ thấp, lưng thẳng — đầu mà nhấp nhô là tư thế đang quá cao.",
+      "Đạp bằng chân sau; chỉ với chân trước thì sẽ bị qua mặt.",
+      "Hai tay dang rộng và linh hoạt — một tay theo bóng, một tay chắn đường chuyền.",
+      "Không bao giờ bắt chéo chân; chân bắt chéo thì không đổi hướng được."
+    ],
+    "commonMistakes": [
+      "Đứng thẳng người lên giữa chừng — vừa nhổm lên là mất tốc độ; giữ người thấp.",
+      "Nhảy chụm cả hai chân — phải slide, đừng nhảy.",
+      "Cúi nhìn cọc — mắt ngẩng lên nhìn 'người' tưởng tượng của mình."
+    ],
+    "progression": "Thêm một người rê bóng ép vào bạn giữa các cọc, hoặc chạy thang với dây kháng lực quấn quanh hông.",
+    "regression": "Giãn cọc ra 6 feet, chậm lại một nửa tốc độ, và giữ mỗi tư thế 3 giây trước khi slide.",
+    "gameApplication": "Slide ngang là nền tảng của phòng ngự 1-kèm-1 — footwork sạch ở đây giúp bạn kèm được những hậu vệ nhanh hơn trong trận.",
+    "players": "1",
+    "equipment": [
+      "Cọc tiêu"
+    ]
+  }
+}

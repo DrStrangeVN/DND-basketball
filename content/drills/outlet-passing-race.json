@@ -1,0 +1,125 @@
+{
+  "id": "outlet-passing-race",
+  "slug": "outlet-passing-race",
+  "title": "Outlet Passing Race",
+  "description": "Turn defensive rebounds into instant fast breaks: grab the board, pivot, and fire a two-handed outlet pass to a sprinter in a head-to-head race.",
+  "skill": "Passing",
+  "level": "intermediate",
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "players": "2+",
+  "equipment": [
+    "Basketball",
+    "Cones"
+  ],
+  "durationMin": 12,
+  "intensity": "high",
+  "goal": "Grab every defensive rebound with two hands, pivot outside, and deliver an accurate lead outlet pass that hits a sprinting teammate in stride.",
+  "setup": [
+    "One rebounder under the basket; one outlet man starts at the half-court sideline.",
+    "Place 2 cones 12 feet apart at half court to mark the catch zone.",
+    "Keep 2 basketballs ready under the basket; the losing pair fetches misses.",
+    "Play to 5 clean catches — the first pair to finish wins the round."
+  ],
+  "instructions": [
+    {
+      "title": "Secure the board",
+      "detail": "Grab the rebound with two hands at its highest point, chin the ball, and land in a wide, balanced stance."
+    },
+    {
+      "title": "Pivot outside",
+      "detail": "Pivot on your outside foot away from pressure and locate your outlet man with your eyes before you throw."
+    },
+    {
+      "title": "Throw the lead pass",
+      "detail": "Fire a two-handed overhead or baseball pass 2-3 steps ahead of the sprinter so they catch it in stride without breaking pace."
+    },
+    {
+      "title": "Sprint the lane",
+      "detail": "The outlet man sprints a straight lane to the catch zone, presenting a wide target with both hands up."
+    },
+    {
+      "title": "Score and switch",
+      "detail": "A clean two-handed catch in the zone scores 1 point; switch roles after every round and play best of 3."
+    }
+  ],
+  "coachingPoints": [
+    "Chin the rebound — elbows out, ball under the chin — before you even think about the pass.",
+    "Always pivot outside, away from the defender, to protect the ball.",
+    "Lead the runner: throw to where they are going, 2-3 steps ahead of their chest.",
+    "Throw over the top, not through traffic — arc beats a flat line drive into a press."
+  ],
+  "commonMistakes": [
+    "Throwing across the body without pivoting — the pass floats and gets picked off; pivot first, then throw.",
+    "Outlet man jogging or drifting wide — sprint a straight lane and give a clear target.",
+    "One-hand rebound grabs that get stripped — secure with two hands and chin it."
+  ],
+  "progression": "Add a defender who pressures the rebounder with a 4-second count, or require the outlet pass to travel beyond half court before the catch.",
+  "regression": "Shorten the outlet to the free-throw line extended, walk through the pivot-and-throw mechanics, and remove the race scoring.",
+  "gameApplication": "Every fast break starts with the outlet pass — a clean, accurate outlet turns a defensive stop into a 5-on-4 advantage before the defense sets.",
+  "related": [
+    "three-man-weave",
+    "transition-two-on-one",
+    "full-court-finishing"
+  ],
+  "dateUpdated": "2026-10-06",
+  "vi": {
+    "title": "Đua Outlet Pass — Chuyền Phản Công",
+    "description": "Biến rebound phòng ngự thành phản công chớp nhoáng: bắt bóng, xoay người và chuyền outlet hai tay cho đồng đội đang bứt tốc trong một cuộc đua đối đầu.",
+    "goal": "Bắt mọi rebound phòng ngự bằng hai tay, pivot ra ngoài và chuyền outlet chính xác để đồng đội đang chạy bắt bóng đúng đà.",
+    "setup": [
+      "Một người bắt rebound đứng dưới rổ; một người nhận outlet đứng ở đường biên giữa sân.",
+      "Đặt 2 cọc tiêu cách nhau 12 feet (khoảng 3,6m) ở giữa sân để đánh dấu vùng bắt bóng.",
+      "Chuẩn bị sẵn 2 quả bóng dưới rổ; cặp thua sẽ đi nhặt bóng hỏng.",
+      "Chơi đến 5 lần bắt bóng sạch — cặp nào xong trước thắng vòng đó."
+    ],
+    "instructions": [
+      {
+        "title": "Bắt chắc rebound",
+        "detail": "Bắt rebound bằng hai tay ở điểm cao nhất, kẹp bóng dưới cằm (chin the ball) và tiếp đất với chân trụ rộng, thăng bằng."
+      },
+      {
+        "title": "Pivot ra ngoài",
+        "detail": "Pivot bằng chân ngoài, xoay ra xa khỏi áp lực, và dùng mắt tìm người nhận outlet trước khi chuyền."
+      },
+      {
+        "title": "Chuyền đón đầu",
+        "detail": "Chuyền overhead hai tay hoặc baseball pass đón trước 2-3 bước chân để người chạy bắt bóng đúng đà mà không phải khựng lại."
+      },
+      {
+        "title": "Chạy thẳng lane",
+        "detail": "Người nhận outlet chạy một đường thẳng tới vùng bắt bóng, giơ hai tay rộng làm mục tiêu rõ ràng."
+      },
+      {
+        "title": "Tính điểm và đổi vai",
+        "detail": "Một pha bắt bóng sạch bằng hai tay trong vùng được 1 điểm; đổi vai sau mỗi vòng và chơi best-of-3."
+      }
+    ],
+    "coachingPoints": [
+      "Kẹp bóng dưới cằm — khuỷu tay dang ra, bóng sát cằm — trước khi nghĩ đến đường chuyền.",
+      "Luôn pivot ra ngoài, xoay xa khỏi hậu vệ để bảo vệ bóng.",
+      "Chuyền đón đầu: chuyền tới nơi người chạy sẽ đến, đón trước ngực họ 2-3 bước.",
+      "Chuyền bổng qua đầu, đừng chuyền xuyên qua đám đông — đường cong cao thắng đường chuyền bẹt vào pressing."
+    ],
+    "commonMistakes": [
+      "Chuyền vắt ngang người mà không pivot — bóng lơ lửng và bị cắt; pivot trước rồi hãy chuyền.",
+      "Người nhận outlet chạy lững thững hoặc dạt ra ngoài — hãy chạy thẳng một lane và giơ mục tiêu rõ.",
+      "Bắt rebound một tay rồi bị móc mất — bắt bằng hai tay và kẹp bóng dưới cằm."
+    ],
+    "progression": "Thêm một hậu vệ gây áp lực lên người bắt rebound với đếm 4 giây, hoặc yêu cầu đường outlet phải bay qua vạch giữa sân mới được bắt.",
+    "regression": "Rút ngắn cự ly outlet xuống ngang vạch ném phạt kéo dài, đi bộ qua từng bước pivot-và-chuyền, và bỏ phần tính điểm đua.",
+    "gameApplication": "Mọi pha phản công đều bắt đầu từ outlet pass — một đường outlet sạch và chính xác biến pha phòng ngự thành lợi thế 5-đấu-4 trước khi hàng thủ kịp về.",
+    "players": "2+",
+    "equipment": [
+      "Bóng rổ",
+      "Cọc tiêu"
+    ]
+  }
+}

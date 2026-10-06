@@ -1,0 +1,111 @@
+{
+  "id": "free-throw-pressure",
+  "slug": "free-throw-pressure",
+  "title": "Free-Throw Pressure",
+  "description": "Simulates late-game free-throw pressure with consequences for misses - sprints, score scenarios, and crowd noise.",
+  "skill": "Shooting",
+  "level": "intermediate",
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "players": "1",
+  "equipment": [
+    "Basketball"
+  ],
+  "durationMin": 10,
+  "intensity": "medium",
+  "goal": "Make 8 of 10 free throws while handling simulated game pressure and consequences.",
+  "setup": [
+    "Shooter at the free-throw line with one ball; a partner rebounds or the shooter chases.",
+    "Set a score scenario before each pair: e.g. 'down 1, 10 seconds left, two shots.'",
+    "Agree on the consequence for a miss before starting: a full-court sprint per miss is standard."
+  ],
+  "instructions": [
+    {
+      "title": "Establish The Routine",
+      "detail": "Shoot 4 free throws with your full pre-shot routine - same dribbles, same breath, same timing every time. No scenario yet. This locks in the routine you will trust under pressure."
+    },
+    {
+      "title": "Scenario Pairs",
+      "detail": "Shoot in pairs with a scenario called out before each pair: 'tied game, 5 seconds left' or 'up 2, need both to ice it.' Take a full 10-second pause between pairs like a real dead ball. Do 5 pairs (10 shots)."
+    },
+    {
+      "title": "Consequence Round",
+      "detail": "Shoot 10 more free throws. Every miss means an immediate full-court sprint before the next shot, with your heart rate up. This trains shooting tired and refocusing fast."
+    },
+    {
+      "title": "Crowd Noise Finish",
+      "detail": "Finish with 4 free throws while teammates clap, shout, and wave arms behind the basket. Stick to the exact same routine - the noise is irrelevant if the routine is automatic."
+    }
+  ],
+  "coachingPoints": [
+    "The routine never changes - same dribbles, same breath, same rhythm, every single shot.",
+    "Shoot the process, not the score: focus on the next mechanical cue, not the scenario.",
+    "Between shots, reset fully: step off the line, breathe, step back on.",
+    "Soft knees and a still head beat rushing every time."
+  ],
+  "commonMistakes": [
+    "Speeding up the routine when the scenario feels big.",
+    "Aiming the ball at the rim instead of trusting the stroke."
+  ],
+  "progression": "Shoot the consequence round after a full-court sprint so every free throw comes with legs already burning.",
+  "regression": "Remove scenarios and consequences; shoot 20 free throws tracking makes while only focusing on routine consistency.",
+  "gameApplication": "Free throws decide close games - this trains your body to execute the same stroke when the scoreboard pressure is real.",
+  "related": [
+    "free-throw-routine",
+    "star-shooting",
+    "five-spot-catch-shoot"
+  ],
+  "dateUpdated": "2026-10-06",
+  "vi": {
+    "title": "Ném Phạt Chịu Áp Lực",
+    "description": "Mô phỏng áp lực ném phạt cuối trận với hình phạt khi hỏng — chạy sprint, kịch bản tỉ số và tiếng ồn khán giả.",
+    "goal": "Ném trúng 8/10 quả ném phạt trong khi chịu áp lực trận đấu mô phỏng và hình phạt.",
+    "setup": [
+      "Người ném đứng vạch ném phạt với một bóng; đồng đội bắt rebound hoặc tự nhặt bóng.",
+      "Đặt kịch bản tỉ số trước mỗi cặp ném: ví dụ 'đang thua 1 điểm, còn 10 giây, 2 quả ném.'",
+      "Thống nhất hình phạt khi hỏng trước khi bắt đầu: chuẩn là mỗi quả hỏng chạy một lượt sprint toàn sân."
+    ],
+    "instructions": [
+      {
+        "title": "Dựng Routine",
+        "detail": "Ném 4 quả ném phạt với đầy đủ routine trước khi ném — cùng số nhịp đập bóng, cùng nhịp thở, cùng thời gian mỗi lần. Chưa có kịch bản. Bước này khóa routine để tin tưởng khi bị áp lực."
+      },
+      {
+        "title": "Ném Theo Cặp Kịch Bản",
+        "detail": "Ném theo cặp, mỗi cặp được hô kịch bản trước: 'tỉ số hòa, còn 5 giây' hoặc 'dẫn 2 điểm, cần cả hai để kết liễu.' Nghỉ đủ 10 giây giữa các cặp như bóng chết thật. Làm 5 cặp (10 quả)."
+      },
+      {
+        "title": "Vòng Hình Phạt",
+        "detail": "Ném thêm 10 quả ném phạt. Mỗi quả hỏng phải lập tức chạy một lượt sprint toàn sân rồi mới ném tiếp, với nhịp tim còn cao. Bài này rèn ném khi mệt và lấy lại tập trung nhanh."
+      },
+      {
+        "title": "Kết Thúc Với Tiếng Ồn",
+        "detail": "Kết thúc bằng 4 quả ném phạt trong khi đồng đội vỗ tay, hò hét, vẫy tay sau rổ. Giữ y nguyên routine — tiếng ồn chẳng là gì nếu routine đã thành tự động."
+      }
+    ],
+    "coachingPoints": [
+      "Routine không bao giờ đổi — cùng số nhịp bóng, cùng nhịp thở, cùng nhịp độ, mọi cú ném.",
+      "Ném theo quy trình, không ném theo tỉ số: tập trung vào điểm kỹ thuật tiếp theo, không phải kịch bản.",
+      "Giữa các cú ném, reset hoàn toàn: bước ra khỏi vạch, thở, bước vào lại.",
+      "Gối mềm và đầu yên thắng mọi sự vội vàng."
+    ],
+    "commonMistakes": [
+      "Đẩy nhanh routine khi kịch bản căng thẳng.",
+      "Ngắm bóng vào rổ thay vì tin tưởng động tác ném."
+    ],
+    "progression": "Ném vòng hình phạt ngay sau một lượt sprint toàn sân để mọi quả ném phạt đều thực hiện khi chân đã mỏi.",
+    "regression": "Bỏ kịch bản và hình phạt; ném 20 quả ném phạt đếm số trúng, chỉ tập trung vào độ ổn định của routine.",
+    "gameApplication": "Ném phạt quyết định những trận đấu sít sao — bài này rèn cơ thể thực hiện cùng một động tác ném khi áp lực tỉ số là thật.",
+    "players": "1",
+    "equipment": [
+      "Bóng rổ"
+    ]
+  }
+}

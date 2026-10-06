@@ -1,0 +1,122 @@
+{
+  "id": "help-and-recover",
+  "slug": "help-and-recover",
+  "title": "Help and Recover",
+  "description": "Master the stunt-and-recover: help on the drive for a heartbeat, then sprint back to contest your shooter.",
+  "skill": "Defense",
+  "level": "advanced",
+  "ages": [
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "players": "2+",
+  "equipment": [
+    "Basketball"
+  ],
+  "durationMin": 15,
+  "intensity": "high",
+  "goal": "Stunt at the driver with two hard steps, then recover to your man in time to contest — 8 straight possessions with no breakdowns.",
+  "setup": [
+    "Play 3v3 from the wings and top; one ball, half court.",
+    "The offense runs drive-and-kick actions only; the defense plays help-and-recover rules.",
+    "Each defensive group plays 8 possessions, then rotates out.",
+    "Score it: defense gets 1 point per stop, offense 1 per score — play to 5."
+  ],
+  "instructions": [
+    {
+      "title": "Read the drive",
+      "detail": "When the ball drives past your teammate, take two hard help steps toward the paint with your hands up — do not fully commit."
+    },
+    {
+      "title": "Stunt, don't stay",
+      "detail": "Show your chest to the driver just long enough to slow them, keeping your head on a swivel to see your man."
+    },
+    {
+      "title": "Sprint the recovery",
+      "detail": "The moment the ball leaves the driver's hands, sprint back to your shooter with a chopped closeout."
+    },
+    {
+      "title": "Communicate everything",
+      "detail": "Call 'help!' when you stunt and 'recover!' or 'shot!' as you fly back — silent help is late help."
+    },
+    {
+      "title": "Finish the possession",
+      "detail": "Contest the kick-out shot with a high hand, block out your man, and secure the rebound to end the rep."
+    }
+  ],
+  "coachingPoints": [
+    "Two steps and a stunt — a full commitment leaves your shooter wide open.",
+    "See both: ball in your periphery, your man in your vision — never turn your back.",
+    "Recover with urgency; a slow closeout after helping is an open three.",
+    "Talk through the whole rotation — the helper's voice triggers the recovery."
+  ],
+  "commonMistakes": [
+    "Over-helping and abandoning a shooter — stunt, do not sink.",
+    "Ball-watching with your back to your man — you cannot recover to what you cannot see.",
+    "Jogging the recovery — the kick-out punishes every lazy closeout."
+  ],
+  "progression": "Go 4v4 with skip passes allowed, or require the helper to take a charge on the second stunt of each possession.",
+  "regression": "Walk through 3v3 shell positions with no live offense, rehearsing the stunt-and-recover footwork on a coach's call.",
+  "gameApplication": "Help-and-recover is the core of modern team defense — one heartbeat of help stops the drive without giving up the kick-out three.",
+  "related": [
+    "shell-drill",
+    "closeout-drill",
+    "pick-and-roll-two-on-two"
+  ],
+  "dateUpdated": "2026-10-06",
+  "vi": {
+    "title": "Help Rồi Hồi Về (Help-and-Recover)",
+    "description": "Làm chủ kỹ thuật stunt-and-recover: help pha drive trong một nhịp tim rồi bứt tốc về contest người ném của mình.",
+    "goal": "Stunt vào người drive bằng hai bước mạnh, rồi hồi về kịp để contest — 8 đợt bóng liên tiếp không vỡ đội hình.",
+    "setup": [
+      "Chơi 3v3 từ hai cánh và đỉnh; một bóng, nửa sân.",
+      "Bên tấn công chỉ chạy các pha drive-and-kick; bên thủ áp dụng luật help-and-recover.",
+      "Mỗi nhóm thủ chơi 8 đợt bóng rồi xoay ra.",
+      "Tính điểm: thủ được 1 điểm mỗi lần chặn đứng, công được 1 điểm mỗi lần ghi — chơi đến 5."
+    ],
+    "instructions": [
+      {
+        "title": "Đọc pha drive",
+        "detail": "Khi bóng drive qua mặt đồng đội, bước hai bước help mạnh về phía paint, tay giơ cao — đừng lao hẳn vào."
+      },
+      {
+        "title": "Stunt chứ đừng ở lại",
+        "detail": "Giơ ngực ra trước mặt người drive vừa đủ lâu để làm chậm họ, đầu liên tục xoay để nhìn người mình kèm."
+      },
+      {
+        "title": "Bứt tốc hồi về",
+        "detail": "Ngay khi bóng rời tay người drive, chạy hết tốc về người ném của mình với closeout bước nhỏ."
+      },
+      {
+        "title": "Hô mọi thứ",
+        "detail": "Hô 'help!' khi stunt và 'recover!' hoặc 'shot!' khi bay về — help mà im lặng là help muộn."
+      },
+      {
+        "title": "Kết thúc đợt bóng",
+        "detail": "Contest cú kick-out bằng tay giơ cao, block out người mình kèm và bắt chắc rebound để khép lượt."
+      }
+    ],
+    "coachingPoints": [
+      "Hai bước và một pha stunt — lao hẳn vào là bỏ trống người ném của mình.",
+      "Nhìn được cả hai: bóng ở rìa tầm mắt, người mình kèm trong tầm nhìn — không bao giờ quay lưng.",
+      "Hồi về phải gấp; closeout chậm sau khi help là một quả 3 trống trải.",
+      "Nói suốt vòng xoay — tiếng hô của người help là tín hiệu kích hoạt pha hồi về."
+    ],
+    "commonMistakes": [
+      "Help quá đà, bỏ mặc người ném — stunt thôi, đừng chìm hẳn vào.",
+      "Mải nhìn bóng, quay lưng với người mình kèm — không nhìn thấy thì không hồi về được.",
+      "Chạy lững thững khi hồi về — đường kick-out trừng phạt mọi pha closeout lười biếng."
+    ],
+    "progression": "Nâng lên 4v4 cho phép skip pass, hoặc yêu cầu người help phải đứng nhận charge ở pha stunt thứ hai của mỗi đợt bóng.",
+    "regression": "Đi bộ qua các vị trí shell 3v3 không cần tấn công live, tập footwork stunt-and-recover theo hiệu lệnh của HLV.",
+    "gameApplication": "Help-and-recover là cốt lõi của phòng ngự đồng đội hiện đại — một nhịp help vừa đủ chặn pha drive mà không dâng quả 3 từ kick-out.",
+    "players": "2+",
+    "equipment": [
+      "Bóng rổ"
+    ]
+  }
+}

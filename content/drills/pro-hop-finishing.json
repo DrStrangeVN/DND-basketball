@@ -1,0 +1,112 @@
+{
+  "id": "pro-hop-finishing",
+  "slug": "pro-hop-finishing",
+  "title": "Pro Hop Finishing",
+  "description": "Trains the pro hop (jump stop gather) finish through contact - gather on two feet, absorb the bump, and finish strong.",
+  "skill": "Finishing",
+  "level": "advanced",
+  "ages": [
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "players": "2",
+  "equipment": [
+    "Basketball",
+    "Pad"
+  ],
+  "durationMin": 12,
+  "intensity": "high",
+  "goal": "Finish 8 of 10 pro-hop layups through pad contact with a balanced two-foot landing.",
+  "setup": [
+    "One finisher with the ball at the right wing, one partner holding a blocking pad just outside the restricted area.",
+    "The pad holder gives a firm bump on the gather - never a shove, just contact.",
+    "Shooter starts each rep with a live dribble from the wing."
+  ],
+  "instructions": [
+    {
+      "title": "Hop And Hold",
+      "detail": "Dribble hard at the pad, gather with a pro hop (jump stop) onto two feet just before contact. Absorb the bump with a wide base and hold the ball high and tight. No shot yet - just 6 reps of gather and hold for 2 seconds."
+    },
+    {
+      "title": "Finish Through",
+      "detail": "Same approach, but after absorbing the bump, power straight up off two feet and finish with a strong layup. Keep the ball above your chin through contact. Shoot 10, target 8 makes."
+    },
+    {
+      "title": "Hop To Spin",
+      "detail": "Add a read: if the pad holder shades to your right shoulder, pro hop and spin back left for the finish. Do 5 reps each direction, reading the pad position before you gather."
+    },
+    {
+      "title": "Left Side Live",
+      "detail": "Move the drill to the left wing with the pad on the left block. Finish 10 pro-hop layups through contact with the left hand. End with 5 straight makes alternating sides."
+    }
+  ],
+  "coachingPoints": [
+    "Gather low and wide - a narrow hop gets knocked off balance.",
+    "Chin the ball on the gather: elbows out, ball protected at chest height or higher.",
+    "Go up strong off two feet; do not fade away from the contact.",
+    "Eyes on the rim through the bump, not on the defender."
+  ],
+  "commonMistakes": [
+    "Gathering on the run with one foot, which is a travel and kills balance.",
+    "Dropping the ball low on contact, inviting the strip."
+  ],
+  "progression": "Replace the pad with a live defender who contests vertically, or add a second help defender rotating over.",
+  "regression": "Do the pro hop gather and finish with no contact until the two-foot timing is automatic.",
+  "gameApplication": "The pro hop lets you stop on a dime in traffic, absorb contact legally, and still get a clean look at the rim.",
+  "related": [
+    "contact-finishing-drill",
+    "mikan-drill",
+    "euro-step-finishing"
+  ],
+  "dateUpdated": "2026-10-06",
+  "vi": {
+    "title": "Kết Thúc Bằng Pro Hop",
+    "description": "Rèn cú kết thúc pro hop (thu bóng dừng hai chân) xuyên va chạm — thu bóng hai chân, chịu cú húc và kết thúc mạnh mẽ.",
+    "goal": "Kết thúc trúng 8/10 quả layup pro hop xuyên va chạm đệm với điểm tiếp đất hai chân thăng bằng.",
+    "setup": [
+      "Một người kết thúc cầm bóng ở cánh phải, một đồng đội cầm đệm chắn ngay ngoài khu vực restricted area.",
+      "Người cầm đệm húc chắc vào lúc thu bóng — húc vừa phải, không xô đẩy.",
+      "Người ném bắt đầu mỗi rep bằng nhịp dẫn sống từ cánh."
+    ],
+    "instructions": [
+      {
+        "title": "Hop Và Giữ",
+        "detail": "Dẫn mạnh về phía đệm, thu bóng bằng pro hop (jump stop) xuống hai chân ngay trước va chạm. Chịu cú húc với chân trụ rộng và giữ bóng cao, chắc. Chưa ném — chỉ làm 6 rep thu bóng và giữ 2 giây."
+      },
+      {
+        "title": "Kết Thúc Xuyên Va Chạm",
+        "detail": "Cách tiếp cận như cũ, nhưng sau khi chịu cú húc, bật mạnh thẳng lên bằng hai chân và kết thúc layup dứt khoát. Giữ bóng trên cằm suốt va chạm. Ném 10 quả, mục tiêu 8 quả trúng."
+      },
+      {
+        "title": "Hop Rồi Xoay",
+        "detail": "Thêm đọc tình huống: nếu người cầm đệm nghiêng về vai phải, pro hop rồi xoay ngược sang trái để kết thúc. Làm 5 rep mỗi hướng, đọc vị trí đệm trước khi thu bóng."
+      },
+      {
+        "title": "Đổi Sang Trái",
+        "detail": "Chuyển bài sang cánh trái với đệm ở block trái. Kết thúc 10 quả layup pro hop xuyên va chạm bằng tay trái. Chốt bằng 5 quả trúng liên tiếp đổi bên."
+      }
+    ],
+    "coachingPoints": [
+      "Thu bóng thấp và rộng — hop hẹp sẽ bị húc mất thăng bằng.",
+      "Kẹp bóng ngang cằm khi thu: khuỷu tay mở, bóng được bảo vệ ở ngang ngực trở lên.",
+      "Bật mạnh lên bằng hai chân; không ngả người tránh va chạm.",
+      "Mắt nhìn rổ xuyên qua cú húc, không nhìn hậu vệ."
+    ],
+    "commonMistakes": [
+      "Thu bóng khi đang chạy bằng một chân — vừa bước vừa mất thăng bằng.",
+      "Hạ bóng thấp khi va chạm, mời đối phương chọc bóng."
+    ],
+    "progression": "Thay đệm bằng hậu vệ thật contest thẳng đứng, hoặc thêm một hậu vệ help xoay ra.",
+    "regression": "Tập thu bóng pro hop và kết thúc không va chạm cho đến khi nhịp hai chân thành tự động.",
+    "gameApplication": "Pro hop giúp dừng đột ngột giữa đám đông, chịu va chạm hợp lệ mà vẫn có góc nhìn rổ sạch.",
+    "players": "2",
+    "equipment": [
+      "Bóng rổ",
+      "Đệm chắn"
+    ]
+  }
+}

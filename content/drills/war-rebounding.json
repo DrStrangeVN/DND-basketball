@@ -1,0 +1,122 @@
+{
+  "id": "war-rebounding",
+  "slug": "war-rebounding",
+  "title": "War Rebounding",
+  "description": "A 1v1 battle drill: fight through contact for the board, then score the putback to win the rep.",
+  "skill": "Rebounding",
+  "level": "advanced",
+  "ages": [
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "players": "2+",
+  "equipment": [
+    "Basketball"
+  ],
+  "durationMin": 12,
+  "intensity": "high",
+  "goal": "Win the rebound war — box out through contact, secure the ball with two hands, and finish the putback — first to 5 reps.",
+  "setup": [
+    "Coach stands at the elbow with a ball; two players start at the blocks, backs to the basket.",
+    "On the shot, both players turn, find contact, and battle for the rebound.",
+    "The rebounder must score a putback to win the rep; the loser does 5 push-ups.",
+    "First to 5 won reps takes the round; rotate new pairs in."
+  ],
+  "instructions": [
+    {
+      "title": "Find your man",
+      "detail": "On the shot, turn and locate your opponent — hit them with a forearm to the chest before you look for the ball."
+    },
+    {
+      "title": "Own the space",
+      "detail": "Drive them under the basket with a wide base and low hips; the player who holds their ground gets the board."
+    },
+    {
+      "title": "Go get it",
+      "detail": "Attack the ball at its highest point with two hands — never wait for the rebound to come to you."
+    },
+    {
+      "title": "Finish through contact",
+      "detail": "Chin the ball, pivot into a power-up, and score the putback while the defender is still battling you."
+    },
+    {
+      "title": "Reset and war again",
+      "detail": "The loser fetches the ball and does 5 push-ups; winners stay on until they lose — iron sharpens iron."
+    }
+  ],
+  "coachingPoints": [
+    "Contact first, ball second — you cannot rebound what you cannot see, and you cannot see it without finding your man.",
+    "Wide base, butt low — the lower player wins every rebounding battle.",
+    "Two hands and chin it — one-hand grabs get ripped in traffic.",
+    "Finish like you mean it — a putback through contact is worth two points and a statement."
+  ],
+  "commonMistakes": [
+    "Ball-watching without hitting anyone — you get boxed out by the player who found you first.",
+    "Jumping from a narrow stance — you get moved; widen out and hold your ground.",
+    "Bringing the rebound down to your waist — chin it or lose it."
+  ],
+  "progression": "Go 2v2 with outlet rules after the board, or require the putback to be scored over a coach's pad contest.",
+  "regression": "Remove the putback — the rep ends at a clean two-hand secure — or start players already in box-out position.",
+  "gameApplication": "Games are decided on the glass — winning 50/50 rebounds and converting putbacks through contact is how teams close out tight fourth quarters.",
+  "related": [
+    "box-out-battle",
+    "contact-finishing-drill",
+    "one-on-one-live"
+  ],
+  "dateUpdated": "2026-10-06",
+  "vi": {
+    "title": "Chiến Tranh Rebound (War Rebounding)",
+    "description": "Bài tập chiến đấu 1v1: vượt qua va chạm để giành rebound, rồi ghi putback để thắng lượt.",
+    "goal": "Thắng cuộc chiến rebound — box out xuyên qua va chạm, bắt bóng chắc bằng hai tay và finish putback — ai thắng 5 lượt trước thì thắng.",
+    "setup": [
+      "HLV đứng ở elbow với bóng; hai cầu thủ đứng ở hai block, quay lưng về rổ.",
+      "Khi bóng được ném lên, cả hai xoay người, tìm va chạm và chiến đấu giành rebound.",
+      "Người bắt được rebound phải ghi putback mới thắng lượt; người thua chống đẩy 5 cái.",
+      "Ai thắng 5 lượt trước thì thắng vòng; xoay cặp mới vào."
+    ],
+    "instructions": [
+      {
+        "title": "Tìm người của mình",
+        "detail": "Khi bóng được ném, xoay người và xác định đối thủ — dùng cẳng tay chặn vào ngực họ trước khi nhìn tìm bóng."
+      },
+      {
+        "title": "Chiếm lĩnh không gian",
+        "detail": "Đẩy họ vào dưới rổ bằng chân trụ rộng và hông thấp; ai giữ được vị trí thì người đó có rebound."
+      },
+      {
+        "title": "Lao vào bóng",
+        "detail": "Tấn công bóng ở điểm cao nhất bằng hai tay — đừng bao giờ đứng chờ rebound tự tìm đến mình."
+      },
+      {
+        "title": "Finish xuyên va chạm",
+        "detail": "Kẹp bóng dưới cằm, pivot vào pha power-up và ghi putback trong khi hậu vệ vẫn đang đeo bám."
+      },
+      {
+        "title": "Chuẩn bị và chiến tiếp",
+        "detail": "Người thua đi nhặt bóng và chống đẩy 5 cái; người thắng ở lại cho đến khi thua — lửa thử vàng."
+      }
+    ],
+    "coachingPoints": [
+      "Va chạm trước, bóng sau — không tìm được người thì không thấy bóng, mà không thấy bóng thì không rebound được.",
+      "Chân trụ rộng, mông thấp — người thấp hơn thắng mọi cuộc chiến rebound.",
+      "Hai tay và kẹp bóng dưới cằm — bắt một tay là bị móc mất trong đám đông.",
+      "Finish cho ra finish — một pha putback xuyên va chạm đáng 2 điểm và là một lời tuyên bố."
+    ],
+    "commonMistakes": [
+      "Mải nhìn bóng mà không chạm vào ai — bạn sẽ bị box out bởi người đã tìm thấy bạn trước.",
+      "Bật nhảy từ tư thế chân hẹp — bạn sẽ bị đẩy văng; dang rộng ra và giữ đất.",
+      "Kéo rebound xuống ngang hông — kẹp dưới cằm hoặc mất bóng."
+    ],
+    "progression": "Nâng lên 2v2 với luật outlet sau khi bắt board, hoặc yêu cầu putback phải ghi được qua pha contest bằng đệm của HLV.",
+    "regression": "Bỏ phần putback — lượt kết thúc khi bắt bóng chắc bằng hai tay — hoặc cho cầu thủ xuất phát đã ở sẵn tư thế box-out.",
+    "gameApplication": "Trận đấu được quyết định trên mặt bảng — thắng những pha rebound 50/50 và chuyển hóa putback xuyên va chạm là cách các đội khép lại những hiệp 4 căng thẳng.",
+    "players": "2+",
+    "equipment": [
+      "Bóng rổ"
+    ]
+  }
+}

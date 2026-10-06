@@ -1,0 +1,113 @@
+{
+  "id": "change-of-pace-ladder",
+  "slug": "change-of-pace-ladder",
+  "title": "Change-of-Pace Ladder",
+  "description": "A cone ladder drill that trains explosive speed changes off the dribble - walk, burst, decelerate - through 6 progressive zones.",
+  "skill": "Ball Handling",
+  "level": "intermediate",
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "players": "1",
+  "equipment": [
+    "Basketball",
+    "Cones"
+  ],
+  "durationMin": 12,
+  "intensity": "high",
+  "goal": "Change dribbling speed explosively and under control through 6 cone zones.",
+  "setup": [
+    "Place 7 cones in a straight line, 10 feet apart, from baseline to half-court.",
+    "Start with the ball behind the first cone in a triple-threat stance.",
+    "Have a stopwatch or partner call out the target time for each run."
+  ],
+  "instructions": [
+    {
+      "title": "Walk To Burst",
+      "detail": "Dribble at a slow walk through zone 1, then explode to full sprint speed at cone 2 and maintain it through cone 3. Decelerate to a stop at cone 4 with a controlled two-foot stop. Walk it back and repeat 4 times."
+    },
+    {
+      "title": "Burst To Crawl",
+      "detail": "Sprint-dribble from cone 1 to cone 2, then slam on the brakes and crawl-dribble slowly through zone 3 while keeping the ball pounding low. Burst again at cone 4 through cone 5. Do 4 runs each hand."
+    },
+    {
+      "title": "Hesitation Pops",
+      "detail": "Dribble at 70% speed and throw a hard hesitation (freeze dribble) at each cone from 2 through 6, then re-accelerate. The hesitation should last a full one-count. Do 3 runs."
+    },
+    {
+      "title": "Full Ladder Timed",
+      "detail": "Combine all three patterns into one continuous run: walk-burst at cone 2, burst-crawl at cone 3, hesitation at cones 4, 5, 6. Time each run and try to beat your best by staying low on every speed change."
+    }
+  ],
+  "coachingPoints": [
+    "Speed changes come from your legs and hips, not from bouncing the ball higher.",
+    "On every deceleration, stop the ball with a firm pound - no carrying.",
+    "Stay low through the entire ladder; standing up kills your burst.",
+    "Eyes up so the pace change is a weapon, not a surprise to yourself."
+  ],
+  "commonMistakes": [
+    "Bouncing the ball out in front on bursts so it runs away.",
+    "Decelerating with the upper body while the feet keep sliding."
+  ],
+  "progression": "Add a crossover, between-the-legs, or behind-the-back move at each hesitation cone.",
+  "regression": "Shorten to 4 cones and remove the timed element until footwork is clean.",
+  "gameApplication": "Change of pace is how smaller players beat bigger defenders - the same stop-and-go that creates separation on drives.",
+  "related": [
+    "cone-crossover-series",
+    "retreat-dribble-pressure",
+    "full-court-zigzag-handles"
+  ],
+  "dateUpdated": "2026-10-06",
+  "vi": {
+    "title": "Thang Đổi Tốc Độ Dẫn Bóng",
+    "description": "Bài cọc tiêu hình thang rèn khả năng đổi tốc độ bùng nổ khi dẫn bóng — đi chậm, bứt tốc, giảm tốc — qua 6 vùng tăng dần.",
+    "goal": "Đổi tốc độ dẫn bóng bùng nổ và có kiểm soát qua 6 vùng cọc tiêu.",
+    "setup": [
+      "Đặt 7 cọc tiêu thành hàng thẳng, cách nhau 3m, từ cuối sân đến giữa sân.",
+      "Bắt đầu sau cọc đầu tiên ở tư thế triple-threat, bóng trong tay.",
+      "Chuẩn bị đồng hồ bấm giờ hoặc nhờ đồng đội hô thời gian mục tiêu mỗi lượt."
+    ],
+    "instructions": [
+      {
+        "title": "Đi Chậm Rồi Bứt Tốc",
+        "detail": "Dẫn bóng đi chậm qua vùng 1, rồi bùng nổ tốc độ tối đa ở cọc 2 và duy trì qua cọc 3. Giảm tốc dừng hẳn ở cọc 4 bằng động tác dừng hai chân có kiểm soát. Đi bộ về và lặp lại 4 lần."
+      },
+      {
+        "title": "Bứt Tốc Rồi Chậm Lại",
+        "detail": "Dẫn bóng sprint từ cọc 1 đến cọc 2, rồi phanh gấp và dẫn chậm rề rề qua vùng 3 trong khi vẫn đập bóng thấp mạnh. Bứt tốc lại ở cọc 4 qua cọc 5. Làm 4 lượt mỗi tay."
+      },
+      {
+        "title": "Hesitation Từng Cọc",
+        "detail": "Dẫn bóng 70% tốc độ và tung hesitation mạnh (dừng bóng một nhịp) ở mỗi cọc từ 2 đến 6, rồi tăng tốc trở lại. Mỗi lần hesitation giữ đủ một nhịp. Làm 3 lượt."
+      },
+      {
+        "title": "Chạy Thang Tính Giờ",
+        "detail": "Kết hợp cả ba kiểu thành một lượt liên tục: đi chậm-bứt tốc ở cọc 2, bứt tốc-chậm ở cọc 3, hesitation ở cọc 4, 5, 6. Bấm giờ mỗi lượt và cố phá kỷ lục bằng cách giữ người thấp ở mọi lần đổi tốc."
+      }
+    ],
+    "coachingPoints": [
+      "Đổi tốc độ bằng chân và hông, không phải bằng cách nảy bóng cao hơn.",
+      "Mỗi lần giảm tốc, ghìm bóng bằng cú đập chắc — không được carry bóng.",
+      "Giữ người thấp suốt thang; đứng thẳng lên là mất đà bứt tốc.",
+      "Mắt nhìn lên để cú đổi tốc là vũ khí, không phải bất ngờ cho chính mình."
+    ],
+    "commonMistakes": [
+      "Nảy bóng ra trước khi bứt tốc khiến bóng chạy mất.",
+      "Giảm tốc bằng thân trên trong khi chân vẫn trượt đi."
+    ],
+    "progression": "Thêm crossover, between-the-legs hoặc behind-the-back ở mỗi cọc hesitation.",
+    "regression": "Rút ngắn còn 4 cọc và bỏ phần tính giờ cho đến khi footwork sạch.",
+    "gameApplication": "Đổi tốc độ là cách cầu thủ nhỏ vượt qua hậu vệ to — cùng nhịp dừng-bứt tạo khoảng trống khi đột phá.",
+    "players": "1",
+    "equipment": [
+      "Bóng rổ",
+      "Cọc tiêu"
+    ]
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "id": "five-spot-catch-shoot",
+  "slug": "five-spot-catch-shoot",
+  "title": "Five-Spot Catch and Shoot",
+  "description": "A fundamental mid-range shooting drill across 5 spots around the key that builds repeatable catch-and-shoot mechanics.",
+  "skill": "Shooting",
+  "level": "beginner",
+  "ages": [
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "players": "2",
+  "equipment": [
+    "Basketball"
+  ],
+  "durationMin": 12,
+  "intensity": "low",
+  "goal": "Make 5 in a row from each of 5 mid-range spots with identical shooting form.",
+  "setup": [
+    "Mark 5 mid-range spots: right baseline elbow, right wing, free-throw line extended top, left wing, left baseline elbow - each 12 to 15 feet out.",
+    "One shooter, one passer under the basket; the passer rebounds and fires crisp passes.",
+    "Shooter starts at spot 1; goal is 5 consecutive makes before rotating to the next spot."
+  ],
+  "instructions": [
+    {
+      "title": "Spot 1 And 2",
+      "detail": "Start at the right baseline elbow. Catch the pass with a 1-2 step into your shot, rise straight up, and shoot. You need 5 makes in a row to advance. A miss resets the count at that spot."
+    },
+    {
+      "title": "Spot 3 Top",
+      "detail": "Move to the top of the key at the free-throw line extended. Same rules: 5 in a row. Focus on shooting straight up and down with no drift, since this is the straight-on look."
+    },
+    {
+      "title": "Spots 4 And 5",
+      "detail": "Finish the left wing and left baseline elbow with the same 5-in-a-row rule. Keep the exact same footwork and release at every spot - the only thing changing is the angle."
+    },
+    {
+      "title": "Second Round Timed",
+      "detail": "Run all 5 spots again with a 5-minute clock. This time you need only 3 makes per spot, but every miss costs you a sprint to half-court and back. Switch shooter and passer, then repeat."
+    }
+  ],
+  "coachingPoints": [
+    "Identical form at every spot: same dip, same lift, same release.",
+    "Land where you jumped - drifting means lost balance.",
+    "Catch with your feet in the air and land in your 1-2 so the shot is one motion.",
+    "Eyes on the target from the catch, not on the ball."
+  ],
+  "commonMistakes": [
+    "Rushing the shot before the feet are set.",
+    "Letting the guide hand push the ball instead of just guiding."
+  ],
+  "progression": "Extend all 5 spots to the three-point line and require 4 makes in a row per spot.",
+  "regression": "Shoot uncontested set shots from 8 feet at each spot with no streak requirement, just 10 total makes per spot.",
+  "gameApplication": "Builds the automatic mid-range catch-and-shoot every offense needs when the defense goes under screens or sags.",
+  "related": [
+    "form-shooting",
+    "spot-shooting-ladder",
+    "star-shooting"
+  ],
+  "dateUpdated": "2026-10-06",
+  "vi": {
+    "title": "Bắt Bóng Ném Ngay 5 Điểm",
+    "description": "Bài ném tầm trung cơ bản ở 5 điểm quanh khu vực ném phạt, xây dựng kỹ thuật catch-and-shoot lặp lại ổn định.",
+    "goal": "Ném trúng 5 quả liên tiếp ở mỗi điểm trong 5 điểm tầm trung với form giống hệt nhau.",
+    "setup": [
+      "Đánh dấu 5 điểm tầm trung: khuỷu baseline phải, cánh phải, đỉnh ngang vạch ném phạt, cánh trái, khuỷu baseline trái — mỗi điểm cách rổ 4-5m.",
+      "Một người ném, một người chuyền đứng dưới rổ; người chuyền bắt rebound và chuyền chắc tay.",
+      "Người ném bắt đầu ở điểm 1; mục tiêu là 5 quả trúng liên tiếp mới được sang điểm tiếp."
+    ],
+    "instructions": [
+      {
+        "title": "Điểm 1 Và 2",
+        "detail": "Bắt đầu ở khuỷu baseline phải. Bắt bóng bằng bước 1-2 vào tư thế ném, bật thẳng lên và ném. Cần 5 quả trúng liên tiếp mới được đi tiếp. Hỏng một quả là đếm lại từ đầu ở điểm đó."
+      },
+      {
+        "title": "Điểm 3 Đỉnh",
+        "detail": "Sang đỉnh ngang vạch ném phạt. Luật như cũ: 5 quả liên tiếp. Tập trung bật thẳng lên thẳng xuống không trôi người, vì đây là góc nhìn trực diện."
+      },
+      {
+        "title": "Điểm 4 Và 5",
+        "detail": "Hoàn thành cánh trái và khuỷu baseline trái với cùng luật 5 quả liên tiếp. Giữ y nguyên footwork và động tác ra tay ở mọi điểm — thứ duy nhất đổi là góc ném."
+      },
+      {
+        "title": "Vòng Hai Tính Giờ",
+        "detail": "Chạy lại cả 5 điểm với đồng hồ 5 phút. Lần này chỉ cần 3 quả trúng mỗi điểm, nhưng mỗi quả hỏng phải sprint ra giữa sân rồi về. Đổi vai người ném và người chuyền, rồi lặp lại."
+      }
+    ],
+    "coachingPoints": [
+      "Form giống hệt ở mọi điểm: cùng nhịp hạ người, cùng bật lên, cùng ra tay.",
+      "Tiếp đất đúng chỗ đã bật — trôi người là mất thăng bằng.",
+      "Bắt bóng khi chân còn trên không và tiếp đất bằng bước 1-2 để cú ném là một chuyển động liền.",
+      "Mắt nhìn mục tiêu từ lúc bắt bóng, không nhìn bóng."
+    ],
+    "commonMistakes": [
+      "Vội ném trước khi chân đã đặt vững.",
+      "Để tay dẫn đẩy bóng thay vì chỉ dẫn hướng."
+    ],
+    "progression": "Lùi cả 5 điểm ra vạch ba điểm và yêu cầu 4 quả trúng liên tiếp mỗi điểm.",
+    "regression": "Ném set shot không ai kèm từ cự ly 2.5m ở mỗi điểm, không cần chuỗi liên tiếp, chỉ cần 10 quả trúng mỗi điểm.",
+    "gameApplication": "Xây dựng cú ném tầm trung catch-and-shoot tự động mà mọi đội bóng đều cần khi đối phương chui dưới screen hoặc lùi sâu.",
+    "players": "2",
+    "equipment": [
+      "Bóng rổ"
+    ]
+  }
+}

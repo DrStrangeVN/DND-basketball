@@ -1,0 +1,115 @@
+{
+  "id": "floater-series",
+  "slug": "floater-series",
+  "title": "Floater Series",
+  "description": "A progressive floater drill from 3 distances that teaches the soft one-handed touch shot over shot-blockers in the lane.",
+  "skill": "Finishing",
+  "level": "intermediate",
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "PG",
+    "SG",
+    "SF"
+  ],
+  "players": "1",
+  "equipment": [
+    "Basketball",
+    "Cones"
+  ],
+  "durationMin": 12,
+  "intensity": "medium",
+  "goal": "Make 5 floaters in a row from each of 3 distances with soft touch off one foot.",
+  "setup": [
+    "Place 3 cones in the lane: 6 feet, 10 feet, and 14 feet from the basket, all on the right side.",
+    "Start each rep with the ball at the right wing extended; dribble in and shoot the floater off the cone mark.",
+    "A partner rebounds or chase your own; keep the pace game-like."
+  ],
+  "instructions": [
+    {
+      "title": "Close Floaters",
+      "detail": "Dribble in from the wing, plant off your left foot at the 6-foot cone, and shoot a one-handed floater with a high soft arc. Land balanced. Make 5 in a row before moving back."
+    },
+    {
+      "title": "Mid Floaters",
+      "detail": "Move to the 10-foot cone. Same approach: one or two dribbles, rise off one foot, release the ball at the top with fingertip touch. The ball should drop straight down through the net. Make 5 in a row."
+    },
+    {
+      "title": "Deep Floaters",
+      "detail": "From the 14-foot cone, take two hard dribbles and shoot the floater on the move. Keep the same soft release - more distance comes from legs, not from pushing the ball harder. Make 5 in a row."
+    },
+    {
+      "title": "Left Side Mirror",
+      "detail": "Move all three cones to the left side and repeat the series shooting off the right foot. Finish with 10 alternating floaters: right side, left side, right side, tracking total makes out of 10."
+    }
+  ],
+  "coachingPoints": [
+    "High arc and soft touch - the floater dies on the rim, it never clanks.",
+    "Release at the top of the jump with the shooting hand under the ball.",
+    "Take off one foot, land on the same foot, stay balanced.",
+    "Use your body to shield the imaginary shot-blocker before the release."
+  ],
+  "commonMistakes": [
+    "Shooting the floater flat like a line drive instead of with arc.",
+    "Jumping off two feet, which turns it into a short jumper with no touch."
+  ],
+  "progression": "Add a coach holding a pad at the rim as a shot-blocker, or shoot the floater off a live 1-on-1 drive.",
+  "regression": "Stand still at each cone and shoot 10 stationary one-hand touch shots before adding the dribble approach.",
+  "gameApplication": "The floater beats the help-side shot-blocker - it is the essential finish for guards driving into traffic.",
+  "related": [
+    "mikan-drill",
+    "euro-step-finishing",
+    "full-court-finishing"
+  ],
+  "dateUpdated": "2026-10-06",
+  "vi": {
+    "title": "Chuỗi Ném Floater",
+    "description": "Bài ném floater tăng dần từ 3 cự ly, dạy cú ném chạm nhẹ một tay qua người chắn bóng trong khu vực lane.",
+    "goal": "Ném trúng 5 quả floater liên tiếp ở mỗi cự ly trong 3 cự ly với cảm giác bóng mềm, bật một chân.",
+    "setup": [
+      "Đặt 3 cọc tiêu trong lane: cách rổ 2m, 3m và 4.5m, tất cả bên phải.",
+      "Mỗi rep bắt đầu cầm bóng ở cánh phải kéo dài; dẫn vào và ném floater tại vạch cọc tiêu.",
+      "Đồng đội bắt rebound hoặc tự nhặt bóng; giữ nhịp như trận đấu."
+    ],
+    "instructions": [
+      {
+        "title": "Floater Gần",
+        "detail": "Dẫn bóng từ cánh vào, đạp chân trái tại cọc 2m, ném floater một tay với đường bóng vòng cung cao và mềm. Tiếp đất thăng bằng. Trúng 5 quả liên tiếp mới được lùi ra."
+      },
+      {
+        "title": "Floater Trung",
+        "detail": "Sang cọc 3m. Cách làm như cũ: một hoặc hai nhịp dẫn, bật lên bằng một chân, ra tay ở điểm cao nhất bằng đầu ngón tay. Bóng phải rơi thẳng xuống qua lưới. Trúng 5 quả liên tiếp."
+      },
+      {
+        "title": "Floater Xa",
+        "detail": "Từ cọc 4.5m, dẫn hai nhịp mạnh và ném floater khi đang di chuyển. Giữ cùng cảm giác ra tay mềm — xa hơn là nhờ chân, không phải đẩy bóng mạnh hơn. Trúng 5 quả liên tiếp."
+      },
+      {
+        "title": "Đổi Sang Trái",
+        "detail": "Chuyển cả ba cọc sang bên trái và lặp lại chuỗi, bật bằng chân phải. Kết thúc bằng 10 quả floater xen kẽ: phải, trái, phải... đếm tổng số trúng trên 10 quả."
+      }
+    ],
+    "coachingPoints": [
+      "Vòng cung cao và chạm nhẹ — floater rơi êm trên vành, không bao giờ dội mạnh.",
+      "Ra tay ở điểm cao nhất của cú bật, tay ném đỡ dưới bóng.",
+      "Bật một chân, tiếp đất cùng chân đó, giữ thăng bằng.",
+      "Dùng thân người che chắn người block tưởng tượng trước khi ra tay."
+    ],
+    "commonMistakes": [
+      "Ném floater bẹt như đường thẳng thay vì vòng cung cao.",
+      "Bật hai chân, biến nó thành jump shot ngắn mất cảm giác bóng."
+    ],
+    "progression": "Thêm huấn luyện viên cầm đệm ở rổ làm người block, hoặc ném floater sau pha đột phá 1-1 thật.",
+    "regression": "Đứng yên tại mỗi cọc ném 10 quả chạm bóng một tay tại chỗ trước khi thêm nhịp dẫn tiếp cận.",
+    "gameApplication": "Floater vượt qua người block từ weakside — là cú kết thúc thiết yếu cho hậu vệ đột phá vào đám đông.",
+    "players": "1",
+    "equipment": [
+      "Bóng rổ",
+      "Cọc tiêu"
+    ]
+  }
+}

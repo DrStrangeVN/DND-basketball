@@ -1,0 +1,125 @@
+{
+  "id": "pocket-pass-drill",
+  "slug": "pocket-pass-drill",
+  "title": "Pocket Pass Drill",
+  "description": "Master the pick-and-roll pocket pass: deliver a precise one-handed bounce pass through a tight window to the rolling big.",
+  "skill": "Passing",
+  "level": "advanced",
+  "ages": [
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "PG",
+    "SG"
+  ],
+  "players": "2+",
+  "equipment": [
+    "Basketball",
+    "Cones"
+  ],
+  "durationMin": 12,
+  "intensity": "medium",
+  "goal": "Thread a one-handed bounce pass through a 2-foot window to hit the roll man in stride at the free-throw line.",
+  "setup": [
+    "Set 2 cones 2 feet apart at the nail to simulate the hedging defenders' arms — this is the window.",
+    "Ball handler starts at the top with a live dribble; the roller starts at the elbow.",
+    "The roller sets a ghost screen, then dives to the basket on the passer's cue.",
+    "10 reps per side, then switch roles; track makes out of 10."
+  ],
+  "instructions": [
+    {
+      "title": "Attack the screen",
+      "detail": "Dribble hard at the screen shoulder and read the hedge — the pocket opens between the two defenders."
+    },
+    {
+      "title": "Hit the window",
+      "detail": "Snap a one-handed bounce pass through the cone window so it arrives at the roller's outside hip at the free-throw line."
+    },
+    {
+      "title": "Roll with a target",
+      "detail": "The roller dives with the inside hand up as a target and catches on the move without breaking stride."
+    },
+    {
+      "title": "Finish the rep",
+      "detail": "The roller takes two steps and finishes at the rim; the passer follows for a potential kick-out read."
+    },
+    {
+      "title": "Flip sides and hands",
+      "detail": "Run 10 reps from the left with your left hand, then 10 from the right — the pocket pass must work both ways."
+    }
+  ],
+  "coachingPoints": [
+    "Pass to the roller's outside hip — never to their chest, where the help defender lives.",
+    "Bounce it early: the ball should hit the floor about two-thirds of the way to the target.",
+    "Keep your dribble alive until the pass leaves your hand — picking up early kills the read.",
+    "Pass with pace; a soft pocket pass lets the low man recover and blow it up."
+  ],
+  "commonMistakes": [
+    "Throwing a chest pass through the window — it gets deflected; bounce it through instead.",
+    "Passing behind the roller, forcing them to reach back — lead the outside hip.",
+    "Telegraphing the pass with your eyes — look at the rim, deliver to the roller."
+  ],
+  "progression": "Add a live low-man defender who rotates to tag the roller, forcing a real read between pocket pass and lob.",
+  "regression": "Widen the cone window to 4 feet, remove the dribble (start from a standstill), and allow a two-handed pass.",
+  "gameApplication": "The pocket pass is the bread and butter of the pick-and-roll — hitting the roller in stride creates layups or collapses the defense for kick-out threes.",
+  "related": [
+    "pick-and-roll-two-on-two",
+    "contact-finishing-drill",
+    "one-on-one-live"
+  ],
+  "dateUpdated": "2026-10-06",
+  "vi": {
+    "title": "Bài Tập Pocket Pass",
+    "description": "Làm chủ pocket pass trong pick-and-roll: chuyền bounce một tay chuẩn xác xuyên qua khe hẹp tới big man đang roll.",
+    "goal": "Luồn đường bounce pass một tay qua khe rộng 2 feet (60cm) để bóng đến đúng hông ngoài của người roll ở vạch ném phạt, đúng đà chạy.",
+    "setup": [
+      "Đặt 2 cọc tiêu cách nhau 2 feet ở vị trí nail để mô phỏng tay của hai hậu vệ hedge — đây chính là cái 'khe' (window).",
+      "Người cầm bóng bắt đầu ở đỉnh với live dribble; người roll đứng ở elbow.",
+      "Người roll dựng ghost screen rồi dive về rổ theo hiệu lệnh của người chuyền.",
+      "10 lượt mỗi bên, sau đó đổi vai; đếm số lần thành công trên 10."
+    ],
+    "instructions": [
+      {
+        "title": "Tấn công vào screen",
+        "detail": "Rê bóng mạnh vào vai screen và đọc tình huống hedge — cái pocket mở ra giữa hai hậu vệ."
+      },
+      {
+        "title": "Đánh trúng khe",
+        "detail": "Búng bounce pass một tay xuyên qua khe giữa hai cọc để bóng đến hông ngoài của người roll ngay vạch ném phạt."
+      },
+      {
+        "title": "Roll và giơ mục tiêu",
+        "detail": "Người roll dive xuống với tay trong giơ cao làm mục tiêu, bắt bóng khi đang di chuyển mà không khựng đà."
+      },
+      {
+        "title": "Hoàn tất lượt",
+        "detail": "Người roll đi hai bước rồi finish ở rổ; người chuyền chạy theo để sẵn sàng đọc tình huống kick-out."
+      },
+      {
+        "title": "Đổi bên và đổi tay",
+        "detail": "Chạy 10 lượt bên trái bằng tay trái, rồi 10 lượt bên phải — pocket pass phải dùng được cả hai phía."
+      }
+    ],
+    "coachingPoints": [
+      "Chuyền vào hông ngoài của người roll — đừng chuyền vào ngực, vì đó là chỗ hậu vệ help đang đứng.",
+      "Cho bóng nảy sớm: bóng nên chạm sàn ở khoảng 2/3 quãng đường tới mục tiêu.",
+      "Giữ dribble sống cho đến khi bóng rời tay — nhấc bóng sớm là giết chết pha đọc tình huống.",
+      "Chuyền phải có lực; pocket pass mềm để hậu vệ low man kịp hồi về phá bóng."
+    ],
+    "commonMistakes": [
+      "Chuyền ngực xuyên qua khe — bóng bị gạt ngay; hãy bounce xuyên qua.",
+      "Chuyền ra sau lưng người roll, bắt họ phải với ngược lại — hãy chuyền đón hông ngoài.",
+      "Để lộ ý đồ bằng ánh mắt — mắt nhìn rổ, tay chuyền cho người roll."
+    ],
+    "progression": "Thêm một low-man defender thật, xoay ra tag người roll, buộc bạn phải đọc thật giữa pocket pass và lob.",
+    "regression": "Nới khe cọc ra 4 feet, bỏ phần rê bóng (bắt đầu đứng yên) và cho phép chuyền hai tay.",
+    "gameApplication": "Pocket pass là món 'cơm bữa' của pick-and-roll — chuyền trúng người roll đúng đà tạo ra layup hoặc kéo sập hàng thủ để kick-out ném 3.",
+    "players": "2+",
+    "equipment": [
+      "Bóng rổ",
+      "Cọc tiêu"
+    ]
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "id": "jump-stop-series",
+  "slug": "jump-stop-series",
+  "title": "Jump Stop Series",
+  "description": "Build balanced footwork on every catch: jump stop, pivot, and power up strong from three scoring spots.",
+  "skill": "Footwork",
+  "level": "beginner",
+  "ages": [
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "players": "1",
+  "equipment": [
+    "Basketball"
+  ],
+  "durationMin": 10,
+  "intensity": "medium",
+  "goal": "Land every catch in a balanced two-foot jump stop so you can pivot either way and finish under control.",
+  "setup": [
+    "Start with a ball at the right elbow, facing the basket.",
+    "Work three spots: right elbow, left elbow, and the middle of the paint.",
+    "No dribble on the first two rounds — catch, jump stop, pivot, shoot.",
+    "10 reps per spot; make 7 of 10 before moving on."
+  ],
+  "instructions": [
+    {
+      "title": "Toss and jump stop",
+      "detail": "Toss the ball to yourself, jump, and land on two feet at the same time in a wide, low stance with knees bent."
+    },
+    {
+      "title": "Pivot to square",
+      "detail": "Choose a pivot foot and reverse-pivot to square your shoulders to the rim, keeping the ball high and tight."
+    },
+    {
+      "title": "Power up",
+      "detail": "Rise straight up off the jump stop for a 6-foot jumper or a one-dribble power finish — land in balance."
+    },
+    {
+      "title": "Rotate the spots",
+      "detail": "Move to the left elbow and repeat, then the middle; alternate your pivot foot each round."
+    },
+    {
+      "title": "Add the drive option",
+      "detail": "On the final round, read your own pivot: if the lane is open, take one hard dribble and finish at the rim."
+    }
+  ],
+  "coachingPoints": [
+    "Land on two feet at the same time — a staggered landing is a travel.",
+    "Stay low with your butt down and chest up; balance starts in the legs.",
+    "Ball stays high and tight at your chin — never let it drop to your waist.",
+    "Either foot can be the pivot after a legal jump stop; use that freedom."
+  ],
+  "commonMistakes": [
+    "Landing one foot then the other — that is a travel; hop and stick both feet together.",
+    "Standing straight up on the catch — you cannot pivot or explode from straight legs.",
+    "Dropping the ball low where defenders strip it — keep it chin-high."
+  ],
+  "progression": "Add a coach with a pad who bumps you on the catch, or catch on the move from a partner's pass instead of a self-toss.",
+  "regression": "Walk through the footwork without a ball first, or allow a 1-2 step stop instead of a true jump stop.",
+  "gameApplication": "Every catch in a game needs a legal, balanced stop — clean jump stops erase travels and let you attack either direction off the pivot.",
+  "related": [
+    "mikan-drill",
+    "euro-step-finishing",
+    "contact-finishing-drill"
+  ],
+  "dateUpdated": "2026-10-06",
+  "vi": {
+    "title": "Chuỗi Bài Jump Stop",
+    "description": "Xây dựng footwork thăng bằng ở mọi pha bắt bóng: jump stop, pivot rồi power up dứt điểm từ ba vị trí ghi điểm.",
+    "goal": "Mọi pha bắt bóng đều tiếp đất bằng jump stop hai chân thăng bằng để có thể pivot cả hai hướng và finish trong kiểm soát.",
+    "setup": [
+      "Bắt đầu với bóng ở right elbow, đối diện rổ.",
+      "Tập ở ba vị trí: right elbow, left elbow và giữa vùng paint.",
+      "Hai vòng đầu không rê bóng — bắt, jump stop, pivot, ném.",
+      "10 lượt mỗi vị trí; vào 7/10 mới chuyển vị trí."
+    ],
+    "instructions": [
+      {
+        "title": "Tung bóng và jump stop",
+        "detail": "Tự tung bóng lên, bật nhảy và tiếp đất hai chân cùng lúc với chân trụ rộng, hạ thấp trọng tâm, gối gập."
+      },
+      {
+        "title": "Pivot để vuông vai",
+        "detail": "Chọn một chân pivot rồi reverse-pivot để vuông vai về rổ, giữ bóng cao và sát người."
+      },
+      {
+        "title": "Power up",
+        "detail": "Bật thẳng lên từ jump stop để ném jumper 6 feet (1,8m) hoặc power finish một nhịp rê — tiếp đất thăng bằng."
+      },
+      {
+        "title": "Xoay vòng vị trí",
+        "detail": "Chuyển sang left elbow rồi lặp lại, sau đó ra giữa; mỗi vòng đổi chân pivot."
+      },
+      {
+        "title": "Thêm lựa chọn drive",
+        "detail": "Ở vòng cuối, tự đọc pivot của mình: nếu lane trống, đi một nhịp rê mạnh rồi finish ở rổ."
+      }
+    ],
+    "coachingPoints": [
+      "Tiếp đất hai chân cùng lúc — chân trước chân sau là travel (chân vịt).",
+      "Hạ thấp trọng tâm, mông hạ xuống, ngực ưỡn lên; thăng bằng bắt đầu từ đôi chân.",
+      "Bóng luôn cao và sát, ngang cằm — đừng bao giờ để bóng rớt xuống ngang hông.",
+      "Sau jump stop hợp lệ, chân nào cũng có thể làm pivot — hãy tận dụng sự tự do đó."
+    ],
+    "commonMistakes": [
+      "Tiếp đất chân trước chân sau — đó là travel; hãy nhảy và dính cả hai chân cùng lúc.",
+      "Đứng thẳng đơ khi bắt bóng — chân thẳng thì không pivot hay bứt tốc được.",
+      "Hạ bóng thấp để hậu vệ móc mất — giữ bóng ngang cằm."
+    ],
+    "progression": "Thêm HLV cầm đệm húc nhẹ vào lúc bắt bóng, hoặc bắt bóng khi đang di chuyển từ đường chuyền của đồng đội thay vì tự tung.",
+    "regression": "Đi bộ qua footwork không cần bóng trước, hoặc cho phép dừng kiểu 1-2 bước thay vì jump stop chuẩn.",
+    "gameApplication": "Mọi pha bắt bóng trong trận đều cần một điểm dừng hợp lệ và thăng bằng — jump stop sạch xóa bỏ travel và cho bạn tấn công cả hai hướng từ pivot.",
+    "players": "1",
+    "equipment": [
+      "Bóng rổ"
+    ]
+  }
+}

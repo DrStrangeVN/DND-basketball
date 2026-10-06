@@ -1,0 +1,113 @@
+{
+  "id": "retreat-dribble-pressure",
+  "slug": "retreat-dribble-pressure",
+  "title": "Retreat Dribble Under Pressure",
+  "description": "Teaches the retreat dribble escape move against on-ball pressure with a live defender, including the setup dribble and re-attack.",
+  "skill": "Ball Handling",
+  "level": "intermediate",
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "PG",
+    "SG",
+    "SF"
+  ],
+  "players": "2",
+  "equipment": [
+    "Basketball"
+  ],
+  "durationMin": 12,
+  "intensity": "medium",
+  "goal": "Escape on-ball pressure with a controlled retreat dribble and re-attack on balance.",
+  "setup": [
+    "Pair up with one ball per pair; one player is offense, one is a live defender.",
+    "Start at the half-court line with the defender in a legal guarding position 3 feet away.",
+    "Mark a 12-foot wide channel with cones so the defender stays honest and contained."
+  ],
+  "instructions": [
+    {
+      "title": "Feel The Pressure",
+      "detail": "The defender closes in and applies real pressure for 5 seconds while the offensive player protects the ball. No retreat yet - just stay low, ball tight, eyes up. Reset after each rep."
+    },
+    {
+      "title": "Retreat On Contact",
+      "detail": "When the defender lunges or reaches, take 2-3 long retreat dribbles straight back with a drop step, keeping the ball on the outside hip. The dribble should stay below the knee."
+    },
+    {
+      "title": "Re-Attack The Lane",
+      "detail": "After the retreat creates 4-6 feet of space, explode forward with 2 hard dribbles and attack the rim or pull up. The defender is live the whole way."
+    },
+    {
+      "title": "Switch And Add A Screen",
+      "detail": "Switch roles every 6 reps. Advanced version: add a third player as a screener at half-court - the ball handler retreats off the pressure, then uses the screen to re-attack."
+    }
+  ],
+  "coachingPoints": [
+    "Retreat with purpose: long, low dribbles, never a high bounce the defender can swipe.",
+    "Keep your body between the defender and the ball at all times.",
+    "Eyes up on the retreat so you see the floor and the re-attack lane.",
+    "Sell the retreat with your shoulders, then change pace hard on the re-attack."
+  ],
+  "commonMistakes": [
+    "Retreating in a straight line out of bounds or into a trap - angle back toward the middle.",
+    "Picking up the dribble during the retreat, which kills the escape."
+  ],
+  "progression": "Add a second defender for a trap simulation; the ball handler must retreat, split, or pass out of the double.",
+  "regression": "Work against a passive defender who only shadows without reaching, focusing on retreat footwork.",
+  "gameApplication": "The go-to escape when a defender gets into your space - retreat, create separation, and re-attack instead of turning the ball over.",
+  "related": [
+    "two-ball-dribbling",
+    "change-of-pace-ladder",
+    "one-on-one-live"
+  ],
+  "dateUpdated": "2026-10-06",
+  "vi": {
+    "title": "Retreat Dribble Trước Áp Lực",
+    "description": "Dạy động tác retreat dribble để thoát khỏi kèm người 1-1 với hậu vệ thật, bao gồm nhịp dẫn nhử và tái tấn công.",
+    "goal": "Thoát áp lực kèm bóng bằng retreat dribble có kiểm soát và tái tấn công giữ thăng bằng.",
+    "setup": [
+      "Chia cặp, mỗi cặp một bóng; một người tấn công, một người phòng ngự thật.",
+      "Bắt đầu ở vạch giữa sân, hậu vệ đứng phòng ngự hợp lệ cách 1m.",
+      "Đánh dấu hành lang rộng 4m bằng cọc tiêu để hậu vệ phòng ngự đúng."
+    ],
+    "instructions": [
+      {
+        "title": "Cảm Nhận Áp Lực",
+        "detail": "Hậu vệ áp sát và gây áp lực thật trong 5 giây, người tấn công chỉ giữ bóng. Chưa retreat — đứng thấp, bóng sát người, mắt nhìn lên. Xong mỗi rep thì reset."
+      },
+      {
+        "title": "Retreat Khi Bị Ép",
+        "detail": "Khi hậu vệ lao tới hoặc với tay, lùi 2-3 nhịp retreat dribble dài thẳng về sau bằng drop step, giữ bóng ở hông ngoài. Bóng phải thấp dưới gối."
+      },
+      {
+        "title": "Tái Tấn Công Rổ",
+        "detail": "Sau khi retreat tạo khoảng trống 1.5-2m, bùng nổ 2 nhịp dẫn mạnh rồi tấn công rổ hoặc pull-up. Hậu vệ vẫn kèm thật suốt đường."
+      },
+      {
+        "title": "Đổi Vai Và Thêm Screen",
+        "detail": "Đổi vai sau mỗi 6 rep. Bản nâng cao: thêm người thứ ba làm screen ở giữa sân — người cầm bóng retreat thoát áp lực rồi dùng screen tái tấn công."
+      }
+    ],
+    "coachingPoints": [
+      "Retreat có mục đích: nhịp dẫn dài và thấp, không bao giờ nảy cao để hậu vệ chọc.",
+      "Luôn giữ thân người giữa hậu vệ và bóng.",
+      "Mắt nhìn lên khi retreat để quan sát sân và đường tái tấn công.",
+      "Nhử bằng vai khi retreat, rồi đổi tốc độ mạnh khi tái tấn công."
+    ],
+    "commonMistakes": [
+      "Retreat thẳng ra biên hoặc vào bẫy — nên lùi chếch về giữa sân.",
+      "Nhấc bóng lên khi retreat, làm hỏng pha thoát."
+    ],
+    "progression": "Thêm hậu vệ thứ hai mô phỏng bẫy double team; người cầm bóng phải retreat, xé hoặc chuyền thoát.",
+    "regression": "Tập với hậu vệ thụ động chỉ theo kèm không với tay, tập trung vào footwork của retreat.",
+    "gameApplication": "Cách thoát chuẩn khi hậu vệ áp sát — retreat, tạo khoảng trống rồi tái tấn công thay vì mất bóng.",
+    "players": "2",
+    "equipment": [
+      "Bóng rổ"
+    ]
+  }
+}

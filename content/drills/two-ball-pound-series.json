@@ -1,0 +1,122 @@
+{
+  "id": "two-ball-pound-series",
+  "slug": "two-ball-pound-series",
+  "title": "Two-Ball Pound Series",
+  "description": "A stationary two-ball dribbling progression that builds hand strength, rhythm, and ambidexterity with 5 pound-dribble variations.",
+  "skill": "Ball Handling",
+  "level": "beginner",
+  "ages": [
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "players": "1",
+  "equipment": [
+    "Basketball",
+    "Basketball"
+  ],
+  "durationMin": 12,
+  "intensity": "medium",
+  "goal": "Dribble two balls with equal pound force and control using both hands.",
+  "setup": [
+    "Grab two basketballs and stand in an athletic stance in a 6-foot square of space.",
+    "Feet slightly wider than shoulders, knees bent, eyes up off the balls.",
+    "Run a 30-second timer or have a partner call time for each variation."
+  ],
+  "instructions": [
+    {
+      "title": "Simultaneous Pounds",
+      "detail": "Dribble both balls at the same time, pounding them hard so each bounces to hip height. Do 30 seconds, rest 15 seconds. Keep eyes up and dribbles in rhythm."
+    },
+    {
+      "title": "Alternating Pounds",
+      "detail": "Alternate the dribbles left-right-left-right like pistons, one ball up while the other is down. Pound each ball with full finger control for 30 seconds."
+    },
+    {
+      "title": "One High, One Low",
+      "detail": "Dribble one ball at knee height and the other at shoulder height simultaneously for 15 seconds, then switch hands and heights. This forces independent hand control."
+    },
+    {
+      "title": "Crossover Pounds",
+      "detail": "Cross both balls in front of your body at the same time, alternating which hand leads each cross. Do 20 total crosses, pounding hard on each catch."
+    },
+    {
+      "title": "Walk-Out Finish",
+      "detail": "While keeping both balls dribbling simultaneously, take 10 slow steps forward in a straight line and 10 steps back. Finish with 30 seconds of alternating pounds at full speed."
+    }
+  ],
+  "coachingPoints": [
+    "Pound the ball hard - soft dribbles are lazy dribbles.",
+    "Fingertips and wrist snap, never the palm.",
+    "Eyes up the whole time; use peripheral vision to track the balls.",
+    "Keep dribbles tight to the body, no wider than your stance."
+  ],
+  "commonMistakes": [
+    "Looking down at the balls, which kills court vision.",
+    "Pounding with the palm instead of snapping the wrist and fingers."
+  ],
+  "progression": "Do the full series while walking, then jogging, then add a cone slalom around 4 cones.",
+  "regression": "Do one variation at a time with a single ball first until each hand can pound 30 clean dribbles.",
+  "gameApplication": "Builds the equal-hand ball control needed to protect the ball against pressure and attack either direction off the dribble.",
+  "related": [
+    "two-ball-dribbling",
+    "cone-crossover-series",
+    "full-court-zigzag-handles"
+  ],
+  "dateUpdated": "2026-10-06",
+  "vi": {
+    "title": "Chuỗi Pound Dẫn Bóng Hai Tay",
+    "description": "Chuỗi bài dẫn bóng hai tay tại chỗ giúp tăng sức tay, nhịp độ và khả năng dùng đều cả hai tay với 5 biến thể pound-dribble.",
+    "goal": "Dẫn hai bóng với lực pound đều nhau và kiểm soát tốt bằng cả hai tay.",
+    "setup": [
+      "Cầm hai quả bóng, đứng tư thế thể thao trong khoảng trống 2m.",
+      "Chân rộng hơn vai một chút, gối khụy, mắt nhìn lên, không nhìn bóng.",
+      "Bấm đồng hồ 30 giây hoặc nhờ đồng đội canh giờ cho từng biến thể."
+    ],
+    "instructions": [
+      {
+        "title": "Pound Đồng Thời",
+        "detail": "Dẫn cả hai bóng cùng lúc, đập mạnh để mỗi bóng nảy lên ngang hông. Làm 30 giây, nghỉ 15 giây. Giữ mắt nhìn lên và nhịp dẫn đều."
+      },
+      {
+        "title": "Pound So Le",
+        "detail": "Dẫn so le trái-phải-trái-phải như pít-tông, một bóng lên thì bóng kia xuống. Đập mạnh từng bóng bằng ngón tay trong 30 giây."
+      },
+      {
+        "title": "Một Cao Một Thấp",
+        "detail": "Một bóng dẫn thấp ngang gối, một bóng dẫn cao ngang vai cùng lúc trong 15 giây, rồi đổi tay và đổi độ cao. Bài này ép hai tay hoạt động độc lập."
+      },
+      {
+        "title": "Pound Crossover",
+        "detail": "Crossover cả hai bóng cùng lúc trước mặt, luân phiên tay dẫn đầu mỗi lần đổi hướng. Làm 20 lần crossover, mỗi lần bắt bóng đều đập mạnh."
+      },
+      {
+        "title": "Đi Bộ Kết Thúc",
+        "detail": "Vừa dẫn đồng thời hai bóng vừa bước chậm 10 bước tiến theo đường thẳng rồi 10 bước lùi. Kết thúc bằng 30 giây pound so le với tốc độ tối đa."
+      }
+    ],
+    "coachingPoints": [
+      "Đập bóng thật mạnh — dẫn nhẹ là dẫn lười.",
+      "Dùng đầu ngón tay và cổ tay, không dùng lòng bàn tay.",
+      "Mắt nhìn lên suốt bài; dùng tầm nhìn ngoại vi để theo dõi bóng.",
+      "Giữ bóng sát người, không rộng hơn khoảng chân."
+    ],
+    "commonMistakes": [
+      "Cúi nhìn bóng, làm mất tầm nhìn sân.",
+      "Đập bóng bằng lòng bàn tay thay vì vẩy cổ tay và ngón tay."
+    ],
+    "progression": "Làm toàn bộ chuỗi khi đi bộ, rồi chạy nhẹ, rồi thêm slalom quanh 4 cọc tiêu.",
+    "regression": "Tập từng biến thể bằng một bóng trước, đến khi mỗi tay dẫn được 30 nhịp sạch.",
+    "gameApplication": "Xây dựng khả năng kiểm soát bóng đều hai tay để giữ bóng trước áp lực và tấn công cả hai hướng.",
+    "players": "1",
+    "equipment": [
+      "Bóng rổ",
+      "Bóng rổ"
+    ]
+  }
+}

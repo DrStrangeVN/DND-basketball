@@ -1,0 +1,114 @@
+{
+  "id": "pull-up-cone-series",
+  "slug": "pull-up-cone-series",
+  "title": "Pull-Up Cone Series",
+  "description": "Trains the one-dribble pull-up jumper off cones at three depths - elbow, wing, and deep - with game-speed deceleration.",
+  "skill": "Shooting",
+  "level": "advanced",
+  "ages": [
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "PG",
+    "SG",
+    "SF"
+  ],
+  "players": "1",
+  "equipment": [
+    "Basketball",
+    "Cones"
+  ],
+  "durationMin": 15,
+  "intensity": "high",
+  "goal": "Hit 6 of 10 one-dribble pull-ups from each of 3 cone depths with balanced stops.",
+  "setup": [
+    "Place 3 cones on the right side: at the elbow (15 ft), the wing three area (20 ft), and deep (25 ft). Mirror on the left if time allows.",
+    "Start each rep at half-court with the ball, sprinting toward the cone.",
+    "A partner rebounds or use a ball return; keep a second ball at half-court to keep pace."
+  ],
+  "instructions": [
+    {
+      "title": "Elbow Pull-Ups",
+      "detail": "Sprint-dribble at the cone, take one hard dribble past it, and plant into a balanced two-foot pull-up at 15 feet. Decelerate with a 1-2 stop, chest up. Shoot 10, track makes, target 6."
+    },
+    {
+      "title": "Wing Pull-Ups",
+      "detail": "Move to the wing cone. Same pattern: sprint, one dribble past the cone, pull up from 20 feet. The stop must be violent - slam the brakes with your inside foot and rise straight. Shoot 10."
+    },
+    {
+      "title": "Deep Pull-Ups",
+      "detail": "From the deep cone at 25 feet, sprint in and pull up from just inside the arc or beyond it. Keep the same quick stop and high release; do not fade away from the imaginary defender. Shoot 10."
+    },
+    {
+      "title": "Alternating Sides",
+      "detail": "Repeat the full 3-cone series on the left side of the floor, attacking with the left hand. Finish with 5 makes in a row alternating elbow-wing-deep on either side you choose."
+    }
+  ],
+  "coachingPoints": [
+    "The stop makes the shot: chop your feet and get your chest facing the rim before you rise.",
+    "One dribble, no more - extra dribbles let the defense recover.",
+    "Keep the dribble low and tight on the attack so the pull-up starts from a live ball.",
+    "Rise straight up; fading on pull-ups is a habit that kills percentage."
+  ],
+  "commonMistakes": [
+    "Drifting sideways on the stop instead of planting balanced.",
+    "Picking the ball up too early, which turns the pull-up into a slow set shot."
+  ],
+  "progression": "Add a coach or partner as a trailing defender who contests lightly, or require a hesitation move before the one dribble.",
+  "regression": "Walk into each pull-up instead of sprinting until the stop footwork is automatic, then add speed.",
+  "gameApplication": "The one-dribble pull-up is the counter when the defense cuts off your drive - stop on balance and shoot over the recovery.",
+  "related": [
+    "cone-crossover-series",
+    "star-shooting",
+    "one-on-one-live"
+  ],
+  "dateUpdated": "2026-10-06",
+  "vi": {
+    "title": "Chuỗi Pull-Up Qua Cọc Tiêu",
+    "description": "Rèn cú ném pull-up sau một nhịp dẫn qua cọc tiêu ở ba cự ly — khuỷu, cánh và xa — với nhịp giảm tốc ở tốc độ trận đấu.",
+    "goal": "Ném trúng 6/10 quả pull-up một nhịp dẫn ở mỗi cự ly trong 3 cự ly cọc tiêu với điểm dừng thăng bằng.",
+    "setup": [
+      "Đặt 3 cọc tiêu bên phải: ở khuỷu (4.5m), khu vực cánh ba điểm (6m) và xa (7.5m). Nếu còn thời gian thì đặt đối xứng bên trái.",
+      "Mỗi rep bắt đầu ở giữa sân có bóng, sprint hướng về cọc tiêu.",
+      "Đồng đội bắt rebound hoặc dùng bóng dự phòng; để sẵn bóng thứ hai ở giữa sân để giữ nhịp."
+    ],
+    "instructions": [
+      {
+        "title": "Pull-Up Khuỷu",
+        "detail": "Sprint dẫn bóng tới cọc, một nhịp dẫn mạnh vượt qua cọc, rồi cắm chân vào tư thế pull-up hai chân thăng bằng ở cự ly 4.5m. Giảm tốc bằng bước dừng 1-2, ngực ngẩng. Ném 10 quả, đếm số trúng, mục tiêu 6 quả."
+      },
+      {
+        "title": "Pull-Up Cánh",
+        "detail": "Sang cọc cánh. Cùng kiểu: sprint, một nhịp dẫn vượt cọc, pull-up từ 6m. Điểm dừng phải dứt khoát — phanh gấp bằng chân trong và bật thẳng lên. Ném 10 quả."
+      },
+      {
+        "title": "Pull-Up Xa",
+        "detail": "Từ cọc xa 7.5m, sprint vào và pull-up ngay trong hoặc ngoài vạch ba điểm. Giữ cùng nhịp dừng nhanh và tay ném cao; không ngả người tránh hậu vệ tưởng tượng. Ném 10 quả."
+      },
+      {
+        "title": "Đổi Bên",
+        "detail": "Lặp lại toàn bộ chuỗi 3 cọc ở bên trái sân, tấn công bằng tay trái. Kết thúc bằng 5 quả trúng liên tiếp luân phiên khuỷu-cánh-xa ở bên tùy chọn."
+      }
+    ],
+    "coachingPoints": [
+      "Điểm dừng quyết định cú ném: chặt chân và xoay ngực về rổ trước khi bật lên.",
+      "Một nhịp dẫn, không hơn — dẫn thêm là cho đối phương kịp hồi phòng ngự.",
+      "Giữ bóng thấp và sát người khi tấn công để cú pull-up bắt đầu từ bóng sống.",
+      "Bật thẳng lên; ngả người khi pull-up là thói quen giết tỉ lệ ném."
+    ],
+    "commonMistakes": [
+      "Trôi ngang khi dừng thay vì cắm chân thăng bằng.",
+      "Nhấc bóng lên quá sớm, biến pull-up thành set shot chậm chạp."
+    ],
+    "progression": "Thêm huấn luyện viên hoặc đồng đội làm hậu vệ đuổi theo contest nhẹ, hoặc yêu cầu một động tác hesitation trước nhịp dẫn.",
+    "regression": "Đi bộ vào mỗi cú pull-up thay vì sprint cho đến khi footwork điểm dừng thành tự động, rồi mới tăng tốc.",
+    "gameApplication": "Pull-up một nhịp dẫn là đòn đáp trả khi đối phương chặn đường đột phá — dừng thăng bằng và ném qua người hồi thủ.",
+    "players": "1",
+    "equipment": [
+      "Bóng rổ",
+      "Cọc tiêu"
+    ]
+  }
+}

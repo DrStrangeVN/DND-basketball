@@ -1,0 +1,111 @@
+{
+  "id": "star-shooting",
+  "slug": "star-shooting",
+  "title": "Star Shooting",
+  "description": "A five-spot shooting drill run in star order - corner, opposite wing, top, wing, opposite corner - to train shot readiness from every angle.",
+  "skill": "Shooting",
+  "level": "intermediate",
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "players": "2",
+  "equipment": [
+    "Basketball"
+  ],
+  "durationMin": 15,
+  "intensity": "medium",
+  "goal": "Make 2 shots from each of 5 spots in star order with consistent form.",
+  "setup": [
+    "Mark 5 spots around the arc: right corner three, left wing three, top of the key, right wing three, left corner three.",
+    "One shooter, one rebounder/passer; switch roles after the shooter completes the star.",
+    "Set a target: 10 total makes (2 per spot) in star sequence."
+  ],
+  "instructions": [
+    {
+      "title": "Run The Star",
+      "detail": "Shoot in star order: right corner, left wing, top, right wing, left corner. Sprint between spots. You must make 2 at a spot before moving on. The passer delivers on-time, on-target passes."
+    },
+    {
+      "title": "Catch-Ready Feet",
+      "detail": "At each spot, arrive with feet set and hands ready before the ball arrives. Every shot must come off a 1-2 step or a hop catch - no flat-footed shooting. Track makes out loud."
+    },
+    {
+      "title": "Add The Clock",
+      "detail": "Once 10 makes is comfortable, add a 3-minute clock: how many total makes can you get running the star continuously? Move to the next spot after 2 makes regardless of misses."
+    },
+    {
+      "title": "Step-Back Finish",
+      "detail": "Finish with one star run where every shot is a step-back three off the catch - catch, one hard dribble back, rise up. This simulates creating space against a closeout."
+    }
+  ],
+  "coachingPoints": [
+    "Feet and hands ready before the catch - the shot starts before the ball arrives.",
+    "Same shooting pocket and follow-through at all five spots.",
+    "Sprint between spots like you are relocating in a real game.",
+    "Hold your follow-through until the ball hits the rim."
+  ],
+  "commonMistakes": [
+    "Jogging between spots, which trains lazy relocation habits.",
+    "Changing shot mechanics on corner threes because the angle feels different."
+  ],
+  "progression": "Move all 5 spots back to NBA range, or require 3 makes per spot before advancing.",
+  "regression": "Shoot from mid-range at the same 5 spots until you hit 12 of 15, then extend to three.",
+  "gameApplication": "Trains relocating and shooting off the catch from every floor spot, exactly like spacing around a drive.",
+  "related": [
+    "spot-shooting-ladder",
+    "three-point-star",
+    "skip-pass-shooting"
+  ],
+  "dateUpdated": "2026-10-06",
+  "vi": {
+    "title": "Ném Hình Ngôi Sao",
+    "description": "Bài ném 5 điểm theo thứ tự hình sao — góc phải, cánh trái, đỉnh, cánh phải, góc trái — rèn khả năng sẵn sàng ném từ mọi góc.",
+    "goal": "Ném trúng 2 quả ở mỗi điểm trong 5 điểm theo thứ tự sao với form ổn định.",
+    "setup": [
+      "Đánh dấu 5 điểm quanh vạch ba điểm: góc phải, cánh trái, đỉnh vòng, cánh phải, góc trái.",
+      "Một người ném, một người bắt rebound/chuyền; đổi vai sau khi người ném hoàn thành vòng sao.",
+      "Đặt mục tiêu: tổng 10 quả trúng (2 quả mỗi điểm) theo đúng thứ tự sao."
+    ],
+    "instructions": [
+      {
+        "title": "Chạy Vòng Sao",
+        "detail": "Ném theo thứ tự sao: góc phải, cánh trái, đỉnh, cánh phải, góc trái. Sprint di chuyển giữa các điểm. Phải trúng 2 quả ở một điểm mới được sang điểm tiếp. Người chuyền phải chuyền đúng nhịp, đúng tầm."
+      },
+      {
+        "title": "Chân Tay Sẵn Sàng",
+        "detail": "Đến mỗi điểm, chân đã đặt và tay đã sẵn sàng trước khi bóng tới. Mỗi cú ném phải từ bước 1-2 hoặc hop catch — không ném khi chân đứng yên. Đếm số quả trúng to tiếng."
+      },
+      {
+        "title": "Thêm Đồng Hồ",
+        "detail": "Khi đã quen với 10 quả trúng, thêm đồng hồ 3 phút: chạy vòng sao liên tục thì trúng được bao nhiêu quả? Sang điểm tiếp theo sau 2 quả trúng bất kể số lần hỏng."
+      },
+      {
+        "title": "Step-Back Kết Thúc",
+        "detail": "Kết thúc bằng một vòng sao mà mọi cú ném đều là step-back ba điểm sau khi bắt bóng — bắt bóng, một nhịp dẫn mạnh lùi lại, bật lên ném. Mô phỏng tạo khoảng trống trước closeout."
+      }
+    ],
+    "coachingPoints": [
+      "Chân và tay sẵn sàng trước khi bắt bóng — cú ném bắt đầu trước khi bóng tới.",
+      "Cùng một shooting pocket và follow-through ở cả năm điểm.",
+      "Sprint giữa các điểm như đang di chuyển trong trận đấu thật.",
+      "Giữ follow-through đến khi bóng chạm vành rổ."
+    ],
+    "commonMistakes": [
+      "Chạy bộ thong thả giữa các điểm, tập thành thói quen di chuyển lười.",
+      "Đổi form ném ở góc vì cảm thấy góc ném khác."
+    ],
+    "progression": "Lùi cả 5 điểm ra cự ly NBA, hoặc yêu cầu 3 quả trúng mỗi điểm mới được sang điểm tiếp.",
+    "regression": "Ném tầm trung ở cùng 5 điểm đến khi trúng 12/15 quả, rồi mới ra vạch ba điểm.",
+    "gameApplication": "Rèn di chuyển chỗ và ném catch-and-shoot từ mọi điểm trên sân, đúng như spacing quanh pha đột phá.",
+    "players": "2",
+    "equipment": [
+      "Bóng rổ"
+    ]
+  }
+}
