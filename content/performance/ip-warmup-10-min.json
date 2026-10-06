@@ -1,72 +1,6 @@
 {
-  "id": "perf-ip-warmup-10-min",
-  "slug": "ip-warmup-10-min",
-  "hub": "injury-prevention",
-  "dateUpdated": "2026-10-06",
+  "basketballTransfer": "The lateral shuffles and closeouts carry straight into defensive possessions; the change-of-direction build-ups rehearse the cuts and stops basketball demands every play.",
   "category": "warm-up",
-  "subcategory": "warmup-routines",
-  "title": "10-Minute Basketball Warm-Up",
-  "description": "A complete 10-minute warm-up: raise the temperature, open the hips, activate the glutes and core, then ramp up through lateral movement and change of direction.",
-  "level": "beginner",
-  "positions": [
-    "all"
-  ],
-  "trainingPhase": [
-    "off-season",
-    "pre-season",
-    "in-season"
-  ],
-  "goal": [
-    "move-better",
-    "get-faster",
-    "conditioning"
-  ],
-  "duration": "10 min",
-  "equipment": [
-    "Open court space",
-    "Mini resistance band (optional)"
-  ],
-  "whatItDevelops": [
-    "Full-body warmth through progressive jogging",
-    "Hip and shoulder mobility in every plane",
-    "Glute and core activation for stable movement",
-    "Lateral movement readiness"
-  ],
-  "whyBasketball": [
-    "Adds the activation phase missing from ultra-short warm-ups",
-    "Lateral shuffles and closeouts mirror real defensive movement",
-    "Change-of-direction build-ups prepare the knees for cuts and stops"
-  ],
-  "howTo": [
-    {
-      "title": "Jog and backpedal — 90 seconds",
-      "detail": "Jog baseline to baseline, then backpedal back. On the backpedal, keep the hips low and the eyes up."
-    },
-    {
-      "title": "Leg swings and hip circles — 30 seconds per leg",
-      "detail": "Forward-back and lateral leg swings, then slow hip circles in both directions. Open the hips in every plane."
-    },
-    {
-      "title": "Glute bridges — 10 reps",
-      "detail": "Lie on your back, feet flat on the floor. Drive the hips up until the body forms a straight line from shoulders to knees. Squeeze for one second at the top."
-    },
-    {
-      "title": "Band pull-aparts or wall slides — 8 reps",
-      "detail": "With a light band: pull apart at chest height, squeezing the shoulder blades together. Without a band: slide the arms up a wall while keeping the lower back flat."
-    },
-    {
-      "title": "Walking lunges with overhead reach — 5 per side",
-      "detail": "Step into a deep lunge, reach both arms overhead, and lean slightly toward the front leg. Feel the stretch through the hip flexor."
-    },
-    {
-      "title": "Lateral shuffles and closeouts — 3 each way",
-      "detail": "Shuffle from the baseline to the elbow, then closeout: sprint in, break down, chop the feet. Repeat in the other direction."
-    },
-    {
-      "title": "Change-of-direction build-ups — 3 reps",
-      "detail": "Sprint to half court, plant hard, and cut at 45 degrees. Walk back. Raise the intensity each rep."
-    }
-  ],
   "coachingPoints": [
     "Progress the intensity — never start at full speed",
     "Squeeze the glutes hard at the top of every bridge",
@@ -78,8 +12,55 @@
     "Letting the knees collapse inward on lunges",
     "Closing out flat-footed instead of on choppy steps"
   ],
-  "setsReps": "Complete the circuit once (≈10 minutes). For double sessions, run the mobility and activation halves again before the second session.",
-  "basketballTransfer": "The lateral shuffles and closeouts carry straight into defensive possessions; the change-of-direction build-ups rehearse the cuts and stops basketball demands every play.",
+  "dateUpdated": "2026-10-06",
+  "description": "A complete 10-minute warm-up: raise the temperature, open the hips, activate the glutes and core, then ramp up through lateral movement and change of direction.",
+  "duration": "10 min",
+  "equipment": [
+    "Open court space",
+    "Mini resistance band (optional)"
+  ],
+  "goal": [
+    "move-better",
+    "get-faster",
+    "conditioning"
+  ],
+  "howTo": [
+    {
+      "detail": "Jog baseline to baseline, then backpedal back. On the backpedal, keep the hips low and the eyes up.",
+      "title": "Jog and backpedal — 90 seconds"
+    },
+    {
+      "detail": "Forward-back and lateral leg swings, then slow hip circles in both directions. Open the hips in every plane.",
+      "title": "Leg swings and hip circles — 30 seconds per leg"
+    },
+    {
+      "detail": "Lie on your back, feet flat on the floor. Drive the hips up until the body forms a straight line from shoulders to knees. Squeeze for one second at the top.",
+      "title": "Glute bridges — 10 reps"
+    },
+    {
+      "detail": "With a light band: pull apart at chest height, squeezing the shoulder blades together. Without a band: slide the arms up a wall while keeping the lower back flat.",
+      "title": "Band pull-aparts or wall slides — 8 reps"
+    },
+    {
+      "detail": "Step into a deep lunge, reach both arms overhead, and lean slightly toward the front leg. Feel the stretch through the hip flexor.",
+      "title": "Walking lunges with overhead reach — 5 per side"
+    },
+    {
+      "detail": "Shuffle from the baseline to the elbow, then closeout: sprint in, break down, chop the feet. Repeat in the other direction.",
+      "title": "Lateral shuffles and closeouts — 3 each way"
+    },
+    {
+      "detail": "Sprint to half court, plant hard, and cut at 45 degrees. Walk back. Raise the intensity each rep.",
+      "title": "Change-of-direction build-ups — 3 reps"
+    }
+  ],
+  "hub": "injury-prevention",
+  "id": "perf-ip-warmup-10-min",
+  "level": "beginner",
+  "medicalDisclaimer": false,
+  "positions": [
+    "all"
+  ],
   "progression": [
     "Beginner: skip the band work and keep cuts at half speed",
     "Intermediate: complete the full circuit at the listed reps",
@@ -89,8 +70,11 @@
     "ip-warmup-5-min",
     "ip-game-warmup",
     "ip-hip-strength",
-    "ap-agility-basics"
+    "ap-change-of-direction"
   ],
+  "setsReps": "Complete the circuit once (≈10 minutes). For double sessions, run the mobility and activation halves again before the second session.",
+  "slug": "ip-warmup-10-min",
+  "subcategory": "warmup-routines",
   "tags": [
     "warm-up",
     "movement preparation",
@@ -98,51 +82,14 @@
     "activation",
     "mobility"
   ],
-  "medicalDisclaimer": false,
+  "title": "10-Minute Basketball Warm-Up",
+  "trainingPhase": [
+    "off-season",
+    "pre-season",
+    "in-season"
+  ],
   "vi": {
-    "title": "Bài khởi động 10 phút đầy đủ cho bóng rổ",
-    "description": "Bài khởi động 10 phút hoàn chỉnh: làm nóng cơ thể, mở hông, đánh thức cơ mông và cơ core, rồi tăng dần qua di chuyển ngang và đổi hướng.",
-    "whatItDevelops": [
-      "Làm nóng toàn thân qua chạy nhẹ tăng dần",
-      "Mở hông và vai trên mọi mặt phẳng",
-      "Đánh thức cơ mông và cơ core để di chuyển ổn định",
-      "Sẵn sàng cho di chuyển ngang"
-    ],
-    "whyBasketball": [
-      "Bổ sung pha đánh thức cơ mà các bài khởi động siêu ngắn còn thiếu",
-      "Slide ngang và closeout mô phỏng đúng động tác phòng thủ thật",
-      "Sprint đổi hướng chuẩn bị đầu gối cho các pha cắt và dừng"
-    ],
-    "howTo": [
-      {
-        "title": "Chạy nhẹ và chạy lùi — 90 giây",
-        "detail": "Chạy nhẹ từ vạch cuối sân này sang vạch cuối sân kia, rồi chạy lùi về. Khi chạy lùi, hạ thấp hông, mắt nhìn lên."
-      },
-      {
-        "title": "Vung chân và xoay hông — 30 giây mỗi chân",
-        "detail": "Vung chân trước–sau và ngang, rồi xoay hông chậm theo cả hai chiều. Mở hông trên mọi mặt phẳng."
-      },
-      {
-        "title": "Glute bridge — 10 lần",
-        "detail": "Nằm ngửa, bàn chân đặt phẳng trên sàn. Đẩy hông lên đến khi cơ thể tạo đường thẳng từ vai đến gối. Siết mông 1 giây ở điểm cao nhất."
-      },
-      {
-        "title": "Kéo dây kháng lực hoặc trượt tay trên tường — 8 lần",
-        "detail": "Có dây nhẹ: kéo dây ngang ngực, ép hai bả vai lại. Không có dây: trượt hai tay lên tường, giữ lưng dưới phẳng."
-      },
-      {
-        "title": "Lunge đi bộ kết hợp vươn tay qua đầu — 5 lần mỗi bên",
-        "detail": "Bước vào tư thế lunge sâu, vươn hai tay qua đầu, nghiêng nhẹ về phía chân trước. Cảm nhận cơ gấp hông được kéo giãn."
-      },
-      {
-        "title": "Slide ngang và closeout — 3 lần mỗi hướng",
-        "detail": "Slide ngang từ vạch cuối sân ra vị trí elbow, rồi closeout: chạy vào, hạ thấp, chân bước nhỏ liên tục. Đổi hướng lặp lại."
-      },
-      {
-        "title": "Sprint đổi hướng tăng dần — 3 lượt",
-        "detail": "Sprint lên giữa sân, đạp chân thật chắc, cắt hướng 45 độ. Đi bộ về. Tăng cường độ mỗi lượt."
-      }
-    ],
+    "basketballTransfer": "Slide ngang và closeout chuyển thẳng vào các pha phòng thủ; sprint đổi hướng tập dượt đúng các pha cắt và dừng mà bóng rổ đòi hỏi ở mỗi lượt bóng.",
     "coachingPoints": [
       "Tăng dần cường độ — không bao giờ bắt đầu ở tốc độ tối đa",
       "Siết mông thật mạnh ở điểm cao nhất của mỗi nhịp bridge",
@@ -154,13 +101,44 @@
       "Để gối chụm vào trong khi lunge",
       "Closeout bằng chân phẳng thay vì bước nhỏ liên tục"
     ],
-    "setsReps": "Hoàn thành toàn bộ chuỗi một lần (≈10 phút). Nếu tập hai buổi trong ngày, chạy lại nửa phần linh hoạt và đánh thức cơ trước buổi thứ hai.",
-    "basketballTransfer": "Slide ngang và closeout chuyển thẳng vào các pha phòng thủ; sprint đổi hướng tập dượt đúng các pha cắt và dừng mà bóng rổ đòi hỏi ở mỗi lượt bóng.",
+    "description": "Bài khởi động 10 phút hoàn chỉnh: làm nóng cơ thể, mở hông, đánh thức cơ mông và cơ core, rồi tăng dần qua di chuyển ngang và đổi hướng.",
+    "duration": "10 phút",
+    "howTo": [
+      {
+        "detail": "Chạy nhẹ từ vạch cuối sân này sang vạch cuối sân kia, rồi chạy lùi về. Khi chạy lùi, hạ thấp hông, mắt nhìn lên.",
+        "title": "Chạy nhẹ và chạy lùi — 90 giây"
+      },
+      {
+        "detail": "Vung chân trước–sau và ngang, rồi xoay hông chậm theo cả hai chiều. Mở hông trên mọi mặt phẳng.",
+        "title": "Vung chân và xoay hông — 30 giây mỗi chân"
+      },
+      {
+        "detail": "Nằm ngửa, bàn chân đặt phẳng trên sàn. Đẩy hông lên đến khi cơ thể tạo đường thẳng từ vai đến gối. Siết mông 1 giây ở điểm cao nhất.",
+        "title": "Glute bridge — 10 lần"
+      },
+      {
+        "detail": "Có dây nhẹ: kéo dây ngang ngực, ép hai bả vai lại. Không có dây: trượt hai tay lên tường, giữ lưng dưới phẳng.",
+        "title": "Kéo dây kháng lực hoặc trượt tay trên tường — 8 lần"
+      },
+      {
+        "detail": "Bước vào tư thế lunge sâu, vươn hai tay qua đầu, nghiêng nhẹ về phía chân trước. Cảm nhận cơ gấp hông được kéo giãn.",
+        "title": "Lunge đi bộ kết hợp vươn tay qua đầu — 5 lần mỗi bên"
+      },
+      {
+        "detail": "Slide ngang từ vạch cuối sân ra vị trí elbow, rồi closeout: chạy vào, hạ thấp, chân bước nhỏ liên tục. Đổi hướng lặp lại.",
+        "title": "Slide ngang và closeout — 3 lần mỗi hướng"
+      },
+      {
+        "detail": "Sprint lên giữa sân, đạp chân thật chắc, cắt hướng 45 độ. Đi bộ về. Tăng cường độ mỗi lượt.",
+        "title": "Sprint đổi hướng tăng dần — 3 lượt"
+      }
+    ],
     "progression": [
       "Beginner: bỏ phần dây kháng lực, cắt hướng ở nửa tốc độ",
       "Intermediate: hoàn thành toàn bộ chuỗi đúng số lần quy định",
       "Advanced: thêm một vòng phần di chuyển với cường độ cao hơn"
     ],
+    "setsReps": "Hoàn thành toàn bộ chuỗi một lần (≈10 phút). Nếu tập hai buổi trong ngày, chạy lại nửa phần linh hoạt và đánh thức cơ trước buổi thứ hai.",
     "tags": [
       "khởi động",
       "chuẩn bị vận động",
@@ -168,6 +146,28 @@
       "đánh thức cơ",
       "linh hoạt"
     ],
-    "duration": "10 phút"
-  }
+    "title": "Bài khởi động 10 phút đầy đủ cho bóng rổ",
+    "whatItDevelops": [
+      "Làm nóng toàn thân qua chạy nhẹ tăng dần",
+      "Mở hông và vai trên mọi mặt phẳng",
+      "Đánh thức cơ mông và cơ core để di chuyển ổn định",
+      "Sẵn sàng cho di chuyển ngang"
+    ],
+    "whyBasketball": [
+      "Bổ sung pha đánh thức cơ mà các bài khởi động siêu ngắn còn thiếu",
+      "Slide ngang và closeout mô phỏng đúng động tác phòng thủ thật",
+      "Sprint đổi hướng chuẩn bị đầu gối cho các pha cắt và dừng"
+    ]
+  },
+  "whatItDevelops": [
+    "Full-body warmth through progressive jogging",
+    "Hip and shoulder mobility in every plane",
+    "Glute and core activation for stable movement",
+    "Lateral movement readiness"
+  ],
+  "whyBasketball": [
+    "Adds the activation phase missing from ultra-short warm-ups",
+    "Lateral shuffles and closeouts mirror real defensive movement",
+    "Change-of-direction build-ups prepare the knees for cuts and stops"
+  ]
 }

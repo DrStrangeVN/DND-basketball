@@ -1,55 +1,6 @@
 {
-  "id": "perf-ap-in-season-maintenance",
-  "slug": "ap-in-season-maintenance",
-  "hub": "athletic-performance",
+  "basketballTransfer": "Maintenance lifting keeps your off-season gains alive through the playoffs — same jump, same strength, all season long.",
   "category": "programs",
-  "subcategory": "in-season",
-  "title": "In-Season Maintenance",
-  "description": "Short, smart in-season lifting: 2 brief sessions per week to keep your strength without stealing from game day. Train just enough to stay strong.",
-  "level": "intermediate",
-  "positions": [
-    "all"
-  ],
-  "trainingPhase": [
-    "in-season"
-  ],
-  "goal": [
-    "get-stronger",
-    "move-better"
-  ],
-  "duration": "30–40 min",
-  "equipment": [
-    "Dumbbells",
-    "Resistance bands"
-  ],
-  "whatItDevelops": [
-    "Strength maintenance",
-    "Mobility",
-    "Injury resilience"
-  ],
-  "whyBasketball": [
-    "You cannot build much in-season — the goal is to not lose what you built.",
-    "Two short sessions preserve months of off-season work.",
-    "Well-timed lifting keeps you fresh for games, not sore."
-  ],
-  "howTo": [
-    {
-      "title": "The golden rule",
-      "detail": "Lift at least 48 hours before a game — never the day before. Cut volume during weeks with a congested schedule."
-    },
-    {
-      "title": "Session A — lower + core",
-      "detail": "Goblet squat 3x8, Romanian deadlift 3x10, band lateral walk 2x12 each side, plank 3x30s."
-    },
-    {
-      "title": "Session B — upper + power",
-      "detail": "Push-ups 3x12, single-arm row 3x10 each side, band pull-apart 2x15, box jump 3x3 on a low box with fresh legs."
-    },
-    {
-      "title": "Adjust to the schedule",
-      "detail": "Back-to-back games? One session or none that week. Legs sore or heavy? Cut the sets in half."
-    }
-  ],
   "coachingPoints": [
     "Keep intensity moderate — leave the gym feeling fresh.",
     "Full range of motion on every rep.",
@@ -62,62 +13,71 @@
     "Chasing PRs during the season.",
     "Training through fatigue that changes your movement."
   ],
-  "setsReps": "2 sessions per week, 30-40 min each. 2-3 sets per exercise, moderate loads, 60-90 s rest between sets.",
-  "basketballTransfer": "Maintenance lifting keeps your off-season gains alive through the playoffs — same jump, same strength, all season long.",
+  "dateUpdated": "2026-10-06",
+  "description": "Short, smart in-season lifting: 2 brief sessions per week to keep your strength without stealing from game day. Train just enough to stay strong.",
+  "duration": "30–40 min",
+  "equipment": [
+    "Dumbbells",
+    "Resistance bands"
+  ],
+  "goal": [
+    "get-stronger",
+    "move-better"
+  ],
+  "howTo": [
+    {
+      "detail": "Lift at least 48 hours before a game — never the day before. Cut volume during weeks with a congested schedule.",
+      "title": "The golden rule"
+    },
+    {
+      "detail": "Goblet squat 3x8, Romanian deadlift 3x10, band lateral walk 2x12 each side, plank 3x30s.",
+      "title": "Session A — lower + core"
+    },
+    {
+      "detail": "Push-ups 3x12, single-arm row 3x10 each side, band pull-apart 2x15, box jump 3x3 on a low box with fresh legs.",
+      "title": "Session B — upper + power"
+    },
+    {
+      "detail": "Back-to-back games? One session or none that week. Legs sore or heavy? Cut the sets in half.",
+      "title": "Adjust to the schedule"
+    }
+  ],
+  "hub": "athletic-performance",
+  "id": "perf-ap-in-season-maintenance",
+  "level": "intermediate",
+  "positions": [
+    "all"
+  ],
   "progression": [
     "Beginner: 1 short full-body session per week.",
     "Intermediate: 2 sessions as written.",
     "Advanced: add barbell work early in the week, as far from games as possible."
   ],
+  "references": [
+    "NSCA — In-season strength maintenance for team sports",
+    "USA Basketball — Strength and conditioning guidelines"
+  ],
   "relatedTopics": [
-    "rec-post-practice-cooldown",
+    "rec-post-practice-protocol",
     "nut-post-training-recovery-meal",
-    "ip-ankle-prevention-basics",
+    "ip-ankle-guide",
     "rec-sleep-for-athletes"
   ],
+  "setsReps": "2 sessions per week, 30-40 min each. 2-3 sets per exercise, moderate loads, 60-90 s rest between sets.",
+  "slug": "ap-in-season-maintenance",
+  "subcategory": "in-season",
   "tags": [
     "in-season",
     "maintenance",
     "strength",
     "recovery"
   ],
-  "references": [
-    "NSCA — In-season strength maintenance for team sports",
-    "USA Basketball — Strength and conditioning guidelines"
+  "title": "In-Season Maintenance",
+  "trainingPhase": [
+    "in-season"
   ],
-  "dateUpdated": "2026-10-06",
   "vi": {
-    "title": "Duy trì sức mạnh trong mùa giải (in-season)",
-    "description": "Tập tạ ngắn và thông minh trong mùa giải: 2 buổi ngắn/tuần để giữ sức mạnh mà không ảnh hưởng ngày thi đấu. Tập vừa đủ để giữ vững phong độ.",
-    "duration": "30–40 phút",
-    "whatItDevelops": [
-      "Duy trì sức mạnh",
-      "Độ linh hoạt",
-      "Khả năng chống chịu chấn thương"
-    ],
-    "whyBasketball": [
-      "Trong mùa giải khó tăng sức mạnh — mục tiêu là không mất những gì đã xây.",
-      "Hai buổi ngắn giữ được thành quả của cả giai đoạn nghỉ.",
-      "Tập đúng thời điểm giúp ra sân tươi tỉnh, không ê ẩm."
-    ],
-    "howTo": [
-      {
-        "title": "Nguyên tắc vàng",
-        "detail": "Tập tạ cách ngày thi đấu ít nhất 48 giờ — không bao giờ tập sát ngày đấu. Tuần lịch dày thì giảm khối lượng."
-      },
-      {
-        "title": "Buổi A — thân dưới + core",
-        "detail": "Goblet squat 3x8, Romanian deadlift 3x10, band lateral walk 2x12 mỗi bên, plank 3x30 giây."
-      },
-      {
-        "title": "Buổi B — thân trên + power",
-        "detail": "Chống đẩy 3x12, row một tay 3x10 mỗi bên, band pull-apart 2x15, box jump 3x3 trên bục thấp khi chân còn tươi."
-      },
-      {
-        "title": "Điều chỉnh theo lịch thi đấu",
-        "detail": "Hai trận liên tiếp? Tuần đó tập một buổi hoặc nghỉ hẳn. Chân ê ẩm, nặng nề? Cắt một nửa số hiệp."
-      }
-    ],
+    "basketballTransfer": "Tập duy trì giữ thành quả giai đoạn nghỉ sống tới hết playoff — bật nhảy và sức mạnh như cũ, suốt cả mùa.",
     "coachingPoints": [
       "Giữ cường độ vừa phải — rời phòng gym với cảm giác tươi tỉnh.",
       "Biên độ đầy đủ ở mỗi lần thực hiện.",
@@ -130,18 +90,58 @@
       "Cố phá kỷ lục trong mùa giải.",
       "Tập khi mệt tới mức kỹ thuật bị biến dạng."
     ],
-    "setsReps": "2 buổi/tuần, mỗi buổi 30-40 phút. Mỗi bài 2-3 hiệp, tạ vừa, nghỉ 60-90 giây giữa các hiệp.",
-    "basketballTransfer": "Tập duy trì giữ thành quả giai đoạn nghỉ sống tới hết playoff — bật nhảy và sức mạnh như cũ, suốt cả mùa.",
+    "description": "Tập tạ ngắn và thông minh trong mùa giải: 2 buổi ngắn/tuần để giữ sức mạnh mà không ảnh hưởng ngày thi đấu. Tập vừa đủ để giữ vững phong độ.",
+    "duration": "30–40 phút",
+    "howTo": [
+      {
+        "detail": "Tập tạ cách ngày thi đấu ít nhất 48 giờ — không bao giờ tập sát ngày đấu. Tuần lịch dày thì giảm khối lượng.",
+        "title": "Nguyên tắc vàng"
+      },
+      {
+        "detail": "Goblet squat 3x8, Romanian deadlift 3x10, band lateral walk 2x12 mỗi bên, plank 3x30 giây.",
+        "title": "Buổi A — thân dưới + core"
+      },
+      {
+        "detail": "Chống đẩy 3x12, row một tay 3x10 mỗi bên, band pull-apart 2x15, box jump 3x3 trên bục thấp khi chân còn tươi.",
+        "title": "Buổi B — thân trên + power"
+      },
+      {
+        "detail": "Hai trận liên tiếp? Tuần đó tập một buổi hoặc nghỉ hẳn. Chân ê ẩm, nặng nề? Cắt một nửa số hiệp.",
+        "title": "Điều chỉnh theo lịch thi đấu"
+      }
+    ],
     "progression": [
       "Mới bắt đầu: 1 buổi toàn thân ngắn/tuần.",
       "Trung cấp: 2 buổi như giáo án trên.",
       "Nâng cao: thêm bài tạ đòn vào đầu tuần, càng xa ngày đấu càng tốt."
     ],
+    "setsReps": "2 buổi/tuần, mỗi buổi 30-40 phút. Mỗi bài 2-3 hiệp, tạ vừa, nghỉ 60-90 giây giữa các hiệp.",
     "tags": [
       "trong mùa giải",
       "duy trì",
       "sức mạnh",
       "hồi phục"
+    ],
+    "title": "Duy trì sức mạnh trong mùa giải (in-season)",
+    "whatItDevelops": [
+      "Duy trì sức mạnh",
+      "Độ linh hoạt",
+      "Khả năng chống chịu chấn thương"
+    ],
+    "whyBasketball": [
+      "Trong mùa giải khó tăng sức mạnh — mục tiêu là không mất những gì đã xây.",
+      "Hai buổi ngắn giữ được thành quả của cả giai đoạn nghỉ.",
+      "Tập đúng thời điểm giúp ra sân tươi tỉnh, không ê ẩm."
     ]
-  }
+  },
+  "whatItDevelops": [
+    "Strength maintenance",
+    "Mobility",
+    "Injury resilience"
+  ],
+  "whyBasketball": [
+    "You cannot build much in-season — the goal is to not lose what you built.",
+    "Two short sessions preserve months of off-season work.",
+    "Well-timed lifting keeps you fresh for games, not sore."
+  ]
 }

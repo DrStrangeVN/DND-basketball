@@ -1,63 +1,6 @@
 {
-  "id": "perf-ap-off-season-athletic-program",
-  "slug": "ap-off-season-athletic-program",
-  "hub": "athletic-performance",
+  "basketballTransfer": "Eight focused weeks turn into noticeable gains: higher jumps, faster first steps, and a body that survives the season.",
   "category": "programs",
-  "subcategory": "off-season",
-  "title": "Off-Season Athletic Program",
-  "description": "An 8-week off-season plan: 3 gym days plus 2 court days per week. Simple periodization — base, power, peak — with built-in deload weeks.",
-  "level": "intermediate",
-  "positions": [
-    "all"
-  ],
-  "trainingPhase": [
-    "off-season"
-  ],
-  "goal": [
-    "get-stronger",
-    "explosive",
-    "conditioning"
-  ],
-  "duration": "60–75 min",
-  "equipment": [
-    "Full gym access",
-    "Barbell",
-    "Plyo boxes",
-    "Cones"
-  ],
-  "whatItDevelops": [
-    "Full-body strength",
-    "Explosive power",
-    "Basketball conditioning",
-    "Movement quality"
-  ],
-  "whyBasketball": [
-    "The off-season is where next season's athleticism is built.",
-    "Periodization keeps you improving without burning out.",
-    "Deload weeks let the body adapt and grow stronger."
-  ],
-  "howTo": [
-    {
-      "title": "Sample weekly structure: 3 gym + 2 court",
-      "detail": "Monday/Wednesday/Friday in the gym (lower, upper, power). Tuesday/Thursday on the court (skills + conditioning). Weekend off."
-    },
-    {
-      "title": "Weeks 1-3 — base phase",
-      "detail": "Moderate weights, higher reps. Focus on movement quality and build the aerobic base. No maxing out."
-    },
-    {
-      "title": "Week 4 — deload",
-      "detail": "Cut volume and intensity by 40-50%. Keep moving, practice skills lightly, sleep more."
-    },
-    {
-      "title": "Weeks 5-6 — power phase",
-      "detail": "Heavier lifts, plyometrics, shorter and faster conditioning. This is where jump and first step improve."
-    },
-    {
-      "title": "Weeks 7-8 — integration + test",
-      "detail": "Game-speed work and scrimmage. Deload in week 8. Test your vertical jump and sprint times at the start and end of the program. Progressive overload rule: add a little weight or one rep each week — never jump."
-    }
-  ],
   "coachingPoints": [
     "Never skip the warm-up — 10 minutes every session.",
     "Technique first, weight second.",
@@ -71,19 +14,67 @@
     "Adding too much weight too fast.",
     "Training through sharp pain."
   ],
-  "setsReps": "5 sessions per week, 60-75 min each. Gym days: 4-6 exercises, 3-5 sets each. Court days: 30-40 min skills + 15-20 min conditioning.",
-  "basketballTransfer": "Eight focused weeks turn into noticeable gains: higher jumps, faster first steps, and a body that survives the season.",
+  "dateUpdated": "2026-10-06",
+  "description": "An 8-week off-season plan: 3 gym days plus 2 court days per week. Simple periodization — base, power, peak — with built-in deload weeks.",
+  "duration": "60–75 min",
+  "equipment": [
+    "Full gym access",
+    "Barbell",
+    "Plyo boxes",
+    "Cones"
+  ],
+  "goal": [
+    "get-stronger",
+    "explosive",
+    "conditioning"
+  ],
+  "howTo": [
+    {
+      "detail": "Monday/Wednesday/Friday in the gym (lower, upper, power). Tuesday/Thursday on the court (skills + conditioning). Weekend off.",
+      "title": "Sample weekly structure: 3 gym + 2 court"
+    },
+    {
+      "detail": "Moderate weights, higher reps. Focus on movement quality and build the aerobic base. No maxing out.",
+      "title": "Weeks 1-3 — base phase"
+    },
+    {
+      "detail": "Cut volume and intensity by 40-50%. Keep moving, practice skills lightly, sleep more.",
+      "title": "Week 4 — deload"
+    },
+    {
+      "detail": "Heavier lifts, plyometrics, shorter and faster conditioning. This is where jump and first step improve.",
+      "title": "Weeks 5-6 — power phase"
+    },
+    {
+      "detail": "Game-speed work and scrimmage. Deload in week 8. Test your vertical jump and sprint times at the start and end of the program. Progressive overload rule: add a little weight or one rep each week — never jump.",
+      "title": "Weeks 7-8 — integration + test"
+    }
+  ],
+  "hub": "athletic-performance",
+  "id": "perf-ap-off-season-athletic-program",
+  "level": "intermediate",
+  "positions": [
+    "all"
+  ],
   "progression": [
     "Beginner: 2 gym days + 2 court days, lighter loads.",
     "Intermediate: this 3 gym + 2 court plan as written.",
     "Advanced: add Olympic lift variations and a second conditioning block (with a coach)."
   ],
+  "references": [
+    "NSCA — Essentials of Strength Training and Conditioning (periodization)",
+    "USA Basketball — Off-season development guidelines",
+    "FIBA — Physical preparation resources"
+  ],
   "relatedTopics": [
-    "nut-protein-for-basketball",
+    "nut-protein-basketball",
     "rec-sleep-for-athletes",
-    "nut-game-day-timeline",
+    "nut-pre-game-meal",
     "ip-training-load-basics"
   ],
+  "setsReps": "5 sessions per week, 60-75 min each. Gym days: 4-6 exercises, 3-5 sets each. Court days: 30-40 min skills + 15-20 min conditioning.",
+  "slug": "ap-off-season-athletic-program",
+  "subcategory": "off-season",
   "tags": [
     "off-season",
     "program",
@@ -91,49 +82,12 @@
     "gym",
     "court"
   ],
-  "references": [
-    "NSCA — Essentials of Strength Training and Conditioning (periodization)",
-    "USA Basketball — Off-season development guidelines",
-    "FIBA — Physical preparation resources"
+  "title": "Off-Season Athletic Program",
+  "trainingPhase": [
+    "off-season"
   ],
-  "dateUpdated": "2026-10-06",
   "vi": {
-    "title": "Chương trình thể lực 8 tuần giai đoạn nghỉ (off-season)",
-    "description": "Giáo án 8 tuần cho giai đoạn nghỉ: 3 buổi gym và 2 buổi sân/tuần. Phân kỳ đơn giản — nền tảng, power, tổng hợp — kèm sẵn các tuần giảm tải.",
-    "duration": "60–75 phút",
-    "whatItDevelops": [
-      "Sức mạnh toàn thân",
-      "Sức bật",
-      "Thể lực bóng rổ",
-      "Chất lượng vận động"
-    ],
-    "whyBasketball": [
-      "Giai đoạn nghỉ là lúc xây nền tảng thể lực cho mùa giải sau.",
-      "Phân kỳ giúp tiến bộ liên tục mà không kiệt sức.",
-      "Tuần giảm tải để cơ thể thích nghi và khỏe lên."
-    ],
-    "howTo": [
-      {
-        "title": "Cấu trúc tuần mẫu: 3 gym + 2 sân",
-        "detail": "Thứ 2/4/6 tập gym (thân dưới, thân trên, power). Thứ 3/5 tập sân (kỹ thuật + thể lực). Cuối tuần nghỉ."
-      },
-      {
-        "title": "Tuần 1-3 — giai đoạn nền tảng",
-        "detail": "Tạ vừa, số rep cao. Tập trung kỹ thuật động tác và xây nền aerobic. Không max tạ."
-      },
-      {
-        "title": "Tuần 4 — giảm tải",
-        "detail": "Giảm 40-50% khối lượng và cường độ. Vẫn vận động, tập kỹ thuật nhẹ, ngủ nhiều hơn."
-      },
-      {
-        "title": "Tuần 5-6 — giai đoạn power",
-        "detail": "Tạ nặng hơn, plyometric, thể lực ngắn và nhanh hơn. Đây là lúc bật nhảy và bước đầu cải thiện."
-      },
-      {
-        "title": "Tuần 7-8 — tổng hợp và kiểm tra",
-        "detail": "Tập tốc độ trận đấu và đấu tập. Tuần 8 giảm tải. Đo bật nhảy và thời gian nước rút ở đầu và cuối chương trình. Nguyên tắc tăng tải: mỗi tuần thêm một chút tạ hoặc một rep — không nhảy cóc."
-      }
-    ],
+    "basketballTransfer": "Tám tuần tập trung mang lại tiến bộ rõ rệt: bật cao hơn, bước đầu nhanh hơn, và một cơ thể trụ được cả mùa giải.",
     "coachingPoints": [
       "Không bao giờ bỏ khởi động — 10 phút mỗi buổi.",
       "Kỹ thuật trước, tạ sau.",
@@ -147,19 +101,65 @@
       "Tăng tạ quá nhanh.",
       "Tập xuyên qua cơn đau nhói."
     ],
-    "setsReps": "5 buổi/tuần, mỗi buổi 60-75 phút. Ngày gym: 4-6 bài, mỗi bài 3-5 hiệp. Ngày sân: 30-40 phút kỹ thuật + 15-20 phút thể lực.",
-    "basketballTransfer": "Tám tuần tập trung mang lại tiến bộ rõ rệt: bật cao hơn, bước đầu nhanh hơn, và một cơ thể trụ được cả mùa giải.",
+    "description": "Giáo án 8 tuần cho giai đoạn nghỉ: 3 buổi gym và 2 buổi sân/tuần. Phân kỳ đơn giản — nền tảng, power, tổng hợp — kèm sẵn các tuần giảm tải.",
+    "duration": "60–75 phút",
+    "howTo": [
+      {
+        "detail": "Thứ 2/4/6 tập gym (thân dưới, thân trên, power). Thứ 3/5 tập sân (kỹ thuật + thể lực). Cuối tuần nghỉ.",
+        "title": "Cấu trúc tuần mẫu: 3 gym + 2 sân"
+      },
+      {
+        "detail": "Tạ vừa, số rep cao. Tập trung kỹ thuật động tác và xây nền aerobic. Không max tạ.",
+        "title": "Tuần 1-3 — giai đoạn nền tảng"
+      },
+      {
+        "detail": "Giảm 40-50% khối lượng và cường độ. Vẫn vận động, tập kỹ thuật nhẹ, ngủ nhiều hơn.",
+        "title": "Tuần 4 — giảm tải"
+      },
+      {
+        "detail": "Tạ nặng hơn, plyometric, thể lực ngắn và nhanh hơn. Đây là lúc bật nhảy và bước đầu cải thiện.",
+        "title": "Tuần 5-6 — giai đoạn power"
+      },
+      {
+        "detail": "Tập tốc độ trận đấu và đấu tập. Tuần 8 giảm tải. Đo bật nhảy và thời gian nước rút ở đầu và cuối chương trình. Nguyên tắc tăng tải: mỗi tuần thêm một chút tạ hoặc một rep — không nhảy cóc.",
+        "title": "Tuần 7-8 — tổng hợp và kiểm tra"
+      }
+    ],
     "progression": [
       "Mới bắt đầu: 2 buổi gym + 2 buổi sân, tạ nhẹ.",
       "Trung cấp: giáo án 3 gym + 2 sân như trên.",
       "Nâng cao: thêm biến thể cử tạ và khối thể lực thứ hai (có HLV)."
     ],
+    "setsReps": "5 buổi/tuần, mỗi buổi 60-75 phút. Ngày gym: 4-6 bài, mỗi bài 3-5 hiệp. Ngày sân: 30-40 phút kỹ thuật + 15-20 phút thể lực.",
     "tags": [
       "giai đoạn nghỉ",
       "giáo án",
       "8 tuần",
       "tập gym",
       "sân đấu"
+    ],
+    "title": "Chương trình thể lực 8 tuần giai đoạn nghỉ (off-season)",
+    "whatItDevelops": [
+      "Sức mạnh toàn thân",
+      "Sức bật",
+      "Thể lực bóng rổ",
+      "Chất lượng vận động"
+    ],
+    "whyBasketball": [
+      "Giai đoạn nghỉ là lúc xây nền tảng thể lực cho mùa giải sau.",
+      "Phân kỳ giúp tiến bộ liên tục mà không kiệt sức.",
+      "Tuần giảm tải để cơ thể thích nghi và khỏe lên."
     ]
-  }
+  },
+  "whatItDevelops": [
+    "Full-body strength",
+    "Explosive power",
+    "Basketball conditioning",
+    "Movement quality"
+  ],
+  "whyBasketball": [
+    "The off-season is where next season's athleticism is built.",
+    "Periodization keeps you improving without burning out.",
+    "Deload weeks let the body adapt and grow stronger."
+  ]
 }

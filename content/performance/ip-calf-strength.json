@@ -1,62 +1,6 @@
 {
-  "id": "perf-ip-calf-strength",
-  "slug": "ip-calf-strength",
-  "hub": "injury-prevention",
-  "dateUpdated": "2026-10-06",
+  "basketballTransfer": "Strong, resilient calves power jump takeoffs and stabilize the ankle through landings, cuts, and contact under the rim.",
   "category": "ankle-prevention",
-  "subcategory": "ankle-resilience",
-  "title": "Calf Strength for Ankle Resilience",
-  "description": "Strong calves support stable ankles: progress from double-leg raises to single-leg work and bent-knee soleus training, with slow eccentrics for durable strength.",
-  "level": "beginner",
-  "positions": [
-    "all"
-  ],
-  "trainingPhase": [
-    "off-season",
-    "pre-season",
-    "in-season"
-  ],
-  "goal": [
-    "get-stronger",
-    "move-better"
-  ],
-  "duration": "10 min",
-  "equipment": [
-    "Step or elevated surface",
-    "Wall for balance (optional)"
-  ],
-  "whatItDevelops": [
-    "Calf (gastrocnemius) strength",
-    "Soleus strength through bent-knee work",
-    "Eccentric control of the lower leg"
-  ],
-  "whyBasketball": [
-    "Every jump takeoff and landing loads the calf and ankle",
-    "Strong calves help the ankle stay stable in traffic",
-    "Eccentric strength supports controlled, quiet landings"
-  ],
-  "howTo": [
-    {
-      "title": "Double-leg calf raises — 12 reps",
-      "detail": "Stand on a step with the heels hanging off. Rise as high as possible, pause one second at the top, and lower slowly."
-    },
-    {
-      "title": "Single-leg calf raises — 8 per leg",
-      "detail": "Same movement on one foot. Use a wall lightly for balance, not for support."
-    },
-    {
-      "title": "Bent-knee calf raises (soleus) — 10 reps",
-      "detail": "Bend the knees about 20 degrees and perform the raise. The bent knee shifts the work to the deeper soleus muscle."
-    },
-    {
-      "title": "Eccentric lowers — 6 per leg",
-      "detail": "Rise on two feet, shift to one foot, and lower slowly over 3 seconds. Control the descent all the way down."
-    },
-    {
-      "title": "Calf raise hold at the top — 3 × 10 seconds",
-      "detail": "Rise to the top of a double-leg raise and hold. Keep the ankles steady — no wobbling side to side."
-    }
-  ],
   "coachingPoints": [
     "Use the full range: full stretch at the bottom, full rise at the top",
     "Lower slowly — the way down builds as much strength as the way up",
@@ -69,8 +13,46 @@
     "Rolling the ankles outward at the top",
     "Skipping the bent-knee soleus work"
   ],
-  "setsReps": "2–3 sets of each drill, 2–3 times per week. Rest 45 seconds between sets.",
-  "basketballTransfer": "Strong, resilient calves power jump takeoffs and stabilize the ankle through landings, cuts, and contact under the rim.",
+  "dateUpdated": "2026-10-06",
+  "description": "Strong calves support stable ankles: progress from double-leg raises to single-leg work and bent-knee soleus training, with slow eccentrics for durable strength.",
+  "duration": "10 min",
+  "equipment": [
+    "Step or elevated surface",
+    "Wall for balance (optional)"
+  ],
+  "goal": [
+    "get-stronger",
+    "move-better"
+  ],
+  "howTo": [
+    {
+      "detail": "Stand on a step with the heels hanging off. Rise as high as possible, pause one second at the top, and lower slowly.",
+      "title": "Double-leg calf raises — 12 reps"
+    },
+    {
+      "detail": "Same movement on one foot. Use a wall lightly for balance, not for support.",
+      "title": "Single-leg calf raises — 8 per leg"
+    },
+    {
+      "detail": "Bend the knees about 20 degrees and perform the raise. The bent knee shifts the work to the deeper soleus muscle.",
+      "title": "Bent-knee calf raises (soleus) — 10 reps"
+    },
+    {
+      "detail": "Rise on two feet, shift to one foot, and lower slowly over 3 seconds. Control the descent all the way down.",
+      "title": "Eccentric lowers — 6 per leg"
+    },
+    {
+      "detail": "Rise to the top of a double-leg raise and hold. Keep the ankles steady — no wobbling side to side.",
+      "title": "Calf raise hold at the top — 3 × 10 seconds"
+    }
+  ],
+  "hub": "injury-prevention",
+  "id": "perf-ip-calf-strength",
+  "level": "beginner",
+  "medicalDisclaimer": true,
+  "positions": [
+    "all"
+  ],
   "progression": [
     "Beginner: double-leg raises on flat ground",
     "Intermediate: single-leg raises on a step with eccentrics",
@@ -79,9 +61,12 @@
   "relatedTopics": [
     "ip-ankle-mobility",
     "ip-ankle-guide",
-    "ap-vertical-jump-basics",
+    "ap-vertical-jump-program",
     "rec-active-recovery"
   ],
+  "setsReps": "2–3 sets of each drill, 2–3 times per week. Rest 45 seconds between sets.",
+  "slug": "ip-calf-strength",
+  "subcategory": "ankle-resilience",
   "tags": [
     "calf",
     "ankle",
@@ -89,42 +74,14 @@
     "injury risk reduction",
     "soleus"
   ],
-  "medicalDisclaimer": true,
+  "title": "Calf Strength for Ankle Resilience",
+  "trainingPhase": [
+    "off-season",
+    "pre-season",
+    "in-season"
+  ],
   "vi": {
-    "title": "Sức mạnh bắp chân để cổ chân vững hơn",
-    "description": "Bắp chân khỏe giúp cổ chân ổn định: nâng dần từ nâng gót hai chân đến tập một chân và tập cơ dép (soleus) với gối gập, kèm hạ tâm chậm để sức mạnh bền vững.",
-    "whatItDevelops": [
-      "Sức mạnh bắp chân (gastrocnemius)",
-      "Sức mạnh cơ dép qua bài tập gối gập",
-      "Kiểm soát ly tâm (eccentric) của cẳng chân"
-    ],
-    "whyBasketball": [
-      "Mỗi cú bật nhảy và tiếp đất đều dồn tải lên bắp chân và cổ chân",
-      "Bắp chân khỏe giúp cổ chân ổn định trong tranh chấp",
-      "Sức mạnh ly tâm hỗ trợ tiếp đất êm và có kiểm soát"
-    ],
-    "howTo": [
-      {
-        "title": "Nâng gót hai chân — 12 lần",
-        "detail": "Đứng trên bậc với gót thõng ra ngoài. Nhón cao nhất có thể, giữ 1 giây ở điểm cao nhất, hạ xuống chậm."
-      },
-      {
-        "title": "Nâng gót một chân — 8 lần mỗi chân",
-        "detail": "Cùng động tác trên một chân. Vịn tường nhẹ để giữ thăng bằng, không dùng tường để đỡ lực."
-      },
-      {
-        "title": "Nâng gót với gối gập (cơ dép) — 10 lần",
-        "detail": "Gập gối khoảng 20 độ rồi thực hiện nâng gót. Gối gập chuyển tải sang cơ dép nằm sâu hơn."
-      },
-      {
-        "title": "Hạ gót chậm một chân — 6 lần mỗi chân",
-        "detail": "Nhón lên bằng hai chân, chuyển sang một chân, hạ xuống chậm trong 3 giây. Kiểm soát suốt đường hạ."
-      },
-      {
-        "title": "Giữ ở điểm cao nhất — 3 × 10 giây",
-        "detail": "Nhón lên đỉnh của động tác nâng gót hai chân và giữ. Giữ cổ chân ổn định — không lắc sang hai bên."
-      }
-    ],
+    "basketballTransfer": "Bắp chân khỏe và bền bỉ tạo lực cho cú bật nhảy, giữ cổ chân ổn định qua tiếp đất, cắt hướng và va chạm dưới rổ.",
     "coachingPoints": [
       "Dùng hết biên độ: giãn hết ở điểm thấp, nhón hết ở điểm cao",
       "Hạ xuống chậm — đường hạ xây sức mạnh không kém đường lên",
@@ -137,13 +94,36 @@
       "Lật cổ chân ra ngoài ở điểm cao nhất",
       "Bỏ qua bài cơ dép với gối gập"
     ],
-    "setsReps": "2–3 hiệp mỗi bài, 2–3 lần mỗi tuần. Nghỉ 45 giây giữa các hiệp.",
-    "basketballTransfer": "Bắp chân khỏe và bền bỉ tạo lực cho cú bật nhảy, giữ cổ chân ổn định qua tiếp đất, cắt hướng và va chạm dưới rổ.",
+    "description": "Bắp chân khỏe giúp cổ chân ổn định: nâng dần từ nâng gót hai chân đến tập một chân và tập cơ dép (soleus) với gối gập, kèm hạ tâm chậm để sức mạnh bền vững.",
+    "duration": "10 phút",
+    "howTo": [
+      {
+        "detail": "Đứng trên bậc với gót thõng ra ngoài. Nhón cao nhất có thể, giữ 1 giây ở điểm cao nhất, hạ xuống chậm.",
+        "title": "Nâng gót hai chân — 12 lần"
+      },
+      {
+        "detail": "Cùng động tác trên một chân. Vịn tường nhẹ để giữ thăng bằng, không dùng tường để đỡ lực.",
+        "title": "Nâng gót một chân — 8 lần mỗi chân"
+      },
+      {
+        "detail": "Gập gối khoảng 20 độ rồi thực hiện nâng gót. Gối gập chuyển tải sang cơ dép nằm sâu hơn.",
+        "title": "Nâng gót với gối gập (cơ dép) — 10 lần"
+      },
+      {
+        "detail": "Nhón lên bằng hai chân, chuyển sang một chân, hạ xuống chậm trong 3 giây. Kiểm soát suốt đường hạ.",
+        "title": "Hạ gót chậm một chân — 6 lần mỗi chân"
+      },
+      {
+        "detail": "Nhón lên đỉnh của động tác nâng gót hai chân và giữ. Giữ cổ chân ổn định — không lắc sang hai bên.",
+        "title": "Giữ ở điểm cao nhất — 3 × 10 giây"
+      }
+    ],
     "progression": [
       "Beginner: nâng gót hai chân trên mặt phẳng",
       "Intermediate: nâng gót một chân trên bậc, thêm hạ gót chậm",
       "Advanced: thêm tải (ba lô hoặc tạ đơn) và giữ một chân"
     ],
+    "setsReps": "2–3 hiệp mỗi bài, 2–3 lần mỗi tuần. Nghỉ 45 giây giữa các hiệp.",
     "tags": [
       "bắp chân",
       "cổ chân",
@@ -151,6 +131,26 @@
       "giảm rủi ro chấn thương",
       "cơ dép"
     ],
-    "duration": "10 phút"
-  }
+    "title": "Sức mạnh bắp chân để cổ chân vững hơn",
+    "whatItDevelops": [
+      "Sức mạnh bắp chân (gastrocnemius)",
+      "Sức mạnh cơ dép qua bài tập gối gập",
+      "Kiểm soát ly tâm (eccentric) của cẳng chân"
+    ],
+    "whyBasketball": [
+      "Mỗi cú bật nhảy và tiếp đất đều dồn tải lên bắp chân và cổ chân",
+      "Bắp chân khỏe giúp cổ chân ổn định trong tranh chấp",
+      "Sức mạnh ly tâm hỗ trợ tiếp đất êm và có kiểm soát"
+    ]
+  },
+  "whatItDevelops": [
+    "Calf (gastrocnemius) strength",
+    "Soleus strength through bent-knee work",
+    "Eccentric control of the lower leg"
+  ],
+  "whyBasketball": [
+    "Every jump takeoff and landing loads the calf and ankle",
+    "Strong calves help the ankle stay stable in traffic",
+    "Eccentric strength supports controlled, quiet landings"
+  ]
 }

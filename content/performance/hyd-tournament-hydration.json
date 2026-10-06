@@ -1,66 +1,6 @@
 {
-  "id": "perf-hyd-tournament-hydration",
-  "slug": "hyd-tournament-hydration",
-  "hub": "hydration",
+  "basketballTransfer": "Tournament days are won in the gaps between games. Players who run a disciplined rehydration schedule arrive at the semifinals with legs and focus intact, while opponents who drank randomly are running on empty.",
   "category": "tournament",
-  "subcategory": "tournament-strategy",
-  "title": "Tournament Hydration Strategy",
-  "description": "Stay hydrated across multiple games in one day: recover fast between games, keep coolers ready, run a between-game drinking schedule, and never wait until you are thirsty.",
-  "level": "intermediate",
-  "positions": [
-    "all"
-  ],
-  "trainingPhase": [
-    "in-season",
-    "game-day"
-  ],
-  "goal": [
-    "conditioning"
-  ],
-  "duration": "15 min",
-  "equipment": [
-    "Water bottle",
-    "Sports drink",
-    "Cooler"
-  ],
-  "whatItDevelops": [
-    "A between-game hydration routine for tournament days",
-    "Faster fluid and electrolyte recovery between matches",
-    "Practical cooler and ice preparation habits",
-    "Disciplined drinking on a schedule, not by thirst"
-  ],
-  "whyBasketball": [
-    "Tournaments often mean 2-3 games in one day, and heat makes each one cost 1-2 liters of sweat.",
-    "The gap between games is the real competition: the team that rehydrates better usually wins the second game.",
-    "Thirst lags behind actual fluid loss, so waiting to feel thirsty guarantees you are already behind.",
-    "Cool drinks between games help lower core temperature in Vietnam's outdoor heat, not just replace fluids."
-  ],
-  "howTo": [
-    {
-      "title": "Prep the cooler the night before",
-      "detail": "Fill a cooler with ice, water bottles, and sports drinks the night before. Pack extra bottles - you will drink more than you think. Frozen bottles double as ice packs and melt into cold water by game time."
-    },
-    {
-      "title": "Hydrate fully before game one",
-      "detail": "Arrive already hydrated: 500 ml in the morning, plus 500 ml in the 2-3 hours before the first game. Starting game one behind on fluids puts you in a hole for the whole day."
-    },
-    {
-      "title": "Run a between-game drinking schedule",
-      "detail": "After each game, drink 500-750 ml in the first 30 minutes, then keep sipping until the next warm-up. Set phone alarms if the gap is short - rest makes you forget to drink."
-    },
-    {
-      "title": "Use sports drinks for the long day",
-      "detail": "With 2+ games, water alone is often not enough. Sports drinks or salty snacks between games replace sodium lost in sweat and help the body retain fluids for the next game."
-    },
-    {
-      "title": "Cool down with cold drinks and shade",
-      "detail": "Cold fluids between games help manage core temperature. Rest in shade, apply a cold wet towel to the neck, and keep sipping - cooling and hydrating together speed recovery."
-    },
-    {
-      "title": "Check before the next game starts",
-      "detail": "Before each warm-up, do a quick check: urine not dark, no headache, no unusual fatigue. If any warning sign shows, tell the coach - a player starting a game dehydrated risks cramps and poor decisions."
-    }
-  ],
   "coachingPoints": [
     "Assign one person per team to own the cooler - an empty cooler by game two means someone forgot.",
     "Thirst is a late signal; on tournament day everyone drinks on a schedule.",
@@ -74,20 +14,69 @@
     "Bringing only one bottle for a 3-game day and running dry by game two.",
     "Sipping sugary soft drinks all day, which often cause stomach trouble in game two."
   ],
-  "setsReps": "Educational guideline: 500-750 ml within 30 minutes after each game, then steady sipping between games. Over a 3-game day in the heat, total intake of 3-5 liters across the day is common for adult players, adjusted for body size and sweat rate.",
-  "basketballTransfer": "Tournament days are won in the gaps between games. Players who run a disciplined rehydration schedule arrive at the semifinals with legs and focus intact, while opponents who drank randomly are running on empty.",
+  "dateUpdated": "2026-10-06",
+  "description": "Stay hydrated across multiple games in one day: recover fast between games, keep coolers ready, run a between-game drinking schedule, and never wait until you are thirsty.",
+  "duration": "15 min",
+  "equipment": [
+    "Water bottle",
+    "Sports drink",
+    "Cooler"
+  ],
+  "goal": [
+    "conditioning"
+  ],
+  "howTo": [
+    {
+      "detail": "Fill a cooler with ice, water bottles, and sports drinks the night before. Pack extra bottles - you will drink more than you think. Frozen bottles double as ice packs and melt into cold water by game time.",
+      "title": "Prep the cooler the night before"
+    },
+    {
+      "detail": "Arrive already hydrated: 500 ml in the morning, plus 500 ml in the 2-3 hours before the first game. Starting game one behind on fluids puts you in a hole for the whole day.",
+      "title": "Hydrate fully before game one"
+    },
+    {
+      "detail": "After each game, drink 500-750 ml in the first 30 minutes, then keep sipping until the next warm-up. Set phone alarms if the gap is short - rest makes you forget to drink.",
+      "title": "Run a between-game drinking schedule"
+    },
+    {
+      "detail": "With 2+ games, water alone is often not enough. Sports drinks or salty snacks between games replace sodium lost in sweat and help the body retain fluids for the next game.",
+      "title": "Use sports drinks for the long day"
+    },
+    {
+      "detail": "Cold fluids between games help manage core temperature. Rest in shade, apply a cold wet towel to the neck, and keep sipping - cooling and hydrating together speed recovery.",
+      "title": "Cool down with cold drinks and shade"
+    },
+    {
+      "detail": "Before each warm-up, do a quick check: urine not dark, no headache, no unusual fatigue. If any warning sign shows, tell the coach - a player starting a game dehydrated risks cramps and poor decisions.",
+      "title": "Check before the next game starts"
+    }
+  ],
+  "hub": "hydration",
+  "id": "perf-hyd-tournament-hydration",
+  "level": "intermediate",
+  "positions": [
+    "all"
+  ],
   "progression": [
     "Beginner: Bring a cooler with 4-5 bottles and drink 500 ml between games for your next tournament day.",
     "Intermediate: Add sports drinks and salty snacks between games, and run the full between-game schedule with alarms.",
     "Advanced: Weigh yourself before and after each game to measure sweat loss, and set per-game fluid targets based on the data."
   ],
+  "references": [
+    "ACSM Position Stand: Exercise and Fluid Replacement (2016)",
+    "FIBA Medical Corner - Hydration guidelines for basketball players",
+    "IOC Consensus Statement on Sports Nutrition (2018)"
+  ],
   "relatedTopics": [
     "hyd-hot-weather-basketball",
     "hyd-cooling-strategies",
-    "nut-game-day-nutrition",
-    "rec-post-game-recovery",
+    "nut-pre-game-meal",
+    "rec-post-game-first-15",
     "hyd-electrolytes-explained"
   ],
+  "setsReps": "Educational guideline: 500-750 ml within 30 minutes after each game, then steady sipping between games. Over a 3-game day in the heat, total intake of 3-5 liters across the day is common for adult players, adjusted for body size and sweat rate.",
+  "slug": "hyd-tournament-hydration",
+  "subcategory": "tournament-strategy",
   "tags": [
     "hydration",
     "tournament",
@@ -96,53 +85,13 @@
     "recovery",
     "schedule"
   ],
-  "references": [
-    "ACSM Position Stand: Exercise and Fluid Replacement (2016)",
-    "FIBA Medical Corner - Hydration guidelines for basketball players",
-    "IOC Consensus Statement on Sports Nutrition (2018)"
+  "title": "Tournament Hydration Strategy",
+  "trainingPhase": [
+    "in-season",
+    "game-day"
   ],
-  "dateUpdated": "2026-10-06",
   "vi": {
-    "title": "Chiến lược bù nước ngày giải đấu",
-    "description": "Giữ cơ thể đủ nước qua nhiều trận trong một ngày: phục hồi nhanh giữa các trận, chuẩn bị thùng đá sẵn sàng, uống nước theo lịch giữa các trận, và không bao giờ đợi khát mới uống.",
-    "whatItDevelops": [
-      "Quy trình bù nước giữa các trận cho ngày thi đấu giải",
-      "Bù nước và điện giải nhanh hơn giữa các trận",
-      "Thói quen chuẩn bị thùng đá, bình giữ nhiệt",
-      "Kỷ luật uống nước theo lịch, không theo cảm giác khát"
-    ],
-    "whyBasketball": [
-      "Giải đấu thường có 2-3 trận một ngày, mỗi trận dưới nắng nóng có thể mất 1-2 lít mồ hôi.",
-      "Khoảng nghỉ giữa các trận mới là cuộc chiến thật: đội bù nước tốt hơn thường thắng trận sau.",
-      "Cảm giác khát đến muộn hơn thực tế mất nước - đợi khát là đã tụt lại phía sau.",
-      "Đồ uống lạnh giữa các trận giúp hạ nhiệt độ cơ thể dưới cái nóng ngoài trời Việt Nam, không chỉ bù nước."
-    ],
-    "howTo": [
-      {
-        "title": "Chuẩn bị thùng đá từ tối hôm trước",
-        "detail": "Bỏ đá, chai nước, nước thể thao vào thùng giữ nhiệt từ tối hôm trước. Mang dư chai - sẽ uống nhiều hơn mình nghĩ. Chai nước đóng đá vừa làm đá lạnh vừa tan thành nước mát đúng giờ thi đấu."
-      },
-      {
-        "title": "Nạp đủ nước trước trận đầu tiên",
-        "detail": "Đến sân với cơ thể đã đủ nước: 500 ml buổi sáng, thêm 500 ml trong 2-3 giờ trước trận đầu. Trận đầu mà thiếu nước là cả ngày sau chạy theo bù."
-      },
-      {
-        "title": "Uống theo lịch giữa các trận",
-        "detail": "Sau mỗi trận, uống 500-750 ml trong 30 phút đầu, rồi nhấp đều đến lúc khởi động trận sau. Nghỉ ngắn thì đặt báo thức điện thoại - nghỉ ngơi dễ quên uống nước."
-      },
-      {
-        "title": "Dùng nước thể thao cho ngày dài",
-        "detail": "Với 2 trận trở lên, nước lọc suông thường không đủ. Nước thể thao hoặc đồ ăn mặn giữa các trận bù lại muối mất qua mồ hôi, giúp cơ thể giữ nước cho trận sau."
-      },
-      {
-        "title": "Hạ nhiệt bằng đồ lạnh và bóng râm",
-        "detail": "Đồ uống lạnh giữa các trận giúp hạ nhiệt độ lõi. Nghỉ ở chỗ râm, đắp khăn ướt lạnh lên cổ, nhấp nước đều - hạ nhiệt và bù nước cùng lúc phục hồi nhanh hơn."
-      },
-      {
-        "title": "Kiểm tra trước khi trận sau bắt đầu",
-        "detail": "Trước mỗi lần khởi động, kiểm tra nhanh: nước tiểu không sẫm, không đau đầu, không mệt lạ thường. Thấy dấu hiệu cảnh báo là báo HLV ngay - ra sân mà thiếu nước dễ chuột rút và quyết định kém."
-      }
-    ],
+    "basketballTransfer": "Ngày giải đấu thắng ở khoảng nghỉ giữa các trận. Cầu thủ giữ kỷ luật uống nước theo lịch bước vào bán kết với chân và đầu óc còn nguyên, trong khi đối thủ uống bừa đã cạn pin.",
     "coachingPoints": [
       "Giao một người chịu trách nhiệm thùng đá - trận 2 mà hết đá là có người quên.",
       "Khát là tín hiệu muộn; ngày giải đấu ai cũng uống theo lịch.",
@@ -156,13 +105,40 @@
       "Mang đúng một chai cho ngày 3 trận, đến trận 2 là hết nước.",
       "Cả ngày chỉ uống nước ngọt có gas, trận 2 bụng khó chịu."
     ],
-    "setsReps": "Hướng dẫn chung: 500-750 ml trong 30 phút sau mỗi trận, rồi uống đều giữa các trận. Ngày 3 trận dưới nắng nóng, tổng 3-5 lít một ngày là phổ biến với cầu thủ trưởng thành, điều chỉnh theo thể trạng và mồ hôi.",
-    "basketballTransfer": "Ngày giải đấu thắng ở khoảng nghỉ giữa các trận. Cầu thủ giữ kỷ luật uống nước theo lịch bước vào bán kết với chân và đầu óc còn nguyên, trong khi đối thủ uống bừa đã cạn pin.",
+    "description": "Giữ cơ thể đủ nước qua nhiều trận trong một ngày: phục hồi nhanh giữa các trận, chuẩn bị thùng đá sẵn sàng, uống nước theo lịch giữa các trận, và không bao giờ đợi khát mới uống.",
+    "duration": "15 phút",
+    "howTo": [
+      {
+        "detail": "Bỏ đá, chai nước, nước thể thao vào thùng giữ nhiệt từ tối hôm trước. Mang dư chai - sẽ uống nhiều hơn mình nghĩ. Chai nước đóng đá vừa làm đá lạnh vừa tan thành nước mát đúng giờ thi đấu.",
+        "title": "Chuẩn bị thùng đá từ tối hôm trước"
+      },
+      {
+        "detail": "Đến sân với cơ thể đã đủ nước: 500 ml buổi sáng, thêm 500 ml trong 2-3 giờ trước trận đầu. Trận đầu mà thiếu nước là cả ngày sau chạy theo bù.",
+        "title": "Nạp đủ nước trước trận đầu tiên"
+      },
+      {
+        "detail": "Sau mỗi trận, uống 500-750 ml trong 30 phút đầu, rồi nhấp đều đến lúc khởi động trận sau. Nghỉ ngắn thì đặt báo thức điện thoại - nghỉ ngơi dễ quên uống nước.",
+        "title": "Uống theo lịch giữa các trận"
+      },
+      {
+        "detail": "Với 2 trận trở lên, nước lọc suông thường không đủ. Nước thể thao hoặc đồ ăn mặn giữa các trận bù lại muối mất qua mồ hôi, giúp cơ thể giữ nước cho trận sau.",
+        "title": "Dùng nước thể thao cho ngày dài"
+      },
+      {
+        "detail": "Đồ uống lạnh giữa các trận giúp hạ nhiệt độ lõi. Nghỉ ở chỗ râm, đắp khăn ướt lạnh lên cổ, nhấp nước đều - hạ nhiệt và bù nước cùng lúc phục hồi nhanh hơn.",
+        "title": "Hạ nhiệt bằng đồ lạnh và bóng râm"
+      },
+      {
+        "detail": "Trước mỗi lần khởi động, kiểm tra nhanh: nước tiểu không sẫm, không đau đầu, không mệt lạ thường. Thấy dấu hiệu cảnh báo là báo HLV ngay - ra sân mà thiếu nước dễ chuột rút và quyết định kém.",
+        "title": "Kiểm tra trước khi trận sau bắt đầu"
+      }
+    ],
     "progression": [
       "Người mới: Mang thùng đá với 4-5 chai, uống 500 ml giữa các trận ở ngày giải tới.",
       "Trung cấp: Thêm nước thể thao và đồ ăn mặn giữa các trận, chạy đúng lịch uống có báo thức.",
       "Nâng cao: Cân trước và sau mỗi trận để đo lượng mồ hôi, đặt mục tiêu nước cho từng trận theo số liệu."
     ],
+    "setsReps": "Hướng dẫn chung: 500-750 ml trong 30 phút sau mỗi trận, rồi uống đều giữa các trận. Ngày 3 trận dưới nắng nóng, tổng 3-5 lít một ngày là phổ biến với cầu thủ trưởng thành, điều chỉnh theo thể trạng và mồ hôi.",
     "tags": [
       "bù nước",
       "giải đấu",
@@ -171,6 +147,30 @@
       "phục hồi",
       "lịch uống"
     ],
-    "duration": "15 phút"
-  }
+    "title": "Chiến lược bù nước ngày giải đấu",
+    "whatItDevelops": [
+      "Quy trình bù nước giữa các trận cho ngày thi đấu giải",
+      "Bù nước và điện giải nhanh hơn giữa các trận",
+      "Thói quen chuẩn bị thùng đá, bình giữ nhiệt",
+      "Kỷ luật uống nước theo lịch, không theo cảm giác khát"
+    ],
+    "whyBasketball": [
+      "Giải đấu thường có 2-3 trận một ngày, mỗi trận dưới nắng nóng có thể mất 1-2 lít mồ hôi.",
+      "Khoảng nghỉ giữa các trận mới là cuộc chiến thật: đội bù nước tốt hơn thường thắng trận sau.",
+      "Cảm giác khát đến muộn hơn thực tế mất nước - đợi khát là đã tụt lại phía sau.",
+      "Đồ uống lạnh giữa các trận giúp hạ nhiệt độ cơ thể dưới cái nóng ngoài trời Việt Nam, không chỉ bù nước."
+    ]
+  },
+  "whatItDevelops": [
+    "A between-game hydration routine for tournament days",
+    "Faster fluid and electrolyte recovery between matches",
+    "Practical cooler and ice preparation habits",
+    "Disciplined drinking on a schedule, not by thirst"
+  ],
+  "whyBasketball": [
+    "Tournaments often mean 2-3 games in one day, and heat makes each one cost 1-2 liters of sweat.",
+    "The gap between games is the real competition: the team that rehydrates better usually wins the second game.",
+    "Thirst lags behind actual fluid loss, so waiting to feel thirsty guarantees you are already behind.",
+    "Cool drinks between games help lower core temperature in Vietnam's outdoor heat, not just replace fluids."
+  ]
 }

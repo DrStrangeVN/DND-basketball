@@ -1,62 +1,6 @@
 {
-  "id": "perf-ap-posterior-chain",
-  "slug": "ap-posterior-chain",
-  "hub": "athletic-performance",
+  "basketballTransfer": "First-step speed, vertical jump, and holding your ground in traffic all start at the hips. A strong posterior chain turns leg strength into court power.",
   "category": "strength",
-  "subcategory": "posterior-chain",
-  "title": "Posterior Chain Power",
-  "description": "The posterior chain — glutes, hamstrings, lower back — is the engine of jumping and sprinting. Build it with Romanian deadlifts, hip thrusts, and glute bridges.",
-  "level": "intermediate",
-  "positions": [
-    "all"
-  ],
-  "trainingPhase": [
-    "off-season",
-    "pre-season"
-  ],
-  "goal": [
-    "explosive",
-    "get-stronger"
-  ],
-  "duration": "15–20 min",
-  "equipment": [
-    "Dumbbells",
-    "Resistance bands",
-    "Glute-ham bench or sturdy bench"
-  ],
-  "whatItDevelops": [
-    "Glute strength",
-    "Hamstring strength",
-    "Hip hinge movement pattern",
-    "Lower-back stability"
-  ],
-  "whyBasketball": [
-    "Powers every jump, sprint, and first step",
-    "Supports hard braking and sharp cutting",
-    "Balances quad dominance so knees take less load"
-  ],
-  "howTo": [
-    {
-      "title": "Wake up the hinge pattern",
-      "detail": "Stand with a band around your hips anchored behind you. Hinge back until your shins are vertical, then drive the hips forward. 2 sets × 10 reps. Feel the hamstrings load."
-    },
-    {
-      "title": "Romanian deadlift",
-      "detail": "Hold dumbbells in front of your thighs. Push the hips straight back, knees soft, back flat. Lower to mid-shin, then drive the hips forward and squeeze the glutes at the top."
-    },
-    {
-      "title": "Hip thrust",
-      "detail": "Upper back on the bench, dumbbell or barbell across your hips. Drive through your heels, push the hips to the ceiling, and pause 1 second with glutes fully contracted."
-    },
-    {
-      "title": "Glute bridge march",
-      "detail": "On your back, bridge up and hold. March your knees alternately to 90 degrees without dropping the hips. Keeps the glutes firing under movement."
-    },
-    {
-      "title": "Finish with a hamstring stretch",
-      "detail": "Cool the chain down with 60 seconds of gentle standing hamstring stretches each leg. No aggressive forcing — just easy length."
-    }
-  ],
   "coachingPoints": [
     "Keep the spine neutral from head to tailbone on every rep.",
     "Think hips back, not down — this is a hinge, not a squat.",
@@ -70,19 +14,64 @@
     "Bouncing the hips off the floor between hip thrust reps.",
     "Overextending the back at the top instead of stopping at neutral."
   ],
-  "setsReps": "3–4 sets × 6–8 reps for Romanian deadlift and hip thrust; 2 sets × 10 each side for glute bridge march.",
-  "basketballTransfer": "First-step speed, vertical jump, and holding your ground in traffic all start at the hips. A strong posterior chain turns leg strength into court power.",
+  "dateUpdated": "2026-10-06",
+  "description": "The posterior chain — glutes, hamstrings, lower back — is the engine of jumping and sprinting. Build it with Romanian deadlifts, hip thrusts, and glute bridges.",
+  "duration": "15–20 min",
+  "equipment": [
+    "Dumbbells",
+    "Resistance bands",
+    "Glute-ham bench or sturdy bench"
+  ],
+  "goal": [
+    "explosive",
+    "get-stronger"
+  ],
+  "howTo": [
+    {
+      "detail": "Stand with a band around your hips anchored behind you. Hinge back until your shins are vertical, then drive the hips forward. 2 sets × 10 reps. Feel the hamstrings load.",
+      "title": "Wake up the hinge pattern"
+    },
+    {
+      "detail": "Hold dumbbells in front of your thighs. Push the hips straight back, knees soft, back flat. Lower to mid-shin, then drive the hips forward and squeeze the glutes at the top.",
+      "title": "Romanian deadlift"
+    },
+    {
+      "detail": "Upper back on the bench, dumbbell or barbell across your hips. Drive through your heels, push the hips to the ceiling, and pause 1 second with glutes fully contracted.",
+      "title": "Hip thrust"
+    },
+    {
+      "detail": "On your back, bridge up and hold. March your knees alternately to 90 degrees without dropping the hips. Keeps the glutes firing under movement.",
+      "title": "Glute bridge march"
+    },
+    {
+      "detail": "Cool the chain down with 60 seconds of gentle standing hamstring stretches each leg. No aggressive forcing — just easy length.",
+      "title": "Finish with a hamstring stretch"
+    }
+  ],
+  "hub": "athletic-performance",
+  "id": "perf-ap-posterior-chain",
+  "level": "intermediate",
+  "positions": [
+    "all"
+  ],
   "progression": [
     "Beginner: bodyweight glute bridges and band-resisted hip hinges, 2–3 sets × 10–12 reps. Master the hinge pattern before adding load.",
     "Intermediate: dumbbell Romanian deadlift and hip thrust, 3–4 sets × 6–8 reps. Add load only when form stays clean.",
     "Advanced: barbell Romanian deadlift and heavy hip thrust, 4–5 sets × 4–6 reps with 2–3 minutes rest between sets."
   ],
+  "references": [
+    "NSCA — Essentials of Strength Training and Conditioning (4th ed.)",
+    "USA Basketball — Strength and Conditioning Guidelines"
+  ],
   "relatedTopics": [
     "ap-explosive-power-basics",
     "ap-jump-power",
-    "ip-knee-risk-reduction",
-    "nut-protein-for-basketball"
+    "ip-knee-guide",
+    "nut-protein-basketball"
   ],
+  "setsReps": "3–4 sets × 6–8 reps for Romanian deadlift and hip thrust; 2 sets × 10 each side for glute bridge march.",
+  "slug": "ap-posterior-chain",
+  "subcategory": "posterior-chain",
   "tags": [
     "strength",
     "posterior-chain",
@@ -90,47 +79,13 @@
     "hamstrings",
     "hip hinge"
   ],
-  "references": [
-    "NSCA — Essentials of Strength Training and Conditioning (4th ed.)",
-    "USA Basketball — Strength and Conditioning Guidelines"
+  "title": "Posterior Chain Power",
+  "trainingPhase": [
+    "off-season",
+    "pre-season"
   ],
-  "dateUpdated": "2026-10-06",
   "vi": {
-    "title": "Sức mạnh chuỗi sau (posterior chain)",
-    "description": "Chuỗi sau — cơ mông, gân kheo, lưng dưới — là động cơ của bật nhảy và chạy nước rút. Xây dựng nó bằng Romanian deadlift, hip thrust và glute bridge.",
-    "whatItDevelops": [
-      "Sức mạnh cơ mông",
-      "Sức mạnh gân kheo",
-      "Mẫu hình gập hông (hip hinge)",
-      "Ổn định vùng lưng dưới"
-    ],
-    "whyBasketball": [
-      "Cung cấp lực cho mọi cú nhảy, nước rút và bước đầu tiên",
-      "Hỗ trợ giảm tốc mạnh và đổi hướng gấp",
-      "Cân bằng sự vượt trội của cơ đùi trước, giảm áp lực lên đầu gối"
-    ],
-    "howTo": [
-      {
-        "title": "Đánh thức mẫu hình gập hông",
-        "detail": "Quấn dây kháng lực quanh hông, cố định phía sau. Gập hông về sau đến khi cẳng chân thẳng đứng, rồi đẩy hông tới trước. 2 hiệp × 10 lần. Cảm nhận gân kheo căng lên."
-      },
-      {
-        "title": "Romanian deadlift",
-        "detail": "Cầm tạ đôi trước đùi. Đẩy hông thẳng ra sau, đầu gối hơi cong, lưng giữ thẳng. Hạ tạ đến giữa cẳng chân, rồi đẩy hông tới trước, siết chặt mông ở đỉnh."
-      },
-      {
-        "title": "Hip thrust",
-        "detail": "Lưng trên tựa vào ghế, tạ đặt ngang hông. Dồn lực qua gót chân, đẩy hông lên cao, giữ 1 giây với mông siết chặt hoàn toàn."
-      },
-      {
-        "title": "Glute bridge march",
-        "detail": "Nằm ngửa, nâng hông lên và giữ. Luân phiên nhấc đầu gối lên 90 độ mà không để hông rơi. Giữ mông hoạt động trong lúc chuyển động."
-      },
-      {
-        "title": "Kết thúc bằng giãn gân kheo",
-        "detail": "Thả lỏng chuỗi sau bằng 60 giây giãn gân kheo đứng cho mỗi chân. Không ép mạnh — chỉ kéo căng nhẹ nhàng."
-      }
-    ],
+    "basketballTransfer": "Tốc độ bước đầu tiên, khả năng bật nhảy và đứng vững khi va chạm đều bắt đầu từ hông. Chuỗi sau khỏe biến sức mạnh chân thành sức mạnh trên sân.",
     "coachingPoints": [
       "Giữ cột sống trung tính từ đầu đến xương cụt trong mọi lần lặp.",
       "Nghĩ đến việc đẩy hông ra sau, không phải ngồi xuống — đây là gập hông, không phải squat.",
@@ -144,13 +99,36 @@
       "Nảy hông khỏi sàn giữa các lần hip thrust.",
       "Vượt quá biên độ ở đỉnh, ưỡn lưng thay vì dừng ở tư thế trung tính."
     ],
-    "setsReps": "3–4 hiệp × 6–8 lần cho Romanian deadlift và hip thrust; 2 hiệp × 10 lần mỗi bên cho glute bridge march.",
-    "basketballTransfer": "Tốc độ bước đầu tiên, khả năng bật nhảy và đứng vững khi va chạm đều bắt đầu từ hông. Chuỗi sau khỏe biến sức mạnh chân thành sức mạnh trên sân.",
+    "description": "Chuỗi sau — cơ mông, gân kheo, lưng dưới — là động cơ của bật nhảy và chạy nước rút. Xây dựng nó bằng Romanian deadlift, hip thrust và glute bridge.",
+    "duration": "15–20 phút",
+    "howTo": [
+      {
+        "detail": "Quấn dây kháng lực quanh hông, cố định phía sau. Gập hông về sau đến khi cẳng chân thẳng đứng, rồi đẩy hông tới trước. 2 hiệp × 10 lần. Cảm nhận gân kheo căng lên.",
+        "title": "Đánh thức mẫu hình gập hông"
+      },
+      {
+        "detail": "Cầm tạ đôi trước đùi. Đẩy hông thẳng ra sau, đầu gối hơi cong, lưng giữ thẳng. Hạ tạ đến giữa cẳng chân, rồi đẩy hông tới trước, siết chặt mông ở đỉnh.",
+        "title": "Romanian deadlift"
+      },
+      {
+        "detail": "Lưng trên tựa vào ghế, tạ đặt ngang hông. Dồn lực qua gót chân, đẩy hông lên cao, giữ 1 giây với mông siết chặt hoàn toàn.",
+        "title": "Hip thrust"
+      },
+      {
+        "detail": "Nằm ngửa, nâng hông lên và giữ. Luân phiên nhấc đầu gối lên 90 độ mà không để hông rơi. Giữ mông hoạt động trong lúc chuyển động.",
+        "title": "Glute bridge march"
+      },
+      {
+        "detail": "Thả lỏng chuỗi sau bằng 60 giây giãn gân kheo đứng cho mỗi chân. Không ép mạnh — chỉ kéo căng nhẹ nhàng.",
+        "title": "Kết thúc bằng giãn gân kheo"
+      }
+    ],
     "progression": [
       "Người mới: glute bridge bằng trọng lượng cơ thể và gập hông với dây kháng lực, 2–3 hiệp × 10–12 lần. Nắm vững mẫu hình trước khi tăng tải.",
       "Trung cấp: Romanian deadlift và hip thrust với tạ đôi, 3–4 hiệp × 6–8 lần. Chỉ tăng tải khi kỹ thuật vẫn chuẩn.",
       "Nâng cao: Romanian deadlift với đòn tạ và hip thrust nặng, 4–5 hiệp × 4–6 lần, nghỉ 2–3 phút giữa các hiệp."
     ],
+    "setsReps": "3–4 hiệp × 6–8 lần cho Romanian deadlift và hip thrust; 2 hiệp × 10 lần mỗi bên cho glute bridge march.",
     "tags": [
       "sức mạnh",
       "chuỗi sau",
@@ -158,6 +136,28 @@
       "gân kheo",
       "gập hông"
     ],
-    "duration": "15–20 phút"
-  }
+    "title": "Sức mạnh chuỗi sau (posterior chain)",
+    "whatItDevelops": [
+      "Sức mạnh cơ mông",
+      "Sức mạnh gân kheo",
+      "Mẫu hình gập hông (hip hinge)",
+      "Ổn định vùng lưng dưới"
+    ],
+    "whyBasketball": [
+      "Cung cấp lực cho mọi cú nhảy, nước rút và bước đầu tiên",
+      "Hỗ trợ giảm tốc mạnh và đổi hướng gấp",
+      "Cân bằng sự vượt trội của cơ đùi trước, giảm áp lực lên đầu gối"
+    ]
+  },
+  "whatItDevelops": [
+    "Glute strength",
+    "Hamstring strength",
+    "Hip hinge movement pattern",
+    "Lower-back stability"
+  ],
+  "whyBasketball": [
+    "Powers every jump, sprint, and first step",
+    "Supports hard braking and sharp cutting",
+    "Balances quad dominance so knees take less load"
+  ]
 }

@@ -1,63 +1,6 @@
 {
-  "id": "perf-ip-game-warmup",
-  "slug": "ip-game-warmup",
-  "hub": "injury-prevention",
-  "dateUpdated": "2026-10-06",
+  "basketballTransfer": "A timed ramp means the legs are ready for the first defensive slide, the first closeout, and the first transition sprint of the game.",
   "category": "warm-up",
-  "subcategory": "warmup-routines",
-  "title": "Game Warm-Up Routine",
-  "description": "A timed pre-game routine that ramps intensity from general warm-up to game-speed basketball actions — layup lines, shooting, and closeouts — so the first whistle never catches the body cold.",
-  "level": "intermediate",
-  "positions": [
-    "all"
-  ],
-  "trainingPhase": [
-    "in-season",
-    "game-day"
-  ],
-  "goal": [
-    "get-faster",
-    "move-better",
-    "explosive"
-  ],
-  "duration": "12–15 min",
-  "equipment": [
-    "Full court",
-    "Basketballs",
-    "Cones (optional)"
-  ],
-  "whatItDevelops": [
-    "Progressive intensity from warm-up to game speed",
-    "Shooting touch built gradually from close range",
-    "Game-like movement: closeouts, transition sprints, cuts"
-  ],
-  "whyBasketball": [
-    "Timed blocks keep the team synchronized before tip-off",
-    "Layup lines and shooting rehearse the exact actions of the game",
-    "Finishing at game speed means the first quarter starts hot"
-  ],
-  "howTo": [
-    {
-      "title": "T-minus 20: general warm-up — 5 minutes",
-      "detail": "Easy jog, leg swings, and dynamic mobility across the court. Break a light sweat before anything intense."
-    },
-    {
-      "title": "T-minus 15: activation — 4 minutes",
-      "detail": "Glute bridges, mini-band lateral walks, and bodyweight squats. Wake up the glutes and the core."
-    },
-    {
-      "title": "T-minus 10: movement prep — 4 minutes",
-      "detail": "Defensive slides, closeouts, and change-of-direction sprints at 70–80% speed."
-    },
-    {
-      "title": "T-minus 6: basketball actions — 6 minutes",
-      "detail": "Layup lines from both sides, catch-and-shoot from close range, then form shooting. Build touch gradually outward."
-    },
-    {
-      "title": "T-minus 2: game speed — 3 minutes",
-      "detail": "Full-speed closeouts, one transition sprint, and a few game-speed pull-ups. Finish calm and ready, not gassed."
-    }
-  ],
   "coachingPoints": [
     "Respect the clock — every player hits each block together",
     "Raise the speed gradually; save max effort for the last block",
@@ -70,8 +13,48 @@
     "Finishing the routine too early and sitting until tip-off",
     "Treating layup lines as a race instead of a rhythm drill"
   ],
-  "setsReps": "Run once before every game (≈12–15 minutes). Shorten the shooting block if warm-up time is cut.",
-  "basketballTransfer": "A timed ramp means the legs are ready for the first defensive slide, the first closeout, and the first transition sprint of the game.",
+  "dateUpdated": "2026-10-06",
+  "description": "A timed pre-game routine that ramps intensity from general warm-up to game-speed basketball actions — layup lines, shooting, and closeouts — so the first whistle never catches the body cold.",
+  "duration": "12–15 min",
+  "equipment": [
+    "Full court",
+    "Basketballs",
+    "Cones (optional)"
+  ],
+  "goal": [
+    "get-faster",
+    "move-better",
+    "explosive"
+  ],
+  "howTo": [
+    {
+      "detail": "Easy jog, leg swings, and dynamic mobility across the court. Break a light sweat before anything intense.",
+      "title": "T-minus 20: general warm-up — 5 minutes"
+    },
+    {
+      "detail": "Glute bridges, mini-band lateral walks, and bodyweight squats. Wake up the glutes and the core.",
+      "title": "T-minus 15: activation — 4 minutes"
+    },
+    {
+      "detail": "Defensive slides, closeouts, and change-of-direction sprints at 70–80% speed.",
+      "title": "T-minus 10: movement prep — 4 minutes"
+    },
+    {
+      "detail": "Layup lines from both sides, catch-and-shoot from close range, then form shooting. Build touch gradually outward.",
+      "title": "T-minus 6: basketball actions — 6 minutes"
+    },
+    {
+      "detail": "Full-speed closeouts, one transition sprint, and a few game-speed pull-ups. Finish calm and ready, not gassed.",
+      "title": "T-minus 2: game speed — 3 minutes"
+    }
+  ],
+  "hub": "injury-prevention",
+  "id": "perf-ip-game-warmup",
+  "level": "intermediate",
+  "medicalDisclaimer": false,
+  "positions": [
+    "all"
+  ],
   "progression": [
     "Beginner: follow the blocks at moderate intensity",
     "Intermediate: run the full routine with game-speed finishes",
@@ -81,9 +64,12 @@
     "ip-warmup-10-min",
     "ip-cutting-mechanics",
     "ip-knee-guide",
-    "hyd-game-day-hydration",
-    "ap-deceleration-training"
+    "hyd-game-day-timeline",
+    "ap-deceleration-mechanics"
   ],
+  "setsReps": "Run once before every game (≈12–15 minutes). Shorten the shooting block if warm-up time is cut.",
+  "slug": "ip-game-warmup",
+  "subcategory": "warmup-routines",
   "tags": [
     "warm-up",
     "game day",
@@ -91,42 +77,13 @@
     "injury risk reduction",
     "routine"
   ],
-  "medicalDisclaimer": false,
+  "title": "Game Warm-Up Routine",
+  "trainingPhase": [
+    "in-season",
+    "game-day"
+  ],
   "vi": {
-    "title": "Routine khởi động trước trận đấu",
-    "description": "Routine khởi động trước trận có tính giờ, tăng dần cường độ từ khởi động chung đến các động tác bóng rổ tốc độ trận đấu — chạy rổ, ném rổ, closeout — để tiếng còi khai cuộc không bao giờ bắt gặp cơ thể còn lạnh.",
-    "whatItDevelops": [
-      "Tăng dần cường độ từ khởi động đến tốc độ trận đấu",
-      "Cảm giác ném được xây dựng dần từ cự ly gần",
-      "Di chuyển như trong trận: closeout, chạy phản công, cắt hướng"
-    ],
-    "whyBasketball": [
-      "Các khung giờ giữ cả đội đồng bộ trước giờ bóng lên",
-      "Chạy rổ và ném rổ tập dượt đúng các động tác của trận đấu",
-      "Kết thúc ở tốc độ trận đấu giúp hiệp 1 vào nhịp ngay"
-    ],
-    "howTo": [
-      {
-        "title": "Trước 20 phút: khởi động chung — 5 phút",
-        "detail": "Chạy nhẹ, vung chân và các động tác linh hoạt trên khắp sân. Đổ mồ hôi nhẹ trước khi vào phần mạnh."
-      },
-      {
-        "title": "Trước 15 phút: đánh thức cơ — 4 phút",
-        "detail": "Glute bridge, đi ngang với dây kháng lực mini và squat không tạ. Đánh thức cơ mông và cơ core."
-      },
-      {
-        "title": "Trước 10 phút: chuẩn bị di chuyển — 4 phút",
-        "detail": "Slide phòng thủ, closeout và sprint đổi hướng ở 70–80% tốc độ."
-      },
-      {
-        "title": "Trước 6 phút: động tác bóng rổ — 6 phút",
-        "detail": "Chạy rổ (layup) hai bên, bắt bóng ném ngay ở cự ly gần, rồi ném rổ chuẩn form. Mở rộng cự ly dần dần."
-      },
-      {
-        "title": "Trước 2 phút: tốc độ trận đấu — 3 phút",
-        "detail": "Closeout hết tốc độ, một pha chạy phản công, vài cú pull-up ở tốc độ trận đấu. Kết thúc trong trạng thái bình tĩnh, sẵn sàng, không kiệt sức."
-      }
-    ],
+    "basketballTransfer": "Tăng tốc có tính toán giúp đôi chân sẵn sàng cho pha slide phòng thủ đầu tiên, pha closeout đầu tiên và pha chạy phản công đầu tiên của trận đấu.",
     "coachingPoints": [
       "Tôn trọng đồng hồ — mọi cầu thủ vào từng khung giờ cùng nhau",
       "Tăng tốc dần; dành nỗ lực tối đa cho khung cuối",
@@ -139,13 +96,36 @@
       "Kết thúc routine quá sớm rồi ngồi chờ đến giờ bóng lên",
       "Biến hàng chạy rổ thành cuộc đua thay vì bài tập nhịp điệu"
     ],
-    "setsReps": "Chạy một lần trước mỗi trận (≈12–15 phút). Nếu thời gian khởi động bị cắt, rút ngắn khung ném rổ.",
-    "basketballTransfer": "Tăng tốc có tính toán giúp đôi chân sẵn sàng cho pha slide phòng thủ đầu tiên, pha closeout đầu tiên và pha chạy phản công đầu tiên của trận đấu.",
+    "description": "Routine khởi động trước trận có tính giờ, tăng dần cường độ từ khởi động chung đến các động tác bóng rổ tốc độ trận đấu — chạy rổ, ném rổ, closeout — để tiếng còi khai cuộc không bao giờ bắt gặp cơ thể còn lạnh.",
+    "duration": "12–15 phút",
+    "howTo": [
+      {
+        "detail": "Chạy nhẹ, vung chân và các động tác linh hoạt trên khắp sân. Đổ mồ hôi nhẹ trước khi vào phần mạnh.",
+        "title": "Trước 20 phút: khởi động chung — 5 phút"
+      },
+      {
+        "detail": "Glute bridge, đi ngang với dây kháng lực mini và squat không tạ. Đánh thức cơ mông và cơ core.",
+        "title": "Trước 15 phút: đánh thức cơ — 4 phút"
+      },
+      {
+        "detail": "Slide phòng thủ, closeout và sprint đổi hướng ở 70–80% tốc độ.",
+        "title": "Trước 10 phút: chuẩn bị di chuyển — 4 phút"
+      },
+      {
+        "detail": "Chạy rổ (layup) hai bên, bắt bóng ném ngay ở cự ly gần, rồi ném rổ chuẩn form. Mở rộng cự ly dần dần.",
+        "title": "Trước 6 phút: động tác bóng rổ — 6 phút"
+      },
+      {
+        "detail": "Closeout hết tốc độ, một pha chạy phản công, vài cú pull-up ở tốc độ trận đấu. Kết thúc trong trạng thái bình tĩnh, sẵn sàng, không kiệt sức.",
+        "title": "Trước 2 phút: tốc độ trận đấu — 3 phút"
+      }
+    ],
     "progression": [
       "Beginner: chạy các khung giờ ở cường độ vừa phải",
       "Intermediate: chạy đầy đủ routine, kết thúc ở tốc độ trận đấu",
       "Advanced: thêm closeout có tranh chấp và các lượt chạy phản công full sân ở khung cuối"
     ],
+    "setsReps": "Chạy một lần trước mỗi trận (≈12–15 phút). Nếu thời gian khởi động bị cắt, rút ngắn khung ném rổ.",
     "tags": [
       "khởi động",
       "ngày thi đấu",
@@ -153,6 +133,26 @@
       "giảm rủi ro chấn thương",
       "routine"
     ],
-    "duration": "12–15 phút"
-  }
+    "title": "Routine khởi động trước trận đấu",
+    "whatItDevelops": [
+      "Tăng dần cường độ từ khởi động đến tốc độ trận đấu",
+      "Cảm giác ném được xây dựng dần từ cự ly gần",
+      "Di chuyển như trong trận: closeout, chạy phản công, cắt hướng"
+    ],
+    "whyBasketball": [
+      "Các khung giờ giữ cả đội đồng bộ trước giờ bóng lên",
+      "Chạy rổ và ném rổ tập dượt đúng các động tác của trận đấu",
+      "Kết thúc ở tốc độ trận đấu giúp hiệp 1 vào nhịp ngay"
+    ]
+  },
+  "whatItDevelops": [
+    "Progressive intensity from warm-up to game speed",
+    "Shooting touch built gradually from close range",
+    "Game-like movement: closeouts, transition sprints, cuts"
+  ],
+  "whyBasketball": [
+    "Timed blocks keep the team synchronized before tip-off",
+    "Layup lines and shooting rehearse the exact actions of the game",
+    "Finishing at game speed means the first quarter starts hot"
+  ]
 }

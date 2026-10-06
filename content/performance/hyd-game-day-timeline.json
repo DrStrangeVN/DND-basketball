@@ -1,64 +1,6 @@
 {
-  "id": "perf-hyd-game-day-timeline",
-  "slug": "hyd-game-day-timeline",
-  "hub": "hydration",
+  "basketballTransfer": "A timed hydration plan means players step on the court already fueled and hydrated, not guessing. Fourth-quarter legs and decision-making stay sharper when fluids were paced all day instead of rushed before tip-off.",
   "category": "game-day",
-  "subcategory": "game-day-timeline",
-  "title": "Game-Day Hydration Timeline",
-  "description": "A full game-day hydration timeline from morning to final buzzer: how much and when to drink at each stage, and why you should never try new drinks on game day.",
-  "level": "intermediate",
-  "positions": [
-    "all"
-  ],
-  "trainingPhase": [
-    "game-day"
-  ],
-  "goal": [
-    "conditioning"
-  ],
-  "duration": "15 min",
-  "equipment": [
-    "Water bottle",
-    "Sports drink"
-  ],
-  "whatItDevelops": [
-    "A complete hydration plan from morning to post-game",
-    "Scheduled drinking habits instead of guessing",
-    "Adjusting intake for heat and sweat rate",
-    "Confidence at tip-off from a well-prepared morning"
-  ],
-  "whyBasketball": [
-    "Outdoor games in Vietnam's heat raise sweat losses well above indoor levels - without a timeline, players fade at the worst moments.",
-    "The third and fourth quarters are when dehydration creeps in; players without a plan usually fade there.",
-    "Game day is not the time to try new drinks - mid-game stomach trouble is an avoidable mistake.",
-    "Teams that hydrate on schedule at halftime often show noticeably better late-game focus."
-  ],
-  "howTo": [
-    {
-      "title": "Morning: drink 500 ml within the first hour",
-      "detail": "Wake up and drink 500 ml of water within the first hour. Your body wakes up slightly dehydrated from the night - this is the base layer for everything after. Keep sipping through the morning."
-    },
-    {
-      "title": "Pre-game meal: 500-750 ml with food",
-      "detail": "At the pre-game meal (3-4 hours before tip-off), drink 500-750 ml of water or sports drink with the food. Stop heavy drinking about 1-2 hours before the game to let the stomach settle."
-    },
-    {
-      "title": "Warm-up: small sips only (150-250 ml)",
-      "detail": "During warm-up and shootaround, take small sips - about 150-250 ml total. Nothing heavy, just enough to replace warm-up sweat and keep the mouth from drying out."
-    },
-    {
-      "title": "During the game: sip at every stoppage",
-      "detail": "Keep a bottle at the bench and sip during timeouts, fouls, and substitutions. Most players do well with 150-250 ml per quarter. If you are a heavy sweater in the heat, lean toward a sports drink."
-    },
-    {
-      "title": "Halftime: drink 200-300 ml on purpose",
-      "detail": "Use the break deliberately: drink 200-300 ml of water or sports drink. Check in with your body - thirsty, cramping, or headache means you fell behind in the first half."
-    },
-    {
-      "title": "Post-game: begin steady recovery hydration",
-      "detail": "After the final buzzer, start the same steady rehydration routine as after practice. With another game the next day, this window decides how recovered you feel tomorrow."
-    }
-  ],
   "coachingPoints": [
     "Game day is about repeating a routine, not experimenting - every drink should be tested in training weeks first.",
     "Small frequent sips outperform big gulps at every stage of the timeline.",
@@ -72,19 +14,67 @@
     "Going the whole morning without fluids and trying to catch up at the venue.",
     "Forgetting to drink at halftime because the locker room talk runs long."
   ],
-  "setsReps": "Educational timeline, not sets and reps: morning 500 ml, pre-game meal 500-750 ml, warm-up 150-250 ml, 150-250 ml per quarter at stoppages, halftime 200-300 ml, then steady post-game drinking. Individual needs vary with heat and body size.",
-  "basketballTransfer": "A timed hydration plan means players step on the court already fueled and hydrated, not guessing. Fourth-quarter legs and decision-making stay sharper when fluids were paced all day instead of rushed before tip-off.",
+  "dateUpdated": "2026-10-06",
+  "description": "A full game-day hydration timeline from morning to final buzzer: how much and when to drink at each stage, and why you should never try new drinks on game day.",
+  "duration": "15 min",
+  "equipment": [
+    "Water bottle",
+    "Sports drink"
+  ],
+  "goal": [
+    "conditioning"
+  ],
+  "howTo": [
+    {
+      "detail": "Wake up and drink 500 ml of water within the first hour. Your body wakes up slightly dehydrated from the night - this is the base layer for everything after. Keep sipping through the morning.",
+      "title": "Morning: drink 500 ml within the first hour"
+    },
+    {
+      "detail": "At the pre-game meal (3-4 hours before tip-off), drink 500-750 ml of water or sports drink with the food. Stop heavy drinking about 1-2 hours before the game to let the stomach settle.",
+      "title": "Pre-game meal: 500-750 ml with food"
+    },
+    {
+      "detail": "During warm-up and shootaround, take small sips - about 150-250 ml total. Nothing heavy, just enough to replace warm-up sweat and keep the mouth from drying out.",
+      "title": "Warm-up: small sips only (150-250 ml)"
+    },
+    {
+      "detail": "Keep a bottle at the bench and sip during timeouts, fouls, and substitutions. Most players do well with 150-250 ml per quarter. If you are a heavy sweater in the heat, lean toward a sports drink.",
+      "title": "During the game: sip at every stoppage"
+    },
+    {
+      "detail": "Use the break deliberately: drink 200-300 ml of water or sports drink. Check in with your body - thirsty, cramping, or headache means you fell behind in the first half.",
+      "title": "Halftime: drink 200-300 ml on purpose"
+    },
+    {
+      "detail": "After the final buzzer, start the same steady rehydration routine as after practice. With another game the next day, this window decides how recovered you feel tomorrow.",
+      "title": "Post-game: begin steady recovery hydration"
+    }
+  ],
+  "hub": "hydration",
+  "id": "perf-hyd-game-day-timeline",
+  "level": "intermediate",
+  "positions": [
+    "all"
+  ],
   "progression": [
     "Beginner: Follow the morning + pre-game + halftime steps for your next game.",
     "Intermediate: Run the full timeline including bench sipping and a post-game routine for a whole week of games.",
     "Advanced: Adjust the timeline using your personal sweat rate from practice weigh-ins, and test the full plan in a practice scrimmage before a real game."
   ],
+  "references": [
+    "ACSM Position Stand: Exercise and Fluid Replacement (2016)",
+    "NBA Academy - Hydration and recovery guidelines",
+    "FIBA Medical Corner - Hydration guidelines for basketball players"
+  ],
   "relatedTopics": [
     "hyd-hot-weather-basketball",
     "hyd-water-vs-sports-drinks",
-    "nut-game-day-nutrition",
+    "nut-pre-game-meal",
     "ap-basketball-conditioning"
   ],
+  "setsReps": "Educational timeline, not sets and reps: morning 500 ml, pre-game meal 500-750 ml, warm-up 150-250 ml, 150-250 ml per quarter at stoppages, halftime 200-300 ml, then steady post-game drinking. Individual needs vary with heat and body size.",
+  "slug": "hyd-game-day-timeline",
+  "subcategory": "game-day-timeline",
   "tags": [
     "hydration",
     "game day",
@@ -93,53 +83,12 @@
     "sports drink",
     "routine"
   ],
-  "references": [
-    "ACSM Position Stand: Exercise and Fluid Replacement (2016)",
-    "NBA Academy - Hydration and recovery guidelines",
-    "FIBA Medical Corner - Hydration guidelines for basketball players"
+  "title": "Game-Day Hydration Timeline",
+  "trainingPhase": [
+    "game-day"
   ],
-  "dateUpdated": "2026-10-06",
   "vi": {
-    "title": "Timeline bù nước ngày thi đấu",
-    "description": "Timeline bù nước đầy đủ cho ngày thi đấu, từ sáng sớm đến tiếng còi kết thúc: uống bao nhiêu, lúc nào, và tại sao ngày thi đấu không được thử đồ uống mới.",
-    "whatItDevelops": [
-      "Kế hoạch bù nước hoàn chỉnh từ sáng đến sau trận",
-      "Thói quen uống nước có lịch trình, không đoán mò",
-      "Biết điều chỉnh theo nắng nóng và mồ hôi",
-      "Tự tin bước vào trận vì đã chuẩn bị từ sáng"
-    ],
-    "whyBasketball": [
-      "Trận đấu giữa trời nóng Việt Nam ra nhiều mồ hôi hơn điều hòa trong nhà - không có timeline dễ hụt nước lúc quan trọng.",
-      "Hiệp 3, hiệp 4 là lúc mất nước ngấm dần - cầu thủ không có kế hoạch thường đuối ở đây.",
-      "Ngày thi đấu không phải lúc thử đồ uống mới: đau bụng giữa trận là sai lầm tránh được.",
-      "Đội giữ kỷ luật uống nước giữa hiệp thường có sự tập trung hiệp cuối tốt hơn rõ rệt."
-    ],
-    "howTo": [
-      {
-        "title": "Buổi sáng: uống 500 ml trong giờ đầu",
-        "detail": "Dậy là uống 500 ml nước trong giờ đầu tiên. Cơ thể dậy với tình trạng hơi thiếu nước sau một đêm - đây là nền cho cả ngày sau. Nhấp từng ngụm đều suốt buổi sáng."
-      },
-      {
-        "title": "Bữa trước trận: 500-750 ml cùng thức ăn",
-        "detail": "Bữa ăn trước trận (3-4 giờ trước giờ bóng lăn), uống 500-750 ml nước hoặc nước thể thao cùng bữa ăn. Ngừng uống lượng lớn khoảng 1-2 giờ trước trận để bụng ổn định."
-      },
-      {
-        "title": "Khởi động: nhấp ngụm nhỏ (150-250 ml)",
-        "detail": "Lúc khởi động và tập ném, nhấp ngụm nhỏ - tổng khoảng 150-250 ml. Không uống nhiều, chỉ vừa đủ bù mồ hôi lúc khởi động và không khô miệng."
-      },
-      {
-        "title": "Trong trận: nhấp mỗi lần bóng chết",
-        "detail": "Để chai ở ghế dự bị, nhấp mỗi khi hội ý, phạm lỗi, thay người. Đa số cầu thủ hợp với 150-250 ml mỗi hiệp. Ra nhiều mồ hôi dưới nắng nóng thì nghiêng về nước thể thao."
-      },
-      {
-        "title": "Giữa hiệp: chủ động uống 200-300 ml",
-        "detail": "Tận dụng giờ nghỉ chủ động: uống 200-300 ml nước hoặc nước thể thao. Kiểm tra cơ thể - khát, chuột rút, đau đầu nghĩa là hiệp 1 uống chưa đủ."
-      },
-      {
-        "title": "Sau trận: bắt đầu bù nước phục hồi đều",
-        "detail": "Tiếng còi kết thúc là bắt đầu quy trình bù nước đều như sau buổi tập. Mai còn trận nữa thì khoảng này quyết định cảm giác phục hồi hôm sau."
-      }
-    ],
+    "basketballTransfer": "Kế hoạch uống nước có giờ giấc nghĩa là cầu thủ ra sân với cơ thể đã được nạp đầy, không đoán mò. Chân và đầu óc ở hiệp 4 trụ tốt hơn hẳn khi nước được uống đều cả ngày thay vì dồn dập trước giờ bóng lăn.",
     "coachingPoints": [
       "Ngày thi đấu là để lặp lại thói quen, không thử nghiệm - mọi loại nước uống đều phải dùng thử ở tuần tập trước.",
       "Nhấp ngụm nhỏ, thường xuyên luôn thắng tu một hơi ở mọi giai đoạn.",
@@ -153,13 +102,40 @@
       "Cả buổi sáng không uống gì, đến sân mới lo uống bù.",
       "Quên uống ở giờ nghỉ giữa hiệp vì nói chuyện trong phòng thay đồ quá lâu."
     ],
-    "setsReps": "Đây là timeline tham khảo, không phải số hiệp: sáng 500 ml, bữa trước trận 500-750 ml, khởi động 150-250 ml, 150-250 ml mỗi hiệp lúc bóng chết, giữa hiệp 200-300 ml, rồi uống đều sau trận. Nhu cầu mỗi người khác nhau tùy nắng nóng và thể trạng.",
-    "basketballTransfer": "Kế hoạch uống nước có giờ giấc nghĩa là cầu thủ ra sân với cơ thể đã được nạp đầy, không đoán mò. Chân và đầu óc ở hiệp 4 trụ tốt hơn hẳn khi nước được uống đều cả ngày thay vì dồn dập trước giờ bóng lăn.",
+    "description": "Timeline bù nước đầy đủ cho ngày thi đấu, từ sáng sớm đến tiếng còi kết thúc: uống bao nhiêu, lúc nào, và tại sao ngày thi đấu không được thử đồ uống mới.",
+    "duration": "15 phút",
+    "howTo": [
+      {
+        "detail": "Dậy là uống 500 ml nước trong giờ đầu tiên. Cơ thể dậy với tình trạng hơi thiếu nước sau một đêm - đây là nền cho cả ngày sau. Nhấp từng ngụm đều suốt buổi sáng.",
+        "title": "Buổi sáng: uống 500 ml trong giờ đầu"
+      },
+      {
+        "detail": "Bữa ăn trước trận (3-4 giờ trước giờ bóng lăn), uống 500-750 ml nước hoặc nước thể thao cùng bữa ăn. Ngừng uống lượng lớn khoảng 1-2 giờ trước trận để bụng ổn định.",
+        "title": "Bữa trước trận: 500-750 ml cùng thức ăn"
+      },
+      {
+        "detail": "Lúc khởi động và tập ném, nhấp ngụm nhỏ - tổng khoảng 150-250 ml. Không uống nhiều, chỉ vừa đủ bù mồ hôi lúc khởi động và không khô miệng.",
+        "title": "Khởi động: nhấp ngụm nhỏ (150-250 ml)"
+      },
+      {
+        "detail": "Để chai ở ghế dự bị, nhấp mỗi khi hội ý, phạm lỗi, thay người. Đa số cầu thủ hợp với 150-250 ml mỗi hiệp. Ra nhiều mồ hôi dưới nắng nóng thì nghiêng về nước thể thao.",
+        "title": "Trong trận: nhấp mỗi lần bóng chết"
+      },
+      {
+        "detail": "Tận dụng giờ nghỉ chủ động: uống 200-300 ml nước hoặc nước thể thao. Kiểm tra cơ thể - khát, chuột rút, đau đầu nghĩa là hiệp 1 uống chưa đủ.",
+        "title": "Giữa hiệp: chủ động uống 200-300 ml"
+      },
+      {
+        "detail": "Tiếng còi kết thúc là bắt đầu quy trình bù nước đều như sau buổi tập. Mai còn trận nữa thì khoảng này quyết định cảm giác phục hồi hôm sau.",
+        "title": "Sau trận: bắt đầu bù nước phục hồi đều"
+      }
+    ],
     "progression": [
       "Người mới: Làm đúng các bước buổi sáng + trước trận + giữa hiệp ở trận tới.",
       "Trung cấp: Chạy full timeline gồm nhấp ở ghế dự bị và quy trình sau trận cho cả tuần thi đấu.",
       "Nâng cao: Điều chỉnh timeline theo tốc độ ra mồ hôi đo được ở buổi tập, chạy thử toàn bộ ở trận đấu tập trước khi áp dụng trận thật."
     ],
+    "setsReps": "Đây là timeline tham khảo, không phải số hiệp: sáng 500 ml, bữa trước trận 500-750 ml, khởi động 150-250 ml, 150-250 ml mỗi hiệp lúc bóng chết, giữa hiệp 200-300 ml, rồi uống đều sau trận. Nhu cầu mỗi người khác nhau tùy nắng nóng và thể trạng.",
     "tags": [
       "bù nước",
       "ngày thi đấu",
@@ -168,6 +144,30 @@
       "nước thể thao",
       "thói quen"
     ],
-    "duration": "15 phút"
-  }
+    "title": "Timeline bù nước ngày thi đấu",
+    "whatItDevelops": [
+      "Kế hoạch bù nước hoàn chỉnh từ sáng đến sau trận",
+      "Thói quen uống nước có lịch trình, không đoán mò",
+      "Biết điều chỉnh theo nắng nóng và mồ hôi",
+      "Tự tin bước vào trận vì đã chuẩn bị từ sáng"
+    ],
+    "whyBasketball": [
+      "Trận đấu giữa trời nóng Việt Nam ra nhiều mồ hôi hơn điều hòa trong nhà - không có timeline dễ hụt nước lúc quan trọng.",
+      "Hiệp 3, hiệp 4 là lúc mất nước ngấm dần - cầu thủ không có kế hoạch thường đuối ở đây.",
+      "Ngày thi đấu không phải lúc thử đồ uống mới: đau bụng giữa trận là sai lầm tránh được.",
+      "Đội giữ kỷ luật uống nước giữa hiệp thường có sự tập trung hiệp cuối tốt hơn rõ rệt."
+    ]
+  },
+  "whatItDevelops": [
+    "A complete hydration plan from morning to post-game",
+    "Scheduled drinking habits instead of guessing",
+    "Adjusting intake for heat and sweat rate",
+    "Confidence at tip-off from a well-prepared morning"
+  ],
+  "whyBasketball": [
+    "Outdoor games in Vietnam's heat raise sweat losses well above indoor levels - without a timeline, players fade at the worst moments.",
+    "The third and fourth quarters are when dehydration creeps in; players without a plan usually fade there.",
+    "Game day is not the time to try new drinks - mid-game stomach trouble is an avoidable mistake.",
+    "Teams that hydrate on schedule at halftime often show noticeably better late-game focus."
+  ]
 }

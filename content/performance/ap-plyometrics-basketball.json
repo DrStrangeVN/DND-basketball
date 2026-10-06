@@ -1,64 +1,6 @@
 {
-  "id": "perf-ap-plyometrics-basketball",
-  "slug": "ap-plyometrics-basketball",
-  "hub": "athletic-performance",
+  "basketballTransfer": "Clean landings and reactive jumps show up in second-jump rebounds, blocked-shot recoveries, and explosive closeouts that change shots.",
   "category": "power",
-  "subcategory": "plyometrics",
-  "title": "Plyometrics for Basketball",
-  "description": "Learn to land before you learn to fly. Safe plyometric training builds jump power through the stretch-shortening cycle — with volume and recovery rules that keep knees and ankles healthy.",
-  "level": "intermediate",
-  "positions": [
-    "all"
-  ],
-  "trainingPhase": [
-    "pre-season"
-  ],
-  "goal": [
-    "explosive",
-    "jump-higher"
-  ],
-  "duration": "20–25 min",
-  "equipment": [
-    "Plyo boxes",
-    "Cones"
-  ],
-  "whatItDevelops": [
-    "Stretch-shortening cycle efficiency",
-    "Landing control and joint stiffness",
-    "Vertical jump power",
-    "Reactive footwork for the court"
-  ],
-  "whyBasketball": [
-    "Jumping is a skill, not just genetics. Technique adds centimeters.",
-    "Every rebound, block, and closeout starts with a clean landing.",
-    "Players who land well stay on the court. Players who don't end up on the bench."
-  ],
-  "howTo": [
-    {
-      "title": "Master the landing first.",
-      "detail": "Before any jump training: practice soft landings from a low box. Hips back, knees track over toes, land quiet like a cat."
-    },
-    {
-      "title": "Start with low-impact hops.",
-      "detail": "Weeks 1–2: pogo hops, line hops, and low box jumps. Short ground contact, tall posture."
-    },
-    {
-      "title": "Add box jumps.",
-      "detail": "Jump onto a low box (30–45 cm). Land soft, stand tall, step down — never jump down."
-    },
-    {
-      "title": "Introduce depth jumps — controlled.",
-      "detail": "Step (don't jump) off a low box, land, and explode up immediately. Keep it to 2–3 sets. Stop if landings get noisy."
-    },
-    {
-      "title": "Respect volume and frequency.",
-      "detail": "Two plyometric sessions per week maximum, 48 hours apart. Around 80–100 total foot contacts per session for intermediates."
-    },
-    {
-      "title": "Never train tired.",
-      "detail": "Plyometrics go first in the workout, after warm-up. Skip them on heavy-leg days and when your legs feel dead."
-    }
-  ],
   "coachingPoints": [
     "Land soft and quiet — noise means poor absorption.",
     "Keep ground contact short on reactive jumps.",
@@ -72,19 +14,67 @@
     "Too much volume too soon — jumping four days a week.",
     "Jumping down off boxes instead of stepping down."
   ],
-  "setsReps": "2–3 sessions per week max; 80–100 foot contacts per session",
-  "basketballTransfer": "Clean landings and reactive jumps show up in second-jump rebounds, blocked-shot recoveries, and explosive closeouts that change shots.",
+  "dateUpdated": "2026-10-06",
+  "description": "Learn to land before you learn to fly. Safe plyometric training builds jump power through the stretch-shortening cycle — with volume and recovery rules that keep knees and ankles healthy.",
+  "duration": "20–25 min",
+  "equipment": [
+    "Plyo boxes",
+    "Cones"
+  ],
+  "goal": [
+    "explosive",
+    "jump-higher"
+  ],
+  "howTo": [
+    {
+      "detail": "Before any jump training: practice soft landings from a low box. Hips back, knees track over toes, land quiet like a cat.",
+      "title": "Master the landing first."
+    },
+    {
+      "detail": "Weeks 1–2: pogo hops, line hops, and low box jumps. Short ground contact, tall posture.",
+      "title": "Start with low-impact hops."
+    },
+    {
+      "detail": "Jump onto a low box (30–45 cm). Land soft, stand tall, step down — never jump down.",
+      "title": "Add box jumps."
+    },
+    {
+      "detail": "Step (don't jump) off a low box, land, and explode up immediately. Keep it to 2–3 sets. Stop if landings get noisy.",
+      "title": "Introduce depth jumps — controlled."
+    },
+    {
+      "detail": "Two plyometric sessions per week maximum, 48 hours apart. Around 80–100 total foot contacts per session for intermediates.",
+      "title": "Respect volume and frequency."
+    },
+    {
+      "detail": "Plyometrics go first in the workout, after warm-up. Skip them on heavy-leg days and when your legs feel dead.",
+      "title": "Never train tired."
+    }
+  ],
+  "hub": "athletic-performance",
+  "id": "perf-ap-plyometrics-basketball",
+  "level": "intermediate",
+  "positions": [
+    "all"
+  ],
   "progression": [
     "Beginner: low-impact hops and soft landings from a 30 cm box. 1–2 sessions per week, 60 contacts max.",
     "Intermediate: box jumps, broad jumps, hurdle hops. Controlled depth jumps from 30 cm. 80–100 contacts per session.",
     "Advanced: higher-intensity depth jumps (40–60 cm), single-leg hops, contrast with heavy strength work. Only with a solid landing base."
   ],
+  "references": [
+    "NSCA. Essentials of Strength Training and Conditioning (4th ed.). Human Kinetics.",
+    "USA Basketball. Youth Development & Strength and Conditioning Guidelines."
+  ],
   "relatedTopics": [
-    "ip-landing-mechanics",
-    "ip-knee-risk-reduction",
+    "ip-two-foot-landing",
+    "ip-knee-guide",
     "ip-training-load-basics",
     "nut-post-training-recovery-meal"
   ],
+  "setsReps": "2–3 sessions per week max; 80–100 foot contacts per session",
+  "slug": "ap-plyometrics-basketball",
+  "subcategory": "plyometrics",
   "tags": [
     "power",
     "plyometrics",
@@ -92,51 +82,12 @@
     "landing",
     "explosive"
   ],
-  "references": [
-    "NSCA. Essentials of Strength Training and Conditioning (4th ed.). Human Kinetics.",
-    "USA Basketball. Youth Development & Strength and Conditioning Guidelines."
+  "title": "Plyometrics for Basketball",
+  "trainingPhase": [
+    "pre-season"
   ],
-  "dateUpdated": "2026-10-06",
   "vi": {
-    "title": "Plyometrics cho bóng rổ (nhảy bùng nổ)",
-    "description": "Học tiếp đất trước khi học bay cao. Tập plyometrics an toàn phát triển sức bật nhờ chu trình co–duỗi cơ — kèm quy tắc khối lượng và hồi phục để bảo vệ gối và cổ chân.",
-    "whatItDevelops": [
-      "Hiệu quả chu trình co–duỗi cơ",
-      "Kiểm soát tiếp đất và độ cứng khớp",
-      "Sức bật nhảy cao",
-      "Bộ chân phản ứng trên sân"
-    ],
-    "whyBasketball": [
-      "Nhảy là kỹ năng, không chỉ do gen. Kỹ thuật tốt cộng thêm vài cm.",
-      "Mỗi pha rebound, block và closeout đều bắt đầu từ một cú tiếp đất sạch.",
-      "Cầu thủ tiếp đất tốt ở lại trên sân. Cầu thủ tiếp đất ẩu ngồi ngoài dự bị."
-    ],
-    "howTo": [
-      {
-        "title": "Thuần thục tiếp đất trước.",
-        "detail": "Trước mọi bài nhảy: tập tiếp đất mềm từ bục thấp. Đẩy hông ra sau, gối đi theo hướng mũi chân, tiếp đất êm như mèo."
-      },
-      {
-        "title": "Bắt đầu bằng bật nhảy nhẹ.",
-        "detail": "Tuần 1–2: pogo hop, nhảy qua vạch kẻ, bật lên bục thấp. Chạm đất ngắn, thân giữ thẳng."
-      },
-      {
-        "title": "Thêm bật nhảy lên bục.",
-        "detail": "Nhảy lên bục thấp (30–45 cm). Tiếp đất mềm, đứng thẳng, bước xuống — không nhảy xuống."
-      },
-      {
-        "title": "Làm quen depth jump có kiểm soát.",
-        "detail": "Bước (không nhảy) khỏi bục thấp, tiếp đất rồi bật lên ngay. Chỉ 2–3 hiệp. Thấy tiếp đất ồn thì dừng."
-      },
-      {
-        "title": "Tôn trọng khối lượng và tần suất.",
-        "detail": "Tối đa 2 buổi plyometrics mỗi tuần, cách nhau 48 giờ. Khoảng 80–100 lần chạm đất mỗi buổi cho trình độ trung cấp."
-      },
-      {
-        "title": "Không bao giờ tập khi mệt.",
-        "detail": "Plyometrics xếp đầu buổi, sau khởi động. Bỏ qua vào ngày chân nặng và khi chân đã rã."
-      }
-    ],
+    "basketballTransfer": "Tiếp đất sạch và bật nhảy phản ứng thể hiện ở rebound nhảy lần hai, pha block rồi thu hồi và closeout bùng nổ làm đối thủ hỏng cú ném.",
     "coachingPoints": [
       "Tiếp đất mềm và êm — tiếng động lớn là hấp thụ lực kém.",
       "Chạm đất thật ngắn trong các bài nhảy phản ứng.",
@@ -150,13 +101,40 @@
       "Khối lượng tăng quá nhanh — nhảy 4 ngày mỗi tuần.",
       "Nhảy xuống khỏi bục thay vì bước xuống."
     ],
-    "setsReps": "Tối đa 2–3 buổi/tuần; 80–100 lần chạm đất mỗi buổi",
-    "basketballTransfer": "Tiếp đất sạch và bật nhảy phản ứng thể hiện ở rebound nhảy lần hai, pha block rồi thu hồi và closeout bùng nổ làm đối thủ hỏng cú ném.",
+    "description": "Học tiếp đất trước khi học bay cao. Tập plyometrics an toàn phát triển sức bật nhờ chu trình co–duỗi cơ — kèm quy tắc khối lượng và hồi phục để bảo vệ gối và cổ chân.",
+    "duration": "20–25 phút",
+    "howTo": [
+      {
+        "detail": "Trước mọi bài nhảy: tập tiếp đất mềm từ bục thấp. Đẩy hông ra sau, gối đi theo hướng mũi chân, tiếp đất êm như mèo.",
+        "title": "Thuần thục tiếp đất trước."
+      },
+      {
+        "detail": "Tuần 1–2: pogo hop, nhảy qua vạch kẻ, bật lên bục thấp. Chạm đất ngắn, thân giữ thẳng.",
+        "title": "Bắt đầu bằng bật nhảy nhẹ."
+      },
+      {
+        "detail": "Nhảy lên bục thấp (30–45 cm). Tiếp đất mềm, đứng thẳng, bước xuống — không nhảy xuống.",
+        "title": "Thêm bật nhảy lên bục."
+      },
+      {
+        "detail": "Bước (không nhảy) khỏi bục thấp, tiếp đất rồi bật lên ngay. Chỉ 2–3 hiệp. Thấy tiếp đất ồn thì dừng.",
+        "title": "Làm quen depth jump có kiểm soát."
+      },
+      {
+        "detail": "Tối đa 2 buổi plyometrics mỗi tuần, cách nhau 48 giờ. Khoảng 80–100 lần chạm đất mỗi buổi cho trình độ trung cấp.",
+        "title": "Tôn trọng khối lượng và tần suất."
+      },
+      {
+        "detail": "Plyometrics xếp đầu buổi, sau khởi động. Bỏ qua vào ngày chân nặng và khi chân đã rã.",
+        "title": "Không bao giờ tập khi mệt."
+      }
+    ],
     "progression": [
       "Cơ bản: bật nhảy nhẹ và tiếp đất mềm từ bục 30 cm. 1–2 buổi/tuần, tối đa 60 lần chạm đất.",
       "Trung cấp: bật nhảy lên bục, nhảy xa tại chỗ, nhảy qua rào thấp. Depth jump có kiểm soát từ bục 30 cm. 80–100 lần chạm đất mỗi buổi.",
       "Nâng cao: depth jump cường độ cao (40–60 cm), nhảy một chân, kết hợp với tập sức mạnh nặng. Chỉ khi nền tảng tiếp đất đã vững."
     ],
+    "setsReps": "Tối đa 2–3 buổi/tuần; 80–100 lần chạm đất mỗi buổi",
     "tags": [
       "sức bật",
       "plyometrics",
@@ -164,6 +142,28 @@
       "tiếp đất",
       "bùng nổ"
     ],
-    "duration": "20–25 phút"
-  }
+    "title": "Plyometrics cho bóng rổ (nhảy bùng nổ)",
+    "whatItDevelops": [
+      "Hiệu quả chu trình co–duỗi cơ",
+      "Kiểm soát tiếp đất và độ cứng khớp",
+      "Sức bật nhảy cao",
+      "Bộ chân phản ứng trên sân"
+    ],
+    "whyBasketball": [
+      "Nhảy là kỹ năng, không chỉ do gen. Kỹ thuật tốt cộng thêm vài cm.",
+      "Mỗi pha rebound, block và closeout đều bắt đầu từ một cú tiếp đất sạch.",
+      "Cầu thủ tiếp đất tốt ở lại trên sân. Cầu thủ tiếp đất ẩu ngồi ngoài dự bị."
+    ]
+  },
+  "whatItDevelops": [
+    "Stretch-shortening cycle efficiency",
+    "Landing control and joint stiffness",
+    "Vertical jump power",
+    "Reactive footwork for the court"
+  ],
+  "whyBasketball": [
+    "Jumping is a skill, not just genetics. Technique adds centimeters.",
+    "Every rebound, block, and closeout starts with a clean landing.",
+    "Players who land well stay on the court. Players who don't end up on the bench."
+  ]
 }

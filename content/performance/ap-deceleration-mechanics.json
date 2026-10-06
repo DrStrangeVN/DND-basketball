@@ -1,58 +1,6 @@
 {
-  "id": "perf-ap-deceleration-mechanics",
-  "hub": "athletic-performance",
-  "slug": "ap-deceleration-mechanics",
+  "basketballTransfer": "Braking mechanics power your pull-up jumper, your Euro-step stop, and every defensive closeout — and take load off your knees on every stop.",
   "category": "deceleration",
-  "subcategory": "stopping-mechanics",
-  "title": "Deceleration: Stopping Mechanics",
-  "description": "Basketball is a game of stops, cuts, and landings. Learn to brake with short choppy steps, dropped hips, and feet under your knees — so you can stop fast and take load off your joints.",
-  "level": "intermediate",
-  "positions": [
-    "all"
-  ],
-  "trainingPhase": [
-    "pre-season",
-    "in-season"
-  ],
-  "goal": [
-    "move-better"
-  ],
-  "duration": "15–20 min",
-  "equipment": [
-    "Cones"
-  ],
-  "whatItDevelops": [
-    "Eccentric braking strength",
-    "Body control at high speed",
-    "Safer stopping mechanics for knees and ankles"
-  ],
-  "whyBasketball": [
-    "Every possession ends with a stop: a pull-up, a Euro step, or a defensive closeout",
-    "Players who brake well cut sharper and shoot balanced",
-    "Good stopping mechanics reduce stress on the knees"
-  ],
-  "howTo": [
-    {
-      "title": "Shorten your steps",
-      "detail": "As you approach the stop, take short, quick steps — never one long lunge."
-    },
-    {
-      "title": "Drop your hips",
-      "detail": "Sink your hips down and back, keeping your chest over your knees."
-    },
-    {
-      "title": "Feet under knees",
-      "detail": "Land each foot under your knee, not out in front of your body."
-    },
-    {
-      "title": "Lean slightly back",
-      "detail": "Let your torso sit slightly behind your feet to absorb the brakes."
-    },
-    {
-      "title": "Drill: sprint-to-stop",
-      "detail": "Sprint 10m, then stop within 2–3m. Start at 60% speed; add speed only when every stop is quiet and balanced."
-    }
-  ],
   "coachingPoints": [
     "Quiet feet, quiet stop — loud stomps mean poor braking.",
     "Knees track over toes on every plant.",
@@ -66,64 +14,74 @@
     "Standing tall while braking.",
     "Stopping loud with stiff legs."
   ],
-  "setsReps": "4–5 sets × 5–6 sprint-to-stops, full recovery",
-  "basketballTransfer": "Braking mechanics power your pull-up jumper, your Euro-step stop, and every defensive closeout — and take load off your knees on every stop.",
+  "dateUpdated": "2026-10-06",
+  "description": "Basketball is a game of stops, cuts, and landings. Learn to brake with short choppy steps, dropped hips, and feet under your knees — so you can stop fast and take load off your joints.",
+  "duration": "15–20 min",
+  "equipment": [
+    "Cones"
+  ],
+  "goal": [
+    "move-better"
+  ],
+  "howTo": [
+    {
+      "detail": "As you approach the stop, take short, quick steps — never one long lunge.",
+      "title": "Shorten your steps"
+    },
+    {
+      "detail": "Sink your hips down and back, keeping your chest over your knees.",
+      "title": "Drop your hips"
+    },
+    {
+      "detail": "Land each foot under your knee, not out in front of your body.",
+      "title": "Feet under knees"
+    },
+    {
+      "detail": "Let your torso sit slightly behind your feet to absorb the brakes.",
+      "title": "Lean slightly back"
+    },
+    {
+      "detail": "Sprint 10m, then stop within 2–3m. Start at 60% speed; add speed only when every stop is quiet and balanced.",
+      "title": "Drill: sprint-to-stop"
+    }
+  ],
+  "hub": "athletic-performance",
+  "id": "perf-ap-deceleration-mechanics",
+  "level": "intermediate",
+  "positions": [
+    "all"
+  ],
   "progression": [
     "Beginner: walk-to-stop and jog-to-stop — focus on the hip drop.",
     "Intermediate: full sprint-to-stop from 10m with a balanced 2-second hold.",
     "Advanced: sprint-to-stop into a pull-up or a pass on a coach's signal."
   ],
+  "references": [
+    "NSCA — Essentials of Strength Training and Conditioning: deceleration and landing mechanics",
+    "USA Basketball — Player Development Curriculum: stopping and cutting"
+  ],
   "relatedTopics": [
-    "ip-knee-risk-reduction",
-    "ip-warm-up-5-minute",
+    "ip-knee-guide",
+    "ip-warmup-5-min",
     "ap-landing-mechanics",
     "nut-post-training-recovery-meal"
   ],
+  "setsReps": "4–5 sets × 5–6 sprint-to-stops, full recovery",
+  "slug": "ap-deceleration-mechanics",
+  "subcategory": "stopping-mechanics",
   "tags": [
     "deceleration",
     "stopping",
     "knee health",
     "first step"
   ],
-  "references": [
-    "NSCA — Essentials of Strength Training and Conditioning: deceleration and landing mechanics",
-    "USA Basketball — Player Development Curriculum: stopping and cutting"
+  "title": "Deceleration: Stopping Mechanics",
+  "trainingPhase": [
+    "pre-season",
+    "in-season"
   ],
   "vi": {
-    "title": "Kỹ thuật phanh và dừng (deceleration)",
-    "description": "Bóng rổ là môn của dừng, cắt và tiếp đất. Học cách phanh bằng bước ngắn, hạ hông, chân dưới gối — dừng nhanh và giảm tải cho khớp.",
-    "whatItDevelops": [
-      "Sức mạnh phanh (eccentric)",
-      "Kiểm soát cơ thể ở tốc độ cao",
-      "Cơ chế dừng an toàn hơn cho gối và cổ chân"
-    ],
-    "whyBasketball": [
-      "Mọi pha bóng đều kết thúc bằng một lần dừng: pull-up, Euro step hay closeout phòng thủ",
-      "Cầu thủ phanh tốt cắt hướng sắc và ném cân bằng",
-      "Cơ chế dừng đúng giảm áp lực lên đầu gối"
-    ],
-    "howTo": [
-      {
-        "title": "Rút ngắn bước chạy",
-        "detail": "Gần điểm dừng, bước ngắn và nhanh — không một bước dài."
-      },
-      {
-        "title": "Hạ hông",
-        "detail": "Hạ hông xuống và ra sau, ngực giữ trên gối."
-      },
-      {
-        "title": "Chân dưới gối",
-        "detail": "Mỗi chân tiếp đất dưới gối, không phía trước cơ thể."
-      },
-      {
-        "title": "Hơi ngả người ra sau",
-        "detail": "Thân hơi ngả sau chân để hấp thụ lực phanh."
-      },
-      {
-        "title": "Bài tập: chạy nhanh rồi dừng",
-        "detail": "Chạy 10m, dừng trong 2–3m. Bắt đầu 60% tốc độ; tăng tốc chỉ khi mỗi lần dừng đều êm và cân bằng."
-      }
-    ],
+    "basketballTransfer": "Cơ chế phanh tạo lực cho cú pull-up, cho pha dừng của Euro step, và cho mọi closeout phòng thủ — đồng thời giảm tải cho gối mỗi lần dừng.",
     "coachingPoints": [
       "Chân êm, dừng êm — đạp ầm là phanh kém.",
       "Gối luôn theo hướng mũi chân mỗi lần đạp.",
@@ -137,20 +95,62 @@
       "Dựng người khi phanh.",
       "Dừng ầm với chân cứng."
     ],
-    "setsReps": "4–5 hiệp × 5–6 lần chạy-dừng, nghỉ đủ",
-    "basketballTransfer": "Cơ chế phanh tạo lực cho cú pull-up, cho pha dừng của Euro step, và cho mọi closeout phòng thủ — đồng thời giảm tải cho gối mỗi lần dừng.",
+    "description": "Bóng rổ là môn của dừng, cắt và tiếp đất. Học cách phanh bằng bước ngắn, hạ hông, chân dưới gối — dừng nhanh và giảm tải cho khớp.",
+    "duration": "15–20 phút",
+    "howTo": [
+      {
+        "detail": "Gần điểm dừng, bước ngắn và nhanh — không một bước dài.",
+        "title": "Rút ngắn bước chạy"
+      },
+      {
+        "detail": "Hạ hông xuống và ra sau, ngực giữ trên gối.",
+        "title": "Hạ hông"
+      },
+      {
+        "detail": "Mỗi chân tiếp đất dưới gối, không phía trước cơ thể.",
+        "title": "Chân dưới gối"
+      },
+      {
+        "detail": "Thân hơi ngả sau chân để hấp thụ lực phanh.",
+        "title": "Hơi ngả người ra sau"
+      },
+      {
+        "detail": "Chạy 10m, dừng trong 2–3m. Bắt đầu 60% tốc độ; tăng tốc chỉ khi mỗi lần dừng đều êm và cân bằng.",
+        "title": "Bài tập: chạy nhanh rồi dừng"
+      }
+    ],
     "progression": [
       "Cơ bản: đi bộ rồi dừng, chạy chậm rồi dừng — tập trung hạ hông.",
       "Trung cấp: chạy nhanh 10m rồi dừng, giữ cân bằng 2 giây.",
       "Nâng cao: chạy-dừng rồi pull-up hoặc chuyền theo hiệu lệnh của HLV."
     ],
+    "setsReps": "4–5 hiệp × 5–6 lần chạy-dừng, nghỉ đủ",
     "tags": [
       "phanh",
       "dừng",
       "bảo vệ gối",
       "bước đầu"
     ],
-    "duration": "15–20 phút"
+    "title": "Kỹ thuật phanh và dừng (deceleration)",
+    "whatItDevelops": [
+      "Sức mạnh phanh (eccentric)",
+      "Kiểm soát cơ thể ở tốc độ cao",
+      "Cơ chế dừng an toàn hơn cho gối và cổ chân"
+    ],
+    "whyBasketball": [
+      "Mọi pha bóng đều kết thúc bằng một lần dừng: pull-up, Euro step hay closeout phòng thủ",
+      "Cầu thủ phanh tốt cắt hướng sắc và ném cân bằng",
+      "Cơ chế dừng đúng giảm áp lực lên đầu gối"
+    ]
   },
-  "dateUpdated": "2026-10-06"
+  "whatItDevelops": [
+    "Eccentric braking strength",
+    "Body control at high speed",
+    "Safer stopping mechanics for knees and ankles"
+  ],
+  "whyBasketball": [
+    "Every possession ends with a stop: a pull-up, a Euro step, or a defensive closeout",
+    "Players who brake well cut sharper and shoot balanced",
+    "Good stopping mechanics reduce stress on the knees"
+  ]
 }

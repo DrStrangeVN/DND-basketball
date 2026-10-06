@@ -1,67 +1,6 @@
 {
-  "id": "perf-ip-warmup-5-min",
-  "slug": "ip-warmup-5-min",
-  "hub": "injury-prevention",
-  "dateUpdated": "2026-10-06",
+  "basketballTransfer": "Prepares the body for the first defensive possession, the first sprint down the floor, and the first jump for a rebound — with reduced injury risk from the opening tip.",
   "category": "warm-up",
-  "subcategory": "warmup-routines",
-  "title": "5-Minute Basketball Warm-Up",
-  "description": "A compact full-body warm-up for busy days: five minutes of jogging, leg swings, lunges, jumps, and short sprints to prepare the body for basketball.",
-  "level": "beginner",
-  "positions": [
-    "all"
-  ],
-  "trainingPhase": [
-    "pre-season",
-    "in-season",
-    "game-day"
-  ],
-  "goal": [
-    "move-better",
-    "get-faster",
-    "conditioning"
-  ],
-  "duration": "5 min",
-  "equipment": [
-    "Open court space",
-    "Basketball (optional)"
-  ],
-  "whatItDevelops": [
-    "Elevated heart rate and body temperature",
-    "Hip and ankle mobility through dynamic leg swings",
-    "Lower-body activation for running and jumping"
-  ],
-  "whyBasketball": [
-    "Follows the raise → mobility → movement pattern used in team warm-ups",
-    "Covers the core actions of basketball: sprinting, jumping, and changing direction",
-    "Short enough to use before pickup games and scrimmages"
-  ],
-  "howTo": [
-    {
-      "title": "Jog baseline to baseline — 60 seconds",
-      "detail": "Easy jog at a conversational pace. Keep the chest tall, arms swinging naturally, and breathe steadily. The goal is warmth, not speed."
-    },
-    {
-      "title": "Forward and lateral leg swings — 30 seconds per leg",
-      "detail": "Stand beside a wall or a partner for balance. Swing one leg forward and back 10 times, then across the body and out 10 times. Keep the standing knee soft."
-    },
-    {
-      "title": "Walking lunges with torso twist — 4 per side",
-      "detail": "Step long, lower the back knee toward the floor, and rotate the torso over the front knee. Step straight into the next lunge without stopping."
-    },
-    {
-      "title": "Bodyweight squats — 8 reps",
-      "detail": "Feet shoulder-width apart, chest up. Sit the hips back and down to a comfortable depth, then drive up. Smooth and controlled."
-    },
-    {
-      "title": "Jump sequence — 5 jumps",
-      "detail": "Three small pogo jumps, then two higher jumps. Land softly and quietly every time, knees tracking over the toes."
-    },
-    {
-      "title": "Build-up sprints — 2 to 3 reps",
-      "detail": "Sprint from the baseline to half court, walking back to recover. Raise the speed each rep: 70%, 80%, 90%."
-    }
-  ],
   "coachingPoints": [
     "Raise heart rate and body temperature before any sprint",
     "Keep every drill smooth and controlled — this is preparation, not a workout",
@@ -73,8 +12,51 @@
     "Turning build-up sprints into max-effort races",
     "Static stretching cold muscles before playing"
   ],
-  "setsReps": "Run the full sequence once (≈5 minutes). If the legs still feel heavy, repeat the jump sequence once more.",
-  "basketballTransfer": "Prepares the body for the first defensive possession, the first sprint down the floor, and the first jump for a rebound — with reduced injury risk from the opening tip.",
+  "dateUpdated": "2026-10-06",
+  "description": "A compact full-body warm-up for busy days: five minutes of jogging, leg swings, lunges, jumps, and short sprints to prepare the body for basketball.",
+  "duration": "5 min",
+  "equipment": [
+    "Open court space",
+    "Basketball (optional)"
+  ],
+  "goal": [
+    "move-better",
+    "get-faster",
+    "conditioning"
+  ],
+  "howTo": [
+    {
+      "detail": "Easy jog at a conversational pace. Keep the chest tall, arms swinging naturally, and breathe steadily. The goal is warmth, not speed.",
+      "title": "Jog baseline to baseline — 60 seconds"
+    },
+    {
+      "detail": "Stand beside a wall or a partner for balance. Swing one leg forward and back 10 times, then across the body and out 10 times. Keep the standing knee soft.",
+      "title": "Forward and lateral leg swings — 30 seconds per leg"
+    },
+    {
+      "detail": "Step long, lower the back knee toward the floor, and rotate the torso over the front knee. Step straight into the next lunge without stopping.",
+      "title": "Walking lunges with torso twist — 4 per side"
+    },
+    {
+      "detail": "Feet shoulder-width apart, chest up. Sit the hips back and down to a comfortable depth, then drive up. Smooth and controlled.",
+      "title": "Bodyweight squats — 8 reps"
+    },
+    {
+      "detail": "Three small pogo jumps, then two higher jumps. Land softly and quietly every time, knees tracking over the toes.",
+      "title": "Jump sequence — 5 jumps"
+    },
+    {
+      "detail": "Sprint from the baseline to half court, walking back to recover. Raise the speed each rep: 70%, 80%, 90%.",
+      "title": "Build-up sprints — 2 to 3 reps"
+    }
+  ],
+  "hub": "injury-prevention",
+  "id": "perf-ip-warmup-5-min",
+  "level": "beginner",
+  "medicalDisclaimer": false,
+  "positions": [
+    "all"
+  ],
   "progression": [
     "Beginner: jog at half pace and walk through the lunges",
     "Intermediate: add one sprint rep and raise jump height",
@@ -84,8 +66,11 @@
     "ip-warmup-10-min",
     "ip-ankle-guide",
     "ip-knee-guide",
-    "hyd-game-day-hydration"
+    "hyd-game-day-timeline"
   ],
+  "setsReps": "Run the full sequence once (≈5 minutes). If the legs still feel heavy, repeat the jump sequence once more.",
+  "slug": "ip-warmup-5-min",
+  "subcategory": "warmup-routines",
   "tags": [
     "warm-up",
     "movement preparation",
@@ -93,46 +78,14 @@
     "beginner",
     "mobility"
   ],
-  "medicalDisclaimer": false,
+  "title": "5-Minute Basketball Warm-Up",
+  "trainingPhase": [
+    "pre-season",
+    "in-season",
+    "game-day"
+  ],
   "vi": {
-    "title": "Bài khởi động 5 phút cho bóng rổ",
-    "description": "Bài khởi động toàn thân siêu ngắn cho ngày bận rộn: 5 phút chạy nhẹ, vung chân, lunge, nhảy và sprint ngắn để chuẩn bị cơ thể cho bóng rổ.",
-    "whatItDevelops": [
-      "Tăng nhịp tim và nhiệt độ cơ thể",
-      "Mở hông và cổ chân qua động tác vung chân linh hoạt",
-      "Đánh thức nhóm cơ chân trước khi chạy và nhảy"
-    ],
-    "whyBasketball": [
-      "Đi đúng cấu trúc làm nóng → linh hoạt → vận động như các đội chuyên nghiệp",
-      "Bao quát các động tác cốt lõi của bóng rổ: chạy, nhảy, đổi hướng",
-      "Đủ ngắn để dùng trước trận pick-up hay đấu tập"
-    ],
-    "howTo": [
-      {
-        "title": "Chạy nhẹ từ vạch cuối sân này sang vạch cuối sân kia — 60 giây",
-        "detail": "Chạy nhẹ ở tốc độ còn nói chuyện được. Giữ ngực thẳng, tay vung tự nhiên, hít thở đều. Mục tiêu là làm nóng người, không phải chạy nhanh."
-      },
-      {
-        "title": "Vung chân trước–sau và ngang — 30 giây mỗi chân",
-        "detail": "Đứng cạnh tường hoặc bạn tập để giữ thăng bằng. Vung một chân trước–sau 10 lần, rồi vung ngang qua người 10 lần. Chân trụ hơi gập gối."
-      },
-      {
-        "title": "Lunge đi bộ kết hợp xoay thân — 4 lần mỗi bên",
-        "detail": "Bước dài, hạ gối sau gần chạm sàn, xoay thân trên về phía gối trước. Bước thẳng vào nhịp lunge tiếp theo, không dừng lại."
-      },
-      {
-        "title": "Squat không tạ — 8 lần",
-        "detail": "Hai chân rộng bằng vai, ngực ưỡn. Hạ hông ra sau xuống độ sâu thoải mái, rồi đứng lên. Mượt mà và có kiểm soát."
-      },
-      {
-        "title": "Chuỗi nhảy — 5 lần",
-        "detail": "Ba cú nhảy pogo thấp, rồi hai cú nhảy cao hơn. Mỗi lần tiếp đất nhẹ và êm, gối hướng theo mũi chân."
-      },
-      {
-        "title": "Sprint tăng tốc — 2 đến 3 lượt",
-        "detail": "Sprint từ vạch cuối sân lên giữa sân, đi bộ về để hồi sức. Tăng tốc dần mỗi lượt: 70%, 80%, 90%."
-      }
-    ],
+    "basketballTransfer": "Chuẩn bị cơ thể cho pha phòng thủ đầu tiên, pha chạy nhanh đầu tiên xuống sân và cú nhảy tranh bóng bật bảng đầu tiên — với rủi ro chấn thương thấp hơn ngay từ khi bóng lên.",
     "coachingPoints": [
       "Tăng nhịp tim và nhiệt độ cơ thể trước khi sprint",
       "Giữ mọi động tác mượt mà, có kiểm soát — đây là khởi động, không phải buổi tập",
@@ -144,13 +97,40 @@
       "Biến sprint tăng tốc thành chạy hết sức",
       "Giãn cơ tĩnh khi cơ còn lạnh trước giờ chơi"
     ],
-    "setsReps": "Chạy hết chuỗi một lần (≈5 phút). Nếu chân còn nặng, lặp lại chuỗi nhảy thêm một lần.",
-    "basketballTransfer": "Chuẩn bị cơ thể cho pha phòng thủ đầu tiên, pha chạy nhanh đầu tiên xuống sân và cú nhảy tranh bóng bật bảng đầu tiên — với rủi ro chấn thương thấp hơn ngay từ khi bóng lên.",
+    "description": "Bài khởi động toàn thân siêu ngắn cho ngày bận rộn: 5 phút chạy nhẹ, vung chân, lunge, nhảy và sprint ngắn để chuẩn bị cơ thể cho bóng rổ.",
+    "duration": "5 phút",
+    "howTo": [
+      {
+        "detail": "Chạy nhẹ ở tốc độ còn nói chuyện được. Giữ ngực thẳng, tay vung tự nhiên, hít thở đều. Mục tiêu là làm nóng người, không phải chạy nhanh.",
+        "title": "Chạy nhẹ từ vạch cuối sân này sang vạch cuối sân kia — 60 giây"
+      },
+      {
+        "detail": "Đứng cạnh tường hoặc bạn tập để giữ thăng bằng. Vung một chân trước–sau 10 lần, rồi vung ngang qua người 10 lần. Chân trụ hơi gập gối.",
+        "title": "Vung chân trước–sau và ngang — 30 giây mỗi chân"
+      },
+      {
+        "detail": "Bước dài, hạ gối sau gần chạm sàn, xoay thân trên về phía gối trước. Bước thẳng vào nhịp lunge tiếp theo, không dừng lại.",
+        "title": "Lunge đi bộ kết hợp xoay thân — 4 lần mỗi bên"
+      },
+      {
+        "detail": "Hai chân rộng bằng vai, ngực ưỡn. Hạ hông ra sau xuống độ sâu thoải mái, rồi đứng lên. Mượt mà và có kiểm soát.",
+        "title": "Squat không tạ — 8 lần"
+      },
+      {
+        "detail": "Ba cú nhảy pogo thấp, rồi hai cú nhảy cao hơn. Mỗi lần tiếp đất nhẹ và êm, gối hướng theo mũi chân.",
+        "title": "Chuỗi nhảy — 5 lần"
+      },
+      {
+        "detail": "Sprint từ vạch cuối sân lên giữa sân, đi bộ về để hồi sức. Tăng tốc dần mỗi lượt: 70%, 80%, 90%.",
+        "title": "Sprint tăng tốc — 2 đến 3 lượt"
+      }
+    ],
     "progression": [
       "Beginner: chạy nhẹ nửa tốc độ, đi bộ qua các nhịp lunge",
       "Intermediate: thêm một lượt sprint, nhảy cao hơn",
       "Advanced: kết thúc bằng một chuỗi slide ngang trước trận pick-up"
     ],
+    "setsReps": "Chạy hết chuỗi một lần (≈5 phút). Nếu chân còn nặng, lặp lại chuỗi nhảy thêm một lần.",
     "tags": [
       "khởi động",
       "chuẩn bị vận động",
@@ -158,6 +138,26 @@
       "người mới",
       "linh hoạt"
     ],
-    "duration": "5 phút"
-  }
+    "title": "Bài khởi động 5 phút cho bóng rổ",
+    "whatItDevelops": [
+      "Tăng nhịp tim và nhiệt độ cơ thể",
+      "Mở hông và cổ chân qua động tác vung chân linh hoạt",
+      "Đánh thức nhóm cơ chân trước khi chạy và nhảy"
+    ],
+    "whyBasketball": [
+      "Đi đúng cấu trúc làm nóng → linh hoạt → vận động như các đội chuyên nghiệp",
+      "Bao quát các động tác cốt lõi của bóng rổ: chạy, nhảy, đổi hướng",
+      "Đủ ngắn để dùng trước trận pick-up hay đấu tập"
+    ]
+  },
+  "whatItDevelops": [
+    "Elevated heart rate and body temperature",
+    "Hip and ankle mobility through dynamic leg swings",
+    "Lower-body activation for running and jumping"
+  ],
+  "whyBasketball": [
+    "Follows the raise → mobility → movement pattern used in team warm-ups",
+    "Covers the core actions of basketball: sprinting, jumping, and changing direction",
+    "Short enough to use before pickup games and scrimmages"
+  ]
 }

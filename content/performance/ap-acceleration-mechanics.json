@@ -1,59 +1,6 @@
 {
-  "id": "perf-ap-acceleration-mechanics",
-  "slug": "ap-acceleration-mechanics",
-  "hub": "athletic-performance",
+  "basketballTransfer": "Better acceleration means a first step that beats defenders, fast-break lanes you actually reach, and closeout recoveries that arrive on time.",
   "category": "speed",
-  "subcategory": "acceleration",
-  "title": "Acceleration Mechanics",
-  "description": "The first 10 meters win basketball races. Learn the forward lean, the push behind the hips, and violent arm drive — then drill them with wall drills and band marches.",
-  "level": "beginner",
-  "positions": [
-    "all"
-  ],
-  "trainingPhase": [
-    "pre-season",
-    "in-season"
-  ],
-  "goal": [
-    "get-faster"
-  ],
-  "duration": "15–20 min",
-  "equipment": [
-    "Cones"
-  ],
-  "whatItDevelops": [
-    "First-step explosiveness",
-    "Forward-lean sprint posture",
-    "Horizontal force production",
-    "Arm-leg coordination at speed"
-  ],
-  "whyBasketball": [
-    "Almost every basketball sprint is under 15 meters.",
-    "A better first step beats a faster top speed — on this court, nobody reaches top speed.",
-    "Fast breaks are won in the first three steps, not the last three."
-  ],
-  "howTo": [
-    {
-      "title": "Wall drill.",
-      "detail": "Lean into a wall at 45 degrees, body straight from head to heels. Drive one knee up fast, switch legs. 3 × 10 seconds per leg pattern."
-    },
-    {
-      "title": "Band march.",
-      "detail": "Anchor a band behind you at hip height. March forward against resistance, driving knees up and pushing the ground back. 3 × 10 meters."
-    },
-    {
-      "title": "Falling start.",
-      "detail": "Stand tall, fall forward until you must step. Sprint 10 meters from that lean. Feel the angle, don't force it."
-    },
-    {
-      "title": "Push, don't reach.",
-      "detail": "Feet strike under the hips and push the ground behind you. Reaching steps in front kill speed."
-    },
-    {
-      "title": "Arms drive it.",
-      "detail": "Elbows at 90 degrees, hands from hip to cheek. Punch the elbows back hard — the legs follow the arms."
-    }
-  ],
   "coachingPoints": [
     "Lean from the ankles, not the waist.",
     "Push the ground behind you, not down.",
@@ -67,66 +14,74 @@
     "Arms crossing the chest instead of driving straight.",
     "Holding your breath and tensing the shoulders."
   ],
-  "setsReps": "3–4 sets × 10 m per drill; full recovery between sprints",
-  "basketballTransfer": "Better acceleration means a first step that beats defenders, fast-break lanes you actually reach, and closeout recoveries that arrive on time.",
+  "dateUpdated": "2026-10-06",
+  "description": "The first 10 meters win basketball races. Learn the forward lean, the push behind the hips, and violent arm drive — then drill them with wall drills and band marches.",
+  "duration": "15–20 min",
+  "equipment": [
+    "Cones"
+  ],
+  "goal": [
+    "get-faster"
+  ],
+  "howTo": [
+    {
+      "detail": "Lean into a wall at 45 degrees, body straight from head to heels. Drive one knee up fast, switch legs. 3 × 10 seconds per leg pattern.",
+      "title": "Wall drill."
+    },
+    {
+      "detail": "Anchor a band behind you at hip height. March forward against resistance, driving knees up and pushing the ground back. 3 × 10 meters.",
+      "title": "Band march."
+    },
+    {
+      "detail": "Stand tall, fall forward until you must step. Sprint 10 meters from that lean. Feel the angle, don't force it.",
+      "title": "Falling start."
+    },
+    {
+      "detail": "Feet strike under the hips and push the ground behind you. Reaching steps in front kill speed.",
+      "title": "Push, don't reach."
+    },
+    {
+      "detail": "Elbows at 90 degrees, hands from hip to cheek. Punch the elbows back hard — the legs follow the arms.",
+      "title": "Arms drive it."
+    }
+  ],
+  "hub": "athletic-performance",
+  "id": "perf-ap-acceleration-mechanics",
+  "level": "beginner",
+  "positions": [
+    "all"
+  ],
   "progression": [
     "Beginner: wall drill and band march only. Learn the lean and the push pattern at walking speed.",
     "Intermediate: add falling starts and 10 m sprints. 4–6 reps with 90-second rests.",
     "Advanced: resisted 10 m sprints, then contrast with unresisted sprints. Add a ball or a decision cue (go left/right on signal)."
   ],
-  "relatedTopics": [
-    "ip-warm-up-5-minute",
-    "ip-ankle-prevention-basics",
-    "hyd-game-day-hydration",
-    "nut-protein-for-basketball"
+  "references": [
+    "NSCA. Essentials of Strength Training and Conditioning (4th ed.). Human Kinetics.",
+    "USA Basketball. Player Development Curriculum: Speed & Agility."
   ],
+  "relatedTopics": [
+    "ip-warmup-5-min",
+    "ip-ankle-guide",
+    "hyd-game-day-timeline",
+    "nut-protein-basketball"
+  ],
+  "setsReps": "3–4 sets × 10 m per drill; full recovery between sprints",
+  "slug": "ap-acceleration-mechanics",
+  "subcategory": "acceleration",
   "tags": [
     "speed",
     "acceleration",
     "first step",
     "sprint mechanics"
   ],
-  "references": [
-    "NSCA. Essentials of Strength Training and Conditioning (4th ed.). Human Kinetics.",
-    "USA Basketball. Player Development Curriculum: Speed & Agility."
+  "title": "Acceleration Mechanics",
+  "trainingPhase": [
+    "pre-season",
+    "in-season"
   ],
-  "dateUpdated": "2026-10-06",
   "vi": {
-    "title": "Kỹ thuật tăng tốc (acceleration)",
-    "description": "10 m đầu tiên quyết định mọi cuộc đua trên sân bóng rổ. Học tư thế nghiêng người, cách đạp chân sau hông và đánh tay mạnh — rồi rèn bằng bài tập tường và band march.",
-    "whatItDevelops": [
-      "Sức bùng nổ bước đầu tiên",
-      "Tư thế nghiêng người khi tăng tốc",
-      "Tạo lực đẩy theo phương ngang",
-      "Phối hợp tay–chân ở tốc độ cao"
-    ],
-    "whyBasketball": [
-      "Hầu như mọi pha chạy nước rút trong bóng rổ đều dưới 15 m.",
-      "Bước đầu tiên tốt hơn tốc độ tối đa — trên sân này, không ai đạt tốc độ tối đa.",
-      "Phản công nhanh thắng ở ba bước đầu, không phải ba bước cuối."
-    ],
-    "howTo": [
-      {
-        "title": "Bài tập tường (wall drill).",
-        "detail": "Chống tay vào tường, người nghiêng 45 độ, thân thẳng từ đầu tới gót. Nâng gối nhanh, đổi chân liên tục. 3 × 10 giây mỗi kiểu chân."
-      },
-      {
-        "title": "Band march.",
-        "detail": "Cố định dây band sau lưng ngang hông. Bước tới chống lại lực kéo, nâng gối cao và đạp mặt sân ra sau. 3 × 10 m."
-      },
-      {
-        "title": "Xuất phát đổ người.",
-        "detail": "Đứng thẳng, đổ người tới trước đến khi buộc phải bước. Chạy 10 m từ tư thế nghiêng đó. Cảm nhận góc nghiêng, đừng gồng."
-      },
-      {
-        "title": "Đạp, đừng với.",
-        "detail": "Bàn chân chạm đất dưới hông và đẩy mặt sân ra sau. Bước với ra trước giết chết tốc độ."
-      },
-      {
-        "title": "Tay dẫn nhịp.",
-        "detail": "Khuỷu tay gập 90 độ, tay đánh từ hông lên má. Quật khuỷu tay mạnh ra sau — chân sẽ theo tay."
-      }
-    ],
+    "basketballTransfer": "Tăng tốc tốt hơn nghĩa là bước đầu tiên vượt qua cầu thủ phòng thủ, những pha phản công bạn thực sự tới kịp và thu hồi closeout đúng lúc.",
     "coachingPoints": [
       "Nghiêng người từ cổ chân, không phải từ eo.",
       "Đẩy mặt sân ra sau, không phải đạp xuống.",
@@ -140,19 +95,64 @@
       "Tay đánh cắt ngang ngực thay vì đánh thẳng.",
       "Nín thở và gồng vai."
     ],
-    "setsReps": "3–4 hiệp × 10 m mỗi bài; nghỉ hồi phục hoàn toàn giữa các lần chạy",
-    "basketballTransfer": "Tăng tốc tốt hơn nghĩa là bước đầu tiên vượt qua cầu thủ phòng thủ, những pha phản công bạn thực sự tới kịp và thu hồi closeout đúng lúc.",
+    "description": "10 m đầu tiên quyết định mọi cuộc đua trên sân bóng rổ. Học tư thế nghiêng người, cách đạp chân sau hông và đánh tay mạnh — rồi rèn bằng bài tập tường và band march.",
+    "duration": "15–20 phút",
+    "howTo": [
+      {
+        "detail": "Chống tay vào tường, người nghiêng 45 độ, thân thẳng từ đầu tới gót. Nâng gối nhanh, đổi chân liên tục. 3 × 10 giây mỗi kiểu chân.",
+        "title": "Bài tập tường (wall drill)."
+      },
+      {
+        "detail": "Cố định dây band sau lưng ngang hông. Bước tới chống lại lực kéo, nâng gối cao và đạp mặt sân ra sau. 3 × 10 m.",
+        "title": "Band march."
+      },
+      {
+        "detail": "Đứng thẳng, đổ người tới trước đến khi buộc phải bước. Chạy 10 m từ tư thế nghiêng đó. Cảm nhận góc nghiêng, đừng gồng.",
+        "title": "Xuất phát đổ người."
+      },
+      {
+        "detail": "Bàn chân chạm đất dưới hông và đẩy mặt sân ra sau. Bước với ra trước giết chết tốc độ.",
+        "title": "Đạp, đừng với."
+      },
+      {
+        "detail": "Khuỷu tay gập 90 độ, tay đánh từ hông lên má. Quật khuỷu tay mạnh ra sau — chân sẽ theo tay.",
+        "title": "Tay dẫn nhịp."
+      }
+    ],
     "progression": [
       "Cơ bản: chỉ tập wall drill và band march. Học tư thế nghiêng và nhịp đạp ở tốc độ đi bộ.",
       "Trung cấp: thêm xuất phát đổ người và chạy 10 m. 4–6 lần, nghỉ 90 giây.",
       "Nâng cao: chạy 10 m có lực cản, rồi đối chiếu với chạy không cản. Thêm bóng hoặc tín hiệu quyết định (rẽ trái/phải theo hiệu lệnh)."
     ],
+    "setsReps": "3–4 hiệp × 10 m mỗi bài; nghỉ hồi phục hoàn toàn giữa các lần chạy",
     "tags": [
       "tăng tốc",
       "bước đầu tiên",
       "chạy nước rút",
       "kỹ thuật chạy"
     ],
-    "duration": "15–20 phút"
-  }
+    "title": "Kỹ thuật tăng tốc (acceleration)",
+    "whatItDevelops": [
+      "Sức bùng nổ bước đầu tiên",
+      "Tư thế nghiêng người khi tăng tốc",
+      "Tạo lực đẩy theo phương ngang",
+      "Phối hợp tay–chân ở tốc độ cao"
+    ],
+    "whyBasketball": [
+      "Hầu như mọi pha chạy nước rút trong bóng rổ đều dưới 15 m.",
+      "Bước đầu tiên tốt hơn tốc độ tối đa — trên sân này, không ai đạt tốc độ tối đa.",
+      "Phản công nhanh thắng ở ba bước đầu, không phải ba bước cuối."
+    ]
+  },
+  "whatItDevelops": [
+    "First-step explosiveness",
+    "Forward-lean sprint posture",
+    "Horizontal force production",
+    "Arm-leg coordination at speed"
+  ],
+  "whyBasketball": [
+    "Almost every basketball sprint is under 15 meters.",
+    "A better first step beats a faster top speed — on this court, nobody reaches top speed.",
+    "Fast breaks are won in the first three steps, not the last three."
+  ]
 }

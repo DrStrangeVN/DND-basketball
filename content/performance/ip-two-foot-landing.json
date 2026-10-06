@@ -1,62 +1,6 @@
 {
-  "id": "perf-ip-two-foot-landing",
-  "slug": "ip-two-foot-landing",
-  "hub": "injury-prevention",
-  "dateUpdated": "2026-10-06",
+  "basketballTransfer": "Every rebound, block, and jump shot ends with a landing. Soft two-foot mechanics turn those landings into safe takeoffs for the next play.",
   "category": "landing-deceleration",
-  "subcategory": "landing-mechanics",
-  "title": "Two-Foot Landing Mechanics",
-  "description": "The foundation of safe landing: absorb force through bent hips, knees, and ankles with the chest over the knees — quiet, balanced, and repeatable.",
-  "level": "beginner",
-  "positions": [
-    "all"
-  ],
-  "trainingPhase": [
-    "off-season",
-    "pre-season",
-    "in-season"
-  ],
-  "goal": [
-    "jump-higher",
-    "move-better"
-  ],
-  "duration": "10–15 min",
-  "equipment": [
-    "Low box or step (20–30 cm)",
-    "Open floor space"
-  ],
-  "whatItDevelops": [
-    "Soft, quiet two-foot landings",
-    "Hip-knee-ankle flexion that absorbs impact force",
-    "Knee alignment over the toes"
-  ],
-  "whyBasketball": [
-    "Rebounds, blocks, and jump shots all end in two-foot landings",
-    "Absorbing force through bent joints reduces stress on the knees",
-    "Good landing mechanics make the next jump or move faster"
-  ],
-  "howTo": [
-    {
-      "title": "Athletic stance check — 30 seconds",
-      "detail": "Feet shoulder-width apart, knees soft, chest up, eyes forward. This is the position every landing should finish in."
-    },
-    {
-      "title": "Squat to box touch — 8 reps",
-      "detail": "Sit the hips back, keep the knees tracking over the toes, and tap a low box lightly. Stand up and repeat."
-    },
-    {
-      "title": "Drop to landing from the toes — 6 reps",
-      "detail": "Rise onto the toes, then drop and absorb with the hips, knees, and ankles bending together. Land quiet."
-    },
-    {
-      "title": "Small hops to a stick — 8 reps",
-      "detail": "Hop lightly in place and freeze for 2 seconds in the landing position. Check: chest over knees, knees over toes."
-    },
-    {
-      "title": "Box drop landing — 6 reps",
-      "detail": "Step (do not jump) off a low box, land on two feet, and hold for 3 seconds. Step down, never jump down."
-    }
-  ],
   "coachingPoints": [
     "Land like a cat: quiet feet mean soft joints",
     "Push the hips back as the knees bend — sit into the landing",
@@ -69,8 +13,46 @@
     "Landing on the heels instead of the midfoot",
     "Looking down at the feet instead of forward"
   ],
-  "setsReps": "2–3 sets of each drill, resting 60 seconds between sets. Quality over quantity — stop when landings get loud.",
-  "basketballTransfer": "Every rebound, block, and jump shot ends with a landing. Soft two-foot mechanics turn those landings into safe takeoffs for the next play.",
+  "dateUpdated": "2026-10-06",
+  "description": "The foundation of safe landing: absorb force through bent hips, knees, and ankles with the chest over the knees — quiet, balanced, and repeatable.",
+  "duration": "10–15 min",
+  "equipment": [
+    "Low box or step (20–30 cm)",
+    "Open floor space"
+  ],
+  "goal": [
+    "jump-higher",
+    "move-better"
+  ],
+  "howTo": [
+    {
+      "detail": "Feet shoulder-width apart, knees soft, chest up, eyes forward. This is the position every landing should finish in.",
+      "title": "Athletic stance check — 30 seconds"
+    },
+    {
+      "detail": "Sit the hips back, keep the knees tracking over the toes, and tap a low box lightly. Stand up and repeat.",
+      "title": "Squat to box touch — 8 reps"
+    },
+    {
+      "detail": "Rise onto the toes, then drop and absorb with the hips, knees, and ankles bending together. Land quiet.",
+      "title": "Drop to landing from the toes — 6 reps"
+    },
+    {
+      "detail": "Hop lightly in place and freeze for 2 seconds in the landing position. Check: chest over knees, knees over toes.",
+      "title": "Small hops to a stick — 8 reps"
+    },
+    {
+      "detail": "Step (do not jump) off a low box, land on two feet, and hold for 3 seconds. Step down, never jump down.",
+      "title": "Box drop landing — 6 reps"
+    }
+  ],
+  "hub": "injury-prevention",
+  "id": "perf-ip-two-foot-landing",
+  "level": "beginner",
+  "medicalDisclaimer": true,
+  "positions": [
+    "all"
+  ],
   "progression": [
     "Beginner: master the squat-to-box and toe drops",
     "Intermediate: add the box drop and hold landings for 3 seconds",
@@ -80,8 +62,11 @@
     "ip-single-leg-landing",
     "ip-stopping-deceleration",
     "ip-knee-guide",
-    "ap-vertical-jump-basics"
+    "ap-vertical-jump-program"
   ],
+  "setsReps": "2–3 sets of each drill, resting 60 seconds between sets. Quality over quantity — stop when landings get loud.",
+  "slug": "ip-two-foot-landing",
+  "subcategory": "landing-mechanics",
   "tags": [
     "landing",
     "injury risk reduction",
@@ -89,42 +74,14 @@
     "beginner",
     "jump"
   ],
-  "medicalDisclaimer": true,
+  "title": "Two-Foot Landing Mechanics",
+  "trainingPhase": [
+    "off-season",
+    "pre-season",
+    "in-season"
+  ],
   "vi": {
-    "title": "Kỹ thuật tiếp đất hai chân",
-    "description": "Nền tảng của tiếp đất an toàn: hấp thụ lực qua hông, gối, cổ chân gập, ngực trên gối — nhẹ, thăng bằng và lặp lại ổn định.",
-    "whatItDevelops": [
-      "Tiếp đất hai chân nhẹ và êm",
-      "Gập hông–gối–cổ chân để hấp thụ lực va chạm",
-      "Gối luôn thẳng hàng với mũi chân"
-    ],
-    "whyBasketball": [
-      "Rebound, block và ném nhảy đều kết thúc bằng tiếp đất hai chân",
-      "Hấp thụ lực qua các khớp gập giúp giảm áp lực lên đầu gối",
-      "Tiếp đất tốt giúp cú nhảy hay động tác tiếp theo nhanh hơn"
-    ],
-    "howTo": [
-      {
-        "title": "Kiểm tra tư thế thể thao — 30 giây",
-        "detail": "Hai chân rộng bằng vai, gối hơi gập, ngực ưỡn, mắt nhìn thẳng. Mọi cú tiếp đất đều phải kết thúc ở tư thế này."
-      },
-      {
-        "title": "Squat chạm hộp — 8 lần",
-        "detail": "Đẩy hông ra sau, giữ gối hướng theo mũi chân, chạm nhẹ vào hộp thấp. Đứng lên, lặp lại."
-      },
-      {
-        "title": "Rơi tiếp đất từ mũi chân — 6 lần",
-        "detail": "Nhón lên mũi chân, rồi thả người xuống, hấp thụ lực bằng hông, gối, cổ chân gập cùng lúc. Tiếp đất thật êm."
-      },
-      {
-        "title": "Nhảy thấp giữ tư thế — 8 lần",
-        "detail": "Nhảy nhẹ tại chỗ, đóng băng 2 giây ở tư thế tiếp đất. Kiểm tra: ngực trên gối, gối trên mũi chân."
-      },
-      {
-        "title": "Bước xuống hộp rồi tiếp đất — 6 lần",
-        "detail": "Bước xuống (không nhảy) khỏi hộp thấp, tiếp đất hai chân, giữ 3 giây. Luôn bước xuống, không nhảy xuống."
-      }
-    ],
+    "basketballTransfer": "Mọi pha rebound, block và ném nhảy đều kết thúc bằng tiếp đất. Kỹ thuật tiếp đất hai chân tốt biến những cú tiếp đất đó thành bệ phóng an toàn cho pha bóng tiếp theo.",
     "coachingPoints": [
       "Tiếp đất như mèo: chân êm nghĩa là khớp mềm",
       "Đẩy hông ra sau khi gối gập — ngồi sâu vào cú tiếp đất",
@@ -137,13 +94,36 @@
       "Tiếp đất bằng gót thay vì giữa bàn chân",
       "Cúi nhìn chân thay vì nhìn thẳng"
     ],
-    "setsReps": "2–3 hiệp mỗi bài, nghỉ 60 giây giữa các hiệp. Chất lượng quan trọng hơn số lượng — dừng khi tiếng tiếp đất bắt đầu to.",
-    "basketballTransfer": "Mọi pha rebound, block và ném nhảy đều kết thúc bằng tiếp đất. Kỹ thuật tiếp đất hai chân tốt biến những cú tiếp đất đó thành bệ phóng an toàn cho pha bóng tiếp theo.",
+    "description": "Nền tảng của tiếp đất an toàn: hấp thụ lực qua hông, gối, cổ chân gập, ngực trên gối — nhẹ, thăng bằng và lặp lại ổn định.",
+    "duration": "10–15 phút",
+    "howTo": [
+      {
+        "detail": "Hai chân rộng bằng vai, gối hơi gập, ngực ưỡn, mắt nhìn thẳng. Mọi cú tiếp đất đều phải kết thúc ở tư thế này.",
+        "title": "Kiểm tra tư thế thể thao — 30 giây"
+      },
+      {
+        "detail": "Đẩy hông ra sau, giữ gối hướng theo mũi chân, chạm nhẹ vào hộp thấp. Đứng lên, lặp lại.",
+        "title": "Squat chạm hộp — 8 lần"
+      },
+      {
+        "detail": "Nhón lên mũi chân, rồi thả người xuống, hấp thụ lực bằng hông, gối, cổ chân gập cùng lúc. Tiếp đất thật êm.",
+        "title": "Rơi tiếp đất từ mũi chân — 6 lần"
+      },
+      {
+        "detail": "Nhảy nhẹ tại chỗ, đóng băng 2 giây ở tư thế tiếp đất. Kiểm tra: ngực trên gối, gối trên mũi chân.",
+        "title": "Nhảy thấp giữ tư thế — 8 lần"
+      },
+      {
+        "detail": "Bước xuống (không nhảy) khỏi hộp thấp, tiếp đất hai chân, giữ 3 giây. Luôn bước xuống, không nhảy xuống.",
+        "title": "Bước xuống hộp rồi tiếp đất — 6 lần"
+      }
+    ],
     "progression": [
       "Beginner: làm chủ squat chạm hộp và rơi tiếp đất từ mũi chân",
       "Intermediate: thêm bước xuống hộp, giữ tư thế tiếp đất 3 giây",
       "Advanced: nâng lên tiếp đất một chân (xem bài Kiểm soát tiếp đất một chân)"
     ],
+    "setsReps": "2–3 hiệp mỗi bài, nghỉ 60 giây giữa các hiệp. Chất lượng quan trọng hơn số lượng — dừng khi tiếng tiếp đất bắt đầu to.",
     "tags": [
       "tiếp đất",
       "giảm rủi ro chấn thương",
@@ -151,6 +131,26 @@
       "người mới",
       "nhảy"
     ],
-    "duration": "10–15 phút"
-  }
+    "title": "Kỹ thuật tiếp đất hai chân",
+    "whatItDevelops": [
+      "Tiếp đất hai chân nhẹ và êm",
+      "Gập hông–gối–cổ chân để hấp thụ lực va chạm",
+      "Gối luôn thẳng hàng với mũi chân"
+    ],
+    "whyBasketball": [
+      "Rebound, block và ném nhảy đều kết thúc bằng tiếp đất hai chân",
+      "Hấp thụ lực qua các khớp gập giúp giảm áp lực lên đầu gối",
+      "Tiếp đất tốt giúp cú nhảy hay động tác tiếp theo nhanh hơn"
+    ]
+  },
+  "whatItDevelops": [
+    "Soft, quiet two-foot landings",
+    "Hip-knee-ankle flexion that absorbs impact force",
+    "Knee alignment over the toes"
+  ],
+  "whyBasketball": [
+    "Rebounds, blocks, and jump shots all end in two-foot landings",
+    "Absorbing force through bent joints reduces stress on the knees",
+    "Good landing mechanics make the next jump or move faster"
+  ]
 }

@@ -67,8 +67,8 @@
     "nut-vietnamese-athlete-meals",
     "nut-performance-plate",
     "nut-food-library-carbs",
-    "rec-post-game-recovery",
-    "ip-training-load"
+    "rec-post-game-first-15",
+    "ip-training-load-basics"
   ],
   "setsReps": "Include a palm-sized protein portion at every main meal plus one protein snack daily.",
   "slug": "nut-food-library-protein",

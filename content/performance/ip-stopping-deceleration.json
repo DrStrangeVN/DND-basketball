@@ -1,62 +1,6 @@
 {
-  "id": "perf-ip-stopping-deceleration",
-  "slug": "ip-stopping-deceleration",
-  "hub": "injury-prevention",
-  "dateUpdated": "2026-10-06",
+  "basketballTransfer": "Closeouts, transition defense, and every change of direction start with braking. Good deceleration mechanics make defenders arrive balanced — and attackers cut sharper.",
   "category": "landing-deceleration",
-  "subcategory": "landing-mechanics",
-  "title": "Stopping and Deceleration",
-  "description": "Learn to brake like an athlete: small choppy steps, low hips, and a controlled upper body — the mechanics behind every closeout and change of direction.",
-  "level": "intermediate",
-  "positions": [
-    "all"
-  ],
-  "trainingPhase": [
-    "off-season",
-    "pre-season",
-    "in-season"
-  ],
-  "goal": [
-    "get-faster",
-    "move-better"
-  ],
-  "duration": "10 min",
-  "equipment": [
-    "Open court space",
-    "Cones"
-  ],
-  "whatItDevelops": [
-    "Efficient braking with short, choppy steps",
-    "Low center of gravity during deceleration",
-    "Upper-body control while stopping at speed"
-  ],
-  "whyBasketball": [
-    "Closeouts demand full-speed sprints that end in a controlled stop",
-    "Change of direction starts with deceleration, not the cut itself",
-    "Athletes who brake well change direction faster and safer"
-  ],
-  "howTo": [
-    {
-      "title": "Jog to a hard stop — 6 reps",
-      "detail": "Sprint 3–4 steps, then brake with small, quick, choppy steps. Sink the hips low as speed drops to zero."
-    },
-    {
-      "title": "Braking steps drill — 4 reps each side",
-      "detail": "Sprint, plant the outside foot, and take short braking steps to stop. Keep the chest up and the weight balanced."
-    },
-    {
-      "title": "Closeout to defensive stance — 6 reps",
-      "detail": "Sprint toward a cone, break down with choppy steps, and finish in a low defensive stance. Hold for 2 seconds."
-    },
-    {
-      "title": "Sprint, decelerate, cut — 4 reps",
-      "detail": "Sprint to a cone, decelerate fully, then cut at 45 degrees. The cut only starts after the body is under control."
-    },
-    {
-      "title": "Full-speed stop on signal — 4 reps",
-      "detail": "Sprint while a partner watches. On their clap or whistle, stop as fast as possible under control. No sliding, no stumbling."
-    }
-  ],
   "coachingPoints": [
     "Brake with many small steps, not one long plant",
     "Drop the hips as speed decreases — tall bodies cannot stop",
@@ -69,8 +13,46 @@
     "Leaning the torso too far forward",
     "Cutting before the body has fully decelerated"
   ],
-  "setsReps": "2 sets of each drill. Full recovery (60–90 seconds) between sprint sets.",
-  "basketballTransfer": "Closeouts, transition defense, and every change of direction start with braking. Good deceleration mechanics make defenders arrive balanced — and attackers cut sharper.",
+  "dateUpdated": "2026-10-06",
+  "description": "Learn to brake like an athlete: small choppy steps, low hips, and a controlled upper body — the mechanics behind every closeout and change of direction.",
+  "duration": "10 min",
+  "equipment": [
+    "Open court space",
+    "Cones"
+  ],
+  "goal": [
+    "get-faster",
+    "move-better"
+  ],
+  "howTo": [
+    {
+      "detail": "Sprint 3–4 steps, then brake with small, quick, choppy steps. Sink the hips low as speed drops to zero.",
+      "title": "Jog to a hard stop — 6 reps"
+    },
+    {
+      "detail": "Sprint, plant the outside foot, and take short braking steps to stop. Keep the chest up and the weight balanced.",
+      "title": "Braking steps drill — 4 reps each side"
+    },
+    {
+      "detail": "Sprint toward a cone, break down with choppy steps, and finish in a low defensive stance. Hold for 2 seconds.",
+      "title": "Closeout to defensive stance — 6 reps"
+    },
+    {
+      "detail": "Sprint to a cone, decelerate fully, then cut at 45 degrees. The cut only starts after the body is under control.",
+      "title": "Sprint, decelerate, cut — 4 reps"
+    },
+    {
+      "detail": "Sprint while a partner watches. On their clap or whistle, stop as fast as possible under control. No sliding, no stumbling.",
+      "title": "Full-speed stop on signal — 4 reps"
+    }
+  ],
+  "hub": "injury-prevention",
+  "id": "perf-ip-stopping-deceleration",
+  "level": "intermediate",
+  "medicalDisclaimer": true,
+  "positions": [
+    "all"
+  ],
   "progression": [
     "Beginner: brake from a jog, focus on choppy steps",
     "Intermediate: brake from full sprints and add the cut",
@@ -80,8 +62,11 @@
     "ip-two-foot-landing",
     "ip-cutting-mechanics",
     "ip-ankle-guide",
-    "ap-deceleration-training"
+    "ap-deceleration-mechanics"
   ],
+  "setsReps": "2 sets of each drill. Full recovery (60–90 seconds) between sprint sets.",
+  "slug": "ip-stopping-deceleration",
+  "subcategory": "landing-mechanics",
   "tags": [
     "deceleration",
     "closeout",
@@ -89,42 +74,14 @@
     "change of direction",
     "braking"
   ],
-  "medicalDisclaimer": true,
+  "title": "Stopping and Deceleration",
+  "trainingPhase": [
+    "off-season",
+    "pre-season",
+    "in-season"
+  ],
   "vi": {
-    "title": "Kỹ thuật dừng và giảm tốc",
-    "description": "Học cách phanh như vận động viên: bước nhỏ liên tục, hạ thấp hông, thân trên có kiểm soát — kỹ thuật nền cho mọi pha closeout và đổi hướng.",
-    "whatItDevelops": [
-      "Phanh hiệu quả bằng bước nhỏ, nhanh, liên tục",
-      "Hạ thấp trọng tâm khi giảm tốc",
-      "Kiểm soát thân trên khi dừng ở tốc độ cao"
-    ],
-    "whyBasketball": [
-      "Closeout đòi hỏi sprint hết tốc độ rồi dừng có kiểm soát",
-      "Đổi hướng bắt đầu từ giảm tốc, không phải từ pha cắt",
-      "Cầu thủ phanh tốt đổi hướng nhanh hơn và an toàn hơn"
-    ],
-    "howTo": [
-      {
-        "title": "Chạy rồi dừng đột ngột — 6 lần",
-        "detail": "Sprint 3–4 bước, rồi phanh bằng bước nhỏ, nhanh, liên tục. Hạ thấp hông khi tốc độ về 0."
-      },
-      {
-        "title": "Bài bước phanh — 4 lần mỗi bên",
-        "detail": "Sprint, đạp chân ngoài, rồi bước phanh ngắn để dừng. Giữ ngực ưỡn, trọng lượng cân bằng."
-      },
-      {
-        "title": "Closeout về tư thế phòng thủ — 6 lần",
-        "detail": "Sprint về phía cọc tiêu, hạ thấp bằng bước nhỏ liên tục, kết thúc ở tư thế phòng thủ thấp. Giữ 2 giây."
-      },
-      {
-        "title": "Sprint, giảm tốc, cắt hướng — 4 lần",
-        "detail": "Sprint đến cọc tiêu, giảm tốc hoàn toàn, rồi cắt hướng 45 độ. Chỉ cắt khi cơ thể đã được kiểm soát."
-      },
-      {
-        "title": "Dừng tốc độ tối đa theo hiệu lệnh — 4 lần",
-        "detail": "Sprint trong khi bạn tập quan sát. Nghe vỗ tay hoặc còi, dừng nhanh nhất có thể trong kiểm soát. Không trượt, không loạng choạng."
-      }
-    ],
+    "basketballTransfer": "Closeout, phòng thủ chuyển trạng thái và mọi pha đổi hướng đều bắt đầu từ phanh. Kỹ thuật giảm tốc tốt giúp cầu thủ phòng thủ đến nơi trong thăng bằng — và cầu thủ tấn công cắt hướng sắc hơn.",
     "coachingPoints": [
       "Phanh bằng nhiều bước nhỏ, không phải một bước dài",
       "Hạ hông khi tốc độ giảm — người đứng thẳng không dừng được",
@@ -137,13 +94,36 @@
       "Nghiêng thân trên quá nhiều về trước",
       "Cắt hướng khi cơ thể chưa giảm tốc xong"
     ],
-    "setsReps": "2 hiệp mỗi bài. Hồi phục hoàn toàn (60–90 giây) giữa các hiệp sprint.",
-    "basketballTransfer": "Closeout, phòng thủ chuyển trạng thái và mọi pha đổi hướng đều bắt đầu từ phanh. Kỹ thuật giảm tốc tốt giúp cầu thủ phòng thủ đến nơi trong thăng bằng — và cầu thủ tấn công cắt hướng sắc hơn.",
+    "description": "Học cách phanh như vận động viên: bước nhỏ liên tục, hạ thấp hông, thân trên có kiểm soát — kỹ thuật nền cho mọi pha closeout và đổi hướng.",
+    "duration": "10 phút",
+    "howTo": [
+      {
+        "detail": "Sprint 3–4 bước, rồi phanh bằng bước nhỏ, nhanh, liên tục. Hạ thấp hông khi tốc độ về 0.",
+        "title": "Chạy rồi dừng đột ngột — 6 lần"
+      },
+      {
+        "detail": "Sprint, đạp chân ngoài, rồi bước phanh ngắn để dừng. Giữ ngực ưỡn, trọng lượng cân bằng.",
+        "title": "Bài bước phanh — 4 lần mỗi bên"
+      },
+      {
+        "detail": "Sprint về phía cọc tiêu, hạ thấp bằng bước nhỏ liên tục, kết thúc ở tư thế phòng thủ thấp. Giữ 2 giây.",
+        "title": "Closeout về tư thế phòng thủ — 6 lần"
+      },
+      {
+        "detail": "Sprint đến cọc tiêu, giảm tốc hoàn toàn, rồi cắt hướng 45 độ. Chỉ cắt khi cơ thể đã được kiểm soát.",
+        "title": "Sprint, giảm tốc, cắt hướng — 4 lần"
+      },
+      {
+        "detail": "Sprint trong khi bạn tập quan sát. Nghe vỗ tay hoặc còi, dừng nhanh nhất có thể trong kiểm soát. Không trượt, không loạng choạng.",
+        "title": "Dừng tốc độ tối đa theo hiệu lệnh — 4 lần"
+      }
+    ],
     "progression": [
       "Beginner: phanh từ chạy nhẹ, tập trung bước nhỏ liên tục",
       "Intermediate: phanh từ sprint tối đa, thêm pha cắt hướng",
       "Advanced: phản ứng với hiệu lệnh ngẫu nhiên của bạn tập để dừng hoặc cắt"
     ],
+    "setsReps": "2 hiệp mỗi bài. Hồi phục hoàn toàn (60–90 giây) giữa các hiệp sprint.",
     "tags": [
       "giảm tốc",
       "closeout",
@@ -151,6 +131,26 @@
       "đổi hướng",
       "phanh"
     ],
-    "duration": "10 phút"
-  }
+    "title": "Kỹ thuật dừng và giảm tốc",
+    "whatItDevelops": [
+      "Phanh hiệu quả bằng bước nhỏ, nhanh, liên tục",
+      "Hạ thấp trọng tâm khi giảm tốc",
+      "Kiểm soát thân trên khi dừng ở tốc độ cao"
+    ],
+    "whyBasketball": [
+      "Closeout đòi hỏi sprint hết tốc độ rồi dừng có kiểm soát",
+      "Đổi hướng bắt đầu từ giảm tốc, không phải từ pha cắt",
+      "Cầu thủ phanh tốt đổi hướng nhanh hơn và an toàn hơn"
+    ]
+  },
+  "whatItDevelops": [
+    "Efficient braking with short, choppy steps",
+    "Low center of gravity during deceleration",
+    "Upper-body control while stopping at speed"
+  ],
+  "whyBasketball": [
+    "Closeouts demand full-speed sprints that end in a controlled stop",
+    "Change of direction starts with deceleration, not the cut itself",
+    "Athletes who brake well change direction faster and safer"
+  ]
 }

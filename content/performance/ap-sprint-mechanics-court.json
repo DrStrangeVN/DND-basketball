@@ -1,63 +1,6 @@
 {
-  "id": "perf-ap-sprint-mechanics-court",
-  "slug": "ap-sprint-mechanics-court",
-  "hub": "athletic-performance",
+  "basketballTransfer": "Court sprint mechanics transfer to transition sprints you win, defensive recoveries that arrive balanced, and repeat efforts that don't fade late in games.",
   "category": "speed",
-  "subcategory": "sprint-mechanics",
-  "title": "Sprint Mechanics for the Court",
-  "description": "Court sprinting is not track sprinting. Short bursts, constant direction changes, and a ball in your hands. Build the posture, arm swing, and foot strike that make short sprints repeatable.",
-  "level": "intermediate",
-  "positions": [
-    "all"
-  ],
-  "trainingPhase": [
-    "pre-season"
-  ],
-  "goal": [
-    "get-faster"
-  ],
-  "duration": "15–20 min",
-  "equipment": [
-    "Cones",
-    "Open court space"
-  ],
-  "whatItDevelops": [
-    "Upright sprint posture",
-    "Powerful arm drive",
-    "Foot strike under the hips",
-    "Repeat-sprint capacity"
-  ],
-  "whyBasketball": [
-    "You sprint 8–12 meters, stop, and sprint again. Track mechanics don't fit.",
-    "Good mechanics let you hit top court speed in fewer steps.",
-    "Clean sprint form at speed means fewer hamstring and groin scares."
-  ],
-  "howTo": [
-    {
-      "title": "A-skip.",
-      "detail": "Skip with high knees, foot dorsiflexed, landing under the hips. 2 × 20 meters. Posture tall."
-    },
-    {
-      "title": "B-skip.",
-      "detail": "Extend the lower leg forward after the knee lift, then paw the ground back under you. 2 × 20 meters."
-    },
-    {
-      "title": "Straight-leg stride.",
-      "detail": "Fast feet, stiff ankles, short ground contacts. 2 × 20 meters at 80% effort."
-    },
-    {
-      "title": "Posture check.",
-      "detail": "Tall through the crown, slight forward lean, core braced. No sitting back, no arching."
-    },
-    {
-      "title": "Arms.",
-      "detail": "Elbows bent, driving straight forward and back. Hands relaxed, swinging hip to cheek."
-    },
-    {
-      "title": "Build-up sprint.",
-      "detail": "20-meter build-up: start easy, finish fast. Feel the mechanics hold together as speed rises."
-    }
-  ],
   "coachingPoints": [
     "Feet land under the hips — never in front.",
     "Tall posture; imagine a string pulling your head up.",
@@ -71,70 +14,78 @@
     "Tense shoulders creeping up to the ears.",
     "Skipping the drills and going straight to full sprints."
   ],
-  "setsReps": "2–3 sets per drill; 3–4 build-up sprints at 85–90%",
-  "basketballTransfer": "Court sprint mechanics transfer to transition sprints you win, defensive recoveries that arrive balanced, and repeat efforts that don't fade late in games.",
+  "dateUpdated": "2026-10-06",
+  "description": "Court sprinting is not track sprinting. Short bursts, constant direction changes, and a ball in your hands. Build the posture, arm swing, and foot strike that make short sprints repeatable.",
+  "duration": "15–20 min",
+  "equipment": [
+    "Cones",
+    "Open court space"
+  ],
+  "goal": [
+    "get-faster"
+  ],
+  "howTo": [
+    {
+      "detail": "Skip with high knees, foot dorsiflexed, landing under the hips. 2 × 20 meters. Posture tall.",
+      "title": "A-skip."
+    },
+    {
+      "detail": "Extend the lower leg forward after the knee lift, then paw the ground back under you. 2 × 20 meters.",
+      "title": "B-skip."
+    },
+    {
+      "detail": "Fast feet, stiff ankles, short ground contacts. 2 × 20 meters at 80% effort.",
+      "title": "Straight-leg stride."
+    },
+    {
+      "detail": "Tall through the crown, slight forward lean, core braced. No sitting back, no arching.",
+      "title": "Posture check."
+    },
+    {
+      "detail": "Elbows bent, driving straight forward and back. Hands relaxed, swinging hip to cheek.",
+      "title": "Arms."
+    },
+    {
+      "detail": "20-meter build-up: start easy, finish fast. Feel the mechanics hold together as speed rises.",
+      "title": "Build-up sprint."
+    }
+  ],
+  "hub": "athletic-performance",
+  "id": "perf-ap-sprint-mechanics-court",
+  "level": "intermediate",
+  "positions": [
+    "all"
+  ],
   "progression": [
     "Beginner: A-skip and B-skip only, at jogging speed. Learn the shapes before adding speed.",
     "Intermediate: add straight-leg strides and 20 m build-ups. 85–90% effort, full recovery.",
     "Advanced: resisted build-ups, curved sprints, and sprint-to-decelerate reps. Add change-of-direction exits."
   ],
-  "relatedTopics": [
-    "ip-warm-up-5-minute",
-    "ip-ankle-prevention-basics",
-    "rec-post-practice-cooldown",
-    "hyd-electrolytes-basics"
+  "references": [
+    "NSCA. Essentials of Strength Training and Conditioning (4th ed.). Human Kinetics.",
+    "USA Basketball. Player Development Curriculum: Speed & Agility."
   ],
+  "relatedTopics": [
+    "ip-warmup-5-min",
+    "ip-ankle-guide",
+    "rec-post-practice-protocol",
+    "hyd-electrolytes-explained"
+  ],
+  "setsReps": "2–3 sets per drill; 3–4 build-up sprints at 85–90%",
+  "slug": "ap-sprint-mechanics-court",
+  "subcategory": "sprint-mechanics",
   "tags": [
     "speed",
     "sprint mechanics",
     "running form",
     "transition"
   ],
-  "references": [
-    "NSCA. Essentials of Strength Training and Conditioning (4th ed.). Human Kinetics.",
-    "USA Basketball. Player Development Curriculum: Speed & Agility."
+  "title": "Sprint Mechanics for the Court",
+  "trainingPhase": [
+    "pre-season"
   ],
-  "dateUpdated": "2026-10-06",
   "vi": {
-    "title": "Kỹ thuật chạy nước rút trên sân (sprint mechanics)",
-    "description": "Chạy nước rút trên sân không giống chạy điền kinh. Những pha bứt tốc ngắn, đổi hướng liên tục và bóng trong tay. Rèn tư thế, đánh tay và cách tiếp đất để bứt tốc ngắn lặp lại nhiều lần.",
-    "whatItDevelops": [
-      "Tư thế chạy thẳng",
-      "Đánh tay mạnh",
-      "Tiếp đất dưới hông",
-      "Khả năng bứt tốc lặp lại"
-    ],
-    "whyBasketball": [
-      "Bạn chạy 8–12 m, dừng, rồi chạy tiếp. Kỹ thuật điền kinh không hợp.",
-      "Kỹ thuật tốt giúp bạn đạt tốc độ tối đa trên sân chỉ sau vài bước.",
-      "Chạy đúng kỹ thuật ở tốc độ cao giúp giảm nguy cơ căng cơ đùi sau và cơ háng."
-    ],
-    "howTo": [
-      {
-        "title": "A-skip.",
-        "detail": "Nhảy lò cò nâng gối cao, mũi chân hướng lên, tiếp đất dưới hông. 2 × 20 m. Giữ thân thẳng."
-      },
-      {
-        "title": "B-skip.",
-        "detail": "Sau khi nâng gối, duỗi cẳng chân ra trước rồi quạt bàn chân về dưới người. 2 × 20 m."
-      },
-      {
-        "title": "Sải chân thẳng.",
-        "detail": "Chân nhanh, cổ chân cứng, chạm đất ngắn. 2 × 20 m ở 80% sức."
-      },
-      {
-        "title": "Kiểm tra tư thế.",
-        "detail": "Thân vươn cao, hơi nghiêng tới trước, siết cơ bụng. Không ngồi bệt ra sau, không ưỡn lưng."
-      },
-      {
-        "title": "Đánh tay.",
-        "detail": "Khuỷu tay gập, đánh thẳng tới–lui. Bàn tay thả lỏng, đánh từ hông lên má."
-      },
-      {
-        "title": "Chạy tăng dần.",
-        "detail": "Chạy 20 m tăng dần: bắt đầu nhẹ, kết thúc nhanh. Cảm nhận kỹ thuật giữ vững khi tốc độ tăng."
-      }
-    ],
+    "basketballTransfer": "Kỹ thuật chạy trên sân chuyển thành những pha phản công bạn thắng, những lần thu hồi phòng thủ về kịp trong tư thế vững và những nỗ lực lặp lại không hụt hơi cuối trận.",
     "coachingPoints": [
       "Bàn chân tiếp đất dưới hông — không bao giờ ở phía trước.",
       "Thân vươn cao; tưởng tượng có sợi dây kéo đầu lên.",
@@ -148,19 +99,68 @@
       "Vai căng cứng dâng lên tận tai.",
       "Bỏ qua bài bổ trợ, lao thẳng vào chạy hết tốc."
     ],
-    "setsReps": "2–3 hiệp mỗi bài bổ trợ; 3–4 lần chạy tăng dần ở 85–90%",
-    "basketballTransfer": "Kỹ thuật chạy trên sân chuyển thành những pha phản công bạn thắng, những lần thu hồi phòng thủ về kịp trong tư thế vững và những nỗ lực lặp lại không hụt hơi cuối trận.",
+    "description": "Chạy nước rút trên sân không giống chạy điền kinh. Những pha bứt tốc ngắn, đổi hướng liên tục và bóng trong tay. Rèn tư thế, đánh tay và cách tiếp đất để bứt tốc ngắn lặp lại nhiều lần.",
+    "duration": "15–20 phút",
+    "howTo": [
+      {
+        "detail": "Nhảy lò cò nâng gối cao, mũi chân hướng lên, tiếp đất dưới hông. 2 × 20 m. Giữ thân thẳng.",
+        "title": "A-skip."
+      },
+      {
+        "detail": "Sau khi nâng gối, duỗi cẳng chân ra trước rồi quạt bàn chân về dưới người. 2 × 20 m.",
+        "title": "B-skip."
+      },
+      {
+        "detail": "Chân nhanh, cổ chân cứng, chạm đất ngắn. 2 × 20 m ở 80% sức.",
+        "title": "Sải chân thẳng."
+      },
+      {
+        "detail": "Thân vươn cao, hơi nghiêng tới trước, siết cơ bụng. Không ngồi bệt ra sau, không ưỡn lưng.",
+        "title": "Kiểm tra tư thế."
+      },
+      {
+        "detail": "Khuỷu tay gập, đánh thẳng tới–lui. Bàn tay thả lỏng, đánh từ hông lên má.",
+        "title": "Đánh tay."
+      },
+      {
+        "detail": "Chạy 20 m tăng dần: bắt đầu nhẹ, kết thúc nhanh. Cảm nhận kỹ thuật giữ vững khi tốc độ tăng.",
+        "title": "Chạy tăng dần."
+      }
+    ],
     "progression": [
       "Cơ bản: chỉ tập A-skip và B-skip ở tốc độ chạy nhẹ. Học đúng động tác trước khi tăng tốc.",
       "Trung cấp: thêm sải chân thẳng và chạy 20 m tăng dần. 85–90% sức, nghỉ hồi phục hoàn toàn.",
       "Nâng cao: chạy tăng dần có lực cản, chạy đường cong và chạy rồi giảm tốc. Thêm thoát hướng sau khi chạy."
     ],
+    "setsReps": "2–3 hiệp mỗi bài bổ trợ; 3–4 lần chạy tăng dần ở 85–90%",
     "tags": [
       "chạy nước rút",
       "kỹ thuật chạy",
       "phản công nhanh",
       "tốc độ"
     ],
-    "duration": "15–20 phút"
-  }
+    "title": "Kỹ thuật chạy nước rút trên sân (sprint mechanics)",
+    "whatItDevelops": [
+      "Tư thế chạy thẳng",
+      "Đánh tay mạnh",
+      "Tiếp đất dưới hông",
+      "Khả năng bứt tốc lặp lại"
+    ],
+    "whyBasketball": [
+      "Bạn chạy 8–12 m, dừng, rồi chạy tiếp. Kỹ thuật điền kinh không hợp.",
+      "Kỹ thuật tốt giúp bạn đạt tốc độ tối đa trên sân chỉ sau vài bước.",
+      "Chạy đúng kỹ thuật ở tốc độ cao giúp giảm nguy cơ căng cơ đùi sau và cơ háng."
+    ]
+  },
+  "whatItDevelops": [
+    "Upright sprint posture",
+    "Powerful arm drive",
+    "Foot strike under the hips",
+    "Repeat-sprint capacity"
+  ],
+  "whyBasketball": [
+    "You sprint 8–12 meters, stop, and sprint again. Track mechanics don't fit.",
+    "Good mechanics let you hit top court speed in fewer steps.",
+    "Clean sprint form at speed means fewer hamstring and groin scares."
+  ]
 }

@@ -1,64 +1,6 @@
 {
-  "id": "perf-ap-landing-mechanics",
-  "hub": "athletic-performance",
-  "slug": "ap-landing-mechanics",
+  "basketballTransfer": "Safe landings finish every rebound, every block, and every layup — keeping you on the floor and ready for the next possession.",
   "category": "deceleration",
-  "subcategory": "landing-mechanics",
-  "title": "Landing Mechanics",
-  "description": "Land soft, land safe. Two-foot and one-foot landing technique: knees over toes, hips down, quiet contact — for rebounds, blocks, and every jump.",
-  "level": "beginner",
-  "positions": [
-    "all"
-  ],
-  "trainingPhase": [
-    "pre-season",
-    "in-season"
-  ],
-  "goal": [
-    "move-better",
-    "jump-higher"
-  ],
-  "duration": "10–15 min",
-  "equipment": [
-    "Plyo box",
-    "Exercise mat"
-  ],
-  "whatItDevelops": [
-    "Soft two-foot landings",
-    "One-foot landing control",
-    "Hip and knee alignment on contact"
-  ],
-  "whyBasketball": [
-    "You jump dozens of times a game — every one ends with a landing",
-    "Good landings keep you ready for the next play",
-    "Soft mechanics reduce stress on knees and ankles"
-  ],
-  "howTo": [
-    {
-      "title": "Start low: box step-off",
-      "detail": "Stand on a low plyo box, step off (don't jump), and land on two feet on the mat."
-    },
-    {
-      "title": "Toes, then heels",
-      "detail": "Contact on the balls of your feet first, then let the heels settle."
-    },
-    {
-      "title": "Knees over toes",
-      "detail": "Let your knees travel in the same line as your toes — never cave inward."
-    },
-    {
-      "title": "Drop your hips",
-      "detail": "Sit your hips back and down as you absorb the landing."
-    },
-    {
-      "title": "Land quiet",
-      "detail": "A soft landing is a quiet landing. If it sounds loud, you're landing stiff."
-    },
-    {
-      "title": "Progress to one foot",
-      "detail": "Once two-foot landings are quiet and balanced, repeat on one foot with your arms out for balance."
-    }
-  ],
   "coachingPoints": [
     "Chest over knees, knees over toes — one straight line of control.",
     "Land like a cat: soft and silent.",
@@ -71,68 +13,80 @@
     "Landing flat-footed with a loud stomp.",
     "Jumping off the box instead of stepping off."
   ],
-  "setsReps": "3 sets × 8–10 landings, full rest between sets",
-  "basketballTransfer": "Safe landings finish every rebound, every block, and every layup — keeping you on the floor and ready for the next possession.",
+  "dateUpdated": "2026-10-06",
+  "description": "Land soft, land safe. Two-foot and one-foot landing technique: knees over toes, hips down, quiet contact — for rebounds, blocks, and every jump.",
+  "duration": "10–15 min",
+  "equipment": [
+    "Plyo box",
+    "Exercise mat"
+  ],
+  "goal": [
+    "move-better",
+    "jump-higher"
+  ],
+  "howTo": [
+    {
+      "detail": "Stand on a low plyo box, step off (don't jump), and land on two feet on the mat.",
+      "title": "Start low: box step-off"
+    },
+    {
+      "detail": "Contact on the balls of your feet first, then let the heels settle.",
+      "title": "Toes, then heels"
+    },
+    {
+      "detail": "Let your knees travel in the same line as your toes — never cave inward.",
+      "title": "Knees over toes"
+    },
+    {
+      "detail": "Sit your hips back and down as you absorb the landing.",
+      "title": "Drop your hips"
+    },
+    {
+      "detail": "A soft landing is a quiet landing. If it sounds loud, you're landing stiff.",
+      "title": "Land quiet"
+    },
+    {
+      "detail": "Once two-foot landings are quiet and balanced, repeat on one foot with your arms out for balance.",
+      "title": "Progress to one foot"
+    }
+  ],
+  "hub": "athletic-performance",
+  "id": "perf-ap-landing-mechanics",
+  "level": "beginner",
+  "positions": [
+    "all"
+  ],
   "progression": [
     "Beginner: low box step-offs on two feet — focus on quiet contact.",
     "Intermediate: higher box plus one-foot landings with 2-second holds.",
     "Advanced: jump, catch a pass in the air, land balanced and ready to shoot."
   ],
-  "relatedTopics": [
-    "ip-ankle-prevention-basics",
-    "ip-warm-up-5-minute",
-    "ap-deceleration-mechanics",
-    "rec-foam-rolling-basics"
+  "references": [
+    "NSCA — Essentials of Strength Training and Conditioning: landing mechanics",
+    "USA Basketball — Player Development Curriculum: jumping and landing"
   ],
+  "relatedTopics": [
+    "ip-ankle-guide",
+    "ip-warmup-5-min",
+    "ap-deceleration-mechanics",
+    "rec-foam-rolling-guide"
+  ],
+  "setsReps": "3 sets × 8–10 landings, full rest between sets",
+  "slug": "ap-landing-mechanics",
+  "subcategory": "landing-mechanics",
   "tags": [
     "landing",
     "jumping",
     "knee health",
     "ankle health"
   ],
-  "references": [
-    "NSCA — Essentials of Strength Training and Conditioning: landing mechanics",
-    "USA Basketball — Player Development Curriculum: jumping and landing"
+  "title": "Landing Mechanics",
+  "trainingPhase": [
+    "pre-season",
+    "in-season"
   ],
   "vi": {
-    "title": "Kỹ thuật tiếp đất (landing mechanics)",
-    "description": "Tiếp đất êm, tiếp đất an toàn. Kỹ thuật tiếp đất 2 chân và 1 chân: gối theo hướng mũi chân, hạ hông, chạm đất nhẹ — cho rebound, block và mọi cú nhảy.",
-    "whatItDevelops": [
-      "Tiếp đất 2 chân êm",
-      "Kiểm soát tiếp đất 1 chân",
-      "Căn chỉnh hông và gối khi chạm đất"
-    ],
-    "whyBasketball": [
-      "Mỗi trận bạn nhảy hàng chục lần — lần nào cũng kết thúc bằng tiếp đất",
-      "Tiếp đất tốt giúp bạn sẵn sàng cho pha tiếp theo",
-      "Cơ chế tiếp đất mềm giảm áp lực lên gối và cổ chân"
-    ],
-    "howTo": [
-      {
-        "title": "Bắt đầu thấp: bước xuống từ hộp",
-        "detail": "Đứng trên hộp plyo thấp, bước xuống (không nhảy), tiếp đất 2 chân lên thảm."
-      },
-      {
-        "title": "Mũi chân trước, gót sau",
-        "detail": "Chạm đất bằng nửa bàn chân trước, rồi hạ gót."
-      },
-      {
-        "title": "Gối theo mũi chân",
-        "detail": "Gối đi cùng đường với mũi chân — không chụm vào trong."
-      },
-      {
-        "title": "Hạ hông",
-        "detail": "Hạ hông xuống và ra sau để hấp thụ lực."
-      },
-      {
-        "title": "Tiếp đất êm",
-        "detail": "Tiếp đất mềm là tiếp đất không tiếng. Nghe ầm là đang cứng chân."
-      },
-      {
-        "title": "Nâng lên 1 chân",
-        "detail": "Khi tiếp đất 2 chân đã êm và cân bằng, tập lại bằng 1 chân, tay dang giữ thăng bằng."
-      }
-    ],
+    "basketballTransfer": "Tiếp đất an toàn kết thúc mọi pha rebound, mọi pha block và mọi pha layup — giúp bạn ở lại trên sân, sẵn sàng cho pha bóng tiếp theo.",
     "coachingPoints": [
       "Ngực trên gối, gối trên mũi chân — một đường thẳng kiểm soát.",
       "Tiếp đất như mèo: mềm và không tiếng.",
@@ -145,20 +99,66 @@
       "Tiếp đất cả bàn chân, tiếng ầm.",
       "Nhảy khỏi hộp thay vì bước xuống."
     ],
-    "setsReps": "3 hiệp × 8–10 lần tiếp đất, nghỉ đủ giữa các hiệp",
-    "basketballTransfer": "Tiếp đất an toàn kết thúc mọi pha rebound, mọi pha block và mọi pha layup — giúp bạn ở lại trên sân, sẵn sàng cho pha bóng tiếp theo.",
+    "description": "Tiếp đất êm, tiếp đất an toàn. Kỹ thuật tiếp đất 2 chân và 1 chân: gối theo hướng mũi chân, hạ hông, chạm đất nhẹ — cho rebound, block và mọi cú nhảy.",
+    "duration": "10–15 phút",
+    "howTo": [
+      {
+        "detail": "Đứng trên hộp plyo thấp, bước xuống (không nhảy), tiếp đất 2 chân lên thảm.",
+        "title": "Bắt đầu thấp: bước xuống từ hộp"
+      },
+      {
+        "detail": "Chạm đất bằng nửa bàn chân trước, rồi hạ gót.",
+        "title": "Mũi chân trước, gót sau"
+      },
+      {
+        "detail": "Gối đi cùng đường với mũi chân — không chụm vào trong.",
+        "title": "Gối theo mũi chân"
+      },
+      {
+        "detail": "Hạ hông xuống và ra sau để hấp thụ lực.",
+        "title": "Hạ hông"
+      },
+      {
+        "detail": "Tiếp đất mềm là tiếp đất không tiếng. Nghe ầm là đang cứng chân.",
+        "title": "Tiếp đất êm"
+      },
+      {
+        "detail": "Khi tiếp đất 2 chân đã êm và cân bằng, tập lại bằng 1 chân, tay dang giữ thăng bằng.",
+        "title": "Nâng lên 1 chân"
+      }
+    ],
     "progression": [
       "Cơ bản: bước xuống từ hộp thấp, 2 chân — tập trung chạm đất êm.",
       "Trung cấp: hộp cao hơn + tiếp đất 1 chân, giữ 2 giây.",
       "Nâng cao: nhảy lên, bắt bóng trên không, tiếp đất cân bằng và sẵn sàng ném."
     ],
+    "setsReps": "3 hiệp × 8–10 lần tiếp đất, nghỉ đủ giữa các hiệp",
     "tags": [
       "tiếp đất",
       "bật nhảy",
       "bảo vệ gối",
       "bảo vệ cổ chân"
     ],
-    "duration": "10–15 phút"
+    "title": "Kỹ thuật tiếp đất (landing mechanics)",
+    "whatItDevelops": [
+      "Tiếp đất 2 chân êm",
+      "Kiểm soát tiếp đất 1 chân",
+      "Căn chỉnh hông và gối khi chạm đất"
+    ],
+    "whyBasketball": [
+      "Mỗi trận bạn nhảy hàng chục lần — lần nào cũng kết thúc bằng tiếp đất",
+      "Tiếp đất tốt giúp bạn sẵn sàng cho pha tiếp theo",
+      "Cơ chế tiếp đất mềm giảm áp lực lên gối và cổ chân"
+    ]
   },
-  "dateUpdated": "2026-10-06"
+  "whatItDevelops": [
+    "Soft two-foot landings",
+    "One-foot landing control",
+    "Hip and knee alignment on contact"
+  ],
+  "whyBasketball": [
+    "You jump dozens of times a game — every one ends with a landing",
+    "Good landings keep you ready for the next play",
+    "Soft mechanics reduce stress on knees and ankles"
+  ]
 }

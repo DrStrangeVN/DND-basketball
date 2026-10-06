@@ -1,63 +1,6 @@
 {
-  "id": "perf-ip-cutting-mechanics",
-  "slug": "ip-cutting-mechanics",
-  "hub": "injury-prevention",
-  "dateUpdated": "2026-10-06",
+  "basketballTransfer": "V-cuts to get open, defensive closeout recoveries, and fast-break changes of direction all use these mechanics. Aligned knees make every cut both sharper and safer.",
   "category": "landing-deceleration",
-  "subcategory": "landing-mechanics",
-  "title": "Cutting Mechanics and Knee Alignment",
-  "description": "Cut sharper and safer: plant the foot outside the body, align the knee with the toes, and lean into the cut — the mechanics that protect the knee on every change of direction.",
-  "level": "intermediate",
-  "positions": [
-    "all"
-  ],
-  "trainingPhase": [
-    "off-season",
-    "pre-season",
-    "in-season"
-  ],
-  "goal": [
-    "get-faster",
-    "move-better",
-    "explosive"
-  ],
-  "duration": "10–15 min",
-  "equipment": [
-    "Open court space",
-    "Cones"
-  ],
-  "whatItDevelops": [
-    "Sharp 45- and 90-degree cuts",
-    "Knee-over-toe alignment under cutting load",
-    "Body lean into the direction of the cut"
-  ],
-  "whyBasketball": [
-    "Cuts create separation on offense and recover position on defense",
-    "Knee alignment during cuts reduces stress on the joint",
-    "Leaning into the cut makes the move faster and harder to guard"
-  ],
-  "howTo": [
-    {
-      "title": "Cutting stance basics — 30 seconds",
-      "detail": "Low hips, chest over the knees, weight on the balls of the feet. Practice the position before moving."
-    },
-    {
-      "title": "45-degree cuts at half speed — 4 each direction",
-      "detail": "Jog to a cone, plant the outside foot, and cut at 45 degrees. Push hard off the planted foot."
-    },
-    {
-      "title": "90-degree cuts — 4 each direction",
-      "detail": "Plant the foot outside the body, align the knee with the toes, and drive out of the cut. Stay low through the plant."
-    },
-    {
-      "title": "V-cut series — 3 per side",
-      "detail": "Sprint out, plant, and cut back toward the start at a sharp angle — like a V-cut to get open. Accelerate out of every cut."
-    },
-    {
-      "title": "Reactive cut on signal — 4 reps",
-      "detail": "Jog toward a partner. They point left or right at the last moment — plant and cut that way. Keep the knee aligned on every rep."
-    }
-  ],
   "coachingPoints": [
     "Plant the foot outside the hips, not under the body",
     "The knee tracks over the toes — never let it cave inward",
@@ -70,8 +13,47 @@
     "Turning the shoulders without driving off the foot",
     "Staying upright instead of leaning into the cut"
   ],
-  "setsReps": "2–3 sets of each drill. Rest 60 seconds between sets; cuts demand full effort.",
-  "basketballTransfer": "V-cuts to get open, defensive closeout recoveries, and fast-break changes of direction all use these mechanics. Aligned knees make every cut both sharper and safer.",
+  "dateUpdated": "2026-10-06",
+  "description": "Cut sharper and safer: plant the foot outside the body, align the knee with the toes, and lean into the cut — the mechanics that protect the knee on every change of direction.",
+  "duration": "10–15 min",
+  "equipment": [
+    "Open court space",
+    "Cones"
+  ],
+  "goal": [
+    "get-faster",
+    "move-better",
+    "explosive"
+  ],
+  "howTo": [
+    {
+      "detail": "Low hips, chest over the knees, weight on the balls of the feet. Practice the position before moving.",
+      "title": "Cutting stance basics — 30 seconds"
+    },
+    {
+      "detail": "Jog to a cone, plant the outside foot, and cut at 45 degrees. Push hard off the planted foot.",
+      "title": "45-degree cuts at half speed — 4 each direction"
+    },
+    {
+      "detail": "Plant the foot outside the body, align the knee with the toes, and drive out of the cut. Stay low through the plant.",
+      "title": "90-degree cuts — 4 each direction"
+    },
+    {
+      "detail": "Sprint out, plant, and cut back toward the start at a sharp angle — like a V-cut to get open. Accelerate out of every cut.",
+      "title": "V-cut series — 3 per side"
+    },
+    {
+      "detail": "Jog toward a partner. They point left or right at the last moment — plant and cut that way. Keep the knee aligned on every rep.",
+      "title": "Reactive cut on signal — 4 reps"
+    }
+  ],
+  "hub": "injury-prevention",
+  "id": "perf-ip-cutting-mechanics",
+  "level": "intermediate",
+  "medicalDisclaimer": true,
+  "positions": [
+    "all"
+  ],
   "progression": [
     "Beginner: walk through the cut positions, then jog",
     "Intermediate: full-speed cuts with strict knee alignment",
@@ -80,9 +62,12 @@
   "relatedTopics": [
     "ip-stopping-deceleration",
     "ip-knee-guide",
-    "ap-agility-basics",
-    "ap-deceleration-training"
+    "ap-change-of-direction",
+    "ap-deceleration-mechanics"
   ],
+  "setsReps": "2–3 sets of each drill. Rest 60 seconds between sets; cuts demand full effort.",
+  "slug": "ip-cutting-mechanics",
+  "subcategory": "landing-mechanics",
   "tags": [
     "cutting",
     "knee alignment",
@@ -90,42 +75,14 @@
     "injury risk reduction",
     "agility"
   ],
-  "medicalDisclaimer": true,
+  "title": "Cutting Mechanics and Knee Alignment",
+  "trainingPhase": [
+    "off-season",
+    "pre-season",
+    "in-season"
+  ],
   "vi": {
-    "title": "Kỹ thuật cắt hướng và căn chỉnh đầu gối",
-    "description": "Cắt hướng sắc và an toàn hơn: đạp chân ngoài thân người, căn chỉnh gối thẳng hàng với mũi chân, nghiêng người vào hướng cắt — kỹ thuật bảo vệ đầu gối ở mọi pha đổi hướng.",
-    "whatItDevelops": [
-      "Cắt hướng 45 và 90 độ sắc bén",
-      "Gối thẳng hàng với mũi chân khi chịu tải cắt hướng",
-      "Nghiêng người vào hướng cắt"
-    ],
-    "whyBasketball": [
-      "Cắt hướng tạo khoảng trống khi tấn công, lấy lại vị trí khi phòng thủ",
-      "Gối thẳng hàng khi cắt giúp giảm áp lực lên khớp",
-      "Nghiêng người vào hướng cắt giúp động tác nhanh hơn, khó kèm hơn"
-    ],
-    "howTo": [
-      {
-        "title": "Tư thế cắt hướng cơ bản — 30 giây",
-        "detail": "Hạ thấp hông, ngực trên gối, trọng lượng dồn lên mũi bàn chân. Tập tư thế trước khi di chuyển."
-      },
-      {
-        "title": "Cắt 45 độ ở nửa tốc độ — 4 lần mỗi hướng",
-        "detail": "Chạy nhẹ đến cọc tiêu, đạp chân ngoài, cắt hướng 45 độ. Đạp mạnh khỏi chân trụ."
-      },
-      {
-        "title": "Cắt 90 độ — 4 lần mỗi hướng",
-        "detail": "Đạp chân ra ngoài thân người, căn chỉnh gối thẳng hàng với mũi chân, rồi bật ra khỏi pha cắt. Giữ thấp người khi đạp chân."
-      },
-      {
-        "title": "Chuỗi cắt chữ V — 3 lần mỗi bên",
-        "detail": "Sprint ra, đạp chân, cắt ngược về điểm xuất phát theo góc nhọn — như pha cắt chữ V để thoát kèm. Tăng tốc khỏi mỗi pha cắt."
-      },
-      {
-        "title": "Cắt hướng theo hiệu lệnh — 4 lần",
-        "detail": "Chạy nhẹ về phía bạn tập. Họ chỉ trái hoặc phải vào phút chót — đạp chân và cắt theo hướng đó. Giữ gối thẳng hàng ở mọi lần."
-      }
-    ],
+    "basketballTransfer": "Cắt chữ V để thoát kèm, lấy lại vị trí sau closeout và đổi hướng khi phản công đều dùng kỹ thuật này. Gối thẳng hàng giúp mỗi pha cắt vừa sắc vừa an toàn.",
     "coachingPoints": [
       "Đạp chân ra ngoài hông, không đạp ngay dưới thân người",
       "Gối hướng theo mũi chân — không để gối chụm vào",
@@ -138,13 +95,36 @@
       "Xoay vai mà không đạp bật khỏi chân",
       "Giữ người thẳng đứng thay vì nghiêng vào hướng cắt"
     ],
-    "setsReps": "2–3 hiệp mỗi bài. Nghỉ 60 giây giữa các hiệp; cắt hướng đòi hỏi nỗ lực tối đa.",
-    "basketballTransfer": "Cắt chữ V để thoát kèm, lấy lại vị trí sau closeout và đổi hướng khi phản công đều dùng kỹ thuật này. Gối thẳng hàng giúp mỗi pha cắt vừa sắc vừa an toàn.",
+    "description": "Cắt hướng sắc và an toàn hơn: đạp chân ngoài thân người, căn chỉnh gối thẳng hàng với mũi chân, nghiêng người vào hướng cắt — kỹ thuật bảo vệ đầu gối ở mọi pha đổi hướng.",
+    "duration": "10–15 phút",
+    "howTo": [
+      {
+        "detail": "Hạ thấp hông, ngực trên gối, trọng lượng dồn lên mũi bàn chân. Tập tư thế trước khi di chuyển.",
+        "title": "Tư thế cắt hướng cơ bản — 30 giây"
+      },
+      {
+        "detail": "Chạy nhẹ đến cọc tiêu, đạp chân ngoài, cắt hướng 45 độ. Đạp mạnh khỏi chân trụ.",
+        "title": "Cắt 45 độ ở nửa tốc độ — 4 lần mỗi hướng"
+      },
+      {
+        "detail": "Đạp chân ra ngoài thân người, căn chỉnh gối thẳng hàng với mũi chân, rồi bật ra khỏi pha cắt. Giữ thấp người khi đạp chân.",
+        "title": "Cắt 90 độ — 4 lần mỗi hướng"
+      },
+      {
+        "detail": "Sprint ra, đạp chân, cắt ngược về điểm xuất phát theo góc nhọn — như pha cắt chữ V để thoát kèm. Tăng tốc khỏi mỗi pha cắt.",
+        "title": "Chuỗi cắt chữ V — 3 lần mỗi bên"
+      },
+      {
+        "detail": "Chạy nhẹ về phía bạn tập. Họ chỉ trái hoặc phải vào phút chót — đạp chân và cắt theo hướng đó. Giữ gối thẳng hàng ở mọi lần.",
+        "title": "Cắt hướng theo hiệu lệnh — 4 lần"
+      }
+    ],
     "progression": [
       "Beginner: đi bộ qua các tư thế cắt, rồi chạy nhẹ",
       "Intermediate: cắt ở tốc độ tối đa, giữ gối thẳng hàng tuyệt đối",
       "Advanced: cắt phản ứng theo hiệu lệnh của cầu thủ phòng thủ thật"
     ],
+    "setsReps": "2–3 hiệp mỗi bài. Nghỉ 60 giây giữa các hiệp; cắt hướng đòi hỏi nỗ lực tối đa.",
     "tags": [
       "cắt hướng",
       "căn chỉnh đầu gối",
@@ -152,6 +132,26 @@
       "giảm rủi ro chấn thương",
       "nhanh nhẹn"
     ],
-    "duration": "10–15 phút"
-  }
+    "title": "Kỹ thuật cắt hướng và căn chỉnh đầu gối",
+    "whatItDevelops": [
+      "Cắt hướng 45 và 90 độ sắc bén",
+      "Gối thẳng hàng với mũi chân khi chịu tải cắt hướng",
+      "Nghiêng người vào hướng cắt"
+    ],
+    "whyBasketball": [
+      "Cắt hướng tạo khoảng trống khi tấn công, lấy lại vị trí khi phòng thủ",
+      "Gối thẳng hàng khi cắt giúp giảm áp lực lên khớp",
+      "Nghiêng người vào hướng cắt giúp động tác nhanh hơn, khó kèm hơn"
+    ]
+  },
+  "whatItDevelops": [
+    "Sharp 45- and 90-degree cuts",
+    "Knee-over-toe alignment under cutting load",
+    "Body lean into the direction of the cut"
+  ],
+  "whyBasketball": [
+    "Cuts create separation on offense and recover position on defense",
+    "Knee alignment during cuts reduces stress on the joint",
+    "Leaning into the cut makes the move faster and harder to guard"
+  ]
 }

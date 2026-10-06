@@ -1,61 +1,6 @@
 {
-  "id": "perf-ap-lateral-quickness",
-  "hub": "athletic-performance",
-  "slug": "ap-lateral-quickness",
+  "basketballTransfer": "Lateral quickness keeps you in front on the drive, powers your closeout recovery, and sets your feet for every contest and box out.",
   "category": "agility",
-  "subcategory": "lateral-quickness",
-  "title": "Lateral Quickness",
-  "description": "Build fast lateral movement: a proper defensive slide, never crossing your feet, staying low and ready to react. Lane slides and mirror drills included.",
-  "level": "intermediate",
-  "positions": [
-    "guard",
-    "wing"
-  ],
-  "trainingPhase": [
-    "pre-season",
-    "in-season"
-  ],
-  "goal": [
-    "move-better",
-    "get-faster"
-  ],
-  "duration": "10–15 min",
-  "equipment": [
-    "Cones",
-    "Resistance bands"
-  ],
-  "whatItDevelops": [
-    "Defensive slide speed",
-    "Reactive lateral footwork",
-    "Lower-body stability in stance"
-  ],
-  "whyBasketball": [
-    "On-ball defense and closeouts are won sideways",
-    "Quick lateral steps keep you in front of ball handlers",
-    "Low, balanced slides set up every steal and contest"
-  ],
-  "howTo": [
-    {
-      "title": "Get low in your stance",
-      "detail": "Feet wider than shoulders, knees bent, chest up, hands active."
-    },
-    {
-      "title": "Step, don't cross",
-      "detail": "Push with the trail foot, step with the lead foot. Never let your feet cross or click together."
-    },
-    {
-      "title": "Stay low the whole rep",
-      "detail": "Your head should stay at one level — no bouncing up between steps."
-    },
-    {
-      "title": "Drill: lane slides",
-      "detail": "Slide from one lane line to the other: sprint there, slide back. Keep steps short and fast."
-    },
-    {
-      "title": "Drill: mirror drill",
-      "detail": "Face a partner. They move side to side; you mirror every step without crossing your feet."
-    }
-  ],
   "coachingPoints": [
     "Eyes on the ball handler's chest.",
     "Hands wide and active.",
@@ -69,64 +14,77 @@
     "Lazy steps with no push.",
     "Turning the shoulders sideways."
   ],
-  "setsReps": "4–6 sets × 20–30 seconds of slides, 1 min rest",
-  "basketballTransfer": "Lateral quickness keeps you in front on the drive, powers your closeout recovery, and sets your feet for every contest and box out.",
+  "dateUpdated": "2026-10-06",
+  "description": "Build fast lateral movement: a proper defensive slide, never crossing your feet, staying low and ready to react. Lane slides and mirror drills included.",
+  "duration": "10–15 min",
+  "equipment": [
+    "Cones",
+    "Resistance bands"
+  ],
+  "goal": [
+    "move-better",
+    "get-faster"
+  ],
+  "howTo": [
+    {
+      "detail": "Feet wider than shoulders, knees bent, chest up, hands active.",
+      "title": "Get low in your stance"
+    },
+    {
+      "detail": "Push with the trail foot, step with the lead foot. Never let your feet cross or click together.",
+      "title": "Step, don't cross"
+    },
+    {
+      "detail": "Your head should stay at one level — no bouncing up between steps.",
+      "title": "Stay low the whole rep"
+    },
+    {
+      "detail": "Slide from one lane line to the other: sprint there, slide back. Keep steps short and fast.",
+      "title": "Drill: lane slides"
+    },
+    {
+      "detail": "Face a partner. They move side to side; you mirror every step without crossing your feet.",
+      "title": "Drill: mirror drill"
+    }
+  ],
+  "hub": "athletic-performance",
+  "id": "perf-ap-lateral-quickness",
+  "level": "intermediate",
+  "positions": [
+    "guard",
+    "wing"
+  ],
   "progression": [
     "Beginner: slow slides in place — focus on never crossing your feet.",
     "Intermediate: timed lane slides plus mirror drill at half speed.",
     "Advanced: live 1-on-1 slides — stay in front of a ball handler for 10 seconds."
   ],
-  "relatedTopics": [
-    "ip-warm-up-5-minute",
-    "ip-ankle-prevention-basics",
-    "ap-change-of-direction",
-    "hyd-game-day-hydration"
+  "references": [
+    "USA Basketball — Player Development Curriculum: defensive footwork",
+    "NSCA — Essentials of Strength Training and Conditioning: agility and change of direction"
   ],
+  "relatedTopics": [
+    "ip-warmup-5-min",
+    "ip-ankle-guide",
+    "ap-change-of-direction",
+    "hyd-game-day-timeline"
+  ],
+  "setsReps": "4–6 sets × 20–30 seconds of slides, 1 min rest",
+  "slug": "ap-lateral-quickness",
+  "subcategory": "lateral-quickness",
   "tags": [
     "lateral quickness",
     "defense",
     "defensive slide",
     "footwork"
   ],
-  "references": [
-    "USA Basketball — Player Development Curriculum: defensive footwork",
-    "NSCA — Essentials of Strength Training and Conditioning: agility and change of direction"
+  "title": "Lateral Quickness",
+  "trainingPhase": [
+    "pre-season",
+    "in-season"
   ],
   "vi": {
-    "title": "Di chuyển ngang nhanh (lateral quickness)",
-    "description": "Xây tốc độ di chuyển ngang: tư thế defensive slide chuẩn, không chéo chân, giữ thấp và sẵn sàng phản ứng. Gồm bài trượt ngang làn và mirror drill.",
-    "whatItDevelops": [
-      "Tốc độ trượt phòng thủ",
-      "Bộ chân ngang theo phản ứng",
-      "Thân dưới ổn định trong tư thế"
-    ],
-    "whyBasketball": [
-      "Kèm bóng và closeout thắng thua ở bước ngang",
-      "Bước ngang nhanh giữ bạn đứng trước người dẫn bóng",
-      "Trượt thấp, cân bằng mở đường cho mọi pha cướp bóng và contest"
-    ],
-    "howTo": [
-      {
-        "title": "Vào tư thế thấp",
-        "detail": "Chân rộng hơn vai, gối gập, ngực thẳng, tay linh hoạt."
-      },
-      {
-        "title": "Bước chứ không chéo",
-        "detail": "Chân sau đạp, chân trước bước. Không bao giờ để hai chân chéo hay chạm nhau."
-      },
-      {
-        "title": "Giữ thấp suốt lượt",
-        "detail": "Đầu giữ một độ cao — không nhún lên giữa các bước."
-      },
-      {
-        "title": "Bài tập: trượt ngang làn",
-        "detail": "Trượt từ vạch lane này sang vạch kia: chạy nhanh tới, trượt về. Bước ngắn, nhanh."
-      },
-      {
-        "title": "Bài tập: mirror drill",
-        "detail": "Đối mặt đồng đội. Họ di chuyển ngang, bạn bắt chước từng bước, không chéo chân."
-      }
-    ],
+    "basketballTransfer": "Di chuyển ngang nhanh giữ bạn đứng trước pha đột phá, tăng lực cho closeout, và đặt chân chuẩn cho mọi pha contest và box out.",
     "coachingPoints": [
       "Mắt nhìn ngực người dẫn bóng.",
       "Tay dang rộng, luôn sẵn sàng.",
@@ -140,20 +98,62 @@
       "Bước lười, không đạp.",
       "Xoay vai ngang."
     ],
-    "setsReps": "4–6 hiệp × 20–30 giây trượt, nghỉ 1 phút",
-    "basketballTransfer": "Di chuyển ngang nhanh giữ bạn đứng trước pha đột phá, tăng lực cho closeout, và đặt chân chuẩn cho mọi pha contest và box out.",
+    "description": "Xây tốc độ di chuyển ngang: tư thế defensive slide chuẩn, không chéo chân, giữ thấp và sẵn sàng phản ứng. Gồm bài trượt ngang làn và mirror drill.",
+    "duration": "10–15 phút",
+    "howTo": [
+      {
+        "detail": "Chân rộng hơn vai, gối gập, ngực thẳng, tay linh hoạt.",
+        "title": "Vào tư thế thấp"
+      },
+      {
+        "detail": "Chân sau đạp, chân trước bước. Không bao giờ để hai chân chéo hay chạm nhau.",
+        "title": "Bước chứ không chéo"
+      },
+      {
+        "detail": "Đầu giữ một độ cao — không nhún lên giữa các bước.",
+        "title": "Giữ thấp suốt lượt"
+      },
+      {
+        "detail": "Trượt từ vạch lane này sang vạch kia: chạy nhanh tới, trượt về. Bước ngắn, nhanh.",
+        "title": "Bài tập: trượt ngang làn"
+      },
+      {
+        "detail": "Đối mặt đồng đội. Họ di chuyển ngang, bạn bắt chước từng bước, không chéo chân.",
+        "title": "Bài tập: mirror drill"
+      }
+    ],
     "progression": [
       "Cơ bản: trượt chậm tại chỗ — tập trung không chéo chân.",
       "Trung cấp: trượt ngang làn bấm giờ + mirror drill nửa tốc độ.",
       "Nâng cao: trượt kèm người thật — đứng trước người dẫn bóng trong 10 giây."
     ],
+    "setsReps": "4–6 hiệp × 20–30 giây trượt, nghỉ 1 phút",
     "tags": [
       "di chuyển ngang",
       "phòng thủ",
       "trượt phòng thủ",
       "bộ chân"
     ],
-    "duration": "10–15 phút"
+    "title": "Di chuyển ngang nhanh (lateral quickness)",
+    "whatItDevelops": [
+      "Tốc độ trượt phòng thủ",
+      "Bộ chân ngang theo phản ứng",
+      "Thân dưới ổn định trong tư thế"
+    ],
+    "whyBasketball": [
+      "Kèm bóng và closeout thắng thua ở bước ngang",
+      "Bước ngang nhanh giữ bạn đứng trước người dẫn bóng",
+      "Trượt thấp, cân bằng mở đường cho mọi pha cướp bóng và contest"
+    ]
   },
-  "dateUpdated": "2026-10-06"
+  "whatItDevelops": [
+    "Defensive slide speed",
+    "Reactive lateral footwork",
+    "Lower-body stability in stance"
+  ],
+  "whyBasketball": [
+    "On-ball defense and closeouts are won sideways",
+    "Quick lateral steps keep you in front of ball handlers",
+    "Low, balanced slides set up every steal and contest"
+  ]
 }

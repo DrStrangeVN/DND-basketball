@@ -1,58 +1,6 @@
 {
-  "id": "perf-ap-vertical-jump-program",
-  "hub": "athletic-performance",
-  "slug": "ap-vertical-jump-program",
+  "basketballTransfer": "A higher, repeatable vertical wins rebounds, finishes through contact, and puts your block attempts above the rim.",
   "category": "vertical-jump",
-  "subcategory": "program",
-  "title": "Vertical Jump Fundamentals",
-  "description": "A 4-week foundation program for a higher vertical: build strength, convert it to power, sharpen plyometrics, then test. Train smart, rest hard, eat to recover.",
-  "level": "intermediate",
-  "positions": [
-    "all"
-  ],
-  "trainingPhase": [
-    "off-season",
-    "pre-season"
-  ],
-  "goal": [
-    "jump-higher",
-    "explosive"
-  ],
-  "duration": "30–40 min",
-  "equipment": [
-    "Plyo boxes",
-    "Dumbbells",
-    "Barbell"
-  ],
-  "whatItDevelops": [
-    "Lower-body strength base",
-    "Explosive power",
-    "Plyometric efficiency",
-    "Jump testing and tracking"
-  ],
-  "whyBasketball": [
-    "Rebounds, blocks, and finishes at the rim all start with your jump",
-    "A higher vertical changes how defenses play you",
-    "Power built in the weight room shows up on the court"
-  ],
-  "howTo": [
-    {
-      "title": "Week 1 — Strength base",
-      "detail": "Main sessions: goblet squat, Romanian deadlift, split squat, calf raise. 3 sessions, moderate weight, perfect form. Goal: build the engine."
-    },
-    {
-      "title": "Week 2 — Strength to power",
-      "detail": "Main sessions: trap-bar or back squat, dumbbell snatch, box jump (low box), broad jump. Move the weight faster. Goal: teach your muscles to fire quickly."
-    },
-    {
-      "title": "Week 3 — Plyometrics",
-      "detail": "Main sessions: depth jumps (low box), hurdle hops, single-leg hops, medicine-ball throws. Low volume, maximum intent on every rep. Goal: sharpen the spring."
-    },
-    {
-      "title": "Week 4 — Combine and test",
-      "detail": "Main sessions: mix one strength lift, one power move, and one plyometric drill. End the week with a vertical jump test and compare it to Week 1. Goal: measure the gain and plan the next block."
-    }
-  ],
   "coachingPoints": [
     "Rest 48 hours between hard jump sessions.",
     "Land every rep like you mean it — quiet and controlled.",
@@ -66,61 +14,73 @@
     "Sloppy landings to squeeze out more reps.",
     "Never measuring, so you never know what worked."
   ],
-  "setsReps": "3 sessions/week; strength 3–4 sets × 5–8 reps, power/plyo 3–5 sets × 3–6 reps",
-  "basketballTransfer": "A higher, repeatable vertical wins rebounds, finishes through contact, and puts your block attempts above the rim.",
+  "dateUpdated": "2026-10-06",
+  "description": "A 4-week foundation program for a higher vertical: build strength, convert it to power, sharpen plyometrics, then test. Train smart, rest hard, eat to recover.",
+  "duration": "30–40 min",
+  "equipment": [
+    "Plyo boxes",
+    "Dumbbells",
+    "Barbell"
+  ],
+  "goal": [
+    "jump-higher",
+    "explosive"
+  ],
+  "howTo": [
+    {
+      "detail": "Main sessions: goblet squat, Romanian deadlift, split squat, calf raise. 3 sessions, moderate weight, perfect form. Goal: build the engine.",
+      "title": "Week 1 — Strength base"
+    },
+    {
+      "detail": "Main sessions: trap-bar or back squat, dumbbell snatch, box jump (low box), broad jump. Move the weight faster. Goal: teach your muscles to fire quickly.",
+      "title": "Week 2 — Strength to power"
+    },
+    {
+      "detail": "Main sessions: depth jumps (low box), hurdle hops, single-leg hops, medicine-ball throws. Low volume, maximum intent on every rep. Goal: sharpen the spring.",
+      "title": "Week 3 — Plyometrics"
+    },
+    {
+      "detail": "Main sessions: mix one strength lift, one power move, and one plyometric drill. End the week with a vertical jump test and compare it to Week 1. Goal: measure the gain and plan the next block.",
+      "title": "Week 4 — Combine and test"
+    }
+  ],
+  "hub": "athletic-performance",
+  "id": "perf-ap-vertical-jump-program",
+  "level": "intermediate",
+  "positions": [
+    "all"
+  ],
   "progression": [
     "Beginner: bodyweight and light dumbbells only — master the landing first.",
     "Intermediate: add barbell lifts and low-box plyometrics with full rest.",
     "Advanced: contrast sets — a heavy lift followed immediately by a max jump, plus single-leg work."
   ],
+  "references": [
+    "NSCA — Essentials of Strength Training and Conditioning: plyometric training",
+    "USA Basketball — Player Development Curriculum: strength and conditioning progressions"
+  ],
   "relatedTopics": [
-    "nut-protein-for-basketball",
+    "nut-protein-basketball",
     "rec-sleep-for-athletes",
     "ip-training-load-basics",
     "ap-landing-mechanics"
   ],
+  "setsReps": "3 sessions/week; strength 3–4 sets × 5–8 reps, power/plyo 3–5 sets × 3–6 reps",
+  "slug": "ap-vertical-jump-program",
+  "subcategory": "program",
   "tags": [
     "vertical jump",
     "power",
     "plyometrics",
     "strength"
   ],
-  "references": [
-    "NSCA — Essentials of Strength Training and Conditioning: plyometric training",
-    "USA Basketball — Player Development Curriculum: strength and conditioning progressions"
+  "title": "Vertical Jump Fundamentals",
+  "trainingPhase": [
+    "off-season",
+    "pre-season"
   ],
   "vi": {
-    "title": "Chương trình bật cao (vertical jump)",
-    "description": "Giáo án 4 tuần xây nền bật cao: tăng sức mạnh, chuyển thành power, rèn plyometrics, rồi kiểm tra. Tập thông minh, nghỉ nghiêm túc, ăn để hồi phục.",
-    "whatItDevelops": [
-      "Nền sức mạnh thân dưới",
-      "Sức bật bùng nổ",
-      "Hiệu quả plyometrics",
-      "Đo và theo dõi bước nhảy"
-    ],
-    "whyBasketball": [
-      "Rebound, block và dứt điểm trên rổ đều bắt đầu từ cú nhảy",
-      "Bật cao hơn khiến hàng thủ phải đổi cách kèm bạn",
-      "Sức mạnh xây trong phòng gym hiện ra trên sân"
-    ],
-    "howTo": [
-      {
-        "title": "Tuần 1 — Nền sức mạnh",
-        "detail": "Buổi chính: goblet squat, Romanian deadlift, split squat, calf raise. 3 buổi, tạ vừa, kỹ thuật chuẩn. Mục tiêu: xây động cơ."
-      },
-      {
-        "title": "Tuần 2 — Từ sức mạnh sang power",
-        "detail": "Buổi chính: squat, dumbbell snatch, box jump (hộp thấp), broad jump. Đẩy tạ nhanh hơn. Mục tiêu: dạy cơ bật nhanh."
-      },
-      {
-        "title": "Tuần 3 — Plyometrics",
-        "detail": "Buổi chính: depth jump (hộp thấp), hurdle hop, nhảy 1 chân, ném medicine ball. Khối lượng thấp, mỗi lần bật hết ý. Mục tiêu: mài lò xo."
-      },
-      {
-        "title": "Tuần 4 — Tổng hợp và kiểm tra",
-        "detail": "Buổi chính: kết hợp 1 bài sức mạnh + 1 bài power + 1 bài plyometrics. Cuối tuần đo lại vertical jump, so với tuần 1. Mục tiêu: đo kết quả, lên kế hoạch chu kỳ tiếp."
-      }
-    ],
+    "basketballTransfer": "Bật cao và lặp lại được giúp thắng rebound, dứt điểm qua va chạm, và đưa pha block của bạn lên trên rổ.",
     "coachingPoints": [
       "Nghỉ 48 giờ giữa các buổi nhảy nặng.",
       "Mỗi lần tiếp đất đều nghiêm túc — êm và kiểm soát.",
@@ -134,20 +94,60 @@
       "Tiếp đất ẩu để cố thêm vài lần.",
       "Không bao giờ đo, nên không biết cái gì hiệu quả."
     ],
-    "setsReps": "3 buổi/tuần; sức mạnh 3–4 hiệp × 5–8 lần, power/plyo 3–5 hiệp × 3–6 lần",
-    "basketballTransfer": "Bật cao và lặp lại được giúp thắng rebound, dứt điểm qua va chạm, và đưa pha block của bạn lên trên rổ.",
+    "description": "Giáo án 4 tuần xây nền bật cao: tăng sức mạnh, chuyển thành power, rèn plyometrics, rồi kiểm tra. Tập thông minh, nghỉ nghiêm túc, ăn để hồi phục.",
+    "duration": "30–40 phút",
+    "howTo": [
+      {
+        "detail": "Buổi chính: goblet squat, Romanian deadlift, split squat, calf raise. 3 buổi, tạ vừa, kỹ thuật chuẩn. Mục tiêu: xây động cơ.",
+        "title": "Tuần 1 — Nền sức mạnh"
+      },
+      {
+        "detail": "Buổi chính: squat, dumbbell snatch, box jump (hộp thấp), broad jump. Đẩy tạ nhanh hơn. Mục tiêu: dạy cơ bật nhanh.",
+        "title": "Tuần 2 — Từ sức mạnh sang power"
+      },
+      {
+        "detail": "Buổi chính: depth jump (hộp thấp), hurdle hop, nhảy 1 chân, ném medicine ball. Khối lượng thấp, mỗi lần bật hết ý. Mục tiêu: mài lò xo.",
+        "title": "Tuần 3 — Plyometrics"
+      },
+      {
+        "detail": "Buổi chính: kết hợp 1 bài sức mạnh + 1 bài power + 1 bài plyometrics. Cuối tuần đo lại vertical jump, so với tuần 1. Mục tiêu: đo kết quả, lên kế hoạch chu kỳ tiếp.",
+        "title": "Tuần 4 — Tổng hợp và kiểm tra"
+      }
+    ],
     "progression": [
       "Cơ bản: chỉ tạ nhẹ và trọng lượng cơ thể — làm chủ tiếp đất trước.",
       "Trung cấp: thêm bài barbell và plyometrics hộp thấp, nghỉ đủ.",
       "Nâng cao: contrast set — bài nặng ngay sau là cú nhảy tối đa, thêm bài 1 chân."
     ],
+    "setsReps": "3 buổi/tuần; sức mạnh 3–4 hiệp × 5–8 lần, power/plyo 3–5 hiệp × 3–6 lần",
     "tags": [
       "bật cao",
       "sức bật",
       "plyometrics",
       "sức mạnh"
     ],
-    "duration": "30–40 phút"
+    "title": "Chương trình bật cao (vertical jump)",
+    "whatItDevelops": [
+      "Nền sức mạnh thân dưới",
+      "Sức bật bùng nổ",
+      "Hiệu quả plyometrics",
+      "Đo và theo dõi bước nhảy"
+    ],
+    "whyBasketball": [
+      "Rebound, block và dứt điểm trên rổ đều bắt đầu từ cú nhảy",
+      "Bật cao hơn khiến hàng thủ phải đổi cách kèm bạn",
+      "Sức mạnh xây trong phòng gym hiện ra trên sân"
+    ]
   },
-  "dateUpdated": "2026-10-06"
+  "whatItDevelops": [
+    "Lower-body strength base",
+    "Explosive power",
+    "Plyometric efficiency",
+    "Jump testing and tracking"
+  ],
+  "whyBasketball": [
+    "Rebounds, blocks, and finishes at the rim all start with your jump",
+    "A higher vertical changes how defenses play you",
+    "Power built in the weight room shows up on the court"
+  ]
 }

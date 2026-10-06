@@ -1,59 +1,6 @@
 {
-  "id": "perf-ap-basketball-conditioning",
-  "slug": "ap-basketball-conditioning",
-  "hub": "athletic-performance",
+  "basketballTransfer": "Game-specific conditioning means your legs stay under your shot in the fourth quarter and your defense stays sharp on the last possession.",
   "category": "conditioning",
-  "subcategory": "basketball-conditioning",
-  "title": "Basketball Conditioning",
-  "description": "Game-speed conditioning: short bursts with basketball work-to-rest ratios. Build an aerobic base first, then train the repeated-sprint engine real games demand.",
-  "level": "intermediate",
-  "positions": [
-    "all"
-  ],
-  "trainingPhase": [
-    "pre-season"
-  ],
-  "goal": [
-    "conditioning"
-  ],
-  "duration": "20–30 min",
-  "equipment": [
-    "Cones",
-    "Basketball court"
-  ],
-  "whatItDevelops": [
-    "Aerobic base",
-    "Anaerobic repeat-sprint capacity",
-    "Work-to-rest rhythm that matches games",
-    "Mental toughness under fatigue"
-  ],
-  "whyBasketball": [
-    "Games are bursts, not jogs — conditioning must match the game clock.",
-    "Better conditioning keeps your shooting form clean in the fourth quarter.",
-    "Fitter players recover faster between shifts."
-  ],
-  "howTo": [
-    {
-      "title": "Build the aerobic base first (pre-season weeks 1-2)",
-      "detail": "20-30 minutes of easy running or court laps at a pace you can talk through. 2 times per week."
-    },
-    {
-      "title": "Court suicides",
-      "detail": "Sprint from the baseline to the free-throw line and back, half court and back, 3-point line and back, full court and back. 4-6 reps, walk-back recovery between reps."
-    },
-    {
-      "title": "Interval runs",
-      "detail": "30 seconds hard / 60 seconds easy, 8-12 rounds. Do it on the court or a track."
-    },
-    {
-      "title": "Shift simulation",
-      "detail": "4 minutes of hard work (drills + sprints) followed by 2 minutes of rest, 4 rounds. This is what a game shift feels like."
-    },
-    {
-      "title": "Cool down and hydrate",
-      "detail": "5 minutes easy jogging plus controlled breathing. Hydrate before, during, and after every session."
-    }
-  ],
   "coachingPoints": [
     "Run the hard parts hard — conditioning only works at intensity.",
     "Keep mechanics clean when tired: knees over toes.",
@@ -66,68 +13,75 @@
     "Too much too soon — spiking the volume.",
     "Skipping the cool-down."
   ],
-  "setsReps": "2-3 conditioning sessions per week. Each session: 20-30 minutes of work plus warm-up and cool-down.",
-  "basketballTransfer": "Game-specific conditioning means your legs stay under your shot in the fourth quarter and your defense stays sharp on the last possession.",
+  "dateUpdated": "2026-10-06",
+  "description": "Game-speed conditioning: short bursts with basketball work-to-rest ratios. Build an aerobic base first, then train the repeated-sprint engine real games demand.",
+  "duration": "20–30 min",
+  "equipment": [
+    "Cones",
+    "Basketball court"
+  ],
+  "goal": [
+    "conditioning"
+  ],
+  "howTo": [
+    {
+      "detail": "20-30 minutes of easy running or court laps at a pace you can talk through. 2 times per week.",
+      "title": "Build the aerobic base first (pre-season weeks 1-2)"
+    },
+    {
+      "detail": "Sprint from the baseline to the free-throw line and back, half court and back, 3-point line and back, full court and back. 4-6 reps, walk-back recovery between reps.",
+      "title": "Court suicides"
+    },
+    {
+      "detail": "30 seconds hard / 60 seconds easy, 8-12 rounds. Do it on the court or a track.",
+      "title": "Interval runs"
+    },
+    {
+      "detail": "4 minutes of hard work (drills + sprints) followed by 2 minutes of rest, 4 rounds. This is what a game shift feels like.",
+      "title": "Shift simulation"
+    },
+    {
+      "detail": "5 minutes easy jogging plus controlled breathing. Hydrate before, during, and after every session.",
+      "title": "Cool down and hydrate"
+    }
+  ],
+  "hub": "athletic-performance",
+  "id": "perf-ap-basketball-conditioning",
+  "level": "intermediate",
+  "positions": [
+    "all"
+  ],
   "progression": [
     "Beginner: aerobic base only — easy runs, 2x per week.",
     "Intermediate: add suicides and intervals at 1:2 work-to-rest.",
     "Advanced: 1:1 ratios or shift-simulation rounds, 3x per week in pre-season."
-  ],
-  "relatedTopics": [
-    "hyd-game-day-hydration",
-    "ip-warm-up-5-minute",
-    "rec-sleep-for-athletes",
-    "ap-repeated-sprint-ability"
-  ],
-  "tags": [
-    "conditioning",
-    "stamina",
-    "pre-season",
-    "court"
   ],
   "references": [
     "NSCA — Energy system development for team sports",
     "USA Basketball — Conditioning guidelines",
     "FIBA — Basketball fitness testing and training resources"
   ],
-  "dateUpdated": "2026-10-06",
+  "relatedTopics": [
+    "hyd-game-day-timeline",
+    "ip-warmup-5-min",
+    "rec-sleep-for-athletes",
+    "ap-repeated-sprint-ability"
+  ],
+  "setsReps": "2-3 conditioning sessions per week. Each session: 20-30 minutes of work plus warm-up and cool-down.",
+  "slug": "ap-basketball-conditioning",
+  "subcategory": "basketball-conditioning",
+  "tags": [
+    "conditioning",
+    "stamina",
+    "pre-season",
+    "court"
+  ],
+  "title": "Basketball Conditioning",
+  "trainingPhase": [
+    "pre-season"
+  ],
   "vi": {
-    "title": "Thể lực bóng rổ (conditioning)",
-    "description": "Thể lực đúng nhịp trận đấu: các đợt chạy ngắn với tỷ lệ chạy/nghỉ như trong trận. Xây nền aerobic trước, rồi tập động cơ nước rút lặp lại mà trận đấu thật đòi hỏi.",
-    "duration": "20–30 phút",
-    "whatItDevelops": [
-      "Nền aerobic",
-      "Khả năng nước rút kỵ khí lặp lại",
-      "Nhịp chạy/nghỉ đúng như trận đấu",
-      "Tâm lý vững khi mệt"
-    ],
-    "whyBasketball": [
-      "Trận đấu là các đợt bùng nổ, không phải chạy đều — thể lực phải đúng nhịp trận.",
-      "Thể lực tốt giữ form ném ổn định tới hiệp 4.",
-      "Cầu thủ khỏe hơn hồi phục nhanh hơn giữa các lượt ra sân."
-    ],
-    "howTo": [
-      {
-        "title": "Xây nền aerobic trước (tuần 1-2 tiền mùa giải)",
-        "detail": "Chạy nhẹ 20-30 phút hoặc chạy vòng sân ở tốc độ vừa chạy vừa nói chuyện được. 2 lần/tuần."
-      },
-      {
-        "title": "Chạy suicide trên sân",
-        "detail": "Chạy từ baseline tới vạch ném phạt rồi về, tới giữa sân rồi về, tới vạch 3 điểm rồi về, hết sân rồi về. 4-6 lần, đi bộ về giữa các lần."
-      },
-      {
-        "title": "Chạy interval",
-        "detail": "30 giây nhanh / 60 giây nhẹ, lặp 8-12 vòng. Chạy trên sân hoặc đường chạy."
-      },
-      {
-        "title": "Mô phỏng lượt ra sân",
-        "detail": "4 phút làm việc cường độ cao (bài tập + nước rút) rồi 2 phút nghỉ, lặp 4 vòng. Đây đúng là cảm giác một lượt ra sân trong trận."
-      },
-      {
-        "title": "Hạ nhiệt và bù nước",
-        "detail": "5 phút chạy nhẹ và hít thở đều. Bù nước trước, trong và sau mỗi buổi tập."
-      }
-    ],
+    "basketballTransfer": "Thể lực đúng đặc thù bóng rổ giúp chân vẫn giữ được dưới cú ném ở hiệp 4, và phòng thủ vẫn chắc ở pha bóng cuối.",
     "coachingPoints": [
       "Đoạn nhanh phải thật nhanh — thể lực chỉ lên khi tập đúng cường độ.",
       "Giữ kỹ thuật sạch khi mệt: đầu gối không vượt mũi chân.",
@@ -140,18 +94,64 @@
       "Tăng quá nhanh — đột ngột dồn khối lượng.",
       "Bỏ qua bước hạ nhiệt."
     ],
-    "setsReps": "2-3 buổi thể lực/tuần. Mỗi buổi: 20-30 phút phần chính, cộng khởi động và hạ nhiệt.",
-    "basketballTransfer": "Thể lực đúng đặc thù bóng rổ giúp chân vẫn giữ được dưới cú ném ở hiệp 4, và phòng thủ vẫn chắc ở pha bóng cuối.",
+    "description": "Thể lực đúng nhịp trận đấu: các đợt chạy ngắn với tỷ lệ chạy/nghỉ như trong trận. Xây nền aerobic trước, rồi tập động cơ nước rút lặp lại mà trận đấu thật đòi hỏi.",
+    "duration": "20–30 phút",
+    "howTo": [
+      {
+        "detail": "Chạy nhẹ 20-30 phút hoặc chạy vòng sân ở tốc độ vừa chạy vừa nói chuyện được. 2 lần/tuần.",
+        "title": "Xây nền aerobic trước (tuần 1-2 tiền mùa giải)"
+      },
+      {
+        "detail": "Chạy từ baseline tới vạch ném phạt rồi về, tới giữa sân rồi về, tới vạch 3 điểm rồi về, hết sân rồi về. 4-6 lần, đi bộ về giữa các lần.",
+        "title": "Chạy suicide trên sân"
+      },
+      {
+        "detail": "30 giây nhanh / 60 giây nhẹ, lặp 8-12 vòng. Chạy trên sân hoặc đường chạy.",
+        "title": "Chạy interval"
+      },
+      {
+        "detail": "4 phút làm việc cường độ cao (bài tập + nước rút) rồi 2 phút nghỉ, lặp 4 vòng. Đây đúng là cảm giác một lượt ra sân trong trận.",
+        "title": "Mô phỏng lượt ra sân"
+      },
+      {
+        "detail": "5 phút chạy nhẹ và hít thở đều. Bù nước trước, trong và sau mỗi buổi tập.",
+        "title": "Hạ nhiệt và bù nước"
+      }
+    ],
     "progression": [
       "Mới bắt đầu: chỉ xây nền aerobic — chạy nhẹ, 2 lần/tuần.",
       "Trung cấp: thêm suicide và interval với tỷ lệ chạy/nghỉ 1:2.",
       "Nâng cao: tỷ lệ 1:1 hoặc mô phỏng lượt ra sân, 3 lần/tuần trong tiền mùa giải."
     ],
+    "setsReps": "2-3 buổi thể lực/tuần. Mỗi buổi: 20-30 phút phần chính, cộng khởi động và hạ nhiệt.",
     "tags": [
       "thể lực",
       "sức bền",
       "tiền mùa giải",
       "sân đấu"
+    ],
+    "title": "Thể lực bóng rổ (conditioning)",
+    "whatItDevelops": [
+      "Nền aerobic",
+      "Khả năng nước rút kỵ khí lặp lại",
+      "Nhịp chạy/nghỉ đúng như trận đấu",
+      "Tâm lý vững khi mệt"
+    ],
+    "whyBasketball": [
+      "Trận đấu là các đợt bùng nổ, không phải chạy đều — thể lực phải đúng nhịp trận.",
+      "Thể lực tốt giữ form ném ổn định tới hiệp 4.",
+      "Cầu thủ khỏe hơn hồi phục nhanh hơn giữa các lượt ra sân."
     ]
-  }
+  },
+  "whatItDevelops": [
+    "Aerobic base",
+    "Anaerobic repeat-sprint capacity",
+    "Work-to-rest rhythm that matches games",
+    "Mental toughness under fatigue"
+  ],
+  "whyBasketball": [
+    "Games are bursts, not jogs — conditioning must match the game clock.",
+    "Better conditioning keeps your shooting form clean in the fourth quarter.",
+    "Fitter players recover faster between shifts."
+  ]
 }
