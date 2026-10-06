@@ -1,1 +1,135 @@
-{"ages":["U10","U12","U14","U16","U18","Adult"],"coachingPoints":["Stay low on the retreat — standing up hands the defender an opening to swipe.","Two to three hard back-dribbles are enough; retreat is an escape, not a new address.","Eyes up the entire time; scan for the open teammate before you start retreating.","Keep the ball on your outside hand, away from the defender chasing you.","Combine the retreat with a change of pace — a quick re-attack after retreating is the real payoff."],"commonMistakes":["Retreating too far and killing your own attack — fix: 3–5 feet of space is plenty; anything more invites a trap.","Palm carrying the ball on the back-dribble — fix: keep fingers pushing down on top of the ball, even while moving backward.","Looking at the floor while backing up — fix: your eyes are your radar; look up and find the pass or the re-attack lane.","Retreating straight into a corner — fix: know where the sideline is; retreat toward the middle of the floor whenever possible."],"dateUpdated":"2026-10-06","description":"Back-dribble away from pressure to create space without picking up the ball — the smart escape every guard needs.","gameSituations":["Beating a full-court press — a controlled retreat lets the trap come to you, then you pass over it or re-attack.","When a defender crowds your space — retreat 3–4 feet, then drive into the gap he just left.","Late-clock situations — keep your dribble alive, create a few feet of separation, and set up the final shot."],"howTo":[{"detail":"When a defender gets chest-to-chest, take one or two hard dribbles backward. Push off your front foot and keep your stance low — never hop upright.","title":"Back-dribble with force"},{"detail":"Your body stays between the defender and the ball. Lean slightly into him so your back shields the dribble.","title":"Protect the ball with your body"},{"detail":"Lift your eyes and scan the floor while retreating. Look for the teammate the pressure just opened up, or the lane you will re-attack.","title":"Look up as you retreat"},{"detail":"Once you have 3–5 feet of space, make a decision in one second: pass over the pressure, or attack the new space immediately.","title":"Create space, then decide fast"},{"detail":"One escape step should not become ten. Drill retreating to a cone 5 feet away and immediately driving back past it.","title":"Re-attack after the escape"}],"hub":"skills","id":"retreat-dribble","level":"beginner","positions":["ALL"],"readTime":4,"related":["pound-dribble","change-of-pace","stationary-dribbling"],"slug":"retreat-dribble","subcategory":"ball-handling","tags":["dribbling","ball handling","footwork"],"title":"Retreat Dribble","whatIsIt":["A retreat dribble is a backward dribble — you back-dribble two to five feet to escape defensive pressure while keeping your dribble alive. Instead of panicking and picking up the ball when a defender crowds you, you calmly create space.","It is one of the first 'smart' moves young players should learn, because it teaches composure. Great ball handlers do not fight pressure head-on; they step back, breathe, and choose their next move with room to operate."],"whyItMatters":["Most turnovers happen when a pressured player rushes and throws the ball away. The retreat dribble gives you a legal, safe way to buy time and space — and time is exactly what good decisions need. Teams that press hate players who retreat calmly, because every trap depends on the ball handler panicking."]}
+{
+  "ages": [
+    "U10",
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "coachingPoints": [
+    "Stay low on the retreat — standing up hands the defender an opening to swipe.",
+    "Two to three hard back-dribbles are enough; retreat is an escape, not a new address.",
+    "Eyes up the entire time; scan for the open teammate before you start retreating.",
+    "Keep the ball on your outside hand, away from the defender chasing you.",
+    "Combine the retreat with a change of pace — a quick re-attack after retreating is the real payoff."
+  ],
+  "commonMistakes": [
+    "Retreating too far and killing your own attack — fix: 3–5 feet of space is plenty; anything more invites a trap.",
+    "Palm carrying the ball on the back-dribble — fix: keep fingers pushing down on top of the ball, even while moving backward.",
+    "Looking at the floor while backing up — fix: your eyes are your radar; look up and find the pass or the re-attack lane.",
+    "Retreating straight into a corner — fix: know where the sideline is; retreat toward the middle of the floor whenever possible."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "Back-dribble away from pressure to create space without picking up the ball — the smart escape every guard needs.",
+  "gameSituations": [
+    "Beating a full-court press — a controlled retreat lets the trap come to you, then you pass over it or re-attack.",
+    "When a defender crowds your space — retreat 3–4 feet, then drive into the gap he just left.",
+    "Late-clock situations — keep your dribble alive, create a few feet of separation, and set up the final shot."
+  ],
+  "howTo": [
+    {
+      "detail": "When a defender gets chest-to-chest, take one or two hard dribbles backward. Push off your front foot and keep your stance low — never hop upright.",
+      "title": "Back-dribble with force"
+    },
+    {
+      "detail": "Your body stays between the defender and the ball. Lean slightly into him so your back shields the dribble.",
+      "title": "Protect the ball with your body"
+    },
+    {
+      "detail": "Lift your eyes and scan the floor while retreating. Look for the teammate the pressure just opened up, or the lane you will re-attack.",
+      "title": "Look up as you retreat"
+    },
+    {
+      "detail": "Once you have 3–5 feet of space, make a decision in one second: pass over the pressure, or attack the new space immediately.",
+      "title": "Create space, then decide fast"
+    },
+    {
+      "detail": "One escape step should not become ten. Drill retreating to a cone 5 feet away and immediately driving back past it.",
+      "title": "Re-attack after the escape"
+    }
+  ],
+  "hub": "skills",
+  "id": "retreat-dribble",
+  "level": "beginner",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 4,
+  "related": [
+    "pound-dribble",
+    "change-of-pace",
+    "stationary-dribbling"
+  ],
+  "slug": "retreat-dribble",
+  "subcategory": "ball-handling",
+  "tags": [
+    "dribbling",
+    "ball handling",
+    "footwork"
+  ],
+  "title": "Retreat Dribble",
+  "whatIsIt": [
+    "A retreat dribble is a backward dribble — you back-dribble two to five feet to escape defensive pressure while keeping your dribble alive. Instead of panicking and picking up the ball when a defender crowds you, you calmly create space.",
+    "It is one of the first 'smart' moves young players should learn, because it teaches composure. Great ball handlers do not fight pressure head-on; they step back, breathe, and choose their next move with room to operate."
+  ],
+  "whyItMatters": [
+    "Most turnovers happen when a pressured player rushes and throws the ball away. The retreat dribble gives you a legal, safe way to buy time and space — and time is exactly what good decisions need. Teams that press hate players who retreat calmly, because every trap depends on the ball handler panicking."
+  ],
+  "vi": {
+    "title": "Dẫn Bóng Rút Lui",
+    "description": "Dẫn bóng lùi lại để thoát pressing mà không nhấc bóng — kỹ năng thoát thân thông minh mà mọi hậu vệ đều cần.",
+    "whatIsIt": [
+      "Retreat dribble là dẫn bóng lùi — bạn dẫn lùi hai đến năm feet để thoát áp lực phòng thủ mà vẫn giữ được bóng. Thay vì hoảng loạn nhấc bóng khi bị hậu vệ áp sát, bạn bình tĩnh tạo khoảng trống.",
+      "Đây là một trong những động tác 'thông minh' đầu tiên mà cầu thủ trẻ nên học, vì nó dạy sự điềm tĩnh. Những người dẫn bóng giỏi không đâm đầu vào áp lực; họ lùi lại, hít thở và chọn nước đi tiếp theo khi đã có khoảng trống."
+    ],
+    "whyItMatters": [
+      "Hầu hết các pha mất bóng xảy ra khi cầu thủ bị pressing vội vàng ném bóng đi. Retreat dribble cho bạn một cách hợp lệ, an toàn để mua thời gian và khoảng trống — và thời gian chính là thứ mà những quyết định tốt cần. Các đội thích pressing rất ghét cầu thủ lùi bình tĩnh, vì mọi pha bẫy đều dựa vào việc người cầm bóng hoảng loạn."
+    ],
+    "howTo": [
+      {
+        "title": "Dẫn lùi mạnh mẽ",
+        "detail": "Khi hậu vệ áp sát ngực, dẫn một đến hai nhịp mạnh lùi lại. Đạp mạnh bằng chân trước và giữ tư thế thấp — tuyệt đối không bật thẳng người lên."
+      },
+      {
+        "title": "Dùng cơ thể che bóng",
+        "detail": "Cơ thể bạn luôn nằm giữa hậu vệ và bóng. Hơi nghiêng vào người họ để lưng che chắn nhịp dẫn."
+      },
+      {
+        "title": "Nhìn lên khi lùi",
+        "detail": "Ngẩng mắt quét sân khi lùi. Tìm đồng đội mà áp lực vừa mở ra, hoặc làn đường bạn sẽ tấn công lại."
+      },
+      {
+        "title": "Tạo khoảng trống rồi quyết định nhanh",
+        "detail": "Khi đã có 3–5 feet khoảng trống, quyết định trong một giây: chuyền qua áp lực, hoặc tấn công ngay vào khoảng trống mới."
+      },
+      {
+        "title": "Tấn công lại sau khi thoát",
+        "detail": "Một bước thoát không nên thành mười bước. Tập lùi về cọc tiêu cách 5 feet rồi lập tức dẫn bóng vượt lại qua nó."
+      }
+    ],
+    "coachingPoints": [
+      "Giữ thấp khi lùi — đứng thẳng lên là mời hậu vệ quệt bóng.",
+      "Hai đến ba nhịp dẫn lùi mạnh là đủ; rút lui là để thoát, không phải để ở lại.",
+      "Mắt nhìn lên suốt — quét tìm đồng đội trống trước khi bắt đầu lùi.",
+      "Giữ bóng ở tay ngoài, xa hậu vệ đang đuổi theo.",
+      "Kết hợp lùi với đổi nhịp — tấn công lại ngay sau khi lùi mới là phần thưởng thật sự."
+    ],
+    "commonMistakes": [
+      "Lùi quá xa, tự giết pha tấn công — cách sửa: 3–5 feet khoảng trống là đủ; xa hơn là mời bẫy.",
+      "Chở bóng khi dẫn lùi — cách sửa: ngón tay luôn ấn xuống trên đỉnh bóng, kể cả khi di chuyển lùi.",
+      "Nhìn xuống sàn khi lùi — cách sửa: mắt là radar của bạn; nhìn lên tìm đường chuyền hoặc làn tấn công lại.",
+      "Lùi thẳng vào góc sân — cách sửa: biết đường biên ở đâu; lùi về phía giữa sân mỗi khi có thể."
+    ],
+    "gameSituations": [
+      "Phá pressing toàn sân — lùi có kiểm soát để bẫy đến với bạn, rồi chuyền qua hoặc tấn công lại.",
+      "Khi hậu vệ bám quá sát — lùi 3–4 feet, rồi dẫn vào khoảng trống anh ta vừa bỏ lại.",
+      "Tình huống cuối đồng hồ — giữ bóng sống, tạo vài feet khoảng cách và chuẩn bị cú ném cuối."
+    ],
+    "tags": [
+      "dẫn bóng",
+      "kỹ năng xử lý bóng",
+      "bộ pháp"
+    ]
+  }
+}

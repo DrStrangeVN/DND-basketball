@@ -131,5 +131,61 @@
     "iverson-cut",
     "drive-and-kick-offense"
   ],
-  "dateUpdated": "2026-10-06"
+  "dateUpdated": "2026-10-06",
+  "vi": {
+    "title": "Tình Huống Pistol",
+    "description": "Tình huống tấn công sớm đánh nhanh: DHO rồi ngay lập tức screen bóng trong transition.",
+    "whatIsIt": [
+      "Pistol là bóng rổ tấn công sớm: khi đội lên bóng, hậu vệ dẫn bóng dẫn vào DHO với cầu thủ cánh, người này ngay lập tức rẽ vào screen bóng từ big chạy sau. Ba cầu thủ, hai tình huống, không giây nào lãng phí.",
+      "Nó được thiết kế cho tốc độ. Hàng thủ vẫn đang lo kèm người từ transition thì DHO đã tới, và screen bóng đến trước khi họ kịp dựng coverage. Pistol biến khoảnh khắc nửa transition thành lợi thế có cấu trúc.",
+      "Tên gọi xuất phát từ hình dạng — đội hình nhìn từ trên xuống giống khẩu súng lục — nhưng điều quan trọng là nhịp độ. Pistol là tấn công trước khi hàng thủ sẵn sàng."
+    ],
+    "whyItMatters": [
+      "Tấn công hiệu quả nhất trong bóng rổ là tấn công sớm, trước khi hàng thủ kịp dựng. Pistol cho cấu trúc vào những giây đầu hỗn loạn — thay vì tự do trong transition, bạn chạy một chuỗi hai tình huống đã được chứng minh ở tốc độ tối đa."
+    ],
+    "howTo": [
+      {
+        "title": "Đẩy bóng lên theo biên",
+        "detail": "Hậu vệ dẫn bóng tiến nhanh lên một biên. Tốc độ là vũ khí — hàng thủ phải cảm thấy bị gấp."
+      },
+      {
+        "title": "DHO với cầu thủ cánh",
+        "detail": "Quanh khu vực cánh, hậu vệ dẫn bóng vào handoff với cầu thủ cánh, người này nhận bóng khi đang di chuyển về giữa."
+      },
+      {
+        "title": "Big chạy sau đặt screen",
+        "detail": "Big chạy sau pha bóng chạy nước rút vào đặt screen bóng ngay khi cầu thủ cánh rẽ. Screen phải được đặt sớm — tình huống diễn ra quanh vạch 3 điểm, không phải ở giữa sân."
+      },
+      {
+        "title": "Tấn công trước khi họ kịp dựng",
+        "detail": "Cầu thủ cánh đọc hàng thủ đang rối: đột phá vào khe, pull-up, hoặc chuyền cho người roll. Quyết định phải tức thì."
+      },
+      {
+        "title": "Lấp đầy hai góc",
+        "detail": "Hai cầu thủ còn lại chạy nước rút ra hai góc. Khoảng trống của họ giữ hậu vệ hỗ trợ không sập vào tình huống."
+      }
+    ],
+    "coachingPoints": [
+      "Tập 3v2 trước — cảm giác lợi thế của tấn công sớm phải được học",
+      "Cú chạy nước rút của big chạy sau là chìa khóa; big chạy bộ tới sau khi hàng thủ đã dựng xong",
+      "Dạy cầu thủ cánh đọc tình huống, không chạy theo kịch bản — phòng thủ transition khó đoán",
+      "Thể lực quan trọng: pistol chỉ hiệu quả ở tốc độ tối đa"
+    ],
+    "commonMistakes": [
+      "Chạy quá chậm, biến thành PNR nửa sân bình thường, mất hết lợi thế",
+      "DHO diễn ra quá cao, phí mất góc đánh xuống rổ",
+      "Quên hai góc — không có khoảng trống, hàng hỗ trợ sập vào và giết chết tình huống"
+    ],
+    "gameSituations": [
+      "Sau rebound phòng thủ hoặc sau khi bị ghi điểm, đẩy tấn công sớm",
+      "Khi đội bạn nhanh hơn hoặc sung sức hơn đối thủ",
+      "Để kiếm những điểm dễ trước khi hàng thủ kịp dựng kèm người"
+    ],
+    "tags": [
+      "pistol",
+      "phản công",
+      "dho",
+      "tấn công sớm"
+    ]
+  }
 }

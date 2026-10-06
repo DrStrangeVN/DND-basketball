@@ -38,5 +38,54 @@
   "regression": "Walk through rotations without live offense, reduce to 3-on-3, or keep the no-dribble rule for the whole drill.",
   "gameApplication": "Shell drill is where team defense is built — every rotation, closeout, and help decision in a game traces back to these reps.",
   "related": ["closeout-drill","box-out-battle","pick-and-roll-two-on-two"],
-  "dateUpdated": "2026-10-06"
+  "dateUpdated": "2026-10-06",
+  "vi":   {
+    "title": "Bài Shell 4v4",
+    "description": "Bài tập phòng thủ đồng đội nền tảng: 4 đấu 4 nửa sân với bóng xoay quanh vòng ngoài trong khi hậu vệ luyện help, closeout và rotation.",
+    "goal": "Cài đặt các nguyên tắc phòng thủ đồng đội — vị trí help, kỷ luật closeout và timing rotation — trong môi trường 4-4 có kiểm soát.",
+    "setup": [
+      "Bốn cầu thủ tấn công giãn quanh vòng ngoài (hai wing, hai slot); bốn hậu vệ kèm người.",
+      "Bắt đầu ở nửa sân với bóng ở một wing.",
+      "HLV đứng ở đỉnh để hô rotation và đóng băng bài tập cho những khoảnh khắc dạy."
+    ],
+    "instructions": [
+      {
+        "title": "Bóng xoay, thủ dịch chuyển",
+        "detail": "Tấn công chuyền bóng quanh vòng ngoài — lúc đầu không rê; hậu vệ dịch chuyển giữa các vị trí on-ball, deny và help sau mỗi đường chuyền."
+      },
+      {
+        "title": "Thêm closeout",
+        "detail": "Mỗi đường chuyền kích hoạt một closeout từ hậu vệ on-ball mới trong khi các hậu vệ off-ball điều chỉnh góc help."
+      },
+      {
+        "title": "Thêm một nhịp rê",
+        "detail": "Tấn công được một nhịp rê mỗi lần nhận bóng để tấn công closeout — hậu vệ luyện ngăn đột phá và xoay help."
+      },
+      {
+        "title": "Chơi live",
+        "detail": "Chơi 4-4 live đến khi tấn công ghi điểm, phòng thủ chặn được, hoặc hết 30 giây; reset và tiếp tục."
+      },
+      {
+        "title": "Chấm điểm phòng thủ",
+        "detail": "Phòng thủ được 1 điểm mỗi lần chặn; tấn công được 1 điểm mỗi rổ. Ai đến 7 trước thắng vòng."
+      }
+    ],
+    "coachingPoints": [
+      "Vừa thấy bóng vừa thấy người — hậu vệ nên ở tư thế thủ với tầm nhìn chia giữa người kèm và bóng.",
+      "Hậu vệ help: đứng lệch một bước khỏi đường thẳng giữa người bạn kèm và bóng, sẵn sàng stunt hoặc xoay.",
+      "Closeout có kiểm soát — bài shell phơi bày ngay mọi closeout lười biếng.",
+      "Hô liên tục: 'ball!', 'help left!', 'shooter!' — shell im lặng là shell hỏng."
+    ],
+    "commonMistakes": [
+      "Mải nhìn bóng mà mất người cắt — giữ đầu xoay liên tục.",
+      "Hậu vệ help đứng thẳng — vị trí help là tư thế thấp, không phải chỗ nghỉ."
+    ],
+    "progression": "Thêm cầu thủ thứ năm mỗi bên (shell 5-5), cho rê không giới hạn, hoặc thêm ball screen để ép ra quyết định coverage pick-and-roll.",
+    "regression": "Đi bộ qua các rotation không cần tấn công live, giảm xuống 3-3, hoặc giữ luật không rê suốt bài.",
+    "gameApplication": "Bài shell là nơi phòng thủ đồng đội được xây dựng — mọi rotation, closeout và quyết định help trong trận đều bắt nguồn từ những lượt tập này.",
+    "players": "8+",
+    "equipment": [
+      "Bóng rổ"
+    ]
+  }
 }

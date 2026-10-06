@@ -1,1 +1,145 @@
-{"ages":["U14","U16","U18","Adult"],"coachingPoints":["Test versatility in practice: can the wing guard a guard for three possessions, then a big?","Reward the 'glue' plays — deflections, extra passes, offensive rebounds — on film.","Build the mid-post game; wings who can punish switches become matchup nightmares.","Condition for the full game — wings cover the most ground on both ends."],"commonMistakes":["Trying to do everything and mastering nothing — pick two elite skills first.","Ball-watching on defense and losing cutters.","Forcing drives into a packed paint instead of spraying to shooters.","Coasting in transition instead of sprinting to the rim or the corner."],"dateUpdated":"2026-10-06","description":"Small forward development: versatility on both ends, slashing, wing defense and the glue skills that connect a team.","gameSituations":["Transition — the wing sprints wide and finishes or spots up.","Mismatch — a smaller defender switches on; post up or face up and attack.","Defensive stop — switching onto the hot hand for the final possessions.","Broken play — cutting backdoor when the defender overplays the wing."],"howTo":[{"detail":"Slash to the rim off closeouts and cuts: one or two dribbles, then finish through contact with either hand. Practice euro steps, pro hops, and inside-hand finishes from both sides.","title":"Finish at the rim"},{"detail":"Develop a reliable catch-and-shoot three, especially from the corners and wings. Wings who cannot shoot get ignored by defenses and clog the paint.","title":"Shoot the open three"},{"detail":"Learn to guard 2 through 4: slide with quick guards, use length against shooters, and hold ground against bigger forwards. Versatility on defense is the wing's superpower.","title":"Guard multiple positions"},{"detail":"Master the art of moving without the ball: backdoor cuts when overplayed, 45-cuts from the wing, and crashing the offensive glass from the weak side.","title":"Cut and crash"},{"detail":"The small forward often brings the ball up in a pinch and makes the extra pass in drive-and-kick. Build competent ball handling and quick, accurate passing.","title":"Handle and connect"},{"detail":"Rebound outside your area, dive for loose balls, take charges, and talk on defense. Coaches keep versatile wings on the floor because they do the things that do not show up in the box score.","title":"Do the glue work"}],"hub":"positions","id":"small-forward","level":"intermediate","positions":["SF"],"readTime":6,"related":["basketball-positions","shooting-guard","power-forward","positionless-basketball","defensive-principles"],"slug":"small-forward","subcategory":"positions","tags":["small forward","sf","wing","versatility"],"title":"Small Forward Development","whatIsIt":["The small forward — the '3' — is basketball's most versatile position. Wings score in transition, slash to the rim, shoot from outside, guard multiple positions, and rebound. They are the connectors: big enough to battle inside, skilled enough to play on the perimeter.","In the modern game the '3' blends into the '2' and '4' — the best wings defend the opponent's best player, space the floor, and attack mismatches wherever they appear."],"whyItMatters":["Versatility wins. A wing who can guard three positions, shoot, slash, and rebound fits into any lineup and any system. Coaches build rotations around two-way wings because they solve problems on both ends — they take the toughest defensive assignment and still produce offense without needing plays called for them."]}
+{
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "coachingPoints": [
+    "Test versatility in practice: can the wing guard a guard for three possessions, then a big?",
+    "Reward the 'glue' plays — deflections, extra passes, offensive rebounds — on film.",
+    "Build the mid-post game; wings who can punish switches become matchup nightmares.",
+    "Condition for the full game — wings cover the most ground on both ends."
+  ],
+  "commonMistakes": [
+    "Trying to do everything and mastering nothing — pick two elite skills first.",
+    "Ball-watching on defense and losing cutters.",
+    "Forcing drives into a packed paint instead of spraying to shooters.",
+    "Coasting in transition instead of sprinting to the rim or the corner."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "Small forward development: versatility on both ends, slashing, wing defense and the glue skills that connect a team.",
+  "gameSituations": [
+    "Transition — the wing sprints wide and finishes or spots up.",
+    "Mismatch — a smaller defender switches on; post up or face up and attack.",
+    "Defensive stop — switching onto the hot hand for the final possessions.",
+    "Broken play — cutting backdoor when the defender overplays the wing."
+  ],
+  "howTo": [
+    {
+      "detail": "Slash to the rim off closeouts and cuts: one or two dribbles, then finish through contact with either hand. Practice euro steps, pro hops, and inside-hand finishes from both sides.",
+      "title": "Finish at the rim"
+    },
+    {
+      "detail": "Develop a reliable catch-and-shoot three, especially from the corners and wings. Wings who cannot shoot get ignored by defenses and clog the paint.",
+      "title": "Shoot the open three"
+    },
+    {
+      "detail": "Learn to guard 2 through 4: slide with quick guards, use length against shooters, and hold ground against bigger forwards. Versatility on defense is the wing's superpower.",
+      "title": "Guard multiple positions"
+    },
+    {
+      "detail": "Master the art of moving without the ball: backdoor cuts when overplayed, 45-cuts from the wing, and crashing the offensive glass from the weak side.",
+      "title": "Cut and crash"
+    },
+    {
+      "detail": "The small forward often brings the ball up in a pinch and makes the extra pass in drive-and-kick. Build competent ball handling and quick, accurate passing.",
+      "title": "Handle and connect"
+    },
+    {
+      "detail": "Rebound outside your area, dive for loose balls, take charges, and talk on defense. Coaches keep versatile wings on the floor because they do the things that do not show up in the box score.",
+      "title": "Do the glue work"
+    }
+  ],
+  "hub": "positions",
+  "id": "small-forward",
+  "level": "intermediate",
+  "positions": [
+    "SF"
+  ],
+  "readTime": 6,
+  "related": [
+    "basketball-positions",
+    "shooting-guard",
+    "power-forward",
+    "positionless-basketball",
+    "defensive-principles"
+  ],
+  "slug": "small-forward",
+  "subcategory": "positions",
+  "tags": [
+    "small forward",
+    "sf",
+    "wing",
+    "versatility"
+  ],
+  "title": "Small Forward Development",
+  "whatIsIt": [
+    "The small forward — the '3' — is basketball's most versatile position. Wings score in transition, slash to the rim, shoot from outside, guard multiple positions, and rebound. They are the connectors: big enough to battle inside, skilled enough to play on the perimeter.",
+    "In the modern game the '3' blends into the '2' and '4' — the best wings defend the opponent's best player, space the floor, and attack mismatches wherever they appear."
+  ],
+  "whyItMatters": [
+    "Versatility wins. A wing who can guard three positions, shoot, slash, and rebound fits into any lineup and any system. Coaches build rotations around two-way wings because they solve problems on both ends — they take the toughest defensive assignment and still produce offense without needing plays called for them."
+  ],
+  "vi": {
+    "coachingPoints": [
+      "Kiểm tra sự đa năng trong buổi tập: cầu thủ cánh có kèm được một hậu vệ trong ba lượt bóng, rồi kèm một big man không?",
+      "Thưởng cho những pha 'gắn kết' — chạm bóng phòng thủ, chuyền thêm một nhịp, bắt bóng bật bảng tấn công — khi xem băng.",
+      "Xây dựng lối chơi mid-post; những cầu thủ cánh có thể trừng phạt các pha đổi người sẽ trở thành cơn ác mộng về đối đầu.",
+      "Rèn thể lực cho cả trận — cầu thủ cánh di chuyển nhiều nhất ở cả hai đầu sân."
+    ],
+    "commonMistakes": [
+      "Cố làm mọi thứ mà không giỏi thứ gì — hãy chọn hai kỹ năng đẳng cấp trước.",
+      "Mải nhìn bóng khi phòng thủ và để mất người cắt.",
+      "Cố đột phá vào khu vực cấm đông đúc thay vì chuyền ra cho các tay ném.",
+      "Chạy cầm chừng trong phản công thay vì nước rút tới rổ hoặc góc sân."
+    ],
+    "description": "Phát triển tiền phong phụ: đa năng cả công lẫn thủ, đột phá cắt vào rổ, phòng thủ cánh và những kỹ năng gắn kết đội bóng.",
+    "gameSituations": [
+      "Phản công — cầu thủ cánh chạy nước rút ra biên rồi dứt điểm hoặc dừng ném.",
+      "Chênh lệch — một hậu vệ nhỏ hơn đổi sang kèm; đánh lưng rổ hoặc xoay mặt tấn công.",
+      "Pha phòng thủ quyết định — đổi sang kèm tay đang nóng trong những lượt bóng cuối.",
+      "Miếng đánh vỡ — cắt backdoor khi hậu vệ kèm cánh quá sát."
+    ],
+    "howTo": [
+      {
+        "detail": "Đột phá cắt vào rổ sau closeout và các pha cắt: một hoặc hai nhịp dẫn, rồi dứt điểm xuyên qua va chạm bằng cả hai tay. Tập Euro step, pro hop và dứt điểm bằng tay trong từ cả hai phía.",
+        "title": "Dứt điểm ở rổ"
+      },
+      {
+        "detail": "Phát triển cú ném ba điểm catch-and-shoot đáng tin cậy, đặc biệt từ góc sân và cánh. Những cầu thủ cánh không ném được sẽ bị hàng thủ bỏ mặc và làm tắc nghẽn khu vực cấm.",
+        "title": "Ném ba điểm khi trống"
+      },
+      {
+        "detail": "Học cách kèm từ vị trí 2 đến 4: trượt chân theo những hậu vệ nhanh, dùng sải tay dài đối phó tay ném, và giữ vững vị trí trước những tiền phong to hơn. Đa năng trong phòng thủ là siêu năng lực của cầu thủ cánh.",
+        "title": "Kèm nhiều vị trí"
+      },
+      {
+        "detail": "Làm chủ nghệ thuật di chuyển không bóng: cắt backdoor khi bị kèm quá sát, cắt 45 độ từ cánh, và lao vào tranh bóng bật bảng tấn công từ cánh yếu.",
+        "title": "Cắt và lao vào tranh bóng"
+      },
+      {
+        "detail": "Tiền phong phụ thường phải đưa bóng lên trong lúc cấp bách và thực hiện đường chuyền thêm một nhịp trong các pha đột phá-rồi-chuyền-ra. Hãy xây dựng khả năng dẫn bóng vững và những đường chuyền nhanh, chính xác.",
+        "title": "Dẫn bóng và kết nối"
+      },
+      {
+        "detail": "Bắt bóng bật bảng ngoài khu vực của mình, lao người tranh bóng lỏng, chịu lỗi tấn công, và giao tiếp khi phòng thủ. Huấn luyện viên giữ những cầu thủ cánh đa năng trên sân vì họ làm những việc không hiện trên bảng thống kê.",
+        "title": "Làm những việc gắn kết"
+      }
+    ],
+    "tags": [
+      "tiền phong phụ",
+      "sf",
+      "cánh",
+      "đa năng"
+    ],
+    "title": "Phát triển vị trí Tiền phong phụ (SF)",
+    "whatIsIt": [
+      "Tiền phong phụ — vị trí 'số 3' — là vị trí đa năng nhất trong bóng rổ. Các cầu thủ cánh ghi điểm trong phản công, đột phá cắt vào rổ, ném từ vòng ngoài, kèm nhiều vị trí và bắt bóng bật bảng. Họ là những người kết nối: đủ to để chiến đấu bên trong, đủ khéo để chơi ở vòng ngoài.",
+      "Trong bóng rổ hiện đại, số 3 hòa lẫn với số 2 và số 4 — những cầu thủ cánh hay nhất kèm cầu thủ hay nhất của đối phương, giãn mặt sân, và tấn công vào những sự chênh lệch ở bất cứ đâu chúng xuất hiện."
+    ],
+    "whyItMatters": [
+      "Đa năng là chiến thắng. Một cầu thủ cánh có thể kèm ba vị trí, ném rổ, đột phá và bắt bóng bật bảng sẽ phù hợp với mọi đội hình và mọi hệ thống. Huấn luyện viên xây dựng đội hình xoay tua quanh những cầu thủ cánh toàn diện vì họ giải quyết vấn đề ở cả hai đầu sân — họ nhận nhiệm vụ phòng thủ khó nhất mà vẫn tạo ra điểm số mà không cần miếng đánh được gọi riêng cho mình."
+    ]
+  }
+}

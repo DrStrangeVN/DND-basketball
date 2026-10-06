@@ -2,27 +2,30 @@
 import { useEffect, useState } from "react";
 import { Check, RotateCcw } from "lucide-react";
 import { getWorkoutChecks, toggleWorkoutCheck, resetWorkoutChecks } from "@/lib/storage";
+import { useLanguage, pick } from "@/lib/i18n";
 import type { Workout } from "@/lib/types";
 
 export default function WorkoutChecklist({ workout }: { workout: Workout }) {
   const [done, setDone] = useState<number[]>([]);
+  const { lang, t } = useLanguage();
   useEffect(() => { setDone(getWorkoutChecks(workout.slug)); }, [workout.slug]);
   const pct = Math.round((done.length / workout.items.length) * 100);
+  const items = pick(lang, workout.items, workout.vi?.items);
 
   return (
     <div>
       <div className="neu mb-5 flex items-center gap-4 p-4">
-        <div className="neu-inset h-3 flex-1 overflow-hidden rounded-full" role="progressbar" aria-valuenow={pct} aria-valuemin={0} aria-valuemax={100} aria-label="Workout progress">
+        <div className="neu-inset h-3 flex-1 overflow-hidden rounded-full" role="progressbar" aria-valuenow={pct} aria-valuemin={0} aria-valuemax={100} aria-label={t("workouts.progress")}>
           <div className="h-full rounded-full bg-[color:var(--orange)] transition-all duration-300" style={{ width: `${pct}%` }} />
         </div>
         <span className="text-sm font-extrabold">{pct}%</span>
         <button onClick={() => setDone(resetWorkoutChecks(workout.slug) ?? getWorkoutChecks(workout.slug))}
-          className="neu-btn inline-flex items-center gap-1 px-3 py-1.5 text-[12px] font-semibold text-[color:var(--muted)]" aria-label="Reset checklist">
-          <RotateCcw className="h-3.5 w-3.5" aria-hidden /> Reset
+          className="neu-btn inline-flex items-center gap-1 px-3 py-1.5 text-[12px] font-semibold text-[color:var(--muted)]" aria-label={t("workouts.reset")}>
+          <RotateCcw className="h-3.5 w-3.5" aria-hidden /> {t("workouts.reset")}
         </button>
       </div>
       <ol className="space-y-3">
-        {workout.items.map((it, i) => {
+        {items.map((it, i) => {
           const checked = done.includes(i);
           return (
             <li key={i}>
@@ -46,8 +49,8 @@ export default function WorkoutChecklist({ workout }: { workout: Workout }) {
       </ol>
       {pct === 100 && (
         <div className="neu mt-5 p-6 text-center">
-          <p className="text-lg font-extrabold">Workout complete. 🏀</p>
-          <p className="mt-1 text-sm text-[color:var(--muted)]">Consistency beats intensity. Come back tomorrow.</p>
+          <p className="text-lg font-extrabold">{t("workouts.completeTitle")}</p>
+          <p className="mt-1 text-sm text-[color:var(--muted)]">{t("workouts.completeDesc")}</p>
         </div>
       )}
     </div>

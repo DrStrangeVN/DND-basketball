@@ -1,1 +1,146 @@
-{"ages":["U10","U12","U14","U16","U18","Adult"],"coachingPoints":["Track fouls out loud in practice scrimmages so players learn to manage them.","Teach verticality at the rim — it blocks shots without fouling.","Reward defenders who force tough shots without contact; do not reward gambling steals.","Role-play late-game bonus situations so players understand when to attack and when to avoid contact."],"commonMistakes":["Reaching in on a dribbler instead of moving feet.","Jumping into the shooter's landing space — dangerous and always a foul.","Grabbing jerseys or arms on box-outs and screens.","Picking up a silly third foul arguing a call in the second quarter."],"dateUpdated":"2026-10-06","description":"Personal, shooting, offensive, technical and flagrant fouls — what they are, what they cost, and how to play physical but clean.","gameSituations":["And-one — the shooter scores through contact and gets a bonus free throw.","Bonus — after the team-foul limit, every defensive foul gives free throws.","Charge vs. block — the game's most debated call, decided by whether the defender was set in time.","Intentional fouls — trailing teams foul late to stop the clock and hope for missed free throws."],"howTo":[{"detail":"Stay in a stance, slide your feet, and keep your hands up or out wide. Most fouls come from reaching in or grabbing when beaten — if you are beaten, sprint to recover instead of reaching.","title":"Defend with your feet, not your hands"},{"detail":"When contesting a shot, jump vertically with arms straight up. Jumping into the shooter or swiping down across their arms is a shooting foul and free throws.","title":"Go straight up on contests"},{"detail":"To draw a charge, you must be set — both feet on the floor, facing the opponent — before they begin their upward shooting motion, and you must be outside the restricted area arc.","title":"Establish legal guarding position early"},{"detail":"As a ball handler, you cannot lower your shoulder and plow through a set defender, push off with your off arm to create space, or hook a defender on a drive. Change direction or stop instead of charging through.","title":"Avoid the offensive foul"},{"detail":"Know how many fouls you have. With two early fouls, play less aggressively on reach-in gambles; coaches will often sit you to protect you for the finish. With the team in the bonus, every foul gives away free points — defend without contact.","title":"Manage your foul count"},{"detail":"Arguing, taunting, or hanging on the rim earns technical fouls — free throws plus possession for the other team. Play through the whistle and let your coach address the officials.","title":"Keep your composure"}],"hub":"fundamentals","id":"fouls-explained","level":"beginner","positions":["ALL"],"readTime":5,"related":["basketball-rules","violations-explained","scoring-basketball","defensive-principles"],"slug":"fouls-explained","subcategory":"fundamentals","tags":["fouls","defense","rules","free throws"],"title":"Fouls Explained","whatIsIt":["A foul is illegal contact — pushing, holding, hitting, or tripping an opponent, or moving into a player who has established legal position. Unlike violations, fouls are recorded against individual players and against the team, and they can lead to free throws for the opponent.","The most common fouls: personal fouls (illegal contact during play), shooting fouls (contact on a shooter, which awards free throws), offensive fouls or 'charges' (the ball handler crashing into a set defender), and technical fouls (unsportsmanlike behavior). Players who collect too many personal fouls — five in FIBA and high school, six in the NBA — foul out of the game."],"whyItMatters":["Fouls decide close games. Teams in the bonus get free points at the line, star players in foul trouble sit on the bench, and a reckless defender hands the opponent easy scores. Learning to play physical defense without fouling — moving your feet instead of reaching — is one of the most valuable skills in basketball."]}
+{
+  "ages": [
+    "U10",
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "coachingPoints": [
+    "Track fouls out loud in practice scrimmages so players learn to manage them.",
+    "Teach verticality at the rim — it blocks shots without fouling.",
+    "Reward defenders who force tough shots without contact; do not reward gambling steals.",
+    "Role-play late-game bonus situations so players understand when to attack and when to avoid contact."
+  ],
+  "commonMistakes": [
+    "Reaching in on a dribbler instead of moving feet.",
+    "Jumping into the shooter's landing space — dangerous and always a foul.",
+    "Grabbing jerseys or arms on box-outs and screens.",
+    "Picking up a silly third foul arguing a call in the second quarter."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "Personal, shooting, offensive, technical and flagrant fouls — what they are, what they cost, and how to play physical but clean.",
+  "gameSituations": [
+    "And-one — the shooter scores through contact and gets a bonus free throw.",
+    "Bonus — after the team-foul limit, every defensive foul gives free throws.",
+    "Charge vs. block — the game's most debated call, decided by whether the defender was set in time.",
+    "Intentional fouls — trailing teams foul late to stop the clock and hope for missed free throws."
+  ],
+  "howTo": [
+    {
+      "detail": "Stay in a stance, slide your feet, and keep your hands up or out wide. Most fouls come from reaching in or grabbing when beaten — if you are beaten, sprint to recover instead of reaching.",
+      "title": "Defend with your feet, not your hands"
+    },
+    {
+      "detail": "When contesting a shot, jump vertically with arms straight up. Jumping into the shooter or swiping down across their arms is a shooting foul and free throws.",
+      "title": "Go straight up on contests"
+    },
+    {
+      "detail": "To draw a charge, you must be set — both feet on the floor, facing the opponent — before they begin their upward shooting motion, and you must be outside the restricted area arc.",
+      "title": "Establish legal guarding position early"
+    },
+    {
+      "detail": "As a ball handler, you cannot lower your shoulder and plow through a set defender, push off with your off arm to create space, or hook a defender on a drive. Change direction or stop instead of charging through.",
+      "title": "Avoid the offensive foul"
+    },
+    {
+      "detail": "Know how many fouls you have. With two early fouls, play less aggressively on reach-in gambles; coaches will often sit you to protect you for the finish. With the team in the bonus, every foul gives away free points — defend without contact.",
+      "title": "Manage your foul count"
+    },
+    {
+      "detail": "Arguing, taunting, or hanging on the rim earns technical fouls — free throws plus possession for the other team. Play through the whistle and let your coach address the officials.",
+      "title": "Keep your composure"
+    }
+  ],
+  "hub": "fundamentals",
+  "id": "fouls-explained",
+  "level": "beginner",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 5,
+  "related": [
+    "basketball-rules",
+    "violations-explained",
+    "scoring-basketball",
+    "defensive-principles"
+  ],
+  "slug": "fouls-explained",
+  "subcategory": "fundamentals",
+  "tags": [
+    "fouls",
+    "defense",
+    "rules",
+    "free throws"
+  ],
+  "title": "Fouls Explained",
+  "whatIsIt": [
+    "A foul is illegal contact — pushing, holding, hitting, or tripping an opponent, or moving into a player who has established legal position. Unlike violations, fouls are recorded against individual players and against the team, and they can lead to free throws for the opponent.",
+    "The most common fouls: personal fouls (illegal contact during play), shooting fouls (contact on a shooter, which awards free throws), offensive fouls or 'charges' (the ball handler crashing into a set defender), and technical fouls (unsportsmanlike behavior). Players who collect too many personal fouls — five in FIBA and high school, six in the NBA — foul out of the game."
+  ],
+  "whyItMatters": [
+    "Fouls decide close games. Teams in the bonus get free points at the line, star players in foul trouble sit on the bench, and a reckless defender hands the opponent easy scores. Learning to play physical defense without fouling — moving your feet instead of reaching — is one of the most valuable skills in basketball."
+  ],
+  "vi": {
+    "title": "Các Lỗi Trong Bóng Rổ",
+    "description": "Lỗi cá nhân, lỗi ném, lỗi tấn công, lỗi kỹ thuật và lỗi ác ý — chúng là gì, cái giá phải trả, và cách chơi mạnh mẽ nhưng sạch.",
+    "whatIsIt": [
+      "Lỗi là va chạm trái phép — đẩy, giữ, đánh, hoặc ngáng chân đối thủ, hoặc di chuyển vào người một cầu thủ đã thiết lập vị trí hợp lệ. Khác với vi phạm (violation), lỗi được ghi vào từng cầu thủ và vào cả đội, và có thể dẫn đến những quả ném phạt cho đối phương.",
+      "Các lỗi phổ biến nhất: lỗi cá nhân (va chạm trái phép trong lúc chơi), lỗi ném (va chạm với người đang ném, bị phạt bằng ném phạt), lỗi tấn công hay 'charge' (người cầm bóng đâm vào một hậu vệ đã đứng sẵn), và lỗi kỹ thuật (hành vi phi thể thao). Cầu thủ nhận quá nhiều lỗi cá nhân — năm lỗi ở FIBA và bóng rổ học đường, sáu lỗi ở NBA — sẽ bị truất quyền thi đấu."
+    ],
+    "whyItMatters": [
+      "Lỗi quyết định những trận sát nút. Đội đang trong bonus được những điểm miễn phí ở vạch ném phạt, ngôi sao dính rắc rối lỗi phải ngồi dự bị, và một hậu vệ liều lĩnh dâng cho đối phương những điểm số dễ dàng. Học cách phòng thủ mạnh mẽ mà không phạm lỗi — di chuyển chân thay vì với tay — là một trong những kỹ năng giá trị nhất trong bóng rổ."
+    ],
+    "howTo": [
+      {
+        "title": "Phòng thủ bằng chân, không phải bằng tay",
+        "detail": "Giữ tư thế thấp, trượt chân, và giữ tay giơ cao hoặc dang rộng. Hầu hết các lỗi đến từ việc với tay hoặc túm khi bị vượt qua — nếu đã bị qua mặt, hãy chạy nước rút để hồi vị thay vì với tay."
+      },
+      {
+        "title": "Nhảy thẳng khi contest cú ném",
+        "detail": "Khi contest cú ném, nhảy thẳng đứng với hai tay giơ thẳng. Nhảy vào người ném hoặc quạt tay xuống ngang tay họ là lỗi ném và bị phạt ném phạt."
+      },
+      {
+        "title": "Thiết lập vị trí phòng thủ hợp lệ từ sớm",
+        "detail": "Để kiếm lỗi tấn công (charge), bạn phải đứng sẵn — cả hai chân chạm đất, đối mặt đối thủ — trước khi họ bắt đầu động tác nhảy ném, và phải đứng ngoài vòng cung restricted area."
+      },
+      {
+        "title": "Tránh lỗi tấn công",
+        "detail": "Là người cầm bóng, bạn không được hạ vai húc qua một hậu vệ đã đứng sẵn, dùng tay không cầm bóng đẩy để tạo khoảng trống, hay móc tay hậu vệ khi đột phá. Hãy đổi hướng hoặc dừng lại thay vì đâm xuyên qua."
+      },
+      {
+        "title": "Quản lý số lỗi của mình",
+        "detail": "Biết mình đang có bao nhiêu lỗi. Với hai lỗi sớm, hãy chơi ít liều lĩnh hơn trong các pha với tay cướp bóng; huấn luyện viên thường sẽ cho bạn ngồi để bảo vệ bạn cho giai đoạn cuối. Khi đội đã vào bonus, mỗi lỗi là dâng điểm miễn phí — hãy phòng thủ không va chạm."
+      },
+      {
+        "title": "Giữ bình tĩnh",
+        "detail": "Tranh cãi, khiêu khích, hay treo người trên rổ sẽ bị lỗi kỹ thuật — đối phương được ném phạt cộng quyền kiểm soát bóng. Hãy chơi đến khi có còi và để huấn luyện viên làm việc với trọng tài."
+      }
+    ],
+    "coachingPoints": [
+      "Đếm lỗi to tiếng trong các trận đấu tập để cầu thủ học cách quản lý lỗi.",
+      "Dạy verticality ở rổ — block cú ném mà không phạm lỗi.",
+      "Khen thưởng những hậu vệ ép đối thủ ném khó mà không va chạm; đừng khen những pha cướp bóng liều lĩnh.",
+      "Mô phỏng các tình huống bonus cuối trận để cầu thủ hiểu khi nào nên tấn công và khi nào nên tránh va chạm."
+    ],
+    "commonMistakes": [
+      "Với tay vào người dẫn bóng thay vì di chuyển chân.",
+      "Nhảy vào khoảng đáp của tay ném — nguy hiểm và luôn là lỗi.",
+      "Túm áo hoặc túm tay khi box-out và chắn bóng.",
+      "Nhận lỗi thứ ba ngớ ngẩn vì tranh cãi với trọng tài trong hiệp hai."
+    ],
+    "gameSituations": [
+      "And-one — tay ném ghi điểm qua va chạm và được thêm một quả ném phạt.",
+      "Bonus — sau giới hạn lỗi đồng đội, mỗi lỗi phòng thủ đều cho đối phương ném phạt.",
+      "Charge đấu block — quyết định gây tranh cãi nhất, phụ thuộc vào việc hậu vệ đã đứng sẵn kịp thời hay chưa.",
+      "Phạm lỗi chiến thuật — đội đang bị dẫn phạm lỗi cuối trận để dừng đồng hồ và hy vọng đối phương ném phạt trượt."
+    ],
+    "tags": [
+      "lỗi",
+      "phòng thủ",
+      "luật",
+      "ném phạt"
+    ]
+  }
+}

@@ -1,36 +1,39 @@
+"use client";
 import Link from "next/link";
+import { useLanguage } from "@/lib/i18n";
 
-const COLS: { title: string; links: { label: string; href: string }[] }[] = [
+const COLS: { titleKey: string; links: { labelKey: string; href: string }[] }[] = [
   {
-    title: "Learn", links: [
-      { label: "Fundamentals", href: "/fundamentals" },
-      { label: "Skills", href: "/skills" },
-      { label: "Basketball IQ", href: "/basketball-iq" },
-      { label: "Positions", href: "/positions" },
-      { label: "Glossary", href: "/glossary" },
+    titleKey: "nav.learn", links: [
+      { labelKey: "nav.fundamentals", href: "/fundamentals" },
+      { labelKey: "nav.skills", href: "/skills" },
+      { labelKey: "nav.basketballIq", href: "/basketball-iq" },
+      { labelKey: "nav.positions", href: "/positions" },
+      { labelKey: "nav.glossary", href: "/glossary" },
     ],
   },
   {
-    title: "Train", links: [
-      { label: "Drill Library", href: "/drills" },
-      { label: "Workouts", href: "/workouts" },
-      { label: "Learning Paths", href: "/learning-paths" },
-      { label: "Film Room", href: "/film-room" },
-      { label: "My Library", href: "/library" },
+    titleKey: "footer.train", links: [
+      { labelKey: "nav.drillLibrary", href: "/drills" },
+      { labelKey: "nav.workouts", href: "/workouts" },
+      { labelKey: "nav.learningPaths", href: "/learning-paths" },
+      { labelKey: "nav.filmRoom", href: "/film-room" },
+      { labelKey: "nav.library", href: "/library" },
     ],
   },
   {
-    title: "Tactics", links: [
-      { label: "Offense", href: "/offense" },
-      { label: "Defense", href: "/defense" },
-      { label: "Pick & Roll", href: "/pick-and-roll" },
-      { label: "Actions", href: "/tactics" },
-      { label: "Coaches Corner", href: "/coaching" },
+    titleKey: "nav.tactics", links: [
+      { labelKey: "nav.offense", href: "/offense" },
+      { labelKey: "nav.defense", href: "/defense" },
+      { labelKey: "nav.pickAndRoll", href: "/pick-and-roll" },
+      { labelKey: "nav.actions", href: "/tactics" },
+      { labelKey: "nav.coachesCorner", href: "/coaching" },
     ],
   },
 ];
 
 export default function Footer() {
+  const { t } = useLanguage();
   return (
     <footer className="mx-auto max-w-7xl px-3 pb-28 pt-10 sm:px-5 md:pb-10">
       <div className="neu p-6 sm:p-10">
@@ -44,21 +47,21 @@ export default function Footer() {
               </svg>
               <div className="leading-none">
                 <p className="text-base font-extrabold tracking-tight">DND BASKETBALL</p>
-                <p className="text-[10px] font-semibold uppercase tracking-[0.22em] text-[color:var(--orange)]">Learn. Train. Understand the Game.</p>
+                <p className="text-[10px] font-semibold uppercase tracking-[0.22em] text-[color:var(--orange)]">{t("footer.tagline")}</p>
               </div>
             </div>
             <p className="mt-4 max-w-sm text-sm leading-relaxed text-[color:var(--muted)]">
-              Built to help players understand the game, train smarter and play better.
+              {t("footer.about")}
             </p>
           </div>
           <div className="grid grid-cols-2 gap-6 sm:grid-cols-3">
             {COLS.map((col) => (
-              <div key={col.title}>
-                <p className="mb-2 text-[11px] font-bold uppercase tracking-[0.16em] text-[color:var(--orange)]">{col.title}</p>
+              <div key={col.titleKey}>
+                <p className="mb-2 text-[11px] font-bold uppercase tracking-[0.16em] text-[color:var(--orange)]">{t(col.titleKey)}</p>
                 <ul className="space-y-1.5">
                   {col.links.map((l) => (
                     <li key={l.href}>
-                      <Link href={l.href} className="text-sm text-[color:var(--muted)] hover:text-[color:var(--ink)]">{l.label}</Link>
+                      <Link href={l.href} className="text-sm text-[color:var(--muted)] hover:text-[color:var(--ink)]">{t(l.labelKey)}</Link>
                     </li>
                   ))}
                 </ul>
@@ -67,8 +70,8 @@ export default function Footer() {
           </div>
         </div>
         <div className="mt-8 flex flex-col items-start justify-between gap-2 border-t border-[color:var(--line)] pt-5 text-xs text-[color:var(--faint)] sm:flex-row sm:items-center">
-          <p>© {new Date().getFullYear()} DND Basketball. The Complete Basketball Knowledge Hub.</p>
-          <p>All diagrams and illustrations are original, drawn for learning.</p>
+          <p>© {new Date().getFullYear()} DND Basketball. {t("footer.rights")}</p>
+          <p>{t("footer.diagrams")}</p>
         </div>
       </div>
     </footer>

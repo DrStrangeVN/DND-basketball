@@ -127,5 +127,61 @@
     "screening-basketball",
     "zoom-action"
   ],
-  "dateUpdated": "2026-10-06"
+  "dateUpdated": "2026-10-06",
+  "vi": {
+    "title": "Flare Screen",
+    "description": "Người chắn nghiêng hướng người cắt ra xa bóng về phía biên dọc — đòn đối phó chết người cho các tay ném.",
+    "whatIsIt": [
+      "Flare screen đưa người cắt ra xa bóng về phía biên dọc — hướng ngược với hầu hết các pha chắn bóng. Người chắn đứng quay mặt về baseline và tay ném bật ra wing để nhận bóng ném ba.",
+      "Đây là đòn phản công. Hàng thủ được rèn để đuổi theo các tay ném chạy về phía bóng (pin down, curl); pha flare đi ngược hướng, và đà của hậu vệ kéo họ đi sai hướng.",
+      "Flare screen cũng là công cụ tạo mismatch tuyệt vời: khi hàng thủ đổi người, người chắn — thường là một big — bỗng có một hậu vệ nhỏ để khai thác."
+    ],
+    "whyItMatters": [
+      "Pha flare đánh vào thói quen của hàng thủ. Sau khi vật lộn qua các pin down cả trận, hậu vệ nghiêng về phía bóng — và pha flare đi đúng nơi họ không có mặt. Đây là pha chắn bóng khiến mọi pha chắn bóng khác phải trung thực."
+    ],
+    "howTo": [
+      {
+        "title": "Nghiêng góc chắn về phía biên",
+        "detail": "Người chắn quay mặt về phía baseline/biên dọc, dựng pha chắn sao cho đường chạy của người cắt dẫn ra xa bóng. Góc chắn là cả pha bóng."
+      },
+      {
+        "title": "Tay ném: giả vào trong, bật ra ngoài",
+        "detail": "Trước tiên bước một nhịp về phía bóng hoặc về phía rổ, rồi bứt tốc ra pha flare. Pha giả là thứ khiến hậu vệ nghiêng sai hướng."
+      },
+      {
+        "title": "Bứt tốc đến vạch ba điểm",
+        "detail": "Pha flare thường kết thúc ở cú ném ba góc wing. Hết tốc độ — cửa sổ đóng lại rất nhanh."
+      },
+      {
+        "title": "Nhận bóng và ném theo nhịp",
+        "detail": "Chân đã đặt sẵn khi nhận bóng, vào ngay cú ném. Ném ba từ flare là những cú ném theo nhịp; do dự sẽ giết chết chúng."
+      },
+      {
+        "title": "Đọc pha đổi người",
+        "detail": "Nếu hàng thủ đổi người ở pha flare, lập tức tìm mismatch — người chắn post-up một hậu vệ nhỏ, hoặc tay ném tấn công một big."
+      }
+    ],
+    "coachingPoints": [
+      "Góc chắn phải được dạy thật chính xác — một pha flare sai góc thì không chắn được ai.",
+      "Rèn pha giả setup của tay ném; không có nó, hậu vệ chỉ việc bám theo.",
+      "Dạy đọc pha đổi người từ sớm — flare tạo ra đổi người liên tục.",
+      "Ghép flare với pin down trong buổi tập để cầu thủ cảm nhận sự tương phản."
+    ],
+    "commonMistakes": [
+      "Dựng pha flare với góc của pin down, đưa người cắt vào giữa đám đông.",
+      "Không có pha giả setup, hậu vệ chỉ việc bám theo đường cắt.",
+      "Nhận bóng rồi giữ lại thay vì ném theo nhịp."
+    ],
+    "gameSituations": [
+      "Đòn đối phó khi hàng thủ đang bắt bài các pha pin down và curl của bạn.",
+      "Trước hàng thủ đổi người để tạo mismatch.",
+      "Cho các tay ném cừ khôi cần một cú nhìn khác sau những pha pin down lặp đi lặp lại."
+    ],
+    "tags": [
+      "flare screen",
+      "chắn bóng",
+      "ném rổ",
+      "đòn đối phó"
+    ]
+  }
 }

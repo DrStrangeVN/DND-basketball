@@ -122,5 +122,61 @@
     "screen-angle",
     "snake-dribble"
   ],
-  "dateUpdated": "2026-10-06"
+  "dateUpdated": "2026-10-06",
+  "vi": {
+    "title": "Từ Chối Screen",
+    "description": "Khi hàng thủ quá tập trung bắt screen, người dẫn bóng từ chối screen và tấn công sang hướng ngược lại.",
+    "whatIsIt": [
+      "Từ chối screen nghĩa là người cầm bóng giả tấn công về phía screen, rồi bùng nổ sang hướng ngược lại thay vì sử dụng screen. Đây là chiêu đáp trả khi hàng thủ gian lận — khi hậu vệ phòng bóng nhảy qua screen từ sớm, hoặc hậu vệ của người chắn dâng lên trước khi screen đến.",
+      "Chiêu reject hiệu quả vì hàng thủ đã cam kết. Cả hai hậu vệ đều nghiêng về phía screen, nghĩa là phía bên kia sân hoàn toàn trống. Chỉ cần một pha crossover hoặc behind-the-back mạnh là người cầm bóng đã lao xuống với không còn ai chắn trước mặt.",
+      "Đây là kỹ năng đọc tình huống ở trình độ nâng cao vì cần phải bán được pha giả. Một pha reject lười biếng, không có phần giả dựng trước, chỉ là dẫn bóng tránh screen — hàng thủ vẫn cân bằng và chẳng thu được gì."
+    ],
+    "whyItMatters": [
+      "Những hàng thủ quá tập trung bắt pick-and-roll chính là đang mời gọi bị reject. Không có mối đe dọa reject, hậu vệ có thể gian lận mọi pha screen mà không bị trừng phạt. Có nó, họ buộc phải phòng thủ trung thực — mà phòng thủ trung thực trước một pick-and-roll tốt vốn đã là thua."
+    ],
+    "howTo": [
+      {
+        "title": "Bán pha giả trước",
+        "detail": "Dẫn hai nhịp mạnh về phía screen, mắt nhìn lên. Pha giả mới là thứ làm hàng thủ di chuyển — không có nó thì chẳng có gì để từ chối."
+      },
+      {
+        "title": "Đọc chiêu gian lận",
+        "detail": "Chú ý khi hậu vệ phòng bóng chạy nước rút để qua sớm, hoặc hậu vệ của người chắn bước ra trước khi va chạm. Bất kỳ dấu hiệu gian lận nào cũng là đèn xanh."
+      },
+      {
+        "title": "Bùng nổ sang hướng ngược",
+        "detail": "Một pha đi bóng dứt khoát — crossover, between the legs, hoặc behind the back — rồi đi. Bước đầu tiên phải cực kỳ mạnh; reject chậm chạp sẽ để hàng thủ kịp hồi phục."
+      },
+      {
+        "title": "Tấn công khoảng trống",
+        "detail": "Hàng thủ đã nghiêng về phía screen nên làn đường ngược lại đang mở. Dẫn thẳng vào hoặc pull up nếu trung phong đối phương xoay ra."
+      },
+      {
+        "title": "Giữ người chắn trong cuộc",
+        "detail": "Người chắn giỏi sẽ đọc pha reject và dive hoặc di chuyển ra chỗ trống. Giao tiếp — một tiếng gọi hoặc ánh mắt nhanh — giúp giữ hai người phối hợp ăn ý."
+      }
+    ],
+    "coachingPoints": [
+      "Chỉ dạy reject khi các pha đọc pick-and-roll cơ bản đã vững — đây là chiêu phản đòn, không phải điểm xuất phát.",
+      "Luyện phần giả dựng: pha giả về phía screen phải trông giống hệt một pha tấn công pick-and-roll thật.",
+      "Xem video giúp ích — cho cầu thủ xem hậu vệ gian lận trông như thế nào trước khi screen đến.",
+      "Tập với hậu vệ thật được chỉ đạo gian lận; khả năng đọc tình huống không hình thành khi tập với cọc tiêu."
+    ],
+    "commonMistakes": [
+      "Reject mà không có phần giả dựng — hàng thủ không bao giờ cam kết nên chẳng thu được gì.",
+      "Reject đâm vào hậu vệ của người chắn đang đứng sẵn trong làn đường.",
+      "Bước đầu tiên quá chậm, để hậu vệ gian lận kịp hồi phục."
+    ],
+    "gameSituations": [
+      "Khi hậu vệ phòng bóng rõ ràng đang cố chạy tới phía screen trước bạn.",
+      "Trước các hàng thủ hedge quyết liệt, dâng sớm.",
+      "Cuối trận khi hàng thủ đã xem pick-and-roll của bạn cả đêm và bắt đầu nhảy sớm."
+    ],
+    "tags": [
+      "pick and roll",
+      "reject",
+      "đọc tình huống",
+      "nâng cao"
+    ]
+  }
 }

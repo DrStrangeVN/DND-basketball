@@ -1,1 +1,140 @@
-{"ages":["U14","U16","U18","Adult","Competitive"],"coachingPoints":["The hedge must be hard and flat — a soft hedge helps nobody","The hedging big recovers on a sprint, not a jog — the roll man is his responsibility","The guard must get through the screen skinny and recover to the ball","Only hedge with bigs who can move; a slow big hedging is a layup drill","Use the hedge as a change-up, not a full-game diet — offenses adjust"],"commonMistakes":["Hedging soft — the ball handler splits it and the defense is broken","The big hedging and then jogging back — the roller gets a free dunk","Hedging without weak-side help behind it — no tag means no recovery","The guard failing to get through — two defenders on the ball and nobody on the roll"],"dateUpdated":"2026-10-06","description":"Hedging ball screens: the big jumps out hard to stop the ball, then sprints back — timing, angles, and recovery.","gameSituations":["Against a great ball handler you want to get the ball out of his hands","Late clock when you need to disrupt the offense's timing","As a change-up coverage to confuse a pick & roll heavy team","When your big is mobile enough to show high and recover"],"howTo":[{"detail":"As the ball handler comes off the screen, the screener's defender jumps out hard and high — above the level of the screen — getting square to the ball handler and stopping his momentum cold.","title":"Big jumps out hard on the ball"},{"detail":"The hedging big stays with the ball handler for one or two dribbles, forcing him to retreat or pick up the ball. The goal is disruption, not a steal.","title":"Contain for a two-count"},{"detail":"Meanwhile the on-ball defender fights over or under the screen and recovers to the ball handler. The moment the guard is back on the ball, the big's job is done.","title":"Guard recovers to the ball"},{"detail":"The instant the guard recovers, the big sprints back to the rolling screener. This recovery sprint is the whole coverage — a jogging big gives up a dunk.","title":"Sprint back to the roller"},{"detail":"Behind the play, the weak-side defenders are in rotation: one tags the roller, the others sink into gaps. The hedge only works if three players rotate behind it.","title":"Weak side rotates behind the hedge"}],"hub":"defense","id":"hedge-defense","level":"advanced","positions":["ALL"],"readTime":6,"related":["ball-screen-defense","drop-coverage-defense","switch-defense","ice-defense","help-defense"],"slug":"hedge-defense","subcategory":"defense-fundamentals","tags":["defense","hedge","pick and roll","coverage"],"title":"Hedging Ball Screens","whatIsIt":["A hedge is an aggressive ball screen coverage where the screener's defender jumps out hard on the ball handler — 'showing' high above the screen — to stop the ball, then sprints back to the rolling screener. It is a temporary double-team designed to disrupt the pick & roll's timing.","The hedge buys the on-ball defender time to recover while blowing up the offense's rhythm. When it works, the ball handler is stuck 25 feet from the basket with nowhere to go. When it fails — a soft hedge, a slow recovery — it gives up the easiest dunk of the game to the rolling big."],"whyItMatters":["Hedging is the coverage you reach for when you need to take the ball out of a great player's hands. It is disruptive by design and can swing momentum in a close game. But it demands a mobile big, perfect timing, and three teammates rotating behind it — which is why it is a change-up weapon, not an every-possession diet."]}
+{
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult",
+    "Competitive"
+  ],
+  "coachingPoints": [
+    "The hedge must be hard and flat — a soft hedge helps nobody",
+    "The hedging big recovers on a sprint, not a jog — the roll man is his responsibility",
+    "The guard must get through the screen skinny and recover to the ball",
+    "Only hedge with bigs who can move; a slow big hedging is a layup drill",
+    "Use the hedge as a change-up, not a full-game diet — offenses adjust"
+  ],
+  "commonMistakes": [
+    "Hedging soft — the ball handler splits it and the defense is broken",
+    "The big hedging and then jogging back — the roller gets a free dunk",
+    "Hedging without weak-side help behind it — no tag means no recovery",
+    "The guard failing to get through — two defenders on the ball and nobody on the roll"
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "Hedging ball screens: the big jumps out hard to stop the ball, then sprints back — timing, angles, and recovery.",
+  "gameSituations": [
+    "Against a great ball handler you want to get the ball out of his hands",
+    "Late clock when you need to disrupt the offense's timing",
+    "As a change-up coverage to confuse a pick & roll heavy team",
+    "When your big is mobile enough to show high and recover"
+  ],
+  "howTo": [
+    {
+      "detail": "As the ball handler comes off the screen, the screener's defender jumps out hard and high — above the level of the screen — getting square to the ball handler and stopping his momentum cold.",
+      "title": "Big jumps out hard on the ball"
+    },
+    {
+      "detail": "The hedging big stays with the ball handler for one or two dribbles, forcing him to retreat or pick up the ball. The goal is disruption, not a steal.",
+      "title": "Contain for a two-count"
+    },
+    {
+      "detail": "Meanwhile the on-ball defender fights over or under the screen and recovers to the ball handler. The moment the guard is back on the ball, the big's job is done.",
+      "title": "Guard recovers to the ball"
+    },
+    {
+      "detail": "The instant the guard recovers, the big sprints back to the rolling screener. This recovery sprint is the whole coverage — a jogging big gives up a dunk.",
+      "title": "Sprint back to the roller"
+    },
+    {
+      "detail": "Behind the play, the weak-side defenders are in rotation: one tags the roller, the others sink into gaps. The hedge only works if three players rotate behind it.",
+      "title": "Weak side rotates behind the hedge"
+    }
+  ],
+  "hub": "defense",
+  "id": "hedge-defense",
+  "level": "advanced",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 6,
+  "related": [
+    "ball-screen-defense",
+    "drop-coverage-defense",
+    "switch-defense",
+    "ice-defense",
+    "help-defense"
+  ],
+  "slug": "hedge-defense",
+  "subcategory": "defense-fundamentals",
+  "tags": [
+    "defense",
+    "hedge",
+    "pick and roll",
+    "coverage"
+  ],
+  "title": "Hedging Ball Screens",
+  "whatIsIt": [
+    "A hedge is an aggressive ball screen coverage where the screener's defender jumps out hard on the ball handler — 'showing' high above the screen — to stop the ball, then sprints back to the rolling screener. It is a temporary double-team designed to disrupt the pick & roll's timing.",
+    "The hedge buys the on-ball defender time to recover while blowing up the offense's rhythm. When it works, the ball handler is stuck 25 feet from the basket with nowhere to go. When it fails — a soft hedge, a slow recovery — it gives up the easiest dunk of the game to the rolling big."
+  ],
+  "whyItMatters": [
+    "Hedging is the coverage you reach for when you need to take the ball out of a great player's hands. It is disruptive by design and can swing momentum in a close game. But it demands a mobile big, perfect timing, and three teammates rotating behind it — which is why it is a change-up weapon, not an every-possession diet."
+  ],
+  "vi": {
+    "title": "Hedge Chắn Bóng",
+    "description": "Hedge chắn bóng: big nhảy ra mạnh để chặn bóng, rồi chạy nước rút về — thời điểm, góc độ và cách quay về.",
+    "whatIsIt": [
+      "Hedge là cách kèm chắn bóng quyết liệt, trong đó hậu vệ của người chắn nhảy ra mạnh về phía người dẫn bóng — 'dâng' cao trên pha chắn — để chặn bóng, rồi chạy nước rút về người chắn đang lăn (roll). Đây là pha kèm đôi tạm thời nhằm phá nhịp của pick & roll.",
+      "Hedge giúp hậu vệ kèm bóng có thời gian quay về, đồng thời phá vỡ nhịp tấn công. Khi thành công, người dẫn bóng bị kẹt cách rổ 25 feet không lối thoát. Khi thất bại — hedge mềm, quay về chậm — nó dâng cho big đang roll cú dunk dễ nhất trận."
+    ],
+    "whyItMatters": [
+      "Hedge là cách kèm bạn dùng khi cần lấy bóng khỏi tay một cầu thủ giỏi. Nó sinh ra để gây rối loạn và có thể xoay chuyển đà trận đấu. Nhưng nó đòi hỏi một big cơ động, thời điểm hoàn hảo, và ba đồng đội luân chuyển phía sau — đó là lý do nó là vũ khí đổi nhịp, không phải món ăn mỗi lần tấn công."
+    ],
+    "howTo": [
+      {
+        "title": "Big nhảy ra mạnh về phía bóng",
+        "detail": "Khi người dẫn bóng ra khỏi pha chắn, hậu vệ của người chắn nhảy ra mạnh và cao — trên tầm của pha chắn — đứng vuông góc với người dẫn bóng và chặn đứng đà của anh ta."
+      },
+      {
+        "title": "Giữ bóng trong hai nhịp",
+        "detail": "Big hedge giữ người dẫn bóng trong một đến hai nhịp dẫn, ép anh ta lùi lại hoặc nhấc bóng lên. Mục tiêu là gây rối loạn, không phải cướp bóng."
+      },
+      {
+        "title": "Hậu vệ quay về kèm bóng",
+        "detail": "Trong lúc đó hậu vệ kèm bóng vượt qua hoặc chui dưới pha chắn và quay về người dẫn bóng. Ngay khi hậu vệ đã về tới bóng, nhiệm vụ của big xong."
+      },
+      {
+        "title": "Chạy nước rút về người roll",
+        "detail": "Ngay khi hậu vệ quay về, big chạy nước rút về người chắn đang roll. Pha chạy nước rút quay về này là toàn bộ cách kèm — big mà chạy bộ là dâng dunk."
+      },
+      {
+        "title": "Phía yếu luân chuyển sau hedge",
+        "detail": "Phía sau, các hậu vệ phía yếu luân chuyển: một người kèm (tag) người roll, những người khác lùi vào khoảng trống. Hedge chỉ hiệu quả khi có ba cầu thủ luân chuyển phía sau."
+      }
+    ],
+    "coachingPoints": [
+      "Hedge phải mạnh và phẳng — hedge mềm chẳng giúp được ai",
+      "Big hedge phải quay về bằng chạy nước rút, không phải chạy bộ — người roll là trách nhiệm của anh ta",
+      "Hậu vệ phải vượt qua pha chắn gọn gàng và quay về kèm bóng",
+      "Chỉ hedge với big cơ động; big chậm mà hedge là bài tập layup",
+      "Dùng hedge như đòn đổi nhịp, không phải món chính cả trận — đối thủ sẽ thích nghi"
+    ],
+    "commonMistakes": [
+      "Hedge mềm — người dẫn bóng lách qua giữa và hàng thủ vỡ",
+      "Big hedge xong chạy bộ về — người roll được dunk miễn phí",
+      "Hedge mà không có hỗ trợ phía yếu phía sau — không tag thì không quay về được",
+      "Hậu vệ không vượt qua được pha chắn — hai người kèm bóng mà không ai kèm người roll"
+    ],
+    "gameSituations": [
+      "Gặp người dẫn bóng giỏi mà bạn muốn lấy bóng khỏi tay anh ta",
+      "Cuối đồng hồ khi cần phá nhịp tấn công của đối thủ",
+      "Đòn đổi nhịp để gây rối đội chuyên pick & roll",
+      "Khi big của bạn đủ cơ động để dâng cao và quay về"
+    ],
+    "tags": [
+      "phòng thủ",
+      "hedge",
+      "pick and roll",
+      "cách kèm"
+    ]
+  }
+}

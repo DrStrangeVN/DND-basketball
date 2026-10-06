@@ -1,1 +1,156 @@
-{"ages":["U12","U14","U16","U18","Adult","Competitive"],"coachingPoints":["Teach eyes-up dribbling first; reading is impossible with eyes on the ball.","Make \"scan before you catch\" a habit — check defenders while the pass is in flight.","After each rep, ask players what they saw, not just what they did.","Add a live defender with a clear cue to every skill drill so reads are practiced, not just moves.","Reward the correct read even when the shot misses — process over outcome."],"commonMistakes":["Staring at the ball instead of the defender — you cannot read what you do not watch.","Deciding before reading: running a predetermined move no matter what the defense shows.","Watching only the on-ball defender and missing the help rotation.","Misreading a fake or short closeout and driving straight into a set defender."],"dateUpdated":"2026-10-06","description":"Learn how to read defenders before they act — stance, eyes, positioning and tendencies — so every offensive decision starts with information.","gameSituations":["Catching on the wing: read the closeout's speed and balance before deciding shoot, drive, or pass.","Driving to the rim: read the help defender's feet to choose between finishing and kicking out.","Receiving a post entry: read whether the defender is fronting, playing behind, or three-quartering you."],"howTo":[{"detail":"A low, wide stance means the defender expects your drive; an upright, close stance means they are taking away your shot. Hands low invites the jumper; hands high invites the drive.","title":"Start with your defender's stance"},{"detail":"A big gap between you and your defender invites the shot. A tight, chest-to-chest gap invites the drive. Measure the gap on every catch.","title":"Check the distance (the gap)"},{"detail":"Shoulders and head can fake, but hips cannot. Wherever the defender's hips turn is where they are actually going — attack the opposite hip.","title":"Watch the hips, not the ball"},{"detail":"Before you drive, glance at the nearest help defender. Feet planted in the paint means a kick-out will be open; feet still moving means you can keep attacking.","title":"Read the help before you move"},{"detail":"Make your decision — shoot, drive, or pass — while the ball is in the air or the instant it arrives. Deciding late lets the defense recover.","title":"Read on the catch, not after"},{"detail":"After your first move, confirm what happened: did the defender bite on the fake? If not, do not force it — counter or move the ball.","title":"Verify with live cues"},{"detail":"Notice patterns across possessions. Does this defender always go under screens? Always help off the corner? File it away and attack it.","title":"Stack reads over possessions"}],"hub":"basketball-iq","id":"reading-the-defense","level":"intermediate","positions":["ALL"],"readTime":6,"related":["decision-making","closeout-reads","reading-help-defense","shot-selection-iq"],"slug":"reading-the-defense","subcategory":"basketball-iq","tags":["basketball-iq","reading-defense","decision-making","off-ball"],"title":"Reading the Defense","whatIsIt":["Reading the defense means gathering information from defenders before you act. Instead of watching the ball or your own move, you watch the defender's stance, hips, hands, and eyes. Where their weight sits, which hand they reach with, and how far off you they play all tell a story about what they will do next.","Good readers do not just watch their own defender — they scan the whole floor. They see the help defender's feet turning toward the paint, the closeout coming in too hard, the tag man sinking off the corner. Reading is a habit: head up, eyes active, checking defenders between every dribble, cut, and pass."],"whyItMatters":["Players who read the defense make decisions faster and commit fewer turnovers. Every great move is actually a great read — the crossover works because you saw the defender's weight shift first. At higher levels, athleticism alone cannot beat a defense that is always set; reading lets you attack before it gets set.","Teams that read well play faster without rushing. When all five players are gathering information constantly, the ball moves to the right place at the right time and the offense looks effortless."]}
+{
+  "ages": [
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult",
+    "Competitive"
+  ],
+  "coachingPoints": [
+    "Teach eyes-up dribbling first; reading is impossible with eyes on the ball.",
+    "Make \"scan before you catch\" a habit — check defenders while the pass is in flight.",
+    "After each rep, ask players what they saw, not just what they did.",
+    "Add a live defender with a clear cue to every skill drill so reads are practiced, not just moves.",
+    "Reward the correct read even when the shot misses — process over outcome."
+  ],
+  "commonMistakes": [
+    "Staring at the ball instead of the defender — you cannot read what you do not watch.",
+    "Deciding before reading: running a predetermined move no matter what the defense shows.",
+    "Watching only the on-ball defender and missing the help rotation.",
+    "Misreading a fake or short closeout and driving straight into a set defender."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "Learn how to read defenders before they act — stance, eyes, positioning and tendencies — so every offensive decision starts with information.",
+  "gameSituations": [
+    "Catching on the wing: read the closeout's speed and balance before deciding shoot, drive, or pass.",
+    "Driving to the rim: read the help defender's feet to choose between finishing and kicking out.",
+    "Receiving a post entry: read whether the defender is fronting, playing behind, or three-quartering you."
+  ],
+  "howTo": [
+    {
+      "detail": "A low, wide stance means the defender expects your drive; an upright, close stance means they are taking away your shot. Hands low invites the jumper; hands high invites the drive.",
+      "title": "Start with your defender's stance"
+    },
+    {
+      "detail": "A big gap between you and your defender invites the shot. A tight, chest-to-chest gap invites the drive. Measure the gap on every catch.",
+      "title": "Check the distance (the gap)"
+    },
+    {
+      "detail": "Shoulders and head can fake, but hips cannot. Wherever the defender's hips turn is where they are actually going — attack the opposite hip.",
+      "title": "Watch the hips, not the ball"
+    },
+    {
+      "detail": "Before you drive, glance at the nearest help defender. Feet planted in the paint means a kick-out will be open; feet still moving means you can keep attacking.",
+      "title": "Read the help before you move"
+    },
+    {
+      "detail": "Make your decision — shoot, drive, or pass — while the ball is in the air or the instant it arrives. Deciding late lets the defense recover.",
+      "title": "Read on the catch, not after"
+    },
+    {
+      "detail": "After your first move, confirm what happened: did the defender bite on the fake? If not, do not force it — counter or move the ball.",
+      "title": "Verify with live cues"
+    },
+    {
+      "detail": "Notice patterns across possessions. Does this defender always go under screens? Always help off the corner? File it away and attack it.",
+      "title": "Stack reads over possessions"
+    }
+  ],
+  "hub": "basketball-iq",
+  "id": "reading-the-defense",
+  "level": "intermediate",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 6,
+  "related": [
+    "decision-making",
+    "closeout-reads",
+    "reading-help-defense",
+    "shot-selection-iq"
+  ],
+  "slug": "reading-the-defense",
+  "subcategory": "basketball-iq",
+  "tags": [
+    "basketball-iq",
+    "reading-defense",
+    "decision-making",
+    "off-ball"
+  ],
+  "title": "Reading the Defense",
+  "whatIsIt": [
+    "Reading the defense means gathering information from defenders before you act. Instead of watching the ball or your own move, you watch the defender's stance, hips, hands, and eyes. Where their weight sits, which hand they reach with, and how far off you they play all tell a story about what they will do next.",
+    "Good readers do not just watch their own defender — they scan the whole floor. They see the help defender's feet turning toward the paint, the closeout coming in too hard, the tag man sinking off the corner. Reading is a habit: head up, eyes active, checking defenders between every dribble, cut, and pass."
+  ],
+  "whyItMatters": [
+    "Players who read the defense make decisions faster and commit fewer turnovers. Every great move is actually a great read — the crossover works because you saw the defender's weight shift first. At higher levels, athleticism alone cannot beat a defense that is always set; reading lets you attack before it gets set.",
+    "Teams that read well play faster without rushing. When all five players are gathering information constantly, the ball moves to the right place at the right time and the offense looks effortless."
+  ],
+  "vi": {
+    "title": "Đọc Phòng Thủ (Reading the Defense)",
+    "description": "Học cách đọc hậu vệ trước khi họ hành động — tư thế, ánh mắt, vị trí và thói quen — để mọi quyết định tấn công đều bắt đầu từ thông tin.",
+    "whatIsIt": [
+      "Đọc phòng thủ nghĩa là thu thập thông tin từ hậu vệ trước khi bạn hành động. Thay vì nhìn bóng hay nhìn động tác của mình, bạn nhìn tư thế, hông, tay và mắt của hậu vệ. Trọng tâm của họ đặt ở đâu, họ với tay nào, và họ đứng cách bạn bao xa — tất cả đều kể một câu chuyện về điều họ sắp làm.",
+      "Người đọc giỏi không chỉ nhìn hậu vệ của mình — họ quét cả sân. Họ thấy chân hậu vệ hỗ trợ xoay về phía khu vực hình thang, pha closeout lao vào quá mạnh, người tag đang lùi khỏi góc. Đọc là một thói quen: đầu ngẩng, mắt linh hoạt, kiểm tra hậu vệ giữa mỗi pha dẫn, mỗi lần cắt và mỗi đường chuyền."
+    ],
+    "whyItMatters": [
+      "Cầu thủ đọc được phòng thủ ra quyết định nhanh hơn và mất bóng ít hơn. Mỗi động tác hay thực chất là một pha đọc hay — crossover hiệu quả vì bạn đã thấy trọng tâm hậu vệ dịch chuyển trước. Ở trình độ cao, thể lực đơn thuần không thắng được hàng thủ luôn đứng sẵn; đọc phòng thủ giúp bạn tấn công trước khi nó kịp đứng vững.",
+      "Đội đọc tốt chơi nhanh mà không vội. Khi cả năm cầu thủ liên tục thu thập thông tin, bóng sẽ đến đúng chỗ, đúng lúc và lối tấn công trông thật mượt mà, nhẹ nhàng."
+    ],
+    "howTo": [
+      {
+        "title": "Bắt đầu từ tư thế của hậu vệ",
+        "detail": "Tư thế thấp, rộng nghĩa là hậu vệ đang chờ bạn đột phá; tư thế đứng thẳng, sát người nghĩa là họ đang khóa cú ném của bạn. Tay thấp mời cú jumper; tay cao mời pha đột phá."
+      },
+      {
+        "title": "Đo khoảng cách (gap)",
+        "detail": "Khoảng trống lớn giữa bạn và hậu vệ mời cú ném. Khoảng cách sát, ngực-đối-ngực mời pha đột phá. Hãy đo gap mỗi lần bắt bóng."
+      },
+      {
+        "title": "Nhìn hông, đừng nhìn bóng",
+        "detail": "Vai và đầu có thể giả, nhưng hông thì không. Hông hậu vệ xoay về đâu là họ thật sự đi về đó — hãy tấn công vào hông đối diện."
+      },
+      {
+        "title": "Đọc hỗ trợ trước khi di chuyển",
+        "detail": "Trước khi đột phá, liếc hậu vệ hỗ trợ gần nhất. Chân đã đứng vững trong khu vực hình thang nghĩa là đường chuyền ra sẽ mở; chân còn đang di chuyển nghĩa là bạn có thể tiếp tục tấn công."
+      },
+      {
+        "title": "Đọc ngay khi bắt bóng",
+        "detail": "Ra quyết định — ném, đột hay chuyền — khi bóng còn đang bay hoặc ngay khoảnh khắc nó tới. Quyết định muộn để hàng thủ kịp hồi vị."
+      },
+      {
+        "title": "Xác minh bằng tín hiệu thật",
+        "detail": "Sau động tác đầu tiên, hãy xác nhận điều gì đã xảy ra: hậu vệ có cắn câu động tác giả không? Nếu không, đừng cố — hãy đổi đòn hoặc chuyền bóng đi."
+      },
+      {
+        "title": "Xếp chồng các pha đọc",
+        "detail": "Nhận ra các mẫu hình qua nhiều lượt bóng. Hậu vệ này có luôn lách dưới screen không? Có luôn bỏ góc để vào hỗ trợ không? Ghi nhớ và khai thác nó."
+      }
+    ],
+    "coachingPoints": [
+      "Dạy dẫn bóng ngẩng đầu trước; đọc là điều bất khả khi mắt còn dán vào bóng.",
+      "Biến \"quét trước khi bắt bóng\" thành thói quen — kiểm tra hậu vệ khi đường chuyền còn đang bay.",
+      "Sau mỗi lần lặp, hỏi cầu thủ họ đã thấy gì, không chỉ hỏi họ đã làm gì.",
+      "Thêm một hậu vệ thật với tín hiệu rõ ràng vào mọi bài kỹ năng để việc đọc được luyện tập, không chỉ động tác.",
+      "Thưởng cho pha đọc đúng ngay cả khi ném trượt — quá trình quan trọng hơn kết quả."
+    ],
+    "commonMistakes": [
+      "Nhìn chằm chằm vào bóng thay vì hậu vệ — bạn không thể đọc thứ mình không nhìn.",
+      "Quyết định trước khi đọc: chạy một động tác định sẵn bất kể hàng thủ cho thấy gì.",
+      "Chỉ nhìn hậu vệ kèm bóng mà bỏ lỡ vòng xoay hỗ trợ.",
+      "Đọc sai một pha closeout giả hoặc ngắn, rồi đâm thẳng vào một hậu vệ đã đứng sẵn."
+    ],
+    "gameSituations": [
+      "Bắt bóng ở cánh: đọc tốc độ và thăng bằng của pha closeout trước khi quyết định ném, đột hay chuyền.",
+      "Đột vào rổ: đọc chân hậu vệ hỗ trợ để chọn giữa kết thúc và chuyền ra.",
+      "Nhận bóng vào post: đọc xem hậu vệ đang fronting, đứng sau lưng, hay three-quartering bạn."
+    ],
+    "tags": [
+      "iq bóng rổ",
+      "đọc phòng thủ",
+      "ra quyết định",
+      "không bóng"
+    ]
+  }
+}

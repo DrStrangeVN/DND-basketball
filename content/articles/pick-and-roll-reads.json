@@ -1,1 +1,222 @@
-{"ages":["U14","U16","U18","Adult","Competitive"],"coachingPoints":["Teach one coverage at a time — master drop coverage reads before adding hedge, switch, and blitz.","Use 2v2 pick-and-roll drills with a live tag defender to force real reads, not rehearsed passes.","Film study: pause at the exact moment of the read and ask \"what do you see?\" before revealing what happened.","The screener's reads matter too — roll, pop, or short roll based on the same coverage the guard sees."],"commonMistakes":["Using the screen without reading the coverage first — running the play blind.","Predetermining the pass to the roller regardless of what the defense shows.","Dribbling sideways off the screen instead of attacking downhill.","Ignoring the weak-side tag defender sinking off the corner."],"dateUpdated":"2026-10-06","description":"The complete guide to reading ball screens — defender positioning, coverage, help rotation — and choosing the right play every time.","diagram":{"ball":"O1","defense":[{"label":"X1","x":62,"y":62},{"label":"X5","x":52,"y":50},{"label":"X3","x":70,"y":42},{"label":"X4","x":78,"y":24}],"moves":[{"from":"O1","kind":"dribble","to":"rim"}],"offense":[{"label":"O1","x":62,"y":68},{"label":"O5","x":56,"y":58},{"label":"O2","x":24,"y":60},{"label":"O3","x":82,"y":30},{"label":"O4","x":84,"y":16}],"passes":[{"from":"O1","to":"O5"},{"from":"O1","to":"O4"}],"screens":[{"x":56,"y":58}],"shots":[],"title":"Pick & roll vs. drop: hit the roller or skip to the corner"},"gameSituations":["Drop coverage: snake dribble into a pull-up jumper or pocket pass to the roller.","Switch: isolate the big on the perimeter or slip the screen before the switch lands.","Blitz: split the trap or throw over the top to the rolling big in a 4-on-3."],"howTo":[{"detail":"Is the big sitting back (drop), communicating a switch, or stepping high (hedge)? Know the coverage before you use the screen — the read starts pre-screen.","title":"Read the coverage pre-screen"},{"detail":"Walk your defender into the screener's chest — shoulder to shoulder, no space to slip through. A screen you do not set up is a screen wasted.","title":"Set up the screen"},{"detail":"Defender goes under: pull up for the jumper. Fights over the top: attack downhill. Gets stuck on the screen: keep going — the advantage is yours.","title":"Read the on-ball defender"},{"detail":"Drop: snake the dribble or pull up. Hedge: split it or hit the rolling big. Switch: attack the mismatch or slip before it lands. Each coverage has an answer — use it.","title":"Read the screener's defender"},{"detail":"Tag coming from the corner means the skip pass is open. No tag means the pocket pass to the roller is there. The weak side decides the play.","title":"Read the help"},{"detail":"If the first read is taken away, flow into the next option: re-screen, snake back to the middle, or kick out and relocate. Great pick-and-roll players always have a second action.","title":"Have a second action"}],"hub":"basketball-iq","id":"pick-and-roll-reads","level":"advanced","positions":["ALL"],"readTime":7,"related":["reading-help-defense","decision-making","creating-advantages","timing-basketball"],"slug":"pick-and-roll-reads","subcategory":"basketball-iq","tags":["basketball-iq","pick-and-roll","reads","point-guard"],"title":"Pick & Roll Reads","whatIsIt":["Pick-and-roll reads are the decisions the ball handler makes around a screen: use it or reject it, snake or split, hit the roller or skip to the corner. Every coverage the defense shows — drop, switch, hedge, blitz, ICE — demands a different answer, and the ball handler must pick the right one in about two seconds.","Reading the pick-and-roll starts before the screen arrives: where are the two defenders, where is the help, and which side is the coverage forcing you? The great pick-and-roll players do not have more moves — they have faster, more accurate reads."],"whyItMatters":["The pick-and-roll is the most-used action in modern basketball, and it only works if the reads are right. A wrong read turns a 2-on-1 into a turnover; a right read turns any coverage into an open shot. Teams live or die on their guards' pick-and-roll decisions.","It is also the fastest way for a young guard to earn trust. Coaches give the ball to players who make the right pick-and-roll read consistently — it is the clearest proof of basketball IQ on the floor."]}
+{
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult",
+    "Competitive"
+  ],
+  "coachingPoints": [
+    "Teach one coverage at a time — master drop coverage reads before adding hedge, switch, and blitz.",
+    "Use 2v2 pick-and-roll drills with a live tag defender to force real reads, not rehearsed passes.",
+    "Film study: pause at the exact moment of the read and ask \"what do you see?\" before revealing what happened.",
+    "The screener's reads matter too — roll, pop, or short roll based on the same coverage the guard sees."
+  ],
+  "commonMistakes": [
+    "Using the screen without reading the coverage first — running the play blind.",
+    "Predetermining the pass to the roller regardless of what the defense shows.",
+    "Dribbling sideways off the screen instead of attacking downhill.",
+    "Ignoring the weak-side tag defender sinking off the corner."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "The complete guide to reading ball screens — defender positioning, coverage, help rotation — and choosing the right play every time.",
+  "diagram": {
+    "ball": "O1",
+    "defense": [
+      {
+        "label": "X1",
+        "x": 62,
+        "y": 62
+      },
+      {
+        "label": "X5",
+        "x": 52,
+        "y": 50
+      },
+      {
+        "label": "X3",
+        "x": 70,
+        "y": 42
+      },
+      {
+        "label": "X4",
+        "x": 78,
+        "y": 24
+      }
+    ],
+    "moves": [
+      {
+        "from": "O1",
+        "kind": "dribble",
+        "to": "rim"
+      }
+    ],
+    "offense": [
+      {
+        "label": "O1",
+        "x": 62,
+        "y": 68
+      },
+      {
+        "label": "O5",
+        "x": 56,
+        "y": 58
+      },
+      {
+        "label": "O2",
+        "x": 24,
+        "y": 60
+      },
+      {
+        "label": "O3",
+        "x": 82,
+        "y": 30
+      },
+      {
+        "label": "O4",
+        "x": 84,
+        "y": 16
+      }
+    ],
+    "passes": [
+      {
+        "from": "O1",
+        "to": "O5"
+      },
+      {
+        "from": "O1",
+        "to": "O4"
+      }
+    ],
+    "screens": [
+      {
+        "x": 56,
+        "y": 58
+      }
+    ],
+    "shots": [],
+    "title": "Pick & roll vs. drop: hit the roller or skip to the corner"
+  },
+  "gameSituations": [
+    "Drop coverage: snake dribble into a pull-up jumper or pocket pass to the roller.",
+    "Switch: isolate the big on the perimeter or slip the screen before the switch lands.",
+    "Blitz: split the trap or throw over the top to the rolling big in a 4-on-3."
+  ],
+  "howTo": [
+    {
+      "detail": "Is the big sitting back (drop), communicating a switch, or stepping high (hedge)? Know the coverage before you use the screen — the read starts pre-screen.",
+      "title": "Read the coverage pre-screen"
+    },
+    {
+      "detail": "Walk your defender into the screener's chest — shoulder to shoulder, no space to slip through. A screen you do not set up is a screen wasted.",
+      "title": "Set up the screen"
+    },
+    {
+      "detail": "Defender goes under: pull up for the jumper. Fights over the top: attack downhill. Gets stuck on the screen: keep going — the advantage is yours.",
+      "title": "Read the on-ball defender"
+    },
+    {
+      "detail": "Drop: snake the dribble or pull up. Hedge: split it or hit the rolling big. Switch: attack the mismatch or slip before it lands. Each coverage has an answer — use it.",
+      "title": "Read the screener's defender"
+    },
+    {
+      "detail": "Tag coming from the corner means the skip pass is open. No tag means the pocket pass to the roller is there. The weak side decides the play.",
+      "title": "Read the help"
+    },
+    {
+      "detail": "If the first read is taken away, flow into the next option: re-screen, snake back to the middle, or kick out and relocate. Great pick-and-roll players always have a second action.",
+      "title": "Have a second action"
+    }
+  ],
+  "hub": "basketball-iq",
+  "id": "pick-and-roll-reads",
+  "level": "advanced",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 7,
+  "related": [
+    "reading-help-defense",
+    "decision-making",
+    "creating-advantages",
+    "timing-basketball"
+  ],
+  "slug": "pick-and-roll-reads",
+  "subcategory": "basketball-iq",
+  "tags": [
+    "basketball-iq",
+    "pick-and-roll",
+    "reads",
+    "point-guard"
+  ],
+  "title": "Pick & Roll Reads",
+  "whatIsIt": [
+    "Pick-and-roll reads are the decisions the ball handler makes around a screen: use it or reject it, snake or split, hit the roller or skip to the corner. Every coverage the defense shows — drop, switch, hedge, blitz, ICE — demands a different answer, and the ball handler must pick the right one in about two seconds.",
+    "Reading the pick-and-roll starts before the screen arrives: where are the two defenders, where is the help, and which side is the coverage forcing you? The great pick-and-roll players do not have more moves — they have faster, more accurate reads."
+  ],
+  "whyItMatters": [
+    "The pick-and-roll is the most-used action in modern basketball, and it only works if the reads are right. A wrong read turns a 2-on-1 into a turnover; a right read turns any coverage into an open shot. Teams live or die on their guards' pick-and-roll decisions.",
+    "It is also the fastest way for a young guard to earn trust. Coaches give the ball to players who make the right pick-and-roll read consistently — it is the clearest proof of basketball IQ on the floor."
+  ],
+  "vi": {
+    "title": "Đọc Tình Huống Pick & Roll",
+    "description": "Hướng dẫn đầy đủ về cách đọc screen bóng — vị trí hậu vệ, coverage, xoay hỗ trợ — và chọn đúng pha bóng mọi lần.",
+    "whatIsIt": [
+      "Đọc pick-and-roll là những quyết định của người giữ bóng quanh screen: dùng hay từ chối screen, snake hay split, chuyền cho người roll hay skip ra góc. Mỗi coverage mà hàng thủ đưa ra — drop, switch, hedge, blitz, ICE — đòi hỏi một đáp án khác nhau, và người giữ bóng phải chọn đúng trong khoảng hai giây.",
+      "Đọc pick-and-roll bắt đầu trước khi screen tới: hai hậu vệ đang ở đâu, hàng hỗ trợ ở đâu, và coverage đang ép bạn về phía nào? Những người chơi pick-and-roll giỏi không có nhiều động tác hơn — họ đọc nhanh và chính xác hơn."
+    ],
+    "whyItMatters": [
+      "Pick-and-roll là tình huống được dùng nhiều nhất trong bóng rổ hiện đại, và nó chỉ hiệu quả khi đọc đúng. Đọc sai biến 2 đánh 1 thành turnover; đọc đúng biến mọi coverage thành cú ném thoáng. Đội bóng sống chết theo quyết định pick-and-roll của các hậu vệ.",
+      "Đây cũng là cách nhanh nhất để một hậu vệ trẻ được tin tưởng. Huấn luyện viên trao bóng cho cầu thủ đọc pick-and-roll đúng một cách ổn định — đó là bằng chứng rõ ràng nhất về IQ bóng rổ trên sân."
+    ],
+    "howTo": [
+      {
+        "title": "Đọc coverage trước screen",
+        "detail": "Big đang lùi sâu (drop), hô switch, hay bước cao lên (hedge)? Biết coverage trước khi dùng screen — pha đọc bắt đầu từ trước screen."
+      },
+      {
+        "title": "Dẫn hậu vệ vào screen",
+        "detail": "Dẫn hậu vệ của bạn đâm vào ngực người chắn — sát vai, không khe hở để lách qua. Screen mà không dẫn dụ là screen phí."
+      },
+      {
+        "title": "Đọc hậu vệ kèm bóng",
+        "detail": "Hậu vệ đi dưới: pull-up ném. Cố đi trên: tấn công xuống rổ. Kẹt lại ở screen: cứ đi tiếp — lợi thế là của bạn."
+      },
+      {
+        "title": "Đọc hậu vệ của người chắn",
+        "detail": "Drop: snake dribble hoặc pull-up. Hedge: split hoặc chuyền cho big đang roll. Switch: tấn công mismatch hoặc slip trước khi switch kịp hình thành. Mỗi coverage đều có đáp án — hãy dùng nó."
+      },
+      {
+        "title": "Đọc hàng hỗ trợ",
+        "detail": "Tag từ góc lao vào nghĩa là đường skip pass đang mở. Không có tag nghĩa là đường pocket pass cho người roll đang mở. Phía yếu quyết định pha bóng."
+      },
+      {
+        "title": "Có phương án hai",
+        "detail": "Nếu pha đọc đầu bị bắt, chuyển sang phương án tiếp theo: đặt lại screen, snake quay về giữa, hoặc kick ra ngoài và di chuyển lại. Người chơi pick-and-roll giỏi luôn có hành động thứ hai."
+      }
+    ],
+    "coachingPoints": [
+      "Dạy từng coverage một — thành thạo đọc drop coverage trước khi thêm hedge, switch và blitz",
+      "Dùng bài tập pick-and-roll 2v2 với hậu vệ tag trực tiếp để buộc đọc thật, không phải chuyền theo kịch bản",
+      "Xem video: dừng đúng khoảnh khắc đọc tình huống và hỏi 'bạn thấy gì?' trước khi tiết lộ diễn biến",
+      "Người chắn cũng phải đọc — roll, pop hay short roll dựa trên cùng coverage mà hậu vệ thấy"
+    ],
+    "commonMistakes": [
+      "Dùng screen mà không đọc coverage trước — chạy bài mù",
+      "Định trước đường chuyền cho người roll bất kể hàng thủ cho gì",
+      "Dẫn ngang ra khỏi screen thay vì tấn công xuống rổ",
+      "Bỏ qua hậu vệ tag phía yếu đang chìm khỏi góc"
+    ],
+    "gameSituations": [
+      "Drop coverage: snake dribble vào pull-up jumper hoặc pocket pass cho người roll",
+      "Switch: isolation big ở vòng ngoài hoặc slip screen trước khi switch kịp hình thành",
+      "Blitz: split bẫy hoặc ném qua đầu cho big đang roll trong thế 4 đánh 3"
+    ],
+    "tags": [
+      "iq bóng rổ",
+      "pick and roll",
+      "đọc tình huống",
+      "hậu vệ dẫn bóng"
+    ]
+  }
+}

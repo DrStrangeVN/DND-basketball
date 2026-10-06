@@ -1,1 +1,135 @@
-{"ages":["U12","U14","U16","U18","Adult"],"coachingPoints":["The pause is tiny — a beat, not a stop. A full stop lets the defender reset.","Keep the ball alive and low during the fake; a dead ball kills the advantage you just created.","Sell the slowdown with your whole body: sink, lean, exhale — then explode.","Change direction slightly on the burst; a straight-line hesitation is easier to recover on.","Read the defender's feet: if he stutters, backpedals, or hops, the hesitation worked — go."],"commonMistakes":["Picking up the dribble on the fake — fix: the hesitation only works because the ball is still live; keep dribbling through it.","Pausing too long — fix: count 'one' silently; if you reach 'two,' you waited too long.","Not actually slowing down — fix: exaggerate the pace drop in practice so the game-speed version reads clearly.","Hesitating with no plan — fix: decide your attack (drive or pull-up) before you start; the hesitation creates the moment, not the decision."],"dateUpdated":"2026-10-06","description":"Slow down for a heartbeat to freeze the defender, then explode — the simplest and most effective change-of-pace move in basketball.","gameSituations":["Attacking in transition — a hesitation on a 1-on-1 fast break can freeze the lone defender just long enough to blow past.","Setting up a pull-up — hesitate to make the defender relax, then rise for the jumper while he is still decelerating.","Against a fast, athletic defender — quick defenders reach early; a hesitation punishes their aggressiveness and turns their speed against them."],"howTo":[{"detail":"Dribble toward the defender at a strong pace with your eyes up. The hesitation only works if he is playing you at speed first.","title":"Attack at full speed"},{"detail":"Sink your hips, slow your dribble, and let your body drop for a beat. Everything — shoulders, ball, stride — says you are stopping.","title":"Brake hard for one beat"},{"detail":"Lift your eyes as if looking for a pass or surveying the floor. This single cue convinces the defender the drive is over.","title":"Sell the stop with your eyes"},{"detail":"Watch his reaction: a stutter step, a hop backward, or a hand dropped to the ball. Any freeze is your green light.","title":"Read the defender's freeze"},{"detail":"Push off your outside foot and attack the lane or pull up — the burst must be maximum effort because the window lasts about half a second.","title":"Explode past the freeze"}],"hub":"skills","id":"hesitation","level":"intermediate","positions":["ALL"],"readTime":5,"related":["change-of-pace","crossover","pull-up-jumper","one-dribble-pull-up"],"slug":"hesitation","subcategory":"ball-handling","tags":["dribbling","moves","footwork"],"title":"Hesitation Move","whatIsIt":["The hesitation is a change-of-pace move: you are attacking at speed, then suddenly slow down for a split second — like a driver tapping the brakes — before exploding again. The brief slowdown tricks the defender into relaxing or stopping, and you accelerate while he is flat-footed.","It is the quietest great move in basketball. There is no fancy ball trick; the ball stays in the same hand. The weapon is rhythm: you break the defender's timing, and broken timing becomes broken defense."],"whyItMatters":["Speed alone is easy to guard — defenders just backpedal. Pace changes are much harder, because the defender has to read and react to a false stop. The hesitation is the purest expression of this: one simple rhythm break that works at every level, from pickup games to the pros. Players who master it stop needing athleticism to beat defenders — timing does the work."]}
+{
+  "ages": [
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "coachingPoints": [
+    "The pause is tiny — a beat, not a stop. A full stop lets the defender reset.",
+    "Keep the ball alive and low during the fake; a dead ball kills the advantage you just created.",
+    "Sell the slowdown with your whole body: sink, lean, exhale — then explode.",
+    "Change direction slightly on the burst; a straight-line hesitation is easier to recover on.",
+    "Read the defender's feet: if he stutters, backpedals, or hops, the hesitation worked — go."
+  ],
+  "commonMistakes": [
+    "Picking up the dribble on the fake — fix: the hesitation only works because the ball is still live; keep dribbling through it.",
+    "Pausing too long — fix: count 'one' silently; if you reach 'two,' you waited too long.",
+    "Not actually slowing down — fix: exaggerate the pace drop in practice so the game-speed version reads clearly.",
+    "Hesitating with no plan — fix: decide your attack (drive or pull-up) before you start; the hesitation creates the moment, not the decision."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "Slow down for a heartbeat to freeze the defender, then explode — the simplest and most effective change-of-pace move in basketball.",
+  "gameSituations": [
+    "Attacking in transition — a hesitation on a 1-on-1 fast break can freeze the lone defender just long enough to blow past.",
+    "Setting up a pull-up — hesitate to make the defender relax, then rise for the jumper while he is still decelerating.",
+    "Against a fast, athletic defender — quick defenders reach early; a hesitation punishes their aggressiveness and turns their speed against them."
+  ],
+  "howTo": [
+    {
+      "detail": "Dribble toward the defender at a strong pace with your eyes up. The hesitation only works if he is playing you at speed first.",
+      "title": "Attack at full speed"
+    },
+    {
+      "detail": "Sink your hips, slow your dribble, and let your body drop for a beat. Everything — shoulders, ball, stride — says you are stopping.",
+      "title": "Brake hard for one beat"
+    },
+    {
+      "detail": "Lift your eyes as if looking for a pass or surveying the floor. This single cue convinces the defender the drive is over.",
+      "title": "Sell the stop with your eyes"
+    },
+    {
+      "detail": "Watch his reaction: a stutter step, a hop backward, or a hand dropped to the ball. Any freeze is your green light.",
+      "title": "Read the defender's freeze"
+    },
+    {
+      "detail": "Push off your outside foot and attack the lane or pull up — the burst must be maximum effort because the window lasts about half a second.",
+      "title": "Explode past the freeze"
+    }
+  ],
+  "hub": "skills",
+  "id": "hesitation",
+  "level": "intermediate",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 5,
+  "related": [
+    "change-of-pace",
+    "crossover",
+    "pull-up-jumper",
+    "one-dribble-pull-up"
+  ],
+  "slug": "hesitation",
+  "subcategory": "ball-handling",
+  "tags": [
+    "dribbling",
+    "moves",
+    "footwork"
+  ],
+  "title": "Hesitation Move",
+  "whatIsIt": [
+    "The hesitation is a change-of-pace move: you are attacking at speed, then suddenly slow down for a split second — like a driver tapping the brakes — before exploding again. The brief slowdown tricks the defender into relaxing or stopping, and you accelerate while he is flat-footed.",
+    "It is the quietest great move in basketball. There is no fancy ball trick; the ball stays in the same hand. The weapon is rhythm: you break the defender's timing, and broken timing becomes broken defense."
+  ],
+  "whyItMatters": [
+    "Speed alone is easy to guard — defenders just backpedal. Pace changes are much harder, because the defender has to read and react to a false stop. The hesitation is the purest expression of this: one simple rhythm break that works at every level, from pickup games to the pros. Players who master it stop needing athleticism to beat defenders — timing does the work."
+  ],
+  "vi": {
+    "title": "Động Tác Hesitation (Chần Chừ)",
+    "description": "Chậm lại một nhịp tim để đóng băng hậu vệ, rồi bùng nổ — động tác đổi tốc đơn giản mà hiệu quả nhất trong bóng rổ.",
+    "whatIsIt": [
+      "Hesitation là động tác đổi tốc: bạn đang tấn công với tốc độ cao, rồi đột ngột chậm lại trong tích tắc — như tài xế nhấp phanh — trước khi bùng nổ trở lại. Pha chậm ngắn ngủi khiến hậu vệ thả lỏng hoặc dừng lại, và bạn tăng tốc khi anh ta còn đang chôn chân.",
+      "Đây là động tác vĩ đại thầm lặng nhất trong bóng rổ. Không có mánh bóng cầu kỳ nào; bóng vẫn ở cùng một tay. Vũ khí là nhịp điệu: bạn phá vỡ thời điểm của hậu vệ, và thời điểm bị phá vỡ thành hàng thủ bị phá vỡ."
+    ],
+    "whyItMatters": [
+      "Chỉ nhanh thôi thì dễ kèm — hậu vệ cứ lùi lại. Đổi tốc khó hơn nhiều, vì hậu vệ phải đọc và phản ứng với một pha dừng giả. Hesitation là biểu hiện thuần khiết nhất của điều này: một lần phá nhịp đơn giản, hiệu quả ở mọi cấp độ, từ sân phủi tới chuyên nghiệp. Cầu thủ làm chủ nó không cần thể lực vượt trội để qua người — thời điểm làm việc đó."
+    ],
+    "howTo": [
+      {
+        "title": "Tấn công với tốc độ tối đa",
+        "detail": "Dẫn bóng về phía hậu vệ với tốc độ mạnh, mắt nhìn lên. Hesitation chỉ hiệu quả khi anh ta đang kèm bạn ở tốc độ cao trước đã."
+      },
+      {
+        "title": "Phanh mạnh một nhịp",
+        "detail": "Hạ hông, chậm nhịp dẫn, và để cơ thể chìm xuống một nhịp. Mọi thứ — vai, bóng, sải chân — đều nói rằng bạn đang dừng lại."
+      },
+      {
+        "title": "Diễn pha dừng bằng mắt",
+        "detail": "Ngẩng mắt lên như đang tìm đường chuyền hay quan sát sân. Một tín hiệu duy nhất này thuyết phục hậu vệ rằng pha đột phá đã kết thúc."
+      },
+      {
+        "title": "Đọc pha 'đóng băng' của hậu vệ",
+        "detail": "Quan sát phản ứng của anh ta: bước khựng, nhảy lùi, hay tay hạ xuống định cướp bóng. Bất kỳ pha đóng băng nào cũng là đèn xanh của bạn."
+      },
+      {
+        "title": "Bùng nổ qua pha đóng băng",
+        "detail": "Đạp mạnh chân ngoài và tấn công lane hoặc pull-up — cú bùng nổ phải tối đa vì khung thời gian chỉ kéo dài khoảng nửa giây."
+      }
+    ],
+    "coachingPoints": [
+      "Pha dừng rất ngắn — một nhịp, không phải dừng hẳn. Dừng hẳn để hậu vệ kịp reset.",
+      "Giữ bóng sống và thấp trong pha giả; bóng chết giết chết lợi thế bạn vừa tạo ra.",
+      "Diễn pha chậm bằng cả cơ thể: chìm xuống, nghiêng người, thở ra — rồi bùng nổ.",
+      "Hơi đổi hướng khi bùng nổ; hesitation đường thẳng dễ bị đuổi kịp hơn.",
+      "Đọc chân hậu vệ: nếu anh ta khựng, lùi, hay nhảy lên, hesitation đã thành công — đi thôi."
+    ],
+    "commonMistakes": [
+      "Nhấc bóng lên ở pha giả — cách sửa: hesitation chỉ hiệu quả vì bóng còn sống; hãy dẫn xuyên suốt pha giả.",
+      "Dừng quá lâu — cách sửa: đếm thầm 'một'; nếu đếm tới 'hai' là bạn đã chờ quá lâu.",
+      "Không thật sự chậm lại — cách sửa: phóng đại pha giảm tốc khi tập để bản tốc độ trận đấu đọc rõ.",
+      "Hesitation mà không có kế hoạch — cách sửa: quyết định đòn tấn công (đột phá hay pull-up) trước khi bắt đầu; hesitation tạo ra khoảnh khắc, không phải quyết định."
+    ],
+    "gameSituations": [
+      "Tấn công trong chuyển đổi — hesitation ở pha 1 đấu 1 trong fast break có thể đóng băng hậu vệ duy nhất đủ lâu để vượt qua.",
+      "Chuẩn bị pull-up — hesitation khiến hậu vệ thả lỏng, rồi bật lên ném khi anh ta còn đang giảm tốc.",
+      "Gặp hậu vệ nhanh, khỏe — hậu vệ nhanh hay với tay sớm; hesitation trừng phạt sự hiếu chiến của họ và biến tốc độ của họ thành của bạn."
+    ],
+    "tags": [
+      "dẫn bóng",
+      "động tác qua người",
+      "bộ chân"
+    ]
+  }
+}

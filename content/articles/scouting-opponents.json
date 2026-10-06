@@ -1,1 +1,146 @@
-{"ages":["U10","U12","U14","U16","U18","Adult"],"coachingPoints":["Scout tendencies, not just plays — what a team does under pressure matters most.","Update the report after the first matchup; teams evolve across a season.","Share only what is actionable with players; keep the full report for the staff.","Always scout yourself too — know what opponents see when they watch you."],"commonMistakes":["Scouting only one game and preparing for an outlier performance.","Handing players a ten-page report they will never read.","Focusing on the opponent so much that you forget your own strengths.","Not adjusting the scout when the game starts differently than expected."],"dateUpdated":"2026-10-06","description":"A practical scouting system — what to watch, how to organize it, and how to turn observations into a winning game plan.","gameSituations":["Preparing for a playoff series against a familiar rival.","Tournament play with one day to scout a completely unknown team.","Mid-season rematch: adjusting the scout based on the first meeting."],"howTo":[{"detail":"One game is a highlight reel of lies — shooting luck and matchups distort everything. Patterns in personnel and actions only emerge across multiple games.","title":"Watch two to three full games"},{"detail":"For each rotation player, note strengths, weaknesses, shooting spots, and defensive liabilities. Personnel wins and loses games more than plays do.","title":"Chart personnel"},{"detail":"Find the sets and actions they run most often and diagram them for your team. If you can defend their top three actions, you can defend them.","title":"Identify their top three actions"},{"detail":"Poor transition defense? Weak closeouts? A star who never helps? Every team has soft spots — find them and build your attack around them.","title":"Find the vulnerabilities"},{"detail":"Personnel notes, keys to the game, and specific matchups on a single page. If it does not fit on one page, it is too long to use.","title":"Write the one-page report"},{"detail":"Have your scout team run the opponent's actions in practice so your defense gets live reps against them before game day. Recognition comes from repetition.","title":"Translate it to practice"}],"hub":"coaching","id":"scouting-opponents","level":"advanced","positions":["ALL"],"readTime":7,"related":["game-preparation","film-study-coaching","timeout-management","team-culture"],"slug":"scouting-opponents","subcategory":"coaching","tags":["coaching","scouting","strategy","film"],"title":"Scouting Opponents","whatIsIt":["Scouting is the systematic study of an opponent: their personnel, tendencies, favorite actions, and weaknesses. Done well, it turns the unknown into the familiar — your players recognize the opponent's favorite play because they have already defended it in practice.","Effective scouting is selective. You cannot prepare for everything, so you prepare for what matters most: who takes the big shots, what they run in late-clock situations, and where they are vulnerable."],"whyItMatters":["Scouting wins games before they start. Knowing that their point guard always drives left, or that they never defend the skip pass, gives your team concrete edges. At higher levels everyone scouts — the advantage goes to whoever translates scouting into the clearest plan.","It also builds player confidence. Athletes who have seen the opponent's actions on film and defended them in practice walk onto the court believing they are ready — because they are."]}
+{
+  "ages": [
+    "U10",
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "coachingPoints": [
+    "Scout tendencies, not just plays — what a team does under pressure matters most.",
+    "Update the report after the first matchup; teams evolve across a season.",
+    "Share only what is actionable with players; keep the full report for the staff.",
+    "Always scout yourself too — know what opponents see when they watch you."
+  ],
+  "commonMistakes": [
+    "Scouting only one game and preparing for an outlier performance.",
+    "Handing players a ten-page report they will never read.",
+    "Focusing on the opponent so much that you forget your own strengths.",
+    "Not adjusting the scout when the game starts differently than expected."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "A practical scouting system — what to watch, how to organize it, and how to turn observations into a winning game plan.",
+  "gameSituations": [
+    "Preparing for a playoff series against a familiar rival.",
+    "Tournament play with one day to scout a completely unknown team.",
+    "Mid-season rematch: adjusting the scout based on the first meeting."
+  ],
+  "howTo": [
+    {
+      "detail": "One game is a highlight reel of lies — shooting luck and matchups distort everything. Patterns in personnel and actions only emerge across multiple games.",
+      "title": "Watch two to three full games"
+    },
+    {
+      "detail": "For each rotation player, note strengths, weaknesses, shooting spots, and defensive liabilities. Personnel wins and loses games more than plays do.",
+      "title": "Chart personnel"
+    },
+    {
+      "detail": "Find the sets and actions they run most often and diagram them for your team. If you can defend their top three actions, you can defend them.",
+      "title": "Identify their top three actions"
+    },
+    {
+      "detail": "Poor transition defense? Weak closeouts? A star who never helps? Every team has soft spots — find them and build your attack around them.",
+      "title": "Find the vulnerabilities"
+    },
+    {
+      "detail": "Personnel notes, keys to the game, and specific matchups on a single page. If it does not fit on one page, it is too long to use.",
+      "title": "Write the one-page report"
+    },
+    {
+      "detail": "Have your scout team run the opponent's actions in practice so your defense gets live reps against them before game day. Recognition comes from repetition.",
+      "title": "Translate it to practice"
+    }
+  ],
+  "hub": "coaching",
+  "id": "scouting-opponents",
+  "level": "advanced",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 7,
+  "related": [
+    "game-preparation",
+    "film-study-coaching",
+    "timeout-management",
+    "team-culture"
+  ],
+  "slug": "scouting-opponents",
+  "subcategory": "coaching",
+  "tags": [
+    "coaching",
+    "scouting",
+    "strategy",
+    "film"
+  ],
+  "title": "Scouting Opponents",
+  "whatIsIt": [
+    "Scouting is the systematic study of an opponent: their personnel, tendencies, favorite actions, and weaknesses. Done well, it turns the unknown into the familiar — your players recognize the opponent's favorite play because they have already defended it in practice.",
+    "Effective scouting is selective. You cannot prepare for everything, so you prepare for what matters most: who takes the big shots, what they run in late-clock situations, and where they are vulnerable."
+  ],
+  "whyItMatters": [
+    "Scouting wins games before they start. Knowing that their point guard always drives left, or that they never defend the skip pass, gives your team concrete edges. At higher levels everyone scouts — the advantage goes to whoever translates scouting into the clearest plan.",
+    "It also builds player confidence. Athletes who have seen the opponent's actions on film and defended them in practice walk onto the court believing they are ready — because they are."
+  ],
+  "vi": {
+    "coachingPoints": [
+      "Do thám xu hướng, không chỉ miếng đánh — điều một đội làm khi bị áp lực mới là quan trọng nhất.",
+      "Cập nhật báo cáo sau lần đối đầu đầu tiên; các đội thay đổi trong suốt mùa giải.",
+      "Chỉ chia sẻ với cầu thủ những gì có thể hành động được; giữ bản báo cáo đầy đủ cho ban huấn luyện.",
+      "Luôn do thám cả chính mình — hãy biết đối thủ nhìn thấy gì khi họ xem băng của bạn."
+    ],
+    "commonMistakes": [
+      "Chỉ do thám một trận và chuẩn bị cho một màn trình diễn bất thường.",
+      "Đưa cho cầu thủ bản báo cáo mười trang mà họ sẽ không bao giờ đọc.",
+      "Tập trung vào đối thủ quá mức đến nỗi quên mất điểm mạnh của chính mình.",
+      "Không điều chỉnh kế hoạch do thám khi trận đấu diễn ra khác với dự kiến."
+    ],
+    "description": "Hệ thống do thám thực tế — cần xem gì, cách tổ chức thông tin, và cách biến những quan sát thành kế hoạch thi đấu chiến thắng.",
+    "gameSituations": [
+      "Chuẩn bị cho loạt trận playoff gặp đối thủ quen thuộc.",
+      "Thi đấu giải với một ngày để do thám một đội hoàn toàn xa lạ.",
+      "Tái đấu giữa mùa: điều chỉnh do thám dựa trên lần gặp đầu tiên."
+    ],
+    "howTo": [
+      {
+        "detail": "Một trận đấu chỉ là một đoạn highlight đầy dối trá — may mắn trong ném rổ và sự chênh lệch đối đầu làm méo mó mọi thứ. Các mẫu hình về nhân sự và miếng đánh chỉ hiện rõ khi xem nhiều trận.",
+        "title": "Xem hai đến ba trận đấu đầy đủ"
+      },
+      {
+        "detail": "Với mỗi cầu thủ trong đội hình xoay tua, ghi lại điểm mạnh, điểm yếu, vị trí ném ưa thích và những hạn chế trong phòng thủ. Nhân sự quyết định thắng thua nhiều hơn là các miếng đánh.",
+        "title": "Lập bảng nhân sự"
+      },
+      {
+        "detail": "Tìm ra các đội hình và miếng đánh họ chạy thường xuyên nhất rồi vẽ sơ đồ cho đội bạn. Nếu bạn phòng thủ được ba miếng đánh chủ lực của họ, bạn phòng thủ được cả đội họ.",
+        "title": "Xác định ba miếng đánh chủ lực của họ"
+      },
+      {
+        "detail": "Phòng thủ chuyển trạng thái kém? Closeout yếu? Một ngôi sao không bao giờ hỗ trợ phòng thủ? Đội nào cũng có điểm mềm — hãy tìm ra và xây dựng lối tấn công xoay quanh chúng.",
+        "title": "Tìm ra điểm yếu"
+      },
+      {
+        "detail": "Ghi chú nhân sự, chìa khóa của trận đấu và các cặp đối đầu cụ thể trên một trang duy nhất. Nếu không gói gọn được trong một trang thì báo cáo đó quá dài để dùng.",
+        "title": "Viết báo cáo một trang"
+      },
+      {
+        "detail": "Cho đội hình đóng vai đối thủ chạy các miếng đánh của họ trong buổi tập để hàng thủ của bạn được cọ xát thực tế trước ngày thi đấu. Khả năng nhận diện đến từ sự lặp lại.",
+        "title": "Đưa vào buổi tập"
+      }
+    ],
+    "tags": [
+      "huấn luyện",
+      "do thám",
+      "chiến thuật",
+      "băng hình"
+    ],
+    "title": "Do thám đối thủ",
+    "whatIsIt": [
+      "Do thám là việc nghiên cứu có hệ thống về đối thủ: nhân sự, xu hướng, những miếng đánh ưa thích và điểm yếu của họ. Làm tốt, nó biến điều chưa biết thành quen thuộc — cầu thủ của bạn nhận ra miếng đánh tủ của đối phương vì họ đã từng phòng thủ nó trong buổi tập.",
+      "Do thám hiệu quả phải có chọn lọc. Bạn không thể chuẩn bị cho mọi thứ, nên hãy chuẩn bị cho những gì quan trọng nhất: ai là người dứt điểm những pha bóng lớn, họ chạy bài gì khi đồng hồ sắp hết giờ, và họ yếu ở đâu."
+    ],
+    "whyItMatters": [
+      "Do thám giúp thắng trận ngay trước khi trận đấu bắt đầu. Biết rằng hậu vệ dẫn bóng của họ luôn đột phá sang trái, hay họ không bao giờ phòng thủ đường chuyền skip pass, sẽ cho đội bạn những lợi thế cụ thể. Ở trình độ cao, ai cũng do thám — lợi thế thuộc về người biến thông tin do thám thành kế hoạch rõ ràng nhất.",
+      "Nó còn xây dựng sự tự tin cho cầu thủ. Những vận động viên đã xem các miếng đánh của đối thủ trên băng hình và đã phòng thủ chúng trong buổi tập sẽ bước ra sân với niềm tin rằng mình đã sẵn sàng — vì họ thực sự đã sẵn sàng."
+    ]
+  }
+}

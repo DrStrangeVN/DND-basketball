@@ -1,1 +1,131 @@
-{"ages":["U12","U14","U16","U18","Adult"],"coachingPoints":["Drop the foot, not the ball — the ball stays high while your foot does the work.","The drop step should land you at the rim, not 2 meters away — start close.","Keep the ball high through the step; dropping it invites strips.","Power up off two feet when possible — more balance, more fouls drawn.","Read the defender's chest: if they lean middle, drop baseline; if they lean baseline, drop middle."],"commonMistakes":["Dropping the foot but leaving the ball low — strip city.","Taking the drop step too far from the basket — now you're under the rim with no angle.","Leading with the shoulder into the defender — that's a charge; step around them, not through them.","Telegraphing it with a big wind-up — the drop step should be one quick, quiet step."],"dateUpdated":"2026-10-06","description":"The baseline power move: one drop step past the defender's hip and you're at the rim.","gameSituations":["Catching on the low block with the defender on your high side — drop baseline.","Against a defender who overplays the middle — the baseline is wide open.","Late-clock post touches — one move, no wasted dribbles."],"howTo":[{"detail":"Catch the ball on the block with your back to the basket, defender on your back. Chin the ball and feel where their weight is — usually leaning toward the middle.","title":"Catch and feel the defender"},{"detail":"Swing your baseline-side foot (the foot nearer the baseline) in a big step toward the baseline, landing between the defender and the basket. Your body now seals them behind you.","title":"Drop step to the baseline"},{"detail":"Dribble once, hard, as you step — one power dribble is all you need. Keep the ball on your outside hip, away from the defender's reach.","title":"One power dribble"},{"detail":"Gather off the dribble and power up on two feet, extending the ball-side arm to the rim. Finish with the board or straight up, through any contact.","title":"Power up and finish"}],"hub":"skills","id":"drop-step","level":"intermediate","positions":["PF","C"],"readTime":5,"related":["post-positioning","jump-hook","up-and-under","power-finish","pivot"],"slug":"drop-step","subcategory":"post-play","tags":["post","footwork","finishing","big man"],"title":"Drop Step","whatIsIt":["The drop step is the fundamental post power move: from a back-to-the-basket catch, you swing one foot toward the baseline (or middle), stepping past the defender's hip and sealing them behind you on the way to the rim.","It's called a 'drop' because your foot drops into the lane like an anchor. One step, one dribble, one finish — no wasted motion. Every great post scorer's game starts here."],"whyItMatters":["The drop step is the highest-percentage post move because it ends at the rim with the defender sealed. Defenses have to send help to stop it, which opens up kick-outs. If you can drop step both directions, you're a scoring threat on every touch."]}
+{
+  "ages": [
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "coachingPoints": [
+    "Drop the foot, not the ball — the ball stays high while your foot does the work.",
+    "The drop step should land you at the rim, not 2 meters away — start close.",
+    "Keep the ball high through the step; dropping it invites strips.",
+    "Power up off two feet when possible — more balance, more fouls drawn.",
+    "Read the defender's chest: if they lean middle, drop baseline; if they lean baseline, drop middle."
+  ],
+  "commonMistakes": [
+    "Dropping the foot but leaving the ball low — strip city.",
+    "Taking the drop step too far from the basket — now you're under the rim with no angle.",
+    "Leading with the shoulder into the defender — that's a charge; step around them, not through them.",
+    "Telegraphing it with a big wind-up — the drop step should be one quick, quiet step."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "The baseline power move: one drop step past the defender's hip and you're at the rim.",
+  "gameSituations": [
+    "Catching on the low block with the defender on your high side — drop baseline.",
+    "Against a defender who overplays the middle — the baseline is wide open.",
+    "Late-clock post touches — one move, no wasted dribbles."
+  ],
+  "howTo": [
+    {
+      "detail": "Catch the ball on the block with your back to the basket, defender on your back. Chin the ball and feel where their weight is — usually leaning toward the middle.",
+      "title": "Catch and feel the defender"
+    },
+    {
+      "detail": "Swing your baseline-side foot (the foot nearer the baseline) in a big step toward the baseline, landing between the defender and the basket. Your body now seals them behind you.",
+      "title": "Drop step to the baseline"
+    },
+    {
+      "detail": "Dribble once, hard, as you step — one power dribble is all you need. Keep the ball on your outside hip, away from the defender's reach.",
+      "title": "One power dribble"
+    },
+    {
+      "detail": "Gather off the dribble and power up on two feet, extending the ball-side arm to the rim. Finish with the board or straight up, through any contact.",
+      "title": "Power up and finish"
+    }
+  ],
+  "hub": "skills",
+  "id": "drop-step",
+  "level": "intermediate",
+  "positions": [
+    "PF",
+    "C"
+  ],
+  "readTime": 5,
+  "related": [
+    "post-positioning",
+    "jump-hook",
+    "up-and-under",
+    "power-finish",
+    "pivot"
+  ],
+  "slug": "drop-step",
+  "subcategory": "post-play",
+  "tags": [
+    "post",
+    "footwork",
+    "finishing",
+    "big man"
+  ],
+  "title": "Drop Step",
+  "whatIsIt": [
+    "The drop step is the fundamental post power move: from a back-to-the-basket catch, you swing one foot toward the baseline (or middle), stepping past the defender's hip and sealing them behind you on the way to the rim.",
+    "It's called a 'drop' because your foot drops into the lane like an anchor. One step, one dribble, one finish — no wasted motion. Every great post scorer's game starts here."
+  ],
+  "whyItMatters": [
+    "The drop step is the highest-percentage post move because it ends at the rim with the defender sealed. Defenses have to send help to stop it, which opens up kick-outs. If you can drop step both directions, you're a scoring threat on every touch."
+  ],
+  "vi": {
+    "title": "Drop Step",
+    "description": "Đòn đánh sức mạnh ở baseline: một bước drop qua hông hậu vệ là bạn đã ở ngay rổ.",
+    "whatIsIt": [
+      "Bước drop là đòn tấn công sức mạnh cơ bản ở vị trí post: từ tư thế quay lưng nhận bóng, bạn vung một chân về phía baseline (hoặc vào giữa), bước qua hông hậu vệ và chắn họ ở phía sau trên đường đến rổ.",
+      "Nó được gọi là 'drop' vì chân bạn 'rơi' xuống khu vực lane như một cái neo. Một bước, một lần dẫn bóng, một cú kết thúc — không động tác thừa. Mọi tay ghi điểm post giỏi đều bắt đầu từ đây."
+    ],
+    "whyItMatters": [
+      "Bước drop là đòn post có tỷ lệ thành công cao nhất vì nó kết thúc ngay tại rổ với hậu vệ bị chắn sau lưng. Hàng thủ buộc phải kèm phụ để chặn nó, điều này mở ra những đường chuyền bật ra ngoài. Nếu bạn có thể drop step cả hai hướng, bạn là mối đe dọa ghi điểm trong mọi lần chạm bóng."
+    ],
+    "howTo": [
+      {
+        "title": "Nhận bóng và cảm nhận hậu vệ",
+        "detail": "Nhận bóng ở vị trí block với lưng quay về rổ, hậu vệ áp sát sau lưng. Giữ bóng cao ngang cằm và cảm nhận trọng tâm của họ — thường họ nghiêng về phía giữa."
+      },
+      {
+        "title": "Bước drop về phía baseline",
+        "detail": "Vung chân phía baseline (chân gần baseline hơn) một bước dài về phía baseline, đặt chân giữa hậu vệ và rổ. Cơ thể bạn giờ đây chắn họ ở phía sau."
+      },
+      {
+        "title": "Một lần dẫn bóng mạnh",
+        "detail": "Dẫn một nhịp thật mạnh khi bước — chỉ cần một lần dẫn bóng sức mạnh. Giữ bóng ở hông phía ngoài, xa tầm với của hậu vệ."
+      },
+      {
+        "title": "Bật lên và kết thúc",
+        "detail": "Thu bóng sau nhịp dẫn và bật lên bằng hai chân, duỗi tay phía có bóng về phía rổ. Kết thúc qua bảng rổ hoặc thẳng rổ, xuyên qua mọi va chạm."
+      }
+    ],
+    "coachingPoints": [
+      "Hạ chân, đừng hạ bóng — bóng giữ cao trong khi chân làm việc.",
+      "Bước drop phải đưa bạn đến ngay rổ, không phải cách rổ 2 mét — hãy bắt đầu ở gần.",
+      "Giữ bóng cao suốt bước di chuyển; hạ bóng xuống là mời đối phương cướp bóng.",
+      "Bật lên bằng hai chân khi có thể — thăng bằng hơn, dễ kiếm lỗi hơn.",
+      "Đọc ngực hậu vệ: nếu họ nghiêng về giữa, drop về baseline; nếu họ nghiêng về baseline, drop vào giữa."
+    ],
+    "commonMistakes": [
+      "Hạ chân nhưng để bóng thấp — coi như dâng bóng cho đối phương.",
+      "Bước drop quá xa rổ — giờ bạn ở dưới rổ mà không còn góc ném.",
+      "Dùng vai húc vào hậu vệ — đó là lỗi tấn công; hãy bước vòng qua họ, không phải xuyên qua họ.",
+      "Lộ ý đồ với động tác vung tay lớn — bước drop phải là một bước nhanh, gọn."
+    ],
+    "gameSituations": [
+      "Nhận bóng ở low block khi hậu vệ đứng phía trên (high side) — drop về baseline.",
+      "Khi hậu vệ kèm chặt phía giữa quá mức — đường baseline đang rộng mở.",
+      "Những lần chạm bóng cuối đồng hồ — một động tác, không dẫn bóng thừa."
+    ],
+    "tags": [
+      "đánh post",
+      "bộ chân",
+      "kết thúc",
+      "cầu thủ cao to"
+    ]
+  }
+}

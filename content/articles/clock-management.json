@@ -1,1 +1,144 @@
-{"ages":["U14","U16","U18","Adult","Competitive"],"coachingPoints":["Practice end-of-quarter situations weekly — they are the highest-leverage minutes of the game.","Assign one player, usually the point guard, as the clock manager on the floor.","Teach the math: how many possessions remain and what each one is worth.","Rehearse fouling situations in practice so players execute without hesitation in games."],"commonMistakes":["Shooting too early when the plan was to hold for the last shot.","Forgetting the shot clock and committing a violation.","Fouling when ahead late in the game and giving away free points.","Not knowing whether the team is in the bonus before deciding to foul or defend."],"dateUpdated":"2026-10-06","description":"Master the game clock and shot clock — when to push, when to hold, and how to control the final minutes of each quarter.","gameSituations":["End-of-quarter two-for-one opportunity with 40 seconds left.","Up 3 with 20 seconds left: the foul-or-defend decision.","Shot clock under 8 seconds: simplifying to one decisive action."],"howTo":[{"detail":"Score, time, fouls, timeouts, possession arrow — check all of them at every dead ball. You cannot manage what you do not know.","title":"Know the situation always"},{"detail":"With roughly 35-40 seconds left in a quarter, attack early enough to get the ball back for the final shot. Two possessions beat one.","title":"Hunt the two-for-one"},{"detail":"With the lead and under 30 seconds, run the clock down before attacking. Make the defense play defense for the full possession.","title":"Hold for the last shot"},{"detail":"When behind late, foul to stop the clock and extend the game. When ahead, never foul jump shooters — make them earn it from the field.","title":"Foul smart"},{"detail":"Do not shoot with 20 seconds left unless it is a great look — but never let the clock expire. Manage the middle: patience without passivity.","title":"Manage the shot clock"},{"detail":"The point guard should call out \"two-for-one\" or \"hold\" so all five players execute the same clock plan. Silent clock management fails.","title":"Communicate the plan"}],"hub":"basketball-iq","id":"clock-management","level":"intermediate","positions":["ALL"],"readTime":5,"related":["end-of-game-decisions","decision-making","timing-basketball"],"slug":"clock-management","subcategory":"basketball-iq","tags":["basketball-iq","clock","game-management","late-game"],"title":"Clock Management","whatIsIt":["Clock management is the art of controlling time — speeding the game up when you are behind, slowing it down when you are ahead, and always knowing the score, the fouls, and the seconds. It covers the shot clock on every possession and the game clock in critical moments.","Good clock managers know the two-for-one window, when to foul, when to hold for the last shot, and how to use timeouts to control the game's rhythm. It is a quiet skill that wins close games without ever appearing on a highlight reel."],"whyItMatters":["Close games are decided by clock decisions more than by highlight plays. A wasted possession at the end of a quarter, a foul given too early, a rushed shot while holding the lead — these small errors compound. Teams that manage the clock steal extra possessions and close out wins.","It is also a leadership skill. The player who manages the clock organizes the team, and organized teams stay calm when the pressure rises."]}
+{
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult",
+    "Competitive"
+  ],
+  "coachingPoints": [
+    "Practice end-of-quarter situations weekly — they are the highest-leverage minutes of the game.",
+    "Assign one player, usually the point guard, as the clock manager on the floor.",
+    "Teach the math: how many possessions remain and what each one is worth.",
+    "Rehearse fouling situations in practice so players execute without hesitation in games."
+  ],
+  "commonMistakes": [
+    "Shooting too early when the plan was to hold for the last shot.",
+    "Forgetting the shot clock and committing a violation.",
+    "Fouling when ahead late in the game and giving away free points.",
+    "Not knowing whether the team is in the bonus before deciding to foul or defend."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "Master the game clock and shot clock — when to push, when to hold, and how to control the final minutes of each quarter.",
+  "gameSituations": [
+    "End-of-quarter two-for-one opportunity with 40 seconds left.",
+    "Up 3 with 20 seconds left: the foul-or-defend decision.",
+    "Shot clock under 8 seconds: simplifying to one decisive action."
+  ],
+  "howTo": [
+    {
+      "detail": "Score, time, fouls, timeouts, possession arrow — check all of them at every dead ball. You cannot manage what you do not know.",
+      "title": "Know the situation always"
+    },
+    {
+      "detail": "With roughly 35-40 seconds left in a quarter, attack early enough to get the ball back for the final shot. Two possessions beat one.",
+      "title": "Hunt the two-for-one"
+    },
+    {
+      "detail": "With the lead and under 30 seconds, run the clock down before attacking. Make the defense play defense for the full possession.",
+      "title": "Hold for the last shot"
+    },
+    {
+      "detail": "When behind late, foul to stop the clock and extend the game. When ahead, never foul jump shooters — make them earn it from the field.",
+      "title": "Foul smart"
+    },
+    {
+      "detail": "Do not shoot with 20 seconds left unless it is a great look — but never let the clock expire. Manage the middle: patience without passivity.",
+      "title": "Manage the shot clock"
+    },
+    {
+      "detail": "The point guard should call out \"two-for-one\" or \"hold\" so all five players execute the same clock plan. Silent clock management fails.",
+      "title": "Communicate the plan"
+    }
+  ],
+  "hub": "basketball-iq",
+  "id": "clock-management",
+  "level": "intermediate",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 5,
+  "related": [
+    "end-of-game-decisions",
+    "decision-making",
+    "timing-basketball"
+  ],
+  "slug": "clock-management",
+  "subcategory": "basketball-iq",
+  "tags": [
+    "basketball-iq",
+    "clock",
+    "game-management",
+    "late-game"
+  ],
+  "title": "Clock Management",
+  "whatIsIt": [
+    "Clock management is the art of controlling time — speeding the game up when you are behind, slowing it down when you are ahead, and always knowing the score, the fouls, and the seconds. It covers the shot clock on every possession and the game clock in critical moments.",
+    "Good clock managers know the two-for-one window, when to foul, when to hold for the last shot, and how to use timeouts to control the game's rhythm. It is a quiet skill that wins close games without ever appearing on a highlight reel."
+  ],
+  "whyItMatters": [
+    "Close games are decided by clock decisions more than by highlight plays. A wasted possession at the end of a quarter, a foul given too early, a rushed shot while holding the lead — these small errors compound. Teams that manage the clock steal extra possessions and close out wins.",
+    "It is also a leadership skill. The player who manages the clock organizes the team, and organized teams stay calm when the pressure rises."
+  ],
+  "vi": {
+    "coachingPoints": [
+      "Tập các tình huống cuối hiệp hàng tuần — đó là những phút có ảnh hưởng lớn nhất của trận đấu",
+      "Chỉ định một cầu thủ, thường là point guard, làm người quản lý đồng hồ trên sân",
+      "Dạy phép tính: còn bao nhiêu đợt tấn công và mỗi đợt đáng giá bao nhiêu",
+      "Diễn tập các tình huống phạm lỗi chiến thuật trong buổi tập để cầu thủ thực hiện không do dự trong trận"
+    ],
+    "commonMistakes": [
+      "Ném quá sớm trong khi kế hoạch là giữ bóng cho cú ném cuối",
+      "Quên đồng hồ tấn công và phạm lỗi vi phạm",
+      "Phạm lỗi khi đang dẫn trước cuối trận và tặng điểm miễn phí",
+      "Không biết đội đã vào bonus hay chưa trước khi quyết định phạm lỗi hay phòng thủ"
+    ],
+    "description": "Làm chủ đồng hồ trận đấu và đồng hồ tấn công — khi nào đẩy nhanh, khi nào giữ bóng, và cách kiểm soát những phút cuối mỗi hiệp.",
+    "gameSituations": [
+      "Cơ hội two-for-one cuối hiệp khi còn 40 giây",
+      "Dẫn 3 điểm còn 20 giây: quyết định phạm lỗi hay phòng thủ",
+      "Đồng hồ tấn công dưới 8 giây: đơn giản hóa thành một hành động quyết đoán"
+    ],
+    "howTo": [
+      {
+        "detail": "Tỷ số, thời gian, số lỗi, timeout, mũi tên luân phiên — kiểm tra tất cả ở mỗi lần bóng chết. Bạn không thể quản lý điều mình không biết.",
+        "title": "Luôn nắm rõ tình huống"
+      },
+      {
+        "detail": "Khi còn khoảng 35–40 giây cuối hiệp, tấn công sớm để lấy lại bóng cho cú ném cuối. Hai đợt tấn công thắng một.",
+        "title": "Săn two-for-one"
+      },
+      {
+        "detail": "Khi đang dẫn và còn dưới 30 giây, câu giờ trước khi tấn công. Bắt hàng thủ phải phòng thủ trọn một đợt tấn công.",
+        "title": "Giữ bóng cho cú ném cuối"
+      },
+      {
+        "detail": "Khi bị dẫn cuối trận, phạm lỗi để dừng đồng hồ và kéo dài trận đấu. Khi đang dẫn, đừng bao giờ phạm lỗi với người ném — bắt họ phải ghi điểm từ sân.",
+        "title": "Phạm lỗi thông minh"
+      },
+      {
+        "detail": "Đừng ném khi còn 20 giây trừ khi đó là cơ hội ngon — nhưng đừng bao giờ để đồng hồ hết giờ. Quản lý khoảng giữa: kiên nhẫn mà không thụ động.",
+        "title": "Quản lý đồng hồ tấn công"
+      },
+      {
+        "detail": "Point guard nên hô to 'two-for-one' hoặc 'hold' để cả năm người thực hiện cùng một kế hoạch đồng hồ. Quản lý đồng hồ trong im lặng sẽ thất bại.",
+        "title": "Truyền đạt kế hoạch"
+      }
+    ],
+    "tags": [
+      "basketball iq",
+      "đồng hồ",
+      "quản lý trận đấu",
+      "cuối trận"
+    ],
+    "title": "Quản Lý Đồng Hồ",
+    "whatIsIt": [
+      "Quản lý đồng hồ là nghệ thuật kiểm soát thời gian — tăng tốc trận đấu khi bị dẫn, giảm tốc khi đang dẫn, và luôn biết tỷ số, số lỗi và số giây. Nó bao quát đồng hồ tấn công trong mọi đợt bóng và đồng hồ trận đấu ở những thời khắc quan trọng.",
+      "Người quản lý đồng hồ giỏi biết cửa sổ two-for-one, khi nào nên phạm lỗi, khi nào nên giữ bóng cho cú ném cuối, và cách dùng timeout để kiểm soát nhịp trận đấu. Đây là kỹ năng thầm lặng thắng những trận sít sao mà không bao giờ xuất hiện trên highlight."
+    ],
+    "whyItMatters": [
+      "Những trận sít sao được quyết định bởi các quyết định đồng hồ nhiều hơn là các pha highlight. Một đợt tấn công lãng phí cuối hiệp, một pha phạm lỗi quá sớm, một cú ném vội khi đang giữ lợi thế — những lỗi nhỏ này cộng dồn. Những đội quản lý đồng hồ tốt đánh cắp thêm đợt tấn công và khép lại chiến thắng.",
+      "Đây cũng là kỹ năng lãnh đạo. Cầu thủ quản lý đồng hồ là người tổ chức đội bóng, và những đội có tổ chức giữ được bình tĩnh khi áp lực tăng cao."
+    ]
+  }
+}

@@ -3,17 +3,19 @@ import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { Home, GraduationCap, Search, Dumbbell, Bookmark } from "lucide-react";
 import { openSearch } from "./SearchModal";
+import { useLanguage } from "@/lib/i18n";
 
 const ITEMS = [
-  { label: "Home", href: "/", icon: Home },
-  { label: "Learn", href: "/learn", icon: GraduationCap },
-  { label: "Search", href: "", icon: Search, action: true },
-  { label: "Drills", href: "/drills", icon: Dumbbell },
-  { label: "Saved", href: "/library", icon: Bookmark },
+  { labelKey: "mobile.home", href: "/", icon: Home },
+  { labelKey: "mobile.learn", href: "/learn", icon: GraduationCap },
+  { labelKey: "mobile.search", href: "", icon: Search, action: true },
+  { labelKey: "mobile.drills", href: "/drills", icon: Dumbbell },
+  { labelKey: "mobile.saved", href: "/library", icon: Bookmark },
 ];
 
 export default function MobileBottomNav() {
   const pathname = usePathname();
+  const { t } = useLanguage();
   return (
     <nav aria-label="Quick navigation"
       className="fixed inset-x-3 bottom-3 z-[60] md:hidden">
@@ -22,12 +24,12 @@ export default function MobileBottomNav() {
           const active = it.href === pathname;
           const cls = `flex flex-col items-center gap-0.5 rounded-2xl px-4 py-1.5 text-[10px] font-semibold ${active ? "text-[color:var(--orange)]" : "text-[color:var(--muted)]"}`;
           return it.action ? (
-            <button key={it.label} onClick={openSearch} className={cls} aria-label="Search">
-              <it.icon className="h-5 w-5" aria-hidden /> {it.label}
+            <button key={it.labelKey} onClick={openSearch} className={cls} aria-label={t("mobile.search")}>
+              <it.icon className="h-5 w-5" aria-hidden /> {t(it.labelKey)}
             </button>
           ) : (
-            <Link key={it.label} href={it.href} className={cls} aria-current={active ? "page" : undefined}>
-              <it.icon className="h-5 w-5" aria-hidden /> {it.label}
+            <Link key={it.labelKey} href={it.href} className={cls} aria-current={active ? "page" : undefined}>
+              <it.icon className="h-5 w-5" aria-hidden /> {t(it.labelKey)}
             </Link>
           );
         })}

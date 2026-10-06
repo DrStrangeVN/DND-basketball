@@ -1,1 +1,130 @@
-{"ages":["U12","U14","U16","U18","Adult"],"coachingPoints":["Crash from the weak side — the weak-side defender rarely boxes out well.","Go when the shot goes up, not when it misses — late crashers get nothing.","Keep the ball high if you grab it — putbacks should be quick tips or dunks, not gathers.","Don't crash blindly: know the game situation — late and down, everyone crashes; late and up, get back.","Tap it to a teammate if you can't grab it — a kept-alive ball is a new possession."],"commonMistakes":["Crashing from the strong side into a set box-out — you're running into a wall.","Watching your own shot instead of following it — shooters who follow get putbacks.","Bringing the offensive rebound down — go straight back up; the defense is scrambling.","Giving up transition defense entirely — crashing is a calculated risk, not a habit."],"dateUpdated":"2026-10-06","description":"Create extra possessions: crash timing, weak-side angles, and quick putbacks.","gameSituations":["When your team shoots — the two weak-side players crash hardest.","Putback situations — tip it in if you can't secure it cleanly.","Against teams that don't box out — punish them every single possession."],"howTo":[{"detail":"As your teammate shoots, read the defense: the weak-side big and weak-side wing are your crashers. Start moving as the ball leaves the shooter's hands.","title":"Time the crash"},{"detail":"Attack from the weak side, where box-outs are weakest. Use a quick swim move or spin around the defender's seal — don't try to go through their chest.","title":"Beat the box-out"},{"detail":"Jump for the ball's highest point. If you can grab it cleanly with two hands, do it; if not, tip it toward the basket or to a teammate.","title":"Grab or tip"},{"detail":"If you secure it, go straight back up — no dribble, no gather. A quick putback before the defense recovers is the highest-percentage second-chance shot.","title":"Quick putback"}],"hub":"skills","id":"offensive-rebounding","level":"intermediate","positions":["ALL"],"readTime":5,"related":["box-out","defensive-rebounding","power-finish","post-positioning","jump-stop"],"slug":"offensive-rebounding","subcategory":"rebounding","tags":["rebounding","offense","putback","hustle"],"title":"Offensive Rebounding","whatIsIt":["Offensive rebounding is grabbing your team's missed shot — creating a brand-new possession out of a failed one. It's part timing, part effort, and part technique: beating the opponent's box-out and finishing before the defense resets.","Offensive rebounds are demoralizing for defenses. They defended well for 20 seconds, forced a miss — and it didn't matter. Teams that offensive-rebound well score more second-chance points and wear opponents down physically and mentally."],"whyItMatters":["Second-chance points are the easiest points in basketball — the defense is scrambled and the rim is unprotected. Even two or three offensive rebounds per game can swing a close contest. And the threat of the crash changes how defenses rebound, pulling their bigs away from transition defense."]}
+{
+  "ages": [
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "coachingPoints": [
+    "Crash from the weak side — the weak-side defender rarely boxes out well.",
+    "Go when the shot goes up, not when it misses — late crashers get nothing.",
+    "Keep the ball high if you grab it — putbacks should be quick tips or dunks, not gathers.",
+    "Don't crash blindly: know the game situation — late and down, everyone crashes; late and up, get back.",
+    "Tap it to a teammate if you can't grab it — a kept-alive ball is a new possession."
+  ],
+  "commonMistakes": [
+    "Crashing from the strong side into a set box-out — you're running into a wall.",
+    "Watching your own shot instead of following it — shooters who follow get putbacks.",
+    "Bringing the offensive rebound down — go straight back up; the defense is scrambling.",
+    "Giving up transition defense entirely — crashing is a calculated risk, not a habit."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "Create extra possessions: crash timing, weak-side angles, and quick putbacks.",
+  "gameSituations": [
+    "When your team shoots — the two weak-side players crash hardest.",
+    "Putback situations — tip it in if you can't secure it cleanly.",
+    "Against teams that don't box out — punish them every single possession."
+  ],
+  "howTo": [
+    {
+      "detail": "As your teammate shoots, read the defense: the weak-side big and weak-side wing are your crashers. Start moving as the ball leaves the shooter's hands.",
+      "title": "Time the crash"
+    },
+    {
+      "detail": "Attack from the weak side, where box-outs are weakest. Use a quick swim move or spin around the defender's seal — don't try to go through their chest.",
+      "title": "Beat the box-out"
+    },
+    {
+      "detail": "Jump for the ball's highest point. If you can grab it cleanly with two hands, do it; if not, tip it toward the basket or to a teammate.",
+      "title": "Grab or tip"
+    },
+    {
+      "detail": "If you secure it, go straight back up — no dribble, no gather. A quick putback before the defense recovers is the highest-percentage second-chance shot.",
+      "title": "Quick putback"
+    }
+  ],
+  "hub": "skills",
+  "id": "offensive-rebounding",
+  "level": "intermediate",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 5,
+  "related": [
+    "box-out",
+    "defensive-rebounding",
+    "power-finish",
+    "post-positioning",
+    "jump-stop"
+  ],
+  "slug": "offensive-rebounding",
+  "subcategory": "rebounding",
+  "tags": [
+    "rebounding",
+    "offense",
+    "putback",
+    "hustle"
+  ],
+  "title": "Offensive Rebounding",
+  "whatIsIt": [
+    "Offensive rebounding is grabbing your team's missed shot — creating a brand-new possession out of a failed one. It's part timing, part effort, and part technique: beating the opponent's box-out and finishing before the defense resets.",
+    "Offensive rebounds are demoralizing for defenses. They defended well for 20 seconds, forced a miss — and it didn't matter. Teams that offensive-rebound well score more second-chance points and wear opponents down physically and mentally."
+  ],
+  "whyItMatters": [
+    "Second-chance points are the easiest points in basketball — the defense is scrambled and the rim is unprotected. Even two or three offensive rebounds per game can swing a close contest. And the threat of the crash changes how defenses rebound, pulling their bigs away from transition defense."
+  ],
+  "vi": {
+    "title": "Rebound Tấn Công (Offensive Rebounding)",
+    "description": "Tạo thêm lượt bóng: thời điểm lao vào, góc từ phía yếu, và các cú putback nhanh.",
+    "whatIsIt": [
+      "Rebound tấn công là bắt lại cú ném hỏng của đội mình — tạo ra một lượt bóng hoàn toàn mới từ một pha bóng thất bại. Nó là sự kết hợp của thời điểm, nỗ lực và kỹ thuật: đánh bại pha box-out của đối thủ và kết thúc trước khi hàng thủ ổn định lại.",
+      "Rebound tấn công làm nản lòng hàng thủ. Họ đã phòng thủ tốt suốt 20 giây, ép đối phương ném hỏng — mà chẳng có ý nghĩa gì. Các đội rebound tấn công tốt ghi nhiều điểm second-chance hơn và bào mòn đối thủ cả về thể lực lẫn tinh thần."
+    ],
+    "whyItMatters": [
+      "Điểm second-chance là những điểm dễ nhất trong bóng rổ — hàng thủ đang rối loạn và rổ không được bảo vệ. Chỉ cần hai ba quả rebound tấn công mỗi trận cũng có thể xoay chuyển một trận đấu sít sao. Và mối đe dọa lao vào rebound thay đổi cách hàng thủ rebound, kéo các big man của họ ra khỏi phòng thủ chuyển trạng thái."
+    ],
+    "howTo": [
+      {
+        "title": "Chọn thời điểm lao vào",
+        "detail": "Khi đồng đội ném, hãy đọc hàng thủ: big man phía yếu và cầu thủ cánh phía yếu là những người lao vào. Bắt đầu di chuyển ngay khi bóng rời tay người ném."
+      },
+      {
+        "title": "Đánh bại pha box-out",
+        "detail": "Tấn công từ phía yếu, nơi các pha box-out yếu nhất. Dùng động tác swim move nhanh hoặc xoay người qua pha chắn của hậu vệ — đừng cố đâm xuyên qua ngực họ."
+      },
+      {
+        "title": "Bắt hoặc chạm bóng",
+        "detail": "Nhảy đến điểm cao nhất của bóng. Nếu bạn bắt sạch bằng hai tay được, hãy làm; nếu không, hãy chạm bóng về phía rổ hoặc cho đồng đội."
+      },
+      {
+        "title": "Putback nhanh",
+        "detail": "Nếu bạn bắt được bóng, hãy đưa bóng lên ngay — không dẫn, không gom bóng. Một cú putback nhanh trước khi hàng thủ hồi phục là cú ném second-chance có tỷ lệ cao nhất."
+      }
+    ],
+    "coachingPoints": [
+      "Lao vào từ phía yếu — hậu vệ phía yếu hiếm khi box out tốt.",
+      "Lao vào khi bóng vừa bay lên, không phải khi nó đã hỏng — người đến muộn chẳng được gì.",
+      "Giữ bóng cao nếu bạn bắt được — các cú putback nên là những cú chạm nhanh hoặc dunk, không phải gom bóng xuống.",
+      "Đừng lao vào mù quáng: nắm rõ tình huống trận đấu — cuối trận và đang thua, tất cả lao vào; cuối trận và đang thắng, hãy lui về.",
+      "Chạm bóng cho đồng đội nếu bạn không bắt được — một quả bóng được giữ sống là một lượt bóng mới."
+    ],
+    "commonMistakes": [
+      "Lao vào từ phía mạnh vào một pha box-out đã vào vị trí — bạn đang đâm vào tường.",
+      "Đứng nhìn cú ném của chính mình thay vì chạy theo nó — những tay ném chạy theo bóng sẽ có putback.",
+      "Hạ bóng rebound tấn công xuống thấp — hãy đưa bóng lên ngay; hàng thủ đang rối loạn.",
+      "Bỏ hẳn phòng thủ chuyển trạng thái — lao vào rebound là một rủi ro có tính toán, không phải thói quen."
+    ],
+    "gameSituations": [
+      "Khi đội bạn ném — hai cầu thủ phía yếu lao vào mạnh nhất.",
+      "Các tình huống putback — chạm bóng vào rổ nếu bạn không bắt sạch được.",
+      "Trước các đội không box out — trừng phạt họ mọi lượt bóng."
+    ],
+    "tags": [
+      "rebound",
+      "tấn công",
+      "putback",
+      "nỗ lực"
+    ]
+  }
+}

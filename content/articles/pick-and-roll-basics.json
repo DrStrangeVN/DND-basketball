@@ -138,5 +138,66 @@
     "USA Basketball",
     "FIBA"
   ],
-  "dateUpdated": "2026-10-06"
+  "dateUpdated": "2026-10-06",
+  "vi": {
+    "title": "Pick & Roll Cơ Bản",
+    "description": "Tình huống 2 người quan trọng nhất trong bóng rổ: một cầu thủ chắn cho người giữ bóng, rồi roll hoặc pop.",
+    "whatIsIt": [
+      "Pick-and-roll (PNR) là tình huống 2 người: một cầu thủ tấn công đặt screen (pick) cho người giữ bóng, rồi di chuyển về phía rổ (roll) hoặc ra khoảng trống (pop). Đây là tình huống được chạy nhiều nhất trong bóng rổ hiện đại ở mọi cấp độ.",
+      "Điều đặc biệt là bài toán số lượng. Screen tạm thời loại một hậu vệ khỏi pha bóng, tạo ra 2 đánh 1: người giữ bóng và người chắn đấu với hậu vệ của người giữ bóng và hậu vệ của người chắn. Nếu cả hai cầu thủ tấn công đọc đúng, hàng thủ không thể kèm cả hai.",
+      "Mọi khái niệm nâng cao — Spain PNR, short roll, snake dribble — chỉ là biến thể của những điều cơ bản này. Nắm vững nền tảng, phần còn lại sẽ dễ đọc."
+    ],
+    "whyItMatters": [
+      "Pick-and-roll là xương sống của tấn công hiện đại vì nó tạo lợi thế từ con số không. Ngay cả khi không có cầu thủ 1 đối 1 xuất sắc, một PNR chạy tốt buộc hàng thủ phải quyết định — và mỗi quyết định đều để hở một thứ gì đó. Đội chạy tốt ghi điểm hiệu quả; đội thủ kém bị thủng layup và 3 điểm trống cả trận."
+    ],
+    "howTo": [
+      {
+        "title": "Đặt screen đúng vị trí",
+        "detail": "Người chắn chạy nước rút tới đặt screen lên hậu vệ của người giữ bóng, thường ở đỉnh hoặc cánh. Chân rộng, gối cong, đứng yên hoàn toàn — screen di động là lỗi tấn công."
+      },
+      {
+        "title": "Chỉnh góc screen",
+        "detail": "Ngực người chắn hướng vào đường di chuyển của hậu vệ, lái người giữ bóng về giữa hoặc ra biên tùy kế hoạch trận đấu."
+      },
+      {
+        "title": "Chờ va chạm",
+        "detail": "Người giữ bóng phải kiên nhẫn — để hậu vệ đâm vào screen. Đi quá sớm phí mất screen và để hậu vệ lách qua dưới."
+      },
+      {
+        "title": "Đi sát vai người chắn",
+        "detail": "Người giữ bóng dẫn sát hông người chắn, buộc hậu vệ phải đi trên hoặc đi dưới. Rẽ rộng cho hậu vệ đường quay lại."
+      },
+      {
+        "title": "Đọc hai hậu vệ",
+        "detail": "Sau screen, đọc tình huống: hậu vệ kèm bóng đi trên, đi dưới, hay kẹt lại? Hậu vệ của người chắn drop, hedge, hay switch? Câu trả lời cho biết nên ném, đột phá hay chuyền."
+      },
+      {
+        "title": "Người chắn: roll hoặc pop",
+        "detail": "Nếu hậu vệ của người chắn hỗ trợ bóng, roll mạnh vào rổ. Nếu hậu vệ đó đứng lại hoặc người chắn ném được, pop ra khoảng trống để ném."
+      }
+    ],
+    "coachingPoints": [
+      "Dạy sự kiên nhẫn trước — cầu thủ trẻ vội vàng đặt screen, không bao giờ tạo được khoảng trống thật",
+      "Người chắn nên hô to khi đặt screen và chỉ người giữ bóng về phía trống",
+      "Tập ở tốc độ trận đấu: tập PNR đi bộ không dạy được gì về thời điểm và va chạm",
+      "Bắt đầu 2v2 trước khi thêm hậu vệ hỗ trợ; để cầu thủ thành thạo pha đọc 2 đánh 1"
+    ],
+    "commonMistakes": [
+      "Slip screen mọi lần thay vì va chạm — không va chạm, không lợi thế",
+      "Người giữ bóng dẫn xa khỏi screen hoặc rẽ quá rộng",
+      "Người chắn roll tới đúng chỗ hậu vệ của mình đang chờ sẵn",
+      "Cả hai cầu thủ nhìn nhau thay vì đọc hàng thủ"
+    ],
+    "gameSituations": [
+      "Chống mọi hàng thủ kèm người, làm vũ khí tấn công nửa sân chính",
+      "Khi có hậu vệ ném được hoặc big dứt điểm tốt — cặp PNR kinh điển",
+      "Cuối đồng hồ: một screen tốt thường đủ để tạo cú ném"
+    ],
+    "tags": [
+      "pick and roll",
+      "chắn bóng",
+      "phối hợp 2 người",
+      "tấn công"
+    ]
+  }
 }

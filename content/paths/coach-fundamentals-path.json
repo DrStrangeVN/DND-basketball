@@ -13,5 +13,36 @@
     {"title": "Level 5 — Study Film", "description": "Use video to teach — what to look for, how to clip it, and how to turn film sessions into learning.", "articles": ["film-study-coaching"]},
     {"title": "Level 6 — Build Team Culture", "description": "Create the standards, communication, and accountability that make teams greater than their talent.", "articles": ["team-culture"]}
   ],
-  "dateUpdated": "2026-10-06"
+  "dateUpdated": "2026-10-06",
+  "vi":   {
+    "title": "Nền Tảng Huấn Luyện",
+    "description": "Học cách dạy bóng rổ: cầu thủ học thế nào, lên kế hoạch buổi tập ra sao, phát triển cầu thủ qua cả mùa giải, huấn luyện trẻ, xem film và xây dựng văn hóa đội.",
+    "audience": "HLV mới và HLV trẻ",
+    "steps": [
+      {
+        "title": "Cấp 1 — Cách Dạy Bóng Rổ",
+        "description": "Học các nguyên tắc dạy kỹ năng: thị phạm, tiến bộ từng bước và phản hồi thực sự hiệu quả."
+      },
+      {
+        "title": "Cấp 2 — Lên Kế Hoạch Buổi Tập Hay",
+        "description": "Thiết kế buổi tập có mục đích — khởi động, rèn kỹ năng, trò chơi nhỏ và thi đấu với tỷ lệ hợp lý."
+      },
+      {
+        "title": "Cấp 3 — Phát Triển Cầu Thủ Dài Hạn",
+        "description": "Xây dựng kế hoạch phát triển cầu thủ cả mùa giải, phát triển kỹ năng theo lộ trình thay vì ngẫu hứng."
+      },
+      {
+        "title": "Cấp 4 — Huấn Luyện Trẻ Đúng Cách",
+        "description": "Điều chỉnh cách huấn luyện cho cầu thủ trẻ: kỳ vọng phù hợp lứa tuổi, vui vẻ và nền tảng trước."
+      },
+      {
+        "title": "Cấp 5 — Xem Film",
+        "description": "Dùng video để dạy — xem gì, cắt clip thế nào và biến buổi xem film thành bài học."
+      },
+      {
+        "title": "Cấp 6 — Xây Dựng Văn Hóa Đội",
+        "description": "Tạo ra những tiêu chuẩn, giao tiếp và trách nhiệm khiến đội bóng lớn hơn tổng tài năng."
+      }
+    ]
+  }
 }

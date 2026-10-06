@@ -137,5 +137,61 @@
     "pick-and-pop",
     "spain-pick-and-roll"
   ],
-  "dateUpdated": "2026-10-06"
+  "dateUpdated": "2026-10-06",
+  "vi": {
+    "title": "Horns Pick & Roll",
+    "description": "Pick-and-roll chạy từ sơ đồ Horns — hai người chắn ở elbow, vô vàn lựa chọn hai bên.",
+    "whatIsIt": [
+      "Horns là một sơ đồ: người dẫn bóng ở trên đỉnh, hai big ở elbow (hai 'sừng'), và hai wing ở góc sân. Horns pick-and-roll là pha chắn bóng do một trong hai big ở elbow thực hiện, với big còn lại sẵn sàng làm người chắn thứ hai, mối đe dọa bật ra, hoặc người lao vào.",
+      "Sức mạnh của nó là tính đối xứng. Hàng thủ không biết pha chắn đến từ bên nào, và sau pha chắn đầu, big thứ hai có thể chắn lại, lách, hoặc giãn sân. Đây là một bài gọi chứa đựng vô vàn khả năng.",
+      "Horns PNR là bài gọi ưa thích cuối trận và ATO vì đơn giản để chạy nhưng khó kèm — cùng một đội hình tạo ra pha đột phá, pha roll, pha pop, hay động tác phía yếu."
+    ],
+    "whyItMatters": [
+      "Hầu hết các đòn PNR đến từ một vị trí dễ đoán. Horns cho bạn hai người chắn, hai bên, và đòn phản công tích hợp mà không cần đổi bài gọi. Với huấn luyện viên, đó là lựa chọn tối đa từ việc dạy tối thiểu; với cầu thủ, đó là động tác đọc tình huống thưởng cho IQ."
+    ],
+    "howTo": [
+      {
+        "title": "Dựng sơ đồ Horns",
+        "detail": "Bóng ở trên đỉnh, big ở các elbow, wing ở góc sân. Spacing phải chính xác — các elbow là bệ phóng."
+      },
+      {
+        "title": "Chọn bên chắn",
+        "detail": "Big nào cũng có thể chắn bóng. Đánh vào bên có hậu vệ kèm bóng yếu hơn hoặc big chậm hơn."
+      },
+      {
+        "title": "Dùng big thứ hai",
+        "detail": "Sau pha chắn đầu, big đối diện có thể chắn lại (kiểu double drag), lao vào rổ, hoặc bật ra. Đây là điểm phân biệt Horns với PNR thường."
+      },
+      {
+        "title": "Đọc cách kèm",
+        "detail": "Đọc như mọi PNR — over, under, drop, switch — nhưng giờ có người chắn thứ hai làm van xả khi động tác đầu bị khóa."
+      },
+      {
+        "title": "Chuyển sang phía yếu",
+        "detail": "Nếu bên đầu bị bịt kín, xoay bóng và chạy horn bên kia. Hàng thủ vừa dịch chuyển; hãy tấn công khoảng trống mới."
+      }
+    ],
+    "coachingPoints": [
+      "Dạy sơ đồ trước — Horns spacing tệ (big quá thấp hoặc quá rộng) phá hỏng mọi lựa chọn.",
+      "Cho người dẫn bóng tự do chọn bên; gọi bên cố định thành dễ đoán.",
+      "Tập riêng các tình huống đọc của big thứ hai: chắn lại, lao vào, và bật ra là ba kỹ năng khác nhau.",
+      "Wing phải ở góc sân cho đến khi động tác hình thành — trôi vào sớm để hàng thủ hỗ trợ kịp tới."
+    ],
+    "commonMistakes": [
+      "Chạy pha chắn với big sai cho tình huống đối đầu — luôn tấn công bên yếu hơn.",
+      "Big thứ hai đứng nhìn thay vì chắn lại hoặc giãn sân.",
+      "Cố chấp bên đầu khi hàng thủ đã dồn hết về đó."
+    ],
+    "gameSituations": [
+      "Bài ATO và cuối trận, khi cần một đòn tấn công nhiều lựa chọn đáng tin cậy.",
+      "Khi có hai big khéo, đều biết chắn và ra quyết định.",
+      "Gặp hàng thủ switch — người chắn thứ hai trừng phạt pha switch."
+    ],
+    "tags": [
+      "horns",
+      "pick and roll",
+      "sơ đồ đội hình",
+      "gọi chiến thuật"
+    ]
+  }
 }

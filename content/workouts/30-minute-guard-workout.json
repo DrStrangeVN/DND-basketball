@@ -22,5 +22,62 @@
     "Finish every shooting block with free throws to train focus when fatigued.",
     "Log your makes per block so next week's workout has a target to beat."
   ],
-  "dateUpdated": "2026-10-06"
+  "dateUpdated": "2026-10-06",
+  "vi":   {
+    "title": "Buổi Tập Hậu Vệ 30 Phút",
+    "description": "Buổi tập hậu vệ hoàn chỉnh: rê bóng, đổi nhịp, đọc pick-and-roll, pull-up và dứt điểm — dành cho hậu vệ dẫn bóng và wing.",
+    "focus": [
+      "Rê bóng",
+      "Ném rổ",
+      "Dứt điểm",
+      "Pick & Roll"
+    ],
+    "equipment": [
+      "Bóng rổ",
+      "Cọc tiêu"
+    ],
+    "items": [
+      {
+        "name": "Khởi động 2 bóng",
+        "detail": "Rê đập 2 bóng cùng lúc 30 giây, luân phiên 30 giây, một-cao-một-thấp 30 giây mỗi bên. Mắt nhìn lên.",
+        "time": "3:00"
+      },
+      {
+        "name": "Chuỗi động tác qua cọc",
+        "detail": "4 cọc cách nhau 10 feet (3m): crossover, between-the-legs, behind-the-back, vòng combo — bứt tốc sau mọi động tác.",
+        "time": "5:00"
+      },
+      {
+        "name": "Tấn công đổi nhịp",
+        "detail": "Hesitation rồi đi: đột phá chậm-rồi-bùng nổ từ wing ra rổ, mỗi bên 5 lần. Bán thật kỹ pha chậm.",
+        "time": "4:00"
+      },
+      {
+        "name": "Đọc pick-and-roll",
+        "detail": "Dùng ghế làm người screen: ra khỏi screen và đọc — ném, pocket pass hoặc reject. 10 lượt.",
+        "time": "5:00"
+      },
+      {
+        "name": "Pull-up jumper",
+        "detail": "Pull-up một nhịp và hai nhịp từ elbow và wing: mỗi điểm vào 3 quả.",
+        "time": "5:00"
+      },
+      {
+        "name": "Chuỗi dứt điểm",
+        "detail": "Đột phá hết sân: euro step, pro hop, reverse — mỗi kiểu vào 3 quả, tốc độ tối đa.",
+        "time": "5:00"
+      },
+      {
+        "name": "Chốt bằng ném phạt",
+        "detail": "10 quả phạt với nghi thức của bạn để kết thúc. Chuẩn là vào 8+.",
+        "time": "3:00"
+      }
+    ],
+    "tips": [
+      "Hậu vệ sống nhờ đổi nhịp — mọi pha đột phá trong buổi này phải có nhịp chậm-rồi-nhanh rõ ràng.",
+      "Đối xử với screen bằng ghế nghiêm túc: dụ hậu vệ, dùng screen, rồi đọc.",
+      "Kết thúc mọi khối ném bằng ném phạt để rèn sự tập trung khi mệt.",
+      "Ghi số lần vào mỗi khối để buổi tuần sau có mục tiêu phá."
+    ]
+  }
 }

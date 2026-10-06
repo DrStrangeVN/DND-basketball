@@ -1,1 +1,151 @@
-{"ages":["U10","U12","U14","U16","U18","Adult"],"coachingPoints":["Teach new players the three illegal actions first: traveling, double dribble, and carrying — they account for most beginner turnovers.","Emphasize that defense can steal the ball or block a shot, but never by grabbing the shooter.","Use the shot clock in drills so young players learn to make decisions quickly.","Remind players that once they stop their dribble, they must pivot — not take extra steps."],"commonMistakes":["Running with the ball instead of dribbling (traveling).","Starting to dribble again after picking the ball up (double dribble).","Touching the ball while standing on a boundary line and thinking it is still live.","Arguing calls — teach players to play through the whistle instead."],"dateUpdated":"2026-10-06","description":"The essential rules of basketball — teams, timing, scoring and how a game is run, explained for new players and fans.","gameSituations":["Opening tip — both centers jump while teammates line up in their assigned spots.","End-of-game situations — teams use timeouts and foul strategically to stop the clock.","Jump-ball situations — a held ball between two players results in a jump ball or alternate possession arrow.","Loose-ball scrambles — players dive or tip the ball, but grabbing an opponent's jersey is a foul."],"howTo":[{"detail":"Each team puts five players on the court. Substitutions are unlimited in most youth and amateur games and can usually happen when the ball is dead (out of bounds, after a foul, between free throws).","title":"Field five players per team"},{"detail":"The game begins with the referee tossing the ball up at the center circle between two opposing players. In many youth leagues, teams then take turns on alternate possession instead of jumping for every held ball.","title":"Start with a jump ball"},{"detail":"You may take as many steps as you like while dribbling. Once you pick the ball up with both hands, you must pass or shoot before moving your pivot foot — taking extra steps is traveling.","title":"Advance the ball by dribbling or passing"},{"detail":"Once your team gains possession, the shot clock starts. The ball must leave your hands on a shot attempt that hits the rim (or goes in) before it reaches zero — otherwise possession goes to the other team.","title":"Score within the shot clock"},{"detail":"The ball is out when it touches anything outside the boundary lines or the player holding it steps on a line. The team that did not touch it last gets the ball.","title":"Respect out-of-bounds lines"},{"detail":"In organized games, the clock stops on whistles, fouls, out-of-bounds calls, timeouts, and free throws in the final minutes. In most street and youth games it runs continuously except for stoppages the coach calls.","title":"Know when the clock stops"}],"hub":"fundamentals","id":"basketball-rules","level":"beginner","positions":["ALL"],"readTime":5,"references":["FIBA","USA Basketball"],"related":["violations-explained","fouls-explained","scoring-basketball","basketball-positions","court-and-lines"],"slug":"basketball-rules","subcategory":"fundamentals","tags":["rules","basics","beginner","game"],"title":"The Rules of Basketball","whatIsIt":["Basketball is played 5-on-5 on a rectangular court. The objective is simple: score more points than the opponent by shooting the ball through a hoop that sits 10 feet (3.05 m) above the floor. Each team attacks one basket and defends the other.","Most games are divided into quarters or halves with a running or stopped game clock, depending on the level. Players advance the ball by dribbling (bouncing it with one hand) or passing, and each team has a limited amount of time — 24 seconds in FIBA and the NBA, 30 seconds in NCAA men's play — to attempt a shot."],"whyItMatters":["Understanding the rules is the foundation of everything else. You cannot play good defense, run offense, or make smart decisions if you do not know what counts as a foul, a violation, or a legal play. Learning the rules first also keeps you safe and keeps games fair and fun."]}
+{
+  "ages": [
+    "U10",
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "coachingPoints": [
+    "Teach new players the three illegal actions first: traveling, double dribble, and carrying — they account for most beginner turnovers.",
+    "Emphasize that defense can steal the ball or block a shot, but never by grabbing the shooter.",
+    "Use the shot clock in drills so young players learn to make decisions quickly.",
+    "Remind players that once they stop their dribble, they must pivot — not take extra steps."
+  ],
+  "commonMistakes": [
+    "Running with the ball instead of dribbling (traveling).",
+    "Starting to dribble again after picking the ball up (double dribble).",
+    "Touching the ball while standing on a boundary line and thinking it is still live.",
+    "Arguing calls — teach players to play through the whistle instead."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "The essential rules of basketball — teams, timing, scoring and how a game is run, explained for new players and fans.",
+  "gameSituations": [
+    "Opening tip — both centers jump while teammates line up in their assigned spots.",
+    "End-of-game situations — teams use timeouts and foul strategically to stop the clock.",
+    "Jump-ball situations — a held ball between two players results in a jump ball or alternate possession arrow.",
+    "Loose-ball scrambles — players dive or tip the ball, but grabbing an opponent's jersey is a foul."
+  ],
+  "howTo": [
+    {
+      "detail": "Each team puts five players on the court. Substitutions are unlimited in most youth and amateur games and can usually happen when the ball is dead (out of bounds, after a foul, between free throws).",
+      "title": "Field five players per team"
+    },
+    {
+      "detail": "The game begins with the referee tossing the ball up at the center circle between two opposing players. In many youth leagues, teams then take turns on alternate possession instead of jumping for every held ball.",
+      "title": "Start with a jump ball"
+    },
+    {
+      "detail": "You may take as many steps as you like while dribbling. Once you pick the ball up with both hands, you must pass or shoot before moving your pivot foot — taking extra steps is traveling.",
+      "title": "Advance the ball by dribbling or passing"
+    },
+    {
+      "detail": "Once your team gains possession, the shot clock starts. The ball must leave your hands on a shot attempt that hits the rim (or goes in) before it reaches zero — otherwise possession goes to the other team.",
+      "title": "Score within the shot clock"
+    },
+    {
+      "detail": "The ball is out when it touches anything outside the boundary lines or the player holding it steps on a line. The team that did not touch it last gets the ball.",
+      "title": "Respect out-of-bounds lines"
+    },
+    {
+      "detail": "In organized games, the clock stops on whistles, fouls, out-of-bounds calls, timeouts, and free throws in the final minutes. In most street and youth games it runs continuously except for stoppages the coach calls.",
+      "title": "Know when the clock stops"
+    }
+  ],
+  "hub": "fundamentals",
+  "id": "basketball-rules",
+  "level": "beginner",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 5,
+  "references": [
+    "FIBA",
+    "USA Basketball"
+  ],
+  "related": [
+    "violations-explained",
+    "fouls-explained",
+    "scoring-basketball",
+    "basketball-positions",
+    "court-and-lines"
+  ],
+  "slug": "basketball-rules",
+  "subcategory": "fundamentals",
+  "tags": [
+    "rules",
+    "basics",
+    "beginner",
+    "game"
+  ],
+  "title": "The Rules of Basketball",
+  "whatIsIt": [
+    "Basketball is played 5-on-5 on a rectangular court. The objective is simple: score more points than the opponent by shooting the ball through a hoop that sits 10 feet (3.05 m) above the floor. Each team attacks one basket and defends the other.",
+    "Most games are divided into quarters or halves with a running or stopped game clock, depending on the level. Players advance the ball by dribbling (bouncing it with one hand) or passing, and each team has a limited amount of time — 24 seconds in FIBA and the NBA, 30 seconds in NCAA men's play — to attempt a shot."
+  ],
+  "whyItMatters": [
+    "Understanding the rules is the foundation of everything else. You cannot play good defense, run offense, or make smart decisions if you do not know what counts as a foul, a violation, or a legal play. Learning the rules first also keeps you safe and keeps games fair and fun."
+  ],
+  "vi": {
+    "coachingPoints": [
+      "Dạy cầu thủ mới ba lỗi vi phạm trước: chạy bước, dẫn bóng hai lần và vác bóng — chúng gây ra hầu hết các pha mất bóng của người mới",
+      "Nhấn mạnh rằng phòng thủ có thể cướp bóng hoặc block, nhưng không bao giờ được túm người ném",
+      "Dùng đồng hồ tấn công trong các bài tập để cầu thủ trẻ học ra quyết định nhanh",
+      "Nhắc cầu thủ rằng một khi đã dừng dẫn bóng, họ phải pivot — không được bước thêm"
+    ],
+    "commonMistakes": [
+      "Ôm bóng chạy thay vì dẫn bóng (lỗi chạy bước)",
+      "Dẫn bóng lại sau khi đã nhấc bóng lên (lỗi dẫn bóng hai lần)",
+      "Chạm bóng khi đang đứng trên đường biên mà tưởng bóng còn sống",
+      "Cãi trọng tài — hãy dạy cầu thủ chơi tiếp qua tiếng còi thay vì dừng lại"
+    ],
+    "description": "Những luật bóng rổ thiết yếu — đội hình, thời gian, cách tính điểm và cách một trận đấu vận hành, giải thích cho cầu thủ và người hâm mộ mới.",
+    "gameSituations": [
+      "Phát bóng mở màn — hai center nhảy tranh bóng trong khi đồng đội xếp đúng vị trí",
+      "Cuối trận — các đội dùng timeout và phạm lỗi chiến thuật để dừng đồng hồ",
+      "Tình huống tranh bóng — bóng kẹt giữa hai cầu thủ dẫn đến nhảy tranh bóng hoặc mũi tên luân phiên",
+      "Tranh bóng lỏng — cầu thủ lao người hoặc khều bóng, nhưng túm áo đối thủ là phạm lỗi"
+    ],
+    "howTo": [
+      {
+        "detail": "Mỗi đội đưa năm cầu thủ vào sân. Thay người không giới hạn ở hầu hết các giải trẻ và phong trào, thường diễn ra khi bóng chết (bóng ra biên, sau pha phạm lỗi, giữa các quả ném phạt).",
+        "title": "Mỗi đội năm cầu thủ"
+      },
+      {
+        "detail": "Trận đấu bắt đầu khi trọng tài tung bóng lên ở vòng tròn giữa sân cho hai cầu thủ đối phương nhảy tranh. Ở nhiều giải trẻ, các đội luân phiên quyền phát bóng thay vì nhảy tranh mỗi lần bóng kẹt.",
+        "title": "Bắt đầu bằng nhảy tranh bóng"
+      },
+      {
+        "detail": "Bạn có thể bước bao nhiêu bước tùy thích khi đang dẫn bóng. Một khi đã ôm bóng bằng hai tay, bạn phải chuyền hoặc ném trước khi di chuyển chân trụ — bước thêm là lỗi chạy bước.",
+        "title": "Đưa bóng lên bằng dẫn bóng hoặc chuyền"
+      },
+      {
+        "detail": "Khi đội bạn kiểm soát bóng, đồng hồ tấn công bắt đầu chạy. Bóng phải rời tay trong một cú ném chạm vành rổ (hoặc vào rổ) trước khi đồng hồ về 0 — nếu không, quyền kiểm soát bóng thuộc về đội kia.",
+        "title": "Ghi điểm trong đồng hồ tấn công"
+      },
+      {
+        "detail": "Bóng ra biên khi chạm bất cứ thứ gì ngoài đường biên hoặc cầu thủ đang giữ bóng giẫm lên vạch. Đội nào chạm bóng sau cùng thì mất quyền phát bóng.",
+        "title": "Tôn trọng đường biên"
+      },
+      {
+        "detail": "Trong các trận đấu có tổ chức, đồng hồ dừng khi có còi, phạm lỗi, bóng ra biên, timeout và ném phạt ở những phút cuối. Ở hầu hết các trận phong trào và giải trẻ, đồng hồ chạy liên tục trừ những lúc huấn luyện viên xin dừng.",
+        "title": "Biết khi nào đồng hồ dừng"
+      }
+    ],
+    "tags": [
+      "luật",
+      "cơ bản",
+      "người mới",
+      "trận đấu"
+    ],
+    "title": "Luật Bóng Rổ",
+    "whatIsIt": [
+      "Bóng rổ chơi 5 đấu 5 trên sân hình chữ nhật. Mục tiêu rất đơn giản: ghi nhiều điểm hơn đối thủ bằng cách ném bóng qua chiếc rổ cao 10 feet (3,05 m) so với mặt sân. Mỗi đội tấn công một rổ và phòng thủ rổ còn lại.",
+      "Hầu hết các trận đấu chia thành các hiệp với đồng hồ chạy hoặc đồng hồ dừng tùy cấp độ. Cầu thủ đưa bóng lên bằng cách dẫn bóng (đập bóng bằng một tay) hoặc chuyền bóng, và mỗi đội có thời gian giới hạn — 24 giây ở FIBA và NBA, 30 giây ở bóng rổ nam NCAA — để thực hiện một cú ném."
+    ],
+    "whyItMatters": [
+      "Hiểu luật là nền tảng của mọi thứ khác. Bạn không thể phòng thủ tốt, chạy bài tấn công hay ra quyết định thông minh nếu không biết thế nào là phạm lỗi, vi phạm hay pha bóng hợp lệ. Học luật trước cũng giúp bạn chơi an toàn, giữ trận đấu công bằng và vui vẻ."
+    ]
+  }
+}

@@ -1,1 +1,224 @@
-{"ages":["U12","U14","U16","U18","Adult"],"coachingPoints":["The zone moves on every pass — ball-you-man positioning on every catch","The top two must take away the middle; nothing splits the zone cleanly","Close out to shooters with high hands — zones die on uncontested threes","Rebounding is everyone's job — find a body, because nobody has 'your man'","Talk through every rotation — zones without communication are just standing"],"commonMistakes":["Standing in spots instead of shifting with the ball — a static zone is a shooting drill","Letting the ball get to the middle of the zone — the high post kills 2-3","Forgetting to rebound — the offense gets three chances per possession","The wings failing to bump the high-post flash — free catches in the middle"],"dateUpdated":"2026-10-06","description":"The 2-3 zone: two guards up top, three across the back — alignment, rotations, and how to stop the high post.","diagram":{"ball":"O1","defense":[{"label":"X1","x":40,"y":58},{"label":"X2","x":60,"y":58},{"label":"X3","x":25,"y":38},{"label":"X4","x":75,"y":38},{"label":"X5","x":50,"y":22}],"moves":[{"from":"X1","kind":"move","to":"O1"},{"from":"X3","kind":"move","to":"O3"}],"offense":[{"label":"O1","x":35,"y":62},{"label":"O2","x":65,"y":62},{"label":"O3","x":20,"y":42},{"label":"O4","x":80,"y":42},{"label":"O5","x":50,"y":30}],"passes":[{"from":"O1","to":"O3"}],"title":"2-3 zone shifts toward the ball side"},"gameSituations":["Against teams that struggle to shoot from outside","To protect bigs in foul trouble — less one-on-one exposure","After timeouts as a change-up look that disrupts rhythm","When your team is tired — the zone covers ground with less running"],"howTo":[{"detail":"Set two defenders at the top — near the elbows extended — and three across the back: two wings at the blocks extended and one middle defender protecting the rim.","title":"Align in the 2-3 shape"},{"detail":"Every defender positions between the ball, themselves, and the basket. When the ball is on the left, the whole zone slides left; the shape moves as one connected unit.","title":"Shift with the ball"},{"detail":"The top two defenders take the ball and the wings. Nobody lets a dribbler split the middle of the zone — the guards funnel everything to the sides.","title":"Protect the middle"},{"detail":"When the ball goes to a wing, the nearest back-line defender closes out with high hands while the middle defender slides toward the ball side. The weak-side wing sinks to the middle.","title":"Rotate on wing catches"},{"detail":"The high post is the zone's weak spot. The middle defender must bump or front any flash to the high post, and the wings must help deny the entry.","title":"Take away the high post"},{"detail":"On every shot, each defender finds the nearest offensive player and boxes out. Zone rebounding is assignment-by-proximity, drilled until it is habit.","title":"Rebound by proximity"}],"hub":"defense","id":"zone-2-3","level":"intermediate","positions":["ALL"],"readTime":6,"related":["zone-1-3-1","man-to-man-defense","pack-line-defense","box-and-one","transition-defense"],"slug":"zone-2-3","subcategory":"defensive-systems","tags":["defense","zone","2-3 zone","system"],"title":"2-3 Zone Defense","whatIsIt":["The 2-3 zone is the most common zone defense in basketball: two defenders across the top and three across the bottom, each responsible for an area rather than a player. The shape looks like a wall — hard to penetrate, easy to understand, and excellent at protecting the paint.","Zones work by keeping five defenders between the ball and the basket at all times. The 2-3 is especially strong against teams that cannot shoot, because it packs the lane and forces the offense to win from outside. Its weakness is equally clear: good shooting teams can pick it apart, and rebounding requires extra discipline since nobody has a set box-out assignment."],"whyItMatters":["The 2-3 zone is every player's first introduction to team defensive concepts — shifting with the ball, protecting the middle, closing out from help. It lets less athletic teams compete, protects players in foul trouble, and gives coaches a reliable change-up. Learning to play it — and learning to attack it — is fundamental basketball education."]}
+{
+  "ages": [
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "coachingPoints": [
+    "The zone moves on every pass — ball-you-man positioning on every catch",
+    "The top two must take away the middle; nothing splits the zone cleanly",
+    "Close out to shooters with high hands — zones die on uncontested threes",
+    "Rebounding is everyone's job — find a body, because nobody has 'your man'",
+    "Talk through every rotation — zones without communication are just standing"
+  ],
+  "commonMistakes": [
+    "Standing in spots instead of shifting with the ball — a static zone is a shooting drill",
+    "Letting the ball get to the middle of the zone — the high post kills 2-3",
+    "Forgetting to rebound — the offense gets three chances per possession",
+    "The wings failing to bump the high-post flash — free catches in the middle"
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "The 2-3 zone: two guards up top, three across the back — alignment, rotations, and how to stop the high post.",
+  "diagram": {
+    "ball": "O1",
+    "defense": [
+      {
+        "label": "X1",
+        "x": 40,
+        "y": 58
+      },
+      {
+        "label": "X2",
+        "x": 60,
+        "y": 58
+      },
+      {
+        "label": "X3",
+        "x": 25,
+        "y": 38
+      },
+      {
+        "label": "X4",
+        "x": 75,
+        "y": 38
+      },
+      {
+        "label": "X5",
+        "x": 50,
+        "y": 22
+      }
+    ],
+    "moves": [
+      {
+        "from": "X1",
+        "kind": "move",
+        "to": "O1"
+      },
+      {
+        "from": "X3",
+        "kind": "move",
+        "to": "O3"
+      }
+    ],
+    "offense": [
+      {
+        "label": "O1",
+        "x": 35,
+        "y": 62
+      },
+      {
+        "label": "O2",
+        "x": 65,
+        "y": 62
+      },
+      {
+        "label": "O3",
+        "x": 20,
+        "y": 42
+      },
+      {
+        "label": "O4",
+        "x": 80,
+        "y": 42
+      },
+      {
+        "label": "O5",
+        "x": 50,
+        "y": 30
+      }
+    ],
+    "passes": [
+      {
+        "from": "O1",
+        "to": "O3"
+      }
+    ],
+    "title": "2-3 zone shifts toward the ball side"
+  },
+  "gameSituations": [
+    "Against teams that struggle to shoot from outside",
+    "To protect bigs in foul trouble — less one-on-one exposure",
+    "After timeouts as a change-up look that disrupts rhythm",
+    "When your team is tired — the zone covers ground with less running"
+  ],
+  "howTo": [
+    {
+      "detail": "Set two defenders at the top — near the elbows extended — and three across the back: two wings at the blocks extended and one middle defender protecting the rim.",
+      "title": "Align in the 2-3 shape"
+    },
+    {
+      "detail": "Every defender positions between the ball, themselves, and the basket. When the ball is on the left, the whole zone slides left; the shape moves as one connected unit.",
+      "title": "Shift with the ball"
+    },
+    {
+      "detail": "The top two defenders take the ball and the wings. Nobody lets a dribbler split the middle of the zone — the guards funnel everything to the sides.",
+      "title": "Protect the middle"
+    },
+    {
+      "detail": "When the ball goes to a wing, the nearest back-line defender closes out with high hands while the middle defender slides toward the ball side. The weak-side wing sinks to the middle.",
+      "title": "Rotate on wing catches"
+    },
+    {
+      "detail": "The high post is the zone's weak spot. The middle defender must bump or front any flash to the high post, and the wings must help deny the entry.",
+      "title": "Take away the high post"
+    },
+    {
+      "detail": "On every shot, each defender finds the nearest offensive player and boxes out. Zone rebounding is assignment-by-proximity, drilled until it is habit.",
+      "title": "Rebound by proximity"
+    }
+  ],
+  "hub": "defense",
+  "id": "zone-2-3",
+  "level": "intermediate",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 6,
+  "related": [
+    "zone-1-3-1",
+    "man-to-man-defense",
+    "pack-line-defense",
+    "box-and-one",
+    "transition-defense"
+  ],
+  "slug": "zone-2-3",
+  "subcategory": "defensive-systems",
+  "tags": [
+    "defense",
+    "zone",
+    "2-3 zone",
+    "system"
+  ],
+  "title": "2-3 Zone Defense",
+  "whatIsIt": [
+    "The 2-3 zone is the most common zone defense in basketball: two defenders across the top and three across the bottom, each responsible for an area rather than a player. The shape looks like a wall — hard to penetrate, easy to understand, and excellent at protecting the paint.",
+    "Zones work by keeping five defenders between the ball and the basket at all times. The 2-3 is especially strong against teams that cannot shoot, because it packs the lane and forces the offense to win from outside. Its weakness is equally clear: good shooting teams can pick it apart, and rebounding requires extra discipline since nobody has a set box-out assignment."
+  ],
+  "whyItMatters": [
+    "The 2-3 zone is every player's first introduction to team defensive concepts — shifting with the ball, protecting the middle, closing out from help. It lets less athletic teams compete, protects players in foul trouble, and gives coaches a reliable change-up. Learning to play it — and learning to attack it — is fundamental basketball education."
+  ],
+  "vi": {
+    "coachingPoints": [
+      "Zone di chuyển ở mọi đường chuyền — vị trí bóng-bạn-người ở mọi pha bắt bóng",
+      "Hai người đỉnh phải lấy đi khu vực giữa; không gì xuyên qua giữa zone một cách dễ dàng",
+      "Closeout các tay ném với tay giơ cao — các zone chết vì những cú ba điểm không bị tranh chấp",
+      "Bắt bóng bật bảng là việc của mọi người — tìm một người để kèm, vì không ai có 'người của mình'",
+      "Giao tiếp suốt mọi lần xoay vòng — các zone không giao tiếp chỉ là đứng yên"
+    ],
+    "commonMistakes": [
+      "Đứng yên tại chỗ thay vì di chuyển theo bóng — một zone tĩnh là một bài tập ném rổ",
+      "Để bóng vào giữa zone — high post giết chết 2-3",
+      "Quên bắt bóng bật bảng — hàng công được ba cơ hội mỗi lượt bóng",
+      "Các cánh không chặn pha flash vào high post — bắt bóng tự do ở giữa"
+    ],
+    "description": "Zone 2-3: hai hậu vệ trên đỉnh, ba người hàng sau — cách xếp đội hình, xoay vòng, và cách chặn high post.",
+    "gameSituations": [
+      "Khi đối đầu những đội ném ngoài yếu",
+      "Để bảo vệ các big man đang gặp rắc rối lỗi — ít phải đối đầu một-chọi-một hơn",
+      "Sau các lần hội ý như một miếng đổi nhịp phá vỡ nhịp độ",
+      "Khi đội bạn mệt — zone bao sân với ít chạy hơn"
+    ],
+    "howTo": [
+      {
+        "detail": "Xếp hai hậu vệ ở đỉnh — gần khu vực khuỷu tay kéo dài — và ba người hàng sau: hai cánh ở vị trí block kéo dài và một người giữa bảo vệ rổ.",
+        "title": "Xếp đội hình 2-3"
+      },
+      {
+        "detail": "Mọi hậu vệ đứng giữa bóng, bản thân, và rổ. Khi bóng ở bên trái, cả zone trượt sang trái; đội hình di chuyển như một khối liền mạch.",
+        "title": "Di chuyển theo bóng"
+      },
+      {
+        "detail": "Hai hậu vệ đỉnh lo bóng và các cánh. Không ai để người dẫn bóng xuyên qua giữa zone — các hậu vệ dồn mọi thứ ra hai bên.",
+        "title": "Bảo vệ khu vực giữa"
+      },
+      {
+        "detail": "Khi bóng ra cánh, hậu vệ hàng sau gần nhất closeout với tay giơ cao trong khi người giữa trượt về phía bên bóng. Cánh bên yếu lùi vào giữa.",
+        "title": "Xoay vòng khi bóng ra cánh"
+      },
+      {
+        "detail": "High post là điểm yếu của zone. Người giữa phải chặn hoặc đứng trước mọi pha flash vào high post, và các cánh phải hỗ trợ cắt đường chuyền vào.",
+        "title": "Chặn high post"
+      },
+      {
+        "detail": "Mỗi cú ném, mỗi hậu vệ tìm cầu thủ tấn công gần nhất và box out. Bắt bóng bật bảng trong zone là phân công theo khoảng cách, tập cho đến khi thành thói quen.",
+        "title": "Bắt bóng bật bảng theo khoảng cách"
+      }
+    ],
+    "tags": [
+      "phòng thủ",
+      "zone",
+      "zone 2-3",
+      "hệ thống"
+    ],
+    "title": "Phòng thủ Zone 2-3",
+    "whatIsIt": [
+      "Zone 2-3 là hàng thủ zone phổ biến nhất trong bóng rổ: hai hậu vệ ngang trên đỉnh và ba người ngang hàng dưới, mỗi người chịu trách nhiệm một khu vực thay vì một cầu thủ. Hình dạng trông như một bức tường — khó xuyên thủng, dễ hiểu, và tuyệt vời trong việc bảo vệ khu vực cấm.",
+      "Các zone hoạt động bằng cách giữ năm hậu vệ giữa bóng và rổ mọi lúc. Zone 2-3 đặc biệt mạnh khi đối đầu những đội không ném được, vì nó lấp đầy khu vực cấm và ép hàng công phải thắng từ ngoài. Điểm yếu của nó cũng rõ ràng không kém: những đội ném tốt có thể xé nát nó, và bắt bóng bật bảng đòi hỏi kỷ luật cao hơn vì không ai có nhiệm vụ box out cố định."
+    ],
+    "whyItMatters": [
+      "Zone 2-3 là lần đầu tiên mọi cầu thủ tiếp xúc với các khái niệm phòng thủ đồng đội — di chuyển theo bóng, bảo vệ khu vực giữa, closeout từ vị trí hỗ trợ. Nó giúp những đội kém thể thao hơn cạnh tranh được, bảo vệ những cầu thủ đang gặp rắc rối lỗi, và cho huấn luyện viên một miếng đổi nhịp đáng tin cậy. Học cách chơi nó — và học cách tấn công nó — là giáo dục bóng rổ nền tảng."
+    ]
+  }
+}

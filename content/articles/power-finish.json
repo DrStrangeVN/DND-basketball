@@ -1,1 +1,138 @@
-{"ages":["U12","U14","U16","U18","Adult"],"coachingPoints":["Two feet = two powers: balance and the ability to absorb contact without traveling.","Seek the defender's body, not their arms — chest-to-chest contact is your foul.","Ball never drops below the waist in traffic — that's where strips happen.","Finish with a soft touch, not a slam attempt; power is in the setup, finesse in the finish.","Chin the ball on the catch if you receive it in the paint — elbows out, pivots ready."],"commonMistakes":["Jumping into the defender off one foot and falling away — no balance, no call.","Bringing the ball down low to 'load up' — it gets stripped; keep it high.","Finishing on the defender's side instead of extending away from the contact.","Stopping the motion when bumped — play through; a stopped finish is just a miss."],"dateUpdated":"2026-10-06","description":"Stop on two feet, rip the ball through contact, and finish strong at the rim — the big man's layup.","gameSituations":["Post catches where the defender bodied you — jump stop, power up through the chest.","Offensive rebounds — gather with two feet and go back up strong instead of a soft tip.","Drives into a set help defender — stop early, absorb, finish or draw the and-one."],"howTo":[{"detail":"Attack the lower paint with the ball on your outside hip. You want the defender's chest or shoulder contact, not a swipe at the ball.","title":"Drive into the contact zone"},{"detail":"Plant both feet at the same time — feet slightly wider than shoulders, knees bent. Your base must be set before the bump arrives, not after.","title":"Jump stop into contact"},{"detail":"Bring the ball from low to high in a straight, strong line — 'rip it through' the contact. Keep elbows tight and the ball above your waist at all times.","title":"Rip the ball up strong"},{"detail":"Let your legs take the bump, then explode upward off both feet. Finish with the hand away from the defender, using the board for a soft, high-percentage touch.","title":"Absorb and go up"},{"detail":"Keep your shooting motion natural and continuous through the hit. Officials call fouls on players finishing strong in balance — flailing or throwing the ball gets nothing.","title":"Sell the foul"}],"hub":"skills","id":"power-finish","level":"intermediate","positions":["ALL"],"readTime":5,"related":["jump-stop","contact-finishing","drop-step","jump-hook","box-out"],"slug":"power-finish","subcategory":"finishing","tags":["finishing","two-foot","contact","post"],"title":"Power Finish","whatIsIt":["A power finish is a two-foot stop at the rim followed by an aggressive, balanced finish — usually with the ball brought up strong through contact. It's the go-to finish for bigs and strong drivers who meet resistance in the paint.","Instead of floating around contact, you embrace it: stop on two feet, absorb the bump with your lower body, and power up. The two-foot base makes you harder to move and more likely to draw the and-one."],"whyItMatters":["Referees reward players who play through contact in balance. A power finish turns defensive physicality into fouls and three-point plays, while finesse finishes under the same contact often just miss. It's also simply more reliable — two feet, one bump absorbed, one clean look."]}
+{
+  "ages": [
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "coachingPoints": [
+    "Two feet = two powers: balance and the ability to absorb contact without traveling.",
+    "Seek the defender's body, not their arms — chest-to-chest contact is your foul.",
+    "Ball never drops below the waist in traffic — that's where strips happen.",
+    "Finish with a soft touch, not a slam attempt; power is in the setup, finesse in the finish.",
+    "Chin the ball on the catch if you receive it in the paint — elbows out, pivots ready."
+  ],
+  "commonMistakes": [
+    "Jumping into the defender off one foot and falling away — no balance, no call.",
+    "Bringing the ball down low to 'load up' — it gets stripped; keep it high.",
+    "Finishing on the defender's side instead of extending away from the contact.",
+    "Stopping the motion when bumped — play through; a stopped finish is just a miss."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "Stop on two feet, rip the ball through contact, and finish strong at the rim — the big man's layup.",
+  "gameSituations": [
+    "Post catches where the defender bodied you — jump stop, power up through the chest.",
+    "Offensive rebounds — gather with two feet and go back up strong instead of a soft tip.",
+    "Drives into a set help defender — stop early, absorb, finish or draw the and-one."
+  ],
+  "howTo": [
+    {
+      "detail": "Attack the lower paint with the ball on your outside hip. You want the defender's chest or shoulder contact, not a swipe at the ball.",
+      "title": "Drive into the contact zone"
+    },
+    {
+      "detail": "Plant both feet at the same time — feet slightly wider than shoulders, knees bent. Your base must be set before the bump arrives, not after.",
+      "title": "Jump stop into contact"
+    },
+    {
+      "detail": "Bring the ball from low to high in a straight, strong line — 'rip it through' the contact. Keep elbows tight and the ball above your waist at all times.",
+      "title": "Rip the ball up strong"
+    },
+    {
+      "detail": "Let your legs take the bump, then explode upward off both feet. Finish with the hand away from the defender, using the board for a soft, high-percentage touch.",
+      "title": "Absorb and go up"
+    },
+    {
+      "detail": "Keep your shooting motion natural and continuous through the hit. Officials call fouls on players finishing strong in balance — flailing or throwing the ball gets nothing.",
+      "title": "Sell the foul"
+    }
+  ],
+  "hub": "skills",
+  "id": "power-finish",
+  "level": "intermediate",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 5,
+  "related": [
+    "jump-stop",
+    "contact-finishing",
+    "drop-step",
+    "jump-hook",
+    "box-out"
+  ],
+  "slug": "power-finish",
+  "subcategory": "finishing",
+  "tags": [
+    "finishing",
+    "two-foot",
+    "contact",
+    "post"
+  ],
+  "title": "Power Finish",
+  "whatIsIt": [
+    "A power finish is a two-foot stop at the rim followed by an aggressive, balanced finish — usually with the ball brought up strong through contact. It's the go-to finish for bigs and strong drivers who meet resistance in the paint.",
+    "Instead of floating around contact, you embrace it: stop on two feet, absorb the bump with your lower body, and power up. The two-foot base makes you harder to move and more likely to draw the and-one."
+  ],
+  "whyItMatters": [
+    "Referees reward players who play through contact in balance. A power finish turns defensive physicality into fouls and three-point plays, while finesse finishes under the same contact often just miss. It's also simply more reliable — two feet, one bump absorbed, one clean look."
+  ],
+  "vi": {
+    "title": "Kết Thúc Mạnh (Power Finish)",
+    "description": "Dừng lại bằng hai chân, kéo bóng xuyên qua va chạm và kết thúc mạnh mẽ ở rổ — kiểu lên rổ của các \"big man\".",
+    "whatIsIt": [
+      "Kết thúc mạnh (power finish) là cú dừng hai chân ở rổ rồi kết thúc quyết liệt, thăng bằng — thường đưa bóng lên mạnh xuyên qua va chạm. Đây là kiểu kết thúc quen thuộc của các big man và những cầu thủ đột phá mạnh khi gặp kháng cự trong khu vực hình thang.",
+      "Thay vì né tránh va chạm, bạn đón lấy nó: dừng bằng hai chân, dùng thân dưới hấp thụ cú húc, rồi bật lên dứt điểm. Nền tảng hai chân khiến bạn khó bị đẩy văng và dễ kiếm được pha and-one hơn."
+    ],
+    "whyItMatters": [
+      "Trọng tài thường thổi có lợi cho cầu thủ chơi xuyên va chạm trong thế thăng bằng. Một pha kết thúc mạnh biến sự quyết liệt của phòng ngự thành lỗi và những pha 3 điểm (and-one), trong khi những pha kết thúc mềm mại dưới cùng mức va chạm thường chỉ đơn giản là trượt. Nó cũng đơn giản là đáng tin cậy hơn — hai chân, một cú húc được hấp thụ, một cú nhìn rổ sạch."
+    ],
+    "howTo": [
+      {
+        "title": "Đột vào vùng va chạm",
+        "detail": "Tấn công khu vực hình thang sâu với bóng đặt ở hông ngoài. Bạn muốn va chạm ngực hoặc vai của hậu vệ, chứ không phải cú với tay vào bóng."
+      },
+      {
+        "title": "Jump stop đón va chạm",
+        "detail": "Đặt cả hai chân xuống cùng lúc — chân rộng hơn vai một chút, gối gập. Nền tảng phải vững trước khi cú húc đến, chứ không phải sau."
+      },
+      {
+        "title": "Kéo bóng lên mạnh",
+        "detail": "Đưa bóng từ thấp lên cao theo một đường thẳng, khỏe — \"xé\" xuyên qua va chạm. Giữ khuỷu tay sát người và bóng luôn trên ngang thắt lưng."
+      },
+      {
+        "title": "Hấp thụ rồi bật lên",
+        "detail": "Để đôi chân chịu cú húc, rồi bật mạnh lên bằng cả hai chân. Kết thúc bằng tay xa hậu vệ, dùng bảng rổ cho cú chạm bóng mềm, tỉ lệ thành công cao."
+      },
+      {
+        "title": "\"Bán\" lỗi cho trọng tài",
+        "detail": "Giữ động tác ném tự nhiên, liên tục xuyên suốt cú va. Trọng tài thổi lỗi cho cầu thủ kết thúc mạnh trong thế thăng bằng — còn vung tay loạn xạ hay ném bừa thì chẳng được gì."
+      }
+    ],
+    "coachingPoints": [
+      "Hai chân là hai sức mạnh: thăng bằng và khả năng chịu va chạm mà không bị thổi bước.",
+      "Tìm thân người của hậu vệ, đừng tìm tay họ — va chạm ngực-đối-ngực là lỗi của họ.",
+      "Trong đám đông, bóng không bao giờ xuống dưới thắt lưng — đó là nơi bị thọc mất bóng.",
+      "Kết thúc bằng cú chạm mềm, đừng cố đập rổ; sức mạnh nằm ở khâu chuẩn bị, sự tinh tế nằm ở cú kết thúc.",
+      "Nếu nhận bóng trong khu vực hình thang, hãy \"cằm bóng\" (chin the ball) ngay khi bắt — khuỷu tay mở ra, sẵn sàng xoay trụ."
+    ],
+    "commonMistakes": [
+      "Nhảy một chân đâm vào hậu vệ rồi ngã văng ra — mất thăng bằng, mất luôn tiếng còi.",
+      "Hạ bóng xuống thấp để \"lấy đà\" — sẽ bị thọc mất; giữ bóng cao.",
+      "Kết thúc về phía người hậu vệ thay vì vươn ra xa khỏi va chạm.",
+      "Dừng hẳn động tác khi bị húc — hãy chơi xuyên qua; một pha kết thúc bị dừng lại chỉ đơn giản là trượt."
+    ],
+    "gameSituations": [
+      "Bắt bóng ở post khi hậu vệ đã dùng thân đè bạn — jump stop, bật lên xuyên qua ngực đối phương.",
+      "Bắt bóng bật bảng tấn công — gom bóng bằng hai chân rồi bật lên mạnh thay vì chạm nhẹ đầu ngón tay.",
+      "Đột vào một hậu vệ hỗ trợ đã đứng sẵn — dừng sớm, hấp thụ va chạm, kết thúc hoặc kiếm and-one."
+    ],
+    "tags": [
+      "kết thúc",
+      "hai chân",
+      "va chạm",
+      "đánh post"
+    ]
+  }
+}

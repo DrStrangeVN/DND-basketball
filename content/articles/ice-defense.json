@@ -1,1 +1,217 @@
-{"ages":["U14","U16","U18","Adult","Competitive"],"coachingPoints":["ICE is a sideline coverage — never ICE a middle pick & roll","The on-ball defender must get his body to the ball handler's top hip early","The big stays deep and square, giving the guard time to recover","The weak-side low man is the safety net — he must be ready to rotate to the roller","If the ball handler rejects and goes middle anyway, the big must be ready to contain"],"commonMistakes":["ICING a middle ball screen — the coverage has no sideline to use as a defender","The guard arriving late to the top hip — the ball handler turns the corner clean","The big stepping up too high — now there is no rim protection behind the ICE","The weak side falling asleep — the skip pass to the corner is wide open"],"dateUpdated":"2026-10-06","description":"ICE defense: force the ball handler down toward the baseline and trap him against the sideline on side pick & rolls.","diagram":{"ball":"O1","defense":[{"label":"X1","x":68,"y":58},{"label":"X2","x":30,"y":45},{"label":"X3","x":80,"y":40},{"label":"X4","x":40,"y":25},{"label":"X5","x":62,"y":38}],"moves":[{"from":"X1","kind":"move","to":"O1"}],"offense":[{"label":"O1","x":72,"y":60},{"label":"O2","x":64,"y":54},{"label":"O3","x":30,"y":48},{"label":"O4","x":80,"y":42},{"label":"O5","x":40,"y":28}],"passes":[{"from":"O1","to":"O4"}],"screens":[{"x":64,"y":54}],"title":"ICE: X1 forces O1 down, X5 stays deep to contain"},"gameSituations":["Side pick & rolls where you can use the sideline as an extra defender","Against a right-hand-dominant guard — ICE him to his weak hand","Late game when you want to keep the ball on one side of the floor","Against teams that run middle pick & roll poorly — force everything sideways"],"howTo":[{"detail":"Before the screen arrives, the on-ball defender gets his chest to the ball handler's top shoulder — the shoulder nearer the middle of the floor. His body, plus the screener, forms a wall that funnels the ball down.","title":"Get to the top hip early"},{"detail":"The defender's stance and the sideline together deny the middle. The ball handler's only path is down toward the baseline, exactly where the defense wants him.","title":"Deny middle, force baseline"},{"detail":"The screener's defender stays back and square — a soft drop — keeping his body between the ball handler and the rim as the ball is pushed down.","title":"Big stays deep and square"},{"detail":"As the ball handler drives down, the big contains him while the on-ball defender recovers from behind. The ball is now trapped between two defenders and the sideline.","title":"Contain against the sideline"},{"detail":"The weak-side defenders rotate: the low man is ready for the roller, the others sink to take away the skip pass. The ball is stuck on one side with limited options.","title":"Weak side rotates to take away escapes"}],"hub":"defense","id":"ice-defense","level":"advanced","positions":["ALL"],"readTime":6,"related":["ball-screen-defense","drop-coverage-defense","switch-defense","hedge-defense","help-defense"],"slug":"ice-defense","subcategory":"defense-fundamentals","tags":["defense","ice","pick and roll","coverage"],"title":"ICE Defense","whatIsIt":["ICE is a side pick & roll coverage that forces the ball handler away from the screen and down toward the baseline. The on-ball defender jumps to the ball handler's top side before the screen arrives, using his body and the sideline as extra defenders to trap the ball on one side of the floor.","The name comes from 'icing' the screen — freezing it out so it never gets used. Instead of fighting through the pick, the defense simply refuses to let the ball handler use it, pushing him into a shrinking space along the sideline where help is waiting."],"whyItMatters":["ICE turns the sideline into a sixth defender and keeps the ball on one side of the floor, which simplifies every rotation behind it. It is the coverage of choice against dominant ball handlers on the wing — but it only works on side screens, and it demands discipline: one late step to the top hip and the whole thing collapses."]}
+{
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult",
+    "Competitive"
+  ],
+  "coachingPoints": [
+    "ICE is a sideline coverage — never ICE a middle pick & roll",
+    "The on-ball defender must get his body to the ball handler's top hip early",
+    "The big stays deep and square, giving the guard time to recover",
+    "The weak-side low man is the safety net — he must be ready to rotate to the roller",
+    "If the ball handler rejects and goes middle anyway, the big must be ready to contain"
+  ],
+  "commonMistakes": [
+    "ICING a middle ball screen — the coverage has no sideline to use as a defender",
+    "The guard arriving late to the top hip — the ball handler turns the corner clean",
+    "The big stepping up too high — now there is no rim protection behind the ICE",
+    "The weak side falling asleep — the skip pass to the corner is wide open"
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "ICE defense: force the ball handler down toward the baseline and trap him against the sideline on side pick & rolls.",
+  "diagram": {
+    "ball": "O1",
+    "defense": [
+      {
+        "label": "X1",
+        "x": 68,
+        "y": 58
+      },
+      {
+        "label": "X2",
+        "x": 30,
+        "y": 45
+      },
+      {
+        "label": "X3",
+        "x": 80,
+        "y": 40
+      },
+      {
+        "label": "X4",
+        "x": 40,
+        "y": 25
+      },
+      {
+        "label": "X5",
+        "x": 62,
+        "y": 38
+      }
+    ],
+    "moves": [
+      {
+        "from": "X1",
+        "kind": "move",
+        "to": "O1"
+      }
+    ],
+    "offense": [
+      {
+        "label": "O1",
+        "x": 72,
+        "y": 60
+      },
+      {
+        "label": "O2",
+        "x": 64,
+        "y": 54
+      },
+      {
+        "label": "O3",
+        "x": 30,
+        "y": 48
+      },
+      {
+        "label": "O4",
+        "x": 80,
+        "y": 42
+      },
+      {
+        "label": "O5",
+        "x": 40,
+        "y": 28
+      }
+    ],
+    "passes": [
+      {
+        "from": "O1",
+        "to": "O4"
+      }
+    ],
+    "screens": [
+      {
+        "x": 64,
+        "y": 54
+      }
+    ],
+    "title": "ICE: X1 forces O1 down, X5 stays deep to contain"
+  },
+  "gameSituations": [
+    "Side pick & rolls where you can use the sideline as an extra defender",
+    "Against a right-hand-dominant guard — ICE him to his weak hand",
+    "Late game when you want to keep the ball on one side of the floor",
+    "Against teams that run middle pick & roll poorly — force everything sideways"
+  ],
+  "howTo": [
+    {
+      "detail": "Before the screen arrives, the on-ball defender gets his chest to the ball handler's top shoulder — the shoulder nearer the middle of the floor. His body, plus the screener, forms a wall that funnels the ball down.",
+      "title": "Get to the top hip early"
+    },
+    {
+      "detail": "The defender's stance and the sideline together deny the middle. The ball handler's only path is down toward the baseline, exactly where the defense wants him.",
+      "title": "Deny middle, force baseline"
+    },
+    {
+      "detail": "The screener's defender stays back and square — a soft drop — keeping his body between the ball handler and the rim as the ball is pushed down.",
+      "title": "Big stays deep and square"
+    },
+    {
+      "detail": "As the ball handler drives down, the big contains him while the on-ball defender recovers from behind. The ball is now trapped between two defenders and the sideline.",
+      "title": "Contain against the sideline"
+    },
+    {
+      "detail": "The weak-side defenders rotate: the low man is ready for the roller, the others sink to take away the skip pass. The ball is stuck on one side with limited options.",
+      "title": "Weak side rotates to take away escapes"
+    }
+  ],
+  "hub": "defense",
+  "id": "ice-defense",
+  "level": "advanced",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 6,
+  "related": [
+    "ball-screen-defense",
+    "drop-coverage-defense",
+    "switch-defense",
+    "hedge-defense",
+    "help-defense"
+  ],
+  "slug": "ice-defense",
+  "subcategory": "defense-fundamentals",
+  "tags": [
+    "defense",
+    "ice",
+    "pick and roll",
+    "coverage"
+  ],
+  "title": "ICE Defense",
+  "whatIsIt": [
+    "ICE is a side pick & roll coverage that forces the ball handler away from the screen and down toward the baseline. The on-ball defender jumps to the ball handler's top side before the screen arrives, using his body and the sideline as extra defenders to trap the ball on one side of the floor.",
+    "The name comes from 'icing' the screen — freezing it out so it never gets used. Instead of fighting through the pick, the defense simply refuses to let the ball handler use it, pushing him into a shrinking space along the sideline where help is waiting."
+  ],
+  "whyItMatters": [
+    "ICE turns the sideline into a sixth defender and keeps the ball on one side of the floor, which simplifies every rotation behind it. It is the coverage of choice against dominant ball handlers on the wing — but it only works on side screens, and it demands discipline: one late step to the top hip and the whole thing collapses."
+  ],
+  "vi": {
+    "title": "Phòng Thủ ICE",
+    "description": "Phòng thủ ICE: ép người dẫn bóng xuống phía baseline và kẹp anh ta vào đường biên ở các pha pick & roll biên.",
+    "whatIsIt": [
+      "ICE là cách kèm pick & roll biên, ép người dẫn bóng tránh xa pha chắn và đi xuống phía baseline. Hậu vệ kèm bóng nhảy lên phía trên của người dẫn bóng trước khi pha chắn tới, dùng cơ thể và đường biên như những hậu vệ phụ để kẹp bóng ở một bên sân.",
+      "Tên gọi xuất phát từ việc 'đóng băng' (icing) pha chắn — khiến nó không bao giờ được dùng tới. Thay vì vật lộn qua pha chắn, hàng thủ đơn giản không cho người dẫn bóng dùng nó, đẩy anh ta vào không gian ngày càng hẹp dọc đường biên, nơi sự hỗ trợ đang chờ sẵn."
+    ],
+    "whyItMatters": [
+      "ICE biến đường biên thành hậu vệ thứ sáu và giữ bóng ở một bên sân, giúp mọi pha luân chuyển phía sau đơn giản hơn. Đây là cách kèm ưa thích trước những người dẫn bóng chủ lực ở cánh — nhưng nó chỉ hiệu quả với pha chắn biên, và đòi hỏi kỷ luật: một bước muộn tới hông trên là cả hệ thống sụp đổ."
+    ],
+    "howTo": [
+      {
+        "title": "Tới hông trên từ sớm",
+        "detail": "Trước khi pha chắn tới, hậu vệ kèm bóng đưa ngực tới vai trên của người dẫn bóng — vai gần giữa sân hơn. Cơ thể anh ta cộng với người chắn tạo thành bức tường ép bóng đi xuống."
+      },
+      {
+        "title": "Chặn giữa, ép baseline",
+        "detail": "Tư thế của hậu vệ cùng đường biên cùng nhau chặn đường vào giữa. Đường duy nhất của người dẫn bóng là đi xuống baseline, đúng nơi hàng thủ muốn."
+      },
+      {
+        "title": "Big lùi sâu và vuông góc",
+        "detail": "Hậu vệ của người chắn lùi lại và đứng vuông góc — một pha drop nhẹ — giữ cơ thể giữa người dẫn bóng và rổ khi bóng bị đẩy xuống."
+      },
+      {
+        "title": "Kẹp bóng vào đường biên",
+        "detail": "Khi người dẫn bóng đột phá xuống, big chặn anh ta trong khi hậu vệ kèm bóng quay về từ phía sau. Bóng giờ bị kẹp giữa hai hậu vệ và đường biên."
+      },
+      {
+        "title": "Phía yếu luân chuyển cắt đường thoát",
+        "detail": "Các hậu vệ phía yếu luân chuyển: người thấp sẵn sàng cho người roll, những người khác lùi xuống cắt đường chuyền skip. Bóng bị kẹt một bên với ít lựa chọn."
+      }
+    ],
+    "coachingPoints": [
+      "ICE là cách kèm biên — không bao giờ ICE pha pick & roll giữa sân",
+      "Hậu vệ kèm bóng phải đưa cơ thể tới hông trên của người dẫn bóng từ sớm",
+      "Big lùi sâu và vuông góc, cho hậu vệ thời gian quay về",
+      "Người thấp phía yếu là lưới an toàn — phải sẵn sàng xoay sang người roll",
+      "Nếu người dẫn bóng từ chối và vẫn đi vào giữa, big phải sẵn sàng chặn"
+    ],
+    "commonMistakes": [
+      "ICE pha chắn bóng giữa sân — cách kèm không có đường biên làm hậu vệ phụ",
+      "Hậu vệ tới hông trên muộn — người dẫn bóng qua góc chắn sạch",
+      "Big dâng lên quá cao — giờ không còn ai bảo vệ rổ sau ICE",
+      "Phía yếu ngủ quên — đường chuyền skip ra góc hoàn toàn trống"
+    ],
+    "gameSituations": [
+      "Các pha pick & roll biên, nơi bạn dùng đường biên làm hậu vệ phụ",
+      "Gặp hậu vệ thuận tay phải — ICE anh ta về tay yếu",
+      "Cuối trận khi muốn giữ bóng ở một bên sân",
+      "Gặp đội chạy pick & roll giữa kém — ép mọi thứ ra biên"
+    ],
+    "tags": [
+      "phòng thủ",
+      "ice",
+      "pick and roll",
+      "cách kèm"
+    ]
+  }
+}

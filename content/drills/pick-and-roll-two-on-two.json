@@ -38,5 +38,54 @@
   "regression": "Walk through each coverage first, go 2-on-1 with only the ball-handler's defender live, or script the read (e.g., 'today we only attack the drop').",
   "gameApplication": "The pick-and-roll is the most-run action in modern basketball — live 2-on-2 reps build the reads that turn ball screens into efficient offense.",
   "related": ["one-on-one-live","shell-drill","closeout-drill"],
-  "dateUpdated": "2026-10-06"
+  "dateUpdated": "2026-10-06",
+  "vi":   {
+    "title": "Pick & Roll 2 Đấu 2",
+    "description": "Đấu 2-2 live từ tình huống screen bóng: người cầm bóng đọc coverage trong khi người roll và các hậu vệ đối đầu qua mọi loại coverage.",
+    "goal": "Phát triển khả năng đọc pick-and-roll live — quyết định của người cầm bóng, timing của người roll và các coverage phòng thủ — trong môi trường 2-2 cạnh tranh.",
+    "setup": [
+      "Hai cầu thủ tấn công (người cầm bóng + người screen) bắt đầu ở đỉnh; hai hậu vệ kèm người.",
+      "HLV hô coverage phòng thủ trước mỗi lượt: drop, hedge, switch hoặc blitz.",
+      "Chơi đến số điểm định trước (ví dụ ai đến 7 trước) — cả ghi điểm và chặn được đều tính."
+    ],
+    "instructions": [
+      {
+        "title": "Đặt screen có chủ đích",
+        "detail": "Người screen chạy nhanh đến đặt screen hợp lệ, có góc — không slip sớm trừ khi coverage cho phép."
+      },
+      {
+        "title": "Người cầm bóng đọc coverage",
+        "detail": "Dùng screen và đọc 2 hậu vệ: reject nếu họ gian lận, snake nếu họ đuổi sau, split nếu họ hedge nhẹ."
+      },
+      {
+        "title": "Người roll căn timing",
+        "detail": "Người roll giữ screen đếm 2 nhịp rồi roll mạnh ra rổ, tay sẵn sàng — hoặc pop nếu coverage lùi sâu."
+      },
+      {
+        "title": "Chơi live",
+        "detail": "Chơi hết đợt bóng — tấn công có thể chuyền, đột phá hoặc ném; phòng thủ phải hô coverage và xoay người."
+      },
+      {
+        "title": "Luân phiên coverage",
+        "detail": "Đổi coverage được hô mỗi 3 lượt để hàng công thấy drop, hedge, switch và blitz trong một buổi."
+      }
+    ],
+    "coachingPoints": [
+      "Góc screen quyết định mọi thứ — screen bẹt để hậu vệ lách qua; screen có góc ép họ phải ra quyết định thật.",
+      "Người cầm bóng: đi thẳng xuống rổ sau screen — trôi ngang để cả hai hậu vệ hồi kịp.",
+      "Người roll: roll có chủ đích ra rổ, không phải về chỗ bạn vừa đặt screen.",
+      "Hậu vệ: hô coverage sớm và to — hô muộn trong pick-and-roll là tặng layup."
+    ],
+    "commonMistakes": [
+      "Roll trước khi screen chạm — screen di động là turnover và người cầm bóng chẳng có lợi thế gì.",
+      "Người cầm bóng quyết định trước khi đọc — hãy đọc hông và vị trí của hậu vệ, không phải kế hoạch trong đầu."
+    ],
+    "progression": "Thêm hậu vệ thứ ba làm low-man tagger (2 đấu 3), để phòng thủ tự chọn coverage không báo trước, hoặc chơi 2-2 hết sân bắt đầu bằng ball screen.",
+    "regression": "Đi bộ qua từng coverage trước, chơi 2-1 chỉ với hậu vệ của người cầm bóng live, hoặc định sẵn read (ví dụ 'hôm nay chỉ tấn công drop').",
+    "gameApplication": "Pick-and-roll là action được chạy nhiều nhất trong bóng rổ hiện đại — các lượt 2-2 live rèn những pha đọc biến ball screen thành tấn công hiệu quả.",
+    "players": "4",
+    "equipment": [
+      "Bóng rổ"
+    ]
+  }
 }

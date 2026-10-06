@@ -1,1 +1,135 @@
-{"ages":["U12","U14","U16","U18","Adult"],"coachingPoints":["Range comes from legs, not arms — more knee bend and a quicker rise, never a heave.","Same mechanics as every other shot: the three is your jumper with more power, not a different shot.","Feet set before the catch — preparation decides threes more than any other shot.","Practice game-speed reps with a rebounder; slow, casual threes build a slow, casual shot.","Track makes per 100, not streaks — volume shooting is a percentages game."],"commonMistakes":["Shooting flat when tired — fix: consciously add arc; tired legs shoot line drives.","Changing form for distance (leaning, fading) — fix: stay vertical; let the legs supply the power.","Practicing only uncontested standstill threes — fix: add movement threes — off screens, on the move, in transition.","Ignoring the corners — fix: the corner three is the shortest and most efficient; own both corners first."],"dateUpdated":"2026-10-06","description":"Build real, game-ready range: mechanics, leg power, preparation, and the spots that matter most.","gameSituations":["Spot-up kick-outs — the drive collapses the defense; you are the release valve in the corner or on the wing.","Transition threes — trail the break, catch on the move, and shoot before the defense matches up.","Pick-and-pop and pick-and-roll kick-outs — the screener's defender helps; the open three is the reward."],"howTo":[{"detail":"Feet shoulder-width, knees bent deeper than a midrange shot, weight loaded. Power starts at the floor — coiled legs, not tense shoulders.","title":"Load the legs"},{"detail":"Get set before the ball arrives: hop into a square stance, hands up, eyes on the rim. A late arrival means a rushed three.","title":"Prepare early"},{"detail":"Catch high in your shooting pocket. The less the ball travels from catch to release, the quicker and more consistent the shot.","title":"Catch high and compact"},{"detail":"Drive up through the legs in one explosive motion and release with your normal form — elbow in, guide hand passive, full wrist snap.","title":"Rise and release with your form"},{"detail":"Hold the follow-through until the ball hits the rim. Watch the flight; the feedback calibrates your distance control.","title":"Hold and track the flight"}],"hub":"skills","id":"three-point-shooting","level":"intermediate","positions":["ALL"],"readTime":5,"related":["catch-and-shoot","shot-preparation","shooting-mechanics","off-screen-shooting"],"slug":"three-point-shooting","subcategory":"shooting","tags":["shooting","three-point","scoring"],"title":"Three-Point Shooting","whatIsIt":["Three-point shooting is the skill of consistently scoring from beyond the arc — the most valuable single shot in modern basketball. A 35% three-point shooter scores more efficiently than a 50% midrange shooter, which is why entire offenses are now built around creating open threes.","But range without consistency is just hope. Real three-point shooting combines correct mechanics, leg power, quick preparation, and shot selection — taking the right threes, not just any threes."],"whyItMatters":["The three-pointer changed basketball more than any rule or tactic in fifty years. It stretches defenses, opens driving lanes, and decides games. For individual players, reliable range is the single biggest multiplier of value: it turns role players into starters and starters into stars. Every position now needs it — including centers."]}
+{
+  "ages": [
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "coachingPoints": [
+    "Range comes from legs, not arms — more knee bend and a quicker rise, never a heave.",
+    "Same mechanics as every other shot: the three is your jumper with more power, not a different shot.",
+    "Feet set before the catch — preparation decides threes more than any other shot.",
+    "Practice game-speed reps with a rebounder; slow, casual threes build a slow, casual shot.",
+    "Track makes per 100, not streaks — volume shooting is a percentages game."
+  ],
+  "commonMistakes": [
+    "Shooting flat when tired — fix: consciously add arc; tired legs shoot line drives.",
+    "Changing form for distance (leaning, fading) — fix: stay vertical; let the legs supply the power.",
+    "Practicing only uncontested standstill threes — fix: add movement threes — off screens, on the move, in transition.",
+    "Ignoring the corners — fix: the corner three is the shortest and most efficient; own both corners first."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "Build real, game-ready range: mechanics, leg power, preparation, and the spots that matter most.",
+  "gameSituations": [
+    "Spot-up kick-outs — the drive collapses the defense; you are the release valve in the corner or on the wing.",
+    "Transition threes — trail the break, catch on the move, and shoot before the defense matches up.",
+    "Pick-and-pop and pick-and-roll kick-outs — the screener's defender helps; the open three is the reward."
+  ],
+  "howTo": [
+    {
+      "detail": "Feet shoulder-width, knees bent deeper than a midrange shot, weight loaded. Power starts at the floor — coiled legs, not tense shoulders.",
+      "title": "Load the legs"
+    },
+    {
+      "detail": "Get set before the ball arrives: hop into a square stance, hands up, eyes on the rim. A late arrival means a rushed three.",
+      "title": "Prepare early"
+    },
+    {
+      "detail": "Catch high in your shooting pocket. The less the ball travels from catch to release, the quicker and more consistent the shot.",
+      "title": "Catch high and compact"
+    },
+    {
+      "detail": "Drive up through the legs in one explosive motion and release with your normal form — elbow in, guide hand passive, full wrist snap.",
+      "title": "Rise and release with your form"
+    },
+    {
+      "detail": "Hold the follow-through until the ball hits the rim. Watch the flight; the feedback calibrates your distance control.",
+      "title": "Hold and track the flight"
+    }
+  ],
+  "hub": "skills",
+  "id": "three-point-shooting",
+  "level": "intermediate",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 5,
+  "related": [
+    "catch-and-shoot",
+    "shot-preparation",
+    "shooting-mechanics",
+    "off-screen-shooting"
+  ],
+  "slug": "three-point-shooting",
+  "subcategory": "shooting",
+  "tags": [
+    "shooting",
+    "three-point",
+    "scoring"
+  ],
+  "title": "Three-Point Shooting",
+  "whatIsIt": [
+    "Three-point shooting is the skill of consistently scoring from beyond the arc — the most valuable single shot in modern basketball. A 35% three-point shooter scores more efficiently than a 50% midrange shooter, which is why entire offenses are now built around creating open threes.",
+    "But range without consistency is just hope. Real three-point shooting combines correct mechanics, leg power, quick preparation, and shot selection — taking the right threes, not just any threes."
+  ],
+  "whyItMatters": [
+    "The three-pointer changed basketball more than any rule or tactic in fifty years. It stretches defenses, opens driving lanes, and decides games. For individual players, reliable range is the single biggest multiplier of value: it turns role players into starters and starters into stars. Every position now needs it — including centers."
+  ],
+  "vi": {
+    "coachingPoints": [
+      "Tầm ném đến từ chân, không phải tay — cong gối nhiều hơn và bật nhanh hơn, đừng bao giờ quăng bóng.",
+      "Cùng kỹ thuật như mọi cú ném khác: cú ba điểm là cú jumper của bạn với nhiều lực hơn, không phải một cú ném khác.",
+      "Chân vào vị trí trước khi bắt bóng — sự chuẩn bị quyết định cú ba điểm nhiều hơn bất kỳ cú ném nào.",
+      "Tập với tốc độ thi đấu cùng người bắt bóng bật bảng; những cú ba điểm chậm rãi, tùy tiện tạo ra một cú ném chậm rãi, tùy tiện.",
+      "Theo dõi số cú vào trên 100 lần ném, không phải chuỗi ném trúng — ném với số lượng lớn là trò chơi của tỷ lệ."
+    ],
+    "commonMistakes": [
+      "Ném bẹt khi mệt — cách sửa: chủ động thêm độ vòng cung; chân mệt thường ném những đường bóng thẳng.",
+      "Đổi form vì khoảng cách (nghiêng, ngả người) — cách sửa: giữ người thẳng đứng; để chân cung cấp sức mạnh.",
+      "Chỉ tập những cú ba điểm đứng yên không bị kèm — cách sửa: thêm các cú ba điểm khi di chuyển — bật khỏi tấm chắn, đang chạy, trong phản công.",
+      "Bỏ qua các góc sân — cách sửa: cú ba điểm góc là gần nhất và hiệu quả nhất; hãy làm chủ cả hai góc trước."
+    ],
+    "description": "Xây dựng tầm ném thật, sẵn sàng thi đấu: kỹ thuật, sức mạnh chân, sự chuẩn bị, và những vị trí quan trọng nhất.",
+    "gameSituations": [
+      "Đứng chờ nhận đường kick-out — pha đột phá làm sụp đổ hàng thủ; bạn là van xả ở góc sân hoặc cánh.",
+      "Ném ba điểm trong phản công — chạy theo sau đợt phản công, bắt bóng khi đang di chuyển, và ném trước khi hàng thủ kịp đối đầu.",
+      "Pick-and-pop và kick-out từ pick and roll — hậu vệ của người chắn đi hỗ trợ; cú ba điểm trống là phần thưởng."
+    ],
+    "howTo": [
+      {
+        "detail": "Chân rộng bằng vai, gối cong sâu hơn cú ném tầm trung, trọng tâm dồn xuống. Sức mạnh bắt đầu từ mặt sàn — chân co như lò xo, không phải vai căng cứng.",
+        "title": "Dồn lực vào chân"
+      },
+      {
+        "detail": "Vào tư thế trước khi bóng tới: nhảy vào tư thế vuông góc, tay giơ lên, mắt nhìn vào vành rổ. Đến muộn nghĩa là một cú ba điểm vội vàng.",
+        "title": "Chuẩn bị sớm"
+      },
+      {
+        "detail": "Bắt bóng cao ở vị trí ném của bạn. Bóng di chuyển càng ít từ lúc bắt đến lúc thả, cú ném càng nhanh và ổn định.",
+        "title": "Bắt bóng cao và gọn"
+      },
+      {
+        "detail": "Đạp chân bật lên trong một chuyển động bùng nổ và thả bóng với form bình thường — khuỷu tay khép, tay định hướng thụ động, búng cổ tay hết cỡ.",
+        "title": "Bật lên và thả bóng đúng kỹ thuật"
+      },
+      {
+        "detail": "Giữ động tác kết thúc cho đến khi bóng chạm vành rổ. Theo dõi đường bay; phản hồi đó giúp căn chỉnh kiểm soát cự ly của bạn.",
+        "title": "Giữ nguyên và theo dõi đường bóng"
+      }
+    ],
+    "tags": [
+      "ném rổ",
+      "ba điểm",
+      "ghi điểm"
+    ],
+    "title": "Ném ba điểm",
+    "whatIsIt": [
+      "Ném ba điểm là kỹ năng ghi điểm ổn định từ ngoài vòng cung — cú ném đơn có giá trị nhất trong bóng rổ hiện đại. Một tay ném ba điểm 35% ghi điểm hiệu quả hơn một tay ném tầm trung 50%, đó là lý do cả các hàng công giờ được xây dựng quanh việc tạo ra những cú ba điểm trống.",
+      "Nhưng tầm ném mà không ổn định thì chỉ là hy vọng. Ném ba điểm thực thụ kết hợp kỹ thuật đúng, sức mạnh chân, chuẩn bị nhanh, và lựa chọn cú ném — ném những cú ba điểm đúng, không phải bất kỳ cú nào."
+    ],
+    "whyItMatters": [
+      "Cú ném ba điểm đã thay đổi bóng rổ nhiều hơn bất kỳ luật lệ hay chiến thuật nào trong năm mươi năm qua. Nó kéo giãn hàng thủ, mở đường đột phá, và quyết định trận đấu. Với từng cầu thủ, tầm ném đáng tin cậy là hệ số nhân giá trị lớn nhất: nó biến cầu thủ vai trò thành cầu thủ chính thức, và cầu thủ chính thức thành ngôi sao. Mọi vị trí giờ đều cần nó — kể cả trung phong."
+    ]
+  }
+}

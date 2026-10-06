@@ -1,1 +1,146 @@
-{"ages":["U10","U12","U14","U16","U18","Adult"],"coachingPoints":["Culture is clearest in adversity — plan in advance how you will respond to losing streaks and conflicts.","Involve players in setting team rules; ownership increases compliance.","Protect the culture from anyone — including your best player.","Review culture regularly: ask players anonymously what is working and what is not."],"commonMistakes":["Announcing values but never actually enforcing them.","Letting stars break rules that bench players must follow.","Trying to build culture only through speeches instead of daily actions.","Ignoring small violations until they grow into big problems."],"dateUpdated":"2026-10-06","description":"Culture beats talent when talent coasts. Learn how to build a team identity — standards, accountability, and trust — that wins.","gameSituations":["Star player skips a defensive rotation in practice: addressing it immediately.","Losing streak: holding the team together with standards instead of panic.","New season: establishing culture from scratch with a mostly new roster."],"howTo":[{"detail":"Pick three to five standards you can actually enforce — for example \"compete every rep,\" \"we over me,\" \"no excuses\" — and write them down where everyone sees them.","title":"Define three to five core values"},{"detail":"Players follow what you do, not what you say. Be early, be prepared, be accountable — the standard starts with the coach.","title":"Model them yourself"},{"detail":"Identify two or three respected players and give them ownership of the standards. Peer accountability is stronger than coach authority.","title":"Empower player leaders"},{"detail":"The standard you walk past is the standard you accept. Address violations immediately and consistently — every time, for everyone.","title":"Enforce standards consistently"},{"detail":"Team rituals, pre-game routines, and off-court time together build the trust that holds when pressure hits. Culture needs shared experiences.","title":"Create shared experiences"},{"detail":"Publicly recognize the extra effort, the unselfish play, the great teammate. What gets praised gets repeated — celebrate culture wins loudly.","title":"Celebrate culture wins"}],"hub":"coaching","id":"team-culture","level":"intermediate","positions":["ALL"],"readTime":6,"related":["player-communication","youth-coaching","practice-planning","game-preparation"],"slug":"team-culture","subcategory":"coaching","tags":["coaching","culture","leadership","teamwork"],"title":"Building Team Culture","whatIsIt":["Team culture is the set of shared standards, habits, and values that define how your team operates — how hard they practice, how they treat each other, how they respond to adversity. It is the invisible system that produces visible results.","Culture is not built in a speech; it is built in hundreds of small moments — the standard you enforce in a drill, the way veterans treat rookies, what you praise and what you tolerate. Every single day either builds your culture or erodes it."],"whyItMatters":["Talent sets your ceiling, but culture determines whether you reach it. Teams with strong culture defend harder, share the ball more, and stay together when things go wrong. Culture is also what sustains success across seasons, long after any single roster is gone.","In close games, culture is the tiebreaker. When talent is equal and the plan is spent, the team that trusts each other and competes for each other finds a way."]}
+{
+  "ages": [
+    "U10",
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "coachingPoints": [
+    "Culture is clearest in adversity — plan in advance how you will respond to losing streaks and conflicts.",
+    "Involve players in setting team rules; ownership increases compliance.",
+    "Protect the culture from anyone — including your best player.",
+    "Review culture regularly: ask players anonymously what is working and what is not."
+  ],
+  "commonMistakes": [
+    "Announcing values but never actually enforcing them.",
+    "Letting stars break rules that bench players must follow.",
+    "Trying to build culture only through speeches instead of daily actions.",
+    "Ignoring small violations until they grow into big problems."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "Culture beats talent when talent coasts. Learn how to build a team identity — standards, accountability, and trust — that wins.",
+  "gameSituations": [
+    "Star player skips a defensive rotation in practice: addressing it immediately.",
+    "Losing streak: holding the team together with standards instead of panic.",
+    "New season: establishing culture from scratch with a mostly new roster."
+  ],
+  "howTo": [
+    {
+      "detail": "Pick three to five standards you can actually enforce — for example \"compete every rep,\" \"we over me,\" \"no excuses\" — and write them down where everyone sees them.",
+      "title": "Define three to five core values"
+    },
+    {
+      "detail": "Players follow what you do, not what you say. Be early, be prepared, be accountable — the standard starts with the coach.",
+      "title": "Model them yourself"
+    },
+    {
+      "detail": "Identify two or three respected players and give them ownership of the standards. Peer accountability is stronger than coach authority.",
+      "title": "Empower player leaders"
+    },
+    {
+      "detail": "The standard you walk past is the standard you accept. Address violations immediately and consistently — every time, for everyone.",
+      "title": "Enforce standards consistently"
+    },
+    {
+      "detail": "Team rituals, pre-game routines, and off-court time together build the trust that holds when pressure hits. Culture needs shared experiences.",
+      "title": "Create shared experiences"
+    },
+    {
+      "detail": "Publicly recognize the extra effort, the unselfish play, the great teammate. What gets praised gets repeated — celebrate culture wins loudly.",
+      "title": "Celebrate culture wins"
+    }
+  ],
+  "hub": "coaching",
+  "id": "team-culture",
+  "level": "intermediate",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 6,
+  "related": [
+    "player-communication",
+    "youth-coaching",
+    "practice-planning",
+    "game-preparation"
+  ],
+  "slug": "team-culture",
+  "subcategory": "coaching",
+  "tags": [
+    "coaching",
+    "culture",
+    "leadership",
+    "teamwork"
+  ],
+  "title": "Building Team Culture",
+  "whatIsIt": [
+    "Team culture is the set of shared standards, habits, and values that define how your team operates — how hard they practice, how they treat each other, how they respond to adversity. It is the invisible system that produces visible results.",
+    "Culture is not built in a speech; it is built in hundreds of small moments — the standard you enforce in a drill, the way veterans treat rookies, what you praise and what you tolerate. Every single day either builds your culture or erodes it."
+  ],
+  "whyItMatters": [
+    "Talent sets your ceiling, but culture determines whether you reach it. Teams with strong culture defend harder, share the ball more, and stay together when things go wrong. Culture is also what sustains success across seasons, long after any single roster is gone.",
+    "In close games, culture is the tiebreaker. When talent is equal and the plan is spent, the team that trusts each other and competes for each other finds a way."
+  ],
+  "vi": {
+    "coachingPoints": [
+      "Văn hóa rõ nhất trong nghịch cảnh — hãy lên kế hoạch trước về cách bạn phản ứng với chuỗi trận thua và xung đột.",
+      "Để cầu thủ tham gia đặt ra nội quy đội; quyền sở hữu làm tăng sự tuân thủ.",
+      "Bảo vệ văn hóa khỏi bất kỳ ai — kể cả cầu thủ giỏi nhất của bạn.",
+      "Rà soát văn hóa thường xuyên: hỏi ẩn danh cầu thủ xem điều gì đang hiệu quả và điều gì không."
+    ],
+    "commonMistakes": [
+      "Tuyên bố các giá trị nhưng không bao giờ thực sự thực thi.",
+      "Để các ngôi sao phá vỡ những quy định mà cầu thủ dự bị phải tuân theo.",
+      "Cố xây dựng văn hóa chỉ bằng diễn thuyết thay vì hành động hằng ngày.",
+      "Phớt lờ những vi phạm nhỏ cho đến khi chúng thành vấn đề lớn."
+    ],
+    "description": "Văn hóa thắng tài năng khi tài năng tự mãn. Học cách xây dựng bản sắc đội bóng — tiêu chuẩn, trách nhiệm và niềm tin — để chiến thắng.",
+    "gameSituations": [
+      "Ngôi sao bỏ một vòng xoay phòng thủ trong buổi tập: xử lý ngay lập tức.",
+      "Chuỗi trận thua: giữ đội bóng đoàn kết bằng tiêu chuẩn thay vì hoảng loạn.",
+      "Mùa giải mới: thiết lập văn hóa từ con số không với đội hình hầu hết là người mới."
+    ],
+    "howTo": [
+      {
+        "detail": "Chọn ba đến năm tiêu chuẩn mà bạn thực sự có thể thực thi — ví dụ 'cạnh tranh mọi lần tập', 'đội bóng trên cá nhân', 'không biện hộ' — và viết chúng ở nơi mọi người đều thấy.",
+        "title": "Xác định ba đến năm giá trị cốt lõi"
+      },
+      {
+        "detail": "Cầu thủ làm theo những gì bạn làm, không phải những gì bạn nói. Hãy đến sớm, chuẩn bị kỹ, chịu trách nhiệm — tiêu chuẩn bắt đầu từ huấn luyện viên.",
+        "title": "Tự mình làm gương"
+      },
+      {
+        "detail": "Xác định hai hoặc ba cầu thủ được tôn trọng và trao cho họ quyền sở hữu các tiêu chuẩn. Trách nhiệm giữa các đồng đội mạnh hơn quyền lực của huấn luyện viên.",
+        "title": "Trao quyền cho các thủ lĩnh"
+      },
+      {
+        "detail": "Tiêu chuẩn mà bạn bỏ qua chính là tiêu chuẩn bạn chấp nhận. Xử lý vi phạm ngay lập tức và nhất quán — mọi lần, với mọi người.",
+        "title": "Thực thi tiêu chuẩn nhất quán"
+      },
+      {
+        "detail": "Các nghi thức đội bóng, thói quen trước trận, và thời gian bên nhau ngoài sân xây dựng niềm tin để trụ vững khi áp lực tới. Văn hóa cần những trải nghiệm chung.",
+        "title": "Tạo những trải nghiệm chung"
+      },
+      {
+        "detail": "Công khai ghi nhận nỗ lực vượt trội, pha bóng vị tha, người đồng đội tuyệt vời. Điều gì được khen ngợi sẽ được lặp lại — hãy ăn mừng những chiến thắng văn hóa thật lớn.",
+        "title": "Ăn mừng những chiến thắng văn hóa"
+      }
+    ],
+    "tags": [
+      "huấn luyện",
+      "văn hóa",
+      "lãnh đạo",
+      "đồng đội"
+    ],
+    "title": "Xây dựng văn hóa đội bóng",
+    "whatIsIt": [
+      "Văn hóa đội bóng là tập hợp các tiêu chuẩn, thói quen và giá trị chung định nghĩa cách đội bạn vận hành — họ tập luyện chăm chỉ thế nào, đối xử với nhau ra sao, phản ứng với nghịch cảnh thế nào. Đó là hệ thống vô hình tạo ra những kết quả hữu hình.",
+      "Văn hóa không được xây trong một bài diễn thuyết; nó được xây trong hàng trăm khoảnh khắc nhỏ — tiêu chuẩn bạn thực thi trong một bài tập, cách các cựu binh đối xử với tân binh, những gì bạn khen ngợi và những gì bạn dung thứ. Mỗi ngày hoặc xây dựng văn hóa của bạn, hoặc bào mòn nó."
+    ],
+    "whyItMatters": [
+      "Tài năng đặt ra trần của bạn, nhưng văn hóa quyết định bạn có chạm tới nó không. Những đội có văn hóa mạnh phòng thủ quyết liệt hơn, chia sẻ bóng nhiều hơn, và gắn bó khi mọi thứ trục trặc. Văn hóa cũng là thứ duy trì thành công qua các mùa giải, lâu sau khi bất kỳ đội hình nào đã tan rã.",
+      "Trong những trận đấu sít sao, văn hóa là yếu tố phân định. Khi tài năng ngang nhau và kế hoạch đã cạn, đội tin tưởng lẫn nhau và chiến đấu vì nhau sẽ tìm ra cách."
+    ]
+  }
+}

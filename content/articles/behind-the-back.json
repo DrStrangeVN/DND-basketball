@@ -1,1 +1,134 @@
-{"ages":["U12","U14","U16","U18","Adult"],"coachingPoints":["The ball stays low — wrap it just below the waist, behind your back, never over the top.","Your eyes can stay up the entire time; the wrap is guided by feel and body position.","Keep your dribble hand close to your body so the defender cannot slide between you and the ball.","Use the whole move: sell the original direction with your shoulder before wrapping.","Practice weak-side wraps — left-hand wraps are rare in games because players never drill them."],"commonMistakes":["Throwing the ball instead of pushing it — fix: keep your hand on the ball through the wrap; it should feel like a guided pass, not a toss.","Standing straight up during the wrap — fix: stay in your stance; height kills the control.","Looking down to watch the wrap — fix: the wrap happens at hip height; trust your touch and keep eyes forward.","Wrapping too far behind — fix: the ball should travel from one hip to the other, tight to your back."],"dateUpdated":"2026-10-06","description":"Wrap the ball behind your back to switch hands while staying fully protected — a deadly full-speed move for confident handlers.","gameSituations":["Splitting two defenders — when help arrives from both sides, a behind-the-back switch slips the ball through the gap.","Changing hands at full speed in transition — like between the legs, it keeps the ball hidden from chasing defenders.","Beating a reach — when a defender lunges for the ball, wrapping it behind your back pulls it out of his reach entirely."],"howTo":[{"detail":"Dribble with your right hand, body low. The defender is playing the angle on your right side, expecting you to keep going straight.","title":"Approach with the ball on one side"},{"detail":"Shift your shoulders and hips slightly right so the defender commits to that direction. The fake is the move; the wrap is just delivery.","title":"Lean into the fake direction"},{"detail":"Bounce the ball hard into the floor just behind your right hip, angled so it travels across your lower back toward your left hip. Keep the bounce low.","title":"Bounce it behind your back"},{"detail":"Your left hand meets the ball behind you at hip height. Do not reach back with your right hand — the switch is clean and final.","title":"Catch with the opposite hand"},{"detail":"Explode with your first dribble the instant the ball lands in the new hand. One hard push-off turns a fancy move into a real advantage.","title":"Attack immediately after the catch"}],"hub":"skills","id":"behind-the-back","level":"intermediate","positions":["ALL"],"readTime":5,"related":["between-the-legs","crossover","change-of-pace"],"slug":"behind-the-back","subcategory":"ball-handling","tags":["dribbling","moves","ball handling"],"title":"Behind the Back","whatIsIt":["The behind-the-back move switches the ball from one hand to the other by bouncing it behind your back, from hip to hip. The ball never crosses in front of your body, which means the defender's hands — parked in front of you — cannot touch it.","It looks flashy, but its value is practical: at full speed it is one of the most secure hand switches in the game. Many players learn it as a trick and later realize it is their most reliable transition move."],"whyItMatters":["When you are dribbling at full speed and a defender is right on you, crossing in front is risky. Behind the back lets you switch hands with zero exposure — the ball stays behind your frame the entire time. Guards who master it can change direction at top speed without giving the defense a single poke-through window."]}
+{
+  "ages": [
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "coachingPoints": [
+    "The ball stays low — wrap it just below the waist, behind your back, never over the top.",
+    "Your eyes can stay up the entire time; the wrap is guided by feel and body position.",
+    "Keep your dribble hand close to your body so the defender cannot slide between you and the ball.",
+    "Use the whole move: sell the original direction with your shoulder before wrapping.",
+    "Practice weak-side wraps — left-hand wraps are rare in games because players never drill them."
+  ],
+  "commonMistakes": [
+    "Throwing the ball instead of pushing it — fix: keep your hand on the ball through the wrap; it should feel like a guided pass, not a toss.",
+    "Standing straight up during the wrap — fix: stay in your stance; height kills the control.",
+    "Looking down to watch the wrap — fix: the wrap happens at hip height; trust your touch and keep eyes forward.",
+    "Wrapping too far behind — fix: the ball should travel from one hip to the other, tight to your back."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "Wrap the ball behind your back to switch hands while staying fully protected — a deadly full-speed move for confident handlers.",
+  "gameSituations": [
+    "Splitting two defenders — when help arrives from both sides, a behind-the-back switch slips the ball through the gap.",
+    "Changing hands at full speed in transition — like between the legs, it keeps the ball hidden from chasing defenders.",
+    "Beating a reach — when a defender lunges for the ball, wrapping it behind your back pulls it out of his reach entirely."
+  ],
+  "howTo": [
+    {
+      "detail": "Dribble with your right hand, body low. The defender is playing the angle on your right side, expecting you to keep going straight.",
+      "title": "Approach with the ball on one side"
+    },
+    {
+      "detail": "Shift your shoulders and hips slightly right so the defender commits to that direction. The fake is the move; the wrap is just delivery.",
+      "title": "Lean into the fake direction"
+    },
+    {
+      "detail": "Bounce the ball hard into the floor just behind your right hip, angled so it travels across your lower back toward your left hip. Keep the bounce low.",
+      "title": "Bounce it behind your back"
+    },
+    {
+      "detail": "Your left hand meets the ball behind you at hip height. Do not reach back with your right hand — the switch is clean and final.",
+      "title": "Catch with the opposite hand"
+    },
+    {
+      "detail": "Explode with your first dribble the instant the ball lands in the new hand. One hard push-off turns a fancy move into a real advantage.",
+      "title": "Attack immediately after the catch"
+    }
+  ],
+  "hub": "skills",
+  "id": "behind-the-back",
+  "level": "intermediate",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 5,
+  "related": [
+    "between-the-legs",
+    "crossover",
+    "change-of-pace"
+  ],
+  "slug": "behind-the-back",
+  "subcategory": "ball-handling",
+  "tags": [
+    "dribbling",
+    "moves",
+    "ball handling"
+  ],
+  "title": "Behind the Back",
+  "whatIsIt": [
+    "The behind-the-back move switches the ball from one hand to the other by bouncing it behind your back, from hip to hip. The ball never crosses in front of your body, which means the defender's hands — parked in front of you — cannot touch it.",
+    "It looks flashy, but its value is practical: at full speed it is one of the most secure hand switches in the game. Many players learn it as a trick and later realize it is their most reliable transition move."
+  ],
+  "whyItMatters": [
+    "When you are dribbling at full speed and a defender is right on you, crossing in front is risky. Behind the back lets you switch hands with zero exposure — the ball stays behind your frame the entire time. Guards who master it can change direction at top speed without giving the defense a single poke-through window."
+  ],
+  "vi": {
+    "coachingPoints": [
+      "Giữ bóng thấp — quấn bóng ngay dưới thắt lưng, sau lưng, không bao giờ vung qua đầu",
+      "Mắt có thể ngẩng lên suốt pha bóng; cú quấn được dẫn dắt bằng cảm giác và vị trí cơ thể",
+      "Giữ tay dẫn bóng sát cơ thể để hậu vệ không thể luồn vào giữa bạn và bóng",
+      "Dùng trọn pha bóng: bán hướng đi ban đầu bằng vai trước khi quấn bóng",
+      "Tập quấn bằng tay yếu — những cú quấn tay trái hiếm thấy trong trận vì cầu thủ không bao giờ tập chúng"
+    ],
+    "commonMistakes": [
+      "Ném bóng thay vì đẩy bóng — cách sửa: giữ tay trên bóng suốt cú quấn; cảm giác phải như một đường chuyền có định hướng, không phải cú ném bừa",
+      "Đứng thẳng người khi quấn — cách sửa: giữ tư thế thấp; đứng cao làm mất kiểm soát",
+      "Cúi xuống nhìn cú quấn — cách sửa: cú quấn diễn ra ngang hông; hãy tin vào cảm giác tay và giữ mắt nhìn về phía trước",
+      "Quấn bóng quá xa ra sau — cách sửa: bóng chỉ nên đi từ hông này sang hông kia, sát lưng"
+    ],
+    "description": "Quấn bóng ra sau lưng để đổi tay trong khi bóng luôn được bảo vệ — động tác tốc độ cao đầy nguy hiểm cho những người xử lý bóng tự tin.",
+    "gameSituations": [
+      "Xuyên qua hai hậu vệ — khi sự hỗ trợ ập đến từ cả hai phía, cú đổi tay sau lưng luồn bóng qua khe hở",
+      "Đổi tay ở tốc độ cao trong phản công — giống như between the legs, nó giấu bóng khỏi những hậu vệ đuổi theo",
+      "Vượt qua pha với tay — khi hậu vệ lao ra gạt bóng, quấn bóng ra sau lưng kéo bóng hoàn toàn khỏi tầm với của anh ta"
+    ],
+    "howTo": [
+      {
+        "detail": "Dẫn bóng bằng tay phải, người thấp. Hậu vệ đang bắt góc ở phía phải của bạn, chờ bạn tiếp tục đi thẳng.",
+        "title": "Tiếp cận với bóng ở một bên"
+      },
+      {
+        "detail": "Nghiêng vai và hông nhẹ sang phải để hậu vệ dồn theo hướng đó. Cú giả mới là động tác; cú quấn chỉ là cách đưa bóng đi.",
+        "title": "Nghiêng người về hướng giả"
+      },
+      {
+        "detail": "Đập bóng mạnh xuống sàn ngay sau hông phải, xiên sao cho bóng đi ngang qua lưng dưới về phía hông trái. Giữ bóng nảy thấp.",
+        "title": "Đập bóng ra sau lưng"
+      },
+      {
+        "detail": "Tay trái đón bóng sau lưng ở ngang hông. Đừng với tay phải ra sau — cú đổi tay phải gọn gàng và dứt khoát.",
+        "title": "Bắt bóng bằng tay còn lại"
+      },
+      {
+        "detail": "Bùng nổ ngay cú dẫn đầu tiên khi bóng vừa vào tay mới. Một cú đạp mạnh biến động tác đẹp mắt thành lợi thế thật sự.",
+        "title": "Tấn công ngay sau khi bắt bóng"
+      }
+    ],
+    "tags": [
+      "dẫn bóng",
+      "động tác",
+      "xử lý bóng"
+    ],
+    "title": "Quấn Bóng Sau Lưng",
+    "whatIsIt": [
+      "Động tác behind-the-back đổi bóng từ tay này sang tay kia bằng cách đập bóng sau lưng, từ hông này sang hông kia. Bóng không bao giờ đi qua phía trước cơ thể, nghĩa là tay của hậu vệ — đang đặt phía trước bạn — không thể chạm tới nó.",
+      "Trông có vẻ màu mè, nhưng giá trị của nó rất thực tế: ở tốc độ cao, đây là một trong những cách đổi tay an toàn nhất trong bóng rổ. Nhiều cầu thủ học nó như một trò biểu diễn rồi sau đó nhận ra đó là động tác phản công đáng tin cậy nhất của mình."
+    ],
+    "whyItMatters": [
+      "Khi bạn đang dẫn bóng hết tốc lực và hậu vệ bám sát, đổi bóng phía trước rất rủi ro. Behind the back cho phép bạn đổi tay mà không lộ bóng chút nào — bóng ở sau người bạn suốt thời gian. Những hậu vệ thành thạo nó có thể đổi hướng ở tốc độ tối đa mà không cho hàng thủ một khoảnh khắc gạt bóng nào."
+    ]
+  }
+}

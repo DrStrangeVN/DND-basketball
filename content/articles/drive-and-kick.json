@@ -1,1 +1,138 @@
-{"ages":["U12","U14","U16","U18","Adult"],"coachingPoints":["Drive to score first — kicks only exist if the defense respects your finish.","Read the feet of the help defender: committed = kick, recovered = keep driving.","Kick to the shooter's pocket, not their knees — arrive where they can shoot in rhythm.","The corner is the most valuable kick — it's the shortest three and hardest to rotate to.","Keep your dribble alive until the help commits; picking up early kills the drive threat."],"commonMistakes":["Driving with no plan to score — defenders smell a pass-first driver and don't help.","Jumping in the air before deciding — now you're passing with no outlet and no dribble.","Kicking to a non-shooter while a shooter stands open — know your personnel.","Throwing the kick late after the defense recovers — the window is 1-2 seconds, not 4."],"dateUpdated":"2026-10-06","description":"Turn paint pressure into open shots: how to collapse the defense on the drive and find the right kick-out.","gameSituations":["Closeouts you can beat off the dribble — drive, draw the second defender, kick.","Pick-and-roll when the help tags the roller — drive-and-kick to the weak side.","Transition when the defense collapses on the ball handler — kick to trailing shooters."],"howTo":[{"detail":"Beat your man or attack a closeout with the intent to score. Your eyes stay on the rim — the defense must believe the finish is coming.","title":"Drive to score"},{"detail":"Watch the second defender: the help man who rotates, the big who tags, the corner defender who sinks. The moment they commit their weight toward you, the kick is open.","title":"Read the helper"},{"detail":"Keep your dribble alive as long as possible. As the helper arrives, gather — jump stop is ideal — with your body between the ball and the recovering defenders.","title":"Gather under control"},{"detail":"Kick the ball out with a crisp one- or two-hand pass to the open shooter. Corner first, then wing, then top — in that order of defensive difficulty.","title":"Kick to the open shooter"},{"detail":"Don't admire the pass — cut through or relocate. Great drive-and-kick players create the next advantage by moving after they pass.","title":"Follow your pass with movement"}],"hub":"skills","id":"drive-and-kick","level":"intermediate","positions":["ALL"],"readTime":6,"related":["skip-pass","chest-pass","runner-floater","contact-finishing","pocket-pass"],"slug":"drive-and-kick","subcategory":"passing","tags":["passing","drive","kick out","offense"],"title":"Drive & Kick Passing","whatIsIt":["Drive-and-kick is the core action of modern offense: penetrate the paint to force defensive help, then pass ('kick') to the teammate the help defender abandoned. The drive creates the advantage; the kick converts it into an open shot.","It sounds simple, but the timing is precise. Kick too early and the defense recovers; kick too late and the window closes. Elite drive-and-kick players read the helper's weight shift and deliver the ball the instant it moves."],"whyItMatters":["Paint touches are the most valuable event in half-court offense. Every touch that draws two defenders creates a 4-on-3 somewhere. Drive-and-kick is how teams convert those numbers into open threes and layups — it's the engine of the entire modern spacing game."]}
+{
+  "ages": [
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "coachingPoints": [
+    "Drive to score first — kicks only exist if the defense respects your finish.",
+    "Read the feet of the help defender: committed = kick, recovered = keep driving.",
+    "Kick to the shooter's pocket, not their knees — arrive where they can shoot in rhythm.",
+    "The corner is the most valuable kick — it's the shortest three and hardest to rotate to.",
+    "Keep your dribble alive until the help commits; picking up early kills the drive threat."
+  ],
+  "commonMistakes": [
+    "Driving with no plan to score — defenders smell a pass-first driver and don't help.",
+    "Jumping in the air before deciding — now you're passing with no outlet and no dribble.",
+    "Kicking to a non-shooter while a shooter stands open — know your personnel.",
+    "Throwing the kick late after the defense recovers — the window is 1-2 seconds, not 4."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "Turn paint pressure into open shots: how to collapse the defense on the drive and find the right kick-out.",
+  "gameSituations": [
+    "Closeouts you can beat off the dribble — drive, draw the second defender, kick.",
+    "Pick-and-roll when the help tags the roller — drive-and-kick to the weak side.",
+    "Transition when the defense collapses on the ball handler — kick to trailing shooters."
+  ],
+  "howTo": [
+    {
+      "detail": "Beat your man or attack a closeout with the intent to score. Your eyes stay on the rim — the defense must believe the finish is coming.",
+      "title": "Drive to score"
+    },
+    {
+      "detail": "Watch the second defender: the help man who rotates, the big who tags, the corner defender who sinks. The moment they commit their weight toward you, the kick is open.",
+      "title": "Read the helper"
+    },
+    {
+      "detail": "Keep your dribble alive as long as possible. As the helper arrives, gather — jump stop is ideal — with your body between the ball and the recovering defenders.",
+      "title": "Gather under control"
+    },
+    {
+      "detail": "Kick the ball out with a crisp one- or two-hand pass to the open shooter. Corner first, then wing, then top — in that order of defensive difficulty.",
+      "title": "Kick to the open shooter"
+    },
+    {
+      "detail": "Don't admire the pass — cut through or relocate. Great drive-and-kick players create the next advantage by moving after they pass.",
+      "title": "Follow your pass with movement"
+    }
+  ],
+  "hub": "skills",
+  "id": "drive-and-kick",
+  "level": "intermediate",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 6,
+  "related": [
+    "skip-pass",
+    "chest-pass",
+    "runner-floater",
+    "contact-finishing",
+    "pocket-pass"
+  ],
+  "slug": "drive-and-kick",
+  "subcategory": "passing",
+  "tags": [
+    "passing",
+    "drive",
+    "kick out",
+    "offense"
+  ],
+  "title": "Drive & Kick Passing",
+  "whatIsIt": [
+    "Drive-and-kick is the core action of modern offense: penetrate the paint to force defensive help, then pass ('kick') to the teammate the help defender abandoned. The drive creates the advantage; the kick converts it into an open shot.",
+    "It sounds simple, but the timing is precise. Kick too early and the defense recovers; kick too late and the window closes. Elite drive-and-kick players read the helper's weight shift and deliver the ball the instant it moves."
+  ],
+  "whyItMatters": [
+    "Paint touches are the most valuable event in half-court offense. Every touch that draws two defenders creates a 4-on-3 somewhere. Drive-and-kick is how teams convert those numbers into open threes and layups — it's the engine of the entire modern spacing game."
+  ],
+  "vi": {
+    "coachingPoints": [
+      "Đột phá để ghi điểm trước — kick chỉ tồn tại nếu hàng thủ tôn trọng pha dứt điểm của bạn",
+      "Đọc chân của hậu vệ hỗ trợ: đã dồn sức thì kick, đã lui về thì tiếp tục đột phá",
+      "Kick vào túi của tay ném, không phải đầu gối họ — bóng đến nơi họ có thể ném đúng nhịp",
+      "Góc sân là cú kick giá trị nhất — đó là cú ba điểm ngắn nhất và khó xoay ra nhất",
+      "Giữ bóng sống cho đến khi sự hỗ trợ dồn tới; nhấc bóng sớm giết chết mối đe dọa đột phá"
+    ],
+    "commonMistakes": [
+      "Đột phá mà không có ý định ghi điểm — hậu vệ ngửi thấy người chỉ muốn chuyền và không hỗ trợ",
+      "Nhảy lên không trung trước khi quyết định — giờ bạn đang chuyền mà không có lối thoát và không còn bóng dẫn",
+      "Kick cho người không ném trong khi tay ném đang đứng trống — hãy biết nhân sự của mình",
+      "Ném đường kick muộn sau khi hàng thủ đã lui về — cửa sổ chỉ 1–2 giây, không phải 4 giây"
+    ],
+    "description": "Biến áp lực trong hình thang thành những cú ném trống: cách làm sụp đổ hàng thủ khi đột phá và tìm đường kick-out đúng.",
+    "gameSituations": [
+      "Những pha closeout bạn có thể vượt qua khi dẫn bóng — đột phá, kéo hậu vệ thứ hai, kick ra",
+      "Pick-and-roll khi sự hỗ trợ tag người lăn — drive-and-kick sang cánh yếu",
+      "Phản công khi hàng thủ co cụm vào người cầm bóng — kick cho các tay ném chạy sau"
+    ],
+    "howTo": [
+      {
+        "detail": "Vượt qua người kèm hoặc tấn công closeout với ý định ghi điểm. Mắt bạn nhìn vào rổ — hàng thủ phải tin rằng pha dứt điểm sắp tới.",
+        "title": "Đột phá để ghi điểm"
+      },
+      {
+        "detail": "Quan sát hậu vệ thứ hai: người hỗ trợ xoay ra, big tag vào, hậu vệ góc lùi xuống. Ngay khi họ dồn trọng lượng về phía bạn, đường kick đã mở.",
+        "title": "Đọc người hỗ trợ"
+      },
+      {
+        "detail": "Giữ bóng dẫn sống càng lâu càng tốt. Khi người hỗ trợ ập tới, hãy nhấc bóng — jump stop là lý tưởng — với cơ thể che giữa bóng và những hậu vệ đang lui về.",
+        "title": "Nhấc bóng trong kiểm soát"
+      },
+      {
+        "detail": "Kick bóng ra bằng đường chuyền một hoặc hai tay gọn cho tay ném đang trống. Góc trước, rồi cánh, rồi đỉnh — theo thứ tự độ khó xoay chuyển của hàng thủ.",
+        "title": "Kick cho tay ném đang trống"
+      },
+      {
+        "detail": "Đừng ngắm đường chuyền — hãy cắt xuyên qua hoặc di chuyển lại. Những cầu thủ drive-and-kick giỏi tạo ra lợi thế tiếp theo bằng cách di chuyển sau khi chuyền.",
+        "title": "Di chuyển sau đường chuyền"
+      }
+    ],
+    "tags": [
+      "chuyền bóng",
+      "đột phá",
+      "kick-out",
+      "tấn công"
+    ],
+    "title": "Chuyền Drive & Kick",
+    "whatIsIt": [
+      "Drive-and-kick là hành động cốt lõi của tấn công hiện đại: xuyên vào hình thang để ép hàng thủ hỗ trợ, rồi chuyền ('kick') cho đồng đội mà hậu vệ hỗ trợ bỏ lại. Pha đột phá tạo ra lợi thế; cú kick biến nó thành cú ném trống.",
+      "Nghe có vẻ đơn giản, nhưng thời điểm rất chính xác. Kick quá sớm hàng thủ kịp lui về; kick quá muộn cửa sổ đóng lại. Những cầu thủ drive-and-kick đẳng cấp đọc sự dịch trọng lượng của người hỗ trợ và đưa bóng ngay khi nó di chuyển."
+    ],
+    "whyItMatters": [
+      "Chạm vào hình thang là sự kiện giá trị nhất trong tấn công sân trước. Mỗi pha chạm kéo hai hậu vệ tạo ra thế 4 đấu 3 ở đâu đó. Drive-and-kick là cách các đội biến những con số đó thành ba điểm trống và layup — nó là động cơ của cả lối chơi spacing hiện đại."
+    ]
+  }
+}

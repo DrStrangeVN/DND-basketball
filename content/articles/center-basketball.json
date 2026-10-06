@@ -1,1 +1,145 @@
-{"ages":["U14","U16","U18","Adult"],"coachingPoints":["Teach drop-step and jump-hook footwork before any advanced post move.","Measure rim protection by shots altered, not just blocks — staying down matters.","Build passing from the post and the short roll; double teams punish selfish bigs.","Condition the big to sprint the floor — rim-running beats jogging every time."],"commonMistakes":["Bringing the ball down low where guards can strip it — keep it high.","Jumping at every shot fake instead of staying grounded.","Camping in the paint on offense for three seconds.","Setting lazy screens and slipping before making contact."],"dateUpdated":"2026-10-06","description":"Center development: rim protection, rebounding, post scoring, screening and the modern big's passing and shooting.","gameSituations":["Drop coverage — containing the ball handler while protecting the rim.","Post double team — reading the help and kicking to the open shooter.","Offensive rebound — tipping or dunking the putback.","Late game — protecting the rim without fouling on the final possession."],"howTo":[{"detail":"Own the paint on defense: stay between your player and the basket, contest shots vertically with arms straight up, and communicate every screen and cut. The center is the defense's quarterback.","title":"Protect the rim"},{"detail":"Box out with contact, pursue with two hands, and secure the ball at chin level. Then outlet immediately — a quick, accurate outlet pass starts the fast break.","title":"Rebound and outlet"},{"detail":"Seal deep with a wide base, catch with two hands, and score with the drop step, jump hook, and up-and-under. Keep the ball high and make your move in two dribbles or fewer.","title":"Score in the post"},{"detail":"Sprint rim-to-rim in transition — the first big down the floor gets dunks and deep seals. In the half court, set hard screens and roll with purpose.","title":"Run and screen"},{"detail":"Modern centers must pass: hit cutters from the high post, find shooters when doubled, and make short-roll reads. Add a reliable jumper and, eventually, three-point range to pull defenders out.","title":"Pass and stretch"},{"detail":"Call out screens ('screen left!'), direct rotations, and organize the defense. The center sees the whole floor — use that voice every possession.","title":"Talk and organize"}],"hub":"positions","id":"center-basketball","level":"intermediate","positions":["C"],"readTime":6,"related":["basketball-positions","power-forward","defensive-principles","spacing-basics","fouls-explained"],"slug":"center-basketball","subcategory":"positions","tags":["center","big man","rim protection","post"],"title":"Center Development","whatIsIt":["The center — the '5' — is the team's anchor: protecting the rim, rebounding, scoring inside, setting screens, and organizing the defense. Traditionally the tallest player, the center lives near the basket on both ends.","The position has evolved dramatically. Modern centers still protect the rim and rebound, but many now shoot threes, handle the ball in the open floor, and pass like guards. The job description keeps expanding — which makes skilled bigs more valuable than ever."],"whyItMatters":["Rim protection and rebounding are the two most reliable ways to control a game. A dominant center deters drives, ends opponent possessions, and creates second chances on offense. Even as the game spreads out, teams with a real anchor at the '5' defend the most valuable real estate on the court — the paint."]}
+{
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "coachingPoints": [
+    "Teach drop-step and jump-hook footwork before any advanced post move.",
+    "Measure rim protection by shots altered, not just blocks — staying down matters.",
+    "Build passing from the post and the short roll; double teams punish selfish bigs.",
+    "Condition the big to sprint the floor — rim-running beats jogging every time."
+  ],
+  "commonMistakes": [
+    "Bringing the ball down low where guards can strip it — keep it high.",
+    "Jumping at every shot fake instead of staying grounded.",
+    "Camping in the paint on offense for three seconds.",
+    "Setting lazy screens and slipping before making contact."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "Center development: rim protection, rebounding, post scoring, screening and the modern big's passing and shooting.",
+  "gameSituations": [
+    "Drop coverage — containing the ball handler while protecting the rim.",
+    "Post double team — reading the help and kicking to the open shooter.",
+    "Offensive rebound — tipping or dunking the putback.",
+    "Late game — protecting the rim without fouling on the final possession."
+  ],
+  "howTo": [
+    {
+      "detail": "Own the paint on defense: stay between your player and the basket, contest shots vertically with arms straight up, and communicate every screen and cut. The center is the defense's quarterback.",
+      "title": "Protect the rim"
+    },
+    {
+      "detail": "Box out with contact, pursue with two hands, and secure the ball at chin level. Then outlet immediately — a quick, accurate outlet pass starts the fast break.",
+      "title": "Rebound and outlet"
+    },
+    {
+      "detail": "Seal deep with a wide base, catch with two hands, and score with the drop step, jump hook, and up-and-under. Keep the ball high and make your move in two dribbles or fewer.",
+      "title": "Score in the post"
+    },
+    {
+      "detail": "Sprint rim-to-rim in transition — the first big down the floor gets dunks and deep seals. In the half court, set hard screens and roll with purpose.",
+      "title": "Run and screen"
+    },
+    {
+      "detail": "Modern centers must pass: hit cutters from the high post, find shooters when doubled, and make short-roll reads. Add a reliable jumper and, eventually, three-point range to pull defenders out.",
+      "title": "Pass and stretch"
+    },
+    {
+      "detail": "Call out screens ('screen left!'), direct rotations, and organize the defense. The center sees the whole floor — use that voice every possession.",
+      "title": "Talk and organize"
+    }
+  ],
+  "hub": "positions",
+  "id": "center-basketball",
+  "level": "intermediate",
+  "positions": [
+    "C"
+  ],
+  "readTime": 6,
+  "related": [
+    "basketball-positions",
+    "power-forward",
+    "defensive-principles",
+    "spacing-basics",
+    "fouls-explained"
+  ],
+  "slug": "center-basketball",
+  "subcategory": "positions",
+  "tags": [
+    "center",
+    "big man",
+    "rim protection",
+    "post"
+  ],
+  "title": "Center Development",
+  "whatIsIt": [
+    "The center — the '5' — is the team's anchor: protecting the rim, rebounding, scoring inside, setting screens, and organizing the defense. Traditionally the tallest player, the center lives near the basket on both ends.",
+    "The position has evolved dramatically. Modern centers still protect the rim and rebound, but many now shoot threes, handle the ball in the open floor, and pass like guards. The job description keeps expanding — which makes skilled bigs more valuable than ever."
+  ],
+  "whyItMatters": [
+    "Rim protection and rebounding are the two most reliable ways to control a game. A dominant center deters drives, ends opponent possessions, and creates second chances on offense. Even as the game spreads out, teams with a real anchor at the '5' defend the most valuable real estate on the court — the paint."
+  ],
+  "vi": {
+    "coachingPoints": [
+      "Dạy bước chân drop-step và jump hook trước mọi động tác post nâng cao",
+      "Đo khả năng bảo vệ rổ bằng số cú ném bị ảnh hưởng, không chỉ block — giữ chân trụ mới quan trọng",
+      "Xây dựng khả năng chuyền từ post và short roll; double team trừng phạt những big ích kỷ",
+      "Rèn thể lực để big chạy nước rút khắp sân — chạy rổ-này-sang-rổ-kia luôn thắng chạy bộ"
+    ],
+    "commonMistakes": [
+      "Hạ bóng xuống thấp nơi hậu vệ có thể gạt — hãy giữ bóng cao",
+      "Nhảy lên với mọi cú giả ném thay vì giữ chân trụ",
+      "Đứng lì trong khu vực hình thang khi tấn công quá ba giây",
+      "Dựng màn chắn hời hợt và slip trước khi tạo va chạm"
+    ],
+    "description": "Phát triển center: bảo vệ rổ, bắt bóng bật bảng, ghi điểm trong post, dựng màn chắn cùng khả năng chuyền và ném của big hiện đại.",
+    "gameSituations": [
+      "Drop coverage — giữ người cầm bóng trong khi bảo vệ rổ",
+      "Double team ở post — đọc sự hỗ trợ và chuyền ra cho tay ném trống",
+      "Bóng bật bảng tấn công — tip bóng hoặc dunk putback",
+      "Cuối trận — bảo vệ rổ mà không phạm lỗi trong pha bóng quyết định"
+    ],
+    "howTo": [
+      {
+        "detail": "Làm chủ khu vực hình thang khi phòng thủ: đứng giữa người kèm và rổ, contest cú ném thẳng đứng với tay duỗi lên, và giao tiếp mọi màn chắn, pha cắt. Center là quarterback của hàng thủ.",
+        "title": "Bảo vệ rổ"
+      },
+      {
+        "detail": "Box out có va chạm, tranh bóng bằng hai tay và ôm bóng ở ngang cằm. Rồi chuyền outlet ngay — một đường outlet nhanh, chuẩn mở ra đợt fast break.",
+        "title": "Bắt bóng bật bảng và outlet"
+      },
+      {
+        "detail": "Seal sâu với trụ rộng, bắt bóng bằng hai tay và ghi điểm bằng drop step, jump hook và up-and-under. Giữ bóng cao và ra đòn trong hai lần dẫn bóng hoặc ít hơn.",
+        "title": "Ghi điểm trong post"
+      },
+      {
+        "detail": "Chạy nước rút từ rổ này sang rổ kia trong chuyển trạng thái — big nào xuống sân trước sẽ có dunk và những pha seal sâu. Ở sân trước, dựng màn chắn chắc và lăn vào có mục đích.",
+        "title": "Chạy và dựng màn chắn"
+      },
+      {
+        "detail": "Center hiện đại phải biết chuyền: chuyền cho người cắt từ high post, tìm tay ném khi bị double, và đọc short roll. Thêm một cú jumper đáng tin cậy và dần dần là tầm ném ba điểm để kéo hậu vệ ra ngoài.",
+        "title": "Chuyền bóng và giãn sân"
+      },
+      {
+        "detail": "Hô màn chắn ('screen left!'), chỉ huy xoay chuyển và tổ chức hàng thủ. Center nhìn thấy cả sân — hãy dùng tiếng nói đó mỗi pha bóng.",
+        "title": "Nói và tổ chức"
+      }
+    ],
+    "tags": [
+      "trung phong",
+      "big man",
+      "bảo vệ rổ",
+      "post"
+    ],
+    "title": "Phát Triển Center",
+    "whatIsIt": [
+      "Center — số '5' — là trụ cột của đội: bảo vệ rổ, bắt bóng bật bảng, ghi điểm trong, dựng màn chắn và tổ chức hàng thủ. Theo truyền thống là cầu thủ cao nhất, center sống gần rổ ở cả hai đầu sân.",
+      "Vị trí này đã tiến hóa mạnh mẽ. Center hiện đại vẫn bảo vệ rổ và bắt bóng bật bảng, nhưng nhiều người giờ ném ba điểm, xử lý bóng ở sân thoáng và chuyền như hậu vệ. Bản mô tả công việc ngày càng mở rộng — khiến những big đa năng càng giá trị hơn bao giờ hết."
+    ],
+    "whyItMatters": [
+      "Bảo vệ rổ và bắt bóng bật bảng là hai cách đáng tin cậy nhất để kiểm soát trận đấu. Một center vượt trội ngăn các pha đột phá, kết thúc các đợt tấn công của đối thủ và tạo cơ hội thứ hai khi tấn công. Dù trận đấu ngày càng giãn ra, những đội có trụ cột thật sự ở vị trí '5' vẫn phòng thủ được khu đất giá trị nhất trên sân — khu vực hình thang."
+    ]
+  }
+}

@@ -131,5 +131,61 @@
     "pin-down-screen",
     "iverson-cut"
   ],
-  "dateUpdated": "2026-10-06"
+  "dateUpdated": "2026-10-06",
+  "vi": {
+    "title": "Elevator Doors",
+    "description": "Hai người chắn khép lại như cửa thang máy trên hậu vệ của tay ném — pha chắn bóng ngoạn mục nhất trong bóng rổ.",
+    "whatIsIt": [
+      "Elevator doors là một pha chạy chỗ cho tay ném: tay ném chạy xuyên qua khe hở giữa hai người chắn, sau đó họ bước khép lại — đóng lại như cửa thang máy — nhốt hậu vệ đeo bám ở phía sau. Tay ném thoát ra một mình ở đỉnh vòng cung cho một cú ném ba hoàn toàn trống trải.",
+      "Đây là pha chắn bóng mãn nhãn nhất trong bóng rổ, và cũng là một trong những pha hiệu quả nhất. Hậu vệ theo kèm theo nghĩa đen không thể bám theo; cánh cửa đã đóng sập họ ra khỏi tình huống.",
+      "Pha này thường được chạy cho một tay ném cừ khôi từ baseline lên đỉnh vòng cung. Thời điểm là tất cả — cánh cửa phải đóng lại đúng lúc tay ném vừa lướt qua."
+    ],
+    "whyItMatters": [
+      "Elevator doors tạo ra cú ném sạch nhất trong bóng rổ: một cú ném ba đứng yên, hoàn toàn trống trải cho tay ném hay nhất của bạn. Hàng thủ biết nó sắp đến mà vẫn không chặn được khi thời điểm chuẩn xác — về mặt hình học, nó đơn giản là bất công."
+    ],
+    "howTo": [
+      {
+        "title": "Dựng hai người chắn cách nhau",
+        "detail": "Hai big đứng cách nhau vài bước chân ở vị trí elbow hoặc đỉnh vòng cung, chừa một khe hở — 'giếng thang máy' — để tay ném chạy xuyên qua."
+      },
+      {
+        "title": "Tay ném bứt tốc xuyên qua khe",
+        "detail": "Từ baseline chạy hết tốc độ, thẳng qua giữa hai người chắn. Đừng lệch sang bên nào."
+      },
+      {
+        "title": "Đóng cửa đúng thời điểm",
+        "detail": "Ngay khi tay ném vừa lướt qua, cả hai người chắn bước khép lại và bịt kín. Thời điểm phải chính xác tuyệt đối — đóng sớm sẽ chắn luôn tay ném của mình, đóng muộn sẽ để hậu vệ lọt qua."
+      },
+      {
+        "title": "Giữ đúng luật",
+        "detail": "Người chắn phải đứng vững khi va chạm xảy ra. Đóng cửa bằng cách di chuyển vào người hậu vệ là lỗi tấn công — việc bịt kín phải dựa vào vị trí, không phải xô đẩy."
+      },
+      {
+        "title": "Nhận bóng và ném sạch",
+        "detail": "Tay ném nhận bóng ở đỉnh vòng cung với khoảng trống mênh mông. Chân đã đặt sẵn, không vội vàng — đây là cú ném mà cả pha bóng được xây dựng để tạo ra."
+      }
+    ],
+    "coachingPoints": [
+      "Tập đi tập lại — cửa sổ thời gian rất hẹp và chỉ đến từ luyện tập.",
+      "Nhấn mạnh tính đúng luật: trọng tài theo dõi kỹ pha này, và cửa di chuyển sẽ bị thổi phạt.",
+      "Người chuyền phải chuyền đúng lúc; tay ném không bao giờ được chờ bóng.",
+      "Chuẩn bị phương án đối phó: nếu hàng thủ đổi người ở cửa, cho một người chắn cắt nhanh vào rổ."
+    ],
+    "commonMistakes": [
+      "Đóng cửa quá sớm và chắn luôn tay ném của mình.",
+      "Di chuyển vào người hậu vệ khi đóng cửa — một lỗi tấn công dễ bị thổi.",
+      "Tay ném chạy lệch giữa, để hậu vệ chen qua."
+    ],
+    "gameSituations": [
+      "Các pha ATO cho tay ném cừ khôi khi bạn tuyệt đối cần một cú ném ba.",
+      "Cuối hiệp hoặc cuối trận khi hàng thủ đã vào vị trí.",
+      "Sau khi hàng thủ đã bắt bài các pha pin down và stagger — đòn đổi nhịp tối thượng."
+    ],
+    "tags": [
+      "elevator doors",
+      "chắn bóng",
+      "tay ném",
+      "bài đánh"
+    ]
+  }
 }

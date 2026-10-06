@@ -1,1 +1,136 @@
-{"ages":["U10","U12","U14","U16","U18","Adult"],"coachingPoints":["The move is won by the shoulder, not the ball — sell the fake direction with your upper body.","Keep the bounce low: the ball should cross at shin height, never waist height.","One sharp move beats three lazy ones. A crossover should take less than one second.","Eyes up the whole time — watch the defender's chest and hips to read which way he bites.","Plant the outside foot and explode; the burst after the cross matters more than the cross itself."],"commonMistakes":["Bouncing the ball too wide and high across the body — fix: aim the cross at the inside of your opposite foot, low and tight.","Carrying the ball (palm under it) on the cross — fix: keep fingertips on top of the ball through the switch.","Faking only with the ball, not the body — fix: drop the shoulder and shift your weight toward the fake direction first.","Crossing back into the defender — fix: after the switch, take one hard dribble away from the defender, not toward him."],"dateUpdated":"2026-10-06","description":"Switch the ball from one hand to the other in front of your body to beat a defender — the most famous move in basketball.","gameSituations":["Beating a single defender in isolation — a sharp crossover freezes the on-ball defender and opens a driving lane.","Creating space for a pull-up — cross to move the defender, then stop and rise for the jumper before he recovers.","Attacking on the fast break — one crossover can be enough to get past the last defender between you and the basket."],"howTo":[{"detail":"Dribble toward the defender on your right side with your body low. Let him think he has an angle on you — the trap is set by your posture.","title":"Approach with the ball on one side"},{"detail":"Drop your shoulder, shift your weight, and glance toward the hand the ball is in. The defender must believe you are going that way.","title":"Sell the fake with your shoulder"},{"detail":"In one quick motion, snap the ball low across your body to the other hand. The bounce should land just inside your opposite foot, below the knees.","title":"Snap the ball low across your body"},{"detail":"At the same moment the ball crosses, plant your outside foot and push off hard. Your first step with the new hand must cover ground.","title":"Explode out of the switch"},{"detail":"Take one or two hard, low dribbles away from the defender to finish separating. Never end the move dribbling in place.","title":"Attack the space you created"}],"hub":"skills","id":"crossover","level":"beginner","positions":["ALL"],"readTime":5,"related":["between-the-legs","hesitation","change-of-pace","pull-up-jumper"],"slug":"crossover","subcategory":"ball-handling","tags":["dribbling","moves","ball handling"],"title":"Crossover Dribble","whatIsIt":["The crossover is a ball-handling move where you bounce the ball from one hand to the other across the front of your body, usually low and fast. The purpose is simple: fake one direction, then explode the other way while the defender is leaning the wrong way.","It is the most recognizable move in basketball — and the most overused. A good crossover is not about style; it is about timing. One well-timed cross beats a defender; five flashy ones just give the defense time to recover."],"whyItMatters":["Almost every drive starts with a change of direction, and the crossover is the fastest way to do it. Players who own a reliable crossover can create their own shot anywhere on the floor, break down defenders in isolation, and collapse defenses that force help — which creates open looks for teammates."]}
+{
+  "ages": [
+    "U10",
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "coachingPoints": [
+    "The move is won by the shoulder, not the ball — sell the fake direction with your upper body.",
+    "Keep the bounce low: the ball should cross at shin height, never waist height.",
+    "One sharp move beats three lazy ones. A crossover should take less than one second.",
+    "Eyes up the whole time — watch the defender's chest and hips to read which way he bites.",
+    "Plant the outside foot and explode; the burst after the cross matters more than the cross itself."
+  ],
+  "commonMistakes": [
+    "Bouncing the ball too wide and high across the body — fix: aim the cross at the inside of your opposite foot, low and tight.",
+    "Carrying the ball (palm under it) on the cross — fix: keep fingertips on top of the ball through the switch.",
+    "Faking only with the ball, not the body — fix: drop the shoulder and shift your weight toward the fake direction first.",
+    "Crossing back into the defender — fix: after the switch, take one hard dribble away from the defender, not toward him."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "Switch the ball from one hand to the other in front of your body to beat a defender — the most famous move in basketball.",
+  "gameSituations": [
+    "Beating a single defender in isolation — a sharp crossover freezes the on-ball defender and opens a driving lane.",
+    "Creating space for a pull-up — cross to move the defender, then stop and rise for the jumper before he recovers.",
+    "Attacking on the fast break — one crossover can be enough to get past the last defender between you and the basket."
+  ],
+  "howTo": [
+    {
+      "detail": "Dribble toward the defender on your right side with your body low. Let him think he has an angle on you — the trap is set by your posture.",
+      "title": "Approach with the ball on one side"
+    },
+    {
+      "detail": "Drop your shoulder, shift your weight, and glance toward the hand the ball is in. The defender must believe you are going that way.",
+      "title": "Sell the fake with your shoulder"
+    },
+    {
+      "detail": "In one quick motion, snap the ball low across your body to the other hand. The bounce should land just inside your opposite foot, below the knees.",
+      "title": "Snap the ball low across your body"
+    },
+    {
+      "detail": "At the same moment the ball crosses, plant your outside foot and push off hard. Your first step with the new hand must cover ground.",
+      "title": "Explode out of the switch"
+    },
+    {
+      "detail": "Take one or two hard, low dribbles away from the defender to finish separating. Never end the move dribbling in place.",
+      "title": "Attack the space you created"
+    }
+  ],
+  "hub": "skills",
+  "id": "crossover",
+  "level": "beginner",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 5,
+  "related": [
+    "between-the-legs",
+    "hesitation",
+    "change-of-pace",
+    "pull-up-jumper"
+  ],
+  "slug": "crossover",
+  "subcategory": "ball-handling",
+  "tags": [
+    "dribbling",
+    "moves",
+    "ball handling"
+  ],
+  "title": "Crossover Dribble",
+  "whatIsIt": [
+    "The crossover is a ball-handling move where you bounce the ball from one hand to the other across the front of your body, usually low and fast. The purpose is simple: fake one direction, then explode the other way while the defender is leaning the wrong way.",
+    "It is the most recognizable move in basketball — and the most overused. A good crossover is not about style; it is about timing. One well-timed cross beats a defender; five flashy ones just give the defense time to recover."
+  ],
+  "whyItMatters": [
+    "Almost every drive starts with a change of direction, and the crossover is the fastest way to do it. Players who own a reliable crossover can create their own shot anywhere on the floor, break down defenders in isolation, and collapse defenses that force help — which creates open looks for teammates."
+  ],
+  "vi": {
+    "coachingPoints": [
+      "Động tác thắng bằng vai, không phải bằng bóng — hãy bán hướng giả bằng thân trên",
+      "Giữ bóng nảy thấp: bóng nên đi ngang ở tầm ống chân, không bao giờ ngang thắt lưng",
+      "Một động tác sắc bén thắng ba động tác hời hợt. Một pha crossover nên mất chưa tới một giây",
+      "Mắt ngẩng lên suốt thời gian — quan sát ngực và hông hậu vệ để đọc xem anh ta cắn câu hướng nào",
+      "Đặt chân ngoài và bùng nổ; cú bứt sau pha đổi bóng quan trọng hơn chính pha đổi bóng"
+    ],
+    "commonMistakes": [
+      "Đập bóng quá rộng và quá cao ngang người — cách sửa: nhắm pha đổi bóng vào phía trong chân đối diện, thấp và gọn",
+      "Vác bóng (lòng bàn tay ở dưới bóng) khi đổi — cách sửa: giữ đầu ngón tay trên bóng suốt pha đổi",
+      "Chỉ giả bằng bóng, không giả bằng cơ thể — cách sửa: hạ vai và dồn trọng lượng về hướng giả trước",
+      "Đổi bóng trở lại vào người hậu vệ — cách sửa: sau khi đổi, dẫn một cú mạnh ra xa hậu vệ, không phải về phía anh ta"
+    ],
+    "description": "Đổi bóng từ tay này sang tay kia phía trước cơ thể để vượt hậu vệ — động tác nổi tiếng nhất trong bóng rổ.",
+    "gameSituations": [
+      "Vượt một hậu vệ trong isolation — một pha crossover sắc bén đóng băng hậu vệ kèm bóng và mở đường đột phá",
+      "Tạo khoảng trống cho pull-up — đổi bóng để di chuyển hậu vệ, rồi dừng lại vươn lên ném jumper trước khi anh ta kịp lui về",
+      "Tấn công trong phản công nhanh — một pha crossover có thể đủ để vượt qua hậu vệ cuối cùng giữa bạn và chiếc rổ"
+    ],
+    "howTo": [
+      {
+        "detail": "Dẫn bóng về phía hậu vệ ở phía tay phải, người thấp. Để anh ta tưởng mình đang có góc — cái bẫy được giăng bằng tư thế của bạn.",
+        "title": "Tiếp cận với bóng ở một bên"
+      },
+      {
+        "detail": "Hạ vai, dồn trọng lượng và liếc về phía tay đang cầm bóng. Hậu vệ phải tin rằng bạn sẽ đi hướng đó.",
+        "title": "Bán cú giả bằng vai"
+      },
+      {
+        "detail": "Trong một chuyển động nhanh, gạt bóng thấp ngang qua người sang tay kia. Điểm nảy nên rơi ngay phía trong chân đối diện, dưới đầu gối.",
+        "title": "Gạt bóng thấp ngang người"
+      },
+      {
+        "detail": "Đúng lúc bóng đổi tay, đặt chân ngoài và đạp đà mạnh. Bước đầu tiên với tay mới phải ăn đất.",
+        "title": "Bùng nổ khỏi pha đổi bóng"
+      },
+      {
+        "detail": "Dẫn một hai cú mạnh, thấp ra xa hậu vệ để hoàn tất việc tách ra. Đừng bao giờ kết thúc động tác bằng cách dẫn bóng tại chỗ.",
+        "title": "Tấn công vào khoảng trống vừa tạo"
+      }
+    ],
+    "tags": [
+      "dẫn bóng",
+      "động tác",
+      "xử lý bóng"
+    ],
+    "title": "Động Tác Crossover",
+    "whatIsIt": [
+      "Crossover là động tác dẫn bóng mà bạn đập bóng từ tay này sang tay kia ngang qua phía trước cơ thể, thường thấp và nhanh. Mục đích rất đơn giản: giả một hướng, rồi bùng nổ hướng còn lại trong khi hậu vệ đang nghiêng sai hướng.",
+      "Đây là động tác dễ nhận biết nhất trong bóng rổ — và cũng là động tác bị lạm dụng nhất. Một pha crossover tốt không phải về phong cách; nó là về thời điểm. Một pha đổi bóng đúng lúc vượt qua hậu vệ; năm pha màu mè chỉ cho hàng thủ thời gian lui về."
+    ],
+    "whyItMatters": [
+      "Gần như mọi pha đột phá đều bắt đầu bằng đổi hướng, và crossover là cách nhanh nhất để làm điều đó. Cầu thủ sở hữu một pha crossover đáng tin cậy có thể tự tạo cú ném ở bất cứ đâu trên sân, đánh bại hậu vệ trong isolation, và làm sụp đổ những hàng thủ buộc phải hỗ trợ — từ đó tạo ra những cú ném trống cho đồng đội."
+    ]
+  }
+}

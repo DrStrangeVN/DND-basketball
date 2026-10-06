@@ -1,1 +1,135 @@
-{"ages":["U12","U14","U16","U18","Adult"],"coachingPoints":["Own 2–3 midrange spots before expanding — mastery beats range.","The midrange is a read, not a plan: take what the defense gives, never force it.","Shoot it the same way every time: identical mechanics to your three, just closer.","Practice off the dribble AND off the catch — game midrange comes both ways.","Track your percentage from your spots; elite midrange is 45%+ and worth building an offense around."],"commonMistakes":["Falling in love with contested midrange — fix: the shot is for open or lightly contested looks, not hero ball.","Shooting it flat — fix: arc matters more at midrange; aim for the back of the rim.","Skipping it entirely because of analytics — fix: the midrange punishes drop coverage and late clocks; it has a role.","Different form than your three — fix: one shooting motion at every distance; only the leg power changes."],"dateUpdated":"2026-10-06","description":"Own the in-between game: pull-ups, floaters' range, and elbow jumpers that punish sagging defenses.","gameSituations":["Attacking drop coverage — the big sags, the midrange is wide open, and it is the highest-percentage answer.","Late-clock bailouts — when the play breaks down, a reliable midrange pull-up is the safest creation.","Playoff-style half-court offense — when threes are contested and the rim is walled off, the midrange keeps the offense alive."],"howTo":[{"detail":"Pick 2–3 reliable spots: the elbows, the free-throw line extended, and the short corners of the paint. These are the classic high-percentage zones.","title":"Choose your spots"},{"detail":"Get there off the dribble (pull-up), off the catch (shot prep), or off a screen. Vary the entry so the defense cannot predict it.","title":"Arrive multiple ways"},{"detail":"Stop balanced — 1-2 or hop — with your shoulders square. Midrange misses almost always come from the feet, not the hands.","title":"Stop on balance"},{"detail":"Rise straight up with your normal mechanics. At this distance, a soft touch and good arc beat raw power.","title":"Shoot with soft arc"},{"detail":"Hold the follow-through and watch the flight. Midrange is a feel shot; the feedback of watching helps you calibrate.","title":"Hold and read the result"}],"hub":"skills","id":"midrange-shooting","level":"intermediate","positions":["ALL"],"readTime":5,"related":["pull-up-jumper","one-dribble-pull-up","free-throw","three-point-shooting"],"slug":"midrange-shooting","subcategory":"shooting","tags":["shooting","scoring","offense"],"title":"Midrange Shooting","whatIsIt":["Midrange shooting covers every jumper taken inside the three-point line but outside the paint — the elbows, the free-throw line area, and the short pull-ups off the dribble. It is the oldest scoring zone in basketball and, despite modern analytics, still one of the most valuable skills a player can own.","The midrange is where defenses concede space. Drop coverages sag there, late clocks die there, and playoff defenses live there. A player who can reliably score from 12–18 feet always has an answer."],"whyItMatters":["Basketball keeps rediscovering the midrange: every defensive scheme that takes away the rim and the three leaves it open by design. The game's best scorers — at every level — own a midrange game because it is the one shot no defense can fully remove. For developing players, it is also the most transferable shooting skill: the mechanics are identical to the three, just with less leg drive."]}
+{
+  "ages": [
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "coachingPoints": [
+    "Own 2–3 midrange spots before expanding — mastery beats range.",
+    "The midrange is a read, not a plan: take what the defense gives, never force it.",
+    "Shoot it the same way every time: identical mechanics to your three, just closer.",
+    "Practice off the dribble AND off the catch — game midrange comes both ways.",
+    "Track your percentage from your spots; elite midrange is 45%+ and worth building an offense around."
+  ],
+  "commonMistakes": [
+    "Falling in love with contested midrange — fix: the shot is for open or lightly contested looks, not hero ball.",
+    "Shooting it flat — fix: arc matters more at midrange; aim for the back of the rim.",
+    "Skipping it entirely because of analytics — fix: the midrange punishes drop coverage and late clocks; it has a role.",
+    "Different form than your three — fix: one shooting motion at every distance; only the leg power changes."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "Own the in-between game: pull-ups, floaters' range, and elbow jumpers that punish sagging defenses.",
+  "gameSituations": [
+    "Attacking drop coverage — the big sags, the midrange is wide open, and it is the highest-percentage answer.",
+    "Late-clock bailouts — when the play breaks down, a reliable midrange pull-up is the safest creation.",
+    "Playoff-style half-court offense — when threes are contested and the rim is walled off, the midrange keeps the offense alive."
+  ],
+  "howTo": [
+    {
+      "detail": "Pick 2–3 reliable spots: the elbows, the free-throw line extended, and the short corners of the paint. These are the classic high-percentage zones.",
+      "title": "Choose your spots"
+    },
+    {
+      "detail": "Get there off the dribble (pull-up), off the catch (shot prep), or off a screen. Vary the entry so the defense cannot predict it.",
+      "title": "Arrive multiple ways"
+    },
+    {
+      "detail": "Stop balanced — 1-2 or hop — with your shoulders square. Midrange misses almost always come from the feet, not the hands.",
+      "title": "Stop on balance"
+    },
+    {
+      "detail": "Rise straight up with your normal mechanics. At this distance, a soft touch and good arc beat raw power.",
+      "title": "Shoot with soft arc"
+    },
+    {
+      "detail": "Hold the follow-through and watch the flight. Midrange is a feel shot; the feedback of watching helps you calibrate.",
+      "title": "Hold and read the result"
+    }
+  ],
+  "hub": "skills",
+  "id": "midrange-shooting",
+  "level": "intermediate",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 5,
+  "related": [
+    "pull-up-jumper",
+    "one-dribble-pull-up",
+    "free-throw",
+    "three-point-shooting"
+  ],
+  "slug": "midrange-shooting",
+  "subcategory": "shooting",
+  "tags": [
+    "shooting",
+    "scoring",
+    "offense"
+  ],
+  "title": "Midrange Shooting",
+  "whatIsIt": [
+    "Midrange shooting covers every jumper taken inside the three-point line but outside the paint — the elbows, the free-throw line area, and the short pull-ups off the dribble. It is the oldest scoring zone in basketball and, despite modern analytics, still one of the most valuable skills a player can own.",
+    "The midrange is where defenses concede space. Drop coverages sag there, late clocks die there, and playoff defenses live there. A player who can reliably score from 12–18 feet always has an answer."
+  ],
+  "whyItMatters": [
+    "Basketball keeps rediscovering the midrange: every defensive scheme that takes away the rim and the three leaves it open by design. The game's best scorers — at every level — own a midrange game because it is the one shot no defense can fully remove. For developing players, it is also the most transferable shooting skill: the mechanics are identical to the three, just with less leg drive."
+  ],
+  "vi": {
+    "title": "Ném Tầm Trung (Midrange)",
+    "description": "Làm chủ vùng ném 'lỡ cỡ': các cú pull-up, tầm ném floater và cú ném ở elbow — trừng phạt những hàng thủ lùi sâu.",
+    "whatIsIt": [
+      "Ném tầm trung bao gồm mọi cú ném trong vạch ba điểm nhưng ngoài khu vực paint — vùng elbow, khu vực quanh đường ném phạt, và các cú pull-up ngắn sau dẫn bóng. Đây là vùng ghi điểm lâu đời nhất của bóng rổ và, bất chấp các phân tích hiện đại, vẫn là một trong những kỹ năng giá trị nhất mà cầu thủ có thể sở hữu.",
+      "Tầm trung là nơi hàng thủ nhường khoảng trống. Các chiến thuật drop coverage lùi sâu ở đó, những giây cuối đồng hồ chết ở đó, và hàng thủ playoff sống ở đó. Cầu thủ nào ghi điểm ổn định từ khoảng 3,5–5,5 mét (12–18 feet) luôn có câu trả lời."
+    ],
+    "whyItMatters": [
+      "Bóng rổ cứ liên tục tái khám phá tầm trung: mọi sơ đồ phòng thủ khóa rổ và vạch ba điểm đều vô tình để hở nó. Những tay ghi điểm hay nhất — ở mọi cấp độ — đều sở hữu lối chơi tầm trung vì đó là cú ném mà không hàng thủ nào có thể khóa hoàn toàn. Với cầu thủ đang phát triển, đây cũng là kỹ năng ném dễ chuyển đổi nhất: kỹ thuật giống hệt cú ném ba, chỉ khác lực chân ít hơn."
+    ],
+    "howTo": [
+      {
+        "title": "Chọn điểm ném của bạn",
+        "detail": "Chọn 2–3 điểm đáng tin cậy: hai bên elbow, đường kéo dài của vạch ném phạt, và hai góc ngắn của paint. Đây là những vùng có tỷ lệ thành công cao kinh điển."
+      },
+      {
+        "title": "Đến đó bằng nhiều cách",
+        "detail": "Đến điểm ném bằng dẫn bóng (pull-up), bằng nhận bóng (chuẩn bị ném), hoặc qua screen. Đa dạng cách tiếp cận để hàng thủ không đoán được."
+      },
+      {
+        "title": "Dừng lại trong cân bằng",
+        "detail": "Dừng cân bằng — kiểu 1-2 hoặc nhảy dừng — với vai vuông góc. Các cú ném tầm trung hỏng gần như luôn đến từ bàn chân, không phải từ tay."
+      },
+      {
+        "title": "Ném với độ cong mềm",
+        "detail": "Bật thẳng lên với kỹ thuật bình thường của bạn. Ở khoảng cách này, chạm bóng mềm và độ cong tốt thắng sức mạnh thô."
+      },
+      {
+        "title": "Giữ tay và đọc kết quả",
+        "detail": "Giữ tư thế follow-through và nhìn đường bay của bóng. Ném tầm trung là cú ném của cảm giác; việc quan sát giúp bạn hiệu chỉnh."
+      }
+    ],
+    "coachingPoints": [
+      "Làm chủ 2–3 điểm tầm trung trước khi mở rộng — tinh thông thắng phạm vi.",
+      "Tầm trung là một pha đọc tình huống, không phải kế hoạch: lấy những gì hàng thủ cho, đừng bao giờ cố ép.",
+      "Ném giống hệt nhau mỗi lần: kỹ thuật y như cú ném ba của bạn, chỉ gần hơn.",
+      "Tập cả ném sau dẫn bóng VÀ sau nhận bóng — ném tầm trung trong trận đến từ cả hai cách.",
+      "Theo dõi tỷ lệ ném từ các điểm của bạn; ném tầm trung đẳng cấp đạt 45%+ và xứng đáng để xây dựng lối chơi quanh nó."
+    ],
+    "commonMistakes": [
+      "Mê mẩn những cú ném tầm trung bị kèm chặt — cách sửa: cú ném này dành cho các pha trống trải hoặc bị kèm nhẹ, không phải bóng anh hùng.",
+      "Ném bóng bẹt — cách sửa: độ cong càng quan trọng ở tầm trung; hãy nhắm vào phía sau vành rổ.",
+      "Bỏ qua hẳn vì nghe theo phân tích số liệu — cách sửa: tầm trung trừng phạt drop coverage và những giây cuối đồng hồ; nó có vai trò của mình.",
+      "Tư thế ném khác với cú ném ba — cách sửa: một động tác ném duy nhất ở mọi khoảng cách; chỉ lực chân thay đổi."
+    ],
+    "gameSituations": [
+      "Tấn công drop coverage — big man lùi sâu, tầm trung hoàn toàn trống, và đó là đáp án có tỷ lệ cao nhất.",
+      "Cứu bóng cuối đồng hồ — khi bài tấn công vỡ, một cú pull-up tầm trung đáng tin cậy là cách tạo điểm an toàn nhất.",
+      "Lối đánh half-court kiểu playoff — khi các cú ba điểm bị kèm và đường vào rổ bị bịt kín, tầm trung giữ cho hàng công sống sót."
+    ],
+    "tags": [
+      "ném rổ",
+      "ghi điểm",
+      "tấn công"
+    ]
+  }
+}

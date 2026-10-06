@@ -1,1 +1,141 @@
-{"ages":["U12","U14","U16","U18","Adult","Competitive"],"coachingPoints":["Sprint back on every shot — the break starts before the rebound is secured","Stop the ball first: one defender must pick up the ball handler above the arc","Protect the paint: the next two back take the rim and the middle","Communicate matchups on the run — 'I got ball!' 'I got middle!'","Never foul in transition unless it's a clear take foul — and-ones lose games"],"commonMistakes":["Jogging back and complaining about the no-call — the break is already past you","Everyone chasing the ball — the rim sits empty behind you","Picking up the ball too deep — the ball handler is already at the rim","Fouling a breakaway layup — two points plus a free throw"],"dateUpdated":"2026-10-06","description":"Transition defense: sprint back, stop the ball, protect the paint, and match up before the offense attacks.","gameSituations":["After your team's missed shot — the most common transition defense moment","After a turnover, when the offense has numbers","Against a fast team that runs on every possession","Late game when one breakaway basket can decide it"],"howTo":[{"detail":"The moment a shot goes up — make or miss — the nearest two or three players sprint back. Don't watch the rebound; the break is already starting.","title":"Sprint back on the shot"},{"detail":"The first defender back picks up the ball handler, meeting him above the three-point line. Slowing the ball for even one second lets the rest of the defense recover.","title":"Stop the ball early"},{"detail":"The next defenders back sprint to the paint — not to a man, but to the rim. Protect the basket first, then sort out matchups.","title":"Protect the paint"},{"detail":"Once the ball is slowed and the rim is covered, defenders find the nearest offensive threat and match up. Talk through it: point, call names, get organized.","title":"Match up and communicate"},{"detail":"If the offense has numbers — 2-on-1, 3-on-2 — the defenders take away the most dangerous option: usually the ball, forcing a pass, then recovering. Make them make one more pass.","title":"Handle numbers disadvantages"}],"hub":"transition","id":"transition-defense","level":"intermediate","positions":["ALL"],"readTime":5,"related":["transition-offense","running-lanes","advance-pass","help-defense","full-court-press"],"slug":"transition-defense","subcategory":"transition","tags":["transition","defense","fast break","retreat"],"title":"Transition Defense","whatIsIt":["Transition defense is getting back and organized before the offense can score in the open court. It starts the instant a shot goes up or a turnover happens — not after the other team has the ball. The goals are simple and ordered: stop the ball, protect the paint, then match up.","Most transition baskets are not caused by great offense; they are caused by slow, silent defense. A team that sprints back with communication gives up contested shots. A team that jogs back gives up layups. The difference between the two is habit, drilled until it is automatic."],"whyItMatters":["Transition defense is where games are quietly won and lost. Every uncontested layup in transition is a two-point swing that took no offensive skill to create — just defensive laziness. Teams that defend the break well force opponents into the half court, where scoring is hard. It is also pure effort and discipline, which means any team can be great at it regardless of talent."]}
+{
+  "ages": [
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult",
+    "Competitive"
+  ],
+  "coachingPoints": [
+    "Sprint back on every shot — the break starts before the rebound is secured",
+    "Stop the ball first: one defender must pick up the ball handler above the arc",
+    "Protect the paint: the next two back take the rim and the middle",
+    "Communicate matchups on the run — 'I got ball!' 'I got middle!'",
+    "Never foul in transition unless it's a clear take foul — and-ones lose games"
+  ],
+  "commonMistakes": [
+    "Jogging back and complaining about the no-call — the break is already past you",
+    "Everyone chasing the ball — the rim sits empty behind you",
+    "Picking up the ball too deep — the ball handler is already at the rim",
+    "Fouling a breakaway layup — two points plus a free throw"
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "Transition defense: sprint back, stop the ball, protect the paint, and match up before the offense attacks.",
+  "gameSituations": [
+    "After your team's missed shot — the most common transition defense moment",
+    "After a turnover, when the offense has numbers",
+    "Against a fast team that runs on every possession",
+    "Late game when one breakaway basket can decide it"
+  ],
+  "howTo": [
+    {
+      "detail": "The moment a shot goes up — make or miss — the nearest two or three players sprint back. Don't watch the rebound; the break is already starting.",
+      "title": "Sprint back on the shot"
+    },
+    {
+      "detail": "The first defender back picks up the ball handler, meeting him above the three-point line. Slowing the ball for even one second lets the rest of the defense recover.",
+      "title": "Stop the ball early"
+    },
+    {
+      "detail": "The next defenders back sprint to the paint — not to a man, but to the rim. Protect the basket first, then sort out matchups.",
+      "title": "Protect the paint"
+    },
+    {
+      "detail": "Once the ball is slowed and the rim is covered, defenders find the nearest offensive threat and match up. Talk through it: point, call names, get organized.",
+      "title": "Match up and communicate"
+    },
+    {
+      "detail": "If the offense has numbers — 2-on-1, 3-on-2 — the defenders take away the most dangerous option: usually the ball, forcing a pass, then recovering. Make them make one more pass.",
+      "title": "Handle numbers disadvantages"
+    }
+  ],
+  "hub": "transition",
+  "id": "transition-defense",
+  "level": "intermediate",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 5,
+  "related": [
+    "transition-offense",
+    "running-lanes",
+    "advance-pass",
+    "help-defense",
+    "full-court-press"
+  ],
+  "slug": "transition-defense",
+  "subcategory": "transition",
+  "tags": [
+    "transition",
+    "defense",
+    "fast break",
+    "retreat"
+  ],
+  "title": "Transition Defense",
+  "whatIsIt": [
+    "Transition defense is getting back and organized before the offense can score in the open court. It starts the instant a shot goes up or a turnover happens — not after the other team has the ball. The goals are simple and ordered: stop the ball, protect the paint, then match up.",
+    "Most transition baskets are not caused by great offense; they are caused by slow, silent defense. A team that sprints back with communication gives up contested shots. A team that jogs back gives up layups. The difference between the two is habit, drilled until it is automatic."
+  ],
+  "whyItMatters": [
+    "Transition defense is where games are quietly won and lost. Every uncontested layup in transition is a two-point swing that took no offensive skill to create — just defensive laziness. Teams that defend the break well force opponents into the half court, where scoring is hard. It is also pure effort and discipline, which means any team can be great at it regardless of talent."
+  ],
+  "vi": {
+    "coachingPoints": [
+      "Chạy nước rút về sau mọi cú ném — đợt phản công bắt đầu trước khi bóng bật bảng được kiểm soát",
+      "Chặn bóng trước tiên: một hậu vệ phải kèm người dẫn bóng trên vòng cung",
+      "Bảo vệ khu vực cấm: hai người về tiếp theo giữ rổ và khu vực giữa",
+      "Giao tiếp người kèm khi đang chạy — 'Tôi kèm bóng!' 'Tôi giữ giữa!'",
+      "Đừng bao giờ phạm lỗi trong chuyển trạng thái trừ khi đó là lỗi chiến thuật rõ ràng — những pha and-one làm thua trận"
+    ],
+    "commonMistakes": [
+      "Chạy bộ về và phàn nàn về tiếng còi không vang lên — đợt phản công đã vượt qua bạn rồi",
+      "Mọi người đuổi theo bóng — cái rổ trống trơn sau lưng bạn",
+      "Kèm bóng quá sâu — người dẫn bóng đã tới rổ rồi",
+      "Phạm lỗi một pha layup phản công — hai điểm cộng thêm một quả ném phạt"
+    ],
+    "description": "Phòng thủ chuyển trạng thái: chạy nước rút về, chặn bóng, bảo vệ khu vực cấm, và tìm người kèm trước khi hàng công tấn công.",
+    "gameSituations": [
+      "Sau cú ném hỏng của đội bạn — tình huống phòng thủ chuyển trạng thái phổ biến nhất",
+      "Sau một pha mất bóng, khi hàng công đông người hơn",
+      "Khi đối đầu một đội nhanh chạy phản công mọi lượt bóng",
+      "Cuối trận khi một pha phản công có thể quyết định tất cả"
+    ],
+    "howTo": [
+      {
+        "detail": "Ngay khi một cú ném được thực hiện — vào hay hỏng — hai hoặc ba cầu thủ gần nhất chạy nước rút về. Đừng đứng xem bóng bật bảng; đợt phản công đã bắt đầu rồi.",
+        "title": "Chạy nước rút về ngay khi bóng lên"
+      },
+      {
+        "detail": "Hậu vệ về đầu tiên kèm người dẫn bóng, đón anh ta trên vạch ba điểm. Làm chậm bóng dù chỉ một giây cũng giúp phần còn lại của hàng thủ kịp hồi phục.",
+        "title": "Chặn bóng sớm"
+      },
+      {
+        "detail": "Những hậu vệ về tiếp theo chạy nước rút vào khu vực cấm — không phải tới một người, mà tới rổ. Bảo vệ rổ trước, rồi mới sắp xếp người kèm.",
+        "title": "Bảo vệ khu vực cấm"
+      },
+      {
+        "detail": "Một khi bóng đã bị làm chậm và rổ đã được bảo vệ, các hậu vệ tìm mối đe dọa tấn công gần nhất và kèm người. Hãy nói với nhau: chỉ tay, gọi tên, tổ chức đội hình.",
+        "title": "Tìm người kèm và giao tiếp"
+      },
+      {
+        "detail": "Nếu hàng công đông người hơn — 2-chọi-1, 3-chọi-2 — các hậu vệ lấy đi lựa chọn nguy hiểm nhất: thường là bóng, ép họ phải chuyền, rồi hồi phục. Hãy bắt họ phải chuyền thêm một lần nữa.",
+        "title": "Xử lý khi thiếu người"
+      }
+    ],
+    "tags": [
+      "chuyển trạng thái",
+      "phòng thủ",
+      "phản công nhanh",
+      "lùi về"
+    ],
+    "title": "Phòng thủ chuyển trạng thái",
+    "whatIsIt": [
+      "Phòng thủ chuyển trạng thái là việc lùi về và tổ chức đội hình trước khi hàng công ghi điểm ở sân trống. Nó bắt đầu ngay khi một cú ném được thực hiện hoặc một pha mất bóng xảy ra — không phải sau khi đội kia đã có bóng. Các mục tiêu đơn giản và có thứ tự: chặn bóng, bảo vệ khu vực cấm, rồi tìm người kèm.",
+      "Hầu hết các pha ghi điểm trong chuyển trạng thái không phải do hàng công hay; mà do hàng thủ chậm chạp, im lặng. Một đội chạy nước rút về kèm giao tiếp sẽ chỉ để đối phương ném những cú bị tranh chấp. Một đội chạy bộ về sẽ để mất những pha layup. Sự khác biệt giữa hai đội là thói quen, được tập đến khi thành bản năng."
+    ],
+    "whyItMatters": [
+      "Phòng thủ chuyển trạng thái là nơi các trận đấu được thắng thua một cách lặng lẽ. Mỗi pha layup không bị tranh chấp trong chuyển trạng thái là một cú xoay hai điểm mà không cần kỹ năng tấn công nào để tạo ra — chỉ cần sự lười biếng phòng thủ. Những đội phòng thủ phản công tốt ép đối phương vào đánh nửa sân, nơi ghi điểm rất khó. Nó cũng là nỗ lực và kỷ luật thuần túy, nghĩa là bất kỳ đội nào cũng có thể giỏi nó bất kể tài năng."
+    ]
+  }
+}

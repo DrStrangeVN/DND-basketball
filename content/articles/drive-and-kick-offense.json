@@ -124,5 +124,61 @@
     "cutting-basketball",
     "dho-action"
   ],
-  "dateUpdated": "2026-10-06"
+  "dateUpdated": "2026-10-06",
+  "vi": {
+    "coachingPoints": [
+      "Dạy tư duy giới hạn hai lần dẫn: vào khu vực hình thang trong hai lần dẫn hoặc chuyền đi",
+      "Người đột phá phải jump-stop hoặc stride-stop trong hình thang để giữ thăng bằng khi kick ra",
+      "Tay ném nên sẵn sàng ném trước khi bắt bóng — chân đã trụ, tay sẵn sàng",
+      "Thưởng cho đường chuyền thêm: cú kick đầu tiên thường tạo ra cú ném thứ hai tốt hơn"
+    ],
+    "commonMistakes": [
+      "Đột phá cúi đầu và bỏ lỡ đường kick-out đang trống",
+      "Kick ra quá muộn, sau khi hàng thủ đã xoay về",
+      "Đồng đội đứng yên nhìn pha đột phá thay vì di chuyển vào khoảng trống"
+    ],
+    "description": "Tấn công hình thang khi dẫn bóng để làm sụp đổ hàng thủ, rồi kick ra cho tay ném trống.",
+    "gameSituations": [
+      "Mọi đợt tấn công khi hậu vệ closeout dài hoặc bị vượt qua khi dẫn bóng",
+      "Trước hàng thủ zone — đột phá xuyên thủng zone nhanh hơn chuyền quanh nó",
+      "Cuối đồng hồ cần một cú nhìn sạch: đột phá, kéo hai người, kick ra"
+    ],
+    "howTo": [
+      {
+        "detail": "Các pha đột phá bắt đầu từ lợi thế — một pha closeout dài, một hậu vệ chậm hơn, một màn chắn. Đột phá có kế hoạch, đừng chỉ dẫn bóng vào đám đông.",
+        "title": "Tấn công closeout hoặc mismatch"
+      },
+      {
+        "detail": "Mục tiêu là chạm vào hình thang. Một khi hai chân đã vào trong, hàng thủ buộc phải hỗ trợ, và các đường kick-out mở ra.",
+        "title": "Đưa hai chân vào hình thang"
+      },
+      {
+        "detail": "Vượt qua người kèm, rồi ngẩng mắt lên. Đường chuyền đi đến điểm mà người hỗ trợ bỏ lại — thường là góc sân hoặc cánh sau pha đột phá.",
+        "title": "Đọc người hỗ trợ, không phải hậu vệ của mình"
+      },
+      {
+        "detail": "Ném đường kick-out mạnh và chuẩn, vào túi của tay ném. Một đường chuyền mềm hoặc muộn để hàng thủ kịp lui về.",
+        "title": "Kick ra có lực"
+      },
+      {
+        "detail": "Cầu thủ không bóng trượt vào các cửa sổ trống — góc sân nhấc lên, cánh trôi đi. Những đội drive-and-kick giỏi di chuyển không bóng nhiều như người đột phá di chuyển có bóng.",
+        "title": "Di chuyển lại khi pha đột phá diễn ra"
+      }
+    ],
+    "tags": [
+      "đột phá",
+      "kick-out",
+      "giãn đội hình",
+      "xuyên thủng"
+    ],
+    "title": "Tấn Công Drive & Kick",
+    "whatIsIt": [
+      "Drive and kick là khái niệm tấn công đơn giản và bùng nổ nhất trong bóng rổ: một cầu thủ vượt hậu vệ khi dẫn bóng, hàng thủ co cụm để hỗ trợ, và người đột phá kick bóng ra cho đồng đội đang trống.",
+      "Nó không cần những bài đánh phức tạp. Nó cần spacing, một cầu thủ có thể vào được hình thang, và đồng đội di chuyển lại vào các điểm trống khi pha đột phá phát triển.",
+      "Phân tích hiện đại yêu thích drive and kick vì nó tạo ra hai cú ném hiệu quả nhất trong bóng rổ — layup và ba điểm trống — trong cùng một đợt tấn công."
+    ],
+    "whyItMatters": [
+      "Mọi hàng thủ đều phải chọn giữa tặng layup hay tặng cú ba điểm trống. Drive and kick ép lựa chọn đó trong mọi đợt tấn công. Nó cũng phát triển kỹ năng hậu vệ giá trị nhất của bóng rổ hiện đại: chơi trong hình thang với mắt ngẩng lên."
+    ]
+  }
 }

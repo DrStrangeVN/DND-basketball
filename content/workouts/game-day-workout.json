@@ -21,5 +21,54 @@
     "End every shooting block on a make. Your last rep is what your brain remembers.",
     "Stay off your feet after the workout — save your legs for tip-off."
   ],
-  "dateUpdated": "2026-10-06"
+  "dateUpdated": "2026-10-06",
+  "vi":   {
+    "title": "Buổi Tập Ngày Thi Đấu",
+    "description": "Buổi tune-up nhẹ 20 phút ngày thi đấu: ném đúng nhịp, dứt điểm chạm nhẹ và ném phạt — mài cảm giác mà không làm mỏi chân.",
+    "focus": [
+      "Ném rổ",
+      "Dứt điểm"
+    ],
+    "equipment": [
+      "Bóng rổ"
+    ],
+    "items": [
+      {
+        "name": "Form shooting",
+        "detail": "Ném form một tay nhẹ nhàng gần rổ: vào 10 quả. Thả lỏng, tìm cảm giác.",
+        "time": "3:00"
+      },
+      {
+        "name": "Ném theo điểm",
+        "detail": "Các điểm midrange bạn sẽ ném tối nay: mỗi điểm vào 3 quả, footwork tốc độ trận đấu, không vội.",
+        "time": "5:00"
+      },
+      {
+        "name": "3 điểm đúng vị trí",
+        "detail": "Chỉ ném 3 điểm từ những vị trí thật trong trận của bạn: mỗi điểm vào 2 quả. Nhìn bóng đi qua lưới.",
+        "time": "4:00"
+      },
+      {
+        "name": "Dứt điểm chạm nhẹ",
+        "detail": "Layup nhẹ cả hai tay, vài cú floater — không va chạm, không bật tối đa. Chỉ cảm giác.",
+        "time": "3:00"
+      },
+      {
+        "name": "Ném phạt",
+        "detail": "10 quả phạt với đúng nghi thức thi đấu của bạn. Kết thúc bằng một cú swish.",
+        "time": "3:00"
+      },
+      {
+        "name": "Hình dung",
+        "detail": "Đứng ở giữa sân, nhắm mắt và hình dung 3 tình huống thành công trong trận tối nay.",
+        "time": "2:00"
+      }
+    ],
+    "tips": [
+      "Ngày thi đấu là về sự tự tin, không phải thể lực — nếu chân nặng, bạn đã tập quá nhiều.",
+      "Chỉ ném từ những điểm bạn thực sự sẽ có trong trận tối nay.",
+      "Kết thúc mọi khối ném bằng một lần vào. Lượt cuối là thứ não bạn nhớ.",
+      "Hạn chế đứng sau buổi tập — giữ chân cho giờ khai cuộc."
+    ]
+  }
 }

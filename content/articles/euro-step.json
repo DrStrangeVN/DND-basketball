@@ -1,1 +1,176 @@
-{"ages":["U12","U14","U16","U18","Adult","Competitive"],"coachingPoints":["The first step must genuinely sell a direction — half-hearted steps don't move defenders.","Keep the ball high and tight during the lateral push; low dribbles get stripped mid-move.","Land on the second step with balance — many players over-jump and lose control.","Read the defender's hips: euro away from the direction their hips are turned.","It works best when the defender is slightly ahead of you, not already beside you."],"commonMistakes":["Traveling — adding a third step or a hop between the two steps. Film your reps and count.","Not selling step one — defenders ignore a weak fake and stay with the real direction.","Finishing too flat after the lateral move — rise up and use the board; don't scoop sideways.","Using it against a set, stationary defender — the euro beats moving defenders; a set defender just slides with you."],"dateUpdated":"2026-10-06","description":"The two-step directional change that sidesteps a defender at the rim — legal, deceptive, and devastating when timed right.","diagram":{"ball":"O2","defense":[{"label":"X1","x":52,"y":30}],"moves":[{"from":"O1","kind":"dribble","to":"O2"}],"offense":[{"label":"O1","x":44,"y":42},{"label":"O2","x":31,"y":24}],"passes":[],"screens":[],"shots":[{"from":"O2"}],"title":"Euro step: step one sells left, step two finishes right"},"gameSituations":["One-on-one drives when a help defender steps into the lane — euro around their contest.","Transition finishes against a single retreating defender.","Against shot blockers who commit early — sidestep the block and finish on the other side."],"howTo":[{"detail":"Drive toward the basket at about 80% speed. The euro needs deceleration room — going full speed leaves no lateral push for step two.","title":"Attack at a controlled speed"},{"detail":"Pick up the ball and plant your first step wide, in the direction opposite to where you intend to finish. If the defender is on your right, step left. Sell this step with your shoulders and eyes.","title":"Gather on step one (away from the defender)"},{"detail":"From the planted foot, explode sideways — not forward — to the second step. This long lateral stride is the move's engine; the wider the push, the more separation you create.","title":"Push off laterally to step two"},{"detail":"Rise off the second step and extend the shooting arm to the rim, using the board as needed. Keep the ball high and away from the recovering defender's reach.","title":"Extend and finish"},{"detail":"Count it: gather, step one, step two, up. Any extra hop or stutter is a travel. Practice the rhythm slowly until the two-step count is automatic.","title":"Stay within two steps"}],"hub":"skills","id":"euro-step","level":"intermediate","positions":["ALL"],"readTime":6,"related":["basic-layup","pro-hop","contact-finishing","jump-stop","stride-stop"],"slug":"euro-step","subcategory":"finishing","tags":["finishing","footwork","drive","layup"],"title":"Euro Step","whatIsIt":["The euro step is a two-step finish where the driver plants the first step in one direction, then pushes off laterally with the second step to evade a defender at the rim. Popularized in European basketball and mastered by NBA guards, it is a legal change of direction within the standard two-step gather rule.","Unlike a crossover, the move happens without the ball changing hands — the footwork does the deceiving. The defender commits to your first step, and by the time you push to the second step, they're guarding empty space."],"whyItMatters":["Help defenders arrive at the rim expecting a straight-line finish. The euro step makes their timing useless: they jump at step one and you're already gone at step two. It's one of the most efficient ways to create an uncontested layup against an on-time rotation."]}
+{
+  "ages": [
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult",
+    "Competitive"
+  ],
+  "coachingPoints": [
+    "The first step must genuinely sell a direction — half-hearted steps don't move defenders.",
+    "Keep the ball high and tight during the lateral push; low dribbles get stripped mid-move.",
+    "Land on the second step with balance — many players over-jump and lose control.",
+    "Read the defender's hips: euro away from the direction their hips are turned.",
+    "It works best when the defender is slightly ahead of you, not already beside you."
+  ],
+  "commonMistakes": [
+    "Traveling — adding a third step or a hop between the two steps. Film your reps and count.",
+    "Not selling step one — defenders ignore a weak fake and stay with the real direction.",
+    "Finishing too flat after the lateral move — rise up and use the board; don't scoop sideways.",
+    "Using it against a set, stationary defender — the euro beats moving defenders; a set defender just slides with you."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "The two-step directional change that sidesteps a defender at the rim — legal, deceptive, and devastating when timed right.",
+  "diagram": {
+    "ball": "O2",
+    "defense": [
+      {
+        "label": "X1",
+        "x": 52,
+        "y": 30
+      }
+    ],
+    "moves": [
+      {
+        "from": "O1",
+        "kind": "dribble",
+        "to": "O2"
+      }
+    ],
+    "offense": [
+      {
+        "label": "O1",
+        "x": 44,
+        "y": 42
+      },
+      {
+        "label": "O2",
+        "x": 31,
+        "y": 24
+      }
+    ],
+    "passes": [],
+    "screens": [],
+    "shots": [
+      {
+        "from": "O2"
+      }
+    ],
+    "title": "Euro step: step one sells left, step two finishes right"
+  },
+  "gameSituations": [
+    "One-on-one drives when a help defender steps into the lane — euro around their contest.",
+    "Transition finishes against a single retreating defender.",
+    "Against shot blockers who commit early — sidestep the block and finish on the other side."
+  ],
+  "howTo": [
+    {
+      "detail": "Drive toward the basket at about 80% speed. The euro needs deceleration room — going full speed leaves no lateral push for step two.",
+      "title": "Attack at a controlled speed"
+    },
+    {
+      "detail": "Pick up the ball and plant your first step wide, in the direction opposite to where you intend to finish. If the defender is on your right, step left. Sell this step with your shoulders and eyes.",
+      "title": "Gather on step one (away from the defender)"
+    },
+    {
+      "detail": "From the planted foot, explode sideways — not forward — to the second step. This long lateral stride is the move's engine; the wider the push, the more separation you create.",
+      "title": "Push off laterally to step two"
+    },
+    {
+      "detail": "Rise off the second step and extend the shooting arm to the rim, using the board as needed. Keep the ball high and away from the recovering defender's reach.",
+      "title": "Extend and finish"
+    },
+    {
+      "detail": "Count it: gather, step one, step two, up. Any extra hop or stutter is a travel. Practice the rhythm slowly until the two-step count is automatic.",
+      "title": "Stay within two steps"
+    }
+  ],
+  "hub": "skills",
+  "id": "euro-step",
+  "level": "intermediate",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 6,
+  "related": [
+    "basic-layup",
+    "pro-hop",
+    "contact-finishing",
+    "jump-stop",
+    "stride-stop"
+  ],
+  "slug": "euro-step",
+  "subcategory": "finishing",
+  "tags": [
+    "finishing",
+    "footwork",
+    "drive",
+    "layup"
+  ],
+  "title": "Euro Step",
+  "whatIsIt": [
+    "The euro step is a two-step finish where the driver plants the first step in one direction, then pushes off laterally with the second step to evade a defender at the rim. Popularized in European basketball and mastered by NBA guards, it is a legal change of direction within the standard two-step gather rule.",
+    "Unlike a crossover, the move happens without the ball changing hands — the footwork does the deceiving. The defender commits to your first step, and by the time you push to the second step, they're guarding empty space."
+  ],
+  "whyItMatters": [
+    "Help defenders arrive at the rim expecting a straight-line finish. The euro step makes their timing useless: they jump at step one and you're already gone at step two. It's one of the most efficient ways to create an uncontested layup against an on-time rotation."
+  ],
+  "vi": {
+    "title": "Euro Step",
+    "description": "Bước đổi hướng hai nhịp vượt qua hậu vệ ở rổ — hợp lệ, đánh lừa, và cực kỳ hiệu quả khi đúng thời điểm.",
+    "whatIsIt": [
+      "Euro step là cú kết thúc hai bước: người đột phá đặt bước một theo một hướng, rồi bật ngang bằng bước hai để né hậu vệ ở rổ. Phổ biến từ bóng rổ châu Âu và được các hậu vệ NBA hoàn thiện, đây là một pha đổi hướng hợp lệ trong luật hai bước sau khi thu bóng.",
+      "Khác với crossover, động tác diễn ra mà bóng không đổi tay — chính bộ chân đánh lừa đối phương. Hậu vệ lao theo bước một của bạn, và đến khi bạn bật sang bước hai, họ chỉ còn đang kèm khoảng trống."
+    ],
+    "whyItMatters": [
+      "Hậu vệ hỗ trợ ập đến rổ với kỳ vọng bạn kết thúc thẳng. Euro step khiến thời điểm của họ trở nên vô dụng: họ nhảy ở bước một và bạn đã biến mất ở bước hai. Đây là một trong những cách hiệu quả nhất để tạo ra một cú layup hoàn toàn trống trải trước hàng thủ xoay sở kịp thời."
+    ],
+    "howTo": [
+      {
+        "title": "Tấn công với tốc độ vừa phải",
+        "detail": "Đột phá về phía rổ với khoảng 80% tốc độ. Euro cần khoảng trống để giảm tốc — đi hết tốc độ sẽ không còn đà bật ngang cho bước hai."
+      },
+      {
+        "title": "Thu bóng ở bước một (xa hậu vệ)",
+        "detail": "Thu bóng và đặt bước một thật rộng, theo hướng ngược với hướng bạn định kết thúc. Nếu hậu vệ ở bên phải, bước sang trái. Bán bước này bằng vai và ánh mắt."
+      },
+      {
+        "title": "Bật ngang sang bước hai",
+        "detail": "Từ chân trụ, bật mạnh sang ngang — không phải về phía trước — sang bước hai. Sải bước ngang dài này là động cơ của cả động tác; bật càng rộng, khoảng trống tạo ra càng lớn."
+      },
+      {
+        "title": "Duỗi tay và kết thúc",
+        "detail": "Bật lên từ bước hai và duỗi tay ném về phía rổ, dùng bảng rổ khi cần. Giữ bóng cao, xa tầm với của hậu vệ đang quay lại."
+      },
+      {
+        "title": "Giữ đúng hai bước",
+        "detail": "Đếm nhịp: thu bóng, bước một, bước hai, lên rổ. Bất kỳ cú nhảy thêm hay nhịp khựng nào cũng là bước. Tập nhịp này chậm rãi cho đến khi nhịp hai bước thành bản năng."
+      }
+    ],
+    "coachingPoints": [
+      "Bước một phải thực sự 'bán' được hướng đi — bước nửa vời không làm hậu vệ nhúc nhích.",
+      "Giữ bóng cao và sát người trong lúc bật ngang; dẫn bóng thấp sẽ bị cướp giữa chừng.",
+      "Tiếp đất bước hai với thăng bằng — nhiều cầu thủ bật quá đà và mất kiểm soát.",
+      "Đọc hông hậu vệ: euro theo hướng ngược với hướng hông họ đang xoay.",
+      "Nó hiệu quả nhất khi hậu vệ hơi ở trước mặt bạn, không phải khi họ đã kè bên cạnh."
+    ],
+    "commonMistakes": [
+      "Bước — thêm bước thứ ba hoặc một cú nhảy giữa hai bước. Quay video các lần tập và đếm.",
+      "Không bán được bước một — hậu vệ phớt lờ pha giả yếu và bám theo hướng thật.",
+      "Kết thúc quá bẹt sau pha di chuyển ngang — hãy bật lên và dùng bảng rổ; đừng ném ngang tay.",
+      "Dùng nó trước một hậu vệ đã đứng sẵn, bất động — euro đánh bại hậu vệ đang di chuyển; hậu vệ đứng sẵn chỉ việc trượt theo bạn."
+    ],
+    "gameSituations": [
+      "Đột phá một-chọi-một khi một hậu vệ hỗ trợ bước vào lane — euro vòng qua pha contest của họ.",
+      "Kết thúc fast break trước một hậu vệ duy nhất đang lùi về.",
+      "Trước những tay block nhảy sớm — bước ngang né cú block và kết thúc ở phía bên kia."
+    ],
+    "tags": [
+      "kết thúc",
+      "bộ chân",
+      "đột phá",
+      "layup"
+    ]
+  }
+}

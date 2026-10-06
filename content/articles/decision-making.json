@@ -1,1 +1,146 @@
-{"ages":["U12","U14","U16","U18","Adult","Competitive"],"coachingPoints":["Reduce decisions in drills before adding them in games — 2v1 before 3v2, 3v2 before 5v5.","Praise quick, correct decisions more loudly than made shots.","Use constraints: \"you have three seconds to shoot, drive, or pass.\"","Teach the decision tree, not just the outcome — players should know why the choice was right."],"commonMistakes":["Predetermining the move before reading what the defense shows.","Holding the ball too long while waiting for the \"perfect\" option.","Forcing a bad shot instead of making the simple, available pass.","Second-guessing mid-move — the in-between game of half-drives and aborted fakes."],"dateUpdated":"2026-10-06","description":"A simple framework for making faster, better decisions on the court — read, decide, execute — under real game pressure.","gameSituations":["2-on-1 fast break: read the lone defender's commitment to choose pass or finish.","Catch against a closeout: shoot it, drive it, or swing it — decided on the catch.","Late shot clock: simplify to your best one or two options and commit."],"howTo":[{"detail":"On every catch ask in order: can I shoot? If no, can I drive? If no, move the ball. Three questions, always in the same order, answered in under two seconds.","title":"Simplify to three options"},{"detail":"Make your read while the ball is in the air so you act the instant it arrives. Deciding on the catch keeps you ahead of the rotating defense.","title":"Decide on the catch"},{"detail":"If they go under the screen, shoot. If they help off your man, pass to him. Do not fight the defense — accept what it gives you and punish it.","title":"Take what the defense gives"},{"detail":"If you have not decided within two seconds of catching the ball, pass it and relocate. Holding the ball kills advantages and lets the defense recover.","title":"Use the two-second rule"},{"detail":"Once you drive, drive. Once you shoot, shoot. Hesitation in the middle of a decision creates the turnovers that confident mistakes never do.","title":"Commit to the choice"},{"detail":"Analyze decisions after the game with film, not during the possession. In the game, trust your preparation; after it, sharpen your reads.","title":"Review after, not during"}],"hub":"basketball-iq","id":"decision-making","level":"intermediate","positions":["ALL"],"readTime":6,"related":["reading-the-defense","shot-selection-iq","timing-basketball","creating-advantages"],"slug":"decision-making","subcategory":"basketball-iq","tags":["basketball-iq","decision-making","offense","point-guard"],"title":"Decision Making","whatIsIt":["Decision making is the process of choosing what to do — shoot, drive, or pass — in the half-second you have the ball. Every possession is a chain of small decisions, and the best players are not the ones who make perfect choices; they are the ones who make good choices quickly.","Good decisions come from a repeatable process: read the defense, pick the best available option, and commit fully. Indecision — the half-drive, the pump-fake into nothing — is worse than a wrong decision made with confidence."],"whyItMatters":["Games are decided by possessions, and possessions are decided by decisions. A team that consistently makes the simple, correct read will beat a more athletic team that guesses. Coaches build offenses to create decisions; players who decide well make any offense work.","Decision speed also compounds. One quick, correct decision forces the defense to rotate; the next quick decision attacks that rotation. Slow decisions let the defense rest, and rested defenses do not break."]}
+{
+  "ages": [
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult",
+    "Competitive"
+  ],
+  "coachingPoints": [
+    "Reduce decisions in drills before adding them in games — 2v1 before 3v2, 3v2 before 5v5.",
+    "Praise quick, correct decisions more loudly than made shots.",
+    "Use constraints: \"you have three seconds to shoot, drive, or pass.\"",
+    "Teach the decision tree, not just the outcome — players should know why the choice was right."
+  ],
+  "commonMistakes": [
+    "Predetermining the move before reading what the defense shows.",
+    "Holding the ball too long while waiting for the \"perfect\" option.",
+    "Forcing a bad shot instead of making the simple, available pass.",
+    "Second-guessing mid-move — the in-between game of half-drives and aborted fakes."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "A simple framework for making faster, better decisions on the court — read, decide, execute — under real game pressure.",
+  "gameSituations": [
+    "2-on-1 fast break: read the lone defender's commitment to choose pass or finish.",
+    "Catch against a closeout: shoot it, drive it, or swing it — decided on the catch.",
+    "Late shot clock: simplify to your best one or two options and commit."
+  ],
+  "howTo": [
+    {
+      "detail": "On every catch ask in order: can I shoot? If no, can I drive? If no, move the ball. Three questions, always in the same order, answered in under two seconds.",
+      "title": "Simplify to three options"
+    },
+    {
+      "detail": "Make your read while the ball is in the air so you act the instant it arrives. Deciding on the catch keeps you ahead of the rotating defense.",
+      "title": "Decide on the catch"
+    },
+    {
+      "detail": "If they go under the screen, shoot. If they help off your man, pass to him. Do not fight the defense — accept what it gives you and punish it.",
+      "title": "Take what the defense gives"
+    },
+    {
+      "detail": "If you have not decided within two seconds of catching the ball, pass it and relocate. Holding the ball kills advantages and lets the defense recover.",
+      "title": "Use the two-second rule"
+    },
+    {
+      "detail": "Once you drive, drive. Once you shoot, shoot. Hesitation in the middle of a decision creates the turnovers that confident mistakes never do.",
+      "title": "Commit to the choice"
+    },
+    {
+      "detail": "Analyze decisions after the game with film, not during the possession. In the game, trust your preparation; after it, sharpen your reads.",
+      "title": "Review after, not during"
+    }
+  ],
+  "hub": "basketball-iq",
+  "id": "decision-making",
+  "level": "intermediate",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 6,
+  "related": [
+    "reading-the-defense",
+    "shot-selection-iq",
+    "timing-basketball",
+    "creating-advantages"
+  ],
+  "slug": "decision-making",
+  "subcategory": "basketball-iq",
+  "tags": [
+    "basketball-iq",
+    "decision-making",
+    "offense",
+    "point-guard"
+  ],
+  "title": "Decision Making",
+  "whatIsIt": [
+    "Decision making is the process of choosing what to do — shoot, drive, or pass — in the half-second you have the ball. Every possession is a chain of small decisions, and the best players are not the ones who make perfect choices; they are the ones who make good choices quickly.",
+    "Good decisions come from a repeatable process: read the defense, pick the best available option, and commit fully. Indecision — the half-drive, the pump-fake into nothing — is worse than a wrong decision made with confidence."
+  ],
+  "whyItMatters": [
+    "Games are decided by possessions, and possessions are decided by decisions. A team that consistently makes the simple, correct read will beat a more athletic team that guesses. Coaches build offenses to create decisions; players who decide well make any offense work.",
+    "Decision speed also compounds. One quick, correct decision forces the defense to rotate; the next quick decision attacks that rotation. Slow decisions let the defense rest, and rested defenses do not break."
+  ],
+  "vi": {
+    "coachingPoints": [
+      "Giảm số quyết định trong bài tập trước khi tăng chúng trong trận đấu — 2 đấu 1 trước 3 đấu 2, 3 đấu 2 trước 5 đấu 5",
+      "Khen những quyết định nhanh, đúng to hơn cả những cú ném vào",
+      "Dùng giới hạn: 'bạn có ba giây để ném, đột phá hoặc chuyền'",
+      "Dạy cây quyết định, không chỉ kết quả — cầu thủ nên biết tại sao lựa chọn đó đúng"
+    ],
+    "commonMistakes": [
+      "Định sẵn động tác trước khi đọc hàng thủ cho thấy gì",
+      "Giữ bóng quá lâu trong khi chờ đợi lựa chọn 'hoàn hảo'",
+      "Ép một cú ném tệ thay vì chuyền đơn giản đang trống",
+      "Nghi ngờ giữa chừng — lối chơi nửa vời của những pha đột phá dở dang và cú giả bỏ cuộc"
+    ],
+    "description": "Một khung đơn giản để ra quyết định nhanh hơn, tốt hơn trên sân — đọc, quyết định, thực hiện — dưới áp lực trận đấu thật.",
+    "gameSituations": [
+      "Phản công 2 đấu 1: đọc sự dồn sức của hậu vệ duy nhất để chọn chuyền hay dứt điểm",
+      "Bắt bóng trước closeout: ném, đột phá hay chuyền ngang — quyết định ngay khi bắt bóng",
+      "Cuối đồng hồ tấn công: đơn giản hóa thành một hai lựa chọn tốt nhất và dồn sức"
+    ],
+    "howTo": [
+      {
+        "detail": "Mỗi lần bắt bóng hãy hỏi theo thứ tự: mình ném được không? Nếu không, mình đột phá được không? Nếu không, di chuyển bóng. Ba câu hỏi, luôn cùng thứ tự, trả lời trong chưa đầy hai giây.",
+        "title": "Đơn giản hóa thành ba lựa chọn"
+      },
+      {
+        "detail": "Đọc tình huống khi bóng còn đang bay để hành động ngay khi bóng tới tay. Quyết định khi bắt bóng giúp bạn đi trước hàng thủ đang xoay.",
+        "title": "Quyết định ngay khi bắt bóng"
+      },
+      {
+        "detail": "Nếu họ chui dưới màn chắn, hãy ném. Nếu họ bỏ người bạn kèm để hỗ trợ, hãy chuyền cho anh ta. Đừng chống lại hàng thủ — hãy nhận những gì nó cho và trừng phạt nó.",
+        "title": "Lấy những gì hàng thủ cho"
+      },
+      {
+        "detail": "Nếu bạn chưa quyết định trong hai giây sau khi bắt bóng, hãy chuyền đi và di chuyển lại. Giữ bóng giết chết lợi thế và để hàng thủ lui về.",
+        "title": "Dùng luật hai giây"
+      },
+      {
+        "detail": "Một khi đã đột phá, hãy đột phá. Một khi đã ném, hãy ném. Do dự giữa chừng tạo ra những pha mất bóng mà những sai lầm tự tin không bao giờ tạo.",
+        "title": "Dồn sức vào lựa chọn"
+      },
+      {
+        "detail": "Phân tích quyết định sau trận bằng video, không phải giữa pha bóng. Trong trận, hãy tin vào sự chuẩn bị; sau trận, hãy mài sắc cách đọc.",
+        "title": "Xem lại sau, không phải trong lúc chơi"
+      }
+    ],
+    "tags": [
+      "basketball iq",
+      "ra quyết định",
+      "tấn công",
+      "point guard"
+    ],
+    "title": "Ra Quyết Định",
+    "whatIsIt": [
+      "Ra quyết định là quá trình chọn việc cần làm — ném, đột phá hay chuyền — trong nửa giây bạn giữ bóng. Mỗi đợt tấn công là một chuỗi những quyết định nhỏ, và những cầu thủ giỏi nhất không phải người luôn chọn hoàn hảo; họ là người chọn tốt một cách nhanh chóng.",
+      "Quyết định tốt đến từ một quy trình có thể lặp lại: đọc hàng thủ, chọn lựa chọn tốt nhất hiện có, và dồn sức hoàn toàn. Do dự — pha đột phá nửa vời, cú giả ném rồi chẳng đi đâu — còn tệ hơn một quyết định sai nhưng tự tin."
+    ],
+    "whyItMatters": [
+      "Trận đấu được quyết định bởi các đợt tấn công, và các đợt tấn công được quyết định bởi quyết định. Một đội luôn ra quyết định đơn giản, đúng đắn sẽ thắng một đội thể hình hơn nhưng đoán mò. Huấn luyện viên xây hệ thống tấn công để tạo ra các quyết định; cầu thủ quyết định tốt khiến mọi hệ thống tấn công vận hành.",
+      "Tốc độ quyết định cũng cộng dồn. Một quyết định nhanh, đúng buộc hàng thủ phải xoay; quyết định nhanh tiếp theo tấn công vào pha xoay đó. Quyết định chậm để hàng thủ nghỉ ngơi, mà hàng thủ được nghỉ thì không vỡ."
+    ]
+  }
+}

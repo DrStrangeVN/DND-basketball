@@ -118,5 +118,61 @@
     "reject-screen",
     "ghost-screen"
   ],
-  "dateUpdated": "2026-10-06"
+  "dateUpdated": "2026-10-06",
+  "vi": {
+    "coachingPoints": [
+      "Hãy cho cầu thủ tập góc chắn không có phòng thủ trước — hầu hết người chắn trẻ chưa bao giờ nghĩ về hướng.",
+      "Dùng cọc tiêu đánh dấu đường di chuyển của hậu vệ và yêu cầu người chắn hướng vuông góc với nó.",
+      "Quay phim tấm chắn từ góc đường biên cuối sân; cầu thủ sẽ sốc khi thấy mình chắn vào không khí nhiều thế nào.",
+      "Dạy việc chắn lại như một thói quen, không phải giải pháp chữa cháy — các đội pick and roll giỏi luôn chắn hai lần."
+    ],
+    "commonMistakes": [
+      "Hướng mặt vào người dẫn bóng thay vì đường di chuyển của hậu vệ, cuối cùng không chắn được ai.",
+      "Dựng tấm chắn quá cao hoặc quá rộng, cho hậu vệ đường chui dưới dễ dàng.",
+      "Di chuyển chân khi va chạm, biến một góc chắn đẹp thành lỗi tấn công."
+    ],
+    "description": "Góc chắn quyết định người dẫn bóng có thể đi đâu — làm chủ nó và bạn sẽ điều khiển được hàng thủ.",
+    "gameSituations": [
+      "Tấn công một hậu vệ cụ thể: đặt góc chắn để ép đổi người hoặc tạo ra sự chênh lệch mà bạn muốn.",
+      "Khi đối đầu với phòng thủ ICE, nơi góc chắn quyết định bẫy ở biên có thành công không.",
+      "Cuối trận: một tấm chắn với góc hoàn hảo thường là cả một miếng đánh."
+    ],
+    "howTo": [
+      {
+        "detail": "Hướng ngực vào nơi hậu vệ kèm bóng đang đi tới, không phải vào đồng đội của bạn. Bạn đang chặn đường di chuyển của hậu vệ.",
+        "title": "Hướng ngực vào đường di chuyển của hậu vệ"
+      },
+      {
+        "detail": "Pick and roll ở giữa sân cho người dẫn bóng cả mặt sân để khai thác; pick and roll ở biên dùng đường biên dọc như một hậu vệ phụ cho bạn. Hãy quyết định với huấn luyện viên trước trận đấu.",
+        "title": "Chọn đánh vào giữa hay ra biên"
+      },
+      {
+        "detail": "Chạy nước rút đến vị trí và đặt chân trụ trước khi người dẫn bóng tới. Điều chỉnh muộn là lỗi chắn di động.",
+        "title": "Dựng góc sớm"
+      },
+      {
+        "detail": "Một khi đã dựng, đứng yên như tượng. Chân rộng, gối cong, tay khép vào. Góc chắn chỉ có tác dụng khi tấm chắn hợp lệ.",
+        "title": "Đứng yên khi va chạm"
+      },
+      {
+        "detail": "Nếu hàng thủ chui dưới tấm chắn và pha bóng chết, hãy xoay người và chắn lại ngay. Tấm chắn thứ hai thường có góc sạch hơn vì hàng thủ đã đang phải phản ứng.",
+        "title": "Chắn lại nếu họ chui dưới"
+      }
+    ],
+    "tags": [
+      "pick and roll",
+      "chắn bóng",
+      "góc chắn",
+      "kỹ thuật"
+    ],
+    "title": "Góc chắn",
+    "whatIsIt": [
+      "Góc chắn là hướng mà ngực và chân của người chắn đối mặt khi tấm chắn được dựng lên. Góc đó như một vô lăng: nó quyết định người dẫn bóng bị dồn về hướng nào và hậu vệ nào bị chắn ra khỏi pha bóng.",
+      "Một tấm chắn ngang (song song với đường biên cuối sân) đưa người dẫn bóng lao xuống khu vực giữa sân. Một tấm chắn xiên (xoay về phía đường biên dọc) đẩy họ ra biên. Một tấm chắn step-up đổi góc để tấn công vào giữa từ cánh.",
+      "Những người chắn đẳng cấp điều chỉnh góc dựa trên cách phòng thủ mà họ dự đoán. Góc phải được đặt trước khi va chạm — một khi tấm chắn đã dựng xong, nó không được di chuyển."
+    ],
+    "whyItMatters": [
+      "Hầu hết các pha pick and roll thất bại là do góc chắn, không phải do thiếu nỗ lực. Góc chắn xấu sẽ chắn luôn đồng đội của mình, cho hậu vệ kèm bóng lách qua dễ dàng, hoặc dồn người dẫn bóng vào vòng vây hỗ trợ. Một góc chắn tốt tạo ra lợi thế ngay trước khi pha dẫn bóng bắt đầu."
+    ]
+  }
 }

@@ -1,1 +1,142 @@
-{"ages":["U12","U14","U16","U18","Adult","Competitive"],"coachingPoints":["Sprint the first 70% of the distance, then chop your steps short for the last 30%","High hands on the catch — contest the shot before anything else","Use short, choppy steps on the approach so you can react to the drive","Read the defender's feet: a step toward you means drive, a plant means shot","Angle the closeout to send the drive toward help, not away from it","If beaten off the dribble, sprint to recover rather than reaching"],"commonMistakes":["Flying past the shooter with long strides — chop steps to stay balanced","Closing out with hands down — the shot gets off uncontested","Closing out too close and fouling the jump shooter","Running straight at the man without an angle, giving up both shot and drive"],"dateUpdated":"2026-10-06","description":"Close the distance to a shooter under control: sprint, chop steps, high hands, and a contest without fouling.","gameSituations":["Recovering to your man after a help rotation","Guarding a shooter who catches a skip pass","Defending a kick-out after your teammate helps on a drive","Any catch-and-shoot opportunity your man gets"],"howTo":[{"detail":"The moment the ball moves toward your man, sprint. The closeout starts before the catch, not after it. The first 70% of the distance is a dead sprint.","title":"Sprint early to the shooter"},{"detail":"As you arrive, shorten your stride into quick choppy steps. This keeps your weight balanced so you can stop, react to a drive, or contest a shot.","title":"Chop your steps on arrival"},{"detail":"Get your hands high as you arrive — one hand up to contest the shot. High hands force the shooter to hesitate and take away the quick trigger.","title":"Hands high before the catch"},{"detail":"Aim your closeout at the shooter's inside shoulder to guide him toward your help. Never close out so straight that you give up a straight-line drive to the basket.","title":"Take an angle that favors your help"},{"detail":"End the closeout in a low defensive stance, balanced and ready. From here you are on-ball defender: contain the drive, contest the shot.","title":"Finish in stance, balanced"}],"hub":"defense","id":"closeout-defense","level":"intermediate","positions":["ALL"],"readTime":5,"related":["on-ball-defense","defensive-stance","help-defense","gap-defense"],"slug":"closeout-defense","subcategory":"defense-fundamentals","tags":["defense","closeout","fundamentals","shooting-defense"],"title":"Closeouts","whatIsIt":["A closeout is the sprint-and-stop movement a defender uses to get back to an offensive player who is about to receive the ball — usually a shooter. You are far from your man, the ball swings his way, and you must cover ground fast while still arriving under control.","The closeout is one of the most practiced and most misplayed actions in basketball. Done well, it takes away the shot and contains the drive. Done poorly — flying past the shooter out of control — it gives up the exact open drive or foul the defense was trying to prevent."],"whyItMatters":["Modern offenses are built to force closeouts: drive, kick, swing the ball, and make someone fly at a shooter. Every possession that ends in a rotation ends in a closeout somewhere. Teams that close out well can help aggressively and recover; teams that cannot are punished with open threes or blow-by drives all game."]}
+{
+  "ages": [
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult",
+    "Competitive"
+  ],
+  "coachingPoints": [
+    "Sprint the first 70% of the distance, then chop your steps short for the last 30%",
+    "High hands on the catch — contest the shot before anything else",
+    "Use short, choppy steps on the approach so you can react to the drive",
+    "Read the defender's feet: a step toward you means drive, a plant means shot",
+    "Angle the closeout to send the drive toward help, not away from it",
+    "If beaten off the dribble, sprint to recover rather than reaching"
+  ],
+  "commonMistakes": [
+    "Flying past the shooter with long strides — chop steps to stay balanced",
+    "Closing out with hands down — the shot gets off uncontested",
+    "Closing out too close and fouling the jump shooter",
+    "Running straight at the man without an angle, giving up both shot and drive"
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "Close the distance to a shooter under control: sprint, chop steps, high hands, and a contest without fouling.",
+  "gameSituations": [
+    "Recovering to your man after a help rotation",
+    "Guarding a shooter who catches a skip pass",
+    "Defending a kick-out after your teammate helps on a drive",
+    "Any catch-and-shoot opportunity your man gets"
+  ],
+  "howTo": [
+    {
+      "detail": "The moment the ball moves toward your man, sprint. The closeout starts before the catch, not after it. The first 70% of the distance is a dead sprint.",
+      "title": "Sprint early to the shooter"
+    },
+    {
+      "detail": "As you arrive, shorten your stride into quick choppy steps. This keeps your weight balanced so you can stop, react to a drive, or contest a shot.",
+      "title": "Chop your steps on arrival"
+    },
+    {
+      "detail": "Get your hands high as you arrive — one hand up to contest the shot. High hands force the shooter to hesitate and take away the quick trigger.",
+      "title": "Hands high before the catch"
+    },
+    {
+      "detail": "Aim your closeout at the shooter's inside shoulder to guide him toward your help. Never close out so straight that you give up a straight-line drive to the basket.",
+      "title": "Take an angle that favors your help"
+    },
+    {
+      "detail": "End the closeout in a low defensive stance, balanced and ready. From here you are on-ball defender: contain the drive, contest the shot.",
+      "title": "Finish in stance, balanced"
+    }
+  ],
+  "hub": "defense",
+  "id": "closeout-defense",
+  "level": "intermediate",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 5,
+  "related": [
+    "on-ball-defense",
+    "defensive-stance",
+    "help-defense",
+    "gap-defense"
+  ],
+  "slug": "closeout-defense",
+  "subcategory": "defense-fundamentals",
+  "tags": [
+    "defense",
+    "closeout",
+    "fundamentals",
+    "shooting-defense"
+  ],
+  "title": "Closeouts",
+  "whatIsIt": [
+    "A closeout is the sprint-and-stop movement a defender uses to get back to an offensive player who is about to receive the ball — usually a shooter. You are far from your man, the ball swings his way, and you must cover ground fast while still arriving under control.",
+    "The closeout is one of the most practiced and most misplayed actions in basketball. Done well, it takes away the shot and contains the drive. Done poorly — flying past the shooter out of control — it gives up the exact open drive or foul the defense was trying to prevent."
+  ],
+  "whyItMatters": [
+    "Modern offenses are built to force closeouts: drive, kick, swing the ball, and make someone fly at a shooter. Every possession that ends in a rotation ends in a closeout somewhere. Teams that close out well can help aggressively and recover; teams that cannot are punished with open threes or blow-by drives all game."
+  ],
+  "vi": {
+    "coachingPoints": [
+      "Chạy nước rút 70% quãng đường đầu, rồi băm bước ngắn trong 30% cuối",
+      "Tay giơ cao khi bắt bóng — contest cú ném trước mọi thứ khác",
+      "Dùng bước ngắn, băm nhỏ khi tiếp cận để có thể phản ứng với pha đột phá",
+      "Đọc chân hậu vệ: bước về phía bạn nghĩa là đột phá, đứng trụ nghĩa là ném",
+      "Nghiêng góc closeout để ép pha đột phá về phía sự hỗ trợ, không phải ra xa",
+      "Nếu bị vượt qua khi dẫn bóng, hãy chạy nước rút lui về thay vì với tay"
+    ],
+    "commonMistakes": [
+      "Bay qua người ném với sải bước dài — hãy băm bước để giữ thăng bằng",
+      "Closeout với tay buông thõng — cú ném được ra tay không bị contest",
+      "Closeout quá gần và phạm lỗi với người ném",
+      "Chạy thẳng vào người mà không lấy góc, để mất cả cú ném lẫn pha đột phá"
+    ],
+    "description": "Thu hẹp khoảng cách với tay ném trong kiểm soát: chạy nước rút, băm bước, tay giơ cao, và contest mà không phạm lỗi.",
+    "gameSituations": [
+      "Lui về kèm người của mình sau pha xoay hỗ trợ",
+      "Kèm tay ném bắt đường chuyền skip",
+      "Phòng thủ pha kick-out sau khi đồng đội hỗ trợ pha đột phá",
+      "Mọi cơ hội catch-and-shoot mà người bạn kèm có được"
+    ],
+    "howTo": [
+      {
+        "detail": "Ngay khi bóng di chuyển về phía người bạn kèm, hãy chạy nước rút. Closeout bắt đầu trước khi bóng được bắt, không phải sau. 70% quãng đường đầu là chạy nước rút hết cỡ.",
+        "title": "Chạy nước rút sớm về phía tay ném"
+      },
+      {
+        "detail": "Khi đến nơi, rút ngắn sải bước thành những bước băm nhanh. Điều này giữ trọng tâm cân bằng để bạn có thể dừng lại, phản ứng với pha đột phá, hoặc contest cú ném.",
+        "title": "Băm bước khi đến nơi"
+      },
+      {
+        "detail": "Giơ tay cao khi đến nơi — một tay lên để contest cú ném. Tay giơ cao buộc tay ném phải chần chừ và tước đi cú ra tay nhanh.",
+        "title": "Tay giơ cao trước khi bóng được bắt"
+      },
+      {
+        "detail": "Nhắm closeout vào vai trong của tay ném để ép anh ta về phía sự hỗ trợ của bạn. Đừng bao giờ closeout thẳng đến mức tặng một đường đột phá thẳng vào rổ.",
+        "title": "Lấy góc có lợi cho sự hỗ trợ"
+      },
+      {
+        "detail": "Kết thúc closeout ở tư thế phòng thủ thấp, cân bằng và sẵn sàng. Từ đây bạn là hậu vệ kèm bóng: giữ pha đột phá, contest cú ném.",
+        "title": "Kết thúc ở tư thế thủ, thăng bằng"
+      }
+    ],
+    "tags": [
+      "phòng thủ",
+      "closeout",
+      "kỹ thuật cơ bản",
+      "phòng thủ ném rổ"
+    ],
+    "title": "Closeout",
+    "whatIsIt": [
+      "Closeout là động tác chạy nước rút rồi dừng mà hậu vệ dùng để quay lại với cầu thủ tấn công sắp nhận bóng — thường là một tay ném. Bạn đang ở xa người kèm, bóng được chuyền về phía anh ta, và bạn phải rút ngắn khoảng cách nhanh trong khi vẫn đến nơi trong kiểm soát.",
+      "Closeout là một trong những hành động được tập nhiều nhất và cũng bị làm sai nhiều nhất trong bóng rổ. Làm tốt, nó tước cú ném và giữ được pha đột phá. Làm tệ — bay qua người ném mất kiểm soát — nó tặng đúng pha đột phá trống hoặc pha phạm lỗi mà hàng thủ đang cố ngăn."
+    ],
+    "whyItMatters": [
+      "Các hệ thống tấn công hiện đại được xây để ép closeout: đột phá, kick ra, chuyền bóng, và bắt ai đó phải bay về phía tay ném. Mỗi đợt tấn công kết thúc bằng xoay chuyển đều kết thúc bằng một closeout ở đâu đó. Những đội closeout tốt có thể hỗ trợ quyết liệt rồi lui về; những đội không làm được bị trừng phạt bằng những cú ba điểm trống hoặc pha đột phá vượt mặt cả trận."
+    ]
+  }
+}

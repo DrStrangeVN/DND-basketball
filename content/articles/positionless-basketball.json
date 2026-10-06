@@ -1,1 +1,145 @@
-{"ages":["U14","U16","U18","Adult"],"coachingPoints":["In youth practice, ban the phrase 'you're a center' — assign skills, not labels.","Run positionless drills: every player handles, shoots, screens, and defends the post.","Evaluate players on skills (shooting, handling, IQ), not on height alone.","Teach switching defense early — it is the defensive backbone of positionless play."],"commonMistakes":["Going small with no rebounding plan and getting crushed on the glass.","Five players who can shoot but nobody who can guard the post.","Confusing positionless with structureless — roles still exist, they just flex.","Forcing a 6-foot-8 teenager to only shoot threes instead of developing inside skills too."],"dateUpdated":"2026-10-06","description":"Modern positionless basketball — skill over size, switching defense, five-out offense and how to develop versatile players.","gameSituations":["Small-ball lineups — trading size for speed and shooting in key stretches.","Switching everything — neutralizing screens by exchanging assignments.","Five-out offense — all five players spaced, anyone can drive or shoot.","Mismatch hunting — getting the weakest defender switched onto your best scorer."],"howTo":[{"detail":"Every player, regardless of size, should handle the ball, shoot from distance, pass on the move, and defend multiple positions. Build complete players first; roles come later.","title":"Develop skills, not positions"},{"detail":"Space all five players around the arc. With no traditional post player clogging the paint, driving lanes stay open and the defense must guard the entire floor.","title":"Play five-out"},{"detail":"When every defender can guard multiple positions, the team can switch most screens instead of fighting through them. Switching simplifies defense and kills the opponent's screening actions.","title":"Switch on defense"},{"detail":"Positionless teams hunt mismatches relentlessly: a big switched onto a guard gets attacked off the dribble; a small switched onto a big gets posted up. Create the switch, then exploit it.","title":"Hunt mismatches"},{"detail":"Without a traditional center, everyone rebounds. Teach all five players to box out and pursue — gang rebounding beats relying on one big.","title":"Rebound by committee"},{"detail":"Positionless basketball demands high IQ: constant reading, quick decisions, and seamless role changes. Study film, learn every action, and think the game two passes ahead.","title":"Raise the team's IQ"}],"hub":"positions","id":"positionless-basketball","level":"advanced","positions":["ALL"],"readTime":6,"related":["basketball-positions","small-forward","power-forward","point-guard","spacing-basics"],"slug":"positionless-basketball","subcategory":"positions","tags":["positionless","modern","versatility","strategy"],"title":"Modern Positionless Basketball","whatIsIt":["Positionless basketball is the modern philosophy that skills matter more than traditional positions. Instead of a rigid point guard, shooting guard, small forward, power forward, and center, teams field five versatile players who can all handle, shoot, pass, and defend multiple spots.","It does not mean positions disappeared — it means they flex. A 6-foot-9 player might bring the ball up, shoot threes, and guard point guards. Lineups get smaller, faster, and more skilled, with five-out spacing and switching defense as the foundation."],"whyItMatters":["The game has moved this way at every level, from the NBA down to youth leagues. Players who only learned one traditional role get left behind; versatile players fit any system and any lineup. For coaches, positionless principles unlock lineups that are harder to guard and defenses that are harder to screen. For young players, it is simple: the more skills you have, the more valuable you are."]}
+{
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "coachingPoints": [
+    "In youth practice, ban the phrase 'you're a center' — assign skills, not labels.",
+    "Run positionless drills: every player handles, shoots, screens, and defends the post.",
+    "Evaluate players on skills (shooting, handling, IQ), not on height alone.",
+    "Teach switching defense early — it is the defensive backbone of positionless play."
+  ],
+  "commonMistakes": [
+    "Going small with no rebounding plan and getting crushed on the glass.",
+    "Five players who can shoot but nobody who can guard the post.",
+    "Confusing positionless with structureless — roles still exist, they just flex.",
+    "Forcing a 6-foot-8 teenager to only shoot threes instead of developing inside skills too."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "Modern positionless basketball — skill over size, switching defense, five-out offense and how to develop versatile players.",
+  "gameSituations": [
+    "Small-ball lineups — trading size for speed and shooting in key stretches.",
+    "Switching everything — neutralizing screens by exchanging assignments.",
+    "Five-out offense — all five players spaced, anyone can drive or shoot.",
+    "Mismatch hunting — getting the weakest defender switched onto your best scorer."
+  ],
+  "howTo": [
+    {
+      "detail": "Every player, regardless of size, should handle the ball, shoot from distance, pass on the move, and defend multiple positions. Build complete players first; roles come later.",
+      "title": "Develop skills, not positions"
+    },
+    {
+      "detail": "Space all five players around the arc. With no traditional post player clogging the paint, driving lanes stay open and the defense must guard the entire floor.",
+      "title": "Play five-out"
+    },
+    {
+      "detail": "When every defender can guard multiple positions, the team can switch most screens instead of fighting through them. Switching simplifies defense and kills the opponent's screening actions.",
+      "title": "Switch on defense"
+    },
+    {
+      "detail": "Positionless teams hunt mismatches relentlessly: a big switched onto a guard gets attacked off the dribble; a small switched onto a big gets posted up. Create the switch, then exploit it.",
+      "title": "Hunt mismatches"
+    },
+    {
+      "detail": "Without a traditional center, everyone rebounds. Teach all five players to box out and pursue — gang rebounding beats relying on one big.",
+      "title": "Rebound by committee"
+    },
+    {
+      "detail": "Positionless basketball demands high IQ: constant reading, quick decisions, and seamless role changes. Study film, learn every action, and think the game two passes ahead.",
+      "title": "Raise the team's IQ"
+    }
+  ],
+  "hub": "positions",
+  "id": "positionless-basketball",
+  "level": "advanced",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 6,
+  "related": [
+    "basketball-positions",
+    "small-forward",
+    "power-forward",
+    "point-guard",
+    "spacing-basics"
+  ],
+  "slug": "positionless-basketball",
+  "subcategory": "positions",
+  "tags": [
+    "positionless",
+    "modern",
+    "versatility",
+    "strategy"
+  ],
+  "title": "Modern Positionless Basketball",
+  "whatIsIt": [
+    "Positionless basketball is the modern philosophy that skills matter more than traditional positions. Instead of a rigid point guard, shooting guard, small forward, power forward, and center, teams field five versatile players who can all handle, shoot, pass, and defend multiple spots.",
+    "It does not mean positions disappeared — it means they flex. A 6-foot-9 player might bring the ball up, shoot threes, and guard point guards. Lineups get smaller, faster, and more skilled, with five-out spacing and switching defense as the foundation."
+  ],
+  "whyItMatters": [
+    "The game has moved this way at every level, from the NBA down to youth leagues. Players who only learned one traditional role get left behind; versatile players fit any system and any lineup. For coaches, positionless principles unlock lineups that are harder to guard and defenses that are harder to screen. For young players, it is simple: the more skills you have, the more valuable you are."
+  ],
+  "vi": {
+    "title": "Bóng Rổ Hiện Đại Không Vị Trí Cố Định",
+    "description": "Bóng rổ hiện đại không vị trí cố định — kỹ năng hơn thể hình, phòng ngự switch, tấn công five-out và cách phát triển cầu thủ đa năng.",
+    "whatIsIt": [
+      "Bóng rổ positionless là triết lý hiện đại cho rằng kỹ năng quan trọng hơn vị trí truyền thống. Thay vì cứng nhắc point guard, shooting guard, small forward, power forward và center, các đội tung ra năm cầu thủ đa năng, ai cũng dẫn bóng, ném, chuyền và phòng ngự được nhiều vị trí.",
+      "Điều đó không có nghĩa vị trí biến mất — mà là chúng linh hoạt. Một cầu thủ cao 6-foot-9 có thể đưa bóng lên, ném ba điểm và kèm point guard. Đội hình trở nên nhỏ hơn, nhanh hơn và kỹ năng hơn, với giãn cách five-out và phòng ngự switch làm nền tảng."
+    ],
+    "whyItMatters": [
+      "Trận đấu đã đi theo hướng này ở mọi cấp độ, từ NBA xuống các giải trẻ. Cầu thủ chỉ học một vai trò truyền thống sẽ bị bỏ lại; cầu thủ đa năng phù hợp mọi hệ thống và mọi đội hình. Với HLV, nguyên tắc positionless mở ra đội hình khó kèm hơn và hàng thủ khó screen hơn. Với cầu thủ trẻ, điều đó thật đơn giản: càng nhiều kỹ năng, bạn càng có giá trị."
+    ],
+    "howTo": [
+      {
+        "title": "Phát triển kỹ năng, không phải vị trí",
+        "detail": "Mọi cầu thủ, bất kể thể hình, đều nên dẫn bóng, ném xa, chuyền khi di chuyển và phòng ngự nhiều vị trí. Xây dựng cầu thủ toàn diện trước; vai trò đến sau."
+      },
+      {
+        "title": "Chơi five-out",
+        "detail": "Giãn cả năm cầu thủ quanh vòng ba điểm. Không còn big man truyền thống chen chúc trong paint, các làn đột phá luôn mở và hàng thủ phải kèm cả sân."
+      },
+      {
+        "title": "Switch khi phòng ngự",
+        "detail": "Khi mọi hậu vệ đều kèm được nhiều vị trí, đội có thể switch hầu hết các screen thay vì chen qua. Switch đơn giản hóa phòng ngự và vô hiệu hóa các pha screen của đối thủ."
+      },
+      {
+        "title": "Săn mismatch",
+        "detail": "Các đội positionless săn mismatch không ngừng: big bị switch ra kèm guard sẽ bị tấn công bằng dribble; cầu thủ nhỏ bị switch vào kèm big sẽ bị đánh post. Tạo ra pha switch, rồi khai thác nó."
+      },
+      {
+        "title": "Rebound tập thể",
+        "detail": "Không có center truyền thống, ai cũng phải rebound. Dạy cả năm cầu thủ box out và tranh bóng — rebound đồng đội thắng việc trông chờ vào một big man."
+      },
+      {
+        "title": "Nâng IQ của đội",
+        "detail": "Bóng rổ positionless đòi hỏi IQ cao: đọc tình huống liên tục, quyết định nhanh và chuyển vai trò mượt mà. Xem video, học mọi chiến thuật, và nghĩ trước trận đấu hai đường chuyền."
+      }
+    ],
+    "coachingPoints": [
+      "Trong buổi tập trẻ, cấm câu \"em là center\" — giao kỹ năng, không dán nhãn.",
+      "Tập các bài positionless: mọi cầu thủ đều dẫn bóng, ném, screen và phòng ngự post.",
+      "Đánh giá cầu thủ dựa trên kỹ năng (ném, dẫn bóng, IQ), không chỉ chiều cao.",
+      "Dạy phòng ngự switch từ sớm — đó là xương sống phòng ngự của lối chơi positionless."
+    ],
+    "commonMistakes": [
+      "Chơi đội hình nhỏ mà không có kế hoạch rebound, bị đè bẹp dưới rổ.",
+      "Năm cầu thủ đều ném được nhưng không ai kèm được post.",
+      "Nhầm positionless với vô tổ chức — vai trò vẫn tồn tại, chỉ là linh hoạt hơn.",
+      "Ép một thiếu niên cao 6-foot-8 chỉ ném ba điểm thay vì phát triển cả kỹ năng đánh trong."
+    ],
+    "gameSituations": [
+      "Đội hình small-ball — đánh đổi thể hình lấy tốc độ và khả năng ném trong những thời điểm then chốt.",
+      "Switch mọi thứ — vô hiệu hóa screen bằng cách đổi người kèm.",
+      "Tấn công five-out — cả năm cầu thủ giãn cách, ai cũng có thể đột phá hoặc ném.",
+      "Săn mismatch — đưa hậu vệ yếu nhất bị switch ra kèm tay ghi điểm hay nhất của bạn."
+    ],
+    "tags": [
+      "không vị trí cố định",
+      "hiện đại",
+      "đa năng",
+      "chiến thuật"
+    ]
+  }
+}

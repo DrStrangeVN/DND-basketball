@@ -3,17 +3,24 @@ import { useEffect, useState } from "react";
 import Link from "next/link";
 import { Check, ArrowRight } from "lucide-react";
 import { getPathChecks, togglePathCheck } from "@/lib/storage";
+import { useLanguage, pick } from "@/lib/i18n";
 import type { LearningPath } from "@/lib/types";
 
-export interface ResolvedStepArticle { slug: string; title: string; url: string }
+export interface ResolvedStepArticle { slug: string; title: string; titleVi?: string; url: string }
 
 export default function PathProgress({ path, stepArticles }: { path: LearningPath; stepArticles: ResolvedStepArticle[][] }) {
   const [checks, setChecks] = useState<string[]>([]);
+  const { lang, t } = useLanguage();
   useEffect(() => { setChecks(getPathChecks(path.slug)); }, [path.slug]);
 
   const total = path.steps.reduce((n, s) => n + s.articles.length, 0);
   const done = checks.length;
   const pct = total ? Math.round((done / total) * 100) : 0;
+  const steps = path.steps.map((s, i) => ({
+    ...s,
+    title: pick(lang, s.title, path.vi?.steps[i]?.title),
+    description: pick(lang, s.description, path.vi?.steps[i]?.description),
+  }));
 
   return (
     <div>
@@ -25,7 +32,7 @@ export default function PathProgress({ path, stepArticles }: { path: LearningPat
       </div>
 
       <ol className="relative space-y-4">
-        {path.steps.map((step, si) => (
+        {steps.map((step, si) => (
           <li key={si} className="neu p-5 sm:p-6">
             <div className="flex items-center gap-3">
               <span className="flex h-10 w-10 shrink-0 items-center justify-center rounded-full bg-[color:var(--orange)] text-sm font-extrabold text-white" aria-hidden>
@@ -50,7 +57,7 @@ export default function PathProgress({ path, stepArticles }: { path: LearningPat
                       <Check className="h-4 w-4" aria-hidden />
                     </button>
                     <Link href={a.url} className={`neu-btn flex-1 px-4 py-2.5 text-left text-sm font-semibold ${checked ? "text-[color:var(--faint)] line-through" : ""}`}>
-                      {a.title}
+                      {pick(lang, a.title, a.titleVi)}
                     </Link>
                   </li>
                 );
@@ -62,10 +69,10 @@ export default function PathProgress({ path, stepArticles }: { path: LearningPat
 
       {pct === 100 && (
         <div className="neu mt-6 p-6 text-center">
-          <p className="text-lg font-extrabold">Path complete — {path.title} mastered. 🏆</p>
-          <p className="mt-1 text-sm text-[color:var(--muted)]">Pick your next path and keep climbing.</p>
+          <p className="text-lg font-extrabold">{t("paths.completeTitle").replace("{t}", pick(lang, path.title, path.vi?.title))}</p>
+          <p className="mt-1 text-sm text-[color:var(--muted)]">{t("paths.completeDesc")}</p>
           <Link href="/learning-paths" className="neu-btn mt-4 inline-block px-5 py-2.5 text-sm font-bold text-[color:var(--orange)]">
-            Browse Learning Paths
+            {t("paths.browsePaths")}
           </Link>
         </div>
       )}

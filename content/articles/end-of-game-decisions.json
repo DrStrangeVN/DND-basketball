@@ -1,1 +1,143 @@
-{"ages":["U16","U18","Adult","Competitive"],"coachingPoints":["Script your top 3 after-timeout plays and practice them under simulated pressure.","Decide your up-3 foul philosophy before the season, not in the moment.","Practice free throws with consequences to simulate late-game pressure.","Debrief every close game: evaluate which decisions were right, regardless of the outcome."],"commonMistakes":["Fouling a jump shooter while ahead late in the game.","Using all timeouts too early and having none left for the final possession.","Forcing a contested three when a quick two was available.","Panicking and abandoning the offense entirely in the last minute."],"dateUpdated":"2026-10-06","description":"How to think in the final two minutes — foul strategy, ATO plays, timeout usage, and staying composed when the game is on the line.","gameSituations":["Tie game, 15 seconds left, one timeout: holding for the final shot.","Up 3 with 8 seconds left: the foul-or-defend decision.","Down 2 with 20 seconds: quick two and foul, or play for the three."],"howTo":[{"detail":"Before the final two minutes, confirm the full picture: score, team fouls, timeouts, bonus situation. Every late-game decision flows from these facts.","title":"Know your scenario"},{"detail":"Decide in advance whether you foul to prevent the tying three or trust your defense — and communicate it clearly so all five players execute the same plan.","title":"Up 3, late: have a foul philosophy"},{"detail":"Know the math cold. A fast two preserves time for another possession; a three ties it immediately. Make this decision before the possession starts, not during it.","title":"Down late: quick two vs. three"},{"detail":"Save at least one timeout for the final possession. Know your sideline and baseline after-timeout plays — the ones you have actually practiced.","title":"Use timeouts to advance and organize"},{"detail":"The last shot should come from your most reliable creator and decision-maker — not necessarily your best shooter. Trust the player who makes the right read under pressure.","title":"Get the ball to your best decision-maker"},{"detail":"Slow your breathing, stick to the plan, and make the simple play. Panic creates turnovers; composure creates good shots. The team takes its emotional cue from its leaders.","title":"Stay composed"}],"hub":"basketball-iq","id":"end-of-game-decisions","level":"advanced","positions":["ALL"],"readTime":7,"related":["clock-management","decision-making","shot-selection-iq"],"slug":"end-of-game-decisions","subcategory":"basketball-iq","tags":["basketball-iq","late-game","strategy","pressure"],"title":"End-of-Game Decisions","whatIsIt":["End-of-game decisions are the choices made in the final minutes when every possession can decide the outcome: whether to foul when up three, when to use timeouts, which play to run out of a timeout, who takes the last shot. The game slows down, the pressure rises, and thinking clearly becomes a skill of its own.","Great closers prepare for these moments long before they arrive. They know the scenarios — up 3, down 2, tie game — and already have a plan for each. Composure is not the absence of pressure; it is having a decision already made before the pressure arrives."],"whyItMatters":["Players remember who made the last shot, but games are usually decided by the five small decisions before it. Teams with a clear late-game plan win more close games regardless of talent. This is where coaching and basketball IQ matter most.","It is also where preparation compounds. A team that has rehearsed its late-game scenarios plays free; a team improvising plays tight. The work done in October wins the game in March."]}
+{
+  "ages": [
+    "U16",
+    "U18",
+    "Adult",
+    "Competitive"
+  ],
+  "coachingPoints": [
+    "Script your top 3 after-timeout plays and practice them under simulated pressure.",
+    "Decide your up-3 foul philosophy before the season, not in the moment.",
+    "Practice free throws with consequences to simulate late-game pressure.",
+    "Debrief every close game: evaluate which decisions were right, regardless of the outcome."
+  ],
+  "commonMistakes": [
+    "Fouling a jump shooter while ahead late in the game.",
+    "Using all timeouts too early and having none left for the final possession.",
+    "Forcing a contested three when a quick two was available.",
+    "Panicking and abandoning the offense entirely in the last minute."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "How to think in the final two minutes — foul strategy, ATO plays, timeout usage, and staying composed when the game is on the line.",
+  "gameSituations": [
+    "Tie game, 15 seconds left, one timeout: holding for the final shot.",
+    "Up 3 with 8 seconds left: the foul-or-defend decision.",
+    "Down 2 with 20 seconds: quick two and foul, or play for the three."
+  ],
+  "howTo": [
+    {
+      "detail": "Before the final two minutes, confirm the full picture: score, team fouls, timeouts, bonus situation. Every late-game decision flows from these facts.",
+      "title": "Know your scenario"
+    },
+    {
+      "detail": "Decide in advance whether you foul to prevent the tying three or trust your defense — and communicate it clearly so all five players execute the same plan.",
+      "title": "Up 3, late: have a foul philosophy"
+    },
+    {
+      "detail": "Know the math cold. A fast two preserves time for another possession; a three ties it immediately. Make this decision before the possession starts, not during it.",
+      "title": "Down late: quick two vs. three"
+    },
+    {
+      "detail": "Save at least one timeout for the final possession. Know your sideline and baseline after-timeout plays — the ones you have actually practiced.",
+      "title": "Use timeouts to advance and organize"
+    },
+    {
+      "detail": "The last shot should come from your most reliable creator and decision-maker — not necessarily your best shooter. Trust the player who makes the right read under pressure.",
+      "title": "Get the ball to your best decision-maker"
+    },
+    {
+      "detail": "Slow your breathing, stick to the plan, and make the simple play. Panic creates turnovers; composure creates good shots. The team takes its emotional cue from its leaders.",
+      "title": "Stay composed"
+    }
+  ],
+  "hub": "basketball-iq",
+  "id": "end-of-game-decisions",
+  "level": "advanced",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 7,
+  "related": [
+    "clock-management",
+    "decision-making",
+    "shot-selection-iq"
+  ],
+  "slug": "end-of-game-decisions",
+  "subcategory": "basketball-iq",
+  "tags": [
+    "basketball-iq",
+    "late-game",
+    "strategy",
+    "pressure"
+  ],
+  "title": "End-of-Game Decisions",
+  "whatIsIt": [
+    "End-of-game decisions are the choices made in the final minutes when every possession can decide the outcome: whether to foul when up three, when to use timeouts, which play to run out of a timeout, who takes the last shot. The game slows down, the pressure rises, and thinking clearly becomes a skill of its own.",
+    "Great closers prepare for these moments long before they arrive. They know the scenarios — up 3, down 2, tie game — and already have a plan for each. Composure is not the absence of pressure; it is having a decision already made before the pressure arrives."
+  ],
+  "whyItMatters": [
+    "Players remember who made the last shot, but games are usually decided by the five small decisions before it. Teams with a clear late-game plan win more close games regardless of talent. This is where coaching and basketball IQ matter most.",
+    "It is also where preparation compounds. A team that has rehearsed its late-game scenarios plays free; a team improvising plays tight. The work done in October wins the game in March."
+  ],
+  "vi": {
+    "title": "Ra Quyết Định Cuối Trận",
+    "description": "Cách tư duy trong hai phút cuối — chiến thuật phạm lỗi, các pha ATO, cách dùng timeout, và giữ bình tĩnh khi trận đấu được định đoạt.",
+    "whatIsIt": [
+      "Ra quyết định cuối trận là những lựa chọn trong vài phút cuối khi mỗi đợt tấn công đều có thể định đoạt kết quả: có nên phạm lỗi khi đang dẫn 3 điểm, khi nào dùng timeout, chạy bài nào sau timeout, ai là người ném cú cuối. Nhịp trận đấu chậm lại, áp lực tăng cao, và tư duy tỉnh táo trở thành một kỹ năng của riêng nó.",
+      "Những cầu thủ kết liễu trận đấu giỏi chuẩn bị cho những khoảnh khắc này từ rất lâu trước khi chúng đến. Họ biết các kịch bản — dẫn 3, kém 2, hòa điểm — và đã có sẵn kế hoạch cho từng kịch bản. Bình tĩnh không phải là không có áp lực; bình tĩnh là đã có sẵn quyết định trước khi áp lực ập đến."
+    ],
+    "whyItMatters": [
+      "Người ta nhớ ai là người ném cú cuối, nhưng trận đấu thường được định đoạt bởi năm quyết định nhỏ trước đó. Những đội có kế hoạch cuối trận rõ ràng thắng nhiều trận sát nút hơn bất kể tài năng. Đây là lúc huấn luyện và IQ bóng rổ quan trọng nhất.",
+      "Đây cũng là lúc sự chuẩn bị cộng dồn. Một đội đã tập dượt các kịch bản cuối trận sẽ chơi thoải mái; một đội ứng biến tại chỗ sẽ chơi căng cứng. Công sức bỏ ra trong tháng Mười sẽ thắng trận đấu vào tháng Ba."
+    ],
+    "howTo": [
+      {
+        "title": "Nắm rõ kịch bản",
+        "detail": "Trước hai phút cuối, xác nhận đầy đủ bức tranh: tỷ số, lỗi đồng đội, số timeout, tình trạng bonus. Mọi quyết định cuối trận đều xuất phát từ những dữ kiện này."
+      },
+      {
+        "title": "Dẫn 3, cuối trận: có triết lý phạm lỗi",
+        "detail": "Quyết định từ trước xem bạn có phạm lỗi để ngăn cú ném ba gỡ hòa hay tin vào hàng thủ — và truyền đạt rõ ràng để cả năm cầu thủ thực hiện cùng một kế hoạch."
+      },
+      {
+        "title": "Đang kém cuối trận: ném hai nhanh hay ném ba",
+        "detail": "Nắm chắc phép tính. Một cú ném hai nhanh giữ lại thời gian cho đợt tấn công tiếp theo; một cú ném ba gỡ hòa ngay lập tức. Hãy quyết định trước khi đợt tấn công bắt đầu, đừng quyết trong lúc đang đánh."
+      },
+      {
+        "title": "Dùng timeout để đưa bóng lên và tổ chức",
+        "detail": "Giữ lại ít nhất một timeout cho đợt tấn công cuối. Nắm rõ các bài sau timeout từ biên dọc và biên ngang — những bài bạn thực sự đã tập."
+      },
+      {
+        "title": "Đưa bóng cho người ra quyết định tốt nhất",
+        "detail": "Cú ném cuối nên đến từ cầu thủ kiến tạo và ra quyết định đáng tin cậy nhất — không nhất thiết là tay ném giỏi nhất. Hãy tin người đưa ra lựa chọn đúng dưới áp lực."
+      },
+      {
+        "title": "Giữ bình tĩnh",
+        "detail": "Thở chậm lại, bám sát kế hoạch, và thực hiện pha đơn giản. Hoảng loạn tạo ra turnover; bình tĩnh tạo ra cú ném tốt. Cả đội sẽ lấy cảm xúc từ những người thủ lĩnh."
+      }
+    ],
+    "coachingPoints": [
+      "Soạn sẵn 3 bài sau timeout hay nhất và tập chúng dưới áp lực mô phỏng.",
+      "Quyết định triết lý phạm lỗi khi dẫn 3 điểm từ trước mùa giải, đừng quyết trong khoảnh khắc.",
+      "Tập ném phạt có 'hình phạt' để mô phỏng áp lực cuối trận.",
+      "Mổ xẻ mọi trận sát nút: đánh giá quyết định nào đúng, bất kể kết quả ra sao."
+    ],
+    "commonMistakes": [
+      "Phạm lỗi với tay ném đang nhảy ném khi đang dẫn điểm cuối trận.",
+      "Dùng hết timeout quá sớm và không còn timeout nào cho đợt tấn công cuối.",
+      "Cố ném ba bị kèm chặt trong khi hoàn toàn có thể ném hai nhanh.",
+      "Hoảng loạn và bỏ hẳn lối đánh trong phút cuối."
+    ],
+    "gameSituations": [
+      "Trận hòa, còn 15 giây, một timeout: giữ bóng cho cú ném cuối.",
+      "Dẫn 3 điểm còn 8 giây: quyết định phạm lỗi hay phòng thủ.",
+      "Kém 2 điểm còn 20 giây: ném hai nhanh rồi phạm lỗi, hay đánh để ném ba."
+    ],
+    "tags": [
+      "iq bóng rổ",
+      "cuối trận",
+      "chiến thuật",
+      "áp lực"
+    ]
+  }
+}

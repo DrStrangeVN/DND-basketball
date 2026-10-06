@@ -122,5 +122,61 @@
     "pick-and-roll-basics",
     "pocket-pass-pnr"
   ],
-  "dateUpdated": "2026-10-06"
+  "dateUpdated": "2026-10-06",
+  "vi": {
+    "coachingPoints": [
+      "Chỉ dạy kỹ thuật snake sau khi cách đọc pull-up trước drop đã thành bản năng — đó là đòn phản lại sự chấp nhận, không phải lựa chọn mặc định.",
+      "Nhấn mạnh việc giữ big man ở hông sau; mất đi sự khóa chặt đó sẽ biến pha snake thành một cái bẫy.",
+      "Tập với một hậu vệ drop thật — thời điểm tái tấn công không thể học được khi tập chay.",
+      "Đếm số nhịp dẫn: hai nhịp để snake, hai nhịp để tấn công. Nhiều hơn thì sự hỗ trợ sẽ tới."
+    ],
+    "commonMistakes": [
+      "Luồn quá sâu về phía đường biên cuối sân, nơi bẫy phòng thủ và đường biên giết chết pha bóng.",
+      "Mất bóng vì dẫn quá cao trong lúc cố giữ big man sau lưng.",
+      "Snake khi hàng thủ đang hedge hoặc đổi người — động tác này chỉ đánh bại được drop."
+    ],
+    "description": "Người dẫn bóng dẫn ngược về phía tấm chắn để tái tấn công hậu vệ drop không chịu bước lên.",
+    "gameSituations": [
+      "Khi đối đầu phòng thủ drop với một hậu vệ biết dứt điểm và một big man roll mạnh.",
+      "Khi cú pull-up không vào và bạn cần tạo áp lực vào rổ bằng cách khác.",
+      "Cuối đồng hồ, khi một pha tấn công lao xuống tốt hơn một cú jumper bị kèm."
+    ],
+    "howTo": [
+      {
+        "detail": "Khi bạn bật ra khỏi tấm chắn, hãy nhìn thấy big man đang lùi về khu vực cấm thay vì bước lên. Độ sâu đó chính là lời mời để bạn snake.",
+        "title": "Nhận diện phòng thủ drop"
+      },
+      {
+        "detail": "Hạ thấp trọng tâm, bảo vệ bóng bằng cơ thể, và giữ big man ở hông sau của bạn. Một pha dẫn bóng cao hoặc lỏng lẻo sẽ bị chọc mất.",
+        "title": "Giữ bóng sống và thấp"
+      },
+      {
+        "detail": "Dẫn bóng ngang ngược về phía người chắn, dùng cơ thể họ làm lá chắn. Bạn đang tái thiết lập tình huống hai-chọi-một với một đà chạy.",
+        "title": "Luồn ngược sau tấm chắn"
+      },
+      {
+        "detail": "Một khi big man đã bị khóa, hãy bứt tốc tới rổ. Hậu vệ kèm bóng đang đuổi theo và big man phòng thủ drop không kịp hồi phục.",
+        "title": "Tấn công lao xuống ở nhịp thứ hai"
+      },
+      {
+        "detail": "Nếu người ở vị trí thấp xoay sang, hãy chuyền cho người roll hoặc skip ra góc. Kỹ thuật snake tạo ra những lựa chọn đọc bài giống như một pha pick and roll mới — chỉ là gần rổ hơn.",
+        "title": "Đọc sự hỗ trợ khi đột phá"
+      }
+    ],
+    "tags": [
+      "pick and roll",
+      "snake",
+      "phòng thủ drop",
+      "nâng cao"
+    ],
+    "title": "Kỹ thuật dẫn bóng Snake",
+    "whatIsIt": [
+      "Dẫn bóng snake là đòn phản công lại phòng thủ drop. Khi hậu vệ của người chắn lùi sâu để bảo vệ rổ, người dẫn bóng — thay vì chấp nhận cú pull-up — dẫn ngược về phía tấm chắn (luồn sau nó như rắn), giữ big man ở sau lưng và tái tấn công lao xuống rổ.",
+      "Động tác này 'giam' hậu vệ drop: họ bị bỏ lại sau pha bóng, hậu vệ kèm bóng đang đuổi theo, và người dẫn bóng giờ có đà lao tới rổ với người roll bên cạnh. Nó biến một cách phòng thủ an toàn thành bất lợi.",
+      "Nó đòi hỏi khả năng kiểm soát bóng đẳng cấp và sự kiên nhẫn. Luồn quá sâu sẽ mời gọi bẫy phòng thủ; luồn mà không có kế hoạch chỉ đốt đồng hồ tấn công."
+    ],
+    "whyItMatters": [
+      "Phòng thủ drop được thiết kế để lấy đi đường vào rổ và thách bạn ném. Kỹ thuật snake trừng phạt drop bằng cách từ chối lời thách — thay vì một cú pull-up bị kèm, bạn có một pha tấn công lao xuống với big man bị khóa sau lưng. Đó là cách các hậu vệ đẳng cấp hủy diệt những hàng thủ bảo thủ."
+    ]
+  }
 }

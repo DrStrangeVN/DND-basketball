@@ -1,1 +1,146 @@
-{"ages":["U10","U12","U14","U16","U18","Adult"],"coachingPoints":["Attack before the defense is set — the first three seconds of a possession are the most valuable.","Praise the extra pass; punish the forced shot.","Build every drill around a paint touch — no paint touch, no shot.","Teach players to read one defender, then the next — decision-making is sequential."],"commonMistakes":["Walking the ball up and letting the defense set every time.","Dribbling in place with no purpose while four teammates watch.","Forcing shots through two defenders instead of swinging the ball.","Ignoring the mismatch — not attacking when a big is guarding a small."],"dateUpdated":"2026-10-06","description":"The core ideas behind every good offense: pace, spacing, ball movement, paint touches and playing with advantage.","gameSituations":["Early offense — pushing the ball before the defense organizes.","Advantage situations — 2-on-1 or 3-on-2 breaks where the defense is outnumbered.","Mismatch hunting — getting a small defender switched onto your big, or vice versa.","Late clock — with under eight seconds, simplify to one action and one shot."],"howTo":[{"detail":"The ball moves faster than any player can run. A team that passes crisply — two or three quick reversals — forces the defense to rotate until a gap opens.","title":"Move the ball"},{"detail":"Before the defense sets up, you have the biggest advantage you will get all possession. Push the ball up the floor every time; even if you do not score, you force the defense to scramble.","title":"Play with pace"},{"detail":"Every good possession should touch the paint — through a drive, a post entry, or a cut. Paint touches collapse the defense and create open threes and layups on the kick-out.","title":"Touch the paint"},{"detail":"Basketball is a game of advantages: a numbers advantage (2-on-1), a space advantage (an open lane), or a matchup advantage (a big on a small). Create an advantage, then attack it before the defense recovers.","title":"Create and attack advantages"},{"detail":"Once you have an advantage, keep it. Do not let the defense recover by holding the ball. Quick decisions — shoot, drive, or pass within one second of catching — maintain the pressure.","title":"Make quick decisions"},{"detail":"One player dominating the ball makes defense easy: five defenders watch one threat. Share the ball, set screens for each other, and cut hard — movement breaks down even disciplined defenses.","title":"Play as five, not one"}],"hub":"fundamentals","id":"offensive-principles","level":"beginner","positions":["ALL"],"readTime":6,"related":["spacing-basics","defensive-principles","game-flow-tempo","basketball-positions"],"slug":"offensive-principles","subcategory":"fundamentals","tags":["offense","principles","team","basics"],"title":"Core Offensive Principles","whatIsIt":["Offense is not a set of plays — it is a set of principles that any play can follow. The best offenses in the world share the same habits: they move the ball quickly, play at pace, keep the floor spaced, touch the paint, and attack advantages before the defense recovers.","Principles survive when plays break down. A memorized play dies the moment the defense takes it away; a player who understands principles — 'I have an advantage, I attack it now' — makes the right read on any possession."],"whyItMatters":["Coaches cannot call a perfect play every possession. Players who internalize offensive principles make good decisions on their own: they push the ball, swing it to the open man, cut when their defender helps, and take the right shot. These habits are what separate teams that 'run plays' from teams that truly play basketball."]}
+{
+  "ages": [
+    "U10",
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "coachingPoints": [
+    "Attack before the defense is set — the first three seconds of a possession are the most valuable.",
+    "Praise the extra pass; punish the forced shot.",
+    "Build every drill around a paint touch — no paint touch, no shot.",
+    "Teach players to read one defender, then the next — decision-making is sequential."
+  ],
+  "commonMistakes": [
+    "Walking the ball up and letting the defense set every time.",
+    "Dribbling in place with no purpose while four teammates watch.",
+    "Forcing shots through two defenders instead of swinging the ball.",
+    "Ignoring the mismatch — not attacking when a big is guarding a small."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "The core ideas behind every good offense: pace, spacing, ball movement, paint touches and playing with advantage.",
+  "gameSituations": [
+    "Early offense — pushing the ball before the defense organizes.",
+    "Advantage situations — 2-on-1 or 3-on-2 breaks where the defense is outnumbered.",
+    "Mismatch hunting — getting a small defender switched onto your big, or vice versa.",
+    "Late clock — with under eight seconds, simplify to one action and one shot."
+  ],
+  "howTo": [
+    {
+      "detail": "The ball moves faster than any player can run. A team that passes crisply — two or three quick reversals — forces the defense to rotate until a gap opens.",
+      "title": "Move the ball"
+    },
+    {
+      "detail": "Before the defense sets up, you have the biggest advantage you will get all possession. Push the ball up the floor every time; even if you do not score, you force the defense to scramble.",
+      "title": "Play with pace"
+    },
+    {
+      "detail": "Every good possession should touch the paint — through a drive, a post entry, or a cut. Paint touches collapse the defense and create open threes and layups on the kick-out.",
+      "title": "Touch the paint"
+    },
+    {
+      "detail": "Basketball is a game of advantages: a numbers advantage (2-on-1), a space advantage (an open lane), or a matchup advantage (a big on a small). Create an advantage, then attack it before the defense recovers.",
+      "title": "Create and attack advantages"
+    },
+    {
+      "detail": "Once you have an advantage, keep it. Do not let the defense recover by holding the ball. Quick decisions — shoot, drive, or pass within one second of catching — maintain the pressure.",
+      "title": "Make quick decisions"
+    },
+    {
+      "detail": "One player dominating the ball makes defense easy: five defenders watch one threat. Share the ball, set screens for each other, and cut hard — movement breaks down even disciplined defenses.",
+      "title": "Play as five, not one"
+    }
+  ],
+  "hub": "fundamentals",
+  "id": "offensive-principles",
+  "level": "beginner",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 6,
+  "related": [
+    "spacing-basics",
+    "defensive-principles",
+    "game-flow-tempo",
+    "basketball-positions"
+  ],
+  "slug": "offensive-principles",
+  "subcategory": "fundamentals",
+  "tags": [
+    "offense",
+    "principles",
+    "team",
+    "basics"
+  ],
+  "title": "Core Offensive Principles",
+  "whatIsIt": [
+    "Offense is not a set of plays — it is a set of principles that any play can follow. The best offenses in the world share the same habits: they move the ball quickly, play at pace, keep the floor spaced, touch the paint, and attack advantages before the defense recovers.",
+    "Principles survive when plays break down. A memorized play dies the moment the defense takes it away; a player who understands principles — 'I have an advantage, I attack it now' — makes the right read on any possession."
+  ],
+  "whyItMatters": [
+    "Coaches cannot call a perfect play every possession. Players who internalize offensive principles make good decisions on their own: they push the ball, swing it to the open man, cut when their defender helps, and take the right shot. These habits are what separate teams that 'run plays' from teams that truly play basketball."
+  ],
+  "vi": {
+    "title": "Các Nguyên Tắc Tấn Công Cốt Lõi",
+    "description": "Những ý tưởng cốt lõi đằng sau mọi hàng công hay: tốc độ, spacing, luân chuyển bóng, chạm paint và chơi với lợi thế.",
+    "whatIsIt": [
+      "Tấn công không phải là một tập hợp các bài đánh — mà là một tập hợp các nguyên tắc mà bất kỳ bài đánh nào cũng có thể tuân theo. Những hàng công hay nhất thế giới đều có chung thói quen: họ luân chuyển bóng nhanh, chơi với tốc độ, giữ sân giãn rộng, chạm paint, và tấn công lợi thế trước khi hàng thủ hồi phục.",
+      "Nguyên tắc sống sót khi bài đánh vỡ. Một bài đánh học thuộc chết ngay khi hàng thủ khóa nó; một cầu thủ hiểu nguyên tắc — 'Tôi có lợi thế, tôi tấn công ngay' — sẽ đọc đúng mọi lượt bóng."
+    ],
+    "whyItMatters": [
+      "Huấn luyện viên không thể gọi một bài đánh hoàn hảo mỗi lượt bóng. Những cầu thủ thấm nhuần các nguyên tắc tấn công sẽ tự ra quyết định tốt: họ đẩy bóng lên, chuyền cho người trống, cắt khi hậu vệ của mình đi hỗ trợ, và chọn cú ném đúng. Những thói quen này là điều phân biệt các đội 'chạy bài' với các đội thực sự chơi bóng rổ."
+    ],
+    "howTo": [
+      {
+        "title": "Luân chuyển bóng",
+        "detail": "Bóng di chuyển nhanh hơn bất kỳ cầu thủ nào có thể chạy. Một đội chuyền bóng sắc nét — hai ba lần đảo cánh nhanh — buộc hàng thủ phải xoay xở cho đến khi khe hở mở ra."
+      },
+      {
+        "title": "Chơi với tốc độ",
+        "detail": "Trước khi hàng thủ vào vị trí, bạn có lợi thế lớn nhất của cả lượt bóng. Đẩy bóng lên sân mọi lần; dù không ghi điểm, bạn cũng buộc hàng thủ phải cuống cuồng."
+      },
+      {
+        "title": "Chạm paint",
+        "detail": "Mọi lượt bóng tốt đều nên chạm paint — qua một pha đột phá, một đường chuyền vào post, hoặc một pha cắt. Chạm paint kéo sập hàng thủ và tạo ra các cú ba điểm trống và layup từ đường kick-out."
+      },
+      {
+        "title": "Tạo và tấn công lợi thế",
+        "detail": "Bóng rổ là trò chơi của lợi thế: lợi thế quân số (2-đánh-1), lợi thế khoảng trống (một đường trống mở), hoặc lợi thế cặp đấu (một big kèm một small). Tạo ra lợi thế, rồi tấn công nó trước khi hàng thủ hồi phục."
+      },
+      {
+        "title": "Ra quyết định nhanh",
+        "detail": "Khi đã có lợi thế, hãy giữ nó. Đừng để hàng thủ hồi phục bằng cách giữ bóng. Những quyết định nhanh — ném, đột phá hoặc chuyền trong một giây sau khi nhận bóng — duy trì áp lực."
+      },
+      {
+        "title": "Chơi như một tập thể năm người",
+        "detail": "Một cầu thủ ôm bóng khiến việc phòng thủ trở nên dễ dàng: năm hậu vệ chỉ cần nhìn một mối đe dọa. Hãy chia sẻ bóng, dựng screen cho nhau và cắt mạnh — chuyển động đánh bại cả những hàng thủ kỷ luật nhất."
+      }
+    ],
+    "coachingPoints": [
+      "Tấn công trước khi hàng thủ vào vị trí — ba giây đầu của lượt bóng là quý giá nhất.",
+      "Khen ngợi đường chuyền thêm; phạt cú ném cố ép.",
+      "Xây dựng mọi bài tập quanh một pha chạm paint — không chạm paint, không ném.",
+      "Dạy cầu thủ đọc một hậu vệ, rồi đến hậu vệ tiếp theo — ra quyết định là một quá trình tuần tự."
+    ],
+    "commonMistakes": [
+      "Dắt bóng chậm lên và để hàng thủ vào vị trí mọi lần.",
+      "Dẫn bóng tại chỗ vô mục đích trong khi bốn đồng đội đứng nhìn.",
+      "Cố ném xuyên qua hai hậu vệ thay vì đảo bóng.",
+      "Bỏ qua cặp đấu lệch — không tấn công khi một big đang kèm một small."
+    ],
+    "gameSituations": [
+      "Tấn công sớm (early offense) — đẩy bóng lên trước khi hàng thủ tổ chức.",
+      "Các tình huống có lợi thế — pha 2-đánh-1 hoặc 3-đánh-2 khi hàng thủ thiếu người.",
+      "Săn cặp đấu lệch — để một hậu vệ nhỏ bị switch sang kèm big của bạn, hoặc ngược lại.",
+      "Cuối đồng hồ — khi còn dưới tám giây, đơn giản hóa thành một động tác và một cú ném."
+    ],
+    "tags": [
+      "tấn công",
+      "nguyên tắc",
+      "đồng đội",
+      "cơ bản"
+    ]
+  }
+}

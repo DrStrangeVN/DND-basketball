@@ -40,5 +40,56 @@
   "regression": "Stand even closer, allow makes off the backboard, or shoot seated-style with just the arm lift to isolate the wrist snap.",
   "gameApplication": "Every jump shot in a game starts with this release — clean form from close range makes your catch-and-shoot and pull-up mechanics hold up under pressure.",
   "related": ["spot-shooting-ladder","free-throw-routine"],
-  "dateUpdated": "2026-10-06"
+  "dateUpdated": "2026-10-06",
+  "vi":   {
+    "title": "Form Shooting — Chỉnh Form Ném",
+    "description": "Ném một tay gần rổ để xây dựng kỹ thuật sạch: truyền lực thẳng, cổ tay bật gọn và cảm giác bóng mềm mại ở mọi cú ném.",
+    "goal": "Khắc sâu kỹ thuật ném có thể lặp lại — chân trụ cân bằng, tay guide thẳng, cổ tay bật sạch — từ cự ly gần.",
+    "setup": [
+      "Bắt đầu cách rổ 3-5 feet (khoảng 1-1,5m), đối diện rổ hơi chếch một góc.",
+      "Chỉ ném bằng một tay; giấu tay còn lại sau lưng.",
+      "Đặt tay ném dưới bóng, cổ tay gập sẵn, các ngón tay xòe ra.",
+      "Đứng trong tư thế thể thao, chân cùng bên tay ném hơi đưa lên trước."
+    ],
+    "instructions": [
+      {
+        "title": "Vào 5 quả bên phải",
+        "detail": "Ném 5 lần vào chỉ bằng tay ném, giữ nguyên follow-through ở mọi lượt cho đến khi bóng chạm vành."
+      },
+      {
+        "title": "Đổi bên",
+        "detail": "Di chuyển sang phía trái của rổ và ném thêm 5 quả, giữ cùng nhịp một tay."
+      },
+      {
+        "title": "Ra giữa",
+        "detail": "Ném 5 quả ngay chính diện, giữ khuỷu tay dưới bóng và tay guide tránh khỏi đường bóng."
+      },
+      {
+        "title": "Thêm tay guide",
+        "detail": "Đặt tay còn lại bên hông bóng chỉ để giữ — rồi ném 10 lần vào; tay guide không được đẩy hay làm bóng xoáy ngang."
+      },
+      {
+        "title": "Chốt bằng swish",
+        "detail": "Đặt mục tiêu 5 cú swish liên tiếp; chạm vành thì đếm lại từ đầu và tập trung vào độ xoáy ngược (backspin) mềm mại ở mỗi lần release."
+      }
+    ],
+    "coachingPoints": [
+      "Khuỷu tay dưới bóng, cổ tay ném gập hết cỡ trước khi nâng bóng lên.",
+      "Bóng rời khỏi ngón trỏ và ngón giữa với độ xoáy ngược sạch.",
+      "Giữ follow-through — 'tay thò vào hũ bánh' — đến khi bóng chạm vành.",
+      "Tiếp đất cân bằng, mắt khóa vào mép trước của vành rổ."
+    ],
+    "commonMistakes": [
+      "Tay guide đẩy bóng gây xoáy ngang — giữ tay còn lại thụ động và rút sớm.",
+      "Ném ngắn, thiếu bật cổ tay — kết thúc với các ngón tay chỉ xuống sàn.",
+      "Nghiêng người khi release — vuông vai và tiếp đất đúng chỗ đã bật."
+    ],
+    "progression": "Thêm tay guide rồi lùi dần từng bước chân, sau đó thêm shot fake hoặc pull-up một nhịp rê trong khi giữ nguyên kỹ thuật release.",
+    "regression": "Đứng gần hơn nữa, cho phép bóng vào qua bảng, hoặc ném kiểu ngồi chỉ dùng tay để cô lập cú bật cổ tay.",
+    "gameApplication": "Mọi cú jump shot trong trận đều bắt đầu từ cú release này — form sạch từ cự ly gần giúp kỹ thuật catch-and-shoot và pull-up của bạn đứng vững dưới áp lực.",
+    "players": "1",
+    "equipment": [
+      "Bóng rổ"
+    ]
+  }
 }

@@ -1,1 +1,130 @@
-{"ages":["U8","U10","U12","U14","U16","U18","Adult"],"coachingPoints":["Aim the bounce about two-thirds of the way to your target — the ball should arrive at waist height.","Push through the pass, not down at the floor; the bounce is a byproduct, not the goal.","Step into it like a chest pass — same footwork, different target zone.","The lower the bounce point, the slower the pass — against close defenders, bounce it closer to yourself.","Keep it crisp; a slow bounce pass is just a turnover waiting to happen."],"commonMistakes":["Aiming the bounce too close to your own feet — the ball arrives at the receiver's shins.","Throwing it too hard at the floor — it rockets past the target's hands.","Using it when a direct chest pass is open — bounce passes are slower; don't use them unnecessarily.","One-handing it lazily across your body — weak angle, easy steal."],"dateUpdated":"2026-10-06","description":"The pass that goes under the defense — bounce it around outstretched arms and into a teammate's hands.","gameSituations":["Feeding the post against a fronting defender — bounce it to the low side.","Against a zone defense with high hands — bounce it through the gaps.","Entry passes when the defender overplays the passing lane."],"howTo":[{"detail":"Hold the ball at chest or waist height, same grip as a chest pass. Decide your target — usually a post player or a cutter — and picture the bounce point.","title":"Read the defender's hands"},{"detail":"Step toward the target. Your step sells direction and adds power, exactly like a chest pass.","title":"Step into the pass"},{"detail":"Aim your release at a spot on the floor roughly two-thirds of the distance to your teammate. Push the ball forward and slightly down — think 'through the floor,' not 'at the floor.'","title":"Target the two-thirds bounce point"},{"detail":"Snap your wrists and follow through toward the target. The ball should hit the floor once and arrive at the receiver's waist — never at their feet.","title":"Snap and follow through"}],"hub":"skills","id":"bounce-pass","level":"beginner","positions":["ALL"],"readTime":4,"related":["chest-pass","pocket-pass","drive-and-kick","post-positioning","pivot"],"slug":"bounce-pass","subcategory":"passing","tags":["passing","fundamentals","post entry"],"title":"Bounce Pass","whatIsIt":["The bounce pass is a two-handed pass that hits the floor once between you and your teammate. It travels under the defender's hands instead of through them, making it the safest pass in traffic.","Where a chest pass flies straight into outstretched arms, the bounce pass ducks underneath. It's the classic post-entry pass and the go-to option when a defender is playing the passing lane aggressively."],"whyItMatters":["Defenders are taught to get their hands up and deflect passes. The bounce pass punishes that: hands up means hands can't reach the floor. Learning when to bounce and when to go direct is a core part of basketball IQ — the right pass type turns turnovers into easy baskets."]}
+{
+  "ages": [
+    "U8",
+    "U10",
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "coachingPoints": [
+    "Aim the bounce about two-thirds of the way to your target — the ball should arrive at waist height.",
+    "Push through the pass, not down at the floor; the bounce is a byproduct, not the goal.",
+    "Step into it like a chest pass — same footwork, different target zone.",
+    "The lower the bounce point, the slower the pass — against close defenders, bounce it closer to yourself.",
+    "Keep it crisp; a slow bounce pass is just a turnover waiting to happen."
+  ],
+  "commonMistakes": [
+    "Aiming the bounce too close to your own feet — the ball arrives at the receiver's shins.",
+    "Throwing it too hard at the floor — it rockets past the target's hands.",
+    "Using it when a direct chest pass is open — bounce passes are slower; don't use them unnecessarily.",
+    "One-handing it lazily across your body — weak angle, easy steal."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "The pass that goes under the defense — bounce it around outstretched arms and into a teammate's hands.",
+  "gameSituations": [
+    "Feeding the post against a fronting defender — bounce it to the low side.",
+    "Against a zone defense with high hands — bounce it through the gaps.",
+    "Entry passes when the defender overplays the passing lane."
+  ],
+  "howTo": [
+    {
+      "detail": "Hold the ball at chest or waist height, same grip as a chest pass. Decide your target — usually a post player or a cutter — and picture the bounce point.",
+      "title": "Read the defender's hands"
+    },
+    {
+      "detail": "Step toward the target. Your step sells direction and adds power, exactly like a chest pass.",
+      "title": "Step into the pass"
+    },
+    {
+      "detail": "Aim your release at a spot on the floor roughly two-thirds of the distance to your teammate. Push the ball forward and slightly down — think 'through the floor,' not 'at the floor.'",
+      "title": "Target the two-thirds bounce point"
+    },
+    {
+      "detail": "Snap your wrists and follow through toward the target. The ball should hit the floor once and arrive at the receiver's waist — never at their feet.",
+      "title": "Snap and follow through"
+    }
+  ],
+  "hub": "skills",
+  "id": "bounce-pass",
+  "level": "beginner",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 4,
+  "related": [
+    "chest-pass",
+    "pocket-pass",
+    "drive-and-kick",
+    "post-positioning",
+    "pivot"
+  ],
+  "slug": "bounce-pass",
+  "subcategory": "passing",
+  "tags": [
+    "passing",
+    "fundamentals",
+    "post entry"
+  ],
+  "title": "Bounce Pass",
+  "whatIsIt": [
+    "The bounce pass is a two-handed pass that hits the floor once between you and your teammate. It travels under the defender's hands instead of through them, making it the safest pass in traffic.",
+    "Where a chest pass flies straight into outstretched arms, the bounce pass ducks underneath. It's the classic post-entry pass and the go-to option when a defender is playing the passing lane aggressively."
+  ],
+  "whyItMatters": [
+    "Defenders are taught to get their hands up and deflect passes. The bounce pass punishes that: hands up means hands can't reach the floor. Learning when to bounce and when to go direct is a core part of basketball IQ — the right pass type turns turnovers into easy baskets."
+  ],
+  "vi": {
+    "coachingPoints": [
+      "Nhắm điểm nảy cách mục tiêu khoảng hai phần ba quãng đường — bóng nên đến tay người nhận ở ngang thắt lưng",
+      "Đẩy bóng xuyên qua đường chuyền, đừng đập xuống sàn; cú nảy chỉ là hệ quả, không phải mục tiêu",
+      "Bước tới như chuyền ngực — bước chân giống nhau, chỉ khác vùng đích đến",
+      "Điểm nảy càng thấp, đường chuyền càng chậm — trước hậu vệ áp sát, hãy nảy bóng gần mình hơn",
+      "Giữ đường chuyền gọn; một đường bounce pass chậm chỉ là một pha mất bóng đang chờ xảy ra"
+    ],
+    "commonMistakes": [
+      "Nhắm điểm nảy quá gần chân mình — bóng đến ống chân người nhận",
+      "Đập bóng quá mạnh xuống sàn — nó bay vọt qua tay mục tiêu",
+      "Dùng bounce pass khi đường chuyền ngực đang trống — bounce pass chậm hơn; đừng dùng khi không cần",
+      "Chuyền một tay hời hợt ngang người — góc yếu, dễ bị cướp"
+    ],
+    "description": "Đường chuyền đi dưới hàng thủ — nảy bóng qua những cánh tay giơ cao và vào tay đồng đội.",
+    "gameSituations": [
+      "Đưa bóng vào post trước hậu vệ fronting — nảy bóng về phía thấp",
+      "Trước hàng thủ zone giơ tay cao — nảy bóng qua các khe hở",
+      "Những đường chuyền vào khi hậu vệ bắt bài đường chuyền"
+    ],
+    "howTo": [
+      {
+        "detail": "Giữ bóng ở ngang ngực hoặc thắt lưng, cách cầm bóng như chuyền ngực. Xác định mục tiêu — thường là cầu thủ post hoặc người cắt vào — và hình dung điểm nảy.",
+        "title": "Đọc tay của hậu vệ"
+      },
+      {
+        "detail": "Bước về phía mục tiêu. Bước chân tạo hướng và thêm lực, giống hệt chuyền ngực.",
+        "title": "Bước tới khi chuyền"
+      },
+      {
+        "detail": "Nhắm điểm bóng rời tay xuống một điểm trên sàn cách đồng đội khoảng hai phần ba quãng đường. Đẩy bóng về phía trước và hơi xuống — hãy nghĩ 'xuyên qua sàn', đừng nghĩ 'đập vào sàn'.",
+        "title": "Nhắm điểm nảy ở hai phần ba quãng đường"
+      },
+      {
+        "detail": "Gập cổ tay và vung tay theo đà về phía mục tiêu. Bóng nên chạm sàn một lần và đến thắt lưng người nhận — không bao giờ đến chân họ.",
+        "title": "Gập cổ tay và vung theo đà"
+      }
+    ],
+    "tags": [
+      "chuyền bóng",
+      "kỹ thuật cơ bản",
+      "chuyền vào post"
+    ],
+    "title": "Chuyền Nảy Đất",
+    "whatIsIt": [
+      "Bounce pass là đường chuyền hai tay chạm sàn một lần giữa bạn và đồng đội. Nó đi dưới tay hậu vệ thay vì xuyên qua, nên đây là đường chuyền an toàn nhất khi đông người.",
+      "Trong khi chuyền ngực bay thẳng vào những cánh tay giơ ra, bounce pass lách xuống dưới. Đây là đường chuyền vào post kinh điển và là lựa chọn quen thuộc khi hậu vệ bắt bài đường chuyền quyết liệt."
+    ],
+    "whyItMatters": [
+      "Hậu vệ được dạy giơ tay cao để gạt đường chuyền. Bounce pass trừng phạt điều đó: tay giơ cao nghĩa là tay không với tới sàn. Học khi nào nên nảy bóng và khi nào nên chuyền thẳng là một phần cốt lõi của basketball IQ — chọn đúng loại đường chuyền biến mất bóng thành những cú ném dễ."
+    ]
+  }
+}

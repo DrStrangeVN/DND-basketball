@@ -133,5 +133,61 @@
     "ball-handler-reads",
     "horns-pick-and-roll"
   ],
-  "dateUpdated": "2026-10-06"
+  "dateUpdated": "2026-10-06",
+  "vi": {
+    "title": "Pick & Pop",
+    "description": "Thay vì roll, người chắn (screener) bật ra khoảng trống để ném sau khi đặt screen.",
+    "whatIsIt": [
+      "Pick-and-pop là anh em song sinh của pick-and-roll: người chắn đặt screen, rồi thay vì roll vào rổ, bật ra ngoài vòng — thường là đỉnh hoặc cánh — để ném thoáng.",
+      "Nó trừng phạt hàng thủ dồn quá nhiều vào roll. Khi hậu vệ của người chắn chìm xuống bảo vệ paint hoặc hỗ trợ bóng, pha pop khiến họ ở quá xa để contest cú ném.",
+      "Pha pop biến các big ném được thành vũ khí tấn công. Một trung phong đặt screen thật rồi ném trúng 3 điểm sẽ làm méo mó cả hàng thủ."
+    ],
+    "whyItMatters": [
+      "Big chỉ biết roll khiến hàng thủ giữ người bảo vệ rổ ở nhà. Mối đe dọa pop kéo người đó ra khỏi paint, mở đường đột phá cho hậu vệ và đường cắt cho mọi người. Ngay cả mối đe dọa pop cũng thay đổi cách phòng thủ kèm screen."
+    ],
+    "howTo": [
+      {
+        "title": "Đặt screen thật trước đã",
+        "detail": "Pha pop chỉ hiệu quả khi screen là thật. Screen ẩu khiến cả hai hậu vệ vẫn bám được, và pha pop sẽ bị contest."
+      },
+      {
+        "title": "Đọc hậu vệ của mình",
+        "detail": "Nếu họ lùi về rổ hoặc hỗ trợ bóng, hãy pop. Nếu họ vẫn bám bạn, hãy roll — lấy những gì họ cho."
+      },
+      {
+        "title": "Pop ra khoảng trống, không phải vị trí cố định",
+        "detail": "Bật ra vùng trống nơi hậu vệ không kịp quay lại — thường là lên trên và ra ngoài, tránh đường đột phá của người giữ bóng."
+      },
+      {
+        "title": "Sẵn sàng ném khi bắt bóng",
+        "detail": "Chân đặt sẵn, tay sẵn sàng, mắt nhìn rổ ngay khi pop. Cửa sổ ném rất ngắn; chuẩn bị là tất cả."
+      },
+      {
+        "title": "Giữ roll làm đòn phản",
+        "detail": "Nếu hàng thủ bắt đầu lao ra contest pha pop, lần sau hãy slip hoặc roll. Mối đe dọa của cả hai mới làm cho từng cái hiệu quả."
+      }
+    ],
+    "coachingPoints": [
+      "Big phải tập bộ pháp pick-and-pop: đặt screen, xoay người ra, chạy nước rút tới điểm — đó là một mẫu di chuyển riêng",
+      "Dạy cách đọc, không dạy quy tắc cứng: pop hay roll do hậu vệ quyết định, không bao giờ định trước",
+      "Người giữ bóng phải tìm pha pop sớm — chuyền muộn là bị contest",
+      "Rebound: người pop ở xa rổ, nên các hậu vệ phải lao vào tranh bóng khi pha pop lên"
+    ],
+    "commonMistakes": [
+      "Pop trước khi đặt screen — không va chạm nghĩa là không có khoảng trống",
+      "Pop vào đúng đường đột phá của người giữ bóng, làm tắc pha bóng",
+      "Định trước pha pop, bỏ qua một pha roll vào rổ đang trống trải"
+    ],
+    "gameSituations": [
+      "Khi có big ném được chống hàng thủ drop-coverage chìm xuống paint",
+      "Khi hàng thủ hỗ trợ quá nhiều vào roll, bỏ trống vòng ngoài",
+      "Cuối trận cần 3 điểm: pick-and-pop cho big ném tốt nhất"
+    ],
+    "tags": [
+      "pick and pop",
+      "ném rổ",
+      "pick and roll",
+      "giãn đội hình"
+    ]
+  }
 }

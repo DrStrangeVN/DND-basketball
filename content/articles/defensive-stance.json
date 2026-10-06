@@ -1,1 +1,144 @@
-{"ages":["U10","U12","U14","U16","U18","Adult"],"coachingPoints":["Weight on the balls of the feet, heels lightly touching or just off the floor","Knees bent so deep the thighs are roughly parallel to the floor","Chest up and eyes on the ball handler's midsection","Active hands — one hand high to contest a shot, one hand low to deflect a dribble","Feet wider than shoulders, toes pointed slightly outward","Stay low for the whole possession; standing up gives the offense the advantage"],"commonMistakes":["Standing straight up — fix by sitting back into the hips as if into a chair","Leaning forward past the toes — keeps weight on the balls of the feet, not the toes","Looking at the ball instead of the chest — ball fakes beat eyes that watch the ball","Flat feet — stay on the balls of the feet so every step is explosive","Reaching with the hands instead of moving the feet — move feet first, hands second"],"dateUpdated":"2026-10-06","description":"Learn the correct defensive stance: foot position, knee bend, and hand placement that let you guard any player.","gameSituations":["Guarding the ball anywhere on the court","Defending off the ball in a gap or help position","Switching onto a new matchup mid-possession","Late-game situations where one stop decides the game"],"howTo":[{"detail":"Place your feet wider than your shoulders, about one foot wider than a normal standing width. Point your toes slightly outward for balance.","title":"Set a wide base"},{"detail":"Bend at the knees and sit back into your hips. Your thighs should be roughly parallel to the floor. Keep your back flat and chest up, not hunched over.","title":"Sit low with knees bent"},{"detail":"Shift your weight forward so it sits on the balls of your feet. Your heels can be lightly on the floor, but never plant your weight on them.","title":"Weight on the balls of your feet"},{"detail":"Keep one hand high near shoulder level to contest a shot and one hand low near hip level to take away the dribble. Palms open, fingers spread.","title":"Position active hands"},{"detail":"Lock your eyes on the ball handler's chest or belt line, not on the ball. The chest cannot lie; the ball and head can fake you out.","title":"Eyes on the midsection"}],"hub":"defense","id":"defensive-stance","level":"beginner","positions":["ALL"],"readTime":4,"related":["on-ball-defense","closeout-defense","help-defense","gap-defense"],"slug":"defensive-stance","subcategory":"defense-fundamentals","tags":["defense","stance","fundamentals","footwork"],"title":"Defensive Stance","whatIsIt":["The defensive stance is the ready position every defender uses to guard an opponent. It is a low, balanced athletic posture with a wide base, bent knees, weight on the balls of the feet, and active hands. Everything a defender does — sliding, closing out, helping, rebounding — starts from this stance.","Think of it as the defensive equivalent of the offensive triple threat. A good stance makes you quicker in every direction, harder to beat off the dribble, and able to change direction instantly. A bad stance makes even average offensive players look unstoppable."],"whyItMatters":["Defense is played in short, explosive bursts, and the stance is what makes those bursts possible. A defender who stands tall cannot react; one who stays low can slide, recover, and contest without wasted motion. Nearly every defensive breakdown in youth and amateur basketball traces back to a defender who stood up at the wrong moment."]}
+{
+  "ages": [
+    "U10",
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "coachingPoints": [
+    "Weight on the balls of the feet, heels lightly touching or just off the floor",
+    "Knees bent so deep the thighs are roughly parallel to the floor",
+    "Chest up and eyes on the ball handler's midsection",
+    "Active hands — one hand high to contest a shot, one hand low to deflect a dribble",
+    "Feet wider than shoulders, toes pointed slightly outward",
+    "Stay low for the whole possession; standing up gives the offense the advantage"
+  ],
+  "commonMistakes": [
+    "Standing straight up — fix by sitting back into the hips as if into a chair",
+    "Leaning forward past the toes — keeps weight on the balls of the feet, not the toes",
+    "Looking at the ball instead of the chest — ball fakes beat eyes that watch the ball",
+    "Flat feet — stay on the balls of the feet so every step is explosive",
+    "Reaching with the hands instead of moving the feet — move feet first, hands second"
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "Learn the correct defensive stance: foot position, knee bend, and hand placement that let you guard any player.",
+  "gameSituations": [
+    "Guarding the ball anywhere on the court",
+    "Defending off the ball in a gap or help position",
+    "Switching onto a new matchup mid-possession",
+    "Late-game situations where one stop decides the game"
+  ],
+  "howTo": [
+    {
+      "detail": "Place your feet wider than your shoulders, about one foot wider than a normal standing width. Point your toes slightly outward for balance.",
+      "title": "Set a wide base"
+    },
+    {
+      "detail": "Bend at the knees and sit back into your hips. Your thighs should be roughly parallel to the floor. Keep your back flat and chest up, not hunched over.",
+      "title": "Sit low with knees bent"
+    },
+    {
+      "detail": "Shift your weight forward so it sits on the balls of your feet. Your heels can be lightly on the floor, but never plant your weight on them.",
+      "title": "Weight on the balls of your feet"
+    },
+    {
+      "detail": "Keep one hand high near shoulder level to contest a shot and one hand low near hip level to take away the dribble. Palms open, fingers spread.",
+      "title": "Position active hands"
+    },
+    {
+      "detail": "Lock your eyes on the ball handler's chest or belt line, not on the ball. The chest cannot lie; the ball and head can fake you out.",
+      "title": "Eyes on the midsection"
+    }
+  ],
+  "hub": "defense",
+  "id": "defensive-stance",
+  "level": "beginner",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 4,
+  "related": [
+    "on-ball-defense",
+    "closeout-defense",
+    "help-defense",
+    "gap-defense"
+  ],
+  "slug": "defensive-stance",
+  "subcategory": "defense-fundamentals",
+  "tags": [
+    "defense",
+    "stance",
+    "fundamentals",
+    "footwork"
+  ],
+  "title": "Defensive Stance",
+  "whatIsIt": [
+    "The defensive stance is the ready position every defender uses to guard an opponent. It is a low, balanced athletic posture with a wide base, bent knees, weight on the balls of the feet, and active hands. Everything a defender does — sliding, closing out, helping, rebounding — starts from this stance.",
+    "Think of it as the defensive equivalent of the offensive triple threat. A good stance makes you quicker in every direction, harder to beat off the dribble, and able to change direction instantly. A bad stance makes even average offensive players look unstoppable."
+  ],
+  "whyItMatters": [
+    "Defense is played in short, explosive bursts, and the stance is what makes those bursts possible. A defender who stands tall cannot react; one who stays low can slide, recover, and contest without wasted motion. Nearly every defensive breakdown in youth and amateur basketball traces back to a defender who stood up at the wrong moment."
+  ],
+  "vi": {
+    "coachingPoints": [
+      "Trọng lượng dồn lên mũi bàn chân, gót chạm nhẹ sàn hoặc hơi nhấc",
+      "Gối gập sâu đến mức đùi gần song song với sàn",
+      "Ngực ưỡn, mắt nhìn vào giữa người của người cầm bóng",
+      "Tay linh hoạt — một tay cao để contest cú ném, một tay thấp để gạt bóng dẫn",
+      "Chân rộng hơn vai, mũi chân hơi hướng ra ngoài",
+      "Giữ thấp suốt đợt phòng thủ; đứng dậy là tặng lợi thế cho hàng công"
+    ],
+    "commonMistakes": [
+      "Đứng thẳng người — cách sửa: ngồi xuống vào hông như ngồi ghế",
+      "Nghiêng người quá mũi chân — giữ trọng lượng ở mũi bàn chân, không phải ngón chân",
+      "Nhìn vào bóng thay vì ngực — những cú giả bóng đánh bại đôi mắt nhìn bóng",
+      "Chân phẳng — đứng trên mũi bàn chân để mọi bước đều bùng nổ",
+      "Với tay thay vì di chuyển chân — di chuyển chân trước, tay sau"
+    ],
+    "description": "Học tư thế phòng thủ đúng: vị trí chân, độ gập gối và đặt tay để kèm được mọi cầu thủ.",
+    "gameSituations": [
+      "Kèm bóng ở bất cứ đâu trên sân",
+      "Phòng thủ không bóng ở vị trí gap hoặc hỗ trợ",
+      "Switch sang kèm người mới giữa đợt tấn công",
+      "Cuối trận khi một pha chặn quyết định trận đấu"
+    ],
+    "howTo": [
+      {
+        "detail": "Đặt chân rộng hơn vai, rộng hơn khoảng một bàn chân so với đứng bình thường. Mũi chân hơi hướng ra ngoài để giữ thăng bằng.",
+        "title": "Tạo trụ rộng"
+      },
+      {
+        "detail": "Gập gối và ngồi xuống vào hông. Đùi nên gần song song với sàn. Giữ lưng thẳng và ngực ưỡn, đừng gù.",
+        "title": "Ngồi thấp với gối cong"
+      },
+      {
+        "detail": "Dồn trọng lượng về phía trước lên mũi bàn chân. Gót có thể chạm nhẹ sàn, nhưng đừng bao giờ đặt trọng lượng lên gót.",
+        "title": "Trọng lượng ở mũi bàn chân"
+      },
+      {
+        "detail": "Giữ một tay cao ngang vai để contest cú ném và một tay thấp ngang hông để lấy đường dẫn bóng. Lòng bàn tay mở, ngón tay xòe.",
+        "title": "Đặt tay linh hoạt"
+      },
+      {
+        "detail": "Khóa mắt vào ngực hoặc thắt lưng của người cầm bóng, không phải quả bóng. Ngực không biết nói dối; bóng và đầu có thể giả bạn.",
+        "title": "Mắt nhìn vào giữa người"
+      }
+    ],
+    "tags": [
+      "phòng thủ",
+      "tư thế",
+      "kỹ thuật cơ bản",
+      "di chuyển chân"
+    ],
+    "title": "Tư Thế Phòng Thủ",
+    "whatIsIt": [
+      "Tư thế phòng thủ là vị trí sẵn sàng mà mọi hậu vệ dùng để kèm đối thủ. Đó là tư thế thể thao thấp, cân bằng với trụ rộng, gối cong, trọng lượng ở mũi bàn chân và tay linh hoạt. Mọi việc hậu vệ làm — trượt chân, closeout, hỗ trợ, bắt bóng bật bảng — đều bắt đầu từ tư thế này.",
+      "Hãy coi nó như phiên bản phòng thủ của triple threat tấn công. Tư thế tốt giúp bạn nhanh hơn mọi hướng, khó bị vượt qua khi dẫn bóng hơn, và đổi hướng ngay lập tức. Tư thế tệ khiến ngay cả cầu thủ tấn công trung bình cũng trông không thể cản."
+    ],
+    "whyItMatters": [
+      "Phòng thủ diễn ra trong những pha bùng nổ ngắn, và tư thế là thứ làm những pha bùng nổ đó khả thi. Hậu vệ đứng cao không thể phản ứng; người giữ thấp có thể trượt chân, lui về và contest mà không lãng phí chuyển động. Gần như mọi pha vỡ trận phòng thủ ở bóng rổ trẻ và phong trào đều bắt nguồn từ một hậu vệ đứng dậy sai thời điểm."
+    ]
+  }
+}

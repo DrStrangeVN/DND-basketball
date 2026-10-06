@@ -1,1 +1,145 @@
-{"ages":["U14","U16","U18","Adult","Competitive"],"coachingPoints":["Define what an advantage looks like for your team so every player can recognize one instantly.","Drill \"advantage starts\": 1v1 with a closing defender, pick-and-roll against a hedge — begin the rep from the advantage.","Teach players to value the hockey assist — the pass that creates the assist pass.","Track advantages created per game as a development metric, not just points and assists."],"commonMistakes":["Trying to create an advantage with a low-percentage isolation instead of using the offense.","Creating an advantage and then stopping — never attacking the rotation it caused.","Ignoring transition advantages by jogging instead of sprinting into offense.","Hunting a mismatch so long that the whole offense stalls."],"dateUpdated":"2026-10-06","description":"Learn how advantages are created in basketball — beating your man, drawing two defenders — the first step of every great offense.","gameSituations":["Pick-and-roll that draws both defenders to the ball, leaving the roller free.","Closeout attack: a defender sprinting at the shooter becomes a driving lane.","Transition: pushing for a 3-on-2 before the defense gets set."],"howTo":[{"detail":"The simplest advantage. A clean first step that gets your shoulder past the defender forces the defense to send help — and help means someone is open.","title":"Beat your man"},{"detail":"The pick-and-roll is the most reliable advantage generator in basketball. Set the screen shoulder-to-shoulder, use it tight, and attack downhill to force two defenders onto the ball.","title":"Use ball screens"},{"detail":"A hard closeout is an advantage waiting to happen. When a defender sprints at you out of control, one hard dribble past their hip turns their momentum against them.","title":"Attack closeouts"},{"detail":"A hard cut that loses your defender creates an advantage for you and for the passer. Lazy cuts create nothing; sprinted cuts bend the defense.","title":"Cut with purpose"},{"detail":"Numbers advantages like 3-on-2 and 2-on-1 exist for seconds. Sprint the floor to create them before the defense gets set — jogging wastes them.","title":"Push in transition"},{"detail":"Recognize when a slower defender is switched onto you or a smaller one is in the post, and attack immediately before the defense can hide them again.","title":"Hunt mismatches"}],"hub":"basketball-iq","id":"creating-advantages","level":"advanced","positions":["ALL"],"readTime":6,"related":["maintaining-advantages","pick-and-roll-reads","decision-making","reading-the-defense"],"slug":"creating-advantages","subcategory":"basketball-iq","tags":["basketball-iq","advantage","offense","pick-and-roll"],"title":"Creating Advantages","whatIsIt":["An advantage is any situation where the offense holds a numbers or positioning edge — a 2-on-1, a defender trailing the play, a big switched onto a guard, a closeout arriving late. Nothing good happens in basketball until an advantage is created; everything after that is about using it.","Advantages are created, not found. You create them by beating your defender off the dribble, by setting a great screen, by cutting hard, by pushing the ball in transition. The best offenses are machines for manufacturing small advantages on every single possession."],"whyItMatters":["This is how modern basketball is played: create an advantage, then attack the rotation it causes. Teams that cannot create advantages settle for contested shots; teams that can get open shots on nearly every trip. Understanding advantages turns random offense into a system.","It also simplifies the game for young players. Instead of memorizing dozens of plays, they learn one job: create an edge, then make the next right read. That scales from youth basketball to the pros."]}
+{
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult",
+    "Competitive"
+  ],
+  "coachingPoints": [
+    "Define what an advantage looks like for your team so every player can recognize one instantly.",
+    "Drill \"advantage starts\": 1v1 with a closing defender, pick-and-roll against a hedge — begin the rep from the advantage.",
+    "Teach players to value the hockey assist — the pass that creates the assist pass.",
+    "Track advantages created per game as a development metric, not just points and assists."
+  ],
+  "commonMistakes": [
+    "Trying to create an advantage with a low-percentage isolation instead of using the offense.",
+    "Creating an advantage and then stopping — never attacking the rotation it caused.",
+    "Ignoring transition advantages by jogging instead of sprinting into offense.",
+    "Hunting a mismatch so long that the whole offense stalls."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "Learn how advantages are created in basketball — beating your man, drawing two defenders — the first step of every great offense.",
+  "gameSituations": [
+    "Pick-and-roll that draws both defenders to the ball, leaving the roller free.",
+    "Closeout attack: a defender sprinting at the shooter becomes a driving lane.",
+    "Transition: pushing for a 3-on-2 before the defense gets set."
+  ],
+  "howTo": [
+    {
+      "detail": "The simplest advantage. A clean first step that gets your shoulder past the defender forces the defense to send help — and help means someone is open.",
+      "title": "Beat your man"
+    },
+    {
+      "detail": "The pick-and-roll is the most reliable advantage generator in basketball. Set the screen shoulder-to-shoulder, use it tight, and attack downhill to force two defenders onto the ball.",
+      "title": "Use ball screens"
+    },
+    {
+      "detail": "A hard closeout is an advantage waiting to happen. When a defender sprints at you out of control, one hard dribble past their hip turns their momentum against them.",
+      "title": "Attack closeouts"
+    },
+    {
+      "detail": "A hard cut that loses your defender creates an advantage for you and for the passer. Lazy cuts create nothing; sprinted cuts bend the defense.",
+      "title": "Cut with purpose"
+    },
+    {
+      "detail": "Numbers advantages like 3-on-2 and 2-on-1 exist for seconds. Sprint the floor to create them before the defense gets set — jogging wastes them.",
+      "title": "Push in transition"
+    },
+    {
+      "detail": "Recognize when a slower defender is switched onto you or a smaller one is in the post, and attack immediately before the defense can hide them again.",
+      "title": "Hunt mismatches"
+    }
+  ],
+  "hub": "basketball-iq",
+  "id": "creating-advantages",
+  "level": "advanced",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 6,
+  "related": [
+    "maintaining-advantages",
+    "pick-and-roll-reads",
+    "decision-making",
+    "reading-the-defense"
+  ],
+  "slug": "creating-advantages",
+  "subcategory": "basketball-iq",
+  "tags": [
+    "basketball-iq",
+    "advantage",
+    "offense",
+    "pick-and-roll"
+  ],
+  "title": "Creating Advantages",
+  "whatIsIt": [
+    "An advantage is any situation where the offense holds a numbers or positioning edge — a 2-on-1, a defender trailing the play, a big switched onto a guard, a closeout arriving late. Nothing good happens in basketball until an advantage is created; everything after that is about using it.",
+    "Advantages are created, not found. You create them by beating your defender off the dribble, by setting a great screen, by cutting hard, by pushing the ball in transition. The best offenses are machines for manufacturing small advantages on every single possession."
+  ],
+  "whyItMatters": [
+    "This is how modern basketball is played: create an advantage, then attack the rotation it causes. Teams that cannot create advantages settle for contested shots; teams that can get open shots on nearly every trip. Understanding advantages turns random offense into a system.",
+    "It also simplifies the game for young players. Instead of memorizing dozens of plays, they learn one job: create an edge, then make the next right read. That scales from youth basketball to the pros."
+  ],
+  "vi": {
+    "coachingPoints": [
+      "Định nghĩa lợi thế trông như thế nào cho đội bạn để mọi cầu thủ nhận ra ngay lập tức",
+      "Tập 'khởi đầu từ lợi thế': 1 đấu 1 với hậu vệ đang áp sát, pick-and-roll trước hedge — bắt đầu bài tập từ thế có lợi",
+      "Dạy cầu thủ trân trọng đường chuyền hockey assist — đường chuyền tạo ra đường kiến tạo",
+      "Theo dõi số lợi thế tạo ra mỗi trận như một chỉ số phát triển, không chỉ điểm và kiến tạo"
+    ],
+    "commonMistakes": [
+      "Cố tạo lợi thế bằng isolation tỷ lệ thấp thay vì dùng hệ thống tấn công",
+      "Tạo được lợi thế rồi dừng lại — không bao giờ tấn công vào pha xoay chuyển mà nó gây ra",
+      "Bỏ qua lợi thế phản công vì chạy bộ thay vì chạy nước rút vào tấn công",
+      "Săn mismatch quá lâu khiến cả hệ thống tấn công đình trệ"
+    ],
+    "description": "Học cách lợi thế được tạo ra trong bóng rổ — vượt qua người kèm, kéo hai hậu vệ — bước đầu tiên của mọi hàng công vĩ đại.",
+    "gameSituations": [
+      "Pick-and-roll kéo cả hai hậu vệ về phía bóng, để người lăn tự do",
+      "Tấn công closeout: hậu vệ chạy nước rút về phía tay ném trở thành một đường đột phá",
+      "Phản công: đẩy nhanh để có thế 3 đấu 2 trước khi hàng thủ kịp bày trận"
+    ],
+    "howTo": [
+      {
+        "detail": "Lợi thế đơn giản nhất. Một bước đầu gọn gàng đưa vai bạn qua hậu vệ buộc hàng thủ phải gửi người hỗ trợ — mà hỗ trợ nghĩa là có người đang trống.",
+        "title": "Vượt qua người kèm"
+      },
+      {
+        "detail": "Pick-and-roll là cỗ máy tạo lợi thế đáng tin cậy nhất trong bóng rổ. Dựng màn chắn sát vai, dùng màn chắn chặt, và tấn công xuống dốc để ép hai hậu vệ vào bóng.",
+        "title": "Dùng màn chắn bóng"
+      },
+      {
+        "detail": "Một pha closeout quyết liệt là một lợi thế đang chờ xảy ra. Khi hậu vệ chạy nước rút về phía bạn mất kiểm soát, một cú dẫn mạnh qua hông anh ta biến đà của anh ta thành chống lại chính anh ta.",
+        "title": "Tấn công closeout"
+      },
+      {
+        "detail": "Một pha cắt mạnh bỏ lại hậu vệ tạo lợi thế cho bạn và cho người chuyền. Cắt hời hợt không tạo ra gì; cắt hết tốc lực làm cong hàng thủ.",
+        "title": "Cắt có mục đích"
+      },
+      {
+        "detail": "Những lợi thế hơn người như 3 đấu 2 và 2 đấu 1 chỉ tồn tại vài giây. Chạy nước rút khắp sân để tạo ra chúng trước khi hàng thủ kịp bày trận — chạy bộ là lãng phí chúng.",
+        "title": "Đẩy nhanh trong phản công"
+      },
+      {
+        "detail": "Nhận ra khi một hậu vệ chậm hơn bị switch sang kèm bạn hay một người nhỏ con hơn đang ở trong post, và tấn công ngay trước khi hàng thủ kịp giấu họ đi.",
+        "title": "Săn mismatch"
+      }
+    ],
+    "tags": [
+      "basketball iq",
+      "lợi thế",
+      "tấn công",
+      "pick and roll"
+    ],
+    "title": "Tạo Lợi Thế",
+    "whatIsIt": [
+      "Lợi thế là bất kỳ tình huống nào mà hàng công nắm ưu thế về quân số hay vị trí — 2 đấu 1, một hậu vệ bị bỏ lại phía sau, một big bị switch sang kèm hậu vệ, một pha closeout đến muộn. Không điều tốt đẹp nào xảy ra trong bóng rổ cho đến khi lợi thế được tạo ra; mọi thứ sau đó là về cách tận dụng nó.",
+      "Lợi thế được tạo ra, không phải được tìm thấy. Bạn tạo ra chúng bằng cách vượt hậu vệ khi dẫn bóng, bằng một màn chắn tuyệt vời, bằng pha cắt mạnh, bằng cách đẩy bóng trong phản công. Những hàng công hay nhất là những cỗ máy sản xuất lợi thế nhỏ trong từng đợt tấn công."
+    ],
+    "whyItMatters": [
+      "Đây là cách bóng rổ hiện đại vận hành: tạo lợi thế, rồi tấn công vào pha xoay chuyển mà nó gây ra. Những đội không tạo được lợi thế đành chấp nhận những cú ném bị contest; những đội làm được có những cú ném trống gần như mỗi đợt bóng. Hiểu về lợi thế biến một hệ thống tấn công ngẫu nhiên thành có tổ chức.",
+      "Nó cũng đơn giản hóa trận đấu cho cầu thủ trẻ. Thay vì thuộc lòng hàng chục bài đánh, họ học một nhiệm vụ: tạo ra một ưu thế, rồi ra quyết định đúng tiếp theo. Điều đó đúng từ bóng rổ trẻ đến chuyên nghiệp."
+    ]
+  }
+}

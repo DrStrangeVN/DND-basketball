@@ -1,1 +1,140 @@
-{"ages":["U8","U10","U12","U14","U16","U18","Adult"],"coachingPoints":["Rebound with two hands at the highest point — one-hand tips are for emergencies only.","Chin the ball the instant you secure it — elbows out, pivots ready.","Land in a wide stance, not narrow — narrow landings get stripped.","Outlet quickly: the best fast breaks start 2 seconds after the rebound.","Communicate: call 'shot!' then 'ball!' so teammates know the plan."],"commonMistakes":["Bringing the rebound down to the waist — small guards strip bigs who do this.","One-handing rebounds in traffic — the ball gets knocked loose.","Standing flat-footed watching — rebounding rewards the player who moves first.","Throwing a lazy outlet pass — turnovers right after a great rebound are killers."],"dateUpdated":"2026-10-06","description":"End every defensive possession: box out, attack the ball, and launch the break.","gameSituations":["After any missed shot when you're on defense — all five players have a job.","Free throws — the two defensive spots must secure the board.","Against three-point-heavy teams — long rebounds need guards crashing too."],"howTo":[{"detail":"When the shot goes up, your first move is to your man, not the ball. All five defenders box out — even guards on the perimeter.","title":"Box out first"},{"detail":"Read the shot's trajectory: short shots bounce long, long shots bounce short, and most misses come off the opposite side of the rim. Move to where the ball is going.","title":"Read the bounce"},{"detail":"Time your jump to meet the ball at its highest point. Extend fully and grab it with two strong hands — 'snatch' it out of the air.","title":"Attack at the peak"},{"detail":"Bring the ball to your chin with elbows out as you land. This protects it from guards trying to strip it on your way down.","title":"Chin it and land wide"},{"detail":"Pivot away from pressure and fire a crisp outlet pass to a guard — or push it yourself. The break starts with your decision.","title":"Outlet and go"}],"hub":"skills","id":"defensive-rebounding","level":"beginner","positions":["ALL"],"readTime":5,"related":["box-out","offensive-rebounding","post-positioning","chest-pass","jump-stop"],"slug":"defensive-rebounding","subcategory":"rebounding","tags":["rebounding","defense","box out","transition"],"title":"Defensive Rebounding","whatIsIt":["Defensive rebounding is securing the ball after the opponent misses — the act that officially ends their possession. It combines the box-out with reading the bounce, attacking the ball, and starting the break.","Statistics are clear: teams that defensive-rebound well give up fewer points, because second-chance opportunities are the most efficient shots in basketball. It's a five-player job — not just the bigs. Guards who crash long rebounds swing games."],"whyItMatters":["A defensive possession without a rebound is wasted work. All the effort of forcing a miss evaporates when the offense gets the putback. Great defensive rebounding teams control tempo, limit easy points, and start more fast breaks — it's defense and offense in one skill."]}
+{
+  "ages": [
+    "U8",
+    "U10",
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "coachingPoints": [
+    "Rebound with two hands at the highest point — one-hand tips are for emergencies only.",
+    "Chin the ball the instant you secure it — elbows out, pivots ready.",
+    "Land in a wide stance, not narrow — narrow landings get stripped.",
+    "Outlet quickly: the best fast breaks start 2 seconds after the rebound.",
+    "Communicate: call 'shot!' then 'ball!' so teammates know the plan."
+  ],
+  "commonMistakes": [
+    "Bringing the rebound down to the waist — small guards strip bigs who do this.",
+    "One-handing rebounds in traffic — the ball gets knocked loose.",
+    "Standing flat-footed watching — rebounding rewards the player who moves first.",
+    "Throwing a lazy outlet pass — turnovers right after a great rebound are killers."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "End every defensive possession: box out, attack the ball, and launch the break.",
+  "gameSituations": [
+    "After any missed shot when you're on defense — all five players have a job.",
+    "Free throws — the two defensive spots must secure the board.",
+    "Against three-point-heavy teams — long rebounds need guards crashing too."
+  ],
+  "howTo": [
+    {
+      "detail": "When the shot goes up, your first move is to your man, not the ball. All five defenders box out — even guards on the perimeter.",
+      "title": "Box out first"
+    },
+    {
+      "detail": "Read the shot's trajectory: short shots bounce long, long shots bounce short, and most misses come off the opposite side of the rim. Move to where the ball is going.",
+      "title": "Read the bounce"
+    },
+    {
+      "detail": "Time your jump to meet the ball at its highest point. Extend fully and grab it with two strong hands — 'snatch' it out of the air.",
+      "title": "Attack at the peak"
+    },
+    {
+      "detail": "Bring the ball to your chin with elbows out as you land. This protects it from guards trying to strip it on your way down.",
+      "title": "Chin it and land wide"
+    },
+    {
+      "detail": "Pivot away from pressure and fire a crisp outlet pass to a guard — or push it yourself. The break starts with your decision.",
+      "title": "Outlet and go"
+    }
+  ],
+  "hub": "skills",
+  "id": "defensive-rebounding",
+  "level": "beginner",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 5,
+  "related": [
+    "box-out",
+    "offensive-rebounding",
+    "post-positioning",
+    "chest-pass",
+    "jump-stop"
+  ],
+  "slug": "defensive-rebounding",
+  "subcategory": "rebounding",
+  "tags": [
+    "rebounding",
+    "defense",
+    "box out",
+    "transition"
+  ],
+  "title": "Defensive Rebounding",
+  "whatIsIt": [
+    "Defensive rebounding is securing the ball after the opponent misses — the act that officially ends their possession. It combines the box-out with reading the bounce, attacking the ball, and starting the break.",
+    "Statistics are clear: teams that defensive-rebound well give up fewer points, because second-chance opportunities are the most efficient shots in basketball. It's a five-player job — not just the bigs. Guards who crash long rebounds swing games."
+  ],
+  "whyItMatters": [
+    "A defensive possession without a rebound is wasted work. All the effort of forcing a miss evaporates when the offense gets the putback. Great defensive rebounding teams control tempo, limit easy points, and start more fast breaks — it's defense and offense in one skill."
+  ],
+  "vi": {
+    "coachingPoints": [
+      "Bắt bóng bật bảng bằng hai tay ở điểm cao nhất — tip một tay chỉ dành cho tình huống khẩn cấp",
+      "Ôm bóng vào cằm ngay khi giữ được nó — khuỷu tay mở, sẵn sàng xoay người",
+      "Tiếp đất ở trụ rộng, không hẹp — tiếp đất hẹp dễ bị gạt bóng",
+      "Chuyền outlet nhanh: những đợt fast break hay nhất bắt đầu 2 giây sau pha bắt bóng bật bảng",
+      "Giao tiếp: hô 'shot!' rồi 'ball!' để đồng đội biết kế hoạch"
+    ],
+    "commonMistakes": [
+      "Hạ bóng bắt được xuống thắt lưng — hậu vệ nhỏ con gạt bóng của những big làm vậy",
+      "Bắt bóng một tay khi đông người — bóng bị đánh bật ra",
+      "Đứng chôn chân nhìn — bắt bóng bật bảng thưởng cho người di chuyển trước",
+      "Chuyền outlet hời hợt — mất bóng ngay sau một pha bắt bóng tuyệt vời là thảm họa"
+    ],
+    "description": "Kết thúc mọi đợt phòng thủ: box out, tấn công quả bóng, và mở đợt phản công.",
+    "gameSituations": [
+      "Sau mọi cú ném hỏng khi bạn đang phòng thủ — cả năm người đều có việc",
+      "Ném phạt — hai vị trí phòng thủ phải giữ được bảng rổ",
+      "Trước những đội ném ba điểm nhiều — bóng bật xa cần hậu vệ lao vào tranh nữa"
+    ],
+    "howTo": [
+      {
+        "detail": "Khi bóng được ném lên, động tác đầu tiên của bạn là về phía người kèm, không phải quả bóng. Cả năm hậu vệ đều box out — kể cả hậu vệ ở vòng ngoài.",
+        "title": "Box out trước"
+      },
+      {
+        "detail": "Đọc quỹ đạo cú ném: ném ngắn bật xa, ném xa bật ngắn, và hầu hết cú hỏng bật ra phía đối diện vành rổ. Di chuyển đến nơi bóng sẽ tới.",
+        "title": "Đọc điểm bóng bật"
+      },
+      {
+        "detail": "Căn thời gian nhảy để đón bóng ở điểm cao nhất. Duỗi hết cỡ và tóm bóng bằng hai tay chắc — 'giật' nó khỏi không khí.",
+        "title": "Tấn công ở điểm cao nhất"
+      },
+      {
+        "detail": "Đưa bóng về cằm với khuỷu tay mở khi tiếp đất. Điều này bảo vệ bóng khỏi những hậu vệ cố gạt khi bạn đang rơi xuống.",
+        "title": "Ôm bóng vào cằm và tiếp đất rộng"
+      },
+      {
+        "detail": "Xoay người tránh áp lực và chuyền outlet gọn cho một hậu vệ — hoặc tự đẩy bóng lên. Đợt phản công bắt đầu từ quyết định của bạn.",
+        "title": "Outlet và chạy"
+      }
+    ],
+    "tags": [
+      "bắt bóng bật bảng",
+      "phòng thủ",
+      "box out",
+      "chuyển trạng thái"
+    ],
+    "title": "Bắt Bóng Bật Bảng Phòng Thủ",
+    "whatIsIt": [
+      "Bắt bóng bật bảng phòng thủ là giữ được bóng sau khi đối thủ ném hỏng — hành động chính thức kết thúc đợt tấn công của họ. Nó kết hợp box out với đọc điểm bóng bật, tấn công quả bóng và mở đợt phản công.",
+      "Số liệu rất rõ: những đội bắt bóng bật bảng phòng thủ tốt để thủng lưới ít hơn, vì những cơ hội second-chance là những cú ném hiệu quả nhất trong bóng rổ. Đây là việc của cả năm người — không chỉ các big. Hậu vệ lao vào tranh những pha bóng bật xa có thể xoay chuyển trận đấu."
+    ],
+    "whyItMatters": [
+      "Một đợt phòng thủ không có bắt bóng bật bảng là công sức đổ sông đổ biển. Mọi nỗ lực ép đối thủ ném hỏng tan biến khi họ có pha putback. Những đội bắt bóng bật bảng phòng thủ giỏi kiểm soát nhịp độ, hạn chế điểm dễ, và mở nhiều đợt fast break hơn — đó là phòng thủ và tấn công trong một kỹ năng."
+    ]
+  }
+}

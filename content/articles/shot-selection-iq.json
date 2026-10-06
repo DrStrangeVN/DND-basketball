@@ -1,1 +1,145 @@
-{"ages":["U12","U14","U16","U18","Adult"],"coachingPoints":["Show players their shooting percentages by zone — data changes habits faster than lectures.","Praise a passed-up bad shot as loudly as a made good one.","Define \"your shot\" for each player so everyone knows their green lights.","Drill the kick-out and extra pass to manufacture the shots you want, not just hope for them."],"commonMistakes":["Confusing a make with a good shot — \"it went in, so it was fine\" is flawed logic.","Taking contested long twos early in the shot clock.","Shooting off balance because the player feels \"due\" for a make.","Passing up an open three to dribble into traffic."],"dateUpdated":"2026-10-06","description":"Learn what makes a shot good or bad — it's not just makes and misses. Build a shot diet of layups, free throws, and open threes.","gameSituations":["Transition: choosing between an open corner three and a contested layup.","Late clock: taking the best available shot with 5 seconds left.","After an offensive rebound: kicking out for a clean look versus forcing it back up."],"howTo":[{"detail":"Shots at the rim and open threes are the most efficient shots in basketball; contested long twos are the least. Build your game around the first two and eliminate the third.","title":"Learn the shot spectrum"},{"detail":"Open, on balance, in rhythm — if all three are true, shoot with full confidence. If two are missing, it is probably someone else's shot.","title":"Ask three questions"},{"detail":"If your good shot can become a teammate's great shot with one pass, make the pass. Good teams turn good shots into great ones.","title":"Pass up good for great"},{"detail":"Track where you shoot best and hunt those areas within the offense. Every player has zones — know yours and live in them.","title":"Know your spots"},{"detail":"Early in the clock, only take great shots. Late in the clock, take the best available one. The clock changes what \"good\" means.","title":"Respect the clock"},{"detail":"Percentages reward patience. A missed open three is still the right shot — keep taking good ones and the math works out over time.","title":"Never let a miss change the math"}],"hub":"basketball-iq","id":"shot-selection-iq","level":"intermediate","positions":["ALL"],"readTime":5,"related":["decision-making","reading-the-defense","closeout-reads","maintaining-advantages"],"slug":"shot-selection-iq","subcategory":"basketball-iq","tags":["basketball-iq","shooting","shot-selection","efficiency"],"title":"Shot Selection","whatIsIt":["Shot selection is choosing which shots to take. A good shot is not defined by whether it goes in — it is defined by the odds before it is taken. An open catch-and-shoot three is a good shot even when it misses; a contested fadeaway is a bad shot even when it falls.","The math is simple: shots at the rim and open threes are the most efficient shots in basketball, and long contested twos are the least efficient. Great offensive players build their entire game around the first two and eliminate the third."],"whyItMatters":["Shot selection is the fastest way to raise a player's — and a team's — efficiency. Two players can take the same number of shots and score vastly different points per game purely based on which shots they choose. Coaches trust players who take good shots.","It also stabilizes performance. Players with disciplined shot selection do not slump as hard, because their misses are high-percentage misses that even out. Good process produces reliable results."]}
+{
+  "ages": [
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "coachingPoints": [
+    "Show players their shooting percentages by zone — data changes habits faster than lectures.",
+    "Praise a passed-up bad shot as loudly as a made good one.",
+    "Define \"your shot\" for each player so everyone knows their green lights.",
+    "Drill the kick-out and extra pass to manufacture the shots you want, not just hope for them."
+  ],
+  "commonMistakes": [
+    "Confusing a make with a good shot — \"it went in, so it was fine\" is flawed logic.",
+    "Taking contested long twos early in the shot clock.",
+    "Shooting off balance because the player feels \"due\" for a make.",
+    "Passing up an open three to dribble into traffic."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "Learn what makes a shot good or bad — it's not just makes and misses. Build a shot diet of layups, free throws, and open threes.",
+  "gameSituations": [
+    "Transition: choosing between an open corner three and a contested layup.",
+    "Late clock: taking the best available shot with 5 seconds left.",
+    "After an offensive rebound: kicking out for a clean look versus forcing it back up."
+  ],
+  "howTo": [
+    {
+      "detail": "Shots at the rim and open threes are the most efficient shots in basketball; contested long twos are the least. Build your game around the first two and eliminate the third.",
+      "title": "Learn the shot spectrum"
+    },
+    {
+      "detail": "Open, on balance, in rhythm — if all three are true, shoot with full confidence. If two are missing, it is probably someone else's shot.",
+      "title": "Ask three questions"
+    },
+    {
+      "detail": "If your good shot can become a teammate's great shot with one pass, make the pass. Good teams turn good shots into great ones.",
+      "title": "Pass up good for great"
+    },
+    {
+      "detail": "Track where you shoot best and hunt those areas within the offense. Every player has zones — know yours and live in them.",
+      "title": "Know your spots"
+    },
+    {
+      "detail": "Early in the clock, only take great shots. Late in the clock, take the best available one. The clock changes what \"good\" means.",
+      "title": "Respect the clock"
+    },
+    {
+      "detail": "Percentages reward patience. A missed open three is still the right shot — keep taking good ones and the math works out over time.",
+      "title": "Never let a miss change the math"
+    }
+  ],
+  "hub": "basketball-iq",
+  "id": "shot-selection-iq",
+  "level": "intermediate",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 5,
+  "related": [
+    "decision-making",
+    "reading-the-defense",
+    "closeout-reads",
+    "maintaining-advantages"
+  ],
+  "slug": "shot-selection-iq",
+  "subcategory": "basketball-iq",
+  "tags": [
+    "basketball-iq",
+    "shooting",
+    "shot-selection",
+    "efficiency"
+  ],
+  "title": "Shot Selection",
+  "whatIsIt": [
+    "Shot selection is choosing which shots to take. A good shot is not defined by whether it goes in — it is defined by the odds before it is taken. An open catch-and-shoot three is a good shot even when it misses; a contested fadeaway is a bad shot even when it falls.",
+    "The math is simple: shots at the rim and open threes are the most efficient shots in basketball, and long contested twos are the least efficient. Great offensive players build their entire game around the first two and eliminate the third."
+  ],
+  "whyItMatters": [
+    "Shot selection is the fastest way to raise a player's — and a team's — efficiency. Two players can take the same number of shots and score vastly different points per game purely based on which shots they choose. Coaches trust players who take good shots.",
+    "It also stabilizes performance. Players with disciplined shot selection do not slump as hard, because their misses are high-percentage misses that even out. Good process produces reliable results."
+  ],
+  "vi": {
+    "coachingPoints": [
+      "Cho cầu thủ xem tỷ lệ ném của họ theo từng vùng — số liệu thay đổi thói quen nhanh hơn bài giảng.",
+      "Khen ngợi một cú ném tệ đã được bỏ qua to như khi khen một cú ném tốt đã vào.",
+      "Định nghĩa 'cú ném của bạn' cho từng cầu thủ để mọi người biết khi nào mình được phép ném.",
+      "Tập các đường chuyền kick-out và chuyền thêm một nhịp để tạo ra những cú ném bạn muốn, thay vì chỉ hy vọng."
+    ],
+    "commonMistakes": [
+      "Nhầm lẫn một cú vào với một cú ném tốt — 'nó vào rồi nên ổn' là logic sai lầm.",
+      "Ném hai điểm xa bị kèm sớm trong đồng hồ tấn công.",
+      "Ném trong trạng thái mất thăng bằng vì cầu thủ cảm thấy 'đến lượt' mình phải vào.",
+      "Bỏ qua một cú ba điểm trống để dẫn bóng vào đám đông."
+    ],
+    "description": "Học điều gì tạo nên một cú ném tốt hay tệ — không chỉ là vào hay hỏng. Xây dựng 'thực đơn' cú ném gồm layup, ném phạt và ba điểm trống.",
+    "gameSituations": [
+      "Phản công: lựa chọn giữa cú ba điểm góc trống và một pha layup bị kèm.",
+      "Cuối đồng hồ: ném cú tốt nhất có thể khi còn 5 giây.",
+      "Sau một pha bắt bóng bật bảng tấn công: chuyền ra ngoài cho cú ném sạch hay cố ném lại."
+    ],
+    "howTo": [
+      {
+        "detail": "Các cú ném ở rổ và ba điểm trống là hiệu quả nhất trong bóng rổ; ném hai điểm xa bị kèm là kém nhất. Xây dựng lối chơi quanh hai loại đầu và loại bỏ loại thứ ba.",
+        "title": "Học phổ cú ném"
+      },
+      {
+        "detail": "Trống trải, thăng bằng, đúng nhịp — nếu cả ba đều đúng, hãy ném với sự tự tin tuyệt đối. Nếu thiếu hai trong ba, đó có lẽ là cú ném của người khác.",
+        "title": "Tự hỏi ba câu"
+      },
+      {
+        "detail": "Nếu cú ném tốt của bạn có thể thành cú ném tuyệt vời của đồng đội chỉ bằng một đường chuyền, hãy chuyền. Những đội giỏi biến cú ném tốt thành cú ném tuyệt vời.",
+        "title": "Bỏ cú tốt để lấy cú tuyệt vời"
+      },
+      {
+        "detail": "Theo dõi xem bạn ném tốt nhất ở đâu và săn tìm những khu vực đó trong lối chơi. Mỗi cầu thủ đều có những vùng sở trường — hãy biết vùng của mình và sống trong đó.",
+        "title": "Biết vị trí sở trường của mình"
+      },
+      {
+        "detail": "Đầu đồng hồ tấn công, chỉ ném những cú tuyệt vời. Cuối đồng hồ, hãy ném cú tốt nhất có thể. Đồng hồ thay đổi định nghĩa của 'tốt'.",
+        "title": "Tôn trọng đồng hồ"
+      },
+      {
+        "detail": "Tỷ lệ thưởng cho sự kiên nhẫn. Một cú ba điểm trống bị hỏng vẫn là cú ném đúng — hãy tiếp tục ném những cú tốt và phép tính sẽ đúng theo thời gian.",
+        "title": "Đừng để một cú hỏng thay đổi phép tính"
+      }
+    ],
+    "tags": [
+      "iq bóng rổ",
+      "ném rổ",
+      "lựa chọn cú ném",
+      "hiệu suất"
+    ],
+    "title": "Lựa chọn cú ném",
+    "whatIsIt": [
+      "Lựa chọn cú ném là việc quyết định nên ném cú nào. Một cú ném tốt không được định nghĩa bởi việc nó có vào hay không — mà bởi xác suất trước khi nó được thực hiện. Một cú ném ba điểm catch-and-shoot trống trải là cú ném tốt ngay cả khi hỏng; một cú fadeaway bị kèm chặt là cú ném tệ ngay cả khi vào.",
+      "Phép tính rất đơn giản: các cú ném ở rổ và ba điểm trống là những cú ném hiệu quả nhất trong bóng rổ, còn những cú ném hai điểm xa bị kèm chặt là kém hiệu quả nhất. Những cầu thủ tấn công vĩ đại xây dựng toàn bộ lối chơi quanh hai loại đầu và loại bỏ loại thứ ba."
+    ],
+    "whyItMatters": [
+      "Lựa chọn cú ném là cách nhanh nhất để nâng hiệu suất của một cầu thủ — và của cả đội. Hai cầu thủ có thể ném cùng số lần nhưng ghi số điểm mỗi trận chênh lệch lớn, hoàn toàn dựa trên việc họ chọn cú ném nào. Huấn luyện viên tin tưởng những cầu thủ chọn cú ném tốt.",
+      "Nó còn giúp phong độ ổn định. Những cầu thủ kỷ luật trong lựa chọn cú ném không sa sút nặng, vì những cú hỏng của họ là những cú có tỷ lệ cao sẽ cân bằng lại theo thời gian. Quy trình tốt tạo ra kết quả đáng tin cậy."
+    ]
+  }
+}

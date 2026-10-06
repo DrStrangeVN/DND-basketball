@@ -117,5 +117,61 @@
     "pin-down-screen",
     "iverson-cut"
   ],
-  "dateUpdated": "2026-10-06"
+  "dateUpdated": "2026-10-06",
+  "vi": {
+    "title": "Tấn Công Horns",
+    "description": "Sơ đồ elbow linh hoạt — hai big ở trên, vô vàn cách triển khai, chắn bóng và đòn phản công từ một đội hình.",
+    "whatIsIt": [
+      "Horns là một sơ đồ tấn công, không phải một bài đánh duy nhất: người dẫn bóng ở trên đỉnh, một big ở mỗi elbow, và các wing ở góc sân. Từ một đội hình này, đội có thể chạy chắn bóng hai bên, đưa bóng vào elbow, cắt flex, flare, DHO, và Spain PNR — tất cả mà không đổi đội hình.",
+      "Sự phổ biến của nó đến từ tính đa dạng lựa chọn. Hàng thủ thấy cùng một sơ đồ mọi lần nhưng không bao giờ biết điều gì sắp tới: PNR trái, PNR phải, đưa bóng vào post, hay động tác cho xạ thủ. Sự bất định đó chính là bài tấn công.",
+      "Horns được các huấn luyện viên mọi cấp độ yêu thích vì dễ dạy (một sơ đồ, vị trí rõ ràng) nhưng khó trinh sát (nhiều lựa chọn)."
+    ],
+    "whyItMatters": [
+      "Hầu hết các bài tấn công lộ ý đồ qua sơ đồ. Horns che giấu chúng — cùng một đội hình tạo ra mười đòn tấn công khác nhau. Với đội, nghĩa là ít phải nhớ mà nhiều lựa chọn; với hàng thủ, nghĩa là phải đoán mỗi lần tấn công."
+    ],
+    "howTo": [
+      {
+        "title": "Đặt đúng vị trí",
+        "detail": "Bóng ở trên đỉnh, các big ở elbow (ngang vạch ném phạt kéo dài), wing sâu trong góc. Độ chính xác quan trọng — Horns cẩu thả chỉ là một đám đông."
+      },
+      {
+        "title": "Chọn cách triển khai",
+        "detail": "Các cách triển khai đơn giản nhất: chắn bóng từ một trong hai elbow, nhận bóng ở elbow rồi handoff, hoặc đưa bóng vào wing để chạy flex. Gọi cách triển khai, không phải cả bài đánh."
+      },
+      {
+        "title": "Dùng cả hai big",
+        "detail": "Big không chắn là vũ khí bí mật: chắn lại (re-screen), lao vào (dive), bật ra (pop), hoặc cắt lên high post. Horns một big chỉ là PNR thường."
+      },
+      {
+        "title": "Chuyển sang phía còn lại",
+        "detail": "Nếu động tác đầu bị khóa, xoay bóng và tấn công từ elbow bên kia. Hàng thủ đã dịch chuyển; hãy trừng phạt khoảng trống mới."
+      },
+      {
+        "title": "Giữ góc sân có người",
+        "detail": "Wing ở yên vị trí cho đến khi động tác hình thành. Lực hút ném của họ là thứ giữ paint thoáng cho mọi thứ khác."
+      }
+    ],
+    "coachingPoints": [
+      "Dạy sơ đồ trước mọi bài đánh — cầu thủ phải thuộc vị trí của mình.",
+      "Mỗi tuần lắp một cách triển khai; Horns với năm lựa chọn học dở còn tệ hơn một lựa chọn thành thạo.",
+      "Để hậu vệ dẫn bóng chọn bên — gọi bên cố định nhanh thành dễ đoán.",
+      "Big cần kỹ năng chắn, bật ra, và short-roll; Horns đòi hỏi ở họ rất nhiều."
+    ],
+    "commonMistakes": [
+      "Big đứng quá thấp hoặc quá rộng, phá vỡ hình học elbow.",
+      "Chạy cùng một cách triển khai mọi lần — sức mạnh của sơ đồ nằm ở sự đa dạng.",
+      "Wing trôi vào trong sớm, để hậu vệ hỗ trợ lấp đầy paint."
+    ],
+    "gameSituations": [
+      "Bài ATO và cuối trận, khi một sơ đồ nhiều lựa chọn là lý tưởng.",
+      "Đội có hai big khéo, biết chắn, bật ra và ra quyết định.",
+      "Gặp hàng thủ switch, nơi big thứ hai trừng phạt mọi pha switch."
+    ],
+    "tags": [
+      "horns",
+      "sơ đồ đội hình",
+      "cách triển khai",
+      "tấn công đồng đội"
+    ]
+  }
 }

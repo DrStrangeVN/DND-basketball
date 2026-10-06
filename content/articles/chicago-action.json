@@ -126,5 +126,61 @@
     "zoom-action",
     "iverson-cut"
   ],
-  "dateUpdated": "2026-10-06"
+  "dateUpdated": "2026-10-06",
+  "vi": {
+    "coachingPoints": [
+      "Bước chân của tay ném khi ra khỏi pin down mới là kỹ năng — tập riêng cú curl, cú flare và pha cắt thẳng",
+      "Thời điểm giữa pin down và DHO là tất cả; hãy tập nó như một chuỗi liền mạch",
+      "Dạy tay ném cả ba cách đọc (ném, đột phá, chuyền) — tay ném một chiều sẽ bị bắt bài",
+      "Dùng nó cho tay ném hay nhất, nhưng cũng chạy các bài đối phó: backdoor mở ra khi hậu vệ đeo quá sát"
+    ],
+    "commonMistakes": [
+      "Pin down mềm để hậu vệ luồn qua, phá hỏng thời điểm của mọi thứ phía sau",
+      "Tay ném bắt bóng khi chân đứng yên thay vì đang di chuyển",
+      "Cố ném ba điểm khi đột phá hoặc chuyền bóng mới là cách đọc tốt hơn"
+    ],
+    "description": "Một màn pin down nối vào DHO — bài đánh kinh điển cho tay ném, được mọi hàng công đẳng cấp sử dụng.",
+    "gameSituations": [
+      "Tạo cho tay ném hay nhất một cú nhìn sạch trước hàng thủ tập trung cao độ",
+      "Sau timeout, khi bạn có thể dàn xếp thời điểm chính xác mà bài đánh cần",
+      "Khi hàng thủ switch mọi thứ — pin down tạo ra mismatch trước"
+    ],
+    "howTo": [
+      {
+        "detail": "Big ghim hậu vệ của tay ném xuống thấp. Phải là một màn chắn thật — cả bài đánh phụ thuộc vào việc tay ném đến nơi với khoảng cách an toàn.",
+        "title": "Dựng pin down chắc chắn"
+      },
+      {
+        "detail": "Tay ném ra khỏi màn chắn sát vai, đọc hậu vệ của mình: curl nếu anh ta đuổi theo, flare nếu đã bị bỏ lại.",
+        "title": "Curl sát khỏi pin down"
+      },
+      {
+        "detail": "Khi tay ném thoát khỏi pin down, người cầm bóng dẫn vào pha handoff. Pha trao bóng diễn ra khi đang di chuyển, trôi lên phía trước.",
+        "title": "Đón DHO khi đang chạy"
+      },
+      {
+        "detail": "Sau DHO, tay ném đọc tình huống: ném ba điểm nếu có khoảng trống, đột phá khi hậu vệ lao ra, hoặc chuyền cho người chắn đang lăn vào.",
+        "title": "Xoay người và tấn công"
+      },
+      {
+        "detail": "Người dựng pin down thường trở thành người trao DHO. Dựng màn chắn đầu tiên, rồi chạy nước rút để trao handoff — thể lực rất quan trọng.",
+        "title": "Người chắn: chắn rồi trao bóng"
+      }
+    ],
+    "tags": [
+      "chicago",
+      "pin down",
+      "dho",
+      "bài đánh cho tay ném"
+    ],
+    "title": "Bài Đánh Chicago",
+    "whatIsIt": [
+      "Chicago action là bài đánh hai phần cho tay ném: đầu tiên một màn pin down giải phóng tay ném chạy lên từ baseline, rồi tay ném ngay lập tức nhận DHO từ người chắn và tấn công. Pin down, bắt bóng, handoff — một chuỗi trôi chảy.",
+      "Đây là cách yêu thích của NBA để tạo khoảng trống cho các tay ném đẳng cấp vì nó chồng hai hành động khó kèm lên nhau. Hậu vệ vượt qua một màn chắn, rồi ngay lập tức phải xử lý một pha handoff — thường là trong khi đang bị bỏ lại một bước.",
+      "Bài đánh này mang tên các set đấu thời triangle của Chicago Bulls, nhưng giờ nó đã phổ biến khắp nơi. Nếu bạn xem bất kỳ trận đấu đỉnh cao nào, bạn sẽ thấy Chicago action trong vài phút."
+    ],
+    "whyItMatters": [
+      "Những tay ném vĩ đại thu hút quá nhiều sự chú ý nên một màn chắn không bao giờ đủ. Chicago cho họ hai hành động liên tiếp, và hành động thứ hai bắt đầu khi họ đã đang di chuyển. Đây là cách đáng tin cậy nhất để tạo ra một cú ba điểm trống cho tay ném hay nhất của bạn."
+    ]
+  }
 }

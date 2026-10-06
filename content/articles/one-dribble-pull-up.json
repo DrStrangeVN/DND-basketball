@@ -1,1 +1,135 @@
-{"ages":["U12","U14","U16","U18","Adult"],"coachingPoints":["One dribble only — the move's power is its speed; extra dribbles invite the defense back.","Push the ball out in front on the dribble so your body stays behind the defender's reach.","Eyes to the rim on the dribble, not on the ball — the read happens during the bounce.","Practice the exact game rhythm: catch, one hard dribble, stop, shoot — no pauses between phases.","Add it after your catch-and-shoot reps so the two shots share identical footwork."],"commonMistakes":["Taking two or three dribbles and calling it 'one' — fix: film it; players consistently underestimate their dribble count.","Dribbling into a crowd — fix: the one-dribble is for small gaps; if the lane is closed, pass or relocate.","Stopping off-balance after the dribble — fix: the dribble should travel toward your shooting pocket, not away from your body.","Rising too slowly — fix: the stop-to-shot must be one motion; a hitch at the bottom kills the advantage."],"dateUpdated":"2026-10-06","description":"One hard dribble to escape the closeout, then rise into the jumper — the essential counter for every shooter.","gameSituations":["Attacking a hard closeout — the defender flies at you; one dribble past him creates an open pull-up.","Catching with a defender in your airspace — instead of forcing a contested catch-and-shoot, dribble into space and shoot clean.","Wing isolations — catch on the wing, one dribble toward the middle, rise for the jumper over a smaller defender."],"howTo":[{"detail":"Catch the ball in your shot-ready stance, but read the closeout: if the defender is sprinting at you, the drive lane or the sidestep is open.","title":"Catch and read the closeout"},{"detail":"Attack his lead foot with one hard, low dribble — past his hip, not into his chest. The dribble should carry you 3–5 feet into open space.","title":"Take one explosive dribble"},{"detail":"Gather as the ball returns and stop with a 1-2 or hop, landing balanced and square. Your momentum should carry upward, not sideways.","title":"Stop on balance"},{"detail":"Rise straight into your jumper the instant your feet set. The release should happen before the recovering defender can contest.","title":"Rise into the shot"},{"detail":"Finish with full mechanics and hold the follow-through. One-dribble pull-ups should look exactly like your set shot.","title":"Finish like a normal jumper"}],"hub":"skills","id":"one-dribble-pull-up","level":"intermediate","positions":["ALL"],"readTime":5,"related":["pull-up-jumper","catch-and-shoot","step-back","shot-preparation"],"slug":"one-dribble-pull-up","subcategory":"shooting","tags":["shooting","scoring","footwork"],"title":"One-Dribble Pull-Up","whatIsIt":["The one-dribble pull-up is exactly what it sounds like: catch the ball, take one hard dribble, and rise into your jumper. It is the bridge between catch-and-shoot and full shot creation — the simplest way to turn a contested catch into an open shot.","Shooters live on this move. A defender sprinting at you to contest the three has committed his momentum; one dribble sideways or past him, and that momentum becomes your separation."],"whyItMatters":["Closeouts are the defense's answer to great shooting, and the one-dribble pull-up is the offense's answer to closeouts. A shooter who can only catch and shoot is playable; a shooter who punishes every hard closeout with a dribble into space is unguardable. It is also highly efficient — one dribble means minimal time for help to arrive."]}
+{
+  "ages": [
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "coachingPoints": [
+    "One dribble only — the move's power is its speed; extra dribbles invite the defense back.",
+    "Push the ball out in front on the dribble so your body stays behind the defender's reach.",
+    "Eyes to the rim on the dribble, not on the ball — the read happens during the bounce.",
+    "Practice the exact game rhythm: catch, one hard dribble, stop, shoot — no pauses between phases.",
+    "Add it after your catch-and-shoot reps so the two shots share identical footwork."
+  ],
+  "commonMistakes": [
+    "Taking two or three dribbles and calling it 'one' — fix: film it; players consistently underestimate their dribble count.",
+    "Dribbling into a crowd — fix: the one-dribble is for small gaps; if the lane is closed, pass or relocate.",
+    "Stopping off-balance after the dribble — fix: the dribble should travel toward your shooting pocket, not away from your body.",
+    "Rising too slowly — fix: the stop-to-shot must be one motion; a hitch at the bottom kills the advantage."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "One hard dribble to escape the closeout, then rise into the jumper — the essential counter for every shooter.",
+  "gameSituations": [
+    "Attacking a hard closeout — the defender flies at you; one dribble past him creates an open pull-up.",
+    "Catching with a defender in your airspace — instead of forcing a contested catch-and-shoot, dribble into space and shoot clean.",
+    "Wing isolations — catch on the wing, one dribble toward the middle, rise for the jumper over a smaller defender."
+  ],
+  "howTo": [
+    {
+      "detail": "Catch the ball in your shot-ready stance, but read the closeout: if the defender is sprinting at you, the drive lane or the sidestep is open.",
+      "title": "Catch and read the closeout"
+    },
+    {
+      "detail": "Attack his lead foot with one hard, low dribble — past his hip, not into his chest. The dribble should carry you 3–5 feet into open space.",
+      "title": "Take one explosive dribble"
+    },
+    {
+      "detail": "Gather as the ball returns and stop with a 1-2 or hop, landing balanced and square. Your momentum should carry upward, not sideways.",
+      "title": "Stop on balance"
+    },
+    {
+      "detail": "Rise straight into your jumper the instant your feet set. The release should happen before the recovering defender can contest.",
+      "title": "Rise into the shot"
+    },
+    {
+      "detail": "Finish with full mechanics and hold the follow-through. One-dribble pull-ups should look exactly like your set shot.",
+      "title": "Finish like a normal jumper"
+    }
+  ],
+  "hub": "skills",
+  "id": "one-dribble-pull-up",
+  "level": "intermediate",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 5,
+  "related": [
+    "pull-up-jumper",
+    "catch-and-shoot",
+    "step-back",
+    "shot-preparation"
+  ],
+  "slug": "one-dribble-pull-up",
+  "subcategory": "shooting",
+  "tags": [
+    "shooting",
+    "scoring",
+    "footwork"
+  ],
+  "title": "One-Dribble Pull-Up",
+  "whatIsIt": [
+    "The one-dribble pull-up is exactly what it sounds like: catch the ball, take one hard dribble, and rise into your jumper. It is the bridge between catch-and-shoot and full shot creation — the simplest way to turn a contested catch into an open shot.",
+    "Shooters live on this move. A defender sprinting at you to contest the three has committed his momentum; one dribble sideways or past him, and that momentum becomes your separation."
+  ],
+  "whyItMatters": [
+    "Closeouts are the defense's answer to great shooting, and the one-dribble pull-up is the offense's answer to closeouts. A shooter who can only catch and shoot is playable; a shooter who punishes every hard closeout with a dribble into space is unguardable. It is also highly efficient — one dribble means minimal time for help to arrive."
+  ],
+  "vi": {
+    "title": "Ném Pull-Up Sau Một Lần Dẫn Bóng",
+    "description": "Một lần dẫn bóng mạnh để thoát khỏi closeout, rồi bật lên ném — đòn phản công thiết yếu của mọi tay ném.",
+    "whatIsIt": [
+      "One-dribble pull-up đúng như tên gọi: bắt bóng, dẫn một lần thật mạnh, rồi bật lên ném. Đó là cầu nối giữa ném catch-and-shoot và tự tạo cú ném — cách đơn giản nhất để biến một pha bắt bóng bị kèm chặt thành cú ném thoáng.",
+      "Các tay ném sống nhờ động tác này. Một hậu vệ lao tới để contest cú ném ba của bạn đã dồn hết đà; chỉ cần một lần dẫn bóng sang ngang hoặc vượt qua anh ta, đà đó biến thành khoảng trống của bạn."
+    ],
+    "whyItMatters": [
+      "Closeout là câu trả lời của phòng thủ dành cho những tay ném giỏi, và one-dribble pull-up là câu trả lời của tấn công dành cho closeout. Tay ném chỉ biết catch-and-shoot thì đối phương kèm được; tay ném trừng phạt mọi pha closeout mạnh bằng một lần dẫn bóng vào khoảng trống thì không ai kèm nổi. Động tác này còn rất hiệu quả — một lần dẫn bóng nghĩa là hàng thủ hỗ trợ gần như không kịp tới."
+    ],
+    "howTo": [
+      {
+        "title": "Bắt bóng và đọc closeout",
+        "detail": "Bắt bóng ở tư thế sẵn sàng ném, nhưng phải đọc closeout: nếu hậu vệ đang lao tới, đường đột phá hoặc bước sidestep đang mở."
+      },
+      {
+        "title": "Một lần dẫn bóng bùng nổ",
+        "detail": "Tấn công vào chân trước của hậu vệ bằng một lần dẫn bóng thấp, mạnh — qua hông anh ta, không đâm vào ngực. Lần dẫn bóng nên đưa bạn tiến 3–5 feet (khoảng 1–1,5 m) vào khoảng trống."
+      },
+      {
+        "title": "Dừng lại thăng bằng",
+        "detail": "Thu bóng khi bóng nảy lên và dừng bằng bước 1-2 hoặc nhảy chụm (hop), tiếp đất thăng bằng và vuông góc với rổ. Đà người nên hướng lên trên, không lệch ngang."
+      },
+      {
+        "title": "Bật lên ném ngay",
+        "detail": "Bật thẳng vào cú ném ngay khi chân đã đặt. Cú ném phải ra tay trước khi hậu vệ quay lại kịp contest."
+      },
+      {
+        "title": "Hoàn thiện như cú ném thường",
+        "detail": "Kết thúc với đầy đủ kỹ thuật và giữ tay follow-through. One-dribble pull-up phải trông y hệt cú ném cố định của bạn."
+      }
+    ],
+    "coachingPoints": [
+      "Chỉ một lần dẫn bóng — sức mạnh của động tác là tốc độ; dẫn thêm là mời phòng thủ quay lại",
+      "Đẩy bóng ra phía trước khi dẫn để thân người luôn ở sau tầm với của hậu vệ",
+      "Mắt nhìn rổ khi dẫn bóng, không nhìn bóng — pha đọc tình huống diễn ra trong lúc bóng nảy",
+      "Tập đúng nhịp trận đấu: bắt bóng, một lần dẫn mạnh, dừng, ném — không ngắt quãng giữa các pha",
+      "Tập sau các bài catch-and-shoot để hai cú ném có bộ pháp giống hệt nhau"
+    ],
+    "commonMistakes": [
+      "Dẫn hai ba lần mà vẫn gọi là 'một' — cách sửa: quay video; cầu thủ luôn đánh giá thấp số lần dẫn của mình",
+      "Dẫn bóng vào đám đông — cách sửa: one-dribble dành cho khe hở nhỏ; nếu đường đã đóng, hãy chuyền hoặc di chuyển lại",
+      "Dừng lại mất thăng bằng sau khi dẫn — cách sửa: đường dẫn bóng nên hướng về túi ném (shooting pocket), không xa khỏi cơ thể",
+      "Bật lên quá chậm — cách sửa: từ dừng sang ném phải là một chuyển động liền mạch; khựng ở điểm thấp sẽ giết chết lợi thế"
+    ],
+    "gameSituations": [
+      "Tấn công một pha closeout mạnh — hậu vệ lao tới; một lần dẫn bóng vượt qua tạo ra pull-up thoáng",
+      "Bắt bóng khi hậu vệ đã ở sát người — thay vì cố ném catch-and-shoot bị contest, dẫn vào khoảng trống rồi ném sạch",
+      "Isolation ở cánh — bắt bóng ở cánh, một lần dẫn về giữa, bật ném qua hậu vệ thấp hơn"
+    ],
+    "tags": [
+      "ném rổ",
+      "ghi điểm",
+      "bộ pháp"
+    ]
+  }
+}

@@ -23,5 +23,66 @@
     "Keep the ball high on every catch — bringing it down invites strips.",
     "Rebounding is a mindset drill: attack the glass like every miss is yours."
   ],
-  "dateUpdated": "2026-10-06"
+  "dateUpdated": "2026-10-06",
+  "vi":   {
+    "title": "Buổi Tập Big Man",
+    "description": "Buổi tập post và paint 35 phút: footwork, seal, hook, động tác face-up, dứt điểm pick-and-roll và rebound lì lợm.",
+    "focus": [
+      "Đánh post",
+      "Dứt điểm",
+      "Rebound",
+      "Pick & Roll"
+    ],
+    "equipment": [
+      "Bóng rổ"
+    ],
+    "items": [
+      {
+        "name": "Mikan và reverse Mikan",
+        "detail": "2 phút chuẩn, 2 phút reverse. Bóng không chạm đất; dùng bảng rổ.",
+        "time": "4:00"
+      },
+      {
+        "name": "Chuỗi drop-step",
+        "detail": "Nhận bóng ở block, drop-step ra baseline và giữa: mỗi bên vào 5 quả, dứt điểm mạnh bằng 2 chân.",
+        "time": "5:00"
+      },
+      {
+        "name": "Chuỗi jump hook",
+        "detail": "Hook nhẹ qua hậu vệ tưởng tượng: mỗi tay, mỗi bên vào 5 quả. Release cao, chạm nhẹ.",
+        "time": "5:00"
+      },
+      {
+        "name": "Đòn phản up-and-under",
+        "detail": "Shot-fake rồi step-through dứt điểm: mỗi bên vào 5 quả. Bán động tác giả bằng mắt và vai.",
+        "time": "4:00"
+      },
+      {
+        "name": "Động tác face-up",
+        "detail": "Nhận bóng ở elbow, quay mặt rổ: jab-and-go đột phá và jab-and-shoot, mỗi kiểu vào 5 quả. Đọc chân hậu vệ.",
+        "time": "5:00"
+      },
+      {
+        "name": "Dứt điểm pick-and-roll",
+        "detail": "Chạy nhanh screen ghế, roll mạnh ra rổ, nhận và dứt điểm: short roll, lob và seal. 10 lượt.",
+        "time": "6:00"
+      },
+      {
+        "name": "Trận chiến rebound",
+        "detail": "Tung bóng lên bảng, box out người tưởng tượng, lao vào và kẹp bóng. 20 rebound quyết liệt.",
+        "time": "3:00"
+      },
+      {
+        "name": "Chốt bằng ném phạt",
+        "detail": "Big man cũng ném phạt: 10 quả với nghi thức của bạn. Chuẩn là vào 7+.",
+        "time": "3:00"
+      }
+    ],
+    "tips": [
+      "Mọi động tác post đều bắt đầu từ seal — không seal, không nhận bóng, không có động tác.",
+      "Dứt điểm bằng 2 chân qua va chạm; floater 1 chân là của hậu vệ.",
+      "Giữ bóng cao ở mọi pha nhận — hạ bóng xuống là mời cướp.",
+      "Rebound là bài tập tư duy: lao vào bảng như thể mọi cú trượt đều là của bạn."
+    ]
+  }
 }

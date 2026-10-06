@@ -1,1 +1,140 @@
-{"ages":["U14","U16","U18","Adult","Competitive"],"coachingPoints":["The press must have rules — trapping spots, rotations, and a 'no middle' principle","Sprint back on every made basket — the press starts with the inbounder pressured","Trap with high hands and wide bodies — make the trap big, not reachy","The back line never gambles — one defender always protects the rim","Conditioning decides everything — a tired press gives up layups"],"commonMistakes":["Pressing with no rotation plan — one broken trap is a 5-on-4 layup","Trapping in the middle of the floor where the offense has every escape","The back line creeping up — no rim protection behind the press","Pressing a team with great ball handlers and no plan B — free layups all game"],"dateUpdated":"2026-10-06","description":"Full-court press: pressure the inbounds, trap the sideline, and turn defense into offense for 94 feet.","gameSituations":["When you need turnovers to come back late in a game","Against young or shaky ball handlers who panic under pressure","After made baskets to set the tempo and wear teams down","To change the game's rhythm when the half-court defense is struggling"],"howTo":[{"detail":"The moment your team scores, sprint into press positions — do not celebrate. The press defender on the inbounder makes the pass difficult; everyone else takes away the primary outlets.","title":"Set the press after every score"},{"detail":"Force the inbounds pass to a sideline, then trap the receiver there with two defenders — high hands, wide stances, no reaching. The sideline is your third trapper.","title":"Trap the first receiver on the sideline"},{"detail":"The other three defenders play the passing lanes: one takes away the middle return pass, one protects against the long ball, one guards the rim. Every trap has a rotation behind it.","title":"Rotate behind the trap"},{"detail":"If the offense breaks the first trap, sprint to the next trapping spot — usually the half-court sideline — rather than chasing the ball. The press is a series of traps, not a chase.","title":"Fall back to the next trap spot"},{"detail":"If the press is broken cleanly, sprint back into your half-court defense. A press that cannot retreat is just a fast-break drill for the offense.","title":"Retreat to half-court if beaten"}],"hub":"defense","id":"full-court-press","level":"advanced","positions":["ALL"],"readTime":6,"related":["zone-1-3-1","box-and-one","man-to-man-defense","transition-defense","transition-offense"],"slug":"full-court-press","subcategory":"defensive-systems","tags":["defense","press","full-court","trapping"],"title":"Full-Court Press","whatIsIt":["A full-court press is a defensive system that applies pressure for all 94 feet — starting with the inbounds pass, not at the half-court line. Defenders trap ball handlers near the sidelines, rotate behind the traps, and try to force turnovers before the offense ever gets organized.","The press turns defense into offense: steals become layups, rushed passes become run-outs, and the game's tempo belongs to the pressing team. But it is the highest-risk system in basketball — every trap that fails leaves the defense outnumbered, and a press without conditioning and discipline is just an invitation for layups."],"whyItMatters":["The press is basketball's great equalizer and its great momentum weapon. It lets less talented teams compete by creating chaos, and it lets good teams bury opponents in avalanches of turnovers. Late in games, it is the standard comeback tool. But pressing is a commitment — to conditioning, to rotation discipline, and to living with the occasional easy basket when the gamble fails."]}
+{
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult",
+    "Competitive"
+  ],
+  "coachingPoints": [
+    "The press must have rules — trapping spots, rotations, and a 'no middle' principle",
+    "Sprint back on every made basket — the press starts with the inbounder pressured",
+    "Trap with high hands and wide bodies — make the trap big, not reachy",
+    "The back line never gambles — one defender always protects the rim",
+    "Conditioning decides everything — a tired press gives up layups"
+  ],
+  "commonMistakes": [
+    "Pressing with no rotation plan — one broken trap is a 5-on-4 layup",
+    "Trapping in the middle of the floor where the offense has every escape",
+    "The back line creeping up — no rim protection behind the press",
+    "Pressing a team with great ball handlers and no plan B — free layups all game"
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "Full-court press: pressure the inbounds, trap the sideline, and turn defense into offense for 94 feet.",
+  "gameSituations": [
+    "When you need turnovers to come back late in a game",
+    "Against young or shaky ball handlers who panic under pressure",
+    "After made baskets to set the tempo and wear teams down",
+    "To change the game's rhythm when the half-court defense is struggling"
+  ],
+  "howTo": [
+    {
+      "detail": "The moment your team scores, sprint into press positions — do not celebrate. The press defender on the inbounder makes the pass difficult; everyone else takes away the primary outlets.",
+      "title": "Set the press after every score"
+    },
+    {
+      "detail": "Force the inbounds pass to a sideline, then trap the receiver there with two defenders — high hands, wide stances, no reaching. The sideline is your third trapper.",
+      "title": "Trap the first receiver on the sideline"
+    },
+    {
+      "detail": "The other three defenders play the passing lanes: one takes away the middle return pass, one protects against the long ball, one guards the rim. Every trap has a rotation behind it.",
+      "title": "Rotate behind the trap"
+    },
+    {
+      "detail": "If the offense breaks the first trap, sprint to the next trapping spot — usually the half-court sideline — rather than chasing the ball. The press is a series of traps, not a chase.",
+      "title": "Fall back to the next trap spot"
+    },
+    {
+      "detail": "If the press is broken cleanly, sprint back into your half-court defense. A press that cannot retreat is just a fast-break drill for the offense.",
+      "title": "Retreat to half-court if beaten"
+    }
+  ],
+  "hub": "defense",
+  "id": "full-court-press",
+  "level": "advanced",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 6,
+  "related": [
+    "zone-1-3-1",
+    "box-and-one",
+    "man-to-man-defense",
+    "transition-defense",
+    "transition-offense"
+  ],
+  "slug": "full-court-press",
+  "subcategory": "defensive-systems",
+  "tags": [
+    "defense",
+    "press",
+    "full-court",
+    "trapping"
+  ],
+  "title": "Full-Court Press",
+  "whatIsIt": [
+    "A full-court press is a defensive system that applies pressure for all 94 feet — starting with the inbounds pass, not at the half-court line. Defenders trap ball handlers near the sidelines, rotate behind the traps, and try to force turnovers before the offense ever gets organized.",
+    "The press turns defense into offense: steals become layups, rushed passes become run-outs, and the game's tempo belongs to the pressing team. But it is the highest-risk system in basketball — every trap that fails leaves the defense outnumbered, and a press without conditioning and discipline is just an invitation for layups."
+  ],
+  "whyItMatters": [
+    "The press is basketball's great equalizer and its great momentum weapon. It lets less talented teams compete by creating chaos, and it lets good teams bury opponents in avalanches of turnovers. Late in games, it is the standard comeback tool. But pressing is a commitment — to conditioning, to rotation discipline, and to living with the occasional easy basket when the gamble fails."
+  ],
+  "vi": {
+    "title": "Press Toàn Sân",
+    "description": "Press toàn sân: gây áp lực lên người ném biên, bẫy bóng ở đường biên, và biến phòng thủ thành tấn công trên toàn bộ 94 feet.",
+    "whatIsIt": [
+      "Press toàn sân là hệ thống phòng thủ gây áp lực trên toàn bộ 94 feet — bắt đầu từ đường ném biên vào sân, chứ không phải từ vạch giữa sân. Các hậu vệ bẫy người dẫn bóng gần đường biên, luân chuyển phía sau các bẫy, và cố ép đối thủ mất bóng trước khi họ kịp tổ chức tấn công.",
+      "Press biến phòng thủ thành tấn công: cướp bóng thành layup, đường chuyền vội vàng thành pha phản công nhanh, và nhịp độ trận đấu thuộc về đội pressing. Nhưng đây là hệ thống rủi ro nhất trong bóng rổ — mỗi bẫy thất bại đều khiến hàng thủ bị thiếu người, và một đội press mà không có thể lực và kỷ luật thì chẳng khác nào mời đối thủ ghi layup."
+    ],
+    "whyItMatters": [
+      "Press là vũ khí cân bằng sức mạnh và tạo đà tâm lý của bóng rổ. Nó giúp đội yếu hơn cạnh tranh bằng cách tạo ra sự hỗn loạn, và giúp đội mạnh chôn vùi đối thủ trong cơn mưa mất bóng. Cuối trận, đây là công cụ lội ngược dòng kinh điển. Nhưng pressing là một cam kết — cam kết về thể lực, kỷ luật luân chuyển, và chấp nhận thỉnh thoảng để lọt rổ dễ khi canh bạc thất bại."
+    ],
+    "howTo": [
+      {
+        "title": "Dựng press sau mỗi lần ghi điểm",
+        "detail": "Ngay khi đội bạn ghi điểm, hãy chạy nước rút vào vị trí press — đừng ăn mừng. Hậu vệ kèm người ném biên phải khiến đường chuyền vào sân khó khăn; những người còn lại cắt hết các đường chuyền ra biên chính."
+      },
+      {
+        "title": "Bẫy người nhận bóng đầu tiên ở đường biên",
+        "detail": "Ép đường chuyền ném biên ra một bên đường biên, rồi dùng hai hậu vệ bẫy người nhận bóng ở đó — tay giơ cao, đứng rộng, không với tay. Đường biên chính là 'người bẫy' thứ ba của bạn."
+      },
+      {
+        "title": "Luân chuyển phía sau bẫy",
+        "detail": "Ba hậu vệ còn lại chơi ở các đường chuyền: một người cắt đường chuyền trả về giữa, một người chống bóng dài, một người bảo vệ rổ. Mỗi bẫy đều phải có sự luân chuyển phía sau."
+      },
+      {
+        "title": "Lùi về điểm bẫy tiếp theo",
+        "detail": "Nếu đối thủ phá được bẫy đầu tiên, hãy chạy nước rút tới điểm bẫy tiếp theo — thường là đường biên ở giữa sân — thay vì đuổi theo bóng. Press là một chuỗi các bẫy, không phải trò đuổi bắt."
+      },
+      {
+        "title": "Rút về phòng thủ nửa sân nếu bị phá",
+        "detail": "Nếu press bị phá hoàn toàn, hãy chạy nước rút về đội hình phòng thủ nửa sân. Một đội press không biết rút về chẳng khác nào tập bài phản công nhanh cho đối thủ."
+      }
+    ],
+    "coachingPoints": [
+      "Press phải có luật — điểm bẫy, cách luân chuyển, và nguyên tắc 'không cho vào giữa'",
+      "Chạy nước rút về sau mỗi lần ghi điểm — press bắt đầu bằng việc gây áp lực lên người ném biên",
+      "Bẫy với tay giơ cao và thân người mở rộng — bẫy phải lớn, không được với tay",
+      "Tuyến sau không bao giờ mạo hiểm — luôn có một hậu vệ bảo vệ rổ",
+      "Thể lực quyết định tất cả — press mà mệt thì chỉ biết dâng layup"
+    ],
+    "commonMistakes": [
+      "Press mà không có kế hoạch luân chuyển — một bẫy bị phá là pha layup 5 đấu 4",
+      "Bẫy ở giữa sân, nơi đối thủ có đủ mọi đường thoát",
+      "Tuyến sau dâng lên quá cao — không còn ai bảo vệ rổ phía sau press",
+      "Press đội có người dẫn bóng giỏi mà không có phương án B — dâng layup cả trận"
+    ],
+    "gameSituations": [
+      "Khi cần ép mất bóng để lội ngược dòng cuối trận",
+      "Gặp đội có người dẫn bóng non hoặc dễ hoảng loạn dưới áp lực",
+      "Sau các pha ghi điểm để tạo nhịp độ và bào mòn đối thủ",
+      "Để đổi nhịp trận đấu khi phòng thủ nửa sân đang gặp khó"
+    ],
+    "tags": [
+      "phòng thủ",
+      "pressing",
+      "toàn sân",
+      "bẫy bóng"
+    ]
+  }
+}

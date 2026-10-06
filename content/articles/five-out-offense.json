@@ -126,5 +126,61 @@
   "references": [
     "USA Basketball"
   ],
-  "dateUpdated": "2026-10-06"
+  "dateUpdated": "2026-10-06",
+  "vi": {
+    "title": "Tấn Công 5-Out",
+    "description": "Cả năm cầu thủ đều bắt đầu ngoài vạch ba điểm, mở toang khu vực paint cho các pha đột phá, cắt rổ, và ném ba từ đường chuyền bật ra.",
+    "whatIsIt": [
+      "Tấn công 5-out đặt cả năm cầu thủ quanh vòng cung ba điểm — hai ở góc, hai ở wing, một ở đỉnh. Không ai bắt đầu ở vị trí post. Kết quả là spacing tối đa: khu vực paint hoàn toàn trống, khiến mọi pha đột phá và mọi pha cắt rổ đều nguy hiểm hơn.",
+      "Đây là lối đánh định hình của bóng rổ hiện đại không vị trí cố định. Vì không có cầu thủ post chuyên trách, ai cũng có thể đột phá, ai cũng có thể chắn bóng, và hàng thủ không thể giấu một big chậm chạp trong paint.",
+      "5-out thường được đánh như tấn công motion — chuyền, cắt, và lấp chỗ — hoặc như tấn công chắn bóng với người chắn bật ra vòng cung thay vì lăn vào rổ đang đông đúc."
+    ],
+    "whyItMatters": [
+      "Spacing là nguyên tắc tấn công quan trọng nhất, và 5-out cho bạn nhiều spacing nhất. Làn đột phá rộng hơn, hậu vệ hỗ trợ đến muộn hơn, và những cú ném ba từ đường chuyền bật ra sạch hơn. Nó cũng phát triển toàn diện kỹ năng của mọi cầu thủ thay vì cắm các big ở post."
+    ],
+    "howTo": [
+      {
+        "title": "Dựng năm vị trí",
+        "detail": "Góc, wing, và đỉnh — mỗi cầu thủ cách nhau khoảng 18-20 feet (5,5-6m). Khu vực paint phải hoàn toàn trống khi bắt đầu mỗi đợt tấn công."
+      },
+      {
+        "title": "Chuyền và cắt xuyên qua",
+        "detail": "Sau khi chuyền, cắt xuyên qua paint đang trống sang phía đối diện. Không có hậu vệ post chờ sẵn, các pha cắt rổ cực kỳ khó chặn."
+      },
+      {
+        "title": "Lấp chỗ sau pha cắt",
+        "detail": "Cầu thủ ở phía yếu trượt lên hoặc sang để lấp chỗ của người vừa cắt, giữ năm cầu thủ trên vòng ngoài."
+      },
+      {
+        "title": "Đột phá vào khoảng trống",
+        "detail": "Với paint đang trống, bất kỳ pha closeout hay rotation chậm nào cũng là đèn xanh để đột phá. Tấn công rổ và đọc hàng thủ hỗ trợ."
+      },
+      {
+        "title": "Chắn bóng, đừng đánh post",
+        "detail": "Dùng chắn bóng cho người cầm bóng và chắn bóng không bóng thay vì đưa bóng vào post. Một người chắn bật ra vòng cung giữ paint thông thoáng cho pha tiếp theo."
+      }
+    ],
+    "coachingPoints": [
+      "Khả năng ném là bắt buộc — nếu có từ hai cầu thủ trở lên không ném được, hàng thủ sẽ co vào và spacing sụp đổ.",
+      "Dạy cầu thủ nhận bóng khi đang di chuyển; nhận bóng đứng yên trong 5-out để hàng thủ kịp hồi vị.",
+      "Rebound cần cả năm người cùng lao vào — không có big cắm dưới rổ, nên rebound tập thể là bắt buộc.",
+      "Giữ số lần dẫn bóng thấp. Bóng phải di chuyển nhanh hơn tốc độ xoay sở của hàng thủ."
+    ],
+    "commonMistakes": [
+      "Đánh 5-out với những cầu thủ không ném được, mời hàng thủ co cụm trong paint.",
+      "Cắt rổ hời hợt qua paint — không có cầu thủ post, những pha cắt lười biếng sẽ bị cắt đường chuyền.",
+      "Quên rebound tấn công vì mọi người trôi về vòng cung sau cú ném."
+    ],
+    "gameSituations": [
+      "Những đội có năm cầu thủ đều ném và xử lý bóng được.",
+      "Trước hàng thủ drop-coverage gặp khó khăn khi bảo vệ paint trống.",
+      "Cuối trận khi cần một cú ném ba hoặc một làn đột phá sạch."
+    ],
+    "tags": [
+      "5-out",
+      "giãn đội hình",
+      "tấn công đồng đội",
+      "đột phá chuyền ra"
+    ]
+  }
 }

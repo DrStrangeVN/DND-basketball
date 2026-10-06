@@ -1,1 +1,142 @@
-{"ages":["U12","U14","U16","U18","Adult","Competitive"],"coachingPoints":["Every possession starts with on-ball pressure and off-ball gaps — no standing","Talk constantly: 'ball,' 'help,' 'screen,' 'switch' — a quiet man-to-man is a broken one","The ball-side defenders pressure; the weak-side defenders help","Close out under control — man-to-man lives and dies on closeouts","Rebounding is a team job: find your man, make contact, then go get the ball"],"commonMistakes":["Playing man-to-man with no help principles — just five individual defenders","Ball-watching and losing cutters backdoor","Failing to box out because everyone chased the ball","Switching everything by default with no communication"],"dateUpdated":"2026-10-06","description":"Man-to-man defense: every defender guards a player — pressure, help, rotations, and the habits that make it work.","gameSituations":["As your team's base defense for most of the game","Against teams with one star you want to pressure with your best defender","Late game when you need accountability on every matchup","When your roster is athletic and can guard multiple positions"],"howTo":[{"detail":"Each defender takes a matchup — usually the player closest to them in transition or assigned by the coach. You own that player for the possession.","title":"Match up with your man"},{"detail":"If your man has the ball, you are the on-ball defender: stance, contain, contest. If not, you play the gap between your man and the ball, ready to help.","title":"Guard the ball or guard the gap"},{"detail":"When the ball beats a teammate, the nearest defender helps — stepping in to stop the ball — and the next defender rotates to cover the helper's man. The chain continues until the ball is stopped.","title":"Help and rotate as one unit"},{"detail":"Ball screens are handled with your team's coverage — drop, switch, hedge, or ICE — with all five players knowing their job before the screen is set.","title":"Defend screens with the team coverage"},{"detail":"When a shot goes up, find your man, make contact, and box out. Man-to-man rebounding is simple: your man does not get the ball.","title":"Box out your man on every shot"}],"hub":"defense","id":"man-to-man-defense","level":"intermediate","positions":["ALL"],"readTime":6,"related":["on-ball-defense","help-defense","gap-defense","ball-screen-defense","pack-line-defense","zone-2-3"],"slug":"man-to-man-defense","subcategory":"defensive-systems","tags":["defense","man-to-man","team defense","system"],"title":"Man-to-Man Defense","whatIsIt":["Man-to-man defense is the system where each defender is responsible for guarding a specific offensive player rather than an area of the court. It is the foundation of modern basketball defense — nearly every team plays it as their base, and every other system is understood in relation to it.","What makes it work is not the matching up; it is what happens off the ball. Good man-to-man is really a help defense system: defenders pressure the ball, play gaps, stunt, rotate, and recover as one connected unit. The matchup is the starting point, not the whole job."],"whyItMatters":["Man-to-man teaches every defensive skill that matters: on-ball containment, closeouts, help, rotations, and boxing out. Players who learn real man-to-man principles can play in any system. And because it puts accountability on every matchup, it is the defense coaches trust when one stop decides the game."]}
+{
+  "ages": [
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult",
+    "Competitive"
+  ],
+  "coachingPoints": [
+    "Every possession starts with on-ball pressure and off-ball gaps — no standing",
+    "Talk constantly: 'ball,' 'help,' 'screen,' 'switch' — a quiet man-to-man is a broken one",
+    "The ball-side defenders pressure; the weak-side defenders help",
+    "Close out under control — man-to-man lives and dies on closeouts",
+    "Rebounding is a team job: find your man, make contact, then go get the ball"
+  ],
+  "commonMistakes": [
+    "Playing man-to-man with no help principles — just five individual defenders",
+    "Ball-watching and losing cutters backdoor",
+    "Failing to box out because everyone chased the ball",
+    "Switching everything by default with no communication"
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "Man-to-man defense: every defender guards a player — pressure, help, rotations, and the habits that make it work.",
+  "gameSituations": [
+    "As your team's base defense for most of the game",
+    "Against teams with one star you want to pressure with your best defender",
+    "Late game when you need accountability on every matchup",
+    "When your roster is athletic and can guard multiple positions"
+  ],
+  "howTo": [
+    {
+      "detail": "Each defender takes a matchup — usually the player closest to them in transition or assigned by the coach. You own that player for the possession.",
+      "title": "Match up with your man"
+    },
+    {
+      "detail": "If your man has the ball, you are the on-ball defender: stance, contain, contest. If not, you play the gap between your man and the ball, ready to help.",
+      "title": "Guard the ball or guard the gap"
+    },
+    {
+      "detail": "When the ball beats a teammate, the nearest defender helps — stepping in to stop the ball — and the next defender rotates to cover the helper's man. The chain continues until the ball is stopped.",
+      "title": "Help and rotate as one unit"
+    },
+    {
+      "detail": "Ball screens are handled with your team's coverage — drop, switch, hedge, or ICE — with all five players knowing their job before the screen is set.",
+      "title": "Defend screens with the team coverage"
+    },
+    {
+      "detail": "When a shot goes up, find your man, make contact, and box out. Man-to-man rebounding is simple: your man does not get the ball.",
+      "title": "Box out your man on every shot"
+    }
+  ],
+  "hub": "defense",
+  "id": "man-to-man-defense",
+  "level": "intermediate",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 6,
+  "related": [
+    "on-ball-defense",
+    "help-defense",
+    "gap-defense",
+    "ball-screen-defense",
+    "pack-line-defense",
+    "zone-2-3"
+  ],
+  "slug": "man-to-man-defense",
+  "subcategory": "defensive-systems",
+  "tags": [
+    "defense",
+    "man-to-man",
+    "team defense",
+    "system"
+  ],
+  "title": "Man-to-Man Defense",
+  "whatIsIt": [
+    "Man-to-man defense is the system where each defender is responsible for guarding a specific offensive player rather than an area of the court. It is the foundation of modern basketball defense — nearly every team plays it as their base, and every other system is understood in relation to it.",
+    "What makes it work is not the matching up; it is what happens off the ball. Good man-to-man is really a help defense system: defenders pressure the ball, play gaps, stunt, rotate, and recover as one connected unit. The matchup is the starting point, not the whole job."
+  ],
+  "whyItMatters": [
+    "Man-to-man teaches every defensive skill that matters: on-ball containment, closeouts, help, rotations, and boxing out. Players who learn real man-to-man principles can play in any system. And because it puts accountability on every matchup, it is the defense coaches trust when one stop decides the game."
+  ],
+  "vi": {
+    "title": "Phòng Thủ Kèm Người (Man-to-Man)",
+    "description": "Phòng thủ kèm người: mỗi hậu vệ kèm một cầu thủ — áp lực, hỗ trợ, xoay xở và những thói quen làm nên thành công.",
+    "whatIsIt": [
+      "Phòng thủ kèm người là hệ thống mà mỗi hậu vệ chịu trách nhiệm kèm một cầu thủ tấn công cụ thể, thay vì một khu vực trên sân. Đây là nền tảng của phòng thủ bóng rổ hiện đại — gần như mọi đội đều dùng nó làm hệ thống chính, và mọi hệ thống khác đều được hiểu trong mối liên hệ với nó.",
+      "Điều làm nên hiệu quả không phải là việc kèm người; mà là những gì diễn ra ngoài bóng. Phòng thủ kèm người tốt thực chất là một hệ thống phòng thủ hỗ trợ: các hậu vệ gây áp lực lên bóng, giữ khoảng cách, stunt, xoay xở và hồi phục như một khối thống nhất. Kèm người chỉ là điểm khởi đầu, không phải toàn bộ công việc."
+    ],
+    "whyItMatters": [
+      "Kèm người dạy mọi kỹ năng phòng thủ quan trọng: kèm bóng, closeout, hỗ trợ, xoay xở và box out. Cầu thủ học được các nguyên tắc kèm người thực sự có thể chơi trong bất kỳ hệ thống nào. Và vì nó đặt trách nhiệm lên từng cặp đấu, đây là hàng thủ mà các huấn luyện viên tin tưởng khi một pha phòng thủ quyết định trận đấu."
+    ],
+    "howTo": [
+      {
+        "title": "Nhận người của bạn",
+        "detail": "Mỗi hậu vệ nhận một cặp đấu — thường là cầu thủ gần nhất khi chuyển trạng thái hoặc do huấn luyện viên chỉ định. Bạn chịu trách nhiệm với cầu thủ đó trong cả lượt bóng."
+      },
+      {
+        "title": "Kèm bóng hoặc giữ khoảng cách",
+        "detail": "Nếu người của bạn có bóng, bạn là hậu vệ kèm bóng: tư thế, ngăn chặn, tranh chấp. Nếu không, bạn chơi ở khoảng giữa người của mình và bóng, sẵn sàng hỗ trợ."
+      },
+      {
+        "title": "Hỗ trợ và xoay xở như một khối",
+        "detail": "Khi bóng vượt qua đồng đội, hậu vệ gần nhất ập vào hỗ trợ — bước lên chặn bóng — và hậu vệ tiếp theo xoay sang bọc lót người của người hỗ trợ. Chuỗi này tiếp tục cho đến khi bóng bị chặn lại."
+      },
+      {
+        "title": "Phòng thủ screen theo đội hình",
+        "detail": "Các pha screen bóng được xử lý theo chiến thuật của đội — drop, switch, hedge hoặc ICE — với cả năm cầu thủ đều biết nhiệm vụ của mình trước khi screen được dựng."
+      },
+      {
+        "title": "Box out người của bạn mỗi cú ném",
+        "detail": "Khi bóng bay lên, tìm người của bạn, tạo tiếp xúc và box out. Rebound trong kèm người rất đơn giản: người của bạn không được chạm vào bóng."
+      }
+    ],
+    "coachingPoints": [
+      "Mỗi lượt bóng bắt đầu bằng áp lực lên bóng và khoảng cách ngoài bóng — không ai được đứng yên.",
+      "Giao tiếp liên tục: 'ball', 'help', 'screen', 'switch' — một hàng kèm người im lặng là một hàng thủ hỏng.",
+      "Hậu vệ phía bóng gây áp lực; hậu vệ phía yếu hỗ trợ.",
+      "Closeout có kiểm soát — kèm người sống hay chết ở closeout.",
+      "Rebound là việc của cả đội: tìm người của bạn, tạo tiếp xúc, rồi đi lấy bóng."
+    ],
+    "commonMistakes": [
+      "Chơi kèm người mà không có nguyên tắc hỗ trợ — chỉ là năm hậu vệ đơn lẻ.",
+      "Mải nhìn bóng và để cầu thủ cắt backdoor.",
+      "Không box out vì mọi người đều chạy theo bóng.",
+      "Switch mọi thứ theo mặc định mà không giao tiếp."
+    ],
+    "gameSituations": [
+      "Làm hàng thủ chính của đội trong phần lớn trận đấu.",
+      "Trước các đội có một ngôi sao mà bạn muốn dùng hậu vệ tốt nhất để gây áp lực.",
+      "Cuối trận khi bạn cần trách nhiệm rõ ràng ở từng cặp đấu.",
+      "Khi đội hình của bạn đủ thể lực để kèm nhiều vị trí."
+    ],
+    "tags": [
+      "phòng thủ",
+      "kèm người",
+      "phòng thủ đội",
+      "hệ thống"
+    ]
+  }
+}

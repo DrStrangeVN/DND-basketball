@@ -1,1 +1,136 @@
-{"ages":["U14","U16","U18","Adult"],"coachingPoints":["Install one clear pace identity in preseason — do not waffle between fast and slow.","Use the 'eight-second rule' aggressively: cross half-court in under five seconds on makes and misses.","Chart possessions per game and points per possession, not just total points.","Practice the same late-game sets until players can run them without thinking."],"commonMistakes":["Playing fast without a plan — speed without spacing is just chaos.","Holding the ball with no advantage and letting the defense rest.","Ignoring the score and foul situation in the final two minutes.","Calling timeout when the team has momentum instead of letting them play."],"dateUpdated":"2026-10-06","description":"Pace, rhythm and game management — how tempo shapes offense and defense and how to control it.","gameSituations":["After a made basket — push immediately while the defense is jogging back.","Against a superior team — slow the game, limit possessions, make each one count.","Protecting a lead — use the full clock, attack late, no quick threes.","Chasing a lead — speed up, foul strategically, extend the game with timeouts."],"howTo":[{"detail":"Pace is measured in possessions per game. Fast teams push after every rebound and made basket, attacking before the defense sets. Slow teams walk the ball up, run the clock, and value each possession.","title":"Choose your pace"},{"detail":"The first six to eight seconds after a change of possession are the most efficient scoring window in basketball. Sprint the floor, run wide lanes, and look for the early drag screen or pitch-ahead pass.","title":"Attack in early offense"},{"detail":"Against a set defense, run your actions with purpose: one screen, one cut, one read — then the next. Standing around 'running clock' with no action lets the defense rest.","title":"Execute in the half court"},{"detail":"The score, the foul count, and the time remaining should change your decisions. Up five with two minutes left? Use clock, attack the paint, no fouls. Down eight? Speed up and take quick threes.","title":"Let the game situation decide"},{"detail":"Coaches change tempo with substitutions (fresh legs run faster), timeouts (kill the opponent's run), and play calls (push or slow). Players change tempo with their first three steps after every rebound.","title":"Control tempo deliberately"}],"hub":"fundamentals","id":"game-flow-tempo","level":"intermediate","positions":["ALL"],"readTime":5,"related":["offensive-principles","defensive-principles","spacing-basics","basketball-terminology"],"slug":"game-flow-tempo","subcategory":"fundamentals","tags":["tempo","pace","game management","flow"],"title":"Game Flow & Tempo","whatIsIt":["Tempo is the speed at which a game is played — how quickly teams move from defense to offense and how fast they attack once they have the ball. Some teams sprint at every opportunity; others walk the ball up and squeeze the shot clock. Neither style is automatically better; the right tempo is the one that suits your roster and exploits the opponent.","Game flow is how that tempo feels moment to moment: runs of momentum, lulls, foul trouble, timeouts, and the tension of the final minutes. Teams that read the flow adjust — they push when the opponent is tired, slow down when the game gets chaotic, and manage the clock when the score demands it."],"whyItMatters":["Tempo is a weapon. A fast team facing a bigger opponent runs them into exhaustion; a disciplined team facing a chaotic opponent slows the game and makes every possession count. Players who understand flow make better decisions — they know when to push, when to pull back, and how the scoreboard should change their choices."]}
+{
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "coachingPoints": [
+    "Install one clear pace identity in preseason — do not waffle between fast and slow.",
+    "Use the 'eight-second rule' aggressively: cross half-court in under five seconds on makes and misses.",
+    "Chart possessions per game and points per possession, not just total points.",
+    "Practice the same late-game sets until players can run them without thinking."
+  ],
+  "commonMistakes": [
+    "Playing fast without a plan — speed without spacing is just chaos.",
+    "Holding the ball with no advantage and letting the defense rest.",
+    "Ignoring the score and foul situation in the final two minutes.",
+    "Calling timeout when the team has momentum instead of letting them play."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "Pace, rhythm and game management — how tempo shapes offense and defense and how to control it.",
+  "gameSituations": [
+    "After a made basket — push immediately while the defense is jogging back.",
+    "Against a superior team — slow the game, limit possessions, make each one count.",
+    "Protecting a lead — use the full clock, attack late, no quick threes.",
+    "Chasing a lead — speed up, foul strategically, extend the game with timeouts."
+  ],
+  "howTo": [
+    {
+      "detail": "Pace is measured in possessions per game. Fast teams push after every rebound and made basket, attacking before the defense sets. Slow teams walk the ball up, run the clock, and value each possession.",
+      "title": "Choose your pace"
+    },
+    {
+      "detail": "The first six to eight seconds after a change of possession are the most efficient scoring window in basketball. Sprint the floor, run wide lanes, and look for the early drag screen or pitch-ahead pass.",
+      "title": "Attack in early offense"
+    },
+    {
+      "detail": "Against a set defense, run your actions with purpose: one screen, one cut, one read — then the next. Standing around 'running clock' with no action lets the defense rest.",
+      "title": "Execute in the half court"
+    },
+    {
+      "detail": "The score, the foul count, and the time remaining should change your decisions. Up five with two minutes left? Use clock, attack the paint, no fouls. Down eight? Speed up and take quick threes.",
+      "title": "Let the game situation decide"
+    },
+    {
+      "detail": "Coaches change tempo with substitutions (fresh legs run faster), timeouts (kill the opponent's run), and play calls (push or slow). Players change tempo with their first three steps after every rebound.",
+      "title": "Control tempo deliberately"
+    }
+  ],
+  "hub": "fundamentals",
+  "id": "game-flow-tempo",
+  "level": "intermediate",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 5,
+  "related": [
+    "offensive-principles",
+    "defensive-principles",
+    "spacing-basics",
+    "basketball-terminology"
+  ],
+  "slug": "game-flow-tempo",
+  "subcategory": "fundamentals",
+  "tags": [
+    "tempo",
+    "pace",
+    "game management",
+    "flow"
+  ],
+  "title": "Game Flow & Tempo",
+  "whatIsIt": [
+    "Tempo is the speed at which a game is played — how quickly teams move from defense to offense and how fast they attack once they have the ball. Some teams sprint at every opportunity; others walk the ball up and squeeze the shot clock. Neither style is automatically better; the right tempo is the one that suits your roster and exploits the opponent.",
+    "Game flow is how that tempo feels moment to moment: runs of momentum, lulls, foul trouble, timeouts, and the tension of the final minutes. Teams that read the flow adjust — they push when the opponent is tired, slow down when the game gets chaotic, and manage the clock when the score demands it."
+  ],
+  "whyItMatters": [
+    "Tempo is a weapon. A fast team facing a bigger opponent runs them into exhaustion; a disciplined team facing a chaotic opponent slows the game and makes every possession count. Players who understand flow make better decisions — they know when to push, when to pull back, and how the scoreboard should change their choices."
+  ],
+  "vi": {
+    "title": "Nhịp Độ & Dòng Chảy Trận Đấu",
+    "description": "Tốc độ, nhịp điệu và quản lý trận đấu — cách nhịp độ định hình tấn công, phòng thủ và cách kiểm soát nó.",
+    "whatIsIt": [
+      "Nhịp độ là tốc độ diễn ra của trận đấu — đội chuyển từ phòng thủ sang tấn công nhanh thế nào và tấn công nhanh ra sao khi có bóng. Có đội chạy nước rút mọi cơ hội; có đội đi bộ đưa bóng lên và ép đồng hồ tấn công. Không có phong cách nào tự động tốt hơn; nhịp độ đúng là nhịp độ hợp với đội hình của bạn và khai thác được đối thủ.",
+      "Dòng chảy trận đấu là cảm giác của nhịp độ đó trong từng khoảnh khắc: các chuỗi ghi điểm, khoảng lặng, rắc rối lỗi cá nhân, hội ý, và sự căng thẳng của những phút cuối. Đội nào đọc được dòng chảy sẽ điều chỉnh — đẩy nhanh khi đối thủ mệt, chậm lại khi trận đấu hỗn loạn, và quản lý đồng hồ khi tỷ số đòi hỏi."
+    ],
+    "whyItMatters": [
+      "Nhịp độ là một vũ khí. Đội nhanh gặp đối thủ to khỏe hơn sẽ chạy cho họ kiệt sức; đội kỷ luật gặp đối thủ hỗn loạn sẽ làm chậm trận đấu và khiến mỗi lần tấn công đều đáng giá. Cầu thủ hiểu dòng chảy sẽ quyết định tốt hơn — họ biết khi nào đẩy nhanh, khi nào thu lại, và tỷ số nên thay đổi lựa chọn của họ ra sao."
+    ],
+    "howTo": [
+      {
+        "title": "Chọn nhịp độ của bạn",
+        "detail": "Nhịp độ được đo bằng số lần tấn công mỗi trận. Đội nhanh đẩy bóng sau mỗi lần rebound và ghi điểm, tấn công trước khi hàng thủ kịp về. Đội chậm đi bộ đưa bóng lên, chạy đồng hồ, và trân trọng mỗi lần tấn công."
+      },
+      {
+        "title": "Tấn công sớm",
+        "detail": "Sáu đến tám giây đầu sau khi đổi quyền kiểm soát bóng là khung giờ ghi điểm hiệu quả nhất trong bóng rổ. Chạy nước rút lên sân, chạy làn rộng, và tìm đường chắn sớm (drag screen) hoặc đường chuyền vượt tuyến (pitch-ahead)."
+      },
+      {
+        "title": "Triển khai ở nửa sân",
+        "detail": "Trước hàng thủ đã về vị trí, hãy chạy các động tác có mục đích: một lần chắn, một lần cắt, một lần đọc tình huống — rồi tới động tác tiếp theo. Đứng im 'câu giờ' mà không có động tác gì chỉ giúp hàng thủ nghỉ ngơi."
+      },
+      {
+        "title": "Để tình huống trận đấu quyết định",
+        "detail": "Tỷ số, số lỗi, và thời gian còn lại nên thay đổi quyết định của bạn. Dẫn 5 điểm còn 2 phút? Dùng đồng hồ, đánh vào paint, không phạm lỗi. Thua 8 điểm? Đẩy nhanh và ném ba nhanh."
+      },
+      {
+        "title": "Chủ động kiểm soát nhịp độ",
+        "detail": "Huấn luyện viên đổi nhịp độ bằng thay người (chân tươi chạy nhanh hơn), hội ý (dập chuỗi ghi điểm của đối thủ), và gọi chiến thuật (đẩy nhanh hoặc chậm lại). Cầu thủ đổi nhịp độ bằng ba bước đầu tiên sau mỗi lần rebound."
+      }
+    ],
+    "coachingPoints": [
+      "Xây dựng một bản sắc tốc độ rõ ràng từ tiền mùa giải — đừng chần chừ giữa nhanh và chậm.",
+      "Dùng tích cực 'luật tám giây': qua nửa sân trong dưới năm giây sau mỗi lần ghi điểm hay rebound.",
+      "Thống kê số lần tấn công mỗi trận và điểm mỗi lần tấn công, không chỉ tổng điểm.",
+      "Tập các bài đánh cuối trận cho đến khi cầu thủ chạy được mà không cần nghĩ."
+    ],
+    "commonMistakes": [
+      "Chơi nhanh mà không có kế hoạch — nhanh mà không có spacing chỉ là hỗn loạn.",
+      "Giữ bóng mà không có lợi thế, để hàng thủ được nghỉ.",
+      "Bỏ qua tỷ số và tình hình lỗi trong hai phút cuối.",
+      "Gọi hội ý khi đội đang có đà thay vì để họ chơi tiếp."
+    ],
+    "gameSituations": [
+      "Sau khi ghi điểm — đẩy bóng ngay khi hàng thủ còn đang chạy về.",
+      "Gặp đội mạnh hơn — làm chậm trận đấu, hạn chế số lần tấn công, khiến mỗi lần đều đáng giá.",
+      "Bảo vệ cách biệt — dùng hết đồng hồ, tấn công muộn, không ném ba vội.",
+      "Rượt đuổi tỷ số — tăng tốc, phạm lỗi chiến thuật, kéo dài trận đấu bằng hội ý."
+    ],
+    "tags": [
+      "nhịp độ",
+      "tốc độ",
+      "quản lý trận đấu",
+      "dòng chảy trận đấu"
+    ]
+  }
+}

@@ -1,1 +1,138 @@
-{"ages":["U12","U14","U16","U18","Adult"],"coachingPoints":["Sell it with your eyes and shoulders — look where you're faking, not where you're going.","Stay low through the fake; popping up kills the deception.","The jab is 15-20 cm — just enough to move the defender's weight.","Read the defender's feet, not their hands — feet tell you where they're going.","Combine with a shot fake for a jab-and-go that beats closeouts."],"commonMistakes":["A lazy, slow jab that the defender ignores — commit to it like a real drive.","Jabbing into the defender instead of past their lead foot.","Picking up the ball during the jab — now you have no dribble and no drive.","Using the same jab every time — defenders scout tendencies."],"dateUpdated":"2026-10-06","description":"The quick fake step that moves a defender's weight and opens your drive — simple, fast, deadly.","gameSituations":["Catching on the wing against a defender playing you tight — jab and go.","Late-clock isolations — one hard jab creates the sliver you need.","Against a defender overplaying your strong hand — jab strong, drive weak."],"howTo":[{"detail":"Catch in triple threat — knees bent, ball at your hip, eyes up. Your pivot foot is established and your defender is in front of you.","title":"Catch in triple threat"},{"detail":"Explode one foot 15-20 cm toward the defender's lead foot — hard and fast, like the first step of a real drive. Keep the ball protected.","title":"Fake the step"},{"detail":"Watch the defender's feet and hips. If their weight shifts toward the jab, their drive lane just opened — they're leaning the wrong way.","title":"Read the reaction"},{"detail":"Push off the jab foot and drive past their hip in the opposite direction. One hard dribble gets you by; your first step is your best weapon.","title":"Drive the opening"},{"detail":"If the defender doesn't bite, the jab becomes a setup — jab again, shoot over them, or rip through. Never jab with only one option in mind.","title":"Have a counter ready"}],"hub":"skills","id":"jab-step","level":"intermediate","positions":["ALL"],"readTime":5,"related":["rip-through","pivot","stride-stop","drive-and-kick","jump-stop"],"slug":"jab-step","subcategory":"footwork","tags":["footwork","triple threat","drive","fakes"],"title":"Jab Step","whatIsIt":["The jab step is a short, explosive fake step toward the defender — designed to shift their weight one way so you can drive the other. It's the foundation move of triple-threat offense.","A great jab looks exactly like the first step of a drive, because it is one — just stopped short. Defenders have to respect it, and the moment they do, they're beaten. Michael Jordan built a career on the jab; every modern wing uses it daily."],"whyItMatters":["Closeouts and tight defense are everywhere. The jab step is how you create a drive without needing a screen — one fake, one read, one explosion. It's also a decision-maker: it forces the defender to show their hand, and you attack what they give you."]}
+{
+  "ages": [
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "coachingPoints": [
+    "Sell it with your eyes and shoulders — look where you're faking, not where you're going.",
+    "Stay low through the fake; popping up kills the deception.",
+    "The jab is 15-20 cm — just enough to move the defender's weight.",
+    "Read the defender's feet, not their hands — feet tell you where they're going.",
+    "Combine with a shot fake for a jab-and-go that beats closeouts."
+  ],
+  "commonMistakes": [
+    "A lazy, slow jab that the defender ignores — commit to it like a real drive.",
+    "Jabbing into the defender instead of past their lead foot.",
+    "Picking up the ball during the jab — now you have no dribble and no drive.",
+    "Using the same jab every time — defenders scout tendencies."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "The quick fake step that moves a defender's weight and opens your drive — simple, fast, deadly.",
+  "gameSituations": [
+    "Catching on the wing against a defender playing you tight — jab and go.",
+    "Late-clock isolations — one hard jab creates the sliver you need.",
+    "Against a defender overplaying your strong hand — jab strong, drive weak."
+  ],
+  "howTo": [
+    {
+      "detail": "Catch in triple threat — knees bent, ball at your hip, eyes up. Your pivot foot is established and your defender is in front of you.",
+      "title": "Catch in triple threat"
+    },
+    {
+      "detail": "Explode one foot 15-20 cm toward the defender's lead foot — hard and fast, like the first step of a real drive. Keep the ball protected.",
+      "title": "Fake the step"
+    },
+    {
+      "detail": "Watch the defender's feet and hips. If their weight shifts toward the jab, their drive lane just opened — they're leaning the wrong way.",
+      "title": "Read the reaction"
+    },
+    {
+      "detail": "Push off the jab foot and drive past their hip in the opposite direction. One hard dribble gets you by; your first step is your best weapon.",
+      "title": "Drive the opening"
+    },
+    {
+      "detail": "If the defender doesn't bite, the jab becomes a setup — jab again, shoot over them, or rip through. Never jab with only one option in mind.",
+      "title": "Have a counter ready"
+    }
+  ],
+  "hub": "skills",
+  "id": "jab-step",
+  "level": "intermediate",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 5,
+  "related": [
+    "rip-through",
+    "pivot",
+    "stride-stop",
+    "drive-and-kick",
+    "jump-stop"
+  ],
+  "slug": "jab-step",
+  "subcategory": "footwork",
+  "tags": [
+    "footwork",
+    "triple threat",
+    "drive",
+    "fakes"
+  ],
+  "title": "Jab Step",
+  "whatIsIt": [
+    "The jab step is a short, explosive fake step toward the defender — designed to shift their weight one way so you can drive the other. It's the foundation move of triple-threat offense.",
+    "A great jab looks exactly like the first step of a drive, because it is one — just stopped short. Defenders have to respect it, and the moment they do, they're beaten. Michael Jordan built a career on the jab; every modern wing uses it daily."
+  ],
+  "whyItMatters": [
+    "Closeouts and tight defense are everywhere. The jab step is how you create a drive without needing a screen — one fake, one read, one explosion. It's also a decision-maker: it forces the defender to show their hand, and you attack what they give you."
+  ],
+  "vi": {
+    "title": "Bước Giả Jab (Jab Step)",
+    "description": "Bước giả ngắn, nhanh giúp dịch chuyển trọng tâm của hậu vệ và mở đường đột phá — đơn giản, nhanh và cực kỳ hiệu quả.",
+    "whatIsIt": [
+      "Bước giả jab là một bước chân giả ngắn, bùng nổ về phía hậu vệ — nhằm dịch chuyển trọng tâm của họ sang một bên để bạn đột phá sang bên còn lại. Đây là động tác nền tảng của tấn công triple threat.",
+      "Một cú jab đẳng cấp trông y hệt bước đầu tiên của một pha đột phá thật, vì về bản chất nó là vậy — chỉ khác là dừng lại sớm. Hậu vệ buộc phải tôn trọng nó, và khoảnh khắc họ làm thế, họ đã bị đánh bại. Michael Jordan xây dựng sự nghiệp trên cú jab; mọi cầu thủ cánh hiện đại đều dùng nó mỗi ngày."
+    ],
+    "whyItMatters": [
+      "Các pha closeout và phòng thủ áp sát xuất hiện ở khắp mọi nơi. Bước giả jab là cách bạn tạo ra một pha đột phá mà không cần screen — một cú giả, một lần đọc, một cú bùng nổ. Nó cũng là công cụ ra quyết định: nó buộc hậu vệ phải lộ bài, và bạn tấn công đúng điểm họ để hở."
+    ],
+    "howTo": [
+      {
+        "title": "Nhận bóng ở tư thế triple threat",
+        "detail": "Nhận bóng ở tư thế triple threat — đầu gối chùng, bóng đặt ở hông, mắt nhìn lên. Chân trụ đã xác định và hậu vệ đang đứng trước mặt bạn."
+      },
+      {
+        "title": "Giả một bước chân",
+        "detail": "Bật một chân dài khoảng 15–20 cm về phía chân trước của hậu vệ — mạnh và nhanh, như bước đầu tiên của một pha đột phá thật. Giữ bóng được bảo vệ."
+      },
+      {
+        "title": "Đọc phản ứng của hậu vệ",
+        "detail": "Quan sát bàn chân và hông của hậu vệ. Nếu trọng tâm của họ dịch về phía cú jab, đường đột phá của bạn vừa mở ra — họ đang nghiêng sai hướng."
+      },
+      {
+        "title": "Đột phá qua khoảng trống",
+        "detail": "Đạp mạnh từ chân jab và vượt qua hông họ theo hướng ngược lại. Một cú dẫn bóng mạnh là đủ để vượt qua; bước đầu tiên là vũ khí tốt nhất của bạn."
+      },
+      {
+        "title": "Luôn có phương án dự phòng",
+        "detail": "Nếu hậu vệ không bị lừa, cú jab trở thành mồi nhử — jab lần nữa, ném qua đầu họ, hoặc rip through. Đừng bao giờ jab mà chỉ có một phương án trong đầu."
+      }
+    ],
+    "coachingPoints": [
+      "Hãy diễn bằng mắt và vai — nhìn về hướng bạn giả, không phải hướng bạn định đi.",
+      "Giữ người thấp suốt cú giả; bật người lên cao sẽ giết chết hiệu quả đánh lừa.",
+      "Cú jab dài khoảng 15–20 cm — vừa đủ để dịch chuyển trọng tâm của hậu vệ.",
+      "Đọc bàn chân của hậu vệ, không phải tay của họ — bàn chân cho bạn biết họ định đi đâu.",
+      "Kết hợp với động tác giả ném để tạo combo jab-and-go đánh bại các pha closeout."
+    ],
+    "commonMistakes": [
+      "Một cú jab hời hợt, chậm chạp mà hậu vệ chẳng thèm để ý — hãy dồn quyết tâm vào nó như một pha đột phá thật.",
+      "Jab vào người hậu vệ thay vì vượt qua chân trước của họ.",
+      "Nhấc bóng lên trong lúc jab — giờ bạn vừa mất bóng dẫn vừa mất đường đột phá.",
+      "Lúc nào cũng dùng một kiểu jab — hậu vệ sẽ đọc được thói quen của bạn."
+    ],
+    "gameSituations": [
+      "Nhận bóng ở cánh trước một hậu vệ kèm chặt — jab rồi đột phá.",
+      "Những pha bóng quyết định khi đồng hồ sắp hết — một cú jab mạnh tạo ra khe hở bạn cần.",
+      "Trước hậu vệ bắt bài tay thuận của bạn — jab về tay thuận, đột phá về tay yếu."
+    ],
+    "tags": [
+      "bộ chân",
+      "triple threat",
+      "đột phá",
+      "động tác giả"
+    ]
+  }
+}

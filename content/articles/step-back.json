@@ -1,1 +1,135 @@
-{"ages":["U14","U16","U18","Adult","Competitive"],"coachingPoints":["The jab or fake must move the defender — a step-back against a flat-footed defender wastes the move.","Keep the dribble alive through the step-back; picking it up early invites a trap.","Land balanced and go straight up — drifting fades turn makes into misses.","Eyes stay on the rim through the step; looking at the defender throws off alignment.","Build it from one-dribble pull-ups: the step-back is the same shot, just with backward momentum."],"commonMistakes":["Stepping back too far and losing balance — fix: 2–3 feet of space is enough; control beats distance.","Picking up the dribble before the step — fix: dribble through the step and gather on the landing.","Leaning back on the release — fix: land, set, and rise vertically like any other jumper.","Using it as a first option — fix: the step-back is a counter; drive first, step back when the defense takes the drive."],"dateUpdated":"2026-10-06","description":"Drive at the defender, then step back into space for a clean jumper — the ultimate isolation counter.","gameSituations":["Isolation scoring — when the defender cuts off your drive, the step-back creates the only open look.","Late-clock creation — one move, one shot: the step-back needs no screen and little time.","Against bigger defenders — stepping back neutralizes a size disadvantage by creating pure space."],"howTo":[{"detail":"Drive hard at the defender's front foot. He must believe the drive is real — the step-back feeds on his backward momentum.","title":"Attack to engage the defender"},{"detail":"Plant your inside foot hard and push backward, taking one long step away from the defender while keeping the dribble alive.","title":"Plant and step back"},{"detail":"Gather the ball as you land, feet set shoulder-width apart. Your momentum should settle, not carry you backward.","title":"Gather and set your feet"},{"detail":"Rise straight up into your jumper with normal mechanics. The shot is identical to a pull-up — only the entry was different.","title":"Rise into the jumper"},{"detail":"Hold the follow-through. Step-backs feel rushed at first; the held finish keeps your form honest.","title":"Finish and hold"}],"hub":"skills","id":"step-back","level":"advanced","positions":["ALL"],"readTime":5,"related":["pull-up-jumper","one-dribble-pull-up","hesitation","three-point-shooting"],"slug":"step-back","subcategory":"shooting","tags":["shooting","moves","scoring"],"title":"Step-Back Jumper","whatIsIt":["The step-back jumper is a shot created by driving at a defender and then stepping backward — usually 2–3 feet — into open space for a jumper. It weaponizes the defender's own momentum: he is backpedaling to stop your drive, and you simply stop with him, then step away.","It is the signature move of isolation scorers because it needs nothing but space and a dribble. No screen, no pass, no help — just a defender's momentum turned against him."],"whyItMatters":["Great on-ball defenders take away the drive. The step-back is the counter that keeps them honest: play the drive, and the step-back is open; play the step-back, and the drive is open. That two-way threat is what makes elite scorers unguardable one-on-one, and it is learnable — footwork and timing, not athleticism, make it work."]}
+{
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult",
+    "Competitive"
+  ],
+  "coachingPoints": [
+    "The jab or fake must move the defender — a step-back against a flat-footed defender wastes the move.",
+    "Keep the dribble alive through the step-back; picking it up early invites a trap.",
+    "Land balanced and go straight up — drifting fades turn makes into misses.",
+    "Eyes stay on the rim through the step; looking at the defender throws off alignment.",
+    "Build it from one-dribble pull-ups: the step-back is the same shot, just with backward momentum."
+  ],
+  "commonMistakes": [
+    "Stepping back too far and losing balance — fix: 2–3 feet of space is enough; control beats distance.",
+    "Picking up the dribble before the step — fix: dribble through the step and gather on the landing.",
+    "Leaning back on the release — fix: land, set, and rise vertically like any other jumper.",
+    "Using it as a first option — fix: the step-back is a counter; drive first, step back when the defense takes the drive."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "Drive at the defender, then step back into space for a clean jumper — the ultimate isolation counter.",
+  "gameSituations": [
+    "Isolation scoring — when the defender cuts off your drive, the step-back creates the only open look.",
+    "Late-clock creation — one move, one shot: the step-back needs no screen and little time.",
+    "Against bigger defenders — stepping back neutralizes a size disadvantage by creating pure space."
+  ],
+  "howTo": [
+    {
+      "detail": "Drive hard at the defender's front foot. He must believe the drive is real — the step-back feeds on his backward momentum.",
+      "title": "Attack to engage the defender"
+    },
+    {
+      "detail": "Plant your inside foot hard and push backward, taking one long step away from the defender while keeping the dribble alive.",
+      "title": "Plant and step back"
+    },
+    {
+      "detail": "Gather the ball as you land, feet set shoulder-width apart. Your momentum should settle, not carry you backward.",
+      "title": "Gather and set your feet"
+    },
+    {
+      "detail": "Rise straight up into your jumper with normal mechanics. The shot is identical to a pull-up — only the entry was different.",
+      "title": "Rise into the jumper"
+    },
+    {
+      "detail": "Hold the follow-through. Step-backs feel rushed at first; the held finish keeps your form honest.",
+      "title": "Finish and hold"
+    }
+  ],
+  "hub": "skills",
+  "id": "step-back",
+  "level": "advanced",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 5,
+  "related": [
+    "pull-up-jumper",
+    "one-dribble-pull-up",
+    "hesitation",
+    "three-point-shooting"
+  ],
+  "slug": "step-back",
+  "subcategory": "shooting",
+  "tags": [
+    "shooting",
+    "moves",
+    "scoring"
+  ],
+  "title": "Step-Back Jumper",
+  "whatIsIt": [
+    "The step-back jumper is a shot created by driving at a defender and then stepping backward — usually 2–3 feet — into open space for a jumper. It weaponizes the defender's own momentum: he is backpedaling to stop your drive, and you simply stop with him, then step away.",
+    "It is the signature move of isolation scorers because it needs nothing but space and a dribble. No screen, no pass, no help — just a defender's momentum turned against him."
+  ],
+  "whyItMatters": [
+    "Great on-ball defenders take away the drive. The step-back is the counter that keeps them honest: play the drive, and the step-back is open; play the step-back, and the drive is open. That two-way threat is what makes elite scorers unguardable one-on-one, and it is learnable — footwork and timing, not athleticism, make it work."
+  ],
+  "vi": {
+    "coachingPoints": [
+      "Pha jab hoặc giả động tác phải làm hậu vệ di chuyển — step-back trước một hậu vệ đứng chết chân là phí động tác.",
+      "Giữ bóng sống xuyên suốt pha step-back; thu bóng sớm sẽ mời gọi bẫy phòng thủ.",
+      "Tiếp đất thăng bằng và bật thẳng lên — những cú ngả người trôi sẽ biến cú vào thành cú hỏng.",
+      "Mắt luôn nhìn vào vành rổ trong suốt bước lùi; nhìn vào hậu vệ sẽ làm lệch căn chỉnh.",
+      "Xây dựng từ những cú pull-up sau một nhịp dẫn: step-back là cùng một cú ném, chỉ khác là có đà lùi."
+    ],
+    "commonMistakes": [
+      "Bước lùi quá xa và mất thăng bằng — cách sửa: 2–3 feet (60–90cm) là đủ; kiểm soát quan trọng hơn khoảng cách.",
+      "Thu bóng trước khi bước — cách sửa: dẫn xuyên qua bước lùi và thu bóng khi tiếp đất.",
+      "Ngả người ra sau khi thả bóng — cách sửa: tiếp đất, đặt chân, và bật thẳng đứng như mọi cú jumper khác.",
+      "Dùng nó như lựa chọn đầu tiên — cách sửa: step-back là đòn phản; hãy đột phá trước, bước lùi khi hàng thủ lấy đi đường đột phá."
+    ],
+    "description": "Đột phá vào hậu vệ, rồi bước lùi vào khoảng trống cho một cú jumper sạch — đòn phản isolation tối thượng.",
+    "gameSituations": [
+      "Ghi điểm isolation — khi hậu vệ chặn đường đột phá của bạn, step-back tạo ra cú ném trống duy nhất.",
+      "Tạo cú ném cuối đồng hồ — một động tác, một cú ném: step-back không cần chắn và tốn ít thời gian.",
+      "Khi đối đầu hậu vệ to hơn — bước lùi vô hiệu hóa bất lợi về thể hình bằng cách tạo ra khoảng trống thuần túy."
+    ],
+    "howTo": [
+      {
+        "detail": "Đột phá mạnh vào chân trước của hậu vệ. Anh ta phải tin rằng pha đột phá là thật — step-back sống nhờ đà lùi của anh ta.",
+        "title": "Tấn công để kéo hậu vệ vào"
+      },
+      {
+        "detail": "Trụ chặt chân trong và đẩy ngược ra sau, bước một bước dài ra xa hậu vệ trong khi vẫn giữ bóng sống.",
+        "title": "Trụ chân và bước lùi"
+      },
+      {
+        "detail": "Thu bóng khi tiếp đất, hai chân đặt rộng bằng vai. Đà của bạn phải ổn định lại, không được cuốn bạn ra sau.",
+        "title": "Thu bóng và đặt chân"
+      },
+      {
+        "detail": "Bật thẳng lên ném jumper với kỹ thuật bình thường. Cú ném giống hệt một cú pull-up — chỉ khác cách vào bóng.",
+        "title": "Bật lên ném jumper"
+      },
+      {
+        "detail": "Giữ nguyên động tác kết thúc. Step-back lúc đầu thường có cảm giác vội vàng; tư thế kết thúc được giữ sẽ giúp form ném của bạn chuẩn.",
+        "title": "Kết thúc và giữ nguyên"
+      }
+    ],
+    "tags": [
+      "ném rổ",
+      "động tác",
+      "ghi điểm"
+    ],
+    "title": "Cú ném Step-Back",
+    "whatIsIt": [
+      "Cú ném step-back là cú ném được tạo ra bằng cách đột phá vào hậu vệ rồi bước lùi lại — thường 2–3 feet (60–90cm) — vào khoảng trống để ném jumper. Nó biến đà của chính hậu vệ thành vũ khí: anh ta đang lùi lại để chặn pha đột phá của bạn, và bạn đơn giản dừng lại cùng anh ta, rồi bước ra xa.",
+      "Đó là động tác đặc trưng của những tay ghi điểm isolation vì nó không cần gì ngoài khoảng trống và một pha dẫn bóng. Không chắn, không chuyền, không cần giúp — chỉ là đà của hậu vệ bị biến thành chống lại anh ta."
+    ],
+    "whyItMatters": [
+      "Những hậu vệ kèm bóng giỏi lấy đi đường đột phá. Step-back là đòn phản khiến họ phải trung thực: kèm pha đột phá thì step-back sẽ trống; kèm step-back thì đường đột phá sẽ mở. Mối đe dọa hai chiều đó là điều khiến những tay ghi điểm đẳng cấp không thể kèm một-chọi-một, và nó có thể học được — bước chân và thời điểm, chứ không phải thể chất, mới là thứ làm nên nó."
+    ]
+  }
+}

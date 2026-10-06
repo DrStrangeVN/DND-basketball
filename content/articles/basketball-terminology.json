@@ -1,1 +1,138 @@
-{"ages":["U10","U12","U14","U16","U18","Adult"],"coachingPoints":["Introduce five new terms per week and use them in every drill that week.","Quiz players with game film: pause and ask them to name the action on screen.","Correct terminology gently in games — 'that's a flare, good read' builds vocabulary.","Keep a team glossary sheet in the locker room for the first month of the season."],"commonMistakes":["Calling every screen a 'pick' without distinguishing the type.","Confusing a cut with a screen — they are different actions.","Using 'help' and 'switch' interchangeably on defense.","Not knowing the difference between man and zone when the coach calls it."],"dateUpdated":"2026-10-06","description":"The essential basketball vocabulary every player, coach and fan should know — from 'and-one' to 'zone defense'.","gameSituations":["Film study — coaches name actions ('that's a Spain PNR') and players must recognize them.","Play calls — a single word like 'Horns' tells five players the whole setup.","Talking defense — 'ICE!', 'switch!', 'help!' are terminology in action.","Watching games — vocabulary turns passive watching into active learning."],"howTo":[{"detail":"Screen (pick): a player stands still to block a defender. Cut: an offensive player moves without the ball toward the basket or to space. DHO (dribble handoff): the ball handler hands the ball to a teammate while dribbling past them.","title":"Learn the basic actions"},{"detail":"Closeout: sprinting at a shooter, then slowing to contest without fouling. Help defense: leaving your player briefly to stop a drive. Rotation: the chain of defenders shifting when someone helps.","title":"Learn the defensive terms"},{"detail":"Spacing: keeping 15–18 feet between offensive players. Paint: the rectangle under the basket. Elbow: the corners of the free-throw line. Wing: the area between the top and the corner.","title":"Learn the court terms"},{"detail":"And-one: scoring through a foul plus a bonus free throw. Bonus: team-foul limit reached, so fouls give free throws. Fast break: attacking before the defense sets. Putback: scoring a teammate's missed shot directly.","title":"Learn the scoring terms"},{"detail":"Pick & roll: a screen followed by the screener rolling to the basket. Iso (isolation): clearing out for a one-on-one. Post up: establishing position near the basket with your back to the defender.","title":"Learn the offensive concepts"}],"hub":"fundamentals","id":"basketball-terminology","level":"beginner","positions":["ALL"],"readTime":6,"related":["basketball-rules","court-and-lines","spacing-basics","offensive-principles"],"slug":"basketball-terminology","subcategory":"fundamentals","tags":["terminology","glossary","vocabulary","basics"],"title":"Essential Basketball Terminology","whatIsIt":["Basketball has its own language, and fluency matters. When a coach yells 'ICE the side pick-and-roll!' or calls 'Horns,' every player must instantly know the assignment. Terms like pick & roll, closeout, help defense, spacing, and transition describe actions that happen in fractions of a second — there is no time to explain them mid-play.","This article covers the core vocabulary: actions (screens, cuts, DHOs), defensive concepts (help, rotations, closeouts), court areas (paint, elbow, wing), and scoring terms (and-one, bonus, fast break). Learn these and you can follow any game, practice, or film session."],"whyItMatters":["Terminology is the interface between knowledge and action. A player who hears 'tag the roller' and knows exactly what to do reacts a full second faster than one who has to think. For fans and parents, vocabulary turns watching basketball from confusing to fascinating — you start seeing the chess match instead of just the ball."]}
+{
+  "ages": [
+    "U10",
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "coachingPoints": [
+    "Introduce five new terms per week and use them in every drill that week.",
+    "Quiz players with game film: pause and ask them to name the action on screen.",
+    "Correct terminology gently in games — 'that's a flare, good read' builds vocabulary.",
+    "Keep a team glossary sheet in the locker room for the first month of the season."
+  ],
+  "commonMistakes": [
+    "Calling every screen a 'pick' without distinguishing the type.",
+    "Confusing a cut with a screen — they are different actions.",
+    "Using 'help' and 'switch' interchangeably on defense.",
+    "Not knowing the difference between man and zone when the coach calls it."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "The essential basketball vocabulary every player, coach and fan should know — from 'and-one' to 'zone defense'.",
+  "gameSituations": [
+    "Film study — coaches name actions ('that's a Spain PNR') and players must recognize them.",
+    "Play calls — a single word like 'Horns' tells five players the whole setup.",
+    "Talking defense — 'ICE!', 'switch!', 'help!' are terminology in action.",
+    "Watching games — vocabulary turns passive watching into active learning."
+  ],
+  "howTo": [
+    {
+      "detail": "Screen (pick): a player stands still to block a defender. Cut: an offensive player moves without the ball toward the basket or to space. DHO (dribble handoff): the ball handler hands the ball to a teammate while dribbling past them.",
+      "title": "Learn the basic actions"
+    },
+    {
+      "detail": "Closeout: sprinting at a shooter, then slowing to contest without fouling. Help defense: leaving your player briefly to stop a drive. Rotation: the chain of defenders shifting when someone helps.",
+      "title": "Learn the defensive terms"
+    },
+    {
+      "detail": "Spacing: keeping 15–18 feet between offensive players. Paint: the rectangle under the basket. Elbow: the corners of the free-throw line. Wing: the area between the top and the corner.",
+      "title": "Learn the court terms"
+    },
+    {
+      "detail": "And-one: scoring through a foul plus a bonus free throw. Bonus: team-foul limit reached, so fouls give free throws. Fast break: attacking before the defense sets. Putback: scoring a teammate's missed shot directly.",
+      "title": "Learn the scoring terms"
+    },
+    {
+      "detail": "Pick & roll: a screen followed by the screener rolling to the basket. Iso (isolation): clearing out for a one-on-one. Post up: establishing position near the basket with your back to the defender.",
+      "title": "Learn the offensive concepts"
+    }
+  ],
+  "hub": "fundamentals",
+  "id": "basketball-terminology",
+  "level": "beginner",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 6,
+  "related": [
+    "basketball-rules",
+    "court-and-lines",
+    "spacing-basics",
+    "offensive-principles"
+  ],
+  "slug": "basketball-terminology",
+  "subcategory": "fundamentals",
+  "tags": [
+    "terminology",
+    "glossary",
+    "vocabulary",
+    "basics"
+  ],
+  "title": "Essential Basketball Terminology",
+  "whatIsIt": [
+    "Basketball has its own language, and fluency matters. When a coach yells 'ICE the side pick-and-roll!' or calls 'Horns,' every player must instantly know the assignment. Terms like pick & roll, closeout, help defense, spacing, and transition describe actions that happen in fractions of a second — there is no time to explain them mid-play.",
+    "This article covers the core vocabulary: actions (screens, cuts, DHOs), defensive concepts (help, rotations, closeouts), court areas (paint, elbow, wing), and scoring terms (and-one, bonus, fast break). Learn these and you can follow any game, practice, or film session."
+  ],
+  "whyItMatters": [
+    "Terminology is the interface between knowledge and action. A player who hears 'tag the roller' and knows exactly what to do reacts a full second faster than one who has to think. For fans and parents, vocabulary turns watching basketball from confusing to fascinating — you start seeing the chess match instead of just the ball."
+  ],
+  "vi": {
+    "coachingPoints": [
+      "Mỗi tuần giới thiệu năm thuật ngữ mới và dùng chúng trong mọi bài tập của tuần đó",
+      "Đố cầu thủ bằng video trận đấu: dừng hình và yêu cầu họ gọi tên bài đánh trên màn hình",
+      "Sửa thuật ngữ nhẹ nhàng trong trận đấu — 'đó là pha flare, đọc tốt đấy' giúp xây dựng vốn từ",
+      "Giữ một bảng thuật ngữ của đội trong phòng thay đồ suốt tháng đầu mùa giải"
+    ],
+    "commonMistakes": [
+      "Gọi mọi màn chắn là 'pick' mà không phân biệt loại",
+      "Nhầm lẫn cắt (cut) với màn chắn (screen) — đó là hai hành động khác nhau",
+      "Dùng 'help' và 'switch' thay thế cho nhau khi phòng thủ",
+      "Không phân biệt được man và zone khi huấn luyện viên gọi"
+    ],
+    "description": "Vốn từ vựng bóng rổ thiết yếu mà mọi cầu thủ, huấn luyện viên và người hâm mộ nên biết — từ 'and-one' đến 'zone defense'.",
+    "gameSituations": [
+      "Xem video — huấn luyện viên gọi tên các bài đánh ('đó là Spain PNR') và cầu thủ phải nhận ra chúng",
+      "Gọi bài — một từ như 'Horns' nói cho năm cầu thủ biết toàn bộ thế trận",
+      "Giao tiếp phòng thủ — 'ICE!', 'switch!', 'help!' chính là thuật ngữ trong hành động",
+      "Xem trận đấu — vốn từ biến việc xem thụ động thành học tập chủ động"
+    ],
+    "howTo": [
+      {
+        "detail": "Screen (pick): một cầu thủ đứng yên để chặn hậu vệ. Cut: cầu thủ tấn công di chuyển không bóng về phía rổ hoặc vào khoảng trống. DHO (dribble handoff): người cầm bóng trao bóng cho đồng đội trong khi dẫn bóng lướt qua.",
+        "title": "Học các hành động cơ bản"
+      },
+      {
+        "detail": "Closeout: chạy nước rút về phía người ném, rồi giảm tốc để contest mà không phạm lỗi. Help defense: tạm rời người kèm để chặn pha đột phá. Rotation: chuỗi hậu vệ dịch chuyển khi có người đi hỗ trợ.",
+        "title": "Học các thuật ngữ phòng thủ"
+      },
+      {
+        "detail": "Spacing: giữ khoảng cách 15–18 feet giữa các cầu thủ tấn công. Paint: hình chữ nhật dưới rổ. Elbow: hai góc của đường ném phạt. Wing: khu vực giữa đỉnh vòng và góc sân.",
+        "title": "Học các thuật ngữ về sân"
+      },
+      {
+        "detail": "And-one: ghi điểm khi bị phạm lỗi kèm một quả ném phạt thưởng. Bonus: đội đã đủ số lỗi đồng đội nên các pha phạm lỗi đều cho ném phạt. Fast break: tấn công trước khi hàng thủ kịp bày trận. Putback: ghi điểm trực tiếp từ cú ném hỏng của đồng đội.",
+        "title": "Học các thuật ngữ ghi điểm"
+      },
+      {
+        "detail": "Pick & roll: màn chắn rồi người chắn lăn vào rổ. Iso (isolation): dọn trống cho một pha một đấu một. Post up: chiếm vị trí gần rổ, quay lưng vào hậu vệ.",
+        "title": "Học các khái niệm tấn công"
+      }
+    ],
+    "tags": [
+      "thuật ngữ",
+      "từ điển",
+      "từ vựng",
+      "cơ bản"
+    ],
+    "title": "Thuật Ngữ Bóng Rổ Thiết Yếu",
+    "whatIsIt": [
+      "Bóng rổ có ngôn ngữ riêng, và thành thạo nó rất quan trọng. Khi huấn luyện viên hét 'ICE pha pick-and-roll biên!' hay gọi 'Horns', mọi cầu thủ phải ngay lập tức biết nhiệm vụ của mình. Các thuật ngữ như pick & roll, closeout, help defense, spacing và transition mô tả những hành động diễn ra trong tích tắc — không có thời gian để giải thích giữa pha bóng.",
+      "Bài viết này bao quát vốn từ cốt lõi: các hành động (màn chắn, cắt, DHO), khái niệm phòng thủ (hỗ trợ, xoay chuyển, closeout), các khu vực sân (paint, elbow, wing) và thuật ngữ ghi điểm (and-one, bonus, fast break). Học chúng và bạn có thể theo dõi bất kỳ trận đấu, buổi tập hay buổi xem video nào."
+    ],
+    "whyItMatters": [
+      "Thuật ngữ là cầu nối giữa kiến thức và hành động. Một cầu thủ nghe 'tag the roller' và biết chính xác phải làm gì sẽ phản ứng nhanh hơn cả một giây so với người còn phải suy nghĩ. Với người hâm mộ và phụ huynh, vốn từ biến việc xem bóng rổ từ khó hiểu thành hấp dẫn — bạn bắt đầu nhìn thấy ván cờ thay vì chỉ nhìn quả bóng."
+    ]
+  }
+}

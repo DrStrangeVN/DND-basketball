@@ -12,5 +12,32 @@
     {"title": "Level 4 — Shoot on the Move", "description": "Learn to shoot coming off screens — curls, flares, and pin-downs — with balance and speed.", "articles": ["off-screen-shooting", "pin-down-screen"]},
     {"title": "Level 5 — Choose Your Shots", "description": "Develop shooter IQ: understand which shots help your team and which ones hurt it.", "articles": ["shot-selection-iq"]}
   ],
-  "dateUpdated": "2026-10-06"
+  "dateUpdated": "2026-10-06",
+  "vi":   {
+    "title": "Phát Triển Tay Ném",
+    "description": "Trở thành tay ném hoàn chỉnh: kỹ thuật hoàn hảo, chuẩn bị nhanh, catch-and-shoot đủ tầm, ném sau screen và khả năng chọn cú ném đẳng cấp.",
+    "audience": "Wing và hậu vệ muốn trở thành tay ném đẳng cấp",
+    "steps": [
+      {
+        "title": "Cấp 1 — Xây Dựng Cú Ném",
+        "description": "Khóa chặt kỹ thuật ném có thể lặp lại — nền tảng mà mọi kỹ năng ném nâng cao đều dựa vào."
+      },
+      {
+        "title": "Cấp 2 — Nhận và Ném",
+        "description": "Thành thạo catch-and-shoot: footwork, release nhanh và ném sau đường chuyền đúng nhịp."
+      },
+      {
+        "title": "Cấp 3 — Mở Rộng Tầm Ném",
+        "description": "Đẩy tầm ném ra vạch 3 điểm trong khi giữ nguyên kỹ thuật và sự chuẩn bị."
+      },
+      {
+        "title": "Cấp 4 — Ném Khi Di Chuyển",
+        "description": "Học cách ném sau screen — curl, flare và pin-down — với sự cân bằng và tốc độ."
+      },
+      {
+        "title": "Cấp 5 — Chọn Cú Ném",
+        "description": "Phát triển IQ của tay ném: hiểu cú ném nào giúp đội và cú nào làm hại đội."
+      }
+    ]
+  }
 }

@@ -12,5 +12,32 @@
     {"title": "Level 4 — Score in the Midrange", "description": "Master the pull-up jumper and the floater so defenses can't just sit on your drive.", "articles": ["pull-up-jumper", "runner-floater"]},
     {"title": "Level 5 — See the Whole Floor", "description": "Develop advanced vision: read help defenders, anticipate rotations, and make plays before they happen.", "articles": ["reading-help-defense"]}
   ],
-  "dateUpdated": "2026-10-06"
+  "dateUpdated": "2026-10-06",
+  "vi":   {
+    "title": "Phát Triển Hậu Vệ",
+    "description": "Phát triển bộ kỹ năng hậu vệ hoàn chỉnh: rê bóng đẳng cấp, kiến tạo pick-and-roll, ghi điểm pull-up và đọc hàng thủ.",
+    "audience": "Hậu vệ dẫn bóng và hậu vệ ghi điểm",
+    "steps": [
+      {
+        "title": "Cấp 1 — Đổi Nhịp",
+        "description": "Học cách kiểm soát tempo bằng rê bóng — những pha hesitation và đổi nhịp tạo khoảng trống."
+      },
+      {
+        "title": "Cấp 2 — Qua Mặt Đối Thủ",
+        "description": "Thêm crossover vào bộ động tác và học khi nào tấn công, khi nào thăm dò."
+      },
+      {
+        "title": "Cấp 3 — Chạy Pick & Roll",
+        "description": "Trở thành mối đe dọa ball screen: đọc 2 hậu vệ và ra quyết định đúng mọi lần."
+      },
+      {
+        "title": "Cấp 4 — Ghi Điểm Midrange",
+        "description": "Thành thạo pull-up jumper và floater để hàng thủ không thể chỉ ngồi chờ pha đột phá của bạn."
+      },
+      {
+        "title": "Cấp 5 — Nhìn Cả Sân",
+        "description": "Phát triển tầm nhìn nâng cao: đọc hậu vệ help, đoán trước rotation và kiến tạo trước khi tình huống xảy ra."
+      }
+    ]
+  }
 }

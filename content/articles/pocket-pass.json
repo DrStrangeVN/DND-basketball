@@ -1,1 +1,184 @@
-{"ages":["U12","U14","U16","U18","Adult","Competitive"],"coachingPoints":["The pocket is between the on-ball defender and the screener's defender — thread it through that gap, not around the outside.","Bounce the pocket pass; a bounce arrives cleaner in tight spaces than a direct ball.","Keep your dribble alive if the pocket isn't open — never force it.","Lead the roller slightly toward the rim, not at his chest.","The pass must come BEFORE the roller is fully open — anticipate, don't react."],"commonMistakes":["Throwing it at the roller's chest — that's the direct line the help defender is sitting on.","Forcing the pocket when the screener's defender shows high — hit the short roll or skip instead.","Aiming at where the roller is, not where he's going — passes arrive late and low.","Picking up the dribble too early — you lose the threat that created the pocket."],"dateUpdated":"2026-10-06","description":"The threaded bounce pass between two defenders to a rolling big — the bread and butter of pick-and-roll offense.","diagram":{"ball":"O3","defense":[{"label":"X1","x":62,"y":52},{"label":"X2","x":48,"y":48}],"moves":[{"from":"O2","kind":"cut","to":"O3"}],"offense":[{"label":"O1","x":60,"y":58},{"label":"O2","x":52,"y":52},{"label":"O3","x":47,"y":30}],"passes":[{"from":"O1","to":"O3"}],"screens":[{"x":52,"y":52}],"shots":[],"title":"Pocket pass: thread the bounce between X1 and X2 to the roller"},"gameSituations":["Pick-and-roll when the screener's defender drops — the pocket opens between the two defenders.","Against a hedge that recovers — slip the pass underneath the recovering big.","Short-clock situations — it's the fastest way to turn a screen into a layup."],"howTo":[{"detail":"Come off the ball screen with the on-ball defender trailing on your hip. Keep the screener's defender in your peripheral vision — the pocket is the gap between the two of them.","title":"Read the two defenders"},{"detail":"Stay low and keep your dribble alive with the outside hand. Your body should shield the ball from the trailing defender.","title":"Protect the ball"},{"detail":"Aim a one-hand bounce pass through the gap between the defenders, leading the roller toward the rim. The ball should bounce once and arrive at the roller's waist, slightly ahead of him.","title":"Thread the bounce"},{"detail":"As you release, snap your wrist and follow through toward the rim. Your pass and the roller's cut must arrive at the same moment — release early enough to lead him.","title":"Time it to the roll"}],"hub":"skills","id":"pocket-pass","level":"intermediate","positions":["ALL"],"readTime":6,"related":["bounce-pass","chest-pass","drive-and-kick","pro-hop","runner-floater"],"slug":"pocket-pass","subcategory":"passing","tags":["passing","pick and roll","bounce pass","guards"],"title":"Pocket Pass","whatIsIt":["The pocket pass is a one-handed bounce pass threaded between the on-ball defender and the screener's defender to a big man rolling to the basket. The 'pocket' is the small gap between those two defenders — usually less than a meter wide.","It's the signature pass of the pick-and-roll. When the defense drops or the on-ball defender gets stuck, the pocket opens, and a precise bounce pass turns the screen into an uncontested layup."],"whyItMatters":["Pick-and-roll is the most common action in modern basketball, and the pocket pass is its most efficient outcome — a layup or a foul. Defenses scheme specifically to take it away. Guards who can deliver it on time and on target make every screen they use dangerous."]}
+{
+  "ages": [
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult",
+    "Competitive"
+  ],
+  "coachingPoints": [
+    "The pocket is between the on-ball defender and the screener's defender — thread it through that gap, not around the outside.",
+    "Bounce the pocket pass; a bounce arrives cleaner in tight spaces than a direct ball.",
+    "Keep your dribble alive if the pocket isn't open — never force it.",
+    "Lead the roller slightly toward the rim, not at his chest.",
+    "The pass must come BEFORE the roller is fully open — anticipate, don't react."
+  ],
+  "commonMistakes": [
+    "Throwing it at the roller's chest — that's the direct line the help defender is sitting on.",
+    "Forcing the pocket when the screener's defender shows high — hit the short roll or skip instead.",
+    "Aiming at where the roller is, not where he's going — passes arrive late and low.",
+    "Picking up the dribble too early — you lose the threat that created the pocket."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "The threaded bounce pass between two defenders to a rolling big — the bread and butter of pick-and-roll offense.",
+  "diagram": {
+    "ball": "O3",
+    "defense": [
+      {
+        "label": "X1",
+        "x": 62,
+        "y": 52
+      },
+      {
+        "label": "X2",
+        "x": 48,
+        "y": 48
+      }
+    ],
+    "moves": [
+      {
+        "from": "O2",
+        "kind": "cut",
+        "to": "O3"
+      }
+    ],
+    "offense": [
+      {
+        "label": "O1",
+        "x": 60,
+        "y": 58
+      },
+      {
+        "label": "O2",
+        "x": 52,
+        "y": 52
+      },
+      {
+        "label": "O3",
+        "x": 47,
+        "y": 30
+      }
+    ],
+    "passes": [
+      {
+        "from": "O1",
+        "to": "O3"
+      }
+    ],
+    "screens": [
+      {
+        "x": 52,
+        "y": 52
+      }
+    ],
+    "shots": [],
+    "title": "Pocket pass: thread the bounce between X1 and X2 to the roller"
+  },
+  "gameSituations": [
+    "Pick-and-roll when the screener's defender drops — the pocket opens between the two defenders.",
+    "Against a hedge that recovers — slip the pass underneath the recovering big.",
+    "Short-clock situations — it's the fastest way to turn a screen into a layup."
+  ],
+  "howTo": [
+    {
+      "detail": "Come off the ball screen with the on-ball defender trailing on your hip. Keep the screener's defender in your peripheral vision — the pocket is the gap between the two of them.",
+      "title": "Read the two defenders"
+    },
+    {
+      "detail": "Stay low and keep your dribble alive with the outside hand. Your body should shield the ball from the trailing defender.",
+      "title": "Protect the ball"
+    },
+    {
+      "detail": "Aim a one-hand bounce pass through the gap between the defenders, leading the roller toward the rim. The ball should bounce once and arrive at the roller's waist, slightly ahead of him.",
+      "title": "Thread the bounce"
+    },
+    {
+      "detail": "As you release, snap your wrist and follow through toward the rim. Your pass and the roller's cut must arrive at the same moment — release early enough to lead him.",
+      "title": "Time it to the roll"
+    }
+  ],
+  "hub": "skills",
+  "id": "pocket-pass",
+  "level": "intermediate",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 6,
+  "related": [
+    "bounce-pass",
+    "chest-pass",
+    "drive-and-kick",
+    "pro-hop",
+    "runner-floater"
+  ],
+  "slug": "pocket-pass",
+  "subcategory": "passing",
+  "tags": [
+    "passing",
+    "pick and roll",
+    "bounce pass",
+    "guards"
+  ],
+  "title": "Pocket Pass",
+  "whatIsIt": [
+    "The pocket pass is a one-handed bounce pass threaded between the on-ball defender and the screener's defender to a big man rolling to the basket. The 'pocket' is the small gap between those two defenders — usually less than a meter wide.",
+    "It's the signature pass of the pick-and-roll. When the defense drops or the on-ball defender gets stuck, the pocket opens, and a precise bounce pass turns the screen into an uncontested layup."
+  ],
+  "whyItMatters": [
+    "Pick-and-roll is the most common action in modern basketball, and the pocket pass is its most efficient outcome — a layup or a foul. Defenses scheme specifically to take it away. Guards who can deliver it on time and on target make every screen they use dangerous."
+  ],
+  "vi": {
+    "title": "Pocket Pass",
+    "description": "Đường chuyền nảy xuyên qua hai hậu vệ đến big man đang roll — món tủ của tấn công pick and roll.",
+    "whatIsIt": [
+      "Pocket pass là đường chuyền nảy một tay xuyên qua hậu vệ kèm bóng và hậu vệ của người screen, đến big man đang roll về rổ. \"Pocket\" là khe hở nhỏ giữa hai hậu vệ đó — thường chưa đầy một mét.",
+      "Đây là đường chuyền đặc trưng của pick and roll. Khi hàng thủ drop hoặc hậu vệ kèm bóng bị kẹt, pocket mở ra, và một đường chuyền nảy chính xác biến pha screen thành layup không ai kèm."
+    ],
+    "whyItMatters": [
+      "Pick and roll là chiến thuật phổ biến nhất trong bóng rổ hiện đại, và pocket pass là kết quả hiệu quả nhất của nó — một layup hoặc một pha phạm lỗi. Hàng thủ bày mưu tính kế chỉ để lấy đi đường chuyền này. Hậu vệ nào chuyền được đúng lúc đúng đích sẽ khiến mọi pha screen của mình trở nên nguy hiểm."
+    ],
+    "howTo": [
+      {
+        "title": "Đọc hai hậu vệ",
+        "detail": "Ra khỏi ball screen với hậu vệ kèm bóng đuổi sát hông bạn. Giữ hậu vệ của người screen trong tầm nhìn ngoại vi — pocket chính là khe giữa hai người họ."
+      },
+      {
+        "title": "Bảo vệ bóng",
+        "detail": "Giữ thấp và duy trì bóng sống bằng tay ngoài. Cơ thể bạn phải che bóng khỏi hậu vệ đang đuổi theo."
+      },
+      {
+        "title": "Xâu bóng nảy qua khe",
+        "detail": "Nhắm đường chuyền nảy một tay xuyên qua khe giữa hai hậu vệ, dẫn roller về phía rổ. Bóng nảy một lần và đến ngang hông roller, hơi trước mặt anh ta một chút."
+      },
+      {
+        "title": "Căn thời gian theo pha roll",
+        "detail": "Khi thả bóng, gập cổ tay và follow through về phía rổ. Đường chuyền và pha cắt của roller phải đến cùng một thời điểm — thả bóng đủ sớm để dẫn trước anh ta."
+      }
+    ],
+    "coachingPoints": [
+      "Pocket nằm giữa hậu vệ kèm bóng và hậu vệ của người screen — xâu bóng qua khe đó, không vòng ra ngoài.",
+      "Nảy pocket pass; bóng nảy đến gọn hơn trong không gian hẹp so với bóng chuyền thẳng.",
+      "Giữ bóng sống nếu pocket chưa mở — không bao giờ cố ép.",
+      "Dẫn roller hơi về phía rổ, không chuyền vào ngực anh ta.",
+      "Đường chuyền phải đến TRƯỚC khi roller hoàn toàn trống — đoán trước, đừng phản ứng."
+    ],
+    "commonMistakes": [
+      "Chuyền vào ngực roller — đó là đường thẳng mà hậu vệ help đang chờ sẵn.",
+      "Cố ép pocket khi hậu vệ của người screen dâng cao — hãy chuyền short roll hoặc skip thay thế.",
+      "Nhắm vào chỗ roller đang đứng, không phải chỗ anh ta sẽ đến — bóng đến muộn và thấp.",
+      "Nhặt bóng lên quá sớm — bạn mất đi mối đe dọa đã tạo ra pocket."
+    ],
+    "gameSituations": [
+      "Pick and roll khi hậu vệ của người screen drop — pocket mở ra giữa hai hậu vệ.",
+      "Khi đối đầu hedge rồi recover — luồn bóng dưới big man đang lùi về.",
+      "Tình huống đồng hồ sắp hết — đây là cách nhanh nhất biến screen thành layup."
+    ],
+    "tags": [
+      "chuyền bóng",
+      "pick and roll",
+      "chuyền nảy",
+      "hậu vệ"
+    ]
+  }
+}

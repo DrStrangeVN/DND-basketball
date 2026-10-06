@@ -1,1 +1,145 @@
-{"ages":["U12","U14","U16","U18","Adult","Competitive"],"coachingPoints":["Use verbal cues (\"go!\") early, then remove them so players learn to read visual triggers.","Film study is the fastest way to teach timing — pause and ask \"too early, too late, or just right?\"","Small-sided games (3v3, 4v4) naturally punish bad timing and reward good timing.","Teach patience: stillness before the burst is part of timing, not the absence of it."],"commonMistakes":["Cutting before the passer is ready to deliver the ball.","Slipping a screen too early, before the ball handler can use it.","Jumping too soon on rebounds and shot contests, landing as the ball arrives.","Rushing the shot on the catch instead of arriving shot-ready and composed."],"dateUpdated":"2026-10-06","description":"Master basketball timing — when to cut, when to pass, when to shoot — the invisible skill behind every great play.","gameSituations":["Backdoor cut timed exactly with the defender's head turning toward the ball.","Pick-and-roll: the screener holds the screen a beat before rolling to the rim.","Transition: the trailer times their arrival at the top for the kick-out three."],"howTo":[{"detail":"On cuts and screens, wait for the trigger — the defender looking away, the ball crossing half court — before you move. Arriving a half-second late beats arriving three seconds early.","title":"Arrive late, not early"},{"detail":"Start your cut when the passer's shoulders square and eyes come to you, not when you feel like moving. The passer delivers on rhythm; your job is to match it.","title":"Read the passer's readiness"},{"detail":"On rebounds and contests, leave the floor when the ball is near its peak, not before. Time the jump to meet the ball, not to beat everyone else up.","title":"Time your jump, not just your run"},{"detail":"Count \"one-one-thousand\" after contact before rolling or popping. Slipping too early lets both defenders stay with the ball handler and kills the play.","title":"Hold your screen"},{"detail":"Deliver the pass so it meets the cutter in stride, slightly ahead of them. A late pass behind the cutter turns an advantage into a turnover.","title":"Pass on time, on target"},{"detail":"Add a countdown, a live defender, or a two-touch limit to drills. Timing learned under constraint transfers to games; timing learned in isolation does not.","title":"Practice with constraints"}],"hub":"basketball-iq","id":"timing-basketball","level":"intermediate","positions":["ALL"],"readTime":5,"related":["reading-the-defense","decision-making","closeout-reads"],"slug":"timing-basketball","subcategory":"basketball-iq","tags":["basketball-iq","timing","off-ball","passing"],"title":"Timing in Basketball","whatIsIt":["Timing is doing the right thing at the right moment. A cut is only good if it arrives when the passer can deliver the ball; a screen only works if the ball handler uses it at the exact moment it is set. Basketball is a game of windows — they open and close in fractions of a second.","Good timing looks effortless because the player moves with the play instead of ahead of it or behind it. The backdoor cut happens exactly as the defender's head turns; the pocket pass arrives exactly as the roller seals his man. Timing is anticipation, and anticipation is built through repetition and film."],"whyItMatters":["Two players can run the same action and get completely different results — the difference is timing. Mistimed cuts become turnovers, early passes become deflections, late closeouts become open threes. Coaches trust players with good timing because they make the whole offense flow.","Timing also protects the ball. Most live-ball turnovers are timing errors, not skill errors: the pass was fine, it was just a second late. Fix the timing and the turnovers disappear."]}
+{
+  "ages": [
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult",
+    "Competitive"
+  ],
+  "coachingPoints": [
+    "Use verbal cues (\"go!\") early, then remove them so players learn to read visual triggers.",
+    "Film study is the fastest way to teach timing — pause and ask \"too early, too late, or just right?\"",
+    "Small-sided games (3v3, 4v4) naturally punish bad timing and reward good timing.",
+    "Teach patience: stillness before the burst is part of timing, not the absence of it."
+  ],
+  "commonMistakes": [
+    "Cutting before the passer is ready to deliver the ball.",
+    "Slipping a screen too early, before the ball handler can use it.",
+    "Jumping too soon on rebounds and shot contests, landing as the ball arrives.",
+    "Rushing the shot on the catch instead of arriving shot-ready and composed."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "Master basketball timing — when to cut, when to pass, when to shoot — the invisible skill behind every great play.",
+  "gameSituations": [
+    "Backdoor cut timed exactly with the defender's head turning toward the ball.",
+    "Pick-and-roll: the screener holds the screen a beat before rolling to the rim.",
+    "Transition: the trailer times their arrival at the top for the kick-out three."
+  ],
+  "howTo": [
+    {
+      "detail": "On cuts and screens, wait for the trigger — the defender looking away, the ball crossing half court — before you move. Arriving a half-second late beats arriving three seconds early.",
+      "title": "Arrive late, not early"
+    },
+    {
+      "detail": "Start your cut when the passer's shoulders square and eyes come to you, not when you feel like moving. The passer delivers on rhythm; your job is to match it.",
+      "title": "Read the passer's readiness"
+    },
+    {
+      "detail": "On rebounds and contests, leave the floor when the ball is near its peak, not before. Time the jump to meet the ball, not to beat everyone else up.",
+      "title": "Time your jump, not just your run"
+    },
+    {
+      "detail": "Count \"one-one-thousand\" after contact before rolling or popping. Slipping too early lets both defenders stay with the ball handler and kills the play.",
+      "title": "Hold your screen"
+    },
+    {
+      "detail": "Deliver the pass so it meets the cutter in stride, slightly ahead of them. A late pass behind the cutter turns an advantage into a turnover.",
+      "title": "Pass on time, on target"
+    },
+    {
+      "detail": "Add a countdown, a live defender, or a two-touch limit to drills. Timing learned under constraint transfers to games; timing learned in isolation does not.",
+      "title": "Practice with constraints"
+    }
+  ],
+  "hub": "basketball-iq",
+  "id": "timing-basketball",
+  "level": "intermediate",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 5,
+  "related": [
+    "reading-the-defense",
+    "decision-making",
+    "closeout-reads"
+  ],
+  "slug": "timing-basketball",
+  "subcategory": "basketball-iq",
+  "tags": [
+    "basketball-iq",
+    "timing",
+    "off-ball",
+    "passing"
+  ],
+  "title": "Timing in Basketball",
+  "whatIsIt": [
+    "Timing is doing the right thing at the right moment. A cut is only good if it arrives when the passer can deliver the ball; a screen only works if the ball handler uses it at the exact moment it is set. Basketball is a game of windows — they open and close in fractions of a second.",
+    "Good timing looks effortless because the player moves with the play instead of ahead of it or behind it. The backdoor cut happens exactly as the defender's head turns; the pocket pass arrives exactly as the roller seals his man. Timing is anticipation, and anticipation is built through repetition and film."
+  ],
+  "whyItMatters": [
+    "Two players can run the same action and get completely different results — the difference is timing. Mistimed cuts become turnovers, early passes become deflections, late closeouts become open threes. Coaches trust players with good timing because they make the whole offense flow.",
+    "Timing also protects the ball. Most live-ball turnovers are timing errors, not skill errors: the pass was fine, it was just a second late. Fix the timing and the turnovers disappear."
+  ],
+  "vi": {
+    "coachingPoints": [
+      "Dùng khẩu lệnh ('đi!') lúc đầu, rồi bỏ dần để cầu thủ học cách đọc các tín hiệu hình ảnh.",
+      "Xem băng là cách nhanh nhất để dạy thời điểm — dừng lại và hỏi 'quá sớm, quá muộn, hay vừa đúng?'",
+      "Các trận đấu nhỏ (3-đấu-3, 4-đấu-4) tự nhiên trừng phạt thời điểm tệ và thưởng cho thời điểm tốt.",
+      "Dạy sự kiên nhẫn: đứng yên trước khi bứt tốc là một phần của thời điểm, không phải thiếu nó."
+    ],
+    "commonMistakes": [
+      "Cắt trước khi người chuyền sẵn sàng đưa bóng.",
+      "Slip tấm chắn quá sớm, trước khi người dẫn bóng kịp tận dụng.",
+      "Bật nhảy quá sớm khi tranh bóng bật bảng và tranh chấp cú ném, tiếp đất đúng lúc bóng tới.",
+      "Vội vàng ném ngay khi bắt bóng thay vì đến nơi trong tư thế sẵn sàng và điềm tĩnh."
+    ],
+    "description": "Làm chủ thời điểm trong bóng rổ — khi nào cắt, khi nào chuyền, khi nào ném — kỹ năng vô hình đằng sau mọi pha bóng hay.",
+    "gameSituations": [
+      "Pha cắt backdoor đúng lúc đầu hậu vệ quay về phía bóng.",
+      "Pick and roll: người chắn giữ tấm chắn một nhịp rồi mới roll vào rổ.",
+      "Phản công: người chạy sau căn thời điểm tới đỉnh vòng để nhận đường kick-out ném ba điểm."
+    ],
+    "howTo": [
+      {
+        "detail": "Với các pha cắt và chắn, hãy chờ tín hiệu — hậu vệ quay mặt đi, bóng qua nửa sân — rồi mới di chuyển. Đến muộn nửa giây còn hơn đến sớm ba giây.",
+        "title": "Đến muộn còn hơn đến sớm"
+      },
+      {
+        "detail": "Bắt đầu pha cắt khi vai người chuyền vuông góc và mắt họ hướng về bạn, không phải khi bạn thấy muốn di chuyển. Người chuyền đưa bóng theo nhịp; nhiệm vụ của bạn là khớp với nhịp đó.",
+        "title": "Đọc sự sẵn sàng của người chuyền"
+      },
+      {
+        "detail": "Với bắt bóng bật bảng và tranh chấp cú ném, hãy rời mặt đất khi bóng gần tới đỉnh, không phải trước đó. Căn cú nhảy để gặp bóng, không phải để bật cao hơn mọi người.",
+        "title": "Căn thời điểm bật nhảy, không chỉ chạy đà"
+      },
+      {
+        "detail": "Đếm 'một-một-nghìn' sau va chạm rồi mới roll hoặc pop. Slip quá sớm để cả hai hậu vệ ở lại với người dẫn bóng và giết chết pha bóng.",
+        "title": "Giữ tấm chắn"
+      },
+      {
+        "detail": "Đưa đường chuyền để nó gặp người cắt đúng đà, hơi đón đầu họ một chút. Một đường chuyền muộn sau lưng người cắt biến lợi thế thành mất bóng.",
+        "title": "Chuyền đúng lúc, đúng đích"
+      },
+      {
+        "detail": "Thêm đếm ngược, một hậu vệ thật, hoặc giới hạn hai lần chạm vào các bài tập. Thời điểm học được trong điều kiện giới hạn sẽ chuyển sang trận đấu; thời điểm học trong môi trường cô lập thì không.",
+        "title": "Tập với các giới hạn"
+      }
+    ],
+    "tags": [
+      "iq bóng rổ",
+      "thời điểm",
+      "không bóng",
+      "chuyền bóng"
+    ],
+    "title": "Thời điểm trong bóng rổ",
+    "whatIsIt": [
+      "Thời điểm là làm đúng việc vào đúng lúc. Một pha cắt chỉ tốt khi nó tới đúng lúc người chuyền có thể đưa bóng; một tấm chắn chỉ hiệu quả khi người dẫn bóng tận dụng nó đúng khoảnh khắc nó được dựng. Bóng rổ là trò chơi của những 'cửa sổ' — chúng mở ra và đóng lại trong tích tắc.",
+      "Thời điểm tốt trông thật nhẹ nhàng vì cầu thủ di chuyển cùng pha bóng thay vì trước hay sau nó. Pha cắt backdoor diễn ra đúng lúc đầu hậu vệ quay đi; đường chuyền pocket tới đúng lúc người roll khóa chặt người kèm. Thời điểm là sự đoán trước, và sự đoán trước được xây dựng qua lặp lại và xem băng."
+    ],
+    "whyItMatters": [
+      "Hai cầu thủ có thể chạy cùng một miếng đánh mà cho kết quả hoàn toàn khác — sự khác biệt là thời điểm. Những pha cắt sai thời điểm thành mất bóng, chuyền sớm thành bị chạm bóng, closeout muộn thành những cú ba điểm trống. Huấn luyện viên tin tưởng những cầu thủ có thời điểm tốt vì họ làm cả hàng công trôi chảy.",
+      "Thời điểm còn bảo vệ quả bóng. Hầu hết các pha mất bóng sống là lỗi thời điểm, không phải lỗi kỹ năng: đường chuyền vẫn ổn, chỉ là muộn một giây. Sửa thời điểm và những pha mất bóng sẽ biến mất."
+    ]
+  }
+}

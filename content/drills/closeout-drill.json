@@ -38,5 +38,54 @@
   "regression": "Offense is shoot-only (no drive), defender starts closer, or walk through the closeout footwork first.",
   "gameApplication": "Every defensive possession involves a closeout — disciplined closeouts turn open threes into contested misses without surrendering blow-bys.",
   "related": ["shell-drill","one-on-one-live","three-man-weave"],
-  "dateUpdated": "2026-10-06"
+  "dateUpdated": "2026-10-06",
+  "vi":   {
+    "title": "Closeout & Tranh Bóng",
+    "description": "Bài tập 2 người rèn kỹ năng closeout lao ra người ném: tiếp cận cân bằng, tay giơ cao và tranh bóng không phạm lỗi.",
+    "goal": "Xây dựng closeout kỷ luật — lao nhanh có kiểm soát, tiếp cận cân bằng và tranh cú ném mà không để bị qua mặt.",
+    "setup": [
+      "Hậu vệ đứng dưới rổ; cầu thủ tấn công đứng ở wing cầm bóng.",
+      "Tấn công có thể ném hoặc đột phá sau khi nhận bóng — hậu vệ không biết trước.",
+      "Đổi vai mỗi 5 lượt để cả hai đều được luyện closeout."
+    ],
+    "instructions": [
+      {
+        "title": "Lao nhanh ra người ném",
+        "detail": "Khi bóng được chuyền, hậu vệ lao từ khu vực paint ra wing, bước nhỏ (chop steps) trong 3-4 feet cuối để giữ cân bằng."
+      },
+      {
+        "title": "Tiếp cận với tay giơ cao",
+        "detail": "Closeout với một tay giơ cao để tranh cú ném, tay còn lại hạ thấp để ngăn đột phá."
+      },
+      {
+        "title": "Phản ứng với tấn công",
+        "detail": "Nếu đối thủ ném, tranh bóng theo chiều dọc mà không lao vào người; nếu họ đột phá, trượt chân theo và ngăn lại."
+      },
+      {
+        "title": "Kết thúc đợt bóng",
+        "detail": "Chơi live đến khi có cú ném, rồi box out và tranh rebound — mỗi lượt đều kết thúc bằng box out."
+      },
+      {
+        "title": "Đổi góc xuất phát",
+        "detail": "Đổi vị trí bắt đầu: wing, góc, đỉnh — mỗi vị trí 5 lượt, rồi đổi vai."
+      }
+    ],
+    "coachingPoints": [
+      "Lao nhanh 80% quãng đường closeout, rồi bước nhỏ lại — lao qua người ném còn tệ hơn đến muộn.",
+      "Hạ thấp trọng tâm, chân rộng khi tiếp cận; closeout đứng thẳng sẽ bị qua mặt ngay.",
+      "Tranh cú ném bằng tay giơ cao nhưng giữ người thẳng đứng — không nghiêng vào người ném.",
+      "Ép đối thủ sang tay không thuận bằng cách closeout hơi lệch về phía tay thuận của người ném."
+    ],
+    "commonMistakes": [
+      "Nhảy theo động tác giả ném — hãy đứng vững và để người ném chứng minh họ sẽ ném thật.",
+      "Closeout với tư thế quá cao — thế đứng cao nghĩa là bạn không phản ứng kịp với pha đột phá."
+    ],
+    "progression": "Tấn công được rê bóng thật sau khi nhận bóng, hậu vệ phải closeout từ xa hơn (từ paint ra góc), hoặc thêm cầu thủ tấn công thứ hai để luyện closeout-rồi-hồi vị trí.",
+    "regression": "Tấn công chỉ được ném (không đột phá), hậu vệ bắt đầu gần hơn, hoặc đi bộ qua footwork closeout trước.",
+    "gameApplication": "Mọi đợt phòng thủ đều có closeout — closeout kỷ luật biến những cú ném 3 điểm trống trải thành những cú ném bị tranh chấp mà không để bị qua mặt.",
+    "players": "2",
+    "equipment": [
+      "Bóng rổ"
+    ]
+  }
 }

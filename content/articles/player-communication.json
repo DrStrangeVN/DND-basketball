@@ -1,1 +1,146 @@
-{"ages":["U10","U12","U14","U16","U18","Adult"],"coachingPoints":["Praise publicly, correct privately — the golden rule of coaching communication.","Adapt your style: direct with some players, encouraging with others.","Never discuss playing time right after a game; emotions are too high.","Your body language communicates as much as your words — stay aware of it."],"commonMistakes":["Only communicating with players when something goes wrong.","Criticizing players in front of teammates or parents.","Being vague: saying \"play harder\" without explaining what to actually do.","Avoiding hard conversations until they explode into real problems."],"dateUpdated":"2026-10-06","description":"How to talk to players so they actually listen — feedback that builds confidence, hard conversations, and earning trust.","gameSituations":["Telling a starter they are coming off the bench this week.","A player shuts down after a mistake: rebuilding confidence mid-game.","Preseason: setting clear expectations about roles and playing time."],"howTo":[{"detail":"Learn about your players as people, not just athletes. Corrections land far better from a coach the player believes cares about them.","title":"Build the relationship first"},{"detail":"\"Your closeout was short and balanced — great\" beats \"good job.\" \"Close out with high hands\" beats \"play better defense.\" Specificity is kindness.","title":"Be specific with feedback"},{"detail":"Say \"that pass was risky,\" not \"you are careless.\" Separate the action from the person's identity and players will hear the correction instead of the insult.","title":"Correct the behavior, not the person"},{"detail":"Sensitive topics — role, playing time, effort — belong in private one-on-one conversations, never in front of the team.","title":"Use the one-on-one"},{"detail":"Ask \"what did you see?\" before correcting. Players often already know, and listening first builds the buy-in that makes your correction stick.","title":"Listen before responding"},{"detail":"Check back after a hard conversation: \"how are you feeling about your role?\" Following up shows the talk was the start of support, not just a lecture.","title":"Follow up"}],"hub":"coaching","id":"player-communication","level":"intermediate","positions":["ALL"],"readTime":5,"related":["team-culture","youth-coaching","player-development-plan","teaching-basketball"],"slug":"player-communication","subcategory":"coaching","tags":["coaching","communication","leadership","feedback"],"title":"Communicating with Players","whatIsIt":["Communicating with players is the daily work of coaching: giving feedback, correcting mistakes, motivating, and having difficult conversations about roles and playing time. The same message can build a player up or tear them down — the difference is how it is delivered.","Great communicators adapt to the individual: some players need a push, others need reassurance. They listen as much as they talk, and they earn the trust that makes hard messages receivable."],"whyItMatters":["Players do not learn from coaches they do not trust, and trust is built through communication. Clear, honest, respectful communication turns corrections into growth instead of conflict. Most so-called \"attitude problems\" are actually communication problems.","Good communication also prevents small issues from becoming big ones. The conversation you have early about a role concern is easy; the one you avoid for two months is a crisis."]}
+{
+  "ages": [
+    "U10",
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "coachingPoints": [
+    "Praise publicly, correct privately — the golden rule of coaching communication.",
+    "Adapt your style: direct with some players, encouraging with others.",
+    "Never discuss playing time right after a game; emotions are too high.",
+    "Your body language communicates as much as your words — stay aware of it."
+  ],
+  "commonMistakes": [
+    "Only communicating with players when something goes wrong.",
+    "Criticizing players in front of teammates or parents.",
+    "Being vague: saying \"play harder\" without explaining what to actually do.",
+    "Avoiding hard conversations until they explode into real problems."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "How to talk to players so they actually listen — feedback that builds confidence, hard conversations, and earning trust.",
+  "gameSituations": [
+    "Telling a starter they are coming off the bench this week.",
+    "A player shuts down after a mistake: rebuilding confidence mid-game.",
+    "Preseason: setting clear expectations about roles and playing time."
+  ],
+  "howTo": [
+    {
+      "detail": "Learn about your players as people, not just athletes. Corrections land far better from a coach the player believes cares about them.",
+      "title": "Build the relationship first"
+    },
+    {
+      "detail": "\"Your closeout was short and balanced — great\" beats \"good job.\" \"Close out with high hands\" beats \"play better defense.\" Specificity is kindness.",
+      "title": "Be specific with feedback"
+    },
+    {
+      "detail": "Say \"that pass was risky,\" not \"you are careless.\" Separate the action from the person's identity and players will hear the correction instead of the insult.",
+      "title": "Correct the behavior, not the person"
+    },
+    {
+      "detail": "Sensitive topics — role, playing time, effort — belong in private one-on-one conversations, never in front of the team.",
+      "title": "Use the one-on-one"
+    },
+    {
+      "detail": "Ask \"what did you see?\" before correcting. Players often already know, and listening first builds the buy-in that makes your correction stick.",
+      "title": "Listen before responding"
+    },
+    {
+      "detail": "Check back after a hard conversation: \"how are you feeling about your role?\" Following up shows the talk was the start of support, not just a lecture.",
+      "title": "Follow up"
+    }
+  ],
+  "hub": "coaching",
+  "id": "player-communication",
+  "level": "intermediate",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 5,
+  "related": [
+    "team-culture",
+    "youth-coaching",
+    "player-development-plan",
+    "teaching-basketball"
+  ],
+  "slug": "player-communication",
+  "subcategory": "coaching",
+  "tags": [
+    "coaching",
+    "communication",
+    "leadership",
+    "feedback"
+  ],
+  "title": "Communicating with Players",
+  "whatIsIt": [
+    "Communicating with players is the daily work of coaching: giving feedback, correcting mistakes, motivating, and having difficult conversations about roles and playing time. The same message can build a player up or tear them down — the difference is how it is delivered.",
+    "Great communicators adapt to the individual: some players need a push, others need reassurance. They listen as much as they talk, and they earn the trust that makes hard messages receivable."
+  ],
+  "whyItMatters": [
+    "Players do not learn from coaches they do not trust, and trust is built through communication. Clear, honest, respectful communication turns corrections into growth instead of conflict. Most so-called \"attitude problems\" are actually communication problems.",
+    "Good communication also prevents small issues from becoming big ones. The conversation you have early about a role concern is easy; the one you avoid for two months is a crisis."
+  ],
+  "vi": {
+    "title": "Giao Tiếp Với Cầu Thủ",
+    "description": "Cách nói chuyện để cầu thủ thực sự lắng nghe — phản hồi xây dựng sự tự tin, những cuộc trò chuyện khó, và cách tạo dựng niềm tin.",
+    "whatIsIt": [
+      "Giao tiếp với cầu thủ là công việc hằng ngày của HLV: đưa phản hồi, sửa lỗi, tạo động lực, và trò chuyện khó về vai trò hay thời gian thi đấu. Cùng một thông điệp có thể nâng cầu thủ lên hoặc dìm họ xuống — khác biệt nằm ở cách truyền đạt.",
+      "Người giao tiếp giỏi biết thích ứng với từng cá nhân: có cầu thủ cần bị thúc đẩy, có cầu thủ cần được trấn an. Họ lắng nghe nhiều như nói, và họ tạo dựng niềm tin để những thông điệp khó được đón nhận."
+    ],
+    "whyItMatters": [
+      "Cầu thủ không học được từ HLV mà họ không tin tưởng, và niềm tin được xây dựng qua giao tiếp. Giao tiếp rõ ràng, trung thực, tôn trọng biến những lời chỉnh sửa thành sự tiến bộ thay vì xung đột. Hầu hết những cái gọi là \"vấn đề thái độ\" thực ra là vấn đề giao tiếp.",
+      "Giao tiếp tốt còn ngăn những vấn đề nhỏ thành vấn đề lớn. Cuộc trò chuyện sớm về mối lo vai trò thì dễ; cuộc trò chuyện mà bạn né tránh hai tháng sẽ thành khủng hoảng."
+    ],
+    "howTo": [
+      {
+        "title": "Xây dựng mối quan hệ trước",
+        "detail": "Tìm hiểu cầu thủ như những con người, không chỉ là vận động viên. Lời chỉnh sửa từ một HLV mà cầu thủ tin là quan tâm đến mình sẽ có tác động hơn nhiều."
+      },
+      {
+        "title": "Phản hồi cụ thể",
+        "detail": "\"Closeout của em ngắn và cân bằng — tốt lắm\" hay hơn \"làm tốt lắm\". \"Close out với tay giơ cao\" hay hơn \"phòng ngự tốt lên\". Cụ thể chính là tử tế."
+      },
+      {
+        "title": "Sửa hành vi, không sửa con người",
+        "detail": "Hãy nói \"đường chuyền đó mạo hiểm\", đừng nói \"em cẩu thả\". Tách hành động khỏi con người, cầu thủ sẽ nghe được lời chỉnh sửa thay vì lời xúc phạm."
+      },
+      {
+        "title": "Dùng cuộc trò chuyện riêng",
+        "detail": "Những chủ đề nhạy cảm — vai trò, thời gian thi đấu, nỗ lực — thuộc về cuộc trò chuyện riêng tư một-một, không bao giờ trước mặt cả đội."
+      },
+      {
+        "title": "Lắng nghe trước khi phản hồi",
+        "detail": "Hỏi \"em thấy gì?\" trước khi chỉnh sửa. Cầu thủ thường đã tự biết, và lắng nghe trước tạo sự đồng thuận giúp lời chỉnh sửa của bạn có hiệu quả."
+      },
+      {
+        "title": "Theo dõi sau đó",
+        "detail": "Quay lại kiểm tra sau cuộc trò chuyện khó: \"em cảm thấy thế nào về vai trò của mình?\" Việc theo dõi cho thấy cuộc nói chuyện là khởi đầu của sự hỗ trợ, không chỉ là một bài giảng."
+      }
+    ],
+    "coachingPoints": [
+      "Khen công khai, sửa riêng tư — nguyên tắc vàng của giao tiếp huấn luyện.",
+      "Thích ứng phong cách: thẳng thắn với cầu thủ này, khích lệ với cầu thủ khác.",
+      "Không bao giờ bàn về thời gian thi đấu ngay sau trận; cảm xúc lúc đó quá cao.",
+      "Ngôn ngữ cơ thể truyền đạt nhiều như lời nói — hãy luôn ý thức về nó."
+    ],
+    "commonMistakes": [
+      "Chỉ nói chuyện với cầu thủ khi có chuyện không ổn.",
+      "Phê bình cầu thủ trước mặt đồng đội hoặc phụ huynh.",
+      "Nói chung chung: bảo \"cố gắng hơn\" mà không giải thích cụ thể phải làm gì.",
+      "Né tránh những cuộc trò chuyện khó cho đến khi chúng bùng nổ thành vấn đề thật."
+    ],
+    "gameSituations": [
+      "Thông báo với cầu thủ đá chính rằng tuần này họ sẽ ngồi dự bị.",
+      "Một cầu thủ sụp đổ sau sai lầm: xây dựng lại sự tự tin ngay giữa trận.",
+      "Tiền mùa giải: đặt kỳ vọng rõ ràng về vai trò và thời gian thi đấu."
+    ],
+    "tags": [
+      "huấn luyện",
+      "giao tiếp",
+      "lãnh đạo",
+      "phản hồi"
+    ]
+  }
+}

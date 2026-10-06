@@ -1,13 +1,17 @@
+"use client";
 import Link from "next/link";
 import { ChevronRight, Clock } from "lucide-react";
 import { LEVEL_META } from "@/lib/hubs";
+import { useLanguage } from "@/lib/i18n";
 
 export function LevelBadge({ level, className = "" }: { level: string; className?: string }) {
+  const { t } = useLanguage();
   const meta = LEVEL_META[level] ?? LEVEL_META.beginner;
+  const labelKey = `article.level.${level}`;
   return (
     <span className={`inline-flex items-center gap-1.5 rounded-full px-2.5 py-1 text-[11px] font-semibold text-[color:var(--muted)] ${className}`}>
       <span className={`h-2 w-2 rounded-full ${meta.dot}`} aria-hidden />
-      {meta.label}
+      {t(labelKey) === labelKey ? meta.label : t(labelKey)}
       <span className="sr-only">level</span>
     </span>
   );
@@ -25,6 +29,7 @@ export function TagChip({ tag }: { tag: string }) {
 export function SectionTitle({ eyebrow, title, description, href }: {
   eyebrow?: string; title: string; description?: string; href?: string;
 }) {
+  const { t } = useLanguage();
   return (
     <div className="mb-6 flex items-end justify-between gap-4">
       <div>
@@ -34,7 +39,7 @@ export function SectionTitle({ eyebrow, title, description, href }: {
       </div>
       {href && (
         <Link href={href} className="neu-btn hidden shrink-0 items-center gap-1 px-4 py-2 text-sm font-semibold sm:inline-flex">
-          View all <ChevronRight className="h-4 w-4" />
+          {t("hub.viewAll")} <ChevronRight className="h-4 w-4" />
         </Link>
       )}
     </div>
@@ -56,9 +61,10 @@ export function Breadcrumbs({ items }: { items: { label: string; href?: string }
 }
 
 export function ReadTime({ minutes }: { minutes: number }) {
+  const { t } = useLanguage();
   return (
     <span className="inline-flex items-center gap-1 text-[12px] text-[color:var(--muted)]">
-      <Clock className="h-3.5 w-3.5" aria-hidden /> {minutes} min
+      <Clock className="h-3.5 w-3.5" aria-hidden /> {minutes} {t("article.minRead")}
     </span>
   );
 }

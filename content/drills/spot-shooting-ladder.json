@@ -38,5 +38,55 @@
   "regression": "Shorten the ladder to 3 spots (right wing, top, left wing) and shoot from 8-10 feet instead of the arc.",
   "gameApplication": "Games reward shooters who are ready in any spot — this drill trains the footwork and rhythm you need off drive-and-kick and skip passes.",
   "related": ["form-shooting","three-point-star","free-throw-routine"],
-  "dateUpdated": "2026-10-06"
+  "dateUpdated": "2026-10-06",
+  "vi":   {
+    "title": "Thang Ném Theo Điểm",
+    "description": "Chuỗi ném có cấu trúc quanh vòng cung rèn tầm ném, nhịp footwork và biến số lượng cú ném thành trò chơi vui, dễ theo dõi.",
+    "goal": "Phát triển tầm ném và sự chuẩn bị cú ném ổn định bằng cách ném đủ số lần vào từ 5 điểm quanh vòng cung.",
+    "setup": [
+      "Đặt 5 cọc thành thang quanh rổ: góc phải, wing phải, đỉnh vòng, wing trái, góc trái.",
+      "Bắt đầu ở cọc góc phải, cự ly midrange — đẩy cọc ra xa dần khi bạn tiến bộ.",
+      "Tự mang bóng hoặc tập với người rebound; chuẩn bị điện thoại để ghi số lần vào."
+    ],
+    "instructions": [
+      {
+        "title": "Vào 5 quả ở điểm 1",
+        "detail": "Ném đến khi vào 5 quả từ góc phải, rồi chuyển cọc tiếp theo — không được bỏ điểm."
+      },
+      {
+        "title": "Giữ chân sẵn sàng",
+        "detail": "Đến mỗi điểm với chân đã đặt, gối gập, tay sẵn sàng trước khi nhận bóng."
+      },
+      {
+        "title": "Nhận thấp và nâng lên",
+        "detail": "Nhận bóng thấp và nâng thẳng vào cú ném trong một động tác mượt — không hạ bóng hay khựng lại."
+      },
+      {
+        "title": "Chạy thang 2 lượt",
+        "detail": "Hoàn thành cả 5 điểm (25 lần vào), rồi chạy thang ngược lại theo thứ tự đảo cho lượt thứ hai."
+      },
+      {
+        "title": "Tự chấm điểm",
+        "detail": "Đếm tổng số lần ném qua cả 2 lượt và cố phá kỷ lục ở buổi sau."
+      }
+    ],
+    "coachingPoints": [
+      "Cùng một sự chuẩn bị cú ném ở mọi điểm — đừng để góc ném làm thay đổi form.",
+      "Giữ follow-through và dõi bóng bằng mắt.",
+      "Di chuyển giữa các điểm khẩn trương nhưng đặt lại chân hoàn toàn trước khi ném.",
+      "Thở ra khi release để giữ thả lỏng."
+    ],
+    "commonMistakes": [
+      "Vội release khi chân chưa đặt — những cú trượt dài/ngắn đến từ chuẩn bị cẩu thả, không phải từ tay.",
+      "Trôi ngang ở những quả 3 điểm góc — giữ người thẳng đứng và tiếp đất cân bằng."
+    ],
+    "progression": "Đẩy mọi điểm ra vạch 3 điểm, thêm một nhịp rê đổi chỗ giữa các điểm, hoặc yêu cầu vào liên tiếp mới được lên điểm.",
+    "regression": "Rút thang còn 3 điểm (wing phải, đỉnh, wing trái) và ném từ 8-10 feet (2,5-3m) thay vì vòng cung.",
+    "gameApplication": "Trận đấu thưởng cho những tay ném sẵn sàng ở mọi điểm — bài này rèn footwork và nhịp điệu bạn cần sau những đường drive-and-kick và skip pass.",
+    "players": "1",
+    "equipment": [
+      "Bóng rổ",
+      "Cọc tiêu"
+    ]
+  }
 }

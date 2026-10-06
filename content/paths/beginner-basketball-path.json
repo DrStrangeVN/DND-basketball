@@ -14,5 +14,40 @@
     {"title": "Level 6 — Finish at the Rim", "description": "Learn the basic layup with correct footwork off both sides of the basket.", "articles": ["basic-layup"]},
     {"title": "Level 7 — Play Defense", "description": "Get into a real defensive stance and learn the fundamentals of guarding your man.", "articles": ["defensive-stance"]}
   ],
-  "dateUpdated": "2026-10-06"
+  "dateUpdated": "2026-10-06",
+  "vi":   {
+    "title": "Bóng Rổ Cho Người Mới Bắt Đầu",
+    "description": "Bắt đầu từ con số 0: học luật, sân bóng và các kỹ năng cốt lõi — rê bóng, ném rổ, chuyền bóng, layup và phòng thủ — theo đúng thứ tự.",
+    "audience": "Người mới chơi bóng rổ lần đầu",
+    "steps": [
+      {
+        "title": "Cấp 1 — Hiểu Trận Đấu",
+        "description": "Học luật cơ bản và làm quen với các đường kẻ trên sân để biết mọi thứ diễn ra ở đâu."
+      },
+      {
+        "title": "Cấp 2 — Tư Thế Đầu Tiên",
+        "description": "Thành thạo tư thế triple threat — tư thế nền tảng mà mọi kỹ năng tấn công đều xây dựng trên đó."
+      },
+      {
+        "title": "Cấp 3 — Làm Chủ Bóng",
+        "description": "Xây dựng khả năng kiểm soát rê bóng đứng yên bằng cả hai tay, mắt nhìn lên."
+      },
+      {
+        "title": "Cấp 4 — Chuyền Có Chủ Đích",
+        "description": "Học chest pass — đường chuyền dùng nhiều nhất trong bóng rổ — với footwork và follow-through đúng."
+      },
+      {
+        "title": "Cấp 5 — Ném Đúng Kỹ Thuật",
+        "description": "Phát triển kỹ thuật ném sạch từ cự ly gần trước khi tăng khoảng cách."
+      },
+      {
+        "title": "Cấp 6 — Dứt Điểm Ở Rổ",
+        "description": "Học layup cơ bản với footwork đúng ở cả hai bên rổ."
+      },
+      {
+        "title": "Cấp 7 — Chơi Phòng Thủ",
+        "description": "Vào tư thế phòng thủ thật và học những điều cơ bản về kèm người."
+      }
+    ]
+  }
 }

@@ -124,5 +124,66 @@
     "pin-down-screen",
     "stagger-screen"
   ],
-  "dateUpdated": "2026-10-06"
+  "dateUpdated": "2026-10-06",
+  "vi": {
+    "coachingPoints": [
+      "Lặp lại là chìa khóa: bước chân và góc chắn chỉ trở thành bản năng sau hàng trăm lần tập.",
+      "Dạy người chắn hô to khi chắn — giao tiếp giúp tránh va chạm và nhầm lẫn.",
+      "Hậu vệ của người chắn thường là người hô cách phòng thủ; hãy dạy người chắn đọc vị trí của hậu vệ đó.",
+      "Va chạm phải là ngực-đối-ngực và hợp lệ — dạy cầu thủ chịu đòn, không phải đẩy người."
+    ],
+    "commonMistakes": [
+      "Di chuyển khi chắn — lỗi tấn công phổ biến nhất trong bóng rổ.",
+      "Dựng tấm chắn ở góc xấu, cuối cùng chắn luôn đồng đội thay vì hậu vệ.",
+      "Slip mọi tấm chắn thay vì tạo va chạm, khiến không bao giờ tạo được khoảng trống thực sự.",
+      "Người dẫn bóng đi quá rộng quanh tấm chắn, để hậu vệ kịp hồi phục."
+    ],
+    "description": "Những tấm chắn hợp lệ, đúng góc — cả chắn cho người có bóng và không bóng — giúp giải phóng đồng đội và tạo lợi thế.",
+    "gameSituations": [
+      "Giải phóng tay ném bằng chắn không bóng (pin down, flare) khi đối đầu phòng thủ kèm người.",
+      "Tạo lợi thế hai-chọi-một bằng chắn cho người có bóng khi hàng thủ đã vào vị trí.",
+      "Tình huống sắp hết giờ, khi một tấm chắn sạch là tất cả những gì bạn cần để có cú ném."
+    ],
+    "howTo": [
+      {
+        "detail": "Đến góc chắn trước khi hậu vệ kịp ngờ tới. Chắn muộn để hậu vệ nhìn thấy trước và chui dưới dễ dàng.",
+        "title": "Chạy nước rút đến vị trí"
+      },
+      {
+        "detail": "Chân rộng hơn vai, gối cong, tay bảo vệ cơ thể. Đứng hoàn toàn yên khi va chạm — chắn di động là mất bóng.",
+        "title": "Dựng tư thế rộng và hợp lệ"
+      },
+      {
+        "detail": "Hướng ngực vuông góc với đường di chuyển của hậu vệ, không phải với đồng đội. Góc quyết định người dẫn bóng có thể đi đâu — hãy học góc chắn như một kỹ năng riêng.",
+        "title": "Đặt góc chắn chính xác"
+      },
+      {
+        "detail": "Giữ nguyên một nhịp sau va chạm để đồng đội thực sự tạo được khoảng trống. Slip sớm chỉ dành cho những tình huống đọc bài cụ thể, không phải thói quen.",
+        "title": "Giữ tấm chắn"
+      },
+      {
+        "detail": "Roll vào rổ, pop ra khoảng trống, hoặc slip nếu hậu vệ của bạn lao ra sớm. Người chắn đứng yên sau khi chắn là đang phí phạm lợi thế.",
+        "title": "Làm gì đó sau khi chắn"
+      },
+      {
+        "detail": "Dắt hậu vệ của bạn vào tấm chắn — đưa họ về phía nó, rồi bứt tốc qua vai người chắn. Đừng bao giờ chạy quá rộng khiến hậu vệ có khoảng trống để lách qua.",
+        "title": "Dẫn hậu vệ vào tấm chắn"
+      }
+    ],
+    "tags": [
+      "chắn bóng",
+      "pick and roll",
+      "không bóng",
+      "tấn công đồng đội"
+    ],
+    "title": "Chắn bóng",
+    "whatIsIt": [
+      "Chắn bóng là một động tác chặn hợp lệ, khi cầu thủ tấn công đứng vào đường di chuyển của hậu vệ để giải phóng đồng đội. Chắn cho người có bóng giải phóng người dẫn bóng (pick and roll); chắn không bóng giải phóng người cắt rổ và tay ném (pin down, flare, stagger).",
+      "Chắn bóng tốt là một kỹ năng, không chỉ là đứng yên. Nó đòi hỏi góc đúng, thời điểm đúng, tư thế đứng rộng và hợp lệ, và — quan trọng nhất — những gì người chắn làm sau va chạm: roll vào rổ, pop ra ngoài, hay slip lách qua.",
+      "Những đội chắn bóng tốt có được cú ném trống mà không cần cầu thủ một-chọi-một đẳng cấp. Chắn bóng là vũ khí san bằng của lối chơi tấn công đồng đội."
+    ],
+    "whyItMatters": [
+      "Hầu như mọi cú ném trống trong bóng rổ đều bắt đầu từ một tấm chắn. Một tấm chắn tốt tạo ra lợi thế hai-chọi-một; một tấm chắn cẩu thả tạo ra mất bóng hoặc lỗi tấn công. Học cách chắn — và cách tận dụng tấm chắn — chính là học cách lối tấn công đồng đội vận hành."
+    ]
+  }
 }

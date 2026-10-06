@@ -1,1 +1,145 @@
-{"ages":["U14","U16","U18","Adult"],"coachingPoints":["Develop the off-hand until it is nearly as good as the dominant hand — point guards cannot have a weak side.","Train decision speed, not just skills: add a defender or a time limit to every drill.","Build the midrange pull-up; it is the shot defenses give point guards most often.","Study film weekly — vision is trained by watching, not just by playing."],"commonMistakes":["Dribbling with no purpose — pounding the ball while the offense stands still.","Forcing passes into traffic instead of making the simple play.","Playing too fast when the team needs calm, or too slow when it needs pace.","Ignoring defense — a point guard who cannot guard the ball hurts the whole system."],"dateUpdated":"2026-10-06","description":"How to develop as a point guard: ball handling, pick-and-roll reads, tempo control, leadership and floor vision.","gameSituations":["Late clock — the point guard takes over, gets to a spot, and creates.","Against pressure — breaking a full-court press with composure and passing.","Two-for-one — managing the clock to get two possessions at the end of a quarter.","Crunch time — choosing between your shot and the teammate's based on the defense."],"howTo":[{"detail":"Master stationary and moving ball handling with both hands: pounds, crossovers, hesitations, and retreat dribbles. Spend 20–30 minutes daily with your eyes up — a point guard who stares at the ball cannot see the floor.","title":"Own the ball with both hands"},{"detail":"The pick & roll is the point guard's main weapon. Learn to read the screener's defender (drop, hedge, switch, blitz) and the help defenders, then choose: shoot, hit the roller, skip to the corner, or reject the screen.","title":"Master pick-and-roll reads"},{"detail":"Your passing must be accurate on the move and under pressure: pocket passes, skip passes, lobs, and drive-and-kick reads. Practice hitting a moving target 15–20 feet away off the dribble.","title":"Pass with precision on the move"},{"detail":"Decide when the team runs and when it walks. Push after every defensive rebound and made basket; slow down when the defense is set and your team needs a quality shot. The point guard's pace is the team's pace.","title":"Control the tempo"},{"detail":"See the play before it happens. Scan the floor in this order: the ball, your defender, the help, then the weak side. Elite vision is a habit of constant scanning, not a gift.","title":"Build floor vision"},{"detail":"The point guard sets the tone: first to sprint back on defense, first to encourage a teammate, calm when the game gets chaotic. Leadership is mostly behavior under pressure.","title":"Lead by behavior"}],"hub":"positions","id":"point-guard","level":"intermediate","positions":["PG"],"readTime":6,"related":["basketball-positions","triple-threat","spacing-basics","offensive-principles","game-flow-tempo"],"slug":"point-guard","subcategory":"positions","tags":["point guard","pg","playmaking","leadership"],"title":"Point Guard Development","whatIsIt":["The point guard — the '1' — is the team's primary ball handler, playmaker, and on-court leader. They bring the ball up against pressure, initiate the offense, read defenses in pick & roll, and decide who gets the shot and when. More than any other position, the point guard's decisions shape how the team plays.","Modern point guards must also score. Defenses no longer respect a guard who cannot shoot, so today's '1' blends playmaking with pull-up jumpers, floaters, and three-point range — while still making teammates better first."],"whyItMatters":["The point guard touches the ball more than anyone and makes the most decisions per game. A great point guard raises the whole team's efficiency: better shots, fewer turnovers, controlled tempo. It is also the hardest position to play well, which is why skilled point guards are valuable at every level — from youth teams to the pros."]}
+{
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "coachingPoints": [
+    "Develop the off-hand until it is nearly as good as the dominant hand — point guards cannot have a weak side.",
+    "Train decision speed, not just skills: add a defender or a time limit to every drill.",
+    "Build the midrange pull-up; it is the shot defenses give point guards most often.",
+    "Study film weekly — vision is trained by watching, not just by playing."
+  ],
+  "commonMistakes": [
+    "Dribbling with no purpose — pounding the ball while the offense stands still.",
+    "Forcing passes into traffic instead of making the simple play.",
+    "Playing too fast when the team needs calm, or too slow when it needs pace.",
+    "Ignoring defense — a point guard who cannot guard the ball hurts the whole system."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "How to develop as a point guard: ball handling, pick-and-roll reads, tempo control, leadership and floor vision.",
+  "gameSituations": [
+    "Late clock — the point guard takes over, gets to a spot, and creates.",
+    "Against pressure — breaking a full-court press with composure and passing.",
+    "Two-for-one — managing the clock to get two possessions at the end of a quarter.",
+    "Crunch time — choosing between your shot and the teammate's based on the defense."
+  ],
+  "howTo": [
+    {
+      "detail": "Master stationary and moving ball handling with both hands: pounds, crossovers, hesitations, and retreat dribbles. Spend 20–30 minutes daily with your eyes up — a point guard who stares at the ball cannot see the floor.",
+      "title": "Own the ball with both hands"
+    },
+    {
+      "detail": "The pick & roll is the point guard's main weapon. Learn to read the screener's defender (drop, hedge, switch, blitz) and the help defenders, then choose: shoot, hit the roller, skip to the corner, or reject the screen.",
+      "title": "Master pick-and-roll reads"
+    },
+    {
+      "detail": "Your passing must be accurate on the move and under pressure: pocket passes, skip passes, lobs, and drive-and-kick reads. Practice hitting a moving target 15–20 feet away off the dribble.",
+      "title": "Pass with precision on the move"
+    },
+    {
+      "detail": "Decide when the team runs and when it walks. Push after every defensive rebound and made basket; slow down when the defense is set and your team needs a quality shot. The point guard's pace is the team's pace.",
+      "title": "Control the tempo"
+    },
+    {
+      "detail": "See the play before it happens. Scan the floor in this order: the ball, your defender, the help, then the weak side. Elite vision is a habit of constant scanning, not a gift.",
+      "title": "Build floor vision"
+    },
+    {
+      "detail": "The point guard sets the tone: first to sprint back on defense, first to encourage a teammate, calm when the game gets chaotic. Leadership is mostly behavior under pressure.",
+      "title": "Lead by behavior"
+    }
+  ],
+  "hub": "positions",
+  "id": "point-guard",
+  "level": "intermediate",
+  "positions": [
+    "PG"
+  ],
+  "readTime": 6,
+  "related": [
+    "basketball-positions",
+    "triple-threat",
+    "spacing-basics",
+    "offensive-principles",
+    "game-flow-tempo"
+  ],
+  "slug": "point-guard",
+  "subcategory": "positions",
+  "tags": [
+    "point guard",
+    "pg",
+    "playmaking",
+    "leadership"
+  ],
+  "title": "Point Guard Development",
+  "whatIsIt": [
+    "The point guard — the '1' — is the team's primary ball handler, playmaker, and on-court leader. They bring the ball up against pressure, initiate the offense, read defenses in pick & roll, and decide who gets the shot and when. More than any other position, the point guard's decisions shape how the team plays.",
+    "Modern point guards must also score. Defenses no longer respect a guard who cannot shoot, so today's '1' blends playmaking with pull-up jumpers, floaters, and three-point range — while still making teammates better first."
+  ],
+  "whyItMatters": [
+    "The point guard touches the ball more than anyone and makes the most decisions per game. A great point guard raises the whole team's efficiency: better shots, fewer turnovers, controlled tempo. It is also the hardest position to play well, which is why skilled point guards are valuable at every level — from youth teams to the pros."
+  ],
+  "vi": {
+    "title": "Phát Triển Hậu Vệ Dẫn Bóng (Point Guard)",
+    "description": "Cách phát triển như một point guard: dẫn bóng, đọc pick and roll, kiểm soát nhịp độ, lãnh đạo và tầm nhìn sân.",
+    "whatIsIt": [
+      "Point guard — vị trí \"1\" — là người dẫn bóng chính, kiến tạo lối chơi và thủ lĩnh trên sân của đội. Họ đưa bóng lên trước áp lực, khởi động tấn công, đọc hàng thủ trong pick and roll, và quyết định ai ném khi nào. Hơn bất kỳ vị trí nào, quyết định của point guard định hình cách đội bóng chơi.",
+      "Point guard hiện đại còn phải ghi điểm. Hàng thủ không còn nể một hậu vệ không ném được, nên \"số 1\" ngày nay kết hợp kiến tạo với pull-up jumper, floater và tầm ném ba điểm — trong khi vẫn ưu tiên làm đồng đội tốt hơn trước."
+    ],
+    "whyItMatters": [
+      "Point guard chạm bóng nhiều nhất và đưa ra nhiều quyết định nhất mỗi trận. Một point guard giỏi nâng hiệu suất cả đội: cú ném tốt hơn, ít turnover hơn, nhịp độ được kiểm soát. Đây cũng là vị trí khó chơi hay nhất, vì vậy point guard giỏi luôn có giá trị ở mọi cấp độ — từ đội trẻ đến chuyên nghiệp."
+    ],
+    "howTo": [
+      {
+        "title": "Làm chủ bóng bằng cả hai tay",
+        "detail": "Thành thạo dẫn bóng tại chỗ và di chuyển bằng cả hai tay: pounds, crossover, hesitation và retreat dribble. Dành 20–30 phút mỗi ngày tập với mắt ngẩng lên — point guard cứ nhìn chằm chằm vào bóng thì không thể quan sát sân."
+      },
+      {
+        "title": "Thành thạo đọc pick and roll",
+        "detail": "Pick and roll là vũ khí chính của point guard. Học cách đọc hậu vệ của người screen (drop, hedge, switch, blitz) và các hậu vệ help, rồi lựa chọn: ném, chuyền cho roller, skip ra góc, hoặc reject screen."
+      },
+      {
+        "title": "Chuyền chính xác khi di chuyển",
+        "detail": "Đường chuyền của bạn phải chính xác khi di chuyển và dưới áp lực: pocket pass, skip pass, lob và đọc drive-and-kick. Tập đánh trúng mục tiêu di động cách 15–20 feet ngay khi đang dẫn bóng."
+      },
+      {
+        "title": "Kiểm soát nhịp độ",
+        "detail": "Quyết định khi nào đội chạy nhanh, khi nào chậm lại. Đẩy tốc độ sau mỗi rebound phòng ngự và mỗi cú ném thành công; chậm lại khi hàng thủ đã ổn định và đội cần một cú ném chất lượng. Nhịp độ của point guard chính là nhịp độ của đội."
+      },
+      {
+        "title": "Xây dựng tầm nhìn sân",
+        "detail": "Nhìn thấy pha bóng trước khi nó diễn ra. Quét sân theo thứ tự: bóng, hậu vệ kèm bạn, hàng thủ help, rồi phía yếu (weak side). Tầm nhìn đẳng cấp là thói quen quét sân liên tục, không phải năng khiếu bẩm sinh."
+      },
+      {
+        "title": "Lãnh đạo bằng hành động",
+        "detail": "Point guard định hình tinh thần đội: người đầu tiên chạy về phòng ngự, người đầu tiên động viên đồng đội, giữ bình tĩnh khi trận đấu hỗn loạn. Lãnh đạo chủ yếu là cách hành xử dưới áp lực."
+      }
+    ],
+    "coachingPoints": [
+      "Phát triển tay không thuận đến mức gần bằng tay thuận — point guard không được có điểm yếu.",
+      "Tập tốc độ ra quyết định, không chỉ kỹ năng: thêm hậu vệ hoặc giới hạn thời gian vào mọi bài tập.",
+      "Xây dựng cú pull-up tầm trung; đó là cú ném mà hàng thủ thường \"cho\" point guard nhất.",
+      "Xem video hằng tuần — tầm nhìn được rèn bằng cách xem, không chỉ bằng cách chơi."
+    ],
+    "commonMistakes": [
+      "Dẫn bóng vô định — đập bóng trong khi cả đội tấn công đứng yên.",
+      "Cố chuyền vào đám đông thay vì chọn pha bóng đơn giản.",
+      "Chơi quá nhanh khi đội cần bình tĩnh, hoặc quá chậm khi đội cần tốc độ.",
+      "Bỏ bê phòng ngự — point guard không kèm được bóng sẽ làm hại cả hệ thống."
+    ],
+    "gameSituations": [
+      "Đồng hồ sắp hết — point guard cầm trịch, đến vị trí thuận lợi và tạo cơ hội.",
+      "Trước áp lực — phá full-court press bằng sự bình tĩnh và chuyền bóng.",
+      "Two-for-one — quản lý đồng hồ để có hai đợt tấn công cuối hiệp.",
+      "Thời khắc quyết định — chọn giữa cú ném của mình và của đồng đội dựa trên hàng thủ."
+    ],
+    "tags": [
+      "hậu vệ dẫn bóng",
+      "pg",
+      "kiến tạo",
+      "lãnh đạo"
+    ]
+  }
+}

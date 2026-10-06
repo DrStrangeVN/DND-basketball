@@ -1,1 +1,145 @@
-{"ages":["U14","U16","U18","Adult","Competitive"],"coachingPoints":["Track \"extra pass\" possessions on film and praise them publicly — behavior that gets celebrated gets repeated.","Drill advantage maintenance with 4v3 continuous play: the offense must score without letting the defense recover.","Teach spacing discipline — standing too close together kills advantages faster than any defense.","The extra pass is a skill: practice throwing it on the move, off the catch, under control."],"commonMistakes":["Catching the kick-out pass and holding the ball, letting the defense reset.","Settling for a contested shot while an advantage is available one pass away.","Drifting inside the three-point line and shrinking the floor for everyone.","Over-passing: turning a good shot into a turnover by forcing one pass too many."],"dateUpdated":"2026-10-06","description":"Creating an advantage is only half the job. Learn how to keep it alive — extra pass, re-attack, and spacing — until the defense breaks.","gameSituations":["Drive-and-kick: the extra pass swings around the perimeter to the open corner.","Short roll: the roller catches in a 4-on-3 and finds the next open man.","Transition: the trailer keeps the break alive with a quick swing instead of stopping the ball."],"howTo":[{"detail":"When you catch the ball with an advantage and the defense is still rotating, pass to the next open man instead of settling. One more pass often turns a good shot into a great one.","title":"Make the extra pass"},{"detail":"Catch on the move and drive straight at the recovering defender. Never let a rotating defender get set — attack the rotation before it lands.","title":"Re-attack the rotation"},{"detail":"Stay wide and behind the three-point line so the defense has maximum ground to cover. Players who drift inside make rotations short and easy.","title":"Hold your spacing"},{"detail":"Catch, read, and act in under two seconds. The ball must move faster than defenders can run — every extra dribble is a gift to the defense.","title":"Keep the ball moving with quick decisions"},{"detail":"If the defense has fully recovered and matched up, the advantage is gone. Reset the offense and create a new one instead of forcing a bad shot.","title":"Recognize when the advantage is dead"},{"detail":"The last pass should produce the highest-value shot available: a layup first, then an open three, then everything else. Finish the chain with discipline.","title":"Finish the chain"}],"hub":"basketball-iq","id":"maintaining-advantages","level":"advanced","positions":["ALL"],"readTime":6,"related":["creating-advantages","shot-selection-iq","decision-making","timing-basketball"],"slug":"maintaining-advantages","subcategory":"basketball-iq","tags":["basketball-iq","advantage","spacing","passing"],"title":"Maintaining Advantages","whatIsIt":["Maintaining an advantage means keeping the defense in rotation after you have broken it down. You beat your man and the help comes — now what? If you stop, the defense recovers and the advantage dies. If you keep the ball moving or re-attack the next defender, the advantage grows until someone is wide open.","The tools of maintenance are simple: the extra pass, the quick re-drive, and holding your spacing so the defense cannot recover. Great offensive teams do not just create one advantage per possession — they chain them: advantage, rotation, re-attack, open shot."],"whyItMatters":["Most wasted possessions are not wasted because no advantage was created — they are wasted because the advantage was created and then given back. A kick-out to a player who holds the ball lets the defense reset for free. Maintaining advantages is what separates good offenses from great ones.","It is also a trust builder. Players who make the extra pass earn their teammates' trust, and trusted teams share the ball willingly. The extra pass is both a tactic and a culture."]}
+{
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult",
+    "Competitive"
+  ],
+  "coachingPoints": [
+    "Track \"extra pass\" possessions on film and praise them publicly — behavior that gets celebrated gets repeated.",
+    "Drill advantage maintenance with 4v3 continuous play: the offense must score without letting the defense recover.",
+    "Teach spacing discipline — standing too close together kills advantages faster than any defense.",
+    "The extra pass is a skill: practice throwing it on the move, off the catch, under control."
+  ],
+  "commonMistakes": [
+    "Catching the kick-out pass and holding the ball, letting the defense reset.",
+    "Settling for a contested shot while an advantage is available one pass away.",
+    "Drifting inside the three-point line and shrinking the floor for everyone.",
+    "Over-passing: turning a good shot into a turnover by forcing one pass too many."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "Creating an advantage is only half the job. Learn how to keep it alive — extra pass, re-attack, and spacing — until the defense breaks.",
+  "gameSituations": [
+    "Drive-and-kick: the extra pass swings around the perimeter to the open corner.",
+    "Short roll: the roller catches in a 4-on-3 and finds the next open man.",
+    "Transition: the trailer keeps the break alive with a quick swing instead of stopping the ball."
+  ],
+  "howTo": [
+    {
+      "detail": "When you catch the ball with an advantage and the defense is still rotating, pass to the next open man instead of settling. One more pass often turns a good shot into a great one.",
+      "title": "Make the extra pass"
+    },
+    {
+      "detail": "Catch on the move and drive straight at the recovering defender. Never let a rotating defender get set — attack the rotation before it lands.",
+      "title": "Re-attack the rotation"
+    },
+    {
+      "detail": "Stay wide and behind the three-point line so the defense has maximum ground to cover. Players who drift inside make rotations short and easy.",
+      "title": "Hold your spacing"
+    },
+    {
+      "detail": "Catch, read, and act in under two seconds. The ball must move faster than defenders can run — every extra dribble is a gift to the defense.",
+      "title": "Keep the ball moving with quick decisions"
+    },
+    {
+      "detail": "If the defense has fully recovered and matched up, the advantage is gone. Reset the offense and create a new one instead of forcing a bad shot.",
+      "title": "Recognize when the advantage is dead"
+    },
+    {
+      "detail": "The last pass should produce the highest-value shot available: a layup first, then an open three, then everything else. Finish the chain with discipline.",
+      "title": "Finish the chain"
+    }
+  ],
+  "hub": "basketball-iq",
+  "id": "maintaining-advantages",
+  "level": "advanced",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 6,
+  "related": [
+    "creating-advantages",
+    "shot-selection-iq",
+    "decision-making",
+    "timing-basketball"
+  ],
+  "slug": "maintaining-advantages",
+  "subcategory": "basketball-iq",
+  "tags": [
+    "basketball-iq",
+    "advantage",
+    "spacing",
+    "passing"
+  ],
+  "title": "Maintaining Advantages",
+  "whatIsIt": [
+    "Maintaining an advantage means keeping the defense in rotation after you have broken it down. You beat your man and the help comes — now what? If you stop, the defense recovers and the advantage dies. If you keep the ball moving or re-attack the next defender, the advantage grows until someone is wide open.",
+    "The tools of maintenance are simple: the extra pass, the quick re-drive, and holding your spacing so the defense cannot recover. Great offensive teams do not just create one advantage per possession — they chain them: advantage, rotation, re-attack, open shot."
+  ],
+  "whyItMatters": [
+    "Most wasted possessions are not wasted because no advantage was created — they are wasted because the advantage was created and then given back. A kick-out to a player who holds the ball lets the defense reset for free. Maintaining advantages is what separates good offenses from great ones.",
+    "It is also a trust builder. Players who make the extra pass earn their teammates' trust, and trusted teams share the ball willingly. The extra pass is both a tactic and a culture."
+  ],
+  "vi": {
+    "title": "Duy Trì Lợi Thế",
+    "description": "Tạo ra lợi thế mới chỉ là nửa công việc. Hãy học cách giữ nó sống — chuyền thêm một nhịp, tấn công lại, và giữ spacing — cho đến khi hàng phòng thủ gục ngã.",
+    "whatIsIt": [
+      "Duy trì lợi thế nghĩa là giữ hàng phòng thủ trong trạng thái phải xoay xở sau khi bạn đã đánh bại nó. Bạn vượt qua người kèm và người hỗ trợ ập đến — giờ thì sao? Nếu bạn dừng lại, hàng thủ hồi phục và lợi thế biến mất. Nếu bạn tiếp tục luân chuyển bóng hoặc tấn công lại hậu vệ tiếp theo, lợi thế sẽ lớn dần cho đến khi có người hoàn toàn trống trải.",
+      "Công cụ để duy trì rất đơn giản: đường chuyền thêm một nhịp (extra pass), cú đột phá lại nhanh, và giữ spacing để hàng thủ không kịp hồi phục. Các đội tấn công xuất sắc không chỉ tạo một lợi thế mỗi lượt bóng — họ nối chúng lại: lợi thế, xoay xở, tấn công lại, cú ném trống trải."
+    ],
+    "whyItMatters": [
+      "Hầu hết các lượt bóng bị lãng phí không phải vì không tạo được lợi thế — mà vì lợi thế đã được tạo ra rồi lại bị trả lại. Một cú kick-out cho cầu thủ giữ bóng quá lâu sẽ cho hàng thủ cơ hội hồi phục miễn phí. Duy trì lợi thế là điều phân biệt hàng công tốt với hàng công vĩ đại.",
+      "Nó cũng xây dựng niềm tin. Những cầu thủ chuyền thêm một nhịp sẽ chiếm được lòng tin của đồng đội, và các đội tin nhau sẽ sẵn sàng chia sẻ bóng. Đường chuyền thêm vừa là chiến thuật, vừa là văn hóa."
+    ],
+    "howTo": [
+      {
+        "title": "Chuyền thêm một nhịp",
+        "detail": "Khi bạn nhận bóng trong thế có lợi và hàng thủ vẫn đang xoay xở, hãy chuyền cho người trống trải tiếp theo thay vì dừng lại. Một đường chuyền nữa thường biến cú ném tốt thành cú ném tuyệt vời."
+      },
+      {
+        "title": "Tấn công lại người đang xoay xở",
+        "detail": "Nhận bóng khi đang di chuyển và đột phá thẳng vào hậu vệ đang hồi phục. Đừng bao giờ để một hậu vệ đang xoay xở kịp đứng vào vị trí — tấn công họ trước khi họ ổn định."
+      },
+      {
+        "title": "Giữ spacing",
+        "detail": "Đứng rộng và sau vạch ba điểm để hàng thủ phải bao quát mặt sân tối đa. Những cầu thủ đứng chụm vào trong sẽ khiến đường xoay xở của hậu vệ ngắn lại và dễ dàng hơn."
+      },
+      {
+        "title": "Giữ bóng luân chuyển với quyết định nhanh",
+        "detail": "Nhận bóng, đọc tình huống và hành động trong dưới hai giây. Bóng phải di chuyển nhanh hơn tốc độ chạy của hậu vệ — mỗi cú dẫn bóng thừa là một món quà cho hàng thủ."
+      },
+      {
+        "title": "Nhận biết khi lợi thế đã mất",
+        "detail": "Nếu hàng thủ đã hồi phục hoàn toàn và kèm người đầy đủ, lợi thế đã biến mất. Hãy thiết lập lại hàng công và tạo một lợi thế mới thay vì cố ném một cú bóng tệ."
+      },
+      {
+        "title": "Kết thúc chuỗi tấn công",
+        "detail": "Đường chuyền cuối cùng phải tạo ra cú ném có giá trị cao nhất có thể: layup trước, rồi đến cú ba điểm trống trải, rồi mới đến mọi thứ khác. Kết thúc chuỗi tấn công một cách kỷ luật."
+      }
+    ],
+    "coachingPoints": [
+      "Theo dõi các lượt bóng có 'đường chuyền thêm' trên video và khen ngợi công khai — hành vi nào được tuyên dương sẽ được lặp lại.",
+      "Luyện duy trì lợi thế bằng bài 4v3 liên tục: đội tấn công phải ghi điểm mà không để hàng thủ hồi phục.",
+      "Dạy kỷ luật spacing — đứng quá gần nhau giết chết lợi thế nhanh hơn bất kỳ hàng thủ nào.",
+      "Đường chuyền thêm là một kỹ năng: hãy tập chuyền nó khi đang di chuyển, khi vừa nhận bóng, trong trạng thái kiểm soát."
+    ],
+    "commonMistakes": [
+      "Nhận đường chuyền kick-out rồi giữ bóng, để hàng thủ hồi phục.",
+      "Ném một cú bóng bị kèm trong khi chỉ cần một đường chuyền nữa là có lợi thế.",
+      "Trôi vào trong vạch ba điểm và thu hẹp mặt sân của cả đội.",
+      "Chuyền quá nhiều: biến một cú ném tốt thành lỗi mất bóng vì cố chuyền thêm một nhịp nữa."
+    ],
+    "gameSituations": [
+      "Drive-and-kick: đường chuyền thêm luân chuyển quanh biên để đến góc trống trải.",
+      "Short roll: cầu thủ roll nhận bóng trong thế 4-đánh-3 và tìm người trống trải tiếp theo.",
+      "Fast break: cầu thủ trailer giữ pha phản công sống bằng một đường chuyền nhanh thay vì dừng bóng lại."
+    ],
+    "tags": [
+      "bóng rổ iq",
+      "lợi thế",
+      "spacing",
+      "chuyền bóng"
+    ]
+  }
+}

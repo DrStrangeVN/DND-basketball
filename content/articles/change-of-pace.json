@@ -1,1 +1,135 @@
-{"ages":["U12","U14","U16","U18","Adult"],"coachingPoints":["Contrast is everything — the slow phase must be genuinely slow for the fast phase to shock.","Eyes up during both phases; you cannot read the defender if you are watching the ball.","Sell deceleration with your body (sink, drop shoulders), not just the ball.","Drill exact distances: slow for 3 dribbles, explode for 3 dribbles, then repeat — precision builds timing.","Combine with moves: hesitation → burst, slow crossover → burst, pause → burst."],"commonMistakes":["Barely changing speed — fix: exaggerate the contrast in practice until teammates comment on it.","Speeding up but running upright — fix: stay low through the burst; the first two steps decide everything.","Changing pace with no read — fix: practice calling out what the defender did (stuttered, backed up, reached) before bursting.","Picking up the dribble on the slowdown — fix: keep the ball alive; a dead ball ends the advantage."],"dateUpdated":"2026-10-06","description":"Master speed control — slow down to lull the defender, then explode — the skill that makes average athletes unguardable.","gameSituations":["Beating a quicker defender — if you cannot outrun him, out-time him with pace changes.","Running pick and roll — change pace coming off the screen to lose the chasing defender or freeze the big.","End-of-game isolations — when the defense is set, pace changes create the sliver of space a closer needs."],"howTo":[{"detail":"Dribble toward the defender at a strong, steady pace. Commit to the drive — the defender must believe full speed is coming.","title":"Establish a fast pace"},{"detail":"Drop your hips and soften the dribble for 2–3 bounces. The ball rises slightly, your stride shortens, everything says 'cruise'.","title":"Downshift noticeably"},{"detail":"Watch the defender's hips and feet: does he match your slowdown? A defender who relaxes or straightens his legs is yours.","title":"Read his response"},{"detail":"Push off hard — two explosive steps with a low, hard dribble. The burst is maximum effort; no half-speed allowed.","title":"Explode back to full speed"},{"detail":"Run full-court dribbling with a cone: slow for 3 dribbles before it, explode for 5 after it. Repeat with both hands.","title":"Drill slow-to-fast reps"}],"hub":"skills","id":"change-of-pace","level":"intermediate","positions":["ALL"],"readTime":5,"related":["hesitation","crossover","retreat-dribble","pull-up-jumper"],"slug":"change-of-pace","subcategory":"ball-handling","tags":["dribbling","moves","footwork"],"title":"Change of Pace","whatIsIt":["Change of pace is the skill of deliberately shifting your dribbling speed — going slow to make the defender slow down, then exploding fast while he is still decelerating. It is not a single move; it is a way of playing that turns every dribble into a trap.","The concept is borrowed from sprinters and race drivers: the burst is only devastating because the slowdown came first. Defenders can guard one speed. Two speeds breaks them."],"whyItMatters":["Pure speed is a gift; pace control is a skill anyone can learn. Change of pace is what separates good ball handlers from unguardable ones — it works against taller, quicker, and stronger defenders alike, because timing beats physical tools. Every great scorer in basketball history owned a gear change."]}
+{
+  "ages": [
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "coachingPoints": [
+    "Contrast is everything — the slow phase must be genuinely slow for the fast phase to shock.",
+    "Eyes up during both phases; you cannot read the defender if you are watching the ball.",
+    "Sell deceleration with your body (sink, drop shoulders), not just the ball.",
+    "Drill exact distances: slow for 3 dribbles, explode for 3 dribbles, then repeat — precision builds timing.",
+    "Combine with moves: hesitation → burst, slow crossover → burst, pause → burst."
+  ],
+  "commonMistakes": [
+    "Barely changing speed — fix: exaggerate the contrast in practice until teammates comment on it.",
+    "Speeding up but running upright — fix: stay low through the burst; the first two steps decide everything.",
+    "Changing pace with no read — fix: practice calling out what the defender did (stuttered, backed up, reached) before bursting.",
+    "Picking up the dribble on the slowdown — fix: keep the ball alive; a dead ball ends the advantage."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "Master speed control — slow down to lull the defender, then explode — the skill that makes average athletes unguardable.",
+  "gameSituations": [
+    "Beating a quicker defender — if you cannot outrun him, out-time him with pace changes.",
+    "Running pick and roll — change pace coming off the screen to lose the chasing defender or freeze the big.",
+    "End-of-game isolations — when the defense is set, pace changes create the sliver of space a closer needs."
+  ],
+  "howTo": [
+    {
+      "detail": "Dribble toward the defender at a strong, steady pace. Commit to the drive — the defender must believe full speed is coming.",
+      "title": "Establish a fast pace"
+    },
+    {
+      "detail": "Drop your hips and soften the dribble for 2–3 bounces. The ball rises slightly, your stride shortens, everything says 'cruise'.",
+      "title": "Downshift noticeably"
+    },
+    {
+      "detail": "Watch the defender's hips and feet: does he match your slowdown? A defender who relaxes or straightens his legs is yours.",
+      "title": "Read his response"
+    },
+    {
+      "detail": "Push off hard — two explosive steps with a low, hard dribble. The burst is maximum effort; no half-speed allowed.",
+      "title": "Explode back to full speed"
+    },
+    {
+      "detail": "Run full-court dribbling with a cone: slow for 3 dribbles before it, explode for 5 after it. Repeat with both hands.",
+      "title": "Drill slow-to-fast reps"
+    }
+  ],
+  "hub": "skills",
+  "id": "change-of-pace",
+  "level": "intermediate",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 5,
+  "related": [
+    "hesitation",
+    "crossover",
+    "retreat-dribble",
+    "pull-up-jumper"
+  ],
+  "slug": "change-of-pace",
+  "subcategory": "ball-handling",
+  "tags": [
+    "dribbling",
+    "moves",
+    "footwork"
+  ],
+  "title": "Change of Pace",
+  "whatIsIt": [
+    "Change of pace is the skill of deliberately shifting your dribbling speed — going slow to make the defender slow down, then exploding fast while he is still decelerating. It is not a single move; it is a way of playing that turns every dribble into a trap.",
+    "The concept is borrowed from sprinters and race drivers: the burst is only devastating because the slowdown came first. Defenders can guard one speed. Two speeds breaks them."
+  ],
+  "whyItMatters": [
+    "Pure speed is a gift; pace control is a skill anyone can learn. Change of pace is what separates good ball handlers from unguardable ones — it works against taller, quicker, and stronger defenders alike, because timing beats physical tools. Every great scorer in basketball history owned a gear change."
+  ],
+  "vi": {
+    "coachingPoints": [
+      "Tương phản là tất cả — pha chậm phải thật sự chậm thì pha nhanh mới gây sốc",
+      "Mắt ngẩng lên trong cả hai pha; bạn không thể đọc hậu vệ nếu đang nhìn bóng",
+      "Bán pha giảm tốc bằng cơ thể (hạ người, hạ vai), không chỉ bằng quả bóng",
+      "Tập đúng cự ly: chậm 3 lần dẫn, bùng nổ 3 lần dẫn, rồi lặp lại — chính xác tạo ra thời điểm",
+      "Kết hợp với động tác: hesitation → bùng nổ, crossover chậm → bùng nổ, dừng lại → bùng nổ"
+    ],
+    "commonMistakes": [
+      "Hầu như không đổi tốc độ — cách sửa: phóng đại sự tương phản khi tập cho đến khi đồng đội phải nhận xét",
+      "Tăng tốc nhưng chạy thẳng người — cách sửa: giữ thấp suốt pha bùng nổ; hai bước đầu quyết định tất cả",
+      "Đổi nhịp mà không đọc tình huống — cách sửa: tập gọi to hậu vệ đã làm gì (khựng lại, lùi về, với tay) trước khi bùng nổ",
+      "Nhấc bóng lên khi giảm tốc — cách sửa: giữ bóng sống; bóng chết kết thúc lợi thế"
+    ],
+    "description": "Làm chủ kiểm soát tốc độ — chậm lại để ru ngủ hậu vệ, rồi bùng nổ — kỹ năng khiến cầu thủ thể hình trung bình trở nên không thể kèm.",
+    "gameSituations": [
+      "Vượt qua hậu vệ nhanh hơn — nếu không chạy nhanh hơn anh ta, hãy thắng anh ta bằng thời điểm",
+      "Chạy pick and roll — đổi nhịp khi ra khỏi màn chắn để cắt đuôi hậu vệ đuổi theo hoặc đóng băng big",
+      "Isolation cuối trận — khi hàng thủ đã bày sẵn, đổi nhịp tạo ra khe hở mà một closer cần"
+    ],
+    "howTo": [
+      {
+        "detail": "Dẫn bóng về phía hậu vệ với nhịp mạnh, đều. Dồn sức vào pha đột phá — hậu vệ phải tin rằng tốc độ tối đa sắp tới.",
+        "title": "Tạo nhịp nhanh"
+      },
+      {
+        "detail": "Hạ hông và làm mềm cú dẫn trong 2–3 nhịp. Bóng nảy hơi cao, sải bước ngắn lại, mọi thứ đều nói 'đang thong thả'.",
+        "title": "Giảm tốc rõ rệt"
+      },
+      {
+        "detail": "Quan sát hông và chân hậu vệ: anh ta có giảm tốc theo bạn không? Một hậu vệ thả lỏng hoặc duỗi thẳng chân là của bạn.",
+        "title": "Đọc phản ứng của anh ta"
+      },
+      {
+        "detail": "Đạp đà mạnh — hai bước bùng nổ với cú dẫn thấp, chắc. Pha bứt tốc là nỗ lực tối đa; không cho phép nửa vời.",
+        "title": "Bùng nổ trở lại tốc độ tối đa"
+      },
+      {
+        "detail": "Chạy dẫn bóng cả sân với một cone: chậm 3 lần dẫn trước cone, bùng nổ 5 lần sau cone. Lặp lại bằng cả hai tay.",
+        "title": "Tập các lần chậm-rồi-nhanh"
+      }
+    ],
+    "tags": [
+      "dẫn bóng",
+      "động tác",
+      "di chuyển chân"
+    ],
+    "title": "Đổi Nhịp Độ",
+    "whatIsIt": [
+      "Change of pace là kỹ năng chủ động thay đổi tốc độ dẫn bóng — đi chậm để hậu vệ chậm theo, rồi bùng nổ nhanh trong khi anh ta còn đang giảm tốc. Đây không phải một động tác đơn lẻ; đây là một cách chơi biến mọi cú dẫn thành cái bẫy.",
+      "Khái niệm này mượn từ các vận động viên chạy nước rút và tay đua: pha bứt tốc chỉ tàn khốc vì pha chậm đã đến trước. Hậu vệ có thể kèm một tốc độ. Hai tốc độ sẽ hạ gục họ."
+    ],
+    "whyItMatters": [
+      "Tốc độ thuần túy là năng khiếu; kiểm soát nhịp độ là kỹ năng ai cũng học được. Change of pace là điều phân biệt người dẫn bóng giỏi với người không thể kèm — nó hiệu quả trước hậu vệ cao hơn, nhanh hơn và khỏe hơn, vì thời điểm thắng thể hình. Mọi tay ghi điểm vĩ đại trong lịch sử bóng rổ đều sở hữu một cú đổi số."
+    ]
+  }
+}

@@ -1,1 +1,138 @@
-{"ages":["U14","U16","U18","Adult","Competitive"],"coachingPoints":["Initiate contact on YOUR terms — don't wait to be hit; you're the one driving.","Wide, strong base before contact: bend the knees, drop the hips, shoulders square.","Two feet is almost always better than one in heavy traffic.","Ball high and tight — chin it, protect it, finish it.","After the whistle, the shot still counts if you were in your motion — keep going up through the hit."],"commonMistakes":["Avoiding contact and fading away — turns a potential and-one into a low-percentage fade.","Bringing the ball low to brace for the bump — exposed ball gets stripped.","Jumping into the defender off one foot with no balance — traveling call or a wild miss.","Complaining about a no-call instead of sprinting back on defense — officials remember effort, not arguing."],"dateUpdated":"2026-10-06","description":"Turn defensive physicality into fouls and finishes — how to absorb contact, protect the ball, and score anyway.","gameSituations":["Driving into a rotating help defender — bump, jump stop, finish for the and-one.","Post play against physical defenders — seal, absorb the push, power up.","Transition when a defender tries to stop the ball with their body — run through them, finish strong."],"howTo":[{"detail":"Drive toward the rim with the ball on your outside hip, away from the defender. Identify where contact will come from — usually the chest of a rotating defender.","title":"Drive at the contact"},{"detail":"Shorten your last steps and lower your center of gravity. Plant two feet (jump stop) or a strong stride stop right before the contact zone.","title":"Get low and set your base"},{"detail":"Make chest-to-chest contact with YOUR chest — lean in slightly, absorb with your legs and core. Keep your eyes on the rim the whole time.","title":"Absorb with your body, not the ball"},{"detail":"Keep the ball high — at chest level or above — and bring it up through the contact in one motion. Two-hand gathers protect the ball best in traffic.","title":"Ball high, finish through"},{"detail":"Extend and release with a normal shooting motion, not a fling. If the official's arm goes up, you've earned the foul — finish the play regardless.","title":"Finish your motion"}],"hub":"skills","id":"contact-finishing","level":"advanced","positions":["ALL"],"readTime":6,"related":["power-finish","pro-hop","euro-step","reverse-layup","box-out"],"slug":"contact-finishing","subcategory":"finishing","tags":["contact","finishing","and-one","drive"],"title":"Finishing Through Contact","whatIsIt":["Finishing through contact is the skill of scoring while a defender's body hits you — bumping, grabbing, or landing on you at the rim. It combines a strong base, ball protection, and a controlled release so the contact becomes your foul instead of your miss.","This is what separates athletic drivers from productive ones. Anyone can finish an open layup; elite finishers convert when a 100-kg defender is hanging on their shoulder — and they make the defender pay at the free-throw line too."],"whyItMatters":["Defenses at every level are allowed to be physical at the rim. If contact stops your finish, defenses will just hit you every time. Players who finish through contact change defensive behavior — suddenly defenders hesitate to rotate, and your drives open up for everyone."]}
+{
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult",
+    "Competitive"
+  ],
+  "coachingPoints": [
+    "Initiate contact on YOUR terms — don't wait to be hit; you're the one driving.",
+    "Wide, strong base before contact: bend the knees, drop the hips, shoulders square.",
+    "Two feet is almost always better than one in heavy traffic.",
+    "Ball high and tight — chin it, protect it, finish it.",
+    "After the whistle, the shot still counts if you were in your motion — keep going up through the hit."
+  ],
+  "commonMistakes": [
+    "Avoiding contact and fading away — turns a potential and-one into a low-percentage fade.",
+    "Bringing the ball low to brace for the bump — exposed ball gets stripped.",
+    "Jumping into the defender off one foot with no balance — traveling call or a wild miss.",
+    "Complaining about a no-call instead of sprinting back on defense — officials remember effort, not arguing."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "Turn defensive physicality into fouls and finishes — how to absorb contact, protect the ball, and score anyway.",
+  "gameSituations": [
+    "Driving into a rotating help defender — bump, jump stop, finish for the and-one.",
+    "Post play against physical defenders — seal, absorb the push, power up.",
+    "Transition when a defender tries to stop the ball with their body — run through them, finish strong."
+  ],
+  "howTo": [
+    {
+      "detail": "Drive toward the rim with the ball on your outside hip, away from the defender. Identify where contact will come from — usually the chest of a rotating defender.",
+      "title": "Drive at the contact"
+    },
+    {
+      "detail": "Shorten your last steps and lower your center of gravity. Plant two feet (jump stop) or a strong stride stop right before the contact zone.",
+      "title": "Get low and set your base"
+    },
+    {
+      "detail": "Make chest-to-chest contact with YOUR chest — lean in slightly, absorb with your legs and core. Keep your eyes on the rim the whole time.",
+      "title": "Absorb with your body, not the ball"
+    },
+    {
+      "detail": "Keep the ball high — at chest level or above — and bring it up through the contact in one motion. Two-hand gathers protect the ball best in traffic.",
+      "title": "Ball high, finish through"
+    },
+    {
+      "detail": "Extend and release with a normal shooting motion, not a fling. If the official's arm goes up, you've earned the foul — finish the play regardless.",
+      "title": "Finish your motion"
+    }
+  ],
+  "hub": "skills",
+  "id": "contact-finishing",
+  "level": "advanced",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 6,
+  "related": [
+    "power-finish",
+    "pro-hop",
+    "euro-step",
+    "reverse-layup",
+    "box-out"
+  ],
+  "slug": "contact-finishing",
+  "subcategory": "finishing",
+  "tags": [
+    "contact",
+    "finishing",
+    "and-one",
+    "drive"
+  ],
+  "title": "Finishing Through Contact",
+  "whatIsIt": [
+    "Finishing through contact is the skill of scoring while a defender's body hits you — bumping, grabbing, or landing on you at the rim. It combines a strong base, ball protection, and a controlled release so the contact becomes your foul instead of your miss.",
+    "This is what separates athletic drivers from productive ones. Anyone can finish an open layup; elite finishers convert when a 100-kg defender is hanging on their shoulder — and they make the defender pay at the free-throw line too."
+  ],
+  "whyItMatters": [
+    "Defenses at every level are allowed to be physical at the rim. If contact stops your finish, defenses will just hit you every time. Players who finish through contact change defensive behavior — suddenly defenders hesitate to rotate, and your drives open up for everyone."
+  ],
+  "vi": {
+    "coachingPoints": [
+      "Chủ động tạo va chạm theo ý BẠN — đừng chờ bị húc; bạn mới là người đột phá",
+      "Trụ rộng, chắc trước va chạm: gập gối, hạ hông, vai vuông góc",
+      "Hai chân gần như luôn tốt hơn một chân khi đông người",
+      "Bóng cao và chặt — ôm vào cằm, bảo vệ nó, dứt điểm nó",
+      "Sau tiếng còi, cú ném vẫn được tính nếu bạn đang trong động tác — hãy tiếp tục vươn lên qua cú húc"
+    ],
+    "commonMistakes": [
+      "Né va chạm và ngả người ra sau — biến một pha and-one tiềm năng thành cú fadeaway tỷ lệ thấp",
+      "Hạ bóng xuống thấp để đỡ cú húc — bóng lộ ra sẽ bị gạt",
+      "Nhảy vào hậu vệ bằng một chân mất thăng bằng — lỗi chạy bước hoặc cú ném hỏng",
+      "Phàn nàn về pha không còi thay vì chạy về phòng thủ — trọng tài nhớ nỗ lực, không nhớ cãi vã"
+    ],
+    "description": "Biến sự quyết liệt của hàng thủ thành những pha phạm lỗi và điểm số — cách chịu va chạm, bảo vệ bóng và vẫn ghi điểm.",
+    "gameSituations": [
+      "Đột phá vào hậu vệ hỗ trợ đang xoay ra — va chạm, jump stop, dứt điểm lấy and-one",
+      "Đánh post trước những hậu vệ quyết liệt — seal, chịu cú đẩy, bật lên mạnh mẽ",
+      "Phản công khi hậu vệ cố chặn bóng bằng cơ thể — chạy xuyên qua họ, dứt điểm mạnh"
+    ],
+    "howTo": [
+      {
+        "detail": "Đột phá về phía rổ với bóng ở hông ngoài, xa hậu vệ. Xác định va chạm sẽ đến từ đâu — thường là ngực của một hậu vệ hỗ trợ đang xoay ra.",
+        "title": "Đột phá vào điểm va chạm"
+      },
+      {
+        "detail": "Rút ngắn những bước cuối và hạ thấp trọng tâm. Đặt hai chân (jump stop) hoặc một bước stride stop chắc ngay trước vùng va chạm.",
+        "title": "Hạ thấp và tạo trụ"
+      },
+      {
+        "detail": "Tạo va chạm ngực-đối-ngực bằng NGỰC của bạn — hơi nghiêng vào, chịu lực bằng chân và core. Mắt nhìn vào rổ suốt thời gian.",
+        "title": "Chịu lực bằng cơ thể, không phải bằng bóng"
+      },
+      {
+        "detail": "Giữ bóng cao — ngang ngực hoặc cao hơn — và đưa bóng lên xuyên qua va chạm trong một chuyển động. Ôm bóng hai tay bảo vệ bóng tốt nhất khi đông người.",
+        "title": "Bóng cao, dứt điểm xuyên qua"
+      },
+      {
+        "detail": "Duỗi tay và ra tay với động tác ném bình thường, không phải cú vung bừa. Nếu tay trọng tài giơ lên, bạn đã kiếm được pha phạm lỗi — hãy hoàn thành pha bóng bất kể.",
+        "title": "Hoàn thành động tác"
+      }
+    ],
+    "tags": [
+      "va chạm",
+      "dứt điểm",
+      "and-one",
+      "đột phá"
+    ],
+    "title": "Dứt Điểm Qua Va Chạm",
+    "whatIsIt": [
+      "Dứt điểm qua va chạm là kỹ năng ghi điểm trong khi cơ thể hậu vệ húc vào bạn — xô đẩy, túm kéo, hoặc đè lên bạn ở rổ. Nó kết hợp trụ vững, bảo vệ bóng và cú ra tay có kiểm soát để biến va chạm thành pha phạm lỗi của họ thay vì cú ném hỏng của bạn.",
+      "Đây là điều phân biệt người đột phá có thể hình với người đột phá hiệu quả. Ai cũng dứt điểm được một pha layup trống; những người dứt điểm đẳng cấp ghi điểm khi một hậu vệ 100 kg đang bám trên vai — và họ bắt hậu vệ trả giá ở vạch ném phạt nữa."
+    ],
+    "whyItMatters": [
+      "Hàng thủ ở mọi cấp độ đều được phép quyết liệt ở rổ. Nếu va chạm chặn được pha dứt điểm của bạn, hàng thủ sẽ húc bạn mọi lần. Những cầu thủ dứt điểm qua va chạm thay đổi hành vi phòng thủ — đột nhiên hậu vệ chần chừ khi xoay ra, và những pha đột phá của bạn mở ra cho cả đội."
+    ]
+  }
+}

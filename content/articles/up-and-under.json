@@ -1,1 +1,139 @@
-{"ages":["U14","U16","U18","Adult","Competitive"],"coachingPoints":["The fake must look EXACTLY like your real hook — same sweep, same eyes, same jump.","Sell it with your eyes on the rim; defenders read eyes before bodies.","Stay on balance through the fake — a wild fake leaves you off-balance for the real move.","One dribble after the fake is usually enough; extra dribbles let help arrive.","Practice the sequence slowly first: the timing of the step-through is everything."],"commonMistakes":["A lazy fake the defender ignores — commit to it like you're really shooting.","Jumping too high on the fake — you need your legs for the step-through.","Stepping through into the defender's chest — that's a charge; step around their hip.","Forcing it when the defender doesn't bite — if they stay down, just shoot the hook."],"dateUpdated":"2026-10-06","description":"Fake the hook, step through the jumping defender, and finish — the ultimate post counter.","gameSituations":["After you've hit two hooks — the defender will jump at the third; punish it.","Against aggressive shot blockers who contest everything — let them fly by.","Late-clock post isolations — the counter creates the cleanest look."],"howTo":[{"detail":"Catch on the block and start your normal jump-hook motion — same base, same ball sweep, same eyes on the rim. The defender must believe the shot is coming.","title":"Start your hook for real"},{"detail":"As you rise slightly, stop the shooting motion and bring the ball back down to your hip. The defender, committed to the block, jumps past you.","title":"Freeze mid-motion"},{"detail":"Land softly on balance. Your pivot foot stays planted — this is a legal pivot sequence, not a travel.","title":"Land in balance"},{"detail":"Step through with your non-pivot foot past the defender's hip — toward the rim, around their body. Keep the ball protected at your hip as you step.","title":"Step through the gap"},{"detail":"Power up off the step-through for an uncontested layup or short finish. The defender is behind you; the rim is open.","title":"Finish at the rim"}],"hub":"skills","id":"up-and-under","level":"advanced","positions":["PF","C"],"readTime":6,"related":["jump-hook","drop-step","post-positioning","euro-step","power-finish"],"slug":"up-and-under","subcategory":"post-play","tags":["post","counter","footwork","finishing"],"title":"Up & Under","whatIsIt":["The up-and-under is a post counter: you fake the jump hook — rising as if to shoot — then bring the ball down, step through the jumping defender, and finish at the rim. The defender goes 'up' for the block; you go 'under' them for the layup.","It's the move that punishes shot-blocking aggression. Once you've established your hook as a threat, defenders have to contest it. The up-and-under turns their discipline against them — the harder they try to block your shot, the easier your counter becomes."],"whyItMatters":["One-dimensional post players get scouted and stopped. The up-and-under makes you two-dimensional: contest the hook and get stepped through; stay down and get hooked over. That dilemma is what makes great post scorers efficient — the defense has no right answer."]}
+{
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult",
+    "Competitive"
+  ],
+  "coachingPoints": [
+    "The fake must look EXACTLY like your real hook — same sweep, same eyes, same jump.",
+    "Sell it with your eyes on the rim; defenders read eyes before bodies.",
+    "Stay on balance through the fake — a wild fake leaves you off-balance for the real move.",
+    "One dribble after the fake is usually enough; extra dribbles let help arrive.",
+    "Practice the sequence slowly first: the timing of the step-through is everything."
+  ],
+  "commonMistakes": [
+    "A lazy fake the defender ignores — commit to it like you're really shooting.",
+    "Jumping too high on the fake — you need your legs for the step-through.",
+    "Stepping through into the defender's chest — that's a charge; step around their hip.",
+    "Forcing it when the defender doesn't bite — if they stay down, just shoot the hook."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "Fake the hook, step through the jumping defender, and finish — the ultimate post counter.",
+  "gameSituations": [
+    "After you've hit two hooks — the defender will jump at the third; punish it.",
+    "Against aggressive shot blockers who contest everything — let them fly by.",
+    "Late-clock post isolations — the counter creates the cleanest look."
+  ],
+  "howTo": [
+    {
+      "detail": "Catch on the block and start your normal jump-hook motion — same base, same ball sweep, same eyes on the rim. The defender must believe the shot is coming.",
+      "title": "Start your hook for real"
+    },
+    {
+      "detail": "As you rise slightly, stop the shooting motion and bring the ball back down to your hip. The defender, committed to the block, jumps past you.",
+      "title": "Freeze mid-motion"
+    },
+    {
+      "detail": "Land softly on balance. Your pivot foot stays planted — this is a legal pivot sequence, not a travel.",
+      "title": "Land in balance"
+    },
+    {
+      "detail": "Step through with your non-pivot foot past the defender's hip — toward the rim, around their body. Keep the ball protected at your hip as you step.",
+      "title": "Step through the gap"
+    },
+    {
+      "detail": "Power up off the step-through for an uncontested layup or short finish. The defender is behind you; the rim is open.",
+      "title": "Finish at the rim"
+    }
+  ],
+  "hub": "skills",
+  "id": "up-and-under",
+  "level": "advanced",
+  "positions": [
+    "PF",
+    "C"
+  ],
+  "readTime": 6,
+  "related": [
+    "jump-hook",
+    "drop-step",
+    "post-positioning",
+    "euro-step",
+    "power-finish"
+  ],
+  "slug": "up-and-under",
+  "subcategory": "post-play",
+  "tags": [
+    "post",
+    "counter",
+    "footwork",
+    "finishing"
+  ],
+  "title": "Up & Under",
+  "whatIsIt": [
+    "The up-and-under is a post counter: you fake the jump hook — rising as if to shoot — then bring the ball down, step through the jumping defender, and finish at the rim. The defender goes 'up' for the block; you go 'under' them for the layup.",
+    "It's the move that punishes shot-blocking aggression. Once you've established your hook as a threat, defenders have to contest it. The up-and-under turns their discipline against them — the harder they try to block your shot, the easier your counter becomes."
+  ],
+  "whyItMatters": [
+    "One-dimensional post players get scouted and stopped. The up-and-under makes you two-dimensional: contest the hook and get stepped through; stay down and get hooked over. That dilemma is what makes great post scorers efficient — the defense has no right answer."
+  ],
+  "vi": {
+    "coachingPoints": [
+      "Pha giả phải trông Y HỆT pha hook thật của bạn — cùng đường vung, cùng ánh mắt, cùng cú nhảy.",
+      "Bán pha giả bằng ánh mắt nhìn rổ; hậu vệ đọc ánh mắt trước cơ thể.",
+      "Giữ thăng bằng suốt pha giả — một pha giả ẩu sẽ khiến bạn mất thăng bằng cho miếng đánh thật.",
+      "Một nhịp dẫn sau pha giả thường là đủ; dẫn thêm sẽ cho hàng hỗ trợ kịp tới.",
+      "Tập chuỗi động tác chậm trước: thời điểm của bước xuyên qua là tất cả."
+    ],
+    "commonMistakes": [
+      "Pha giả lười biếng mà hậu vệ phớt lờ — hãy quyết tâm như thể bạn thật sự đang ném.",
+      "Nhảy quá cao ở pha giả — bạn cần đôi chân cho bước xuyên qua.",
+      "Bước xuyên vào ngực hậu vệ — đó là lỗi tấn công; hãy bước vòng qua hông họ.",
+      "Cố ép khi hậu vệ không bị lừa — nếu họ đứng yên, cứ ném pha hook."
+    ],
+    "description": "Giả pha hook, bước qua hậu vệ đang nhảy lên, và kết thúc — miếng đánh phản công tối thượng trong vùng post.",
+    "gameSituations": [
+      "Sau khi bạn đã ném vào hai pha hook — hậu vệ sẽ nhảy ở pha thứ ba; hãy trừng phạt nó.",
+      "Khi đối đầu những tay block hung hăng tranh chấp mọi thứ — cứ để họ bay qua.",
+      "Những pha post một-chọi-một cuối đồng hồ — miếng đánh phản công tạo ra cú ném sạch nhất."
+    ],
+    "howTo": [
+      {
+        "detail": "Bắt bóng ở block và bắt đầu động tác jump-hook bình thường — cùng tư thế trụ, cùng đường vung bóng, cùng ánh mắt nhìn rổ. Hậu vệ phải tin rằng cú ném đang đến.",
+        "title": "Bắt đầu pha hook thật nghiêm túc"
+      },
+      {
+        "detail": "Khi hơi nhấc lên, hãy dừng động tác ném và đưa bóng trở lại hông. Hậu vệ, đã quyết tâm block, sẽ nhảy qua khỏi bạn.",
+        "title": "Đóng băng giữa động tác"
+      },
+      {
+        "detail": "Tiếp đất nhẹ nhàng giữ thăng bằng. Chân trụ của bạn vẫn giữ nguyên — đây là chuỗi pivot hợp lệ, không phải lỗi bước.",
+        "title": "Tiếp đất giữ thăng bằng"
+      },
+      {
+        "detail": "Bước xuyên qua bằng chân không phải chân trụ, qua hông hậu vệ — hướng tới rổ, vòng quanh cơ thể họ. Giữ bóng được bảo vệ ở hông khi bước.",
+        "title": "Bước xuyên qua khoảng trống"
+      },
+      {
+        "detail": "Bật mạnh sau bước xuyên qua để lên layup hoặc cú kết thúc gần không bị tranh chấp. Hậu vệ đã ở sau bạn; rổ đang trống.",
+        "title": "Kết thúc ở rổ"
+      }
+    ],
+    "tags": [
+      "post",
+      "phản công",
+      "bước chân",
+      "kết thúc"
+    ],
+    "title": "Up & Under",
+    "whatIsIt": [
+      "Up-and-under là một miếng đánh phản công trong vùng post: bạn giả pha jump hook — nhấc lên như sắp ném — rồi hạ bóng xuống, bước qua hậu vệ đang nhảy lên, và kết thúc ở rổ. Hậu vệ nhảy 'lên' để block; bạn chui 'xuống dưới' họ để lên layup.",
+      "Đó là miếng đánh trừng phạt sự hung hăng của những tay block. Một khi bạn đã tạo dựng pha hook thành mối đe dọa, các hậu vệ buộc phải tranh chấp nó. Up-and-under biến kỷ luật của họ thành điểm yếu — họ càng cố block cú ném của bạn, miếng đánh phản công của bạn càng dễ."
+    ],
+    "whyItMatters": [
+      "Những cầu thủ post một chiều sẽ bị nghiên cứu và bắt chết. Up-and-under khiến bạn trở thành hai chiều: tranh chấp pha hook thì bị bước qua; đứng yên thì bị hook qua đầu. Tiến thoái lưỡng nan đó là điều khiến những tay ghi điểm post vĩ đại hiệu quả — hàng thủ không có đáp án đúng."
+    ]
+  }
+}

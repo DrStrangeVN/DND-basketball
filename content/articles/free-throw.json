@@ -1,1 +1,143 @@
-{"ages":["U10","U12","U14","U16","U18","Adult"],"coachingPoints":["Build ONE routine and never change it — the routine is the skill.","Same number of dribbles, same breath, same timing, every single time.","Practice free throws when tired: end-of-practice reps simulate fourth-quarter legs.","Track your percentage in blocks of 10; aim for 70%+ (youth) and 80%+ (advanced).","Shoot free throws first in some sessions, last in others — vary the context, not the routine."],"commonMistakes":["Changing the routine game to game — fix: write it down and follow it like a script.","Rushing after a hard foul — fix: the routine forces a pause; never shoot angry or hurried.","Practicing only when fresh — fix: your worst free throws come tired; train that state.","Aiming at the whole rim — fix: pick a tiny target (back of the rim, a net hook) and stare at it."],"dateUpdated":"2026-10-06","description":"Turn the free shot into automatic points with a repeatable routine, calm breathing, and perfect mechanics.","gameSituations":["After every shooting foul — the most common free points in basketball; elite teams treat them as guaranteed.","Late-game intentional fouls — close games are decided at the line; routine shooting wins them.","Technical and bonus situations — free points that require zero offense to create."],"howTo":[{"detail":"Find the nail (the mark at the center of the free-throw line). Set your shooting foot on or just behind it, feet shoulder-width, body square to the basket.","title":"Line up on the mark"},{"detail":"Take your set number of dribbles — most players use 2 or 3. This is the metronome of your routine; count them the same way every time.","title":"Take your dribbles"},{"detail":"One slow, deep breath. Feel your shoulders drop and your grip relax. Tension is the enemy of touch.","title":"Breathe and relax"},{"detail":"Lock your eyes on a small target — the back of the rim or a specific net hook. Never look away once you start.","title":"Lock in your target"},{"detail":"Bend your knees, rise smoothly, and shoot with your normal mechanics — elbow in, guide hand quiet, full follow-through. Hold the finish until the ball lands.","title":"Shoot your normal shot"},{"detail":"Watch the result without reacting emotionally, then reset for the next one. Each free throw is its own event.","title":"Reset for the next one"}],"hub":"skills","id":"free-throw","level":"beginner","positions":["ALL"],"readTime":5,"related":["shooting-mechanics","midrange-shooting","catch-and-shoot"],"slug":"free-throw","subcategory":"shooting","tags":["shooting","fundamentals","scoring"],"title":"Free Throw Shooting","whatIsIt":["Free throw shooting is the skill of scoring uncontested shots from the free-throw line after a foul. Nobody guards you, nobody rushes you — it is just you, the ball, and your routine. That simplicity is deceptive: free throws decide close games more than any other single skill.","The secret is that free-throw shooting is barely about shooting. It is about routine. The players who shoot 85%+ do the exact same thing, in the exact same order, every single time — and the routine protects the shot from pressure, fatigue, and noise."],"whyItMatters":["Free throws are the most efficient points in basketball — uncontested, repeatable, and frequent. Teams routinely leave 5–10 points at the line in close losses. For individuals, free-throw percentage is pure controllability: no defender, no scheme, just preparation. It is the easiest place to add points to your game and your team's record."]}
+{
+  "ages": [
+    "U10",
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "coachingPoints": [
+    "Build ONE routine and never change it — the routine is the skill.",
+    "Same number of dribbles, same breath, same timing, every single time.",
+    "Practice free throws when tired: end-of-practice reps simulate fourth-quarter legs.",
+    "Track your percentage in blocks of 10; aim for 70%+ (youth) and 80%+ (advanced).",
+    "Shoot free throws first in some sessions, last in others — vary the context, not the routine."
+  ],
+  "commonMistakes": [
+    "Changing the routine game to game — fix: write it down and follow it like a script.",
+    "Rushing after a hard foul — fix: the routine forces a pause; never shoot angry or hurried.",
+    "Practicing only when fresh — fix: your worst free throws come tired; train that state.",
+    "Aiming at the whole rim — fix: pick a tiny target (back of the rim, a net hook) and stare at it."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "Turn the free shot into automatic points with a repeatable routine, calm breathing, and perfect mechanics.",
+  "gameSituations": [
+    "After every shooting foul — the most common free points in basketball; elite teams treat them as guaranteed.",
+    "Late-game intentional fouls — close games are decided at the line; routine shooting wins them.",
+    "Technical and bonus situations — free points that require zero offense to create."
+  ],
+  "howTo": [
+    {
+      "detail": "Find the nail (the mark at the center of the free-throw line). Set your shooting foot on or just behind it, feet shoulder-width, body square to the basket.",
+      "title": "Line up on the mark"
+    },
+    {
+      "detail": "Take your set number of dribbles — most players use 2 or 3. This is the metronome of your routine; count them the same way every time.",
+      "title": "Take your dribbles"
+    },
+    {
+      "detail": "One slow, deep breath. Feel your shoulders drop and your grip relax. Tension is the enemy of touch.",
+      "title": "Breathe and relax"
+    },
+    {
+      "detail": "Lock your eyes on a small target — the back of the rim or a specific net hook. Never look away once you start.",
+      "title": "Lock in your target"
+    },
+    {
+      "detail": "Bend your knees, rise smoothly, and shoot with your normal mechanics — elbow in, guide hand quiet, full follow-through. Hold the finish until the ball lands.",
+      "title": "Shoot your normal shot"
+    },
+    {
+      "detail": "Watch the result without reacting emotionally, then reset for the next one. Each free throw is its own event.",
+      "title": "Reset for the next one"
+    }
+  ],
+  "hub": "skills",
+  "id": "free-throw",
+  "level": "beginner",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 5,
+  "related": [
+    "shooting-mechanics",
+    "midrange-shooting",
+    "catch-and-shoot"
+  ],
+  "slug": "free-throw",
+  "subcategory": "shooting",
+  "tags": [
+    "shooting",
+    "fundamentals",
+    "scoring"
+  ],
+  "title": "Free Throw Shooting",
+  "whatIsIt": [
+    "Free throw shooting is the skill of scoring uncontested shots from the free-throw line after a foul. Nobody guards you, nobody rushes you — it is just you, the ball, and your routine. That simplicity is deceptive: free throws decide close games more than any other single skill.",
+    "The secret is that free-throw shooting is barely about shooting. It is about routine. The players who shoot 85%+ do the exact same thing, in the exact same order, every single time — and the routine protects the shot from pressure, fatigue, and noise."
+  ],
+  "whyItMatters": [
+    "Free throws are the most efficient points in basketball — uncontested, repeatable, and frequent. Teams routinely leave 5–10 points at the line in close losses. For individuals, free-throw percentage is pure controllability: no defender, no scheme, just preparation. It is the easiest place to add points to your game and your team's record."
+  ],
+  "vi": {
+    "title": "Ném Phạt",
+    "description": "Biến cú ném không ai kèm thành điểm số tự động với một thói quen lặp lại được, hơi thở bình tĩnh, và kỹ thuật hoàn hảo.",
+    "whatIsIt": [
+      "Ném phạt là kỹ năng ghi những cú ném không bị kèm từ vạch ném phạt sau một lỗi. Không ai kèm bạn, không ai vội vàng bạn — chỉ có bạn, quả bóng, và thói quen của bạn. Sự đơn giản đó đánh lừa: ném phạt quyết định những trận sát nút hơn bất kỳ kỹ năng đơn lẻ nào khác.",
+      "Bí mật là ném phạt hầu như không phải về ném. Nó là về thói quen. Những cầu thủ ném 85%+ làm đúng cùng một việc, theo đúng cùng một thứ tự, mọi lần — và thói quen bảo vệ cú ném khỏi áp lực, mệt mỏi, và tiếng ồn."
+    ],
+    "whyItMatters": [
+      "Ném phạt là những điểm hiệu quả nhất trong bóng rổ — không bị kèm, có thể lặp lại, và xuất hiện thường xuyên. Các đội thường xuyên để rơi 5–10 điểm ở vạch ném phạt trong những trận thua sát nút. Với cá nhân, tỷ lệ ném phạt là sự kiểm soát thuần túy: không hậu vệ, không sơ đồ, chỉ có sự chuẩn bị. Đây là nơi dễ nhất để cộng điểm cho trận đấu của bạn và thành tích của đội."
+    ],
+    "howTo": [
+      {
+        "title": "Đứng vào dấu mốc",
+        "detail": "Tìm cái đinh (dấu mốc ở giữa vạch ném phạt). Đặt chân ném lên hoặc ngay sau nó, hai chân rộng bằng vai, người vuông góc với rổ."
+      },
+      {
+        "title": "Dẫn những nhịp bóng của bạn",
+        "detail": "Dẫn đúng số nhịp đã định — hầu hết cầu thủ dùng 2 hoặc 3 nhịp. Đây là chiếc máy đếm nhịp của thói quen; đếm giống nhau mọi lần."
+      },
+      {
+        "title": "Hít thở và thả lỏng",
+        "detail": "Một hơi thở chậm, sâu. Cảm nhận vai hạ xuống và tay cầm bóng thả lỏng. Căng thẳng là kẻ thù của cảm giác bóng."
+      },
+      {
+        "title": "Khóa chặt mục tiêu",
+        "detail": "Khóa mắt vào một mục tiêu nhỏ — mép sau của vành rổ hoặc một mắt lưới cụ thể. Đừng rời mắt khi đã bắt đầu."
+      },
+      {
+        "title": "Ném cú ném bình thường của bạn",
+        "detail": "Gập gối, bật lên mượt mà, và ném với kỹ thuật bình thường — khuỷu tay khép, tay dẫn yên, follow-through đầy đủ. Giữ tư thế kết thúc cho đến khi bóng chạm đất."
+      },
+      {
+        "title": "Chuẩn bị cho quả tiếp theo",
+        "detail": "Quan sát kết quả mà không phản ứng cảm xúc, rồi thiết lập lại cho quả tiếp theo. Mỗi quả ném phạt là một sự kiện riêng."
+      }
+    ],
+    "coachingPoints": [
+      "Xây MỘT thói quen và không bao giờ thay đổi — thói quen chính là kỹ năng.",
+      "Cùng số nhịp dẫn bóng, cùng hơi thở, cùng thời điểm, mọi lần.",
+      "Tập ném phạt khi đã mệt: những lần ném cuối buổi tập mô phỏng đôi chân ở hiệp bốn.",
+      "Theo dõi tỷ lệ theo từng block 10 quả; hướng tới 70%+ (trẻ) và 80%+ (nâng cao).",
+      "Có buổi ném phạt đầu tiên, có buổi ném cuối cùng — thay đổi bối cảnh, không thay đổi thói quen."
+    ],
+    "commonMistakes": [
+      "Thay đổi thói quen từ trận này sang trận khác — cách sửa: viết ra và làm theo như kịch bản.",
+      "Vội vàng sau một pha phạm lỗi mạnh — cách sửa: thói quen buộc bạn phải dừng lại; đừng bao giờ ném khi đang giận hay vội.",
+      "Chỉ tập khi còn sung sức — cách sửa: những quả ném phạt tệ nhất đến khi mệt; hãy rèn trạng thái đó.",
+      "Ngắm cả cái rổ — cách sửa: chọn một mục tiêu thật nhỏ (mép sau vành rổ, một mắt lưới) và nhìn chằm chằm vào nó."
+    ],
+    "gameSituations": [
+      "Sau mỗi lỗi ném — những điểm miễn phí phổ biến nhất trong bóng rổ; các đội cừ khôi coi chúng như điểm chắc chắn.",
+      "Những pha phạm lỗi chiến thuật cuối trận — trận sát nút được định đoạt ở vạch ném phạt; người ném theo thói quen sẽ thắng.",
+      "Các tình huống kỹ thuật và bonus — điểm miễn phí mà không cần tạo ra từ tấn công."
+    ],
+    "tags": [
+      "ném rổ",
+      "kỹ năng cơ bản",
+      "ghi điểm"
+    ]
+  }
+}

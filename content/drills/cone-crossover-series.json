@@ -69,5 +69,56 @@
     "two-ball-dribbling",
     "one-on-one-live"
   ],
-  "dateUpdated": "2026-10-06"
+  "dateUpdated": "2026-10-06",
+  "vi":   {
+    "title": "Chuỗi Crossover Qua Cọc",
+    "description": "Chuỗi động tác rê bóng qua cọc rèn khả năng đổi hướng bùng nổ, động tác thấp và tăng tốc sau mỗi lần crossover.",
+    "goal": "Mài sắc các động tác rê bóng khi thi đấu — crossover, between-the-legs, behind-the-back — với cú bứt tốc sau mỗi động tác.",
+    "setup": [
+      "Đặt 4 cọc thẳng hàng, cách nhau khoảng 8-10 feet (2,5-3m), bắt đầu gần giữa sân.",
+      "Bắt đầu với bóng ở tay phải tại cọc đầu tiên.",
+      "Để sẵn một quả bóng thứ hai gần đó để reset nhanh."
+    ],
+    "instructions": [
+      {
+        "title": "Crossover ở mỗi cọc",
+        "detail": "Rê bóng đến từng cọc và thực hiện crossover thấp, mạnh; bứt tốc 2-3 nhịp rê qua cọc trước khi đến cọc tiếp theo. Đi và về."
+      },
+      {
+        "title": "Vòng between-the-legs",
+        "detail": "Lặp lại đường cọc bằng động tác between-the-legs ở mỗi cọc — giữ người thấp, bóng dưới đầu gối."
+      },
+      {
+        "title": "Vòng behind-the-back",
+        "detail": "Lặp lại với động tác behind-the-back ở mỗi cọc; quấn bóng chặt để bóng không văng ra xa."
+      },
+      {
+        "title": "Vòng combo",
+        "detail": "Nối 2 động tác mỗi cọc — ví dụ crossover rồi between-the-legs — và tấn công ngay sau động tác thứ hai mỗi lần."
+      },
+      {
+        "title": "Chốt bằng bấm giờ",
+        "detail": "Chạy hết đường cọc với một động tác mỗi cọc nhanh nhất có thể, không mất bóng; lặp lại 2 lần."
+      }
+    ],
+    "coachingPoints": [
+      "Động tác chỉ tốt khi có cú bứt tốc sau nó — hãy tăng tốc sau mỗi động tác, đừng chạy đều đều.",
+      "Bán động tác bằng vai và mắt trước khi chuyển bóng.",
+      "Giữ động tác gọn sát người; động tác rộng sẽ bị cướp bóng trong trận.",
+      "Đổi nhịp: chậm khi vào cọc, bùng nổ khi ra khỏi cọc."
+    ],
+    "commonMistakes": [
+      "Crossover bóng ở ngang hông — giữ bóng dưới đầu gối, nơi hậu vệ không với tới.",
+      "Không bứt tốc sau động tác — nếu không tấn công khoảng trống, động tác chẳng đạt được gì.",
+      "Cúi nhìn bóng khi behind-the-back — hãy tin vào cú quấn và giữ mắt nhìn lên."
+    ],
+    "progression": "Thêm retreat dribble sau mỗi cọc rồi mới bùng nổ tiến lên, chạy cả chuỗi ở tốc độ tối đa, hoặc để HLV chỉ trái/phải để bạn phản ứng chọn động tác.",
+    "regression": "Đi bộ qua từng động tác trước, mỗi buổi chỉ tập một loại động tác, hoặc nới rộng khoảng cách cọc để có thêm không gian chuẩn bị.",
+    "gameApplication": "Mọi pha đột phá trong trận đều bắt đầu từ việc qua mặt hậu vệ — chuỗi này rèn đúng nhịp động-tác-rồi-bứt-tốc tạo ra đường đột phá.",
+    "players": "1",
+    "equipment": [
+      "Bóng rổ",
+      "Cọc tiêu"
+    ]
+  }
 }

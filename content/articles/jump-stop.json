@@ -1,1 +1,132 @@
-{"ages":["U8","U10","U12","U14","U16","U18","Adult"],"coachingPoints":["Land quiet — if you hear a slap, your knees aren't bending enough.","Ball first: gather with two hands before your feet hit the floor.","Land in triple threat: knees bent, ball at the hip or chest, eyes up.","Two feet down means you can pivot — never hop into a jump stop with no plan.","Use it in traffic; the balanced landing protects you and the ball."],"commonMistakes":["Landing with straight legs — no balance, no explosion, and hard on the knees.","Gathering late — the ball is still bouncing as you land; that's a travel.","Landing flat-footed and frozen — a jump stop is a launchpad, not a parking spot.","Hopping too far forward — you travel into the defender instead of stopping before them."],"dateUpdated":"2026-10-06","description":"Land on two feet simultaneously in balance — the stop that sets up power finishes, pivots, and pull-ups.","gameSituations":["Driving into the paint when a defender rotates — stop, rise, finish.","Catching on the move in transition — land balanced and read the floor.","Off a dribble move that created space — stop and shoot in rhythm."],"howTo":[{"detail":"As you approach your stopping point, pick up the ball with two hands. The gather must happen before you leave the ground — this is what keeps it legal.","title":"Gather the ball"},{"detail":"Take a small hop and land on both feet at the same time, feet about shoulder-width apart, knees bent, hips low. Think 'athletic stance,' not 'standing up.'","title":"Land simultaneous, knees bent"},{"detail":"Arrive with the ball at your hip or chest, elbows out, in triple-threat position. Your eyes go up immediately — you should be able to see the whole floor from this stance.","title":"Arrive in triple threat"},{"detail":"From the balanced landing you can now shoot, pivot, or pass. Push off both feet equally to explode into your next move.","title":"Explode into your next move"}],"hub":"skills","id":"jump-stop","level":"beginner","positions":["ALL"],"readTime":4,"related":["stride-stop","pro-hop","power-finish","pivot","chest-pass"],"slug":"jump-stop","subcategory":"footwork","tags":["footwork","stops","fundamentals","balance"],"title":"Jump Stop","whatIsIt":["The jump stop is a two-foot landing: you hop and land on both feet simultaneously, arriving in a balanced athletic stance. It's the most stable way to stop your momentum in basketball.","Because both feet hit the floor together, either foot can become your pivot foot afterward — a huge advantage. The jump stop is the foundation of power finishes, pro hops, and controlled pull-ups."],"whyItMatters":["Players who can't stop can't play under control. The jump stop turns full-speed drives into balanced finishes, catches into triple-threat reads, and chaos into options. Coaches at every level drill it because it's the gateway to every two-foot move in the game."]}
+{
+  "ages": [
+    "U8",
+    "U10",
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "coachingPoints": [
+    "Land quiet — if you hear a slap, your knees aren't bending enough.",
+    "Ball first: gather with two hands before your feet hit the floor.",
+    "Land in triple threat: knees bent, ball at the hip or chest, eyes up.",
+    "Two feet down means you can pivot — never hop into a jump stop with no plan.",
+    "Use it in traffic; the balanced landing protects you and the ball."
+  ],
+  "commonMistakes": [
+    "Landing with straight legs — no balance, no explosion, and hard on the knees.",
+    "Gathering late — the ball is still bouncing as you land; that's a travel.",
+    "Landing flat-footed and frozen — a jump stop is a launchpad, not a parking spot.",
+    "Hopping too far forward — you travel into the defender instead of stopping before them."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "Land on two feet simultaneously in balance — the stop that sets up power finishes, pivots, and pull-ups.",
+  "gameSituations": [
+    "Driving into the paint when a defender rotates — stop, rise, finish.",
+    "Catching on the move in transition — land balanced and read the floor.",
+    "Off a dribble move that created space — stop and shoot in rhythm."
+  ],
+  "howTo": [
+    {
+      "detail": "As you approach your stopping point, pick up the ball with two hands. The gather must happen before you leave the ground — this is what keeps it legal.",
+      "title": "Gather the ball"
+    },
+    {
+      "detail": "Take a small hop and land on both feet at the same time, feet about shoulder-width apart, knees bent, hips low. Think 'athletic stance,' not 'standing up.'",
+      "title": "Land simultaneous, knees bent"
+    },
+    {
+      "detail": "Arrive with the ball at your hip or chest, elbows out, in triple-threat position. Your eyes go up immediately — you should be able to see the whole floor from this stance.",
+      "title": "Arrive in triple threat"
+    },
+    {
+      "detail": "From the balanced landing you can now shoot, pivot, or pass. Push off both feet equally to explode into your next move.",
+      "title": "Explode into your next move"
+    }
+  ],
+  "hub": "skills",
+  "id": "jump-stop",
+  "level": "beginner",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 4,
+  "related": [
+    "stride-stop",
+    "pro-hop",
+    "power-finish",
+    "pivot",
+    "chest-pass"
+  ],
+  "slug": "jump-stop",
+  "subcategory": "footwork",
+  "tags": [
+    "footwork",
+    "stops",
+    "fundamentals",
+    "balance"
+  ],
+  "title": "Jump Stop",
+  "whatIsIt": [
+    "The jump stop is a two-foot landing: you hop and land on both feet simultaneously, arriving in a balanced athletic stance. It's the most stable way to stop your momentum in basketball.",
+    "Because both feet hit the floor together, either foot can become your pivot foot afterward — a huge advantage. The jump stop is the foundation of power finishes, pro hops, and controlled pull-ups."
+  ],
+  "whyItMatters": [
+    "Players who can't stop can't play under control. The jump stop turns full-speed drives into balanced finishes, catches into triple-threat reads, and chaos into options. Coaches at every level drill it because it's the gateway to every two-foot move in the game."
+  ],
+  "vi": {
+    "title": "Dừng Bật Nhảy (Jump Stop)",
+    "description": "Tiếp đất bằng hai chân cùng lúc trong trạng thái cân bằng — cú dừng mở ra các pha kết thúc mạnh, pivot và pull-up.",
+    "whatIsIt": [
+      "Jump stop là cách tiếp đất bằng hai chân: bạn nhảy lên một chút rồi đáp xuống bằng cả hai chân cùng lúc, dừng lại trong tư thế thể thao cân bằng. Đây là cách dừng đà ổn định nhất trong bóng rổ.",
+      "Vì cả hai chân chạm đất cùng lúc, chân nào cũng có thể trở thành chân trụ sau đó — một lợi thế rất lớn. Jump stop là nền tảng của các pha kết thúc mạnh (power finish), pro hop và các cú pull-up có kiểm soát."
+    ],
+    "whyItMatters": [
+      "Cầu thủ không biết dừng thì không thể chơi có kiểm soát. Jump stop biến những pha đột phá tốc độ cao thành các pha kết thúc cân bằng, biến những pha nhận bóng thành các lần đọc tình huống ở triple threat, và biến sự hỗn loạn thành lựa chọn. Các huấn luyện viên ở mọi cấp độ đều luyện nó vì nó là cánh cửa dẫn đến mọi động tác hai chân trong môn bóng rổ."
+    ],
+    "howTo": [
+      {
+        "title": "Gom bóng trước",
+        "detail": "Khi gần đến điểm dừng, gom bóng bằng hai tay. Động tác gom bóng phải hoàn thành trước khi bạn rời khỏi mặt đất — đó là điều giữ cho pha bóng hợp lệ."
+      },
+      {
+        "title": "Tiếp đất đồng thời, đầu gối chùng",
+        "detail": "Nhảy nhẹ một cái rồi đáp xuống bằng cả hai chân cùng lúc, hai chân rộng ngang vai, đầu gối chùng, hông thấp. Hãy nghĩ 'tư thế thể thao', chứ không phải 'đứng thẳng'."
+      },
+      {
+        "title": "Dừng ở tư thế triple threat",
+        "detail": "Đáp xuống với bóng ở hông hoặc ngực, khuỷu tay mở ra, ở tư thế triple threat. Mắt bạn nhìn lên ngay lập tức — từ tư thế này bạn phải quan sát được toàn sân."
+      },
+      {
+        "title": "Bùng nổ vào động tác tiếp theo",
+        "detail": "Từ tư thế tiếp đất cân bằng, bạn có thể ném, pivot hoặc chuyền. Đạp đều bằng cả hai chân để bùng nổ vào động tác tiếp theo."
+      }
+    ],
+    "coachingPoints": [
+      "Tiếp đất nhẹ nhàng — nếu nghe tiếng vỗ mạnh, đầu gối của bạn chưa chùng đủ.",
+      "Bóng trước: gom bóng bằng hai tay trước khi chân chạm đất.",
+      "Tiếp đất ở tư thế triple threat: đầu gối chùng, bóng ở hông hoặc ngực, mắt nhìn lên.",
+      "Hai chân chạm đất nghĩa là bạn có thể pivot — đừng bao giờ nhảy vào jump stop mà không có kế hoạch.",
+      "Dùng nó trong khu vực đông người; cú tiếp đất cân bằng bảo vệ bạn và quả bóng."
+    ],
+    "commonMistakes": [
+      "Tiếp đất với chân thẳng — không cân bằng, không bùng nổ, lại còn hại đầu gối.",
+      "Gom bóng muộn — bóng vẫn còn nảy khi bạn tiếp đất; đó là lỗi bước.",
+      "Tiếp đất bằng phẳng rồi đứng yên — jump stop là bệ phóng, không phải chỗ đậu xe.",
+      "Nhảy quá xa về phía trước — bạn sẽ đâm vào hậu vệ thay vì dừng lại trước mặt họ."
+    ],
+    "gameSituations": [
+      "Đột phá vào khu vực paint khi hậu vệ xoay người đến — dừng lại, bật lên, kết thúc.",
+      "Nhận bóng khi đang di chuyển trong fast break — tiếp đất cân bằng và đọc toàn sân.",
+      "Sau một động tác dẫn bóng đã tạo khoảng trống — dừng lại và ném theo nhịp."
+    ],
+    "tags": [
+      "bộ chân",
+      "dừng bóng",
+      "cơ bản",
+      "thăng bằng"
+    ]
+  }
+}

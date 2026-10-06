@@ -23,5 +23,67 @@
     "Rest 30-60 seconds between blocks if you need it. Quality reps beat tired reps.",
     "Do this workout 3 times a week and you will be shocked how fast you improve."
   ],
-  "dateUpdated": "2026-10-06"
+  "dateUpdated": "2026-10-06",
+  "vi":   {
+    "title": "Buổi Tập Toàn Diện Cho Người Mới",
+    "description": "Buổi tập khởi đầu 25 phút hoàn chỉnh: rê bóng, form ném, layup, chuyền bóng và phòng thủ cơ bản — mọi thứ người mới cần.",
+    "focus": [
+      "Rê bóng",
+      "Ném rổ",
+      "Dứt điểm",
+      "Chuyền bóng",
+      "Phòng thủ"
+    ],
+    "equipment": [
+      "Bóng rổ"
+    ],
+    "items": [
+      {
+        "name": "Khởi động rê đập",
+        "detail": "Rê đập đứng yên: 30 giây tay phải, 30 giây tay trái, 30 giây luân phiên. Mắt nhìn lên.",
+        "time": "2:00"
+      },
+      {
+        "name": "Crossover cơ bản",
+        "detail": "Crossover thấp đứng yên: 1 phút. Rồi crossover khi đi bộ hết sân đi-về.",
+        "time": "3:00"
+      },
+      {
+        "name": "Form shooting",
+        "detail": "Ném một tay từ 4 feet (1,2m): mỗi bên và giữa vào 5 quả. Giữ follow-through.",
+        "time": "4:00"
+      },
+      {
+        "name": "Layup tay phải",
+        "detail": "Rê từ wing và dứt điểm layup tay phải: vào 5 quả. Tay phải, chân trái.",
+        "time": "3:00"
+      },
+      {
+        "name": "Layup tay trái",
+        "detail": "Tương tự bên trái: vào 5 quả bằng tay trái. Xấu cũng không sao — số lượt tập sẽ sửa.",
+        "time": "3:00"
+      },
+      {
+        "name": "Chuyền vào tường",
+        "detail": "Chest pass và bounce pass vào tường: mỗi loại 20 cái, bước vào mọi đường chuyền.",
+        "time": "3:00"
+      },
+      {
+        "name": "Trượt phòng thủ",
+        "detail": "Trượt ngang lane trong tư thế thấp: đi-về 2 lần. Giữ thấp, không bắt chéo chân.",
+        "time": "3:00"
+      },
+      {
+        "name": "Chốt bằng ném phạt",
+        "detail": "10 quả phạt. Chọn một nghi thức đơn giản (2 nhịp rê, thở, ném) và dùng mọi lần.",
+        "time": "4:00"
+      }
+    ],
+    "tips": [
+      "Thành thạo cơ bản trước khi thêm thứ hoa mỹ — nền tảng mới thắng trận.",
+      "Tay yếu xứng đáng có một nửa thời gian tập. Giờ thấy gượng, một tháng nữa sẽ khác.",
+      "Nghỉ 30-60 giây giữa các khối nếu cần. Lượt tập chất lượng hơn lượt tập mệt.",
+      "Tập buổi này 3 lần/tuần và bạn sẽ ngạc nhiên vì tiến bộ nhanh thế nào."
+    ]
+  }
 }

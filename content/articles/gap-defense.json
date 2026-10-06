@@ -1,1 +1,140 @@
-{"ages":["U12","U14","U16","U18","Adult","Competitive"],"coachingPoints":["The farther your man is from the ball, the deeper your gap can be","Keep your chest open to the ball — never turn your back to it","Slide with the ball: as it swings, your gap shifts with it","Close the gap quickly when your man catches — you are one step from a closeout","Gap defenders must be able to stunt and recover in one motion"],"commonMistakes":["Sagging so far off a shooter that the closeout is impossible","Hugging your man when the ball is two passes away — no help value at all","Forgetting the gap when the ball swings — gaps must move with the ball","Ball-watching so long your man cuts backdoor"],"dateUpdated":"2026-10-06","description":"Gap defense: how far to sag off your man, how to read the ball, and how to be in two places at once off the ball.","gameSituations":["Your man is one pass away on the weak side and you need to both help and recover","Defending against a drive-heavy team where your gap deters the first step","Playing pack line or any sagging man-to-man scheme","Late clock when the offense needs a drive, not a contested catch"],"howTo":[{"detail":"Measure your gap by your man's distance from the ball. If he is one pass away, stay an arm's length plus a step off him. Two passes away, you can be a full step into the lane.","title":"Set your gap based on ball distance"},{"detail":"Open your stance so your chest faces the ball and your back foot points at your man. This 'open stance' lets you see both and move toward either.","title":"Play in an open stance"},{"detail":"As the ball moves — swung, driven, or passed — your gap moves with it. Slide toward the ball side, keeping your relative position between your man and the basket.","title":"Move the gap with the ball"},{"detail":"When the ball drives, your gap collapses into help: you become the helper. When the ball is kicked to your man, your gap explodes into a closeout.","title":"Collapse to help or explode to close out"},{"detail":"From the gap, take one hard step toward the driver — a stunt — to slow him down, then sprint back to your man. Done well, the offense never notices you left.","title":"Stunt at drivers and recover"}],"hub":"defense","id":"gap-defense","level":"intermediate","positions":["ALL"],"readTime":5,"related":["help-defense","on-ball-defense","closeout-defense","pack-line-defense"],"slug":"gap-defense","subcategory":"defense-fundamentals","tags":["defense","gap","off-ball","team defense"],"title":"Gap Defense","whatIsIt":["Gap defense is how off-ball defenders position themselves between their man and the ball — close enough to recover to their man, far enough inside to help on a drive. The 'gap' is that in-between space, and managing it is the core skill of team defense.","Instead of gluing yourself to your matchup, you play the passing lane and the driving lane at once. When your man is far from the ball, you sag deeper into help. When the ball swings toward him, you close the gap and get back on him. Every good defensive possession is five players constantly adjusting their gaps."],"whyItMatters":["Offenses attack with penetration, and penetration is stopped by gaps, not by individual defenders. A team that plays great gaps makes every drive run into a second defender, which forces kick-outs — and kick-outs are exactly what a connected defense wants. Gap discipline is what separates defenses that bend from defenses that break."]}
+{
+  "ages": [
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult",
+    "Competitive"
+  ],
+  "coachingPoints": [
+    "The farther your man is from the ball, the deeper your gap can be",
+    "Keep your chest open to the ball — never turn your back to it",
+    "Slide with the ball: as it swings, your gap shifts with it",
+    "Close the gap quickly when your man catches — you are one step from a closeout",
+    "Gap defenders must be able to stunt and recover in one motion"
+  ],
+  "commonMistakes": [
+    "Sagging so far off a shooter that the closeout is impossible",
+    "Hugging your man when the ball is two passes away — no help value at all",
+    "Forgetting the gap when the ball swings — gaps must move with the ball",
+    "Ball-watching so long your man cuts backdoor"
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "Gap defense: how far to sag off your man, how to read the ball, and how to be in two places at once off the ball.",
+  "gameSituations": [
+    "Your man is one pass away on the weak side and you need to both help and recover",
+    "Defending against a drive-heavy team where your gap deters the first step",
+    "Playing pack line or any sagging man-to-man scheme",
+    "Late clock when the offense needs a drive, not a contested catch"
+  ],
+  "howTo": [
+    {
+      "detail": "Measure your gap by your man's distance from the ball. If he is one pass away, stay an arm's length plus a step off him. Two passes away, you can be a full step into the lane.",
+      "title": "Set your gap based on ball distance"
+    },
+    {
+      "detail": "Open your stance so your chest faces the ball and your back foot points at your man. This 'open stance' lets you see both and move toward either.",
+      "title": "Play in an open stance"
+    },
+    {
+      "detail": "As the ball moves — swung, driven, or passed — your gap moves with it. Slide toward the ball side, keeping your relative position between your man and the basket.",
+      "title": "Move the gap with the ball"
+    },
+    {
+      "detail": "When the ball drives, your gap collapses into help: you become the helper. When the ball is kicked to your man, your gap explodes into a closeout.",
+      "title": "Collapse to help or explode to close out"
+    },
+    {
+      "detail": "From the gap, take one hard step toward the driver — a stunt — to slow him down, then sprint back to your man. Done well, the offense never notices you left.",
+      "title": "Stunt at drivers and recover"
+    }
+  ],
+  "hub": "defense",
+  "id": "gap-defense",
+  "level": "intermediate",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 5,
+  "related": [
+    "help-defense",
+    "on-ball-defense",
+    "closeout-defense",
+    "pack-line-defense"
+  ],
+  "slug": "gap-defense",
+  "subcategory": "defense-fundamentals",
+  "tags": [
+    "defense",
+    "gap",
+    "off-ball",
+    "team defense"
+  ],
+  "title": "Gap Defense",
+  "whatIsIt": [
+    "Gap defense is how off-ball defenders position themselves between their man and the ball — close enough to recover to their man, far enough inside to help on a drive. The 'gap' is that in-between space, and managing it is the core skill of team defense.",
+    "Instead of gluing yourself to your matchup, you play the passing lane and the driving lane at once. When your man is far from the ball, you sag deeper into help. When the ball swings toward him, you close the gap and get back on him. Every good defensive possession is five players constantly adjusting their gaps."
+  ],
+  "whyItMatters": [
+    "Offenses attack with penetration, and penetration is stopped by gaps, not by individual defenders. A team that plays great gaps makes every drive run into a second defender, which forces kick-outs — and kick-outs are exactly what a connected defense wants. Gap discipline is what separates defenses that bend from defenses that break."
+  ],
+  "vi": {
+    "title": "Phòng Thủ Khoảng Trống (Gap Defense)",
+    "description": "Phòng thủ khoảng trống: lùi xa người kèm bao nhiêu là đủ, cách đọc bóng, và cách 'ở hai nơi cùng lúc' khi không kèm bóng.",
+    "whatIsIt": [
+      "Phòng thủ khoảng trống là cách các hậu vệ không kèm bóng đứng giữa người họ kèm và quả bóng — đủ gần để quay lại kèm người, đủ sâu vào trong để hỗ trợ khi bị đột phá. 'Khoảng trống' chính là vùng ở giữa đó, và quản lý nó là kỹ năng cốt lõi của phòng thủ đồng đội.",
+      "Thay vì dính chặt vào người kèm, bạn chơi cả đường chuyền lẫn đường đột phá cùng lúc. Khi người bạn kèm ở xa bóng, bạn lùi sâu hơn vào vị trí hỗ trợ. Khi bóng xoay về phía anh ta, bạn khép khoảng trống và quay lại kèm. Mỗi lần phòng thủ tốt là năm cầu thủ liên tục điều chỉnh khoảng trống của mình."
+    ],
+    "whyItMatters": [
+      "Tấn công dùng đột phá để ghi điểm, và đột phá bị chặn bởi các khoảng trống, không phải bởi từng hậu vệ riêng lẻ. Đội chơi khoảng trống tốt khiến mỗi pha đột phá đều đâm vào hậu vệ thứ hai, buộc đối thủ phải chuyền ra ngoài — và chuyền ra ngoài chính là điều hàng thủ gắn kết mong muốn. Kỷ luật khoảng trống là thứ phân biệt hàng thủ chỉ 'cong' với hàng thủ bị 'gãy'."
+    ],
+    "howTo": [
+      {
+        "title": "Đặt khoảng trống theo khoảng cách tới bóng",
+        "detail": "Đo khoảng trống bằng khoảng cách từ người bạn kèm tới bóng. Nếu anh ta cách bóng một đường chuyền, hãy đứng cách anh ta một sải tay cộng một bước chân. Cách hai đường chuyền, bạn có thể lùi sâu một bước vào trong lane."
+      },
+      {
+        "title": "Đứng ở tư thế mở",
+        "detail": "Mở tư thế sao cho ngực hướng về bóng và chân sau chỉ về phía người bạn kèm. Tư thế 'mở' này giúp bạn thấy cả hai và di chuyển về phía nào cũng được."
+      },
+      {
+        "title": "Di chuyển khoảng trống theo bóng",
+        "detail": "Khi bóng di chuyển — xoay biên, đột phá, hay chuyền — khoảng trống của bạn cũng di chuyển theo. Trượt về phía bóng, giữ vị trí tương đối giữa người bạn kèm và rổ."
+      },
+      {
+        "title": "Co vào hỗ trợ hoặc bật ra closeout",
+        "detail": "Khi bóng đột phá, khoảng trống của bạn co lại thành hỗ trợ: bạn trở thành người hỗ trợ. Khi bóng được chuyền cho người bạn kèm, khoảng trống bật ra thành một pha closeout."
+      },
+      {
+        "title": "Nhá hỗ trợ (stunt) rồi quay về",
+        "detail": "Từ khoảng trống, bước mạnh một bước về phía người đột phá — một pha nhá (stunt) — để làm chậm anh ta, rồi chạy nước rút về người mình kèm. Làm tốt, đối thủ sẽ không nhận ra bạn đã rời vị trí."
+      }
+    ],
+    "coachingPoints": [
+      "Người bạn kèm càng xa bóng, khoảng trống của bạn càng có thể sâu",
+      "Giữ ngực mở về phía bóng — không bao giờ quay lưng lại với bóng",
+      "Trượt theo bóng: bóng xoay đâu, khoảng trống của bạn dịch theo đó",
+      "Khép khoảng trống nhanh khi người bạn kèm nhận bóng — bạn chỉ cách một pha closeout một bước chân",
+      "Hậu vệ khoảng trống phải nhá hỗ trợ và quay về trong một động tác"
+    ],
+    "commonMistakes": [
+      "Lùi quá xa khỏi tay ném khiến pha closeout không thể kịp",
+      "Dính chặt người kèm khi bóng cách hai đường chuyền — chẳng có giá trị hỗ trợ nào",
+      "Quên khoảng trống khi bóng xoay biên — khoảng trống phải di chuyển theo bóng",
+      "Mải nhìn bóng quá lâu để người kèm cắt backdoor"
+    ],
+    "gameSituations": [
+      "Người bạn kèm ở phía yếu cách bóng một đường chuyền, bạn cần vừa hỗ trợ vừa quay về",
+      "Phòng thủ đội chuyên đột phá, khoảng trống của bạn làm nản bước đầu tiên của họ",
+      "Chơi pack line hay bất kỳ sơ đồ kèm người lùi sâu nào",
+      "Cuối đồng hồ khi đối thủ cần đột phá chứ không phải nhận bóng tranh chấp"
+    ],
+    "tags": [
+      "phòng thủ",
+      "khoảng trống",
+      "không bóng",
+      "phòng thủ đồng đội"
+    ]
+  }
+}

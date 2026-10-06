@@ -127,5 +127,61 @@
     "pick-and-roll-basics",
     "spain-pick-and-roll"
   ],
-  "dateUpdated": "2026-10-06"
+  "dateUpdated": "2026-10-06",
+  "vi": {
+    "title": "Chắn Ma (Ghost Screen)",
+    "description": "Người chắn giả vờ chắn rồi lách đi trước khi va chạm, khiến cách gọi kèm của hàng thủ bị rối loạn.",
+    "whatIsIt": [
+      "Chắn ma là một pha chắn giả: người chắn chạy nước rút về phía người dẫn bóng như thể sắp chắn thật, rồi rẽ đi trước khi va chạm — thường là lách (slip) về rổ hoặc bật ra khoảng trống. Hàng thủ, vì đang chờ một pha chắn, lại phản ứng với thứ không bao giờ xảy ra.",
+      "Nó hiệu quả vì các hàng thủ hiện đại gọi cách kèm từ sớm. Hậu vệ kèm bóng nghe 'sắp có chắn' và chuẩn bị vượt qua hoặc chui dưới; big chuẩn bị hedge hoặc drop. Chắn ma khiến cả hai hậu vệ kèm một tình huống không tồn tại — trong khi 'người chắn' đã trống trải.",
+      "Chắn ma là bóng đổi tốc (changeup), không phải bóng nhanh (fastball). Dùng thưa thì cực kỳ sát thương; dùng mọi lần thì hàng thủ sẽ ngừng phản ứng và nó chỉ còn là một pha chắn dở."
+    ],
+    "whyItMatters": [
+      "Hàng thủ tập các cách kèm pick-and-roll hàng nghìn lần — chắn ma phá vỡ bài tập đó. Nó trừng phạt hai thói quen phòng thủ phổ biến nhất: big dâng lên sớm và hậu vệ nhảy qua chắn sớm. Một pha chắn ma đúng lúc mỗi trận khiến mọi cách kèm đều phải dè chừng."
+    ],
+    "howTo": [
+      {
+        "title": "Diễn cho thật",
+        "detail": "Chạy nước rút về phía người dẫn bóng y hệt một pha chắn thật — cùng tốc độ, cùng góc, cùng ngôn ngữ cơ thể. Pha giả chỉ hiệu quả khi trông như thật."
+      },
+      {
+        "title": "Đọc phản ứng sớm",
+        "detail": "Nếu hậu vệ của người chắn nhảy ra hedge hoặc hậu vệ kèm bóng bắt đầu vượt qua sớm, chắn ma đã sẵn sàng. Nếu không ai phản ứng, cứ chắn thật."
+      },
+      {
+        "title": "Rẽ ở bước cuối cùng",
+        "detail": "Một bước trước khi va chạm, đặt chân trụ và cắt — lách về rổ nếu big đã lao ra, hoặc bật ra khoảng trống nếu họ lùi lại."
+      },
+      {
+        "title": "Người dẫn bóng: khai thác ngay",
+        "detail": "Khi người chắn của bạn dùng chắn ma, hãy tấn công sự rối loạn ngay lập tức. Hàng thủ đang giữa pha xoay chuyển — đột phá vào khoảng trống trước khi họ kịp sắp xếp lại."
+      },
+      {
+        "title": "Giữ cho hiếm",
+        "detail": "Tối đa hai đến ba pha chắn ma mỗi trận. Mối đe dọa chỉ hiệu quả vì chắn thật mới là mặc định."
+      }
+    ],
+    "coachingPoints": [
+      "Chỉ dạy chắn ma sau khi chắn thật đã thành bản năng — cầu thủ không biết chắn sẽ chỉ biết giả vờ.",
+      "Điểm quyết định là phản ứng của hậu vệ, không phải bài gọi sẵn. Hãy tập nó như một tình huống đọc.",
+      "Xem băng hình rất hữu ích: chỉ ra đúng khoảnh khắc hàng thủ 'cắn' pha giả.",
+      "Kết hợp với slip — bộ chân gần như giống hệt."
+    ],
+    "commonMistakes": [
+      "Dùng chắn ma mọi lần, khiến hàng thủ ngừng tôn trọng pha chắn.",
+      "Pha giả nửa vời không lừa được ai, trông như một pha chắn hỏng.",
+      "Dùng chắn ma khi hàng thủ chưa phản ứng — thế là bỏ rơi đồng đội."
+    ],
+    "gameSituations": [
+      "Gặp hàng thủ hedge hoặc blitz mạnh, dâng lên từ sớm.",
+      "Khi hậu vệ kèm bóng rõ ràng muốn nhảy qua mọi pha chắn.",
+      "Đòn bất ngờ sau khi đã chạy nhiều pha pick-and-roll thật liên tiếp."
+    ],
+    "tags": [
+      "ghost screen",
+      "pick and roll",
+      "slip",
+      "đòn phản công"
+    ]
+  }
 }

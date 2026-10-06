@@ -38,5 +38,55 @@
   "regression": "Walk through the footwork without a ball first, do it from a standstill gather, or remove the defender cone.",
   "gameApplication": "Help defenders meet you at the rim in every game — the euro step is the primary tool for finishing around them without forcing contact.",
   "related": ["full-court-finishing","contact-finishing-drill","mikan-drill"],
-  "dateUpdated": "2026-10-06"
+  "dateUpdated": "2026-10-06",
+  "vi":   {
+    "title": "Dứt Điểm Euro Step",
+    "description": "Học bước đổi hướng 2 nhịp khiến hậu vệ block bị lỡ đà, rồi dứt điểm nhẹ nhàng bằng cả hai tay.",
+    "goal": "Thành thạo động tác thu bóng (gather) và đổi hướng của euro step để dứt điểm vòng qua người block mà không phạm lỗi tấn công.",
+    "setup": [
+      "Đặt một cọc ở đỉnh vòng làm điểm bắt đầu đột phá và một cọc gần elbow làm 'hậu vệ'.",
+      "Mỗi lượt bắt đầu bằng việc rê bóng tấn công cọc hậu vệ từ đỉnh vòng.",
+      "Có thể đặt ghế hoặc đệm ở rổ để mô phỏng người block."
+    ],
+    "instructions": [
+      {
+        "title": "Tấn công cọc hậu vệ",
+        "detail": "Tấn công cọc ở elbow ở tốc độ cao, như thể hậu vệ help đang trượt ra."
+      },
+      {
+        "title": "Thu bóng và bước 1",
+        "detail": "Thu bóng và bước dài đầu tiên sang một bên của cọc — bán động tác bằng vai."
+      },
+      {
+        "title": "Bước 2 cắt ngang",
+        "detail": "Đạp chân và bước cắt sang phía đối diện của cọc, đổi hướng sắc trong khi giữ bóng được bảo vệ."
+      },
+      {
+        "title": "Dứt điểm qua bảng",
+        "detail": "Dứt điểm bằng tay ngoài qua bảng rổ — bên phải dùng tay phải, bên trái dùng tay trái."
+      },
+      {
+        "title": "Luân phiên cả hai hướng",
+        "detail": "Thực hiện 5 euro step đi từ phải sang trái, 5 từ trái sang phải, rồi 5 lượt tự chọn hướng theo phản xạ."
+      }
+    ],
+    "coachingPoints": [
+      "Bước đầu tiên phải dài và thuyết phục — bước ngắn không làm hậu vệ di chuyển.",
+      "Giữ bóng chặt sát người qua cả hai bước; bóng lỏng sẽ bị chọc mất.",
+      "Giữ thấp và cân bằng — euro step là đổi hướng, không phải bật nhảy.",
+      "Tiếp đất và dứt điểm có kiểm soát; đừng trôi vào dưới rổ."
+    ],
+    "commonMistakes": [
+      "Bước thừa bước thứ ba — thu bóng sạch và đếm đúng 2 bước; bước thừa là lỗi traveling trong trận.",
+      "Nhảy ngang thay vì bước — động tác này hiệu quả nhờ footwork và đánh lừa, không phải nhờ bật nhảy."
+    ],
+    "progression": "Thêm hậu vệ thật ở cọc và họ sẽ chọn một bên để bạn phản ứng, thêm đệm block ở rổ, hoặc nối euro step thành cú dứt điểm reverse.",
+    "regression": "Đi bộ qua footwork không bóng trước, thực hiện từ tư thế thu bóng đứng yên, hoặc bỏ cọc hậu vệ.",
+    "gameApplication": "Hậu vệ help luôn chờ bạn ở rổ trong mọi trận đấu — euro step là công cụ chính để dứt điểm vòng qua họ mà không cần ép va chạm.",
+    "players": "1",
+    "equipment": [
+      "Bóng rổ",
+      "Cọc tiêu"
+    ]
+  }
 }

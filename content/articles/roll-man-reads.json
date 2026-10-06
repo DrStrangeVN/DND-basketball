@@ -138,5 +138,66 @@
     "screen-angle",
     "pocket-pass-pnr"
   ],
-  "dateUpdated": "2026-10-06"
+  "dateUpdated": "2026-10-06",
+  "vi": {
+    "title": "Đọc Tình Huống Của Roll Man",
+    "description": "Cách người chắn đọc hàng thủ sau screen: roll mạnh, short roll, pop, hay slip.",
+    "whatIsIt": [
+      "Việc của người chắn không kết thúc ở pha va chạm — nó bắt đầu từ đó. Sau screen, roll man phải đọc hàng thủ trong cùng một tích tắc với người cầm bóng: hậu vệ của tôi đang bám tôi, hỗ trợ bóng, hay kẹt ở giữa?",
+      "Bốn câu trả lời chính là: roll mạnh vào rổ (hậu vệ hỗ trợ bóng), short roll đến khu vực ném phạt (hỗ trợ đến từ chỗ khác), pop ra chỗ trống (hậu vệ lùi sâu hoặc bạn có thể ném), và slip (hậu vệ của bạn nhảy ra bẫy trước khi bạn kịp chắn).",
+      "Những roll man giỏi là người dứt điểm và ra quyết định. Big man hiện đại phải nhận bóng khi đang di chuyển, dứt điểm qua va chạm và chuyền tiếp khi hàng thủ sập vào."
+    ],
+    "whyItMatters": [
+      "Roll man thường là cầu thủ có lợi thế thể hình lớn nhất trong pha bóng — to hơn, gần rổ hơn, hoặc cả hai. Người chắn đọc đúng biến mọi pick-and-roll thành layup, dunk, hoặc hàng thủ sập. Người chắn chỉ đứng yên thì phí cả pha bóng."
+    ],
+    "howTo": [
+      {
+        "title": "Va chạm thật trước đã",
+        "detail": "Chắn screen hợp lệ và có lực. Không có va chạm, hàng thủ không bao giờ phải lựa chọn, và chẳng có gì để đọc."
+      },
+      {
+        "title": "Roll khi hậu vệ của bạn hỗ trợ",
+        "detail": "Nếu hậu vệ của bạn bước về phía người cầm bóng, chạy nước rút vào rổ với tay sẵn sàng. Đây là pha đọc mặc định — roll mạnh mọi lúc cho đến khi hàng thủ chứng minh ngược lại."
+      },
+      {
+        "title": "Short roll trước pha tag",
+        "detail": "Nếu hậu vệ hỗ trợ xoay ra chặn pha roll của bạn (pha tag), dừng ở vùng pocket quanh vạch ném phạt. Nhận bóng ở đó và bạn trở thành người kiến tạo: ném, dẫn, hoặc chuyền cho xạ thủ trống."
+      },
+      {
+        "title": "Pop khi họ lùi sâu",
+        "detail": "Nếu hậu vệ của bạn lùi hẳn về rổ để chống roll, hãy pop ra điểm ném của bạn. Không bao giờ roll vào hậu vệ đã chờ sẵn."
+      },
+      {
+        "title": "Slip khi bị bẫy sớm",
+        "detail": "Nếu hậu vệ của bạn nhảy ra blitz trước khi bạn kịp chắn, slip thẳng vào rổ — rổ không ai bảo vệ và đường chuyền dễ dàng."
+      },
+      {
+        "title": "Nhận bóng sẵn sàng quyết định",
+        "detail": "Tay lên, mắt lên, chân sẵn sàng. Pha nhận bóng không phải kết thúc pha bóng — nó là khởi đầu của quyết định tiếp theo."
+      }
+    ],
+    "coachingPoints": [
+      "Dạy thời điểm roll: roll trễ nửa giây sau khi người cầm bóng thoát, không cùng lúc.",
+      "Tay phải giơ lên xin bóng — người roll thụ động không được chuyền.",
+      "Luyện nhận bóng khi đang di chuyển: các pha roll được nhận khi đang chạy nước rút, không phải đứng yên.",
+      "Big phải tập chuyền short-roll — roll man hiện đại là trung tâm, không chỉ là người dứt điểm."
+    ],
+    "commonMistakes": [
+      "Roll nhẹ hoặc chạy bộ — roll chậm để hàng thủ kịp hồi phục và tag dễ dàng.",
+      "Roll thẳng vào hậu vệ đã lùi thay vì pop hoặc short roll.",
+      "Nhìn người cầm bóng thay vì đọc hậu vệ của mình.",
+      "Nhận bóng với tay hạ thấp, dẫn đến tuột bóng dù đường chuyền hoàn hảo."
+    ],
+    "gameSituations": [
+      "Khi người cầm bóng hút hai hậu vệ — pha roll là van xả.",
+      "Trước drop coverage, nơi pha roll vào rổ mở ra nếu căn thời gian tốt.",
+      "Với big chuyền giỏi, short roll trở thành trung tâm kiến tạo thứ hai."
+    ],
+    "tags": [
+      "pick and roll",
+      "roll man",
+      "người chắn",
+      "đọc tình huống"
+    ]
+  }
 }

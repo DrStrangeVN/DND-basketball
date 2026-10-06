@@ -134,5 +134,66 @@
     "reject-screen",
     "snake-dribble"
   ],
-  "dateUpdated": "2026-10-06"
+  "dateUpdated": "2026-10-06",
+  "vi": {
+    "coachingPoints": [
+      "Dạy từng coverage và cách đáp trả một lần — thành thạo cách đọc drop coverage trước khi thêm hedge và switch",
+      "Dùng video: dừng ngay khoảnh khắc màn chắn được dựng và hỏi hậu vệ dẫn bóng họ thấy gì trước khi cho xem kết quả",
+      "Các bài tập phải có hậu vệ hỗ trợ thật; đọc tình huống 2 đấu 0 không chuyển được vào trận đấu",
+      "Khen ngợi cách đọc đúng ngay cả khi ném hỏng — coi trọng quá trình hơn kết quả sẽ tạo ra những người ra quyết định tự tin"
+    ],
+    "commonMistakes": [
+      "Quyết định trước khi màn chắn tới — cách đọc định sẵn sẽ bị bất kỳ hàng thủ khá nào trừng phạt",
+      "Dẫn bóng cúi đầu, bỏ lỡ hoàn toàn người lăn vào rổ",
+      "Ném pull-up khi gặp drop trong lúc người lăn đang trống, hoặc cố chuyền vào bẫy",
+      "Nhấc bóng lên quá sớm và bị kẹt lại không còn lựa chọn"
+    ],
+    "description": "Người cầm bóng cần nhìn thấy gì và quyết định gì sau màn chắn: ném, đột phá, chuyền hay reject.",
+    "gameSituations": [
+      "Mọi pha pick-and-roll — đọc tình huống là công việc toàn thời gian của người cầm bóng",
+      "Khi đối đầu hàng thủ switch, nơi đọc nhanh mismatch là tất cả",
+      "Cuối trận, khi hàng thủ lộ coverage sớm và thách bạn đánh bại nó"
+    ],
+    "howTo": [
+      {
+        "detail": "Hậu vệ kèm bạn đã làm gì — vượt qua màn chắn để đuổi theo bạn, chui dưới để nhường khoảng trống, hay bị kẹt lại? Vượt qua nghĩa là đột phá hoặc pull-up; chui dưới nghĩa là ném cú jumper trống trải.",
+        "title": "Đọc hậu vệ của mình trước"
+      },
+      {
+        "detail": "Hậu vệ của người chắn đã làm gì — drop (lùi về bảo vệ rổ), hedge (nhảy ra), blitz (kẹp bóng) hay switch? Drop nghĩa là ném pull-up; hedge hoặc blitz nghĩa là chuyền cho người lăn vào; switch nghĩa là tấn công mismatch.",
+        "title": "Đọc hậu vệ của người chắn"
+      },
+      {
+        "detail": "Hậu vệ hỗ trợ — thường là người ở vị trí thấp — sẽ quyết định đường chuyền. Nếu anh ta ở yên, hãy chuyền cho người lăn; nếu anh ta kèm người lăn, hãy chuyền ra góc sân.",
+        "title": "Tìm hậu vệ thứ ba"
+      },
+      {
+        "detail": "Đừng bao giờ ép phương án mình thích. Coverage sẽ chỉ ra đáp án: vượt qua thì đột phá, chui dưới thì ném, drop thì pull-up, switch thì đánh isolate, bị kẹp thì chuyền ra.",
+        "title": "Lấy những gì hàng thủ cho"
+      },
+      {
+        "detail": "Đừng nhấc bóng lên cho đến khi đã đọc xong tình huống. Dẫn bóng sống giữ mọi lựa chọn mở; dẫn bóng chết giết chết đợt tấn công.",
+        "title": "Giữ bóng sống"
+      },
+      {
+        "detail": "Nếu hậu vệ của bạn cố vượt màn chắn sớm hoặc hậu vệ của người chắn lộ ra quá sớm, hãy reject màn chắn và đột phá hướng ngược lại — hàng thủ vừa tặng bạn một đường trống.",
+        "title": "Reject khi họ gian lận"
+      }
+    ],
+    "tags": [
+      "pick and roll",
+      "đọc tình huống",
+      "người cầm bóng",
+      "ra quyết định"
+    ],
+    "title": "Cách Đọc Tình Huống Của Người Cầm Bóng",
+    "whatIsIt": [
+      "Sau khi màn chắn được dựng, người cầm bóng đối mặt với một chuỗi quyết định rất nhanh. Hai hậu vệ liên quan sẽ chọn một coverage — vượt qua, chui dưới, switch, hedge, blitz hay drop — và mỗi lựa chọn mở ra một đáp án khác nhau.",
+      "Đọc pick-and-roll nghĩa là xử lý ba điều trong khoảng một giây: hậu vệ của mình ở đâu, hậu vệ của người chắn ở đâu, và sự hỗ trợ ở đâu. Những người cầm bóng đẳng cấp nhìn thấy cả ba điều đó trước khi màn chắn kịp tới.",
+      "Đây là kỹ năng có thể rèn luyện. Các cách đọc đều theo mẫu — cùng một coverage luôn tạo ra cùng những khoảng trống — vì vậy xem video và tập luyện thực tế sẽ biến sự đoán mò chậm chạp thành nhận diện tức thì."
+    ],
+    "whyItMatters": [
+      "Người cầm bóng chạm bóng trong mọi pha pick-and-roll, vì vậy cách đọc của họ quyết định kết quả của bài đánh được chạy nhiều nhất trong bóng rổ. Một hậu vệ đọc đúng biến mọi màn chắn thành điểm số; một người chỉ đoán mò biến nó thành mất bóng. Đây là kỹ năng cốt lõi phân biệt hậu vệ giỏi với hậu vệ vĩ đại."
+    ]
+  }
 }

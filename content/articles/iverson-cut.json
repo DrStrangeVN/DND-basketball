@@ -132,5 +132,61 @@
     "screening-basketball",
     "dho-action"
   ],
-  "dateUpdated": "2026-10-06"
+  "dateUpdated": "2026-10-06",
+  "vi": {
+    "title": "Cắt Iverson (Iverson Cut)",
+    "description": "Xạ thủ chạy nước rút ngang qua đỉnh sân, dùng các pha chắn ở cả hai elbow — đặt tên theo Allen Iverson.",
+    "whatIsIt": [
+      "Cắt Iverson là động tác không bóng, trong đó cầu thủ bắt đầu ở một cánh, chạy nước rút ngang qua đỉnh vòng cấm, và dùng các pha chắn đặt ở cả hai elbow — nhận bóng ở cánh đối diện. Nó được đặt theo tên Allen Iverson, người đã chạy nó không biết mệt ở Philadelphia.",
+      "Pha cắt làm hai việc cùng lúc: giải phóng người cắt để nhận bóng ném, và đảo bóng sang phía yếu, dịch chuyển toàn bộ hàng thủ. Ngay cả khi người cắt không nhận được bóng, động tác vẫn tạo ra lợi thế tiếp theo.",
+      "Đây là bài triển khai chủ lực của các đội bóng hiện đại — đơn giản, nhanh, và hữu ích như động tác đầu tiên chảy vào pick-and-roll hoặc DHO khi nhận bóng."
+    ],
+    "whyItMatters": [
+      "Cắt Iverson vừa đảo bóng vừa di chuyển xạ thủ — hai điều quý giá trong một động tác. Nó cũng là pha chuẩn bị hoàn hảo: người cắt thường nhận bóng rồi ngay lập tức chảy vào chắn bóng hoặc handoff với đà đang chạy."
+    ],
+    "howTo": [
+      {
+        "title": "Bắt đầu ở cánh, canh thời điểm cắt",
+        "detail": "Bắt đầu ở một cánh khi bóng ở phía đối diện. Chạy nước rút — không chạy bộ — ngang qua đỉnh khi bóng xoay biên."
+      },
+      {
+        "title": "Dùng cả hai pha chắn elbow",
+        "detail": "Các big ở elbow chắn hậu vệ của người cắt. Đi sát vai; pha chắn thứ hai thường là pha thật sự giải phóng bạn."
+      },
+      {
+        "title": "Nhận bóng khi đang chạy",
+        "detail": "Nhận bóng ở cánh đối diện với đà đang chạy. Giờ bạn ở tư thế triple threat khi hàng thủ đã dịch chuyển."
+      },
+      {
+        "title": "Chảy vào động tác tiếp theo",
+        "detail": "Đừng giữ bóng — pha nhận bóng chảy vào DHO, chắn bóng, hay tấn công. Cắt Iverson là pha chuẩn bị, không phải điểm đến."
+      },
+      {
+        "title": "Đọc hậu vệ",
+        "detail": "Nếu họ đuổi theo, cắt cong (curl). Nếu họ chui dưới các pha chắn, bật ra ném. Nếu họ switch, bạn có thể có mismatch để tấn công."
+      }
+    ],
+    "coachingPoints": [
+      "Tốc độ tối đa là bắt buộc — cắt Iverson mà chạy bộ chỉ là đi dạo ngang sân.",
+      "Các big chắn ở elbow phải đứng vững và hợp lệ trước khi người cắt tới.",
+      "Dạy nhận-bóng-rồi-đi: giá trị nằm ở những gì xảy ra sau pha nhận bóng.",
+      "Dùng nó như bài triển khai, rồi để cầu thủ tự chọn động tác tiếp theo — nó dạy dòng chảy tấn công."
+    ],
+    "commonMistakes": [
+      "Cắt ở nửa tốc độ, để hậu vệ thong thả đi qua cả hai pha chắn.",
+      "Nhận bóng rồi giữ, giết chết lợi thế pha cắt tạo ra.",
+      "Người chắn tới muộn, khiến người cắt chạy qua khoảng trống không."
+    ],
+    "gameSituations": [
+      "Bài triển khai nửa sân để đảo bóng và cho xạ thủ di chuyển.",
+      "Trước chắn bóng hoặc DHO — pha nhận bóng đi kèm đà chạy.",
+      "Gặp hàng thủ dồn quá nhiều về phía bóng; pha cắt tấn công vào sự dịch chuyển."
+    ],
+    "tags": [
+      "iverson cut",
+      "chắn bóng",
+      "động tác của xạ thủ",
+      "không bóng"
+    ]
+  }
 }

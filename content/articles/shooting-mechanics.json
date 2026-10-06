@@ -1,1 +1,168 @@
-{"ages":["U10","U12","U14","U16","U18","Adult"],"coachingPoints":["Balance is the whole shot — if your base wobbles, everything above it wobbles too.","The shooting hand does ALL the work; the guide hand is a passenger, nothing more.","Elbow under the ball, wrist cocked back — set this position every single rep.","Finish every shot with your hand in the rim, even makes. Follow-through discipline fixes form over time.","Track your elbow angle and guide-hand discipline on video once a month; small drifts creep in silently."],"commonMistakes":["Guide hand pushing the ball (thumb flick) — fix: shoot one-handed from close range to isolate the shooting arm.","Elbow flaring sideways — fix: imagine your elbow sliding inside a narrow tube straight to the basket.","Fading or leaning back on the release — fix: land in the same spot you jumped from; tape an X on the floor.","Starting the ball too low (chest-level catapult) — fix: bring the ball up to your forehead/shooting pocket before release.","Snatching the hand back after the release — fix: hold the follow-through for a full one-count every rep."],"dateUpdated":"2026-10-06","description":"The complete shooting form system: stance, grip, guide hand, elbow alignment, release, and follow-through.","diagram":{"ball":"O1","defense":[],"moves":[{"from":"O1","kind":"shot","to":"O1"}],"offense":[{"label":"O1","x":50,"y":19}],"passes":[],"screens":[],"shots":[],"title":"Shooter set at the free-throw line — balanced stance, elbow under the ball"},"gameSituations":["Every shot you ever take — mechanics are not a drill, they are the default body position for all shooting.","Form shooting warm-ups — 5 minutes of close-range, perfect-form reps before every session locks in the pattern.","Shooting slumps — returning to fundamentals from 3–5 feet out rebuilds confidence and corrects drift."],"howTo":[{"detail":"Feet about shoulder-width apart, shooting-side foot slightly forward. Bend your knees, keep your weight balanced over the balls of your feet, shoulders square to the target.","title":"Set a balanced stance"},{"detail":"Place your shooting hand under the ball with fingers spread wide and the ball resting on your finger pads, not your palm. Your fingertips should grip with light, even pressure.","title":"Grip with your shooting hand"},{"detail":"Place your opposite hand on the side of the ball with fingers pointing up. Its only job is balance — it should add zero push to the shot.","title":"Set a passive guide hand"},{"detail":"Bring the ball up to your forehead area (your shooting pocket) with the shooting elbow tucked in, forming a straight line from elbow to wrist toward the basket.","title":"Align the elbow and lift"},{"detail":"Extend your legs upward while your shooting arm extends in one smooth motion. The ball rolls off your index and middle fingers last — flick your wrist so your hand finishes high, as if reaching into the basket.","title":"Release with legs and wrist"},{"detail":"Hold the finish: shooting arm fully extended, wrist snapped down, fingers pointing at the rim. Watch the ball drop through before lowering your hand.","title":"Hold the follow-through"}],"hub":"skills","id":"shooting-mechanics","level":"beginner","positions":["ALL"],"readTime":6,"related":["shot-preparation","catch-and-shoot","free-throw","pull-up-jumper"],"slug":"shooting-mechanics","subcategory":"shooting","tags":["shooting","form","fundamentals"],"title":"Shooting Mechanics","whatIsIt":["Shooting mechanics is the full body system behind a jump shot: how your feet, legs, hands, and arms work together to launch the ball on a straight, repeatable path. A good shot is not talent — it is a sequence of positions done the same way every time.","Think of it as an assembly line with six stations: stance, grip, guide hand, elbow alignment, release, and follow-through. Get all six right and your shot becomes consistent; get any one wrong and the same error shows up in your misses, every time."],"whyItMatters":["Every shooter you admire — from youth standouts to professionals — shoots with the same core mechanics. Consistency comes from repeatability, and repeatability comes from a form you can reproduce under pressure, when tired, and with a defender closing out. Fixing mechanics early saves years of frustration: it is far easier to build a correct shot now than to rebuild a broken one later."]}
+{
+  "ages": [
+    "U10",
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "coachingPoints": [
+    "Balance is the whole shot — if your base wobbles, everything above it wobbles too.",
+    "The shooting hand does ALL the work; the guide hand is a passenger, nothing more.",
+    "Elbow under the ball, wrist cocked back — set this position every single rep.",
+    "Finish every shot with your hand in the rim, even makes. Follow-through discipline fixes form over time.",
+    "Track your elbow angle and guide-hand discipline on video once a month; small drifts creep in silently."
+  ],
+  "commonMistakes": [
+    "Guide hand pushing the ball (thumb flick) — fix: shoot one-handed from close range to isolate the shooting arm.",
+    "Elbow flaring sideways — fix: imagine your elbow sliding inside a narrow tube straight to the basket.",
+    "Fading or leaning back on the release — fix: land in the same spot you jumped from; tape an X on the floor.",
+    "Starting the ball too low (chest-level catapult) — fix: bring the ball up to your forehead/shooting pocket before release.",
+    "Snatching the hand back after the release — fix: hold the follow-through for a full one-count every rep."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "The complete shooting form system: stance, grip, guide hand, elbow alignment, release, and follow-through.",
+  "diagram": {
+    "ball": "O1",
+    "defense": [],
+    "moves": [
+      {
+        "from": "O1",
+        "kind": "shot",
+        "to": "O1"
+      }
+    ],
+    "offense": [
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 19
+      }
+    ],
+    "passes": [],
+    "screens": [],
+    "shots": [],
+    "title": "Shooter set at the free-throw line — balanced stance, elbow under the ball"
+  },
+  "gameSituations": [
+    "Every shot you ever take — mechanics are not a drill, they are the default body position for all shooting.",
+    "Form shooting warm-ups — 5 minutes of close-range, perfect-form reps before every session locks in the pattern.",
+    "Shooting slumps — returning to fundamentals from 3–5 feet out rebuilds confidence and corrects drift."
+  ],
+  "howTo": [
+    {
+      "detail": "Feet about shoulder-width apart, shooting-side foot slightly forward. Bend your knees, keep your weight balanced over the balls of your feet, shoulders square to the target.",
+      "title": "Set a balanced stance"
+    },
+    {
+      "detail": "Place your shooting hand under the ball with fingers spread wide and the ball resting on your finger pads, not your palm. Your fingertips should grip with light, even pressure.",
+      "title": "Grip with your shooting hand"
+    },
+    {
+      "detail": "Place your opposite hand on the side of the ball with fingers pointing up. Its only job is balance — it should add zero push to the shot.",
+      "title": "Set a passive guide hand"
+    },
+    {
+      "detail": "Bring the ball up to your forehead area (your shooting pocket) with the shooting elbow tucked in, forming a straight line from elbow to wrist toward the basket.",
+      "title": "Align the elbow and lift"
+    },
+    {
+      "detail": "Extend your legs upward while your shooting arm extends in one smooth motion. The ball rolls off your index and middle fingers last — flick your wrist so your hand finishes high, as if reaching into the basket.",
+      "title": "Release with legs and wrist"
+    },
+    {
+      "detail": "Hold the finish: shooting arm fully extended, wrist snapped down, fingers pointing at the rim. Watch the ball drop through before lowering your hand.",
+      "title": "Hold the follow-through"
+    }
+  ],
+  "hub": "skills",
+  "id": "shooting-mechanics",
+  "level": "beginner",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 6,
+  "related": [
+    "shot-preparation",
+    "catch-and-shoot",
+    "free-throw",
+    "pull-up-jumper"
+  ],
+  "slug": "shooting-mechanics",
+  "subcategory": "shooting",
+  "tags": [
+    "shooting",
+    "form",
+    "fundamentals"
+  ],
+  "title": "Shooting Mechanics",
+  "whatIsIt": [
+    "Shooting mechanics is the full body system behind a jump shot: how your feet, legs, hands, and arms work together to launch the ball on a straight, repeatable path. A good shot is not talent — it is a sequence of positions done the same way every time.",
+    "Think of it as an assembly line with six stations: stance, grip, guide hand, elbow alignment, release, and follow-through. Get all six right and your shot becomes consistent; get any one wrong and the same error shows up in your misses, every time."
+  ],
+  "whyItMatters": [
+    "Every shooter you admire — from youth standouts to professionals — shoots with the same core mechanics. Consistency comes from repeatability, and repeatability comes from a form you can reproduce under pressure, when tired, and with a defender closing out. Fixing mechanics early saves years of frustration: it is far easier to build a correct shot now than to rebuild a broken one later."
+  ],
+  "vi": {
+    "coachingPoints": [
+      "Thăng bằng là cả cú ném — nếu phần chân loạng choạng, mọi thứ phía trên cũng loạng choạng theo.",
+      "Tay ném làm TẤT CẢ mọi việc; tay định hướng chỉ là hành khách, không hơn.",
+      "Khuỷu tay dưới bóng, cổ tay gập về sau — đặt đúng tư thế này trong mọi lần tập.",
+      "Kết thúc mọi cú ném với bàn tay như đang ở trong rổ, kể cả những cú đã vào. Kỷ luật động tác kết thúc sẽ sửa form ném theo thời gian.",
+      "Theo dõi góc khuỷu tay và kỷ luật tay định hướng qua video mỗi tháng một lần; những lệch lạc nhỏ len lỏi vào một cách âm thầm."
+    ],
+    "commonMistakes": [
+      "Tay định hướng đẩy bóng (búng ngón cái) — cách sửa: ném một tay từ cự ly gần để tách riêng tay ném.",
+      "Khuỷu tay chĩa sang bên — cách sửa: tưởng tượng khuỷu tay trượt trong một ống hẹp thẳng về phía rổ.",
+      "Ngả người ra sau khi thả bóng — cách sửa: tiếp đất đúng chỗ bạn đã bật nhảy; dán chữ X trên sàn để đánh dấu.",
+      "Bắt đầu đưa bóng từ quá thấp (ném như máy bắn đá từ ngang ngực) — cách sửa: đưa bóng lên ngang trán/vị trí ném trước khi thả.",
+      "Giật tay lại ngay sau khi thả bóng — cách sửa: giữ động tác kết thúc đủ một nhịp trong mọi lần tập."
+    ],
+    "description": "Hệ thống kỹ thuật ném hoàn chỉnh: tư thế đứng, cách cầm bóng, tay định hướng, căn chỉnh khuỷu tay, thả bóng và động tác kết thúc.",
+    "gameSituations": [
+      "Mọi cú ném bạn từng thực hiện — kỹ thuật không phải một bài tập, đó là tư thế cơ thể mặc định cho mọi cú ném.",
+      "Khởi động kỹ thuật ném — 5 phút tập form chuẩn từ cự ly gần trước mỗi buổi tập giúp khắc sâu mẫu hình.",
+      "Khi ném mất cảm giác — quay về tập cơ bản từ khoảng cách 3–5 feet (1–1,5m) giúp lấy lại sự tự tin và sửa những lệch lạc."
+    ],
+    "howTo": [
+      {
+        "detail": "Hai chân rộng bằng vai, chân bên tay ném hơi đưa lên trước. Cong gối, giữ trọng tâm cân bằng trên mũi bàn chân, vai hướng vuông góc với mục tiêu.",
+        "title": "Dựng tư thế thăng bằng"
+      },
+      {
+        "detail": "Đặt tay ném dưới quả bóng với các ngón tay xòe rộng, bóng nằm trên đệm đầu ngón tay chứ không phải lòng bàn tay. Đầu ngón tay giữ bóng với lực nhẹ và đều.",
+        "title": "Cầm bóng bằng tay ném"
+      },
+      {
+        "detail": "Đặt tay còn lại ở bên hông quả bóng với các ngón tay hướng lên. Nhiệm vụ duy nhất của nó là giữ thăng bằng — nó không được đẩy bóng chút nào.",
+        "title": "Đặt tay định hướng thụ động"
+      },
+      {
+        "detail": "Đưa bóng lên ngang trán (vị trí ném của bạn) với khuỷu tay ném khép vào trong, tạo thành một đường thẳng từ khuỷu tay đến cổ tay hướng về rổ.",
+        "title": "Căn khuỷu tay và nâng bóng"
+      },
+      {
+        "detail": "Duỗi chân lên cao đồng thời tay ném duỗi ra trong một chuyển động mượt mà. Bóng rời khỏi ngón trỏ và ngón giữa sau cùng — búng cổ tay để tay kết thúc ở vị trí cao, như thể đang với vào trong rổ.",
+        "title": "Thả bóng bằng chân và cổ tay"
+      },
+      {
+        "detail": "Giữ nguyên tư thế kết thúc: tay ném duỗi thẳng hoàn toàn, cổ tay gập xuống, các ngón tay chỉ vào vành rổ. Nhìn bóng rơi qua lưới rồi mới hạ tay xuống.",
+        "title": "Giữ động tác kết thúc"
+      }
+    ],
+    "tags": [
+      "ném rổ",
+      "kỹ thuật",
+      "cơ bản"
+    ],
+    "title": "Kỹ thuật ném rổ",
+    "whatIsIt": [
+      "Kỹ thuật ném rổ là cả một hệ thống cơ thể đằng sau cú ném nhảy: cách bàn chân, chân, tay và cánh tay phối hợp để đưa bóng đi theo một quỹ đạo thẳng và có thể lặp lại. Một cú ném tốt không phải tài năng — đó là một chuỗi các tư thế được thực hiện giống nhau mọi lần.",
+      "Hãy hình dung nó như một dây chuyền với sáu trạm: tư thế đứng, cách cầm bóng, tay định hướng, căn chỉnh khuỷu tay, thả bóng và động tác kết thúc. Làm đúng cả sáu, cú ném của bạn sẽ ổn định; sai một trạm, lỗi đó sẽ xuất hiện trong mọi cú ném hỏng của bạn."
+    ],
+    "whyItMatters": [
+      "Mọi tay ném mà bạn ngưỡng mộ — từ những tài năng trẻ đến cầu thủ chuyên nghiệp — đều ném với cùng một kỹ thuật cốt lõi. Sự ổn định đến từ khả năng lặp lại, và khả năng lặp lại đến từ một form ném mà bạn có thể tái hiện khi bị áp lực, khi mệt, và khi hậu vệ lao ra. Sửa kỹ thuật sớm tiết kiệm cho bạn nhiều năm bực bội: xây một cú ném đúng ngay từ đầu dễ hơn nhiều so với sửa một cú ném đã hỏng."
+    ]
+  }
+}

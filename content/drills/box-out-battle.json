@@ -38,5 +38,54 @@
   "regression": "Start from a stationary box-out hold (no live rebound), slow the pace, or remove the offensive player and practice seal-and-pursue footwork solo.",
   "gameApplication": "Rebounding is effort plus technique — teams that box out consistently end possessions and create the transition chances that win games.",
   "related": ["shell-drill","mikan-drill","transition-two-on-one"],
-  "dateUpdated": "2026-10-06"
+  "dateUpdated": "2026-10-06",
+  "vi":   {
+    "title": "Trận Chiến Box Out",
+    "description": "Bài tập rebound 2 người đầy cạnh tranh: tìm người cần kèm, tạo va chạm, chặn (seal) và giành bóng bật bảng trước đối thủ thật.",
+    "goal": "Rèn thói quen tìm người, tạo va chạm và chặn đối thủ trước khi lao vào tranh bóng.",
+    "setup": [
+      "Chia cặp: một người là rebounder tấn công, một người là hậu vệ. Bắt đầu ở khu vực elbow hoặc low block.",
+      "Một HLV hoặc người thứ ba ném từ ngoài vòng để bắt đầu mỗi lượt.",
+      "Ai giành được 5 rebound trước thắng vòng; sau đó đổi vai tấn công/phòng thủ."
+    ],
+    "instructions": [
+      {
+        "title": "Tìm người ngay khi bóng rời tay",
+        "detail": "Ngay khi cú ném rời tay, hậu vệ quay lại, tìm cầu thủ tấn công và tạo va chạm bằng cẳng tay."
+      },
+      {
+        "title": "Chặn và đẩy lùi",
+        "detail": "Hậu vệ xoay người chắn đối thủ, giữ thế chân rộng và đẩy họ ra xa rổ."
+      },
+      {
+        "title": "Lao vào tranh bóng",
+        "detail": "Sau va chạm, cả hai cùng tranh bóng — hậu vệ giữ thế chặn cho đến khi bóng được kiểm soát."
+      },
+      {
+        "title": "Kết thúc lượt tập",
+        "detail": "Ai bắt được rebound phải kẹp bóng sát cằm và chuyền outlet mạnh trước khi lượt tiếp theo bắt đầu."
+      },
+      {
+        "title": "Đổi vị trí",
+        "detail": "Di chuyển vị trí xuất phát quanh khu vực paint — elbow, block, short corner — mỗi vị trí 5 lượt, rồi đổi vai."
+      }
+    ],
+    "coachingPoints": [
+      "Va chạm trước, bóng sau — ai chỉ chăm chăm nhìn bóng mà không va chạm sẽ thua rebound.",
+      "Chân rộng, hông thấp khi chặn; thế đứng hẹp sẽ bị đẩy lùi vào trong rổ.",
+      "Kẹp bóng rebound sát cằm bằng hai tay, khuỷu tay mở ra — rồi chuyền outlet, đừng rê bóng vào chỗ nguy hiểm.",
+      "Cầu thủ tấn công nên luyện đòn phản công: swim move, xoay người, hoặc bật nhảy nhanh vòng qua thế chặn."
+    ],
+    "commonMistakes": [
+      "Mải nhìn cú ném thay vì tìm người — đến khi quay lại thì đối thủ đã vượt qua bạn.",
+      "Box out bằng tay thay vì bằng người — va chạm đến từ hông và chân, không phải cú đẩy tay."
+    ],
+    "progression": "Chơi 2 đấu 2 hoặc 3 đấu 3 với cú ném từ bất kỳ đâu, yêu cầu đội tấn công phải chạm nhẹ bóng trước khi giành, hoặc chơi đến 7 điểm với hình phạt thể lực cho đội thua.",
+    "regression": "Bắt đầu từ thế box out giữ nguyên vị trí (không tranh bóng thật), tập chậm lại, hoặc bỏ cầu thủ tấn công và luyện footwork chặn-đi một mình.",
+    "gameApplication": "Rebound là nỗ lực cộng kỹ thuật — đội nào box out đều đặn sẽ kết thúc đợt tấn công của đối thủ và tạo ra những pha phản công quyết định trận đấu.",
+    "players": "2+",
+    "equipment": [
+      "Bóng rổ"
+    ]
+  }
 }

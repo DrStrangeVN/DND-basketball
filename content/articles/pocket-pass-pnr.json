@@ -123,5 +123,61 @@
     "roll-man-reads",
     "short-roll"
   ],
-  "dateUpdated": "2026-10-06"
+  "dateUpdated": "2026-10-06",
+  "vi": {
+    "title": "Đường Chuyền Pocket Pass",
+    "description": "Đường chuyền nảy xuyên qua hàng thủ, đưa bóng đến tay big man đang roll đúng nhịp.",
+    "whatIsIt": [
+      "Pocket pass là đường chuyền nảy một tay vào khoảng trống — cái \"túi\" (pocket) — giữa hậu vệ kèm bóng đang đuổi theo và hậu vệ của người screen đang kẹt ở giữa. Bóng đến tay big man đang roll đúng nhịp để layup hoặc dunk.",
+      "Đây là đường chuyền đặc trưng của pick and roll. Khi hàng thủ hedge hoặc khi hậu vệ của big man kẹt giữa việc help và recover, cái pocket mở ra trong tích tắc. Đường chuyền phải đúng thời điểm, đúng đích, và phải là bóng nảy.",
+      "Chuyền tốt cần cảm giác bóng và timing hơn là sức tay. Những pocket pass hay nhất trông thật nhẹ nhàng vì người chuyền đã đọc tình huống từ sớm."
+    ],
+    "whyItMatters": [
+      "Hàng thủ được dựng lên để lấy đi những thứ hiển nhiên — pha đột phá và đường kick-out. Pocket pass trừng phạt khoảnh khắc lưỡng lự: khi cả hai hậu vệ đều chần chừ. Hậu vệ nào chuyền được pocket pass buộc hàng thủ phải chọn \"thuốc độc\" nào, và điều đó mở ra mọi thứ khác."
+    ],
+    "howTo": [
+      {
+        "title": "Đọc hậu vệ ở giữa",
+        "detail": "Pocket tồn tại khi hậu vệ của người screen bị kẹt nửa chừng — không hẳn lao ra bóng, cũng không hẳn lùi về roller. Đó là cửa sổ của bạn."
+      },
+      {
+        "title": "Chuyền ngay khi đang dẫn bóng",
+        "detail": "Chuyền đẩy một tay ngay khi bóng còn sống (live dribble), thường bằng tay ngoài. Nhặt bóng lên trước sẽ khiến đường chuyền chậm và bị lộ."
+      },
+      {
+        "title": "Nảy bóng xuyên qua khe",
+        "detail": "Nhắm điểm nảy ở khoảng hai phần ba quãng đường đến roller, dẫn họ về phía rổ. Bóng nảy khó bị chặn hơn chuyền ngực trong đám đông."
+      },
+      {
+        "title": "Dẫn bóng cho roller",
+        "detail": "Chuyền đến nơi big man SẼ đến, không phải nơi họ đang đứng. Đường chuyền phải gặp đúng nhịp chạy của họ ở tốc độ tối đa."
+      },
+      {
+        "title": "Chuyền sớm",
+        "detail": "Pocket đóng lại rất nhanh. Nếu đợi đến khi roller đã ở rổ, hàng thủ help đã kịp về. Hãy tin vào pha đọc tình huống và chuyền ngay khi ý tưởng vừa nảy ra."
+      }
+    ],
+    "coachingPoints": [
+      "Tập đường chuyền này 2v2 với HLV đóng vai hậu vệ ở giữa trước khi áp dụng thật.",
+      "Nhấn mạnh điểm nảy — hầu hết pocket pass tệ là do chuyền ngực thẳng vào tay.",
+      "Dạy hậu vệ giữ bóng sống trong lúc đọc tình huống để đường chuyền luôn bất ngờ.",
+      "Roller phải giơ tay làm mục tiêu; không có mục tiêu thì không chuyền."
+    ],
+    "commonMistakes": [
+      "Chuyền ngực xuyên đám đông thay vì bóng nảy — dễ bị chặn.",
+      "Chần chừ quá lâu, cửa sổ đóng lại và đường chuyền thành turnover.",
+      "Dẫn roller đâm vào hậu vệ help thay vì tránh xa họ."
+    ],
+    "gameSituations": [
+      "Khi đối đầu hedge hoặc soft-trap mà hậu vệ của big man kẹt ở vùng không ai quản.",
+      "Khi có big man roll khỏe, dứt điểm lob và layup đúng nhịp.",
+      "Khi hậu vệ kèm bóng đuổi gắt qua screen, mở ra làn đường bên trong."
+    ],
+    "tags": [
+      "pick and roll",
+      "chuyền bóng",
+      "pocket pass",
+      "người dẫn bóng"
+    ]
+  }
 }

@@ -1,1 +1,131 @@
-{"ages":["U12","U14","U16","U18","Adult"],"coachingPoints":["Release at the top of your jump, not on the way up — patience beats rushing.","The hook is a one-hand shot; the off-hand is a shield, not a second shooter.","Aim for the top corner of the board rectangle from the side — the glass is your friend.","Jump straight up, not into the defender — verticality avoids charges.","Shoot it the same way every time; the hook's power is its repeatability."],"commonMistakes":["Throwing it flat sidearm — the hook needs arc to drop softly.","Jumping sideways into the defender — offensive foul; go straight up.","Bringing the ball down to load — keep it high from catch to release.","Aiming directly at the rim from the side — use the board; the angle demands it."],"dateUpdated":"2026-10-06","description":"The unblockable post shot: sweep the ball high over your shoulder with a soft one-hand release.","gameSituations":["One-on-one post-ups where the defender is bodied up — hook over them.","Against shot blockers — release from the shoulder, out of their reach.","After a drop step seals the defender — the hook is the natural finish."],"howTo":[{"detail":"Catch on the block and face the baseline (for a right-hand hook, your left shoulder points at the rim). Chin the ball and establish your base.","title":"Set your base facing the baseline"},{"detail":"Take one dribble toward the middle or baseline to create your shooting space — usually one power dribble is enough.","title":"One dribble to your spot"},{"detail":"Plant both feet and jump straight up. As you rise, sweep the ball up with one hand in a wide arc — elbow bent, ball traveling over your head, not across your body.","title":"Jump and sweep the hook"},{"detail":"At the peak of your jump, release the ball with a soft wrist flick toward the top corner of the backboard. Let it drop off the glass — the board absorbs the angle.","title":"Release off the glass"}],"hub":"skills","id":"jump-hook","level":"intermediate","positions":["PF","C"],"readTime":5,"related":["post-positioning","drop-step","up-and-under","power-finish","contact-finishing"],"slug":"jump-hook","subcategory":"post-play","tags":["post","hook shot","finishing","big man"],"title":"Jump Hook","whatIsIt":["The jump hook is a one-handed post shot released in a sweeping arc over the shooter's shoulder — the classic big-man weapon. Kareem Abdul-Jabbar's skyhook is the most famous shot in basketball history for a reason: it's nearly unblockable.","The mechanics are simple and repeatable: jump straight up, sweep the ball high, release soft. Because the release point is high and away from the defender's body, even elite shot blockers struggle to contest it."],"whyItMatters":["Every post player needs a shot they can get off against anyone. The jump hook is that shot — high release, soft touch, same motion every time. It's also the foundation of post counters: once defenders start jumping at your hook, the up-and-under opens up."]}
+{
+  "ages": [
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "coachingPoints": [
+    "Release at the top of your jump, not on the way up — patience beats rushing.",
+    "The hook is a one-hand shot; the off-hand is a shield, not a second shooter.",
+    "Aim for the top corner of the board rectangle from the side — the glass is your friend.",
+    "Jump straight up, not into the defender — verticality avoids charges.",
+    "Shoot it the same way every time; the hook's power is its repeatability."
+  ],
+  "commonMistakes": [
+    "Throwing it flat sidearm — the hook needs arc to drop softly.",
+    "Jumping sideways into the defender — offensive foul; go straight up.",
+    "Bringing the ball down to load — keep it high from catch to release.",
+    "Aiming directly at the rim from the side — use the board; the angle demands it."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "The unblockable post shot: sweep the ball high over your shoulder with a soft one-hand release.",
+  "gameSituations": [
+    "One-on-one post-ups where the defender is bodied up — hook over them.",
+    "Against shot blockers — release from the shoulder, out of their reach.",
+    "After a drop step seals the defender — the hook is the natural finish."
+  ],
+  "howTo": [
+    {
+      "detail": "Catch on the block and face the baseline (for a right-hand hook, your left shoulder points at the rim). Chin the ball and establish your base.",
+      "title": "Set your base facing the baseline"
+    },
+    {
+      "detail": "Take one dribble toward the middle or baseline to create your shooting space — usually one power dribble is enough.",
+      "title": "One dribble to your spot"
+    },
+    {
+      "detail": "Plant both feet and jump straight up. As you rise, sweep the ball up with one hand in a wide arc — elbow bent, ball traveling over your head, not across your body.",
+      "title": "Jump and sweep the hook"
+    },
+    {
+      "detail": "At the peak of your jump, release the ball with a soft wrist flick toward the top corner of the backboard. Let it drop off the glass — the board absorbs the angle.",
+      "title": "Release off the glass"
+    }
+  ],
+  "hub": "skills",
+  "id": "jump-hook",
+  "level": "intermediate",
+  "positions": [
+    "PF",
+    "C"
+  ],
+  "readTime": 5,
+  "related": [
+    "post-positioning",
+    "drop-step",
+    "up-and-under",
+    "power-finish",
+    "contact-finishing"
+  ],
+  "slug": "jump-hook",
+  "subcategory": "post-play",
+  "tags": [
+    "post",
+    "hook shot",
+    "finishing",
+    "big man"
+  ],
+  "title": "Jump Hook",
+  "whatIsIt": [
+    "The jump hook is a one-handed post shot released in a sweeping arc over the shooter's shoulder — the classic big-man weapon. Kareem Abdul-Jabbar's skyhook is the most famous shot in basketball history for a reason: it's nearly unblockable.",
+    "The mechanics are simple and repeatable: jump straight up, sweep the ball high, release soft. Because the release point is high and away from the defender's body, even elite shot blockers struggle to contest it."
+  ],
+  "whyItMatters": [
+    "Every post player needs a shot they can get off against anyone. The jump hook is that shot — high release, soft touch, same motion every time. It's also the foundation of post counters: once defenders start jumping at your hook, the up-and-under opens up."
+  ],
+  "vi": {
+    "title": "Ném Hook Bật Nhảy (Jump Hook)",
+    "description": "Cú ném post không thể chặn: quét bóng cao qua vai với cú thả bóng mềm bằng một tay.",
+    "whatIsIt": [
+      "Jump hook là cú ném một tay trong khu vực post, bóng bay theo đường vòng cung rộng qua vai người ném — vũ khí kinh điển của các big man. Cú skyhook của Kareem Abdul-Jabbar là cú ném nổi tiếng nhất lịch sử bóng rổ, và có lý do của nó: gần như không thể chặn được.",
+      "Kỹ thuật rất đơn giản và dễ lặp lại: bật nhảy thẳng lên, quét bóng lên cao, thả bóng mềm. Vì điểm thả bóng cao và xa người hậu vệ, ngay cả những tay chặn bóng giỏi nhất cũng khó tranh chấp được."
+    ],
+    "whyItMatters": [
+      "Mọi cầu thủ đánh post đều cần một cú ném mà họ có thể tung ra trước bất kỳ ai. Jump hook chính là cú ném đó — điểm thả bóng cao, chạm bóng mềm, động tác giống nhau mỗi lần. Nó cũng là nền tảng của các đòn đánh lừa trong post: khi hậu vệ bắt đầu nhảy lên đón cú hook của bạn, cú up-and-under sẽ mở ra."
+    ],
+    "howTo": [
+      {
+        "title": "Đặt vị trí, mặt hướng đường biên cuối",
+        "detail": "Nhận bóng ở vị trí block và quay mặt về phía đường biên cuối (với cú hook tay phải, vai trái của bạn hướng về phía rổ). Giữ bóng sát cằm và thiết lập vị trí vững chắc."
+      },
+      {
+        "title": "Một cú dẫn bóng đến điểm ném",
+        "detail": "Dẫn một bóng về phía giữa hoặc phía đường biên cuối để tạo khoảng trống ném — thường chỉ cần một cú dẫn bóng mạnh là đủ."
+      },
+      {
+        "title": "Bật nhảy và quét bóng hook",
+        "detail": "Dậm hai chân và bật thẳng lên. Khi lên, quét bóng lên bằng một tay theo đường vòng cung rộng — khuỷu tay cong, bóng đi qua phía trên đầu, không quét ngang người."
+      },
+      {
+        "title": "Thả bóng qua bảng",
+        "detail": "Ở đỉnh cú nhảy, thả bóng bằng cổ tay mềm về phía góc trên của bảng rổ. Để bóng rơi qua bảng — bảng rổ sẽ hấp thụ góc ném cho bạn."
+      }
+    ],
+    "coachingPoints": [
+      "Thả bóng ở đỉnh cú nhảy, không phải lúc đang lên — kiên nhẫn thắng sự vội vàng.",
+      "Cú hook là cú ném một tay; tay còn lại là tấm khiên, không phải tay ném thứ hai.",
+      "Nhắm vào góc trên của hình chữ nhật trên bảng rổ khi ném từ bên — bảng rổ là bạn của bạn.",
+      "Bật nhảy thẳng lên, không lao vào người hậu vệ — bật nhảy theo chiều dọc giúp tránh lỗi tấn công.",
+      "Ném giống hệt nhau mỗi lần; sức mạnh của cú hook nằm ở khả năng lặp lại."
+    ],
+    "commonMistakes": [
+      "Ném bóng bẹt sang ngang — cú hook cần độ cong để rơi mềm xuống rổ.",
+      "Nhảy xiên vào người hậu vệ — lỗi tấn công; hãy bật thẳng lên.",
+      "Hạ bóng xuống thấp để lấy đà — giữ bóng cao từ lúc nhận đến lúc thả.",
+      "Nhắm thẳng vào rổ khi ném từ bên — hãy dùng bảng; góc ném đòi hỏi điều đó."
+    ],
+    "gameSituations": [
+      "Đánh post một-chọi-một khi hậu vệ áp sát người — ném hook qua đầu họ.",
+      "Trước các tay chặn bóng — thả bóng từ vai, ngoài tầm với của họ.",
+      "Sau cú drop step đã khóa hậu vệ — cú hook là cách kết thúc tự nhiên."
+    ],
+    "tags": [
+      "đánh post",
+      "ném hook",
+      "kết thúc",
+      "trung phong"
+    ]
+  }
+}

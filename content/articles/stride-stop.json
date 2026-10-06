@@ -1,1 +1,132 @@
-{"ages":["U8","U10","U12","U14","U16","U18","Adult"],"coachingPoints":["The back foot is your pivot foot — it must stay planted until you decide your move.","Keep the steps short; long strides carry you into the defender.","Stay low through the stop — standing up kills your balance.","Ball protected on the outside hip as you stride in.","Use the stride stop to create separation, not just to stop — step away from the defender."],"commonMistakes":["Sliding the pivot foot — that's a travel; the back foot is glued down.","Taking three steps instead of two — count it out loud until it's automatic.","Landing upright with straight knees — no balance, no explosion.","Striding directly into the defender's chest instead of stepping past or away."],"dateUpdated":"2026-10-06","description":"The one-two step stop: back foot plants, front foot lands — control, separation, and a ready pivot.","gameSituations":["Pull-up jumpers off the dribble — the stride stop is the classic pull-up footwork.","Driving to a spot against a retreating defender — stop and rise before they recover.","Post catches on the move — land in a stride and face up."],"howTo":[{"detail":"As you approach your spot, pick up the ball with two hands. You have two steps to stop — plan them before you gather.","title":"Gather with two steps in mind"},{"detail":"Plant your first step (usually the back foot) firmly, slightly outside your shoulder line. This foot becomes your pivot foot.","title":"Step one: plant the back foot"},{"detail":"Bring your second foot forward and plant it, arriving in a staggered stance — knees bent, weight balanced between both feet, ball in triple threat.","title":"Step two: stride and land"},{"detail":"From this stance you can shoot, pivot on the back foot, or drive. The staggered base gives you forward explosion that a jump stop doesn't.","title":"Read and explode"}],"hub":"skills","id":"stride-stop","level":"beginner","positions":["ALL"],"readTime":4,"related":["jump-stop","pivot","pro-hop","euro-step","jab-step"],"slug":"stride-stop","subcategory":"footwork","tags":["footwork","stops","pull-up","fundamentals"],"title":"Stride Stop","whatIsIt":["The stride stop is a two-step stop: plant the back foot, then stride the front foot forward, landing in a staggered stance. It's the 'one-two' rhythm behind pull-up jumpers and controlled drives.","Unlike the jump stop, the stride stop keeps your momentum flowing forward. That's why shooters love it — you stop and rise into the shot in one continuous motion instead of landing flat and starting over."],"whyItMatters":["Almost every pull-up jumper in basketball is finished with a stride stop. It lets you stop on balance while keeping your shooting rhythm, and it leaves you with a legal pivot foot. Players who master both stops — jump and stride — can finish any drive situation."]}
+{
+  "ages": [
+    "U8",
+    "U10",
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "coachingPoints": [
+    "The back foot is your pivot foot — it must stay planted until you decide your move.",
+    "Keep the steps short; long strides carry you into the defender.",
+    "Stay low through the stop — standing up kills your balance.",
+    "Ball protected on the outside hip as you stride in.",
+    "Use the stride stop to create separation, not just to stop — step away from the defender."
+  ],
+  "commonMistakes": [
+    "Sliding the pivot foot — that's a travel; the back foot is glued down.",
+    "Taking three steps instead of two — count it out loud until it's automatic.",
+    "Landing upright with straight knees — no balance, no explosion.",
+    "Striding directly into the defender's chest instead of stepping past or away."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "The one-two step stop: back foot plants, front foot lands — control, separation, and a ready pivot.",
+  "gameSituations": [
+    "Pull-up jumpers off the dribble — the stride stop is the classic pull-up footwork.",
+    "Driving to a spot against a retreating defender — stop and rise before they recover.",
+    "Post catches on the move — land in a stride and face up."
+  ],
+  "howTo": [
+    {
+      "detail": "As you approach your spot, pick up the ball with two hands. You have two steps to stop — plan them before you gather.",
+      "title": "Gather with two steps in mind"
+    },
+    {
+      "detail": "Plant your first step (usually the back foot) firmly, slightly outside your shoulder line. This foot becomes your pivot foot.",
+      "title": "Step one: plant the back foot"
+    },
+    {
+      "detail": "Bring your second foot forward and plant it, arriving in a staggered stance — knees bent, weight balanced between both feet, ball in triple threat.",
+      "title": "Step two: stride and land"
+    },
+    {
+      "detail": "From this stance you can shoot, pivot on the back foot, or drive. The staggered base gives you forward explosion that a jump stop doesn't.",
+      "title": "Read and explode"
+    }
+  ],
+  "hub": "skills",
+  "id": "stride-stop",
+  "level": "beginner",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 4,
+  "related": [
+    "jump-stop",
+    "pivot",
+    "pro-hop",
+    "euro-step",
+    "jab-step"
+  ],
+  "slug": "stride-stop",
+  "subcategory": "footwork",
+  "tags": [
+    "footwork",
+    "stops",
+    "pull-up",
+    "fundamentals"
+  ],
+  "title": "Stride Stop",
+  "whatIsIt": [
+    "The stride stop is a two-step stop: plant the back foot, then stride the front foot forward, landing in a staggered stance. It's the 'one-two' rhythm behind pull-up jumpers and controlled drives.",
+    "Unlike the jump stop, the stride stop keeps your momentum flowing forward. That's why shooters love it — you stop and rise into the shot in one continuous motion instead of landing flat and starting over."
+  ],
+  "whyItMatters": [
+    "Almost every pull-up jumper in basketball is finished with a stride stop. It lets you stop on balance while keeping your shooting rhythm, and it leaves you with a legal pivot foot. Players who master both stops — jump and stride — can finish any drive situation."
+  ],
+  "vi": {
+    "coachingPoints": [
+      "Chân sau là chân trụ của bạn — nó phải giữ nguyên cho đến khi bạn quyết định động tác.",
+      "Giữ các bước ngắn; sải quá dài sẽ đưa bạn đâm vào hậu vệ.",
+      "Giữ thấp trong suốt pha dừng — đứng thẳng lên sẽ giết chết thăng bằng.",
+      "Bảo vệ bóng ở hông ngoài khi bạn sải bước vào.",
+      "Dùng dừng bước stride để tạo khoảng trống, không chỉ để dừng — bước ra xa hậu vệ."
+    ],
+    "commonMistakes": [
+      "Trượt chân trụ — đó là lỗi chạy bước; chân sau phải dính chặt xuống sàn.",
+      "Đi ba bước thay vì hai — hãy đếm to cho đến khi thành bản năng.",
+      "Tiếp đất thẳng đứng với đầu gối duỗi — không thăng bằng, không bứt tốc.",
+      "Sải thẳng vào ngực hậu vệ thay vì bước qua hoặc bước ra xa."
+    ],
+    "description": "Dừng bước một-hai: chân sau trụ, chân trước đáp đất — kiểm soát, tạo khoảng trống, và sẵn sàng xoay trụ.",
+    "gameSituations": [
+      "Pull-up jumper sau khi dẫn bóng — dừng bước stride là bước chân pull-up kinh điển.",
+      "Đột phá tới một vị trí trước hậu vệ đang lùi — dừng lại và bật lên trước khi họ hồi phục.",
+      "Bắt bóng ở post khi đang di chuyển — tiếp đất ở tư thế stride và xoay mặt lên."
+    ],
+    "howTo": [
+      {
+        "detail": "Khi tiến tới vị trí, hãy thu bóng bằng hai tay. Bạn có hai bước để dừng — hãy tính trước chúng trước khi thu bóng.",
+        "title": "Thu bóng với hai bước trong đầu"
+      },
+      {
+        "detail": "Trụ chắc bước đầu tiên (thường là chân sau), hơi ngoài đường vai. Chân này trở thành chân trụ của bạn.",
+        "title": "Bước một: trụ chân sau"
+      },
+      {
+        "detail": "Đưa chân thứ hai lên trước và trụ xuống, tiếp đất ở tư thế so le — gối cong, trọng tâm cân bằng giữa hai chân, bóng ở tư thế triple threat.",
+        "title": "Bước hai: sải và đáp đất"
+      },
+      {
+        "detail": "Từ tư thế này bạn có thể ném, xoay trụ trên chân sau, hoặc đột phá. Tư thế so le cho bạn sức bứt về trước mà jump stop không có.",
+        "title": "Đọc tình huống và bứt tốc"
+      }
+    ],
+    "tags": [
+      "bước chân",
+      "dừng bước",
+      "pull-up",
+      "cơ bản"
+    ],
+    "title": "Dừng bước Stride",
+    "whatIsIt": [
+      "Dừng bước stride là cách dừng hai bước: trụ chân sau, rồi bước chân trước lên, tiếp đất ở tư thế so le. Đó là nhịp 'một-hai' đằng sau những cú pull-up jumper và các pha đột phá có kiểm soát.",
+      "Khác với jump stop, dừng bước stride giữ đà của bạn tiếp tục lao về trước. Đó là lý do các tay ném thích nó — bạn dừng lại và bật lên ném trong một chuyển động liên tục thay vì tiếp đất phẳng rồi bắt đầu lại."
+    ],
+    "whyItMatters": [
+      "Hầu như mọi cú pull-up jumper trong bóng rổ đều kết thúc bằng dừng bước stride. Nó cho bạn dừng lại thăng bằng trong khi giữ nhịp ném, và để lại cho bạn một chân trụ hợp lệ. Những cầu thủ thành thạo cả hai cách dừng — jump và stride — có thể dứt điểm mọi tình huống đột phá."
+    ]
+  }
+}

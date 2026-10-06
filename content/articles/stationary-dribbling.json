@@ -1,1 +1,143 @@
-{"ages":["U10","U12","U14","U16","U18","Adult"],"coachingPoints":["Fingertips, not palms — a flat palm slaps and the ball bounces wild.","Bend your knees so your body is low and balanced, not stiff and upright.","Eyes up from day one. The habit you build here follows you for years.","Pound the ball with intent; lazy taps teach lazy hands.","Count out loud (1-2-3...) to build rhythm and keep your head free."],"commonMistakes":["Looking at the ball — fix: freeze in place and dribble with eyes locked on a target until it feels normal.","Standing tall with straight knees — fix: bend until your thighs engage; you should feel the burn.","Dribbling too far from the body — fix: keep the bounce within one foot-length of your feet.","Using only the strong hand — fix: every drill done with the right gets repeated with the left."],"dateUpdated":"2026-10-06","description":"Learn to dribble the basketball in place with control, posture, and eyes up — the first skill every player must master.","gameSituations":["Warming up before practice or games — stationary dribbling is the standard first 3 minutes of any ball-handling warm-up.","Protecting the ball while waiting for a play to develop — a low, controlled in-place dribble keeps the ball safe until the action starts.","Recovering balance after a move — players often finish a spin or crossover into a brief stationary dribble to reset their stance."],"howTo":[{"detail":"Feet shoulder-width apart, knees bent, hips back, chest slightly forward. Your dribbling hand should be able to reach the ball without standing upright.","title":"Get low in an athletic stance"},{"detail":"Fingertips and finger pads touch the ball, not the flat palm. A wide, relaxed hand gives you more control and a softer touch.","title":"Spread your fingers on the ball"},{"detail":"Extend your elbow and wrist to push the ball toward the floor at a point just outside your foot. Keep the bounce between knee and hip height for control work.","title":"Push the ball down, don't slap it"},{"detail":"Pick a spot on the wall in front of you and stare at it. Your brain learns to feel the ball — never look down while the ball is bouncing.","title":"Keep your eyes up"},{"detail":"Do 30-second blocks with your right hand, then your left. Most players are 80% worse with their weak hand at first; close that gap here.","title":"Work both hands equally"},{"detail":"Alternate low dribbles (knee height) with high dribbles (waist height) and slow rolls with quick taps. This builds touch at every speed.","title":"Change the height and pace"}],"hub":"skills","id":"stationary-dribbling","level":"beginner","positions":["ALL"],"readTime":4,"related":["pound-dribble","crossover","retreat-dribble"],"slug":"stationary-dribbling","subcategory":"ball-handling","tags":["dribbling","ball handling","fundamentals"],"title":"Stationary Dribbling","whatIsIt":["Stationary dribbling means bouncing the ball while standing in one spot, without moving your feet. It is the simplest form of ball handling: you bounce the ball with one hand, catch it back, and repeat with a steady rhythm.","Every player starts here because stationary dribbling teaches your hands how the ball feels before you add the harder challenge of moving. If you cannot control the ball standing still, you cannot control it at game speed."],"whyItMatters":["A reliable stationary dribble is the foundation of everything — crossovers, drives, pull-up jumpers, even simple advances up the court all depend on your hand controlling the ball without your eyes. Players who skip this stage often end up slapping the ball and staring at the floor in games."]}
+{
+  "ages": [
+    "U10",
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "coachingPoints": [
+    "Fingertips, not palms — a flat palm slaps and the ball bounces wild.",
+    "Bend your knees so your body is low and balanced, not stiff and upright.",
+    "Eyes up from day one. The habit you build here follows you for years.",
+    "Pound the ball with intent; lazy taps teach lazy hands.",
+    "Count out loud (1-2-3...) to build rhythm and keep your head free."
+  ],
+  "commonMistakes": [
+    "Looking at the ball — fix: freeze in place and dribble with eyes locked on a target until it feels normal.",
+    "Standing tall with straight knees — fix: bend until your thighs engage; you should feel the burn.",
+    "Dribbling too far from the body — fix: keep the bounce within one foot-length of your feet.",
+    "Using only the strong hand — fix: every drill done with the right gets repeated with the left."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "Learn to dribble the basketball in place with control, posture, and eyes up — the first skill every player must master.",
+  "gameSituations": [
+    "Warming up before practice or games — stationary dribbling is the standard first 3 minutes of any ball-handling warm-up.",
+    "Protecting the ball while waiting for a play to develop — a low, controlled in-place dribble keeps the ball safe until the action starts.",
+    "Recovering balance after a move — players often finish a spin or crossover into a brief stationary dribble to reset their stance."
+  ],
+  "howTo": [
+    {
+      "detail": "Feet shoulder-width apart, knees bent, hips back, chest slightly forward. Your dribbling hand should be able to reach the ball without standing upright.",
+      "title": "Get low in an athletic stance"
+    },
+    {
+      "detail": "Fingertips and finger pads touch the ball, not the flat palm. A wide, relaxed hand gives you more control and a softer touch.",
+      "title": "Spread your fingers on the ball"
+    },
+    {
+      "detail": "Extend your elbow and wrist to push the ball toward the floor at a point just outside your foot. Keep the bounce between knee and hip height for control work.",
+      "title": "Push the ball down, don't slap it"
+    },
+    {
+      "detail": "Pick a spot on the wall in front of you and stare at it. Your brain learns to feel the ball — never look down while the ball is bouncing.",
+      "title": "Keep your eyes up"
+    },
+    {
+      "detail": "Do 30-second blocks with your right hand, then your left. Most players are 80% worse with their weak hand at first; close that gap here.",
+      "title": "Work both hands equally"
+    },
+    {
+      "detail": "Alternate low dribbles (knee height) with high dribbles (waist height) and slow rolls with quick taps. This builds touch at every speed.",
+      "title": "Change the height and pace"
+    }
+  ],
+  "hub": "skills",
+  "id": "stationary-dribbling",
+  "level": "beginner",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 4,
+  "related": [
+    "pound-dribble",
+    "crossover",
+    "retreat-dribble"
+  ],
+  "slug": "stationary-dribbling",
+  "subcategory": "ball-handling",
+  "tags": [
+    "dribbling",
+    "ball handling",
+    "fundamentals"
+  ],
+  "title": "Stationary Dribbling",
+  "whatIsIt": [
+    "Stationary dribbling means bouncing the ball while standing in one spot, without moving your feet. It is the simplest form of ball handling: you bounce the ball with one hand, catch it back, and repeat with a steady rhythm.",
+    "Every player starts here because stationary dribbling teaches your hands how the ball feels before you add the harder challenge of moving. If you cannot control the ball standing still, you cannot control it at game speed."
+  ],
+  "whyItMatters": [
+    "A reliable stationary dribble is the foundation of everything — crossovers, drives, pull-up jumpers, even simple advances up the court all depend on your hand controlling the ball without your eyes. Players who skip this stage often end up slapping the ball and staring at the floor in games."
+  ],
+  "vi": {
+    "coachingPoints": [
+      "Đầu ngón tay, không phải lòng bàn tay — lòng bàn tay phẳng sẽ đập và bóng nảy loạn.",
+      "Cong gối để cơ thể thấp và thăng bằng, không cứng đờ và thẳng đứng.",
+      "Mắt nhìn lên từ ngày đầu tiên. Thói quen bạn xây dựng ở đây sẽ theo bạn nhiều năm.",
+      "Đập bóng có chủ đích; những cú chạm lười biếng dạy đôi tay lười biếng.",
+      "Đếm to (1-2-3...) để xây dựng nhịp và giữ đầu óc thoải mái."
+    ],
+    "commonMistakes": [
+      "Nhìn vào bóng — cách sửa: đứng yên tại chỗ và dẫn bóng với mắt khóa vào một mục tiêu cho đến khi thấy bình thường.",
+      "Đứng thẳng với đầu gối duỗi — cách sửa: cong gối đến khi đùi hoạt động; bạn sẽ cảm thấy nóng rát.",
+      "Dẫn bóng quá xa cơ thể — cách sửa: giữ điểm nảy trong phạm vi một bàn chân quanh chân bạn.",
+      "Chỉ dùng tay thuận — cách sửa: mọi bài tập làm bằng tay phải đều phải lặp lại bằng tay trái."
+    ],
+    "description": "Học cách dẫn bóng tại chỗ với sự kiểm soát, tư thế đúng và mắt nhìn lên — kỹ năng đầu tiên mọi cầu thủ phải thành thạo.",
+    "gameSituations": [
+      "Khởi động trước buổi tập hoặc trận đấu — dẫn bóng tại chỗ là 3 phút đầu tiêu chuẩn của mọi bài khởi động dẫn bóng.",
+      "Bảo vệ bóng trong lúc chờ miếng đánh triển khai — một pha dẫn bóng tại chỗ thấp và có kiểm soát giữ bóng an toàn cho đến khi pha bóng bắt đầu.",
+      "Lấy lại thăng bằng sau một động tác — cầu thủ thường kết thúc một pha xoay người hoặc crossover bằng vài nhịp dẫn tại chỗ ngắn để đặt lại tư thế."
+    ],
+    "howTo": [
+      {
+        "detail": "Hai chân rộng bằng vai, gối cong, hông đẩy ra sau, ngực hơi hướng về trước. Tay dẫn bóng phải chạm được bóng mà không cần đứng thẳng người.",
+        "title": "Hạ thấp với tư thế thể thao"
+      },
+      {
+        "detail": "Đầu ngón tay và đệm ngón tay chạm bóng, không phải lòng bàn tay phẳng. Một bàn tay xòe rộng, thả lỏng cho bạn nhiều kiểm soát hơn và cảm giác mềm mại hơn.",
+        "title": "Xòe ngón tay trên quả bóng"
+      },
+      {
+        "detail": "Duỗi khuỷu tay và cổ tay để đẩy bóng xuống sàn tại điểm ngay ngoài bàn chân. Giữ độ nảy giữa đầu gối và hông khi tập kiểm soát.",
+        "title": "Đẩy bóng xuống, đừng đập"
+      },
+      {
+        "detail": "Chọn một điểm trên tường trước mặt và nhìn chằm chằm vào nó. Não bạn sẽ học cách cảm nhận quả bóng — đừng bao giờ nhìn xuống khi bóng đang nảy.",
+        "title": "Giữ mắt nhìn lên"
+      },
+      {
+        "detail": "Tập từng đợt 30 giây bằng tay phải, rồi tay trái. Hầu hết cầu thủ ban đầu kém hơn 80% với tay yếu; hãy thu hẹp khoảng cách đó ngay tại đây.",
+        "title": "Tập đều cả hai tay"
+      },
+      {
+        "detail": "Xen kẽ dẫn thấp (ngang đầu gối) với dẫn cao (ngang thắt lưng), và lăn chậm với chạm nhanh. Điều này xây dựng cảm giác bóng ở mọi tốc độ.",
+        "title": "Thay đổi độ cao và nhịp"
+      }
+    ],
+    "tags": [
+      "dẫn bóng",
+      "kỹ thuật dẫn bóng",
+      "cơ bản"
+    ],
+    "title": "Dẫn bóng tại chỗ",
+    "whatIsIt": [
+      "Dẫn bóng tại chỗ nghĩa là nảy bóng trong khi đứng yên một chỗ, không di chuyển chân. Đây là dạng dẫn bóng đơn giản nhất: bạn nảy bóng bằng một tay, đón lại, và lặp lại với nhịp đều.",
+      "Mọi cầu thủ đều bắt đầu từ đây vì dẫn bóng tại chỗ dạy đôi tay bạn cảm nhận quả bóng trước khi thêm thử thách khó hơn là di chuyển. Nếu bạn không kiểm soát được bóng khi đứng yên, bạn không thể kiểm soát nó ở tốc độ thi đấu."
+    ],
+    "whyItMatters": [
+      "Một pha dẫn bóng tại chỗ đáng tin cậy là nền tảng của mọi thứ — crossover, đột phá, pull-up jumper, thậm chí cả việc đưa bóng lên sân đơn giản đều phụ thuộc vào việc tay bạn kiểm soát bóng mà không cần mắt. Những cầu thủ bỏ qua giai đoạn này thường đập bóng và dán mắt xuống sàn trong trận đấu."
+    ]
+  }
+}

@@ -1,1 +1,146 @@
-{"ages":["U10","U12","U14","U16","U18","Adult"],"coachingPoints":["Learn every player's name on day one and use them constantly.","End every practice with something fun they will talk about at home.","Communicate with parents early: your philosophy, playing-time approach, and expectations.","Be the calmest person in the gym — kids mirror your emotions exactly."],"commonMistakes":["Running adult-style practices with long lines and long lectures.","Yelling at kids for mistakes — it shuts down learning instead of fixing it.","Playing only the best players to win youth games.","Teaching advanced tactics before fundamentals are solid."],"dateUpdated":"2026-10-06","description":"Coaching kids the right way — fun-first practices, age-appropriate teaching, and building love for the game that lasts.","gameSituations":["First practice with eight-year-olds who have never touched a basketball.","A child cries after missing a shot: how you respond in that moment matters.","A parent complains about playing time: referring back to your preseason philosophy."],"howTo":[{"detail":"Every practice should include games, competitions, and laughter. If the kids are not smiling, they are not learning — fun is the delivery system for everything else.","title":"Keep it fun"},{"detail":"Use small-sided games like 3v3 and 4v4 instead of lectures. Kids learn basketball by playing basketball, not by listening about basketball.","title":"Teach through play"},{"detail":"Instructions under thirty seconds, drills under ten minutes, frequent water breaks. Short attention spans are normal — plan for them.","title":"Keep it short and simple"},{"detail":"Equal playing time and constant involvement at young ages. No child should sit the whole game — development requires touches.","title":"Everyone plays, everyone touches the ball"},{"detail":"Catch them doing things right and say so loudly. Corrections should be quick, kind, and specific — one fix, then back to encouragement.","title":"Praise effort loudly, correct gently"},{"detail":"Talk openly about effort, respect, teamwork, and handling mistakes. Parents notice and value this more than any win-loss record.","title":"Teach life skills openly"}],"hub":"coaching","id":"youth-coaching","level":"beginner","positions":["ALL"],"readTime":6,"related":["teaching-basketball","practice-planning","team-culture","player-communication"],"slug":"youth-coaching","subcategory":"coaching","tags":["coaching","youth","fundamentals","fun"],"title":"Coaching Youth Basketball","whatIsIt":["Coaching youth basketball means teaching the game to children — typically ages six to fourteen — where the priorities are fundamentally different from competitive basketball. At this level, development and enjoyment matter more than wins; the goal is players who love the game and want to keep playing.","Great youth coaches are teachers first: short instructions, lots of activity, constant encouragement, and practices that feel like play. The measure of success is not the scoreboard — it is how many kids sign up again next season."],"whyItMatters":["Youth coaches shape a child's entire relationship with sports. A positive youth experience builds confidence, teamwork, and a lifelong love of activity; a negative one drives kids away from sports forever. The stakes are higher than any championship — you are building people.","You are also building the future of the game. Nearly every advanced player started with a youth coach who made basketball fun. Get this stage right and everything downstream gets easier."]}
+{
+  "ages": [
+    "U10",
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "coachingPoints": [
+    "Learn every player's name on day one and use them constantly.",
+    "End every practice with something fun they will talk about at home.",
+    "Communicate with parents early: your philosophy, playing-time approach, and expectations.",
+    "Be the calmest person in the gym — kids mirror your emotions exactly."
+  ],
+  "commonMistakes": [
+    "Running adult-style practices with long lines and long lectures.",
+    "Yelling at kids for mistakes — it shuts down learning instead of fixing it.",
+    "Playing only the best players to win youth games.",
+    "Teaching advanced tactics before fundamentals are solid."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "Coaching kids the right way — fun-first practices, age-appropriate teaching, and building love for the game that lasts.",
+  "gameSituations": [
+    "First practice with eight-year-olds who have never touched a basketball.",
+    "A child cries after missing a shot: how you respond in that moment matters.",
+    "A parent complains about playing time: referring back to your preseason philosophy."
+  ],
+  "howTo": [
+    {
+      "detail": "Every practice should include games, competitions, and laughter. If the kids are not smiling, they are not learning — fun is the delivery system for everything else.",
+      "title": "Keep it fun"
+    },
+    {
+      "detail": "Use small-sided games like 3v3 and 4v4 instead of lectures. Kids learn basketball by playing basketball, not by listening about basketball.",
+      "title": "Teach through play"
+    },
+    {
+      "detail": "Instructions under thirty seconds, drills under ten minutes, frequent water breaks. Short attention spans are normal — plan for them.",
+      "title": "Keep it short and simple"
+    },
+    {
+      "detail": "Equal playing time and constant involvement at young ages. No child should sit the whole game — development requires touches.",
+      "title": "Everyone plays, everyone touches the ball"
+    },
+    {
+      "detail": "Catch them doing things right and say so loudly. Corrections should be quick, kind, and specific — one fix, then back to encouragement.",
+      "title": "Praise effort loudly, correct gently"
+    },
+    {
+      "detail": "Talk openly about effort, respect, teamwork, and handling mistakes. Parents notice and value this more than any win-loss record.",
+      "title": "Teach life skills openly"
+    }
+  ],
+  "hub": "coaching",
+  "id": "youth-coaching",
+  "level": "beginner",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 6,
+  "related": [
+    "teaching-basketball",
+    "practice-planning",
+    "team-culture",
+    "player-communication"
+  ],
+  "slug": "youth-coaching",
+  "subcategory": "coaching",
+  "tags": [
+    "coaching",
+    "youth",
+    "fundamentals",
+    "fun"
+  ],
+  "title": "Coaching Youth Basketball",
+  "whatIsIt": [
+    "Coaching youth basketball means teaching the game to children — typically ages six to fourteen — where the priorities are fundamentally different from competitive basketball. At this level, development and enjoyment matter more than wins; the goal is players who love the game and want to keep playing.",
+    "Great youth coaches are teachers first: short instructions, lots of activity, constant encouragement, and practices that feel like play. The measure of success is not the scoreboard — it is how many kids sign up again next season."
+  ],
+  "whyItMatters": [
+    "Youth coaches shape a child's entire relationship with sports. A positive youth experience builds confidence, teamwork, and a lifelong love of activity; a negative one drives kids away from sports forever. The stakes are higher than any championship — you are building people.",
+    "You are also building the future of the game. Nearly every advanced player started with a youth coach who made basketball fun. Get this stage right and everything downstream gets easier."
+  ],
+  "vi": {
+    "coachingPoints": [
+      "Học tên mọi cầu thủ ngay ngày đầu tiên và dùng chúng liên tục.",
+      "Kết thúc mọi buổi tập bằng điều gì đó vui mà các em sẽ kể ở nhà.",
+      "Trao đổi với phụ huynh từ sớm: triết lý của bạn, cách chia thời gian thi đấu, và kỳ vọng.",
+      "Hãy là người bình tĩnh nhất trong nhà thi đấu — trẻ em phản chiếu cảm xúc của bạn một cách chính xác."
+    ],
+    "commonMistakes": [
+      "Tổ chức buổi tập kiểu người lớn với hàng dài chờ đợi và bài giảng dài.",
+      "Quát mắng trẻ vì sai lầm — điều đó dập tắt việc học thay vì sửa sai.",
+      "Chỉ cho những cầu thủ giỏi nhất chơi để thắng các trận trẻ em.",
+      "Dạy chiến thuật nâng cao trước khi nền tảng cơ bản vững."
+    ],
+    "description": "Huấn luyện trẻ em đúng cách — buổi tập vui là trên hết, giảng dạy phù hợp lứa tuổi, và nuôi dưỡng tình yêu bóng rổ bền lâu.",
+    "gameSituations": [
+      "Buổi tập đầu tiên với những em tám tuổi chưa từng chạm vào quả bóng rổ.",
+      "Một em khóc sau khi ném trượt: cách bạn phản ứng trong khoảnh khắc đó rất quan trọng.",
+      "Một phụ huynh phàn nàn về thời gian thi đấu: hãy nhắc lại triết lý đầu mùa của bạn."
+    ],
+    "howTo": [
+      {
+        "detail": "Mọi buổi tập nên có trò chơi, thi đấu, và tiếng cười. Nếu các em không cười, các em không học — niềm vui là phương tiện truyền tải cho mọi thứ khác.",
+        "title": "Giữ cho buổi tập vui"
+      },
+      {
+        "detail": "Dùng các trò chơi ít người như 3v3 và 4v4 thay vì giảng giải. Trẻ học bóng rổ bằng cách chơi bóng rổ, không phải bằng cách nghe về bóng rổ.",
+        "title": "Dạy qua trò chơi"
+      },
+      {
+        "detail": "Hướng dẫn dưới ba mươi giây, bài tập dưới mười phút, nghỉ uống nước thường xuyên. Khả năng tập trung ngắn là bình thường — hãy lên kế hoạch cho điều đó.",
+        "title": "Ngắn gọn và đơn giản"
+      },
+      {
+        "detail": "Thời gian thi đấu công bằng và tham gia liên tục ở lứa tuổi nhỏ. Không em nào nên ngồi cả trận — phát triển đòi hỏi được chạm bóng.",
+        "title": "Ai cũng được chơi, ai cũng chạm bóng"
+      },
+      {
+        "detail": "Bắt gặp các em làm đúng và nói thật to. Sửa sai phải nhanh, tử tế, và cụ thể — một điểm sửa, rồi quay lại động viên.",
+        "title": "Khen ngợi nỗ lực thật to, sửa sai nhẹ nhàng"
+      },
+      {
+        "detail": "Nói công khai về nỗ lực, sự tôn trọng, tinh thần đồng đội, và cách xử lý sai lầm. Phụ huynh nhận thấy và trân trọng điều này hơn bất kỳ thành tích thắng-thua nào.",
+        "title": "Dạy kỹ năng sống một cách công khai"
+      }
+    ],
+    "tags": [
+      "huấn luyện",
+      "trẻ em",
+      "cơ bản",
+      "niềm vui"
+    ],
+    "title": "Huấn luyện bóng rổ trẻ em",
+    "whatIsIt": [
+      "Huấn luyện bóng rổ trẻ em nghĩa là dạy bóng rổ cho trẻ nhỏ — thường từ sáu đến mười bốn tuổi — nơi các ưu tiên khác hẳn bóng rổ thi đấu. Ở cấp độ này, sự phát triển và niềm vui quan trọng hơn chiến thắng; mục tiêu là những cầu thủ yêu bóng rổ và muốn tiếp tục chơi.",
+      "Những huấn luyện viên trẻ em giỏi trước hết là những người thầy: hướng dẫn ngắn gọn, nhiều vận động, động viên liên tục, và những buổi tập như đang chơi. Thước đo thành công không phải là bảng điểm — mà là có bao nhiêu em đăng ký lại mùa sau."
+    ],
+    "whyItMatters": [
+      "Huấn luyện viên trẻ em định hình toàn bộ mối quan hệ của một đứa trẻ với thể thao. Một trải nghiệm tuổi thơ tích cực xây dựng sự tự tin, tinh thần đồng đội, và tình yêu vận động suốt đời; một trải nghiệm tiêu cực đẩy trẻ ra khỏi thể thao mãi mãi. Mức độ quan trọng cao hơn bất kỳ chức vô địch nào — bạn đang xây dựng con người.",
+      "Bạn cũng đang xây dựng tương lai của môn bóng rổ. Gần như mọi cầu thủ giỏi đều bắt đầu với một huấn luyện viên trẻ em khiến bóng rổ trở nên vui. Làm đúng giai đoạn này, mọi thứ sau đó sẽ dễ dàng hơn."
+    ]
+  }
+}

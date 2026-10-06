@@ -12,5 +12,32 @@
     {"title": "Level 4 — Counter the Defense", "description": "When the defense cheats the screen, punish it: reject the screen or snake back into the middle.", "articles": ["reject-screen", "snake-dribble"]},
     {"title": "Level 5 — Read the Whole Floor", "description": "Expand your vision beyond the two defenders — read the help, the tag, and the weak side to make the right play every time.", "articles": ["reading-help-defense"]}
   ],
-  "dateUpdated": "2026-10-06"
+  "dateUpdated": "2026-10-06",
+  "vi":   {
+    "title": "Chinh Phục Pick & Roll",
+    "description": "Từ lần đặt screen đầu tiên đến đọc các coverage nâng cao — lộ trình từng bước để chạy pick-and-roll như cầu thủ chuyên nghiệp.",
+    "audience": "Hậu vệ và wing chạy ball screen",
+    "steps": [
+      {
+        "title": "Cấp 1 — Hiểu Screen",
+        "description": "Học ball screen là gì, nó tạo lợi thế thế nào và vai trò của người cầm bóng và người screen."
+      },
+      {
+        "title": "Cấp 2 — Dùng Screen",
+        "description": "Tấn công screen với tốc độ và tiếp xúc vai-hông, rồi thực hiện những pha đọc đầu tiên từ 2 hậu vệ."
+      },
+      {
+        "title": "Cấp 3 — Nuôi Người Roll",
+        "description": "Thành thạo pocket pass — vũ khí chính để thưởng cho pha roll mạnh và trừng phạt drop coverage."
+      },
+      {
+        "title": "Cấp 4 — Phản Đòn Hàng Thủ",
+        "description": "Khi hàng thủ gian lận screen, trừng phạt ngay: reject screen hoặc snake quay vào giữa."
+      },
+      {
+        "title": "Cấp 5 — Đọc Cả Sân",
+        "description": "Mở rộng tầm nhìn vượt ra 2 hậu vệ — đọc help, tag và weak side để ra quyết định đúng mọi lần."
+      }
+    ]
+  }
 }

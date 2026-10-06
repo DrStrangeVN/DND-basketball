@@ -1,1 +1,214 @@
-{"ages":["U12","U14","U16","U18","Adult","Competitive"],"coachingPoints":["Help from the ball side shoulder of your man, never from behind him","Stay low and active in help — standing straight up makes you a statue","Stunt early to slow the driver, then recover before your man catches the ball","Communicate every help action — 'I got help!' and 'recover!' keep the defense connected","The low man rotates to the roller; the weak side fills behind him"],"commonMistakes":["Helping too deep and losing your own man for a kick-out three","Helping late — the driver is already at the rim by the time you arrive","Standing flat-footed in help with hands down and eyes only on the ball","Helping when your man is a dangerous shooter — know personnel"],"dateUpdated":"2026-10-06","description":"Help defense: when to leave your man, where to position yourself, and how to stop the drive without giving up open shots.","diagram":{"ball":"O1","defense":[{"label":"X1","x":48,"y":68},{"label":"X2","x":22,"y":60},{"label":"X3","x":45,"y":52},{"label":"X4","x":78,"y":60},{"label":"X5","x":58,"y":40}],"moves":[{"from":"X3","kind":"move","to":"O1"}],"offense":[{"label":"O1","x":50,"y":70},{"label":"O2","x":22,"y":62},{"label":"O3","x":78,"y":62},{"label":"O4","x":30,"y":38},{"label":"O5","x":60,"y":42}],"passes":[{"from":"O1","to":"O2"}],"title":"Help defender (X3) steps in to stop the drive"},"gameSituations":["A teammate gets beaten off the dribble on the wing","A ball screen forces a switch or a drop and the guard turns the corner","A post player starts to back down your big","A baseline drive needs the low man to step across and take a charge or contest"],"howTo":[{"detail":"When your man is two or more passes away from the ball, move into a help position: inside the lane line, roughly level with the ball or a step below it. You guard space, not your man.","title":"Get into help position off the ball"},{"detail":"Keep your head on a swivel: one eye on the ball, one eye on your man. The instant the ball handler beats his defender or the ball is driven toward you, you are the next line of defense.","title":"Read the ball, feel your man"},{"detail":"Step toward the driving lane with your ball-side foot and hand, presenting a wall. Stop the ball first — worry about your own man second.","title":"Step in to stop the ball"},{"detail":"Your job in help is to contain, not to steal. Make the driver pick up the ball, change direction, or throw a pass. A charge or a contested two beats a foul or an and-one.","title":"Contain, don't gamble"},{"detail":"Once the ball is stopped or passed out, sprint back to your man under control. Recovery is part of the play — a late closeout after good help still gives up the shot.","title":"Recover to your man"}],"hub":"defense","id":"help-defense","level":"intermediate","positions":["ALL"],"readTime":6,"related":["on-ball-defense","gap-defense","closeout-defense","ball-screen-defense","transition-defense"],"slug":"help-defense","subcategory":"defense-fundamentals","tags":["defense","help defense","rotations","team defense"],"title":"Help Defense","whatIsIt":["Help defense is the team-wide principle that no defender guards alone. When the ball beats one defender, the nearest off-ball defenders rotate over to stop it — stepping into the driving lane, stunting at the driver, or fully rotating to take the charge or contest.","In a well-coached team, five defenders move as one connected unit: the ball is stopped by help, the helper's man is picked up by the next rotation, and everyone recovers. In a poorly connected team, help comes late or not at all, and one beaten defender becomes a layup.","The classic help rule: you are either guarding the ball or helping guard the ball. If your man is two passes away, your job is to be in position to stop a drive before it reaches the rim."],"whyItMatters":["No defender stays in front of the ball forever. Help defense is the insurance policy that makes man-to-man defense work at all. Teams with great help principles give up contested midrange shots; teams without them give up layups and open threes. Teaching help early is what turns five individual defenders into a defense."]}
+{
+  "ages": [
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult",
+    "Competitive"
+  ],
+  "coachingPoints": [
+    "Help from the ball side shoulder of your man, never from behind him",
+    "Stay low and active in help — standing straight up makes you a statue",
+    "Stunt early to slow the driver, then recover before your man catches the ball",
+    "Communicate every help action — 'I got help!' and 'recover!' keep the defense connected",
+    "The low man rotates to the roller; the weak side fills behind him"
+  ],
+  "commonMistakes": [
+    "Helping too deep and losing your own man for a kick-out three",
+    "Helping late — the driver is already at the rim by the time you arrive",
+    "Standing flat-footed in help with hands down and eyes only on the ball",
+    "Helping when your man is a dangerous shooter — know personnel"
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "Help defense: when to leave your man, where to position yourself, and how to stop the drive without giving up open shots.",
+  "diagram": {
+    "ball": "O1",
+    "defense": [
+      {
+        "label": "X1",
+        "x": 48,
+        "y": 68
+      },
+      {
+        "label": "X2",
+        "x": 22,
+        "y": 60
+      },
+      {
+        "label": "X3",
+        "x": 45,
+        "y": 52
+      },
+      {
+        "label": "X4",
+        "x": 78,
+        "y": 60
+      },
+      {
+        "label": "X5",
+        "x": 58,
+        "y": 40
+      }
+    ],
+    "moves": [
+      {
+        "from": "X3",
+        "kind": "move",
+        "to": "O1"
+      }
+    ],
+    "offense": [
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 70
+      },
+      {
+        "label": "O2",
+        "x": 22,
+        "y": 62
+      },
+      {
+        "label": "O3",
+        "x": 78,
+        "y": 62
+      },
+      {
+        "label": "O4",
+        "x": 30,
+        "y": 38
+      },
+      {
+        "label": "O5",
+        "x": 60,
+        "y": 42
+      }
+    ],
+    "passes": [
+      {
+        "from": "O1",
+        "to": "O2"
+      }
+    ],
+    "title": "Help defender (X3) steps in to stop the drive"
+  },
+  "gameSituations": [
+    "A teammate gets beaten off the dribble on the wing",
+    "A ball screen forces a switch or a drop and the guard turns the corner",
+    "A post player starts to back down your big",
+    "A baseline drive needs the low man to step across and take a charge or contest"
+  ],
+  "howTo": [
+    {
+      "detail": "When your man is two or more passes away from the ball, move into a help position: inside the lane line, roughly level with the ball or a step below it. You guard space, not your man.",
+      "title": "Get into help position off the ball"
+    },
+    {
+      "detail": "Keep your head on a swivel: one eye on the ball, one eye on your man. The instant the ball handler beats his defender or the ball is driven toward you, you are the next line of defense.",
+      "title": "Read the ball, feel your man"
+    },
+    {
+      "detail": "Step toward the driving lane with your ball-side foot and hand, presenting a wall. Stop the ball first — worry about your own man second.",
+      "title": "Step in to stop the ball"
+    },
+    {
+      "detail": "Your job in help is to contain, not to steal. Make the driver pick up the ball, change direction, or throw a pass. A charge or a contested two beats a foul or an and-one.",
+      "title": "Contain, don't gamble"
+    },
+    {
+      "detail": "Once the ball is stopped or passed out, sprint back to your man under control. Recovery is part of the play — a late closeout after good help still gives up the shot.",
+      "title": "Recover to your man"
+    }
+  ],
+  "hub": "defense",
+  "id": "help-defense",
+  "level": "intermediate",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 6,
+  "related": [
+    "on-ball-defense",
+    "gap-defense",
+    "closeout-defense",
+    "ball-screen-defense",
+    "transition-defense"
+  ],
+  "slug": "help-defense",
+  "subcategory": "defense-fundamentals",
+  "tags": [
+    "defense",
+    "help defense",
+    "rotations",
+    "team defense"
+  ],
+  "title": "Help Defense",
+  "whatIsIt": [
+    "Help defense is the team-wide principle that no defender guards alone. When the ball beats one defender, the nearest off-ball defenders rotate over to stop it — stepping into the driving lane, stunting at the driver, or fully rotating to take the charge or contest.",
+    "In a well-coached team, five defenders move as one connected unit: the ball is stopped by help, the helper's man is picked up by the next rotation, and everyone recovers. In a poorly connected team, help comes late or not at all, and one beaten defender becomes a layup.",
+    "The classic help rule: you are either guarding the ball or helping guard the ball. If your man is two passes away, your job is to be in position to stop a drive before it reaches the rim."
+  ],
+  "whyItMatters": [
+    "No defender stays in front of the ball forever. Help defense is the insurance policy that makes man-to-man defense work at all. Teams with great help principles give up contested midrange shots; teams without them give up layups and open threes. Teaching help early is what turns five individual defenders into a defense."
+  ],
+  "vi": {
+    "title": "Phòng Thủ Hỗ Trợ",
+    "description": "Phòng thủ hỗ trợ: khi nào rời người kèm, đứng ở đâu, và cách chặn đột phá mà không dâng cú ném trống.",
+    "whatIsIt": [
+      "Phòng thủ hỗ trợ là nguyên tắc toàn đội rằng không hậu vệ nào phòng thủ một mình. Khi bóng vượt qua một hậu vệ, các hậu vệ không bóng gần nhất xoay sang chặn nó — bước vào đường đột phá, nhá vào người đột phá, hoặc xoay hẳn để lấy lỗi tấn công (charge) hoặc contest.",
+      "Ở đội được huấn luyện tốt, năm hậu vệ di chuyển như một khối gắn kết: bóng bị chặn bởi hỗ trợ, người của hậu vệ hỗ trợ được người tiếp theo nhận, và mọi người quay về vị trí. Ở đội thiếu gắn kết, hỗ trợ đến muộn hoặc không đến, và một hậu vệ bị qua mặt thành một pha layup.",
+      "Luật hỗ trợ kinh điển: bạn hoặc đang kèm bóng, hoặc đang hỗ trợ kèm bóng. Nếu người bạn kèm cách bóng hai đường chuyền, nhiệm vụ của bạn là đứng ở vị trí chặn đột phá trước khi nó tới rổ."
+    ],
+    "whyItMatters": [
+      "Không hậu vệ nào đứng trước bóng mãi được. Phòng thủ hỗ trợ là tấm bảo hiểm giúp kèm người phát huy tác dụng. Đội có nguyên tắc hỗ trợ tốt chỉ để lọt những cú midrange bị contest; đội không có thì dâng layup và ba điểm trống. Dạy hỗ trợ từ sớm là cách biến năm hậu vệ riêng lẻ thành một hàng thủ."
+    ],
+    "howTo": [
+      {
+        "title": "Vào vị trí hỗ trợ khi không kèm bóng",
+        "detail": "Khi người bạn kèm cách bóng hai đường chuyền trở lên, di chuyển vào vị trí hỗ trợ: trong đường lane, ngang tầm bóng hoặc thấp hơn một bước. Bạn kèm khoảng trống, không kèm người."
+      },
+      {
+        "title": "Đọc bóng, cảm nhận người kèm",
+        "detail": "Giữ đầu xoay liên tục: một mắt nhìn bóng, một mắt nhìn người bạn kèm. Ngay khi người dẫn bóng qua mặt hậu vệ của mình hoặc bóng bị đột phá về phía bạn, bạn là tuyến phòng thủ tiếp theo."
+      },
+      {
+        "title": "Bước vào chặn bóng",
+        "detail": "Bước về phía đường đột phá bằng chân và tay phía bóng, dựng thành bức tường. Chặn bóng trước — lo người của mình sau."
+      },
+      {
+        "title": "Chặn chứ đừng mạo hiểm",
+        "detail": "Nhiệm vụ của bạn khi hỗ trợ là chặn, không phải cướp. Khiến người đột phá phải nhấc bóng lên, đổi hướng, hoặc chuyền ra. Một pha charge hay cú contest hai điểm vẫn hơn một pha phạm lỗi hay and-one."
+      },
+      {
+        "title": "Quay về người kèm",
+        "detail": "Khi bóng đã bị chặn hoặc chuyền ra, chạy nước rút về người mình kèm một cách kiểm soát. Quay về là một phần của tình huống — closeout muộn sau pha hỗ trợ tốt vẫn dâng cú ném."
+      }
+    ],
+    "coachingPoints": [
+      "Hỗ trợ từ vai phía bóng của người bạn kèm, không bao giờ từ phía sau anh ta",
+      "Đứng thấp và chủ động khi hỗ trợ — đứng thẳng khiến bạn thành bức tượng",
+      "Nhá sớm để làm chậm người đột phá, rồi quay về trước khi người bạn kèm nhận bóng",
+      "Giao tiếp mọi hành động hỗ trợ — 'Tôi hỗ trợ!' và 'quay về!' giữ hàng thủ gắn kết",
+      "Người thấp nhất xoay sang người roll; phía yếu lấp đầy phía sau"
+    ],
+    "commonMistakes": [
+      "Hỗ trợ quá sâu, mất người của mình cho cú ba điểm đá ra",
+      "Hỗ trợ muộn — người đột phá đã tới rổ khi bạn tới nơi",
+      "Đứng chôn chân khi hỗ trợ, tay buông thõng, mắt chỉ nhìn bóng",
+      "Hỗ trợ khi người bạn kèm là tay ném nguy hiểm — phải biết đối thủ"
+    ],
+    "gameSituations": [
+      "Đồng đội bị qua mặt khi dẫn bóng ở cánh",
+      "Chắn bóng ép phải switch hoặc drop, hậu vệ bị qua góc chắn",
+      "Big đối thủ bắt đầu lùi ép big của bạn ở post",
+      "Pha đột phá baseline cần người thấp bước ngang lấy charge hoặc contest"
+    ],
+    "tags": [
+      "phòng thủ",
+      "phòng thủ hỗ trợ",
+      "luân chuyển",
+      "phòng thủ đồng đội"
+    ]
+  }
+}

@@ -38,5 +38,54 @@
   "regression": "Walk through the pattern first, allow one dribble per catch, or shorten to half-court weaves.",
   "gameApplication": "Fast breaks live and die on lead passes — this drill builds the timing and accuracy that turn defensive stops into easy baskets.",
   "related": ["skip-pass-shooting","transition-two-on-one"],
-  "dateUpdated": "2026-10-06"
+  "dateUpdated": "2026-10-06",
+  "vi":   {
+    "title": "Đan Bóng 3 Người",
+    "description": "Bài tập chuyền bóng hết sân 3 người kinh điển, rèn đường chuyền dẫn (lead pass), bắt bóng khi di chuyển và giao tiếp ở tốc độ cao.",
+    "goal": "Phát triển đường chuyền dẫn chính xác và khả năng bắt bóng ở tốc độ tối đa khi chạy sân theo đội hình 3 người phối hợp.",
+    "setup": [
+      "Ba cầu thủ xếp hàng ngang đường biên cuối sân: người giữa cầm bóng, hai người ở cánh.",
+      "Cần cả sân; các nhóm 3 người luân phiên — nhóm sau bắt đầu khi nhóm trước đến giữa sân.",
+      "Có thể dùng 2 bóng với nhóm đông để mọi người đều di chuyển."
+    ],
+    "instructions": [
+      {
+        "title": "Chuyền rồi cắt sau lưng",
+        "detail": "Người giữa chuyền cho một cánh rồi cắt sau lưng người nhận; cánh đó lại chuyền cho cánh đối diện đang cắt sau lưng, cứ thế tiếp tục."
+      },
+      {
+        "title": "Giữ bóng di chuyển xuống sân",
+        "detail": "Tiếp tục mẫu chuyền-và-đi-sau-lưng hết chiều dài sân — bóng không được dừng."
+      },
+      {
+        "title": "Kết thúc bằng layup",
+        "detail": "Người nhận đường chuyền cuối gần rổ dứt điểm layup; hai người còn lại theo sau rebound và putback."
+      },
+      {
+        "title": "Xoay vòng và tiếp tục",
+        "detail": "Nhóm 3 tiếp theo bắt đầu ngay khi nhóm trước qua giữa sân; mỗi nhóm chạy 4 lượt hết sân."
+      },
+      {
+        "title": "Thử thách không rê",
+        "detail": "Vòng cuối: bóng không được chạm đất — mọi đường chuyền phải dẫn người chạy hoàn hảo."
+      }
+    ],
+    "coachingPoints": [
+      "Chuyền đến nơi người chạy sẽ đến, không phải nơi họ đang đứng — dẫn mục tiêu 2 bước.",
+      "Ném chest pass có lực; đường chuyền bổng làm chậm cả bài tập.",
+      "Cắt sau lưng người bạn vừa chuyền — bài đan chỉ hiệu quả khi mọi người đều đi sau lưng.",
+      "Hô to: gọi tên và 'ball!' để đường chuyền đến đúng lúc."
+    ],
+    "commonMistakes": [
+      "Chuyền sau lưng người chạy — đường chuyền ngang hông ép họ dừng lại và giết chết nhịp bài.",
+      "Cắt trước mặt thay vì sau lưng — làm vỡ đội hình và gây va chạm."
+    ],
+    "progression": "Không rê cả bài, thêm hậu vệ đuổi theo sau bóng, hoặc kết thúc bằng pull-up jumper thay vì layup.",
+    "regression": "Đi bộ qua đội hình trước, cho một nhịp rê mỗi lần nhận bóng, hoặc rút ngắn thành đan nửa sân.",
+    "gameApplication": "Phản công sống chết nhờ đường chuyền dẫn — bài này xây dựng timing và độ chính xác biến những pha chặn bóng thành rổ dễ dàng.",
+    "players": "3+",
+    "equipment": [
+      "Bóng rổ"
+    ]
+  }
 }

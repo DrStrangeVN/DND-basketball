@@ -76,5 +76,61 @@
     "iverson-cut",
     "ucla-cut"
   ],
-  "dateUpdated": "2026-10-06"
+  "dateUpdated": "2026-10-06",
+  "vi": {
+    "coachingPoints": [
+      "Đòi hỏi những pha cắt hết tốc lực trong buổi tập — chạy bộ trong bài tập sẽ thành chạy bộ trong trận đấu",
+      "Dạy người cắt đọc mắt hậu vệ: nếu hậu vệ nhìn bóng, hãy cắt backdoor",
+      "Căn thời gian pha cắt theo nhịp của người chuyền; cắt sớm đến trước khi người chuyền sẵn sàng",
+      "Khen những pha cắt mạnh ngay cả khi bóng không tới — thói quen quan trọng hơn rổ bóng"
+    ],
+    "commonMistakes": [
+      "Cắt với nửa tốc độ, để hậu vệ kịp lui về mà không cần hỗ trợ",
+      "Cắt thẳng vào đường đột phá của đồng đội hoặc đường cắt của người khác",
+      "Dừng giữa pha cắt khi bóng không tới ngay, làm tắc khu vực hình thang"
+    ],
+    "description": "Di chuyển không bóng mạnh mẽ, có mục đích — cắt rổ, cắt backdoor và V-cut phá vỡ hàng thủ.",
+    "gameSituations": [
+      "Trước những hậu vệ đeo đường chuyền quá sát hoặc deny ở cánh",
+      "Khi bóng ở trong post — cắt theo tầm mắt của người đánh post",
+      "Trong motion offense, như chuyển động tự động sau mỗi đường chuyền"
+    ],
+    "howTo": [
+      {
+        "detail": "Đưa hậu vệ đi một hướng — về phía bóng hoặc ra xa bóng — rồi bùng nổ hướng ngược lại. Những pha cắt không có bước nhử rất dễ bị theo.",
+        "title": "Nhử hậu vệ trước"
+      },
+      {
+        "detail": "Đi bộ ru ngủ hậu vệ, rồi chạy nước rút. Sự đổi tốc mới tạo ra khoảng cách, không phải đường chạy.",
+        "title": "Cắt mạnh và đổi tốc"
+      },
+      {
+        "detail": "Mọi pha cắt nên trông như có thể kết thúc bằng layup. Những pha cắt đe dọa rổ buộc hàng thủ phải phản ứng.",
+        "title": "Cắt để ghi điểm, không phải để di chuyển"
+      },
+      {
+        "detail": "Khi cắt vào khoảng trống, giơ tay cho người chuyền thấy. Nó tạo một cửa sổ rõ ràng và giúp đường chuyền nhanh hơn.",
+        "title": "Giơ tay làm mục tiêu"
+      },
+      {
+        "detail": "Nếu bóng không tới, hãy cắt xuyên hẳn sang phía bên kia và lấp vào một vị trí. Cắt nửa vời làm tắc lane cho bài đánh tiếp theo.",
+        "title": "Cắt xuyên qua nếu không trống"
+      }
+    ],
+    "tags": [
+      "cắt bóng",
+      "không bóng",
+      "di chuyển",
+      "kỹ thuật cơ bản"
+    ],
+    "title": "Cắt Bóng",
+    "whatIsIt": [
+      "Cắt bóng là di chuyển không bóng để thoát kèm hoặc tạo khoảng trống cho đồng đội. Các loại chính là cắt rổ (thẳng vào rổ), cắt backdoor (sau lưng hậu vệ đeo sát), V-cut (ra rồi quay vào), và shallow cut (ngang vòng ngoài để đổi vị trí).",
+      "Những người cắt giỏi luôn là mối đe dọa. Hậu vệ phải để mắt tới họ, điều này kéo giãn hàng thủ và mở đường đột phá, góc chuyền cho mọi người khác.",
+      "Cắt bóng là một trong những khái niệm đồng đội đầu tiên cầu thủ trẻ nên học, vì nó dạy thói quen cốt lõi là chơi không bóng — nơi diễn ra phần lớn bóng rổ thực sự."
+    ],
+    "whyItMatters": [
+      "Bạn chỉ giữ bóng vài phút mỗi trận; thời gian còn lại bạn chơi không bóng. Cầu thủ cắt mạnh có những cú ném dễ, kéo sự hỗ trợ giải phóng đồng đội, và khiến mọi hệ thống tấn công — motion, 5-out hay bài đánh cố định — thực sự vận hành."
+    ]
+  }
 }

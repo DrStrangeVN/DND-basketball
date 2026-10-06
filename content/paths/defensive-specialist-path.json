@@ -12,5 +12,32 @@
     {"title": "Level 4 — Guard the Ball Screen", "description": "Master the main pick-and-roll coverages — switch, hedge, and drop — and know when to use each.", "articles": ["ball-screen-defense", "switch-defense"]},
     {"title": "Level 5 — Finish the Possession", "description": "End every defensive stand with a box-out and a secured rebound.", "articles": ["box-out"]}
   ],
-  "dateUpdated": "2026-10-06"
+  "dateUpdated": "2026-10-06",
+  "vi":   {
+    "title": "Chuyên Gia Phòng Thủ",
+    "description": "Trở thành hậu vệ mà mọi HLV đều tin tưởng: tư thế đẳng cấp, lì lợm on-ball, kỷ luật closeout, rotation help và các coverage chống ball screen.",
+    "audience": "Cầu thủ muốn kiếm phút thi đấu bằng phòng thủ",
+    "steps": [
+      {
+        "title": "Cấp 1 — Tư Thế và Trượt Chân",
+        "description": "Xây dựng tư thế phòng thủ thấp, cân bằng và sự nhanh nhẹn ngang — nền tảng của mọi phòng thủ."
+      },
+      {
+        "title": "Cấp 2 — Closeout Đúng Cách",
+        "description": "Học cách lao ra người ném có kiểm soát — tranh cú ném mà không để bị qua mặt."
+      },
+      {
+        "title": "Cấp 3 — Hỗ Trợ Đồng Đội",
+        "description": "Hiểu vị trí help-side, rotation và cách bảo vệ paint mà không mất người kèm."
+      },
+      {
+        "title": "Cấp 4 — Chống Ball Screen",
+        "description": "Thành thạo các coverage pick-and-roll chính — switch, hedge và drop — và biết khi nào dùng loại nào."
+      },
+      {
+        "title": "Cấp 5 — Kết Thúc Đợt Bóng",
+        "description": "Kết thúc mọi đợt phòng thủ bằng box out và một rebound chắc chắn."
+      }
+    ]
+  }
 }

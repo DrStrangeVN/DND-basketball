@@ -5,6 +5,9 @@ export interface Searchable {
   description: string;
   tags: string[];
   hub: string;
+  titleVi?: string;
+  descriptionVi?: string;
+  tagsVi?: string[];
 }
 
 function norm(s: string): string {
@@ -30,9 +33,9 @@ export function fuzzySearch<T extends Searchable>(index: T[], query: string, lim
   if (words.length === 0) return [];
   const scored: { item: T; score: number }[] = [];
   for (const item of index) {
-    const title = norm(item.title);
-    const tags = norm(item.tags.join(" "));
-    const desc = norm(item.description);
+    const title = norm(item.title + " " + (item.titleVi ?? ""));
+    const tags = norm(item.tags.join(" ") + " " + (item.tagsVi ?? []).join(" "));
+    const desc = norm(item.description + " " + (item.descriptionVi ?? ""));
     const hub = norm(item.hub);
     let total = 0;
     let matchedAll = true;

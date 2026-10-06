@@ -1,1 +1,139 @@
-{"ages":["U10","U12","U14","U16","U18","Adult"],"coachingPoints":["Sprint the lanes on every change of possession — jogging is a turnover of opportunity","Stay wide: wings should be able to touch the sideline with an outstretched hand","The rim runner's lane is the middle — straight line from rim to rim","Keep the lanes filled until the break is over — don't cut across a teammate's lane","Trail the play if you're the last one back — you become the safety valve"],"commonMistakes":["Running to the ball instead of the lane — everyone ends up in the same spot","Wings cutting inside too early — the defense collapses without moving","The rim runner trailing the play — the middle lane sits empty","Stopping at half court when the break slows — keep running into early offense"],"dateUpdated":"2026-10-06","description":"Running the lanes: the three-lane fast break — wide wings, middle rim runner, and sprinting with purpose.","gameSituations":["Every defensive rebound — the lanes start the moment the ball is secured","After a steal when the court opens up","Secondary break after the initial fast break is stopped","Youth games where simply out-running the opponent creates layups"],"howTo":[{"detail":"The moment possession changes, identify your lane: the two wings take the outside lanes near the sidelines, the big takes the middle lane straight to the rim.","title":"Find your lane immediately"},{"detail":"Sprint — don't jog — down your lane. The wings run wide, almost touching the sidelines, which stretches the retreating defense across the full width of the court.","title":"Wings sprint wide and deep"},{"detail":"The rim runner — usually the biggest player — sprints the middle lane directly at the basket. His job is to be the first target at the rim for a pass or a lob.","title":"Rim runner takes the middle"},{"detail":"Stay in your lane until the play develops. Crossing into a teammate's lane clogs the break and lets one defender guard two attackers.","title":"Hold your lane, don't cross"},{"detail":"The last player down the court becomes the trailer — jogging into the top of the key as the safety valve for a kick-out or a secondary action.","title":"Trail as the safety valve"}],"hub":"transition","id":"running-lanes","level":"beginner","positions":["ALL"],"readTime":4,"related":["transition-offense","advance-pass","transition-defense"],"slug":"running-lanes","subcategory":"transition","tags":["transition","fast break","lanes","fundamentals"],"title":"Running the Lanes","whatIsIt":["Running the lanes is the structure of the fast break: the court is divided into three vertical lanes — two wide outside lanes for the wings and one middle lane for the rim runner. Every player sprints a lane, which spreads the defense and creates passing angles all the way down the court.","It is one of the first team concepts young players learn because it is simple and it works: wide lanes stretch the retreating defense, the middle lane attacks the rim, and the ball has a target at every level. A team that runs its lanes gets layups; a team that doesn't gets a crowded mess at the top of the key."],"whyItMatters":["The fast break fails more often from bad spacing than from bad passing. Lanes are spacing at full speed — they turn five sprinting players into an organized attack instead of a track meet. Teaching lanes early gives every player a job in transition, which means more layups, fewer turnovers, and a team that plays fast without playing wild."]}
+{
+  "ages": [
+    "U10",
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "coachingPoints": [
+    "Sprint the lanes on every change of possession — jogging is a turnover of opportunity",
+    "Stay wide: wings should be able to touch the sideline with an outstretched hand",
+    "The rim runner's lane is the middle — straight line from rim to rim",
+    "Keep the lanes filled until the break is over — don't cut across a teammate's lane",
+    "Trail the play if you're the last one back — you become the safety valve"
+  ],
+  "commonMistakes": [
+    "Running to the ball instead of the lane — everyone ends up in the same spot",
+    "Wings cutting inside too early — the defense collapses without moving",
+    "The rim runner trailing the play — the middle lane sits empty",
+    "Stopping at half court when the break slows — keep running into early offense"
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "Running the lanes: the three-lane fast break — wide wings, middle rim runner, and sprinting with purpose.",
+  "gameSituations": [
+    "Every defensive rebound — the lanes start the moment the ball is secured",
+    "After a steal when the court opens up",
+    "Secondary break after the initial fast break is stopped",
+    "Youth games where simply out-running the opponent creates layups"
+  ],
+  "howTo": [
+    {
+      "detail": "The moment possession changes, identify your lane: the two wings take the outside lanes near the sidelines, the big takes the middle lane straight to the rim.",
+      "title": "Find your lane immediately"
+    },
+    {
+      "detail": "Sprint — don't jog — down your lane. The wings run wide, almost touching the sidelines, which stretches the retreating defense across the full width of the court.",
+      "title": "Wings sprint wide and deep"
+    },
+    {
+      "detail": "The rim runner — usually the biggest player — sprints the middle lane directly at the basket. His job is to be the first target at the rim for a pass or a lob.",
+      "title": "Rim runner takes the middle"
+    },
+    {
+      "detail": "Stay in your lane until the play develops. Crossing into a teammate's lane clogs the break and lets one defender guard two attackers.",
+      "title": "Hold your lane, don't cross"
+    },
+    {
+      "detail": "The last player down the court becomes the trailer — jogging into the top of the key as the safety valve for a kick-out or a secondary action.",
+      "title": "Trail as the safety valve"
+    }
+  ],
+  "hub": "transition",
+  "id": "running-lanes",
+  "level": "beginner",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 4,
+  "related": [
+    "transition-offense",
+    "advance-pass",
+    "transition-defense"
+  ],
+  "slug": "running-lanes",
+  "subcategory": "transition",
+  "tags": [
+    "transition",
+    "fast break",
+    "lanes",
+    "fundamentals"
+  ],
+  "title": "Running the Lanes",
+  "whatIsIt": [
+    "Running the lanes is the structure of the fast break: the court is divided into three vertical lanes — two wide outside lanes for the wings and one middle lane for the rim runner. Every player sprints a lane, which spreads the defense and creates passing angles all the way down the court.",
+    "It is one of the first team concepts young players learn because it is simple and it works: wide lanes stretch the retreating defense, the middle lane attacks the rim, and the ball has a target at every level. A team that runs its lanes gets layups; a team that doesn't gets a crowded mess at the top of the key."
+  ],
+  "whyItMatters": [
+    "The fast break fails more often from bad spacing than from bad passing. Lanes are spacing at full speed — they turn five sprinting players into an organized attack instead of a track meet. Teaching lanes early gives every player a job in transition, which means more layups, fewer turnovers, and a team that plays fast without playing wild."
+  ],
+  "vi": {
+    "title": "Chạy Đúng Làn Phản Công",
+    "description": "Chạy làn: fast break ba làn — cánh rộng hai bên, rim runner ở giữa, và chạy nước rút có mục đích.",
+    "whatIsIt": [
+      "Chạy làn là cấu trúc của pha phản công: sân được chia thành ba làn dọc — hai làn ngoài rộng cho các cánh và một làn giữa cho rim runner. Mỗi cầu thủ chạy nước rút theo làn của mình, giãn hàng thủ và tạo góc chuyền suốt dọc sân.",
+      "Đây là một trong những khái niệm đồng đội đầu tiên cầu thủ trẻ học vì nó đơn giản và hiệu quả: làn rộng kéo giãn hàng thủ đang lùi, làn giữa tấn công rổ, và bóng luôn có mục tiêu ở mọi tuyến. Đội chạy đúng làn sẽ có layup; đội không chạy sẽ chỉ có một mớ hỗn độn ở đầu vòng cung."
+    ],
+    "whyItMatters": [
+      "Phản công thất bại thường vì giãn cách kém hơn là vì chuyền kém. Làn chính là giãn cách ở tốc độ tối đa — biến năm cầu thủ chạy nước rút thành một đợt tấn công có tổ chức thay vì cuộc đua điền kinh. Dạy làn sớm cho mỗi cầu thủ một nhiệm vụ trong chuyển đổi, nghĩa là nhiều layup hơn, ít mất bóng hơn, và một đội chơi nhanh mà không chơi ẩu."
+    ],
+    "howTo": [
+      {
+        "title": "Nhận làn ngay lập tức",
+        "detail": "Ngay khi đổi quyền kiểm soát, xác định làn của bạn: hai cánh nhận làn ngoài gần đường biên, big nhận làn giữa thẳng tới rổ."
+      },
+      {
+        "title": "Cánh chạy rộng và sâu",
+        "detail": "Chạy nước rút — không chạy bộ — theo làn của bạn. Các cánh chạy rộng, gần chạm đường biên, kéo giãn hàng thủ đang lùi trên toàn bộ chiều rộng sân."
+      },
+      {
+        "title": "Rim runner nhận làn giữa",
+        "detail": "Rim runner — thường là cầu thủ to nhất — chạy nước rút làn giữa thẳng vào rổ. Nhiệm vụ của anh ấy là mục tiêu đầu tiên ở rổ cho đường chuyền hoặc pha lob."
+      },
+      {
+        "title": "Giữ làn, đừng cắt ngang",
+        "detail": "Ở trong làn của bạn cho đến khi pha bóng phát triển. Cắt vào làn của đồng đội làm tắc nghẽn pha phản công và để một hậu vệ kèm hai người tấn công."
+      },
+      {
+        "title": "Lùi làm van an toàn",
+        "detail": "Cầu thủ cuối cùng xuống sân trở thành trailer — chạy bộ vào đỉnh vòng cung làm van an toàn cho pha đá ra ngoài hoặc hành động tiếp theo."
+      }
+    ],
+    "coachingPoints": [
+      "Chạy nước rút theo làn mỗi lần đổi quyền kiểm soát — chạy bộ là lãng phí cơ hội",
+      "Giữ rộng: cánh nên chạm được đường biên bằng tay duỗi",
+      "Làn của rim runner là giữa — đường thẳng từ rổ này sang rổ kia",
+      "Giữ các làn đầy cho đến khi pha phản công kết thúc — đừng cắt ngang làn của đồng đội",
+      "Lùi lại nếu bạn là người cuối cùng — bạn trở thành van an toàn"
+    ],
+    "commonMistakes": [
+      "Chạy về phía bóng thay vì làn — mọi người dồn vào một chỗ",
+      "Cánh cắt vào trong quá sớm — hàng thủ co lại mà không cần di chuyển",
+      "Rim runner lùi sau pha bóng — làn giữa bỏ trống",
+      "Dừng ở giữa sân khi pha phản công chậm lại — tiếp tục chạy vào tấn công sớm"
+    ],
+    "gameSituations": [
+      "Mỗi pha bắt rebound phòng thủ — các làn bắt đầu ngay khi bóng được kiểm soát",
+      "Sau pha cướp bóng khi sân mở ra",
+      "Phản công đợt hai sau khi đợt fast break đầu bị chặn",
+      "Các trận trẻ nơi chỉ cần chạy nhanh hơn đối thủ là có layup"
+    ],
+    "tags": [
+      "chuyển đổi",
+      "fast break",
+      "chạy cánh",
+      "kỹ thuật cơ bản"
+    ]
+  }
+}

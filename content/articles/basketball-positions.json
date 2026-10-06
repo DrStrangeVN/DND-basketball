@@ -1,1 +1,213 @@
-{"ages":["U10","U12","U14","U16","U18","Adult"],"coachingPoints":["Teach roles through responsibilities ('you protect the paint') rather than fixed spots on the floor.","Rotate young players through all five positions in practice and games.","Build guards from the outside in (ball handling, shooting) and bigs from the inside out (footwork, finishing).","Use the numbering system (1–5) so play calls and drills are quick to communicate."],"commonMistakes":["Locking a tall 12-year-old into center and never letting them dribble or shoot.","Thinking the point guard must score the most — the job is to make the team better.","Guards who refuse to rebound and bigs who refuse to run the floor.","Judging a position only by height instead of by skills and instincts."],"dateUpdated":"2026-10-06","description":"The five basketball positions — point guard, shooting guard, small forward, power forward, center — and what each one does.","diagram":{"ball":"O1","defense":[{"label":"X1","x":50,"y":66},{"label":"X2","x":22,"y":50},{"label":"X3","x":78,"y":50},{"label":"X4","x":34,"y":18},{"label":"X5","x":66,"y":18}],"moves":[],"offense":[{"label":"O1","x":50,"y":72},{"label":"O2","x":18,"y":52},{"label":"O3","x":82,"y":52},{"label":"O4","x":30,"y":16},{"label":"O5","x":70,"y":16}],"passes":[],"screens":[],"shots":[],"title":"Basic 5-out alignment by position"},"gameSituations":["Half-court offense — the 1 initiates, the 2 and 3 space the wings and corners, the 4 and 5 screen and roll.","Transition — wings sprint wide, the 1 pushes the ball, and a big rims-runs to the paint.","Zone defense — positions shift into areas (top, wings, corners, paint) rather than matching players.","Late game — the ball finds the best decision-maker (often the 1) and the best shooter for the final shot."],"howTo":[{"detail":"The floor general. Brings the ball up, calls plays, and creates shots for teammates. Needs elite ball handling, passing vision, and the ability to stay calm under pressure.","title":"Learn the point guard (1)"},{"detail":"The primary perimeter scorer. Moves without the ball, comes off screens, and shoots threes and pull-ups. Must be able to defend opposing guards on the other end.","title":"Learn the shooting guard (2)"},{"detail":"The most versatile player. Scores in transition, cuts, guards multiple positions, and rebounds. Modern 'wings' blend shooting-guard skills with forward size.","title":"Learn the small forward (3)"},{"detail":"Plays near the basket but increasingly shoots from outside. Sets screens, rebounds, finishes inside, and guards bigs. The modern 'stretch four' spaces the floor with three-point shooting.","title":"Learn the power forward (4)"},{"detail":"The anchor. Protects the rim on defense, rebounds on both ends, and scores close to the basket. In today's game many centers also pass from the high post and shoot from distance.","title":"Learn the center (5)"},{"detail":"Until about age 14, every player should handle the ball, shoot, rebound, and defend. Early specialization shrinks a player's game — versatility is the most valuable trait a young player can build.","title":"Start positionless, specialize later"}],"hub":"fundamentals","id":"basketball-positions","level":"beginner","positions":["ALL"],"readTime":6,"related":["positionless-basketball","point-guard","center-basketball","spacing-basics","court-and-lines"],"slug":"basketball-positions","subcategory":"fundamentals","tags":["positions","pg","sg","sf","pf","center"],"title":"Basketball Positions","whatIsIt":["A basketball team fields five players, traditionally numbered 1 through 5. The point guard (1) runs the offense, the shooting guard (2) scores from the perimeter, the small forward (3) does a bit of everything, the power forward (4) plays inside and out, and the center (5) protects the rim and rebounds.","These roles are starting points, not cages. Modern basketball is increasingly 'positionless' — centers now shoot threes and point guards post up. Young players should learn the responsibilities of all five spots before specializing."],"whyItMatters":["Positions organize a team. They tell each player where to stand, what to practice, and what decisions to make. When everyone understands all five roles, the team moves as a unit instead of five individuals — spacing improves, help defense arrives on time, and fast breaks run themselves."]}
+{
+  "ages": [
+    "U10",
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "coachingPoints": [
+    "Teach roles through responsibilities ('you protect the paint') rather than fixed spots on the floor.",
+    "Rotate young players through all five positions in practice and games.",
+    "Build guards from the outside in (ball handling, shooting) and bigs from the inside out (footwork, finishing).",
+    "Use the numbering system (1–5) so play calls and drills are quick to communicate."
+  ],
+  "commonMistakes": [
+    "Locking a tall 12-year-old into center and never letting them dribble or shoot.",
+    "Thinking the point guard must score the most — the job is to make the team better.",
+    "Guards who refuse to rebound and bigs who refuse to run the floor.",
+    "Judging a position only by height instead of by skills and instincts."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "The five basketball positions — point guard, shooting guard, small forward, power forward, center — and what each one does.",
+  "diagram": {
+    "ball": "O1",
+    "defense": [
+      {
+        "label": "X1",
+        "x": 50,
+        "y": 66
+      },
+      {
+        "label": "X2",
+        "x": 22,
+        "y": 50
+      },
+      {
+        "label": "X3",
+        "x": 78,
+        "y": 50
+      },
+      {
+        "label": "X4",
+        "x": 34,
+        "y": 18
+      },
+      {
+        "label": "X5",
+        "x": 66,
+        "y": 18
+      }
+    ],
+    "moves": [],
+    "offense": [
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 72
+      },
+      {
+        "label": "O2",
+        "x": 18,
+        "y": 52
+      },
+      {
+        "label": "O3",
+        "x": 82,
+        "y": 52
+      },
+      {
+        "label": "O4",
+        "x": 30,
+        "y": 16
+      },
+      {
+        "label": "O5",
+        "x": 70,
+        "y": 16
+      }
+    ],
+    "passes": [],
+    "screens": [],
+    "shots": [],
+    "title": "Basic 5-out alignment by position"
+  },
+  "gameSituations": [
+    "Half-court offense — the 1 initiates, the 2 and 3 space the wings and corners, the 4 and 5 screen and roll.",
+    "Transition — wings sprint wide, the 1 pushes the ball, and a big rims-runs to the paint.",
+    "Zone defense — positions shift into areas (top, wings, corners, paint) rather than matching players.",
+    "Late game — the ball finds the best decision-maker (often the 1) and the best shooter for the final shot."
+  ],
+  "howTo": [
+    {
+      "detail": "The floor general. Brings the ball up, calls plays, and creates shots for teammates. Needs elite ball handling, passing vision, and the ability to stay calm under pressure.",
+      "title": "Learn the point guard (1)"
+    },
+    {
+      "detail": "The primary perimeter scorer. Moves without the ball, comes off screens, and shoots threes and pull-ups. Must be able to defend opposing guards on the other end.",
+      "title": "Learn the shooting guard (2)"
+    },
+    {
+      "detail": "The most versatile player. Scores in transition, cuts, guards multiple positions, and rebounds. Modern 'wings' blend shooting-guard skills with forward size.",
+      "title": "Learn the small forward (3)"
+    },
+    {
+      "detail": "Plays near the basket but increasingly shoots from outside. Sets screens, rebounds, finishes inside, and guards bigs. The modern 'stretch four' spaces the floor with three-point shooting.",
+      "title": "Learn the power forward (4)"
+    },
+    {
+      "detail": "The anchor. Protects the rim on defense, rebounds on both ends, and scores close to the basket. In today's game many centers also pass from the high post and shoot from distance.",
+      "title": "Learn the center (5)"
+    },
+    {
+      "detail": "Until about age 14, every player should handle the ball, shoot, rebound, and defend. Early specialization shrinks a player's game — versatility is the most valuable trait a young player can build.",
+      "title": "Start positionless, specialize later"
+    }
+  ],
+  "hub": "fundamentals",
+  "id": "basketball-positions",
+  "level": "beginner",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 6,
+  "related": [
+    "positionless-basketball",
+    "point-guard",
+    "center-basketball",
+    "spacing-basics",
+    "court-and-lines"
+  ],
+  "slug": "basketball-positions",
+  "subcategory": "fundamentals",
+  "tags": [
+    "positions",
+    "pg",
+    "sg",
+    "sf",
+    "pf",
+    "center"
+  ],
+  "title": "Basketball Positions",
+  "whatIsIt": [
+    "A basketball team fields five players, traditionally numbered 1 through 5. The point guard (1) runs the offense, the shooting guard (2) scores from the perimeter, the small forward (3) does a bit of everything, the power forward (4) plays inside and out, and the center (5) protects the rim and rebounds.",
+    "These roles are starting points, not cages. Modern basketball is increasingly 'positionless' — centers now shoot threes and point guards post up. Young players should learn the responsibilities of all five spots before specializing."
+  ],
+  "whyItMatters": [
+    "Positions organize a team. They tell each player where to stand, what to practice, and what decisions to make. When everyone understands all five roles, the team moves as a unit instead of five individuals — spacing improves, help defense arrives on time, and fast breaks run themselves."
+  ],
+  "vi": {
+    "coachingPoints": [
+      "Dạy vai trò qua trách nhiệm ('bạn bảo vệ khu vực hình thang') thay vì vị trí cố định trên sân",
+      "Xoay cầu thủ trẻ qua cả năm vị trí trong tập luyện và thi đấu",
+      "Xây dựng hậu vệ từ ngoài vào trong (dẫn bóng, ném rổ) và big man từ trong ra ngoài (bước chân, dứt điểm)",
+      "Dùng hệ thống đánh số (1–5) để gọi bài và bài tập nhanh gọn"
+    ],
+    "commonMistakes": [
+      "Nhốt một cậu bé 12 tuổi cao lớn vào vị trí center và không bao giờ cho dribble hay ném",
+      "Nghĩ rằng point guard phải ghi nhiều điểm nhất — nhiệm vụ là làm đội bóng tốt hơn",
+      "Hậu vệ từ chối bắt bóng bật bảng và big man từ chối chạy phản công",
+      "Đánh giá vị trí chỉ qua chiều cao thay vì kỹ năng và bản năng"
+    ],
+    "description": "Năm vị trí trong bóng rổ — point guard, shooting guard, small forward, power forward, center — và nhiệm vụ của từng vị trí.",
+    "gameSituations": [
+      "Tấn công sân trước — số 1 khởi xướng, số 2 và 3 giãn ở cánh và góc, số 4 và 5 chắn và lăn vào",
+      "Chuyển trạng thái — các cánh chạy nước rút rộng ra, số 1 đẩy bóng lên, một big chạy thẳng vào khu vực hình thang",
+      "Phòng thủ khu vực — các vị trí chuyển thành các khu vực (đỉnh, cánh, góc, hình thang) thay vì kèm người",
+      "Cuối trận — bóng tìm đến người ra quyết định tốt nhất (thường là số 1) và tay ném tốt nhất cho cú ném cuối"
+    ],
+    "howTo": [
+      {
+        "detail": "Nhạc trưởng của đội. Dẫn bóng lên, gọi bài và tạo cơ hội cho đồng đội. Cần dẫn bóng đẳng cấp, tầm nhìn chuyền bóng và khả năng giữ bình tĩnh dưới áp lực.",
+        "title": "Hiểu point guard (1)"
+      },
+      {
+        "detail": "Tay ghi điểm chính ở vòng ngoài. Di chuyển không bóng, chạy qua các màn chắn, ném ba điểm và pull-up. Phải phòng thủ được hậu vệ đối phương ở đầu sân bên kia.",
+        "title": "Hiểu shooting guard (2)"
+      },
+      {
+        "detail": "Cầu thủ đa năng nhất. Ghi điểm trong phản công, cắt vào rổ, kèm được nhiều vị trí và bắt bóng bật bảng. Các 'wing' hiện đại pha trộn kỹ năng của shooting guard với thể hình của forward.",
+        "title": "Hiểu small forward (3)"
+      },
+      {
+        "detail": "Chơi gần rổ nhưng ngày càng ném từ xa. Dựng màn chắn, bắt bóng bật bảng, dứt điểm trong và kèm các big. 'Stretch four' hiện đại giãn sân bằng khả năng ném ba điểm.",
+        "title": "Hiểu power forward (4)"
+      },
+      {
+        "detail": "Trụ cột của đội. Bảo vệ rổ khi phòng thủ, bắt bóng bật bảng cả hai đầu sân và ghi điểm gần rổ. Trong bóng rổ ngày nay, nhiều center còn chuyền từ high post và ném từ xa.",
+        "title": "Hiểu center (5)"
+      },
+      {
+        "detail": "Cho đến khoảng 14 tuổi, mọi cầu thủ đều nên cầm bóng, ném, bắt bóng bật bảng và phòng thủ. Chuyên môn hóa sớm làm thu hẹp lối chơi — đa năng là phẩm chất giá trị nhất mà cầu thủ trẻ có thể xây dựng.",
+        "title": "Bắt đầu đa năng, chuyên sâu sau"
+      }
+    ],
+    "tags": [
+      "vị trí",
+      "pg",
+      "sg",
+      "sf",
+      "pf",
+      "trung phong"
+    ],
+    "title": "Các Vị Trí Trong Bóng Rổ",
+    "whatIsIt": [
+      "Một đội bóng rổ ra sân với năm cầu thủ, theo truyền thống được đánh số từ 1 đến 5. Point guard (1) điều hành tấn công, shooting guard (2) ghi điểm từ vòng ngoài, small forward (3) làm một chút mọi thứ, power forward (4) chơi cả trong lẫn ngoài, và center (5) bảo vệ rổ và bắt bóng bật bảng.",
+      "Những vai trò này là điểm khởi đầu, không phải cái lồng. Bóng rổ hiện đại ngày càng 'positionless' — center giờ ném ba điểm và point guard đánh post. Cầu thủ trẻ nên học trách nhiệm của cả năm vị trí trước khi chuyên sâu."
+    ],
+    "whyItMatters": [
+      "Các vị trí tổ chức một đội bóng. Chúng cho mỗi cầu thủ biết đứng ở đâu, tập gì và ra quyết định thế nào. Khi mọi người hiểu cả năm vai trò, đội bóng di chuyển như một khối thay vì năm cá nhân — spacing cải thiện, hỗ trợ phòng thủ đến đúng lúc, và phản công tự vận hành."
+    ]
+  }
+}

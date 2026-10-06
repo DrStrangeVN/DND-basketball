@@ -38,5 +38,54 @@
   "regression": "Shoot from two feet inside the line, drop the minimum score to 8 per spot, or cut to three spots instead of five.",
   "gameApplication": "Catch-and-shoot threes from every spot are the backbone of modern spacing — this drill trains you to knock them down even when your legs are tired.",
   "related": ["spot-shooting-ladder","form-shooting","skip-pass-shooting"],
-  "dateUpdated": "2026-10-06"
+  "dateUpdated": "2026-10-06",
+  "vi":   {
+    "title": "Ngôi Sao 3 Điểm",
+    "description": "Bài ném 3 điểm 5 điểm kiểu gauntlet với mục tiêu điểm số, rèn tầm ném, sức bền và khả năng ném cạnh tranh khi mệt.",
+    "goal": "Xây dựng tầm 3 điểm đáng tin cậy từ cả 5 điểm với mục tiêu điểm số buộc bạn tập trung và hiệu quả.",
+    "setup": [
+      "Đánh dấu 5 điểm ném 3 điểm: hai góc, hai wing và đỉnh vòng.",
+      "Cần người rebound hoặc sẵn sàng tự nhặt — có người rebound bài tập hiệu quả hơn nhiều.",
+      "Đặt mục tiêu điểm: swish 3 điểm, vào 2 điểm, trượt 0 điểm."
+    ],
+    "instructions": [
+      {
+        "title": "Ném 5 quả mỗi điểm",
+        "detail": "Ném 5 quả từ góc phải, swish tính 3, vào tính 2, rồi chuyển điểm tiếp theo."
+      },
+      {
+        "title": "Điểm tối thiểu để qua điểm",
+        "detail": "Cần ít nhất 12 điểm (tối đa 15) mỗi điểm mới được đi tiếp — không đủ thì ném lại điểm đó."
+      },
+      {
+        "title": "Đi hết 5 điểm",
+        "detail": "Hoàn thành góc, wing và đỉnh với cùng luật điểm tối thiểu ở mọi vị trí."
+      },
+      {
+        "title": "Chốt bằng thể lực",
+        "detail": "Sau điểm thứ năm, ném 1 quả phạt; trượt thì chạy nước rút hết sân rồi ném lại đến khi vào."
+      },
+      {
+        "title": "Ghi tổng điểm",
+        "detail": "Ghi tổng điểm trên 75 và đặt mục tiêu phá ở buổi sau."
+      }
+    ],
+    "coachingPoints": [
+      "Dùng chân — tầm 3 điểm đến từ thân dưới, không phải gồng bóng bằng tay.",
+      "Giữ nguyên form như cú ném midrange; chỉ thay đổi lực.",
+      "Chuẩn bị cú ném ở cự ly 3 điểm nhanh hơn — chân đặt sẵn và bóng sẵn sàng trước khi nhận.",
+      "Theo dõi độ cong của cú ném: cú 3 điểm bẹt hiếm khi vào."
+    ],
+    "commonMistakes": [
+      "Tiếp đất vượt qua vạch — bạn đang lao vào cú ném thay vì bật thẳng lên.",
+      "Đổi form khi mệt — mệt mỏi phơi bày kỹ thuật; rút ngắn buổi tập trước khi form vỡ."
+    ],
+    "progression": "Yêu cầu vào liên tiếp mới được qua điểm, thêm hậu vệ closeout tranh mỗi cú ném, hoặc ném sau một nhịp rê side-step ở mỗi điểm.",
+    "regression": "Ném từ trong vạch 2 feet (60cm), hạ điểm tối thiểu xuống 8 mỗi điểm, hoặc cắt còn 3 điểm thay vì 5.",
+    "gameApplication": "Những cú catch-and-shoot 3 điểm từ mọi điểm là xương sống của spacing hiện đại — bài này rèn bạn ném vào ngay cả khi chân đã mệt.",
+    "players": "1",
+    "equipment": [
+      "Bóng rổ"
+    ]
+  }
 }

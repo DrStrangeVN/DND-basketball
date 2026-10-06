@@ -1,1 +1,146 @@
-{"ages":["U10","U12","U14","U16","U18","Adult"],"coachingPoints":["Your energy sets the learning environment — be enthusiastic and patient.","Praise effort and correctable details, not just results.","Use players' names constantly; personal attention accelerates learning.","End each teaching block with a fun, competitive version of the drill."],"commonMistakes":["Talking too long before letting players move — lecture kills learning.","Trying to fix every error at once instead of one correction at a time.","Demonstrating incorrectly, or at a level players cannot copy.","Skipping progressions and jumping to advanced versions too soon."],"dateUpdated":"2026-10-06","description":"A coach's guide to teaching skills the right way — demonstrate, drill, correct — so players learn faster and retain longer.","gameSituations":["First week with beginners: teaching the triple threat stance from scratch.","Youth practice: introducing the layup to ten-year-olds.","Team practice: re-teaching closeout footwork mid-season after bad habits crept in."],"howTo":[{"detail":"Show the skill at full speed first, then in slow motion. Players copy what they see far more reliably than what they hear — your demonstration is the lesson.","title":"Demonstrate first"},{"detail":"Give players a short verbal cue for the skill — \"low, eyes up, pound\" — instead of a paragraph. Three key words stick; thirty do not.","title":"Use three key words"},{"detail":"Go stationary before moving, unopposed before opposed, slow before fast. Each progression should feel like a small step, not a leap.","title":"Start simple, add complexity"},{"detail":"Pick the biggest error, fix it, then move to the next. Multiple simultaneous corrections overwhelm players and fix nothing.","title":"Correct one thing at a time"},{"detail":"Keep lines short, use multiple balls, and keep every player active. Learning speed is reps per minute, and standing in line teaches nothing.","title":"Maximize quality reps"},{"detail":"Ask players to explain the key points back to you, or have them teach a teammate. Teaching is the fastest test of true understanding.","title":"Check understanding"}],"hub":"coaching","id":"teaching-basketball","level":"beginner","positions":["ALL"],"readTime":5,"related":["practice-planning","youth-coaching","player-development-plan","player-communication"],"slug":"teaching-basketball","subcategory":"coaching","tags":["coaching","teaching","fundamentals","youth"],"title":"Teaching Basketball Skills","whatIsIt":["Teaching basketball skills is the core craft of coaching: breaking a skill into learnable pieces, demonstrating it clearly, and guiding players through repetitions until the movement becomes automatic. Good teaching is a skill of its own — knowing the game and teaching the game are two different things.","The most effective teaching follows a simple loop: show it, explain the key points in few words, let players try it, and correct one thing at a time. Players learn by doing far more than by listening."],"whyItMatters":["How you teach determines how fast players learn. Clear, simple instruction with lots of reps builds confident players; long speeches and complex drills build confusion. Youth players especially need teaching that matches how they actually learn — short, visual, and active.","Good teaching also compounds across a program. Players taught well become players who practice well, and players who practice well improve without constant supervision."]}
+{
+  "ages": [
+    "U10",
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "coachingPoints": [
+    "Your energy sets the learning environment — be enthusiastic and patient.",
+    "Praise effort and correctable details, not just results.",
+    "Use players' names constantly; personal attention accelerates learning.",
+    "End each teaching block with a fun, competitive version of the drill."
+  ],
+  "commonMistakes": [
+    "Talking too long before letting players move — lecture kills learning.",
+    "Trying to fix every error at once instead of one correction at a time.",
+    "Demonstrating incorrectly, or at a level players cannot copy.",
+    "Skipping progressions and jumping to advanced versions too soon."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "A coach's guide to teaching skills the right way — demonstrate, drill, correct — so players learn faster and retain longer.",
+  "gameSituations": [
+    "First week with beginners: teaching the triple threat stance from scratch.",
+    "Youth practice: introducing the layup to ten-year-olds.",
+    "Team practice: re-teaching closeout footwork mid-season after bad habits crept in."
+  ],
+  "howTo": [
+    {
+      "detail": "Show the skill at full speed first, then in slow motion. Players copy what they see far more reliably than what they hear — your demonstration is the lesson.",
+      "title": "Demonstrate first"
+    },
+    {
+      "detail": "Give players a short verbal cue for the skill — \"low, eyes up, pound\" — instead of a paragraph. Three key words stick; thirty do not.",
+      "title": "Use three key words"
+    },
+    {
+      "detail": "Go stationary before moving, unopposed before opposed, slow before fast. Each progression should feel like a small step, not a leap.",
+      "title": "Start simple, add complexity"
+    },
+    {
+      "detail": "Pick the biggest error, fix it, then move to the next. Multiple simultaneous corrections overwhelm players and fix nothing.",
+      "title": "Correct one thing at a time"
+    },
+    {
+      "detail": "Keep lines short, use multiple balls, and keep every player active. Learning speed is reps per minute, and standing in line teaches nothing.",
+      "title": "Maximize quality reps"
+    },
+    {
+      "detail": "Ask players to explain the key points back to you, or have them teach a teammate. Teaching is the fastest test of true understanding.",
+      "title": "Check understanding"
+    }
+  ],
+  "hub": "coaching",
+  "id": "teaching-basketball",
+  "level": "beginner",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 5,
+  "related": [
+    "practice-planning",
+    "youth-coaching",
+    "player-development-plan",
+    "player-communication"
+  ],
+  "slug": "teaching-basketball",
+  "subcategory": "coaching",
+  "tags": [
+    "coaching",
+    "teaching",
+    "fundamentals",
+    "youth"
+  ],
+  "title": "Teaching Basketball Skills",
+  "whatIsIt": [
+    "Teaching basketball skills is the core craft of coaching: breaking a skill into learnable pieces, demonstrating it clearly, and guiding players through repetitions until the movement becomes automatic. Good teaching is a skill of its own — knowing the game and teaching the game are two different things.",
+    "The most effective teaching follows a simple loop: show it, explain the key points in few words, let players try it, and correct one thing at a time. Players learn by doing far more than by listening."
+  ],
+  "whyItMatters": [
+    "How you teach determines how fast players learn. Clear, simple instruction with lots of reps builds confident players; long speeches and complex drills build confusion. Youth players especially need teaching that matches how they actually learn — short, visual, and active.",
+    "Good teaching also compounds across a program. Players taught well become players who practice well, and players who practice well improve without constant supervision."
+  ],
+  "vi": {
+    "coachingPoints": [
+      "Năng lượng của bạn tạo nên môi trường học tập — hãy nhiệt huyết và kiên nhẫn.",
+      "Khen ngợi nỗ lực và những chi tiết có thể sửa được, không chỉ kết quả.",
+      "Gọi tên cầu thủ thường xuyên; sự quan tâm cá nhân đẩy nhanh việc học.",
+      "Kết thúc mỗi phần dạy bằng một phiên bản vui nhộn, có tính cạnh tranh của bài tập."
+    ],
+    "commonMistakes": [
+      "Nói quá lâu trước khi cho cầu thủ vận động — diễn thuyết giết chết việc học.",
+      "Cố sửa mọi lỗi cùng lúc thay vì từng sửa lỗi một.",
+      "Làm mẫu sai, hoặc ở trình độ mà cầu thủ không thể bắt chước.",
+      "Bỏ qua các bước nâng cao dần và nhảy tới phiên bản nâng cao quá sớm."
+    ],
+    "description": "Cẩm nang dạy kỹ năng đúng cách cho huấn luyện viên — làm mẫu, tập luyện, sửa lỗi — để cầu thủ học nhanh hơn và nhớ lâu hơn.",
+    "gameSituations": [
+      "Tuần đầu với người mới: dạy tư thế triple threat từ con số không.",
+      "Buổi tập trẻ: giới thiệu layup cho các em mười tuổi.",
+      "Buổi tập đội: dạy lại bước chân closeout giữa mùa sau khi những thói quen xấu len lỏi vào."
+    ],
+    "howTo": [
+      {
+        "detail": "Cho xem kỹ năng ở tốc độ thật trước, rồi ở tốc độ chậm. Cầu thủ bắt chước những gì họ thấy đáng tin cậy hơn nhiều so với những gì họ nghe — màn làm mẫu của bạn chính là bài học.",
+        "title": "Làm mẫu trước"
+      },
+      {
+        "detail": "Đưa cho cầu thủ một khẩu lệnh ngắn cho kỹ năng — 'thấp, mắt nhìn lên, đập mạnh' — thay vì một đoạn văn. Ba từ khóa thì nhớ được; ba mươi từ thì không.",
+        "title": "Dùng ba từ khóa"
+      },
+      {
+        "detail": "Tập tại chỗ trước khi di chuyển, không đối kháng trước khi có đối kháng, chậm trước khi nhanh. Mỗi bước nâng cao phải như một bước nhỏ, không phải một bước nhảy vọt.",
+        "title": "Bắt đầu đơn giản, tăng dần độ khó"
+      },
+      {
+        "detail": "Chọn lỗi lớn nhất, sửa nó, rồi chuyển sang lỗi tiếp theo. Nhiều sửa lỗi cùng lúc sẽ làm cầu thủ choáng ngợp và chẳng sửa được gì.",
+        "title": "Sửa từng lỗi một"
+      },
+      {
+        "detail": "Giữ hàng chờ ngắn, dùng nhiều bóng, và giữ mọi cầu thủ luôn vận động. Tốc độ học là số lần tập mỗi phút, còn đứng xếp hàng thì chẳng dạy được gì.",
+        "title": "Tối đa hóa số lần tập chất lượng"
+      },
+      {
+        "detail": "Yêu cầu cầu thủ giải thích lại các điểm chính cho bạn, hoặc để họ dạy lại cho đồng đội. Dạy lại chính là bài kiểm tra nhanh nhất cho sự hiểu bài thực sự.",
+        "title": "Kiểm tra sự hiểu bài"
+      }
+    ],
+    "tags": [
+      "huấn luyện",
+      "dạy học",
+      "cơ bản",
+      "bóng rổ trẻ"
+    ],
+    "title": "Dạy kỹ năng bóng rổ",
+    "whatIsIt": [
+      "Dạy kỹ năng bóng rổ là nghề cốt lõi của huấn luyện viên: chia một kỹ năng thành những phần có thể học được, làm mẫu rõ ràng, và hướng dẫn cầu thủ qua các lần lặp lại cho đến khi động tác trở thành bản năng. Dạy giỏi cũng là một kỹ năng riêng — biết về bóng rổ và dạy bóng rổ là hai việc khác nhau.",
+      "Cách dạy hiệu quả nhất theo một vòng lặp đơn giản: cho xem, giải thích điểm chính bằng ít từ, để cầu thủ thử, và sửa từng lỗi một. Cầu thủ học bằng cách làm nhiều hơn hẳn so với học bằng cách nghe."
+    ],
+    "whyItMatters": [
+      "Cách bạn dạy quyết định tốc độ học của cầu thủ. Hướng dẫn rõ ràng, đơn giản với nhiều lần tập xây dựng những cầu thủ tự tin; những bài diễn thuyết dài và bài tập phức tạp chỉ tạo ra sự rối rắm. Cầu thủ trẻ đặc biệt cần cách dạy phù hợp với cách họ thực sự học — ngắn gọn, trực quan và năng động.",
+      "Dạy tốt còn có hiệu ứng cộng dồn trong cả một chương trình. Cầu thủ được dạy tốt trở thành cầu thủ tập luyện tốt, và cầu thủ tập luyện tốt sẽ tiến bộ mà không cần giám sát liên tục."
+    ]
+  }
+}

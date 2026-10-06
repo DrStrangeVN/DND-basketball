@@ -1,1 +1,130 @@
-{"ages":["U12","U14","U16","U18","Adult"],"coachingPoints":["Land truly simultaneous on both feet — a staggered landing is a travel risk.","Keep the hop short; a long hop carries you into the defender instead of stopping before them.","Ball stays high during the hop — low gathers invite strips.","Use a shot fake after landing only if the defender stays grounded; otherwise just go up.","Bend your knees on landing so you can explode up immediately."],"commonMistakes":["Hopping too far and landing under the basket — now you're stuck with no angle.","Landing one foot before the other — referees call this a travel at higher levels.","Dropping the ball low after the hop — defenders strip it; keep it at chin level.","Not stopping at all — a fake hop that doesn't change speed fools nobody."],"dateUpdated":"2026-10-06","description":"A small two-foot jump that stops your drive on a dime, beats the shot blocker, and sets up a balanced finish.","gameSituations":["Drives where the shot blocker rotates late — stop before them and finish as they fly by.","Transition 2-on-1 when the defender commits to the ball — hop, then finish or dish.","Against aggressive closeouts — pro hop off the catch sets up a clean pull-up too."],"howTo":[{"detail":"Attack the paint at pace. As you approach the restricted area, gather the ball with two hands, ready to pick up your dribble.","title":"Drive with a gather in mind"},{"detail":"Take a short hop forward — 30 to 60 cm — and land on both feet at the same time, knees bent, in a jump-stop position. This is the entire move; keep it compact.","title":"Small hop, two-foot landing"},{"detail":"Hold the ball at chest or chin height with a shot fake or eyes up. The defender, already committed to your drive, will jump or lean past you.","title":"Freeze the defender"},{"detail":"As the defender leaves your space, explode straight up off both feet and finish softly. Because you stopped in balance, your shot has normal form and soft touch.","title":"Rise in balance"}],"hub":"skills","id":"pro-hop","level":"intermediate","positions":["ALL"],"readTime":5,"related":["euro-step","jump-stop","power-finish","contact-finishing","runner-floater"],"slug":"pro-hop","subcategory":"finishing","tags":["finishing","footwork","drive","two-foot"],"title":"Pro Hop","whatIsIt":["The pro hop is a short, controlled two-foot jump used to stop a drive suddenly, usually right in front of a shot blocker or help defender. You hop, land on two feet simultaneously, and rise into a balanced finish — all while the defender flies past.","It is the deceleration counter to the euro step's lateral move. Where the euro dodges sideways, the pro hop stops time: defenders committed to contesting a full-speed drive end up out of position while you're landing in perfect balance."],"whyItMatters":["Most defenders time their jump to your drive's rhythm. A sudden two-foot stop breaks that timing completely and turns a contested drive into an open, balanced shot. It also draws fouls, because late-arriving defenders land on you."]}
+{
+  "ages": [
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "coachingPoints": [
+    "Land truly simultaneous on both feet — a staggered landing is a travel risk.",
+    "Keep the hop short; a long hop carries you into the defender instead of stopping before them.",
+    "Ball stays high during the hop — low gathers invite strips.",
+    "Use a shot fake after landing only if the defender stays grounded; otherwise just go up.",
+    "Bend your knees on landing so you can explode up immediately."
+  ],
+  "commonMistakes": [
+    "Hopping too far and landing under the basket — now you're stuck with no angle.",
+    "Landing one foot before the other — referees call this a travel at higher levels.",
+    "Dropping the ball low after the hop — defenders strip it; keep it at chin level.",
+    "Not stopping at all — a fake hop that doesn't change speed fools nobody."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "A small two-foot jump that stops your drive on a dime, beats the shot blocker, and sets up a balanced finish.",
+  "gameSituations": [
+    "Drives where the shot blocker rotates late — stop before them and finish as they fly by.",
+    "Transition 2-on-1 when the defender commits to the ball — hop, then finish or dish.",
+    "Against aggressive closeouts — pro hop off the catch sets up a clean pull-up too."
+  ],
+  "howTo": [
+    {
+      "detail": "Attack the paint at pace. As you approach the restricted area, gather the ball with two hands, ready to pick up your dribble.",
+      "title": "Drive with a gather in mind"
+    },
+    {
+      "detail": "Take a short hop forward — 30 to 60 cm — and land on both feet at the same time, knees bent, in a jump-stop position. This is the entire move; keep it compact.",
+      "title": "Small hop, two-foot landing"
+    },
+    {
+      "detail": "Hold the ball at chest or chin height with a shot fake or eyes up. The defender, already committed to your drive, will jump or lean past you.",
+      "title": "Freeze the defender"
+    },
+    {
+      "detail": "As the defender leaves your space, explode straight up off both feet and finish softly. Because you stopped in balance, your shot has normal form and soft touch.",
+      "title": "Rise in balance"
+    }
+  ],
+  "hub": "skills",
+  "id": "pro-hop",
+  "level": "intermediate",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 5,
+  "related": [
+    "euro-step",
+    "jump-stop",
+    "power-finish",
+    "contact-finishing",
+    "runner-floater"
+  ],
+  "slug": "pro-hop",
+  "subcategory": "finishing",
+  "tags": [
+    "finishing",
+    "footwork",
+    "drive",
+    "two-foot"
+  ],
+  "title": "Pro Hop",
+  "whatIsIt": [
+    "The pro hop is a short, controlled two-foot jump used to stop a drive suddenly, usually right in front of a shot blocker or help defender. You hop, land on two feet simultaneously, and rise into a balanced finish — all while the defender flies past.",
+    "It is the deceleration counter to the euro step's lateral move. Where the euro dodges sideways, the pro hop stops time: defenders committed to contesting a full-speed drive end up out of position while you're landing in perfect balance."
+  ],
+  "whyItMatters": [
+    "Most defenders time their jump to your drive's rhythm. A sudden two-foot stop breaks that timing completely and turns a contested drive into an open, balanced shot. It also draws fouls, because late-arriving defenders land on you."
+  ],
+  "vi": {
+    "title": "Pro Hop",
+    "description": "Một cú nhảy hai chân nhỏ dừng pha đột phá ngay lập tức, vượt qua tay block và tạo thế kết thúc thăng bằng.",
+    "whatIsIt": [
+      "Pro hop là một cú nhảy hai chân ngắn, có kiểm soát, dùng để dừng đột ngột một pha đột phá — thường ngay trước mặt tay block hoặc hậu vệ hỗ trợ. Bạn nhảy, tiếp đất bằng hai chân cùng lúc, rồi bật lên kết thúc trong thế thăng bằng — trong khi hậu vệ bay qua người.",
+      "Nó là đòn phản đòn giảm tốc đối lập với pha lách ngang của euro step. Nơi euro step né sang bên, pro hop \"dừng thời gian\": những hậu vệ đã lao vào contest một pha đột phá tốc độ cao bỗng rơi vào thế sai vị trí, còn bạn tiếp đất trong thăng bằng hoàn hảo."
+    ],
+    "whyItMatters": [
+      "Hầu hết hậu vệ căn thời gian nhảy theo nhịp đột phá của bạn. Một cú dừng hai chân đột ngột phá vỡ hoàn toàn nhịp đó, biến pha đột phá bị contest thành cú ném trống, thăng bằng. Nó còn kiếm được lỗi, vì những hậu vệ đến muộn sẽ đáp xuống người bạn."
+    ],
+    "howTo": [
+      {
+        "title": "Đột phá với ý định gom bóng",
+        "detail": "Tấn công khu vực hình thang ở tốc độ cao. Khi tiến gần vòng cấm, gom bóng bằng hai tay, sẵn sàng nhấc bóng khỏi pha dẫn."
+      },
+      {
+        "title": "Nhảy ngắn, tiếp đất hai chân",
+        "detail": "Nhảy ngắn về phía trước — 30 đến 60 cm — rồi tiếp đất bằng cả hai chân cùng lúc, gối gập, ở tư thế jump stop. Toàn bộ động tác chỉ có vậy; giữ nó gọn gàng."
+      },
+      {
+        "title": "Đóng băng hậu vệ",
+        "detail": "Giữ bóng ở ngang ngực hoặc cằm, kèm một động tác giả ném hoặc mắt ngước lên. Hậu vệ đã lao theo pha đột phá của bạn sẽ nhảy lên hoặc lướt qua."
+      },
+      {
+        "title": "Bật lên trong thăng bằng",
+        "detail": "Khi hậu vệ rời khỏi vị trí của bạn, bật thẳng lên bằng hai chân và kết thúc nhẹ nhàng. Vì đã dừng trong thế thăng bằng, cú ném của bạn giữ form chuẩn và chạm bóng mềm."
+      }
+    ],
+    "coachingPoints": [
+      "Tiếp đất thật sự đồng thời bằng hai chân — tiếp đất lệch chân là nguy cơ bị thổi bước.",
+      "Giữ cú nhảy ngắn; nhảy quá xa sẽ đưa bạn đâm vào hậu vệ thay vì dừng trước họ.",
+      "Bóng giữ cao trong suốt cú nhảy — gom bóng thấp mời đối phương thọc mất.",
+      "Chỉ dùng động tác giả ném sau khi tiếp đất nếu hậu vệ vẫn đứng yên; còn không thì cứ bật lên.",
+      "Gập gối khi tiếp đất để có thể bật lên ngay lập tức."
+    ],
+    "commonMistakes": [
+      "Nhảy quá xa và đáp xuống dưới rổ — giờ thì bạn kẹt cứng, không còn góc ném.",
+      "Chân này chạm đất trước chân kia — ở trình độ cao, trọng tài thổi bước pha này.",
+      "Hạ bóng xuống thấp sau cú nhảy — hậu vệ sẽ thọc mất; giữ bóng ngang cằm.",
+      "Không dừng hẳn — một cú nhảy giả không đổi tốc độ thì chẳng lừa được ai."
+    ],
+    "gameSituations": [
+      "Đột phá khi tay block xoay vào muộn — dừng trước họ và kết thúc khi họ bay qua.",
+      "Phản công 2-đánh-1 khi hậu vệ lao vào bóng — pro hop, rồi kết thúc hoặc chuyền.",
+      "Trước những pha closeout quyết liệt — pro hop ngay sau khi bắt bóng tạo ra cú pull-up sạch."
+    ],
+    "tags": [
+      "kết thúc",
+      "kỹ thuật chân",
+      "đột phá",
+      "hai chân"
+    ]
+  }
+}

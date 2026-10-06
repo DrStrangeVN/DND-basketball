@@ -1,1 +1,138 @@
-{"ages":["U10","U12","U14","U16","U18","Adult"],"coachingPoints":["Chart shot selection in youth games — players improve fastest when they see which shots actually go in.","Teach the value ladder: layup > free throw > open three > open midrange > contested anything.","Practice free throws under fatigue, because they decide close games.","Reward the extra pass that turns a good shot into a great one."],"commonMistakes":["Taking contested midrange jumpers early in the shot clock.","Standing on the three-point line and accidentally taking a long two.","Missing free throws because they are practiced casually, not seriously.","Forcing shots through contact instead of passing to an open teammate."],"dateUpdated":"2026-10-06","description":"How points are scored in basketball — field goals, three-pointers, free throws — and why shot selection decides games.","gameSituations":["And-one — a player scores through a foul and gets one bonus free throw.","Bonus free throws — late in quarters, teams foul intentionally or attack to earn free points.","Overtime — tied games add extra periods until there is a winner.","Last shot — teams hold for the final attempt so the opponent has no time to answer."],"howTo":[{"detail":"Any basket made with the shooter inside the three-point line — layups, dunks, floaters, midrange jumpers — counts for two. These are the highest-percentage shots when taken near the rim.","title":"Score two points inside the arc"},{"detail":"Both feet must be behind the three-point arc when the shot leaves your hands for it to count as three. Even a toe on the line makes it a two-pointer.","title":"Score three points from deep"},{"detail":"Fouls on shooting attempts award free throws: two shots for a two-point attempt, three for a three-point attempt. If the shot goes in anyway, you get one bonus free throw (an 'and-one').","title":"Earn and make free throws"},{"detail":"When a team commits too many fouls in a period (the team-foul limit, which varies by league), every subsequent non-shooting foul gives the opponent free throws. Smart teams attack to draw fouls once the bonus is active.","title":"Understand the bonus"},{"detail":"Not all shots are equal. A wide-open corner three and a layup are great shots; a contested long two-pointer early in the clock is usually a bad one. Choose shots your team can make at a high rate.","title":"Win with shot selection"}],"hub":"fundamentals","id":"scoring-basketball","level":"beginner","positions":["ALL"],"readTime":4,"related":["court-and-lines","basketball-rules","spacing-basics","fouls-explained"],"slug":"scoring-basketball","subcategory":"fundamentals","tags":["scoring","points","shooting","basics"],"title":"How Scoring Works","whatIsIt":["Every made basket is worth either two or three points, and free throws are worth one point each. A shot made from inside the three-point arc counts as two points; a shot made from behind the arc counts as three. Free throws — uncontested shots from the free-throw line awarded after certain fouls — count one point each.","The team with more points when the clock hits zero wins. If the game is tied, overtime periods are played until someone leads at the end of a period."],"whyItMatters":["Scoring rules shape every decision in basketball. Because a three-pointer is worth 50% more than a two, teams hunt efficient shots: layups, free throws, and open threes. Understanding point values is the first step toward good shot selection — the skill that separates winning teams from losing ones."]}
+{
+  "ages": [
+    "U10",
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "coachingPoints": [
+    "Chart shot selection in youth games — players improve fastest when they see which shots actually go in.",
+    "Teach the value ladder: layup > free throw > open three > open midrange > contested anything.",
+    "Practice free throws under fatigue, because they decide close games.",
+    "Reward the extra pass that turns a good shot into a great one."
+  ],
+  "commonMistakes": [
+    "Taking contested midrange jumpers early in the shot clock.",
+    "Standing on the three-point line and accidentally taking a long two.",
+    "Missing free throws because they are practiced casually, not seriously.",
+    "Forcing shots through contact instead of passing to an open teammate."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "How points are scored in basketball — field goals, three-pointers, free throws — and why shot selection decides games.",
+  "gameSituations": [
+    "And-one — a player scores through a foul and gets one bonus free throw.",
+    "Bonus free throws — late in quarters, teams foul intentionally or attack to earn free points.",
+    "Overtime — tied games add extra periods until there is a winner.",
+    "Last shot — teams hold for the final attempt so the opponent has no time to answer."
+  ],
+  "howTo": [
+    {
+      "detail": "Any basket made with the shooter inside the three-point line — layups, dunks, floaters, midrange jumpers — counts for two. These are the highest-percentage shots when taken near the rim.",
+      "title": "Score two points inside the arc"
+    },
+    {
+      "detail": "Both feet must be behind the three-point arc when the shot leaves your hands for it to count as three. Even a toe on the line makes it a two-pointer.",
+      "title": "Score three points from deep"
+    },
+    {
+      "detail": "Fouls on shooting attempts award free throws: two shots for a two-point attempt, three for a three-point attempt. If the shot goes in anyway, you get one bonus free throw (an 'and-one').",
+      "title": "Earn and make free throws"
+    },
+    {
+      "detail": "When a team commits too many fouls in a period (the team-foul limit, which varies by league), every subsequent non-shooting foul gives the opponent free throws. Smart teams attack to draw fouls once the bonus is active.",
+      "title": "Understand the bonus"
+    },
+    {
+      "detail": "Not all shots are equal. A wide-open corner three and a layup are great shots; a contested long two-pointer early in the clock is usually a bad one. Choose shots your team can make at a high rate.",
+      "title": "Win with shot selection"
+    }
+  ],
+  "hub": "fundamentals",
+  "id": "scoring-basketball",
+  "level": "beginner",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 4,
+  "related": [
+    "court-and-lines",
+    "basketball-rules",
+    "spacing-basics",
+    "fouls-explained"
+  ],
+  "slug": "scoring-basketball",
+  "subcategory": "fundamentals",
+  "tags": [
+    "scoring",
+    "points",
+    "shooting",
+    "basics"
+  ],
+  "title": "How Scoring Works",
+  "whatIsIt": [
+    "Every made basket is worth either two or three points, and free throws are worth one point each. A shot made from inside the three-point arc counts as two points; a shot made from behind the arc counts as three. Free throws — uncontested shots from the free-throw line awarded after certain fouls — count one point each.",
+    "The team with more points when the clock hits zero wins. If the game is tied, overtime periods are played until someone leads at the end of a period."
+  ],
+  "whyItMatters": [
+    "Scoring rules shape every decision in basketball. Because a three-pointer is worth 50% more than a two, teams hunt efficient shots: layups, free throws, and open threes. Understanding point values is the first step toward good shot selection — the skill that separates winning teams from losing ones."
+  ],
+  "vi": {
+    "title": "Cách Tính Điểm Trong Bóng Rổ",
+    "description": "Điểm được tính thế nào trong bóng rổ — ném rổ thường, ba điểm, ném phạt — và vì sao chọn cú ném quyết định trận đấu.",
+    "whatIsIt": [
+      "Mỗi lần ném trúng rổ được hai hoặc ba điểm, và ném phạt mỗi quả một điểm. Cú ném từ trong vạch ba điểm được hai điểm; cú ném từ sau vạch ba điểm được ba điểm. Ném phạt — những cú ném không bị kèm từ vạch ném phạt sau một số lỗi — mỗi quả một điểm.",
+      "Đội nào nhiều điểm hơn khi đồng hồ về không thì thắng. Nếu hòa, các hiệp phụ được chơi cho đến khi có đội dẫn điểm cuối hiệp."
+    ],
+    "whyItMatters": [
+      "Luật tính điểm định hình mọi quyết định trong bóng rổ. Vì cú ba điểm đáng giá hơn 50% so với hai điểm, các đội săn những cú ném hiệu quả: layup, ném phạt và ba điểm trống. Hiểu giá trị điểm số là bước đầu tiên để chọn cú ném tốt — kỹ năng phân biệt đội thắng với đội thua."
+    ],
+    "howTo": [
+      {
+        "title": "Ghi hai điểm trong vòng cung",
+        "detail": "Bất kỳ cú ném nào trúng khi người ném ở trong vạch ba điểm — layup, dunk, floater, jumper tầm trung — được hai điểm. Đây là những cú ném có tỷ lệ trúng cao nhất khi thực hiện gần rổ."
+      },
+      {
+        "title": "Ghi ba điểm từ xa",
+        "detail": "Cả hai chân phải ở sau vạch ba điểm khi bóng rời tay mới được tính ba điểm. Chỉ cần mũi chân chạm vạch là thành hai điểm."
+      },
+      {
+        "title": "Kiếm và thực hiện ném phạt",
+        "detail": "Lỗi khi đối phương đang ném phạt sẽ bị phạt ném phạt: hai quả cho cú ném hai điểm, ba quả cho cú ném ba điểm. Nếu cú ném vẫn vào, bạn được thêm một quả ném phạt thưởng (gọi là 'and-one')."
+      },
+      {
+        "title": "Hiểu luật bonus",
+        "detail": "Khi một đội phạm quá nhiều lỗi trong một hiệp (giới hạn lỗi đồng đội, tùy giải đấu), mọi lỗi không phải khi ném sau đó đều cho đối phương ném phạt. Đội thông minh tấn công để kiếm lỗi khi bonus đã kích hoạt."
+      },
+      {
+        "title": "Thắng bằng chọn cú ném",
+        "detail": "Không phải cú ném nào cũng như nhau. Ba điểm góc trống và layup là những cú ném tuyệt vời; cú ném hai điểm tầm xa bị kèm đầu đồng hồ thường là cú ném tệ. Hãy chọn những cú ném mà đội bạn trúng với tỷ lệ cao."
+      }
+    ],
+    "coachingPoints": [
+      "Ghi lại lựa chọn cú ném trong các trận trẻ — cầu thủ tiến bộ nhanh nhất khi thấy cú nào thực sự vào.",
+      "Dạy thang giá trị: layup > ném phạt > ba điểm trống > ném tầm trung trống > bất cứ cú nào bị kèm.",
+      "Tập ném phạt khi mệt, vì chúng quyết định các trận đấu sít sao.",
+      "Thưởng cho đường chuyền thêm biến cú ném tốt thành cú ném tuyệt vời."
+    ],
+    "commonMistakes": [
+      "Ném jumper tầm trung bị kèm đầu đồng hồ.",
+      "Đứng trên vạch ba điểm và vô tình ném cú hai điểm xa.",
+      "Hụt ném phạt vì tập hời hợt, không nghiêm túc.",
+      "Cố ném qua va chạm thay vì chuyền cho đồng đội trống."
+    ],
+    "gameSituations": [
+      "And-one — cầu thủ ghi điểm qua lỗi và được một quả ném phạt thưởng.",
+      "Ném phạt bonus — cuối hiệp, các đội cố tình phạm lỗi hoặc tấn công để kiếm điểm miễn phí.",
+      "Hiệp phụ — trận hòa sẽ đá thêm hiệp cho đến khi có đội thắng.",
+      "Cú ném cuối — các đội giữ bóng cho lần ném cuối để đối phương không còn thời gian đáp trả."
+    ],
+    "tags": [
+      "ghi điểm",
+      "điểm số",
+      "ném rổ",
+      "cơ bản"
+    ]
+  }
+}

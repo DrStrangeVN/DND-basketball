@@ -1,1 +1,134 @@
-{"ages":["U12","U14","U16","U18","Adult"],"coachingPoints":["Stay low — the taller you get during the move, the slower and more exposed the dribble becomes.","Eyes up, always. If you stare at the ball between your legs, a help defender will arrive unnoticed.","The bounce should pass under your forward leg, roughly below your knee.","Protect the ball with your body: your torso should block the defender's reach on the switch.","Drill it moving before stationary — this move is designed for full-speed use."],"commonMistakes":["Bouncing the ball too far in front of the body — fix: the bounce point belongs directly under or slightly behind your forward leg.","Looking down at the legs — fix: pick a wall target and dribble with eyes on it, slowing down until the feel is natural.","Standing tall during the move — fix: exaggerate the knee bend; your head should drop at least 6 inches as you begin.","Swinging the ball too wide through the legs — fix: aim for a tight, compact pass of the ball from front hand to back hand."],"dateUpdated":"2026-10-06","description":"Bounce the ball through your legs to switch hands while keeping the ball shielded — perfect for tight spaces and full-speed moves.","gameSituations":["Pushing the ball in transition — a between-the-legs switch lets you change hands at full speed without breaking stride.","Beating a defender who is crowding you — the move keeps the ball behind your body, where his reach cannot follow.","Changing direction on a drive — when the lane closes on your strong side, switch hands through the legs and attack the new gap."],"howTo":[{"detail":"Start in a low stance, dribbling with your right hand. Push the ball forward slightly and step forward with your left leg, opening a gap to bounce through.","title":"Dribble and step forward"},{"detail":"Aim the bounce at the floor under your forward (left) leg — between knee and foot. A lower, shorter bounce is easier to control than a high one.","title":"Bounce under your lead leg"},{"detail":"As the ball pops up behind you, catch it with your left hand. Your right hand releases the moment the ball clears your leg.","title":"Catch with the opposite hand"},{"detail":"The instant your left hand secures the ball, take a hard dribble and explode — change direction or speed, never just keep gliding.","title":"Push off and accelerate"},{"detail":"Work from stationary → walking → jogging → full speed. At each speed, do 10 clean reps per side before moving up.","title":"Build speed gradually"}],"hub":"skills","id":"between-the-legs","level":"intermediate","positions":["ALL"],"readTime":5,"related":["crossover","behind-the-back","change-of-pace"],"slug":"between-the-legs","subcategory":"ball-handling","tags":["dribbling","moves","ball handling"],"title":"Between the Legs","whatIsIt":["Between the legs is a ball-handling move where you bounce the ball through the space under your forward leg, switching it from one hand to the other. The dribble travels from the front of your body to behind your stance, which makes it naturally protected from defenders.","Unlike a crossover, which moves the ball across your front, between the legs keeps the ball behind your legs and under your body. That is why advanced guards use it at full speed in transition: it is one of the safest ways to switch hands while moving."],"whyItMatters":["When you are sprinting down the court, switching hands in front of your body invites a defender to poke the ball free. Between the legs keeps the ball shielded the entire time, so it is the go-to move for guards who attack at speed. It also opens up combos — between the legs into a crossover, a step-back, or a hesitation — because the ball ends up safely in your other hand."]}
+{
+  "ages": [
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "coachingPoints": [
+    "Stay low — the taller you get during the move, the slower and more exposed the dribble becomes.",
+    "Eyes up, always. If you stare at the ball between your legs, a help defender will arrive unnoticed.",
+    "The bounce should pass under your forward leg, roughly below your knee.",
+    "Protect the ball with your body: your torso should block the defender's reach on the switch.",
+    "Drill it moving before stationary — this move is designed for full-speed use."
+  ],
+  "commonMistakes": [
+    "Bouncing the ball too far in front of the body — fix: the bounce point belongs directly under or slightly behind your forward leg.",
+    "Looking down at the legs — fix: pick a wall target and dribble with eyes on it, slowing down until the feel is natural.",
+    "Standing tall during the move — fix: exaggerate the knee bend; your head should drop at least 6 inches as you begin.",
+    "Swinging the ball too wide through the legs — fix: aim for a tight, compact pass of the ball from front hand to back hand."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "Bounce the ball through your legs to switch hands while keeping the ball shielded — perfect for tight spaces and full-speed moves.",
+  "gameSituations": [
+    "Pushing the ball in transition — a between-the-legs switch lets you change hands at full speed without breaking stride.",
+    "Beating a defender who is crowding you — the move keeps the ball behind your body, where his reach cannot follow.",
+    "Changing direction on a drive — when the lane closes on your strong side, switch hands through the legs and attack the new gap."
+  ],
+  "howTo": [
+    {
+      "detail": "Start in a low stance, dribbling with your right hand. Push the ball forward slightly and step forward with your left leg, opening a gap to bounce through.",
+      "title": "Dribble and step forward"
+    },
+    {
+      "detail": "Aim the bounce at the floor under your forward (left) leg — between knee and foot. A lower, shorter bounce is easier to control than a high one.",
+      "title": "Bounce under your lead leg"
+    },
+    {
+      "detail": "As the ball pops up behind you, catch it with your left hand. Your right hand releases the moment the ball clears your leg.",
+      "title": "Catch with the opposite hand"
+    },
+    {
+      "detail": "The instant your left hand secures the ball, take a hard dribble and explode — change direction or speed, never just keep gliding.",
+      "title": "Push off and accelerate"
+    },
+    {
+      "detail": "Work from stationary → walking → jogging → full speed. At each speed, do 10 clean reps per side before moving up.",
+      "title": "Build speed gradually"
+    }
+  ],
+  "hub": "skills",
+  "id": "between-the-legs",
+  "level": "intermediate",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 5,
+  "related": [
+    "crossover",
+    "behind-the-back",
+    "change-of-pace"
+  ],
+  "slug": "between-the-legs",
+  "subcategory": "ball-handling",
+  "tags": [
+    "dribbling",
+    "moves",
+    "ball handling"
+  ],
+  "title": "Between the Legs",
+  "whatIsIt": [
+    "Between the legs is a ball-handling move where you bounce the ball through the space under your forward leg, switching it from one hand to the other. The dribble travels from the front of your body to behind your stance, which makes it naturally protected from defenders.",
+    "Unlike a crossover, which moves the ball across your front, between the legs keeps the ball behind your legs and under your body. That is why advanced guards use it at full speed in transition: it is one of the safest ways to switch hands while moving."
+  ],
+  "whyItMatters": [
+    "When you are sprinting down the court, switching hands in front of your body invites a defender to poke the ball free. Between the legs keeps the ball shielded the entire time, so it is the go-to move for guards who attack at speed. It also opens up combos — between the legs into a crossover, a step-back, or a hesitation — because the ball ends up safely in your other hand."
+  ],
+  "vi": {
+    "coachingPoints": [
+      "Giữ người thấp — càng đứng cao khi thực hiện, bóng dẫn càng chậm và càng lộ",
+      "Mắt luôn ngẩng lên. Nếu bạn nhìn chằm chằm vào bóng giữa hai chân, một hậu vệ hỗ trợ sẽ ập đến mà bạn không hay",
+      "Điểm nảy bóng nên đi dưới chân trước của bạn, khoảng dưới đầu gối",
+      "Che bóng bằng cơ thể: thân người phải chặn tầm với của hậu vệ khi đổi tay",
+      "Tập động tác khi di chuyển trước khi tập đứng yên — động tác này sinh ra để dùng ở tốc độ cao"
+    ],
+    "commonMistakes": [
+      "Đập bóng quá xa phía trước cơ thể — cách sửa: điểm nảy thuộc về ngay dưới hoặc hơi sau chân trước của bạn",
+      "Cúi nhìn xuống chân — cách sửa: chọn một điểm trên tường và dẫn bóng mắt nhìn vào đó, chậm lại cho đến khi cảm giác tự nhiên",
+      "Đứng thẳng khi thực hiện — cách sửa: gập gối sâu hơn; đầu bạn nên hạ xuống ít nhất 15 cm khi bắt đầu",
+      "Vung bóng quá rộng qua hai chân — cách sửa: nhắm cho bóng đi gọn, chặt từ tay trước sang tay sau"
+    ],
+    "description": "Đập bóng qua hai chân để đổi tay trong khi bóng luôn được che chắn — hoàn hảo cho không gian hẹp và những pha bóng tốc độ cao.",
+    "gameSituations": [
+      "Đẩy bóng trong phản công — cú đổi tay between-the-legs cho phép bạn đổi tay ở tốc độ cao mà không gãy nhịp",
+      "Vượt qua hậu vệ đang áp sát — động tác giữ bóng sau cơ thể, nơi tầm với của anh ta không theo kịp",
+      "Đổi hướng khi đột phá — khi đường đột phá bên tay thuận bị bịt, đổi tay qua hai chân và tấn công khe hở mới"
+    ],
+    "howTo": [
+      {
+        "detail": "Bắt đầu ở tư thế thấp, dẫn bóng bằng tay phải. Đẩy bóng hơi về phía trước và bước chân trái lên, mở ra khoảng trống để đập bóng qua.",
+        "title": "Dẫn bóng và bước chân lên"
+      },
+      {
+        "detail": "Nhắm điểm nảy xuống sàn dưới chân trước (chân trái) — giữa đầu gối và bàn chân. Một cú nảy thấp, ngắn dễ kiểm soát hơn cú nảy cao.",
+        "title": "Đập bóng dưới chân trước"
+      },
+      {
+        "detail": "Khi bóng bật lên sau lưng, bắt nó bằng tay trái. Tay phải buông ra ngay khi bóng vượt qua chân.",
+        "title": "Bắt bóng bằng tay còn lại"
+      },
+      {
+        "detail": "Ngay khi tay trái giữ chắc bóng, dẫn một cú mạnh và bùng nổ — đổi hướng hoặc đổi tốc độ, đừng bao giờ chỉ lướt đi.",
+        "title": "Đạp đà và tăng tốc"
+      },
+      {
+        "detail": "Tập từ đứng yên → đi bộ → chạy nhẹ → hết tốc lực. Ở mỗi tốc độ, thực hiện 10 lần chuẩn mỗi bên trước khi tăng tốc.",
+        "title": "Tăng tốc dần dần"
+      }
+    ],
+    "tags": [
+      "dẫn bóng",
+      "động tác",
+      "xử lý bóng"
+    ],
+    "title": "Dẫn Bóng Qua Hai Chân",
+    "whatIsIt": [
+      "Between the legs là động tác dẫn bóng mà bạn đập bóng qua khoảng trống dưới chân trước, đổi bóng từ tay này sang tay kia. Bóng dẫn đi từ phía trước cơ thể ra sau tư thế đứng, nên nó được bảo vệ tự nhiên khỏi hậu vệ.",
+      "Khác với crossover đưa bóng ngang qua phía trước, between the legs giữ bóng sau hai chân và dưới cơ thể. Đó là lý do các hậu vệ đẳng cấp dùng nó ở tốc độ cao trong phản công: đây là một trong những cách đổi tay an toàn nhất khi đang di chuyển."
+    ],
+    "whyItMatters": [
+      "Khi bạn đang chạy nước rút xuống sân, đổi tay phía trước cơ thể là mời hậu vệ gạt bóng. Between the legs giữ bóng được che chắn suốt thời gian, nên đây là động tác quen thuộc của những hậu vệ tấn công ở tốc độ cao. Nó cũng mở ra các combo — between the legs nối crossover, step-back hay hesitation — vì bóng kết thúc an toàn trong tay còn lại của bạn."
+    ]
+  }
+}

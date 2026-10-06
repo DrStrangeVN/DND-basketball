@@ -22,5 +22,58 @@
     "Pound the ball hard — weak dribbles train weak handles.",
     "If you lose the ball, reset quickly and keep going. Mistakes are part of the workout."
   ],
-  "dateUpdated": "2026-10-06"
+  "dateUpdated": "2026-10-06",
+  "vi":   {
+    "title": "Tập Rê Bóng 10 Phút",
+    "description": "Buổi tập rê bóng nhanh mỗi ngày, làm được ở bất cứ đâu — kiểm soát bóng đứng yên, rèn tay yếu và động tác live chỉ trong 10 phút.",
+    "focus": [
+      "Rê bóng"
+    ],
+    "equipment": [
+      "Bóng rổ"
+    ],
+    "items": [
+      {
+        "name": "Khởi động rê đập",
+        "detail": "Đập bóng thấp và mạnh, 30 giây tay phải, 30 giây tay trái. Mắt nhìn lên.",
+        "time": "1:00"
+      },
+      {
+        "name": "Quấn bóng số 8",
+        "detail": "Quấn bóng quanh 2 chân theo hình số 8 không rê. Tư thế thấp, tay nhanh.",
+        "time": "1:00"
+      },
+      {
+        "name": "Crossover đứng yên",
+        "detail": "Crossover thấp, mạnh trước mặt, 30 giây mỗi hướng. Bóng luôn dưới đầu gối.",
+        "time": "1:00"
+      },
+      {
+        "name": "Chuỗi between-the-legs",
+        "detail": "Luân phiên: qua chân phải, qua chân trái, rồi luân phiên liên tục. Giữ thấp.",
+        "time": "1:30"
+      },
+      {
+        "name": "Quấn behind-the-back",
+        "detail": "Rê behind-the-back đứng yên, 30 giây mỗi hướng. Quấn chặt.",
+        "time": "1:00"
+      },
+      {
+        "name": "Combo khi đi bộ",
+        "detail": "Đi bộ hết sân: crossover ở mỗi vạch, rồi between-the-legs khi quay về. Mắt nhìn lên.",
+        "time": "2:30"
+      },
+      {
+        "name": "Động tác tấn công",
+        "detail": "Từ vạch 3 điểm: một động tác mạnh (crossover, hesitation hoặc in-and-out) rồi bứt tốc ra rổ. Đổi bên.",
+        "time": "2:00"
+      }
+    ],
+    "tips": [
+      "Tập buổi này mỗi ngày — 10 phút rê bóng cộng dồn nhanh hơn một buổi dài mỗi tuần.",
+      "Mắt nhìn lên ở mọi bài; cúi nhìn tạo thói quen sẽ vỡ trong trận.",
+      "Đập bóng mạnh — rê yếu rèn ra tay yếu.",
+      "Mất bóng thì reset nhanh và tiếp tục. Sai lầm là một phần của buổi tập."
+    ]
+  }
 }

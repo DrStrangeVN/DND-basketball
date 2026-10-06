@@ -1,1 +1,146 @@
-{"ages":["U10","U12","U14","U16","U18","Adult"],"coachingPoints":["Involve the player in setting priorities — buy-in beats assignment every time.","Prioritize the weaknesses that limit playing time, not just the player's favorite skills.","Keep each plan to one page; complexity kills consistency.","Celebrate milestones publicly to reinforce the development process."],"commonMistakes":["Trying to fix everything at once instead of focusing on two or three priorities.","Writing the plan and never reviewing it again.","Setting vague goals with no measurable target.","Copying the same generic plan for every player on the roster."],"dateUpdated":"2026-10-06","description":"Build individual development plans that turn weaknesses into strengths — assessment, priorities, and measurable progress for every player.","gameSituations":["Offseason: building a summer workout program for a developing guard.","In-season: fifteen-minute individual sessions before team practice.","Post-tryout: giving cut players a concrete plan to come back stronger."],"howTo":[{"detail":"Evaluate each player's skills, athleticism, and basketball IQ using film and simple testing — not just memory or reputation. Honest baselines make honest plans.","title":"Assess honestly"},{"detail":"Choose the two or three skills that will most change this player's game — for example weak-hand finishing or catch-and-shoot consistency. Focus beats breadth.","title":"Pick two to three priorities"},{"detail":"Assign specific drills, rep targets, and weekly minutes for each priority. \"Work on your left hand\" is a wish; \"100 left-hand finishes, three times a week\" is a plan.","title":"Define the work"},{"detail":"\"Make 70 percent of free throws in practice\" beats \"improve shooting.\" Measurable milestones tell the player — and you — whether the plan is working.","title":"Set measurable milestones"},{"detail":"Sit down with the player monthly, check progress against the milestones, and adjust. Plans are living documents, not preseason paperwork.","title":"Review monthly"},{"detail":"Show how each priority helps the player contribute to the team this season. Development tied to a real role motivates far more than abstract improvement.","title":"Connect it to their role"}],"hub":"coaching","id":"player-development-plan","level":"intermediate","positions":["ALL"],"readTime":6,"related":["practice-planning","teaching-basketball","youth-coaching","player-communication"],"slug":"player-development-plan","subcategory":"coaching","tags":["coaching","player-development","planning","skills"],"title":"Player Development Planning","whatIsIt":["A player development plan is an individualized roadmap for each athlete: where they are now, where they need to be, and the specific work that bridges the gap. It turns the vague goal of \"get better\" into a concrete program of skills, reps, and milestones.","The best plans are simple: two or three priority skills, clear drills for each, and a way to measure progress. They are built with the player, not for them — ownership is what makes a plan survive the season."],"whyItMatters":["Teams improve when individuals improve. Generic team practices develop everyone a little; individual plans develop each player a lot. Players with plans train with purpose in the offseason, track their own growth, and arrive at tryouts transformed.","Plans also keep coaches honest. When every player has documented priorities, development stops being accidental and starts being systematic."]}
+{
+  "ages": [
+    "U10",
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "coachingPoints": [
+    "Involve the player in setting priorities — buy-in beats assignment every time.",
+    "Prioritize the weaknesses that limit playing time, not just the player's favorite skills.",
+    "Keep each plan to one page; complexity kills consistency.",
+    "Celebrate milestones publicly to reinforce the development process."
+  ],
+  "commonMistakes": [
+    "Trying to fix everything at once instead of focusing on two or three priorities.",
+    "Writing the plan and never reviewing it again.",
+    "Setting vague goals with no measurable target.",
+    "Copying the same generic plan for every player on the roster."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "Build individual development plans that turn weaknesses into strengths — assessment, priorities, and measurable progress for every player.",
+  "gameSituations": [
+    "Offseason: building a summer workout program for a developing guard.",
+    "In-season: fifteen-minute individual sessions before team practice.",
+    "Post-tryout: giving cut players a concrete plan to come back stronger."
+  ],
+  "howTo": [
+    {
+      "detail": "Evaluate each player's skills, athleticism, and basketball IQ using film and simple testing — not just memory or reputation. Honest baselines make honest plans.",
+      "title": "Assess honestly"
+    },
+    {
+      "detail": "Choose the two or three skills that will most change this player's game — for example weak-hand finishing or catch-and-shoot consistency. Focus beats breadth.",
+      "title": "Pick two to three priorities"
+    },
+    {
+      "detail": "Assign specific drills, rep targets, and weekly minutes for each priority. \"Work on your left hand\" is a wish; \"100 left-hand finishes, three times a week\" is a plan.",
+      "title": "Define the work"
+    },
+    {
+      "detail": "\"Make 70 percent of free throws in practice\" beats \"improve shooting.\" Measurable milestones tell the player — and you — whether the plan is working.",
+      "title": "Set measurable milestones"
+    },
+    {
+      "detail": "Sit down with the player monthly, check progress against the milestones, and adjust. Plans are living documents, not preseason paperwork.",
+      "title": "Review monthly"
+    },
+    {
+      "detail": "Show how each priority helps the player contribute to the team this season. Development tied to a real role motivates far more than abstract improvement.",
+      "title": "Connect it to their role"
+    }
+  ],
+  "hub": "coaching",
+  "id": "player-development-plan",
+  "level": "intermediate",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 6,
+  "related": [
+    "practice-planning",
+    "teaching-basketball",
+    "youth-coaching",
+    "player-communication"
+  ],
+  "slug": "player-development-plan",
+  "subcategory": "coaching",
+  "tags": [
+    "coaching",
+    "player-development",
+    "planning",
+    "skills"
+  ],
+  "title": "Player Development Planning",
+  "whatIsIt": [
+    "A player development plan is an individualized roadmap for each athlete: where they are now, where they need to be, and the specific work that bridges the gap. It turns the vague goal of \"get better\" into a concrete program of skills, reps, and milestones.",
+    "The best plans are simple: two or three priority skills, clear drills for each, and a way to measure progress. They are built with the player, not for them — ownership is what makes a plan survive the season."
+  ],
+  "whyItMatters": [
+    "Teams improve when individuals improve. Generic team practices develop everyone a little; individual plans develop each player a lot. Players with plans train with purpose in the offseason, track their own growth, and arrive at tryouts transformed.",
+    "Plans also keep coaches honest. When every player has documented priorities, development stops being accidental and starts being systematic."
+  ],
+  "vi": {
+    "title": "Lập Kế Hoạch Phát Triển Cầu Thủ",
+    "description": "Xây dựng kế hoạch phát triển cá nhân biến điểm yếu thành điểm mạnh — đánh giá, ưu tiên, và tiến bộ đo lường được cho từng cầu thủ.",
+    "whatIsIt": [
+      "Kế hoạch phát triển cầu thủ là lộ trình cá nhân hóa cho từng vận động viên: họ đang ở đâu, cần đến đâu, và công việc cụ thể để lấp khoảng cách. Nó biến mục tiêu mơ hồ \"tiến bộ hơn\" thành chương trình cụ thể gồm kỹ năng, số lần lặp lại và các cột mốc.",
+      "Kế hoạch tốt nhất thì đơn giản: hai hoặc ba kỹ năng ưu tiên, bài tập rõ ràng cho từng kỹ năng, và cách đo lường tiến bộ. Kế hoạch được xây dựng CÙNG cầu thủ, không phải THAY họ — sự làm chủ là điều giúp kế hoạch sống sót qua cả mùa giải."
+    ],
+    "whyItMatters": [
+      "Đội bóng tiến bộ khi từng cá nhân tiến bộ. Buổi tập chung phát triển mỗi người một chút; kế hoạch cá nhân phát triển mỗi người rất nhiều. Cầu thủ có kế hoạch tập luyện có mục đích trong mùa hè, tự theo dõi sự tiến bộ, và đến buổi tuyển chọn với diện mạo hoàn toàn mới.",
+      "Kế hoạch còn giúp HLV trung thực với chính mình. Khi mỗi cầu thủ đều có ưu tiên được ghi lại, sự phát triển không còn là ngẫu nhiên mà trở thành hệ thống."
+    ],
+    "howTo": [
+      {
+        "title": "Đánh giá trung thực",
+        "detail": "Đánh giá kỹ năng, thể lực và basketball IQ của từng cầu thủ bằng video và các bài kiểm tra đơn giản — không chỉ dựa vào trí nhớ hay tiếng tăm. Điểm xuất phát trung thực tạo nên kế hoạch trung thực."
+      },
+      {
+        "title": "Chọn hai đến ba ưu tiên",
+        "detail": "Chọn hai hoặc ba kỹ năng sẽ thay đổi trận đấu của cầu thủ này nhiều nhất — ví dụ dứt điểm bằng tay yếu hoặc độ ổn định catch-and-shoot. Tập trung thắng trải rộng."
+      },
+      {
+        "title": "Định nghĩa công việc",
+        "detail": "Giao bài tập cụ thể, chỉ tiêu số lần lặp và số phút mỗi tuần cho từng ưu tiên. \"Tập tay trái đi\" là ước muốn; \"100 lần dứt điểm tay trái, ba lần mỗi tuần\" mới là kế hoạch."
+      },
+      {
+        "title": "Đặt cột mốc đo lường được",
+        "detail": "\"Ném trúng 70% ném phạt trong buổi tập\" hay hơn \"cải thiện khả năng ném\". Cột mốc đo lường được cho cầu thủ — và cho bạn — biết kế hoạch có đang hiệu quả không."
+      },
+      {
+        "title": "Rà soát hằng tháng",
+        "detail": "Ngồi xuống với cầu thủ mỗi tháng, kiểm tra tiến bộ so với các cột mốc, và điều chỉnh. Kế hoạch là tài liệu sống, không phải giấy tờ tiền mùa giải."
+      },
+      {
+        "title": "Gắn với vai trò của họ",
+        "detail": "Cho thấy mỗi ưu tiên giúp cầu thủ đóng góp cho đội bóng mùa này như thế nào. Phát triển gắn với vai trò thực tế tạo động lực hơn nhiều so với sự tiến bộ trừu tượng."
+      }
+    ],
+    "coachingPoints": [
+      "Để cầu thủ tham gia đặt ưu tiên — sự đồng thuận luôn thắng việc áp đặt.",
+      "Ưu tiên những điểm yếu đang hạn chế thời gian thi đấu, không chỉ những kỹ năng cầu thủ thích.",
+      "Giữ mỗi kế hoạch trong một trang; phức tạp giết chết sự kiên trì.",
+      "Ăn mừng các cột mốc công khai để củng cố quá trình phát triển."
+    ],
+    "commonMistakes": [
+      "Cố sửa mọi thứ cùng lúc thay vì tập trung vào hai ba ưu tiên.",
+      "Viết kế hoạch rồi không bao giờ xem lại.",
+      "Đặt mục tiêu mơ hồ không có chỉ tiêu đo lường.",
+      "Sao chép cùng một kế hoạch chung cho mọi cầu thủ trong đội hình."
+    ],
+    "gameSituations": [
+      "Mùa nghỉ: xây dựng chương trình tập hè cho một hậu vệ đang phát triển.",
+      "Trong mùa giải: các buổi tập cá nhân 15 phút trước buổi tập đội.",
+      "Sau tuyển chọn: đưa cho cầu thủ bị loại một kế hoạch cụ thể để trở lại mạnh mẽ hơn."
+    ],
+    "tags": [
+      "huấn luyện",
+      "phát triển cầu thủ",
+      "lập kế hoạch",
+      "kỹ năng"
+    ]
+  }
+}

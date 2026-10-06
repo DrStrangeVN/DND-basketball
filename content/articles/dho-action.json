@@ -124,5 +124,61 @@
     "drive-and-kick-offense",
     "pistol-action"
   ],
-  "dateUpdated": "2026-10-06"
+  "dateUpdated": "2026-10-06",
+  "vi": {
+    "coachingPoints": [
+      "Tập pha trao bóng ở tốc độ cao — DHO đi bộ dạy thời điểm sai",
+      "Pha handoff phải sạch: những pha trao bóng lóng ngóng là mất bóng sống",
+      "Dạy người chắn xoay góc màn chắn dựa vào hướng hậu vệ đang nghiêng",
+      "Nối DHO vào các bài đánh khác: DHO nối màn chắn bóng là món tủ của tấn công hiện đại"
+    ],
+    "commonMistakes": [
+      "Trao bóng khi chân đứng yên, cho hàng thủ thời gian switch hoặc vượt qua",
+      "'Người chắn' chạy đi sau handoff thay vì dựng một màn chắn thật",
+      "Ném bóng thay vì đặt bóng — dẫn đến lóng ngóng khi đông người"
+    ],
+    "description": "Người cầm bóng dẫn tới đồng đội và trao bóng — một màn chắn di động tạo ra tấn công tức thì.",
+    "gameSituations": [
+      "Tạo cho tay ném một cú ba điểm trống khi hàng thủ đang tập trung cao độ",
+      "Tấn công một big chậm chân không xoay ngang kịp với bài handoff",
+      "Như một bài đánh chuyển tiếp: DHO nối pick-and-roll khiến hàng thủ chạy loạn"
+    ],
+    "howTo": [
+      {
+        "detail": "Tấn công pha handoff với tốc độ, dẫn bóng tới hông ngoài của người nhận. Một pha DHO chậm để hàng thủ switch gọn gàng.",
+        "title": "Dẫn bóng tới đồng đội với tốc độ"
+      },
+      {
+        "detail": "Đặt bóng vào túi của người nhận khi họ lấy nó — đừng ném. Pha trao đổi nên diễn ra ở tốc độ cao mà không lóng ngóng.",
+        "title": "Trao bóng túi-đối-túi"
+      },
+      {
+        "detail": "Ngay khi bóng rời tay bạn, bạn là một người chắn. Dựng chân, giữ hợp lệ, và chặn hậu vệ của người nhận lại.",
+        "title": "Trở thành màn chắn ngay lập tức"
+      },
+      {
+        "detail": "Căn thời gian pha cắt để đón bóng khi đang chạy, vai vượt qua hậu vệ. Bắt bóng và đi — ném, đột phá, hoặc tấn công closeout.",
+        "title": "Người nhận: lấy bóng khi đang di chuyển"
+      },
+      {
+        "detail": "Nếu họ chui dưới, hãy ném. Nếu họ đuổi theo, hãy đột phá. Nếu họ switch, hãy tấn công mismatch. DHO tạo ra cùng những cách đọc như màn chắn bóng.",
+        "title": "Đọc hàng thủ như PNR"
+      }
+    ],
+    "tags": [
+      "dho",
+      "trao bóng",
+      "màn chắn",
+      "bài đánh"
+    ],
+    "title": "DHO — Trao Bóng Khi Dẫn",
+    "whatIsIt": [
+      "Dribble hand-off (DHO) là khi người cầm bóng dẫn thẳng tới đồng đội và trao bóng cho họ, rồi ngay lập tức trở thành người chắn cho họ. Đó là một pha pick-and-roll đang chuyển động — chính pha handoff là màn chắn.",
+      "DHO có mặt khắp nơi trong tấn công hiện đại vì nó gộp ba hành động thành một: một đường chuyền, một màn chắn, và một pha xuất phát xuống dốc. Người nhận bắt bóng khi đã đang di chuyển với tốc độ, khiến họ cực kỳ khó kèm.",
+      "Các đội dùng DHO để tạo khoảng trống cho tay ném, tấn công những big chậm chân, và chảy từ bài đánh này sang bài đánh khác mà bóng không bao giờ dừng."
+    ],
+    "whyItMatters": [
+      "Một pha bắt bóng đứng yên để hàng thủ bày trận; một pha bắt bóng DHO đi kèm đà và một màn chắn sống. Đây là cách hiệu quả nhất để tạo cho tay ném một cú nhìn sạch hoặc cho người đột phá một pha xuất phát đà, và nó giữ bóng di chuyển — đúng điều mà các hệ thống tấn công hiện đại muốn."
+    ]
+  }
 }

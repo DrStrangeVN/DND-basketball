@@ -1,1 +1,188 @@
-{"ages":["U12","U14","U16","U18","Adult","Competitive"],"coachingPoints":["Drill all three closeout types — fly-by, short, and balanced — each with its own counter.","Teach that the shot fake is a read, not a habit; fake only when the defender is actually biting.","Emphasize the first dribble past a closeout: hard, low, and past the defender's hip.","Film your players' closeout attacks — most players default to a single counter and need a second one."],"commonMistakes":["Shooting over every closeout regardless of how hard the contest is.","Driving into a balanced, set defender instead of moving the ball.","Shot-faking when the defender is not reacting — wasting the advantage.","Picking up the dribble too early after beating the closeout, letting help recover."],"dateUpdated":"2026-10-06","description":"How to read a closeout defender — their speed, angle, and balance — and choose instantly between the shot, drive, or pass.","diagram":{"ball":"O1","defense":[{"label":"X1","x":65,"y":53},{"label":"X2","x":50,"y":34}],"moves":[{"from":"O1","kind":"dribble","to":"rim"}],"offense":[{"label":"O1","x":70,"y":62},{"label":"O2","x":86,"y":20}],"passes":[{"from":"O1","to":"O2"}],"shots":[],"title":"Reading the closeout: drive the fly-by, kick to the corner"},"gameSituations":["Catching on the wing against a rotating defense with a defender sprinting at you.","Kick-out three in transition with a defender closing out hard.","Driving baseline when the closeout comes from the middle and takes away the middle drive."],"howTo":[{"detail":"A sprinting, out-of-control closeout is an invitation to drive. A short, controlled closeout means the drive is covered — consider the shot or the pass.","title":"Read the speed"},{"detail":"If the defender's momentum carries them past your shoulder, one hard dribble gets you to the rim. If they stop on balance, respect the contest.","title":"Read the balance"},{"detail":"A closeout arriving from your left opens the right-hand drive. Attack the defender's top foot — the side their momentum cannot recover to.","title":"Read the angle"},{"detail":"Feet set, knees loaded, hands ready before the ball arrives. The threat of your shot must be real, or the defender has no reason to close out hard.","title":"Catch shot-ready"},{"detail":"Only fake when the defender is actually leaving their feet or lunging. Faking a balanced defender wastes your advantage and lets help arrive.","title":"Use the shot fake selectively"},{"detail":"Beating the closeout is step one. The help defender rotating over is step two — know before the drive whether you are finishing or kicking.","title":"Know the next read"}],"hub":"basketball-iq","id":"closeout-reads","level":"intermediate","positions":["ALL"],"readTime":5,"related":["reading-the-defense","shot-selection-iq","decision-making","timing-basketball"],"slug":"closeout-reads","subcategory":"basketball-iq","tags":["basketball-iq","closeout","shooting","driving"],"title":"Reading Closeouts","whatIsIt":["A closeout is a defender sprinting at you to contest your shot, and reading it is one of the most repeated decisions in basketball. In the split second the defender arrives, you must read three things: how fast they are coming, how balanced they are, and which side they are taking away.","A defender flying out of control is an invitation to drive. A short, balanced closeout means the shot may be contested and the drive is covered — so move the ball. Great shooters do not just shoot over closeouts; they punish every type of closeout with the right counter."],"whyItMatters":["Closeouts happen dozens of times per game, and each one is a scoring opportunity if read correctly. Players who shoot over every closeout become predictable and inefficient; players who read them keep the defense guessing and generate layups, free throws, and kick-out threes.","Closeout reads also make you a better teammate. The drive that collapses the defense creates the open shot for someone else — the closeout you punish is often the assist someone else scores."]}
+{
+  "ages": [
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult",
+    "Competitive"
+  ],
+  "coachingPoints": [
+    "Drill all three closeout types — fly-by, short, and balanced — each with its own counter.",
+    "Teach that the shot fake is a read, not a habit; fake only when the defender is actually biting.",
+    "Emphasize the first dribble past a closeout: hard, low, and past the defender's hip.",
+    "Film your players' closeout attacks — most players default to a single counter and need a second one."
+  ],
+  "commonMistakes": [
+    "Shooting over every closeout regardless of how hard the contest is.",
+    "Driving into a balanced, set defender instead of moving the ball.",
+    "Shot-faking when the defender is not reacting — wasting the advantage.",
+    "Picking up the dribble too early after beating the closeout, letting help recover."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "How to read a closeout defender — their speed, angle, and balance — and choose instantly between the shot, drive, or pass.",
+  "diagram": {
+    "ball": "O1",
+    "defense": [
+      {
+        "label": "X1",
+        "x": 65,
+        "y": 53
+      },
+      {
+        "label": "X2",
+        "x": 50,
+        "y": 34
+      }
+    ],
+    "moves": [
+      {
+        "from": "O1",
+        "kind": "dribble",
+        "to": "rim"
+      }
+    ],
+    "offense": [
+      {
+        "label": "O1",
+        "x": 70,
+        "y": 62
+      },
+      {
+        "label": "O2",
+        "x": 86,
+        "y": 20
+      }
+    ],
+    "passes": [
+      {
+        "from": "O1",
+        "to": "O2"
+      }
+    ],
+    "shots": [],
+    "title": "Reading the closeout: drive the fly-by, kick to the corner"
+  },
+  "gameSituations": [
+    "Catching on the wing against a rotating defense with a defender sprinting at you.",
+    "Kick-out three in transition with a defender closing out hard.",
+    "Driving baseline when the closeout comes from the middle and takes away the middle drive."
+  ],
+  "howTo": [
+    {
+      "detail": "A sprinting, out-of-control closeout is an invitation to drive. A short, controlled closeout means the drive is covered — consider the shot or the pass.",
+      "title": "Read the speed"
+    },
+    {
+      "detail": "If the defender's momentum carries them past your shoulder, one hard dribble gets you to the rim. If they stop on balance, respect the contest.",
+      "title": "Read the balance"
+    },
+    {
+      "detail": "A closeout arriving from your left opens the right-hand drive. Attack the defender's top foot — the side their momentum cannot recover to.",
+      "title": "Read the angle"
+    },
+    {
+      "detail": "Feet set, knees loaded, hands ready before the ball arrives. The threat of your shot must be real, or the defender has no reason to close out hard.",
+      "title": "Catch shot-ready"
+    },
+    {
+      "detail": "Only fake when the defender is actually leaving their feet or lunging. Faking a balanced defender wastes your advantage and lets help arrive.",
+      "title": "Use the shot fake selectively"
+    },
+    {
+      "detail": "Beating the closeout is step one. The help defender rotating over is step two — know before the drive whether you are finishing or kicking.",
+      "title": "Know the next read"
+    }
+  ],
+  "hub": "basketball-iq",
+  "id": "closeout-reads",
+  "level": "intermediate",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 5,
+  "related": [
+    "reading-the-defense",
+    "shot-selection-iq",
+    "decision-making",
+    "timing-basketball"
+  ],
+  "slug": "closeout-reads",
+  "subcategory": "basketball-iq",
+  "tags": [
+    "basketball-iq",
+    "closeout",
+    "shooting",
+    "driving"
+  ],
+  "title": "Reading Closeouts",
+  "whatIsIt": [
+    "A closeout is a defender sprinting at you to contest your shot, and reading it is one of the most repeated decisions in basketball. In the split second the defender arrives, you must read three things: how fast they are coming, how balanced they are, and which side they are taking away.",
+    "A defender flying out of control is an invitation to drive. A short, balanced closeout means the shot may be contested and the drive is covered — so move the ball. Great shooters do not just shoot over closeouts; they punish every type of closeout with the right counter."
+  ],
+  "whyItMatters": [
+    "Closeouts happen dozens of times per game, and each one is a scoring opportunity if read correctly. Players who shoot over every closeout become predictable and inefficient; players who read them keep the defense guessing and generate layups, free throws, and kick-out threes.",
+    "Closeout reads also make you a better teammate. The drive that collapses the defense creates the open shot for someone else — the closeout you punish is often the assist someone else scores."
+  ],
+  "vi": {
+    "coachingPoints": [
+      "Tập cả ba loại closeout — bay qua, ngắn, và cân bằng — mỗi loại với một cách đối phó riêng",
+      "Dạy rằng shot fake là một cách đọc, không phải thói quen; chỉ giả khi hậu vệ thật sự cắn câu",
+      "Nhấn mạnh cú dẫn đầu tiên qua closeout: mạnh, thấp, và vượt qua hông hậu vệ",
+      "Quay video các pha tấn công closeout của cầu thủ — hầu hết chỉ dùng một cách đối phó mặc định và cần thêm cách thứ hai"
+    ],
+    "commonMistakes": [
+      "Ném qua mọi closeout bất kể mức độ contest mạnh thế nào",
+      "Đột phá vào một hậu vệ đã đứng trụ cân bằng thay vì di chuyển bóng",
+      "Giả ném khi hậu vệ không phản ứng — lãng phí lợi thế",
+      "Nhấc bóng lên quá sớm sau khi vượt closeout, để hàng thủ kịp lui về"
+    ],
+    "description": "Cách đọc hậu vệ closeout — tốc độ, góc độ và thăng bằng của họ — và chọn ngay giữa ném, đột phá hay chuyền.",
+    "gameSituations": [
+      "Bắt bóng ở cánh trước hàng thủ đang xoay với một hậu vệ chạy nước rút về phía bạn",
+      "Cú ba điểm kick-out trong phản công với một hậu vệ closeout quyết liệt",
+      "Đột phá baseline khi closeout đến từ giữa sân và chặn đường đột phá giữa"
+    ],
+    "howTo": [
+      {
+        "detail": "Một pha closeout chạy nước rút, mất kiểm soát là lời mời đột phá. Một pha closeout ngắn, có kiểm soát nghĩa là đường đột phá đã bị bịt — hãy cân nhắc ném hoặc chuyền.",
+        "title": "Đọc tốc độ"
+      },
+      {
+        "detail": "Nếu đà của hậu vệ đưa anh ta vượt qua vai bạn, một cú dẫn mạnh là tới rổ. Nếu anh ta dừng lại thăng bằng, hãy tôn trọng pha contest.",
+        "title": "Đọc thăng bằng"
+      },
+      {
+        "detail": "Một pha closeout đến từ bên trái mở ra đường đột phá tay phải. Tấn công vào chân trên của hậu vệ — phía mà đà của anh ta không thể quay lại.",
+        "title": "Đọc góc độ"
+      },
+      {
+        "detail": "Chân đã trụ, gối đã nạp, tay sẵn sàng trước khi bóng tới. Mối đe dọa từ cú ném của bạn phải thật, nếu không hậu vệ chẳng có lý do gì phải closeout quyết liệt.",
+        "title": "Bắt bóng sẵn sàng ném"
+      },
+      {
+        "detail": "Chỉ giả khi hậu vệ thật sự nhảy lên hoặc lao người. Giả với một hậu vệ đang thăng bằng là lãng phí lợi thế và để hàng thủ kịp đến.",
+        "title": "Dùng shot fake có chọn lọc"
+      },
+      {
+        "detail": "Vượt closeout mới là bước một. Hậu vệ hỗ trợ xoay ra là bước hai — hãy biết trước khi đột phá là mình dứt điểm hay kick ra.",
+        "title": "Biết trước cách đọc tiếp theo"
+      }
+    ],
+    "tags": [
+      "basketball iq",
+      "closeout",
+      "ném rổ",
+      "đột phá"
+    ],
+    "title": "Đọc Tình Huống Closeout",
+    "whatIsIt": [
+      "Closeout là một hậu vệ chạy nước rút về phía bạn để contest cú ném, và đọc nó là một trong những quyết định lặp lại nhiều nhất trong bóng rổ. Trong tích tắc hậu vệ đến nơi, bạn phải đọc ba điều: họ đến nhanh thế nào, họ thăng bằng ra sao, và họ đang chặn phía nào.",
+      "Một hậu vệ bay tới mất kiểm soát là lời mời đột phá. Một pha closeout ngắn, cân bằng nghĩa là cú ném có thể bị contest và đường đột phá đã bị bịt — vậy hãy di chuyển bóng. Những tay ném vĩ đại không chỉ ném qua closeout; họ trừng phạt mọi loại closeout bằng cách đối phó đúng."
+    ],
+    "whyItMatters": [
+      "Closeout xảy ra hàng chục lần mỗi trận, và mỗi lần là một cơ hội ghi điểm nếu đọc đúng. Cầu thủ nào cũng ném qua mọi closeout sẽ trở nên dễ đoán và kém hiệu quả; cầu thủ biết đọc chúng khiến hàng thủ luôn phải đoán và tạo ra layup, ném phạt, và những cú ba điểm kick-out.",
+      "Đọc closeout cũng giúp bạn trở thành đồng đội tốt hơn. Pha đột phá làm sụp đổ hàng thủ tạo ra cú ném trống cho người khác — closeout bạn trừng phạt thường là pha kiến tạo để người khác ghi điểm."
+    ]
+  }
+}

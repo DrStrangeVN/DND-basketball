@@ -1,1 +1,136 @@
-{"ages":["U10","U12","U14","U16","U18","Adult"],"coachingPoints":["Feet before hands — your base decides the shot; the catch is just delivery.","Catch in your pocket, high and tight; long dips give defenders time to close.","Release on the way up, not at the top — catch-and-shoot is a quick, compact motion.","Keep the same mechanics at full speed as in form shooting; never invent a new form for game shots.","Track makes out of 50 from five spots; honest numbers reveal real progress."],"commonMistakes":["Catching low at the waist and dipping — fix: practice catching at chest height with a partner, no dip allowed.","Landing off-balance from a slow approach — fix: replace the run with the two-foot hop and land square.","Rushing the release and losing form — fix: speed comes from preparation, not from a hurried, broken motion.","Only practicing stationary catches — fix: add movement: sprint, cut, or come off a screen before each rep."],"dateUpdated":"2026-10-06","description":"Catch, set, and release in one fluid motion — the most efficient shot in basketball and the foundation of spacing.","gameSituations":["Spot-up threes in the corner — the classic catch-and-shoot: drive-and-kick creates it, you finish it.","Fast-break kick-outs — the trailer catches on the wing and shoots before the defense recovers.","Coming off down screens — curl or pop to your spot, catch ready, and shoot over the trailing defender."],"howTo":[{"detail":"Cut hard to your spot or sprint off the screen. A lazy approach means a late, contested shot.","title":"Move with purpose to your spot"},{"detail":"Finish the approach with a two-foot hop, landing balanced with knees bent and shoulders facing the rim.","title":"Hop into a square stance"},{"detail":"Hands at chest height, fingers up — present a clear target. Catch the ball high, in or near your shooting pocket.","title":"Show hands and catch high"},{"detail":"There is no dip, no extra load. The catch flows straight into your shooting motion — one continuous rise.","title":"Flow straight into the shot"},{"detail":"Extend up through the legs, release with the shooting hand, guide hand passive. Hold the follow-through and watch it drop.","title":"Rise, release, and hold"}],"hub":"skills","id":"catch-and-shoot","level":"beginner","positions":["ALL"],"readTime":5,"related":["shooting-mechanics","shot-preparation","three-point-shooting","off-screen-shooting"],"slug":"catch-and-shoot","subcategory":"shooting","tags":["shooting","three-point","offense"],"title":"Catch & Shoot","whatIsIt":["Catch and shoot is the art of receiving a pass and shooting in one continuous motion — no dribble, no hesitation. It is the fastest shot in basketball and the engine of modern spacing: defenses stretch because shooters punish help with instant threes.","What looks simple is actually a chain of details: the cut to get open, the footwork before the catch, the high catch, and the compact release. Elite catch-and-shoot players make it look effortless because they prepared before the ball arrived."],"whyItMatters":["Analytics are clear: catch-and-shoot threes are among the most efficient shots in basketball. Every offense needs players who can punish a collapsing defense instantly. For young players, it is also the easiest path to real playing time — coaches always find minutes for someone who moves without the ball and makes open shots."]}
+{
+  "ages": [
+    "U10",
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "coachingPoints": [
+    "Feet before hands — your base decides the shot; the catch is just delivery.",
+    "Catch in your pocket, high and tight; long dips give defenders time to close.",
+    "Release on the way up, not at the top — catch-and-shoot is a quick, compact motion.",
+    "Keep the same mechanics at full speed as in form shooting; never invent a new form for game shots.",
+    "Track makes out of 50 from five spots; honest numbers reveal real progress."
+  ],
+  "commonMistakes": [
+    "Catching low at the waist and dipping — fix: practice catching at chest height with a partner, no dip allowed.",
+    "Landing off-balance from a slow approach — fix: replace the run with the two-foot hop and land square.",
+    "Rushing the release and losing form — fix: speed comes from preparation, not from a hurried, broken motion.",
+    "Only practicing stationary catches — fix: add movement: sprint, cut, or come off a screen before each rep."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "Catch, set, and release in one fluid motion — the most efficient shot in basketball and the foundation of spacing.",
+  "gameSituations": [
+    "Spot-up threes in the corner — the classic catch-and-shoot: drive-and-kick creates it, you finish it.",
+    "Fast-break kick-outs — the trailer catches on the wing and shoots before the defense recovers.",
+    "Coming off down screens — curl or pop to your spot, catch ready, and shoot over the trailing defender."
+  ],
+  "howTo": [
+    {
+      "detail": "Cut hard to your spot or sprint off the screen. A lazy approach means a late, contested shot.",
+      "title": "Move with purpose to your spot"
+    },
+    {
+      "detail": "Finish the approach with a two-foot hop, landing balanced with knees bent and shoulders facing the rim.",
+      "title": "Hop into a square stance"
+    },
+    {
+      "detail": "Hands at chest height, fingers up — present a clear target. Catch the ball high, in or near your shooting pocket.",
+      "title": "Show hands and catch high"
+    },
+    {
+      "detail": "There is no dip, no extra load. The catch flows straight into your shooting motion — one continuous rise.",
+      "title": "Flow straight into the shot"
+    },
+    {
+      "detail": "Extend up through the legs, release with the shooting hand, guide hand passive. Hold the follow-through and watch it drop.",
+      "title": "Rise, release, and hold"
+    }
+  ],
+  "hub": "skills",
+  "id": "catch-and-shoot",
+  "level": "beginner",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 5,
+  "related": [
+    "shooting-mechanics",
+    "shot-preparation",
+    "three-point-shooting",
+    "off-screen-shooting"
+  ],
+  "slug": "catch-and-shoot",
+  "subcategory": "shooting",
+  "tags": [
+    "shooting",
+    "three-point",
+    "offense"
+  ],
+  "title": "Catch & Shoot",
+  "whatIsIt": [
+    "Catch and shoot is the art of receiving a pass and shooting in one continuous motion — no dribble, no hesitation. It is the fastest shot in basketball and the engine of modern spacing: defenses stretch because shooters punish help with instant threes.",
+    "What looks simple is actually a chain of details: the cut to get open, the footwork before the catch, the high catch, and the compact release. Elite catch-and-shoot players make it look effortless because they prepared before the ball arrived."
+  ],
+  "whyItMatters": [
+    "Analytics are clear: catch-and-shoot threes are among the most efficient shots in basketball. Every offense needs players who can punish a collapsing defense instantly. For young players, it is also the easiest path to real playing time — coaches always find minutes for someone who moves without the ball and makes open shots."
+  ],
+  "vi": {
+    "coachingPoints": [
+      "Chân trước, tay sau — trụ chân quyết định cú ném; bắt bóng chỉ là khâu đưa bóng tới",
+      "Bắt bóng trong túi ném, cao và gọn; nhúng bóng sâu cho hậu vệ thời gian áp sát",
+      "Ra tay khi đang lên, không phải ở đỉnh — catch-and-shoot là động tác nhanh, gọn",
+      "Giữ cùng kỹ thuật ở tốc độ cao như khi tập form; đừng bao giờ sáng tạo form mới cho cú ném trong trận",
+      "Đếm số cú vào trên 50 lần ném ở năm vị trí; con số trung thực cho thấy tiến bộ thật"
+    ],
+    "commonMistakes": [
+      "Bắt bóng thấp ở thắt lưng rồi nhúng bóng — cách sửa: tập bắt bóng ngang ngực với đồng đội, cấm nhúng bóng",
+      "Tiếp đất mất thăng bằng vì đà chạy chậm — cách sửa: thay đà chạy bằng cú nhảy hai chân và tiếp đất vuông góc",
+      "Vội ra tay làm mất form — cách sửa: tốc độ đến từ sự chuẩn bị, không phải từ động tác vội vàng, gãy form",
+      "Chỉ tập bắt bóng đứng yên — cách sửa: thêm di chuyển: chạy nước rút, cắt vào, hoặc chạy qua màn chắn trước mỗi lần tập"
+    ],
+    "description": "Bắt bóng, trụ chân và ra tay trong một chuyển động liền mạch — cú ném hiệu quả nhất trong bóng rổ và nền tảng của spacing.",
+    "gameSituations": [
+      "Ném ba điểm spot-up ở góc sân — catch-and-shoot kinh điển: drive-and-kick tạo ra nó, bạn kết thúc nó",
+      "Kick-out trong phản công nhanh — người chạy sau bắt bóng ở cánh và ném trước khi hàng thủ kịp lui về",
+      "Chạy qua màn chắn down screen — curl hoặc pop ra vị trí, bắt bóng sẵn sàng và ném qua hậu vệ đuổi theo"
+    ],
+    "howTo": [
+      {
+        "detail": "Cắt mạnh vào vị trí hoặc chạy nước rút qua màn chắn. Đà tiếp cận hời hợt nghĩa là cú ném đến muộn và bị contest.",
+        "title": "Di chuyển có mục đích vào vị trí"
+      },
+      {
+        "detail": "Kết thúc đà tiếp cận bằng cú nhảy hai chân, tiếp đất thăng bằng với gối cong và vai hướng về rổ.",
+        "title": "Nhảy vào tư thế vuông góc"
+      },
+      {
+        "detail": "Tay ở ngang ngực, ngón tay hướng lên — tạo mục tiêu rõ ràng. Bắt bóng cao, trong hoặc gần túi ném của bạn.",
+        "title": "Giơ tay và bắt bóng cao"
+      },
+      {
+        "detail": "Không nhúng bóng, không nạp thêm lực. Bóng từ tay đi thẳng vào động tác ném — một nhịp vươn lên liền mạch.",
+        "title": "Chuyển thẳng vào cú ném"
+      },
+      {
+        "detail": "Vươn lên bằng chân, ra tay bằng tay ném, tay dẫn giữ thụ động. Giữ tay theo đà và nhìn bóng rơi vào rổ.",
+        "title": "Vươn lên, ra tay và giữ đà"
+      }
+    ],
+    "tags": [
+      "ném rổ",
+      "ném ba điểm",
+      "tấn công"
+    ],
+    "title": "Bắt Bóng Ném Ngay",
+    "whatIsIt": [
+      "Catch and shoot là nghệ thuật nhận đường chuyền và ném trong một chuyển động liên tục — không dẫn bóng, không chần chừ. Đây là cú ném nhanh nhất trong bóng rổ và là động cơ của spacing hiện đại: hàng thủ phải giãn ra vì các tay ném trừng phạt sự hỗ trợ bằng những cú ba điểm tức thì.",
+      "Trông có vẻ đơn giản nhưng thực ra là một chuỗi chi tiết: pha cắt để thoát kèm, bước chân trước khi bắt bóng, bắt bóng cao và cú ra tay gọn. Những tay catch-and-shoot đẳng cấp làm nó trông nhẹ nhàng vì họ đã chuẩn bị trước khi bóng tới."
+    ],
+    "whyItMatters": [
+      "Số liệu phân tích rất rõ: những cú ba điểm catch-and-shoot thuộc nhóm cú ném hiệu quả nhất trong bóng rổ. Mọi hệ thống tấn công đều cần cầu thủ có thể trừng phạt hàng thủ co cụm ngay lập tức. Với cầu thủ trẻ, đây cũng là con đường dễ nhất để có thời gian thi đấu thật — huấn luyện viên luôn tìm được phút thi đấu cho người biết di chuyển không bóng và ném trúng những cú trống trải."
+    ]
+  }
+}

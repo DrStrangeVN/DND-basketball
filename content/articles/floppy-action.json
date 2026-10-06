@@ -137,5 +137,61 @@
     "elevator-doors",
     "iverson-cut"
   ],
-  "dateUpdated": "2026-10-06"
+  "dateUpdated": "2026-10-06",
+  "vi": {
+    "title": "Floppy",
+    "description": "Chắn chéo dưới rổ để giải phóng tay ném bứt tốc sang hai wing — bài đánh kinh điển cho tay ném.",
+    "whatIsIt": [
+      "Floppy là một bài đánh được thiết kế cho tay ném: hai big dựng pha chắn chéo cho nhau dưới rổ trong khi tay ném chọn phía để bứt tốc, rồi nhận một pha chắn để bật ra wing nhận bóng ném.",
+      "Vẻ đẹp của nó nằm ở sự lựa chọn. Tay ném đọc hậu vệ và chọn phía trống — hàng thủ không thể chuẩn bị cho cả hai. Pha chắn đôi bên dưới chiếm giữ hàng thủ hỗ trợ, nên tay ném thường thoát ra với khoảng cách thật sự.",
+      "Floppy đã giải phóng những tay ném vĩ đại nhất của môn này suốt hàng thập kỷ. Nó đơn giản, có thể lặp lại, và gần như không thể bị vô hiệu hóa hoàn toàn."
+    ],
+    "whyItMatters": [
+      "Tay ném cừ khôi làm méo mó hàng thủ, nhưng chỉ khi họ thoát được kèm. Floppy là hệ thống 'giao hàng' đáng tin cậy nhất từng được thiết kế cho một cú ném ba nhận-bóng-ném-ngay — hai pha chắn, một pha đọc, và một cú ném, tất cả trong khoảng bốn giây."
+    ],
+    "howTo": [
+      {
+        "title": "Xếp hai big dưới rổ",
+        "detail": "Hai người chắn bắt đầu ở hai block đối diện. Nhiệm vụ đầu tiên của họ là chắn cho nhau — pha chắn chéo chiếm giữ các hậu vệ hỗ trợ."
+      },
+      {
+        "title": "Tay ném đọc và chọn phía",
+        "detail": "Tay ném bắt đầu dưới rổ, đọc vị trí hậu vệ, và bứt tốc sang phía trống. Sự lựa chọn chính là vũ khí."
+      },
+      {
+        "title": "Bứt tốc qua pha chắn",
+        "detail": "Một trong hai big xoay người và chắn cho tay ném chạy ra. Vai kề vai, hết tốc độ — tay ném nên nhận bóng với khoảng cách an toàn."
+      },
+      {
+        "title": "Nhận bóng trong tư thế sẵn sàng ném",
+        "detail": "Chân đặt sẵn trên không, tay sẵn sàng, mắt nhìn rổ. Đường chuyền nên đến đúng 'túi ném' của tay ném."
+      },
+      {
+        "title": "Chuẩn bị sẵn đòn đối phó",
+        "detail": "Nếu hậu vệ bám rát phía sau, tay ném curl vào rổ. Nếu họ chui dưới pha chắn, đó là một cú nhận-bóng-ném-ngay thẳng thừng. Dạy cả hai."
+      }
+    ],
+    "coachingPoints": [
+      "Pha đọc của tay ném chính là kỹ năng — rèn chọn phía trước một hậu vệ thật.",
+      "Các pha chắn phải đúng luật và có lực; chắn di động giết chết cả pha bóng lẫn nhịp độ.",
+      "Người chuyền phải chuyền đúng lúc — chuyền muộn biến cú ném trống thành cú ném bị kèm.",
+      "Chạy cả hai phía trong buổi tập để hàng thủ không thể nghiêng về một bên."
+    ],
+    "commonMistakes": [
+      "Tay ném quyết định phía trước khi đọc hậu vệ — lúc đó nó chỉ là một pha cắt chậm chạp.",
+      "Các big chắn vào không khí vì chẳng va chạm với ai.",
+      "Nhận bóng với chân chưa sẵn sàng và cần thêm một nhịp mới ném được."
+    ],
+    "gameSituations": [
+      "Các pha ATO được thiết kế cho tay ném hay nhất của bạn.",
+      "Khi hàng thủ đang từ chối bóng tay ném và bạn cần một cách có cấu trúc để giải phóng họ.",
+      "Cuối hiệp, khi mục tiêu là một cú ném ba sạch."
+    ],
+    "tags": [
+      "floppy",
+      "chắn bóng",
+      "tay ném",
+      "bài đánh"
+    ]
+  }
 }

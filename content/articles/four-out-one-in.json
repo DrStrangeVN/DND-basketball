@@ -76,5 +76,61 @@
     "drive-and-kick-offense",
     "horns-offense"
   ],
-  "dateUpdated": "2026-10-06"
+  "dateUpdated": "2026-10-06",
+  "vi": {
+    "title": "Tấn Công 4-Out 1-In",
+    "description": "Bốn cầu thủ vòng ngoài cộng một cầu thủ trong — sự cân bằng kinh điển giữa spacing và sự hiện diện ở post.",
+    "whatIsIt": [
+      "4-out 1-in đặt bốn cầu thủ trên vòng ngoài — ở góc và wing hoặc kiểu một đỉnh-hai wing — với một cầu thủ ở trong, thường ở block hoặc elbow. Đây là đội hình tấn công phổ biến nhất trong lịch sử bóng rổ.",
+      "Cầu thủ trong tạo ra mối đe dọa post, phương án high-low, và một rebounder tấn công, trong khi bốn cầu thủ vòng ngoài giữ sân giãn cho các pha đột phá và chắn bóng.",
+      "Nó có thể đánh như motion, như tấn công chắn bóng, hoặc như tấn công đưa bóng vào post. Điểm căng cần quản lý: cầu thủ post không được làm tắc các làn đột phá mà bốn cầu thủ vòng ngoài tạo ra."
+    ],
+    "whyItMatters": [
+      "Hầu hết các đội đều có một cầu thủ to hoặc khỏe hơn những người còn lại, và 4-out 1-in giúp cầu thủ đó phát huy mà không làm sân chật lại. Nó dạy bóng rổ inside-out — những lần chạm bóng ở post làm sụp đổ hàng thủ rồi chuyền bật ra cho các tay ném — một công thức chiến thắng ở mọi cấp độ."
+    ],
+    "howTo": [
+      {
+        "title": "Đặt post ở block phía bóng",
+        "detail": "Cầu thủ trong chắn người ở block hoặc bật ra elbow tùy góc đưa bóng vào. Giữ họ tránh xa làn đột phá ở giữa."
+      },
+      {
+        "title": "Đưa bóng vào post có mục đích",
+        "detail": "Chỉ chuyền vào post khi người chắn đã có vị trí — hậu vệ ở sau lưng hoặc phía trên. Một đường chuyền vào tệ là một turnover bóng sống."
+      },
+      {
+        "title": "Cắt và di chuyển sau đường chuyền vào",
+        "detail": "Khi bóng vào trong, các cầu thủ vòng ngoài cắt, chắn, hoặc di chuyển chỗ. Đứng yên quanh đường chuyền vào post khiến đối phương double-team dễ dàng."
+      },
+      {
+        "title": "Đánh inside-out",
+        "detail": "Nếu post bị double-team, đường chuyền bật ra vòng ngoài là lựa chọn ưu tiên. Xoay bóng và tấn công hàng thủ đang xoay sở."
+      },
+      {
+        "title": "Dùng post làm người chắn",
+        "detail": "Khi post không được chạm bóng, kéo họ lên chắn bóng hoặc chắn chéo — một big di chuyển khó kèm hơn một big đứng yên."
+      }
+    ],
+    "coachingPoints": [
+      "Dạy post chắn người từ sớm — vị trí giành được trước đường chuyền, không phải sau đó.",
+      "Cầu thủ vòng ngoài phải căn thời điểm cắt theo động tác của cầu thủ post, đừng chạy tự do ngẫu hứng.",
+      "Nếu hàng thủ fronting post, dùng đường chuyền lob hoặc chắn lưng; đừng bao giờ cố đưa bóng vào khi bị kèm chặt.",
+      "Cầu thủ post nên là người chắn giỏi nhất của bạn — dùng họ trong pick-and-roll khi lối đánh post bế tắc."
+    ],
+    "commonMistakes": [
+      "Cắm big trong lane và giết chết mọi góc đột phá của các hậu vệ.",
+      "Cố đưa bóng vào post trước hàng thủ fronting thay vì xoay bóng sang phía bên kia.",
+      "Cầu thủ vòng ngoài đứng yên trong các lần chạm bóng ở post, để double-team ập đến dễ dàng."
+    ],
+    "gameSituations": [
+      "Những đội có một cầu thủ trong vượt trội và bốn cầu thủ vòng ngoài đủ tốt.",
+      "Trước những đội hình nhỏ không thể một-chọi-một với mối đe dọa ở post.",
+      "Khi cần ghi điểm half-court ổn định và rebound tấn công."
+    ],
+    "tags": [
+      "4-out",
+      "đánh post",
+      "giãn đội hình",
+      "tấn công đồng đội"
+    ]
+  }
 }

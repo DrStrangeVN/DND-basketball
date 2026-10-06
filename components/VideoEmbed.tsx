@@ -1,4 +1,5 @@
 "use client";
+import { useLanguage } from "@/lib/i18n";
 import { useState } from "react";
 import { Play } from "lucide-react";
 
@@ -8,6 +9,7 @@ export function youtubeIdFromUrl(url: string): string | null {
 }
 
 export default function VideoEmbed({ youtubeId, title }: { youtubeId: string; title: string }) {
+  const { t } = useLanguage();
   const [play, setPlay] = useState(false);
   if (play) {
     return (
@@ -21,7 +23,7 @@ export default function VideoEmbed({ youtubeId, title }: { youtubeId: string; ti
     );
   }
   return (
-    <button onClick={() => setPlay(true)} aria-label={`Watch breakdown: ${title}`}
+    <button onClick={() => setPlay(true)} aria-label={`${t("film.watch")}: ${title}`}
       className="neu-card group block w-full overflow-hidden p-2 text-left">
       <span className="relative block aspect-video overflow-hidden rounded-xl">
         {/* eslint-disable-next-line @next/next/no-img-element */}
@@ -33,7 +35,7 @@ export default function VideoEmbed({ youtubeId, title }: { youtubeId: string; ti
           </span>
         </span>
       </span>
-      <span className="block px-2 py-2 text-sm font-semibold">▶ Watch Breakdown — {title}</span>
+      <span className="block px-2 py-2 text-sm font-semibold">▶ {t("film.watch")} — {title}</span>
     </button>
   );
 }

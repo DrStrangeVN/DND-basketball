@@ -1,1 +1,173 @@
-{"ages":["U8","U10","U12","U14","U16","U18","Adult"],"coachingPoints":["Contact FIRST — find a body before you find the ball.","Stay low with a wide base; a tall box-out gets pushed under the rim.","Arms wide, not pushing — use your torso and legs, not extended arms.","Hold the seal for two seconds — most players release too early.","Box out every single shot, even ones you think are going in."],"commonMistakes":["Ball-watching instead of finding a man — the classic rebounding sin.","Boxing out with arms extended — that's a push; use your body.","Turning your back and losing the ball's flight — seal, then locate.","Giving up after one bump — rebounding is a second and third effort."],"dateUpdated":"2026-10-06","description":"Find a body, make contact, and own the space — the technique behind every defensive rebound.","diagram":{"ball":"O1","defense":[{"label":"X1","x":46,"y":22},{"label":"X2","x":46,"y":16}],"moves":[{"from":"X1","kind":"move","to":"X2"}],"offense":[{"label":"O1","x":56,"y":24}],"passes":[],"screens":[],"shots":[],"title":"X1 makes contact with O1 and seals them away from the basket"},"gameSituations":["Every defensive possession — the shot goes up, you find your man.","Free-throw box-outs — the two marked spots are pure technique.","Against bigger teams — technique beats size when the seal is good."],"howTo":[{"detail":"The instant the shot leaves the shooter's hand, stop watching the ball and find the nearest offensive player. Your eyes go to a body, not the rim.","title":"Find your man"},{"detail":"Take one or two quick steps to close the gap and make contact — forearm or chest to their torso. You must touch them before they start moving to the rim.","title":"Make contact"},{"detail":"Drop your hips, widen your stance, and pivot so your backside is into the offensive player. You're now the wall between them and the basket.","title":"Seal with your body"},{"detail":"With the player sealed behind you, turn your head to locate the ball's flight. Keep your wide base — don't stand up to look.","title":"Locate the ball"},{"detail":"Attack the rebound at its highest point with two hands, chin it immediately, and pivot away from pressure for the outlet.","title":"Go get it"}],"hub":"skills","id":"box-out","level":"beginner","positions":["ALL"],"readTime":5,"related":["defensive-rebounding","offensive-rebounding","post-positioning","power-finish","jump-stop"],"slug":"box-out","subcategory":"rebounding","tags":["rebounding","box out","defense","fundamentals"],"title":"Box Out Technique","whatIsIt":["Boxing out is the technique of placing your body between an opponent and the basket after a shot goes up — making contact, sealing them off, and claiming the rebounding space. It's the single most important rebounding skill.","Rebounding is mostly about position, not jumping. A well-executed box-out by a smaller player beats a lazy bigger player almost every time. Coaches track box-outs because they correlate directly with winning the possession battle."],"whyItMatters":["Defensive possessions only end with a rebound. Every offensive rebound you allow is a second chance for the opponent — often an easy putback. Teams that box out consistently give up fewer second-chance points, and second-chance points decide close games."]}
+{
+  "ages": [
+    "U8",
+    "U10",
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "coachingPoints": [
+    "Contact FIRST — find a body before you find the ball.",
+    "Stay low with a wide base; a tall box-out gets pushed under the rim.",
+    "Arms wide, not pushing — use your torso and legs, not extended arms.",
+    "Hold the seal for two seconds — most players release too early.",
+    "Box out every single shot, even ones you think are going in."
+  ],
+  "commonMistakes": [
+    "Ball-watching instead of finding a man — the classic rebounding sin.",
+    "Boxing out with arms extended — that's a push; use your body.",
+    "Turning your back and losing the ball's flight — seal, then locate.",
+    "Giving up after one bump — rebounding is a second and third effort."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "Find a body, make contact, and own the space — the technique behind every defensive rebound.",
+  "diagram": {
+    "ball": "O1",
+    "defense": [
+      {
+        "label": "X1",
+        "x": 46,
+        "y": 22
+      },
+      {
+        "label": "X2",
+        "x": 46,
+        "y": 16
+      }
+    ],
+    "moves": [
+      {
+        "from": "X1",
+        "kind": "move",
+        "to": "X2"
+      }
+    ],
+    "offense": [
+      {
+        "label": "O1",
+        "x": 56,
+        "y": 24
+      }
+    ],
+    "passes": [],
+    "screens": [],
+    "shots": [],
+    "title": "X1 makes contact with O1 and seals them away from the basket"
+  },
+  "gameSituations": [
+    "Every defensive possession — the shot goes up, you find your man.",
+    "Free-throw box-outs — the two marked spots are pure technique.",
+    "Against bigger teams — technique beats size when the seal is good."
+  ],
+  "howTo": [
+    {
+      "detail": "The instant the shot leaves the shooter's hand, stop watching the ball and find the nearest offensive player. Your eyes go to a body, not the rim.",
+      "title": "Find your man"
+    },
+    {
+      "detail": "Take one or two quick steps to close the gap and make contact — forearm or chest to their torso. You must touch them before they start moving to the rim.",
+      "title": "Make contact"
+    },
+    {
+      "detail": "Drop your hips, widen your stance, and pivot so your backside is into the offensive player. You're now the wall between them and the basket.",
+      "title": "Seal with your body"
+    },
+    {
+      "detail": "With the player sealed behind you, turn your head to locate the ball's flight. Keep your wide base — don't stand up to look.",
+      "title": "Locate the ball"
+    },
+    {
+      "detail": "Attack the rebound at its highest point with two hands, chin it immediately, and pivot away from pressure for the outlet.",
+      "title": "Go get it"
+    }
+  ],
+  "hub": "skills",
+  "id": "box-out",
+  "level": "beginner",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 5,
+  "related": [
+    "defensive-rebounding",
+    "offensive-rebounding",
+    "post-positioning",
+    "power-finish",
+    "jump-stop"
+  ],
+  "slug": "box-out",
+  "subcategory": "rebounding",
+  "tags": [
+    "rebounding",
+    "box out",
+    "defense",
+    "fundamentals"
+  ],
+  "title": "Box Out Technique",
+  "whatIsIt": [
+    "Boxing out is the technique of placing your body between an opponent and the basket after a shot goes up — making contact, sealing them off, and claiming the rebounding space. It's the single most important rebounding skill.",
+    "Rebounding is mostly about position, not jumping. A well-executed box-out by a smaller player beats a lazy bigger player almost every time. Coaches track box-outs because they correlate directly with winning the possession battle."
+  ],
+  "whyItMatters": [
+    "Defensive possessions only end with a rebound. Every offensive rebound you allow is a second chance for the opponent — often an easy putback. Teams that box out consistently give up fewer second-chance points, and second-chance points decide close games."
+  ],
+  "vi": {
+    "coachingPoints": [
+      "Va chạm TRƯỚC — tìm một cơ thể trước khi tìm quả bóng",
+      "Giữ người thấp với trụ rộng; box out đứng cao sẽ bị đẩy vào dưới rổ",
+      "Tay dang rộng, không đẩy — dùng thân và chân, đừng duỗi tay",
+      "Giữ tư thế seal hai giây — hầu hết cầu thủ buông quá sớm",
+      "Box out mọi cú ném, kể cả những cú bạn nghĩ sẽ vào"
+    ],
+    "commonMistakes": [
+      "Nhìn bóng thay vì tìm người — tội lỗi kinh điển khi bắt bóng bật bảng",
+      "Box out với tay duỗi thẳng — đó là lỗi đẩy người; hãy dùng cơ thể",
+      "Quay lưng rồi mất dấu đường bay của bóng — seal trước, rồi mới định vị bóng",
+      "Bỏ cuộc sau một cú va — bắt bóng bật bảng là nỗ lực lần hai, lần ba"
+    ],
+    "description": "Tìm một cơ thể, tạo va chạm và làm chủ không gian — kỹ thuật đằng sau mọi pha bắt bóng bật bảng phòng thủ.",
+    "gameSituations": [
+      "Mọi pha phòng thủ — bóng rời tay người ném, bạn tìm người của mình",
+      "Box out khi ném phạt — hai vị trí đánh dấu là kỹ thuật thuần túy",
+      "Trước những đội cao to hơn — kỹ thuật thắng thể hình khi cú seal tốt"
+    ],
+    "howTo": [
+      {
+        "detail": "Ngay khi bóng rời tay người ném, ngừng nhìn bóng và tìm cầu thủ tấn công gần nhất. Mắt bạn nhìn vào một cơ thể, không phải vành rổ.",
+        "title": "Tìm người của mình"
+      },
+      {
+        "detail": "Bước một hai bước nhanh để khép khoảng cách và tạo va chạm — cẳng tay hoặc ngực vào thân họ. Bạn phải chạm vào họ trước khi họ bắt đầu di chuyển về rổ.",
+        "title": "Tạo va chạm"
+      },
+      {
+        "detail": "Hạ hông, mở rộng trụ và xoay người sao cho mông hướng vào cầu thủ tấn công. Giờ bạn là bức tường giữa họ và chiếc rổ.",
+        "title": "Seal bằng cơ thể"
+      },
+      {
+        "detail": "Khi đã seal cầu thủ sau lưng, quay đầu định vị đường bay của bóng. Giữ trụ rộng — đừng đứng thẳng lên để nhìn.",
+        "title": "Định vị quả bóng"
+      },
+      {
+        "detail": "Tấn công quả bóng bật bảng ở điểm cao nhất bằng hai tay, ôm bóng vào cằm ngay và xoay người tránh áp lực để chuyền outlet.",
+        "title": "Lao tới lấy bóng"
+      }
+    ],
+    "tags": [
+      "bắt bóng bật bảng",
+      "box out",
+      "phòng thủ",
+      "kỹ thuật cơ bản"
+    ],
+    "title": "Kỹ Thuật Box Out",
+    "whatIsIt": [
+      "Box out là kỹ thuật đặt cơ thể giữa đối thủ và chiếc rổ sau khi bóng được ném lên — tạo va chạm, seal họ ra ngoài và chiếm lấy không gian bắt bóng bật bảng. Đây là kỹ năng bắt bóng bật bảng quan trọng nhất.",
+      "Bắt bóng bật bảng chủ yếu là về vị trí, không phải bật nhảy. Một pha box out chuẩn của cầu thủ nhỏ con thắng một cầu thủ to con lười biếng gần như mọi lần. Huấn luyện viên theo dõi box out vì nó tương quan trực tiếp với việc thắng cuộc chiến giành bóng."
+    ],
+    "whyItMatters": [
+      "Các pha phòng thủ chỉ kết thúc bằng một pha bắt bóng bật bảng. Mỗi pha bóng bật bảng tấn công bạn để lọt là một cơ hội thứ hai cho đối thủ — thường là một pha putback dễ dàng. Những đội box out đều đặn để mất ít điểm second-chance hơn, và điểm second-chance quyết định những trận đấu sít sao."
+    ]
+  }
+}

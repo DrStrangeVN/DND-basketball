@@ -1,1 +1,154 @@
-{"ages":["U10","U12","U14","U16","U18","Adult"],"coachingPoints":["Plan in pencil: adjust the plan live, but always walk in with one.","Less is more — three things taught well beats eight things rushed.","Every drill needs a \"why\" you can explain in one sentence.","End practice on a competitive, high-energy note whenever possible."],"commonMistakes":["Overplanning: cramming too many drills into a single session.","Letting one drill run twenty minutes over because it is \"going well.\"","Skipping the cool-down and the review at the end.","Running the same practice every week regardless of what the team actually needs."],"dateUpdated":"2026-10-06","description":"How to design effective basketball practices — structure, time blocks, and planning principles that maximize reps and learning.","gameSituations":["Preseason week one: installing offensive and defensive foundations with limited gym time.","Mid-season: a 90-minute practice the day before a game — light legs, sharp minds.","Youth practice: 60 minutes with twelve ten-year-olds and short attention spans."],"howTo":[{"detail":"Every practice needs one clear theme — for example \"defensive closeouts\" or \"transition offense\" — and every block of the session should serve it.","title":"Start with one theme"},{"detail":"Identify what your team needs most right now and allocate the most time there. Planning backwards from the game keeps practices relevant.","title":"Work backwards from the game"},{"detail":"Assign minutes to each segment — warm-up 10, skill 20, team 25, compete 15, cool-down 5 — and respect the clock. Time discipline is coaching discipline.","title":"Block the time"},{"detail":"Teach new concepts early when minds are fresh; save competition and conditioning for late when bodies are warm and energy is high.","title":"Sequence for energy"},{"detail":"Prefer stations, small-sided games, and multi-ball drills over long lines where players stand around. Reps per player is the metric that matters.","title":"Maximize reps per player"},{"detail":"Open with five minutes reviewing yesterday's theme and close with two minutes summarizing what was learned. Repetition across days builds retention.","title":"Build in review"},{"detail":"Keep the written plan, note what worked and what did not, and adjust next week's plan accordingly. Planning compounds like interest.","title":"Write it down and evaluate after"}],"hub":"coaching","id":"practice-planning","level":"intermediate","positions":["ALL"],"readTime":7,"related":["teaching-basketball","player-development-plan","game-preparation","timeout-management"],"slug":"practice-planning","subcategory":"coaching","tags":["coaching","practice","planning","player-development"],"title":"Practice Planning","whatIsIt":["Practice planning is the process of designing each training session before it starts: what you will teach, in what order, for how long, and how you will know it worked. Great practices do not happen by accident — they are built on paper first.","A good plan balances the competing demands of a session: warm-up, individual skill, team concepts, competition, and conditioning — all inside limited gym time. The plan is a guide, not a prison: adjust to energy and learning in the moment, but never walk in without one."],"whyItMatters":["Practice time is the scarcest resource a coach has. A planned practice delivers several times the quality reps of an improvised one, keeps players engaged, and builds skills in a logical progression. Players can feel the difference between a prepared coach and one who is winging it — and they respond accordingly.","Planning also protects development across a season. Without a plan, teams repeat what is comfortable; with one, they systematically cover what is needed."]}
+{
+  "ages": [
+    "U10",
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "coachingPoints": [
+    "Plan in pencil: adjust the plan live, but always walk in with one.",
+    "Less is more — three things taught well beats eight things rushed.",
+    "Every drill needs a \"why\" you can explain in one sentence.",
+    "End practice on a competitive, high-energy note whenever possible."
+  ],
+  "commonMistakes": [
+    "Overplanning: cramming too many drills into a single session.",
+    "Letting one drill run twenty minutes over because it is \"going well.\"",
+    "Skipping the cool-down and the review at the end.",
+    "Running the same practice every week regardless of what the team actually needs."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "How to design effective basketball practices — structure, time blocks, and planning principles that maximize reps and learning.",
+  "gameSituations": [
+    "Preseason week one: installing offensive and defensive foundations with limited gym time.",
+    "Mid-season: a 90-minute practice the day before a game — light legs, sharp minds.",
+    "Youth practice: 60 minutes with twelve ten-year-olds and short attention spans."
+  ],
+  "howTo": [
+    {
+      "detail": "Every practice needs one clear theme — for example \"defensive closeouts\" or \"transition offense\" — and every block of the session should serve it.",
+      "title": "Start with one theme"
+    },
+    {
+      "detail": "Identify what your team needs most right now and allocate the most time there. Planning backwards from the game keeps practices relevant.",
+      "title": "Work backwards from the game"
+    },
+    {
+      "detail": "Assign minutes to each segment — warm-up 10, skill 20, team 25, compete 15, cool-down 5 — and respect the clock. Time discipline is coaching discipline.",
+      "title": "Block the time"
+    },
+    {
+      "detail": "Teach new concepts early when minds are fresh; save competition and conditioning for late when bodies are warm and energy is high.",
+      "title": "Sequence for energy"
+    },
+    {
+      "detail": "Prefer stations, small-sided games, and multi-ball drills over long lines where players stand around. Reps per player is the metric that matters.",
+      "title": "Maximize reps per player"
+    },
+    {
+      "detail": "Open with five minutes reviewing yesterday's theme and close with two minutes summarizing what was learned. Repetition across days builds retention.",
+      "title": "Build in review"
+    },
+    {
+      "detail": "Keep the written plan, note what worked and what did not, and adjust next week's plan accordingly. Planning compounds like interest.",
+      "title": "Write it down and evaluate after"
+    }
+  ],
+  "hub": "coaching",
+  "id": "practice-planning",
+  "level": "intermediate",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 7,
+  "related": [
+    "teaching-basketball",
+    "player-development-plan",
+    "game-preparation",
+    "timeout-management"
+  ],
+  "slug": "practice-planning",
+  "subcategory": "coaching",
+  "tags": [
+    "coaching",
+    "practice",
+    "planning",
+    "player-development"
+  ],
+  "title": "Practice Planning",
+  "whatIsIt": [
+    "Practice planning is the process of designing each training session before it starts: what you will teach, in what order, for how long, and how you will know it worked. Great practices do not happen by accident — they are built on paper first.",
+    "A good plan balances the competing demands of a session: warm-up, individual skill, team concepts, competition, and conditioning — all inside limited gym time. The plan is a guide, not a prison: adjust to energy and learning in the moment, but never walk in without one."
+  ],
+  "whyItMatters": [
+    "Practice time is the scarcest resource a coach has. A planned practice delivers several times the quality reps of an improvised one, keeps players engaged, and builds skills in a logical progression. Players can feel the difference between a prepared coach and one who is winging it — and they respond accordingly.",
+    "Planning also protects development across a season. Without a plan, teams repeat what is comfortable; with one, they systematically cover what is needed."
+  ],
+  "vi": {
+    "title": "Lập Kế Hoạch Tập Luyện",
+    "description": "Cách thiết kế buổi tập bóng rổ hiệu quả — cấu trúc, chia khung thời gian và nguyên tắc lập kế hoạch giúp tối đa số lần lặp và khả năng tiếp thu.",
+    "whatIsIt": [
+      "Lập kế hoạch tập luyện là quá trình thiết kế từng buổi tập trước khi nó bắt đầu: bạn sẽ dạy gì, theo thứ tự nào, trong bao lâu, và làm sao biết nó hiệu quả. Những buổi tập hay không tự nhiên mà có — chúng được xây dựng trên giấy trước.",
+      "Một kế hoạch tốt cân bằng các nhu cầu cạnh tranh của buổi tập: khởi động, kỹ năng cá nhân, chiến thuật đội, thi đấu đối kháng và thể lực — tất cả trong quỹ thời gian sân có hạn. Kế hoạch là kim chỉ nam, không phải nhà tù: hãy điều chỉnh theo năng lượng và mức độ tiếp thu trong buổi tập, nhưng đừng bao giờ bước vào sân mà không có kế hoạch."
+    ],
+    "whyItMatters": [
+      "Thời gian tập là nguồn lực khan hiếm nhất của một huấn luyện viên. Một buổi tập có kế hoạch mang lại số lần lặp chất lượng gấp nhiều lần so với buổi tập ứng biến, giữ cầu thủ tập trung và xây dựng kỹ năng theo trình tự hợp lý. Cầu thủ cảm nhận được sự khác biệt giữa một huấn luyện viên chuẩn bị kỹ và một người làm theo cảm hứng — và họ phản ứng tương ứng.",
+      "Lập kế hoạch cũng bảo vệ sự phát triển xuyên suốt mùa giải. Không có kế hoạch, các đội cứ lặp lại những gì thoải mái; có kế hoạch, họ bao quát có hệ thống những gì cần thiết."
+    ],
+    "howTo": [
+      {
+        "title": "Bắt đầu với một chủ đề",
+        "detail": "Mỗi buổi tập cần một chủ đề rõ ràng — ví dụ \"closeout phòng ngự\" hay \"tấn công chuyển trạng thái\" — và mọi khung giờ của buổi tập đều phục vụ chủ đề đó."
+      },
+      {
+        "title": "Làm ngược từ trận đấu",
+        "detail": "Xác định điều đội bạn cần nhất lúc này và dành nhiều thời gian nhất cho nó. Lập kế hoạch ngược từ trận đấu giúp buổi tập luôn bám sát thực tế."
+      },
+      {
+        "title": "Chia khung thời gian",
+        "detail": "Gán số phút cho từng phần — khởi động 10, kỹ năng 20, đội hình 25, thi đấu 15, thả lỏng 5 — và tôn trọng đồng hồ. Kỷ luật thời gian là kỷ luật huấn luyện."
+      },
+      {
+        "title": "Sắp xếp theo năng lượng",
+        "detail": "Dạy khái niệm mới sớm khi đầu óc còn tỉnh táo; dành thi đấu đối kháng và thể lực cho cuối buổi khi cơ thể đã nóng và năng lượng đang cao."
+      },
+      {
+        "title": "Tối đa số lần lặp mỗi cầu thủ",
+        "detail": "Ưu tiên trạm tập, trò chơi nhỏ (small-sided games) và bài tập nhiều bóng thay vì xếp hàng dài chờ lượt. Số lần lặp mỗi cầu thủ mới là chỉ số quan trọng."
+      },
+      {
+        "title": "Lồng ghép ôn tập",
+        "detail": "Mở đầu bằng năm phút ôn chủ đề hôm qua và khép lại bằng hai phút tóm tắt những gì đã học. Lặp lại qua các ngày giúp ghi nhớ lâu."
+      },
+      {
+        "title": "Viết ra và đánh giá sau",
+        "detail": "Giữ lại bản kế hoạch, ghi chú điều gì hiệu quả và điều gì không, rồi điều chỉnh kế hoạch tuần sau cho phù hợp. Lập kế hoạch cũng sinh lời kép như lãi suất."
+      }
+    ],
+    "coachingPoints": [
+      "Lập kế hoạch bằng bút chì: điều chỉnh trực tiếp trong buổi tập, nhưng luôn bước vào sân với một kế hoạch.",
+      "Ít mà chất — ba điều dạy kỹ thắng tám điều dạy vội.",
+      "Mỗi bài tập cần một \"lý do\" mà bạn giải thích được trong một câu.",
+      "Kết thúc buổi tập bằng một phần thi đấu đối kháng, năng lượng cao mỗi khi có thể."
+    ],
+    "commonMistakes": [
+      "Lập kế hoạch quá tải: nhồi quá nhiều bài tập vào một buổi.",
+      "Để một bài tập chạy lố hai mươi phút chỉ vì nó \"đang hay\".",
+      "Bỏ qua phần thả lỏng và tổng kết cuối buổi.",
+      "Tuần nào cũng chạy đúng một giáo án bất kể đội thật sự cần gì."
+    ],
+    "gameSituations": [
+      "Tuần đầu tiền mùa giải: xây nền tảng tấn công và phòng ngự với thời gian sân hạn chế.",
+      "Giữa mùa giải: buổi tập 90 phút ngay trước trận — chân nhẹ, đầu óc tỉnh.",
+      "Tập trẻ em: 60 phút với mười hai đứa trẻ mười tuổi và khả năng tập trung ngắn."
+    ],
+    "tags": [
+      "huấn luyện",
+      "tập luyện",
+      "lập kế hoạch",
+      "phát triển cầu thủ"
+    ]
+  }
+}

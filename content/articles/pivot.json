@@ -1,1 +1,132 @@
-{"ages":["U8","U10","U12","U14","U16","U18","Adult"],"coachingPoints":["Establish the pivot foot the instant you catch or stop — hesitation causes travels.","Keep the ball tight to your body while pivoting; loose balls get stripped.","Front pivot (toward the defender) for quick drives; reverse pivot (away) for protection.","Stay low and balanced — pivots from a tall stance are slow and wobbly.","Pivot with purpose: every pivot should create an angle for a pass, shot, or drive."],"commonMistakes":["Lifting the pivot foot before passing or shooting — the most-called travel in basketball.","Pivoting with the ball held low and away — defenders poke it free.","Spinning wildly with no plan — a pivot is a tool, not a tornado.","Forgetting which foot is the pivot after a jump stop — either foot is legal, so pick one and commit."],"dateUpdated":"2026-10-06","description":"Spin on one foot to protect the ball and create angles — the legal way to turn under pressure.","gameSituations":["Catching in the post — pivot to face up or seal the defender.","Trapped on the sideline — reverse pivot away from pressure and pass out.","Rebounding in traffic — pivot away from defenders before the outlet pass."],"howTo":[{"detail":"When you catch the ball or land (jump stop = either foot; stride stop = back foot), that planted foot is now your pivot foot. It stays glued to the floor.","title":"Establish the pivot foot"},{"detail":"Chin the ball — bring it to your chin with elbows out — and stay in a low athletic stance. The ball is protected before you move.","title":"Protect the ball"},{"detail":"Rotate your body on the ball of the pivot foot, swinging your free foot around. A front pivot turns your chest toward the defender; a reverse pivot turns your back to them.","title":"Rotate on the pivot foot"},{"detail":"Stop the pivot the moment you have an angle — for a pass, a shot, or a drive. Plant the free foot and explode; don't over-rotate.","title":"Pivot into your move"}],"hub":"skills","id":"pivot","level":"beginner","positions":["ALL"],"readTime":4,"related":["jump-stop","stride-stop","jab-step","rip-through","chest-pass"],"slug":"pivot","subcategory":"footwork","tags":["footwork","post","ball protection","fundamentals"],"title":"Pivoting","whatIsIt":["Pivoting is rotating your body on one planted foot — the pivot foot — while the other foot steps freely. It's how you change direction, protect the ball, and create passing or shooting angles without traveling.","Every catch in traffic, every post touch, and every trap situation runs through the pivot. It's the most-used footwork skill in basketball, and also the one that draws the most travels when done sloppily."],"whyItMatters":["The pivot foot is the line between legal and illegal. Master it and you can operate under pressure — post up, escape traps, face up defenders. Sloppy pivots turn possessions into turnovers. Coaches judge a player's fundamentals largely by how cleanly they pivot."]}
+{
+  "ages": [
+    "U8",
+    "U10",
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "coachingPoints": [
+    "Establish the pivot foot the instant you catch or stop — hesitation causes travels.",
+    "Keep the ball tight to your body while pivoting; loose balls get stripped.",
+    "Front pivot (toward the defender) for quick drives; reverse pivot (away) for protection.",
+    "Stay low and balanced — pivots from a tall stance are slow and wobbly.",
+    "Pivot with purpose: every pivot should create an angle for a pass, shot, or drive."
+  ],
+  "commonMistakes": [
+    "Lifting the pivot foot before passing or shooting — the most-called travel in basketball.",
+    "Pivoting with the ball held low and away — defenders poke it free.",
+    "Spinning wildly with no plan — a pivot is a tool, not a tornado.",
+    "Forgetting which foot is the pivot after a jump stop — either foot is legal, so pick one and commit."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "Spin on one foot to protect the ball and create angles — the legal way to turn under pressure.",
+  "gameSituations": [
+    "Catching in the post — pivot to face up or seal the defender.",
+    "Trapped on the sideline — reverse pivot away from pressure and pass out.",
+    "Rebounding in traffic — pivot away from defenders before the outlet pass."
+  ],
+  "howTo": [
+    {
+      "detail": "When you catch the ball or land (jump stop = either foot; stride stop = back foot), that planted foot is now your pivot foot. It stays glued to the floor.",
+      "title": "Establish the pivot foot"
+    },
+    {
+      "detail": "Chin the ball — bring it to your chin with elbows out — and stay in a low athletic stance. The ball is protected before you move.",
+      "title": "Protect the ball"
+    },
+    {
+      "detail": "Rotate your body on the ball of the pivot foot, swinging your free foot around. A front pivot turns your chest toward the defender; a reverse pivot turns your back to them.",
+      "title": "Rotate on the pivot foot"
+    },
+    {
+      "detail": "Stop the pivot the moment you have an angle — for a pass, a shot, or a drive. Plant the free foot and explode; don't over-rotate.",
+      "title": "Pivot into your move"
+    }
+  ],
+  "hub": "skills",
+  "id": "pivot",
+  "level": "beginner",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 4,
+  "related": [
+    "jump-stop",
+    "stride-stop",
+    "jab-step",
+    "rip-through",
+    "chest-pass"
+  ],
+  "slug": "pivot",
+  "subcategory": "footwork",
+  "tags": [
+    "footwork",
+    "post",
+    "ball protection",
+    "fundamentals"
+  ],
+  "title": "Pivoting",
+  "whatIsIt": [
+    "Pivoting is rotating your body on one planted foot — the pivot foot — while the other foot steps freely. It's how you change direction, protect the ball, and create passing or shooting angles without traveling.",
+    "Every catch in traffic, every post touch, and every trap situation runs through the pivot. It's the most-used footwork skill in basketball, and also the one that draws the most travels when done sloppily."
+  ],
+  "whyItMatters": [
+    "The pivot foot is the line between legal and illegal. Master it and you can operate under pressure — post up, escape traps, face up defenders. Sloppy pivots turn possessions into turnovers. Coaches judge a player's fundamentals largely by how cleanly they pivot."
+  ],
+  "vi": {
+    "title": "Xoay Trục (Pivoting)",
+    "description": "Xoay người trên một chân để bảo vệ bóng và tạo góc — cách xoay hợp lệ khi bị áp lực.",
+    "whatIsIt": [
+      "Pivoting là kỹ thuật xoay cơ thể trên một chân trụ — chân pivot — trong khi chân còn lại bước tự do. Đây là cách bạn đổi hướng, bảo vệ bóng và tạo góc chuyền hoặc ném mà không bị lỗi bước (traveling).",
+      "Mỗi lần bắt bóng trong đám đông, mỗi lần chạm bóng ở khu vực post, và mọi tình huống bị bẫy (trap) đều phải dùng đến pivot. Đây là kỹ năng bộ pháp được dùng nhiều nhất trong bóng rổ, và cũng là kỹ năng dễ bị thổi lỗi bước nhất nếu thực hiện cẩu thả."
+    ],
+    "whyItMatters": [
+      "Chân pivot là ranh giới giữa hợp lệ và phạm luật. Nắm vững nó, bạn có thể xử lý bóng dưới áp lực — đánh post, thoát bẫy, đối mặt hậu vệ. Pivot cẩu thả biến mỗi đợt tấn công thành turnover. Các HLV đánh giá kỹ năng cơ bản của cầu thủ phần lớn qua độ gọn gàng của pivot."
+    ],
+    "howTo": [
+      {
+        "title": "Xác lập chân pivot",
+        "detail": "Khi bạn bắt bóng hoặc tiếp đất (jump stop = chân nào cũng được; stride stop = chân sau), chân chạm đất đó chính là chân pivot. Chân này phải dính chặt xuống sàn."
+      },
+      {
+        "title": "Bảo vệ bóng",
+        "detail": "Chin the ball — ôm bóng lên ngang cằm, khuỷu tay mở rộng — và giữ tư thế thấp sẵn sàng. Bóng phải được bảo vệ trước khi bạn di chuyển."
+      },
+      {
+        "title": "Xoay trên chân pivot",
+        "detail": "Xoay cơ thể trên mũi chân pivot, vung chân tự do vòng quanh. Front pivot xoay ngực về phía hậu vệ; reverse pivot xoay lưng về phía họ."
+      },
+      {
+        "title": "Xoay để vào động tác",
+        "detail": "Dừng pivot ngay khi bạn đã có góc — để chuyền, ném hoặc đột phá. Đóng chân tự do xuống và bùng nổ; đừng xoay quá đà."
+      }
+    ],
+    "coachingPoints": [
+      "Xác lập chân pivot ngay khi bắt bóng hoặc dừng lại — chần chừ sẽ gây lỗi bước.",
+      "Giữ bóng sát cơ thể khi pivot; bóng lỏng lẻo sẽ bị cướp.",
+      "Front pivot (xoay về phía hậu vệ) cho những pha đột phá nhanh; reverse pivot (xoay ra xa) để bảo vệ bóng.",
+      "Giữ thấp và thăng bằng — pivot từ tư thế cao vừa chậm vừa lảo đảo.",
+      "Pivot có mục đích: mỗi lần pivot phải tạo ra một góc để chuyền, ném hoặc đột phá."
+    ],
+    "commonMistakes": [
+      "Nhấc chân pivot trước khi chuyền hoặc ném — lỗi bước bị thổi nhiều nhất trong bóng rổ.",
+      "Pivot khi bóng cầm thấp và xa người — hậu vệ sẽ chọc bóng đi.",
+      "Xoay loạn xạ không có kế hoạch — pivot là công cụ, không phải lốc xoáy.",
+      "Quên chân nào là chân pivot sau jump stop — chân nào cũng hợp lệ, nên chọn một chân và giữ nguyên."
+    ],
+    "gameSituations": [
+      "Bắt bóng ở post — pivot để face up hoặc seal hậu vệ.",
+      "Bị bẫy ở đường biên — reverse pivot ra khỏi áp lực rồi chuyền ra.",
+      "Bắt rebound trong đám đông — pivot tránh hậu vệ trước khi chuyền outlet."
+    ],
+    "tags": [
+      "bộ pháp",
+      "post",
+      "bảo vệ bóng",
+      "kỹ thuật cơ bản"
+    ]
+  }
+}

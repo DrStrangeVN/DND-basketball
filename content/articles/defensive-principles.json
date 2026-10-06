@@ -1,1 +1,146 @@
-{"ages":["U10","U12","U14","U16","U18","Adult"],"coachingPoints":["Build every defensive drill from the stance — no stance, no defense.","Use shell drill (4-on-4, no dribbling) to teach help and recover.","Praise 'no middle' defense more than steals; steals are a bonus, not the plan.","Film one possession per practice and ask players: where is the ball, where is your man, where is the help?"],"commonMistakes":["Standing straight up, which lets the ball handler blow by.","Ball-watching and losing your own player on a backdoor cut.","Helping too far and giving up an open three.","Fouling a jump shooter — the most expensive mistake in defense."],"dateUpdated":"2026-10-06","description":"The foundations of team defense: stance, on-ball pressure, help positioning, rotations and protecting the paint.","gameSituations":["Ball screen — the on-ball defender fights over while the helper contains the roller.","Drive and kick — helpers rotate and close out under control.","Transition — the first three defenders stop the ball and protect the paint.","Late game — no middle, no fouls, force a contested jumper."],"howTo":[{"detail":"Feet wider than shoulders, knees bent, chest up, one hand in the passing lane and one hand low. You should be able to touch the floor with your fingertips — that is low enough.","title":"Start in a stance"},{"detail":"Force the ball handler toward the sideline or baseline — never let them drive middle, where they can see the whole court. One step of middle penetration breaks the entire defense.","title":"Protect the middle"},{"detail":"When you are one pass away from the ball, play halfway between your player and the ball — close enough to help on a drive, close enough to recover to your man. When two passes away, sag into the paint and see both.","title":"Help from one pass away"},{"detail":"Defenders must talk constantly: 'ball, ball, ball' on a drive, 'screen left!' on a screen, 'help!' when beaten. A quiet defense is a broken defense.","title":"Communicate every action"},{"detail":"When the ball is in the air on a shot, find your player, make contact with a forearm, and block them out before chasing the rebound. The best defensive possession means nothing if you give up the putback.","title":"Box out on every shot"},{"detail":"Sprint back on every change of possession. The first defender back stops the ball; the next two protect the paint; everyone else finds a matchup. Transition defense is pure effort and habit.","title":"Sprint back in transition"}],"hub":"fundamentals","id":"defensive-principles","level":"beginner","positions":["ALL"],"readTime":6,"related":["offensive-principles","fouls-explained","spacing-basics","basketball-positions"],"slug":"defensive-principles","subcategory":"fundamentals","tags":["defense","principles","help defense","basics"],"title":"Core Defensive Principles","whatIsIt":["Defense is a team system built on five habits: a low stance, pressure on the ball, help from teammates, constant communication, and finishing possessions with a rebound. No defender guards alone — the ball handler's defender funnels the drive toward waiting help, and helpers rotate behind the play.","Great defense is mostly effort and positioning. The teams that defend best are rarely the most athletic; they are the ones that stay in stance, talk, sprint back in transition, and never give up second chances."],"whyItMatters":["Defense wins championships because it travels — shooting goes cold, but effort and positioning work every night. Players who defend earn playing time at every level, because coaches can teach offense to anyone but cannot teach the willingness to guard. Understanding defensive principles also makes you a smarter offensive player: you learn exactly how defenses think."]}
+{
+  "ages": [
+    "U10",
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "coachingPoints": [
+    "Build every defensive drill from the stance — no stance, no defense.",
+    "Use shell drill (4-on-4, no dribbling) to teach help and recover.",
+    "Praise 'no middle' defense more than steals; steals are a bonus, not the plan.",
+    "Film one possession per practice and ask players: where is the ball, where is your man, where is the help?"
+  ],
+  "commonMistakes": [
+    "Standing straight up, which lets the ball handler blow by.",
+    "Ball-watching and losing your own player on a backdoor cut.",
+    "Helping too far and giving up an open three.",
+    "Fouling a jump shooter — the most expensive mistake in defense."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "The foundations of team defense: stance, on-ball pressure, help positioning, rotations and protecting the paint.",
+  "gameSituations": [
+    "Ball screen — the on-ball defender fights over while the helper contains the roller.",
+    "Drive and kick — helpers rotate and close out under control.",
+    "Transition — the first three defenders stop the ball and protect the paint.",
+    "Late game — no middle, no fouls, force a contested jumper."
+  ],
+  "howTo": [
+    {
+      "detail": "Feet wider than shoulders, knees bent, chest up, one hand in the passing lane and one hand low. You should be able to touch the floor with your fingertips — that is low enough.",
+      "title": "Start in a stance"
+    },
+    {
+      "detail": "Force the ball handler toward the sideline or baseline — never let them drive middle, where they can see the whole court. One step of middle penetration breaks the entire defense.",
+      "title": "Protect the middle"
+    },
+    {
+      "detail": "When you are one pass away from the ball, play halfway between your player and the ball — close enough to help on a drive, close enough to recover to your man. When two passes away, sag into the paint and see both.",
+      "title": "Help from one pass away"
+    },
+    {
+      "detail": "Defenders must talk constantly: 'ball, ball, ball' on a drive, 'screen left!' on a screen, 'help!' when beaten. A quiet defense is a broken defense.",
+      "title": "Communicate every action"
+    },
+    {
+      "detail": "When the ball is in the air on a shot, find your player, make contact with a forearm, and block them out before chasing the rebound. The best defensive possession means nothing if you give up the putback.",
+      "title": "Box out on every shot"
+    },
+    {
+      "detail": "Sprint back on every change of possession. The first defender back stops the ball; the next two protect the paint; everyone else finds a matchup. Transition defense is pure effort and habit.",
+      "title": "Sprint back in transition"
+    }
+  ],
+  "hub": "fundamentals",
+  "id": "defensive-principles",
+  "level": "beginner",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 6,
+  "related": [
+    "offensive-principles",
+    "fouls-explained",
+    "spacing-basics",
+    "basketball-positions"
+  ],
+  "slug": "defensive-principles",
+  "subcategory": "fundamentals",
+  "tags": [
+    "defense",
+    "principles",
+    "help defense",
+    "basics"
+  ],
+  "title": "Core Defensive Principles",
+  "whatIsIt": [
+    "Defense is a team system built on five habits: a low stance, pressure on the ball, help from teammates, constant communication, and finishing possessions with a rebound. No defender guards alone — the ball handler's defender funnels the drive toward waiting help, and helpers rotate behind the play.",
+    "Great defense is mostly effort and positioning. The teams that defend best are rarely the most athletic; they are the ones that stay in stance, talk, sprint back in transition, and never give up second chances."
+  ],
+  "whyItMatters": [
+    "Defense wins championships because it travels — shooting goes cold, but effort and positioning work every night. Players who defend earn playing time at every level, because coaches can teach offense to anyone but cannot teach the willingness to guard. Understanding defensive principles also makes you a smarter offensive player: you learn exactly how defenses think."
+  ],
+  "vi": {
+    "coachingPoints": [
+      "Xây mọi bài tập phòng thủ từ tư thế thủ — không tư thế, không phòng thủ",
+      "Dùng shell drill (4 đấu 4, không dẫn bóng) để dạy hỗ trợ và lui về",
+      "Khen phòng thủ 'không cho vào giữa' hơn cả cướp bóng; cướp bóng là phần thưởng thêm, không phải kế hoạch",
+      "Quay một pha bóng mỗi buổi tập và hỏi cầu thủ: bóng ở đâu, người bạn kèm ở đâu, sự hỗ trợ ở đâu?"
+    ],
+    "commonMistakes": [
+      "Đứng thẳng người, để người cầm bóng vượt qua dễ dàng",
+      "Nhìn bóng mà mất người kèm trong pha cắt backdoor",
+      "Hỗ trợ quá xa và tặng một cú ba điểm trống",
+      "Phạm lỗi với người ném — sai lầm đắt nhất trong phòng thủ"
+    ],
+    "description": "Nền tảng của phòng thủ đồng đội: tư thế, áp lực lên bóng, vị trí hỗ trợ, xoay chuyển và bảo vệ khu vực hình thang.",
+    "gameSituations": [
+      "Màn chắn bóng — hậu vệ kèm bóng vượt qua trong khi người hỗ trợ giữ người lăn",
+      "Đột phá rồi kick ra — các hậu vệ xoay chuyển và closeout có kiểm soát",
+      "Phản công — ba hậu vệ đầu tiên chặn bóng và bảo vệ hình thang",
+      "Cuối trận — không cho vào giữa, không phạm lỗi, ép một cú jumper bị contest"
+    ],
+    "howTo": [
+      {
+        "detail": "Chân rộng hơn vai, gối cong, ngực ưỡn, một tay ở đường chuyền và một tay thấp. Bạn nên chạm được sàn bằng đầu ngón tay — thấp đến thế mới đủ.",
+        "title": "Bắt đầu ở tư thế thủ"
+      },
+      {
+        "detail": "Ép người cầm bóng ra biên dọc hoặc baseline — đừng bao giờ để họ đột phá vào giữa, nơi họ nhìn thấy cả sân. Một bước lọt vào giữa phá vỡ cả hàng thủ.",
+        "title": "Bảo vệ khu vực giữa"
+      },
+      {
+        "detail": "Khi bạn cách bóng một đường chuyền, hãy đứng giữa người kèm và bóng — đủ gần để hỗ trợ pha đột phá, đủ gần để lui về kèm người. Khi cách hai đường chuyền, hãy lùi vào hình thang và quan sát cả hai.",
+        "title": "Hỗ trợ khi cách bóng một đường chuyền"
+      },
+      {
+        "detail": "Hậu vệ phải nói liên tục: 'ball, ball, ball' khi có pha đột phá, 'screen left!' khi có màn chắn, 'help!' khi bị vượt. Hàng thủ im lặng là hàng thủ đã vỡ.",
+        "title": "Giao tiếp mọi hành động"
+      },
+      {
+        "detail": "Khi bóng bay lên sau cú ném, tìm người của mình, tạo va chạm bằng cẳng tay và box out trước khi tranh bóng. Pha phòng thủ hay nhất cũng vô nghĩa nếu bạn để mất putback.",
+        "title": "Box out mọi cú ném"
+      },
+      {
+        "detail": "Chạy nước rút về mọi lần đổi quyền kiểm soát. Hậu vệ đầu tiên về chặn bóng; hai người tiếp theo bảo vệ hình thang; những người còn lại tìm người để kèm. Phòng thủ phản công là nỗ lực và thói quen thuần túy.",
+        "title": "Chạy nước rút về trong phản công"
+      }
+    ],
+    "tags": [
+      "phòng thủ",
+      "nguyên tắc",
+      "hỗ trợ phòng thủ",
+      "cơ bản"
+    ],
+    "title": "Nguyên Tắc Phòng Thủ Cốt Lõi",
+    "whatIsIt": [
+      "Phòng thủ là một hệ thống đồng đội xây trên năm thói quen: tư thế thấp, áp lực lên bóng, sự hỗ trợ từ đồng đội, giao tiếp liên tục, và kết thúc đợt phòng thủ bằng bắt bóng bật bảng. Không hậu vệ nào kèm một mình — hậu vệ kèm người cầm bóng ép pha đột phá về phía sự hỗ trợ đang chờ, và những người hỗ trợ xoay chuyển phía sau pha bóng.",
+      "Phòng thủ giỏi chủ yếu là nỗ lực và vị trí. Những đội phòng thủ hay nhất hiếm khi là đội thể hình nhất; họ là những đội giữ tư thế, nói chuyện, chạy nước rút về trong phản công, và không bao giờ tặng cơ hội thứ hai."
+    ],
+    "whyItMatters": [
+      "Phòng thủ vô địch vì nó luôn đi cùng bạn — cú ném có thể nguội, nhưng nỗ lực và vị trí thì hiệu quả mọi đêm. Cầu thủ biết phòng thủ được ra sân ở mọi cấp độ, vì huấn luyện viên có thể dạy tấn công cho bất kỳ ai nhưng không thể dạy ý chí kèm người. Hiểu nguyên tắc phòng thủ cũng giúp bạn trở thành cầu thủ tấn công thông minh hơn: bạn học chính xác cách hàng thủ suy nghĩ."
+    ]
+  }
+}

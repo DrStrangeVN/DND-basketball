@@ -1,1 +1,130 @@
-{"ages":["U8","U10","U12","U14","U16","U18","Adult"],"coachingPoints":["Step into the pass with your lead foot — your body weight powers the ball, not your arms alone.","Thumbs down at release keeps the backspin flat and accurate.","Snap the wrists; lazy wrists make lazy, floaty passes that get picked off.","Eyes up — decide your target before the ball arrives, not after.","Passing accuracy matters more than passing speed; aim at the receiver's chest pocket."],"commonMistakes":["Throwing with straight, stiff arms — no snap, no spin, no control.","Not stepping into the pass — the ball floats and arrives late.","Telegraphing: staring at the target for two seconds before passing — defenders read it.","Passing at the defender's hands instead of leading the teammate away from pressure."],"dateUpdated":"2026-10-06","description":"The fastest, most accurate way to move the ball — learn the two-hand snap, step, and follow-through.","gameSituations":["Skip passes across the court against zone defenses.","Kick-outs from the paint to open shooters.","Full-court outlet passes to start the fast break."],"howTo":[{"detail":"Catch or hold the ball at chest height, elbows bent and out slightly. Your hands grip the sides of the ball with fingers spread — the classic 'W' thumb position behind the ball.","title":"Start in triple-threat position"},{"detail":"Step toward your target with one foot. This step adds power and gets your momentum moving in the pass's direction.","title":"Step toward the target"},{"detail":"Push the ball straight forward from your chest, extending both arms fully. Your thumbs rotate down at release, putting backspin on the ball so it stays flat and true.","title":"Extend and snap the wrists"},{"detail":"Finish with fingers pointing at the receiver's chest and palms facing out. A full follow-through keeps the pass on a straight line.","title":"Follow through to the target"}],"hub":"skills","id":"chest-pass","level":"beginner","positions":["ALL"],"readTime":4,"related":["bounce-pass","pocket-pass","skip-pass","drive-and-kick","pivot"],"slug":"chest-pass","subcategory":"passing","tags":["passing","fundamentals","team offense"],"title":"Chest Pass","whatIsIt":["The chest pass is basketball's most fundamental throw: a two-handed pass pushed straight from the chest to a teammate's chest. It's the fastest pass to learn, the most accurate over short distances, and the foundation every other pass is measured against.","Because the ball travels in a flat, direct line with backspin, a good chest pass arrives quickly and is easy to catch. It teaches the three pillars of all passing: step, extend, and snap."],"whyItMatters":["Basketball is won by moving the ball faster than the defense can move. The chest pass is the quickest, most reliable way to do that. Every advanced passing concept — drive and kick, skip passes, pocket passes — assumes you can first make a crisp, accurate chest pass."]}
+{
+  "ages": [
+    "U8",
+    "U10",
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "coachingPoints": [
+    "Step into the pass with your lead foot — your body weight powers the ball, not your arms alone.",
+    "Thumbs down at release keeps the backspin flat and accurate.",
+    "Snap the wrists; lazy wrists make lazy, floaty passes that get picked off.",
+    "Eyes up — decide your target before the ball arrives, not after.",
+    "Passing accuracy matters more than passing speed; aim at the receiver's chest pocket."
+  ],
+  "commonMistakes": [
+    "Throwing with straight, stiff arms — no snap, no spin, no control.",
+    "Not stepping into the pass — the ball floats and arrives late.",
+    "Telegraphing: staring at the target for two seconds before passing — defenders read it.",
+    "Passing at the defender's hands instead of leading the teammate away from pressure."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "The fastest, most accurate way to move the ball — learn the two-hand snap, step, and follow-through.",
+  "gameSituations": [
+    "Skip passes across the court against zone defenses.",
+    "Kick-outs from the paint to open shooters.",
+    "Full-court outlet passes to start the fast break."
+  ],
+  "howTo": [
+    {
+      "detail": "Catch or hold the ball at chest height, elbows bent and out slightly. Your hands grip the sides of the ball with fingers spread — the classic 'W' thumb position behind the ball.",
+      "title": "Start in triple-threat position"
+    },
+    {
+      "detail": "Step toward your target with one foot. This step adds power and gets your momentum moving in the pass's direction.",
+      "title": "Step toward the target"
+    },
+    {
+      "detail": "Push the ball straight forward from your chest, extending both arms fully. Your thumbs rotate down at release, putting backspin on the ball so it stays flat and true.",
+      "title": "Extend and snap the wrists"
+    },
+    {
+      "detail": "Finish with fingers pointing at the receiver's chest and palms facing out. A full follow-through keeps the pass on a straight line.",
+      "title": "Follow through to the target"
+    }
+  ],
+  "hub": "skills",
+  "id": "chest-pass",
+  "level": "beginner",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 4,
+  "related": [
+    "bounce-pass",
+    "pocket-pass",
+    "skip-pass",
+    "drive-and-kick",
+    "pivot"
+  ],
+  "slug": "chest-pass",
+  "subcategory": "passing",
+  "tags": [
+    "passing",
+    "fundamentals",
+    "team offense"
+  ],
+  "title": "Chest Pass",
+  "whatIsIt": [
+    "The chest pass is basketball's most fundamental throw: a two-handed pass pushed straight from the chest to a teammate's chest. It's the fastest pass to learn, the most accurate over short distances, and the foundation every other pass is measured against.",
+    "Because the ball travels in a flat, direct line with backspin, a good chest pass arrives quickly and is easy to catch. It teaches the three pillars of all passing: step, extend, and snap."
+  ],
+  "whyItMatters": [
+    "Basketball is won by moving the ball faster than the defense can move. The chest pass is the quickest, most reliable way to do that. Every advanced passing concept — drive and kick, skip passes, pocket passes — assumes you can first make a crisp, accurate chest pass."
+  ],
+  "vi": {
+    "coachingPoints": [
+      "Bước tới khi chuyền bằng chân trước — trọng lượng cơ thể tạo lực cho bóng, không chỉ cánh tay",
+      "Ngón cái hướng xuống khi bóng rời tay giữ đường bóng xoáy phẳng và chuẩn",
+      "Gập cổ tay; cổ tay lười tạo ra những đường chuyền lười, bồng bềnh dễ bị cắt",
+      "Mắt ngẩng lên — quyết định mục tiêu trước khi bóng tới, không phải sau",
+      "Độ chính xác quan trọng hơn tốc độ chuyền; nhắm vào túi ngực của người nhận"
+    ],
+    "commonMistakes": [
+      "Ném bóng với cánh tay thẳng đơ — không gập cổ tay, không xoáy, không kiểm soát",
+      "Không bước tới khi chuyền — bóng bồng bềnh và đến muộn",
+      "Lộ ý đồ: nhìn chằm chằm mục tiêu hai giây trước khi chuyền — hậu vệ đọc được",
+      "Chuyền vào tay hậu vệ thay vì dẫn đồng đội ra khỏi áp lực"
+    ],
+    "description": "Cách nhanh nhất, chuẩn nhất để di chuyển bóng — học cú gập cổ tay hai tay, bước chân và vung tay theo đà.",
+    "gameSituations": [
+      "Chuyền skip ngang sân trước hàng thủ zone",
+      "Kick-out từ trong khu vực hình thang ra cho tay ném trống",
+      "Chuyền outlet cả sân để mở đợt fast break"
+    ],
+    "howTo": [
+      {
+        "detail": "Bắt hoặc giữ bóng ở ngang ngực, khuỷu tay cong và hơi mở. Hai tay cầm hai bên bóng, ngón tay xòe — tư thế ngón cái hình 'W' kinh điển sau bóng.",
+        "title": "Bắt đầu ở tư thế triple threat"
+      },
+      {
+        "detail": "Bước một chân về phía mục tiêu. Bước chân này thêm lực và đưa đà cơ thể theo hướng đường chuyền.",
+        "title": "Bước về phía mục tiêu"
+      },
+      {
+        "detail": "Đẩy bóng thẳng về phía trước từ ngực, duỗi cả hai tay hết cỡ. Ngón cái xoay xuống khi bóng rời tay, tạo xoáy ngược để bóng đi phẳng và chuẩn.",
+        "title": "Duỗi tay và gập cổ tay"
+      },
+      {
+        "detail": "Kết thúc với các ngón tay chỉ vào ngực người nhận, lòng bàn tay hướng ra ngoài. Vung tay theo đà trọn vẹn giữ đường chuyền đi thẳng.",
+        "title": "Vung tay theo đà về mục tiêu"
+      }
+    ],
+    "tags": [
+      "chuyền bóng",
+      "kỹ thuật cơ bản",
+      "tấn công đồng đội"
+    ],
+    "title": "Chuyền Ngực",
+    "whatIsIt": [
+      "Chuyền ngực là cú ném nền tảng nhất của bóng rổ: đường chuyền hai tay đẩy thẳng từ ngực tới ngực đồng đội. Đây là đường chuyền nhanh nhất để học, chuẩn nhất ở cự ly gần, và là thước đo để đánh giá mọi đường chuyền khác.",
+      "Vì bóng đi theo đường phẳng, trực tiếp với xoáy ngược, một đường chuyền ngực tốt đến nhanh và dễ bắt. Nó dạy ba trụ cột của mọi đường chuyền: bước chân, duỗi tay và gập cổ tay."
+    ],
+    "whyItMatters": [
+      "Bóng rổ thắng bằng cách di chuyển bóng nhanh hơn hàng thủ di chuyển. Chuyền ngực là cách nhanh nhất, đáng tin cậy nhất để làm điều đó. Mọi khái niệm chuyền bóng nâng cao — drive and kick, skip pass, pocket pass — đều giả định rằng bạn đã chuyền ngực gọn và chuẩn trước đã."
+    ]
+  }
+}

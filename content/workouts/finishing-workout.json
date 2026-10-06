@@ -22,5 +22,59 @@
     "Use the rim as protection: finish on the side away from the imaginary defender.",
     "Touch beats power inside 6 feet — soft hands score more than hard throws."
   ],
-  "dateUpdated": "2026-10-06"
+  "dateUpdated": "2026-10-06",
+  "vi":   {
+    "title": "Buổi Tập Dứt Điểm",
+    "description": "25 phút dành riêng cho ghi điểm ở rổ: dứt điểm chạm nhẹ, euro step, sức mạnh 2 chân, va chạm và layup phản công.",
+    "focus": [
+      "Dứt điểm"
+    ],
+    "equipment": [
+      "Bóng rổ",
+      "Cọc tiêu"
+    ],
+    "items": [
+      {
+        "name": "Bài Mikan",
+        "detail": "Layup luân phiên dưới rổ, phải và trái, bóng không chạm đất. Dùng bảng rổ mọi lượt.",
+        "time": "3:00"
+      },
+      {
+        "name": "Layup sức mạnh",
+        "detail": "Layup sức mạnh một nhịp rê từ mỗi wing: bật 2 chân, dứt điểm cao qua bảng. Mỗi bên vào 5 quả.",
+        "time": "4:00"
+      },
+      {
+        "name": "Chuỗi euro step",
+        "detail": "Đột phá vào cọc 'hậu vệ' rồi euro vòng qua cả hai hướng. Mỗi hướng vào 5 quả, rồi 5 lượt phản xạ.",
+        "time": "4:00"
+      },
+      {
+        "name": "Dứt điểm reverse",
+        "detail": "Đột phá baseline dứt điểm phía xa của vành: mỗi bên vào 5 quả. Quét bóng vòng dưới.",
+        "time": "4:00"
+      },
+      {
+        "name": "Floater và runner",
+        "detail": "Một nhịp rê rồi floater từ elbow và short corner: mỗi điểm vào 3 quả, chạm nhẹ.",
+        "time": "4:00"
+      },
+      {
+        "name": "Dứt điểm toàn sân",
+        "detail": "Đột phá tốc độ tối đa từ giữa sân, luân phiên tay và kiểu dứt điểm. 10 lần vào liên tiếp để kết thúc.",
+        "time": "4:00"
+      },
+      {
+        "name": "Hạ nhiệt bằng ném phạt",
+        "detail": "8 quả phạt với nghi thức của bạn. Thở, reset, kết thúc mạnh.",
+        "time": "2:00"
+      }
+    ],
+    "tips": [
+      "Dứt điểm với mắt nhìn điểm ngắm trên bảng, không nhìn bóng.",
+      "Luân phiên tay một cách chủ đích — tay yếu cần gấp đôi số lượt của tay thuận.",
+      "Dùng vành rổ làm lá chắn: dứt điểm ở phía xa hậu vệ tưởng tượng.",
+      "Cảm giác bóng thắng sức mạnh trong vòng 6 feet (1,8m) — tay mềm ghi điểm nhiều hơn tay ném mạnh."
+    ]
+  }
 }

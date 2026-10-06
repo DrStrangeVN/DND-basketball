@@ -1,1 +1,148 @@
-{"ages":["U8","U10","U12","U14","U16","U18","Adult"],"coachingPoints":["Jump off the opposite foot from the shooting hand — right hand, left foot (and vice versa).","Protect the ball with your body and off-arm; keep it away from the defender.","Drive the knee up for lift and balance, not just for show.","Keep your eyes on your target on the board, not on the ball.","Practice both sides equally — weak-side finishing separates good finishers from great ones."],"commonMistakes":["Jumping off the wrong foot — kills balance and usually draws no foul call. Slow it down and count your steps out loud.","Shooting flat with no arc — aim higher on the board and finish with a soft wrist.","Bringing the ball down or low where defenders can strip it — gather high and keep it up.","Looking at the ball instead of the target — train eyes on the rim or board rectangle."],"dateUpdated":"2026-10-06","description":"The fundamental close-range finish: learn the right footwork, approach angle, and soft board touch for reliable layups on both sides.","gameSituations":["Fast breaks — the number-one layup opportunity; sprint the lane and finish before help arrives.","Beating your man off the dribble — straight-line drives where no help defender rotates.","Backdoor cuts and give-and-goes — receiving the pass already moving toward the basket."],"howTo":[{"detail":"Attack from roughly a 45-degree angle with the ball protected on your outside hip. Keep the dribble low and controlled — you don't need speed, you need balance.","title":"Start your approach"},{"detail":"Two steps from the basket, gather the ball with two hands. On the right side, most players grab the ball as the left foot hits the floor, then step right — that's the 'one-two' rhythm.","title":"Pick up the ball (gather)"},{"detail":"Right-side layup: gather on the left foot, step right, then jump off your left foot. Your right knee drives up. Left-side layup mirrors this: gather right, step left, jump off the right.","title":"Two-step footwork"},{"detail":"Extend the shooting arm (right arm on the right side) up toward the basket, keeping the elbow slightly bent. Finish with a soft wrist snap, rolling the ball off your fingertips.","title":"Extend and lift"},{"detail":"Aim for the top corner of the small rectangle (the 'sweet spot' on the board) about 30 cm above the rim. The board gives you margin for error on angle and speed.","title":"Use the backboard"},{"detail":"Land on two feet or continue running through your landing. Keep your eyes on the finish until the ball drops — many misses come from looking away too early.","title":"Land balanced"}],"hub":"skills","id":"basic-layup","level":"beginner","positions":["ALL"],"readTime":5,"related":["reverse-layup","euro-step","power-finish","jump-stop","stride-stop"],"slug":"basic-layup","subcategory":"finishing","tags":["layup","finishing","footwork","fundamentals"],"title":"Basic Layup","whatIsIt":["The layup is the highest-percentage shot in basketball — a close-range attempt finished off one foot with a soft touch, usually off the backboard. Every player, regardless of position, must be able to convert layups with both hands.","Layups are built on a two-step rhythm: gather the ball, take two steps, and rise off one foot while extending the shooting arm upward. Once the footwork is automatic, the layup becomes a reliable weapon in transition and off drives."],"whyItMatters":["Games are won in the paint. Teams that finish layups consistently score efficiently, and coaches reward players who convert easy chances. The layup is also the base skill — every advanced finish (euro step, reverse, floater) grows out of this footwork."]}
+{
+  "ages": [
+    "U8",
+    "U10",
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "coachingPoints": [
+    "Jump off the opposite foot from the shooting hand — right hand, left foot (and vice versa).",
+    "Protect the ball with your body and off-arm; keep it away from the defender.",
+    "Drive the knee up for lift and balance, not just for show.",
+    "Keep your eyes on your target on the board, not on the ball.",
+    "Practice both sides equally — weak-side finishing separates good finishers from great ones."
+  ],
+  "commonMistakes": [
+    "Jumping off the wrong foot — kills balance and usually draws no foul call. Slow it down and count your steps out loud.",
+    "Shooting flat with no arc — aim higher on the board and finish with a soft wrist.",
+    "Bringing the ball down or low where defenders can strip it — gather high and keep it up.",
+    "Looking at the ball instead of the target — train eyes on the rim or board rectangle."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "The fundamental close-range finish: learn the right footwork, approach angle, and soft board touch for reliable layups on both sides.",
+  "gameSituations": [
+    "Fast breaks — the number-one layup opportunity; sprint the lane and finish before help arrives.",
+    "Beating your man off the dribble — straight-line drives where no help defender rotates.",
+    "Backdoor cuts and give-and-goes — receiving the pass already moving toward the basket."
+  ],
+  "howTo": [
+    {
+      "detail": "Attack from roughly a 45-degree angle with the ball protected on your outside hip. Keep the dribble low and controlled — you don't need speed, you need balance.",
+      "title": "Start your approach"
+    },
+    {
+      "detail": "Two steps from the basket, gather the ball with two hands. On the right side, most players grab the ball as the left foot hits the floor, then step right — that's the 'one-two' rhythm.",
+      "title": "Pick up the ball (gather)"
+    },
+    {
+      "detail": "Right-side layup: gather on the left foot, step right, then jump off your left foot. Your right knee drives up. Left-side layup mirrors this: gather right, step left, jump off the right.",
+      "title": "Two-step footwork"
+    },
+    {
+      "detail": "Extend the shooting arm (right arm on the right side) up toward the basket, keeping the elbow slightly bent. Finish with a soft wrist snap, rolling the ball off your fingertips.",
+      "title": "Extend and lift"
+    },
+    {
+      "detail": "Aim for the top corner of the small rectangle (the 'sweet spot' on the board) about 30 cm above the rim. The board gives you margin for error on angle and speed.",
+      "title": "Use the backboard"
+    },
+    {
+      "detail": "Land on two feet or continue running through your landing. Keep your eyes on the finish until the ball drops — many misses come from looking away too early.",
+      "title": "Land balanced"
+    }
+  ],
+  "hub": "skills",
+  "id": "basic-layup",
+  "level": "beginner",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 5,
+  "related": [
+    "reverse-layup",
+    "euro-step",
+    "power-finish",
+    "jump-stop",
+    "stride-stop"
+  ],
+  "slug": "basic-layup",
+  "subcategory": "finishing",
+  "tags": [
+    "layup",
+    "finishing",
+    "footwork",
+    "fundamentals"
+  ],
+  "title": "Basic Layup",
+  "whatIsIt": [
+    "The layup is the highest-percentage shot in basketball — a close-range attempt finished off one foot with a soft touch, usually off the backboard. Every player, regardless of position, must be able to convert layups with both hands.",
+    "Layups are built on a two-step rhythm: gather the ball, take two steps, and rise off one foot while extending the shooting arm upward. Once the footwork is automatic, the layup becomes a reliable weapon in transition and off drives."
+  ],
+  "whyItMatters": [
+    "Games are won in the paint. Teams that finish layups consistently score efficiently, and coaches reward players who convert easy chances. The layup is also the base skill — every advanced finish (euro step, reverse, floater) grows out of this footwork."
+  ],
+  "vi": {
+    "coachingPoints": [
+      "Nhảy lên bằng chân đối diện với tay ném — tay phải thì chân trái (và ngược lại)",
+      "Che bóng bằng cơ thể và tay không ném; giữ bóng xa tầm hậu vệ",
+      "Đạp gối lên để tạo độ bật và giữ thăng bằng, không phải để làm màu",
+      "Mắt nhìn vào mục tiêu trên bảng rổ, không nhìn vào bóng",
+      "Tập đều cả hai bên — dứt điểm tốt bằng tay yếu là điều phân biệt người dứt điểm giỏi với người vĩ đại"
+    ],
+    "commonMistakes": [
+      "Nhảy bằng chân sai — mất thăng bằng và thường không được thổi phạt. Hãy chậm lại và đếm bước thành tiếng",
+      "Ném bóng đi phẳng, không có độ cong — hãy nhắm cao hơn trên bảng rổ và kết thúc bằng cổ tay mềm",
+      "Hạ bóng xuống thấp nơi hậu vệ có thể gạt — hãy nhấc bóng lên cao và giữ ở trên",
+      "Nhìn vào bóng thay vì mục tiêu — hãy tập cho mắt nhìn vào vành rổ hoặc hình chữ nhật trên bảng"
+    ],
+    "description": "Pha dứt điểm cơ bản ở cự ly gần: học bước chân đúng, góc tiếp cận và cách chạm bảng mềm để có những pha layup chắc chắn ở cả hai bên.",
+    "gameSituations": [
+      "Phản công nhanh — cơ hội layup số một; chạy nước rút vào lane và dứt điểm trước khi hàng thủ kịp hỗ trợ",
+      "Vượt qua người kèm bằng dẫn bóng — những pha đột phá thẳng khi không có hậu vệ hỗ trợ xoay ra",
+      "Cắt backdoor và give-and-go — nhận bóng khi đã đang di chuyển về phía rổ"
+    ],
+    "howTo": [
+      {
+        "detail": "Tấn công từ góc khoảng 45 độ, giữ bóng ở hông ngoài xa hậu vệ. Giữ bóng dẫn thấp và kiểm soát — bạn không cần tốc độ, bạn cần thăng bằng.",
+        "title": "Bắt đầu đà tiếp cận"
+      },
+      {
+        "detail": "Cách rổ hai bước, ôm bóng bằng hai tay. Bên phải, đa số cầu thủ bắt bóng khi chân trái chạm sàn, rồi bước chân phải — đó là nhịp 'một-hai'.",
+        "title": "Nhấc bóng lên (gather)"
+      },
+      {
+        "detail": "Layup bên phải: nhấc bóng khi chân trái chạm đất, bước chân phải, rồi nhảy lên bằng chân trái. Gối phải đạp lên. Layup bên trái làm ngược lại: nhấc bóng chân phải, bước chân trái, nhảy bằng chân phải.",
+        "title": "Bước chân hai nhịp"
+      },
+      {
+        "detail": "Duỗi tay ném (tay phải ở bên phải) lên về phía rổ, giữ khuỷu tay hơi cong. Kết thúc bằng cú gập cổ tay mềm, lăn bóng khỏi đầu ngón tay.",
+        "title": "Duỗi tay và vươn lên"
+      },
+      {
+        "detail": "Nhắm vào góc trên của hình chữ nhật nhỏ (điểm ngọt trên bảng rổ) cao hơn vành rổ khoảng 30 cm. Bảng rổ cho bạn biên độ sai số về góc và tốc độ.",
+        "title": "Dùng bảng rổ"
+      },
+      {
+        "detail": "Tiếp đất bằng hai chân hoặc chạy đà tiếp sau khi tiếp đất. Giữ mắt ở điểm kết thúc cho đến khi bóng rơi vào rổ — nhiều pha hỏng đến từ việc ngoảnh đi quá sớm.",
+        "title": "Tiếp đất thăng bằng"
+      }
+    ],
+    "tags": [
+      "layup",
+      "dứt điểm",
+      "di chuyển chân",
+      "kỹ thuật cơ bản"
+    ],
+    "title": "Layup Cơ Bản",
+    "whatIsIt": [
+      "Layup là cú ném có tỷ lệ thành công cao nhất trong bóng rổ — cú dứt điểm ở cự ly gần bằng một chân với cú chạm bóng mềm, thường là chạm bảng. Mọi cầu thủ, bất kể vị trí nào, đều phải ghi được layup bằng cả hai tay.",
+      "Layup được xây dựng trên nhịp hai bước: nhấc bóng lên, bước hai bước, và bật lên bằng một chân trong khi duỗi tay ném lên cao. Khi bước chân đã thành phản xạ, layup trở thành một vũ khí đáng tin cậy trong phản công và sau những pha đột phá."
+    ],
+    "whyItMatters": [
+      "Trận đấu được quyết định trong khu vực hình thang. Những đội dứt điểm layup ổn định sẽ ghi điểm hiệu quả, và huấn luyện viên luôn trọng dụng cầu thủ biết tận dụng cơ hội dễ. Layup cũng là kỹ năng nền — mọi pha dứt điểm nâng cao (euro step, reverse, floater) đều phát triển từ bước chân này."
+    ]
+  }
+}

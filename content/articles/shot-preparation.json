@@ -1,1 +1,135 @@
-{"ages":["U12","U14","U16","U18","Adult"],"coachingPoints":["Preparation starts before the catch — sprint your feet into position early.","Hop, don't run, into the shot; the two-foot hop is the fastest way to get square.","Your hands are a target — show the passer a big, ready chest with hands up.","Beat the ball with your feet: be shot-ready before the pass arrives, not after.","Film yourself: most players discover their 'hop' is actually a slow two-step."],"commonMistakes":["Standing flat-footed and catching, then starting the footwork — fix: move during the pass, not after it.","Running through the catch off-balance — fix: replace the run with a hop that lands you square.","Catching with hands down — fix: hands chest-high, presenting a target on every catch.","Only preparing for catch-and-shoot — fix: use the same hop to prepare drives and one-dribble pull-ups."],"dateUpdated":"2026-10-06","description":"Get your feet, hands, and body ready before the ball arrives — the hidden half of every great jumper.","gameSituations":["Catch-and-shoot threes — the entire shot is decided by what your feet did before the catch.","Coming off screens — sprint, hop into the catch, and be ready to shoot or drive instantly.","Transition trail shots — the trailer who hops into the catch shoots before the defense sets."],"howTo":[{"detail":"As the pass leaves the passer's hands, move your feet toward the spot. Great shooters arrive before the ball; average shooters arrive with it.","title":"Move before the catch"},{"detail":"Finish your movement with a small two-foot hop that lands you balanced, knees bent, facing the basket. The hop kills your momentum and sets your base in one move.","title":"Hop into a balanced base"},{"detail":"Show the passer both hands at chest height, fingers up. A ready target means a cleaner catch and a faster release.","title":"Present your hands early"},{"detail":"Catch the ball already in your shooting pocket position — up near the chest/forehead, not down at your waist. Less travel means a quicker shot.","title":"Catch high and ready"},{"detail":"Be in a position to shoot, drive, or pass the instant the ball touches your hands. Preparation is not just for shooting — it is for every decision.","title":"Decide from a ready stance"}],"hub":"skills","id":"shot-preparation","level":"intermediate","positions":["ALL"],"readTime":5,"related":["shooting-mechanics","catch-and-shoot","off-screen-shooting","pull-up-jumper"],"slug":"shot-preparation","subcategory":"shooting","tags":["shooting","footwork","fundamentals"],"title":"Shot Preparation","whatIsIt":["Shot preparation is everything you do before the ball reaches you: how your feet move, where your hands are, and how your body arrives balanced and facing the basket. Most players think shooting starts at the catch. Elite shooters know it starts two seconds earlier.","The difference is measured in tenths of a second. A shooter who hops into a ready stance before the catch can release in under 0.6 seconds. A shooter who starts moving after the catch needs twice as long — and by then, the defender has arrived."],"whyItMatters":["Defense closes out at sprint speed, so shooting is a race against the closeout. Preparation is how you win that race without rushing your mechanics. It is also the most coachable shooting skill: you cannot grow taller or jump higher, but you can absolutely learn to move your feet before the catch. Teams that teach preparation see their whole roster shoot faster and better."]}
+{
+  "ages": [
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "coachingPoints": [
+    "Preparation starts before the catch — sprint your feet into position early.",
+    "Hop, don't run, into the shot; the two-foot hop is the fastest way to get square.",
+    "Your hands are a target — show the passer a big, ready chest with hands up.",
+    "Beat the ball with your feet: be shot-ready before the pass arrives, not after.",
+    "Film yourself: most players discover their 'hop' is actually a slow two-step."
+  ],
+  "commonMistakes": [
+    "Standing flat-footed and catching, then starting the footwork — fix: move during the pass, not after it.",
+    "Running through the catch off-balance — fix: replace the run with a hop that lands you square.",
+    "Catching with hands down — fix: hands chest-high, presenting a target on every catch.",
+    "Only preparing for catch-and-shoot — fix: use the same hop to prepare drives and one-dribble pull-ups."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "Get your feet, hands, and body ready before the ball arrives — the hidden half of every great jumper.",
+  "gameSituations": [
+    "Catch-and-shoot threes — the entire shot is decided by what your feet did before the catch.",
+    "Coming off screens — sprint, hop into the catch, and be ready to shoot or drive instantly.",
+    "Transition trail shots — the trailer who hops into the catch shoots before the defense sets."
+  ],
+  "howTo": [
+    {
+      "detail": "As the pass leaves the passer's hands, move your feet toward the spot. Great shooters arrive before the ball; average shooters arrive with it.",
+      "title": "Move before the catch"
+    },
+    {
+      "detail": "Finish your movement with a small two-foot hop that lands you balanced, knees bent, facing the basket. The hop kills your momentum and sets your base in one move.",
+      "title": "Hop into a balanced base"
+    },
+    {
+      "detail": "Show the passer both hands at chest height, fingers up. A ready target means a cleaner catch and a faster release.",
+      "title": "Present your hands early"
+    },
+    {
+      "detail": "Catch the ball already in your shooting pocket position — up near the chest/forehead, not down at your waist. Less travel means a quicker shot.",
+      "title": "Catch high and ready"
+    },
+    {
+      "detail": "Be in a position to shoot, drive, or pass the instant the ball touches your hands. Preparation is not just for shooting — it is for every decision.",
+      "title": "Decide from a ready stance"
+    }
+  ],
+  "hub": "skills",
+  "id": "shot-preparation",
+  "level": "intermediate",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 5,
+  "related": [
+    "shooting-mechanics",
+    "catch-and-shoot",
+    "off-screen-shooting",
+    "pull-up-jumper"
+  ],
+  "slug": "shot-preparation",
+  "subcategory": "shooting",
+  "tags": [
+    "shooting",
+    "footwork",
+    "fundamentals"
+  ],
+  "title": "Shot Preparation",
+  "whatIsIt": [
+    "Shot preparation is everything you do before the ball reaches you: how your feet move, where your hands are, and how your body arrives balanced and facing the basket. Most players think shooting starts at the catch. Elite shooters know it starts two seconds earlier.",
+    "The difference is measured in tenths of a second. A shooter who hops into a ready stance before the catch can release in under 0.6 seconds. A shooter who starts moving after the catch needs twice as long — and by then, the defender has arrived."
+  ],
+  "whyItMatters": [
+    "Defense closes out at sprint speed, so shooting is a race against the closeout. Preparation is how you win that race without rushing your mechanics. It is also the most coachable shooting skill: you cannot grow taller or jump higher, but you can absolutely learn to move your feet before the catch. Teams that teach preparation see their whole roster shoot faster and better."
+  ],
+  "vi": {
+    "coachingPoints": [
+      "Chuẩn bị bắt đầu trước khi bắt bóng — chạy nước rút đưa chân vào vị trí sớm.",
+      "Nhảy chứ đừng chạy vào cú ném; bước nhảy hai chân là cách nhanh nhất để vào tư thế vuông góc.",
+      "Đôi tay của bạn là một mục tiêu — giơ cho người chuyền thấy một lồng ngực rộng, sẵn sàng với hai tay giơ lên.",
+      "Đánh bại quả bóng bằng đôi chân: sẵn sàng ném trước khi đường chuyền tới, không phải sau.",
+      "Tự quay phim mình: hầu hết cầu thủ phát hiện ra 'bước nhảy' của mình thực ra là hai bước chậm chạp."
+    ],
+    "commonMistakes": [
+      "Đứng chết chân rồi bắt bóng, sau đó mới bắt đầu bước chân — cách sửa: di chuyển trong lúc bóng đang bay, không phải sau đó.",
+      "Chạy xuyên qua pha bắt bóng trong trạng thái mất thăng bằng — cách sửa: thay bước chạy bằng bước nhảy tiếp đất vuông góc.",
+      "Bắt bóng với tay buông thấp — cách sửa: tay ngang ngực, luôn giơ mục tiêu đón bóng trong mọi pha bắt.",
+      "Chỉ chuẩn bị cho catch-and-shoot — cách sửa: dùng cùng bước nhảy đó để chuẩn bị cho đột phá và pull-up sau một nhịp dẫn."
+    ],
+    "description": "Chuẩn bị chân, tay và cơ thể trước khi bóng tới — nửa bí mật của mọi cú ném nhảy hay.",
+    "gameSituations": [
+      "Ném ba điểm catch-and-shoot — toàn bộ cú ném được quyết định bởi những gì đôi chân bạn làm trước khi bắt bóng.",
+      "Bật ra từ tấm chắn — chạy nước rút, nhảy vào pha bắt bóng, và sẵn sàng ném hoặc đột phá ngay lập tức.",
+      "Ném khi chạy theo sau trong phản công — người chạy sau nhảy vào pha bắt bóng sẽ ném trước khi hàng thủ kịp vào vị trí."
+    ],
+    "howTo": [
+      {
+        "detail": "Ngay khi bóng rời tay người chuyền, hãy di chuyển chân về vị trí. Tay ném giỏi đến nơi trước bóng; tay ném trung bình đến cùng lúc với bóng.",
+        "title": "Di chuyển trước khi bắt bóng"
+      },
+      {
+        "detail": "Kết thúc di chuyển bằng một bước nhảy nhỏ hai chân, tiếp đất thăng bằng, gối cong, mặt hướng vào rổ. Bước nhảy triệt tiêu đà lao và dựng tư thế chân trong một động tác.",
+        "title": "Nhảy vào tư thế thăng bằng"
+      },
+      {
+        "detail": "Giơ cả hai tay ngang ngực cho người chuyền thấy, các ngón tay hướng lên. Một mục tiêu sẵn sàng đồng nghĩa với pha bắt bóng sạch hơn và thả bóng nhanh hơn.",
+        "title": "Giơ tay đón bóng sớm"
+      },
+      {
+        "detail": "Bắt bóng ngay ở vị trí ném của bạn — cao ngang ngực/trán, không phải thấp ở thắt lưng. Bóng di chuyển ít hơn nghĩa là cú ném nhanh hơn.",
+        "title": "Bắt bóng cao và sẵn sàng"
+      },
+      {
+        "detail": "Ở vào vị trí có thể ném, đột phá hoặc chuyền ngay khi bóng chạm tay. Chuẩn bị không chỉ dành cho ném rổ — nó dành cho mọi quyết định.",
+        "title": "Ra quyết định từ tư thế sẵn sàng"
+      }
+    ],
+    "tags": [
+      "ném rổ",
+      "bước chân",
+      "cơ bản"
+    ],
+    "title": "Chuẩn bị trước khi ném",
+    "whatIsIt": [
+      "Chuẩn bị trước khi ném là mọi thứ bạn làm trước khi bóng tới tay: chân bạn di chuyển thế nào, tay bạn ở đâu, và cơ thể bạn đến vị trí thăng bằng, hướng mặt vào rổ ra sao. Hầu hết cầu thủ nghĩ ném rổ bắt đầu từ lúc bắt bóng. Những tay ném đẳng cấp biết nó bắt đầu sớm hơn hai giây.",
+      "Sự khác biệt được đo bằng phần mười giây. Một tay ném nhảy vào tư thế sẵn sàng trước khi bắt bóng có thể thả bóng trong chưa đầy 0,6 giây. Một tay ném bắt đầu di chuyển sau khi bắt bóng cần gấp đôi thời gian — và lúc đó, hậu vệ đã tới nơi."
+    ],
+    "whyItMatters": [
+      "Hàng thủ closeout với tốc độ chạy nước rút, nên ném rổ là một cuộc đua với closeout. Chuẩn bị là cách bạn thắng cuộc đua đó mà không cần vội vàng phá vỡ kỹ thuật. Đây cũng là kỹ năng ném dễ dạy nhất: bạn không thể cao thêm hay nhảy cao hơn, nhưng bạn hoàn toàn có thể học cách di chuyển chân trước khi bắt bóng. Những đội dạy sự chuẩn bị sẽ thấy cả đội hình ném nhanh hơn và tốt hơn."
+    ]
+  }
+}

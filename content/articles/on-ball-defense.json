@@ -1,1 +1,150 @@
-{"ages":["U10","U12","U14","U16","U18","Adult"],"coachingPoints":["Move your feet before your hands — slides beat reaches every time","Trace the ball with your lead hand to force the dribbler to protect it","Keep your chest facing the ball handler's chest to stay square","Force the ball toward your help — know whether your team wants middle or baseline denied","Never cross your feet while sliding; push with the back foot and step with the lead foot","Contest every shot without fouling — a clean contest beats a block attempt most possessions"],"commonMistakes":["Reaching for steals instead of sliding the feet — one reach beats you off the dribble","Opening the hips and getting turned — stay square to the ball handler","Letting the ball handler go middle when your team is icing to the baseline","Fouling jump shooters by jumping into their landing space — contest with the body under control"],"dateUpdated":"2026-10-06","description":"Guard the ball handler one-on-one: stance, slides, angles, and how to contain the drive without fouling.","gameSituations":["An isolation possession against your matchup","After a switch puts you on the ball","When your man catches the ball in the half court","Late clock when the offense tries to create off the dribble"],"howTo":[{"detail":"Start in a low defensive stance, one arm's length plus a half-step of space from the ball handler. Being too close invites a blow-by; too far invites a rhythm jumper.","title":"Set up in stance at proper distance"},{"detail":"Watch the ball handler's midsection, not the ball. Keep your chest square to theirs so you can react to either hand.","title":"Square up and lock in on the chest"},{"detail":"Slide laterally with drop steps and push steps, never crossing your feet. The back foot pushes, the lead foot steps, keeping the base wide.","title":"Slide with the dribble, don't reach"},{"detail":"Hold your lead hand — the one on the ball side — at ball height to trace the dribble. Keep the other hand slightly behind to play the drive shoulder.","title":"Trace the ball with your lead hand"},{"detail":"Use your slides to guide the ball handler toward your team's help: deny the middle if your scheme funnels baseline, or vice versa. This is called dictating direction.","title":"Dictate the drive direction"},{"detail":"When the shot goes up, stay down, raise the high hand straight up to contest, and avoid leaning into the shooter. Then turn and find your man to box out.","title":"Contest the shot, then box out"}],"hub":"defense","id":"on-ball-defense","level":"beginner","positions":["ALL"],"readTime":5,"related":["defensive-stance","closeout-defense","help-defense","switch-defense"],"slug":"on-ball-defense","subcategory":"defense-fundamentals","tags":["defense","on-ball","fundamentals","containment"],"title":"On-Ball Defense","whatIsIt":["On-ball defense is guarding the player who has the basketball. Your job is simple to describe and hard to execute: stay between your man and the basket, keep him in front of you, and contest everything without fouling.","Good on-ball defense is mostly positioning and patience. You do not need to steal the ball or block the shot to win the possession. If the ball handler cannot get past you, cannot get a clean look, and is forced to pass with the clock winding down, you have done your job."],"whyItMatters":["Everything in team defense starts with the ball. If one defender cannot contain the ball, the whole defense has to rotate, which creates open shots everywhere else. Strong on-ball defenders reduce the need for help, which means fewer rotations and fewer breakdowns for the entire team."]}
+{
+  "ages": [
+    "U10",
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "coachingPoints": [
+    "Move your feet before your hands — slides beat reaches every time",
+    "Trace the ball with your lead hand to force the dribbler to protect it",
+    "Keep your chest facing the ball handler's chest to stay square",
+    "Force the ball toward your help — know whether your team wants middle or baseline denied",
+    "Never cross your feet while sliding; push with the back foot and step with the lead foot",
+    "Contest every shot without fouling — a clean contest beats a block attempt most possessions"
+  ],
+  "commonMistakes": [
+    "Reaching for steals instead of sliding the feet — one reach beats you off the dribble",
+    "Opening the hips and getting turned — stay square to the ball handler",
+    "Letting the ball handler go middle when your team is icing to the baseline",
+    "Fouling jump shooters by jumping into their landing space — contest with the body under control"
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "Guard the ball handler one-on-one: stance, slides, angles, and how to contain the drive without fouling.",
+  "gameSituations": [
+    "An isolation possession against your matchup",
+    "After a switch puts you on the ball",
+    "When your man catches the ball in the half court",
+    "Late clock when the offense tries to create off the dribble"
+  ],
+  "howTo": [
+    {
+      "detail": "Start in a low defensive stance, one arm's length plus a half-step of space from the ball handler. Being too close invites a blow-by; too far invites a rhythm jumper.",
+      "title": "Set up in stance at proper distance"
+    },
+    {
+      "detail": "Watch the ball handler's midsection, not the ball. Keep your chest square to theirs so you can react to either hand.",
+      "title": "Square up and lock in on the chest"
+    },
+    {
+      "detail": "Slide laterally with drop steps and push steps, never crossing your feet. The back foot pushes, the lead foot steps, keeping the base wide.",
+      "title": "Slide with the dribble, don't reach"
+    },
+    {
+      "detail": "Hold your lead hand — the one on the ball side — at ball height to trace the dribble. Keep the other hand slightly behind to play the drive shoulder.",
+      "title": "Trace the ball with your lead hand"
+    },
+    {
+      "detail": "Use your slides to guide the ball handler toward your team's help: deny the middle if your scheme funnels baseline, or vice versa. This is called dictating direction.",
+      "title": "Dictate the drive direction"
+    },
+    {
+      "detail": "When the shot goes up, stay down, raise the high hand straight up to contest, and avoid leaning into the shooter. Then turn and find your man to box out.",
+      "title": "Contest the shot, then box out"
+    }
+  ],
+  "hub": "defense",
+  "id": "on-ball-defense",
+  "level": "beginner",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 5,
+  "related": [
+    "defensive-stance",
+    "closeout-defense",
+    "help-defense",
+    "switch-defense"
+  ],
+  "slug": "on-ball-defense",
+  "subcategory": "defense-fundamentals",
+  "tags": [
+    "defense",
+    "on-ball",
+    "fundamentals",
+    "containment"
+  ],
+  "title": "On-Ball Defense",
+  "whatIsIt": [
+    "On-ball defense is guarding the player who has the basketball. Your job is simple to describe and hard to execute: stay between your man and the basket, keep him in front of you, and contest everything without fouling.",
+    "Good on-ball defense is mostly positioning and patience. You do not need to steal the ball or block the shot to win the possession. If the ball handler cannot get past you, cannot get a clean look, and is forced to pass with the clock winding down, you have done your job."
+  ],
+  "whyItMatters": [
+    "Everything in team defense starts with the ball. If one defender cannot contain the ball, the whole defense has to rotate, which creates open shots everywhere else. Strong on-ball defenders reduce the need for help, which means fewer rotations and fewer breakdowns for the entire team."
+  ],
+  "vi": {
+    "title": "Phòng Thủ Kèm Người Có Bóng",
+    "description": "Kèm người giữ bóng 1 đối 1: tư thế phòng thủ, di chuyển chân (slide), góc kèm và cách chặn đường đột phá mà không phạm lỗi.",
+    "whatIsIt": [
+      "Phòng thủ kèm bóng (on-ball defense) là kèm cầu thủ đang giữ bóng. Nhiệm vụ của bạn mô tả thì đơn giản nhưng thực hiện thì khó: luôn đứng giữa đối thủ và rổ, không để anh ta vượt qua, và tranh chấp mọi cú ném mà không phạm lỗi.",
+      "Phòng thủ kèm bóng giỏi chủ yếu là vị trí và sự kiên nhẫn. Bạn không cần cướp bóng hay block để thắng một pha tấn công. Nếu người giữ bóng không thể vượt qua bạn, không có cú ném thoáng, và buộc phải chuyền bóng khi đồng hồ sắp hết, bạn đã hoàn thành nhiệm vụ."
+    ],
+    "whyItMatters": [
+      "Mọi thứ trong phòng thủ đồng đội đều bắt đầu từ quả bóng. Nếu một hậu vệ không ngăn được bóng, cả hệ thống phải xoay chuyển để hỗ trợ, tạo ra những cú ném trống trải ở khắp nơi. Người kèm bóng tốt giảm nhu cầu hỗ trợ, tức là ít phải xoay vòng hơn và ít lỗi sập bẫy hơn cho cả đội."
+    ],
+    "howTo": [
+      {
+        "title": "Vào tư thế phòng thủ đúng khoảng cách",
+        "detail": "Bắt đầu với tư thế phòng thủ thấp, cách người giữ bóng một sải tay cộng thêm nửa bước chân. Đứng quá gần dễ bị vượt mặt; quá xa thì mời đối thủ ném nhịp nhàng."
+      },
+      {
+        "title": "Kèm vuông góc và nhìn vào ngực đối thủ",
+        "detail": "Nhìn vào phần giữa thân người giữ bóng, không nhìn bóng. Giữ ngực của bạn vuông góc với ngực đối thủ để phản ứng được cả hai tay."
+      },
+      {
+        "title": "Trượt chân theo bóng, đừng với tay",
+        "detail": "Trượt chân ngang bằng bước hạ (drop step) và bước đẩy (push step), không bao giờ chéo chân. Chân sau đẩy, chân trước bước, giữ trọng tâm rộng."
+      },
+      {
+        "title": "Dùng tay trước truy theo bóng",
+        "detail": "Giữ tay trước — tay ở phía bóng — ngang tầm bóng để truy theo đường dẫn bóng. Tay còn lại hơi lùi sau để chặn vai đột phá."
+      },
+      {
+        "title": "Ép hướng đột phá",
+        "detail": "Dùng bước trượt để dẫn người giữ bóng về phía đồng đội hỗ trợ: chặn đường giữa nếu sơ đồ đội bạn ép ra biên, hoặc ngược lại. Đây gọi là ép hướng đột phá (dictating direction)."
+      },
+      {
+        "title": "Tranh chấp cú ném, rồi box out",
+        "detail": "Khi bóng lên, giữ thấp người, giơ tay cao thẳng lên để tranh chấp, tránh lao người vào cầu thủ ném. Sau đó quay lại tìm người kèm để box out."
+      }
+    ],
+    "coachingPoints": [
+      "Di chuyển chân trước, tay sau — trượt chân luôn thắng với tay cướp bóng",
+      "Dùng tay trước truy theo bóng để buộc người dẫn bóng phải bảo vệ bóng",
+      "Giữ ngực đối diện ngực người giữ bóng để luôn kèm vuông góc",
+      "Ép bóng về phía đồng đội hỗ trợ — biết đội bạn muốn chặn giữa hay ép ra biên",
+      "Không bao giờ chéo chân khi trượt; chân sau đẩy, chân trước bước",
+      "Tranh chấp mọi cú ném mà không phạm lỗi — tranh chấp sạch thắng block ở hầu hết các pha bóng"
+    ],
+    "commonMistakes": [
+      "Với tay cướp bóng thay vì trượt chân — một lần với tay là bị vượt qua ngay",
+      "Mở hông và bị xoay người — luôn giữ vuông góc với người giữ bóng",
+      "Để người giữ bóng đi vào giữa khi đội đang ép ra biên (icing to the baseline)",
+      "Phạm lỗi với cầu thủ ném do nhảy vào vùng tiếp đất — tranh chấp với thân người kiểm soát"
+    ],
+    "gameSituations": [
+      "Một pha isolation 1 đối 1 với người mình kèm",
+      "Sau một pha switch khiến bạn phải kèm bóng",
+      "Khi đối thủ bắt bóng ở nửa sân",
+      "Cuối đồng hồ tấn công khi đối phương cố tạo đột phá từ dẫn bóng"
+    ],
+    "tags": [
+      "phòng thủ",
+      "kèm bóng",
+      "kỹ thuật cơ bản",
+      "ngăn chặn"
+    ]
+  }
+}

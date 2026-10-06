@@ -23,5 +23,68 @@
     "Every drill should end with a decision: shoot, pass, or drive. Never go through the motions.",
     "Bring a partner for the pressure and passing blocks — point guard work is better with a defense."
   ],
-  "dateUpdated": "2026-10-06"
+  "dateUpdated": "2026-10-06",
+  "vi":   {
+    "title": "Buổi Tập Hậu Vệ Dẫn Bóng",
+    "description": "Buổi tập floor-general nâng cao 40 phút: rê bóng đẳng cấp, đọc pick-and-roll live, chuyền dưới áp lực, ghi điểm pull-up và các lượt lãnh đạo.",
+    "focus": [
+      "Rê bóng",
+      "Pick & Roll",
+      "Chuyền bóng",
+      "Ném rổ",
+      "Dứt điểm"
+    ],
+    "equipment": [
+      "Bóng rổ",
+      "Cọc tiêu"
+    ],
+    "items": [
+      {
+        "name": "Chuỗi 2 bóng nâng cao",
+        "detail": "Crossover, between-the-legs và behind-the-back 2 bóng khi đi bộ hết sân. 4 lượt, mắt nhìn lên.",
+        "time": "4:00"
+      },
+      {
+        "name": "Rê bóng dưới áp lực",
+        "detail": "Đồng đội hoặc HLV tạo áp lực nhẹ bằng tay: retreat dribble, spin-out và che bóng. Giữ bình tĩnh.",
+        "time": "4:00"
+      },
+      {
+        "name": "Khối pick-and-roll chuyên sâu",
+        "detail": "Screen bằng ghế ở đỉnh: snake, reject, split và pocket-pass read — mỗi kiểu 5 lượt, tốc độ tối đa.",
+        "time": "8:00"
+      },
+      {
+        "name": "Đọc chuyền live",
+        "detail": "Drive-and-kick: tấn công cọc, jump-stop và chuyền trúng mục tiêu (ghế) ở wing hoặc góc. 10 đường chuyền chính xác.",
+        "time": "5:00"
+      },
+      {
+        "name": "Gói pull-up và floater",
+        "detail": "Pull-up ở elbow, side-step một nhịp và runner: mỗi điểm vào 3 quả, cả hai bên.",
+        "time": "7:00"
+      },
+      {
+        "name": "Ra quyết định phản công",
+        "detail": "Đẩy bóng hết sân 1-0: đưa bóng lên, đọc đồng đội tưởng tượng, dứt điểm hoặc pull-up. 8 lượt.",
+        "time": "5:00"
+      },
+      {
+        "name": "Ném phạt có hậu quả",
+        "detail": "10 quả phạt: mỗi lần trượt là 10 giây trượt phòng thủ. Rèn sự tập trung khi phải trả giá.",
+        "time": "4:00"
+      },
+      {
+        "name": "Hạ nhiệt và hình dung",
+        "detail": "Ném nhẹ trong khi hình dung các bài của đội — thấy mình ra quyết định đúng 5 lần.",
+        "time": "3:00"
+      }
+    ],
+    "tips": [
+      "Buổi tập của hậu vệ dẫn bóng đo bằng quyết định, không chỉ số lần vào — hãy nói to các read của bạn.",
+      "Rèn rê bóng live tay yếu đến khi thấy chán; lúc đó mới là sẵn sàng cho trận.",
+      "Mọi bài tập phải kết thúc bằng một quyết định: ném, chuyền hay đột phá. Đừng bao giờ tập cho có.",
+      "Rủ đồng đội cho các khối áp lực và chuyền — tập hậu vệ có hàng thủ vẫn tốt hơn."
+    ]
+  }
 }

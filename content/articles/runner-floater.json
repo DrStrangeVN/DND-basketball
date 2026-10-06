@@ -1,1 +1,138 @@
-{"ages":["U14","U16","U18","Adult","Competitive"],"coachingPoints":["Use ONE hand with a high, soft release — floaters are not push shots from the chest.","The runner works best at about 3-4 meters from the rim — too close and it's a layup, too far and it's a jumper.","Keep the ball on one side of your body to shield it from the chasing defender.","Runner: keep running through the shot. Floater: stop your momentum slightly for balance.","Add the shot to your game gradually — start stationary floaters, then add the run."],"commonMistakes":["Shooting the floater flat — it needs a high arc to drop over a big's outstretched arm.","Releasing with two hands — kills the touch and the extension.","Jumping too high — floaters are about quick release, not elevation.","Using it against a set, flat-footed defender — just keep driving and lay it up."],"dateUpdated":"2026-10-06","description":"The in-between shot for small guards: a one-handed floater or runner launched over retreating bigs.","gameSituations":["Pick-and-roll when the big drops deep — the classic 'in-between' window is wide open.","Beating a help defender who is backpedaling — shoot before they can set their feet.","Drives where you can't get all the way to the rim but the midrange jumper would be too slow."],"howTo":[{"detail":"Drive into the lane at speed. As you reach the free-throw-line area, pick up your dribble — you should be about 3 to 4 meters from the basket.","title":"Attack the in-between zone"},{"detail":"Take your final steps under control. Runner: keep your legs moving through the shot. Floater: plant your last step to steady yourself.","title":"Footwork: run or plant"},{"detail":"Lift the ball with one hand, keeping the off-hand on it only until release. The shooting hand stays under or behind the ball.","title":"One-hand lift"},{"detail":"Release the ball high and soft, well above the defender's reach. Extend your arm fully and let the ball float — the wrist does the work, not the shoulder.","title":"High, soft release"},{"detail":"Aim for the top of the backboard rectangle or just over the front of the rim. High arc is non-negotiable — a flat floater gets blocked.","title":"Arc it over the big"}],"hub":"skills","id":"runner-floater","level":"intermediate","positions":["ALL"],"readTime":6,"related":["finger-roll","basic-layup","contact-finishing","jump-stop","drive-and-kick"],"slug":"runner-floater","subcategory":"finishing","tags":["floater","runner","finishing","guards"],"title":"Runner & Floater","whatIsIt":["The runner and floater are one-handed, close-to-mid-range shots taken on the move — a guard's answer to shot blockers. A runner is released while still moving forward; a floater is released from a more settled, planted position. Both are launched high and soft, dropping over retreating big men.","These shots fill the 'dead zone' between a layup and a jumper. When a big defender drops back to protect the rim, attacking guards who can't finish over them need a shot that goes up before the big can recover — that's exactly what the runner and floater do."],"whyItMatters":["Every guard eventually faces a shot blocker they can't finish over and a drop-coverage big waiting at the rim. Without an in-between game, those drives die. The floater turns the area defenses concede — the 3-to-4-meter zone — into a scoring zone."]}
+{
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult",
+    "Competitive"
+  ],
+  "coachingPoints": [
+    "Use ONE hand with a high, soft release — floaters are not push shots from the chest.",
+    "The runner works best at about 3-4 meters from the rim — too close and it's a layup, too far and it's a jumper.",
+    "Keep the ball on one side of your body to shield it from the chasing defender.",
+    "Runner: keep running through the shot. Floater: stop your momentum slightly for balance.",
+    "Add the shot to your game gradually — start stationary floaters, then add the run."
+  ],
+  "commonMistakes": [
+    "Shooting the floater flat — it needs a high arc to drop over a big's outstretched arm.",
+    "Releasing with two hands — kills the touch and the extension.",
+    "Jumping too high — floaters are about quick release, not elevation.",
+    "Using it against a set, flat-footed defender — just keep driving and lay it up."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "The in-between shot for small guards: a one-handed floater or runner launched over retreating bigs.",
+  "gameSituations": [
+    "Pick-and-roll when the big drops deep — the classic 'in-between' window is wide open.",
+    "Beating a help defender who is backpedaling — shoot before they can set their feet.",
+    "Drives where you can't get all the way to the rim but the midrange jumper would be too slow."
+  ],
+  "howTo": [
+    {
+      "detail": "Drive into the lane at speed. As you reach the free-throw-line area, pick up your dribble — you should be about 3 to 4 meters from the basket.",
+      "title": "Attack the in-between zone"
+    },
+    {
+      "detail": "Take your final steps under control. Runner: keep your legs moving through the shot. Floater: plant your last step to steady yourself.",
+      "title": "Footwork: run or plant"
+    },
+    {
+      "detail": "Lift the ball with one hand, keeping the off-hand on it only until release. The shooting hand stays under or behind the ball.",
+      "title": "One-hand lift"
+    },
+    {
+      "detail": "Release the ball high and soft, well above the defender's reach. Extend your arm fully and let the ball float — the wrist does the work, not the shoulder.",
+      "title": "High, soft release"
+    },
+    {
+      "detail": "Aim for the top of the backboard rectangle or just over the front of the rim. High arc is non-negotiable — a flat floater gets blocked.",
+      "title": "Arc it over the big"
+    }
+  ],
+  "hub": "skills",
+  "id": "runner-floater",
+  "level": "intermediate",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 6,
+  "related": [
+    "finger-roll",
+    "basic-layup",
+    "contact-finishing",
+    "jump-stop",
+    "drive-and-kick"
+  ],
+  "slug": "runner-floater",
+  "subcategory": "finishing",
+  "tags": [
+    "floater",
+    "runner",
+    "finishing",
+    "guards"
+  ],
+  "title": "Runner & Floater",
+  "whatIsIt": [
+    "The runner and floater are one-handed, close-to-mid-range shots taken on the move — a guard's answer to shot blockers. A runner is released while still moving forward; a floater is released from a more settled, planted position. Both are launched high and soft, dropping over retreating big men.",
+    "These shots fill the 'dead zone' between a layup and a jumper. When a big defender drops back to protect the rim, attacking guards who can't finish over them need a shot that goes up before the big can recover — that's exactly what the runner and floater do."
+  ],
+  "whyItMatters": [
+    "Every guard eventually faces a shot blocker they can't finish over and a drop-coverage big waiting at the rim. Without an in-between game, those drives die. The floater turns the area defenses concede — the 3-to-4-meter zone — into a scoring zone."
+  ],
+  "vi": {
+    "title": "Runner & Floater",
+    "description": "Cú ném tầm trung cho hậu vệ nhỏ: floater hoặc runner một tay tung qua các big đang lùi.",
+    "whatIsIt": [
+      "Runner và floater là những cú ném một tay, cự ly gần đến trung bình, thực hiện khi đang di chuyển — câu trả lời của hậu vệ trước các tay chắn bóng. Runner được tung ra khi vẫn đang tiến về phía trước; floater được tung ra từ tư thế trụ vững hơn. Cả hai đều được tung cao và nhẹ, rơi qua đầu các big đang lùi.",
+      "Những cú ném này lấp đầy 'vùng chết' giữa layup và jumper. Khi big đối phương lùi sâu bảo vệ rổ, các hậu vệ tấn công không thể dứt điểm qua họ cần một cú ném tung lên trước khi big kịp hồi phục — runner và floater chính là thứ đó."
+    ],
+    "whyItMatters": [
+      "Mọi hậu vệ rồi sẽ gặp tay chắn bóng mà mình không dứt điểm qua được và big drop-coverage chờ sẵn ở rổ. Không có lối chơi tầm trung, những pha dẫn đó chết. Floater biến khu vực hàng thủ nhường — vùng 3–4 mét — thành vùng ghi điểm."
+    ],
+    "howTo": [
+      {
+        "title": "Tấn công vùng trung gian",
+        "detail": "Dẫn nhanh vào vùng sơn. Khi đến khu vực vạch ném phạt, nhặt nhịp dẫn — bạn nên cách rổ khoảng 3 đến 4 mét."
+      },
+      {
+        "title": "Bộ pháp: chạy hay trụ",
+        "detail": "Bước cuối có kiểm soát. Runner: giữ chân di chuyển xuyên qua cú ném. Floater: đặt bước cuối để giữ thăng bằng."
+      },
+      {
+        "title": "Nâng bóng một tay",
+        "detail": "Nâng bóng bằng một tay, tay còn lại chỉ giữ đến lúc tung. Tay ném nằm dưới hoặc sau bóng."
+      },
+      {
+        "title": "Tung cao và nhẹ",
+        "detail": "Tung bóng cao và nhẹ, vượt hẳn tầm với của hậu vệ. Duỗi tay hết cỡ và để bóng bay — cổ tay làm việc, không phải vai."
+      },
+      {
+        "title": "Vòng cung qua big",
+        "detail": "Nhắm đỉnh hình chữ nhật trên bảng hoặc ngay qua mặt trước rổ. Vòng cung cao là bắt buộc — floater phẳng sẽ bị chắn."
+      }
+    ],
+    "coachingPoints": [
+      "Dùng MỘT tay với cú tung cao, nhẹ — floater không phải cú đẩy từ ngực.",
+      "Runner hiệu quả nhất ở khoảng 3–4 mét cách rổ — gần quá thì thành layup, xa quá thì thành jumper.",
+      "Giữ bóng một bên cơ thể để che khỏi hậu vệ đuổi theo.",
+      "Runner: tiếp tục chạy xuyên qua cú ném. Floater: hãm đà một chút để giữ thăng bằng.",
+      "Thêm cú ném vào lối chơi dần dần — bắt đầu với floater tĩnh, rồi thêm phần chạy."
+    ],
+    "commonMistakes": [
+      "Ném floater phẳng — nó cần vòng cung cao để rơi qua tay giơ của big.",
+      "Tung bằng hai tay — giết cảm giác và độ duỗi.",
+      "Nhảy quá cao — floater là về tung nhanh, không phải bật cao.",
+      "Dùng nó trước hậu vệ đã đứng vững, chân cắm — cứ dẫn tiếp và layup."
+    ],
+    "gameSituations": [
+      "Pick-and-roll khi big lùi sâu — 'cửa sổ trung gian' kinh điển đang mở toang.",
+      "Vượt qua hậu vệ hỗ trợ đang lùi — ném trước khi họ kịp đặt chân.",
+      "Những pha dẫn không vào được tới rổ nhưng jumper tầm trung thì quá chậm."
+    ],
+    "tags": [
+      "floater",
+      "runner",
+      "dứt điểm",
+      "hậu vệ"
+    ]
+  }
+}

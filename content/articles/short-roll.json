@@ -146,5 +146,66 @@
     "pocket-pass-pnr",
     "ball-handler-reads"
   ],
-  "dateUpdated": "2026-10-06"
+  "dateUpdated": "2026-10-06",
+  "vi": {
+    "coachingPoints": [
+      "Big man cần kỹ năng của hậu vệ cho tình huống này: bắt bóng, xoay mặt lên và ra quyết định nhanh phải được tập luyện.",
+      "Dạy đúng vị trí bắt bóng — khu vực nail/vạch ném phạt — bằng các điểm đánh dấu trên sân khi tập.",
+      "Các lần tập phải có người tag thật; khả năng đọc tình huống chính là toàn bộ kỹ năng.",
+      "Quay phim pha ra quyết định: dừng ở thời điểm bắt bóng và hỏi big man nhìn thấy gì trước khi cho chạy tiếp."
+    ],
+    "commonMistakes": [
+      "Roll hết vào người tag thay vì dừng lại sớm.",
+      "Bắt bóng với chân đứng chết và mặt hướng ra biên, không nhìn được mặt sân.",
+      "Giữ bóng quá lâu để lợi thế 4-chọi-3 tan biến.",
+      "Cố chuyền cho người roll trong khi đường skip ra góc đang hoàn toàn trống."
+    ],
+    "description": "Thay vì roll hết vào rổ, người chắn bắt bóng ở vùng pocket và trở thành người kiến tạo.",
+    "gameSituations": [
+      "Khi đối đầu bất kỳ hàng thủ nào tag người roll bằng cầu thủ ở vị trí thấp.",
+      "Khi có một big man chuyền bóng khéo — short roll trở thành miếng kiến tạo hay nhất của bạn.",
+      "Khi pha roll sâu bị bịt kín nhưng khu vực giữa sân đang trống."
+    ],
+    "howTo": [
+      {
+        "detail": "Khi đang roll, cảm nhận hoặc nhìn thấy hậu vệ hỗ trợ đang xoay về phía bạn. Dừng pha roll ở vùng pocket — đừng chạy đâm vào người tag.",
+        "title": "Đọc pha tag sớm"
+      },
+      {
+        "detail": "Bắt bóng bằng hai chân, mặt hướng vào rổ, bóng giữ cao. Bạn cần nhìn thấy cả mặt sân ngay khi bóng tới tay.",
+        "title": "Bắt bóng thăng bằng và hướng mặt vào rổ"
+      },
+      {
+        "detail": "Nếu không ai bước lên kèm, hãy ném jumper từ vạch ném phạt. Hàng thủ buộc phải tôn trọng nó, nếu không short roll sẽ thành những pha lên rổ dễ dàng.",
+        "title": "Ném nếu họ bỏ mặc bạn"
+      },
+      {
+        "detail": "Nếu một hậu vệ lao tới, hãy đặt bóng xuống sàn — một hoặc hai nhịp dẫn tới rổ hoặc để kéo thêm sự xoay người tiếp theo.",
+        "title": "Đột phá khi bị closeout mạnh"
+      },
+      {
+        "detail": "Khi hàng thủ rối loạn, hãy tìm người trống: tay ném ở góc mà người tag đã bỏ lại, hoặc người đang cắt sau lưng pha bóng. Đường chuyền skip là đòn kết liễu.",
+        "title": "Chuyền cho người ở vòng xoay tiếp theo"
+      },
+      {
+        "detail": "Bắt bóng và quyết định trong một nhịp. Giữ bóng quá lâu để hàng thủ hồi phục và giết chết lợi thế 4-chọi-3.",
+        "title": "Giữ nhịp nhanh"
+      }
+    ],
+    "tags": [
+      "pick and roll",
+      "short roll",
+      "kiến tạo",
+      "big man"
+    ],
+    "title": "Ra quyết định khi Short Roll",
+    "whatIsIt": [
+      "Short roll là khi người chắn, thay vì roll hết vào rổ, dừng lại ở giữa sân — quanh vạch ném phạt hoặc điểm nail — để bắt bóng. Từ đó, cầu thủ to con trở thành người kiến tạo với cả mặt sân trước mặt.",
+      "Đó là câu trả lời cho pha tag: khi một hậu vệ hỗ trợ xoay sang chặn pha roll sâu, short roll bắt bóng đúng vào chỗ mà người hỗ trợ vừa rời đi. Giờ đây là tình huống 4-chọi-3 với một người ra quyết định khéo léo ở giữa sân.",
+      "Short roll đã biến các big man hiện đại thành trung tâm điều phối. Bắt bóng, đọc tình huống và lựa chọn: ném jumper trống, đột phá khi bị closeout, chuyền cho người cắt sau lưng, hoặc chuyền skip sang cánh yếu."
+    ],
+    "whyItMatters": [
+      "Hàng thủ đã hóa giải pha roll sâu bằng cách tag với người ở vị trí thấp. Short roll hóa giải ngược lại bằng cách biến pha tag thành lợi thế — chính sự xoay người của hậu vệ hỗ trợ tạo ra khoảng trống để big man bắt bóng. Những đội có mối đe dọa short roll khiến phòng thủ hỗ trợ trở thành một canh bạc thua."
+    ]
+  }
 }

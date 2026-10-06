@@ -1,1 +1,183 @@
-{"ages":["U10","U12","U14","U16","U18","Adult"],"coachingPoints":["Walk beginners around the court and name each line before any drill — visual familiarity comes first.","Use the elbows (corners of the free-throw line) as landmarks for shooting and cutting drills.","Mark 3-point spots with cones when teaching shot selection so players learn the extra-point zones by feel.","Remind guards that the eight-second rule (FIBA) requires the ball to cross half-court in time."],"commonMistakes":["Standing in the paint on offense for more than three seconds.","Stepping on the three-point line on a 'three' attempt, turning it into a two.","Carrying the ball back over half-court after crossing it (backcourt violation).","Ignoring the restricted area and taking charges where they are not legal."],"dateUpdated":"2026-10-06","description":"Every line on a basketball court and what it means — the 3-point arc, paint, free-throw line and half-court line.","diagram":{"ball":"O1","defense":[],"moves":[{"from":"O1","kind":"pass","to":"O3"}],"offense":[{"label":"O1","x":50,"y":75},{"label":"O2","x":15,"y":60},{"label":"O3","x":85,"y":60},{"label":"O4","x":32,"y":25},{"label":"O5","x":68,"y":25}],"passes":[],"screens":[],"shots":[],"title":"Half-court: key landmarks"},"gameSituations":["Fast break — players sprint wide to the corners and the rim runner fills the lane to the paint.","Zone defense — defenders guard areas defined by the paint, elbows, and arc.","Out-of-bounds plays — most inbound plays start at the baseline or sideline.","End-of-game — shooters spread to the arc while a driver attacks the paint."],"howTo":[{"detail":"The center circle is where the game starts with the jump ball. The half-court line runs across the middle — once you cross it with the ball in the frontcourt, you may not dribble or pass it back into your backcourt.","title":"Find the center circle and half-court line"},{"detail":"The rectangle directly under each basket is called the paint or the key. Offensive players may not stay inside it for more than three seconds while their team has the ball. Its edges are also where many screening actions start.","title":"Learn the paint (the key)"},{"detail":"The free-throw line sits 15 feet from the backboard (5.8 m in FIBA). Foul shots are taken from here. The circle around it is the free-throw circle — the top of it (the 'nail' or 'elbow' area) is one of the most important spots on the court for cuts and screens.","title":"Know the free-throw line and circle"},{"detail":"Shots made from behind this arc count for three points; shots inside it count for two. In the NBA the arc is 23 feet 9 inches at the top and 22 feet in the corners. Learn your league's distance — it changes between youth, FIBA, and NBA.","title":"Locate the three-point arc"},{"detail":"The baseline runs under each basket; the sidelines run along the sides. The small arc under the basket is the restricted area — a defender standing inside it cannot draw a charge.","title":"Identify the baseline, sidelines, and restricted area"}],"hub":"fundamentals","id":"court-and-lines","level":"beginner","positions":["ALL"],"readTime":5,"references":["FIBA"],"related":["basketball-rules","scoring-basketball","spacing-basics","basketball-positions"],"slug":"court-and-lines","subcategory":"fundamentals","tags":["court","lines","basics","diagrams"],"title":"The Basketball Court & Lines","whatIsIt":["A full basketball court is a rectangle 94 feet long and 50 feet wide in the NBA, and 28 meters by 15 meters under FIBA rules. The lines painted on the floor define where you can shoot, stand, dribble, and how much time you have in each area.","Every line exists for a reason: the three-point arc rewards distance shooting, the paint (the colored rectangle under each basket) governs post play and three-second violations, and the half-court line divides the court into your backcourt and frontcourt — you cannot take the ball back across it once you cross."],"whyItMatters":["Players who read the court play faster. Knowing exactly where the three-point line sits tells you when to step back for an extra point; knowing the paint tells you when you must move before a three-second call. Coaches also use the lines as reference points for every drill and play."]}
+{
+  "ages": [
+    "U10",
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "coachingPoints": [
+    "Walk beginners around the court and name each line before any drill — visual familiarity comes first.",
+    "Use the elbows (corners of the free-throw line) as landmarks for shooting and cutting drills.",
+    "Mark 3-point spots with cones when teaching shot selection so players learn the extra-point zones by feel.",
+    "Remind guards that the eight-second rule (FIBA) requires the ball to cross half-court in time."
+  ],
+  "commonMistakes": [
+    "Standing in the paint on offense for more than three seconds.",
+    "Stepping on the three-point line on a 'three' attempt, turning it into a two.",
+    "Carrying the ball back over half-court after crossing it (backcourt violation).",
+    "Ignoring the restricted area and taking charges where they are not legal."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "Every line on a basketball court and what it means — the 3-point arc, paint, free-throw line and half-court line.",
+  "diagram": {
+    "ball": "O1",
+    "defense": [],
+    "moves": [
+      {
+        "from": "O1",
+        "kind": "pass",
+        "to": "O3"
+      }
+    ],
+    "offense": [
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 75
+      },
+      {
+        "label": "O2",
+        "x": 15,
+        "y": 60
+      },
+      {
+        "label": "O3",
+        "x": 85,
+        "y": 60
+      },
+      {
+        "label": "O4",
+        "x": 32,
+        "y": 25
+      },
+      {
+        "label": "O5",
+        "x": 68,
+        "y": 25
+      }
+    ],
+    "passes": [],
+    "screens": [],
+    "shots": [],
+    "title": "Half-court: key landmarks"
+  },
+  "gameSituations": [
+    "Fast break — players sprint wide to the corners and the rim runner fills the lane to the paint.",
+    "Zone defense — defenders guard areas defined by the paint, elbows, and arc.",
+    "Out-of-bounds plays — most inbound plays start at the baseline or sideline.",
+    "End-of-game — shooters spread to the arc while a driver attacks the paint."
+  ],
+  "howTo": [
+    {
+      "detail": "The center circle is where the game starts with the jump ball. The half-court line runs across the middle — once you cross it with the ball in the frontcourt, you may not dribble or pass it back into your backcourt.",
+      "title": "Find the center circle and half-court line"
+    },
+    {
+      "detail": "The rectangle directly under each basket is called the paint or the key. Offensive players may not stay inside it for more than three seconds while their team has the ball. Its edges are also where many screening actions start.",
+      "title": "Learn the paint (the key)"
+    },
+    {
+      "detail": "The free-throw line sits 15 feet from the backboard (5.8 m in FIBA). Foul shots are taken from here. The circle around it is the free-throw circle — the top of it (the 'nail' or 'elbow' area) is one of the most important spots on the court for cuts and screens.",
+      "title": "Know the free-throw line and circle"
+    },
+    {
+      "detail": "Shots made from behind this arc count for three points; shots inside it count for two. In the NBA the arc is 23 feet 9 inches at the top and 22 feet in the corners. Learn your league's distance — it changes between youth, FIBA, and NBA.",
+      "title": "Locate the three-point arc"
+    },
+    {
+      "detail": "The baseline runs under each basket; the sidelines run along the sides. The small arc under the basket is the restricted area — a defender standing inside it cannot draw a charge.",
+      "title": "Identify the baseline, sidelines, and restricted area"
+    }
+  ],
+  "hub": "fundamentals",
+  "id": "court-and-lines",
+  "level": "beginner",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 5,
+  "references": [
+    "FIBA"
+  ],
+  "related": [
+    "basketball-rules",
+    "scoring-basketball",
+    "spacing-basics",
+    "basketball-positions"
+  ],
+  "slug": "court-and-lines",
+  "subcategory": "fundamentals",
+  "tags": [
+    "court",
+    "lines",
+    "basics",
+    "diagrams"
+  ],
+  "title": "The Basketball Court & Lines",
+  "whatIsIt": [
+    "A full basketball court is a rectangle 94 feet long and 50 feet wide in the NBA, and 28 meters by 15 meters under FIBA rules. The lines painted on the floor define where you can shoot, stand, dribble, and how much time you have in each area.",
+    "Every line exists for a reason: the three-point arc rewards distance shooting, the paint (the colored rectangle under each basket) governs post play and three-second violations, and the half-court line divides the court into your backcourt and frontcourt — you cannot take the ball back across it once you cross."
+  ],
+  "whyItMatters": [
+    "Players who read the court play faster. Knowing exactly where the three-point line sits tells you when to step back for an extra point; knowing the paint tells you when you must move before a three-second call. Coaches also use the lines as reference points for every drill and play."
+  ],
+  "vi": {
+    "coachingPoints": [
+      "Dẫn cầu thủ mới đi quanh sân và gọi tên từng đường kẻ trước mọi bài tập — quen mặt sân bằng mắt trước đã",
+      "Dùng hai khuỷu (góc của đường ném phạt) làm mốc cho các bài tập ném và cắt",
+      "Đánh dấu các vị trí ném ba điểm bằng cone khi dạy chọn vị trí ném để cầu thủ cảm nhận vùng cộng điểm",
+      "Nhắc hậu vệ rằng luật tám giây (FIBA) yêu cầu bóng phải qua sân trước đúng giờ"
+    ],
+    "commonMistakes": [
+      "Đứng trong khu vực hình thang khi tấn công quá ba giây",
+      "Giẫm lên vạch ba điểm trong một cú ném 'ba', biến nó thành cú hai điểm",
+      "Mang bóng trở lại qua sân trước sau khi đã vượt qua (lỗi backcourt)",
+      "Bỏ qua khu vực restricted area và cố lấy lỗi tấn công ở nơi không hợp lệ"
+    ],
+    "description": "Mọi đường kẻ trên sân bóng rổ và ý nghĩa của chúng — vòng ba điểm, khu vực hình thang, đường ném phạt và đường giữa sân.",
+    "gameSituations": [
+      "Phản công nhanh — cầu thủ chạy nước rút rộng ra hai góc, người chạy rổ lấp đầy lane vào khu vực hình thang",
+      "Phòng thủ khu vực — hậu vệ kèm các khu vực xác định bởi hình thang, khuỷu và vòng ba điểm",
+      "Phát bóng biên — hầu hết các bài phát bóng biên bắt đầu ở baseline hoặc đường biên dọc",
+      "Cuối trận — các tay ném giãn ra vòng ba điểm trong khi một người đột phá vào hình thang"
+    ],
+    "howTo": [
+      {
+        "detail": "Vòng tròn giữa sân là nơi trận đấu bắt đầu bằng nhảy tranh bóng. Đường giữa sân chạy ngang qua giữa sân — một khi bạn đã vượt qua nó với bóng ở sân trước, bạn không được dẫn bóng hay chuyền bóng trở lại sân sau.",
+        "title": "Tìm vòng tròn giữa sân và đường giữa sân"
+      },
+      {
+        "detail": "Hình chữ nhật ngay dưới mỗi rổ gọi là paint hay key. Cầu thủ tấn công không được đứng trong đó quá ba giây khi đội mình đang giữ bóng. Mép của nó cũng là nơi nhiều bài chắn bắt đầu.",
+        "title": "Học khu vực hình thang (paint)"
+      },
+      {
+        "detail": "Đường ném phạt cách bảng rổ 15 feet (5,8 m ở FIBA). Ném phạt thực hiện từ đây. Vòng tròn quanh nó là vòng tròn ném phạt — đỉnh của nó (khu vực 'nail' hay 'elbow') là một trong những điểm quan trọng nhất trên sân cho các pha cắt và màn chắn.",
+        "title": "Biết đường ném phạt và vòng tròn"
+      },
+      {
+        "detail": "Những cú ném sau vòng này được tính ba điểm; trong vòng tính hai điểm. Ở NBA, vòng ba điểm cách 23 feet 9 inch ở đỉnh và 22 feet ở góc. Hãy học cự ly của giải mình — nó khác nhau giữa giải trẻ, FIBA và NBA.",
+        "title": "Xác định vòng ba điểm"
+      },
+      {
+        "detail": "Baseline chạy dưới mỗi rổ; đường biên dọc chạy dọc hai bên. Vòng cung nhỏ dưới rổ là khu vực restricted area — hậu vệ đứng trong đó không được lấy lỗi tấn công.",
+        "title": "Nhận biết baseline, đường biên dọc và restricted area"
+      }
+    ],
+    "tags": [
+      "sân bóng",
+      "đường kẻ",
+      "cơ bản",
+      "sơ đồ"
+    ],
+    "title": "Sân Bóng Rổ & Các Đường Kẻ",
+    "whatIsIt": [
+      "Một sân bóng rổ tiêu chuẩn là hình chữ nhật dài 94 feet, rộng 50 feet ở NBA, và 28 m × 15 m theo luật FIBA. Những đường kẻ trên sàn xác định nơi bạn được ném, được đứng, được dẫn bóng, và bạn có bao nhiêu thời gian ở mỗi khu vực.",
+      "Mỗi đường kẻ tồn tại đều có lý do: vòng ba điểm thưởng cho ném xa, paint (hình chữ nhật màu dưới mỗi rổ) chi phối lối chơi post và lỗi ba giây, và đường giữa sân chia sân thành sân sau và sân trước của bạn — bạn không được đưa bóng trở lại qua nó một khi đã vượt qua."
+    ],
+    "whyItMatters": [
+      "Cầu thủ đọc được sân chơi nhanh hơn. Biết chính xác vạch ba điểm ở đâu cho bạn biết khi nào nên lùi lại lấy thêm một điểm; biết paint cho bạn biết khi nào phải di chuyển trước khi bị thổi ba giây. Huấn luyện viên cũng dùng các đường kẻ làm mốc cho mọi bài tập và bài đánh."
+    ]
+  }
+}

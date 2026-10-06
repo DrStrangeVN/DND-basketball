@@ -1,1 +1,182 @@
-{"ages":["U12","U14","U16","U18","Adult"],"coachingPoints":["The seal starts BEFORE the catch — get your body between the defender and the ball early.","Use your butt and legs, not your arms — arm-bars draw offensive fouls.","Call for the ball with a target hand; give the passer a clear window.","Re-seal constantly — defenders wiggle around; re-establish position every second.","Deep seals win games: every step closer to the rim doubles your scoring chance."],"commonMistakes":["Sealing with the arms extended — offensive foul; seal with your torso.","Standing straight up — a tall seal is a weak seal; stay low and wide.","Sealing too far from the basket — a seal at 5 meters is useless; fight for 2-3 meters.","Stopping after one seal — defenders work around; you must re-seal continuously."],"dateUpdated":"2026-10-06","description":"Win the real estate war: how to get low, get wide, and seal your defender for deep post touches.","diagram":{"ball":"O2","defense":[{"label":"X1","x":57,"y":21}],"moves":[{"from":"O1","kind":"screen-run","to":"O1b"}],"offense":[{"label":"O1","x":62,"y":20},{"label":"O1b","x":56,"y":18},{"label":"O2","x":68,"y":62}],"passes":[{"from":"O2","to":"O1b"}],"screens":[],"shots":[],"title":"O1 seals X1 on the high side; O2 enters the ball to the sealed post"},"gameSituations":["Early post-up before the defense sets — sprint to the block and seal.","Against a smaller defender switched onto you — seal deep and demand the ball.","Offensive rebounding position — the seal is also how you hold box-outs."],"howTo":[{"detail":"Sprint to the low block — the painted rectangle near the basket. Get there before your defender; the race for position is won in transition.","title":"Beat your defender to the spot"},{"detail":"Drop your hips, widen your stance beyond shoulder width, and put your backside into the defender's thighs. Your chest faces the ball; your body is the wall.","title":"Get low and wide"},{"detail":"Slide your body across the defender's path so you're between them and the passer. Use short, choppy steps to maintain the seal as the defender tries to go around.","title":"Seal across their body"},{"detail":"Show a high target hand on the ball side — a clear window for the passer. Call for it: 'Ball! Ball!' A seal without a call often gets ignored.","title":"Present a target"},{"detail":"Hold the seal for the catch, chin the ball immediately, and you're in scoring position — 2-3 meters from the rim with the defender on your back.","title":"Catch and chin"}],"hub":"skills","id":"post-positioning","level":"intermediate","positions":["PF","C"],"readTime":6,"related":["drop-step","jump-hook","up-and-under","box-out","bounce-pass"],"slug":"post-positioning","subcategory":"post-play","tags":["post","seal","positioning","big man"],"title":"Post Positioning & Seals","whatIsIt":["Post positioning is the battle for space near the basket before the ball arrives. A 'seal' means placing your body between the defender and the ball so the entry pass is safe and the catch happens close to the rim.","Most post scoring is decided before the catch. A great seal 2 meters from the basket is worth more than any move — it turns the catch into a layup. Bigs who win the positioning war get easy baskets; those who don't get pushed out and become invisible."],"whyItMatters":["Coaches feed the post when the seal is deep and safe. Shallow seals lead to turnovers and charges. Learning to seal — with legs and torso, legally — is the difference between a big who gets touches and a big who just sets screens all game."]}
+{
+  "ages": [
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "coachingPoints": [
+    "The seal starts BEFORE the catch — get your body between the defender and the ball early.",
+    "Use your butt and legs, not your arms — arm-bars draw offensive fouls.",
+    "Call for the ball with a target hand; give the passer a clear window.",
+    "Re-seal constantly — defenders wiggle around; re-establish position every second.",
+    "Deep seals win games: every step closer to the rim doubles your scoring chance."
+  ],
+  "commonMistakes": [
+    "Sealing with the arms extended — offensive foul; seal with your torso.",
+    "Standing straight up — a tall seal is a weak seal; stay low and wide.",
+    "Sealing too far from the basket — a seal at 5 meters is useless; fight for 2-3 meters.",
+    "Stopping after one seal — defenders work around; you must re-seal continuously."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "Win the real estate war: how to get low, get wide, and seal your defender for deep post touches.",
+  "diagram": {
+    "ball": "O2",
+    "defense": [
+      {
+        "label": "X1",
+        "x": 57,
+        "y": 21
+      }
+    ],
+    "moves": [
+      {
+        "from": "O1",
+        "kind": "screen-run",
+        "to": "O1b"
+      }
+    ],
+    "offense": [
+      {
+        "label": "O1",
+        "x": 62,
+        "y": 20
+      },
+      {
+        "label": "O1b",
+        "x": 56,
+        "y": 18
+      },
+      {
+        "label": "O2",
+        "x": 68,
+        "y": 62
+      }
+    ],
+    "passes": [
+      {
+        "from": "O2",
+        "to": "O1b"
+      }
+    ],
+    "screens": [],
+    "shots": [],
+    "title": "O1 seals X1 on the high side; O2 enters the ball to the sealed post"
+  },
+  "gameSituations": [
+    "Early post-up before the defense sets — sprint to the block and seal.",
+    "Against a smaller defender switched onto you — seal deep and demand the ball.",
+    "Offensive rebounding position — the seal is also how you hold box-outs."
+  ],
+  "howTo": [
+    {
+      "detail": "Sprint to the low block — the painted rectangle near the basket. Get there before your defender; the race for position is won in transition.",
+      "title": "Beat your defender to the spot"
+    },
+    {
+      "detail": "Drop your hips, widen your stance beyond shoulder width, and put your backside into the defender's thighs. Your chest faces the ball; your body is the wall.",
+      "title": "Get low and wide"
+    },
+    {
+      "detail": "Slide your body across the defender's path so you're between them and the passer. Use short, choppy steps to maintain the seal as the defender tries to go around.",
+      "title": "Seal across their body"
+    },
+    {
+      "detail": "Show a high target hand on the ball side — a clear window for the passer. Call for it: 'Ball! Ball!' A seal without a call often gets ignored.",
+      "title": "Present a target"
+    },
+    {
+      "detail": "Hold the seal for the catch, chin the ball immediately, and you're in scoring position — 2-3 meters from the rim with the defender on your back.",
+      "title": "Catch and chin"
+    }
+  ],
+  "hub": "skills",
+  "id": "post-positioning",
+  "level": "intermediate",
+  "positions": [
+    "PF",
+    "C"
+  ],
+  "readTime": 6,
+  "related": [
+    "drop-step",
+    "jump-hook",
+    "up-and-under",
+    "box-out",
+    "bounce-pass"
+  ],
+  "slug": "post-positioning",
+  "subcategory": "post-play",
+  "tags": [
+    "post",
+    "seal",
+    "positioning",
+    "big man"
+  ],
+  "title": "Post Positioning & Seals",
+  "whatIsIt": [
+    "Post positioning is the battle for space near the basket before the ball arrives. A 'seal' means placing your body between the defender and the ball so the entry pass is safe and the catch happens close to the rim.",
+    "Most post scoring is decided before the catch. A great seal 2 meters from the basket is worth more than any move — it turns the catch into a layup. Bigs who win the positioning war get easy baskets; those who don't get pushed out and become invisible."
+  ],
+  "whyItMatters": [
+    "Coaches feed the post when the seal is deep and safe. Shallow seals lead to turnovers and charges. Learning to seal — with legs and torso, legally — is the difference between a big who gets touches and a big who just sets screens all game."
+  ],
+  "vi": {
+    "title": "Chọn Vị Trí Và Seal Ở Post",
+    "description": "Thắng cuộc chiến giành đất: cách hạ thấp, mở rộng và seal hậu vệ để nhận bóng sâu ở post.",
+    "whatIsIt": [
+      "Chọn vị trí ở post là cuộc chiến giành khoảng trống gần rổ trước khi bóng đến. \"Seal\" nghĩa là đặt cơ thể chắn giữa hậu vệ và bóng để đường chuyền vào an toàn và pha bắt bóng diễn ra gần rổ.",
+      "Hầu hết điểm số ở post được định đoạt trước pha bắt bóng. Một pha seal đẹp cách rổ 2 mét đáng giá hơn mọi động tác — nó biến pha bắt bóng thành layup. Big man nào thắng cuộc chiến vị trí sẽ có những cú ném dễ; ai thua sẽ bị đẩy ra xa và trở nên vô hình."
+    ],
+    "whyItMatters": [
+      "HLV sẽ đưa bóng vào post khi pha seal sâu và an toàn. Seal nông dẫn đến turnover và lỗi tấn công (charge). Học cách seal — bằng chân và thân người, hợp lệ — là khác biệt giữa một big man được chạm bóng và một big man chỉ đứng screen cả trận."
+    ],
+    "howTo": [
+      {
+        "title": "Đến vị trí trước hậu vệ",
+        "detail": "Chạy nước rút đến low block — hình chữ nhật sơn màu gần rổ. Đến đó trước hậu vệ; cuộc đua giành vị trí được thắng ngay trong pha chuyển đổi."
+      },
+      {
+        "title": "Hạ thấp và mở rộng",
+        "detail": "Hạ hông, mở chân rộng hơn vai, và đưa mông vào đùi hậu vệ. Ngực hướng về bóng; cơ thể bạn là bức tường."
+      },
+      {
+        "title": "Seal chắn ngang người họ",
+        "detail": "Trượt cơ thể chắn ngang đường di chuyển của hậu vệ để bạn ở giữa họ và người chuyền. Dùng những bước ngắn, nhanh để giữ seal khi hậu vệ cố vòng qua."
+      },
+      {
+        "title": "Giơ tay làm mục tiêu",
+        "detail": "Giơ cao tay phía bóng làm mục tiêu — một cửa sổ rõ ràng cho người chuyền. Gọi bóng: \"Bóng! Bóng!\" Seal mà không gọi thường bị bỏ qua."
+      },
+      {
+        "title": "Bắt bóng và ôm lên cằm",
+        "detail": "Giữ seal khi bắt bóng, ôm bóng lên cằm ngay lập tức, và bạn đã ở vị trí ghi điểm — cách rổ 2-3 mét với hậu vệ sau lưng."
+      }
+    ],
+    "coachingPoints": [
+      "Seal bắt đầu TRƯỚC pha bắt bóng — đưa cơ thể chắn giữa hậu vệ và bóng từ sớm.",
+      "Dùng mông và chân, không dùng tay — chống tay sẽ bị thổi lỗi tấn công.",
+      "Gọi bóng bằng tay giơ làm mục tiêu; tạo cửa sổ rõ ràng cho người chuyền.",
+      "Seal lại liên tục — hậu vệ luôn luồn lách; tái lập vị trí mỗi giây.",
+      "Seal sâu thắng trận: mỗi bước gần rổ hơn nhân đôi cơ hội ghi điểm."
+    ],
+    "commonMistakes": [
+      "Seal với tay duỗi thẳng — lỗi tấn công; hãy seal bằng thân người.",
+      "Đứng thẳng người — seal cao là seal yếu; hãy thấp và rộng.",
+      "Seal quá xa rổ — seal ở 5 mét là vô dụng; hãy tranh đấu cho 2-3 mét.",
+      "Dừng lại sau một pha seal — hậu vệ sẽ vòng qua; bạn phải seal lại liên tục."
+    ],
+    "gameSituations": [
+      "Đánh post sớm trước khi hàng thủ ổn định — chạy đến block và seal.",
+      "Khi hậu vệ nhỏ hơn bị switch ra kèm bạn — seal sâu và đòi bóng.",
+      "Tranh rebound tấn công — seal cũng là cách bạn giữ box-out."
+    ],
+    "tags": [
+      "post",
+      "seal",
+      "chọn vị trí",
+      "big man"
+    ]
+  }
+}

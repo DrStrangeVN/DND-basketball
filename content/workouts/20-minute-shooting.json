@@ -49,5 +49,53 @@
     "Use the same routine and rhythm you would in a game — practice how you play.",
     "A rebounder doubles the value of this workout. Recruit one when you can."
   ],
-  "dateUpdated": "2026-10-06"
+  "dateUpdated": "2026-10-06",
+  "vi":   {
+    "title": "Buổi Tập Ném 20 Phút",
+    "description": "Buổi ném tập trung: form, ném theo điểm, ném phạt và ném khi di chuyển — 20 phút, số lần ném cao.",
+    "focus": [
+      "Ném rổ"
+    ],
+    "equipment": [
+      "Bóng rổ"
+    ],
+    "items": [
+      {
+        "name": "Form shooting",
+        "detail": "Ném form một tay từ 4 feet (1,2m): vào 5 quả bên phải, 5 bên trái, 5 giữa. Giữ follow-through mọi lần.",
+        "time": "2:30"
+      },
+      {
+        "name": "Thang ném theo điểm",
+        "detail": "5 điểm quanh vòng cung (góc, wing, đỉnh): mỗi điểm vào 5 quả ở cự ly midrange. Chân đặt sẵn mọi lượt.",
+        "time": "4:30"
+      },
+      {
+        "name": "Catch-and-shoot 3 điểm",
+        "detail": "Cùng 5 điểm từ cự ly 3 điểm: mỗi điểm vào 3 quả. Nhận thấp, nâng thẳng vào cú ném.",
+        "time": "4:30"
+      },
+      {
+        "name": "Ném phạt dưới áp lực",
+        "detail": "Ném 10 quả phạt với đủ nghi thức. Trượt = 5 cái hít đất trước cặp tiếp theo.",
+        "time": "3:00"
+      },
+      {
+        "name": "Pull-up một nhịp rê",
+        "detail": "Từ mỗi wing: một nhịp rê mạnh rồi pull-up jumper, mỗi bên vào 3 quả. Bật lên cân bằng.",
+        "time": "3:30"
+      },
+      {
+        "name": "3 điểm đổi chỗ",
+        "detail": "Nhận bóng ở wing, một nhịp rê side-step rồi ném 3 điểm: mỗi bên vào 2 quả. Tạo khoảng trống như thể closeout đang đến.",
+        "time": "2:00"
+      }
+    ],
+    "tips": [
+      "Đếm số lần vào, không đếm số lần ném — điểm số mới là thứ cải thiện theo thời gian.",
+      "Đừng bao giờ ném khi form đã mệt; nếu kỹ thuật vỡ, rút ngắn cự ly.",
+      "Dùng cùng nghi thức và nhịp như trong trận — tập sao đánh vậy.",
+      "Có người rebound thì buổi tập giá trị gấp đôi. Rủ một người khi có thể."
+    ]
+  }
 }

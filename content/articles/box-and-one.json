@@ -1,1 +1,204 @@
-{"ages":["U14","U16","U18","Adult","Competitive"],"coachingPoints":["The chaser must be relentless but disciplined — no reaching, no gambling","The box four play pure zone principles: shift with the ball, protect the middle","Decide the deny rules before the game: full deny, or deny only catches in scoring spots","The box must still rebound — the star's teammates get extra chances if you don't","Have an exit plan: when the star adjusts, know what defense you go to next"],"commonMistakes":["The chaser getting screened without help — the box must bump and assist","The box four forgetting the star's teammates — they get open shots all game","Chasing so hard you foul — the star shoots free throws instead of contested shots","No adjustment when the offense moves the star off the ball to create confusion"],"dateUpdated":"2026-10-06","description":"Box & One: four defenders play zone while one chases the star — how to take away one player without losing the other four.","diagram":{"ball":"O1","defense":[{"label":"X1","x":52,"y":60},{"label":"X2","x":38,"y":42},{"label":"X3","x":62,"y":42},{"label":"X4","x":38,"y":24},{"label":"X5","x":62,"y":24}],"moves":[{"from":"X1","kind":"move","to":"O1"}],"offense":[{"label":"O1","x":55,"y":62},{"label":"O2","x":30,"y":48},{"label":"O3","x":70,"y":48},{"label":"O4","x":35,"y":28},{"label":"O5","x":65,"y":28}],"title":"Box & One: X1 chases the star (O1), four play zone"},"gameSituations":["Against a team with one dominant scorer and limited help","Late game when you must stop one player to win","When your man-to-man cannot handle the star one-on-one","As a surprise look after the star has torched your base defense"],"howTo":[{"detail":"Assign your best, most conditioned perimeter defender to the star. His only job for the game is to make that player's life miserable — face-guard, deny, chase through every screen.","title":"Assign the chaser to the star"},{"detail":"The other four defenders form a box zone: two up top, two down low. They play pure zone principles — shifting with the ball, protecting the paint, closing out to shooters.","title":"Box four play zone behind him"},{"detail":"Decide how the chaser plays: full deny (no catches anywhere) or controlled chase (contest every catch and shot). Full deny is exhausting; controlled chase is sustainable.","title":"Set the deny rules"},{"detail":"When the offense screens for the star, the box defenders must help the chaser through — bumping the screener, switching the screen, or briefly doubling. The chaser cannot fight every screen alone.","title":"Help the chaser through screens"},{"detail":"The box must still guard the other four players honestly. The classic box-and-one failure is stopping the star and giving up 60 points to everyone else.","title":"Don't lose the other four"}],"hub":"defense","id":"box-and-one","level":"advanced","positions":["ALL"],"readTime":6,"related":["zone-2-3","zone-1-3-1","man-to-man-defense","full-court-press"],"slug":"box-and-one","subcategory":"defensive-systems","tags":["defense","box-and-one","zone","junk defense"],"title":"Box & One","whatIsIt":["Box & One is a combination defense: one defender plays man-to-man on the opponent's star — chasing him everywhere — while the other four play a box zone behind him. It is the basketball equivalent of a targeted strike: take away the one player who beats you, and dare the rest to win the game.","It is called a 'junk' defense because it breaks the normal rules — it is neither pure man nor pure zone. Used at the right moment, it can completely unravel an offense built around one player. Used carelessly, it gives the star's teammates the open looks they have been waiting for all season."],"whyItMatters":["Every coach eventually faces the player they cannot guard straight up. Box & One is the answer that does not require doubling — and doubling is what great players want, because it creates 4-on-3 everywhere else. The box-and-one takes away the star while keeping four defenders home. It is a game-plan weapon, and knowing when to deploy it is advanced coaching."]}
+{
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult",
+    "Competitive"
+  ],
+  "coachingPoints": [
+    "The chaser must be relentless but disciplined — no reaching, no gambling",
+    "The box four play pure zone principles: shift with the ball, protect the middle",
+    "Decide the deny rules before the game: full deny, or deny only catches in scoring spots",
+    "The box must still rebound — the star's teammates get extra chances if you don't",
+    "Have an exit plan: when the star adjusts, know what defense you go to next"
+  ],
+  "commonMistakes": [
+    "The chaser getting screened without help — the box must bump and assist",
+    "The box four forgetting the star's teammates — they get open shots all game",
+    "Chasing so hard you foul — the star shoots free throws instead of contested shots",
+    "No adjustment when the offense moves the star off the ball to create confusion"
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "Box & One: four defenders play zone while one chases the star — how to take away one player without losing the other four.",
+  "diagram": {
+    "ball": "O1",
+    "defense": [
+      {
+        "label": "X1",
+        "x": 52,
+        "y": 60
+      },
+      {
+        "label": "X2",
+        "x": 38,
+        "y": 42
+      },
+      {
+        "label": "X3",
+        "x": 62,
+        "y": 42
+      },
+      {
+        "label": "X4",
+        "x": 38,
+        "y": 24
+      },
+      {
+        "label": "X5",
+        "x": 62,
+        "y": 24
+      }
+    ],
+    "moves": [
+      {
+        "from": "X1",
+        "kind": "move",
+        "to": "O1"
+      }
+    ],
+    "offense": [
+      {
+        "label": "O1",
+        "x": 55,
+        "y": 62
+      },
+      {
+        "label": "O2",
+        "x": 30,
+        "y": 48
+      },
+      {
+        "label": "O3",
+        "x": 70,
+        "y": 48
+      },
+      {
+        "label": "O4",
+        "x": 35,
+        "y": 28
+      },
+      {
+        "label": "O5",
+        "x": 65,
+        "y": 28
+      }
+    ],
+    "title": "Box & One: X1 chases the star (O1), four play zone"
+  },
+  "gameSituations": [
+    "Against a team with one dominant scorer and limited help",
+    "Late game when you must stop one player to win",
+    "When your man-to-man cannot handle the star one-on-one",
+    "As a surprise look after the star has torched your base defense"
+  ],
+  "howTo": [
+    {
+      "detail": "Assign your best, most conditioned perimeter defender to the star. His only job for the game is to make that player's life miserable — face-guard, deny, chase through every screen.",
+      "title": "Assign the chaser to the star"
+    },
+    {
+      "detail": "The other four defenders form a box zone: two up top, two down low. They play pure zone principles — shifting with the ball, protecting the paint, closing out to shooters.",
+      "title": "Box four play zone behind him"
+    },
+    {
+      "detail": "Decide how the chaser plays: full deny (no catches anywhere) or controlled chase (contest every catch and shot). Full deny is exhausting; controlled chase is sustainable.",
+      "title": "Set the deny rules"
+    },
+    {
+      "detail": "When the offense screens for the star, the box defenders must help the chaser through — bumping the screener, switching the screen, or briefly doubling. The chaser cannot fight every screen alone.",
+      "title": "Help the chaser through screens"
+    },
+    {
+      "detail": "The box must still guard the other four players honestly. The classic box-and-one failure is stopping the star and giving up 60 points to everyone else.",
+      "title": "Don't lose the other four"
+    }
+  ],
+  "hub": "defense",
+  "id": "box-and-one",
+  "level": "advanced",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 6,
+  "related": [
+    "zone-2-3",
+    "zone-1-3-1",
+    "man-to-man-defense",
+    "full-court-press"
+  ],
+  "slug": "box-and-one",
+  "subcategory": "defensive-systems",
+  "tags": [
+    "defense",
+    "box-and-one",
+    "zone",
+    "junk defense"
+  ],
+  "title": "Box & One",
+  "whatIsIt": [
+    "Box & One is a combination defense: one defender plays man-to-man on the opponent's star — chasing him everywhere — while the other four play a box zone behind him. It is the basketball equivalent of a targeted strike: take away the one player who beats you, and dare the rest to win the game.",
+    "It is called a 'junk' defense because it breaks the normal rules — it is neither pure man nor pure zone. Used at the right moment, it can completely unravel an offense built around one player. Used carelessly, it gives the star's teammates the open looks they have been waiting for all season."
+  ],
+  "whyItMatters": [
+    "Every coach eventually faces the player they cannot guard straight up. Box & One is the answer that does not require doubling — and doubling is what great players want, because it creates 4-on-3 everywhere else. The box-and-one takes away the star while keeping four defenders home. It is a game-plan weapon, and knowing when to deploy it is advanced coaching."
+  ],
+  "vi": {
+    "coachingPoints": [
+      "Người đuổi theo phải bền bỉ nhưng kỷ luật — không với tay, không đánh cược",
+      "Bốn người trong box chơi đúng nguyên tắc zone: dịch theo bóng, bảo vệ giữa sân",
+      "Quyết định luật deny trước trận: deny hoàn toàn, hay chỉ deny những pha bắt bóng ở vị trí ghi điểm",
+      "Box vẫn phải bắt bóng bật bảng — đồng đội của ngôi sao sẽ có thêm cơ hội nếu bạn không làm",
+      "Có kế hoạch rút lui: khi ngôi sao thích nghi, phải biết mình chuyển sang hàng thủ nào tiếp theo"
+    ],
+    "commonMistakes": [
+      "Người đuổi theo bị màn chắn chặn mà không được hỗ trợ — box phải va chạm và giúp đỡ",
+      "Bốn người trong box quên mất đồng đội của ngôi sao — họ được ném trống cả trận",
+      "Đuổi theo quyết liệt đến mức phạm lỗi — ngôi sao ném phạt thay vì ném trong tranh chấp",
+      "Không điều chỉnh khi đối thủ đưa ngôi sao ra xa bóng để gây rối"
+    ],
+    "description": "Box & One: bốn hậu vệ chơi zone trong khi một người đeo bám ngôi sao — cách khóa một cầu thủ mà không bỏ rơi bốn người còn lại.",
+    "gameSituations": [
+      "Trước một đội có một tay ghi điểm vượt trội và ít sự trợ giúp",
+      "Cuối trận khi bạn phải chặn một cầu thủ để thắng",
+      "Khi kèm người một-một của bạn không xử lý nổi ngôi sao",
+      "Như một bất ngờ sau khi ngôi sao đã hành hạ hàng thủ cơ bản của bạn"
+    ],
+    "howTo": [
+      {
+        "detail": "Giao hậu vệ vòng ngoài khỏe và bền nhất của bạn cho ngôi sao. Nhiệm vụ duy nhất của anh ta cả trận là làm khổ cầu thủ đó — face-guard, deny, đuổi qua mọi màn chắn.",
+        "title": "Giao người đuổi theo cho ngôi sao"
+      },
+      {
+        "detail": "Bốn hậu vệ còn lại tạo thành box zone: hai người trên, hai người dưới. Họ chơi đúng nguyên tắc zone — dịch theo bóng, bảo vệ khu vực hình thang, closeout về phía tay ném.",
+        "title": "Bốn người trong box chơi zone phía sau"
+      },
+      {
+        "detail": "Quyết định cách người đuổi theo chơi: deny hoàn toàn (không cho bắt bóng ở đâu) hay đuổi có kiểm soát (tranh chấp mọi pha bắt bóng và cú ném). Deny hoàn toàn rất tốn sức; đuổi có kiểm soát bền hơn.",
+        "title": "Đặt luật deny"
+      },
+      {
+        "detail": "Khi đối thủ dựng màn chắn cho ngôi sao, các hậu vệ box phải giúp người đuổi theo vượt qua — va vào người chắn, switch màn chắn, hoặc kẹp ngắn. Người đuổi theo không thể tự vượt mọi màn chắn một mình.",
+        "title": "Giúp người đuổi theo qua màn chắn"
+      },
+      {
+        "detail": "Box vẫn phải kèm bốn cầu thủ còn lại một cách nghiêm túc. Thất bại kinh điển của box-and-one là chặn được ngôi sao nhưng để bốn người kia ghi 60 điểm.",
+        "title": "Đừng bỏ rơi bốn người còn lại"
+      }
+    ],
+    "tags": [
+      "phòng thủ",
+      "box-and-one",
+      "phòng thủ khu vực",
+      "phòng thủ đặc biệt"
+    ],
+    "title": "Box & One",
+    "whatIsIt": [
+      "Box & One là hàng thủ kết hợp: một hậu vệ kèm người-một-một với ngôi sao của đối thủ — đeo bám anh ta khắp nơi — trong khi bốn người còn lại chơi box zone phía sau. Nó giống như một đòn đánh chính xác: khóa cầu thủ duy nhất đánh bại bạn, và thách những người còn lại thắng trận.",
+      "Nó được gọi là hàng thủ 'junk' vì phá vỡ luật thông thường — không phải man thuần cũng không phải zone thuần. Dùng đúng thời điểm, nó có thể phá tan một hệ thống tấn công xây quanh một cầu thủ. Dùng cẩu thả, nó tặng đồng đội của ngôi sao những cú ném trống mà họ đã chờ cả mùa giải."
+    ],
+    "whyItMatters": [
+      "Huấn luyện viên nào rồi cũng gặp cầu thủ mà mình không thể kèm tay đôi. Box & One là đáp án không cần double-team — mà double-team chính là điều các cầu thủ vĩ đại muốn, vì nó tạo ra thế 4 đấu 3 ở khắp nơi. Box-and-one khóa ngôi sao trong khi vẫn giữ bốn hậu vệ ở nhà. Đây là vũ khí trong kế hoạch trận đấu, và biết khi nào tung nó ra là nghệ thuật huấn luyện nâng cao."
+    ]
+  }
+}

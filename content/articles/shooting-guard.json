@@ -1,1 +1,145 @@
-{"ages":["U14","U16","U18","Adult"],"coachingPoints":["Chart makes from five spots — shooting guards live and die by measurable consistency.","Drill the one-two and hop footwork until the player lands balanced from any pass angle.","Teach the 'shot or drive' read in one second — hesitation kills the advantage.","Build closeout-attack reps: catch, rip, and drive against a recovering defender daily."],"commonMistakes":["Standing still when the ball is elsewhere — shooting guards must move to get open.","Taking contested pull-ups early in the clock instead of moving the ball.","Jogging back in transition and giving up layups.","Only practicing stationary catch-and-shoot, never off movement."],"dateUpdated":"2026-10-06","description":"Shooting guard development: movement shooting, shot creation, attacking closeouts and defending the perimeter.","gameSituations":["Coming off a pin-down screen — catch and shoot in rhythm.","Closeout attack — defender sprints out, you rip through and drive.","Transition wing — sprinting wide for the corner three or a layup.","End of shot clock — creating your own shot off one or two dribbles."],"howTo":[{"detail":"Become elite at catch-and-shoot from the wings and corners: 200+ game-speed reps per week, from different pass angles, with one-two and hop footwork. Track your percentage from five spots.","title":"Master the catch-and-shoot"},{"detail":"Learn to get open without the ball: V-cuts, L-cuts, and curling tight off pin-down and flare screens — shoulder to shoulder with the screener, reading the defender over the top or underneath.","title":"Move without the ball"},{"detail":"When a defender closes out hard, attack: rip through baseline or middle in one dribble, then finish or pull up. When they close out short, shoot without hesitation.","title":"Attack closeouts"},{"detail":"Develop a one- or two-dribble pull-up going both directions and a step-back for late-clock situations. The shooting guard must create a decent shot when the play breaks down.","title":"Create your own shot"},{"detail":"Guard the opponent's best perimeter scorer: stay in stance, fight through screens, and contest without fouling. Two-way shooting guards earn the most minutes.","title":"Defend the perimeter"},{"detail":"In transition, sprint the wide lanes to the corners — the corner three and the rim run are the shooting guard's fast-break rewards.","title":"Run the floor hard"}],"hub":"positions","id":"shooting-guard","level":"intermediate","positions":["SG"],"readTime":6,"related":["basketball-positions","triple-threat","spacing-basics","point-guard","defensive-principles"],"slug":"shooting-guard","subcategory":"positions","tags":["shooting guard","sg","shooting","scoring"],"title":"Shooting Guard Development","whatIsIt":["The shooting guard — the '2' — is the team's primary perimeter scorer. They hunt shots coming off screens, attack closeouts, create their own looks off the dribble, and stretch the defense with three-point range. On the other end, they usually guard the opponent's best wing scorer.","The modern '2' is a movement shooter and a secondary ball handler: dangerous catching and shooting on the move, capable of attacking a closeout, and disciplined enough to defend without fouling."],"whyItMatters":["Every offense needs a player who can score when the play breaks down and punish defenses that help too aggressively. The shooting guard provides that perimeter gravity — their shooting threat opens driving lanes for everyone else. Two-way shooting guards who defend their position are among the most valuable players on any roster."]}
+{
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "coachingPoints": [
+    "Chart makes from five spots — shooting guards live and die by measurable consistency.",
+    "Drill the one-two and hop footwork until the player lands balanced from any pass angle.",
+    "Teach the 'shot or drive' read in one second — hesitation kills the advantage.",
+    "Build closeout-attack reps: catch, rip, and drive against a recovering defender daily."
+  ],
+  "commonMistakes": [
+    "Standing still when the ball is elsewhere — shooting guards must move to get open.",
+    "Taking contested pull-ups early in the clock instead of moving the ball.",
+    "Jogging back in transition and giving up layups.",
+    "Only practicing stationary catch-and-shoot, never off movement."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "Shooting guard development: movement shooting, shot creation, attacking closeouts and defending the perimeter.",
+  "gameSituations": [
+    "Coming off a pin-down screen — catch and shoot in rhythm.",
+    "Closeout attack — defender sprints out, you rip through and drive.",
+    "Transition wing — sprinting wide for the corner three or a layup.",
+    "End of shot clock — creating your own shot off one or two dribbles."
+  ],
+  "howTo": [
+    {
+      "detail": "Become elite at catch-and-shoot from the wings and corners: 200+ game-speed reps per week, from different pass angles, with one-two and hop footwork. Track your percentage from five spots.",
+      "title": "Master the catch-and-shoot"
+    },
+    {
+      "detail": "Learn to get open without the ball: V-cuts, L-cuts, and curling tight off pin-down and flare screens — shoulder to shoulder with the screener, reading the defender over the top or underneath.",
+      "title": "Move without the ball"
+    },
+    {
+      "detail": "When a defender closes out hard, attack: rip through baseline or middle in one dribble, then finish or pull up. When they close out short, shoot without hesitation.",
+      "title": "Attack closeouts"
+    },
+    {
+      "detail": "Develop a one- or two-dribble pull-up going both directions and a step-back for late-clock situations. The shooting guard must create a decent shot when the play breaks down.",
+      "title": "Create your own shot"
+    },
+    {
+      "detail": "Guard the opponent's best perimeter scorer: stay in stance, fight through screens, and contest without fouling. Two-way shooting guards earn the most minutes.",
+      "title": "Defend the perimeter"
+    },
+    {
+      "detail": "In transition, sprint the wide lanes to the corners — the corner three and the rim run are the shooting guard's fast-break rewards.",
+      "title": "Run the floor hard"
+    }
+  ],
+  "hub": "positions",
+  "id": "shooting-guard",
+  "level": "intermediate",
+  "positions": [
+    "SG"
+  ],
+  "readTime": 6,
+  "related": [
+    "basketball-positions",
+    "triple-threat",
+    "spacing-basics",
+    "point-guard",
+    "defensive-principles"
+  ],
+  "slug": "shooting-guard",
+  "subcategory": "positions",
+  "tags": [
+    "shooting guard",
+    "sg",
+    "shooting",
+    "scoring"
+  ],
+  "title": "Shooting Guard Development",
+  "whatIsIt": [
+    "The shooting guard — the '2' — is the team's primary perimeter scorer. They hunt shots coming off screens, attack closeouts, create their own looks off the dribble, and stretch the defense with three-point range. On the other end, they usually guard the opponent's best wing scorer.",
+    "The modern '2' is a movement shooter and a secondary ball handler: dangerous catching and shooting on the move, capable of attacking a closeout, and disciplined enough to defend without fouling."
+  ],
+  "whyItMatters": [
+    "Every offense needs a player who can score when the play breaks down and punish defenses that help too aggressively. The shooting guard provides that perimeter gravity — their shooting threat opens driving lanes for everyone else. Two-way shooting guards who defend their position are among the most valuable players on any roster."
+  ],
+  "vi": {
+    "coachingPoints": [
+      "Thống kê số cú ném trúng từ năm vị trí — hậu vệ ghi điểm sống còn nhờ sự ổn định có thể đo lường được.",
+      "Tập bước chân một-hai và bước nhảy cho đến khi cầu thủ tiếp đất thăng bằng từ mọi góc chuyền.",
+      "Dạy cách đọc 'ném hay đột phá' trong một giây — do dự giết chết lợi thế.",
+      "Xây dựng các bài tập tấn công closeout: bắt bóng, xé qua và đột phá trước hậu vệ đang hồi phục — tập mỗi ngày."
+    ],
+    "commonMistakes": [
+      "Đứng yên khi bóng ở chỗ khác — hậu vệ ghi điểm phải di chuyển để thoát người kèm.",
+      "Ném pull-up bị kèm sớm trong đồng hồ tấn công thay vì luân chuyển bóng.",
+      "Chạy bộ về phòng thủ trong chuyển trạng thái và để mất những pha layup.",
+      "Chỉ tập catch-and-shoot đứng yên, không bao giờ tập ném khi di chuyển."
+    ],
+    "description": "Phát triển hậu vệ ghi điểm: ném rổ khi di chuyển, tự tạo cú ném, tấn công closeout và phòng thủ vòng ngoài.",
+    "gameSituations": [
+      "Bật ra từ tấm chắn pin down — bắt bóng và ném theo nhịp.",
+      "Tấn công closeout — hậu vệ lao ra, bạn xé qua và đột phá.",
+      "Cánh trong phản công — chạy rộng ra để ném ba điểm góc hoặc layup.",
+      "Cuối đồng hồ tấn công — tự tạo cú ném sau một hoặc hai nhịp dẫn."
+    ],
+    "howTo": [
+      {
+        "detail": "Trở nên đẳng cấp ở cú ném catch-and-shoot từ cánh và góc sân: hơn 200 lần tập mỗi tuần với tốc độ như thi đấu, từ các góc chuyền khác nhau, với bước chân một-hai và bước nhảy. Theo dõi tỷ lệ ném của bạn từ năm vị trí.",
+        "title": "Làm chủ cú ném bắt-bóng-ném-ngay"
+      },
+      {
+        "detail": "Học cách thoát khỏi người kèm khi không có bóng: cắt V, cắt L, và cuộn sát qua các tấm chắn pin down và flare — vai kề vai với người chắn, đọc xem hậu vệ đi trên hay chui dưới.",
+        "title": "Di chuyển không bóng"
+      },
+      {
+        "detail": "Khi hậu vệ lao ra closeout mạnh, hãy tấn công: xé qua về phía biên cuối sân hoặc vào giữa trong một nhịp dẫn, rồi dứt điểm hoặc ném pull-up. Khi họ closeout hời hợt, ném ngay không do dự.",
+        "title": "Tấn công closeout"
+      },
+      {
+        "detail": "Phát triển cú ném pull-up sau một hoặc hai nhịp dẫn theo cả hai hướng và cú step-back cho tình huống sắp hết giờ. Hậu vệ ghi điểm phải tự tạo được một cú ném ổn khi miếng đánh bị vỡ.",
+        "title": "Tự tạo cú ném cho mình"
+      },
+      {
+        "detail": "Kèm tay ghi điểm vòng ngoài hay nhất của đối phương: giữ tư thế thủ, vượt qua các tấm chắn, và tranh chấp cú ném mà không phạm lỗi. Hậu vệ ghi điểm toàn diện xứng đáng có nhiều phút thi đấu nhất.",
+        "title": "Phòng thủ vòng ngoài"
+      },
+      {
+        "detail": "Trong phản công, chạy nước rút theo làn rộng ra góc sân — cú ném ba điểm góc và pha chạy rổ là phần thưởng phản công của hậu vệ ghi điểm.",
+        "title": "Chạy hết tốc độ khi phản công"
+      }
+    ],
+    "tags": [
+      "hậu vệ ghi điểm",
+      "sg",
+      "ném rổ",
+      "ghi điểm"
+    ],
+    "title": "Phát triển vị trí Hậu vệ ghi điểm (SG)",
+    "whatIsIt": [
+      "Hậu vệ ghi điểm — vị trí 'số 2' — là tay ghi điểm vòng ngoài chủ lực của đội. Họ săn tìm cú ném khi bật ra từ tấm chắn, tấn công closeout, tự tạo cơ hội từ pha dẫn bóng, và kéo giãn hàng thủ bằng tầm ném ba điểm. Ở đầu sân bên kia, họ thường kèm tay ghi điểm cánh hay nhất của đối phương.",
+      "Số 2 hiện đại là một tay ném di chuyển và người dẫn bóng phụ: nguy hiểm khi bắt bóng và ném trong lúc di chuyển, có khả năng tấn công closeout, và đủ kỷ luật để phòng thủ mà không phạm lỗi."
+    ],
+    "whyItMatters": [
+      "Mọi hàng công đều cần một cầu thủ có thể ghi điểm khi miếng đánh vỡ và trừng phạt những hàng thủ hỗ trợ quá đà. Hậu vệ ghi điểm tạo ra lực hút ở vòng ngoài — mối đe dọa ném rổ của họ mở ra đường đột phá cho mọi người khác. Những hậu vệ ghi điểm toàn diện, vừa công vừa thủ, là những cầu thủ giá trị nhất trong bất kỳ đội hình nào."
+    ]
+  }
+}

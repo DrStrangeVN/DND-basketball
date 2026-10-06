@@ -1,1 +1,146 @@
-{"ages":["U10","U12","U14","U16","U18","Adult"],"coachingPoints":["Stay calm in the huddle — your energy becomes the team's energy.","Speak to the whole team first, then give individuals their specific jobs.","Use players' names and eye contact; make sure the message actually landed.","After the timeout, watch whether the adjustment happened — follow-through matters."],"commonMistakes":["Waiting too long to stop an opponent's run — calling it at 12-0 instead of 6-0.","Burning all timeouts by the third quarter with none left for crunch time.","Overloading the huddle with five instructions players cannot remember.","Calling timeout when your own team has momentum, killing it yourself."],"dateUpdated":"2026-10-06","description":"Use timeouts like a weapon — when to call them, what to say in 60 seconds, and how to manage them across four quarters.","gameSituations":["Opponent scores eight straight: timeout to regroup and adjust the coverage.","Final minute, down two, with the ball: organizing the tying or winning play.","Star player picks up a fourth foul: using the break to plan rotations."],"howTo":[{"detail":"Do not wait for a 12-0 run. Call timeout at 6-0 or 8-0 to break momentum early, while the game is still manageable and players are still listening.","title":"Call it early on runs"},{"detail":"Track timeouts remaining every quarter. Always save at least one for the final two minutes — late-game situations demand a timeout in hand.","title":"Know your number"},{"detail":"Sixty seconds: ten to breathe and settle, thirty for two or three key points, twenty to organize the next play. Structure beats rambling.","title":"Have a huddle structure"},{"detail":"Players remember one thing from a timeout, not five. Make it the single most important adjustment and say it clearly.","title":"Give one clear instruction"},{"detail":"Sometimes the best timeout is rest and player-led talk; sometimes you diagram the after-timeout play immediately. Match the approach to the moment.","title":"Use the full timeout strategically"},{"detail":"Have two or three after-timeout plays ready for sideline and baseline situations. Never invent the play in the huddle — rehearse it in practice.","title":"Prepare ATO plays"}],"hub":"coaching","id":"timeout-management","level":"intermediate","positions":["ALL"],"readTime":5,"related":["game-preparation","end-of-game-decisions","clock-management","scouting-opponents"],"slug":"timeout-management","subcategory":"coaching","tags":["coaching","timeouts","game-management","strategy"],"title":"Timeout Management","whatIsIt":["Timeout management is the strategic use of your limited stoppages: halting opponent runs, organizing crucial possessions, resting tired players, and setting up late-game plays. Timeouts are a finite resource — once they are gone, they are gone.","Great timeout coaches know why they are calling it before they signal. Every timeout should have a purpose: adjust, encourage, organize, or rest. The huddle itself is a sixty-second coaching clinic — clear, calm, and actionable."],"whyItMatters":["A well-timed timeout can kill an opponent's momentum and save a game; a wasted one leaves you helpless in the final minute. Late-game situations demand timeouts in hand — coaches who burn them early often lose close games they could have won.","Timeouts are also leadership moments. How you act in the huddle — calm or panicked, clear or scattered — teaches your team how to handle pressure."]}
+{
+  "ages": [
+    "U10",
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "coachingPoints": [
+    "Stay calm in the huddle — your energy becomes the team's energy.",
+    "Speak to the whole team first, then give individuals their specific jobs.",
+    "Use players' names and eye contact; make sure the message actually landed.",
+    "After the timeout, watch whether the adjustment happened — follow-through matters."
+  ],
+  "commonMistakes": [
+    "Waiting too long to stop an opponent's run — calling it at 12-0 instead of 6-0.",
+    "Burning all timeouts by the third quarter with none left for crunch time.",
+    "Overloading the huddle with five instructions players cannot remember.",
+    "Calling timeout when your own team has momentum, killing it yourself."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "Use timeouts like a weapon — when to call them, what to say in 60 seconds, and how to manage them across four quarters.",
+  "gameSituations": [
+    "Opponent scores eight straight: timeout to regroup and adjust the coverage.",
+    "Final minute, down two, with the ball: organizing the tying or winning play.",
+    "Star player picks up a fourth foul: using the break to plan rotations."
+  ],
+  "howTo": [
+    {
+      "detail": "Do not wait for a 12-0 run. Call timeout at 6-0 or 8-0 to break momentum early, while the game is still manageable and players are still listening.",
+      "title": "Call it early on runs"
+    },
+    {
+      "detail": "Track timeouts remaining every quarter. Always save at least one for the final two minutes — late-game situations demand a timeout in hand.",
+      "title": "Know your number"
+    },
+    {
+      "detail": "Sixty seconds: ten to breathe and settle, thirty for two or three key points, twenty to organize the next play. Structure beats rambling.",
+      "title": "Have a huddle structure"
+    },
+    {
+      "detail": "Players remember one thing from a timeout, not five. Make it the single most important adjustment and say it clearly.",
+      "title": "Give one clear instruction"
+    },
+    {
+      "detail": "Sometimes the best timeout is rest and player-led talk; sometimes you diagram the after-timeout play immediately. Match the approach to the moment.",
+      "title": "Use the full timeout strategically"
+    },
+    {
+      "detail": "Have two or three after-timeout plays ready for sideline and baseline situations. Never invent the play in the huddle — rehearse it in practice.",
+      "title": "Prepare ATO plays"
+    }
+  ],
+  "hub": "coaching",
+  "id": "timeout-management",
+  "level": "intermediate",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 5,
+  "related": [
+    "game-preparation",
+    "end-of-game-decisions",
+    "clock-management",
+    "scouting-opponents"
+  ],
+  "slug": "timeout-management",
+  "subcategory": "coaching",
+  "tags": [
+    "coaching",
+    "timeouts",
+    "game-management",
+    "strategy"
+  ],
+  "title": "Timeout Management",
+  "whatIsIt": [
+    "Timeout management is the strategic use of your limited stoppages: halting opponent runs, organizing crucial possessions, resting tired players, and setting up late-game plays. Timeouts are a finite resource — once they are gone, they are gone.",
+    "Great timeout coaches know why they are calling it before they signal. Every timeout should have a purpose: adjust, encourage, organize, or rest. The huddle itself is a sixty-second coaching clinic — clear, calm, and actionable."
+  ],
+  "whyItMatters": [
+    "A well-timed timeout can kill an opponent's momentum and save a game; a wasted one leaves you helpless in the final minute. Late-game situations demand timeouts in hand — coaches who burn them early often lose close games they could have won.",
+    "Timeouts are also leadership moments. How you act in the huddle — calm or panicked, clear or scattered — teaches your team how to handle pressure."
+  ],
+  "vi": {
+    "coachingPoints": [
+      "Giữ bình tĩnh trong vòng tròn — năng lượng của bạn trở thành năng lượng của cả đội.",
+      "Nói với cả đội trước, rồi giao nhiệm vụ cụ thể cho từng cá nhân.",
+      "Gọi tên cầu thủ và nhìn vào mắt họ; đảm bảo thông điệp thực sự tới nơi.",
+      "Sau giờ hội ý, hãy xem điều chỉnh có được thực hiện không — việc theo dõi rất quan trọng."
+    ],
+    "commonMistakes": [
+      "Chờ quá lâu mới chặn chuỗi ghi điểm của đối phương — gọi ở 12-0 thay vì 6-0.",
+      "Đốt hết giờ hội ý từ hiệp ba mà không còn cái nào cho thời khắc quyết định.",
+      "Nhồi nhét năm chỉ dẫn vào vòng tròn mà cầu thủ không thể nhớ nổi.",
+      "Gọi hội ý khi chính đội mình đang lên đà, tự tay giết chết nó."
+    ],
+    "description": "Dùng giờ hội ý như một vũ khí — khi nào nên gọi, nói gì trong 60 giây, và cách quản lý chúng xuyên suốt bốn hiệp.",
+    "gameSituations": [
+      "Đối phương ghi tám điểm liên tiếp: hội ý để tập hợp lại và điều chỉnh cách phòng thủ.",
+      "Phút cuối, đang thua hai điểm, có bóng: tổ chức pha bóng gỡ hòa hoặc thắng trận.",
+      "Ngôi sao dính lỗi thứ tư: dùng quãng nghỉ để lên kế hoạch xoay tua."
+    ],
+    "howTo": [
+      {
+        "detail": "Đừng chờ đến chuỗi 12-0. Hãy gọi hội ý ở 6-0 hoặc 8-0 để bẻ đà sớm, khi trận đấu còn trong tầm kiểm soát và cầu thủ còn đang lắng nghe.",
+        "title": "Gọi sớm khi đối phương lên đà"
+      },
+      {
+        "detail": "Theo dõi số giờ hội ý còn lại mỗi hiệp. Luôn giữ lại ít nhất một cho hai phút cuối — những tình huống cuối trận đòi hỏi phải còn giờ hội ý trong tay.",
+        "title": "Biết mình còn bao nhiêu"
+      },
+      {
+        "detail": "Sáu mươi giây: mười giây để thở và ổn định, ba mươi giây cho hai hoặc ba điểm chính, hai mươi giây để tổ chức pha bóng tiếp theo. Có cấu trúc hơn là nói lan man.",
+        "title": "Có cấu trúc cho vòng hội ý"
+      },
+      {
+        "detail": "Cầu thủ chỉ nhớ một điều từ một lần hội ý, không phải năm điều. Hãy chọn điều chỉnh quan trọng nhất và nói thật rõ.",
+        "title": "Đưa ra một chỉ dẫn rõ ràng"
+      },
+      {
+        "detail": "Đôi khi giờ hội ý tốt nhất là nghỉ ngơi và để cầu thủ tự trao đổi; đôi khi bạn vẽ ngay miếng đánh sau hội ý. Hãy chọn cách tiếp cận phù hợp với thời điểm.",
+        "title": "Dùng trọn giờ hội ý một cách chiến lược"
+      },
+      {
+        "detail": "Chuẩn bị sẵn hai hoặc ba miếng đánh sau hội ý cho các tình huống biên dọc và biên cuối sân. Đừng bao giờ bịa miếng đánh trong vòng tròn — hãy tập dượt nó trong buổi tập.",
+        "title": "Chuẩn bị các miếng đánh ATO"
+      }
+    ],
+    "tags": [
+      "huấn luyện",
+      "hội ý",
+      "quản lý trận đấu",
+      "chiến thuật"
+    ],
+    "title": "Quản lý giờ hội ý",
+    "whatIsIt": [
+      "Quản lý giờ hội ý là việc sử dụng chiến lược những lần dừng trận đấu có hạn của bạn: chặn chuỗi ghi điểm của đối phương, tổ chức những lượt bóng quan trọng, cho cầu thủ mệt nghỉ ngơi, và dàn xếp các miếng đánh cuối trận. Giờ hội ý là tài nguyên hữu hạn — một khi đã dùng hết là hết.",
+      "Những huấn luyện viên giỏi quản lý giờ hội ý biết lý do gọi nó trước khi ra hiệu. Mỗi lần hội ý đều phải có mục đích: điều chỉnh, động viên, tổ chức, hoặc nghỉ ngơi. Bản thân vòng tròn hội ý là một buổi huấn luyện sáu mươi giây — rõ ràng, bình tĩnh và có thể hành động được."
+    ],
+    "whyItMatters": [
+      "Một lần hội ý đúng lúc có thể giết chết đà của đối phương và cứu cả trận đấu; một lần hội ý phí phạm khiến bạn bất lực trong phút cuối. Những tình huống cuối trận đòi hỏi phải còn giờ hội ý trong tay — những huấn luyện viên đốt hết sớm thường thua những trận sít sao mà lẽ ra họ có thể thắng.",
+      "Giờ hội ý cũng là những khoảnh khắc lãnh đạo. Cách bạn hành xử trong vòng tròn — bình tĩnh hay hoảng loạn, rõ ràng hay rối rắm — dạy đội bóng của bạn cách đối mặt với áp lực."
+    ]
+  }
+}

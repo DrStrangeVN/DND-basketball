@@ -140,5 +140,69 @@
     "USA Basketball",
     "FIBA"
   ],
-  "dateUpdated": "2026-10-06"
+  "dateUpdated": "2026-10-06",
+  "vi": {
+    "title": "Tấn Công Chuyển Động (Motion Offense)",
+    "description": "Một lối tấn công liên tục, dựa trên đọc tình huống, trong đó cầu thủ chuyền, cắt và screen thay vì chạy các bài đánh cố định mỗi lượt bóng.",
+    "whatIsIt": [
+      "Tấn công chuyển động (motion offense) là phong cách tấn công đồng đội dựa trên chuyển động liên tục thay vì các bài đánh được gọi sẵn. Thay vì làm theo một mẫu có kịch bản, cầu thủ tuân theo một bộ quy tắc: chuyền rồi cắt, screen cho đồng đội, lấp chỗ trống, giữ bóng luân chuyển.",
+      "Mỗi lượt bóng đều khác nhau vì mỗi hàng thủ đều khác nhau. Lối tấn công chảy liên tục — một pha cắt trở thành một pha screen, một pha screen trở thành một pha cắt — cho đến khi hàng thủ vỡ trận và để hở một cú ném trống, một đường đột phá, hoặc một đường chuyền vào post.",
+      "Tấn công chuyển động tốt trông hỗn loạn với hậu vệ nhưng lại rất kỷ luật với người tấn công. Ai cũng biết luật, ai cũng giữ kỷ luật spacing, và ai cũng là mối đe dọa trong mọi lượt bóng."
+    ],
+    "whyItMatters": [
+      "Tấn công chuyển động khó bị trinh sát vì nó không có mẫu cố định để chuẩn bị. Hàng thủ không thể dồn sức vào thói quen, và cầu thủ trẻ phát triển được bóng rổ IQ thực sự thay vì học thuộc bài. Nó cũng dễ mở rộng: cùng một bộ luật áp dụng được cho 3v3, 5v5, đội trẻ và đội đỉnh cao.",
+      "Huấn luyện viên yêu thích nó vì nó dạy ra quyết định. Cầu thủ học cách đọc hàng thủ — nếu hậu vệ của bạn đi hỗ trợ, hãy cắt backdoor; nếu đường trống mở ra, hãy đột phá — và điều đó chuyển sang mọi lối tấn công khác mà họ sẽ chơi."
+    ],
+    "howTo": [
+      {
+        "title": "Giãn sân khi nhận bóng",
+        "detail": "Mỗi lần nhận bóng, người nhận nên cách đồng đội gần nhất 4,5–6 mét (15–20 feet). Spacing là động cơ của motion — không có nó, các pha cắt và screen sẽ đâm vào nhau."
+      },
+      {
+        "title": "Chuyền rồi cắt hoặc chuyền rồi screen",
+        "detail": "Sau khi chuyền, người chuyền không bao giờ đứng yên. Cắt xuyên qua lane sang phía đối diện, hoặc screen cho đồng đội. Đứng yên sau đường chuyền giết chết motion."
+      },
+      {
+        "title": "Lấp chỗ của người cắt",
+        "detail": "Khi một cầu thủ cắt xuyên qua paint, cầu thủ ở cánh hoặc góc đối diện lấp vào chỗ trống đó. Điều này giữ spacing năm-ngoài hoặc bốn-ngoài nguyên vẹn mọi lúc."
+      },
+      {
+        "title": "Screen cho đồng đội sau đường chuyền thứ hai",
+        "detail": "Nếu pha cắt của bạn không tạo ra cú ném, quay lại và screen cho cầu thủ tiếp theo. Các pha screen có bóng và không bóng là đợt tấn công thứ hai."
+      },
+      {
+        "title": "Đột phá khi có lợi thế",
+        "detail": "Bất cứ khi nào pha closeout dài, hậu vệ mất thăng bằng, hoặc screen tạo ra khoảng cách, hãy đột phá mạnh dạn. Motion mà không có đột phá hiếm khi tạo ra được các pha chạm paint."
+      },
+      {
+        "title": "Cắt khi hậu vệ đi hỗ trợ",
+        "detail": "Khi hậu vệ của bạn quay đầu đi hỗ trợ pha đột phá, hãy cắt sau lưng họ. Tấn công chuyển động trừng phạt hàng thủ hỗ trợ mạnh hơn bất kỳ bài đánh cố định nào."
+      }
+    ],
+    "coachingPoints": [
+      "Lúc đầu chỉ dạy tối đa 3–4 luật — chuyền rồi cắt, lấp chỗ, screen cho đồng đội. Chỉ thêm khi những điều cơ bản đã thành tự động.",
+      "Dùng các bài small-sided 3v3 và 4v4 để dạy motion; 5v5 đầy đủ che giấu lỗi sai và làm chậm số lần lặp.",
+      "Yêu cầu bóng phải di chuyển mỗi 1–2 giây. Bóng chết sẽ cho hàng thủ cơ hội hồi phục.",
+      "Các pha cắt phải mạnh và có mục đích — cắt chạy bộ dễ bị kèm và không bao giờ tạo ra lợi thế.",
+      "Mọi cầu thủ đều phải là mối đe dọa screen; motion chết khi chỉ có các big man screen."
+    ],
+    "commonMistakes": [
+      "Đứng nhìn sau khi chuyền — cách sửa là một luật cứng: chuyền xong là di chuyển, mọi lần.",
+      "Cả năm cầu thủ dồn một phía sân, để hai hậu vệ kèm được ba người cắt.",
+      "Cắt mà không nhìn bóng — người cắt không bao giờ thấy bóng thì không bao giờ trống.",
+      "Dẫn bóng quá nhiều giữa các động tác, để hàng thủ hồi phục và giết chết nhịp độ."
+    ],
+    "gameSituations": [
+      "Các đội không có tay ghi điểm isolation vượt trội, cần mọi người cùng đóng góp.",
+      "Đội trẻ và đội phát triển, nơi học đọc tình huống quan trọng hơn thắng bằng một bài đánh.",
+      "Trước các hàng thủ hung hăng, hỗ trợ quá đà — motion trừng phạt việc hỗ trợ bằng các pha cắt backdoor."
+    ],
+    "tags": [
+      "motion",
+      "tấn công đội",
+      "spacing",
+      "cắt bóng",
+      "screen"
+    ]
+  }
 }

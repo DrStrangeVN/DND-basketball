@@ -1,1 +1,206 @@
-{"ages":["U10","U12","U14","U16","U18","Adult"],"coachingPoints":["Draw the spacing grid in practice — five spots, each roughly 15–18 feet apart.","If two players are closer than 12 feet without a screening action, one of them must move.","Praise the 'spacing cut' — a player who clears a clogged area without being told.","Use 4-on-4 or 5-on-5 shell drills where coaches stop play whenever spacing collapses."],"commonMistakes":["All five players standing on the same side of the floor.","Ball watcher drifting toward the ball and dragging their defender into the drive.","Posting up while a teammate drives — two players in one space kills both options.","Standing in the corner when the corner three is already taken."],"dateUpdated":"2026-10-06","description":"What good spacing looks like, why it creates driving lanes and open shots, and how to keep the floor balanced.","diagram":{"ball":"O1","defense":[{"label":"X1","x":50,"y":66},{"label":"X2","x":18,"y":44},{"label":"X3","x":82,"y":44},{"label":"X4","x":34,"y":14},{"label":"X5","x":66,"y":14}],"moves":[{"from":"O1","kind":"dribble","to":"O5"}],"offense":[{"label":"O1","x":50,"y":72},{"label":"O2","x":10,"y":40},{"label":"O3","x":90,"y":40},{"label":"O4","x":28,"y":10},{"label":"O5","x":72,"y":10}],"passes":[],"screens":[],"shots":[],"title":"5-out spacing with a middle drive"},"gameSituations":["Drive & kick — the driver attacks a lane while shooters stay wide in the corners.","Post entry — teammates clear to the weak side so the post player works one-on-one.","Transition — wings run wide to the corners to stretch the retreating defense.","Zone offense — players overload one side, then reverse the ball to the open side."],"howTo":[{"detail":"Picture the court divided into five zones — two corners, two wings, and the top. One offensive player in each zone gives everyone room to operate.","title":"Fill the five spots"},{"detail":"Stay 15–18 feet (about 4.5–5.5 meters) from your nearest teammate. That distance is far enough that one defender cannot guard two players, but close enough that passes arrive quickly.","title":"Keep 15–18 feet of distance"},{"detail":"When the ball moves, you move. As a teammate drives right, drift or lift to keep your defender from helping. The best off-ball players are always adjusting.","title":"Move with the ball"},{"detail":"Two players should rarely be inside the paint at the same time unless one is screening. Clear-out cuts — sprinting out to the perimeter when your area gets crowded — open driving lanes for teammates.","title":"Keep the paint clear"},{"detail":"The corner is the shortest three-point shot and the hardest spot to help from. Always keep one player in the weak-side corner when the ball is on the opposite side.","title":"Occupy the corners"}],"hub":"fundamentals","id":"spacing-basics","level":"beginner","positions":["ALL"],"readTime":5,"related":["offensive-principles","basketball-positions","triple-threat","court-and-lines"],"slug":"spacing-basics","subcategory":"fundamentals","tags":["spacing","offense","basics","team"],"title":"Spacing Basics","whatIsIt":["Spacing means positioning the five offensive players so the defense cannot guard two of them at once. Good spacing stretches defenders across the whole court, which opens driving lanes to the basket and clean passing angles to open shooters.","The rule of thumb: keep about 15–18 feet between each offensive player, and never let two teammates stand in the same spot. When spacing collapses — everyone bunches near the ball — one defender can cover two players and the offense suffocates."],"whyItMatters":["Every offense in basketball, from youth leagues to the NBA, depends on spacing. Great players look 'open' most of the time not because they are faster, but because their team spaces the floor so the defense must choose who to leave. Spacing is the cheapest way to make your whole team better — it requires zero talent, only discipline."]}
+{
+  "ages": [
+    "U10",
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "coachingPoints": [
+    "Draw the spacing grid in practice — five spots, each roughly 15–18 feet apart.",
+    "If two players are closer than 12 feet without a screening action, one of them must move.",
+    "Praise the 'spacing cut' — a player who clears a clogged area without being told.",
+    "Use 4-on-4 or 5-on-5 shell drills where coaches stop play whenever spacing collapses."
+  ],
+  "commonMistakes": [
+    "All five players standing on the same side of the floor.",
+    "Ball watcher drifting toward the ball and dragging their defender into the drive.",
+    "Posting up while a teammate drives — two players in one space kills both options.",
+    "Standing in the corner when the corner three is already taken."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "What good spacing looks like, why it creates driving lanes and open shots, and how to keep the floor balanced.",
+  "diagram": {
+    "ball": "O1",
+    "defense": [
+      {
+        "label": "X1",
+        "x": 50,
+        "y": 66
+      },
+      {
+        "label": "X2",
+        "x": 18,
+        "y": 44
+      },
+      {
+        "label": "X3",
+        "x": 82,
+        "y": 44
+      },
+      {
+        "label": "X4",
+        "x": 34,
+        "y": 14
+      },
+      {
+        "label": "X5",
+        "x": 66,
+        "y": 14
+      }
+    ],
+    "moves": [
+      {
+        "from": "O1",
+        "kind": "dribble",
+        "to": "O5"
+      }
+    ],
+    "offense": [
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 72
+      },
+      {
+        "label": "O2",
+        "x": 10,
+        "y": 40
+      },
+      {
+        "label": "O3",
+        "x": 90,
+        "y": 40
+      },
+      {
+        "label": "O4",
+        "x": 28,
+        "y": 10
+      },
+      {
+        "label": "O5",
+        "x": 72,
+        "y": 10
+      }
+    ],
+    "passes": [],
+    "screens": [],
+    "shots": [],
+    "title": "5-out spacing with a middle drive"
+  },
+  "gameSituations": [
+    "Drive & kick — the driver attacks a lane while shooters stay wide in the corners.",
+    "Post entry — teammates clear to the weak side so the post player works one-on-one.",
+    "Transition — wings run wide to the corners to stretch the retreating defense.",
+    "Zone offense — players overload one side, then reverse the ball to the open side."
+  ],
+  "howTo": [
+    {
+      "detail": "Picture the court divided into five zones — two corners, two wings, and the top. One offensive player in each zone gives everyone room to operate.",
+      "title": "Fill the five spots"
+    },
+    {
+      "detail": "Stay 15–18 feet (about 4.5–5.5 meters) from your nearest teammate. That distance is far enough that one defender cannot guard two players, but close enough that passes arrive quickly.",
+      "title": "Keep 15–18 feet of distance"
+    },
+    {
+      "detail": "When the ball moves, you move. As a teammate drives right, drift or lift to keep your defender from helping. The best off-ball players are always adjusting.",
+      "title": "Move with the ball"
+    },
+    {
+      "detail": "Two players should rarely be inside the paint at the same time unless one is screening. Clear-out cuts — sprinting out to the perimeter when your area gets crowded — open driving lanes for teammates.",
+      "title": "Keep the paint clear"
+    },
+    {
+      "detail": "The corner is the shortest three-point shot and the hardest spot to help from. Always keep one player in the weak-side corner when the ball is on the opposite side.",
+      "title": "Occupy the corners"
+    }
+  ],
+  "hub": "fundamentals",
+  "id": "spacing-basics",
+  "level": "beginner",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 5,
+  "related": [
+    "offensive-principles",
+    "basketball-positions",
+    "triple-threat",
+    "court-and-lines"
+  ],
+  "slug": "spacing-basics",
+  "subcategory": "fundamentals",
+  "tags": [
+    "spacing",
+    "offense",
+    "basics",
+    "team"
+  ],
+  "title": "Spacing Basics",
+  "whatIsIt": [
+    "Spacing means positioning the five offensive players so the defense cannot guard two of them at once. Good spacing stretches defenders across the whole court, which opens driving lanes to the basket and clean passing angles to open shooters.",
+    "The rule of thumb: keep about 15–18 feet between each offensive player, and never let two teammates stand in the same spot. When spacing collapses — everyone bunches near the ball — one defender can cover two players and the offense suffocates."
+  ],
+  "whyItMatters": [
+    "Every offense in basketball, from youth leagues to the NBA, depends on spacing. Great players look 'open' most of the time not because they are faster, but because their team spaces the floor so the defense must choose who to leave. Spacing is the cheapest way to make your whole team better — it requires zero talent, only discipline."
+  ],
+  "vi": {
+    "coachingPoints": [
+      "Vẽ lưới giãn sân trong buổi tập — năm vị trí, mỗi vị trí cách nhau khoảng 15–18 feet.",
+      "Nếu hai cầu thủ đứng gần nhau hơn 12 feet (3,6m) mà không có động tác chắn, một trong hai phải di chuyển.",
+      "Khen ngợi pha 'cắt giãn sân' — cầu thủ tự dọn một khu vực tắc nghẽn mà không cần ai nhắc.",
+      "Dùng các bài tập shell 4-đấu-4 hoặc 5-đấu-5, nơi huấn luyện viên dừng pha bóng mỗi khi giãn sân sụp đổ."
+    ],
+    "commonMistakes": [
+      "Cả năm cầu thủ đứng cùng một phía sân.",
+      "Mải nhìn bóng rồi trôi về phía bóng, kéo hậu vệ của mình vào đường đột phá.",
+      "Đánh lưng rổ trong khi đồng đội đang đột phá — hai người một chỗ giết chết cả hai lựa chọn.",
+      "Đứng ở góc sân trong khi vị trí ném ba điểm góc đã có người."
+    ],
+    "description": "Giãn sân tốt trông như thế nào, vì sao nó tạo ra đường đột phá và cú ném trống, và cách giữ mặt sân cân bằng.",
+    "gameSituations": [
+      "Đột phá rồi chuyền ra — người đột phá tấn công một làn trong khi các tay ném đứng rộng ở góc.",
+      "Đưa bóng vào post — đồng đội dọn sang cánh yếu để cầu thủ post đánh một-chọi-một.",
+      "Phản công — các cầu thủ cánh chạy rộng ra góc để kéo giãn hàng thủ đang lùi về.",
+      "Tấn công zone — các cầu thủ dồn một phía, rồi đảo bóng sang phía trống."
+    ],
+    "howTo": [
+      {
+        "detail": "Hình dung mặt sân được chia thành năm vùng — hai góc, hai cánh và đỉnh vòng. Một cầu thủ tấn công ở mỗi vùng cho mọi người không gian để hoạt động.",
+        "title": "Lấp đầy năm vị trí"
+      },
+      {
+        "detail": "Đứng cách đồng đội gần nhất 15–18 feet (khoảng 4,5–5,5 mét). Khoảng cách đó đủ xa để một hậu vệ không thể kèm hai người, nhưng đủ gần để đường chuyền tới nhanh.",
+        "title": "Giữ khoảng cách 15–18 feet"
+      },
+      {
+        "detail": "Bóng đi đâu, bạn đi đó. Khi đồng đội đột phá sang phải, hãy trôi hoặc nâng lên để hậu vệ của bạn không thể hỗ trợ. Những cầu thủ không bóng hay nhất luôn điều chỉnh vị trí.",
+        "title": "Di chuyển theo bóng"
+      },
+      {
+        "detail": "Hiếm khi nên có hai cầu thủ cùng ở trong khu vực cấm trừ khi một người đang chắn. Những pha cắt dọn chỗ — chạy nước rút ra vòng ngoài khi khu vực của bạn đông đúc — mở ra đường đột phá cho đồng đội.",
+        "title": "Giữ khu vực cấm thông thoáng"
+      },
+      {
+        "detail": "Góc sân là cú ném ba điểm gần nhất và là vị trí khó hỗ trợ nhất. Luôn giữ một cầu thủ ở góc cánh yếu khi bóng ở phía đối diện.",
+        "title": "Chiếm lĩnh các góc sân"
+      }
+    ],
+    "tags": [
+      "giãn sân",
+      "tấn công",
+      "cơ bản",
+      "đồng đội"
+    ],
+    "title": "Căn bản về giãn sân",
+    "whatIsIt": [
+      "Giãn sân nghĩa là bố trí năm cầu thủ tấn công sao cho hàng thủ không thể kèm hai người cùng lúc. Giãn sân tốt kéo giãn các hậu vệ ra khắp mặt sân, mở ra đường đột phá tới rổ và những góc chuyền sạch tới các tay ném đang trống.",
+      "Nguyên tắc nhớ: giữ khoảng 15–18 feet (4,5–5,5m) giữa mỗi cầu thủ tấn công, và đừng bao giờ để hai đồng đội đứng cùng một chỗ. Khi giãn sân sụp đổ — mọi người túm tụm gần bóng — một hậu vệ có thể kèm hai người và hàng công sẽ ngạt thở."
+    ],
+    "whyItMatters": [
+      "Mọi hàng công trong bóng rổ, từ giải trẻ đến NBA, đều phụ thuộc vào giãn sân. Những cầu thủ vĩ đại trông 'trống trải' hầu hết thời gian không phải vì họ nhanh hơn, mà vì đội của họ giãn sân khiến hàng thủ phải chọn người để bỏ. Giãn sân là cách rẻ nhất để làm cả đội tốt hơn — nó không cần tài năng, chỉ cần kỷ luật."
+    ]
+  }
+}

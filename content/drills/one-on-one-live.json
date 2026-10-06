@@ -38,5 +38,54 @@
   "regression": "Allow unlimited dribbles, start the offense closer to the rim, or make it 1-on-1 with no defense (form reps) for younger players.",
   "gameApplication": "Late-clock and isolation situations come down to 1-on-1 skill — this drill builds the shot creation and defensive pride that decide close games.",
   "related": ["closeout-drill","contact-finishing-drill","transition-two-on-one"],
-  "dateUpdated": "2026-10-06"
+  "dateUpdated": "2026-10-06",
+  "vi":   {
+    "title": "1 Đấu 1 Live",
+    "description": "Đấu 1-1 cạnh tranh từ wing với giới hạn số nhịp rê — bài kiểm tra thuần khiết nhất về tấn công cá nhân, phòng thủ on-ball và khả năng tạo cú ném.",
+    "goal": "Rèn khả năng tạo cú ném, sự lì lợm phòng thủ cá nhân và dứt điểm cạnh tranh trong môi trường 1-1 có kiểm soát.",
+    "setup": [
+      "Tấn công bắt đầu ở wing cầm bóng; phòng thủ đứng trước mặt trong tư thế thủ.",
+      "Đặt giới hạn số nhịp rê — chuẩn là 3 nhịp — để ép ra quyết định nhanh.",
+      "Chơi đến 5 lần ghi điểm; người thắng ở lại, người thách đấu tiếp theo vào."
+    ],
+    "instructions": [
+      {
+        "title": "Check bóng rồi bắt đầu",
+        "detail": "Tấn công check bóng cho hậu vệ, hậu vệ trả lại — lượt bắt đầu khi nhận bóng."
+      },
+      {
+        "title": "Tấn công trong giới hạn rê",
+        "detail": "Tấn công có 3 nhịp rê để tạo cú ném: đột phá, pull-up hoặc step-back — không giữ bóng."
+      },
+      {
+        "title": "Phòng thủ chơi đến khi chặn được",
+        "detail": "Hậu vệ giữ tư thế, tranh bóng không phạm lỗi, và box out khi đối thủ ném — chặn được là đổi bóng."
+      },
+      {
+        "title": "Thắng ở lại sân",
+        "detail": "Ghi điểm thì giữ bóng; trượt hoặc bị chặn thì chuyển sang phòng thủ hoặc xếp hàng chờ."
+      },
+      {
+        "title": "Đổi vị trí xuất phát",
+        "detail": "Sau mỗi ván đến 5 điểm, đổi điểm bắt đầu — wing, đỉnh, góc — để tấn công từ mọi vị trí."
+      }
+    ],
+    "coachingPoints": [
+      "Tấn công: tấn công có kế hoạch — một động tác và một đòn phản, không phải năm động tác rồi cầu may.",
+      "Phòng thủ: giữ thấp trong tư thế và di chuyển chân; với tay là phạm lỗi hoặc bị qua mặt.",
+      "Dùng giới hạn rê bóng như một người thầy — nó ép ra những động tác quyết đoán thay vì múa bóng.",
+      "Cạnh tranh mọi lượt; 1-1 bộc lộ ai là người muốn bóng ở những thời khắc lớn."
+    ],
+    "commonMistakes": [
+      "Chấp nhận ném contested — cầu thủ 1-1 giỏi nhất phải đến được rổ hoặc tạo khoảng trống thật trước.",
+      "Hậu vệ đứng thẳng — 1-1 phơi bày ngay mọi tư thế lười biếng."
+    ],
+    "progression": "Giảm xuống 2 nhịp rê, bắt đầu từ pha nhận bóng live sau đường chuyền, hoặc chơi 1-1 hết sân để rèn thể lực.",
+    "regression": "Cho rê không giới hạn, bắt đầu tấn công gần rổ hơn, hoặc 1-1 không phòng thủ (tập form) cho cầu thủ trẻ.",
+    "gameApplication": "Những tình huống isolation cuối đồng hồ đều quy về kỹ năng 1-1 — bài này rèn khả năng tạo cú ném và niềm tự hào phòng thủ quyết định những trận đấu sát nút.",
+    "players": "2",
+    "equipment": [
+      "Bóng rổ"
+    ]
+  }
 }

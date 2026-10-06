@@ -149,5 +149,66 @@
   "references": [
     "FIBA"
   ],
-  "dateUpdated": "2026-10-06"
+  "dateUpdated": "2026-10-06",
+  "vi": {
+    "coachingPoints": [
+      "Dạy 3-đấu-3 trước: người dẫn bóng, người roll, người chắn sau lưng đấu với ba hậu vệ. Thêm hai người còn lại sau.",
+      "Tấm chắn sau lưng phải hợp lệ và có va chạm — một tấm chắn sau lưng mềm sẽ bị lách qua và pha bóng chết.",
+      "Tập thời điểm là bắt buộc: chạy đến khi người chắn sau lưng tới đúng lúc pha roll diễn ra.",
+      "Dạy cả ba cách đọc (người roll, người chắn sau lưng, người dẫn bóng) — cầu thủ thường chỉ nhìn thấy phần của mình."
+    ],
+    "commonMistakes": [
+      "Đặt tấm chắn sau lưng quá sớm, để hàng thủ hô lên và đổi người gọn gàng.",
+      "Người chắn sau lưng chắn vào không khí vì hậu vệ của người roll đã đi hỗ trợ chỗ khác.",
+      "Quên giãn cánh yếu, để một hậu vệ thứ ba tới hỗ trợ và giết chết lợi thế.",
+      "Chạy nó với những cầu thủ không đọc được tình huống — Spain PNR trừng phạt những đội hình IQ thấp."
+    ],
+    "description": "Một pha pick and roll tiêu chuẩn với một tấm chắn sau lưng đặt vào hậu vệ của người roll — miếng đánh đã phá vỡ các hàng thủ hiện đại.",
+    "gameSituations": [
+      "Khi đối đầu phòng thủ drop, nơi tấm chắn sau lưng loại big man drop ra khỏi pha bóng.",
+      "Khi hàng thủ tag người roll quyết liệt — tấm chắn sau lưng là đòn phản trực tiếp.",
+      "Cuối trận hoặc ATO (sau giờ hội ý) khi bạn cần một cú ném hiệu quả cao."
+    ],
+    "howTo": [
+      {
+        "detail": "Người dẫn bóng và người chắn chạy một pha PNR biên tiêu chuẩn. Mọi thứ phải trông thật bình thường — yếu tố bất ngờ chính là điểm mấu chốt.",
+        "title": "Bắt đầu bằng pick and roll biên thông thường"
+      },
+      {
+        "detail": "Khi người chắn roll vào, cầu thủ thứ ba (thường ở góc đối diện hoặc vị trí slot) chạy nước rút lên đặt tấm chắn sau lưng vào hậu vệ của người roll. Thời điểm là tất cả — quá sớm thì hàng thủ nhìn thấy, quá muộn thì người roll đã bị tag.",
+        "title": "Căn thời điểm cho tấm chắn sau lưng"
+      },
+      {
+        "detail": "Nếu họ vượt qua tấm chắn sau lưng, người roll sẽ trống ở rổ. Nếu họ bị kẹt, người chắn sau lưng pop ra hoặc slip để có cú ném của riêng mình.",
+        "title": "Đọc hậu vệ của người roll"
+      },
+      {
+        "detail": "Với khu vực giữa hàng thủ đã bị chắn, hãy đột phá hoặc ném pull-up. Hàng thủ giờ phải kèm ba mối đe dọa chỉ với hai rưỡi hậu vệ.",
+        "title": "Người dẫn bóng: tấn công vào sự hỗn loạn"
+      },
+      {
+        "detail": "Nếu hàng thủ đổi người ở tấm chắn sau lưng, hậu vệ của người chắn sau lưng giờ kèm người roll — thường là một sự chênh lệch. Hãy đưa bóng vào post hoặc chắn lại.",
+        "title": "Chuẩn bị phương án khi bị đổi người"
+      },
+      {
+        "detail": "Hai cầu thủ không tham gia phải giữ hàng thủ trung thực — lấp đầy các góc, sẵn sàng ném. Lực hút của họ chính là thứ ngăn sự hỗ trợ tới kịp.",
+        "title": "Giãn cánh yếu"
+      }
+    ],
+    "tags": [
+      "spain pnr",
+      "pick and roll",
+      "chắn sau lưng",
+      "tấn công đẳng cấp"
+    ],
+    "title": "Spain Pick & Roll",
+    "whatIsIt": [
+      "Spain pick and roll bắt đầu như mọi pha chắn cho người có bóng — rồi thêm một biến tấu: khi người chắn roll vào, một cầu thủ tấn công thứ ba đặt một tấm chắn sau lưng vào hậu vệ của người roll. Tấm chắn sau lưng đó chính là điều tạo nên 'Spain'.",
+      "Sự tinh tế nằm ở mâu thuẫn mà nó tạo ra. Hậu vệ của người roll được dạy phải tag pha roll hoặc hỗ trợ vào bóng — nhưng giờ có người đang chắn sau lưng họ. Nếu họ hỗ trợ, người mà người chắn sau lưng kèm sẽ trống; nếu họ đứng yên, người roll sẽ trống; nếu hàng thủ đổi người mọi thứ, những sự chênh lệch sẽ xuất hiện khắp nơi.",
+      "Được đặt tên theo đội tuyển Tây Ban Nha đã phổ biến nó ra thế giới, Spain PNR giờ là món tủ của các hàng công NBA và EuroLeague — và là bài kiểm tra tối thượng cho khả năng giao tiếp của hàng thủ."
+    ],
+    "whyItMatters": [
+      "Spain PNR tấn công đúng vào hậu vệ mà mọi cách phòng thủ đều dựa vào: hậu vệ của người roll, người tag, hỗ trợ hoặc drop. Bằng cách chắn cầu thủ đó, hàng công loại bỏ lưới an toàn của hàng thủ. Đây là miếng đánh nửa sân hiệu quả nhất trong bóng rổ hiện đại vì nó tạo ra cú ném tốt trước hầu như mọi cách phòng thủ."
+    ]
+  }
 }

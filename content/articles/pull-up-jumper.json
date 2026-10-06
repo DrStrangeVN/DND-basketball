@@ -1,1 +1,135 @@
-{"ages":["U12","U14","U16","U18","Adult"],"coachingPoints":["The last dribble is the setup — keep it low, hard, and in front so the gather is clean.","Stop on balance: two hard steps into the gather, not a drift.","Eyes rise to the rim during the last dribble, not after the stop.","Same mechanics as your catch-and-shoot — the only new variable is the stop.","Practice game-speed stops; slow pull-ups teach a shot you will never take."],"commonMistakes":["Drifting sideways or backward on the stop — fix: plant and go straight up; tape a landing target.","Gathering the ball too late (at the waist) — fix: pick the ball up as the last dribble returns, high and early.","Stopping upright and losing power — fix: the last two steps stay low; you rise into the shot, not out of a stand.","Only pulling up going right — fix: drill both directions equally, even if it feels awkward for months."],"dateUpdated":"2026-10-06","description":"Stop on a dime and rise into your jumper off the dribble — the scorer's weapon against retreating defenses.","gameSituations":["Attacking a drop-coverage big — he sags to protect the rim; you stop in the open midrange and shoot.","Transition pull-ups — the defense is backpedaling; a pull-up three or midrange beats their retreat.","Late-clock creation — when the offense stalls, a pull-up is the cleanest self-created shot available."],"howTo":[{"detail":"Drive hard at the defender's hip. The pull-up only works if he is retreating or backpedaling — speed creates the separation.","title":"Attack downhill first"},{"detail":"Take your final dribble hard and low, in front of your body. This is your brake pedal — a firm bounce gives you control for the stop.","title":"Take a hard final dribble"},{"detail":"Gather the ball as it comes up and plant your last two steps — a 1-2 stop or a two-foot hop — landing balanced and square to the basket.","title":"Stop on balance"},{"detail":"The instant your feet set, rise straight up through your legs. There is no pause at the bottom; the stop flows directly into the shot.","title":"Rise immediately"},{"detail":"Release with your normal mechanics — elbow in, guide hand passive, full follow-through. The shot should look identical to your set jumper.","title":"Shoot your normal jumper"}],"hub":"skills","id":"pull-up-jumper","level":"intermediate","positions":["ALL"],"readTime":5,"related":["one-dribble-pull-up","shooting-mechanics","hesitation","change-of-pace"],"slug":"pull-up-jumper","subcategory":"shooting","tags":["shooting","moves","scoring"],"title":"Pull-Up Jumper","whatIsIt":["A pull-up jumper is a shot taken off the dribble: you drive, stop suddenly on balance, and rise into your jumper before the defender can recover. It is the primary weapon of shot creators — the answer to a defender who refuses to let you reach the rim.","The magic is the stop. A defender sprinting backward cannot stop as fast as you can, so for a half-second you are open. The pull-up turns that half-second into points."],"whyItMatters":["Defenses are built to take away the rim and the three. The pull-up lives in the space between — the midrange and the short three — where modern defenses concede shots. Players who can pull up force defenders into an impossible choice: play the drive and give up the jumper, or play the jumper and give up the drive. That dilemma is the definition of a scorer."]}
+{
+  "ages": [
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "coachingPoints": [
+    "The last dribble is the setup — keep it low, hard, and in front so the gather is clean.",
+    "Stop on balance: two hard steps into the gather, not a drift.",
+    "Eyes rise to the rim during the last dribble, not after the stop.",
+    "Same mechanics as your catch-and-shoot — the only new variable is the stop.",
+    "Practice game-speed stops; slow pull-ups teach a shot you will never take."
+  ],
+  "commonMistakes": [
+    "Drifting sideways or backward on the stop — fix: plant and go straight up; tape a landing target.",
+    "Gathering the ball too late (at the waist) — fix: pick the ball up as the last dribble returns, high and early.",
+    "Stopping upright and losing power — fix: the last two steps stay low; you rise into the shot, not out of a stand.",
+    "Only pulling up going right — fix: drill both directions equally, even if it feels awkward for months."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "Stop on a dime and rise into your jumper off the dribble — the scorer's weapon against retreating defenses.",
+  "gameSituations": [
+    "Attacking a drop-coverage big — he sags to protect the rim; you stop in the open midrange and shoot.",
+    "Transition pull-ups — the defense is backpedaling; a pull-up three or midrange beats their retreat.",
+    "Late-clock creation — when the offense stalls, a pull-up is the cleanest self-created shot available."
+  ],
+  "howTo": [
+    {
+      "detail": "Drive hard at the defender's hip. The pull-up only works if he is retreating or backpedaling — speed creates the separation.",
+      "title": "Attack downhill first"
+    },
+    {
+      "detail": "Take your final dribble hard and low, in front of your body. This is your brake pedal — a firm bounce gives you control for the stop.",
+      "title": "Take a hard final dribble"
+    },
+    {
+      "detail": "Gather the ball as it comes up and plant your last two steps — a 1-2 stop or a two-foot hop — landing balanced and square to the basket.",
+      "title": "Stop on balance"
+    },
+    {
+      "detail": "The instant your feet set, rise straight up through your legs. There is no pause at the bottom; the stop flows directly into the shot.",
+      "title": "Rise immediately"
+    },
+    {
+      "detail": "Release with your normal mechanics — elbow in, guide hand passive, full follow-through. The shot should look identical to your set jumper.",
+      "title": "Shoot your normal jumper"
+    }
+  ],
+  "hub": "skills",
+  "id": "pull-up-jumper",
+  "level": "intermediate",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 5,
+  "related": [
+    "one-dribble-pull-up",
+    "shooting-mechanics",
+    "hesitation",
+    "change-of-pace"
+  ],
+  "slug": "pull-up-jumper",
+  "subcategory": "shooting",
+  "tags": [
+    "shooting",
+    "moves",
+    "scoring"
+  ],
+  "title": "Pull-Up Jumper",
+  "whatIsIt": [
+    "A pull-up jumper is a shot taken off the dribble: you drive, stop suddenly on balance, and rise into your jumper before the defender can recover. It is the primary weapon of shot creators — the answer to a defender who refuses to let you reach the rim.",
+    "The magic is the stop. A defender sprinting backward cannot stop as fast as you can, so for a half-second you are open. The pull-up turns that half-second into points."
+  ],
+  "whyItMatters": [
+    "Defenses are built to take away the rim and the three. The pull-up lives in the space between — the midrange and the short three — where modern defenses concede shots. Players who can pull up force defenders into an impossible choice: play the drive and give up the jumper, or play the jumper and give up the drive. That dilemma is the definition of a scorer."
+  ],
+  "vi": {
+    "title": "Pull-Up Jumper (Ném Pull-Up)",
+    "description": "Dừng đột ngột và bật lên ném ngay sau pha dẫn bóng — vũ khí của tay ghi điểm trước những hàng thủ lùi sâu.",
+    "whatIsIt": [
+      "Pull-up jumper là cú ném thực hiện ngay sau pha dẫn bóng: bạn đột phá, dừng đột ngột trong thế thăng bằng, rồi bật lên ném trước khi hậu vệ kịp hồi vị. Đây là vũ khí chính của những người tạo cú ném — câu trả lời cho hậu vệ nhất quyết không cho bạn chạm tới rổ.",
+      "Điều kỳ diệu nằm ở cú dừng. Một hậu vệ đang chạy lùi không thể dừng nhanh bằng bạn, nên trong nửa giây bạn hoàn toàn trống trải. Pull-up biến nửa giây đó thành điểm số."
+    ],
+    "whyItMatters": [
+      "Hàng thủ được xây dựng để khóa rổ và vạch ba. Pull-up sống ở khoảng giữa — midrange và những cú ba ngắn — nơi hàng thủ hiện đại chấp nhận cho ném. Cầu thủ pull-up giỏi đặt hậu vệ vào thế tiến thoái lưỡng nan: kèm đột phá thì mất cú ném, kèm cú ném thì mất đột phá. Thế lưỡng nan đó chính là định nghĩa của một tay ghi điểm."
+    ],
+    "howTo": [
+      {
+        "title": "Tấn công dốc xuống trước",
+        "detail": "Đột mạnh vào hông hậu vệ. Pull-up chỉ hiệu quả khi anh ta đang lùi hoặc chạy lùi — tốc độ tạo ra khoảng trống."
+      },
+      {
+        "title": "Pha dẫn cuối mạnh",
+        "detail": "Dẫn pha cuối mạnh và thấp, phía trước người. Đây là bàn đạp phanh của bạn — một cú nảy chắc cho bạn quyền kiểm soát cú dừng."
+      },
+      {
+        "title": "Dừng trong thăng bằng",
+        "detail": "Gom bóng khi nó nảy lên và đặt hai bước cuối — dừng 1-2 hoặc nhảy hai chân — tiếp đất thăng bằng, vuông góc với rổ."
+      },
+      {
+        "title": "Bật lên ngay",
+        "detail": "Ngay khi chân đã đứng vững, bật thẳng lên bằng đôi chân. Không có khoảng dừng ở đáy; cú dừng chảy thẳng vào cú ném."
+      },
+      {
+        "title": "Ném như cú ném thường",
+        "detail": "Ra tay với kỹ thuật quen thuộc — khuỷu tay khép, tay dẫn thụ động, follow-through đầy đủ. Cú ném phải trông giống hệt cú set jumper của bạn."
+      }
+    ],
+    "coachingPoints": [
+      "Pha dẫn cuối là khâu chuẩn bị — giữ nó thấp, mạnh và phía trước để gom bóng sạch.",
+      "Dừng trong thăng bằng: hai bước chắc vào pha gom bóng, đừng để người trôi.",
+      "Mắt hướng lên rổ trong pha dẫn cuối, không phải sau khi đã dừng.",
+      "Kỹ thuật giống hệt catch-and-shoot của bạn — biến số mới duy nhất là cú dừng.",
+      "Tập dừng ở tốc độ trận đấu; pull-up chậm dạy bạn cú ném mà bạn chẳng bao giờ dùng."
+    ],
+    "commonMistakes": [
+      "Người trôi ngang hoặc ngửa ra sau khi dừng — cách sửa: đặt chân và bật thẳng lên; dán một mục tiêu tiếp đất.",
+      "Gom bóng quá muộn (ở ngang hông) — cách sửa: nhấc bóng lên ngay khi pha dẫn cuối nảy về, cao và sớm.",
+      "Dừng trong tư thế đứng thẳng, mất hết lực — cách sửa: hai bước cuối vẫn thấp; bạn bật lên vào cú ném, chứ không phải đứng dậy từ tư thế đứng.",
+      "Chỉ pull-up khi đi sang phải — cách sửa: tập đều cả hai hướng, dù có thể gượng gạo trong nhiều tháng."
+    ],
+    "gameSituations": [
+      "Tấn công big man chơi drop coverage — anh ta lùi sâu bảo vệ rổ; bạn dừng ở midrange trống và ném.",
+      "Pull-up trong phản công — hàng thủ đang chạy lùi; một cú pull-up ba hoặc midrange đánh bại đà lùi của họ.",
+      "Tạo cú ném cuối đồng hồ — khi tấn công bế tắc, pull-up là cú ném tự tạo sạch nhất."
+    ],
+    "tags": [
+      "ném rổ",
+      "động tác",
+      "ghi điểm"
+    ]
+  }
+}

@@ -1,1 +1,130 @@
-{"ages":["U12","U14","U16","U18","Adult"],"coachingPoints":["Rotate your shoulders fully — skip passes thrown with arm strength alone are slow and flat.","Jump-stop or plant before throwing; skipping across your body off the dribble is a turnover.","Lead the shooter slightly — arrive where they can catch and shoot in rhythm.","Read the low man: if he stays, skip it; if he rotates early, the ball-side drive is open.","Catch ready: as the receiver, turn and face before the ball arrives."],"commonMistakes":["Lobbing it softly cross-court — a good defender in the middle intercepts it; throw it flat and firm.","Throwing across your momentum without planting — the pass sails long or short.","Skipping when the weak-side defender hasn't committed — the whole point is they rotated; if they haven't, drive instead.","Late, lazy skips after the defense has recovered — timing is everything."],"dateUpdated":"2026-10-06","description":"The cross-court missile that punishes help defense — move the ball faster than the rotation can.","gameSituations":["Drive and kick when the weak-side defender tags the roller — skip to the corner.","Against zone defenses — skip passes shift the zone faster than it can recover.","Pick-and-roll with a tagged roller — the corner three is the reward for the skip."],"howTo":[{"detail":"Drive, catch in the paint, or come off a screen and draw the weak-side defender. The skip only works if someone rotated — read that rotation first.","title":"Draw the rotation"},{"detail":"Plant your feet — jump stop or stride stop — facing the weak side. Never throw a skip pass while still moving toward the strong side; your momentum will carry the ball out of bounds.","title":"Plant and square up"},{"detail":"Grip the ball with two hands at chest level. The skip is a two-handed chest pass thrown 10-15 meters — it needs your whole body, not just your arms.","title":"Load the two-hand pass"},{"detail":"Rotate your hips and shoulders fully toward the target, step into the throw, and release it flat and firm — not a lob. Aim for the shooter's shooting pocket so they catch in rhythm.","title":"Throw it flat and firm"}],"hub":"skills","id":"skip-pass","level":"intermediate","positions":["ALL"],"readTime":5,"related":["chest-pass","drive-and-kick","pocket-pass","bounce-pass","jump-stop"],"slug":"skip-pass","subcategory":"passing","tags":["passing","kick out","zone offense","shooting"],"title":"Skip Pass","whatIsIt":["A skip pass is a long, flat pass thrown across the court — usually from one wing or corner to the opposite side — to beat a defensive rotation. The ball 'skips' over the middle of the defense to reach the open shooter before the rotation recovers.","It's the great equalizer against help defense. When defenders collapse to stop a drive, someone is always open on the weak side. The skip pass gets the ball there faster than the defense can sprint back."],"whyItMatters":["Modern offenses are built on drive-and-kick basketball. The skip pass is the 'kick' that turns paint pressure into open threes. Teams that skip the ball well force defenses to choose between protecting the rim and guarding the arc — and defenses can't do both."]}
+{
+  "ages": [
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "coachingPoints": [
+    "Rotate your shoulders fully — skip passes thrown with arm strength alone are slow and flat.",
+    "Jump-stop or plant before throwing; skipping across your body off the dribble is a turnover.",
+    "Lead the shooter slightly — arrive where they can catch and shoot in rhythm.",
+    "Read the low man: if he stays, skip it; if he rotates early, the ball-side drive is open.",
+    "Catch ready: as the receiver, turn and face before the ball arrives."
+  ],
+  "commonMistakes": [
+    "Lobbing it softly cross-court — a good defender in the middle intercepts it; throw it flat and firm.",
+    "Throwing across your momentum without planting — the pass sails long or short.",
+    "Skipping when the weak-side defender hasn't committed — the whole point is they rotated; if they haven't, drive instead.",
+    "Late, lazy skips after the defense has recovered — timing is everything."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "The cross-court missile that punishes help defense — move the ball faster than the rotation can.",
+  "gameSituations": [
+    "Drive and kick when the weak-side defender tags the roller — skip to the corner.",
+    "Against zone defenses — skip passes shift the zone faster than it can recover.",
+    "Pick-and-roll with a tagged roller — the corner three is the reward for the skip."
+  ],
+  "howTo": [
+    {
+      "detail": "Drive, catch in the paint, or come off a screen and draw the weak-side defender. The skip only works if someone rotated — read that rotation first.",
+      "title": "Draw the rotation"
+    },
+    {
+      "detail": "Plant your feet — jump stop or stride stop — facing the weak side. Never throw a skip pass while still moving toward the strong side; your momentum will carry the ball out of bounds.",
+      "title": "Plant and square up"
+    },
+    {
+      "detail": "Grip the ball with two hands at chest level. The skip is a two-handed chest pass thrown 10-15 meters — it needs your whole body, not just your arms.",
+      "title": "Load the two-hand pass"
+    },
+    {
+      "detail": "Rotate your hips and shoulders fully toward the target, step into the throw, and release it flat and firm — not a lob. Aim for the shooter's shooting pocket so they catch in rhythm.",
+      "title": "Throw it flat and firm"
+    }
+  ],
+  "hub": "skills",
+  "id": "skip-pass",
+  "level": "intermediate",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 5,
+  "related": [
+    "chest-pass",
+    "drive-and-kick",
+    "pocket-pass",
+    "bounce-pass",
+    "jump-stop"
+  ],
+  "slug": "skip-pass",
+  "subcategory": "passing",
+  "tags": [
+    "passing",
+    "kick out",
+    "zone offense",
+    "shooting"
+  ],
+  "title": "Skip Pass",
+  "whatIsIt": [
+    "A skip pass is a long, flat pass thrown across the court — usually from one wing or corner to the opposite side — to beat a defensive rotation. The ball 'skips' over the middle of the defense to reach the open shooter before the rotation recovers.",
+    "It's the great equalizer against help defense. When defenders collapse to stop a drive, someone is always open on the weak side. The skip pass gets the ball there faster than the defense can sprint back."
+  ],
+  "whyItMatters": [
+    "Modern offenses are built on drive-and-kick basketball. The skip pass is the 'kick' that turns paint pressure into open threes. Teams that skip the ball well force defenses to choose between protecting the rim and guarding the arc — and defenses can't do both."
+  ],
+  "vi": {
+    "coachingPoints": [
+      "Xoay vai hoàn toàn — những đường skip chỉ dùng sức tay thì chậm và xẹp.",
+      "Jump stop hoặc trụ chân trước khi ném; chuyền skip ngang người khi đang dẫn bóng là mất bóng.",
+      "Chuyền đón đầu tay ném một chút — bóng tới nơi họ có thể bắt và ném đúng nhịp.",
+      "Đọc người ở vị trí thấp: nếu anh ta đứng yên, hãy skip; nếu anh ta xoay sớm, đường đột phá phía có bóng đang mở.",
+      "Sẵn sàng đón bóng: là người nhận, hãy xoay người và hướng mặt trước khi bóng tới."
+    ],
+    "commonMistakes": [
+      "Bổng bóng nhẹ nhàng ngang sân — một hậu vệ giỏi ở giữa sẽ cắt được; hãy ném căng và chắc.",
+      "Ném ngược đà mà không trụ chân — đường chuyền sẽ bay quá dài hoặc quá ngắn.",
+      "Skip khi hậu vệ cánh yếu chưa bị kéo đi — ý nghĩa của đường skip là họ đã xoay sang; nếu chưa, hãy đột phá thay vì chuyền.",
+      "Những đường skip muộn, uể oải sau khi hàng thủ đã hồi phục — thời điểm là tất cả."
+    ],
+    "description": "Đường chuyền xuyên sân trừng phạt hàng thủ hỗ trợ — đưa bóng đi nhanh hơn vòng xoay của họ.",
+    "gameSituations": [
+      "Đột phá rồi chuyền ra khi hậu vệ cánh yếu tag người roll — skip ra góc sân.",
+      "Khi đối đầu phòng thủ khu vực — những đường skip dịch chuyển cả vùng phòng thủ nhanh hơn tốc độ hồi phục của họ.",
+      "Pick and roll với người roll bị tag — cú ném ba điểm góc là phần thưởng cho đường skip."
+    ],
+    "howTo": [
+      {
+        "detail": "Đột phá, bắt bóng trong khu vực cấm, hoặc bật ra từ tấm chắn rồi kéo hậu vệ cánh yếu. Đường skip chỉ hiệu quả khi có người xoay sang — hãy đọc vòng xoay đó trước.",
+        "title": "Kéo vòng xoay phòng thủ"
+      },
+      {
+        "detail": "Trụ chân — jump stop hoặc stride stop — hướng mặt về cánh yếu. Đừng bao giờ ném đường skip khi còn đang di chuyển về phía cánh mạnh; đà của bạn sẽ đưa bóng ra ngoài biên.",
+        "title": "Trụ chân và hướng người"
+      },
+      {
+        "detail": "Cầm bóng bằng hai tay ngang ngực. Đường skip là một đường chuyền ngực hai tay xa 10–15 mét — nó cần cả cơ thể bạn, không chỉ cánh tay.",
+        "title": "Chuẩn bị đường chuyền hai tay"
+      },
+      {
+        "detail": "Xoay hông và vai hoàn toàn về phía mục tiêu, bước chân vào cú ném, và thả bóng căng và chắc — không phải đường bổng. Nhắm vào vị trí ném của tay ném để họ bắt bóng đúng nhịp.",
+        "title": "Ném căng và chắc"
+      }
+    ],
+    "tags": [
+      "chuyền bóng",
+      "chuyền ra ngoài",
+      "tấn công zone",
+      "ném rổ"
+    ],
+    "title": "Đường chuyền Skip",
+    "whatIsIt": [
+      "Đường chuyền skip là một đường chuyền dài, căng ngang sân — thường từ một cánh hoặc góc sang phía đối diện — để đánh bại vòng xoay phòng thủ. Quả bóng 'nhảy cóc' qua giữa hàng thủ để tới tay người ném đang trống trước khi vòng xoay kịp hồi phục.",
+      "Đó là vũ khí san bằng trước hàng thủ hỗ trợ. Khi các hậu vệ co cụm để chặn pha đột phá, luôn có người trống ở cánh yếu. Đường chuyền skip đưa bóng tới đó nhanh hơn tốc độ chạy về của hàng thủ."
+    ],
+    "whyItMatters": [
+      "Các hàng công hiện đại được xây dựng trên lối chơi đột phá-rồi-chuyền-ra (drive-and-kick). Đường chuyền skip chính là cú 'kick' biến áp lực trong khu vực cấm thành những cú ba điểm trống. Những đội chuyền skip tốt buộc hàng thủ phải chọn giữa bảo vệ rổ và kèm vòng ba điểm — mà hàng thủ không thể làm cả hai."
+    ]
+  }
+}

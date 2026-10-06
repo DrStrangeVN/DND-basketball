@@ -132,5 +132,61 @@
     "screening-basketball",
     "elevator-doors"
   ],
-  "dateUpdated": "2026-10-06"
+  "dateUpdated": "2026-10-06",
+  "vi": {
+    "coachingPoints": [
+      "Khoảng cách giữa các tấm chắn rất quan trọng — quá gần thì thành một tấm, quá xa thì hậu vệ hồi phục giữa chúng.",
+      "Tập thời điểm cho cả hai người chắn: tấm thứ hai phải dựng xong trước khi người cắt tới.",
+      "Dạy tay ném đọc tình huống, không phải chạy theo lộ trình — phản ứng của hậu vệ quyết định cách kết thúc.",
+      "Tập cả khi đối đầu hàng thủ đổi người; stagger tạo ra các pha đổi người phải được khai thác."
+    ],
+    "commonMistakes": [
+      "Các tấm chắn dựng quá xa nhau, để hậu vệ hồi phục giữa chúng.",
+      "Tay ném giảm tốc sau tấm chắn đầu tiên.",
+      "Người chắn di chuyển hoặc nghiêng người — hai tấm chắn di động là hai lần mất bóng."
+    ],
+    "description": "Hai tấm chắn dựng thành một hàng, cái này sau cái kia — rắc rối nhân đôi cho hậu vệ của tay ném.",
+    "gameSituations": [
+      "Giải phóng tay ném khi các pin down đơn không hiệu quả.",
+      "Các miếng đánh ATO khi bạn cần một cú ném sạch chắc chắn.",
+      "Khi đối đầu phòng thủ kèm người quyết liệt vượt qua các tấm chắn đơn tốt."
+    ],
+    "howTo": [
+      {
+        "detail": "Dựng các tấm chắn thành một hàng dọc với một hoặc hai bước chân giữa chúng — cả hai đều hợp lệ, cả hai đều dựng xong trước khi người cắt tới.",
+        "title": "Xếp hai người chắn thành hàng"
+      },
+      {
+        "detail": "Bật ra khỏi tấm chắn đầu tiên vai-kề-vai, rồi ngay lập tức tới tấm thứ hai. Đừng giảm tốc giữa chúng — tốc độ chính là thứ bẻ gãy hậu vệ.",
+        "title": "Tay ném: chạy nước rút qua 'đường hầm'"
+      },
+      {
+        "detail": "Cuộn vào nếu hậu vệ bám đuổi, bẻ ra nếu họ gian lận, chạy thẳng để ném jumper nếu họ chui dưới. Cách đọc đến sau tấm chắn thứ hai.",
+        "title": "Đọc tình huống sau tấm chắn thứ hai"
+      },
+      {
+        "detail": "Cả hai tấm chắn đều phải được giữ qua va chạm. Nếu người chắn đầu tiên buông sớm, hậu vệ sẽ lách qua và stagger sụp đổ.",
+        "title": "Người chắn: giữ cả hai tấm"
+      },
+      {
+        "detail": "Người chuyền ném bóng khi tay ném vừa qua tấm chắn thứ hai — không sớm hơn, không muộn hơn. Chuyền muộn sẽ bị tranh chấp.",
+        "title": "Căn thời điểm chuyền bóng"
+      }
+    ],
+    "tags": [
+      "stagger",
+      "chắn bóng",
+      "ném rổ",
+      "không bóng"
+    ],
+    "title": "Chắn kép Stagger",
+    "whatIsIt": [
+      "Stagger là hai tấm chắn không bóng dựng thành một hàng — cái này sau cái kia — cho cùng một người cắt. Hậu vệ của tay ném phải vượt qua hai tấm chắn trong khoảng hai giây, điều gần như không thể làm gọn gàng.",
+      "Stagger thường được chạy cho các tay ném đi từ đường biên cuối sân lên cánh hoặc đỉnh vòng: một pin down, rồi ngay sau đó là một pin down thứ hai. Chắn đôi chính là điểm mấu chốt — một tấm chắn thì vượt qua được, hai tấm liên tiếp thì thường không.",
+      "Đó là món tủ của mọi hàng công nghiêm túc vì dễ dạy mà hiệu quả tàn khốc. Hai người chắn, một tay ném, một cú jumper trống."
+    ],
+    "whyItMatters": [
+      "Một tấm chắn thì vượt qua được; hai tấm chắn trong stagger buộc hàng thủ phải chọn giữa đổi người (chênh lệch), bám đuổi (tranh chấp muộn), hoặc chui dưới (ném trống). Lựa chọn nào cũng có lợi cho hàng công."
+    ]
+  }
 }

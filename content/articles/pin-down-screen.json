@@ -124,5 +124,61 @@
     "screening-basketball",
     "chicago-action"
   ],
-  "dateUpdated": "2026-10-06"
+  "dateUpdated": "2026-10-06",
+  "vi": {
+    "title": "Screen Pin Down",
+    "description": "Người chắn ghim hậu vệ của tay ném xuống thấp, giải phóng tay ném chạy lên để ném.",
+    "whatIsIt": [
+      "Pin down là screen không bóng được đặt với lưng người chắn quay về baseline, 'ghim' hậu vệ của tay ném xuống gần paint trong khi tay ném chạy nước rút lên cánh hoặc đỉnh để catch-and-shoot.",
+      "Đây là screen cho tay ném phổ biến nhất trong bóng rổ. Hình học ủng hộ tấn công: hậu vệ phải lách qua screen rồi chạy nước rút lên dốc để contest, thường tới chậm một bước.",
+      "Pin down có dạng đơn và đôi, và kết hợp được với mọi thứ — curl, flare, DHO và đặt lại screen đều bắt đầu từ thế pin down."
+    ],
+    "whyItMatters": [
+      "Mọi đội đều cần một cách đáng tin cậy để mở tay ném, và pin down là cách đơn giản nhất mà thực sự hiệu quả. Nó tạo ra cú ném hiệu quả nhất trận đấu — catch-and-shoot 3 điểm thoáng — từ một tình huống dễ dạy, dễ lặp lại."
+    ],
+    "howTo": [
+      {
+        "title": "Đặt pin thấp",
+        "detail": "Người chắn đứng gần paint, lưng quay về baseline, chân rộng và đứng yên. Screen phải được đặt trước khi tay ném bắt đầu cắt."
+      },
+      {
+        "title": "Tay ném: nhử rồi bùng nổ",
+        "detail": "Dẫn hậu vệ xuống thấp bằng một bước về phía rổ, rồi chạy nước rút lên qua screen. Thay đổi tốc độ mới tạo ra khoảng trống."
+      },
+      {
+        "title": "Đi sát vai người chắn",
+        "detail": "Lướt qua vai người chắn trên đường lên. Curl rộng cho hậu vệ đường lách qua."
+      },
+      {
+        "title": "Đọc hậu vệ",
+        "detail": "Curl vào rổ nếu họ đuổi theo, flare nếu họ nhảy qua screen, cắt thẳng để ném nếu họ đi dưới. Pha đọc diễn ra ngay giữa lúc chạy nước rút."
+      },
+      {
+        "title": "Bắt bóng sẵn sàng ném",
+        "detail": "Tiếp đất với chân đã đặt và tay sẵn sàng. Đường chuyền nên tới ngay khi bạn thoáng — thời điểm giữa người cắt và người chuyền là tất cả."
+      }
+    ],
+    "coachingPoints": [
+      "Tập bộ pháp của tay ném: bước nhử và cú bùng nổ là toàn bộ kỹ năng",
+      "Người chắn phải giữ screen — nhả sớm là để hậu vệ lọt qua",
+      "Dạy cả ba pha đọc (curl, flare, cắt thẳng) ngay từ đầu để tay ném không một chiều",
+      "Đặt lại screen khi screen đầu không tạo ra cú ném — đội ném giỏi screen hai lần"
+    ],
+    "commonMistakes": [
+      "Tay ném chạy bộ qua screen thay vì chạy nước rút",
+      "Đặt screen quá cao khiến tay ném bắt bóng quá xa rổ",
+      "Chỉ biết curl — tay ném dễ đoán sẽ bị bắt bài"
+    ],
+    "gameSituations": [
+      "Mở tay ném trước hàng thủ kèm người ở nửa sân",
+      "Làm tình huống mở đầu trong Chicago action hoặc floppy",
+      "Cuối đồng hồ khi chỉ kịp một screen"
+    ],
+    "tags": [
+      "pin down",
+      "chắn bóng",
+      "ném rổ",
+      "không bóng"
+    ]
+  }
 }

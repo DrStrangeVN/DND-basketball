@@ -1,1 +1,138 @@
-{"ages":["U12","U14","U16","U18","Adult"],"coachingPoints":["The rim is the shield — never finish on the same side as the shot blocker.","Keep momentum sideways, not into the defender; a straight jump invites contact you don't want.","Soft touch wins — the closer the angle, the less power the shot needs.","Use your off-arm to feel (not shove) the defender and maintain spacing.","Practice finishing with the outside hand on each baseline to avoid weak-side blocks."],"commonMistakes":["Taking off on the defender's side — the rim can't protect you if you're on the wrong side of it.","Too much power — reverses are short, delicate finishes; over-shooting is the most common miss.","Jumping straight up and down instead of drifting across — lets the shot blocker recover.","Gathering too early — the ball gets exposed in traffic; gather late, finish quick."],"dateUpdated":"2026-10-06","description":"Finish on the far side of the rim using the basket as a shield — a must-have tool against shot blockers.","gameSituations":["Baseline drives where a big man rotates to contest — cross to the far side and reverse it.","Transition finishes when a defender is trailing — use the rim to keep them off the ball.","Off a backdoor cut under the basket — momentum naturally carries you past the rim, so reverse is the natural finish."],"howTo":[{"detail":"Drive with pace toward the baseline side, keeping the ball on your outside hand. Your momentum should carry you across the face of the basket, not straight into the defender.","title":"Attack along the baseline"},{"detail":"Pick up the ball as you reach the restricted area, slightly past the front of the rim. Your last two steps should carry you across to the far side of the hoop.","title":"Gather under or past the rim"},{"detail":"Plant and jump so your body is on the opposite side of the rim from the defender. Your inside shoulder (closest to the rim) protects the ball.","title":"Take off from the far side"},{"detail":"Extend your shooting arm back toward the basket, wrist relaxed. Right-side drivers typically finish with the right hand wrapping back; keep the ball above the rim level.","title":"Reach back and across"},{"detail":"Aim for the far-side top corner of the board rectangle with a gentle touch — the reverse needs less power than you think. Too much force and it rattles out.","title":"Use the board softly"}],"hub":"skills","id":"reverse-layup","level":"intermediate","positions":["ALL"],"readTime":5,"related":["basic-layup","euro-step","finger-roll","contact-finishing","jump-stop"],"slug":"reverse-layup","subcategory":"finishing","tags":["layup","finishing","rim protection","shot blockers"],"title":"Reverse Layup","whatIsIt":["A reverse layup is finished on the opposite side of the rim from where you take off. You drive along the baseline or across the paint, then use the rim and backboard to shield the ball from the shot blocker while finishing with a soft reverse touch.","It turns the basket itself into your teammate: the defender can't reach across the rim without fouling or goaltending. Elite drivers use it constantly when help defenders rotate to the strong side."],"whyItMatters":["Shot blockers live at the rim. If every drive ends in a standard layup, defenders just wait and swat. The reverse finish gives you a counter — same drive, different finish — that keeps rim protectors guessing and forces them to commit before you choose your side."]}
+{
+  "ages": [
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "coachingPoints": [
+    "The rim is the shield — never finish on the same side as the shot blocker.",
+    "Keep momentum sideways, not into the defender; a straight jump invites contact you don't want.",
+    "Soft touch wins — the closer the angle, the less power the shot needs.",
+    "Use your off-arm to feel (not shove) the defender and maintain spacing.",
+    "Practice finishing with the outside hand on each baseline to avoid weak-side blocks."
+  ],
+  "commonMistakes": [
+    "Taking off on the defender's side — the rim can't protect you if you're on the wrong side of it.",
+    "Too much power — reverses are short, delicate finishes; over-shooting is the most common miss.",
+    "Jumping straight up and down instead of drifting across — lets the shot blocker recover.",
+    "Gathering too early — the ball gets exposed in traffic; gather late, finish quick."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "Finish on the far side of the rim using the basket as a shield — a must-have tool against shot blockers.",
+  "gameSituations": [
+    "Baseline drives where a big man rotates to contest — cross to the far side and reverse it.",
+    "Transition finishes when a defender is trailing — use the rim to keep them off the ball.",
+    "Off a backdoor cut under the basket — momentum naturally carries you past the rim, so reverse is the natural finish."
+  ],
+  "howTo": [
+    {
+      "detail": "Drive with pace toward the baseline side, keeping the ball on your outside hand. Your momentum should carry you across the face of the basket, not straight into the defender.",
+      "title": "Attack along the baseline"
+    },
+    {
+      "detail": "Pick up the ball as you reach the restricted area, slightly past the front of the rim. Your last two steps should carry you across to the far side of the hoop.",
+      "title": "Gather under or past the rim"
+    },
+    {
+      "detail": "Plant and jump so your body is on the opposite side of the rim from the defender. Your inside shoulder (closest to the rim) protects the ball.",
+      "title": "Take off from the far side"
+    },
+    {
+      "detail": "Extend your shooting arm back toward the basket, wrist relaxed. Right-side drivers typically finish with the right hand wrapping back; keep the ball above the rim level.",
+      "title": "Reach back and across"
+    },
+    {
+      "detail": "Aim for the far-side top corner of the board rectangle with a gentle touch — the reverse needs less power than you think. Too much force and it rattles out.",
+      "title": "Use the board softly"
+    }
+  ],
+  "hub": "skills",
+  "id": "reverse-layup",
+  "level": "intermediate",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 5,
+  "related": [
+    "basic-layup",
+    "euro-step",
+    "finger-roll",
+    "contact-finishing",
+    "jump-stop"
+  ],
+  "slug": "reverse-layup",
+  "subcategory": "finishing",
+  "tags": [
+    "layup",
+    "finishing",
+    "rim protection",
+    "shot blockers"
+  ],
+  "title": "Reverse Layup",
+  "whatIsIt": [
+    "A reverse layup is finished on the opposite side of the rim from where you take off. You drive along the baseline or across the paint, then use the rim and backboard to shield the ball from the shot blocker while finishing with a soft reverse touch.",
+    "It turns the basket itself into your teammate: the defender can't reach across the rim without fouling or goaltending. Elite drivers use it constantly when help defenders rotate to the strong side."
+  ],
+  "whyItMatters": [
+    "Shot blockers live at the rim. If every drive ends in a standard layup, defenders just wait and swat. The reverse finish gives you a counter — same drive, different finish — that keeps rim protectors guessing and forces them to commit before you choose your side."
+  ],
+  "vi": {
+    "title": "Reverse Layup",
+    "description": "Dứt điểm ở phía xa của rổ, dùng rổ làm lá chắn — kỹ năng bắt buộc phải có trước các tay chắn bóng.",
+    "whatIsIt": [
+      "Reverse layup là dứt điểm ở phía đối diện của rổ so với nơi bạn nhảy lên. Bạn dẫn dọc đường biên hoặc ngang qua vùng sơn, rồi dùng rổ và bảng rổ che bóng khỏi tay chắn bóng trong khi dứt điểm nhẹ nhàng ngược lại.",
+      "Nó biến chính cái rổ thành đồng đội của bạn: hậu vệ không thể với qua rổ mà không phạm lỗi hay goaltending. Các tay dẫn hàng đầu dùng nó liên tục khi hậu vệ hỗ trợ xoay sang phía mạnh."
+    ],
+    "whyItMatters": [
+      "Các tay chắn bóng sống ở dưới rổ. Nếu mọi pha dẫn đều kết thúc bằng layup thường, hậu vệ chỉ việc đứng chờ và vỗ. Pha dứt điểm reverse là chiêu đối phó — cùng một pha dẫn, cách dứt điểm khác — khiến các tay bảo vệ rổ phải đoán và buộc họ cam kết trước khi bạn chọn phía."
+    ],
+    "howTo": [
+      {
+        "title": "Tấn công dọc đường biên",
+        "detail": "Dẫn nhanh về phía đường biên, giữ bóng ở tay ngoài. Đà của bạn phải đưa bạn lướt ngang mặt rổ, không đâm thẳng vào hậu vệ."
+      },
+      {
+        "title": "Nhặt bóng dưới hoặc qua rổ",
+        "detail": "Nhặt bóng khi đến khu vực restricted, hơi qua mặt trước của rổ. Hai bước cuối phải đưa bạn sang phía xa của vành rổ."
+      },
+      {
+        "title": "Nhảy lên từ phía xa",
+        "detail": "Đặt chân và bật nhảy sao cho cơ thể ở phía đối diện rổ so với hậu vệ. Vai trong (gần rổ nhất) của bạn che chắn bóng."
+      },
+      {
+        "title": "Với tay ngược lại",
+        "detail": "Duỗi tay ném về phía rổ, cổ tay thả lỏng. Người dẫn phía phải thường dứt điểm bằng tay phải vòng ngược lại; giữ bóng trên mặt rổ."
+      },
+      {
+        "title": "Dùng bảng nhẹ nhàng",
+        "detail": "Nhắm góc trên xa của hình chữ nhật trên bảng với lực nhẹ — pha reverse cần ít lực hơn bạn nghĩ. Mạnh quá bóng sẽ bật ra."
+      }
+    ],
+    "coachingPoints": [
+      "Rổ là lá chắn — không bao giờ dứt điểm cùng phía với tay chắn bóng.",
+      "Giữ đà đi ngang, không đâm vào hậu vệ; nhảy thẳng mời va chạm bạn không muốn.",
+      "Lực nhẹ thắng — góc càng hẹp, cú ném càng cần ít lực.",
+      "Dùng tay không ném để cảm nhận (không phải đẩy) hậu vệ và giữ khoảng cách.",
+      "Tập dứt điểm bằng tay ngoài ở mỗi đường biên để tránh bị chắn từ phía yếu."
+    ],
+    "commonMistakes": [
+      "Nhảy lên cùng phía với hậu vệ — rổ không thể bảo vệ bạn nếu bạn ở sai phía.",
+      "Quá mạnh — pha reverse là dứt điểm ngắn, tinh tế; ném quá mạnh là lỗi hụt phổ biến nhất.",
+      "Bật thẳng lên xuống thay vì lướt ngang — để tay chắn bóng kịp hồi phục.",
+      "Nhặt bóng quá sớm — bóng bị lộ trong đám đông; nhặt muộn, dứt điểm nhanh."
+    ],
+    "gameSituations": [
+      "Dẫn dọc đường biên khi big man đối phương xoay ra tranh chấp — cắt sang phía xa và reverse.",
+      "Dứt điểm trong phản công khi có hậu vệ đuổi theo — dùng rổ giữ họ xa bóng.",
+      "Từ pha cắt backdoor dưới rổ — đà tự nhiên đưa bạn qua rổ nên reverse là cách dứt điểm tự nhiên."
+    ],
+    "tags": [
+      "layup",
+      "dứt điểm",
+      "bảo vệ rổ",
+      "chắn bóng"
+    ]
+  }
+}

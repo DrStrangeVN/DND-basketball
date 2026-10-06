@@ -1,1 +1,146 @@
-{"ages":["U10","U12","U14","U16","U18","Adult"],"coachingPoints":["Never use film to embarrass a player publicly; correct sensitive mistakes privately.","Individual film — five minutes one-on-one — is often more powerful than team film.","Let players clip their own games; ownership deepens learning.","Track whether film corrections actually show up in the next game."],"commonMistakes":["Showing too many clips in a single session and losing attention.","Only showing mistakes and never the good plays worth repeating.","Lecturing through the entire session without asking players what they see.","Watching film without connecting it to reps in the next practice."],"dateUpdated":"2026-10-06","description":"How coaches should use film — what to clip, how to present it, and turning video sessions into real improvement.","gameSituations":["Post-game review: three things we did well, two things to fix.","Preparing for an opponent: showing their favorite actions before practice.","Individual development: reviewing a guard's pick-and-roll reads from last weekend."],"howTo":[{"detail":"Each session has one focus — transition defense, spacing, closeouts — and you only show clips that serve it. A theme turns random clips into a lesson.","title":"Clip with a theme"},{"detail":"Fifteen to twenty minutes maximum. Attention dies after that, especially with youth players. A short session players remember beats a long one they tune out.","title":"Keep it short"},{"detail":"Lead with two or three positive clips before corrections. Players learn from models of what to do, not just examples of what went wrong.","title":"Show good and bad"},{"detail":"Pause the clip and ask \"what do you see?\" before explaining. Players who discover the answer retain it; players who are told it forget it.","title":"Ask, don't tell"},{"detail":"Every session ends with one or two specific things to fix in the next practice. Film without follow-up action is just entertainment.","title":"End with action"},{"detail":"Schedule film weekly. Sporadic film feels like punishment; routine film feels like development. Consistency builds a film culture.","title":"Make film a habit"}],"hub":"coaching","id":"film-study-coaching","level":"intermediate","positions":["ALL"],"readTime":5,"related":["scouting-opponents","game-preparation","player-development-plan","player-communication"],"slug":"film-study-coaching","subcategory":"coaching","tags":["coaching","film-study","video","player-development"],"title":"Film Study for Coaches","whatIsIt":["Film study is the coach's most powerful teaching tool: real game footage that shows players exactly what happened, not what they remember happening. Used well, it accelerates learning in ways practice alone cannot — players see their spacing, their rotations, their decisions.","Effective film sessions are short, focused, and interactive. Ten great clips with discussion beat forty clips of lecture. The goal is not to show everything — it is to change one or two behaviors."],"whyItMatters":["Players cannot fix what they cannot see. Film closes the gap between perception and reality — the player who thought they sprinted back sees themselves jogging. Teams that watch film regularly develop faster basketball IQ and stop repeating the same mistakes.","Film also makes coaching conversations objective. \"Watch this clip\" ends arguments that \"you need to play harder\" starts. The camera does not have favorites."]}
+{
+  "ages": [
+    "U10",
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "coachingPoints": [
+    "Never use film to embarrass a player publicly; correct sensitive mistakes privately.",
+    "Individual film — five minutes one-on-one — is often more powerful than team film.",
+    "Let players clip their own games; ownership deepens learning.",
+    "Track whether film corrections actually show up in the next game."
+  ],
+  "commonMistakes": [
+    "Showing too many clips in a single session and losing attention.",
+    "Only showing mistakes and never the good plays worth repeating.",
+    "Lecturing through the entire session without asking players what they see.",
+    "Watching film without connecting it to reps in the next practice."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "How coaches should use film — what to clip, how to present it, and turning video sessions into real improvement.",
+  "gameSituations": [
+    "Post-game review: three things we did well, two things to fix.",
+    "Preparing for an opponent: showing their favorite actions before practice.",
+    "Individual development: reviewing a guard's pick-and-roll reads from last weekend."
+  ],
+  "howTo": [
+    {
+      "detail": "Each session has one focus — transition defense, spacing, closeouts — and you only show clips that serve it. A theme turns random clips into a lesson.",
+      "title": "Clip with a theme"
+    },
+    {
+      "detail": "Fifteen to twenty minutes maximum. Attention dies after that, especially with youth players. A short session players remember beats a long one they tune out.",
+      "title": "Keep it short"
+    },
+    {
+      "detail": "Lead with two or three positive clips before corrections. Players learn from models of what to do, not just examples of what went wrong.",
+      "title": "Show good and bad"
+    },
+    {
+      "detail": "Pause the clip and ask \"what do you see?\" before explaining. Players who discover the answer retain it; players who are told it forget it.",
+      "title": "Ask, don't tell"
+    },
+    {
+      "detail": "Every session ends with one or two specific things to fix in the next practice. Film without follow-up action is just entertainment.",
+      "title": "End with action"
+    },
+    {
+      "detail": "Schedule film weekly. Sporadic film feels like punishment; routine film feels like development. Consistency builds a film culture.",
+      "title": "Make film a habit"
+    }
+  ],
+  "hub": "coaching",
+  "id": "film-study-coaching",
+  "level": "intermediate",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 5,
+  "related": [
+    "scouting-opponents",
+    "game-preparation",
+    "player-development-plan",
+    "player-communication"
+  ],
+  "slug": "film-study-coaching",
+  "subcategory": "coaching",
+  "tags": [
+    "coaching",
+    "film-study",
+    "video",
+    "player-development"
+  ],
+  "title": "Film Study for Coaches",
+  "whatIsIt": [
+    "Film study is the coach's most powerful teaching tool: real game footage that shows players exactly what happened, not what they remember happening. Used well, it accelerates learning in ways practice alone cannot — players see their spacing, their rotations, their decisions.",
+    "Effective film sessions are short, focused, and interactive. Ten great clips with discussion beat forty clips of lecture. The goal is not to show everything — it is to change one or two behaviors."
+  ],
+  "whyItMatters": [
+    "Players cannot fix what they cannot see. Film closes the gap between perception and reality — the player who thought they sprinted back sees themselves jogging. Teams that watch film regularly develop faster basketball IQ and stop repeating the same mistakes.",
+    "Film also makes coaching conversations objective. \"Watch this clip\" ends arguments that \"you need to play harder\" starts. The camera does not have favorites."
+  ],
+  "vi": {
+    "title": "Xem Băng Hình Cho Huấn Luyện Viên",
+    "description": "Cách huấn luyện viên nên dùng băng hình — cắt clip gì, trình bày thế nào, và biến buổi xem băng thành sự tiến bộ thật sự.",
+    "whatIsIt": [
+      "Xem băng hình là công cụ giảng dạy mạnh nhất của huấn luyện viên: cảnh quay trận đấu thật cho cầu thủ thấy chính xác điều đã xảy ra, chứ không phải điều họ nhớ là đã xảy ra. Dùng tốt, nó tăng tốc học tập theo cách mà chỉ tập luyện không thể — cầu thủ thấy được spacing, rotation, và các quyết định của mình.",
+      "Buổi xem băng hiệu quả thì ngắn, tập trung, và tương tác. Mười clip hay kèm thảo luận hơn bốn mươi clip thuyết giảng. Mục tiêu không phải chiếu mọi thứ — mà là thay đổi một hoặc hai hành vi."
+    ],
+    "whyItMatters": [
+      "Cầu thủ không thể sửa điều họ không nhìn thấy. Băng hình thu hẹp khoảng cách giữa cảm nhận và thực tế — cầu thủ tưởng mình đã chạy nước rút về phòng thủ thì thấy mình đang chạy bộ. Những đội xem băng thường xuyên phát triển IQ bóng rổ nhanh hơn và ngừng lặp lại cùng một lỗi.",
+      "Băng hình cũng khiến các cuộc trao đổi với huấn luyện viên trở nên khách quan. 'Xem clip này đi' chấm dứt những tranh cãi mà câu 'em phải chơi quyết liệt hơn' gây ra. Máy quay không thiên vị ai."
+    ],
+    "howTo": [
+      {
+        "title": "Cắt clip theo chủ đề",
+        "detail": "Mỗi buổi có một trọng tâm — phòng thủ chuyển đổi, spacing, closeout — và bạn chỉ chiếu những clip phục vụ nó. Một chủ đề biến những clip rời rạc thành một bài học."
+      },
+      {
+        "title": "Giữ buổi xem ngắn",
+        "detail": "Tối đa mười lăm đến hai mươi phút. Sau đó sự tập trung sẽ chết, nhất là với cầu thủ trẻ. Một buổi ngắn mà cầu thủ nhớ được hơn một buổi dài mà họ bỏ ngoài tai."
+      },
+      {
+        "title": "Chiếu cả hay lẫn dở",
+        "detail": "Mở đầu bằng hai hoặc ba clip tích cực trước khi sửa lỗi. Cầu thủ học từ hình mẫu điều nên làm, không chỉ từ ví dụ điều làm sai."
+      },
+      {
+        "title": "Hỏi, đừng giảng",
+        "detail": "Tạm dừng clip và hỏi 'em thấy gì?' trước khi giải thích. Cầu thủ tự phát hiện ra đáp án sẽ nhớ lâu; cầu thủ được nói cho nghe sẽ quên nhanh."
+      },
+      {
+        "title": "Kết thúc bằng hành động",
+        "detail": "Mỗi buổi kết thúc với một hoặc hai điều cụ thể cần sửa ở buổi tập tiếp theo. Xem băng mà không có hành động tiếp theo chỉ là giải trí."
+      },
+      {
+        "title": "Biến xem băng thành thói quen",
+        "detail": "Lên lịch xem băng hàng tuần. Xem băng thất thường mang cảm giác như bị phạt; xem băng đều đặn mang cảm giác như được phát triển. Sự nhất quán tạo nên văn hóa xem băng."
+      }
+    ],
+    "coachingPoints": [
+      "Đừng bao giờ dùng băng hình để làm cầu thủ xấu hổ trước mặt mọi người; sửa những lỗi nhạy cảm một cách riêng tư.",
+      "Xem băng cá nhân — năm phút một-kèm-một — thường mạnh mẽ hơn xem băng cả đội.",
+      "Để cầu thủ tự cắt clip trận đấu của mình; sự chủ động làm sâu sắc việc học.",
+      "Theo dõi xem những điều sửa từ băng hình có thực sự xuất hiện ở trận tiếp theo không."
+    ],
+    "commonMistakes": [
+      "Chiếu quá nhiều clip trong một buổi và làm mất sự tập trung.",
+      "Chỉ chiếu lỗi sai mà không bao giờ chiếu những pha hay đáng lặp lại.",
+      "Thuyết giảng suốt buổi mà không hỏi cầu thủ họ thấy gì.",
+      "Xem băng mà không gắn với các bài tập ở buổi tập tiếp theo."
+    ],
+    "gameSituations": [
+      "Mổ xẻ sau trận: ba điều làm tốt, hai điều cần sửa.",
+      "Chuẩn bị cho đối thủ: chiếu những pha tủ của họ trước buổi tập.",
+      "Phát triển cá nhân: xem lại các pha đọc pick-and-roll của một hậu vệ từ cuối tuần trước."
+    ],
+    "tags": [
+      "huấn luyện",
+      "xem băng",
+      "video",
+      "phát triển cầu thủ"
+    ]
+  }
+}

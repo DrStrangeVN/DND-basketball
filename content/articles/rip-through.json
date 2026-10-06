@@ -1,1 +1,130 @@
-{"ages":["U12","U14","U16","U18","Adult"],"coachingPoints":["Rip it LOW — the ball travels under the defender's reaching arm, not over it.","Rip with force; a slow rip gets deflected by the defender's hands.","Keep your pivot foot planted through the entire rip — lifting it is a travel.","The first dribble must be hard and past the defender's hip — a soft dribble lets them recover.","Use it when the defender reaches or crowds you, not when they give you space."],"commonMistakes":["Ripping the ball up high into the defender's chest — that's a charge or a strip.","Starting the dribble before the rip — the defender just takes the ball.","Losing the pivot foot in the excitement — travels kill the best rip-throughs.","Ripping when there's no pressure — if the defender is sagging, just drive."],"dateUpdated":"2026-10-06","description":"Rip the ball low and hard across your body past a reaching defender — the aggressive counter to pressure.","gameSituations":["Catching on the wing with a defender crowding you — rip through and go.","Against a defender who reaches on the catch — their arm is the trigger.","Baseline catches where the defender overplays the middle — rip baseline and drive."],"howTo":[{"detail":"Catch in triple threat with a defender pressuring you — hands active, body close. Your pivot foot is set.","title":"Catch under pressure"},{"detail":"In one violent motion, swing the ball low and hard across your body — from one hip to the other — keeping it below the defender's reaching hands. This is the 'rip.'","title":"Rip low across your body"},{"detail":"As the ball crosses, your pivot foot stays planted and your free foot steps past the defender's hip. Your shoulder should brush their chest — you're going through the gap they left.","title":"Step through the gap"},{"detail":"The instant the ball passes your body, bounce it hard — one aggressive dribble past the defender's lead foot. Now you're driving with the defender sealed behind you.","title":"First dribble past the hip"}],"hub":"skills","id":"rip-through","level":"intermediate","positions":["ALL"],"readTime":5,"related":["jab-step","pivot","jump-stop","drive-and-kick","contact-finishing"],"slug":"rip-through","subcategory":"footwork","tags":["footwork","triple threat","drive","ball protection"],"title":"Rip Through","whatIsIt":["The rip through is an aggressive move from triple threat: you swing the ball low and hard across your body, past a pressuring defender, and drive. It turns defensive pressure into your advantage.","When a defender crowds you or reaches for the ball, the rip through punishes them — the ball goes under their arm while your body goes through the gap. It's a power move, not a finesse move, and it sets the tone for the drive."],"whyItMatters":["Defenders who pressure the catch want you to pick up the ball or panic. The rip through does neither — it attacks the pressure itself. Players who rip through confidently force defenders to back off, which opens up the entire triple-threat game: jab, shoot, and drive."]}
+{
+  "ages": [
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "coachingPoints": [
+    "Rip it LOW — the ball travels under the defender's reaching arm, not over it.",
+    "Rip with force; a slow rip gets deflected by the defender's hands.",
+    "Keep your pivot foot planted through the entire rip — lifting it is a travel.",
+    "The first dribble must be hard and past the defender's hip — a soft dribble lets them recover.",
+    "Use it when the defender reaches or crowds you, not when they give you space."
+  ],
+  "commonMistakes": [
+    "Ripping the ball up high into the defender's chest — that's a charge or a strip.",
+    "Starting the dribble before the rip — the defender just takes the ball.",
+    "Losing the pivot foot in the excitement — travels kill the best rip-throughs.",
+    "Ripping when there's no pressure — if the defender is sagging, just drive."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "Rip the ball low and hard across your body past a reaching defender — the aggressive counter to pressure.",
+  "gameSituations": [
+    "Catching on the wing with a defender crowding you — rip through and go.",
+    "Against a defender who reaches on the catch — their arm is the trigger.",
+    "Baseline catches where the defender overplays the middle — rip baseline and drive."
+  ],
+  "howTo": [
+    {
+      "detail": "Catch in triple threat with a defender pressuring you — hands active, body close. Your pivot foot is set.",
+      "title": "Catch under pressure"
+    },
+    {
+      "detail": "In one violent motion, swing the ball low and hard across your body — from one hip to the other — keeping it below the defender's reaching hands. This is the 'rip.'",
+      "title": "Rip low across your body"
+    },
+    {
+      "detail": "As the ball crosses, your pivot foot stays planted and your free foot steps past the defender's hip. Your shoulder should brush their chest — you're going through the gap they left.",
+      "title": "Step through the gap"
+    },
+    {
+      "detail": "The instant the ball passes your body, bounce it hard — one aggressive dribble past the defender's lead foot. Now you're driving with the defender sealed behind you.",
+      "title": "First dribble past the hip"
+    }
+  ],
+  "hub": "skills",
+  "id": "rip-through",
+  "level": "intermediate",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 5,
+  "related": [
+    "jab-step",
+    "pivot",
+    "jump-stop",
+    "drive-and-kick",
+    "contact-finishing"
+  ],
+  "slug": "rip-through",
+  "subcategory": "footwork",
+  "tags": [
+    "footwork",
+    "triple threat",
+    "drive",
+    "ball protection"
+  ],
+  "title": "Rip Through",
+  "whatIsIt": [
+    "The rip through is an aggressive move from triple threat: you swing the ball low and hard across your body, past a pressuring defender, and drive. It turns defensive pressure into your advantage.",
+    "When a defender crowds you or reaches for the ball, the rip through punishes them — the ball goes under their arm while your body goes through the gap. It's a power move, not a finesse move, and it sets the tone for the drive."
+  ],
+  "whyItMatters": [
+    "Defenders who pressure the catch want you to pick up the ball or panic. The rip through does neither — it attacks the pressure itself. Players who rip through confidently force defenders to back off, which opens up the entire triple-threat game: jab, shoot, and drive."
+  ],
+  "vi": {
+    "title": "Rip-Through",
+    "description": "Quật bóng thấp và mạnh ngang qua cơ thể vượt qua hậu vệ đang thò tay — chiêu đối phó quyết liệt với áp lực.",
+    "whatIsIt": [
+      "Rip-through là động tác tấn công từ triple threat: bạn quật bóng thấp và mạnh ngang qua cơ thể, vượt qua hậu vệ đang áp sát, rồi dẫn đi. Nó biến áp lực phòng thủ thành lợi thế của bạn.",
+      "Khi hậu vệ bám sát hoặc thò tay lấy bóng, rip-through trừng phạt họ — bóng đi dưới tay họ trong khi cơ thể bạn lách qua khe hở. Đây là động tác sức mạnh, không phải kỹ thuật mềm, và nó đặt tông cho cả pha dẫn."
+    ],
+    "whyItMatters": [
+      "Hậu vệ áp sát khi nhận bóng muốn bạn nhấc bóng hoặc hoảng loạn. Rip-through không làm cả hai — nó tấn công thẳng vào áp lực. Cầu thủ rip-through tự tin buộc hậu vệ phải lùi, mở ra toàn bộ thế trận triple threat: jab, ném và dẫn."
+    ],
+    "howTo": [
+      {
+        "title": "Nhận bóng dưới áp lực",
+        "detail": "Nhận bóng ở tư thế triple threat khi hậu vệ áp sát — tay linh hoạt, cơ thể gần. Chân trụ của bạn đã đặt."
+      },
+      {
+        "title": "Quật thấp ngang cơ thể",
+        "detail": "Trong một chuyển động dữ dội, quật bóng thấp và mạnh ngang qua cơ thể — từ hông này sang hông kia — giữ bóng dưới tầm tay thò của hậu vệ. Đó chính là 'rip'."
+      },
+      {
+        "title": "Bước qua khe hở",
+        "detail": "Khi bóng lướt qua, chân trụ giữ nguyên và chân tự do bước qua hông hậu vệ. Vai bạn nên lướt qua ngực họ — bạn đang đi qua khe hở họ để lại."
+      },
+      {
+        "title": "Nhịp dẫn đầu qua hông",
+        "detail": "Ngay khi bóng qua khỏi cơ thể, đập bóng mạnh — một nhịp dẫn quyết liệt qua chân trước của hậu vệ. Giờ bạn đang dẫn với hậu vệ bị khóa sau lưng."
+      }
+    ],
+    "coachingPoints": [
+      "Quật THẤP — bóng đi dưới tay thò của hậu vệ, không phải qua trên.",
+      "Quật mạnh; quật chậm sẽ bị tay hậu vệ gạt.",
+      "Giữ chân trụ cắm suốt pha quật — nhấc chân là bước lỗi (travel).",
+      "Nhịp dẫn đầu phải mạnh và qua hông hậu vệ — dẫn nhẹ để họ kịp hồi phục.",
+      "Dùng khi hậu vệ thò tay hoặc bám sát, không phải khi họ thả lỏng."
+    ],
+    "commonMistakes": [
+      "Quật bóng lên cao vào ngực hậu vệ — đó là lỗi tấn công (charge) hoặc bị cướp.",
+      "Bắt đầu dẫn trước khi quật — hậu vệ chỉ việc lấy bóng.",
+      "Mất chân trụ vì hưng phấn — bước lỗi giết chết những pha rip-through đẹp nhất.",
+      "Quật khi không có áp lực — nếu hậu vệ thả lỏng, cứ dẫn thẳng."
+    ],
+    "gameSituations": [
+      "Nhận bóng ở cánh với hậu vệ bám sát — rip-through và đi.",
+      "Trước hậu vệ thò tay khi bạn nhận bóng — cánh tay họ chính là tín hiệu.",
+      "Nhận bóng ở đường biên khi hậu vệ chặn hướng vào giữa — rip về phía biên và dẫn."
+    ],
+    "tags": [
+      "bộ pháp",
+      "triple threat",
+      "tấn công rổ",
+      "bảo vệ bóng"
+    ]
+  }
+}

@@ -1,1 +1,210 @@
-{"ages":["U12","U14","U16","U18","Adult","Competitive"],"coachingPoints":["The first three steps after the rebound decide the break — sprint immediately","The ball should move by pass, not dribble — passes are faster than any player","Fill the lanes wide and deep: rim runner middle, wings in the outer lanes","Attack the rim first, then read: layup, kick-out, or pull-up","If nothing is there in 4-5 seconds, flow into early offense — never force it"],"commonMistakes":["Dribbling the whole break instead of advancing the ball with passes","Everyone running to the ball — lanes collapse and the defense recovers","The rim runner jogging — the easiest basket in basketball disappears","Forcing a bad shot early instead of flowing into the half-court offense"],"dateUpdated":"2026-10-06","description":"Transition offense: turn rebounds and steals into fast breaks — outlet, lanes, and attacking before the defense sets.","diagram":{"ball":"O1","defense":[{"label":"X1","x":50,"y":45},{"label":"X2","x":30,"y":30},{"label":"X3","x":70,"y":30}],"moves":[{"from":"O2","kind":"cut","to":"O5"},{"from":"O3","kind":"cut","to":"O4"}],"offense":[{"label":"O1","x":50,"y":70},{"label":"O2","x":25,"y":60},{"label":"O3","x":75,"y":60},{"label":"O5","x":45,"y":25},{"label":"O4","x":60,"y":40}],"passes":[{"from":"O1","to":"O2"},{"from":"O2","to":"O5"}],"title":"Fast break: outlet, lane fill, and rim runner"},"gameSituations":["After a defensive rebound — the classic fast-break trigger","After a steal or deflection in the open court","After a blocked shot that your team recovers","After a made basket against a slow-retreating team (secondary break)"],"howTo":[{"detail":"The rebounder secures the ball and immediately looks upcourt — chin up, elbows out. The outlet pass starts the break; a slow outlet kills it.","title":"Secure and look up"},{"detail":"The nearest guard flashes to the outlet spot — usually the sideline at the free-throw line extended — presenting a target with hands up and calling for the ball.","title":"Outlet to the guard"},{"detail":"Wings sprint the outer lanes — wide and deep, touching the sidelines — while the big (rim runner) sprints straight down the middle to the rim. Three lanes, full speed.","title":"Sprint the lanes"},{"detail":"The ball advances by pass whenever possible: outlet to wing, wing to rim runner. The ball moves faster through the air than any dribble.","title":"Advance the ball with passes"},{"detail":"Attack the basket first: if the rim is open, take the layup. If the defense collapses, kick to the trailing wing. If the defense recovers, pull up or flow into offense.","title":"Attack the rim, then read"}],"hub":"transition","id":"transition-offense","level":"intermediate","positions":["ALL"],"readTime":6,"related":["running-lanes","advance-pass","transition-defense","full-court-press"],"slug":"transition-offense","subcategory":"transition","tags":["transition","fast break","offense","running"],"title":"Transition Offense","whatIsIt":["Transition offense is attacking before the defense gets set — turning a rebound, steal, or even a made basket into a scoring chance in the first few seconds of the possession. It is the fastest, most efficient offense in basketball because it attacks a defense that is outnumbered and disorganized.","The math is simple: a defense needs about five seconds to get matched up and organized. Every second you attack inside that window, your expected points climb. Great transition teams do not just run fast — they run with structure: defined lanes, a rim runner, and a ball that moves by pass."],"whyItMatters":["Transition baskets are the cheapest points in basketball — layups against a scrambling defense instead of contested shots against a set one. Teams that win the transition battle usually win the game, because they score efficiently while forcing the opponent to sprint back on every possession, wearing them down. Teaching transition early builds the habit of playing fast with purpose."]}
+{
+  "ages": [
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult",
+    "Competitive"
+  ],
+  "coachingPoints": [
+    "The first three steps after the rebound decide the break — sprint immediately",
+    "The ball should move by pass, not dribble — passes are faster than any player",
+    "Fill the lanes wide and deep: rim runner middle, wings in the outer lanes",
+    "Attack the rim first, then read: layup, kick-out, or pull-up",
+    "If nothing is there in 4-5 seconds, flow into early offense — never force it"
+  ],
+  "commonMistakes": [
+    "Dribbling the whole break instead of advancing the ball with passes",
+    "Everyone running to the ball — lanes collapse and the defense recovers",
+    "The rim runner jogging — the easiest basket in basketball disappears",
+    "Forcing a bad shot early instead of flowing into the half-court offense"
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "Transition offense: turn rebounds and steals into fast breaks — outlet, lanes, and attacking before the defense sets.",
+  "diagram": {
+    "ball": "O1",
+    "defense": [
+      {
+        "label": "X1",
+        "x": 50,
+        "y": 45
+      },
+      {
+        "label": "X2",
+        "x": 30,
+        "y": 30
+      },
+      {
+        "label": "X3",
+        "x": 70,
+        "y": 30
+      }
+    ],
+    "moves": [
+      {
+        "from": "O2",
+        "kind": "cut",
+        "to": "O5"
+      },
+      {
+        "from": "O3",
+        "kind": "cut",
+        "to": "O4"
+      }
+    ],
+    "offense": [
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 70
+      },
+      {
+        "label": "O2",
+        "x": 25,
+        "y": 60
+      },
+      {
+        "label": "O3",
+        "x": 75,
+        "y": 60
+      },
+      {
+        "label": "O5",
+        "x": 45,
+        "y": 25
+      },
+      {
+        "label": "O4",
+        "x": 60,
+        "y": 40
+      }
+    ],
+    "passes": [
+      {
+        "from": "O1",
+        "to": "O2"
+      },
+      {
+        "from": "O2",
+        "to": "O5"
+      }
+    ],
+    "title": "Fast break: outlet, lane fill, and rim runner"
+  },
+  "gameSituations": [
+    "After a defensive rebound — the classic fast-break trigger",
+    "After a steal or deflection in the open court",
+    "After a blocked shot that your team recovers",
+    "After a made basket against a slow-retreating team (secondary break)"
+  ],
+  "howTo": [
+    {
+      "detail": "The rebounder secures the ball and immediately looks upcourt — chin up, elbows out. The outlet pass starts the break; a slow outlet kills it.",
+      "title": "Secure and look up"
+    },
+    {
+      "detail": "The nearest guard flashes to the outlet spot — usually the sideline at the free-throw line extended — presenting a target with hands up and calling for the ball.",
+      "title": "Outlet to the guard"
+    },
+    {
+      "detail": "Wings sprint the outer lanes — wide and deep, touching the sidelines — while the big (rim runner) sprints straight down the middle to the rim. Three lanes, full speed.",
+      "title": "Sprint the lanes"
+    },
+    {
+      "detail": "The ball advances by pass whenever possible: outlet to wing, wing to rim runner. The ball moves faster through the air than any dribble.",
+      "title": "Advance the ball with passes"
+    },
+    {
+      "detail": "Attack the basket first: if the rim is open, take the layup. If the defense collapses, kick to the trailing wing. If the defense recovers, pull up or flow into offense.",
+      "title": "Attack the rim, then read"
+    }
+  ],
+  "hub": "transition",
+  "id": "transition-offense",
+  "level": "intermediate",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 6,
+  "related": [
+    "running-lanes",
+    "advance-pass",
+    "transition-defense",
+    "full-court-press"
+  ],
+  "slug": "transition-offense",
+  "subcategory": "transition",
+  "tags": [
+    "transition",
+    "fast break",
+    "offense",
+    "running"
+  ],
+  "title": "Transition Offense",
+  "whatIsIt": [
+    "Transition offense is attacking before the defense gets set — turning a rebound, steal, or even a made basket into a scoring chance in the first few seconds of the possession. It is the fastest, most efficient offense in basketball because it attacks a defense that is outnumbered and disorganized.",
+    "The math is simple: a defense needs about five seconds to get matched up and organized. Every second you attack inside that window, your expected points climb. Great transition teams do not just run fast — they run with structure: defined lanes, a rim runner, and a ball that moves by pass."
+  ],
+  "whyItMatters": [
+    "Transition baskets are the cheapest points in basketball — layups against a scrambling defense instead of contested shots against a set one. Teams that win the transition battle usually win the game, because they score efficiently while forcing the opponent to sprint back on every possession, wearing them down. Teaching transition early builds the habit of playing fast with purpose."
+  ],
+  "vi": {
+    "coachingPoints": [
+      "Ba bước đầu tiên sau khi bắt bóng bật bảng quyết định đợt phản công — chạy nước rút ngay lập tức",
+      "Bóng phải di chuyển bằng đường chuyền, không phải dẫn bóng — đường chuyền nhanh hơn bất kỳ cầu thủ nào",
+      "Lấp đầy các làn rộng và sâu: người chạy rổ ở giữa, các cánh ở làn ngoài",
+      "Tấn công rổ trước, rồi đọc tình huống: layup, chuyền ra, hoặc pull-up",
+      "Nếu không có gì trong 4–5 giây, hãy chuyển sang tấn công sớm — đừng bao giờ cố ép"
+    ],
+    "commonMistakes": [
+      "Dẫn bóng cả đợt phản công thay vì đưa bóng lên bằng đường chuyền",
+      "Mọi người chạy về phía bóng — các làn sụp đổ và hàng thủ hồi phục",
+      "Người chạy rổ chạy bộ — rổ dễ nhất trong bóng rổ biến mất",
+      "Cố ném một cú tệ sớm thay vì chuyển sang đánh nửa sân"
+    ],
+    "description": "Tấn công chuyển trạng thái: biến bắt bóng bật bảng và cướp bóng thành phản công nhanh — chuyền outlet, chạy làn, và tấn công trước khi hàng thủ vào vị trí.",
+    "gameSituations": [
+      "Sau một pha bắt bóng bật bảng phòng thủ — tín hiệu phản công nhanh kinh điển",
+      "Sau một pha cướp bóng hoặc chạm bóng ở sân trống",
+      "Sau một pha block mà đội bạn giành lại bóng",
+      "Sau một cú ném đã vào trước một đội lùi về chậm (phản công đợt hai)"
+    ],
+    "howTo": [
+      {
+        "detail": "Người bắt bóng bật bảng kiểm soát bóng và ngay lập tức nhìn lên sân — cằm ngẩng, khuỷu tay dang ra. Đường chuyền outlet khởi động đợt phản công; một đường outlet chậm sẽ giết chết nó.",
+        "title": "Kiểm soát bóng và nhìn lên"
+      },
+      {
+        "detail": "Hậu vệ gần nhất lao tới vị trí outlet — thường là đường biên dọc ngang vạch ném phạt kéo dài — giơ tay làm mục tiêu và hô xin bóng.",
+        "title": "Chuyền outlet cho hậu vệ"
+      },
+      {
+        "detail": "Các cầu thủ cánh chạy nước rút theo làn ngoài — rộng và sâu, chạm đường biên dọc — trong khi big man (người chạy rổ) chạy thẳng giữa sân tới rổ. Ba làn đường, tốc độ tối đa.",
+        "title": "Chạy nước rút theo các làn"
+      },
+      {
+        "detail": "Đưa bóng lên bằng đường chuyền bất cứ khi nào có thể: outlet cho cánh, cánh cho người chạy rổ. Bóng bay trong không khí nhanh hơn bất kỳ pha dẫn bóng nào.",
+        "title": "Đưa bóng lên bằng đường chuyền"
+      },
+      {
+        "detail": "Tấn công rổ trước tiên: nếu rổ trống, hãy lên layup. Nếu hàng thủ co cụm, chuyền ra cho cầu thủ cánh chạy sau. Nếu hàng thủ hồi phục, hãy ném pull-up hoặc chuyển sang đánh nửa sân.",
+        "title": "Tấn công rổ trước, rồi đọc tình huống"
+      }
+    ],
+    "tags": [
+      "chuyển trạng thái",
+      "phản công nhanh",
+      "tấn công",
+      "chạy"
+    ],
+    "title": "Tấn công chuyển trạng thái",
+    "whatIsIt": [
+      "Tấn công chuyển trạng thái là tấn công trước khi hàng thủ kịp vào vị trí — biến một pha bắt bóng bật bảng, cướp bóng, hay thậm chí một cú ném đã vào thành cơ hội ghi điểm trong vài giây đầu của lượt bóng. Đó là lối tấn công nhanh nhất, hiệu quả nhất trong bóng rổ vì nó tấn công một hàng thủ đang thiếu người và rối loạn.",
+      "Phép tính rất đơn giản: một hàng thủ cần khoảng năm giây để tìm người kèm và tổ chức. Mỗi giây bạn tấn công trong khoảng thời gian đó, số điểm kỳ vọng của bạn tăng lên. Những đội chuyển trạng thái hay không chỉ chạy nhanh — họ chạy có cấu trúc: các làn đường xác định, một người chạy rổ, và quả bóng di chuyển bằng đường chuyền."
+    ],
+    "whyItMatters": [
+      "Những pha ghi điểm trong chuyển trạng thái là những điểm số rẻ nhất trong bóng rổ — những pha layup trước hàng thủ đang rối loạn thay vì những cú ném bị tranh chấp trước hàng thủ đã vào vị trí. Những đội thắng cuộc chiến chuyển trạng thái thường thắng trận, vì họ ghi điểm hiệu quả trong khi ép đối phương phải chạy nước rút về sau mọi lượt bóng, bào mòn họ. Dạy chuyển trạng thái sớm xây dựng thói quen chơi nhanh có mục đích."
+    ]
+  }
+}

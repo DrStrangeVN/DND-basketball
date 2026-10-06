@@ -124,5 +124,61 @@
     "motion-offense",
     "iverson-cut"
   ],
-  "dateUpdated": "2026-10-06"
+  "dateUpdated": "2026-10-06",
+  "vi": {
+    "coachingPoints": [
+      "Miếng đánh đầu tiên hoàn hảo cho các đội trẻ — nó dạy chuyền bóng, chắn bóng và cắt rổ trong một lần tập.",
+      "Yêu cầu pha cắt ở tốc độ tối đa; một pha cắt UCLA chạy bộ không bao giờ thoát được.",
+      "Người chắn phải dựng xong trước khi người cắt tới — hãy tập thời điểm.",
+      "Khen ngợi thói quen chuyền-rồi-cắt ngay cả khi không có pha layup."
+    ],
+    "commonMistakes": [
+      "Đứng ngắm đường chuyền thay vì cắt ngay lập tức.",
+      "Cắt quá rộng quanh tấm chắn, cho hậu vệ khoảng trống để bám theo.",
+      "Cầu thủ cánh giữ bóng quá lâu và bỏ lỡ thời điểm chuyền cho người cắt."
+    ],
+    "description": "Chuyền cho cánh, rồi cắt qua tấm chắn ở high post tới rổ — pha backdoor vượt thời gian của lối chơi đồng đội.",
+    "gameSituations": [
+      "Khi đối đầu những hậu vệ thả lỏng sau khi người họ kèm chuyền bóng.",
+      "Là món tủ cho hàng công trẻ — đơn giản, hiệu quả, mang tính giáo dục.",
+      "Khi hàng thủ kèm các cánh quá sát và khu vực giữa đang mềm."
+    ],
+    "howTo": [
+      {
+        "detail": "Chuyền một đường gọn gàng cho cánh và bước một bước về phía bóng — bước đó khiến đối phương tin rằng bạn đang dọn chỗ.",
+        "title": "Chuyền cho cánh"
+      },
+      {
+        "detail": "Cầu thủ high post dựng tấm chắn vào hậu vệ của bạn. Bứt ra khỏi nó vai-kề-vai, thẳng tới rổ.",
+        "title": "Cắt mạnh qua tấm chắn cao"
+      },
+      {
+        "detail": "Khi cắt, hãy giơ một tay cho người chuyền thấy. Đường chuyền nên đón đầu bạn tới rổ để lên layup.",
+        "title": "Giơ tay làm mục tiêu"
+      },
+      {
+        "detail": "Nếu không có đường chuyền, hãy cắt xuyên qua tới góc đối diện. Đừng dừng lại trong khu vực cấm.",
+        "title": "Chạy xuyên qua nếu bị chặn"
+      },
+      {
+        "detail": "Sau khi chắn, cầu thủ high post có thể pop ra ngoài hoặc roll vào — phản ứng của hàng thủ sẽ quyết định.",
+        "title": "Người chắn: đọc và phản ứng"
+      }
+    ],
+    "tags": [
+      "cắt ucla",
+      "cắt rổ",
+      "backdoor",
+      "cơ bản"
+    ],
+    "title": "Pha cắt UCLA",
+    "whatIsIt": [
+      "Pha cắt UCLA là một trong những miếng đánh lâu đời và đơn giản nhất của bóng rổ: hậu vệ chuyền cho cánh, rồi cắt qua tấm chắn do cầu thủ high post dựng, thẳng tới rổ. Nó được đặt tên theo triều đại UCLA của John Wooden, đội đã chạy nó tới mức hoàn hảo.",
+      "Nó hiệu quả vì hậu vệ tự nhiên thả lỏng sau đường chuyền — người họ kèm vừa bỏ bóng đi, thì còn bám làm gì? Tấm chắn và pha cắt mạnh trừng phạt sự thả lỏng đó bằng một pha layup.",
+      "Mọi cầu thủ nên học pha cắt UCLA từ sớm. Nó dạy hai thói quen làm nên mọi lối chơi không bóng: chuyền rồi di chuyển, và tận dụng tấm chắn có mục đích."
+    ],
+    "whyItMatters": [
+      "Pha cắt UCLA là biểu hiện thuần khiết nhất của bóng rổ đồng đội: bỏ bóng đi, dùng đồng đội, ghi một pha layup. Nó trừng phạt tội lỗi phòng thủ phổ biến nhất — thả lỏng khi không có bóng — và nó hiệu quả ở mọi cấp độ từ giải trẻ đến chuyên nghiệp."
+    ]
+  }
 }

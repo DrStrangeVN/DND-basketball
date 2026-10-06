@@ -1,1 +1,140 @@
-{"ages":["U14","U16","U18","Adult","Competitive"],"coachingPoints":["The pack line is non-negotiable — one defender outside it breaks the whole defense","On-ball pressure must be real; sagging without ball pressure gives up rhythm threes","Closeouts from the pack must be under control — you are closing a longer distance","The pack only works if all five rebound — long shots mean long rebounds","Adjust the pack against elite shooting teams; the line can move out"],"commonMistakes":["Defenders drifting outside the pack line to 'their man' — the gaps disappear","No ball pressure — the offense gets comfortable and picks the pack apart","Closing out wildly from deep help — fouls and blow-bys","Forgetting that pack line still requires boxing out — it is not a zone"],"dateUpdated":"2026-10-06","description":"Pack line defense: sag inside an imaginary line, protect the paint, and force contested jumpers — the system that stops drives.","gameSituations":["Against drive-heavy teams that live in the paint","When your roster is less athletic but disciplined","To protect a lead — it bleeds the clock and forces jumpers","As a base defense for youth teams learning help principles"],"howTo":[{"detail":"Imagine a line about two meters inside the three-point arc — the 'pack line.' Off-ball defenders never go outside it. This packs five defenders into the scoring area.","title":"Establish the pack line"},{"detail":"The on-ball defender pressures the ball hard — no easy passes, no comfortable dribbles. The pack behind him allows aggressive ball pressure because help is always near.","title":"Pressure the ball handler"},{"detail":"Every off-ball defender plays one big gap inside the pack line, seeing both ball and man. The paint is always crowded; driving lanes do not exist.","title":"Play big gaps inside the line"},{"detail":"When the ball is passed out, defenders close out from the pack — under control, high hands — then recover back inside the line on the next pass.","title":"Close out, then sink back"},{"detail":"Because the defense concedes perimeter shots, it must dominate the glass. Every defender boxes out; the pack gives inside position to start.","title":"Finish possessions with rebounds"}],"hub":"defense","id":"pack-line-defense","level":"advanced","positions":["ALL"],"readTime":6,"related":["man-to-man-defense","gap-defense","help-defense","zone-2-3","transition-defense"],"slug":"pack-line-defense","subcategory":"defensive-systems","tags":["defense","pack line","team defense","system"],"title":"Pack Line Defense","whatIsIt":["Pack line defense is a sagging man-to-man system built on one rule: off-ball defenders stay inside an imaginary 'pack line' about two meters inside the three-point arc. Everyone packs into the paint area, daring the offense to beat them with jump shots.","It is man-to-man with training wheels for help: because everyone starts inside, help is always close, driving lanes never open, and the defense always has numbers at the rim. The trade-off is obvious — it concedes three-point attempts — but it concedes them as contested, rhythm-breaking shots after the offense has been frustrated inside."],"whyItMatters":["Most amateur and youth offenses cannot win shooting contested jumpers all game — they win on layups and open threes created by drives. Pack line takes away exactly those shots. It is also the best teaching system in basketball: it forces players to learn gaps, help, closeouts, and communication in their simplest form."]}
+{
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult",
+    "Competitive"
+  ],
+  "coachingPoints": [
+    "The pack line is non-negotiable — one defender outside it breaks the whole defense",
+    "On-ball pressure must be real; sagging without ball pressure gives up rhythm threes",
+    "Closeouts from the pack must be under control — you are closing a longer distance",
+    "The pack only works if all five rebound — long shots mean long rebounds",
+    "Adjust the pack against elite shooting teams; the line can move out"
+  ],
+  "commonMistakes": [
+    "Defenders drifting outside the pack line to 'their man' — the gaps disappear",
+    "No ball pressure — the offense gets comfortable and picks the pack apart",
+    "Closing out wildly from deep help — fouls and blow-bys",
+    "Forgetting that pack line still requires boxing out — it is not a zone"
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "Pack line defense: sag inside an imaginary line, protect the paint, and force contested jumpers — the system that stops drives.",
+  "gameSituations": [
+    "Against drive-heavy teams that live in the paint",
+    "When your roster is less athletic but disciplined",
+    "To protect a lead — it bleeds the clock and forces jumpers",
+    "As a base defense for youth teams learning help principles"
+  ],
+  "howTo": [
+    {
+      "detail": "Imagine a line about two meters inside the three-point arc — the 'pack line.' Off-ball defenders never go outside it. This packs five defenders into the scoring area.",
+      "title": "Establish the pack line"
+    },
+    {
+      "detail": "The on-ball defender pressures the ball hard — no easy passes, no comfortable dribbles. The pack behind him allows aggressive ball pressure because help is always near.",
+      "title": "Pressure the ball handler"
+    },
+    {
+      "detail": "Every off-ball defender plays one big gap inside the pack line, seeing both ball and man. The paint is always crowded; driving lanes do not exist.",
+      "title": "Play big gaps inside the line"
+    },
+    {
+      "detail": "When the ball is passed out, defenders close out from the pack — under control, high hands — then recover back inside the line on the next pass.",
+      "title": "Close out, then sink back"
+    },
+    {
+      "detail": "Because the defense concedes perimeter shots, it must dominate the glass. Every defender boxes out; the pack gives inside position to start.",
+      "title": "Finish possessions with rebounds"
+    }
+  ],
+  "hub": "defense",
+  "id": "pack-line-defense",
+  "level": "advanced",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 6,
+  "related": [
+    "man-to-man-defense",
+    "gap-defense",
+    "help-defense",
+    "zone-2-3",
+    "transition-defense"
+  ],
+  "slug": "pack-line-defense",
+  "subcategory": "defensive-systems",
+  "tags": [
+    "defense",
+    "pack line",
+    "team defense",
+    "system"
+  ],
+  "title": "Pack Line Defense",
+  "whatIsIt": [
+    "Pack line defense is a sagging man-to-man system built on one rule: off-ball defenders stay inside an imaginary 'pack line' about two meters inside the three-point arc. Everyone packs into the paint area, daring the offense to beat them with jump shots.",
+    "It is man-to-man with training wheels for help: because everyone starts inside, help is always close, driving lanes never open, and the defense always has numbers at the rim. The trade-off is obvious — it concedes three-point attempts — but it concedes them as contested, rhythm-breaking shots after the offense has been frustrated inside."
+  ],
+  "whyItMatters": [
+    "Most amateur and youth offenses cannot win shooting contested jumpers all game — they win on layups and open threes created by drives. Pack line takes away exactly those shots. It is also the best teaching system in basketball: it forces players to learn gaps, help, closeouts, and communication in their simplest form."
+  ],
+  "vi": {
+    "title": "Phòng Thủ Pack Line",
+    "description": "Phòng thủ pack line: co vào trong một đường tưởng tượng, bảo vệ vùng paint, ép đối thủ ném xa bị contest — hệ thống chặn đột phá.",
+    "whatIsIt": [
+      "Pack line là hệ thống kèm người co sâu (sagging man-to-man) xây dựng trên một quy tắc: hậu vệ không kèm bóng luôn đứng trong một 'đường pack' tưởng tượng, cách vạch 3 điểm khoảng hai mét vào trong. Cả năm người co vào khu vực paint, thách đối phương thắng bằng ném xa.",
+      "Đó là kèm người nhưng hỗ trợ dễ hơn: vì mọi người xuất phát từ bên trong, hỗ trợ luôn ở gần, đường đột phá không bao giờ mở, và phòng thủ luôn đủ người ở rổ. Đánh đổi là rõ ràng — nhường những cú ném 3 điểm — nhưng đó là những cú ném bị contest, phá nhịp, sau khi đối phương đã bất lực trong paint."
+    ],
+    "whyItMatters": [
+      "Hầu hết các đội tấn công nghiệp dư và trẻ không thể thắng bằng cách ném những cú jumper bị contest cả trận — họ thắng bằng layup và những cú 3 điểm trống từ đột phá. Pack line lấy đi chính những cú ném đó. Đây cũng là hệ thống dạy phòng thủ tốt nhất: nó buộc cầu thủ học gap, hỗ trợ, closeout và giao tiếp ở dạng đơn giản nhất."
+    ],
+    "howTo": [
+      {
+        "title": "Xác định đường pack",
+        "detail": "Tưởng tượng một đường cách vạch 3 điểm khoảng hai mét vào trong — 'đường pack'. Hậu vệ không kèm bóng không bao giờ ra ngoài đường này. Năm hậu vệ co vào khu vực ghi điểm."
+      },
+      {
+        "title": "Gây áp lực lên người giữ bóng",
+        "detail": "Hậu vệ kèm bóng ép mạnh — không đường chuyền dễ, không dẫn bóng thoải mái. Hàng pack phía sau cho phép ép bóng quyết liệt vì hỗ trợ luôn ở gần."
+      },
+      {
+        "title": "Đứng gap lớn trong đường pack",
+        "detail": "Mỗi hậu vệ không kèm bóng đứng một gap lớn trong đường pack, vừa thấy bóng vừa thấy người. Vùng paint luôn đông; đường đột phá không tồn tại."
+      },
+      {
+        "title": "Closeout rồi co lại",
+        "detail": "Khi bóng được chuyền ra ngoài, hậu vệ closeout từ hàng pack — kiểm soát, tay cao — rồi co lại trong đường pack ở đường chuyền tiếp theo."
+      },
+      {
+        "title": "Kết thúc bằng rebound",
+        "detail": "Vì phòng thủ nhường ném xa, phải áp đảo ở tranh bóng bật bảng. Mọi hậu vệ đều box out; hàng pack cho vị trí bên trong ngay từ đầu."
+      }
+    ],
+    "coachingPoints": [
+      "Đường pack là bất khả xâm phạm — một hậu vệ ra ngoài là cả hệ thống vỡ",
+      "Áp lực lên bóng phải thật; co sâu mà không ép bóng là tặng đối thủ ném ba nhịp nhàng",
+      "Closeout từ hàng pack phải kiểm soát — bạn đang đóng một khoảng cách xa hơn",
+      "Pack chỉ hiệu quả khi cả năm người rebound — ném xa nghĩa là bóng bật xa",
+      "Điều chỉnh đường pack trước đội ném giỏi; đường này có thể dịch ra ngoài"
+    ],
+    "commonMistakes": [
+      "Hậu vệ trôi ra ngoài đường pack để 'kèm người của mình' — các gap biến mất",
+      "Không ép bóng — đối phương thoải mái và xé nát hàng pack",
+      "Closeout ẩu từ vị trí hỗ trợ sâu — phạm lỗi và bị vượt mặt",
+      "Quên rằng pack line vẫn phải box out — đây không phải zone"
+    ],
+    "gameSituations": [
+      "Chống đội chuyên đột phá, sống trong paint",
+      "Khi đội hình kém thể lực hơn nhưng kỷ luật",
+      "Để bảo vệ cách biệt — nó bào mòn đồng hồ và ép đối thủ ném xa",
+      "Làm phòng thủ nền cho đội trẻ học nguyên tắc hỗ trợ"
+    ],
+    "tags": [
+      "phòng thủ",
+      "pack line",
+      "phòng thủ đồng đội",
+      "hệ thống"
+    ]
+  }
+}

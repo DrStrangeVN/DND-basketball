@@ -1,1 +1,139 @@
-{"ages":["U12","U14","U16","U18","Adult","Competitive"],"coachingPoints":["Throw it as early as possible — the pass beats the defense only if it's quick","Step into the throw and follow through at the target — no lazy flicks","The target should be ahead of the receiver, leading him into the catch","If the deep pass isn't there, take the safe outlet — a turnover kills the break","Receivers: catch on the run with hands ready, eyes up"],"commonMistakes":["Holding the ball too long — the defense gets back while you decide","Throwing to where the player is instead of where he's going","Forcing the home-run pass into traffic — a turnover worse than no break","The receiver not looking — the perfect pass hits the back of his head"],"dateUpdated":"2026-10-06","description":"The advance pass: throw the ball ahead of the break to beat the defense down the floor — timing, targets, and technique.","gameSituations":["Right after a defensive rebound when a wing is already sprinting","After a steal with numbers ahead of the ball","The quarterback-style outlet that skips a whole level of the defense","When the dribbler is trapped and the pass is the only escape"],"howTo":[{"detail":"The instant you secure the ball — rebound, steal, or outlet catch — get your eyes upcourt. The advance pass only works in the first two seconds; after that, the defense is back.","title":"Look up immediately"},{"detail":"Find the teammate farthest down the court with an open lane ahead of him. That is your target — not the player nearest you, but the one who can hurt the defense.","title":"Find the deepest open teammate"},{"detail":"Throw a firm, flat pass — usually a two-handed overhead or a strong one-handed push — that leads the receiver. Aim for the spot two steps ahead of him, at chest height.","title":"Throw ahead of the runner"},{"detail":"Step toward the target and follow through. A rushed, off-balance heave floats and gets picked off; a balanced throw arrives on time.","title":"Step in and follow through"},{"detail":"If the deep lane is covered, don't force it — hit the safe outlet and let the break continue. The advance pass is a weapon, not a requirement.","title":"Take the safe option if it's covered"}],"hub":"transition","id":"advance-pass","level":"intermediate","positions":["ALL"],"readTime":5,"related":["transition-offense","running-lanes","transition-defense"],"slug":"advance-pass","subcategory":"transition","tags":["transition","passing","fast break","outlet"],"title":"The Advance Pass","whatIsIt":["The advance pass is the long, early pass that moves the ball ahead of the defense in transition — the outlet that becomes a break, the cross-court throw that skips a defender, the quarterback pass that turns a rebound into a layup in three seconds.","It is the single fastest way to advance the ball: no dribble, no matter how fast, beats a well-thrown pass through the air. Teams that throw the advance pass well play at a speed defenses cannot match; teams that don't are forced to dribble into a set defense every possession."],"whyItMatters":["One great advance pass is worth five good dribbles. It collapses the defense's recovery, creates numbers advantages, and produces the easiest shots in basketball. But it is also the highest-risk pass in transition — a bad one is a turnover going the other way. Learning when to throw it, and when to hold it, is what separates fast teams from reckless ones."]}
+{
+  "ages": [
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult",
+    "Competitive"
+  ],
+  "coachingPoints": [
+    "Throw it as early as possible — the pass beats the defense only if it's quick",
+    "Step into the throw and follow through at the target — no lazy flicks",
+    "The target should be ahead of the receiver, leading him into the catch",
+    "If the deep pass isn't there, take the safe outlet — a turnover kills the break",
+    "Receivers: catch on the run with hands ready, eyes up"
+  ],
+  "commonMistakes": [
+    "Holding the ball too long — the defense gets back while you decide",
+    "Throwing to where the player is instead of where he's going",
+    "Forcing the home-run pass into traffic — a turnover worse than no break",
+    "The receiver not looking — the perfect pass hits the back of his head"
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "The advance pass: throw the ball ahead of the break to beat the defense down the floor — timing, targets, and technique.",
+  "gameSituations": [
+    "Right after a defensive rebound when a wing is already sprinting",
+    "After a steal with numbers ahead of the ball",
+    "The quarterback-style outlet that skips a whole level of the defense",
+    "When the dribbler is trapped and the pass is the only escape"
+  ],
+  "howTo": [
+    {
+      "detail": "The instant you secure the ball — rebound, steal, or outlet catch — get your eyes upcourt. The advance pass only works in the first two seconds; after that, the defense is back.",
+      "title": "Look up immediately"
+    },
+    {
+      "detail": "Find the teammate farthest down the court with an open lane ahead of him. That is your target — not the player nearest you, but the one who can hurt the defense.",
+      "title": "Find the deepest open teammate"
+    },
+    {
+      "detail": "Throw a firm, flat pass — usually a two-handed overhead or a strong one-handed push — that leads the receiver. Aim for the spot two steps ahead of him, at chest height.",
+      "title": "Throw ahead of the runner"
+    },
+    {
+      "detail": "Step toward the target and follow through. A rushed, off-balance heave floats and gets picked off; a balanced throw arrives on time.",
+      "title": "Step in and follow through"
+    },
+    {
+      "detail": "If the deep lane is covered, don't force it — hit the safe outlet and let the break continue. The advance pass is a weapon, not a requirement.",
+      "title": "Take the safe option if it's covered"
+    }
+  ],
+  "hub": "transition",
+  "id": "advance-pass",
+  "level": "intermediate",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 5,
+  "related": [
+    "transition-offense",
+    "running-lanes",
+    "transition-defense"
+  ],
+  "slug": "advance-pass",
+  "subcategory": "transition",
+  "tags": [
+    "transition",
+    "passing",
+    "fast break",
+    "outlet"
+  ],
+  "title": "The Advance Pass",
+  "whatIsIt": [
+    "The advance pass is the long, early pass that moves the ball ahead of the defense in transition — the outlet that becomes a break, the cross-court throw that skips a defender, the quarterback pass that turns a rebound into a layup in three seconds.",
+    "It is the single fastest way to advance the ball: no dribble, no matter how fast, beats a well-thrown pass through the air. Teams that throw the advance pass well play at a speed defenses cannot match; teams that don't are forced to dribble into a set defense every possession."
+  ],
+  "whyItMatters": [
+    "One great advance pass is worth five good dribbles. It collapses the defense's recovery, creates numbers advantages, and produces the easiest shots in basketball. But it is also the highest-risk pass in transition — a bad one is a turnover going the other way. Learning when to throw it, and when to hold it, is what separates fast teams from reckless ones."
+  ],
+  "vi": {
+    "coachingPoints": [
+      "Chuyền càng sớm càng tốt — đường chuyền chỉ thắng được hàng thủ khi nó đủ nhanh",
+      "Bước tới khi chuyền và vung tay theo đà về phía mục tiêu — không vẩy bóng hời hợt",
+      "Điểm đến của bóng phải ở phía trước người nhận, dẫn anh ta vào tư thế bắt bóng",
+      "Nếu không có đường chuyền sâu, hãy chuyền outlet an toàn — một pha mất bóng giết chết đợt phản công",
+      "Người nhận bóng: bắt bóng khi đang chạy, tay sẵn sàng, mắt ngẩng lên"
+    ],
+    "commonMistakes": [
+      "Giữ bóng quá lâu — hàng thủ kịp lui về trong lúc bạn còn chần chừ",
+      "Chuyền vào vị trí người nhận đang đứng thay vì vị trí anh ta sắp tới",
+      "Cố chuyền đường bóng dài vào giữa đám đông — mất bóng còn tệ hơn không phản công",
+      "Người nhận không quan sát — đường chuyền hoàn hảo đập vào gáy anh ta"
+    ],
+    "description": "Đường chuyền advance pass: đưa bóng vượt lên trước đợt phản công để đánh bại hàng phòng ngự — thời điểm, mục tiêu và kỹ thuật.",
+    "gameSituations": [
+      "Ngay sau khi bắt bóng bật bảng phòng thủ, khi một cầu thủ cánh đã bứt tốc",
+      "Sau một pha cướp bóng khi đang hơn người phía trước bóng",
+      "Đường outlet kiểu quarterback vượt qua cả một tuyến phòng ngự",
+      "Khi người dẫn bóng bị kẹp và đường chuyền là lối thoát duy nhất"
+    ],
+    "howTo": [
+      {
+        "detail": "Ngay khi bạn kiểm soát được bóng — bắt bóng bật bảng, cướp bóng hay nhận đường outlet — hãy đưa mắt nhìn lên sân đối phương. Advance pass chỉ hiệu quả trong hai giây đầu tiên; sau đó, hàng thủ đã lui về.",
+        "title": "Ngẩng đầu quan sát ngay lập tức"
+      },
+      {
+        "detail": "Tìm đồng đội đang ở sâu nhất bên phần sân đối phương mà phía trước còn khoảng trống. Đó là mục tiêu của bạn — không phải người gần nhất, mà là người có thể gây sát thương cho hàng thủ.",
+        "title": "Tìm đồng đội trống trải ở sâu nhất"
+      },
+      {
+        "detail": "Chuyền một đường bóng chắc, căng — thường là chuyền hai tay qua đầu hoặc đẩy mạnh một tay — đón đầu người nhận. Nhắm vào điểm cách người nhận hai bước chân, ngang tầm ngực.",
+        "title": "Chuyền đón đầu người chạy"
+      },
+      {
+        "detail": "Bước về phía mục tiêu và vung tay theo đà. Một cú ném vội, mất thăng bằng sẽ bồng bềnh và bị cắt; một cú chuyền cân bằng sẽ đến đúng lúc.",
+        "title": "Bước tới và vung tay theo đà"
+      },
+      {
+        "detail": "Nếu đường chuyền sâu bị bịt kín, đừng cố — hãy chuyền outlet an toàn và để đợt phản công tiếp tục. Advance pass là một vũ khí, không phải nghĩa vụ.",
+        "title": "Chọn phương án an toàn nếu bị kèm"
+      }
+    ],
+    "tags": [
+      "chuyển trạng thái",
+      "chuyền bóng",
+      "fast break",
+      "chuyền outlet"
+    ],
+    "title": "Đường Chuyền Vượt Tuyến",
+    "whatIsIt": [
+      "Advance pass là đường chuyền dài, chuyền sớm để đưa bóng vượt lên trước hàng phòng ngự trong tình huống chuyển trạng thái — đường outlet mở ra đợt phản công, đường chuyền chéo sân vượt qua một hậu vệ, hay đường chuyền kiểu quarterback biến một pha bắt bóng bật bảng thành một pha layup chỉ trong ba giây.",
+      "Đây là cách đưa bóng lên nhanh nhất: không cú dẫn bóng nào, dù nhanh đến đâu, có thể thắng được một đường chuyền tốt bay trong không khí. Những đội chuyền advance pass tốt chơi với tốc độ mà hàng phòng ngự không thể theo kịp; những đội không làm được thì mỗi lần tấn công đều phải dẫn bóng vào thế phòng ngự đã bày sẵn."
+    ],
+    "whyItMatters": [
+      "Một đường advance pass xuất sắc đáng giá bằng năm pha dẫn bóng tốt. Nó phá vỡ sự lui về của hàng thủ, tạo lợi thế hơn người và mang lại những cú ném dễ nhất trong bóng rổ. Nhưng đây cũng là đường chuyền rủi ro nhất trong chuyển trạng thái — một đường chuyền hỏng là một pha mất bóng ngay lập tức. Học khi nào nên chuyền và khi nào nên giữ bóng là điều phân biệt đội bóng nhanh với đội bóng liều lĩnh."
+    ]
+  }
+}

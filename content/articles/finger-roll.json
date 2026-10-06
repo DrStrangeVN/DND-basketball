@@ -1,1 +1,138 @@
-{"ages":["U12","U14","U16","U18","Adult"],"coachingPoints":["Roll the ball off the index and middle fingertips last — that's what creates backspin and soft touch.","Extend fully: the finger roll works because the ball releases at the peak of your reach.","Keep the wrist loose; a stiff wrist turns the finger roll into a push.","Don't reach around the defender — release at your highest point to avoid blocks.","Use it when you have a step on the defender, not when you're still shoulder-to-shoulder."],"commonMistakes":["Flinging the ball upward from the chest — finger rolls release high, not from low.","No follow-through — dead fingers equal no spin and a hard, clanking finish.","Using it in heavy traffic — the extended arm gets stripped when a second defender arrives.","Leaning back during release — kills your reach advantage; stay tall."],"dateUpdated":"2026-10-06","description":"The high-arching, fingertip finish that floats over shot blockers — maximum reach with maximum softness.","gameSituations":["Beating your defender cleanly on a drive — extend past them and release where they can't reach.","Transition layups when a trailer defender is chasing — release early and high.","Against smaller rim protectors — just go over the top with full extension."],"howTo":[{"detail":"Attack the basket with a clear step on your defender. The finger roll needs a small window of open space — it's not a contested move.","title":"Beat your man off the drive"},{"detail":"Approach from either side and pick up the ball. Keep the ball high in your hand, palm under or behind the ball, fingers spread.","title":"Gather with fingers spread"},{"detail":"Rise off the correct foot (right-hand finish: jump off the left foot). Drive the knee up and extend your shooting arm fully toward the ceiling.","title":"Jump and extend fully"},{"detail":"At the top of your jump, let the ball roll off your fingertips — index and middle fingers last — with the wrist snapping gently forward. The ball should leave with backspin, not a flat toss.","title":"Roll it off the fingertips"},{"detail":"Aim to drop the ball gently over the front of the rim with a high arc. The backspin deadens the bounce — even if it clips iron, it drops instead of bouncing away.","title":"Finish soft over the front rim"}],"hub":"skills","id":"finger-roll","level":"intermediate","positions":["ALL"],"readTime":5,"related":["basic-layup","reverse-layup","runner-floater","euro-step","power-finish"],"slug":"finger-roll","subcategory":"finishing","tags":["layup","finishing","touch","extension"],"title":"Finger Roll","whatIsIt":["The finger roll is a high-extension layup released from the fingertips at the top of the player's reach, with the ball rolling softly over the rim. Made famous by George Gervin's 'Iceman' finishes, it's the prettiest finish in basketball — and one of the most effective against late-arriving shot blockers.","What separates it from a regular layup is the release point and the roll: the ball floats off the fingers with backspin, dropping over the front of the rim where a blocker's hand can't reach in time."],"whyItMatters":["Shot blockers time their jumps to the ball's arrival at the rim. A finger roll arrives earlier, higher, and softer than a standard layup — it beats the blocker's timing and uses the rim's front edge as protection. Guards who master it finish over much bigger defenders."]}
+{
+  "ages": [
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "coachingPoints": [
+    "Roll the ball off the index and middle fingertips last — that's what creates backspin and soft touch.",
+    "Extend fully: the finger roll works because the ball releases at the peak of your reach.",
+    "Keep the wrist loose; a stiff wrist turns the finger roll into a push.",
+    "Don't reach around the defender — release at your highest point to avoid blocks.",
+    "Use it when you have a step on the defender, not when you're still shoulder-to-shoulder."
+  ],
+  "commonMistakes": [
+    "Flinging the ball upward from the chest — finger rolls release high, not from low.",
+    "No follow-through — dead fingers equal no spin and a hard, clanking finish.",
+    "Using it in heavy traffic — the extended arm gets stripped when a second defender arrives.",
+    "Leaning back during release — kills your reach advantage; stay tall."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "The high-arching, fingertip finish that floats over shot blockers — maximum reach with maximum softness.",
+  "gameSituations": [
+    "Beating your defender cleanly on a drive — extend past them and release where they can't reach.",
+    "Transition layups when a trailer defender is chasing — release early and high.",
+    "Against smaller rim protectors — just go over the top with full extension."
+  ],
+  "howTo": [
+    {
+      "detail": "Attack the basket with a clear step on your defender. The finger roll needs a small window of open space — it's not a contested move.",
+      "title": "Beat your man off the drive"
+    },
+    {
+      "detail": "Approach from either side and pick up the ball. Keep the ball high in your hand, palm under or behind the ball, fingers spread.",
+      "title": "Gather with fingers spread"
+    },
+    {
+      "detail": "Rise off the correct foot (right-hand finish: jump off the left foot). Drive the knee up and extend your shooting arm fully toward the ceiling.",
+      "title": "Jump and extend fully"
+    },
+    {
+      "detail": "At the top of your jump, let the ball roll off your fingertips — index and middle fingers last — with the wrist snapping gently forward. The ball should leave with backspin, not a flat toss.",
+      "title": "Roll it off the fingertips"
+    },
+    {
+      "detail": "Aim to drop the ball gently over the front of the rim with a high arc. The backspin deadens the bounce — even if it clips iron, it drops instead of bouncing away.",
+      "title": "Finish soft over the front rim"
+    }
+  ],
+  "hub": "skills",
+  "id": "finger-roll",
+  "level": "intermediate",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 5,
+  "related": [
+    "basic-layup",
+    "reverse-layup",
+    "runner-floater",
+    "euro-step",
+    "power-finish"
+  ],
+  "slug": "finger-roll",
+  "subcategory": "finishing",
+  "tags": [
+    "layup",
+    "finishing",
+    "touch",
+    "extension"
+  ],
+  "title": "Finger Roll",
+  "whatIsIt": [
+    "The finger roll is a high-extension layup released from the fingertips at the top of the player's reach, with the ball rolling softly over the rim. Made famous by George Gervin's 'Iceman' finishes, it's the prettiest finish in basketball — and one of the most effective against late-arriving shot blockers.",
+    "What separates it from a regular layup is the release point and the roll: the ball floats off the fingers with backspin, dropping over the front of the rim where a blocker's hand can't reach in time."
+  ],
+  "whyItMatters": [
+    "Shot blockers time their jumps to the ball's arrival at the rim. A finger roll arrives earlier, higher, and softer than a standard layup — it beats the blocker's timing and uses the rim's front edge as protection. Guards who master it finish over much bigger defenders."
+  ],
+  "vi": {
+    "title": "Finger Roll",
+    "description": "Cú kết thúc bằng đầu ngón tay với vòng cung cao, bay qua các tay block — tầm với tối đa với độ mềm tối đa.",
+    "whatIsIt": [
+      "Finger roll là một cú layup duỗi tay cao, bóng rời khỏi đầu ngón tay ở điểm cao nhất trong tầm với của cầu thủ, cuộn nhẹ nhàng qua rổ. Nổi tiếng nhờ những cú kết thúc 'Iceman' của George Gervin, đây là cú kết thúc đẹp nhất trong bóng rổ — và cũng là một trong những cú hiệu quả nhất trước những tay block đến muộn.",
+      "Điểm khác biệt với layup thường là điểm thả bóng và độ cuộn: bóng bay khỏi các ngón tay với xoáy ngược, rơi qua mép trước của rổ nơi tay của người block không kịp với tới."
+    ],
+    "whyItMatters": [
+      "Các tay block căn thời gian nhảy theo lúc bóng đến rổ. Một cú finger roll đến sớm hơn, cao hơn, và mềm hơn một cú layup thông thường — nó đánh bại thời điểm của người block và dùng mép trước của rổ làm lá chắn. Những hậu vệ làm chủ được nó sẽ kết thúc qua những đối thủ to hơn rất nhiều."
+    ],
+    "howTo": [
+      {
+        "title": "Vượt mặt hậu vệ từ pha đột phá",
+        "detail": "Tấn công rổ khi đã vượt qua hậu vệ một bước rõ ràng. Finger roll cần một khoảng trống nhỏ — nó không phải đòn đánh khi bị kèm chặt."
+      },
+      {
+        "title": "Thu bóng với các ngón tay xòe",
+        "detail": "Tiếp cận từ hai bên và thu bóng. Giữ bóng cao trong tay, lòng bàn tay đỡ dưới hoặc sau bóng, các ngón tay xòe rộng."
+      },
+      {
+        "title": "Nhảy và duỗi hết cỡ",
+        "detail": "Bật lên từ chân đúng (kết thúc tay phải: nhảy bằng chân trái). Đẩy gối lên và duỗi thẳng tay ném về phía trần nhà."
+      },
+      {
+        "title": "Cuộn bóng khỏi đầu ngón tay",
+        "detail": "Ở đỉnh cú nhảy, để bóng cuộn khỏi đầu ngón tay — ngón trỏ và ngón giữa rời bóng cuối cùng — cổ tay bẻ nhẹ về phía trước. Bóng phải rời tay với xoáy ngược, không phải một cú hất ngang."
+      },
+      {
+        "title": "Kết thúc mềm qua mép trước rổ",
+        "detail": "Nhắm thả bóng nhẹ nhàng qua mép trước của rổ với vòng cung cao. Xoáy ngược làm chết độ nảy — dù bóng có chạm vành, nó cũng rơi xuống thay vì nảy ra ngoài."
+      }
+    ],
+    "coachingPoints": [
+      "Cuộn bóng khỏi đầu ngón trỏ và ngón giữa cuối cùng — đó là thứ tạo ra xoáy ngược và độ mềm.",
+      "Duỗi hết cỡ: finger roll hiệu quả vì bóng rời tay ở đỉnh tầm với của bạn.",
+      "Giữ cổ tay lỏng; cổ tay cứng biến finger roll thành một cú đẩy.",
+      "Đừng với tay vòng qua hậu vệ — thả bóng ở điểm cao nhất để tránh bị block.",
+      "Dùng nó khi bạn đã vượt qua hậu vệ một bước, không phải khi vẫn đang kè vai sát vai."
+    ],
+    "commonMistakes": [
+      "Hất bóng lên từ ngang ngực — finger roll thả bóng từ trên cao, không phải từ thấp.",
+      "Không follow-through — ngón tay 'chết' thì không có xoáy và cú kết thúc sẽ cứng, nảy vành.",
+      "Dùng nó giữa đám đông — cánh tay duỗi ra sẽ bị cướp bóng khi hậu vệ thứ hai ập đến.",
+      "Ngả người ra sau khi thả bóng — giết chết lợi thế tầm với; hãy giữ người thẳng."
+    ],
+    "gameSituations": [
+      "Vượt sạch hậu vệ trong pha đột phá — duỗi tay qua họ và thả bóng nơi họ không với tới.",
+      "Layup trong fast break khi một hậu vệ đuổi theo phía sau — thả bóng sớm và cao.",
+      "Trước những tay bảo vệ rổ thấp bé hơn — cứ vươn qua đầu họ với tầm duỗi tối đa."
+    ],
+    "tags": [
+      "layup",
+      "kết thúc",
+      "cảm giác bóng",
+      "duỗi tay"
+    ]
+  }
+}
