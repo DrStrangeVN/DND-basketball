@@ -1,5 +1,5 @@
 "use client";
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import Link from "next/link";
 import {
   ArrowRight, Clock, Dumbbell, BatteryCharging, Salad, Droplets, ShieldPlus,
@@ -161,6 +161,14 @@ export default function PerfHubPage({ hubId, articles }: { hubId: PerfHubId; art
   const [phase, setPhase] = useState<string | null>(null);
   const [goal, setGoal] = useState<string | null>(null);
   const [scenario, setScenario] = useState<string | null>(null);
+
+  /* Deep-link support: /performance/[hub]?cat=post-game preselects the category filter. */
+  useEffect(() => {
+    try {
+      const cat = new URLSearchParams(window.location.search).get("cat");
+      if (cat && articles.some((a) => a.category === cat)) setCategory(cat);
+    } catch { /* ignore */ }
+  }, [articles]);
 
   const categories = useMemo(() => {
     const map = new Map<string, PerformanceArticle[]>();
