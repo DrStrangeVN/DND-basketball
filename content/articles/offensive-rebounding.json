@@ -21,6 +21,42 @@
   ],
   "dateUpdated": "2026-10-06",
   "description": "Create extra possessions: crash timing, weak-side angles, and quick putbacks.",
+  "diagram": {
+    "title": "Offensive rebounding: time the crash and finish",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 64,
+        "y": 55
+      },
+      {
+        "label": "O2",
+        "x": 44,
+        "y": 24
+      }
+    ],
+    "defense": [
+      {
+        "label": "X1",
+        "x": 50,
+        "y": 20
+      }
+    ],
+    "ball": "O1",
+    "moves": [
+      {
+        "from": "O2",
+        "to": "rim",
+        "kind": "cut"
+      }
+    ],
+    "shots": [
+      {
+        "x": 64,
+        "y": 55
+      }
+    ]
+  },
   "gameSituations": [
     "When your team shoots — the two weak-side players crash hardest.",
     "Putback situations — tip it in if you can't secure it cleanly.",

@@ -3,6 +3,71 @@
   "slug": "shell-drill-4v4",
   "title": "Shell Drill 4v4",
   "description": "The classic team defense builder: 4v4 shell with ball rotations, closeouts, help positioning, and skip-pass recoveries — the foundation of every great defense.",
+  "diagram": {
+    "title": "Shell 4v4: shift on every pass",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 30,
+        "y": 35
+      },
+      {
+        "label": "O2",
+        "x": 45,
+        "y": 30
+      },
+      {
+        "label": "O3",
+        "x": 55,
+        "y": 30
+      },
+      {
+        "label": "O4",
+        "x": 70,
+        "y": 35
+      }
+    ],
+    "defense": [
+      {
+        "label": "X1",
+        "x": 32,
+        "y": 28
+      },
+      {
+        "label": "X2",
+        "x": 45,
+        "y": 24
+      },
+      {
+        "label": "X3",
+        "x": 55,
+        "y": 24
+      },
+      {
+        "label": "X4",
+        "x": 68,
+        "y": 28
+      }
+    ],
+    "ball": "O1",
+    "passes": [
+      {
+        "from": "O1",
+        "to": "O2"
+      },
+      {
+        "from": "O2",
+        "to": "O4"
+      }
+    ],
+    "moves": [
+      {
+        "from": "X4",
+        "to": "O4",
+        "kind": "move"
+      }
+    ]
+  },
   "skill": "Defense",
   "level": "intermediate",
   "ages": [

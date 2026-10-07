@@ -17,6 +17,7 @@ export const metadata: Metadata = {
 
 const HUB_ORDER: PerfHubId[] = [
   "athletic-performance", "recovery", "nutrition", "hydration", "injury-prevention",
+  "mental-performance",
 ];
 
 export default function Page() {

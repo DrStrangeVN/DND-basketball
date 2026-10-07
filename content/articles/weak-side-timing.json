@@ -1,63 +1,195 @@
-{"ages":["U14","U16","U18","Adult"],"coachingPoints":["Cut on the ball handler's second dribble toward you, not on the catch — late cuts arrive after the help resets.","If your defender turns their head to the ball, cut immediately; a blind defender can't recover.","Relocate to where the defense just left, not where you were standing — the open spot moves with the rotation.","After a corner lift, be ready to shoot on the catch — feet set, hands ready, no extra dribbles.","Time your cut so you arrive as the pass arrives — a cut that arrives early stands still and gets covered."],"commonMistakes":["Standing still on the weak side while the ball handler creates an advantage — wasted numbers.","Cutting too early, before the defense commits, so your defender follows you and clogs the lane.","Cutting into the ball handler's drive line and bringing your defender into the play.","Relocating to a spot another teammate already filled — two players, one spot, zero spacing."],"dateUpdated":"2026-10-06","description":"The art of moving without the ball on the weak side: when to cut, when to relocate, and how to time it with the ball handler's advantage.","gameSituations":["Pick and roll on the right side — the weak-side wing times a backdoor cut as the nail defender stunts.","Drive and kick to the corner — the weak-side slot lifts to the top as the low help rotates to the corner.","Post-up with a double team coming — the weak-side wing cuts behind the double as it commits.","Transition into half-court — the trailer relocates from the top to the slot as the defense loads to the ball."],"howTo":[{"detail":"The weak side is decided the moment the ball handler creates an advantage — the first dribble past the defender, or the first second the help defender turns their head. Cut on the ball handler's second dribble toward the basket, not on the catch. If you cut on the catch, you arrive while the defense is still set; if you cut on the drive, you arrive as the defense is scrambling. The trigger is the advantage, not the pass.","title":"Cut on the advantage, not on the catch"},{"detail":"When the ball is driven toward your side, lift from the corner to the wing or from the wing to the slot as the low help rotates down. When the ball is driven away from you, drift to the corner or slide along the baseline behind the defense. When a teammate posts up and the double comes, cut behind the double team — the double creates a 4-on-3 and the cutter behind it is the release. Each ball position has one correct weak-side movement; learn the map.","title":"Know the three relocations: lift, drift, cut behind"},{"detail":"A cut is only open if it arrives at the same moment the passing lane opens. If the ball handler drives on the right, the weak-side cutter should start moving when the driver gets two feet in the paint — the pass window opens roughly half a second later, and a cut timed to arrive with the ball beats the rotation. Cuts that start too early let the defender recover; cuts that start too late arrive after the help has reset. Watch the ball handler's shoulders: when they drop to attack, you go.","title":"Time the cut to the pass window"},{"detail":"The most common weak-side mistake is standing still when your defender leaves to help. When your defender stunts or rotates to the ball, you are open — but only if you move to where they just left. If the nail defender stunts at the driver from your slot, lift to the top. If the corner defender rotates up to help, drift to the corner. Do not stay where you were; the open spot is where your defender used to be, not where you are.","title":"Relocate to the vacated spot"},{"detail":"Relocation is a team skill, not an individual one. If the corner lifts to the wing, the wing must lift to the slot — otherwise two players end up in the same spot. Teach 'fill behind': when the player in front of you moves, you take their old spot. This keeps five-out spacing intact through every rotation and guarantees the ball always has two release valves on the weak side.","title":"Fill behind: keep the spacing chain alive"},{"detail":"Every weak-side cut and relocation must end shot-ready: feet staggered, hands at chest, eyes on the rim. A cut that arrives flat-footed wastes the timing you worked for. Practice: cut, catch, and be in shooting position before the ball arrives — the catch and the shot start are one motion. Coaches should call out 'shot-ready' every time a player catches a relocation pass standing straight up.","title":"Arrive shot-ready"}],"hub":"basketball-iq","id":"weak-side-timing","level":"intermediate","positions":["ALL"],"readTime":5,"related":["reading-help-defense","maintaining-advantages","closeout-reads","timing-basketball","decision-making"],"slug":"weak-side-timing","subcategory":"off-ball-movement","tags":["weak side","cutting","relocation","off-ball movement","spacing"],"title":"Weak-Side Cutting & Relocation Timing","vi":{
-  "title": "Cắt và di chuyển phía yếu đúng thời điểm",
-  "description": "Nghệ thuật di chuyển không bóng phía yếu: khi nào cắt, khi nào di chuyển lại, và cách căn giờ theo lợi thế của người cầm bóng.",
-  "whatIsIt": [
-    "Cắt và di chuyển phía yếu đúng thời điểm là kỹ năng không bóng biến lợi thế của người cầm bóng thành điểm: biết khi nào cắt vào rổ, khi nào lift, drift hay cắt sau lưng hàng thủ, và căn mọi chuyển động theo nhịp pha bóng. Đa số cầu thủ trẻ đứng yên phía yếu và xem; cầu thủ giỏi đọc lợi thế đang hình thành và di chuyển trước khi hàng thủ kịp phản ứng.",
-    "Ba chuyển động cốt lõi: lift (dâng cao khi bóng drive về phía bạn), drift (trôi ra góc khi bóng đi xa) và cắt sau lưng khi hàng hỗ trợ dấn vào. Bài này dạy điểm kích hoạt cho từng chuyển động, cách tới nơi cùng lúc với đường chuyền, và nguyên tắc 'lấp phía sau' giữ spacing cả đội."
+{
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
   ],
-  "whyItMatters": [
-    "Bóng rổ hiện đại sống nhờ phía yếu. Mọi lợi thế phía mạnh chỉ thành điểm khi có người phía yếu di chuyển đúng lúc — pha cắt đúng giờ biến pha drive bị kẹt thành layup, pha lift đúng lúc biến pha hỗ trợ thành cú 3 điểm trống. Đội đứng yên phía yếu nhìn mọi pha drive chết trong vòng vây; đội di chuyển đúng giờ khiến hàng thủ không bao giờ xoay kịp. Đây là khác biệt giữa xem bóng rổ và chơi bóng rổ."
+  "coachingPoints": [
+    "Cut on the ball handler's second dribble toward you, not on the catch — late cuts arrive after the help resets.",
+    "If your defender turns their head to the ball, cut immediately; a blind defender can't recover.",
+    "Relocate to where the defense just left, not where you were standing — the open spot moves with the rotation.",
+    "After a corner lift, be ready to shoot on the catch — feet set, hands ready, no extra dribbles.",
+    "Time your cut so you arrive as the pass arrives — a cut that arrives early stands still and gets covered."
+  ],
+  "commonMistakes": [
+    "Standing still on the weak side while the ball handler creates an advantage — wasted numbers.",
+    "Cutting too early, before the defense commits, so your defender follows you and clogs the lane.",
+    "Cutting into the ball handler's drive line and bringing your defender into the play.",
+    "Relocating to a spot another teammate already filled — two players, one spot, zero spacing."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "The art of moving without the ball on the weak side: when to cut, when to relocate, and how to time it with the ball handler's advantage.",
+  "diagram": {
+    "title": "Weak-side timing: cut as the advantage is created",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 62,
+        "y": 58
+      },
+      {
+        "label": "O2",
+        "x": 28,
+        "y": 44
+      },
+      {
+        "label": "O3",
+        "x": 40,
+        "y": 26
+      }
+    ],
+    "defense": [
+      {
+        "label": "X1",
+        "x": 57,
+        "y": 50
+      }
+    ],
+    "ball": "O1",
+    "moves": [
+      {
+        "from": "O1",
+        "to": "rim",
+        "kind": "dribble"
+      },
+      {
+        "from": "O2",
+        "to": "O3",
+        "kind": "cut"
+      }
+    ],
+    "passes": [
+      {
+        "from": "O1",
+        "to": "O3"
+      }
+    ]
+  },
+  "gameSituations": [
+    "Pick and roll on the right side — the weak-side wing times a backdoor cut as the nail defender stunts.",
+    "Drive and kick to the corner — the weak-side slot lifts to the top as the low help rotates to the corner.",
+    "Post-up with a double team coming — the weak-side wing cuts behind the double as it commits.",
+    "Transition into half-court — the trailer relocates from the top to the slot as the defense loads to the ball."
   ],
   "howTo": [
     {
-      "title": "Cắt theo lợi thế, không theo pha bắt bóng",
-      "detail": "Phía yếu được quyết định ngay khi người cầm bóng tạo lợi thế — nhịp dẫn đầu qua mặt hậu vệ, hoặc giây đầu hậu vệ hỗ trợ quay đầu nhìn. Cắt ở nhịp dẫn thứ hai của người cầm bóng hướng về rổ, đừng cắt lúc bắt bóng. Cắt lúc bắt bóng thì bạn tới khi hàng thủ còn nguyên; cắt lúc drive thì bạn tới khi hàng thủ đang rối. Điểm kích hoạt là lợi thế, không phải đường chuyền."
+      "detail": "The weak side is decided the moment the ball handler creates an advantage — the first dribble past the defender, or the first second the help defender turns their head. Cut on the ball handler's second dribble toward the basket, not on the catch. If you cut on the catch, you arrive while the defense is still set; if you cut on the drive, you arrive as the defense is scrambling. The trigger is the advantage, not the pass.",
+      "title": "Cut on the advantage, not on the catch"
     },
     {
-      "title": "Ba cách di chuyển: lift, drift, cắt sau lưng",
-      "detail": "Bóng drive về phía bạn thì lift từ góc lên cánh hoặc từ cánh lên slot khi hàng hỗ trợ thấp xoay xuống. Bóng drive ra xa thì drift ra góc hoặc trượt dọc baseline sau lưng hàng thủ. Đồng đội post-up và bị double thì cắt sau lưng double — double tạo 4-đánh-3, người cắt sau lưng là van xả. Mỗi vị trí bóng có một cách di chuyển đúng — học thuộc bản đồ."
+      "detail": "When the ball is driven toward your side, lift from the corner to the wing or from the wing to the slot as the low help rotates down. When the ball is driven away from you, drift to the corner or slide along the baseline behind the defense. When a teammate posts up and the double comes, cut behind the double team — the double creates a 4-on-3 and the cutter behind it is the release. Each ball position has one correct weak-side movement; learn the map.",
+      "title": "Know the three relocations: lift, drift, cut behind"
     },
     {
-      "title": "Căn pha cắt theo cửa chuyền",
-      "detail": "Pha cắt chỉ trống khi bạn tới đúng lúc cửa chuyền mở. Người cầm bóng drive bên phải thì người cắt phía yếu bắt đầu di chuyển khi người drive đặt hai chân vào khu vực dưới rổ — cửa chuyền mở khoảng nửa giây sau, pha cắt tới cùng lúc với bóng thắng pha xoay. Cắt sớm quá, hậu vệ kịp hồi; cắt muộn quá, hàng hỗ trợ đã reset. Nhìn vai người cầm bóng: vai hạ xuống tấn công thì bạn đi."
+      "detail": "A cut is only open if it arrives at the same moment the passing lane opens. If the ball handler drives on the right, the weak-side cutter should start moving when the driver gets two feet in the paint — the pass window opens roughly half a second later, and a cut timed to arrive with the ball beats the rotation. Cuts that start too early let the defender recover; cuts that start too late arrive after the help has reset. Watch the ball handler's shoulders: when they drop to attack, you go.",
+      "title": "Time the cut to the pass window"
     },
     {
-      "title": "Di chuyển tới chỗ vừa bị bỏ",
-      "detail": "Lỗi phía yếu phổ biến nhất: đứng yên khi người kèm bạn bỏ đi hỗ trợ. Người kèm bạn stunt hoặc xoay về bóng là bạn đang trống — nhưng chỉ khi bạn di chuyển tới chỗ họ vừa bỏ. Hậu vệ ở nail stunt vào người drive từ slot của bạn thì lift lên đỉnh. Hậu vệ góc xoay lên hỗ trợ thì drift ra góc. Đừng đứng chỗ cũ; chỗ trống là chỗ người kèm bạn vừa ở, không phải chỗ bạn đang ở."
+      "detail": "The most common weak-side mistake is standing still when your defender leaves to help. When your defender stunts or rotates to the ball, you are open — but only if you move to where they just left. If the nail defender stunts at the driver from your slot, lift to the top. If the corner defender rotates up to help, drift to the corner. Do not stay where you were; the open spot is where your defender used to be, not where you are.",
+      "title": "Relocate to the vacated spot"
     },
     {
-      "title": "Lấp phía sau: giữ chuỗi spacing",
-      "detail": "Di chuyển lại là kỹ năng của cả đội. Góc lift lên cánh thì cánh phải lift lên slot — không thì hai người một chỗ. Dạy nguyên tắc 'lấp phía sau': người phía trước di chuyển thì bạn chiếm chỗ cũ của họ. Giữ nguyên spacing năm-ngoài qua mọi rotation, bóng luôn có hai van xả phía yếu."
+      "detail": "Relocation is a team skill, not an individual one. If the corner lifts to the wing, the wing must lift to the slot — otherwise two players end up in the same spot. Teach 'fill behind': when the player in front of you moves, you take their old spot. This keeps five-out spacing intact through every rotation and guarantees the ball always has two release valves on the weak side.",
+      "title": "Fill behind: keep the spacing chain alive"
     },
     {
-      "title": "Tới nơi ở tư thế sẵn sàng ném",
-      "detail": "Mọi pha cắt và di chuyển phía yếu phải kết thúc sẵn sàng ném: chân so le, tay ngang ngực, mắt nhìn rổ. Cắt tới nơi mà chân chưa sẵn là phí công căn giờ. Tập: cắt, bắt bóng, đã ở tư thế ném trước khi bóng tới — pha bắt và pha bắt đầu ném là một chuyển động. HLV hô 'sẵn sàng ném' mỗi khi cầu thủ bắt đường chuyền di chuyển mà đứng thẳng người."
+      "detail": "Every weak-side cut and relocation must end shot-ready: feet staggered, hands at chest, eyes on the rim. A cut that arrives flat-footed wastes the timing you worked for. Practice: cut, catch, and be in shooting position before the ball arrives — the catch and the shot start are one motion. Coaches should call out 'shot-ready' every time a player catches a relocation pass standing straight up.",
+      "title": "Arrive shot-ready"
     }
   ],
-  "coachingPoints": [
-    "Cắt ở nhịp dẫn thứ hai của người cầm bóng hướng về bạn, đừng cắt lúc bắt bóng — cắt muộn là hàng hỗ trợ đã reset.",
-    "Người kèm bạn quay đầu nhìn bóng thì cắt ngay. Hậu vệ mù không hồi kịp.",
-    "Di chuyển tới chỗ hàng thủ vừa bỏ, đừng đứng chỗ cũ — chỗ trống chạy theo rotation.",
-    "Lift từ góc xong, sẵn sàng ném ngay khi bắt bóng — chân đã đặt, tay đã sẵn, không dẫn thêm.",
-    "Căn giờ để tới nơi cùng lúc đường chuyền tới — tới sớm rồi đứng yên là bị kèm lại."
+  "hub": "basketball-iq",
+  "id": "weak-side-timing",
+  "level": "intermediate",
+  "positions": [
+    "ALL"
   ],
-  "commonMistakes": [
-    "Đứng yên phía yếu trong khi người cầm bóng tạo lợi thế — phí quân số.",
-    "Cắt quá sớm, trước khi hàng thủ dấn vào — người kèm bạn theo vào, chật khu vực dưới rổ.",
-    "Cắt vào đúng đường drive của người cầm bóng, kéo người kèm bạn vào pha bóng.",
-    "Di chuyển tới chỗ đồng đội đã đứng — hai người một chỗ, spacing bằng không."
+  "readTime": 5,
+  "related": [
+    "reading-help-defense",
+    "maintaining-advantages",
+    "closeout-reads",
+    "timing-basketball",
+    "decision-making"
   ],
-  "gameSituations": [
-    "Pick and roll bên phải — cánh phía yếu căn backdoor cut khi hậu vệ ở nail stunt.",
-    "Drive rồi đá ra góc — slot phía yếu lift lên đỉnh khi hàng hỗ trợ thấp xoay xuống góc.",
-    "Post-up sắp bị double — cánh phía yếu cắt sau lưng double ngay khi nó dấn vào.",
-    "Chuyển từ phản công sang đánh nửa sân — trailer di chuyển từ đỉnh ra slot khi hàng thủ dồn về bóng."
-  ],
+  "slug": "weak-side-timing",
+  "subcategory": "off-ball-movement",
   "tags": [
-    "phía yếu",
-    "cắt rổ",
-    "di chuyển lại",
-    "di chuyển không bóng",
-    "giãn đội hình"
+    "weak side",
+    "cutting",
+    "relocation",
+    "off-ball movement",
+    "spacing"
+  ],
+  "title": "Weak-Side Cutting & Relocation Timing",
+  "vi": {
+    "title": "Cắt và di chuyển phía yếu đúng thời điểm",
+    "description": "Nghệ thuật di chuyển không bóng phía yếu: khi nào cắt, khi nào di chuyển lại, và cách căn giờ theo lợi thế của người cầm bóng.",
+    "whatIsIt": [
+      "Cắt và di chuyển phía yếu đúng thời điểm là kỹ năng không bóng biến lợi thế của người cầm bóng thành điểm: biết khi nào cắt vào rổ, khi nào lift, drift hay cắt sau lưng hàng thủ, và căn mọi chuyển động theo nhịp pha bóng. Đa số cầu thủ trẻ đứng yên phía yếu và xem; cầu thủ giỏi đọc lợi thế đang hình thành và di chuyển trước khi hàng thủ kịp phản ứng.",
+      "Ba chuyển động cốt lõi: lift (dâng cao khi bóng drive về phía bạn), drift (trôi ra góc khi bóng đi xa) và cắt sau lưng khi hàng hỗ trợ dấn vào. Bài này dạy điểm kích hoạt cho từng chuyển động, cách tới nơi cùng lúc với đường chuyền, và nguyên tắc 'lấp phía sau' giữ spacing cả đội."
+    ],
+    "whyItMatters": [
+      "Bóng rổ hiện đại sống nhờ phía yếu. Mọi lợi thế phía mạnh chỉ thành điểm khi có người phía yếu di chuyển đúng lúc — pha cắt đúng giờ biến pha drive bị kẹt thành layup, pha lift đúng lúc biến pha hỗ trợ thành cú 3 điểm trống. Đội đứng yên phía yếu nhìn mọi pha drive chết trong vòng vây; đội di chuyển đúng giờ khiến hàng thủ không bao giờ xoay kịp. Đây là khác biệt giữa xem bóng rổ và chơi bóng rổ."
+    ],
+    "howTo": [
+      {
+        "title": "Cắt theo lợi thế, không theo pha bắt bóng",
+        "detail": "Phía yếu được quyết định ngay khi người cầm bóng tạo lợi thế — nhịp dẫn đầu qua mặt hậu vệ, hoặc giây đầu hậu vệ hỗ trợ quay đầu nhìn. Cắt ở nhịp dẫn thứ hai của người cầm bóng hướng về rổ, đừng cắt lúc bắt bóng. Cắt lúc bắt bóng thì bạn tới khi hàng thủ còn nguyên; cắt lúc drive thì bạn tới khi hàng thủ đang rối. Điểm kích hoạt là lợi thế, không phải đường chuyền."
+      },
+      {
+        "title": "Ba cách di chuyển: lift, drift, cắt sau lưng",
+        "detail": "Bóng drive về phía bạn thì lift từ góc lên cánh hoặc từ cánh lên slot khi hàng hỗ trợ thấp xoay xuống. Bóng drive ra xa thì drift ra góc hoặc trượt dọc baseline sau lưng hàng thủ. Đồng đội post-up và bị double thì cắt sau lưng double — double tạo 4-đánh-3, người cắt sau lưng là van xả. Mỗi vị trí bóng có một cách di chuyển đúng — học thuộc bản đồ."
+      },
+      {
+        "title": "Căn pha cắt theo cửa chuyền",
+        "detail": "Pha cắt chỉ trống khi bạn tới đúng lúc cửa chuyền mở. Người cầm bóng drive bên phải thì người cắt phía yếu bắt đầu di chuyển khi người drive đặt hai chân vào khu vực dưới rổ — cửa chuyền mở khoảng nửa giây sau, pha cắt tới cùng lúc với bóng thắng pha xoay. Cắt sớm quá, hậu vệ kịp hồi; cắt muộn quá, hàng hỗ trợ đã reset. Nhìn vai người cầm bóng: vai hạ xuống tấn công thì bạn đi."
+      },
+      {
+        "title": "Di chuyển tới chỗ vừa bị bỏ",
+        "detail": "Lỗi phía yếu phổ biến nhất: đứng yên khi người kèm bạn bỏ đi hỗ trợ. Người kèm bạn stunt hoặc xoay về bóng là bạn đang trống — nhưng chỉ khi bạn di chuyển tới chỗ họ vừa bỏ. Hậu vệ ở nail stunt vào người drive từ slot của bạn thì lift lên đỉnh. Hậu vệ góc xoay lên hỗ trợ thì drift ra góc. Đừng đứng chỗ cũ; chỗ trống là chỗ người kèm bạn vừa ở, không phải chỗ bạn đang ở."
+      },
+      {
+        "title": "Lấp phía sau: giữ chuỗi spacing",
+        "detail": "Di chuyển lại là kỹ năng của cả đội. Góc lift lên cánh thì cánh phải lift lên slot — không thì hai người một chỗ. Dạy nguyên tắc 'lấp phía sau': người phía trước di chuyển thì bạn chiếm chỗ cũ của họ. Giữ nguyên spacing năm-ngoài qua mọi rotation, bóng luôn có hai van xả phía yếu."
+      },
+      {
+        "title": "Tới nơi ở tư thế sẵn sàng ném",
+        "detail": "Mọi pha cắt và di chuyển phía yếu phải kết thúc sẵn sàng ném: chân so le, tay ngang ngực, mắt nhìn rổ. Cắt tới nơi mà chân chưa sẵn là phí công căn giờ. Tập: cắt, bắt bóng, đã ở tư thế ném trước khi bóng tới — pha bắt và pha bắt đầu ném là một chuyển động. HLV hô 'sẵn sàng ném' mỗi khi cầu thủ bắt đường chuyền di chuyển mà đứng thẳng người."
+      }
+    ],
+    "coachingPoints": [
+      "Cắt ở nhịp dẫn thứ hai của người cầm bóng hướng về bạn, đừng cắt lúc bắt bóng — cắt muộn là hàng hỗ trợ đã reset.",
+      "Người kèm bạn quay đầu nhìn bóng thì cắt ngay. Hậu vệ mù không hồi kịp.",
+      "Di chuyển tới chỗ hàng thủ vừa bỏ, đừng đứng chỗ cũ — chỗ trống chạy theo rotation.",
+      "Lift từ góc xong, sẵn sàng ném ngay khi bắt bóng — chân đã đặt, tay đã sẵn, không dẫn thêm.",
+      "Căn giờ để tới nơi cùng lúc đường chuyền tới — tới sớm rồi đứng yên là bị kèm lại."
+    ],
+    "commonMistakes": [
+      "Đứng yên phía yếu trong khi người cầm bóng tạo lợi thế — phí quân số.",
+      "Cắt quá sớm, trước khi hàng thủ dấn vào — người kèm bạn theo vào, chật khu vực dưới rổ.",
+      "Cắt vào đúng đường drive của người cầm bóng, kéo người kèm bạn vào pha bóng.",
+      "Di chuyển tới chỗ đồng đội đã đứng — hai người một chỗ, spacing bằng không."
+    ],
+    "gameSituations": [
+      "Pick and roll bên phải — cánh phía yếu căn backdoor cut khi hậu vệ ở nail stunt.",
+      "Drive rồi đá ra góc — slot phía yếu lift lên đỉnh khi hàng hỗ trợ thấp xoay xuống góc.",
+      "Post-up sắp bị double — cánh phía yếu cắt sau lưng double ngay khi nó dấn vào.",
+      "Chuyển từ phản công sang đánh nửa sân — trailer di chuyển từ đỉnh ra slot khi hàng thủ dồn về bóng."
+    ],
+    "tags": [
+      "phía yếu",
+      "cắt rổ",
+      "di chuyển lại",
+      "di chuyển không bóng",
+      "giãn đội hình"
+    ]
+  },
+  "whatIsIt": [
+    "Weak-side cutting and relocation timing is the off-ball skill that turns a ball handler's advantage into points: knowing when to cut to the rim, when to lift, drift, or cut behind the defense, and timing every movement to the rhythm of the play. Most young players stand still on the weak side and watch; good players read the advantage forming and move before the defense can react.",
+    "The three core movements: lift (move higher when the ball is driven toward you), drift (slide to the corner when the ball goes away), and cut behind the help when it commits. This article teaches the trigger for each movement, how to time your arrival with the pass, and the 'fill behind' rule that keeps team spacing alive."
+  ],
+  "whyItMatters": [
+    "Modern offense lives on the weak side. Every advantage created on the strong side only becomes points when someone on the weak side moves on time — a well-timed cut turns a stalled drive into a layup, a well-timed lift turns a help rotation into an open three. Teams that stand still on the weak side watch every drive die in traffic; teams that move on time never let the defense catch up. This is the difference between watching basketball and playing it."
   ]
-},"whatIsIt":["Weak-side cutting and relocation timing is the off-ball skill that turns a ball handler's advantage into points: knowing when to cut to the rim, when to lift, drift, or cut behind the defense, and timing every movement to the rhythm of the play. Most young players stand still on the weak side and watch; good players read the advantage forming and move before the defense can react.","The three core movements: lift (move higher when the ball is driven toward you), drift (slide to the corner when the ball goes away), and cut behind the help when it commits. This article teaches the trigger for each movement, how to time your arrival with the pass, and the 'fill behind' rule that keeps team spacing alive."],"whyItMatters":["Modern offense lives on the weak side. Every advantage created on the strong side only becomes points when someone on the weak side moves on time — a well-timed cut turns a stalled drive into a layup, a well-timed lift turns a help rotation into an open three. Teams that stand still on the weak side watch every drive die in traffic; teams that move on time never let the defense catch up. This is the difference between watching basketball and playing it."]}
+}

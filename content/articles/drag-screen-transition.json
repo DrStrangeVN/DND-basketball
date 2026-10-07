@@ -20,6 +20,68 @@
   ],
   "dateUpdated": "2026-10-06",
   "description": "The ball screen before the defense is set: how drag screens in the first 6 seconds create the easiest pick-and-roll advantages in basketball.",
+  "diagram": {
+    "ball": "O1",
+    "defense": [
+      {
+        "label": "X1",
+        "x": 52,
+        "y": 57
+      },
+      {
+        "label": "X5",
+        "x": 46,
+        "y": 62
+      }
+    ],
+    "moves": [
+      {
+        "from": "O1",
+        "kind": "dribble",
+        "to": "rim"
+      },
+      {
+        "from": "O5",
+        "kind": "cut",
+        "to": "rim"
+      }
+    ],
+    "offense": [
+      {
+        "label": "O1",
+        "x": 52,
+        "y": 62
+      },
+      {
+        "label": "O5",
+        "x": 46,
+        "y": 70
+      },
+      {
+        "label": "O2",
+        "x": 28,
+        "y": 48
+      },
+      {
+        "label": "O3",
+        "x": 76,
+        "y": 48
+      }
+    ],
+    "screens": [
+      {
+        "x": 52,
+        "y": 52
+      }
+    ],
+    "shots": [
+      {
+        "x": 50,
+        "y": 8
+      }
+    ],
+    "title": "Drag screen: ball screen before the defense sets"
+  },
   "gameSituations": [
     "First 6 seconds after a defensive rebound",
     "When the opposing big is slow getting back",

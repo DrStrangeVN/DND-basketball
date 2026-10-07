@@ -3,6 +3,23 @@
   "slug": "free-throw-pressure",
   "title": "Free-Throw Pressure",
   "description": "Simulates late-game free-throw pressure with consequences for misses - sprints, score scenarios, and crowd noise.",
+  "diagram": {
+    "title": "Free-Throw Pressure: routine under stress",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 24
+      }
+    ],
+    "ball": "O1",
+    "shots": [
+      {
+        "x": 50,
+        "y": 6
+      }
+    ]
+  },
   "skill": "Shooting",
   "level": "intermediate",
   "ages": [

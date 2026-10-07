@@ -19,6 +19,79 @@
   ],
   "dateUpdated": "2026-10-06",
   "description": "The classic screen-the-screener action — flex cut, down screen, and continuous motion that never lets the defense rest.",
+  "diagram": {
+    "ball": "O1",
+    "defense": [
+      {
+        "label": "X3",
+        "x": 78,
+        "y": 34
+      },
+      {
+        "label": "X2",
+        "x": 58,
+        "y": 20
+      }
+    ],
+    "moves": [
+      {
+        "from": "O3",
+        "kind": "cut",
+        "to": "rim"
+      }
+    ],
+    "offense": [
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 64
+      },
+      {
+        "label": "O2",
+        "x": 58,
+        "y": 24
+      },
+      {
+        "label": "O3",
+        "x": 78,
+        "y": 38
+      },
+      {
+        "label": "O4",
+        "x": 30,
+        "y": 30
+      },
+      {
+        "label": "O5",
+        "x": 24,
+        "y": 46
+      }
+    ],
+    "passes": [
+      {
+        "from": "O1",
+        "to": "rim"
+      }
+    ],
+    "screens": [
+      {
+        "x": 30,
+        "y": 34
+      },
+      {
+        "angle": 90,
+        "x": 64,
+        "y": 24
+      }
+    ],
+    "shots": [
+      {
+        "x": 50,
+        "y": 7
+      }
+    ],
+    "title": "Flex: screen the screener, cut to the rim"
+  },
   "gameSituations": [
     "Against switching defenses — the flex cut punishes the switch.",
     "To get a shooter an open look — the down screen after the flex.",

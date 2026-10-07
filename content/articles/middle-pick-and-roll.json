@@ -19,6 +19,94 @@
   ],
   "dateUpdated": "2026-10-06",
   "description": "The pick and roll at the top of the key, with the whole floor open — the most versatile ball-screen action in basketball.",
+  "diagram": {
+    "ball": "O1",
+    "defense": [
+      {
+        "label": "X1",
+        "x": 50,
+        "y": 51
+      },
+      {
+        "label": "X5",
+        "x": 48,
+        "y": 40
+      },
+      {
+        "label": "X2",
+        "x": 28,
+        "y": 34
+      },
+      {
+        "label": "X3",
+        "x": 72,
+        "y": 34
+      },
+      {
+        "label": "X4",
+        "x": 86,
+        "y": 16
+      }
+    ],
+    "moves": [
+      {
+        "from": "O1",
+        "kind": "dribble",
+        "to": "O5"
+      },
+      {
+        "from": "O5",
+        "kind": "cut",
+        "to": "rim"
+      }
+    ],
+    "offense": [
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 56
+      },
+      {
+        "label": "O5",
+        "x": 44,
+        "y": 44
+      },
+      {
+        "label": "O2",
+        "x": 26,
+        "y": 36
+      },
+      {
+        "label": "O3",
+        "x": 74,
+        "y": 36
+      },
+      {
+        "label": "O4",
+        "x": 88,
+        "y": 14
+      }
+    ],
+    "passes": [
+      {
+        "from": "O1",
+        "to": "O5"
+      }
+    ],
+    "screens": [
+      {
+        "x": 52,
+        "y": 50
+      }
+    ],
+    "shots": [
+      {
+        "x": 50,
+        "y": 8
+      }
+    ],
+    "title": "Middle PNR: turn the corner, hit the roller"
+  },
   "gameSituations": [
     "Early offense: flow straight into middle PNR before the defense is set.",
     "Hunting a drop big: walk him into a middle screen and take what he gives.",

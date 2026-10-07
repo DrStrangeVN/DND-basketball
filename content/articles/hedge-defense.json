@@ -21,6 +21,84 @@
   ],
   "dateUpdated": "2026-10-06",
   "description": "Hedging ball screens: the big jumps out hard to stop the ball, then sprints back — timing, angles, and recovery.",
+  "diagram": {
+    "ball": "O1",
+    "defense": [
+      {
+        "label": "X1",
+        "x": 50,
+        "y": 53
+      },
+      {
+        "label": "X5",
+        "x": 60,
+        "y": 46
+      },
+      {
+        "label": "X2",
+        "x": 32,
+        "y": 42
+      },
+      {
+        "label": "X3",
+        "x": 68,
+        "y": 42
+      }
+    ],
+    "moves": [
+      {
+        "from": "X5",
+        "kind": "move",
+        "to": "O1"
+      },
+      {
+        "from": "O5",
+        "kind": "cut",
+        "to": "rim"
+      },
+      {
+        "from": "X1",
+        "kind": "move",
+        "to": "O1"
+      },
+      {
+        "from": "X5",
+        "kind": "move",
+        "to": "O5"
+      }
+    ],
+    "offense": [
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 58
+      },
+      {
+        "label": "O5",
+        "x": 56,
+        "y": 44
+      },
+      {
+        "label": "O2",
+        "x": 30,
+        "y": 44
+      },
+      {
+        "label": "O3",
+        "x": 70,
+        "y": 44
+      }
+    ],
+    "passes": [],
+    "screens": [
+      {
+        "x": 54,
+        "y": 50
+      }
+    ],
+    "shots": [],
+    "title": "Hedge: X5 jumps out hard, then sprints back to the roller"
+  },
   "gameSituations": [
     "Against a great ball handler you want to get the ball out of his hands",
     "Late clock when you need to disrupt the offense's timing",

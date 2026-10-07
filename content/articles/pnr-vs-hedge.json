@@ -1,6 +1,79 @@
 {
  "title": "Attacking the Hard Hedge",
  "description": "When the screener's defender jumps out high to stop the ball, split it, drag it, or punish it — the complete counter package.",
+ "diagram": {
+  "ball": "O1",
+  "defense": [
+   {
+    "label": "X1",
+    "x": 50,
+    "y": 52
+   },
+   {
+    "label": "X5",
+    "x": 58,
+    "y": 56
+   },
+   {
+    "label": "X2",
+    "x": 14,
+    "y": 30
+   },
+   {
+    "label": "X3",
+    "x": 86,
+    "y": 30
+   },
+   {
+    "label": "X4",
+    "x": 30,
+    "y": 62
+   }
+  ],
+  "moves": [
+   {
+    "from": "O1",
+    "kind": "dribble",
+    "to": "rim"
+   }
+  ],
+  "offense": [
+   {
+    "label": "O1",
+    "x": 50,
+    "y": 58
+   },
+   {
+    "label": "O5",
+    "x": 58,
+    "y": 48
+   },
+   {
+    "label": "O2",
+    "x": 14,
+    "y": 32
+   },
+   {
+    "label": "O3",
+    "x": 86,
+    "y": 32
+   },
+   {
+    "label": "O4",
+    "x": 30,
+    "y": 64
+   }
+  ],
+  "passes": [],
+  "screens": [
+   {
+    "x": 58,
+    "y": 52
+   }
+  ],
+  "shots": [],
+  "title": "Attacking the hedge: split between the two"
+ },
  "hub": "pick-and-roll",
  "subcategory": "pick-and-roll",
  "level": "advanced",

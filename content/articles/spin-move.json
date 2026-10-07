@@ -1,1 +1,159 @@
-{"ages":["U14","U16","U18","Adult"],"coachingPoints":["Plant hard and spin tight — a wide spin is a slow spin.","Keep the dribble alive through the spin; picking it up early kills the move.","Eyes up during the spin — find the rim or the open teammate on the way out.","Spin into space, not into the help defender."],"commonMistakes":["Spinning with the ball exposed on the outside — the classic strip.","Spinning too far from the defender — you spin out of your own advantage.","Traveling: lifting the pivot foot before the ball leaves the hand.","Spinning with no read — the move ends and you're stuck."],"dateUpdated":"2026-10-06","description":"Plant, spin, and explode — the 360-degree escape that turns a stopped drive into a finish.","gameSituations":["Baseline drive cut off — spin back to the middle.","Post move — spin off the defender's high side.","Transition — spin past the last defender.","Pick and roll — spin when the hedge over-commits."],"howTo":[{"detail":"Attack the defender's shoulder at speed. The spin works because your momentum carries you — jogging into it gives the defense time to react.","title":"Attack with speed"},{"detail":"Plant your inside foot hard next to the defender and pivot on it. The plant foot is the axis — everything rotates around it.","title":"Plant the inside foot"},{"detail":"Pull the ball tight to your hip as you spin — reverse pivot while switching the ball to your outside hand. The ball travels with your body, never swinging wide.","title":"Keep the ball on a string"},{"detail":"Come out of the spin low and explosive: one power dribble and go. The spin creates the separation; the burst after it creates the basket.","title":"Explode out low"}],"hub":"fundamentals","id":"spin-move","level":"intermediate","positions":["ALL"],"readTime":4,"related":["pro-hop","euro-step","pivot","change-of-pace","contact-finishing"],"slug":"spin-move","subcategory":"ball-handling","tags":["spin move","finishing","ball handling","moves"],"title":"The Spin Move","vi":{"coachingPoints":["Đóng chân chắc, xoay gọn — xoay rộng là xoay chậm.","Giữ bóng nảy xuyên suốt pha xoay; ôm bóng sớm là giết chết động tác.","Mắt ngẩng trong khi xoay — tìm rổ hoặc đồng đội trống khi thoát ra.","Xoay vào khoảng trống, đừng xoay vào người help."],"commonMistakes":["Xoay khi bóng lộ ra phía ngoài — pha cướp bóng kinh điển.","Xoay quá xa hậu vệ — tự xoay ra khỏi lợi thế của mình.","Lỗi chạy bước: nhấc chân trụ trước khi bóng rời tay.","Xoay mà không đọc tình huống — xong động tác là hết đường."],"description":"Đóng chân, xoay người rồi bùng nổ — pha thoát 360 độ biến một pha đột phá bị chặn thành một pha dứt điểm.","gameSituations":["Đột baseline bị chặn — xoay ngược vào giữa.","Động tác post — xoay qua phía trên của hậu vệ.","Phản công nhanh — xoay qua hậu vệ cuối cùng.","Pick-and-roll — xoay khi người hedge lao quá đà."],"howTo":[{"detail":"Tấn công vào vai hậu vệ ở tốc độ cao. Pha xoay hiệu quả nhờ đà của bạn — chạy chậm vào thì hàng thủ kịp phản ứng.","title":"Tấn công với tốc độ"},{"detail":"Đóng chân trong thật chắc cạnh hậu vệ, pivot trên nó. Chân đóng là trục — mọi thứ xoay quanh nó.","title":"Đóng chân trong"},{"detail":"Kéo bóng sát hông khi xoay — reverse pivot đồng thời đổi bóng sang tay ngoài. Bóng đi cùng cơ thể, không bao giờ vung rộng.","title":"Giữ bóng như buộc dây"},{"detail":"Thoát khỏi pha xoay ở tư thế thấp rồi bùng nổ: một nhịp nảy mạnh rồi đi. Pha xoay tạo khoảng trống; cú bùng nổ sau đó tạo ra điểm số.","title":"Bùng nổ ở tư thế thấp"}],"tags":["spin move","dứt điểm","dẫn bóng","động tác"],"title":"Động tác xoay người (spin move)","whatIsIt":["Spin move là pha xoay 360 độ trên một chân trụ để thoát khỏi hậu vệ: đóng chân, kéo bóng sát người, xoay lưng qua hậu vệ rồi bùng nổ ra phía bên kia. Làm đúng, hậu vệ chỉ thấy lưng bạn — và tới khi hắn quay lại, bạn đã ở rổ.","Đây là động tác của đà và thời điểm, không phải sức mạnh. Xoay quá sớm thì hậu vệ chưa cắn câu; xoay quá muộn thì bạn đã bị chặn. Cửa sổ vàng là đúng lúc vai bạn chạm vai hắn."],"whyItMatters":["Mọi pha đột phá đều có lúc bị chặn đứng — spin move là nút reset. Nó biến một pha bóng chết thành một lợi thế mới mà không cần chuyền ngược ra. Hậu vệ lao vào càng nhanh thì pha xoay càng hiệu quả: đà của hắn thành đà của bạn. Cầu thủ có spin move đáng tin cậy không bao giờ hết đường khi đột phá."]},"whatIsIt":["The spin move is a 360-degree turn on one planted foot to escape a defender: plant, pull the ball tight, rotate your back through the defender, and explode out the other side. Done right, the defender sees only your back — and by the time they turn, you're at the rim.","It's a move of momentum and timing, not strength. Spin too early and the defender hasn't committed; too late and you're already stopped. The golden window is the instant your shoulder meets theirs."],"whyItMatters":["Every drive gets stopped eventually — the spin move is the reset button. It turns a dead drive into a fresh advantage without passing back out. The harder a defender charges in, the more the spin punishes them: their momentum becomes yours. Players with a reliable spin never run out of answers on a drive."]}
+{
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "coachingPoints": [
+    "Plant hard and spin tight — a wide spin is a slow spin.",
+    "Keep the dribble alive through the spin; picking it up early kills the move.",
+    "Eyes up during the spin — find the rim or the open teammate on the way out.",
+    "Spin into space, not into the help defender."
+  ],
+  "commonMistakes": [
+    "Spinning with the ball exposed on the outside — the classic strip.",
+    "Spinning too far from the defender — you spin out of your own advantage.",
+    "Traveling: lifting the pivot foot before the ball leaves the hand.",
+    "Spinning with no read — the move ends and you're stuck."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "Plant, spin, and explode — the 360-degree escape that turns a stopped drive into a finish.",
+  "diagram": {
+    "title": "Spin move: plant, rotate through, explode out",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 60,
+        "y": 58
+      },
+      {
+        "label": "O2",
+        "x": 68,
+        "y": 40
+      }
+    ],
+    "defense": [
+      {
+        "label": "X1",
+        "x": 55,
+        "y": 50
+      }
+    ],
+    "ball": "O1",
+    "moves": [
+      {
+        "from": "O1",
+        "to": "O2",
+        "kind": "dribble"
+      }
+    ]
+  },
+  "gameSituations": [
+    "Baseline drive cut off — spin back to the middle.",
+    "Post move — spin off the defender's high side.",
+    "Transition — spin past the last defender.",
+    "Pick and roll — spin when the hedge over-commits."
+  ],
+  "howTo": [
+    {
+      "detail": "Attack the defender's shoulder at speed. The spin works because your momentum carries you — jogging into it gives the defense time to react.",
+      "title": "Attack with speed"
+    },
+    {
+      "detail": "Plant your inside foot hard next to the defender and pivot on it. The plant foot is the axis — everything rotates around it.",
+      "title": "Plant the inside foot"
+    },
+    {
+      "detail": "Pull the ball tight to your hip as you spin — reverse pivot while switching the ball to your outside hand. The ball travels with your body, never swinging wide.",
+      "title": "Keep the ball on a string"
+    },
+    {
+      "detail": "Come out of the spin low and explosive: one power dribble and go. The spin creates the separation; the burst after it creates the basket.",
+      "title": "Explode out low"
+    }
+  ],
+  "hub": "fundamentals",
+  "id": "spin-move",
+  "level": "intermediate",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 4,
+  "related": [
+    "pro-hop",
+    "euro-step",
+    "pivot",
+    "change-of-pace",
+    "contact-finishing"
+  ],
+  "slug": "spin-move",
+  "subcategory": "ball-handling",
+  "tags": [
+    "spin move",
+    "finishing",
+    "ball handling",
+    "moves"
+  ],
+  "title": "The Spin Move",
+  "vi": {
+    "coachingPoints": [
+      "Đóng chân chắc, xoay gọn — xoay rộng là xoay chậm.",
+      "Giữ bóng nảy xuyên suốt pha xoay; ôm bóng sớm là giết chết động tác.",
+      "Mắt ngẩng trong khi xoay — tìm rổ hoặc đồng đội trống khi thoát ra.",
+      "Xoay vào khoảng trống, đừng xoay vào người help."
+    ],
+    "commonMistakes": [
+      "Xoay khi bóng lộ ra phía ngoài — pha cướp bóng kinh điển.",
+      "Xoay quá xa hậu vệ — tự xoay ra khỏi lợi thế của mình.",
+      "Lỗi chạy bước: nhấc chân trụ trước khi bóng rời tay.",
+      "Xoay mà không đọc tình huống — xong động tác là hết đường."
+    ],
+    "description": "Đóng chân, xoay người rồi bùng nổ — pha thoát 360 độ biến một pha đột phá bị chặn thành một pha dứt điểm.",
+    "gameSituations": [
+      "Đột baseline bị chặn — xoay ngược vào giữa.",
+      "Động tác post — xoay qua phía trên của hậu vệ.",
+      "Phản công nhanh — xoay qua hậu vệ cuối cùng.",
+      "Pick-and-roll — xoay khi người hedge lao quá đà."
+    ],
+    "howTo": [
+      {
+        "detail": "Tấn công vào vai hậu vệ ở tốc độ cao. Pha xoay hiệu quả nhờ đà của bạn — chạy chậm vào thì hàng thủ kịp phản ứng.",
+        "title": "Tấn công với tốc độ"
+      },
+      {
+        "detail": "Đóng chân trong thật chắc cạnh hậu vệ, pivot trên nó. Chân đóng là trục — mọi thứ xoay quanh nó.",
+        "title": "Đóng chân trong"
+      },
+      {
+        "detail": "Kéo bóng sát hông khi xoay — reverse pivot đồng thời đổi bóng sang tay ngoài. Bóng đi cùng cơ thể, không bao giờ vung rộng.",
+        "title": "Giữ bóng như buộc dây"
+      },
+      {
+        "detail": "Thoát khỏi pha xoay ở tư thế thấp rồi bùng nổ: một nhịp nảy mạnh rồi đi. Pha xoay tạo khoảng trống; cú bùng nổ sau đó tạo ra điểm số.",
+        "title": "Bùng nổ ở tư thế thấp"
+      }
+    ],
+    "tags": [
+      "spin move",
+      "dứt điểm",
+      "dẫn bóng",
+      "động tác"
+    ],
+    "title": "Động tác xoay người (spin move)",
+    "whatIsIt": [
+      "Spin move là pha xoay 360 độ trên một chân trụ để thoát khỏi hậu vệ: đóng chân, kéo bóng sát người, xoay lưng qua hậu vệ rồi bùng nổ ra phía bên kia. Làm đúng, hậu vệ chỉ thấy lưng bạn — và tới khi hắn quay lại, bạn đã ở rổ.",
+      "Đây là động tác của đà và thời điểm, không phải sức mạnh. Xoay quá sớm thì hậu vệ chưa cắn câu; xoay quá muộn thì bạn đã bị chặn. Cửa sổ vàng là đúng lúc vai bạn chạm vai hắn."
+    ],
+    "whyItMatters": [
+      "Mọi pha đột phá đều có lúc bị chặn đứng — spin move là nút reset. Nó biến một pha bóng chết thành một lợi thế mới mà không cần chuyền ngược ra. Hậu vệ lao vào càng nhanh thì pha xoay càng hiệu quả: đà của hắn thành đà của bạn. Cầu thủ có spin move đáng tin cậy không bao giờ hết đường khi đột phá."
+    ]
+  },
+  "whatIsIt": [
+    "The spin move is a 360-degree turn on one planted foot to escape a defender: plant, pull the ball tight, rotate your back through the defender, and explode out the other side. Done right, the defender sees only your back — and by the time they turn, you're at the rim.",
+    "It's a move of momentum and timing, not strength. Spin too early and the defender hasn't committed; too late and you're already stopped. The golden window is the instant your shoulder meets theirs."
+  ],
+  "whyItMatters": [
+    "Every drive gets stopped eventually — the spin move is the reset button. It turns a dead drive into a fresh advantage without passing back out. The harder a defender charges in, the more the spin punishes them: their momentum becomes yours. Players with a reliable spin never run out of answers on a drive."
+  ]
+}

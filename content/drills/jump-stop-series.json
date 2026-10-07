@@ -3,6 +3,63 @@
   "slug": "jump-stop-series",
   "title": "Jump Stop Series",
   "description": "Build balanced footwork on every catch: jump stop, pivot, and power up strong from three scoring spots.",
+  "diagram": {
+    "title": "Jump Stop Series: land wide, pivot, power up",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 60,
+        "y": 24
+      },
+      {
+        "label": "1",
+        "x": 60,
+        "y": 20
+      },
+      {
+        "label": "2",
+        "x": 40,
+        "y": 20
+      },
+      {
+        "label": "3",
+        "x": 50,
+        "y": 16
+      }
+    ],
+    "ball": "O1",
+    "moves": [
+      {
+        "from": "O1",
+        "to": "1",
+        "kind": "move"
+      },
+      {
+        "from": "O1",
+        "to": "2",
+        "kind": "move"
+      },
+      {
+        "from": "O1",
+        "to": "3",
+        "kind": "move"
+      }
+    ],
+    "shots": [
+      {
+        "x": 60,
+        "y": 20
+      },
+      {
+        "x": 40,
+        "y": 20
+      },
+      {
+        "x": 50,
+        "y": 14
+      }
+    ]
+  },
   "skill": "Footwork",
   "level": "beginner",
   "ages": [

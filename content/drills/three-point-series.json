@@ -3,6 +3,81 @@
   "slug": "three-point-series",
   "title": "Three-Point Series",
   "description": "A structured 3-point workout: five spots, three rounds — catch-and-shoot, one-dribble pull-up, and step-back — building range with a make target at every spot.",
+  "diagram": {
+    "title": "Three-Point Series: catch, pull-up, step-back",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 42
+      },
+      {
+        "label": "1",
+        "x": 28,
+        "y": 12
+      },
+      {
+        "label": "2",
+        "x": 72,
+        "y": 12
+      },
+      {
+        "label": "3",
+        "x": 32,
+        "y": 34
+      },
+      {
+        "label": "4",
+        "x": 68,
+        "y": 34
+      },
+      {
+        "label": "5",
+        "x": 50,
+        "y": 30
+      }
+    ],
+    "ball": "O1",
+    "moves": [
+      {
+        "from": "O1",
+        "to": "1",
+        "kind": "cut"
+      },
+      {
+        "from": "O1",
+        "to": "3",
+        "kind": "cut"
+      },
+      {
+        "from": "O1",
+        "to": "5",
+        "kind": "cut"
+      }
+    ],
+    "shots": [
+      {
+        "x": 28,
+        "y": 12
+      },
+      {
+        "x": 72,
+        "y": 12
+      },
+      {
+        "x": 32,
+        "y": 34
+      },
+      {
+        "x": 68,
+        "y": 34
+      },
+      {
+        "x": 50,
+        "y": 30
+      }
+    ]
+  },
   "skill": "Shooting",
   "level": "intermediate",
   "ages": [

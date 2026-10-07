@@ -3,6 +3,30 @@
   "slug": "mikan-drill",
   "title": "Mikan Drill",
   "description": "The classic under-basket alternating layup drill that builds touch, footwork, and ambidextrous finishing right at the rim.",
+  "diagram": {
+    "title": "Mikan Drill: right-left, no bounce",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 54,
+        "y": 8
+      }
+    ],
+    "ball": "O1",
+    "moves": [
+      {
+        "from": "O1",
+        "to": "rim",
+        "kind": "move"
+      }
+    ],
+    "shots": [
+      {
+        "x": 50,
+        "y": 6
+      }
+    ]
+  },
   "skill": "Finishing",
   "level": "beginner",
   "ages": ["U8","U10","U12","U14","U16","U18","Adult"],
@@ -38,6 +62,7 @@
   "gameApplication": "Bigs and drivers alike need instant, reliable finishes around the rim — the Mikan drill is the foundation of every putback, drop-off, and seal finish.",
   "related": ["full-court-finishing","euro-step-finishing","box-out-battle"],
   "dateUpdated": "2026-10-06",
+  "video": {"title": "The Mikan Drill for Beginners", "url": "https://www.youtube.com/watch?v=_VcY9M49JAs"},
   "vi":   {
     "coachingPoints": [
       "Dùng bảng rổ mọi lượt — bảng cao, chạm nhẹ.",

@@ -3,12 +3,53 @@
   "slug": "one-on-one-live",
   "title": "1-on-1 Live",
   "description": "Competitive one-on-one from the wing with a dribble limit — the purest test of individual offense, on-ball defense, and shot creation.",
+  "diagram": {
+    "title": "1-on-1 Live: 3 dribbles, quick decision",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 68,
+        "y": 34
+      }
+    ],
+    "defense": [
+      {
+        "label": "X1",
+        "x": 64,
+        "y": 30
+      }
+    ],
+    "ball": "O1",
+    "moves": [
+      {
+        "from": "O1",
+        "to": "rim",
+        "kind": "dribble"
+      }
+    ],
+    "shots": [
+      {
+        "x": 50,
+        "y": 6
+      }
+    ]
+  },
   "skill": "Conditioning",
   "level": "intermediate",
-  "ages": ["U14","U16","U18","Adult","Competitive"],
-  "positions": ["ALL"],
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult",
+    "Competitive"
+  ],
+  "positions": [
+    "ALL"
+  ],
   "players": "2",
-  "equipment": ["Basketball"],
+  "equipment": [
+    "Basketball"
+  ],
   "durationMin": 12,
   "intensity": "high",
   "goal": "Build shot creation, individual defensive toughness, and competitive finishing in a controlled one-on-one environment.",
@@ -18,11 +59,26 @@
     "Play to 5 makes; winner stays on, next challenger rotates in."
   ],
   "instructions": [
-    {"title": "Check the ball and go", "detail": "Offense checks the ball to the defender, who returns it — the rep starts on the catch."},
-    {"title": "Attack within the dribble limit", "detail": "Offense has 3 dribbles to create a shot: drive, pull-up, or step-back — no holding the ball."},
-    {"title": "Defense plays to a stop", "detail": "Defender stays in stance, contests without fouling, and boxes out on the shot — a stop means the ball changes hands."},
-    {"title": "Winner stays on", "detail": "Make your shot and you keep the ball; miss or get stopped and you rotate to defense or the back of the line."},
-    {"title": "Rotate spots", "detail": "After each game to 5, move the starting spot — wing, top, corner — so players attack from everywhere."}
+    {
+      "title": "Check the ball and go",
+      "detail": "Offense checks the ball to the defender, who returns it — the rep starts on the catch."
+    },
+    {
+      "title": "Attack within the dribble limit",
+      "detail": "Offense has 3 dribbles to create a shot: drive, pull-up, or step-back — no holding the ball."
+    },
+    {
+      "title": "Defense plays to a stop",
+      "detail": "Defender stays in stance, contests without fouling, and boxes out on the shot — a stop means the ball changes hands."
+    },
+    {
+      "title": "Winner stays on",
+      "detail": "Make your shot and you keep the ball; miss or get stopped and you rotate to defense or the back of the line."
+    },
+    {
+      "title": "Rotate spots",
+      "detail": "After each game to 5, move the starting spot — wing, top, corner — so players attack from everywhere."
+    }
   ],
   "coachingPoints": [
     "Offense: attack with a plan — one move and a counter, not five moves and a prayer.",
@@ -37,9 +93,13 @@
   "progression": "Reduce to 2 dribbles, start from a live catch off a pass, or play 1-on-1 full court for conditioning.",
   "regression": "Allow unlimited dribbles, start the offense closer to the rim, or make it 1-on-1 with no defense (form reps) for younger players.",
   "gameApplication": "Late-clock and isolation situations come down to 1-on-1 skill — this drill builds the shot creation and defensive pride that decide close games.",
-  "related": ["closeout-drill","contact-finishing-drill","transition-two-on-one"],
+  "related": [
+    "closeout-drill",
+    "contact-finishing-drill",
+    "transition-two-on-one"
+  ],
   "dateUpdated": "2026-10-06",
-  "vi":   {
+  "vi": {
     "coachingPoints": [
       "Tấn công có kế hoạch — một động tác và một đòn phản đòn, đừng múa năm động tác rồi ném cầu may.",
       "Giữ thấp trọng tâm, di chuyển chân liên tục; với tay là phạm lỗi hoặc bị qua mặt.",

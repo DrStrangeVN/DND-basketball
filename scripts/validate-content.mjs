@@ -106,7 +106,7 @@ if (existsSync(join(CONTENT, "film.json"))) {
 }
 
 /* Phase 2 — Player Performance */
-const PERF_HUBS = ["athletic-performance","recovery","nutrition","hydration","injury-prevention"];
+const PERF_HUBS = ["athletic-performance","recovery","nutrition","hydration","injury-prevention","mental-performance"];
 const PERF_REQ = ["id","slug","hub","category","subcategory","title","description","level","positions","trainingPhase","goal","duration","equipment","whatItDevelops","whyBasketball","howTo","coachingPoints","commonMistakes","setsReps","basketballTransfer","progression","relatedTopics","tags","dateUpdated","vi"];
 const PERF_VI_REQ = ["title","description","duration","whatItDevelops","whyBasketball","howTo","coachingPoints","commonMistakes","setsReps","basketballTransfer","progression","tags"];
 const PERF_LEVELS = ["beginner","intermediate","advanced"];

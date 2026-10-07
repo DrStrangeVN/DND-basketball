@@ -3,6 +3,60 @@
   "slug": "combo-moves-full-court",
   "title": "Combo Moves Full Court",
   "description": "Chain two and three-move combinations at full speed the length of the court — crossover into between-the-legs, behind-the-back into hesitation, and more.",
+  "diagram": {
+    "title": "Full-Court Combos: a move at every cone",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 90
+      },
+      {
+        "label": "1",
+        "x": 50,
+        "y": 78
+      },
+      {
+        "label": "2",
+        "x": 50,
+        "y": 62
+      },
+      {
+        "label": "3",
+        "x": 50,
+        "y": 46
+      },
+      {
+        "label": "4",
+        "x": 50,
+        "y": 30
+      }
+    ],
+    "ball": "O1",
+    "moves": [
+      {
+        "from": "O1",
+        "to": "1",
+        "kind": "dribble"
+      },
+      {
+        "from": "O1",
+        "to": "3",
+        "kind": "dribble"
+      },
+      {
+        "from": "O1",
+        "to": "rim",
+        "kind": "dribble"
+      }
+    ],
+    "shots": [
+      {
+        "x": 50,
+        "y": 6
+      }
+    ]
+  },
   "skill": "Ball Handling",
   "level": "advanced",
   "ages": [

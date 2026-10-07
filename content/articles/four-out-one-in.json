@@ -20,6 +20,84 @@
   ],
   "dateUpdated": "2026-10-06",
   "description": "Four perimeter players plus one interior player — the classic balance of spacing and post presence.",
+  "diagram": {
+    "ball": "O1",
+    "defense": [
+      {
+        "label": "X1",
+        "x": 50,
+        "y": 41
+      },
+      {
+        "label": "X2",
+        "x": 27,
+        "y": 29
+      },
+      {
+        "label": "X3",
+        "x": 73,
+        "y": 29
+      },
+      {
+        "label": "X4",
+        "x": 85,
+        "y": 16
+      },
+      {
+        "label": "X5",
+        "x": 59,
+        "y": 10
+      }
+    ],
+    "moves": [
+      {
+        "from": "O2",
+        "kind": "cut",
+        "to": "rim"
+      }
+    ],
+    "offense": [
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 46
+      },
+      {
+        "label": "O2",
+        "x": 24,
+        "y": 32
+      },
+      {
+        "label": "O3",
+        "x": 76,
+        "y": 32
+      },
+      {
+        "label": "O4",
+        "x": 88,
+        "y": 14
+      },
+      {
+        "label": "O5",
+        "x": 56,
+        "y": 13
+      }
+    ],
+    "passes": [
+      {
+        "from": "O1",
+        "to": "O5"
+      }
+    ],
+    "screens": [],
+    "shots": [
+      {
+        "x": 56,
+        "y": 9
+      }
+    ],
+    "title": "Post entry with a weak-side cut to the rim"
+  },
   "gameSituations": [
     "Teams with one dominant interior player and four capable perimeter players.",
     "Against smaller lineups that cannot handle a post threat one-on-one.",

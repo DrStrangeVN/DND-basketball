@@ -21,6 +21,62 @@
   ],
   "dateUpdated": "2026-10-06",
   "description": "The 1-3-1 zone: one up top, three across, one baseline runner — aggressive, trapping, and built to create turnovers.",
+  "diagram": {
+    "ball": "O1",
+    "defense": [
+      {
+        "label": "X1",
+        "x": 50,
+        "y": 74
+      },
+      {
+        "label": "X2",
+        "x": 26,
+        "y": 52
+      },
+      {
+        "label": "X4",
+        "x": 50,
+        "y": 52
+      },
+      {
+        "label": "X3",
+        "x": 74,
+        "y": 52
+      },
+      {
+        "label": "X5",
+        "x": 50,
+        "y": 24
+      }
+    ],
+    "moves": [],
+    "offense": [
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 84
+      },
+      {
+        "label": "O2",
+        "x": 24,
+        "y": 64
+      },
+      {
+        "label": "O3",
+        "x": 76,
+        "y": 64
+      },
+      {
+        "label": "O5",
+        "x": 50,
+        "y": 40
+      }
+    ],
+    "passes": [],
+    "shots": [],
+    "title": "1-3-1 zone: one top, three across, one baseline runner"
+  },
   "gameSituations": [
     "Against teams with weak ball handlers who turn it over under pressure",
     "As a surprise change-up after playing man-to-man all game",
@@ -72,45 +128,7 @@
     "trapping"
   ],
   "title": "1-3-1 Zone Defense",
-  "whatIsIt": [
-    "The 1-3-1 zone is an aggressive, trapping zone: one defender pressuring the ball up top, three across the middle, and one long defender running the baseline. It looks like a diamond stretched across the court, and it is designed to do what most zones avoid — gamble.",
-    "Where the 2-3 zone sits back and protects, the 1-3-1 reaches out and grabs. It funnels the ball to the sideline, traps it there, and uses long, active defenders to deflect the escape passes. It creates turnovers and chaos — and it gives up open shots when the chaos is not controlled."
-  ],
-  "whyItMatters": [
-    "The 1-3-1 is the ultimate change-up defense: it looks nothing like man-to-man, it speeds up the game, and it punishes teams that are not prepared for it. Coaches love it as a momentum weapon — a few minutes of 1-3-1 can force the turnovers that flip a game. But it is high-risk, high-reward, and it demands athletic, disciplined wings to survive."
-  ],
   "vi": {
-    "title": "Phòng thủ zone 1-3-1",
-    "description": "Zone 1-3-1: một người trên đỉnh, ba người ngang giữa, một người chạy biên — hung hăng, bẫy bóng, sinh ra để tạo mất bóng.",
-    "whatIsIt": [
-      "Zone 1-3-1 là zone hung hăng, chuyên bẫy bóng: một hậu vệ gây sức ép lên bóng ở đỉnh, ba người ngang giữa, một hậu vệ dài chạy dọc biên cuối. Hình dạng như viên kim cương kéo ngang sân — thiết kế để làm điều mà đa số zone tránh: đánh cược.",
-      "Zone 2-3 lùi sâu và bảo vệ; 1-3-1 vươn ra và chộp lấy. Nó dồn bóng ra biên dọc, bẫy ở đó, dùng những hậu vệ dài và năng động để chạm vào các đường chuyền thoát. Nó tạo mất bóng và hỗn loạn — và để lộ cú ném trống khi hỗn loạn vượt kiểm soát."
-    ],
-    "whyItMatters": [
-      "Zone 1-3-1 là hàng thủ đổi nhịp tối thượng: trông chẳng giống kèm người, tăng tốc trận đấu, trừng phạt đội nào không chuẩn bị. HLV thích nó như vũ khí tạo đà — vài phút 1-3-1 ép ra những pha mất bóng lật ngược trận đấu. Nhưng rủi ro cao, thưởng cao — cần những cầu thủ cánh thể thao và kỷ luật mới trụ được."
-    ],
-    "howTo": [
-      {
-        "title": "Dựng hình 1-3-1",
-        "detail": "Một hậu vệ ở đỉnh gây sức ép lên bóng, ba người ngang giữa — hai cánh và một người giữa — và một 'người chạy' dọc biên cuối bảo vệ rổ và góc ngắn."
-      },
-      {
-        "title": "Gây sức ép và dồn bóng",
-        "detail": "Hậu vệ đỉnh ép người cầm bóng, dồn sang một bên. Cánh bên đó lao ra bẫy hoặc giữ — sự hung hăng của zone bắt đầu từ đây."
-      },
-      {
-        "title": "Bẫy biên dọc có chọn lọc",
-        "detail": "Cánh bên bóng và hậu vệ đỉnh có thể bẫy người cầm bóng gần biên dọc. Ba người giữa xoay sau bẫy, cắt các đường chuyền thoát."
-      },
-      {
-        "title": "Người chạy bảo vệ biên cuối",
-        "detail": "Người chạy biên trượt dọc biên cuối, lấy góc ngắn và vị trí dunker, rồi hồi về bảo vệ rổ. Anh ta là lưới an toàn của zone."
-      },
-      {
-        "title": "Chạy nước rút đổi hình khi bóng đảo",
-        "detail": "Mỗi đường skip pass, các cánh chạy nước rút — hình zone lật từ bên này sang bên kia. Cánh chậm là cú ném trống; zone này đòi thể lực."
-      }
-    ],
     "coachingPoints": [
       "Zone 1-3-1 phải năng động — zone thụ động chỉ là zone tệ.",
       "Các cánh vất vả nhất: chạy nước rút từ góc ra cánh mỗi lần bóng đảo.",
@@ -124,17 +142,55 @@
       "Bẫy mà không có xoay vòng phía sau — một đường chuyền đánh bại hai hậu vệ.",
       "Để giữa trống — high post và vị trí dunker giết 1-3-1."
     ],
+    "description": "Zone 1-3-1: một người trên đỉnh, ba người ngang giữa, một người chạy biên — hung hăng, bẫy bóng, sinh ra để tạo mất bóng.",
     "gameSituations": [
       "Gặp đội có người cầm bóng yếu, dễ mất bóng dưới sức ép.",
       "Miếng đổi nhịp bất ngờ sau khi kèm người cả trận.",
       "Cần cướp bóng và tốc độ — nó đánh cược để chạm bóng.",
       "Gặp hàng công chỉ đánh một bên sân."
     ],
+    "howTo": [
+      {
+        "detail": "Một hậu vệ ở đỉnh gây sức ép lên bóng, ba người ngang giữa — hai cánh và một người giữa — và một 'người chạy' dọc biên cuối bảo vệ rổ và góc ngắn.",
+        "title": "Dựng hình 1-3-1"
+      },
+      {
+        "detail": "Hậu vệ đỉnh ép người cầm bóng, dồn sang một bên. Cánh bên đó lao ra bẫy hoặc giữ — sự hung hăng của zone bắt đầu từ đây.",
+        "title": "Gây sức ép và dồn bóng"
+      },
+      {
+        "detail": "Cánh bên bóng và hậu vệ đỉnh có thể bẫy người cầm bóng gần biên dọc. Ba người giữa xoay sau bẫy, cắt các đường chuyền thoát.",
+        "title": "Bẫy biên dọc có chọn lọc"
+      },
+      {
+        "detail": "Người chạy biên trượt dọc biên cuối, lấy góc ngắn và vị trí dunker, rồi hồi về bảo vệ rổ. Anh ta là lưới an toàn của zone.",
+        "title": "Người chạy bảo vệ biên cuối"
+      },
+      {
+        "detail": "Mỗi đường skip pass, các cánh chạy nước rút — hình zone lật từ bên này sang bên kia. Cánh chậm là cú ném trống; zone này đòi thể lực.",
+        "title": "Chạy nước rút đổi hình khi bóng đảo"
+      }
+    ],
     "tags": [
       "phòng thủ",
       "zone",
       "1-3-1",
       "bẫy bóng"
+    ],
+    "title": "Phòng thủ zone 1-3-1",
+    "whatIsIt": [
+      "Zone 1-3-1 là zone hung hăng, chuyên bẫy bóng: một hậu vệ gây sức ép lên bóng ở đỉnh, ba người ngang giữa, một hậu vệ dài chạy dọc biên cuối. Hình dạng như viên kim cương kéo ngang sân — thiết kế để làm điều mà đa số zone tránh: đánh cược.",
+      "Zone 2-3 lùi sâu và bảo vệ; 1-3-1 vươn ra và chộp lấy. Nó dồn bóng ra biên dọc, bẫy ở đó, dùng những hậu vệ dài và năng động để chạm vào các đường chuyền thoát. Nó tạo mất bóng và hỗn loạn — và để lộ cú ném trống khi hỗn loạn vượt kiểm soát."
+    ],
+    "whyItMatters": [
+      "Zone 1-3-1 là hàng thủ đổi nhịp tối thượng: trông chẳng giống kèm người, tăng tốc trận đấu, trừng phạt đội nào không chuẩn bị. HLV thích nó như vũ khí tạo đà — vài phút 1-3-1 ép ra những pha mất bóng lật ngược trận đấu. Nhưng rủi ro cao, thưởng cao — cần những cầu thủ cánh thể thao và kỷ luật mới trụ được."
     ]
-  }
+  },
+  "whatIsIt": [
+    "The 1-3-1 zone is an aggressive, trapping zone: one defender pressuring the ball up top, three across the middle, and one long defender running the baseline. It looks like a diamond stretched across the court, and it is designed to do what most zones avoid — gamble.",
+    "Where the 2-3 zone sits back and protects, the 1-3-1 reaches out and grabs. It funnels the ball to the sideline, traps it there, and uses long, active defenders to deflect the escape passes. It creates turnovers and chaos — and it gives up open shots when the chaos is not controlled."
+  ],
+  "whyItMatters": [
+    "The 1-3-1 is the ultimate change-up defense: it looks nothing like man-to-man, it speeds up the game, and it punishes teams that are not prepared for it. Coaches love it as a momentum weapon — a few minutes of 1-3-1 can force the turnovers that flip a game. But it is high-risk, high-reward, and it demands athletic, disciplined wings to survive."
+  ]
 }

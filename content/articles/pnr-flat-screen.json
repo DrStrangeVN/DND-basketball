@@ -1,6 +1,89 @@
 {
  "title": "Flat Screens vs Switching Defenses",
  "description": "Set the screen square to the sideline to invite the switch — then punish the mismatch with precision.",
+ "diagram": {
+  "ball": "O1",
+  "defense": [
+   {
+    "label": "X1",
+    "x": 50,
+    "y": 52
+   },
+   {
+    "label": "X5",
+    "x": 58,
+    "y": 42
+   },
+   {
+    "label": "X2",
+    "x": 14,
+    "y": 30
+   },
+   {
+    "label": "X3",
+    "x": 86,
+    "y": 30
+   },
+   {
+    "label": "X4",
+    "x": 30,
+    "y": 62
+   }
+  ],
+  "moves": [
+   {
+    "from": "X5",
+    "kind": "move",
+    "to": "X1"
+   },
+   {
+    "from": "X1",
+    "kind": "move",
+    "to": "X5"
+   },
+   {
+    "from": "O1",
+    "kind": "dribble",
+    "to": "rim"
+   }
+  ],
+  "offense": [
+   {
+    "label": "O1",
+    "x": 50,
+    "y": 58
+   },
+   {
+    "label": "O5",
+    "x": 58,
+    "y": 48
+   },
+   {
+    "label": "O2",
+    "x": 14,
+    "y": 32
+   },
+   {
+    "label": "O3",
+    "x": 86,
+    "y": 32
+   },
+   {
+    "label": "O4",
+    "x": 30,
+    "y": 64
+   }
+  ],
+  "passes": [],
+  "screens": [
+   {
+    "x": 58,
+    "y": 54
+   }
+  ],
+  "shots": [],
+  "title": "Flat screen invites the switch — attack the mismatch"
+ },
  "hub": "pick-and-roll",
  "subcategory": "pick-and-roll",
  "level": "intermediate",

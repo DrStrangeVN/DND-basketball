@@ -3,6 +3,90 @@
   "slug": "midrange-series",
   "title": "Midrange Series",
   "description": "Own the in-between game: pull-up jumpers from the elbows, wings, and baseline — the shots defenses concede when they take away the rim and the three.",
+  "diagram": {
+    "title": "Midrange Series: elbows, wings, baseline",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 42
+      },
+      {
+        "label": "1",
+        "x": 60,
+        "y": 20
+      },
+      {
+        "label": "2",
+        "x": 40,
+        "y": 20
+      },
+      {
+        "label": "3",
+        "x": 70,
+        "y": 32
+      },
+      {
+        "label": "4",
+        "x": 30,
+        "y": 32
+      },
+      {
+        "label": "5",
+        "x": 66,
+        "y": 16
+      },
+      {
+        "label": "6",
+        "x": 34,
+        "y": 16
+      }
+    ],
+    "ball": "O1",
+    "moves": [
+      {
+        "from": "O1",
+        "to": "1",
+        "kind": "cut"
+      },
+      {
+        "from": "O1",
+        "to": "3",
+        "kind": "cut"
+      },
+      {
+        "from": "O1",
+        "to": "5",
+        "kind": "cut"
+      }
+    ],
+    "shots": [
+      {
+        "x": 60,
+        "y": 20
+      },
+      {
+        "x": 40,
+        "y": 20
+      },
+      {
+        "x": 70,
+        "y": 32
+      },
+      {
+        "x": 30,
+        "y": 32
+      },
+      {
+        "x": 66,
+        "y": 16
+      },
+      {
+        "x": 34,
+        "y": 16
+      }
+    ]
+  },
   "skill": "Shooting",
   "level": "intermediate",
   "ages": [

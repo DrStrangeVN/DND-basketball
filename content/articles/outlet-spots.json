@@ -1,6 +1,69 @@
 {
  "title": "Outlet Spots & Responsibilities",
  "description": "Every player has an outlet job the moment a shot goes up — define the spots and the break starts itself.",
+ "diagram": {
+  "ball": "O5",
+  "defense": [
+   {
+    "label": "X1",
+    "x": 24,
+    "y": 40
+   },
+   {
+    "label": "X2",
+    "x": 76,
+    "y": 40
+   }
+  ],
+  "moves": [
+   {
+    "from": "O3",
+    "kind": "cut",
+    "to": "rim"
+   },
+   {
+    "from": "O4",
+    "kind": "cut",
+    "to": "rim"
+   }
+  ],
+  "offense": [
+   {
+    "label": "O5",
+    "x": 50,
+    "y": 14
+   },
+   {
+    "label": "O1",
+    "x": 20,
+    "y": 44
+   },
+   {
+    "label": "O2",
+    "x": 80,
+    "y": 44
+   },
+   {
+    "label": "O3",
+    "x": 32,
+    "y": 62
+   },
+   {
+    "label": "O4",
+    "x": 68,
+    "y": 62
+   }
+  ],
+  "passes": [
+   {
+    "from": "O5",
+    "to": "O1"
+   }
+  ],
+  "screens": [],
+  "shots": [],
+  "title": "Guards to the outlets, wings run the lanes"
+ },
  "hub": "transition",
  "subcategory": "transition",
  "level": "beginner",

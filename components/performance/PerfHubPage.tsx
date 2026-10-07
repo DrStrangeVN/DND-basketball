@@ -2,7 +2,7 @@
 import { useEffect, useMemo, useState } from "react";
 import Link from "next/link";
 import {
-  ArrowRight, Clock, Dumbbell, BatteryCharging, Salad, Droplets, ShieldPlus,
+  ArrowRight, Clock, Dumbbell, BatteryCharging, Salad, Droplets, ShieldPlus, Brain,
   LayoutGrid, X, Coffee, UtensilsCrossed, Trophy, MoonStar, Apple, Scale, HeartPulse, Plane,
 } from "lucide-react";
 import { useLanguage, pick, type Lang } from "@/lib/i18n";
@@ -26,6 +26,7 @@ const HUB_ICONS: Record<PerfHubId, typeof Dumbbell> = {
   nutrition: Salad,
   hydration: Droplets,
   "injury-prevention": ShieldPlus,
+  "mental-performance": Brain,
 };
 
 const HUB_KEYS: Record<PerfHubId, string> = {
@@ -34,6 +35,7 @@ const HUB_KEYS: Record<PerfHubId, string> = {
   nutrition: "nutrition",
   hydration: "hydration",
   "injury-prevention": "injuryPrevention",
+  "mental-performance": "mentalPerformance",
 };
 
 /* Bilingual category labels; fallback prettifies kebab-case. */
@@ -62,6 +64,15 @@ const CATEGORY_LABELS: Record<string, { en: string; vi: string }> = {
   "sweat-loss": { en: "Sweat Loss", vi: "Mất mồ hôi" },
   "knee-prevention": { en: "Knee Prevention", vi: "Bảo vệ đầu gối" },
   "training-load": { en: "Training Load", vi: "Khối lượng tập" },
+  focus: { en: "Focus", vi: "Tập trung" },
+  "pre-game": { en: "Pre-Game", vi: "Trước trận" },
+  confidence: { en: "Confidence", vi: "Tự tin" },
+  pressure: { en: "Pressure", vi: "Áp lực" },
+  resilience: { en: "Resilience", vi: "Bản lĩnh tinh thần" },
+  routines: { en: "Routines", vi: "Thói quen thi đấu" },
+  development: { en: "Development", vi: "Phát triển bản thân" },
+  team: { en: "Team", vi: "Đồng đội" },
+  emotions: { en: "Emotions", vi: "Cảm xúc" },
 };
 
 function categoryLabel(cat: string, lang: Lang): string {

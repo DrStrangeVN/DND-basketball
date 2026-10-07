@@ -18,6 +18,54 @@
   ],
   "dateUpdated": "2026-10-06",
   "description": "Throw the ball ahead to a sprinting teammate instead of dribbling it up — the pass that turns rebounds into layups.",
+  "diagram": {
+    "ball": "O5",
+    "defense": [
+      {
+        "label": "X5",
+        "x": 54,
+        "y": 18
+      },
+      {
+        "label": "X3",
+        "x": 72,
+        "y": 44
+      }
+    ],
+    "moves": [
+      {
+        "from": "O1",
+        "kind": "cut",
+        "to": "rim"
+      }
+    ],
+    "offense": [
+      {
+        "label": "O5",
+        "x": 50,
+        "y": 14
+      },
+      {
+        "label": "O3",
+        "x": 76,
+        "y": 48
+      },
+      {
+        "label": "O1",
+        "x": 30,
+        "y": 60
+      }
+    ],
+    "passes": [
+      {
+        "from": "O5",
+        "to": "O3"
+      }
+    ],
+    "screens": [],
+    "shots": [],
+    "title": "Pitch-ahead: throw it to space up the sideline"
+  },
   "gameSituations": [
     "After every defensive rebound when the wing sprints.",
     "After a steal in the backcourt — pitch ahead before the defense turns.",

@@ -21,6 +21,79 @@
   ],
   "dateUpdated": "2026-10-06",
   "description": "Pack line defense: sag inside an imaginary line, protect the paint, and force contested jumpers — the system that stops drives.",
+  "diagram": {
+    "ball": "O1",
+    "defense": [
+      {
+        "label": "X1",
+        "x": 50,
+        "y": 47
+      },
+      {
+        "label": "X2",
+        "x": 38,
+        "y": 36
+      },
+      {
+        "label": "X3",
+        "x": 62,
+        "y": 36
+      },
+      {
+        "label": "X4",
+        "x": 44,
+        "y": 28
+      },
+      {
+        "label": "X5",
+        "x": 56,
+        "y": 28
+      }
+    ],
+    "moves": [
+      {
+        "from": "X2",
+        "kind": "move",
+        "to": "O2"
+      }
+    ],
+    "offense": [
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 52
+      },
+      {
+        "label": "O2",
+        "x": 28,
+        "y": 40
+      },
+      {
+        "label": "O3",
+        "x": 72,
+        "y": 40
+      },
+      {
+        "label": "O4",
+        "x": 40,
+        "y": 24
+      },
+      {
+        "label": "O5",
+        "x": 60,
+        "y": 22
+      }
+    ],
+    "passes": [
+      {
+        "from": "O1",
+        "to": "O2"
+      }
+    ],
+    "screens": [],
+    "shots": [],
+    "title": "Packed gaps inside the line, X2 closes out"
+  },
   "gameSituations": [
     "Against drive-heavy teams that live in the paint",
     "When your roster is less athletic but disciplined",

@@ -1,121 +1,173 @@
 {
- "title": "Early Post Seals in Transition",
- "description": "Sprint to the front of the rim before the defense sets — the easiest post touches in basketball come in the first four seconds.",
- "hub": "transition",
- "subcategory": "transition",
- "level": "intermediate",
- "positions": [
-  "C",
-  "PF"
- ],
- "ages": [
-  "U14",
-  "U16",
-  "U18",
-  "Adult"
- ],
- "readTime": 5,
- "tags": [
-  "transition",
-  "post",
-  "seal"
- ],
- "whatIsIt": [
-  "An early post seal happens when a big sprints the floor in transition and seals his defender on the high side before the defense gets set — usually within the first 4–5 seconds of the possession. The guard throws a quick entry pass and the big catches deep with a live dribble advantage.",
-  "It is the most efficient post touch in basketball because the defense hasn't loaded help yet. No double team is coming in the first four seconds — it's just your big, his man, and the rim."
- ],
- "whyItMatters": [
-  "Half-court post touches are expensive — they take time, attract doubles, and stall the offense. Early seals are free: same deep catch, zero help defense. Teams that run for early post position get 4–6 easy baskets a game that don't exist in the half court."
- ],
- "howTo": [
-  {
-   "title": "Sprint the middle",
-   "detail": "The big sprints straight down the middle of the floor — rim-runner lane — beating his defender up the court. Jogging gets you a seal at the three-point line, which is useless."
-  },
-  {
-   "title": "Seal on the catch side",
-   "detail": "As the ball advances, seal your defender on the high side (toward half court) with a wide base. The seal should happen at the front of the rim, not behind it."
-  },
-  {
-   "title": "Show a target",
-   "detail": "Hands up, calling for the ball. The guard needs to see you early — the window is the 2 seconds between your seal and the help arriving."
-  },
-  {
-   "title": "Catch and finish quick",
-   "detail": "Catch, one power dribble max, finish. Early seals die when bigs catch and survey — the help is coming, so go now."
-  }
- ],
- "coachingPoints": [
-  "Reward rim-running bigs with touches — if they sprint and never get the ball, they'll stop sprinting.",
-  "Guards: look inside first in transition, then out to shooters.",
-  "The seal must be legal — no grabbing the defender's jersey."
- ],
- "commonMistakes": [
-  "Sealing too high, 15 feet from the basket — that's not a seal, that's a traffic jam.",
-  "Catching and holding the ball while the defense loads up.",
-  "The guard missing the early read and dribbling into a set defense instead."
- ],
- "gameSituations": [
-  "After every defensive rebound — the first big down seals.",
-  "Vs slow-retreating teams that jog back on defense.",
-  "When your big has a size advantage — get him the ball before help arrives."
- ],
- "related": [
-  "rim-runner",
-  "transition-offense",
-  "post-positioning",
-  "outlet-passing"
- ],
- "vi": {
-  "title": "Seal post sớm trong phản công (early post seal)",
-  "description": "Chạy nước rút lên trước rổ trước khi hàng thủ ổn định — những lần chạm bóng ở post dễ nhất đến trong bốn giây đầu.",
-  "whatIsIt": [
-   "Seal post sớm xảy ra khi big chạy nước rút cả sân trong phản công và khóa hậu vệ ở phía trên trước khi hàng thủ kịp ổn định — thường trong 4–5 giây đầu của đợt tấn công. Hậu vệ ném đường chuyền vào nhanh, big bắt bóng sâu với lợi thế dẫn bóng còn sống.",
-   "Đây là lần chạm bóng ở post hiệu quả nhất vì hàng thủ chưa kịp dồn cầu thủ hỗ trợ. Không có double team nào đến trong bốn giây đầu — chỉ có big của cầu thủ, người kèm anh ta, và cái rổ."
-  ],
-  "whyItMatters": [
-   "Chạm bóng ở post trong tấn công nửa sân rất đắt — tốn thời gian, hút double team, làm chậm tấn công. Seal sớm thì miễn phí: cùng một lần bắt bóng sâu, không cầu thủ hỗ trợ. Đội chịu chạy lấy vị trí post sớm có 4–6 rổ dễ mỗi trận mà tấn công nửa sân không bao giờ tạo ra."
-  ],
-  "howTo": [
-   {
-    "title": "Chạy nước rút giữa sân",
-    "detail": "Big chạy nước rút thẳng giữa sân — làn của rim-runner — vượt mặt hậu vệ kèm mình. Chạy thả lỏng chỉ seal được ở vạch 3 điểm, vô dụng."
-   },
-   {
-    "title": "Seal ở phía bóng đến",
-    "detail": "Khi bóng lên, khóa hậu vệ ở phía trên (về phía nửa sân) bằng tư thế chân rộng. Điểm seal phải ở trước rổ, không phải sau rổ."
-   },
-   {
-    "title": "Giơ tay xin bóng",
-    "detail": "Tay giơ cao, gọi xin bóng. Hậu vệ cần thấy cầu thủ sớm — cửa sổ chỉ hai giây từ lúc seal đến lúc cầu thủ hỗ trợ tới."
-   },
-   {
-    "title": "Bắt bóng và kết thúc nhanh",
-    "detail": "Bắt bóng, tối đa một nhịp dẫn mạnh, kết thúc. Seal sớm chết khi big bắt bóng rồi quan sát — cầu thủ hỗ trợ đang đến, đi ngay."
-   }
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
   ],
   "coachingPoints": [
-   "Thưởng cho big chịu rim-run bằng những lần chạm bóng — họ chạy nước rút mà không bao giờ được bóng, họ sẽ ngừng chạy.",
-   "Hậu vệ: trong phản công nhìn vào trong trước, rồi mới ra tay ném.",
-   "Seal phải hợp lệ — không túm áo hậu vệ."
+    "Reward rim-running bigs with touches — if they sprint and never get the ball, they'll stop sprinting.",
+    "Guards: look inside first in transition, then out to shooters.",
+    "The seal must be legal — no grabbing the defender's jersey."
   ],
   "commonMistakes": [
-   "Seal quá cao, cách rổ 4,5m — đó không phải seal, đó là kẹt xe.",
-   "Bắt bóng rồi giữ trong lúc hàng thủ dồn lên.",
-   "Hậu vệ bỏ lỡ pha đọc sớm, dẫn bóng vào hàng thủ đã ổn định."
+    "Sealing too high, 15 feet from the basket — that's not a seal, that's a traffic jam.",
+    "Catching and holding the ball while the defense loads up.",
+    "The guard missing the early read and dribbling into a set defense instead."
   ],
+  "dateUpdated": "2026-10-06",
+  "description": "Sprint to the front of the rim before the defense sets — the easiest post touches in basketball come in the first four seconds.",
+  "diagram": {
+    "ball": "O1",
+    "defense": [
+      {
+        "label": "X5",
+        "x": 55,
+        "y": 72
+      },
+      {
+        "label": "X1",
+        "x": 44,
+        "y": 70
+      }
+    ],
+    "moves": [
+      {
+        "from": "O5",
+        "kind": "cut",
+        "to": "rim"
+      }
+    ],
+    "offense": [
+      {
+        "label": "O1",
+        "x": 42,
+        "y": 78
+      },
+      {
+        "label": "O5",
+        "x": 50,
+        "y": 88
+      },
+      {
+        "label": "O2",
+        "x": 24,
+        "y": 62
+      }
+    ],
+    "passes": [
+      {
+        "from": "O1",
+        "to": "O5"
+      }
+    ],
+    "shots": [
+      {
+        "x": 50,
+        "y": 5.25
+      }
+    ],
+    "title": "Early seal: sprint the middle, seal high, quick entry"
+  },
   "gameSituations": [
-   "Sau mỗi rebound phòng thủ — big xuống đầu tiên seal ngay.",
-   "Đấu đội lui chậm, chạy về thả lỏng.",
-   "Khi big của đội có lợi thế thể hình — đưa bóng cho anh ta trước khi cầu thủ hỗ trợ tới."
+    "After every defensive rebound — the first big down seals.",
+    "Vs slow-retreating teams that jog back on defense.",
+    "When your big has a size advantage — get him the ball before help arrives."
   ],
+  "howTo": [
+    {
+      "detail": "The big sprints straight down the middle of the floor — rim-runner lane — beating his defender up the court. Jogging gets you a seal at the three-point line, which is useless.",
+      "title": "Sprint the middle"
+    },
+    {
+      "detail": "As the ball advances, seal your defender on the high side (toward half court) with a wide base. The seal should happen at the front of the rim, not behind it.",
+      "title": "Seal on the catch side"
+    },
+    {
+      "detail": "Hands up, calling for the ball. The guard needs to see you early — the window is the 2 seconds between your seal and the help arriving.",
+      "title": "Show a target"
+    },
+    {
+      "detail": "Catch, one power dribble max, finish. Early seals die when bigs catch and survey — the help is coming, so go now.",
+      "title": "Catch and finish quick"
+    }
+  ],
+  "hub": "transition",
+  "id": "transition-early-post",
+  "level": "intermediate",
+  "positions": [
+    "C",
+    "PF"
+  ],
+  "readTime": 5,
+  "related": [
+    "rim-runner",
+    "transition-offense",
+    "post-positioning",
+    "outlet-passing"
+  ],
+  "slug": "transition-early-post",
+  "subcategory": "transition",
   "tags": [
-   "phản công",
-   "đánh post",
-   "seal"
+    "transition",
+    "post",
+    "seal"
+  ],
+  "title": "Early Post Seals in Transition",
+  "vi": {
+    "coachingPoints": [
+      "Thưởng cho big chịu rim-run bằng những lần chạm bóng — họ chạy nước rút mà không bao giờ được bóng, họ sẽ ngừng chạy.",
+      "Hậu vệ: trong phản công nhìn vào trong trước, rồi mới ra tay ném.",
+      "Seal phải hợp lệ — không túm áo hậu vệ."
+    ],
+    "commonMistakes": [
+      "Seal quá cao, cách rổ 4,5m — đó không phải seal, đó là kẹt xe.",
+      "Bắt bóng rồi giữ trong lúc hàng thủ dồn lên.",
+      "Hậu vệ bỏ lỡ pha đọc sớm, dẫn bóng vào hàng thủ đã ổn định."
+    ],
+    "description": "Chạy nước rút lên trước rổ trước khi hàng thủ ổn định — những lần chạm bóng ở post dễ nhất đến trong bốn giây đầu.",
+    "gameSituations": [
+      "Sau mỗi rebound phòng thủ — big xuống đầu tiên seal ngay.",
+      "Đấu đội lui chậm, chạy về thả lỏng.",
+      "Khi big của đội có lợi thế thể hình — đưa bóng cho anh ta trước khi cầu thủ hỗ trợ tới."
+    ],
+    "howTo": [
+      {
+        "detail": "Big chạy nước rút thẳng giữa sân — làn của rim-runner — vượt mặt hậu vệ kèm mình. Chạy thả lỏng chỉ seal được ở vạch 3 điểm, vô dụng.",
+        "title": "Chạy nước rút giữa sân"
+      },
+      {
+        "detail": "Khi bóng lên, khóa hậu vệ ở phía trên (về phía nửa sân) bằng tư thế chân rộng. Điểm seal phải ở trước rổ, không phải sau rổ.",
+        "title": "Seal ở phía bóng đến"
+      },
+      {
+        "detail": "Tay giơ cao, gọi xin bóng. Hậu vệ cần thấy cầu thủ sớm — cửa sổ chỉ hai giây từ lúc seal đến lúc cầu thủ hỗ trợ tới.",
+        "title": "Giơ tay xin bóng"
+      },
+      {
+        "detail": "Bắt bóng, tối đa một nhịp dẫn mạnh, kết thúc. Seal sớm chết khi big bắt bóng rồi quan sát — cầu thủ hỗ trợ đang đến, đi ngay.",
+        "title": "Bắt bóng và kết thúc nhanh"
+      }
+    ],
+    "tags": [
+      "phản công",
+      "đánh post",
+      "seal"
+    ],
+    "title": "Seal post sớm trong phản công (early post seal)",
+    "whatIsIt": [
+      "Seal post sớm xảy ra khi big chạy nước rút cả sân trong phản công và khóa hậu vệ ở phía trên trước khi hàng thủ kịp ổn định — thường trong 4–5 giây đầu của đợt tấn công. Hậu vệ ném đường chuyền vào nhanh, big bắt bóng sâu với lợi thế dẫn bóng còn sống.",
+      "Đây là lần chạm bóng ở post hiệu quả nhất vì hàng thủ chưa kịp dồn cầu thủ hỗ trợ. Không có double team nào đến trong bốn giây đầu — chỉ có big của cầu thủ, người kèm anh ta, và cái rổ."
+    ],
+    "whyItMatters": [
+      "Chạm bóng ở post trong tấn công nửa sân rất đắt — tốn thời gian, hút double team, làm chậm tấn công. Seal sớm thì miễn phí: cùng một lần bắt bóng sâu, không cầu thủ hỗ trợ. Đội chịu chạy lấy vị trí post sớm có 4–6 rổ dễ mỗi trận mà tấn công nửa sân không bao giờ tạo ra."
+    ]
+  },
+  "whatIsIt": [
+    "An early post seal happens when a big sprints the floor in transition and seals his defender on the high side before the defense gets set — usually within the first 4–5 seconds of the possession. The guard throws a quick entry pass and the big catches deep with a live dribble advantage.",
+    "It is the most efficient post touch in basketball because the defense hasn't loaded help yet. No double team is coming in the first four seconds — it's just your big, his man, and the rim."
+  ],
+  "whyItMatters": [
+    "Half-court post touches are expensive — they take time, attract doubles, and stall the offense. Early seals are free: same deep catch, zero help defense. Teams that run for early post position get 4–6 easy baskets a game that don't exist in the half court."
   ]
- },
- "id": "transition-early-post",
- "slug": "transition-early-post",
- "dateUpdated": "2026-10-06"
 }

@@ -20,6 +20,57 @@
   ],
   "dateUpdated": "2026-10-06",
   "description": "The defense switched — now punish it. How to hunt mismatches, attack bigs off the dribble, and punish smalls in the post after a switch.",
+  "diagram": {
+    "ball": "O1",
+    "defense": [
+      {
+        "label": "X5",
+        "x": 48,
+        "y": 54
+      },
+      {
+        "label": "X1",
+        "x": 54,
+        "y": 46
+      }
+    ],
+    "moves": [
+      {
+        "from": "O1",
+        "kind": "dribble",
+        "to": "rim"
+      }
+    ],
+    "offense": [
+      {
+        "label": "O1",
+        "x": 44,
+        "y": 58
+      },
+      {
+        "label": "O5",
+        "x": 56,
+        "y": 48
+      },
+      {
+        "label": "O2",
+        "x": 28,
+        "y": 40
+      },
+      {
+        "label": "O3",
+        "x": 72,
+        "y": 40
+      }
+    ],
+    "shots": [
+      {
+        "x": 50,
+        "y": 8
+      }
+    ],
+    "title": "Attack the switch: guard blows by the big"
+  },
   "gameSituations": [
     "Against any switching pick-and-roll defense",
     "Late clock when you need one mismatch to attack",

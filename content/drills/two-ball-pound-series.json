@@ -3,6 +3,29 @@
   "slug": "two-ball-pound-series",
   "title": "Two-Ball Pound Series",
   "description": "A stationary two-ball dribbling progression that builds hand strength, rhythm, and ambidexterity with 5 pound-dribble variations.",
+  "diagram": {
+    "title": "Two-Ball Pounds: pistons, then walk-out",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 50
+      },
+      {
+        "label": "1",
+        "x": 50,
+        "y": 60
+      }
+    ],
+    "ball": "O1",
+    "moves": [
+      {
+        "from": "O1",
+        "to": "1",
+        "kind": "move"
+      }
+    ]
+  },
   "skill": "Ball Handling",
   "level": "beginner",
   "ages": [

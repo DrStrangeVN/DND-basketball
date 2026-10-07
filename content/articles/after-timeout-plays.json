@@ -19,6 +19,80 @@
   ],
   "dateUpdated": "2026-10-06",
   "description": "The most efficient plays in basketball: how to design, call, and execute ATOs that produce layups and open threes out of every timeout.",
+  "diagram": {
+    "ball": "O1",
+    "defense": [
+      {
+        "label": "X1",
+        "x": 50,
+        "y": 57
+      },
+      {
+        "label": "X4",
+        "x": 36,
+        "y": 34
+      },
+      {
+        "label": "X2",
+        "x": 28,
+        "y": 28
+      }
+    ],
+    "moves": [
+      {
+        "from": "O2",
+        "kind": "cut",
+        "to": "rim"
+      }
+    ],
+    "offense": [
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 62
+      },
+      {
+        "label": "O4",
+        "x": 36,
+        "y": 38
+      },
+      {
+        "label": "O5",
+        "x": 62,
+        "y": 44
+      },
+      {
+        "label": "O2",
+        "x": 25,
+        "y": 30
+      },
+      {
+        "label": "O3",
+        "x": 74,
+        "y": 30
+      }
+    ],
+    "passes": [
+      {
+        "from": "O1",
+        "to": "rim"
+      }
+    ],
+    "screens": [
+      {
+        "angle": 90,
+        "x": 31,
+        "y": 30
+      }
+    ],
+    "shots": [
+      {
+        "x": 50,
+        "y": 7
+      }
+    ],
+    "title": "ATO horns: back-screen lob for a layup"
+  },
   "gameSituations": [
     "Every timeout in a close game",
     "End of quarters needing a guaranteed look",

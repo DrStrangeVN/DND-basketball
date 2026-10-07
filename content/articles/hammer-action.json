@@ -19,6 +19,75 @@
   ],
   "dateUpdated": "2026-10-06",
   "description": "Baseline drive plus a back screen for the weak-side shooter — the hammer creates the most open three in basketball.",
+  "diagram": {
+    "ball": "O1",
+    "defense": [
+      {
+        "label": "X1",
+        "x": 70,
+        "y": 33
+      },
+      {
+        "label": "X2",
+        "x": 30,
+        "y": 30
+      },
+      {
+        "label": "X4",
+        "x": 86,
+        "y": 12
+      }
+    ],
+    "moves": [
+      {
+        "from": "O1",
+        "kind": "dribble",
+        "to": "rim"
+      },
+      {
+        "from": "O2",
+        "kind": "cut",
+        "to": "X4"
+      }
+    ],
+    "offense": [
+      {
+        "label": "O1",
+        "x": 72,
+        "y": 36
+      },
+      {
+        "label": "O2",
+        "x": 28,
+        "y": 32
+      },
+      {
+        "label": "O5",
+        "x": 80,
+        "y": 18
+      }
+    ],
+    "passes": [
+      {
+        "from": "O1",
+        "to": "O2"
+      }
+    ],
+    "screens": [
+      {
+        "angle": 90,
+        "x": 83,
+        "y": 14
+      }
+    ],
+    "shots": [
+      {
+        "x": 86,
+        "y": 12
+      }
+    ],
+    "title": "Hammer: baseline drive, back screen, corner three"
+  },
   "gameSituations": [
     "Baseline drives — the classic hammer setup.",
     "Against help-heavy defenses that sink to the paint.",

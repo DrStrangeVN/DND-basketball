@@ -3,12 +3,52 @@
   "slug": "contact-finishing-drill",
   "title": "Contact Finishing",
   "description": "A two-player drill with a pad or bump at the rim that trains finishing through contact, and-one toughness, and free-throw conversion.",
+  "diagram": {
+    "title": "Contact Finishing: drive through the bump",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 68,
+        "y": 38
+      }
+    ],
+    "defense": [
+      {
+        "label": "X1",
+        "x": 56,
+        "y": 16
+      }
+    ],
+    "ball": "O1",
+    "moves": [
+      {
+        "from": "O1",
+        "to": "rim",
+        "kind": "dribble"
+      }
+    ],
+    "shots": [
+      {
+        "x": 50,
+        "y": 6
+      }
+    ]
+  },
   "skill": "Finishing",
   "level": "advanced",
-  "ages": ["U16","U18","Adult","Competitive"],
-  "positions": ["ALL"],
+  "ages": [
+    "U16",
+    "U18",
+    "Adult",
+    "Competitive"
+  ],
+  "positions": [
+    "ALL"
+  ],
   "players": "2",
-  "equipment": ["Basketball"],
+  "equipment": [
+    "Basketball"
+  ],
   "durationMin": 12,
   "intensity": "high",
   "goal": "Build the strength and body control to finish at the rim through real defensive contact and convert and-one opportunities.",
@@ -18,10 +58,22 @@
     "Rotate roles every 5 makes so both players get contact reps."
   ],
   "instructions": [
-    {"title": "Drive and absorb contact", "detail": "Finisher attacks the rim at speed while the defender bumps with the pad at the gather — finisher must keep the ball high and finish."},
-    {"title": "Two-foot power finishes", "detail": "Gather into a two-foot jump stop and go up strong through the bump, using the rim to protect the ball from the defender."},
-    {"title": "And-one free throws", "detail": "After every make through contact, the finisher immediately shoots one free throw — makes the and-one habit automatic."},
-    {"title": "Switch sides and roles", "detail": "Do 5 makes driving right and 5 driving left, then swap roles and repeat."}
+    {
+      "title": "Drive and absorb contact",
+      "detail": "Finisher attacks the rim at speed while the defender bumps with the pad at the gather — finisher must keep the ball high and finish."
+    },
+    {
+      "title": "Two-foot power finishes",
+      "detail": "Gather into a two-foot jump stop and go up strong through the bump, using the rim to protect the ball from the defender."
+    },
+    {
+      "title": "And-one free throws",
+      "detail": "After every make through contact, the finisher immediately shoots one free throw — makes the and-one habit automatic."
+    },
+    {
+      "title": "Switch sides and roles",
+      "detail": "Do 5 makes driving right and 5 driving left, then swap roles and repeat."
+    }
   ],
   "coachingPoints": [
     "Initiate the contact yourself — a finisher who seeks the bump stays balanced; one who avoids it gets knocked off line.",
@@ -36,9 +88,13 @@
   "progression": "Defender contests vertically with a hand up instead of just bumping, finisher must score through two consecutive bumps, or add a help defender rotating over.",
   "regression": "Use lighter bumps, start the drive closer to the rim, or remove the defender and focus on two-foot power mechanics first.",
   "gameApplication": "Playoff and late-game basketball is physical — players who finish through contact draw fouls and convert three-point plays instead of settling.",
-  "related": ["euro-step-finishing","full-court-finishing","one-on-one-live"],
+  "related": [
+    "euro-step-finishing",
+    "full-court-finishing",
+    "one-on-one-live"
+  ],
   "dateUpdated": "2026-10-06",
-  "vi":   {
+  "vi": {
     "coachingPoints": [
       "Tự mình tạo ra va chạm — người dứt điểm chủ động tìm va chạm sẽ giữ thăng bằng; người né tránh sẽ bị đánh lệch hướng.",
       "Giữ bóng cao và chặt khi thu bóng — bóng thấp sẽ bị cướp khi va chạm.",

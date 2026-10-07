@@ -3,6 +3,63 @@
   "slug": "floater-series",
   "title": "Floater Series",
   "description": "A progressive floater drill from 3 distances that teaches the soft one-handed touch shot over shot-blockers in the lane.",
+  "diagram": {
+    "title": "Floater Series: 6, 10, 14 feet",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 70,
+        "y": 38
+      },
+      {
+        "label": "1",
+        "x": 56,
+        "y": 12
+      },
+      {
+        "label": "2",
+        "x": 58,
+        "y": 18
+      },
+      {
+        "label": "3",
+        "x": 60,
+        "y": 24
+      }
+    ],
+    "ball": "O1",
+    "moves": [
+      {
+        "from": "O1",
+        "to": "1",
+        "kind": "dribble"
+      },
+      {
+        "from": "O1",
+        "to": "2",
+        "kind": "dribble"
+      },
+      {
+        "from": "O1",
+        "to": "3",
+        "kind": "dribble"
+      }
+    ],
+    "shots": [
+      {
+        "x": 56,
+        "y": 12
+      },
+      {
+        "x": 58,
+        "y": 18
+      },
+      {
+        "x": 60,
+        "y": 24
+      }
+    ]
+  },
   "skill": "Finishing",
   "level": "intermediate",
   "ages": [

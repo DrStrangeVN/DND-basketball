@@ -19,6 +19,40 @@
   ],
   "dateUpdated": "2026-10-06",
   "description": "Keep the ball yours against pressure — body positioning, retreat dribbles, and protecting on the catch.",
+  "diagram": {
+    "title": "Ball protection: pass out before the trap closes",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 60
+      },
+      {
+        "label": "O2",
+        "x": 24,
+        "y": 60
+      }
+    ],
+    "defense": [
+      {
+        "label": "X1",
+        "x": 44,
+        "y": 52
+      },
+      {
+        "label": "X2",
+        "x": 56,
+        "y": 52
+      }
+    ],
+    "ball": "O1",
+    "passes": [
+      {
+        "from": "O1",
+        "to": "O2"
+      }
+    ]
+  },
   "gameSituations": [
     "Trapped on the sideline — protect and pivot out.",
     "Rebounding in traffic — chin it before the outlet.",

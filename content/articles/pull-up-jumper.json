@@ -21,6 +21,42 @@
   ],
   "dateUpdated": "2026-10-06",
   "description": "Stop on a dime and rise into your jumper off the dribble — the scorer's weapon against retreating defenses.",
+  "diagram": {
+    "title": "Pull-up jumper: stop on balance and rise",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 58,
+        "y": 60
+      },
+      {
+        "label": "O2",
+        "x": 56,
+        "y": 40
+      }
+    ],
+    "defense": [
+      {
+        "label": "X1",
+        "x": 54,
+        "y": 52
+      }
+    ],
+    "ball": "O1",
+    "moves": [
+      {
+        "from": "O1",
+        "to": "O2",
+        "kind": "dribble"
+      }
+    ],
+    "shots": [
+      {
+        "x": 56,
+        "y": 40
+      }
+    ]
+  },
   "gameSituations": [
     "Attacking a drop-coverage big — he sags to protect the rim; you stop in the open midrange and shoot.",
     "Transition pull-ups — the defense is backpedaling; a pull-up three or midrange beats their retreat.",
@@ -76,6 +112,7 @@
   "whyItMatters": [
     "Defenses are built to take away the rim and the three. The pull-up lives in the space between — the midrange and the short three — where modern defenses concede shots. Players who can pull up force defenders into an impossible choice: play the drive and give up the jumper, or play the jumper and give up the drive. That dilemma is the definition of a scorer."
   ],
+  "video": {"title": "How to Train the Pull-Up Jumper", "url": "https://www.youtube.com/watch?v=gWoGL55vrHI"},
   "vi": {
     "coachingPoints": [
       "Pha dẫn cuối là khâu chuẩn bị — giữ nó thấp, mạnh và phía trước để gom bóng sạch",

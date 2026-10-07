@@ -110,7 +110,8 @@ export function toDrillCard(d: Drill): DrillCardData {
 /* ------------------------------------------------------------------ */
 
 export type PerfHubId =
-  | "athletic-performance" | "recovery" | "nutrition" | "hydration" | "injury-prevention";
+  | "athletic-performance" | "recovery" | "nutrition" | "hydration" | "injury-prevention"
+  | "mental-performance";
 
 export interface PerfStep { title: string; detail: string }
 
@@ -174,6 +175,12 @@ export const PERF_HUBS: Record<PerfHubId, PerfHubMeta> = {
     tagline: "Move better. Build capacity. Reduce preventable injury risk.",
     taglineVi: "Di chuyển tốt hơn. Tăng sức chịu tải. Giảm nguy cơ chấn thương có thể phòng tránh.",
     icon: "ShieldPlus",
+  },
+  "mental-performance": {
+    id: "mental-performance", name: "Mental Performance", nameVi: "Tâm lý thi đấu",
+    tagline: "Build focus, confidence and composure for game day.",
+    taglineVi: "Rèn sự tập trung, tự tin và bản lĩnh cho ngày thi đấu.",
+    icon: "Brain",
   },
 };
 

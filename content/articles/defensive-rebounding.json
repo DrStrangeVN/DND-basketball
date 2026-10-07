@@ -23,6 +23,42 @@
   ],
   "dateUpdated": "2026-10-06",
   "description": "End every defensive possession: box out, attack the ball, and launch the break.",
+  "diagram": {
+    "title": "Defensive rebounding: box out, then attack the ball",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 64,
+        "y": 55
+      },
+      {
+        "label": "O2",
+        "x": 45,
+        "y": 24
+      }
+    ],
+    "defense": [
+      {
+        "label": "X1",
+        "x": 50,
+        "y": 20
+      }
+    ],
+    "ball": "O1",
+    "moves": [
+      {
+        "from": "X1",
+        "to": "O2",
+        "kind": "move"
+      }
+    ],
+    "shots": [
+      {
+        "x": 64,
+        "y": 55
+      }
+    ]
+  },
   "gameSituations": [
     "After any missed shot when you're on defense — all five players have a job.",
     "Free throws — the two defensive spots must secure the board.",

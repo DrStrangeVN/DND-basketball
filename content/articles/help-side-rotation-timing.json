@@ -20,6 +20,52 @@
   ],
   "dateUpdated": "2026-10-06",
   "description": "Help-side rotations fail on timing, not effort. Learn the three triggers that tell you exactly when to leave your man and when to stay home.",
+  "diagram": {
+    "title": "Help-side rotation: rotate on the drive, recover on the pass",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 62,
+        "y": 58
+      },
+      {
+        "label": "O2",
+        "x": 30,
+        "y": 40
+      }
+    ],
+    "defense": [
+      {
+        "label": "X1",
+        "x": 57,
+        "y": 50
+      },
+      {
+        "label": "X2",
+        "x": 38,
+        "y": 36
+      }
+    ],
+    "ball": "O1",
+    "moves": [
+      {
+        "from": "O1",
+        "to": "rim",
+        "kind": "dribble"
+      },
+      {
+        "from": "X2",
+        "to": "X1",
+        "kind": "move"
+      }
+    ],
+    "passes": [
+      {
+        "from": "O1",
+        "to": "O2"
+      }
+    ]
+  },
   "gameSituations": [
     "Baseline drive forces the low man to rotate and the weak side to tag the roller",
     "Pick and roll with a drop big draws the weak-side wing into rotation",

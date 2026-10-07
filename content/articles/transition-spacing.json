@@ -1,59 +1,199 @@
-{"ages":["U12","U14","U16","U18","Adult"],"coachingPoints":["Three lanes, three runners: middle lane for the ball, two wide lanes 3 meters from each sideline.","Sprint the first three steps — the break is won or lost in the first second after the rebound.","Fill the corners: the first wing to the frontcourt owns the ball-side corner, the second fills the weak-side corner.","Stay wide until the ball crosses half-court — cutting inside early lets one defender guard two runners.","The trailer fills the top last — five-out spacing means the break never has two players in the paint."],"commonMistakes":["All five players running to the ball — one defender then guards three attackers.","Cutting to the basket before the ball crosses half-court, dragging your defender into the play.","Stopping at the three-point line instead of filling the corner — the corner three is the break's best shot.","Running the same lane as a teammate — two runners, one lane, zero spacing."],"dateUpdated":"2026-10-06","description":"The geometry of the fast break: lane width, depth, corner filling, and the spacing rules that turn speed into points.","gameSituations":["Rebound and outlet — three runners fill three lanes before the defense gets back.","3-on-2 break — wide lanes force the two defenders to choose between the ball and the corners.","Numbers break against a set defense — proper spacing turns a 3-on-3 into driving lanes and corner threes.","Secondary break — the first wave's spacing flows directly into a ball screen without resetting."],"howTo":[{"detail":"Every fast break has three lanes: the middle lane (ball handler, rim to rim) and two wide lanes, each about 3 meters from the sideline. The rule is simple: one runner per lane, and the lanes stay wide until the ball crosses half-court. Wide lanes stretch the defense horizontally — two defenders cannot cover three lanes, so someone is always open. The moment a runner cuts inside early, one defender can guard two attackers and the break dies.","title":"Three lanes, one runner each"},{"detail":"Depth matters as much as width. The first wing down the floor sprints past the three-point line and fills the ball-side corner — not the wing, the corner. The corner is the break's best shot: it's the longest closeout for the defense and the shortest pass for the ball handler. The second wing fills the weak-side corner or the slot, depending on the defense. Corners filled means the defense must cover the full 15-meter width of the court at full sprint — most can't.","title":"Fill the corners, not the wings"},{"detail":"The rim runner sprints straight down the middle, aiming for the front of the rim — not the block, not the short corner. The middle lane must stay open for the ball handler's drive; a rim runner who drifts to the block clogs the driver's lane. Time it: the rim runner should arrive at the paint as the ball crosses the three-point line, giving the ball handler a vertical passing target the whole way. If the defense stops the ball, the rim runner is the dump-off; if they stop the rim runner, the ball handler scores.","title":"Rim runner: straight down the middle"},{"detail":"Spacing is timing: the break's lanes only work if runners arrive in waves. The ball handler pushes at full speed, the wings sprint wide, and the trailer comes 2-3 seconds later to the top. If everyone arrives at once, the defense sets once and the advantage is gone; in waves, the defense must make a new decision every second. Teach the rhythm: first wave attacks the rim, second wave (trailer) attacks the closeout. Two waves beat one set defense every time.","title":"Arrive in waves, not all at once"},{"detail":"When the break doesn't score in the first 6 seconds, spacing flows into the secondary break without stopping: the ball reverses through the trailer at the top, the wings stay wide, and the first ball screen comes while the defense is still backpedaling. The key rule — never let all five players end up above the three-point line. Keep two players wide in the corners and one at the rim; the secondary break is just the fast break's spacing with a ball screen added.","title":"Flow into secondary without losing spacing"}],"hub":"transition","id":"transition-spacing","level":"beginner","positions":["ALL"],"readTime":5,"related":["running-lanes","advance-pass","outlet-passing","secondary-break","numbered-break"],"slug":"transition-spacing","subcategory":"fast-break","tags":["spacing","fast break","running lanes","corners","secondary break"],"title":"Spacing Principles in the Break","whatIsIt":["Spacing principles in the break are the geometric rules that turn raw speed into points: three wide lanes, filled corners, a rim runner down the middle, and a trailer arriving late to the top. Most youth breaks fail not from lack of speed but from lack of spacing — five players sprinting to the same spot is just a crowd that the defense can guard with two players.","This article teaches the three-lane system, why the corners matter more than the wings, the rim runner's timing, how to arrive in waves, and how the break's spacing flows directly into secondary offense."],"whyItMatters":["Speed without spacing is just running; speed with spacing is offense. A well-spaced break forces the defense to cover the full width of the court at a sprint, which creates layups, corner threes, and trailer threes on every possession. Teams that master break spacing score 8-12 extra easy points per game — often the entire margin of victory. It's the highest-return fundamental in transition basketball, and it requires zero talent, only discipline."],"vi": {
-  "title": "Giãn đội hình trong pha phản công (spacing)",
-  "description": "Hình học của pha phản công nhanh: độ rộng làn, độ sâu, lấp góc, và những quy tắc giãn đội hình biến tốc độ thành điểm số.",
-  "whatIsIt": [
-   "Nguyên tắc giãn đội hình trong pha phản công là những quy tắc hình học biến tốc độ thô thành điểm số: ba làn rộng, góc được lấp đầy, rim runner chạy thẳng giữa, và trailer đến muộn ở đỉnh. Hầu hết các pha phản công trẻ thất bại không phải vì thiếu tốc độ mà vì thiếu giãn đội hình — năm cầu thủ chạy nước rút về cùng một điểm chỉ là đám đông mà hàng thủ kèm được bằng hai người.",
-   "Bài viết dạy hệ thống ba làn, vì sao góc quan trọng hơn cánh, timing của rim runner, cách đến theo từng đợt sóng, và cách giãn đội hình của pha phản công chảy thẳng vào đợt tấn công thứ hai."
-  ],
-  "whyItMatters": [
-   "Tốc độ không giãn đội hình chỉ là chạy; tốc độ có giãn đội hình là tấn công. Pha phản công giãn tốt ép hàng thủ che cả chiều rộng sân ở tốc độ nước rút, tạo ra layup, ném 3 điểm góc, và ném 3 điểm của trailer mỗi đợt tấn công. Đội làm chủ giãn đội hình phản công ghi thêm 8–12 điểm dễ mỗi trận — thường là toàn bộ cách biệt chiến thắng. Đó là kỹ năng cơ bản sinh lời cao nhất trong bóng rổ phản công, và nó không cần tài năng, chỉ cần kỷ luật."
-  ],
-  "howTo": [
-   {
-    "title": "Ba làn, mỗi làn một người chạy",
-    "detail": "Mọi pha phản công nhanh có ba làn: làn giữa (người dẫn bóng, từ rổ này sang rổ kia) và hai làn rộng, mỗi làn cách biên dọc khoảng 3m. Quy tắc đơn giản: một người chạy mỗi làn, làn giữ rộng cho đến khi bóng qua nửa sân. Làn rộng kéo giãn hàng thủ theo chiều ngang — hai hậu vệ không che được ba làn, luôn có người trống. Ngay lúc một người chạy cắt vào trong sớm, một hậu vệ kèm được hai người tấn công, pha phản công chết."
-   },
-   {
-    "title": "Lấp góc, không phải cánh",
-    "detail": "Độ sâu quan trọng như độ rộng. Cánh xuống đầu tiên chạy nước rút qua vạch 3 điểm và lấp góc cùng phía bóng — không phải cánh, mà là góc. Góc là cú ném tốt nhất của pha phản công: closeout xa nhất cho hàng thủ và đường chuyền ngắn nhất cho người dẫn bóng. Cánh thứ hai lấp góc phía yếu hoặc slot, tùy hàng thủ. Góc được lấp đầy nghĩa là hàng thủ phải che cả chiều rộng 15m của sân ở tốc độ nước rút — hầu hết không làm được."
-   },
-   {
-    "title": "Rim runner: chạy thẳng giữa sân",
-    "detail": "Rim runner chạy nước rút thẳng giữa sân, nhắm trước rổ — không phải block, không phải short corner. Làn giữa phải trống cho pha đột phá của người dẫn bóng; rim runner trôi ra block làm tắc làn của người dẫn. Canh thời gian: rim runner nên tới khu vực dưới rổ đúng lúc bóng qua vạch 3 điểm, cho người dẫn bóng mục tiêu chuyền dọc cả quãng đường. Hàng thủ chặn bóng thì rim runner là điểm dump-off; chặn rim runner thì người dẫn bóng ghi điểm."
-   },
-   {
-    "title": "Đến theo đợt sóng, không phải cùng lúc",
-    "detail": "Giãn đội hình là timing: các làn của pha phản công chỉ hiệu quả khi người chạy đến theo đợt. Người dẫn bóng đẩy tốc độ tối đa, cánh chạy nước rút rộng, trailer đến sau 2–3 giây ở đỉnh. Nếu mọi người đến cùng lúc, hàng thủ ổn định một lần là lợi thế mất; theo đợt sóng, hàng thủ phải ra quyết định mới mỗi giây. Dạy nhịp điệu: đợt đầu tấn công rổ, đợt hai (trailer) tấn công closeout. Hai đợt sóng luôn thắng một hàng thủ đã ổn định."
-   },
-   {
-    "title": "Chảy vào đợt hai mà không mất giãn đội hình",
-    "detail": "Khi pha phản công không ghi điểm trong 6 giây đầu, giãn đội hình chảy vào đợt phản công thứ hai mà không dừng: bóng đảo ngược qua trailer ở đỉnh, cánh giữ rộng, screen đầu tiên đến trong lúc hàng thủ còn đang lùi. Quy tắc then chốt — không bao giờ để cả năm cầu thủ dồn trên vạch 3 điểm. Giữ hai người rộng ở góc và một người ở rổ; đợt phản công thứ hai chỉ là giãn đội hình của pha phản công nhanh cộng thêm một screen."
-   }
+{
+  "ages": [
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
   ],
   "coachingPoints": [
-   "Ba làn, ba người chạy: làn giữa cho bóng, hai làn rộng cách biên dọc 3m.",
-   "Chạy nước rút ba bước đầu — pha phản công thắng thua trong giây đầu sau rebound.",
-   "Lấp góc: cánh xuống sân trước sở hữu góc cùng phía bóng, cánh thứ hai lấp góc phía yếu.",
-   "Giữ rộng cho đến khi bóng qua nửa sân — cắt vào sớm để một hậu vệ kèm được hai người chạy.",
-   "Trailer lấp đỉnh cuối cùng — giãn đội hình năm ngoài nghĩa là pha phản công không bao giờ có hai người trong khu vực dưới rổ."
+    "Three lanes, three runners: middle lane for the ball, two wide lanes 3 meters from each sideline.",
+    "Sprint the first three steps — the break is won or lost in the first second after the rebound.",
+    "Fill the corners: the first wing to the frontcourt owns the ball-side corner, the second fills the weak-side corner.",
+    "Stay wide until the ball crosses half-court — cutting inside early lets one defender guard two runners.",
+    "The trailer fills the top last — five-out spacing means the break never has two players in the paint."
   ],
   "commonMistakes": [
-   "Cả năm cầu thủ chạy về phía bóng — một hậu vệ kèm được ba người tấn công.",
-   "Cắt vào rổ trước khi bóng qua nửa sân, kéo hậu vệ vào pha bóng.",
-   "Dừng ở vạch 3 điểm thay vì lấp góc — ném 3 điểm góc là cú ném tốt nhất của pha phản công.",
-   "Chạy cùng làn với đồng đội — hai người chạy, một làn, giãn đội hình bằng không."
+    "All five players running to the ball — one defender then guards three attackers.",
+    "Cutting to the basket before the ball crosses half-court, dragging your defender into the play.",
+    "Stopping at the three-point line instead of filling the corner — the corner three is the break's best shot.",
+    "Running the same lane as a teammate — two runners, one lane, zero spacing."
   ],
+  "dateUpdated": "2026-10-06",
+  "description": "The geometry of the fast break: lane width, depth, corner filling, and the spacing rules that turn speed into points.",
+  "diagram": {
+    "ball": "O1",
+    "defense": [
+      {
+        "label": "X1",
+        "x": 50,
+        "y": 78
+      },
+      {
+        "label": "X2",
+        "x": 14,
+        "y": 66
+      }
+    ],
+    "moves": [
+      {
+        "from": "O1",
+        "kind": "dribble",
+        "to": "X1"
+      },
+      {
+        "from": "O5",
+        "kind": "cut",
+        "to": "rim"
+      }
+    ],
+    "offense": [
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 86
+      },
+      {
+        "label": "O2",
+        "x": 12,
+        "y": 72
+      },
+      {
+        "label": "O4",
+        "x": 88,
+        "y": 72
+      },
+      {
+        "label": "O5",
+        "x": 50,
+        "y": 64
+      },
+      {
+        "label": "O3",
+        "x": 50,
+        "y": 93
+      }
+    ],
+    "passes": [],
+    "shots": [],
+    "title": "Three lanes wide, rim runner middle, trailer arrives late"
+  },
   "gameSituations": [
-   "Rebound và phát động — ba người chạy lấp ba làn trước khi hàng thủ về.",
-   "Phản công 3 đấu 2 — làn rộng ép hai hậu vệ chọn giữa bóng và các góc.",
-   "Pha hơn số đấu hàng thủ đã ổn định — giãn đội hình chuẩn biến 3 đấu 3 thành làn đột phá và ném 3 điểm góc.",
-   "Đợt phản công thứ hai — giãn đội hình của đợt đầu chảy thẳng vào screen mà không làm lại."
+    "Rebound and outlet — three runners fill three lanes before the defense gets back.",
+    "3-on-2 break — wide lanes force the two defenders to choose between the ball and the corners.",
+    "Numbers break against a set defense — proper spacing turns a 3-on-3 into driving lanes and corner threes.",
+    "Secondary break — the first wave's spacing flows directly into a ball screen without resetting."
   ],
+  "howTo": [
+    {
+      "detail": "Every fast break has three lanes: the middle lane (ball handler, rim to rim) and two wide lanes, each about 3 meters from the sideline. The rule is simple: one runner per lane, and the lanes stay wide until the ball crosses half-court. Wide lanes stretch the defense horizontally — two defenders cannot cover three lanes, so someone is always open. The moment a runner cuts inside early, one defender can guard two attackers and the break dies.",
+      "title": "Three lanes, one runner each"
+    },
+    {
+      "detail": "Depth matters as much as width. The first wing down the floor sprints past the three-point line and fills the ball-side corner — not the wing, the corner. The corner is the break's best shot: it's the longest closeout for the defense and the shortest pass for the ball handler. The second wing fills the weak-side corner or the slot, depending on the defense. Corners filled means the defense must cover the full 15-meter width of the court at full sprint — most can't.",
+      "title": "Fill the corners, not the wings"
+    },
+    {
+      "detail": "The rim runner sprints straight down the middle, aiming for the front of the rim — not the block, not the short corner. The middle lane must stay open for the ball handler's drive; a rim runner who drifts to the block clogs the driver's lane. Time it: the rim runner should arrive at the paint as the ball crosses the three-point line, giving the ball handler a vertical passing target the whole way. If the defense stops the ball, the rim runner is the dump-off; if they stop the rim runner, the ball handler scores.",
+      "title": "Rim runner: straight down the middle"
+    },
+    {
+      "detail": "Spacing is timing: the break's lanes only work if runners arrive in waves. The ball handler pushes at full speed, the wings sprint wide, and the trailer comes 2-3 seconds later to the top. If everyone arrives at once, the defense sets once and the advantage is gone; in waves, the defense must make a new decision every second. Teach the rhythm: first wave attacks the rim, second wave (trailer) attacks the closeout. Two waves beat one set defense every time.",
+      "title": "Arrive in waves, not all at once"
+    },
+    {
+      "detail": "When the break doesn't score in the first 6 seconds, spacing flows into the secondary break without stopping: the ball reverses through the trailer at the top, the wings stay wide, and the first ball screen comes while the defense is still backpedaling. The key rule — never let all five players end up above the three-point line. Keep two players wide in the corners and one at the rim; the secondary break is just the fast break's spacing with a ball screen added.",
+      "title": "Flow into secondary without losing spacing"
+    }
+  ],
+  "hub": "transition",
+  "id": "transition-spacing",
+  "level": "beginner",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 5,
+  "related": [
+    "running-lanes",
+    "advance-pass",
+    "outlet-passing",
+    "secondary-break",
+    "numbered-break"
+  ],
+  "slug": "transition-spacing",
+  "subcategory": "fast-break",
   "tags": [
-   "giãn đội hình",
-   "phản công nhanh",
-   "làn chạy",
-   "góc sân",
-   "đợt phản công thứ hai"
+    "spacing",
+    "fast break",
+    "running lanes",
+    "corners",
+    "secondary break"
+  ],
+  "title": "Spacing Principles in the Break",
+  "vi": {
+    "coachingPoints": [
+      "Ba làn, ba người chạy: làn giữa cho bóng, hai làn rộng cách biên dọc 3m.",
+      "Chạy nước rút ba bước đầu — pha phản công thắng thua trong giây đầu sau rebound.",
+      "Lấp góc: cánh xuống sân trước sở hữu góc cùng phía bóng, cánh thứ hai lấp góc phía yếu.",
+      "Giữ rộng cho đến khi bóng qua nửa sân — cắt vào sớm để một hậu vệ kèm được hai người chạy.",
+      "Trailer lấp đỉnh cuối cùng — giãn đội hình năm ngoài nghĩa là pha phản công không bao giờ có hai người trong khu vực dưới rổ."
+    ],
+    "commonMistakes": [
+      "Cả năm cầu thủ chạy về phía bóng — một hậu vệ kèm được ba người tấn công.",
+      "Cắt vào rổ trước khi bóng qua nửa sân, kéo hậu vệ vào pha bóng.",
+      "Dừng ở vạch 3 điểm thay vì lấp góc — ném 3 điểm góc là cú ném tốt nhất của pha phản công.",
+      "Chạy cùng làn với đồng đội — hai người chạy, một làn, giãn đội hình bằng không."
+    ],
+    "description": "Hình học của pha phản công nhanh: độ rộng làn, độ sâu, lấp góc, và những quy tắc giãn đội hình biến tốc độ thành điểm số.",
+    "gameSituations": [
+      "Rebound và phát động — ba người chạy lấp ba làn trước khi hàng thủ về.",
+      "Phản công 3 đấu 2 — làn rộng ép hai hậu vệ chọn giữa bóng và các góc.",
+      "Pha hơn số đấu hàng thủ đã ổn định — giãn đội hình chuẩn biến 3 đấu 3 thành làn đột phá và ném 3 điểm góc.",
+      "Đợt phản công thứ hai — giãn đội hình của đợt đầu chảy thẳng vào screen mà không làm lại."
+    ],
+    "howTo": [
+      {
+        "detail": "Mọi pha phản công nhanh có ba làn: làn giữa (người dẫn bóng, từ rổ này sang rổ kia) và hai làn rộng, mỗi làn cách biên dọc khoảng 3m. Quy tắc đơn giản: một người chạy mỗi làn, làn giữ rộng cho đến khi bóng qua nửa sân. Làn rộng kéo giãn hàng thủ theo chiều ngang — hai hậu vệ không che được ba làn, luôn có người trống. Ngay lúc một người chạy cắt vào trong sớm, một hậu vệ kèm được hai người tấn công, pha phản công chết.",
+        "title": "Ba làn, mỗi làn một người chạy"
+      },
+      {
+        "detail": "Độ sâu quan trọng như độ rộng. Cánh xuống đầu tiên chạy nước rút qua vạch 3 điểm và lấp góc cùng phía bóng — không phải cánh, mà là góc. Góc là cú ném tốt nhất của pha phản công: closeout xa nhất cho hàng thủ và đường chuyền ngắn nhất cho người dẫn bóng. Cánh thứ hai lấp góc phía yếu hoặc slot, tùy hàng thủ. Góc được lấp đầy nghĩa là hàng thủ phải che cả chiều rộng 15m của sân ở tốc độ nước rút — hầu hết không làm được.",
+        "title": "Lấp góc, không phải cánh"
+      },
+      {
+        "detail": "Rim runner chạy nước rút thẳng giữa sân, nhắm trước rổ — không phải block, không phải short corner. Làn giữa phải trống cho pha đột phá của người dẫn bóng; rim runner trôi ra block làm tắc làn của người dẫn. Canh thời gian: rim runner nên tới khu vực dưới rổ đúng lúc bóng qua vạch 3 điểm, cho người dẫn bóng mục tiêu chuyền dọc cả quãng đường. Hàng thủ chặn bóng thì rim runner là điểm dump-off; chặn rim runner thì người dẫn bóng ghi điểm.",
+        "title": "Rim runner: chạy thẳng giữa sân"
+      },
+      {
+        "detail": "Giãn đội hình là timing: các làn của pha phản công chỉ hiệu quả khi người chạy đến theo đợt. Người dẫn bóng đẩy tốc độ tối đa, cánh chạy nước rút rộng, trailer đến sau 2–3 giây ở đỉnh. Nếu mọi người đến cùng lúc, hàng thủ ổn định một lần là lợi thế mất; theo đợt sóng, hàng thủ phải ra quyết định mới mỗi giây. Dạy nhịp điệu: đợt đầu tấn công rổ, đợt hai (trailer) tấn công closeout. Hai đợt sóng luôn thắng một hàng thủ đã ổn định.",
+        "title": "Đến theo đợt sóng, không phải cùng lúc"
+      },
+      {
+        "detail": "Khi pha phản công không ghi điểm trong 6 giây đầu, giãn đội hình chảy vào đợt phản công thứ hai mà không dừng: bóng đảo ngược qua trailer ở đỉnh, cánh giữ rộng, screen đầu tiên đến trong lúc hàng thủ còn đang lùi. Quy tắc then chốt — không bao giờ để cả năm cầu thủ dồn trên vạch 3 điểm. Giữ hai người rộng ở góc và một người ở rổ; đợt phản công thứ hai chỉ là giãn đội hình của pha phản công nhanh cộng thêm một screen.",
+        "title": "Chảy vào đợt hai mà không mất giãn đội hình"
+      }
+    ],
+    "tags": [
+      "giãn đội hình",
+      "phản công nhanh",
+      "làn chạy",
+      "góc sân",
+      "đợt phản công thứ hai"
+    ],
+    "title": "Giãn đội hình trong pha phản công (spacing)",
+    "whatIsIt": [
+      "Nguyên tắc giãn đội hình trong pha phản công là những quy tắc hình học biến tốc độ thô thành điểm số: ba làn rộng, góc được lấp đầy, rim runner chạy thẳng giữa, và trailer đến muộn ở đỉnh. Hầu hết các pha phản công trẻ thất bại không phải vì thiếu tốc độ mà vì thiếu giãn đội hình — năm cầu thủ chạy nước rút về cùng một điểm chỉ là đám đông mà hàng thủ kèm được bằng hai người.",
+      "Bài viết dạy hệ thống ba làn, vì sao góc quan trọng hơn cánh, timing của rim runner, cách đến theo từng đợt sóng, và cách giãn đội hình của pha phản công chảy thẳng vào đợt tấn công thứ hai."
+    ],
+    "whyItMatters": [
+      "Tốc độ không giãn đội hình chỉ là chạy; tốc độ có giãn đội hình là tấn công. Pha phản công giãn tốt ép hàng thủ che cả chiều rộng sân ở tốc độ nước rút, tạo ra layup, ném 3 điểm góc, và ném 3 điểm của trailer mỗi đợt tấn công. Đội làm chủ giãn đội hình phản công ghi thêm 8–12 điểm dễ mỗi trận — thường là toàn bộ cách biệt chiến thắng. Đó là kỹ năng cơ bản sinh lời cao nhất trong bóng rổ phản công, và nó không cần tài năng, chỉ cần kỷ luật."
+    ]
+  },
+  "whatIsIt": [
+    "Spacing principles in the break are the geometric rules that turn raw speed into points: three wide lanes, filled corners, a rim runner down the middle, and a trailer arriving late to the top. Most youth breaks fail not from lack of speed but from lack of spacing — five players sprinting to the same spot is just a crowd that the defense can guard with two players.",
+    "This article teaches the three-lane system, why the corners matter more than the wings, the rim runner's timing, how to arrive in waves, and how the break's spacing flows directly into secondary offense."
+  ],
+  "whyItMatters": [
+    "Speed without spacing is just running; speed with spacing is offense. A well-spaced break forces the defense to cover the full width of the court at a sprint, which creates layups, corner threes, and trailer threes on every possession. Teams that master break spacing score 8-12 extra easy points per game — often the entire margin of victory. It's the highest-return fundamental in transition basketball, and it requires zero talent, only discipline."
   ]
- }}
+}

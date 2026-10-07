@@ -3,6 +3,35 @@
   "slug": "offensive-tip-drill",
   "title": "Offensive Tip Drill",
   "description": "Crash and tip: beat your man to the spot, tip the miss back up or to a teammate — second chances are won before the shot even lands.",
+  "diagram": {
+    "title": "Offensive Tips: read the miss, tip soft",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 70,
+        "y": 34
+      },
+      {
+        "label": "O2",
+        "x": 40,
+        "y": 20
+      }
+    ],
+    "ball": "O1",
+    "moves": [
+      {
+        "from": "O2",
+        "to": "rim",
+        "kind": "cut"
+      }
+    ],
+    "shots": [
+      {
+        "x": 50,
+        "y": 6
+      }
+    ]
+  },
   "skill": "Rebounding",
   "level": "intermediate",
   "ages": [

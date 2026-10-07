@@ -3,6 +3,58 @@
   "slug": "defensive-slide-ladder",
   "title": "Defensive Slide Ladder",
   "description": "Build lateral quickness and stance discipline sliding through a cone ladder across the lane.",
+  "diagram": {
+    "title": "Defensive Slide Ladder: push-step, stay low",
+    "defense": [
+      {
+        "label": "X1",
+        "x": 38,
+        "y": 24
+      },
+      {
+        "label": "1",
+        "x": 38,
+        "y": 24
+      },
+      {
+        "label": "2",
+        "x": 43,
+        "y": 24
+      },
+      {
+        "label": "3",
+        "x": 48,
+        "y": 24
+      },
+      {
+        "label": "4",
+        "x": 53,
+        "y": 24
+      },
+      {
+        "label": "5",
+        "x": 58,
+        "y": 24
+      },
+      {
+        "label": "6",
+        "x": 63,
+        "y": 24
+      }
+    ],
+    "moves": [
+      {
+        "from": "X1",
+        "to": "3",
+        "kind": "move"
+      },
+      {
+        "from": "X1",
+        "to": "6",
+        "kind": "move"
+      }
+    ]
+  },
   "skill": "Defense",
   "level": "beginner",
   "ages": [

@@ -20,6 +20,40 @@
   ],
   "dateUpdated": "2026-10-06",
   "description": "Run through the catch without breaking stride — the skill behind every fast break, cut, and transition finish.",
+  "diagram": {
+    "title": "Catching on the move: meet the pass at full speed",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 44,
+        "y": 66
+      },
+      {
+        "label": "O2",
+        "x": 60,
+        "y": 50
+      },
+      {
+        "label": "O3",
+        "x": 66,
+        "y": 34
+      }
+    ],
+    "ball": "O1",
+    "moves": [
+      {
+        "from": "O2",
+        "to": "O3",
+        "kind": "cut"
+      }
+    ],
+    "passes": [
+      {
+        "from": "O1",
+        "to": "O3"
+      }
+    ]
+  },
   "gameSituations": [
     "Fast break — catching the outlet at full sprint.",
     "Backdoor cuts — catching in stride for the layup.",

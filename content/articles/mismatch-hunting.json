@@ -19,6 +19,47 @@
   ],
   "dateUpdated": "2026-10-06",
   "description": "How elite offenses manufacture and attack mismatches: forcing the switch you want, reading the help, and turning one bad matchup into a defensive collapse.",
+  "diagram": {
+    "title": "Mismatch hunting: screen to force the switch",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 70
+      },
+      {
+        "label": "O5",
+        "x": 58,
+        "y": 62
+      }
+    ],
+    "defense": [
+      {
+        "label": "X1",
+        "x": 46,
+        "y": 62
+      },
+      {
+        "label": "X3",
+        "x": 40,
+        "y": 58
+      }
+    ],
+    "ball": "O1",
+    "screens": [
+      {
+        "x": 58,
+        "y": 62
+      }
+    ],
+    "moves": [
+      {
+        "from": "O1",
+        "to": "O5",
+        "kind": "dribble"
+      }
+    ]
+  },
   "gameSituations": [
     "Pick and roll targeting the opponent's slow-footed center",
     "Post-up when a small guard gets switched onto your wing",

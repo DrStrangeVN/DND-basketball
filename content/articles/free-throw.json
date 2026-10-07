@@ -22,6 +22,23 @@
   ],
   "dateUpdated": "2026-10-06",
   "description": "Turn the free shot into automatic points with a repeatable routine, calm breathing, and perfect mechanics.",
+  "diagram": {
+    "title": "Free throw: routine from the stripe",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 19
+      }
+    ],
+    "ball": "O1",
+    "shots": [
+      {
+        "x": 50,
+        "y": 8
+      }
+    ]
+  },
   "gameSituations": [
     "After every shooting foul — the most common free points in basketball; elite teams treat them as guaranteed.",
     "Late-game intentional fouls — close games are decided at the line; routine shooting wins them.",
@@ -73,6 +90,7 @@
     "scoring"
   ],
   "title": "Free Throw Shooting",
+  "video": {"title": "Basics of Free Throw: Skills & Drills", "url": "https://www.youtube.com/watch?v=8Y3q1VvvFD8"},
   "vi": {
     "coachingPoints": [
       "Xây MỘT thói quen, không bao giờ đổi — thói quen chính là kỹ năng",

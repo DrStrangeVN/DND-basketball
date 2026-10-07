@@ -3,6 +3,39 @@
   "slug": "hesitation-series",
   "title": "Hesitation Series",
   "description": "Master the hesitation move and its counters — freeze the defender, then explode past with a hesitation go, crossover, or behind-the-back.",
+  "diagram": {
+    "title": "Hesitation Series: freeze, then explode",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 66
+      },
+      {
+        "label": "1",
+        "x": 50,
+        "y": 55
+      },
+      {
+        "label": "2",
+        "x": 50,
+        "y": 30
+      }
+    ],
+    "ball": "O1",
+    "moves": [
+      {
+        "from": "O1",
+        "to": "1",
+        "kind": "dribble"
+      },
+      {
+        "from": "O1",
+        "to": "2",
+        "kind": "dribble"
+      }
+    ]
+  },
   "skill": "Ball Handling",
   "level": "intermediate",
   "ages": [

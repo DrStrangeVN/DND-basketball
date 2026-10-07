@@ -21,6 +21,37 @@
   ],
   "dateUpdated": "2026-10-06",
   "description": "Fake the hook, step through the jumping defender, and finish — the ultimate post counter.",
+  "diagram": {
+    "title": "Up and under: fake the hook, step through, finish",
+    "offense": [
+      {
+        "label": "O5",
+        "x": 44,
+        "y": 20
+      }
+    ],
+    "defense": [
+      {
+        "label": "X5",
+        "x": 49,
+        "y": 14
+      }
+    ],
+    "ball": "O5",
+    "moves": [
+      {
+        "from": "O5",
+        "to": "rim",
+        "kind": "move"
+      }
+    ],
+    "shots": [
+      {
+        "x": 50,
+        "y": 9
+      }
+    ]
+  },
   "gameSituations": [
     "After you've hit two hooks — the defender will jump at the third; punish it.",
     "Against aggressive shot blockers who contest everything — let them fly by.",

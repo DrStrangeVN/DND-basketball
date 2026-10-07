@@ -22,6 +22,84 @@
   ],
   "dateUpdated": "2026-10-06",
   "description": "Man-to-man defense: every defender guards a player — pressure, help, rotations, and the habits that make it work.",
+  "diagram": {
+    "ball": "O1",
+    "defense": [
+      {
+        "label": "X1",
+        "x": 64,
+        "y": 41
+      },
+      {
+        "label": "X2",
+        "x": 36,
+        "y": 36
+      },
+      {
+        "label": "X3",
+        "x": 50,
+        "y": 50
+      },
+      {
+        "label": "X4",
+        "x": 42,
+        "y": 26
+      },
+      {
+        "label": "X5",
+        "x": 58,
+        "y": 22
+      }
+    ],
+    "moves": [
+      {
+        "from": "O1",
+        "kind": "dribble",
+        "to": "rim"
+      },
+      {
+        "from": "X4",
+        "kind": "move",
+        "to": "rim"
+      },
+      {
+        "from": "X5",
+        "kind": "move",
+        "to": "O4"
+      }
+    ],
+    "offense": [
+      {
+        "label": "O1",
+        "x": 66,
+        "y": 44
+      },
+      {
+        "label": "O2",
+        "x": 30,
+        "y": 40
+      },
+      {
+        "label": "O3",
+        "x": 50,
+        "y": 56
+      },
+      {
+        "label": "O4",
+        "x": 40,
+        "y": 24
+      },
+      {
+        "label": "O5",
+        "x": 60,
+        "y": 20
+      }
+    ],
+    "passes": [],
+    "screens": [],
+    "shots": [],
+    "title": "Help stops the ball, X5 rotates to cover"
+  },
   "gameSituations": [
     "As your team's base defense for most of the game",
     "Against teams with one star you want to pressure with your best defender",

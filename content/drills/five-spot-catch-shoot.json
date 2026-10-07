@@ -3,6 +3,81 @@
   "slug": "five-spot-catch-shoot",
   "title": "Five-Spot Catch and Shoot",
   "description": "A fundamental mid-range shooting drill across 5 spots around the key that builds repeatable catch-and-shoot mechanics.",
+  "diagram": {
+    "title": "Five Spots: 5 in a row, catch and shoot",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 46
+      },
+      {
+        "label": "1",
+        "x": 62,
+        "y": 24
+      },
+      {
+        "label": "2",
+        "x": 70,
+        "y": 34
+      },
+      {
+        "label": "3",
+        "x": 50,
+        "y": 30
+      },
+      {
+        "label": "4",
+        "x": 30,
+        "y": 34
+      },
+      {
+        "label": "5",
+        "x": 38,
+        "y": 24
+      }
+    ],
+    "ball": "O1",
+    "moves": [
+      {
+        "from": "O1",
+        "to": "1",
+        "kind": "cut"
+      },
+      {
+        "from": "O1",
+        "to": "3",
+        "kind": "cut"
+      },
+      {
+        "from": "O1",
+        "to": "5",
+        "kind": "cut"
+      }
+    ],
+    "shots": [
+      {
+        "x": 62,
+        "y": 24
+      },
+      {
+        "x": 70,
+        "y": 34
+      },
+      {
+        "x": 50,
+        "y": 30
+      },
+      {
+        "x": 30,
+        "y": 34
+      },
+      {
+        "x": 38,
+        "y": 24
+      }
+    ]
+  },
   "skill": "Shooting",
   "level": "beginner",
   "ages": [

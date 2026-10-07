@@ -3,6 +3,52 @@
   "slug": "skip-pass-accuracy",
   "title": "Skip Pass Accuracy",
   "description": "Beat the zone with high, accurate skip passes: thread two-handed overhead passes over the defense to weak-side targets.",
+  "diagram": {
+    "title": "Skip Pass Accuracy: over the top, hit targets",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 72,
+        "y": 34
+      },
+      {
+        "label": "1",
+        "x": 28,
+        "y": 12
+      },
+      {
+        "label": "2",
+        "x": 72,
+        "y": 12
+      },
+      {
+        "label": "3",
+        "x": 30,
+        "y": 32
+      },
+      {
+        "label": "4",
+        "x": 70,
+        "y": 32
+      },
+      {
+        "label": "5",
+        "x": 50,
+        "y": 28
+      }
+    ],
+    "ball": "O1",
+    "passes": [
+      {
+        "from": "O1",
+        "to": "1"
+      },
+      {
+        "from": "O1",
+        "to": "5"
+      }
+    ]
+  },
   "skill": "Passing",
   "level": "intermediate",
   "ages": [

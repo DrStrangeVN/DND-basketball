@@ -1,4 +1,98 @@
-{"ages":["U14","U16","U18","Adult"],"coachingPoints":["Pass with the hand away from the defender whenever possible.","The pass should arrive at the shooter's pocket — chest to waist height.","Fake the pass with your eyes, deliver with your hand.","Drill both hands equally — a one-hand passer with one hand is half a passer."],"commonMistakes":["Throwing across the body with the wrong hand — slow and easy to pick.","Floating the pass — no wrist snap means no pace.","Jumping to pass — you land with nowhere to go if it's not open.","Attempting highlight dimes through two defenders."],"dateUpdated":"2026-10-06","description":"Push passes, flick passes, and live-dribble dimes — deliver the ball with one hand without telegraphing it.","gameSituations":["Drive and kick — push pass off the last dribble to the corner shooter.","Transition — one-hand flick ahead to the sprinter.","Pick and roll — pocket pass to the roller without gathering.","Post double team — quick one-hand kick-out before the trap lands."],"howTo":[{"detail":"Hand behind and slightly outside the ball, elbow bent. Push through the ball with your palm — not a throw with the arm, a punch with the hand.","title":"Push from the outside of the ball"},{"detail":"Finish with a hard wrist snap, thumb pointing at the floor. The snap gives the pass its zip and backspin; without it the ball floats.","title":"Snap the wrist, point the thumb down"},{"detail":"Don't pick the ball up to pass. Push it directly out of your last dribble — the ball never stops moving, so the defender never gets a read.","title":"Pass off a live dribble"},{"detail":"A short step toward the target adds power and accuracy, especially on longer push passes. The step also sells that you might keep driving.","title":"Step into the pass"},{"detail":"One-hand passes in crowds must be short and firm — pocket passes, drop-offs, quick outlets. Long cross-court flicks through traffic are turnovers.","title":"Keep it simple in traffic"}],"hub":"fundamentals","id":"one-hand-passing","level":"intermediate","positions":["ALL"],"readTime":5,"related":["chest-pass","bounce-pass","pocket-pass","drive-and-kick","transition-offense"],"slug":"one-hand-passing","subcategory":"passing","tags":["passing","push pass","fundamentals","playmaking"],"title":"One-Hand Passing","vi":{
+{
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "coachingPoints": [
+    "Pass with the hand away from the defender whenever possible.",
+    "The pass should arrive at the shooter's pocket — chest to waist height.",
+    "Fake the pass with your eyes, deliver with your hand.",
+    "Drill both hands equally — a one-hand passer with one hand is half a passer."
+  ],
+  "commonMistakes": [
+    "Throwing across the body with the wrong hand — slow and easy to pick.",
+    "Floating the pass — no wrist snap means no pace.",
+    "Jumping to pass — you land with nowhere to go if it's not open.",
+    "Attempting highlight dimes through two defenders."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "Push passes, flick passes, and live-dribble dimes — deliver the ball with one hand without telegraphing it.",
+  "diagram": {
+    "title": "One-hand pass: push ahead in transition",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 48,
+        "y": 68
+      },
+      {
+        "label": "O2",
+        "x": 64,
+        "y": 44
+      }
+    ],
+    "ball": "O1",
+    "passes": [
+      {
+        "from": "O1",
+        "to": "O2"
+      }
+    ]
+  },
+  "gameSituations": [
+    "Drive and kick — push pass off the last dribble to the corner shooter.",
+    "Transition — one-hand flick ahead to the sprinter.",
+    "Pick and roll — pocket pass to the roller without gathering.",
+    "Post double team — quick one-hand kick-out before the trap lands."
+  ],
+  "howTo": [
+    {
+      "detail": "Hand behind and slightly outside the ball, elbow bent. Push through the ball with your palm — not a throw with the arm, a punch with the hand.",
+      "title": "Push from the outside of the ball"
+    },
+    {
+      "detail": "Finish with a hard wrist snap, thumb pointing at the floor. The snap gives the pass its zip and backspin; without it the ball floats.",
+      "title": "Snap the wrist, point the thumb down"
+    },
+    {
+      "detail": "Don't pick the ball up to pass. Push it directly out of your last dribble — the ball never stops moving, so the defender never gets a read.",
+      "title": "Pass off a live dribble"
+    },
+    {
+      "detail": "A short step toward the target adds power and accuracy, especially on longer push passes. The step also sells that you might keep driving.",
+      "title": "Step into the pass"
+    },
+    {
+      "detail": "One-hand passes in crowds must be short and firm — pocket passes, drop-offs, quick outlets. Long cross-court flicks through traffic are turnovers.",
+      "title": "Keep it simple in traffic"
+    }
+  ],
+  "hub": "fundamentals",
+  "id": "one-hand-passing",
+  "level": "intermediate",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 5,
+  "related": [
+    "chest-pass",
+    "bounce-pass",
+    "pocket-pass",
+    "drive-and-kick",
+    "transition-offense"
+  ],
+  "slug": "one-hand-passing",
+  "subcategory": "passing",
+  "tags": [
+    "passing",
+    "push pass",
+    "fundamentals",
+    "playmaking"
+  ],
+  "title": "One-Hand Passing",
+  "vi": {
     "coachingPoints": [
       "Chuyền bằng tay xa hậu vệ bất cứ khi nào có thể",
       "Bóng phải tới đúng túi ném của người nhận — ngang ngực tới ngang hông",
@@ -54,4 +148,12 @@
     "whyItMatters": [
       "Trận đấu quá nhanh để đường nào cũng chuyền hai tay. Đường chuyền phát động, những đường drive-and-kick, những pha đẩy bóng phản công đều thực hiện một tay khi bóng đang nảy. Cầu thủ chỉ chuyền được hai tay sẽ lộ hết ý đồ — ôm bóng lại, hàng thủ kịp xoay, khe chuyền đóng lại."
     ]
-  },"whatIsIt":["One-hand passing is delivering the ball with a single hand — the push pass off the dribble, the flick ahead in transition, the wrap-around to a cutter. Unlike the two-handed chest pass, it doesn't require gathering the ball, so it's faster and harder to read.","The trade-off is margin for error: one hand means less control. Great one-hand passers make up for it with a firm wrist, a live dribble, and passing only what they can see clearly."],"whyItMatters":["The game is too fast for two hands on every pass. Outlet passes, drive-and-kick dimes, and transition advances all happen with one hand off a live dribble. Players who can only pass with two hands telegraph everything — they gather, the defense rotates, and the window closes."]}
+  },
+  "whatIsIt": [
+    "One-hand passing is delivering the ball with a single hand — the push pass off the dribble, the flick ahead in transition, the wrap-around to a cutter. Unlike the two-handed chest pass, it doesn't require gathering the ball, so it's faster and harder to read.",
+    "The trade-off is margin for error: one hand means less control. Great one-hand passers make up for it with a firm wrist, a live dribble, and passing only what they can see clearly."
+  ],
+  "whyItMatters": [
+    "The game is too fast for two hands on every pass. Outlet passes, drive-and-kick dimes, and transition advances all happen with one hand off a live dribble. Players who can only pass with two hands telegraph everything — they gather, the defense rotates, and the window closes."
+  ]
+}

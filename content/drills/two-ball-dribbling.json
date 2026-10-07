@@ -3,6 +3,24 @@
   "slug": "two-ball-dribbling",
   "title": "Two-Ball Dribbling Series",
   "description": "A progressive two-ball ball-handling series that builds ambidexterity, weak-hand confidence, and eyes-up dribbling control.",
+  "diagram": {
+    "title": "Two-Ball Series: eyes up, pound it",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 85
+      }
+    ],
+    "ball": "O1",
+    "moves": [
+      {
+        "from": "O1",
+        "to": "rim",
+        "kind": "dribble"
+      }
+    ]
+  },
   "skill": "Ball Handling",
   "level": "beginner",
   "ages": [
@@ -69,6 +87,7 @@
     "full-court-finishing"
   ],
   "dateUpdated": "2026-10-06",
+  "video": {"title": "Two Ball Chair Drill", "url": "https://www.youtube.com/watch?v=G20eEUP_2c8"},
   "vi":   {
     "coachingPoints": [
       "Pound bóng — rê yếu bóng nảy về tay muộn, ép mình phải cúi nhìn.",

@@ -1,123 +1,201 @@
 {
- "title": "The Throwback Pass",
- "description": "The screener pops back out after the screen — hit him for the open jumper when the defense collapses on your drive.",
- "hub": "pick-and-roll",
- "subcategory": "pick-and-roll",
- "level": "intermediate",
- "positions": [
-  "PG",
-  "SG",
-  "PF",
-  "C"
- ],
- "ages": [
-  "U14",
-  "U16",
-  "U18",
-  "Adult"
- ],
- "readTime": 4,
- "tags": [
-  "pick and roll",
-  "pass",
-  "pop"
- ],
- "whatIsIt": [
-  "The throwback pass goes from the driving ball handler back out to the screener, who has popped or drifted back to the perimeter after setting the screen. It happens when the defense collapses on the drive — two defenders on the ball means the screener is open.",
-  "It is one of the simplest and most effective PNR reads: drive with the intent to score, and the moment help commits, throw it back. The screener catches in rhythm, usually at the top or the wing, with the defense in full rotation."
- ],
- "whyItMatters": [
-  "Defenses are taught to help off the screener first. The throwback punishes that exact habit — and it keeps your bigs engaged in the offense even when they're not rolling. A PNR duo that throws the ball back is nearly impossible to guard with standard coverages."
- ],
- "howTo": [
-  {
-   "title": "Drive to score",
-   "detail": "Attack downhill with real intent — the help only commits if it believes you're scoring. A soft drive gets no help and no throwback."
-  },
-  {
-   "title": "Feel the help commit",
-   "detail": "Two dribbles in, read the screener's defender. If he sinks to stop your drive, the throwback window is open behind you."
-  },
-  {
-   "title": "Throw it back on target",
-   "detail": "Jump-stop or stride-stop and fire a crisp two-handed pass back out to the shooter's pocket. Lead him slightly toward his shooting motion."
-  },
-  {
-   "title": "Relocate after the pass",
-   "detail": "Don't stand and watch — cut through or drift to the corner after throwing back. Your relocation stresses the rotating defense a second time."
-  }
- ],
- "coachingPoints": [
-  "The screener must pop to space, not stand where he screened — drift to the open spot.",
-  "Throwback passes must be crisp; lobs get picked off by the recovering big.",
-  "Drill it 2-on-2: guard-big vs guard-big, help must come from the screener's man."
- ],
- "commonMistakes": [
-  "Throwing it back when nobody helped — now it's just a contested jumper.",
-  "The screener standing still after screening instead of relocating to space.",
-  "Jumping to pass with nowhere to go — plant and throw on balance."
- ],
- "gameSituations": [
-  "With a pick-and-pop big who shoots — the throwback is his best look.",
-  "When the defense tags the roller hard with the low man.",
-  "Vs drop coverage: drive at the big, throw back when he sinks."
- ],
- "related": [
-  "pick-and-pop",
-  "pick-and-roll-basics",
-  "ball-handler-reads",
-  "short-roll"
- ],
- "vi": {
-  "title": "Đường chuyền throwback",
-  "description": "Người screen pop ngược ra ngoài sau khi chắn — chuyền cho anh ta cú ném trống trải khi hàng thủ sập vào pha đột phá của cầu thủ.",
-  "whatIsIt": [
-   "Đường chuyền throwback đi từ người dẫn bóng đang đột phá trả ngược ra cho người screen, người đã pop hoặc trôi ngược ra vòng ngoài sau khi đặt screen. Tình huống xảy ra khi hàng thủ sập vào pha đột phá — hai cầu thủ phòng thủ kẹp bóng nghĩa là người screen đang trống.",
-   "Đây là một trong những pha đọc PNR đơn giản và hiệu quả nhất: đột phá với ý định ghi điểm thật, và ngay khi cầu thủ hỗ trợ lao vào, trả bóng ngược lại. Người screen bắt bóng đúng nhịp, thường ở đỉnh vòng cung hoặc cánh, trong lúc hàng thủ đang xoay sở toàn diện."
-  ],
-  "whyItMatters": [
-   "Hàng thủ được dạy bỏ người screen ra hỗ trợ trước tiên. Throwback trừng phạt đúng thói quen đó — và giữ cho các big vẫn tham gia tấn công ngay cả khi không roll. Cặp PNR biết trả bóng ngược lại gần như không thể kèm bằng các kiểu phòng thủ tiêu chuẩn."
-  ],
-  "howTo": [
-   {
-    "title": "Đột phá để ghi điểm",
-    "detail": "Tấn công xuống rổ với ý định thật — cầu thủ hỗ trợ chỉ lao vào khi tin rằng cầu thủ sắp ghi điểm. Pha đột phá hời hợt không kéo được hỗ trợ, cũng không có throwback."
-   },
-   {
-    "title": "Cảm nhận lúc hỗ trợ lao vào",
-    "detail": "Sau hai nhịp dẫn, đọc cầu thủ phòng thủ của người screen. Nếu anh ta lún xuống để chặn pha đột phá, cửa sổ throwback đã mở phía sau."
-   },
-   {
-    "title": "Trả bóng đúng tầm",
-    "detail": "Dừng bằng jump-stop hoặc stride-stop rồi chuyền mạnh hai tay trả ngược ra đúng túi ném của tay ném. Dẫn bóng hơi về phía trước theo đà ném của anh ta."
-   },
-   {
-    "title": "Di chuyển lại sau đường chuyền",
-    "detail": "Đừng đứng nhìn — cắt xuyên qua hoặc trôi ra góc sau khi trả bóng. Lần di chuyển này ép hàng thủ đang xoay thêm một lần nữa."
-   }
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
   ],
   "coachingPoints": [
-   "Người screen phải pop ra khoảng trống, không đứng yên chỗ vừa chắn — trôi đến điểm trống.",
-   "Đường chuyền throwback phải mạnh và gọn; chuyền bổng bị big đối phương hồi về cắt mất.",
-   "Tập 2 đấu 2: hậu vệ-big đấu hậu vệ-big, cầu thủ hỗ trợ phải đến từ người kèm người screen."
+    "The screener must pop to space, not stand where he screened — drift to the open spot.",
+    "Throwback passes must be crisp; lobs get picked off by the recovering big.",
+    "Drill it 2-on-2: guard-big vs guard-big, help must come from the screener's man."
   ],
   "commonMistakes": [
-   "Trả bóng ngược khi chẳng ai lao vào hỗ trợ — giờ nó chỉ là cú ném bị kèm.",
-   "Người screen đứng yên sau khi chắn thay vì di chuyển ra khoảng trống.",
-   "Nhảy lên chuyền mà không có điểm đến — đặt chân vững rồi chuyền khi thăng bằng."
+    "Throwing it back when nobody helped — now it's just a contested jumper.",
+    "The screener standing still after screening instead of relocating to space.",
+    "Jumping to pass with nowhere to go — plant and throw on balance."
   ],
+  "dateUpdated": "2026-10-06",
+  "description": "The screener pops back out after the screen — hit him for the open jumper when the defense collapses on your drive.",
+  "diagram": {
+    "ball": "O1",
+    "defense": [
+      {
+        "label": "X1",
+        "x": 50,
+        "y": 70
+      },
+      {
+        "label": "X5",
+        "x": 60,
+        "y": 60
+      },
+      {
+        "label": "X2",
+        "x": 74,
+        "y": 54
+      }
+    ],
+    "moves": [
+      {
+        "from": "O5",
+        "kind": "screen-run",
+        "to": "X1"
+      },
+      {
+        "from": "O1",
+        "kind": "dribble",
+        "to": "rim"
+      },
+      {
+        "from": "O5",
+        "kind": "move",
+        "to": "O2"
+      }
+    ],
+    "offense": [
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 76
+      },
+      {
+        "label": "O5",
+        "x": 58,
+        "y": 64
+      },
+      {
+        "label": "O2",
+        "x": 76,
+        "y": 58
+      },
+      {
+        "label": "O4",
+        "x": 24,
+        "y": 58
+      }
+    ],
+    "passes": [
+      {
+        "from": "O1",
+        "to": "O5"
+      }
+    ],
+    "screens": [
+      {
+        "x": 53,
+        "y": 68
+      }
+    ],
+    "shots": [
+      {
+        "x": 76,
+        "y": 58
+      }
+    ],
+    "title": "Drive to score: help commits, throw it back to the popping screener"
+  },
   "gameSituations": [
-   "Khi có big pick-and-pop biết ném — throwback là cú ném đẹp nhất của anh ta.",
-   "Khi hàng thủ cho cầu thủ thấp tag mạnh vào người roll.",
-   "Đấu drop coverage: đột phá thẳng vào big, trả bóng ngược khi anh ta lún xuống."
+    "With a pick-and-pop big who shoots — the throwback is his best look.",
+    "When the defense tags the roller hard with the low man.",
+    "Vs drop coverage: drive at the big, throw back when he sinks."
   ],
+  "howTo": [
+    {
+      "detail": "Attack downhill with real intent — the help only commits if it believes you're scoring. A soft drive gets no help and no throwback.",
+      "title": "Drive to score"
+    },
+    {
+      "detail": "Two dribbles in, read the screener's defender. If he sinks to stop your drive, the throwback window is open behind you.",
+      "title": "Feel the help commit"
+    },
+    {
+      "detail": "Jump-stop or stride-stop and fire a crisp two-handed pass back out to the shooter's pocket. Lead him slightly toward his shooting motion.",
+      "title": "Throw it back on target"
+    },
+    {
+      "detail": "Don't stand and watch — cut through or drift to the corner after throwing back. Your relocation stresses the rotating defense a second time.",
+      "title": "Relocate after the pass"
+    }
+  ],
+  "hub": "pick-and-roll",
+  "id": "throwback-pass",
+  "level": "intermediate",
+  "positions": [
+    "PG",
+    "SG",
+    "PF",
+    "C"
+  ],
+  "readTime": 4,
+  "related": [
+    "pick-and-pop",
+    "pick-and-roll-basics",
+    "ball-handler-reads",
+    "short-roll"
+  ],
+  "slug": "throwback-pass",
+  "subcategory": "pick-and-roll",
   "tags": [
-   "pick and roll",
-   "chuyền bóng",
-   "pop"
+    "pick and roll",
+    "pass",
+    "pop"
+  ],
+  "title": "The Throwback Pass",
+  "vi": {
+    "coachingPoints": [
+      "Người screen phải pop ra khoảng trống, không đứng yên chỗ vừa chắn — trôi đến điểm trống.",
+      "Đường chuyền throwback phải mạnh và gọn; chuyền bổng bị big đối phương hồi về cắt mất.",
+      "Tập 2 đấu 2: hậu vệ-big đấu hậu vệ-big, cầu thủ hỗ trợ phải đến từ người kèm người screen."
+    ],
+    "commonMistakes": [
+      "Trả bóng ngược khi chẳng ai lao vào hỗ trợ — giờ nó chỉ là cú ném bị kèm.",
+      "Người screen đứng yên sau khi chắn thay vì di chuyển ra khoảng trống.",
+      "Nhảy lên chuyền mà không có điểm đến — đặt chân vững rồi chuyền khi thăng bằng."
+    ],
+    "description": "Người screen pop ngược ra ngoài sau khi chắn — chuyền cho anh ta cú ném trống trải khi hàng thủ sập vào pha đột phá của cầu thủ.",
+    "gameSituations": [
+      "Khi có big pick-and-pop biết ném — throwback là cú ném đẹp nhất của anh ta.",
+      "Khi hàng thủ cho cầu thủ thấp tag mạnh vào người roll.",
+      "Đấu drop coverage: đột phá thẳng vào big, trả bóng ngược khi anh ta lún xuống."
+    ],
+    "howTo": [
+      {
+        "detail": "Tấn công xuống rổ với ý định thật — cầu thủ hỗ trợ chỉ lao vào khi tin rằng cầu thủ sắp ghi điểm. Pha đột phá hời hợt không kéo được hỗ trợ, cũng không có throwback.",
+        "title": "Đột phá để ghi điểm"
+      },
+      {
+        "detail": "Sau hai nhịp dẫn, đọc cầu thủ phòng thủ của người screen. Nếu anh ta lún xuống để chặn pha đột phá, cửa sổ throwback đã mở phía sau.",
+        "title": "Cảm nhận lúc hỗ trợ lao vào"
+      },
+      {
+        "detail": "Dừng bằng jump-stop hoặc stride-stop rồi chuyền mạnh hai tay trả ngược ra đúng túi ném của tay ném. Dẫn bóng hơi về phía trước theo đà ném của anh ta.",
+        "title": "Trả bóng đúng tầm"
+      },
+      {
+        "detail": "Đừng đứng nhìn — cắt xuyên qua hoặc trôi ra góc sau khi trả bóng. Lần di chuyển này ép hàng thủ đang xoay thêm một lần nữa.",
+        "title": "Di chuyển lại sau đường chuyền"
+      }
+    ],
+    "tags": [
+      "pick and roll",
+      "chuyền bóng",
+      "pop"
+    ],
+    "title": "Đường chuyền throwback",
+    "whatIsIt": [
+      "Đường chuyền throwback đi từ người dẫn bóng đang đột phá trả ngược ra cho người screen, người đã pop hoặc trôi ngược ra vòng ngoài sau khi đặt screen. Tình huống xảy ra khi hàng thủ sập vào pha đột phá — hai cầu thủ phòng thủ kẹp bóng nghĩa là người screen đang trống.",
+      "Đây là một trong những pha đọc PNR đơn giản và hiệu quả nhất: đột phá với ý định ghi điểm thật, và ngay khi cầu thủ hỗ trợ lao vào, trả bóng ngược lại. Người screen bắt bóng đúng nhịp, thường ở đỉnh vòng cung hoặc cánh, trong lúc hàng thủ đang xoay sở toàn diện."
+    ],
+    "whyItMatters": [
+      "Hàng thủ được dạy bỏ người screen ra hỗ trợ trước tiên. Throwback trừng phạt đúng thói quen đó — và giữ cho các big vẫn tham gia tấn công ngay cả khi không roll. Cặp PNR biết trả bóng ngược lại gần như không thể kèm bằng các kiểu phòng thủ tiêu chuẩn."
+    ]
+  },
+  "whatIsIt": [
+    "The throwback pass goes from the driving ball handler back out to the screener, who has popped or drifted back to the perimeter after setting the screen. It happens when the defense collapses on the drive — two defenders on the ball means the screener is open.",
+    "It is one of the simplest and most effective PNR reads: drive with the intent to score, and the moment help commits, throw it back. The screener catches in rhythm, usually at the top or the wing, with the defense in full rotation."
+  ],
+  "whyItMatters": [
+    "Defenses are taught to help off the screener first. The throwback punishes that exact habit — and it keeps your bigs engaged in the offense even when they're not rolling. A PNR duo that throws the ball back is nearly impossible to guard with standard coverages."
   ]
- },
- "id": "throwback-pass",
- "slug": "throwback-pass",
- "dateUpdated": "2026-10-06"
 }

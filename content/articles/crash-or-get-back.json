@@ -20,6 +20,54 @@
   ],
   "dateUpdated": "2026-10-06",
   "description": "The toughest transition decision: when to chase the offensive rebound and when to sprint back on defense, with rules by personnel.",
+  "diagram": {
+    "moves": [
+      {
+        "from": "O4",
+        "kind": "cut",
+        "to": "rim"
+      },
+      {
+        "from": "O5",
+        "kind": "cut",
+        "to": "rim"
+      }
+    ],
+    "offense": [
+      {
+        "label": "O4",
+        "x": 42,
+        "y": 18
+      },
+      {
+        "label": "O5",
+        "x": 58,
+        "y": 18
+      },
+      {
+        "label": "O1",
+        "x": 28,
+        "y": 62
+      },
+      {
+        "label": "O2",
+        "x": 72,
+        "y": 62
+      },
+      {
+        "label": "O3",
+        "x": 50,
+        "y": 78
+      }
+    ],
+    "shots": [
+      {
+        "x": 38,
+        "y": 38
+      }
+    ],
+    "title": "Shot up: two crash, three get back"
+  },
   "gameSituations": [
     "Shot from the paint with your bigs inside — the two bigs crash, the three perimeter players sprint back.",
     "Three-point attempt from the wing — everyone above the free-throw line gets back; only the weak-side big crashes.",

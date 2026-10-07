@@ -3,6 +3,30 @@
   "slug": "seventeen-sprint-shooting",
   "title": "17-Second Sprints + Shooting",
   "description": "Basketball's most famous conditioning test with a shooting twist: full-court sprint and back in 17 seconds, then step to the line and make free throws while gassed.",
+  "diagram": {
+    "title": "17s Sprints: gassed free throws",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 85
+      }
+    ],
+    "ball": "O1",
+    "moves": [
+      {
+        "from": "O1",
+        "to": "rim",
+        "kind": "move"
+      }
+    ],
+    "shots": [
+      {
+        "x": 50,
+        "y": 20
+      }
+    ]
+  },
   "skill": "Conditioning",
   "level": "advanced",
   "ages": [

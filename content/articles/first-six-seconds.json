@@ -17,6 +17,55 @@
   ],
   "dateUpdated": "2026-10-06",
   "description": "Basketball's most efficient offense lives in the first six seconds of the shot clock — here's how to own them.",
+  "diagram": {
+    "ball": "O5",
+    "moves": [
+      {
+        "from": "O3",
+        "kind": "cut",
+        "to": "rim"
+      }
+    ],
+    "offense": [
+      {
+        "label": "O5",
+        "x": 42,
+        "y": 16
+      },
+      {
+        "label": "O1",
+        "x": 26,
+        "y": 60
+      },
+      {
+        "label": "O2",
+        "x": 80,
+        "y": 12
+      },
+      {
+        "label": "O3",
+        "x": 68,
+        "y": 44
+      }
+    ],
+    "passes": [
+      {
+        "from": "O5",
+        "to": "O1"
+      },
+      {
+        "from": "O1",
+        "to": "O2"
+      }
+    ],
+    "shots": [
+      {
+        "x": 80,
+        "y": 12
+      }
+    ],
+    "title": "First six seconds: outlet to the early three"
+  },
   "gameSituations": [
     "After opponent makes: the defense relaxes — steal six seconds.",
     "Vs older, slower teams — run them into the ground early.",

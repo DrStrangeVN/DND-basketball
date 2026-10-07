@@ -21,6 +21,37 @@
   ],
   "dateUpdated": "2026-10-06",
   "description": "The core ideas behind every good offense: pace, spacing, ball movement, paint touches and playing with advantage.",
+  "diagram": {
+    "title": "Spacing: five-out shape stretches the defense",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 70
+      },
+      {
+        "label": "O2",
+        "x": 24,
+        "y": 44
+      },
+      {
+        "label": "O3",
+        "x": 76,
+        "y": 44
+      },
+      {
+        "label": "O4",
+        "x": 12,
+        "y": 24
+      },
+      {
+        "label": "O5",
+        "x": 88,
+        "y": 24
+      }
+    ],
+    "ball": "O1"
+  },
   "gameSituations": [
     "Early offense — pushing the ball before the defense organizes.",
     "Advantage situations — 2-on-1 or 3-on-2 breaks where the defense is outnumbered.",

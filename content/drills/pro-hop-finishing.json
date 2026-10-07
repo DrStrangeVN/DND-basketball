@@ -3,6 +3,37 @@
   "slug": "pro-hop-finishing",
   "title": "Pro Hop Finishing",
   "description": "Trains the pro hop (jump stop gather) finish through contact - gather on two feet, absorb the bump, and finish strong.",
+  "diagram": {
+    "title": "Pro Hop: gather, absorb, power up",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 68,
+        "y": 36
+      }
+    ],
+    "defense": [
+      {
+        "label": "X1",
+        "x": 56,
+        "y": 13
+      }
+    ],
+    "ball": "O1",
+    "moves": [
+      {
+        "from": "O1",
+        "to": "rim",
+        "kind": "dribble"
+      }
+    ],
+    "shots": [
+      {
+        "x": 50,
+        "y": 6
+      }
+    ]
+  },
   "skill": "Finishing",
   "level": "advanced",
   "ages": [

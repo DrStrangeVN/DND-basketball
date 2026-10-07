@@ -21,6 +21,36 @@
   ],
   "dateUpdated": "2026-10-06",
   "description": "Master speed control — slow down to lull the defender, then explode — the skill that makes average athletes unguardable.",
+  "diagram": {
+    "title": "Change of pace: slow down, then explode past",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 58,
+        "y": 66
+      },
+      {
+        "label": "O2",
+        "x": 64,
+        "y": 42
+      }
+    ],
+    "defense": [
+      {
+        "label": "X1",
+        "x": 54,
+        "y": 58
+      }
+    ],
+    "ball": "O1",
+    "moves": [
+      {
+        "from": "O1",
+        "to": "O2",
+        "kind": "dribble"
+      }
+    ]
+  },
   "gameSituations": [
     "Beating a quicker defender — if you cannot outrun him, out-time him with pace changes.",
     "Running pick and roll — change pace coming off the screen to lose the chasing defender or freeze the big.",

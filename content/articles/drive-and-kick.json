@@ -21,6 +21,47 @@
   ],
   "dateUpdated": "2026-10-06",
   "description": "Turn paint pressure into open shots: how to collapse the defense on the drive and find the right kick-out.",
+  "diagram": {
+    "title": "Drive and kick: penetrate, draw help, kick to the corner",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 58,
+        "y": 58
+      },
+      {
+        "label": "O2",
+        "x": 80,
+        "y": 30
+      }
+    ],
+    "defense": [
+      {
+        "label": "X1",
+        "x": 54,
+        "y": 48
+      },
+      {
+        "label": "X2",
+        "x": 48,
+        "y": 30
+      }
+    ],
+    "ball": "O1",
+    "moves": [
+      {
+        "from": "O1",
+        "to": "rim",
+        "kind": "dribble"
+      }
+    ],
+    "passes": [
+      {
+        "from": "O1",
+        "to": "O2"
+      }
+    ]
+  },
   "gameSituations": [
     "Closeouts you can beat off the dribble — drive, draw the second defender, kick.",
     "Pick-and-roll when the help tags the roller — drive-and-kick to the weak side.",

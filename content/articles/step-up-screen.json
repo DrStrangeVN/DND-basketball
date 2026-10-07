@@ -1,1 +1,193 @@
-{"title":"Step-Up Screens","description":"The screener steps up from below the ball handler to flip the angle — a late-clock weapon that creates instant separation.","hub":"pick-and-roll","subcategory":"pick-and-roll","level":"advanced","positions":["ALL"],"ages":["U16","U18","Adult","Competitive"],"readTime":5,"tags":["pick and roll","step-up","screen"],"whatIsIt":["A step-up screen is set by a player coming from below the ball — typically a big stepping up from the dunker spot or short corner to screen for a guard on the wing. The angle flips the ball handler's defender into an unexpected screen, often when the defense is loaded to one side.","It is a favorite late-clock and sideline-out-of-bounds action because it looks like nothing is happening until the screen arrives. The ball handler's defender is usually trailing the play or ball-watching, and the step-up delivers a clean hit from his blind side."],"whyItMatters":["Defenses scheme against standard top-of-the-key screens. The step-up breaks their preparation: coverages designed for middle PNR don't apply when the screen comes from below, and the resulting downhill angle attacks the rim before the help can load. Every advanced PNR package needs a step-up counter."],"howTo":[{"title":"Time the step-up","detail":"The screener waits until the ball handler has engaged his defender — usually one hard dribble toward the wing — then sprints up to set the screen. Too early and the defense switches calmly; too late and the ball handler is already trapped."},{"title":"Set it on the defender's blind side","detail":"Approach from behind the ball handler's defender so the first contact surprises him. The screen should land on his outside hip, steering him toward the baseline and opening the middle."},{"title":"Roll hard to the rim","detail":"After contact, the screener dives straight to the front of the rim. The defense is scrambling — a hard roll gets a lob or a dump-off before the low man can tag."},{"title":"Read the switch","detail":"If the defense switches, the guard now has a big on him in space — attack the mismatch immediately. If they try to get through, the pocket pass is open behind the play."}],"coachingPoints":["The step-up must be a sprint — a jogging big telegraphs the action.","Ball handler: one setup dribble, then explode off the screen. Don't dance.","Great after-timeout action: run it for your shooter coming off the wing."],"commonMistakes":["Setting the screen too high, turning it into a regular wing PNR with no surprise.","The screener popping instead of rolling — the surprise is wasted without rim pressure.","Illegal screen: moving feet because the timing was rushed."],"gameSituations":["After timeout: step-up for a shooter on the wing, flare the weak side.","Late clock: surprise screen when the defense is set for isolation.","Vs a switching defense: step-up creates the mismatch, then attack it."],"related":["pick-and-roll-basics","screen-angle","horns-pick-and-roll","after-timeout-plays"],"vi":{"coachingPoints":["Step-up phải là chạy nước rút — big đi bộ là lộ hết bài.","Người cầm bóng: một nhịp dẫn nhử, rồi bùng nổ qua screen. Đừng nhảy múa.","Bài sau hội ý tuyệt vời: chạy cho tay ném từ cánh."],"commonMistakes":["Đặt screen quá cao, biến thành wing pick-and-roll thường, mất yếu tố bất ngờ.","Người screen pop thay vì roll — yếu tố bất ngờ bị phí khi không có áp lực vào rổ.","Screen phạm luật: chân di chuyển vì căn giờ vội."],"description":"Người screen bước lên từ phía dưới người cầm bóng để đảo góc — vũ khí cuối giờ tạo khoảng trống tức thì.","gameSituations":["Sau hội ý: step-up cho tay ném ở cánh, flare cánh yếu.","Cuối giờ: screen bất ngờ khi hàng thủ đã dàn sẵn chống isolation.","Trước hàng thủ switch: step-up tạo mismatch, rồi tấn công nó."],"howTo":[{"detail":"Người screen chờ tới khi người cầm bóng đã giao tranh với hậu vệ — thường là một nhịp dẫn mạnh về phía cánh — rồi chạy nước rút lên đặt screen. Quá sớm hàng thủ switch êm; quá muộn người cầm bóng đã bị bẫy.","title":"Căn thời điểm step-up"},{"detail":"Tiếp cận từ sau lưng hậu vệ của người cầm bóng để va chạm đầu tiên khiến hắn bất ngờ. Screen đặt vào hông ngoài của hắn, lái hắn ra baseline, mở đường vào giữa.","title":"Đặt ở phía mù của hậu vệ"},{"detail":"Sau va chạm, người screen lao thẳng ra mặt trước rổ. Hàng thủ đang rối — một pha roll mạnh cho cơ hội lob hoặc chuyền trả trước khi low man kịp tag.","title":"Roll mạnh vào rổ"},{"detail":"Hàng thủ switch thì hậu vệ giờ có big kèm ngoài không gian — đánh vào mismatch ngay. Họ cố lách qua thì pocket pass trống sau lưng.","title":"Đọc pha switch"}],"tags":["pick and roll","step-up","screen"],"title":"Screen step-up","whatIsIt":["Step-up screen là pha screen đặt bởi cầu thủ đi lên từ phía dưới bóng — thường là big bước lên từ dunker spot hoặc short corner để screen cho hậu vệ ở cánh. Góc screen đảo ngược khiến hậu vệ của người cầm bóng đâm vào một pha screen bất ngờ, thường khi hàng thủ đang dồn về một phía.","Đây là bài tủ cuối giờ và phát bóng biên dọc vì trông như không có gì xảy ra cho tới khi screen tới. Hậu vệ của người cầm bóng thường đang đuổi theo hoặc mải nhìn bóng, và step-up tung một pha screen sạch từ phía mù của hắn."],"whyItMatters":["Hàng thủ lên phương án chống các screen đỉnh vòng cung tiêu chuẩn. Step-up phá vỡ sự chuẩn bị đó: các coverage thiết kế cho pick-and-roll giữa sân không áp dụng khi screen tới từ phía dưới, và góc đánh xuống rổ tấn công trước khi help kịp dồn. Mọi gói pick-and-roll nâng cao đều cần một đòn step-up."]},"id":"step-up-screen","slug":"step-up-screen","dateUpdated":"2026-10-06"}
+{
+  "ages": [
+    "U16",
+    "U18",
+    "Adult",
+    "Competitive"
+  ],
+  "coachingPoints": [
+    "The step-up must be a sprint — a jogging big telegraphs the action.",
+    "Ball handler: one setup dribble, then explode off the screen. Don't dance.",
+    "Great after-timeout action: run it for your shooter coming off the wing."
+  ],
+  "commonMistakes": [
+    "Setting the screen too high, turning it into a regular wing PNR with no surprise.",
+    "The screener popping instead of rolling — the surprise is wasted without rim pressure.",
+    "Illegal screen: moving feet because the timing was rushed."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "The screener steps up from below the ball handler to flip the angle — a late-clock weapon that creates instant separation.",
+  "diagram": {
+    "ball": "O1",
+    "defense": [
+      {
+        "label": "X1",
+        "x": 62,
+        "y": 61
+      },
+      {
+        "label": "X5",
+        "x": 72,
+        "y": 32
+      },
+      {
+        "label": "X2",
+        "x": 30,
+        "y": 58
+      }
+    ],
+    "moves": [
+      {
+        "from": "O5",
+        "kind": "screen-run",
+        "to": "X1"
+      },
+      {
+        "from": "O5",
+        "kind": "cut",
+        "to": "rim"
+      }
+    ],
+    "offense": [
+      {
+        "label": "O1",
+        "x": 64,
+        "y": 66
+      },
+      {
+        "label": "O5",
+        "x": 74,
+        "y": 28
+      },
+      {
+        "label": "O2",
+        "x": 28,
+        "y": 62
+      },
+      {
+        "label": "O4",
+        "x": 50,
+        "y": 86
+      }
+    ],
+    "passes": [
+      {
+        "from": "O1",
+        "to": "O5"
+      }
+    ],
+    "screens": [
+      {
+        "x": 62,
+        "y": 61
+      }
+    ],
+    "shots": [
+      {
+        "x": 50,
+        "y": 5.25
+      }
+    ],
+    "title": "Step-up screen: big sprints up from below, then rolls hard to the rim"
+  },
+  "gameSituations": [
+    "After timeout: step-up for a shooter on the wing, flare the weak side.",
+    "Late clock: surprise screen when the defense is set for isolation.",
+    "Vs a switching defense: step-up creates the mismatch, then attack it."
+  ],
+  "howTo": [
+    {
+      "detail": "The screener waits until the ball handler has engaged his defender — usually one hard dribble toward the wing — then sprints up to set the screen. Too early and the defense switches calmly; too late and the ball handler is already trapped.",
+      "title": "Time the step-up"
+    },
+    {
+      "detail": "Approach from behind the ball handler's defender so the first contact surprises him. The screen should land on his outside hip, steering him toward the baseline and opening the middle.",
+      "title": "Set it on the defender's blind side"
+    },
+    {
+      "detail": "After contact, the screener dives straight to the front of the rim. The defense is scrambling — a hard roll gets a lob or a dump-off before the low man can tag.",
+      "title": "Roll hard to the rim"
+    },
+    {
+      "detail": "If the defense switches, the guard now has a big on him in space — attack the mismatch immediately. If they try to get through, the pocket pass is open behind the play.",
+      "title": "Read the switch"
+    }
+  ],
+  "hub": "pick-and-roll",
+  "id": "step-up-screen",
+  "level": "advanced",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 5,
+  "related": [
+    "pick-and-roll-basics",
+    "screen-angle",
+    "horns-pick-and-roll",
+    "after-timeout-plays"
+  ],
+  "slug": "step-up-screen",
+  "subcategory": "pick-and-roll",
+  "tags": [
+    "pick and roll",
+    "step-up",
+    "screen"
+  ],
+  "title": "Step-Up Screens",
+  "vi": {
+    "coachingPoints": [
+      "Step-up phải là chạy nước rút — big đi bộ là lộ hết bài.",
+      "Người cầm bóng: một nhịp dẫn nhử, rồi bùng nổ qua screen. Đừng nhảy múa.",
+      "Bài sau hội ý tuyệt vời: chạy cho tay ném từ cánh."
+    ],
+    "commonMistakes": [
+      "Đặt screen quá cao, biến thành wing pick-and-roll thường, mất yếu tố bất ngờ.",
+      "Người screen pop thay vì roll — yếu tố bất ngờ bị phí khi không có áp lực vào rổ.",
+      "Screen phạm luật: chân di chuyển vì căn giờ vội."
+    ],
+    "description": "Người screen bước lên từ phía dưới người cầm bóng để đảo góc — vũ khí cuối giờ tạo khoảng trống tức thì.",
+    "gameSituations": [
+      "Sau hội ý: step-up cho tay ném ở cánh, flare cánh yếu.",
+      "Cuối giờ: screen bất ngờ khi hàng thủ đã dàn sẵn chống isolation.",
+      "Trước hàng thủ switch: step-up tạo mismatch, rồi tấn công nó."
+    ],
+    "howTo": [
+      {
+        "detail": "Người screen chờ tới khi người cầm bóng đã giao tranh với hậu vệ — thường là một nhịp dẫn mạnh về phía cánh — rồi chạy nước rút lên đặt screen. Quá sớm hàng thủ switch êm; quá muộn người cầm bóng đã bị bẫy.",
+        "title": "Căn thời điểm step-up"
+      },
+      {
+        "detail": "Tiếp cận từ sau lưng hậu vệ của người cầm bóng để va chạm đầu tiên khiến hắn bất ngờ. Screen đặt vào hông ngoài của hắn, lái hắn ra baseline, mở đường vào giữa.",
+        "title": "Đặt ở phía mù của hậu vệ"
+      },
+      {
+        "detail": "Sau va chạm, người screen lao thẳng ra mặt trước rổ. Hàng thủ đang rối — một pha roll mạnh cho cơ hội lob hoặc chuyền trả trước khi low man kịp tag.",
+        "title": "Roll mạnh vào rổ"
+      },
+      {
+        "detail": "Hàng thủ switch thì hậu vệ giờ có big kèm ngoài không gian — đánh vào mismatch ngay. Họ cố lách qua thì pocket pass trống sau lưng.",
+        "title": "Đọc pha switch"
+      }
+    ],
+    "tags": [
+      "pick and roll",
+      "step-up",
+      "screen"
+    ],
+    "title": "Screen step-up",
+    "whatIsIt": [
+      "Step-up screen là pha screen đặt bởi cầu thủ đi lên từ phía dưới bóng — thường là big bước lên từ dunker spot hoặc short corner để screen cho hậu vệ ở cánh. Góc screen đảo ngược khiến hậu vệ của người cầm bóng đâm vào một pha screen bất ngờ, thường khi hàng thủ đang dồn về một phía.",
+      "Đây là bài tủ cuối giờ và phát bóng biên dọc vì trông như không có gì xảy ra cho tới khi screen tới. Hậu vệ của người cầm bóng thường đang đuổi theo hoặc mải nhìn bóng, và step-up tung một pha screen sạch từ phía mù của hắn."
+    ],
+    "whyItMatters": [
+      "Hàng thủ lên phương án chống các screen đỉnh vòng cung tiêu chuẩn. Step-up phá vỡ sự chuẩn bị đó: các coverage thiết kế cho pick-and-roll giữa sân không áp dụng khi screen tới từ phía dưới, và góc đánh xuống rổ tấn công trước khi help kịp dồn. Mọi gói pick-and-roll nâng cao đều cần một đòn step-up."
+    ]
+  },
+  "whatIsIt": [
+    "A step-up screen is set by a player coming from below the ball — typically a big stepping up from the dunker spot or short corner to screen for a guard on the wing. The angle flips the ball handler's defender into an unexpected screen, often when the defense is loaded to one side.",
+    "It is a favorite late-clock and sideline-out-of-bounds action because it looks like nothing is happening until the screen arrives. The ball handler's defender is usually trailing the play or ball-watching, and the step-up delivers a clean hit from his blind side."
+  ],
+  "whyItMatters": [
+    "Defenses scheme against standard top-of-the-key screens. The step-up breaks their preparation: coverages designed for middle PNR don't apply when the screen comes from below, and the resulting downhill angle attacks the rim before the help can load. Every advanced PNR package needs a step-up counter."
+  ]
+}

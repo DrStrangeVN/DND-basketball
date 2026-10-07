@@ -1,59 +1,211 @@
-{"ages":["U14","U16","U18","Adult"],"coachingPoints":["The trailer sprints to the top, not the corner — the trailing three lives at the slot and the top.","Trailer's rule: run to the ball-side slot first; drift to the top only if the slot is filled.","Catch shot-ready on the run — the trailer three is a catch-and-shoot in stride, never a standstill wait.","If the defense picks up the trailer, the trailer becomes the ball-reverser — swing it and re-attack.","Big trailers: set your feet before the catch by chopping steps in the last 5 meters."],"commonMistakes":["The trailer jogging instead of sprinting — a slow trailer arrives after the defense is set and the advantage is gone.","Trailing to the corner, where the passing lane is longest and the help is waiting.","Catching the trailer pass flat-footed and needing two extra seconds to load the shot.","The ball handler ignoring the open trailer to force a contested layup into three defenders."],"dateUpdated":"2026-10-06","description":"How to weaponize the trailing big or wing in transition: spacing, timing, and the catch-and-shoot three on the run.","gameSituations":["3-on-2 break, two defenders stop the ball and the rim runner — kick back to the trailer at the top for three.","Secondary break, defense matched up — the trailing big catches at the slot and shoots over a backpedaling defender.","Rebound and kick-ahead, defense sprints back — the trailer is the fourth runner arriving at the top unguarded.","Drag screen in transition with the trailer popping — the pop three before the defense sets its coverage."],"howTo":[{"detail":"The trailer is the last offensive player up the floor — usually a big or a wing who rebounded, inbounded, or simply runs slower. Instead of clogging the paint, the trailer sprints to the top of the key or the ball-side slot, arriving 2-3 seconds after the first wave. That timing is the weapon: the defense has already committed to stopping the ball and the rim runner, and the trailer walks into an undefended catch-and-shoot three. Teach trailers: you are not late, you are the second wave.","title":"Know the trailer's job: be the second wave"},{"detail":"The trailer's target is the top or the ball-side slot — never the corner, never the paint. From the top, the trailer can shoot, reverse the ball, or drive a closeout; from the corner, the passing lane is 60 feet and the help is already there. The rule: sprint the middle of the floor, break to the ball-side slot at the three-point line, and stop with feet set and hands ready. If the slot is occupied, drift to the top — but never stop moving until the ball is secured.","title":"Sprint to the slot, not the corner"},{"detail":"The ball handler's read on the break: if two defenders commit to the ball and the rim runner, the trailer is open — throw it back. The pass goes backward and slightly to the side, leading the trailer into their shooting motion. This is a trust pass: the ball handler must throw it before the trailer is fully open, anticipating the arrival. Drill it 3-on-2: ball handler attacks, two defenders commit, kick back to the trailing shooter — the trailer's feet should be set as the ball arrives.","title":"The kick-back read: two defenders commit, throw it back"},{"detail":"The trailer three only works if the shot starts before the catch. The trailer chops their steps in the last 5 meters — short, quick steps that load the legs — so the catch and the shot are one motion. Hands at chest, eyes on the rim, feet staggered and set on the catch. A trailer who catches flat-footed gives the recovering defender the 1.5 seconds they need to contest. Practice: full-court sprint, chop steps, catch, shoot — no dip, no pause.","title":"Catch shot-ready in stride"},{"detail":"Smart defenses will start picking up the trailer — that's when the trailer becomes a playmaker. If a defender sprints out to contest the trailer three, the trailer shot-fakes and drives the closeout, or simply reverses the ball to the weak side where the defense just left. Teach the counter: catch, read the defender's sprint — if they fly at you, put it on the floor or swing it; if they stay home, shoot it. The trailer who can do both is unguardable in transition.","title":"The counter: when they guard the trailer"}],"hub":"transition","id":"trailer-threes","level":"intermediate","positions":["PF","C","SF","SG"],"readTime":5,"related":["trailing-big-transition","kick-ahead-threes","secondary-break","transition-decision-making","running-lanes"],"slug":"trailer-threes","subcategory":"fast-break","tags":["trailer three","transition","spacing","catch and shoot","secondary break"],"title":"Trailer Threes in Transition","whatIsIt":["Trailer threes are the catch-and-shoot three-pointers taken by the last offensive player up the floor — the trailer — arriving 2-3 seconds after the first wave of the break. While the defense commits to stopping the ball handler and the rim runner, the trailer sprints into undefended space at the top or the slot and becomes the highest-value shot in transition basketball.","This article covers the trailer's running lane and target spots, the ball handler's kick-back read, the in-stride catch-and-shoot technique, and the counter moves when defenses start accounting for the trailer."],"whyItMatters":["The trailer three is the most efficient shot in transition: it's a wide-open catch-and-shoot three created simply by running hard. Teams that weaponize the trailer force the defense into an impossible choice — stop the ball and give up the three, or guard the trailer and give up the layup. Bigs who can trail and shoot change the geometry of the break entirely, and wings who sprint to the slot turn every rebound into a potential three. It's free offense for whoever runs hardest."],"vi": {
-  "title": "Ném 3 điểm của trailer trong phản công (trailer threes)",
-  "description": "Cách biến big hoặc cánh chạy sau thành vũ khí trong phản công: giãn đội hình, timing, và cú ném 3 điểm bắt bóng ném ngay khi đang chạy.",
-  "whatIsIt": [
-   "Ném 3 điểm của trailer là những cú ném 3 điểm bắt bóng ném ngay của cầu thủ tấn công lên sân cuối cùng — trailer — đến sau đợt đầu của pha phản công khoảng 2–3 giây. Trong lúc hàng thủ dồn vào chặn người dẫn bóng và rim runner, trailer chạy nước rút vào khoảng trống không ai kèm ở đỉnh vòng cung hoặc slot, trở thành cú ném giá trị cao nhất trong bóng rổ phản công.",
-   "Bài viết bao quát làn chạy và điểm đến của trailer, pha đọc kick-back của người dẫn bóng, kỹ thuật bắt bóng ném ngay khi đang chạy, và đòn phản đòn khi hàng thủ bắt đầu để ý đến trailer."
-  ],
-  "whyItMatters": [
-   "Ném 3 điểm của trailer là cú ném hiệu quả nhất trong phản công: một cú ném 3 điểm bắt bóng ném ngay hoàn toàn trống trải, có được chỉ bằng cách chạy thật nhanh. Đội biết dùng trailer ép hàng thủ vào lựa chọn bất khả thi — chặn bóng thì mất cú ném 3 điểm, kèm trailer thì mất layup. Big biết trail và ném thay đổi hoàn toàn hình học của pha phản công, và cánh chạy nước rút ra slot biến mỗi rebound thành một cú ném 3 điểm tiềm năng. Đó là điểm miễn phí cho ai chạy chăm nhất."
-  ],
-  "howTo": [
-   {
-    "title": "Biết việc của trailer: là đợt sóng thứ hai",
-    "detail": "Trailer là cầu thủ tấn công lên sân cuối cùng — thường là big hoặc cánh vừa rebound, vừa phát bóng biên, hoặc đơn giản chạy chậm hơn. Thay vì làm tắc khu vực dưới rổ, trailer chạy nước rút lên đỉnh vòng cung hoặc slot cùng phía bóng, đến sau đợt đầu 2–3 giây. Timing đó chính là vũ khí: hàng thủ đã dồn vào chặn bóng và rim runner, trailer bước vào cú ném 3 điểm bắt bóng ném ngay không ai kèm. Dạy trailer: cầu thủ không đến muộn, cầu thủ là đợt sóng thứ hai."
-   },
-   {
-    "title": "Chạy nước rút ra slot, không phải góc",
-    "detail": "Điểm đến của trailer là đỉnh vòng cung hoặc slot cùng phía bóng — không bao giờ là góc, không bao giờ là khu vực dưới rổ. Từ đỉnh, trailer có thể ném, đảo bóng, hoặc đột phá qua closeout; từ góc, đường chuyền dài 18m và cầu thủ hỗ trợ đã chờ sẵn. Quy tắc: chạy nước rút giữa sân, rẽ ra slot cùng phía bóng ở vạch 3 điểm, dừng lại với chân đã đặt và tay sẵn sàng. Nếu slot có người, trôi lên đỉnh — nhưng không dừng di chuyển cho đến khi bóng chắc chắn."
-   },
-   {
-    "title": "Pha đọc kick-back: hai hậu vệ lao vào, trả bóng ngược",
-    "detail": "Pha đọc của người dẫn bóng trong phản công: nếu hai hậu vệ dồn vào chặn bóng và rim runner, trailer đang trống — trả bóng ngược lại. Đường chuyền đi ngược và hơi lệch sang bên, dẫn trailer vào đà ném. Đây là đường chuyền của niềm tin: người dẫn bóng phải chuyền trước khi trailer hoàn toàn trống, đoán trước điểm đến. Tập 3 đấu 2: người dẫn bóng tấn công, hai hậu vệ dồn vào, kick-back cho tay ném chạy sau — chân trailer phải đặt xong đúng lúc bóng tới."
-   },
-   {
-    "title": "Bắt bóng đã sẵn sàng ném khi đang chạy",
-    "detail": "Ném 3 điểm của trailer chỉ hiệu quả khi cú ném bắt đầu trước lúc bắt bóng. Trailer rút ngắn bước chạy trong 5m cuối — những bước ngắn, nhanh để nạp lực chân — để bắt bóng và ném là một chuyển động liền mạch. Tay ngang ngực, mắt nhìn vành rổ, chân so le đặt vững khi bắt bóng. Trailer bắt bóng mà chân chưa sẵn sàng cho hậu vệ hồi về 1,5 giây để contest. Bài tập: chạy nước rút cả sân, rút bước, bắt bóng, ném — không hạ bóng, không khựng lại."
-   },
-   {
-    "title": "Đòn phản đòn: khi họ kèm trailer",
-    "detail": "Hàng thủ khôn sẽ bắt đầu cử người đón trailer — lúc đó trailer thành người kiến tạo. Nếu hậu vệ chạy nước rút ra contest cú ném 3 điểm của trailer, trailer làm động tác giả rồi đột phá qua closeout, hoặc đơn giản đảo bóng sang phía yếu nơi hàng thủ vừa bỏ đi. Dạy đòn phản đòn: bắt bóng, đọc đà chạy của hậu vệ — nếu anh ta lao tới, đặt bóng xuống đột phá hoặc đảo bóng; nếu anh ta ở nhà, ném luôn. Trailer làm được cả hai thì không ai kèm nổi trong phản công."
-   }
+{
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
   ],
   "coachingPoints": [
-   "Trailer chạy nước rút lên đỉnh, không phải góc — ném 3 điểm của trailer sống ở slot và đỉnh.",
-   "Quy tắc của trailer: chạy ra slot cùng phía bóng trước; chỉ trôi lên đỉnh khi slot đã có người.",
-   "Bắt bóng đã sẵn sàng ném khi đang chạy — ném 3 điểm của trailer là bắt bóng ném ngay theo đà, không bao giờ đứng chờ.",
-   "Nếu hàng thủ cử người đón trailer, trailer thành người đảo bóng — đảo sang và tấn công lại.",
-   "Big chạy trail: đặt chân xong trước khi bắt bóng bằng cách rút ngắn bước trong 5m cuối."
+    "The trailer sprints to the top, not the corner — the trailing three lives at the slot and the top.",
+    "Trailer's rule: run to the ball-side slot first; drift to the top only if the slot is filled.",
+    "Catch shot-ready on the run — the trailer three is a catch-and-shoot in stride, never a standstill wait.",
+    "If the defense picks up the trailer, the trailer becomes the ball-reverser — swing it and re-attack.",
+    "Big trailers: set your feet before the catch by chopping steps in the last 5 meters."
   ],
   "commonMistakes": [
-   "Trailer chạy thả lỏng thay vì nước rút — trailer chậm đến sau khi hàng thủ đã ổn định, lợi thế mất hết.",
-   "Trail ra góc, nơi đường chuyền dài nhất và cầu thủ hỗ trợ đang chờ.",
-   "Bắt đường chuyền của trailer mà chân chưa sẵn, cần thêm hai giây để nạp lực ném.",
-   "Người dẫn bóng phớt lờ trailer đang trống để cố layup bị kèm trước ba hậu vệ."
+    "The trailer jogging instead of sprinting — a slow trailer arrives after the defense is set and the advantage is gone.",
+    "Trailing to the corner, where the passing lane is longest and the help is waiting.",
+    "Catching the trailer pass flat-footed and needing two extra seconds to load the shot.",
+    "The ball handler ignoring the open trailer to force a contested layup into three defenders."
   ],
+  "dateUpdated": "2026-10-06",
+  "description": "How to weaponize the trailing big or wing in transition: spacing, timing, and the catch-and-shoot three on the run.",
+  "diagram": {
+    "ball": "O1",
+    "defense": [
+      {
+        "label": "X1",
+        "x": 50,
+        "y": 74
+      },
+      {
+        "label": "X5",
+        "x": 54,
+        "y": 44
+      },
+      {
+        "label": "X2",
+        "x": 26,
+        "y": 54
+      }
+    ],
+    "moves": [
+      {
+        "from": "O1",
+        "kind": "dribble",
+        "to": "X1"
+      },
+      {
+        "from": "O5",
+        "kind": "cut",
+        "to": "rim"
+      }
+    ],
+    "offense": [
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 82
+      },
+      {
+        "label": "O5",
+        "x": 56,
+        "y": 48
+      },
+      {
+        "label": "O2",
+        "x": 24,
+        "y": 56
+      },
+      {
+        "label": "O4",
+        "x": 50,
+        "y": 68
+      }
+    ],
+    "passes": [
+      {
+        "from": "O1",
+        "to": "O4"
+      }
+    ],
+    "shots": [
+      {
+        "x": 50,
+        "y": 68
+      }
+    ],
+    "title": "Two commit to the ball: kick back to the trailer for three"
+  },
   "gameSituations": [
-   "Phản công 3 đấu 2, hai hậu vệ chặn bóng và rim runner — kick-back cho trailer ở đỉnh ném 3 điểm.",
-   "Đợt phản công thứ hai, hàng thủ đã kèm người — big chạy sau bắt bóng ở slot và ném qua hậu vệ đang lùi.",
-   "Rebound rồi chuyền vượt tuyến, hàng thủ chạy nước rút về — trailer là người chạy thứ tư đến đỉnh không ai kèm.",
-   "Drag screen trong phản công với trailer pop — cú ném 3 điểm pop trước khi hàng thủ kịp dựng đội hình."
+    "3-on-2 break, two defenders stop the ball and the rim runner — kick back to the trailer at the top for three.",
+    "Secondary break, defense matched up — the trailing big catches at the slot and shoots over a backpedaling defender.",
+    "Rebound and kick-ahead, defense sprints back — the trailer is the fourth runner arriving at the top unguarded.",
+    "Drag screen in transition with the trailer popping — the pop three before the defense sets its coverage."
   ],
+  "howTo": [
+    {
+      "detail": "The trailer is the last offensive player up the floor — usually a big or a wing who rebounded, inbounded, or simply runs slower. Instead of clogging the paint, the trailer sprints to the top of the key or the ball-side slot, arriving 2-3 seconds after the first wave. That timing is the weapon: the defense has already committed to stopping the ball and the rim runner, and the trailer walks into an undefended catch-and-shoot three. Teach trailers: you are not late, you are the second wave.",
+      "title": "Know the trailer's job: be the second wave"
+    },
+    {
+      "detail": "The trailer's target is the top or the ball-side slot — never the corner, never the paint. From the top, the trailer can shoot, reverse the ball, or drive a closeout; from the corner, the passing lane is 60 feet and the help is already there. The rule: sprint the middle of the floor, break to the ball-side slot at the three-point line, and stop with feet set and hands ready. If the slot is occupied, drift to the top — but never stop moving until the ball is secured.",
+      "title": "Sprint to the slot, not the corner"
+    },
+    {
+      "detail": "The ball handler's read on the break: if two defenders commit to the ball and the rim runner, the trailer is open — throw it back. The pass goes backward and slightly to the side, leading the trailer into their shooting motion. This is a trust pass: the ball handler must throw it before the trailer is fully open, anticipating the arrival. Drill it 3-on-2: ball handler attacks, two defenders commit, kick back to the trailing shooter — the trailer's feet should be set as the ball arrives.",
+      "title": "The kick-back read: two defenders commit, throw it back"
+    },
+    {
+      "detail": "The trailer three only works if the shot starts before the catch. The trailer chops their steps in the last 5 meters — short, quick steps that load the legs — so the catch and the shot are one motion. Hands at chest, eyes on the rim, feet staggered and set on the catch. A trailer who catches flat-footed gives the recovering defender the 1.5 seconds they need to contest. Practice: full-court sprint, chop steps, catch, shoot — no dip, no pause.",
+      "title": "Catch shot-ready in stride"
+    },
+    {
+      "detail": "Smart defenses will start picking up the trailer — that's when the trailer becomes a playmaker. If a defender sprints out to contest the trailer three, the trailer shot-fakes and drives the closeout, or simply reverses the ball to the weak side where the defense just left. Teach the counter: catch, read the defender's sprint — if they fly at you, put it on the floor or swing it; if they stay home, shoot it. The trailer who can do both is unguardable in transition.",
+      "title": "The counter: when they guard the trailer"
+    }
+  ],
+  "hub": "transition",
+  "id": "trailer-threes",
+  "level": "intermediate",
+  "positions": [
+    "PF",
+    "C",
+    "SF",
+    "SG"
+  ],
+  "readTime": 5,
+  "related": [
+    "trailing-big-transition",
+    "kick-ahead-threes",
+    "secondary-break",
+    "transition-decision-making",
+    "running-lanes"
+  ],
+  "slug": "trailer-threes",
+  "subcategory": "fast-break",
   "tags": [
-   "ném 3 điểm của trailer",
-   "phản công",
-   "giãn đội hình",
-   "bắt bóng ném ngay",
-   "đợt phản công thứ hai"
+    "trailer three",
+    "transition",
+    "spacing",
+    "catch and shoot",
+    "secondary break"
+  ],
+  "title": "Trailer Threes in Transition",
+  "vi": {
+    "coachingPoints": [
+      "Trailer chạy nước rút lên đỉnh, không phải góc — ném 3 điểm của trailer sống ở slot và đỉnh.",
+      "Quy tắc của trailer: chạy ra slot cùng phía bóng trước; chỉ trôi lên đỉnh khi slot đã có người.",
+      "Bắt bóng đã sẵn sàng ném khi đang chạy — ném 3 điểm của trailer là bắt bóng ném ngay theo đà, không bao giờ đứng chờ.",
+      "Nếu hàng thủ cử người đón trailer, trailer thành người đảo bóng — đảo sang và tấn công lại.",
+      "Big chạy trail: đặt chân xong trước khi bắt bóng bằng cách rút ngắn bước trong 5m cuối."
+    ],
+    "commonMistakes": [
+      "Trailer chạy thả lỏng thay vì nước rút — trailer chậm đến sau khi hàng thủ đã ổn định, lợi thế mất hết.",
+      "Trail ra góc, nơi đường chuyền dài nhất và cầu thủ hỗ trợ đang chờ.",
+      "Bắt đường chuyền của trailer mà chân chưa sẵn, cần thêm hai giây để nạp lực ném.",
+      "Người dẫn bóng phớt lờ trailer đang trống để cố layup bị kèm trước ba hậu vệ."
+    ],
+    "description": "Cách biến big hoặc cánh chạy sau thành vũ khí trong phản công: giãn đội hình, timing, và cú ném 3 điểm bắt bóng ném ngay khi đang chạy.",
+    "gameSituations": [
+      "Phản công 3 đấu 2, hai hậu vệ chặn bóng và rim runner — kick-back cho trailer ở đỉnh ném 3 điểm.",
+      "Đợt phản công thứ hai, hàng thủ đã kèm người — big chạy sau bắt bóng ở slot và ném qua hậu vệ đang lùi.",
+      "Rebound rồi chuyền vượt tuyến, hàng thủ chạy nước rút về — trailer là người chạy thứ tư đến đỉnh không ai kèm.",
+      "Drag screen trong phản công với trailer pop — cú ném 3 điểm pop trước khi hàng thủ kịp dựng đội hình."
+    ],
+    "howTo": [
+      {
+        "detail": "Trailer là cầu thủ tấn công lên sân cuối cùng — thường là big hoặc cánh vừa rebound, vừa phát bóng biên, hoặc đơn giản chạy chậm hơn. Thay vì làm tắc khu vực dưới rổ, trailer chạy nước rút lên đỉnh vòng cung hoặc slot cùng phía bóng, đến sau đợt đầu 2–3 giây. Timing đó chính là vũ khí: hàng thủ đã dồn vào chặn bóng và rim runner, trailer bước vào cú ném 3 điểm bắt bóng ném ngay không ai kèm. Dạy trailer: cầu thủ không đến muộn, cầu thủ là đợt sóng thứ hai.",
+        "title": "Biết việc của trailer: là đợt sóng thứ hai"
+      },
+      {
+        "detail": "Điểm đến của trailer là đỉnh vòng cung hoặc slot cùng phía bóng — không bao giờ là góc, không bao giờ là khu vực dưới rổ. Từ đỉnh, trailer có thể ném, đảo bóng, hoặc đột phá qua closeout; từ góc, đường chuyền dài 18m và cầu thủ hỗ trợ đã chờ sẵn. Quy tắc: chạy nước rút giữa sân, rẽ ra slot cùng phía bóng ở vạch 3 điểm, dừng lại với chân đã đặt và tay sẵn sàng. Nếu slot có người, trôi lên đỉnh — nhưng không dừng di chuyển cho đến khi bóng chắc chắn.",
+        "title": "Chạy nước rút ra slot, không phải góc"
+      },
+      {
+        "detail": "Pha đọc của người dẫn bóng trong phản công: nếu hai hậu vệ dồn vào chặn bóng và rim runner, trailer đang trống — trả bóng ngược lại. Đường chuyền đi ngược và hơi lệch sang bên, dẫn trailer vào đà ném. Đây là đường chuyền của niềm tin: người dẫn bóng phải chuyền trước khi trailer hoàn toàn trống, đoán trước điểm đến. Tập 3 đấu 2: người dẫn bóng tấn công, hai hậu vệ dồn vào, kick-back cho tay ném chạy sau — chân trailer phải đặt xong đúng lúc bóng tới.",
+        "title": "Pha đọc kick-back: hai hậu vệ lao vào, trả bóng ngược"
+      },
+      {
+        "detail": "Ném 3 điểm của trailer chỉ hiệu quả khi cú ném bắt đầu trước lúc bắt bóng. Trailer rút ngắn bước chạy trong 5m cuối — những bước ngắn, nhanh để nạp lực chân — để bắt bóng và ném là một chuyển động liền mạch. Tay ngang ngực, mắt nhìn vành rổ, chân so le đặt vững khi bắt bóng. Trailer bắt bóng mà chân chưa sẵn sàng cho hậu vệ hồi về 1,5 giây để contest. Bài tập: chạy nước rút cả sân, rút bước, bắt bóng, ném — không hạ bóng, không khựng lại.",
+        "title": "Bắt bóng đã sẵn sàng ném khi đang chạy"
+      },
+      {
+        "detail": "Hàng thủ khôn sẽ bắt đầu cử người đón trailer — lúc đó trailer thành người kiến tạo. Nếu hậu vệ chạy nước rút ra contest cú ném 3 điểm của trailer, trailer làm động tác giả rồi đột phá qua closeout, hoặc đơn giản đảo bóng sang phía yếu nơi hàng thủ vừa bỏ đi. Dạy đòn phản đòn: bắt bóng, đọc đà chạy của hậu vệ — nếu anh ta lao tới, đặt bóng xuống đột phá hoặc đảo bóng; nếu anh ta ở nhà, ném luôn. Trailer làm được cả hai thì không ai kèm nổi trong phản công.",
+        "title": "Đòn phản đòn: khi họ kèm trailer"
+      }
+    ],
+    "tags": [
+      "ném 3 điểm của trailer",
+      "phản công",
+      "giãn đội hình",
+      "bắt bóng ném ngay",
+      "đợt phản công thứ hai"
+    ],
+    "title": "Ném 3 điểm của trailer trong phản công (trailer threes)",
+    "whatIsIt": [
+      "Ném 3 điểm của trailer là những cú ném 3 điểm bắt bóng ném ngay của cầu thủ tấn công lên sân cuối cùng — trailer — đến sau đợt đầu của pha phản công khoảng 2–3 giây. Trong lúc hàng thủ dồn vào chặn người dẫn bóng và rim runner, trailer chạy nước rút vào khoảng trống không ai kèm ở đỉnh vòng cung hoặc slot, trở thành cú ném giá trị cao nhất trong bóng rổ phản công.",
+      "Bài viết bao quát làn chạy và điểm đến của trailer, pha đọc kick-back của người dẫn bóng, kỹ thuật bắt bóng ném ngay khi đang chạy, và đòn phản đòn khi hàng thủ bắt đầu để ý đến trailer."
+    ],
+    "whyItMatters": [
+      "Ném 3 điểm của trailer là cú ném hiệu quả nhất trong phản công: một cú ném 3 điểm bắt bóng ném ngay hoàn toàn trống trải, có được chỉ bằng cách chạy thật nhanh. Đội biết dùng trailer ép hàng thủ vào lựa chọn bất khả thi — chặn bóng thì mất cú ném 3 điểm, kèm trailer thì mất layup. Big biết trail và ném thay đổi hoàn toàn hình học của pha phản công, và cánh chạy nước rút ra slot biến mỗi rebound thành một cú ném 3 điểm tiềm năng. Đó là điểm miễn phí cho ai chạy chăm nhất."
+    ]
+  },
+  "whatIsIt": [
+    "Trailer threes are the catch-and-shoot three-pointers taken by the last offensive player up the floor — the trailer — arriving 2-3 seconds after the first wave of the break. While the defense commits to stopping the ball handler and the rim runner, the trailer sprints into undefended space at the top or the slot and becomes the highest-value shot in transition basketball.",
+    "This article covers the trailer's running lane and target spots, the ball handler's kick-back read, the in-stride catch-and-shoot technique, and the counter moves when defenses start accounting for the trailer."
+  ],
+  "whyItMatters": [
+    "The trailer three is the most efficient shot in transition: it's a wide-open catch-and-shoot three created simply by running hard. Teams that weaponize the trailer force the defense into an impossible choice — stop the ball and give up the three, or guard the trailer and give up the layup. Bigs who can trail and shoot change the geometry of the break entirely, and wings who sprint to the slot turn every rebound into a potential three. It's free offense for whoever runs hardest."
   ]
- }}
+}

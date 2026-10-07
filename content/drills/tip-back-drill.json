@@ -3,6 +3,30 @@
   "slug": "tip-back-drill",
   "title": "Tip Back Drill",
   "description": "Develop soft hands and second-jump timing by tipping your own misses back off the glass.",
+  "diagram": {
+    "title": "Tip Back Drill: meet it at the peak",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 58,
+        "y": 12
+      }
+    ],
+    "ball": "O1",
+    "moves": [
+      {
+        "from": "O1",
+        "to": "rim",
+        "kind": "move"
+      }
+    ],
+    "shots": [
+      {
+        "x": 50,
+        "y": 6
+      }
+    ]
+  },
   "skill": "Rebounding",
   "level": "intermediate",
   "ages": [

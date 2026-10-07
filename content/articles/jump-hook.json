@@ -21,6 +21,30 @@
   ],
   "dateUpdated": "2026-10-06",
   "description": "The unblockable post shot: sweep the ball high over your shoulder with a soft one-hand release.",
+  "diagram": {
+    "title": "Jump hook: sweep over the shoulder off the glass",
+    "offense": [
+      {
+        "label": "O5",
+        "x": 44,
+        "y": 20
+      }
+    ],
+    "defense": [
+      {
+        "label": "X5",
+        "x": 49,
+        "y": 15
+      }
+    ],
+    "ball": "O5",
+    "shots": [
+      {
+        "x": 46,
+        "y": 12
+      }
+    ]
+  },
   "gameSituations": [
     "One-on-one post-ups where the defender is bodied up — hook over them.",
     "Against shot blockers — release from the shoulder, out of their reach.",

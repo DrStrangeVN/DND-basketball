@@ -1,121 +1,184 @@
 {
- "title": "Veer Screens",
- "description": "The screener veers back toward the ball after screening — sealing his own defender for a quick duck-in or re-screen.",
- "hub": "pick-and-roll",
- "subcategory": "pick-and-roll",
- "level": "advanced",
- "positions": [
-  "C",
-  "PF"
- ],
- "ages": [
-  "U16",
-  "U18",
-  "Adult",
-  "Competitive"
- ],
- "readTime": 5,
- "tags": [
-  "pick and roll",
-  "veer",
-  "screen"
- ],
- "whatIsIt": [
-  "A veer screen happens when the screener, instead of rolling to the basket after the ball screen, veers back toward the ball — cutting behind the ball handler's defender to seal him. It is a counter for defenses that try to jam or go under the screen: the veer turns their aggression into a seal.",
-  "The action usually ends with a quick duck-in at the front of the rim or an immediate re-screen. Because the veer happens on the ball side, the pass is short and the finish is quick — it punishes the exact moment the defense over-commits."
- ],
- "whyItMatters": [
-  "Defenses that fight over screens aggressively leave the veer open every time. Teaching your bigs to veer instead of rolling into a crowd gives your PNR a built-in counter that needs no new play call — just a read. It is one of the highest-efficiency tweaks a pick-and-roll offense can add."
- ],
- "howTo": [
-  {
-   "title": "Feel the jam",
-   "detail": "As you set the screen, feel your defender trying to jam through or your man's defender going under early. That pressure is the trigger — don't roll into it, veer away from it."
+  "ages": [
+    "U16",
+    "U18",
+    "Adult",
+    "Competitive"
+  ],
+  "coachingPoints": [
+    "The veer is a reaction to defensive pressure, not a pre-called action — drill the read.",
+    "Seal with your butt and wide base; reaching with arms is an offensive foul.",
+    "Ball handler: throw the veer pass early, before the seal gets fronted."
+  ],
+  "commonMistakes": [
+    "Veering when the defense played it straight — now you've abandoned a good roll for nothing.",
+    "Veering too deep toward the baseline, where the help can dig the ball.",
+    "Setting the initial screen half-heartedly because you pre-decided to veer."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "The screener veers back toward the ball after screening — sealing his own defender for a quick duck-in or re-screen.",
+  "diagram": {
+    "ball": "O1",
+    "defense": [
+      {
+        "label": "X1",
+        "x": 50,
+        "y": 70
+      },
+      {
+        "label": "X5",
+        "x": 60,
+        "y": 60
+      }
+    ],
+    "moves": [
+      {
+        "from": "O5",
+        "kind": "screen-run",
+        "to": "X1"
+      },
+      {
+        "from": "O5",
+        "kind": "cut",
+        "to": "rim"
+      }
+    ],
+    "offense": [
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 76
+      },
+      {
+        "label": "O5",
+        "x": 58,
+        "y": 64
+      },
+      {
+        "label": "O2",
+        "x": 76,
+        "y": 58
+      }
+    ],
+    "passes": [
+      {
+        "from": "O1",
+        "to": "O5"
+      }
+    ],
+    "screens": [
+      {
+        "x": 50,
+        "y": 70
+      }
+    ],
+    "shots": [
+      {
+        "x": 50,
+        "y": 5.25
+      }
+    ],
+    "title": "Veer back to the ball: seal the defender, duck in for the catch"
   },
-  {
-   "title": "Veer back to the ball",
-   "detail": "Plant your outside foot and cut back toward the ball handler, sealing the defender who just fought through. Your body becomes the wall between him and the basket."
+  "gameSituations": [
+    "Vs defenses that jam the screener or go under aggressively.",
+    "With a strong, wide-bodied big who seals well.",
+    "Late clock: veer-duck-in is a quick-hitting 2 points."
+  ],
+  "howTo": [
+    {
+      "detail": "As you set the screen, feel your defender trying to jam through or your man's defender going under early. That pressure is the trigger — don't roll into it, veer away from it.",
+      "title": "Feel the jam"
+    },
+    {
+      "detail": "Plant your outside foot and cut back toward the ball handler, sealing the defender who just fought through. Your body becomes the wall between him and the basket.",
+      "title": "Veer back to the ball"
+    },
+    {
+      "detail": "After the seal, duck into the lane with your hands ready. The ball handler throws a quick lead pass — you're catching 6 feet from the rim with your man sealed behind you.",
+      "title": "Duck in for the catch"
+    },
+    {
+      "detail": "If the defense rotates and the duck-in is covered, plant and set a second screen for the ball handler. The veer-to-rescreen sequence breaks even set defenses.",
+      "title": "Re-screen if nothing's there"
+    }
+  ],
+  "hub": "pick-and-roll",
+  "id": "veer-screen",
+  "level": "advanced",
+  "positions": [
+    "C",
+    "PF"
+  ],
+  "readTime": 5,
+  "related": [
+    "pick-and-roll-basics",
+    "rescreen-pnr",
+    "screen-angle",
+    "post-positioning"
+  ],
+  "slug": "veer-screen",
+  "subcategory": "pick-and-roll",
+  "tags": [
+    "pick and roll",
+    "veer",
+    "screen"
+  ],
+  "title": "Veer Screens",
+  "vi": {
+    "coachingPoints": [
+      "Veer là phản ứng với áp lực phòng thủ, không phải bài gọi trước — tập pha đọc.",
+      "Seal bằng hông và trụ rộng. Với tay là lỗi tấn công.",
+      "Người cầm bóng: chuyền veer sớm, trước khi người seal bị đứng trước mặt."
+    ],
+    "commonMistakes": [
+      "Veer khi hàng thủ kèm thẳng — bỏ pha roll ngon mà chẳng được gì.",
+      "Veer quá sâu về baseline, hàng hỗ trợ móc bóng.",
+      "Dựng screen đầu hời hợt vì đã quyết veer từ trước."
+    ],
+    "description": "Người screen đảo ngược về phía bóng sau khi dựng screen — seal hậu vệ của mình để duck-in nhanh hoặc dựng screen lại ngay.",
+    "gameSituations": [
+      "Gặp hàng thủ jam người screen hoặc chui dưới hung hăng.",
+      "Khi có big man khỏe, thân rộng, seal tốt.",
+      "Cuối đồng hồ: veer-duck-in là hai điểm nhanh gọn."
+    ],
+    "howTo": [
+      {
+        "detail": "Vừa dựng screen, cảm nhận hậu vệ cố chen qua hoặc hậu vệ bên kia chui dưới sớm. Áp lực đó là tín hiệu — đừng roll vào nó, veer ra khỏi nó.",
+        "title": "Cảm nhận pha jam"
+      },
+      {
+        "detail": "Trụ chân ngoài, cắt ngược về phía người cầm bóng, seal hậu vệ vừa chen qua. Cơ thể bạn thành bức tường giữa anh ta và rổ.",
+        "title": "Veer về phía bóng"
+      },
+      {
+        "detail": "Seal xong, lặn vào khu vực dưới rổ, tay sẵn sàng. Người cầm bóng chuyền nhanh đón đầu — bạn bắt bóng cách rổ 1,8m, người kèm bị seal sau lưng.",
+        "title": "Duck-in nhận bóng"
+      },
+      {
+        "detail": "Hàng thủ xoay kịp và duck-in bị bắt — trụ lại, dựng screen thứ hai cho người cầm bóng. Chuỗi veer-rồi-dựng-lại phá cả hàng thủ đã ổn định.",
+        "title": "Không có gì thì dựng lại"
+      }
+    ],
+    "tags": [
+      "pick and roll",
+      "veer",
+      "screen"
+    ],
+    "title": "Screen veer",
+    "whatIsIt": [
+      "Screen veer xảy ra khi người screen, thay vì roll vào rổ sau screen bóng, đảo ngược về phía bóng — cắt sau lưng hậu vệ của người cầm bóng để seal anh ta. Đây là đòn phản cho hàng thủ cố chen qua screen hoặc chui dưới sớm: veer biến sự hung hăng của họ thành một pha seal.",
+      "Miếng đánh thường kết thúc bằng pha duck-in nhanh trước rổ hoặc dựng lại screen ngay. Veer diễn ra ở phía bóng nên đường chuyền ngắn, pha dứt điểm nhanh — trừng phạt đúng khoảnh khắc hàng thủ dấn quá đà."
+    ],
+    "whyItMatters": [
+      "Hàng thủ chen qua screen hung hăng để lộ veer mọi lần. Dạy big man veer thay vì roll vào đám đông — PNR của bạn có ngay đòn phản tích hợp, không cần gọi bài mới, chỉ cần đọc tình huống. Một trong những điều chỉnh hiệu quả nhất cho hệ thống pick-and-roll."
+    ]
   },
-  {
-   "title": "Duck in for the catch",
-   "detail": "After the seal, duck into the lane with your hands ready. The ball handler throws a quick lead pass — you're catching 6 feet from the rim with your man sealed behind you."
-  },
-  {
-   "title": "Re-screen if nothing's there",
-   "detail": "If the defense rotates and the duck-in is covered, plant and set a second screen for the ball handler. The veer-to-rescreen sequence breaks even set defenses."
-  }
- ],
- "coachingPoints": [
-  "The veer is a reaction to defensive pressure, not a pre-called action — drill the read.",
-  "Seal with your butt and wide base; reaching with arms is an offensive foul.",
-  "Ball handler: throw the veer pass early, before the seal gets fronted."
- ],
- "commonMistakes": [
-  "Veering when the defense played it straight — now you've abandoned a good roll for nothing.",
-  "Veering too deep toward the baseline, where the help can dig the ball.",
-  "Setting the initial screen half-heartedly because you pre-decided to veer."
- ],
- "gameSituations": [
-  "Vs defenses that jam the screener or go under aggressively.",
-  "With a strong, wide-bodied big who seals well.",
-  "Late clock: veer-duck-in is a quick-hitting 2 points."
- ],
- "related": [
-  "pick-and-roll-basics",
-  "rescreen-pnr",
-  "screen-angle",
-  "post-positioning"
- ],
- "vi": {
-   "title": "Screen veer",
-   "description": "Người screen đảo ngược về phía bóng sau khi dựng screen — seal hậu vệ của mình để duck-in nhanh hoặc dựng screen lại ngay.",
-   "whatIsIt": [
-     "Screen veer xảy ra khi người screen, thay vì roll vào rổ sau screen bóng, đảo ngược về phía bóng — cắt sau lưng hậu vệ của người cầm bóng để seal anh ta. Đây là đòn phản cho hàng thủ cố chen qua screen hoặc chui dưới sớm: veer biến sự hung hăng của họ thành một pha seal.",
-     "Miếng đánh thường kết thúc bằng pha duck-in nhanh trước rổ hoặc dựng lại screen ngay. Veer diễn ra ở phía bóng nên đường chuyền ngắn, pha dứt điểm nhanh — trừng phạt đúng khoảnh khắc hàng thủ dấn quá đà."
-   ],
-   "whyItMatters": [
-     "Hàng thủ chen qua screen hung hăng để lộ veer mọi lần. Dạy big man veer thay vì roll vào đám đông — PNR của bạn có ngay đòn phản tích hợp, không cần gọi bài mới, chỉ cần đọc tình huống. Một trong những điều chỉnh hiệu quả nhất cho hệ thống pick-and-roll."
-   ],
-   "howTo": [
-     {
-       "title": "Cảm nhận pha jam",
-       "detail": "Vừa dựng screen, cảm nhận hậu vệ cố chen qua hoặc hậu vệ bên kia chui dưới sớm. Áp lực đó là tín hiệu — đừng roll vào nó, veer ra khỏi nó."
-     },
-     {
-       "title": "Veer về phía bóng",
-       "detail": "Trụ chân ngoài, cắt ngược về phía người cầm bóng, seal hậu vệ vừa chen qua. Cơ thể bạn thành bức tường giữa anh ta và rổ."
-     },
-     {
-       "title": "Duck-in nhận bóng",
-       "detail": "Seal xong, lặn vào khu vực dưới rổ, tay sẵn sàng. Người cầm bóng chuyền nhanh đón đầu — bạn bắt bóng cách rổ 1,8m, người kèm bị seal sau lưng."
-     },
-     {
-       "title": "Không có gì thì dựng lại",
-       "detail": "Hàng thủ xoay kịp và duck-in bị bắt — trụ lại, dựng screen thứ hai cho người cầm bóng. Chuỗi veer-rồi-dựng-lại phá cả hàng thủ đã ổn định."
-     }
-   ],
-   "coachingPoints": [
-     "Veer là phản ứng với áp lực phòng thủ, không phải bài gọi trước — tập pha đọc.",
-     "Seal bằng hông và trụ rộng. Với tay là lỗi tấn công.",
-     "Người cầm bóng: chuyền veer sớm, trước khi người seal bị đứng trước mặt."
-   ],
-   "commonMistakes": [
-     "Veer khi hàng thủ kèm thẳng — bỏ pha roll ngon mà chẳng được gì.",
-     "Veer quá sâu về baseline, hàng hỗ trợ móc bóng.",
-     "Dựng screen đầu hời hợt vì đã quyết veer từ trước."
-   ],
-   "gameSituations": [
-     "Gặp hàng thủ jam người screen hoặc chui dưới hung hăng.",
-     "Khi có big man khỏe, thân rộng, seal tốt.",
-     "Cuối đồng hồ: veer-duck-in là hai điểm nhanh gọn."
-   ],
-   "tags": [
-     "pick and roll",
-     "veer",
-     "screen"
-   ]
- },
- "id": "veer-screen",
- "slug": "veer-screen",
- "dateUpdated": "2026-10-06"
+  "whatIsIt": [
+    "A veer screen happens when the screener, instead of rolling to the basket after the ball screen, veers back toward the ball — cutting behind the ball handler's defender to seal him. It is a counter for defenses that try to jam or go under the screen: the veer turns their aggression into a seal.",
+    "The action usually ends with a quick duck-in at the front of the rim or an immediate re-screen. Because the veer happens on the ball side, the pass is short and the finish is quick — it punishes the exact moment the defense over-commits."
+  ],
+  "whyItMatters": [
+    "Defenses that fight over screens aggressively leave the veer open every time. Teaching your bigs to veer instead of rolling into a crowd gives your PNR a built-in counter that needs no new play call — just a read. It is one of the highest-efficiency tweaks a pick-and-roll offense can add."
+  ]
 }

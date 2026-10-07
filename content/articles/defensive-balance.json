@@ -18,6 +18,34 @@
   ],
   "dateUpdated": "2026-10-06",
   "description": "The unglamorous art of sprinting back on defense — floor balance that kills fast breaks before they start.",
+  "diagram": {
+    "ball": "O1",
+    "defense": [
+      {
+        "label": "X1",
+        "x": 50,
+        "y": 44
+      },
+      {
+        "label": "X2",
+        "x": 50,
+        "y": 14
+      }
+    ],
+    "offense": [
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 70
+      },
+      {
+        "label": "O2",
+        "x": 30,
+        "y": 78
+      }
+    ],
+    "title": "Defensive balance: stop the ball, protect the rim"
+  },
   "gameSituations": [
     "After every shot your team takes — balance is a habit, not a situation.",
     "Vs great transition teams — balance is your entire game plan.",

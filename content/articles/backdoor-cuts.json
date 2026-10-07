@@ -21,6 +21,63 @@
   ],
   "dateUpdated": "2026-10-06",
   "description": "The counter to every overplay: when your defender denies the ball, cut behind him. Master the backdoor read, the timing, and the passes that punish pressure defense.",
+  "diagram": {
+    "ball": "O1",
+    "defense": [
+      {
+        "label": "X2",
+        "x": 33,
+        "y": 37
+      },
+      {
+        "label": "X1",
+        "x": 50,
+        "y": 53
+      }
+    ],
+    "moves": [
+      {
+        "from": "O2",
+        "kind": "cut",
+        "to": "rim"
+      }
+    ],
+    "offense": [
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 58
+      },
+      {
+        "label": "O2",
+        "x": 30,
+        "y": 40
+      },
+      {
+        "label": "O3",
+        "x": 70,
+        "y": 40
+      },
+      {
+        "label": "O5",
+        "x": 50,
+        "y": 26
+      }
+    ],
+    "passes": [
+      {
+        "from": "O1",
+        "to": "rim"
+      }
+    ],
+    "shots": [
+      {
+        "x": 50,
+        "y": 7
+      }
+    ],
+    "title": "Backdoor cut: punish the overplay"
+  },
   "gameSituations": [
     "Against denial defense that pressures the wings",
     "When your team is struggling to get open catches",

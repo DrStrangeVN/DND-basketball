@@ -3,6 +3,55 @@
   "slug": "form-shooting",
   "title": "Form Shooting",
   "description": "One-hand shooting close to the basket to build clean mechanics, straight-line energy transfer, and a soft finish on every shot.",
+  "diagram": {
+    "title": "Form Shooting: one hand, hold the follow-through",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 60,
+        "y": 12
+      },
+      {
+        "label": "1",
+        "x": 56,
+        "y": 9
+      },
+      {
+        "label": "2",
+        "x": 44,
+        "y": 9
+      },
+      {
+        "label": "3",
+        "x": 50,
+        "y": 11
+      }
+    ],
+    "ball": "O1",
+    "moves": [
+      {
+        "from": "O1",
+        "to": "1",
+        "kind": "move"
+      },
+      {
+        "from": "O1",
+        "to": "2",
+        "kind": "move"
+      },
+      {
+        "from": "O1",
+        "to": "3",
+        "kind": "move"
+      }
+    ],
+    "shots": [
+      {
+        "x": 50,
+        "y": 6
+      }
+    ]
+  },
   "skill": "Shooting",
   "level": "beginner",
   "ages": ["U10","U12","U14","U16","U18","Adult"],
@@ -41,6 +90,7 @@
   "gameApplication": "Every jump shot in a game starts with this release — clean form from close range makes your catch-and-shoot and pull-up mechanics hold up under pressure.",
   "related": ["spot-shooting-ladder","free-throw-routine"],
   "dateUpdated": "2026-10-06",
+  "video": {"title": "10 Best Form Shooting Drills", "url": "https://www.youtube.com/watch?v=2hY6fQmPJQ8"},
   "vi":   {
     "coachingPoints": [
       "Khuỷu tay dưới bóng, cổ tay gập hết cỡ trước khi nâng bóng.",

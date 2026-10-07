@@ -20,6 +20,62 @@
   ],
   "dateUpdated": "2026-10-06",
   "description": "Hard, purposeful off-ball movement — basket cuts, backdoor cuts, and V-cuts that break down defenses.",
+  "diagram": {
+    "ball": "O1",
+    "defense": [
+      {
+        "label": "X1",
+        "x": 50,
+        "y": 53
+      }
+    ],
+    "moves": [
+      {
+        "from": "O1",
+        "kind": "cut",
+        "to": "rim"
+      }
+    ],
+    "offense": [
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 58
+      },
+      {
+        "label": "O2",
+        "x": 50,
+        "y": 38
+      },
+      {
+        "label": "O3",
+        "x": 72,
+        "y": 42
+      },
+      {
+        "label": "O4",
+        "x": 28,
+        "y": 42
+      }
+    ],
+    "passes": [
+      {
+        "from": "O1",
+        "to": "O2"
+      },
+      {
+        "from": "O2",
+        "to": "rim"
+      }
+    ],
+    "shots": [
+      {
+        "x": 50,
+        "y": 7
+      }
+    ],
+    "title": "Basket cut: give and go"
+  },
   "gameSituations": [
     "Against defenders who overplay passing lanes or deny the wing.",
     "When the ball is in the post — cut off the post player's eyes.",

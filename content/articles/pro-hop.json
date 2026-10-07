@@ -21,6 +21,37 @@
   ],
   "dateUpdated": "2026-10-06",
   "description": "A small two-foot jump that stops your drive on a dime, beats the shot blocker, and sets up a balanced finish.",
+  "diagram": {
+    "title": "Pro hop: stop on two feet, freeze the big, finish",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 60,
+        "y": 48
+      }
+    ],
+    "defense": [
+      {
+        "label": "X5",
+        "x": 52,
+        "y": 28
+      }
+    ],
+    "ball": "O1",
+    "moves": [
+      {
+        "from": "O1",
+        "to": "rim",
+        "kind": "dribble"
+      }
+    ],
+    "shots": [
+      {
+        "x": 50,
+        "y": 9
+      }
+    ]
+  },
   "gameSituations": [
     "Drives where the shot blocker rotates late — stop before them and finish as they fly by.",
     "Transition 2-on-1 when the defender commits to the ball — hop, then finish or dish.",

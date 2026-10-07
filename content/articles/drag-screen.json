@@ -19,6 +19,68 @@
   ],
   "dateUpdated": "2026-10-06",
   "description": "The early-offense ball screen — a trailing big screens in transition before the defense gets organized.",
+  "diagram": {
+    "ball": "O1",
+    "defense": [
+      {
+        "label": "X1",
+        "x": 50,
+        "y": 70
+      },
+      {
+        "label": "X2",
+        "x": 60,
+        "y": 58
+      }
+    ],
+    "moves": [
+      {
+        "from": "O1",
+        "kind": "dribble",
+        "to": "rim"
+      },
+      {
+        "from": "O5",
+        "kind": "cut",
+        "to": "rim"
+      }
+    ],
+    "offense": [
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 78
+      },
+      {
+        "label": "O5",
+        "x": 44,
+        "y": 84
+      },
+      {
+        "label": "O2",
+        "x": 26,
+        "y": 62
+      },
+      {
+        "label": "O3",
+        "x": 74,
+        "y": 62
+      }
+    ],
+    "screens": [
+      {
+        "x": 50,
+        "y": 64
+      }
+    ],
+    "shots": [
+      {
+        "x": 50,
+        "y": 8
+      }
+    ],
+    "title": "Drag screen in transition: attack the chaos"
+  },
   "gameSituations": [
     "After a defensive rebound — push and drag before they set.",
     "Against slow-footed bigs who can't sprint back into coverage.",

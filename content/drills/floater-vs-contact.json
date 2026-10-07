@@ -3,6 +3,37 @@
   "slug": "floater-vs-contact",
   "title": "Floaters vs Contact",
   "description": "Finish over shot-blockers: drive into a pad, absorb the bump with two feet or one, and float it over the contest from 6 to 12 feet.",
+  "diagram": {
+    "title": "Floaters vs Contact: bump, rise, soft touch",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 68,
+        "y": 36
+      }
+    ],
+    "defense": [
+      {
+        "label": "X1",
+        "x": 54,
+        "y": 14
+      }
+    ],
+    "ball": "O1",
+    "moves": [
+      {
+        "from": "O1",
+        "to": "rim",
+        "kind": "dribble"
+      }
+    ],
+    "shots": [
+      {
+        "x": 56,
+        "y": 10
+      }
+    ]
+  },
   "skill": "Finishing",
   "level": "intermediate",
   "ages": [

@@ -23,6 +23,46 @@
   ],
   "dateUpdated": "2026-10-06",
   "description": "Close the distance to a shooter under control: sprint, chop steps, high hands, and a contest without fouling.",
+  "diagram": {
+    "ball": "O1",
+    "defense": [
+      {
+        "label": "X1",
+        "x": 48,
+        "y": 32
+      },
+      {
+        "label": "X2",
+        "x": 40,
+        "y": 50
+      }
+    ],
+    "moves": [
+      {
+        "from": "X1",
+        "kind": "move",
+        "to": "O1"
+      }
+    ],
+    "offense": [
+      {
+        "label": "O1",
+        "x": 72,
+        "y": 30
+      },
+      {
+        "label": "O2",
+        "x": 40,
+        "y": 55
+      },
+      {
+        "label": "O3",
+        "x": 55,
+        "y": 45
+      }
+    ],
+    "title": "Closeout: sprint, chop steps, contest"
+  },
   "gameSituations": [
     "Recovering to your man after a help rotation",
     "Guarding a shooter who catches a skip pass",
@@ -73,6 +113,7 @@
     "shooting-defense"
   ],
   "title": "Closeouts",
+  "video": {"title": "Black Hawk Closeout Drill", "url": "https://www.youtube.com/watch?v=onTLh5mWGac"},
   "vi": {
     "coachingPoints": [
       "Chạy 70% quãng đường đầu, rồi rút ngắn bước ở 30% cuối.",

@@ -1,6 +1,6 @@
 "use client";
 import Link from "next/link";
-import { ArrowRight, Dumbbell, BatteryCharging, Salad, Droplets, ShieldPlus, Sparkles } from "lucide-react";
+import { ArrowRight, Dumbbell, BatteryCharging, Salad, Droplets, ShieldPlus, Brain, Sparkles } from "lucide-react";
 import { useLanguage, pick } from "@/lib/i18n";
 import MetaSync from "../MetaSync";
 import type { PerformanceArticle, PerfHubId } from "@/lib/types";
@@ -12,6 +12,7 @@ const HUB_ICONS: Record<PerfHubId, typeof Dumbbell> = {
   nutrition: Salad,
   hydration: Droplets,
   "injury-prevention": ShieldPlus,
+  "mental-performance": Brain,
 };
 
 const HUB_KEYS: Record<PerfHubId, string> = {
@@ -20,6 +21,7 @@ const HUB_KEYS: Record<PerfHubId, string> = {
   nutrition: "nutrition",
   hydration: "hydration",
   "injury-prevention": "injuryPrevention",
+  "mental-performance": "mentalPerformance",
 };
 
 export interface LandingHub {

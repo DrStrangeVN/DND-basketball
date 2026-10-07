@@ -22,6 +22,53 @@
   ],
   "dateUpdated": "2026-10-06",
   "description": "Transition defense: sprint back, stop the ball, protect the paint, and match up before the offense attacks.",
+  "diagram": {
+    "ball": "O1",
+    "defense": [
+      {
+        "label": "X1",
+        "x": 50,
+        "y": 70
+      },
+      {
+        "label": "X2",
+        "x": 40,
+        "y": 32
+      },
+      {
+        "label": "X3",
+        "x": 60,
+        "y": 32
+      }
+    ],
+    "moves": [
+      {
+        "from": "X1",
+        "kind": "move",
+        "to": "O1"
+      }
+    ],
+    "offense": [
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 84
+      },
+      {
+        "label": "O2",
+        "x": 26,
+        "y": 74
+      },
+      {
+        "label": "O3",
+        "x": 74,
+        "y": 74
+      }
+    ],
+    "passes": [],
+    "shots": [],
+    "title": "Sprint back: stop the ball, protect the paint, then match up"
+  },
   "gameSituations": [
     "After your team's missed shot — the most common transition defense moment",
     "After a turnover, when the offense has numbers",
@@ -73,69 +120,69 @@
     "retreat"
   ],
   "title": "Transition Defense",
+  "vi": {
+    "coachingPoints": [
+      "Nước rút về sau mọi cú ném — pha phản công bắt đầu trước khi rebound chắc chắn.",
+      "Chặn bóng trước tiên: một hậu vệ phải đón người dẫn bóng trên vòng cung.",
+      "Bảo vệ khu vực dưới rổ: hai người về tiếp theo giữ rổ và khu vực giữa.",
+      "Giao tiếp kèo kèm khi đang chạy — “tôi kèm bóng!” “tôi giữ giữa!”",
+      "Không bao giờ phạm lỗi trong phản công trừ khi là lỗi chiến thuật rõ ràng — and-one thua cả trận."
+    ],
+    "commonMistakes": [
+      "Chạy thả lỏng về và than vãn về tiếng còi không vang — pha phản công đã qua mặt.",
+      "Mọi người đuổi theo bóng — rổ trống hoác phía sau.",
+      "Đón bóng quá sâu — người dẫn bóng đã tới rổ.",
+      "Phạm lỗi với pha layup phản công — hai điểm cộng một quả ném phạt."
+    ],
+    "description": "Phòng thủ phản công: chạy nước rút về, chặn bóng, bảo vệ khu vực dưới rổ, và kèm người trước khi đối thủ tấn công.",
+    "gameSituations": [
+      "Sau cú ném trượt của đội mình — khoảnh khắc phòng thủ phản công phổ biến nhất.",
+      "Sau mất bóng, khi đối thủ hơn số lượng.",
+      "Đấu đội nhanh chạy mọi pha bóng.",
+      "Cuối trận khi một rổ phản công có thể quyết định."
+    ],
+    "howTo": [
+      {
+        "detail": "Ngay lúc bóng lên rổ — trúng hay trượt — hai đến ba cầu thủ gần nhất chạy nước rút về. Đừng đứng nhìn rebound; pha phản công đã bắt đầu.",
+        "title": "Nước rút về ngay khi bóng lên rổ"
+      },
+      {
+        "detail": "Hậu vệ về đầu tiên đón người dẫn bóng, gặp anh ta trên vạch 3 điểm. Làm chậm bóng dù chỉ một giây cũng đủ cho cả hàng thủ hồi về.",
+        "title": "Chặn bóng sớm"
+      },
+      {
+        "detail": "Những hậu vệ về tiếp theo chạy nước rút vào khu vực dưới rổ — không phải kèm người, mà về rổ. Bảo vệ rổ trước, rồi mới sắp xếp kèo kèm.",
+        "title": "Bảo vệ khu vực dưới rổ"
+      },
+      {
+        "detail": "Khi bóng đã chậm lại và rổ đã được che, hậu vệ tìm mối đe dọa tấn công gần nhất và kèm. Nói xuyên suốt: chỉ tay, gọi tên, tổ chức lại.",
+        "title": "Kèm người và giao tiếp"
+      },
+      {
+        "detail": "Nếu đối thủ hơn số — 2 đấu 1, 3 đấu 2 — hậu vệ lấy đi lựa chọn nguy hiểm nhất: thường là bóng, ép chuyền, rồi hồi về. Bắt họ phải chuyền thêm một lần nữa.",
+        "title": "Xử lý khi thua số lượng"
+      }
+    ],
+    "tags": [
+      "phản công",
+      "phòng thủ",
+      "phản công nhanh",
+      "chạy về"
+    ],
+    "title": "Phòng thủ phản công (transition defense)",
+    "whatIsIt": [
+      "Phòng thủ phản công là chạy về và tổ chức xong trước khi đối thủ ghi điểm ở sân trống. Nó bắt đầu ngay lúc bóng lên rổ hoặc lúc mất bóng — không phải sau khi đối thủ đã có bóng. Mục tiêu đơn giản và có thứ tự: chặn bóng, bảo vệ khu vực dưới rổ, rồi kèm người.",
+      "Hầu hết các rổ trong phản công không đến từ tấn công hay; chúng đến từ phòng thủ chậm và im lặng. Đội chạy nước rút về có giao tiếp chỉ để mất những cú ném bị contest. Đội chạy thả lỏng về để mất layup. Khác biệt giữa hai đội là thói quen, tập đến khi thành tự động."
+    ],
+    "whyItMatters": [
+      "Phòng thủ phản công là nơi trận đấu được thắng thua trong lặng lẽ. Mỗi cú layup không ai kèm trong phản công là hai điểm chênh lệch mà đối thủ chẳng cần kỹ năng tấn công nào — chỉ cần phòng thủ lười biếng. Đội phòng thủ tốt pha phản công ép đối thủ vào tấn công nửa sân, nơi ghi điểm khó khăn. Nó cũng là nỗ lực và kỷ luật thuần túy, nghĩa là đội nào cũng giỏi được bất kể tài năng."
+    ]
+  },
   "whatIsIt": [
     "Transition defense is getting back and organized before the offense can score in the open court. It starts the instant a shot goes up or a turnover happens — not after the other team has the ball. The goals are simple and ordered: stop the ball, protect the paint, then match up.",
     "Most transition baskets are not caused by great offense; they are caused by slow, silent defense. A team that sprints back with communication gives up contested shots. A team that jogs back gives up layups. The difference between the two is habit, drilled until it is automatic."
   ],
   "whyItMatters": [
     "Transition defense is where games are quietly won and lost. Every uncontested layup in transition is a two-point swing that took no offensive skill to create — just defensive laziness. Teams that defend the break well force opponents into the half court, where scoring is hard. It is also pure effort and discipline, which means any team can be great at it regardless of talent."
-  ],
-  "vi": {
-  "title": "Phòng thủ phản công (transition defense)",
-  "description": "Phòng thủ phản công: chạy nước rút về, chặn bóng, bảo vệ khu vực dưới rổ, và kèm người trước khi đối thủ tấn công.",
-  "whatIsIt": [
-   "Phòng thủ phản công là chạy về và tổ chức xong trước khi đối thủ ghi điểm ở sân trống. Nó bắt đầu ngay lúc bóng lên rổ hoặc lúc mất bóng — không phải sau khi đối thủ đã có bóng. Mục tiêu đơn giản và có thứ tự: chặn bóng, bảo vệ khu vực dưới rổ, rồi kèm người.",
-   "Hầu hết các rổ trong phản công không đến từ tấn công hay; chúng đến từ phòng thủ chậm và im lặng. Đội chạy nước rút về có giao tiếp chỉ để mất những cú ném bị contest. Đội chạy thả lỏng về để mất layup. Khác biệt giữa hai đội là thói quen, tập đến khi thành tự động."
-  ],
-  "whyItMatters": [
-   "Phòng thủ phản công là nơi trận đấu được thắng thua trong lặng lẽ. Mỗi cú layup không ai kèm trong phản công là hai điểm chênh lệch mà đối thủ chẳng cần kỹ năng tấn công nào — chỉ cần phòng thủ lười biếng. Đội phòng thủ tốt pha phản công ép đối thủ vào tấn công nửa sân, nơi ghi điểm khó khăn. Nó cũng là nỗ lực và kỷ luật thuần túy, nghĩa là đội nào cũng giỏi được bất kể tài năng."
-  ],
-  "howTo": [
-   {
-    "title": "Nước rút về ngay khi bóng lên rổ",
-    "detail": "Ngay lúc bóng lên rổ — trúng hay trượt — hai đến ba cầu thủ gần nhất chạy nước rút về. Đừng đứng nhìn rebound; pha phản công đã bắt đầu."
-   },
-   {
-    "title": "Chặn bóng sớm",
-    "detail": "Hậu vệ về đầu tiên đón người dẫn bóng, gặp anh ta trên vạch 3 điểm. Làm chậm bóng dù chỉ một giây cũng đủ cho cả hàng thủ hồi về."
-   },
-   {
-    "title": "Bảo vệ khu vực dưới rổ",
-    "detail": "Những hậu vệ về tiếp theo chạy nước rút vào khu vực dưới rổ — không phải kèm người, mà về rổ. Bảo vệ rổ trước, rồi mới sắp xếp kèo kèm."
-   },
-   {
-    "title": "Kèm người và giao tiếp",
-    "detail": "Khi bóng đã chậm lại và rổ đã được che, hậu vệ tìm mối đe dọa tấn công gần nhất và kèm. Nói xuyên suốt: chỉ tay, gọi tên, tổ chức lại."
-   },
-   {
-    "title": "Xử lý khi thua số lượng",
-    "detail": "Nếu đối thủ hơn số — 2 đấu 1, 3 đấu 2 — hậu vệ lấy đi lựa chọn nguy hiểm nhất: thường là bóng, ép chuyền, rồi hồi về. Bắt họ phải chuyền thêm một lần nữa."
-   }
-  ],
-  "coachingPoints": [
-   "Nước rút về sau mọi cú ném — pha phản công bắt đầu trước khi rebound chắc chắn.",
-   "Chặn bóng trước tiên: một hậu vệ phải đón người dẫn bóng trên vòng cung.",
-   "Bảo vệ khu vực dưới rổ: hai người về tiếp theo giữ rổ và khu vực giữa.",
-   "Giao tiếp kèo kèm khi đang chạy — “tôi kèm bóng!” “tôi giữ giữa!”",
-   "Không bao giờ phạm lỗi trong phản công trừ khi là lỗi chiến thuật rõ ràng — and-one thua cả trận."
-  ],
-  "commonMistakes": [
-   "Chạy thả lỏng về và than vãn về tiếng còi không vang — pha phản công đã qua mặt.",
-   "Mọi người đuổi theo bóng — rổ trống hoác phía sau.",
-   "Đón bóng quá sâu — người dẫn bóng đã tới rổ.",
-   "Phạm lỗi với pha layup phản công — hai điểm cộng một quả ném phạt."
-  ],
-  "gameSituations": [
-   "Sau cú ném trượt của đội mình — khoảnh khắc phòng thủ phản công phổ biến nhất.",
-   "Sau mất bóng, khi đối thủ hơn số lượng.",
-   "Đấu đội nhanh chạy mọi pha bóng.",
-   "Cuối trận khi một rổ phản công có thể quyết định."
-  ],
-  "tags": [
-   "phản công",
-   "phòng thủ",
-   "phản công nhanh",
-   "chạy về"
   ]
- }
 }

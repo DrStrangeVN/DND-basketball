@@ -23,6 +23,39 @@
   ],
   "dateUpdated": "2026-10-06",
   "description": "Guard the ball handler one-on-one: stance, slides, angles, and how to contain the drive without fouling.",
+  "diagram": {
+    "ball": "O1",
+    "defense": [
+      {
+        "label": "X1",
+        "x": 50,
+        "y": 51
+      }
+    ],
+    "moves": [
+      {
+        "from": "O1",
+        "kind": "dribble",
+        "to": "rim"
+      },
+      {
+        "from": "X1",
+        "kind": "move",
+        "to": "rim"
+      }
+    ],
+    "offense": [
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 56
+      }
+    ],
+    "passes": [],
+    "screens": [],
+    "shots": [],
+    "title": "Slide with the driver, stay between man and rim"
+  },
   "gameSituations": [
     "An isolation possession against your matchup",
     "After a switch puts you on the ball",
@@ -84,6 +117,7 @@
   "whyItMatters": [
     "Everything in team defense starts with the ball. If one defender cannot contain the ball, the whole defense has to rotate, which creates open shots everywhere else. Strong on-ball defenders reduce the need for help, which means fewer rotations and fewer breakdowns for the entire team."
   ],
+  "video": {"title": "How to Defend the Ball-Handler", "url": "https://www.youtube.com/watch?v=J9KL8YjFMm4"},
   "vi": {
     "coachingPoints": [
       "Chân trước, tay sau — trượt chân luôn thắng với tay",

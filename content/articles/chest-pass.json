@@ -23,6 +23,28 @@
   ],
   "dateUpdated": "2026-10-06",
   "description": "The fastest, most accurate way to move the ball — learn the two-hand snap, step, and follow-through.",
+  "diagram": {
+    "title": "Chest pass: straight from chest to chest",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 42,
+        "y": 55
+      },
+      {
+        "label": "O2",
+        "x": 60,
+        "y": 55
+      }
+    ],
+    "ball": "O1",
+    "passes": [
+      {
+        "from": "O1",
+        "to": "O2"
+      }
+    ]
+  },
   "gameSituations": [
     "Skip passes across the court against zone defenses.",
     "Kick-outs from the paint to open shooters.",
@@ -68,6 +90,7 @@
     "team offense"
   ],
   "title": "Chest Pass",
+  "video": {"title": "How to Do a Chest Pass", "url": "https://www.youtube.com/watch?v=-M0P7yObb1c"},
   "vi": {
     "coachingPoints": [
       "Bước tới khi chuyền bằng chân trước — trọng lượng cơ thể tạo lực cho bóng, không chỉ cánh tay",

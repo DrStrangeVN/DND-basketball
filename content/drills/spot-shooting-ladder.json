@@ -3,12 +3,98 @@
   "slug": "spot-shooting-ladder",
   "title": "Spot Shooting Ladder",
   "description": "A structured circuit around the arc that builds range, footwork rhythm, and makes shooting volume fun and trackable.",
+  "diagram": {
+    "title": "Spot Ladder: 5 makes, next spot",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 30,
+        "y": 24
+      },
+      {
+        "label": "1",
+        "x": 30,
+        "y": 20
+      },
+      {
+        "label": "2",
+        "x": 38,
+        "y": 32
+      },
+      {
+        "label": "3",
+        "x": 50,
+        "y": 30
+      },
+      {
+        "label": "4",
+        "x": 62,
+        "y": 32
+      },
+      {
+        "label": "5",
+        "x": 70,
+        "y": 20
+      }
+    ],
+    "ball": "O1",
+    "moves": [
+      {
+        "from": "O1",
+        "to": "1",
+        "kind": "cut"
+      },
+      {
+        "from": "O1",
+        "to": "3",
+        "kind": "cut"
+      },
+      {
+        "from": "O1",
+        "to": "5",
+        "kind": "cut"
+      }
+    ],
+    "shots": [
+      {
+        "x": 30,
+        "y": 20
+      },
+      {
+        "x": 38,
+        "y": 32
+      },
+      {
+        "x": 50,
+        "y": 30
+      },
+      {
+        "x": 62,
+        "y": 32
+      },
+      {
+        "x": 70,
+        "y": 20
+      }
+    ]
+  },
   "skill": "Shooting",
   "level": "beginner",
-  "ages": ["U12","U14","U16","U18","Adult"],
-  "positions": ["ALL"],
+  "ages": [
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "ALL"
+  ],
   "players": "1",
-  "equipment": ["Basketball","Cones"],
+  "equipment": [
+    "Basketball",
+    "Cones"
+  ],
   "durationMin": 12,
   "intensity": "medium",
   "goal": "Develop range and consistent shot preparation by shooting a set number of makes from five spots around the arc.",
@@ -18,11 +104,26 @@
     "Bring your own ball or work with a rebounder; have a phone ready to log makes."
   ],
   "instructions": [
-    {"title": "Make 5 at spot one", "detail": "Shoot until you make 5 from the right corner, then move to the next cone — no skipping spots."},
-    {"title": "Keep feet ready", "detail": "Arrive at each spot with feet set, knees bent, and hands ready before you catch the ball."},
-    {"title": "Catch low and lift", "detail": "Catch the ball low and lift straight into your shot in one smooth motion — no dipping or pausing."},
-    {"title": "Run the ladder twice", "detail": "Complete all 5 spots (25 makes), then run the ladder back down in reverse order for a second round."},
-    {"title": "Score yourself", "detail": "Count total attempts across both rounds and try to beat your score next session."}
+    {
+      "title": "Make 5 at spot one",
+      "detail": "Shoot until you make 5 from the right corner, then move to the next cone — no skipping spots."
+    },
+    {
+      "title": "Keep feet ready",
+      "detail": "Arrive at each spot with feet set, knees bent, and hands ready before you catch the ball."
+    },
+    {
+      "title": "Catch low and lift",
+      "detail": "Catch the ball low and lift straight into your shot in one smooth motion — no dipping or pausing."
+    },
+    {
+      "title": "Run the ladder twice",
+      "detail": "Complete all 5 spots (25 makes), then run the ladder back down in reverse order for a second round."
+    },
+    {
+      "title": "Score yourself",
+      "detail": "Count total attempts across both rounds and try to beat your score next session."
+    }
   ],
   "coachingPoints": [
     "Same shot preparation at every spot — don't let the corner change your form.",
@@ -37,9 +138,13 @@
   "progression": "Move every spot back to the three-point line, add a one-dribble relocation between spots, or require consecutive makes before advancing.",
   "regression": "Shorten the ladder to 3 spots (right wing, top, left wing) and shoot from 8-10 feet instead of the arc.",
   "gameApplication": "Games reward shooters who are ready in any spot — this drill trains the footwork and rhythm you need off drive-and-kick and skip passes.",
-  "related": ["form-shooting","three-point-star","free-throw-routine"],
+  "related": [
+    "form-shooting",
+    "three-point-star",
+    "free-throw-routine"
+  ],
   "dateUpdated": "2026-10-06",
-  "vi":   {
+  "vi": {
     "coachingPoints": [
       "Chuẩn bị cú ném giống nhau ở mọi điểm — đừng để góc sân làm hỏng form.",
       "Giữ follow-through, mắt dõi theo bóng.",

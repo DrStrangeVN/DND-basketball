@@ -1,53 +1,176 @@
-{"ages":["U14","U16","U18","Adult"],"coachingPoints":["Sprint back on every possession — the wall only works at full speed.","Stop the ball first; everything else is secondary.","Communicate matchups loudly while running back — silent transition is broken transition.","The wall sets at the three-point line, not at the rim."],"commonMistakes":["Jogging back and arriving after the offense.","Everyone running to the ball — no wall, just a crowd.","Stopping at the paint instead of meeting the ball early.","Forgetting the trailers — the wall handles the first wave, not the second."],"dateUpdated":"2026-10-06","description":"Sprint back, stop the ball, build the wall — the three-man shell that turns fast breaks into half-court offense.","gameSituations":["After a missed shot — the most common transition moment.","Against fast teams — the wall is your only chance.","After a turnover — sprint back, don't complain.","When outnumbered — the wall buys time for help to arrive."],"howTo":[{"detail":"The first three players back sprint to form the wall: one takes the ball, two take the wings/lanes. Sprint first, sort out matchups while running — never stop to point.","title":"Three back, full sprint"},{"detail":"The ball defender meets the ball handler at or above the three-point line — never backpedal to the paint. Stop the ball early and the break dies; let it reach the paint and it's a layup drill.","title":"Stop the ball early"},{"detail":"The other two wall defenders take away the passing lanes to the wings, staying between their man and the basket. The wall's shape: ball high, wings pinched in, rim protected behind.","title":"Take away the lanes"},{"detail":"Once the ball is stopped, the wall holds its shape and communicates: who's got ball, who's got first pass, where's the trailer. The break is over — now it's your half-court defense.","title":"Hold and communicate"}],"hub":"defense","id":"transition-wall","level":"intermediate","positions":["ALL"],"readTime":4,"related":["transition-defense","transition-offense","defensive-stance","man-to-man-defense","help-defense"],"slug":"transition-wall","subcategory":"transition-defense","tags":["transition defense","wall","fast break","defense"],"title":"Building the Wall in Transition","vi": {
-  "title": "Dựng tường phòng thủ trong phản công (transition wall)",
-  "description": "Chạy nước rút về, chặn bóng, dựng tường — vỏ phòng thủ ba người biến pha phản công nhanh thành tấn công nửa sân.",
-  "whatIsIt": [
-   "Tường phòng thủ trong phản công là vỏ ba người do những cầu thủ về đầu tiên tạo ra: một người đón bóng ở cao, hai người lấy đi làn cánh. Thay vì năm cầu thủ chạy nước rút về trong hỗn loạn, ba người tạo thành vỏ có tổ chức ép pha phản công chậm lại.",
-   "Bức tường không cố cướp bóng — nó mua thời gian. Mỗi giây pha phản công bị trì hoãn là thêm một đồng đội kịp về, cho đến khi 3 đấu 2 thành 5 đấu 5 và lợi thế tốc độ bốc hơi."
-  ],
-  "whyItMatters": [
-   "Điểm trong phản công là điểm “rẻ” nhất bóng rổ — layup trước hàng thủ chưa ổn định. Đội không dựng tường tặng 15–20 điểm phản công mỗi trận. Bức tường biến điểm dễ thành những đợt tấn công nửa sân khó khăn: nó không cần tài năng, chỉ cần ba cầu thủ chịu chạy nước rút về mọi lần. Đó là nỗ lực, không phải kỹ năng — và nỗ lực là lựa chọn đội nào cũng làm được."
-  ],
-  "howTo": [
-   {
-    "title": "Ba người về, nước rút hết tốc",
-    "detail": "Ba cầu thủ về đầu tiên chạy nước rút dựng tường: một người lấy bóng, hai người lấy cánh/làn. Chạy trước, sắp xếp kèo kèm trong lúc chạy — không bao giờ dừng lại chỉ tay."
-   },
-   {
-    "title": "Chặn bóng sớm",
-    "detail": "Hậu vệ kèm bóng đón người dẫn bóng ở hoặc trên vạch 3 điểm — không bao giờ lùi về khu vực dưới rổ. Chặn bóng sớm, pha phản công chết; để bóng tới khu vực dưới rổ, thành buổi tập layup."
-   },
-   {
-    "title": "Lấy đi các làn",
-    "detail": "Hai hậu vệ còn lại của bức tường lấy đi đường chuyền ra cánh, đứng giữa người kèm và rổ. Hình dạng bức tường: bóng ở cao, cánh khép vào, rổ được bảo vệ phía sau."
-   },
-   {
-    "title": "Giữ vững và giao tiếp",
-    "detail": "Khi bóng đã bị chặn, bức tường giữ hình dạng và giao tiếp: ai kèm bóng, ai lấy đường chuyền đầu, trailer ở đâu. Pha phản công đã hết — giờ là phòng thủ nửa sân của đội."
-   }
+{
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
   ],
   "coachingPoints": [
-   "Chạy nước rút về mọi đợt bóng — bức tường chỉ hiệu quả ở tốc độ tối đa.",
-   "Chặn bóng trước tiên; mọi thứ khác là thứ yếu.",
-   "Giao tiếp kèo kèm thật to khi chạy về — phản công im lặng là phản công hỏng.",
-   "Bức tường dựng ở vạch 3 điểm, không phải ở rổ."
+    "Sprint back on every possession — the wall only works at full speed.",
+    "Stop the ball first; everything else is secondary.",
+    "Communicate matchups loudly while running back — silent transition is broken transition.",
+    "The wall sets at the three-point line, not at the rim."
   ],
   "commonMistakes": [
-   "Chạy thả lỏng về, đến sau đối thủ.",
-   "Mọi người chạy về phía bóng — không có tường, chỉ có đám đông.",
-   "Dừng ở khu vực dưới rổ thay vì đón bóng sớm.",
-   "Quên trailer — bức tường xử lý đợt sóng đầu, không phải đợt hai."
+    "Jogging back and arriving after the offense.",
+    "Everyone running to the ball — no wall, just a crowd.",
+    "Stopping at the paint instead of meeting the ball early.",
+    "Forgetting the trailers — the wall handles the first wave, not the second."
   ],
+  "dateUpdated": "2026-10-06",
+  "description": "Sprint back, stop the ball, build the wall — the three-man shell that turns fast breaks into half-court offense.",
+  "diagram": {
+    "ball": "O1",
+    "defense": [
+      {
+        "label": "X1",
+        "x": 50,
+        "y": 68
+      },
+      {
+        "label": "X2",
+        "x": 30,
+        "y": 58
+      },
+      {
+        "label": "X3",
+        "x": 70,
+        "y": 58
+      }
+    ],
+    "moves": [
+      {
+        "from": "X1",
+        "kind": "move",
+        "to": "O1"
+      }
+    ],
+    "offense": [
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 84
+      },
+      {
+        "label": "O2",
+        "x": 26,
+        "y": 74
+      },
+      {
+        "label": "O4",
+        "x": 74,
+        "y": 74
+      }
+    ],
+    "passes": [],
+    "shots": [],
+    "title": "The wall: one stops the ball high, two take away the lanes"
+  },
   "gameSituations": [
-   "Sau cú ném trượt — khoảnh khắc phản công phổ biến nhất.",
-   "Đấu đội nhanh — bức tường là cơ hội duy nhất.",
-   "Sau mất bóng — chạy nước rút về, đừng than vãn.",
-   "Khi thua số lượng — bức tường mua thời gian chờ viện binh."
+    "After a missed shot — the most common transition moment.",
+    "Against fast teams — the wall is your only chance.",
+    "After a turnover — sprint back, don't complain.",
+    "When outnumbered — the wall buys time for help to arrive."
   ],
+  "howTo": [
+    {
+      "detail": "The first three players back sprint to form the wall: one takes the ball, two take the wings/lanes. Sprint first, sort out matchups while running — never stop to point.",
+      "title": "Three back, full sprint"
+    },
+    {
+      "detail": "The ball defender meets the ball handler at or above the three-point line — never backpedal to the paint. Stop the ball early and the break dies; let it reach the paint and it's a layup drill.",
+      "title": "Stop the ball early"
+    },
+    {
+      "detail": "The other two wall defenders take away the passing lanes to the wings, staying between their man and the basket. The wall's shape: ball high, wings pinched in, rim protected behind.",
+      "title": "Take away the lanes"
+    },
+    {
+      "detail": "Once the ball is stopped, the wall holds its shape and communicates: who's got ball, who's got first pass, where's the trailer. The break is over — now it's your half-court defense.",
+      "title": "Hold and communicate"
+    }
+  ],
+  "hub": "defense",
+  "id": "transition-wall",
+  "level": "intermediate",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 4,
+  "related": [
+    "transition-defense",
+    "transition-offense",
+    "defensive-stance",
+    "man-to-man-defense",
+    "help-defense"
+  ],
+  "slug": "transition-wall",
+  "subcategory": "transition-defense",
   "tags": [
-   "phòng thủ phản công",
-   "dựng tường",
-   "phản công nhanh",
-   "phòng thủ"
+    "transition defense",
+    "wall",
+    "fast break",
+    "defense"
+  ],
+  "title": "Building the Wall in Transition",
+  "vi": {
+    "coachingPoints": [
+      "Chạy nước rút về mọi đợt bóng — bức tường chỉ hiệu quả ở tốc độ tối đa.",
+      "Chặn bóng trước tiên; mọi thứ khác là thứ yếu.",
+      "Giao tiếp kèo kèm thật to khi chạy về — phản công im lặng là phản công hỏng.",
+      "Bức tường dựng ở vạch 3 điểm, không phải ở rổ."
+    ],
+    "commonMistakes": [
+      "Chạy thả lỏng về, đến sau đối thủ.",
+      "Mọi người chạy về phía bóng — không có tường, chỉ có đám đông.",
+      "Dừng ở khu vực dưới rổ thay vì đón bóng sớm.",
+      "Quên trailer — bức tường xử lý đợt sóng đầu, không phải đợt hai."
+    ],
+    "description": "Chạy nước rút về, chặn bóng, dựng tường — vỏ phòng thủ ba người biến pha phản công nhanh thành tấn công nửa sân.",
+    "gameSituations": [
+      "Sau cú ném trượt — khoảnh khắc phản công phổ biến nhất.",
+      "Đấu đội nhanh — bức tường là cơ hội duy nhất.",
+      "Sau mất bóng — chạy nước rút về, đừng than vãn.",
+      "Khi thua số lượng — bức tường mua thời gian chờ viện binh."
+    ],
+    "howTo": [
+      {
+        "detail": "Ba cầu thủ về đầu tiên chạy nước rút dựng tường: một người lấy bóng, hai người lấy cánh/làn. Chạy trước, sắp xếp kèo kèm trong lúc chạy — không bao giờ dừng lại chỉ tay.",
+        "title": "Ba người về, nước rút hết tốc"
+      },
+      {
+        "detail": "Hậu vệ kèm bóng đón người dẫn bóng ở hoặc trên vạch 3 điểm — không bao giờ lùi về khu vực dưới rổ. Chặn bóng sớm, pha phản công chết; để bóng tới khu vực dưới rổ, thành buổi tập layup.",
+        "title": "Chặn bóng sớm"
+      },
+      {
+        "detail": "Hai hậu vệ còn lại của bức tường lấy đi đường chuyền ra cánh, đứng giữa người kèm và rổ. Hình dạng bức tường: bóng ở cao, cánh khép vào, rổ được bảo vệ phía sau.",
+        "title": "Lấy đi các làn"
+      },
+      {
+        "detail": "Khi bóng đã bị chặn, bức tường giữ hình dạng và giao tiếp: ai kèm bóng, ai lấy đường chuyền đầu, trailer ở đâu. Pha phản công đã hết — giờ là phòng thủ nửa sân của đội.",
+        "title": "Giữ vững và giao tiếp"
+      }
+    ],
+    "tags": [
+      "phòng thủ phản công",
+      "dựng tường",
+      "phản công nhanh",
+      "phòng thủ"
+    ],
+    "title": "Dựng tường phòng thủ trong phản công (transition wall)",
+    "whatIsIt": [
+      "Tường phòng thủ trong phản công là vỏ ba người do những cầu thủ về đầu tiên tạo ra: một người đón bóng ở cao, hai người lấy đi làn cánh. Thay vì năm cầu thủ chạy nước rút về trong hỗn loạn, ba người tạo thành vỏ có tổ chức ép pha phản công chậm lại.",
+      "Bức tường không cố cướp bóng — nó mua thời gian. Mỗi giây pha phản công bị trì hoãn là thêm một đồng đội kịp về, cho đến khi 3 đấu 2 thành 5 đấu 5 và lợi thế tốc độ bốc hơi."
+    ],
+    "whyItMatters": [
+      "Điểm trong phản công là điểm “rẻ” nhất bóng rổ — layup trước hàng thủ chưa ổn định. Đội không dựng tường tặng 15–20 điểm phản công mỗi trận. Bức tường biến điểm dễ thành những đợt tấn công nửa sân khó khăn: nó không cần tài năng, chỉ cần ba cầu thủ chịu chạy nước rút về mọi lần. Đó là nỗ lực, không phải kỹ năng — và nỗ lực là lựa chọn đội nào cũng làm được."
+    ]
+  },
+  "whatIsIt": [
+    "The transition wall is the three-man shell formed by the first players back on defense: one meets the ball high, two take away the wing lanes. Instead of five players sprinting back in chaos, three form an organized shell that forces the break to slow down.",
+    "The wall isn't trying to steal the ball — it's buying time. Every second the break gets delayed is another teammate arriving, until 3-on-2 becomes 5-on-5 and the speed advantage evaporates."
+  ],
+  "whyItMatters": [
+    "Transition points are the 'cheapest' in basketball — layups against an unset defense. A team that doesn't build the wall gifts 15–20 fast-break points a game. The wall turns easy points into hard half-court possessions: it takes no talent, just three players willing to sprint back every time. That's effort, not skill — and effort is a choice every team can make."
   ]
- },"whatIsIt":["The transition wall is the three-man shell formed by the first players back on defense: one meets the ball high, two take away the wing lanes. Instead of five players sprinting back in chaos, three form an organized shell that forces the break to slow down.","The wall isn't trying to steal the ball — it's buying time. Every second the break gets delayed is another teammate arriving, until 3-on-2 becomes 5-on-5 and the speed advantage evaporates."],"whyItMatters":["Transition points are the 'cheapest' in basketball — layups against an unset defense. A team that doesn't build the wall gifts 15–20 fast-break points a game. The wall turns easy points into hard half-court possessions: it takes no talent, just three players willing to sprint back every time. That's effort, not skill — and effort is a choice every team can make."]}
+}

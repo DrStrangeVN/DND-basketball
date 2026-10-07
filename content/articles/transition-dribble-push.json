@@ -1,121 +1,178 @@
 {
- "title": "Pushing the Ball: Dribble vs Pass",
- "description": "Sometimes the fastest way up the floor is one hard dribble, not a pass — learn when to push it yourself.",
- "hub": "transition",
- "subcategory": "transition",
- "level": "intermediate",
- "positions": [
-  "PG",
-  "SG"
- ],
- "ages": [
-  "U14",
-  "U16",
-  "U18",
-  "Adult"
- ],
- "readTime": 4,
- "tags": [
-  "transition",
-  "dribbling",
-  "fast break"
- ],
- "whatIsIt": [
-  "Pushing the ball means advancing it yourself with hard, purposeful dribbles in transition — attacking the defense's retreat instead of passing around it. The classic push: rebound, one or two power dribbles past the first defender, and you're at the rim before help loads.",
-  "The pass-vs-dribble decision defines great transition guards. Pass when the defense is set enough to intercept lanes; push when there's open floor and a retreating defender to attack."
- ],
- "whyItMatters": [
-  "A guard who can push the ball collapses defenses by himself — no outlet needed, no waiting. The dribble push is also the counter when passing lanes are denied: instead of picking up the ball against pressure, you go through it."
- ],
- "howTo": [
-  {
-   "title": "Push with pace, not panic",
-   "detail": "Two to three hard dribbles, head up, attacking the retreating defender's hip. Pace means controlled speed — you're going fast but you see the floor."
-  },
-  {
-   "title": "Attack the top foot",
-   "detail": "Every retreating defender has a top foot — the one closer to you. Attack it. That single read beats most transition defense."
-  },
-  {
-   "title": "Keep your options live",
-   "detail": "Push with the pass available: the ball stays on your outside hip, eyes up for the rim runner and the trailing shooter. Dribbling with your head down turns a push into a charge."
-  },
-  {
-   "title": "Know when to give it up",
-   "detail": "If two defenders commit to you, the pass is the play — hit the open man and keep running. The push creates the advantage; the pass cashes it."
-  }
- ],
- "coachingPoints": [
-  "Push the ball to the middle of the floor when possible — middle pushes keep all options open.",
-  "One push dribble past the first line of defense is worth five sideways dribbles.",
-  "Drill 1-on-1 full court: defender starts at half court, ball handler must score or create."
- ],
- "commonMistakes": [
-  "Dribbling into a set defense instead of passing ahead — the push is for open floor.",
-  "Picking up the dribble at the three-point line with nowhere to go.",
-  "Pushing with the head down and missing the wide-open trailer."
- ],
- "gameSituations": [
-  "After a steal when you're already ahead of the defense.",
-  "When the outlet pass is denied — push through the pressure.",
-  "With a quick guard against a slow-retreating big."
- ],
- "related": [
-  "advancing-the-ball",
-  "pitch-ahead-pass",
-  "transition-offense",
-  "change-of-pace"
- ],
- "vi": {
-  "title": "Đẩy bóng: dẫn bóng hay chuyền (dribble push)",
-  "description": "Đôi khi cách lên sân nhanh nhất là một nhịp dẫn mạnh, không phải đường chuyền — học khi nào tự đẩy bóng.",
-  "whatIsIt": [
-   "Đẩy bóng nghĩa là tự đưa bóng lên bằng những nhịp dẫn mạnh, có chủ đích trong phản công — tấn công vào đà lui về của hàng thủ thay vì chuyền vòng quanh. Pha đẩy kinh điển: rebound, một hoặc hai nhịp dẫn mạnh qua hậu vệ đầu tiên, và cầu thủ đã tới rổ trước khi cầu thủ hỗ trợ kịp vào vị trí.",
-   "Quyết định chuyền hay dẫn định nghĩa hậu vệ phản công giỏi. Chuyền khi hàng thủ đã ổn định đủ để cắt đường chuyền; đẩy khi sân trống và có hậu vệ đang lui để tấn công vào."
-  ],
-  "whyItMatters": [
-   "Hậu vệ biết đẩy bóng tự mình làm sập hàng thủ — không cần đường chuyền phát động, không cần chờ đợi. Đẩy bóng bằng dẫn bóng cũng là đòn phản đòn khi đường chuyền bị chặn: thay vì nhấc bóng lên trước áp lực, cầu thủ đi xuyên qua nó."
-  ],
-  "howTo": [
-   {
-    "title": "Đẩy với nhịp độ, không phải hoảng loạn",
-    "detail": "Hai đến ba nhịp dẫn mạnh, đầu ngẩng cao, tấn công vào hông của hậu vệ đang lui. Nhịp độ nghĩa là tốc độ có kiểm soát — đi nhanh nhưng vẫn thấy sân."
-   },
-   {
-    "title": "Tấn công vào chân trên",
-    "detail": "Mỗi hậu vệ đang lui đều có một chân trên — chân gần cầu thủ hơn. Tấn công vào nó. Một pha đọc duy nhất này thắng hầu hết hàng thủ phản công."
-   },
-   {
-    "title": "Giữ các lựa chọn còn sống",
-    "detail": "Đẩy bóng mà vẫn có đường chuyền: bóng ở hông ngoài, mắt ngẩng tìm rim runner và tay ném chạy sau. Dẫn bóng cúi đầu biến pha đẩy thành pha phạm lỗi tấn công."
-   },
-   {
-    "title": "Biết khi nào nhả bóng",
-    "detail": "Nếu hai hậu vệ dồn vào, đường chuyền là đáp án — chuyền cho người trống và tiếp tục chạy. Pha đẩy tạo ra lợi thế; đường chuyền đổi nó thành điểm."
-   }
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
   ],
   "coachingPoints": [
-   "Đẩy bóng ra giữa sân khi có thể — đẩy giữa giữ mọi lựa chọn mở.",
-   "Một nhịp đẩy qua tuyến phòng thủ đầu tiên đáng giá năm nhịp dẫn ngang sân.",
-   "Tập 1 đấu 1 cả sân: hậu vệ xuất phát ở nửa sân, người dẫn bóng phải ghi điểm hoặc tạo cơ hội."
+    "Push the ball to the middle of the floor when possible — middle pushes keep all options open.",
+    "One push dribble past the first line of defense is worth five sideways dribbles.",
+    "Drill 1-on-1 full court: defender starts at half court, ball handler must score or create."
   ],
   "commonMistakes": [
-   "Dẫn bóng vào hàng thủ đã ổn định thay vì chuyền vượt tuyến — pha đẩy dành cho sân trống.",
-   "Nhấc bóng lên ở vạch 3 điểm mà không còn đường đi.",
-   "Đẩy bóng cúi đầu, bỏ lỡ trailer hoàn toàn trống trải."
+    "Dribbling into a set defense instead of passing ahead — the push is for open floor.",
+    "Picking up the dribble at the three-point line with nowhere to go.",
+    "Pushing with the head down and missing the wide-open trailer."
   ],
+  "dateUpdated": "2026-10-06",
+  "description": "Sometimes the fastest way up the floor is one hard dribble, not a pass — learn when to push it yourself.",
+  "diagram": {
+    "ball": "O1",
+    "defense": [
+      {
+        "label": "X1",
+        "x": 45,
+        "y": 70
+      },
+      {
+        "label": "X5",
+        "x": 58,
+        "y": 50
+      }
+    ],
+    "moves": [
+      {
+        "from": "O1",
+        "kind": "dribble",
+        "to": "X1"
+      },
+      {
+        "from": "O5",
+        "kind": "cut",
+        "to": "rim"
+      }
+    ],
+    "offense": [
+      {
+        "label": "O1",
+        "x": 40,
+        "y": 85
+      },
+      {
+        "label": "O5",
+        "x": 60,
+        "y": 55
+      },
+      {
+        "label": "O2",
+        "x": 24,
+        "y": 60
+      }
+    ],
+    "passes": [
+      {
+        "from": "O1",
+        "to": "O5"
+      }
+    ],
+    "shots": [
+      {
+        "x": 50,
+        "y": 5.25
+      }
+    ],
+    "title": "Push with pace: attack the top foot, give it up when two commit"
+  },
   "gameSituations": [
-   "Sau cướp bóng khi cầu thủ đã ở trước hàng thủ.",
-   "Khi đường chuyền phát động bị chặn — đẩy xuyên qua áp lực.",
-   "Hậu vệ nhanh đấu big lui chậm."
+    "After a steal when you're already ahead of the defense.",
+    "When the outlet pass is denied — push through the pressure.",
+    "With a quick guard against a slow-retreating big."
   ],
+  "howTo": [
+    {
+      "detail": "Two to three hard dribbles, head up, attacking the retreating defender's hip. Pace means controlled speed — you're going fast but you see the floor.",
+      "title": "Push with pace, not panic"
+    },
+    {
+      "detail": "Every retreating defender has a top foot — the one closer to you. Attack it. That single read beats most transition defense.",
+      "title": "Attack the top foot"
+    },
+    {
+      "detail": "Push with the pass available: the ball stays on your outside hip, eyes up for the rim runner and the trailing shooter. Dribbling with your head down turns a push into a charge.",
+      "title": "Keep your options live"
+    },
+    {
+      "detail": "If two defenders commit to you, the pass is the play — hit the open man and keep running. The push creates the advantage; the pass cashes it.",
+      "title": "Know when to give it up"
+    }
+  ],
+  "hub": "transition",
+  "id": "transition-dribble-push",
+  "level": "intermediate",
+  "positions": [
+    "PG",
+    "SG"
+  ],
+  "readTime": 4,
+  "related": [
+    "advancing-the-ball",
+    "pitch-ahead-pass",
+    "transition-offense",
+    "change-of-pace"
+  ],
+  "slug": "transition-dribble-push",
+  "subcategory": "transition",
   "tags": [
-   "phản công",
-   "dẫn bóng",
-   "phản công nhanh"
+    "transition",
+    "dribbling",
+    "fast break"
+  ],
+  "title": "Pushing the Ball: Dribble vs Pass",
+  "vi": {
+    "coachingPoints": [
+      "Đẩy bóng ra giữa sân khi có thể — đẩy giữa giữ mọi lựa chọn mở.",
+      "Một nhịp đẩy qua tuyến phòng thủ đầu tiên đáng giá năm nhịp dẫn ngang sân.",
+      "Tập 1 đấu 1 cả sân: hậu vệ xuất phát ở nửa sân, người dẫn bóng phải ghi điểm hoặc tạo cơ hội."
+    ],
+    "commonMistakes": [
+      "Dẫn bóng vào hàng thủ đã ổn định thay vì chuyền vượt tuyến — pha đẩy dành cho sân trống.",
+      "Nhấc bóng lên ở vạch 3 điểm mà không còn đường đi.",
+      "Đẩy bóng cúi đầu, bỏ lỡ trailer hoàn toàn trống trải."
+    ],
+    "description": "Đôi khi cách lên sân nhanh nhất là một nhịp dẫn mạnh, không phải đường chuyền — học khi nào tự đẩy bóng.",
+    "gameSituations": [
+      "Sau cướp bóng khi cầu thủ đã ở trước hàng thủ.",
+      "Khi đường chuyền phát động bị chặn — đẩy xuyên qua áp lực.",
+      "Hậu vệ nhanh đấu big lui chậm."
+    ],
+    "howTo": [
+      {
+        "detail": "Hai đến ba nhịp dẫn mạnh, đầu ngẩng cao, tấn công vào hông của hậu vệ đang lui. Nhịp độ nghĩa là tốc độ có kiểm soát — đi nhanh nhưng vẫn thấy sân.",
+        "title": "Đẩy với nhịp độ, không phải hoảng loạn"
+      },
+      {
+        "detail": "Mỗi hậu vệ đang lui đều có một chân trên — chân gần cầu thủ hơn. Tấn công vào nó. Một pha đọc duy nhất này thắng hầu hết hàng thủ phản công.",
+        "title": "Tấn công vào chân trên"
+      },
+      {
+        "detail": "Đẩy bóng mà vẫn có đường chuyền: bóng ở hông ngoài, mắt ngẩng tìm rim runner và tay ném chạy sau. Dẫn bóng cúi đầu biến pha đẩy thành pha phạm lỗi tấn công.",
+        "title": "Giữ các lựa chọn còn sống"
+      },
+      {
+        "detail": "Nếu hai hậu vệ dồn vào, đường chuyền là đáp án — chuyền cho người trống và tiếp tục chạy. Pha đẩy tạo ra lợi thế; đường chuyền đổi nó thành điểm.",
+        "title": "Biết khi nào nhả bóng"
+      }
+    ],
+    "tags": [
+      "phản công",
+      "dẫn bóng",
+      "phản công nhanh"
+    ],
+    "title": "Đẩy bóng: dẫn bóng hay chuyền (dribble push)",
+    "whatIsIt": [
+      "Đẩy bóng nghĩa là tự đưa bóng lên bằng những nhịp dẫn mạnh, có chủ đích trong phản công — tấn công vào đà lui về của hàng thủ thay vì chuyền vòng quanh. Pha đẩy kinh điển: rebound, một hoặc hai nhịp dẫn mạnh qua hậu vệ đầu tiên, và cầu thủ đã tới rổ trước khi cầu thủ hỗ trợ kịp vào vị trí.",
+      "Quyết định chuyền hay dẫn định nghĩa hậu vệ phản công giỏi. Chuyền khi hàng thủ đã ổn định đủ để cắt đường chuyền; đẩy khi sân trống và có hậu vệ đang lui để tấn công vào."
+    ],
+    "whyItMatters": [
+      "Hậu vệ biết đẩy bóng tự mình làm sập hàng thủ — không cần đường chuyền phát động, không cần chờ đợi. Đẩy bóng bằng dẫn bóng cũng là đòn phản đòn khi đường chuyền bị chặn: thay vì nhấc bóng lên trước áp lực, cầu thủ đi xuyên qua nó."
+    ]
+  },
+  "whatIsIt": [
+    "Pushing the ball means advancing it yourself with hard, purposeful dribbles in transition — attacking the defense's retreat instead of passing around it. The classic push: rebound, one or two power dribbles past the first defender, and you're at the rim before help loads.",
+    "The pass-vs-dribble decision defines great transition guards. Pass when the defense is set enough to intercept lanes; push when there's open floor and a retreating defender to attack."
+  ],
+  "whyItMatters": [
+    "A guard who can push the ball collapses defenses by himself — no outlet needed, no waiting. The dribble push is also the counter when passing lanes are denied: instead of picking up the ball against pressure, you go through it."
   ]
- },
- "id": "transition-dribble-push",
- "slug": "transition-dribble-push",
- "dateUpdated": "2026-10-06"
 }

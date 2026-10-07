@@ -3,6 +3,37 @@
   "slug": "closeout-to-contest",
   "title": "Closeout to Contest",
   "description": "Sprint from help position, break down into a balanced closeout, and contest the shot with a high hand — then block out.",
+  "diagram": {
+    "title": "Closeout to Contest: sprint, chop, high hand",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 72,
+        "y": 32
+      }
+    ],
+    "defense": [
+      {
+        "label": "X1",
+        "x": 50,
+        "y": 19
+      }
+    ],
+    "ball": "O1",
+    "moves": [
+      {
+        "from": "X1",
+        "to": "O1",
+        "kind": "move"
+      }
+    ],
+    "shots": [
+      {
+        "x": 72,
+        "y": 32
+      }
+    ]
+  },
   "skill": "Defense",
   "level": "intermediate",
   "ages": [

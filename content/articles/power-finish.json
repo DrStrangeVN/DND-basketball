@@ -21,6 +21,37 @@
   ],
   "dateUpdated": "2026-10-06",
   "description": "Stop on two feet, rip the ball through contact, and finish strong at the rim — the big man's layup.",
+  "diagram": {
+    "title": "Power finish: two-foot stop through contact",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 60,
+        "y": 44
+      }
+    ],
+    "defense": [
+      {
+        "label": "X1",
+        "x": 55,
+        "y": 32
+      }
+    ],
+    "ball": "O1",
+    "moves": [
+      {
+        "from": "O1",
+        "to": "rim",
+        "kind": "dribble"
+      }
+    ],
+    "shots": [
+      {
+        "x": 50,
+        "y": 9
+      }
+    ]
+  },
   "gameSituations": [
     "Post catches where the defender bodied you — jump stop, power up through the chest.",
     "Offensive rebounds — gather with two feet and go back up strong instead of a soft tip.",

@@ -1,6 +1,89 @@
 {
  "title": "Attacking ICE Coverage",
  "description": "The defense is forcing you down and away from the screen — reject it, snake it, or make them pay for overplaying.",
+ "diagram": {
+  "ball": "O1",
+  "defense": [
+   {
+    "label": "X1",
+    "x": 68,
+    "y": 38
+   },
+   {
+    "label": "X5",
+    "x": 64,
+    "y": 26
+   },
+   {
+    "label": "X2",
+    "x": 16,
+    "y": 34
+   },
+   {
+    "label": "X3",
+    "x": 86,
+    "y": 16
+   },
+   {
+    "label": "X4",
+    "x": 30,
+    "y": 60
+   }
+  ],
+  "moves": [
+   {
+    "from": "O1",
+    "kind": "dribble",
+    "to": "O4"
+   },
+   {
+    "from": "O1",
+    "kind": "dribble",
+    "to": "rim"
+   }
+  ],
+  "offense": [
+   {
+    "label": "O1",
+    "x": 72,
+    "y": 46
+   },
+   {
+    "label": "O5",
+    "x": 70,
+    "y": 36
+   },
+   {
+    "label": "O2",
+    "x": 16,
+    "y": 36
+   },
+   {
+    "label": "O3",
+    "x": 88,
+    "y": 14
+   },
+   {
+    "label": "O4",
+    "x": 48,
+    "y": 40
+   }
+  ],
+  "passes": [],
+  "screens": [
+   {
+    "x": 70,
+    "y": 41
+   }
+  ],
+  "shots": [
+   {
+    "x": 50,
+    "y": 9
+   }
+  ],
+  "title": "Attacking ICE: reject the screen, drive middle"
+ },
  "hub": "pick-and-roll",
  "subcategory": "pick-and-roll",
  "level": "advanced",

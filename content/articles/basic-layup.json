@@ -23,6 +23,37 @@
   ],
   "dateUpdated": "2026-10-06",
   "description": "The fundamental close-range finish: learn the right footwork, approach angle, and soft board touch for reliable layups on both sides.",
+  "diagram": {
+    "title": "Basic layup: drive from the wing and finish at the rim",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 62,
+        "y": 48
+      }
+    ],
+    "defense": [
+      {
+        "label": "X1",
+        "x": 56,
+        "y": 40
+      }
+    ],
+    "ball": "O1",
+    "moves": [
+      {
+        "from": "O1",
+        "to": "rim",
+        "kind": "dribble"
+      }
+    ],
+    "shots": [
+      {
+        "x": 50,
+        "y": 9
+      }
+    ]
+  },
   "gameSituations": [
     "Fast breaks — the number-one layup opportunity; sprint the lane and finish before help arrives.",
     "Beating your man off the dribble — straight-line drives where no help defender rotates.",
@@ -77,6 +108,7 @@
     "fundamentals"
   ],
   "title": "Basic Layup",
+  "video": {"title": "3 Layup Progressions for Beginners", "url": "https://www.youtube.com/watch?v=Tm7N2HU4noQ"},
   "vi": {
     "coachingPoints": [
       "Nhảy lên bằng chân đối diện với tay ném — tay phải thì chân trái (và ngược lại)",

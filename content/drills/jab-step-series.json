@@ -3,6 +3,29 @@
   "slug": "jab-step-series",
   "title": "Jab Step Series",
   "description": "Weaponize the jab: jab-and-go, jab-and-crossover, and jab-and-shoot from triple threat — selling every fake with your shoulders and eyes.",
+  "diagram": {
+    "title": "Jab Step Series: jab, read, attack",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 70,
+        "y": 34
+      },
+      {
+        "label": "1",
+        "x": 64,
+        "y": 30
+      }
+    ],
+    "ball": "O1",
+    "moves": [
+      {
+        "from": "O1",
+        "to": "rim",
+        "kind": "dribble"
+      }
+    ]
+  },
   "skill": "Footwork",
   "level": "beginner",
   "ages": [

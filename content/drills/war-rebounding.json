@@ -3,6 +3,41 @@
   "slug": "war-rebounding",
   "title": "War Rebounding",
   "description": "A 1v1 battle drill: fight through contact for the board, then score the putback to win the rep.",
+  "diagram": {
+    "title": "War Rebounding: hit, own space, putback",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 42,
+        "y": 13
+      }
+    ],
+    "defense": [
+      {
+        "label": "X1",
+        "x": 58,
+        "y": 13
+      }
+    ],
+    "moves": [
+      {
+        "from": "O1",
+        "to": "rim",
+        "kind": "move"
+      },
+      {
+        "from": "X1",
+        "to": "rim",
+        "kind": "move"
+      }
+    ],
+    "shots": [
+      {
+        "x": 50,
+        "y": 6
+      }
+    ]
+  },
   "skill": "Rebounding",
   "level": "advanced",
   "ages": [

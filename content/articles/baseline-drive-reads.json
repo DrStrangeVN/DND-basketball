@@ -20,6 +20,52 @@
   ],
   "dateUpdated": "2026-10-06",
   "description": "How to read and punish help defense on baseline drives: the corner lift, the dunker slide, and the baseline drift pass.",
+  "diagram": {
+    "title": "Baseline drive reads: help commits, hit the dunker",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 74,
+        "y": 44
+      },
+      {
+        "label": "O5",
+        "x": 44,
+        "y": 28
+      },
+      {
+        "label": "O2",
+        "x": 86,
+        "y": 28
+      }
+    ],
+    "defense": [
+      {
+        "label": "X1",
+        "x": 70,
+        "y": 36
+      },
+      {
+        "label": "X5",
+        "x": 52,
+        "y": 24
+      }
+    ],
+    "ball": "O1",
+    "moves": [
+      {
+        "from": "O1",
+        "to": "rim",
+        "kind": "dribble"
+      }
+    ],
+    "passes": [
+      {
+        "from": "O1",
+        "to": "O5"
+      }
+    ]
+  },
   "gameSituations": [
     "Wing drives baseline, low help stunts — drop to the dunker sliding along the baseline for a layup.",
     "Baseline drive draws the corner defender — kick to the corner lifting shooter for a three.",

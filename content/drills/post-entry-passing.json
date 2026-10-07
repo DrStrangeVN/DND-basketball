@@ -3,6 +3,35 @@
   "slug": "post-entry-passing",
   "title": "Post Entry Passing",
   "description": "Feed the post the right way every time: bounce pass against fronting, lob over the top, and direct entry when sealed — with a seal-and-read progression.",
+  "diagram": {
+    "title": "Post Entry: direct, bounce, or lob",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 70,
+        "y": 34
+      },
+      {
+        "label": "O2",
+        "x": 58,
+        "y": 12
+      }
+    ],
+    "defense": [
+      {
+        "label": "X1",
+        "x": 58,
+        "y": 16
+      }
+    ],
+    "ball": "O1",
+    "passes": [
+      {
+        "from": "O1",
+        "to": "O2"
+      }
+    ]
+  },
   "skill": "Passing",
   "level": "intermediate",
   "ages": [

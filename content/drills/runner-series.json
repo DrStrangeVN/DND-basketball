@@ -3,6 +3,63 @@
   "slug": "runner-series",
   "title": "Runner Series",
   "description": "The one-legged runner from 8 to 14 feet — push off the outside foot, release high, and land ready — from both sides of the floor.",
+  "diagram": {
+    "title": "Runner Series: one dribble, high release",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 70,
+        "y": 36
+      },
+      {
+        "label": "1",
+        "x": 56,
+        "y": 12
+      },
+      {
+        "label": "2",
+        "x": 58,
+        "y": 17
+      },
+      {
+        "label": "3",
+        "x": 60,
+        "y": 22
+      }
+    ],
+    "ball": "O1",
+    "moves": [
+      {
+        "from": "O1",
+        "to": "3",
+        "kind": "dribble"
+      },
+      {
+        "from": "O1",
+        "to": "2",
+        "kind": "dribble"
+      },
+      {
+        "from": "O1",
+        "to": "1",
+        "kind": "dribble"
+      }
+    ],
+    "shots": [
+      {
+        "x": 56,
+        "y": 12
+      },
+      {
+        "x": 58,
+        "y": 17
+      },
+      {
+        "x": 60,
+        "y": 22
+      }
+    ]
+  },
   "skill": "Finishing",
   "level": "intermediate",
   "ages": [

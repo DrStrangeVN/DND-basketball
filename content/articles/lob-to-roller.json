@@ -17,6 +17,84 @@
   ],
   "dateUpdated": "2026-10-06",
   "description": "When the defense takes away everything underneath, go over the top — timing, placement, and trust in the lob pass.",
+  "diagram": {
+    "ball": "O1",
+    "defense": [
+      {
+        "label": "X1",
+        "x": 50,
+        "y": 51
+      },
+      {
+        "label": "X5",
+        "x": 58,
+        "y": 38
+      },
+      {
+        "label": "X2",
+        "x": 30,
+        "y": 38
+      },
+      {
+        "label": "X3",
+        "x": 70,
+        "y": 38
+      }
+    ],
+    "moves": [
+      {
+        "from": "O1",
+        "kind": "dribble",
+        "to": "O5"
+      },
+      {
+        "from": "O5",
+        "kind": "cut",
+        "to": "rim"
+      }
+    ],
+    "offense": [
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 56
+      },
+      {
+        "label": "O5",
+        "x": 56,
+        "y": 42
+      },
+      {
+        "label": "O2",
+        "x": 28,
+        "y": 40
+      },
+      {
+        "label": "O3",
+        "x": 72,
+        "y": 40
+      }
+    ],
+    "passes": [
+      {
+        "from": "O1",
+        "to": "O5"
+      }
+    ],
+    "screens": [
+      {
+        "x": 54,
+        "y": 48
+      }
+    ],
+    "shots": [
+      {
+        "x": 50,
+        "y": 8
+      }
+    ],
+    "title": "Lob over the dropping big to the roller"
+  },
   "gameSituations": [
     "Vs drop coverage with an athletic rolling big.",
     "After the pocket pass has worked twice — the defense sags, the lob goes over.",

@@ -21,6 +21,36 @@
   ],
   "dateUpdated": "2026-10-06",
   "description": "Bounce the ball through your legs to switch hands while keeping the ball shielded — perfect for tight spaces and full-speed moves.",
+  "diagram": {
+    "title": "Between the legs: bounce under the lead leg and go",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 58,
+        "y": 64
+      },
+      {
+        "label": "O2",
+        "x": 66,
+        "y": 44
+      }
+    ],
+    "defense": [
+      {
+        "label": "X1",
+        "x": 54,
+        "y": 55
+      }
+    ],
+    "ball": "O1",
+    "moves": [
+      {
+        "from": "O1",
+        "to": "O2",
+        "kind": "dribble"
+      }
+    ]
+  },
   "gameSituations": [
     "Pushing the ball in transition — a between-the-legs switch lets you change hands at full speed without breaking stride.",
     "Beating a defender who is crowding you — the move keeps the ball behind your body, where his reach cannot follow.",
@@ -68,6 +98,7 @@
     "ball handling"
   ],
   "title": "Between the Legs",
+  "video": {"title": "Between the Legs Dribbling Drill", "url": "https://www.youtube.com/watch?v=5yGoomwlksM"},
   "vi": {
     "coachingPoints": [
       "Giữ người thấp — càng đứng cao khi thực hiện, bóng dẫn càng chậm và càng lộ",

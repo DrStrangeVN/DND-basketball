@@ -3,6 +3,57 @@
   "slug": "free-throw-boxout-battle",
   "title": "Free-Throw Box-Out Battle",
   "description": "Turn free throws into a war: 2v2 box-out battle on every miss — find a body, make contact, and own the rebound before the offense does.",
+  "diagram": {
+    "title": "FT Box-Out Battle: find a body, not the ball",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 40,
+        "y": 20
+      },
+      {
+        "label": "O2",
+        "x": 60,
+        "y": 20
+      },
+      {
+        "label": "O3",
+        "x": 50,
+        "y": 24
+      }
+    ],
+    "defense": [
+      {
+        "label": "X1",
+        "x": 44,
+        "y": 14
+      },
+      {
+        "label": "X2",
+        "x": 56,
+        "y": 14
+      }
+    ],
+    "ball": "O3",
+    "moves": [
+      {
+        "from": "X1",
+        "to": "O1",
+        "kind": "move"
+      },
+      {
+        "from": "X2",
+        "to": "O2",
+        "kind": "move"
+      }
+    ],
+    "shots": [
+      {
+        "x": 50,
+        "y": 6
+      }
+    ]
+  },
   "skill": "Rebounding",
   "level": "beginner",
   "ages": [

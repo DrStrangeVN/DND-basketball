@@ -21,6 +21,69 @@
   ],
   "dateUpdated": "2026-10-06",
   "description": "Full-court press: pressure the inbounds, trap the sideline, and turn defense into offense for 94 feet.",
+  "diagram": {
+    "ball": "O1",
+    "defense": [
+      {
+        "label": "X1",
+        "x": 78,
+        "y": 46
+      },
+      {
+        "label": "X2",
+        "x": 88,
+        "y": 56
+      },
+      {
+        "label": "X3",
+        "x": 58,
+        "y": 52
+      },
+      {
+        "label": "X4",
+        "x": 44,
+        "y": 58
+      },
+      {
+        "label": "X5",
+        "x": 50,
+        "y": 26
+      }
+    ],
+    "moves": [
+      {
+        "from": "X1",
+        "kind": "move",
+        "to": "O1"
+      }
+    ],
+    "offense": [
+      {
+        "label": "O1",
+        "x": 84,
+        "y": 52
+      },
+      {
+        "label": "O2",
+        "x": 62,
+        "y": 55
+      },
+      {
+        "label": "O3",
+        "x": 42,
+        "y": 61
+      },
+      {
+        "label": "O4",
+        "x": 26,
+        "y": 65
+      }
+    ],
+    "passes": [],
+    "screens": [],
+    "shots": [],
+    "title": "Sideline trap: two trap the ball, three rotate behind"
+  },
   "gameSituations": [
     "When you need turnovers to come back late in a game",
     "Against young or shaky ball handlers who panic under pressure",

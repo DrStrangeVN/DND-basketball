@@ -3,6 +3,63 @@
   "slug": "pull-up-cone-series",
   "title": "Pull-Up Cone Series",
   "description": "Trains the one-dribble pull-up jumper off cones at three depths - elbow, wing, and deep - with game-speed deceleration.",
+  "diagram": {
+    "title": "Pull-Up Series: sprint, slam brakes, rise",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 62
+      },
+      {
+        "label": "1",
+        "x": 62,
+        "y": 22
+      },
+      {
+        "label": "2",
+        "x": 70,
+        "y": 36
+      },
+      {
+        "label": "3",
+        "x": 66,
+        "y": 48
+      }
+    ],
+    "ball": "O1",
+    "moves": [
+      {
+        "from": "O1",
+        "to": "3",
+        "kind": "dribble"
+      },
+      {
+        "from": "O1",
+        "to": "2",
+        "kind": "dribble"
+      },
+      {
+        "from": "O1",
+        "to": "1",
+        "kind": "dribble"
+      }
+    ],
+    "shots": [
+      {
+        "x": 62,
+        "y": 22
+      },
+      {
+        "x": 70,
+        "y": 36
+      },
+      {
+        "x": 66,
+        "y": 48
+      }
+    ]
+  },
   "skill": "Shooting",
   "level": "advanced",
   "ages": [

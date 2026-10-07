@@ -21,6 +21,36 @@
   ],
   "dateUpdated": "2026-10-06",
   "description": "Wrap the ball behind your back to switch hands while staying fully protected — a deadly full-speed move for confident handlers.",
+  "diagram": {
+    "title": "Behind the back: switch hands and explode past",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 60,
+        "y": 64
+      },
+      {
+        "label": "O2",
+        "x": 70,
+        "y": 44
+      }
+    ],
+    "defense": [
+      {
+        "label": "X1",
+        "x": 56,
+        "y": 55
+      }
+    ],
+    "ball": "O1",
+    "moves": [
+      {
+        "from": "O1",
+        "to": "O2",
+        "kind": "dribble"
+      }
+    ]
+  },
   "gameSituations": [
     "Splitting two defenders — when help arrives from both sides, a behind-the-back switch slips the ball through the gap.",
     "Changing hands at full speed in transition — like between the legs, it keeps the ball hidden from chasing defenders.",

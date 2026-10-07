@@ -1,6 +1,85 @@
 {
  "title": "Attacking Drop Coverage",
  "description": "The big is sagging deep to protect the rim — take the pull-up, snake back, or make the pocket pass before he recovers.",
+ "diagram": {
+  "ball": "O1",
+  "defense": [
+   {
+    "label": "X1",
+    "x": 50,
+    "y": 52
+   },
+   {
+    "label": "X5",
+    "x": 54,
+    "y": 24
+   },
+   {
+    "label": "X2",
+    "x": 14,
+    "y": 30
+   },
+   {
+    "label": "X3",
+    "x": 86,
+    "y": 30
+   },
+   {
+    "label": "X4",
+    "x": 30,
+    "y": 62
+   }
+  ],
+  "moves": [
+   {
+    "from": "O1",
+    "kind": "dribble",
+    "to": "O4"
+   }
+  ],
+  "offense": [
+   {
+    "label": "O1",
+    "x": 50,
+    "y": 58
+   },
+   {
+    "label": "O5",
+    "x": 60,
+    "y": 48
+   },
+   {
+    "label": "O2",
+    "x": 14,
+    "y": 32
+   },
+   {
+    "label": "O3",
+    "x": 86,
+    "y": 32
+   },
+   {
+    "label": "O4",
+    "x": 62,
+    "y": 36
+   }
+  ],
+  "passes": [],
+  "screens": [
+   {
+    "angle": 25,
+    "x": 60,
+    "y": 52
+   }
+  ],
+  "shots": [
+   {
+    "x": 62,
+    "y": 36
+   }
+  ],
+  "title": "Attacking drop: pull-up in the conceded space"
+ },
  "hub": "pick-and-roll",
  "subcategory": "pick-and-roll",
  "level": "intermediate",

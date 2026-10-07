@@ -1,53 +1,201 @@
-{"ages":["U16","U18","Adult","Competitive"],"coachingPoints":["The X-out is a sprint, not a jog — closeout speed decides everything.","Communicate loudly: 'X!' tells everyone the rotation is happening.","The low man takes the ball; the helper takes the first pass.","Drill it 5-on-4 so the rotation becomes instinct, not thought."],"commonMistakes":["Jogging the X-out — the skip pass beats you every time.","Two defenders running to the same man.","The X-out defender stopping at the paint instead of closing all the way.","No communication — silent X-outs end in wide-open threes."],"dateUpdated":"2026-10-06","description":"Baseline drive, help rotates, skip pass flies — the X-out is the full-speed cross-rotation that saves the corner three.","gameSituations":["Baseline drives — the classic X-out trigger.","Against great skip passers who punish every rotation.","When the low man must help — someone has to take the corner.","Late clock scrambles — the X-out organizes the chaos."],"howTo":[{"detail":"The ball is driven baseline. The low help defender rotates to stop the ball — this is the standard rotation, and it leaves their man (usually the corner shooter) open.","title":"The baseline drive forces help"},{"detail":"As the help commits, the ball handler throws the skip pass to the open corner. Now two defenders must cross: the helper sprints back out to the corner (the long arm of the X), while the nearest perimeter defender drops to the helper's man (the short arm).","title":"The skip pass triggers the X"},{"detail":"The recovering defender closes out at full sprint — high hands, under control at the end. A fly-by gives up the drive; a short closeout gives up the shot.","title":"Sprint the long closeout"},{"detail":"The dropping defender takes the helper's original man, usually in the paint or mid-range. The X is complete when all five are matched — no two on one, none on zero.","title":"Match up: no two on one"}],"hub":"defense","id":"x-out-rotations","level":"advanced","positions":["ALL"],"readTime":5,"related":["help-defense","skip-pass","closeout-defense","man-to-man-defense","transition-defense"],"slug":"x-out-rotations","subcategory":"rotations","tags":["x-out","rotations","help defense","defense"],"title":"X-Out Rotations","vi":{
-  "title": "Xoay vòng X-out",
-  "description": "Đột phá baseline, hàng hỗ trợ xoay vào, skip pass bay ra — X-out là pha xoay chéo hết tốc độ cứu cú 3 điểm góc.",
-  "whatIsIt": [
-    "X-out là pha xoay chéo hết tốc độ khi bóng bị đột phá baseline: người thấp xoay vào chặn bóng, skip pass bay ra góc, hai hậu vệ đổi chéo đường chạy — một lao ra góc, một lùi vào khu vực dưới rổ — tạo thành chữ X trên sơ đồ.",
-    "Đây là bài kiểm tra cuối của phòng thủ đồng đội: bốn người phải di chuyển như một trong hai giây, không thì góc sân vẫn trống. Đội phòng thủ giỏi biến X-out thành phản xạ; đội còn lại biến nó thành những cú 3 điểm trống của đối phương."
+{
+  "ages": [
+    "U16",
+    "U18",
+    "Adult",
+    "Competitive"
   ],
-  "whyItMatters": [
-    "Đột phá baseline là pha bóng nguy hiểm nhất — nó ép hàng hỗ trợ và mở ra skip pass, đường chuyền tạo cú ném hiệu quả nhất (3 điểm góc). Không có X-out, mỗi pha đột phá baseline thành công của đối thủ là một cú ném trống. Có X-out, đó chỉ là một pha xoay nữa. Khả năng X-out cho thấy hàng thủ có thật là một 'đội' hay chỉ là năm cá nhân."
+  "coachingPoints": [
+    "The X-out is a sprint, not a jog — closeout speed decides everything.",
+    "Communicate loudly: 'X!' tells everyone the rotation is happening.",
+    "The low man takes the ball; the helper takes the first pass.",
+    "Drill it 5-on-4 so the rotation becomes instinct, not thought."
+  ],
+  "commonMistakes": [
+    "Jogging the X-out — the skip pass beats you every time.",
+    "Two defenders running to the same man.",
+    "The X-out defender stopping at the paint instead of closing all the way.",
+    "No communication — silent X-outs end in wide-open threes."
+  ],
+  "dateUpdated": "2026-10-06",
+  "description": "Baseline drive, help rotates, skip pass flies — the X-out is the full-speed cross-rotation that saves the corner three.",
+  "diagram": {
+    "ball": "O1",
+    "defense": [
+      {
+        "label": "X1",
+        "x": 77,
+        "y": 38
+      },
+      {
+        "label": "X4",
+        "x": 56,
+        "y": 34
+      },
+      {
+        "label": "X2",
+        "x": 24,
+        "y": 34
+      }
+    ],
+    "moves": [
+      {
+        "from": "O1",
+        "kind": "dribble",
+        "to": "rim"
+      },
+      {
+        "from": "X4",
+        "kind": "move",
+        "to": "O1"
+      },
+      {
+        "from": "X4",
+        "kind": "move",
+        "to": "O2"
+      },
+      {
+        "from": "X2",
+        "kind": "move",
+        "to": "X4"
+      }
+    ],
+    "offense": [
+      {
+        "label": "O1",
+        "x": 80,
+        "y": 42
+      },
+      {
+        "label": "O2",
+        "x": 12,
+        "y": 24
+      },
+      {
+        "label": "O4",
+        "x": 52,
+        "y": 58
+      }
+    ],
+    "passes": [
+      {
+        "from": "O1",
+        "to": "O2"
+      }
+    ],
+    "shots": [
+      {
+        "x": 12,
+        "y": 24
+      }
+    ],
+    "title": "Baseline drive, skip pass: the X-out cross-rotation"
+  },
+  "gameSituations": [
+    "Baseline drives — the classic X-out trigger.",
+    "Against great skip passers who punish every rotation.",
+    "When the low man must help — someone has to take the corner.",
+    "Late clock scrambles — the X-out organizes the chaos."
   ],
   "howTo": [
     {
-      "title": "Đột phá baseline ép hỗ trợ",
-      "detail": "Bóng bị đột phá baseline. Hậu vệ hỗ trợ thấp xoay vào chặn bóng — pha xoay tiêu chuẩn, và nó để trống người của họ (thường là tay ném ở góc)."
+      "detail": "The ball is driven baseline. The low help defender rotates to stop the ball — this is the standard rotation, and it leaves their man (usually the corner shooter) open.",
+      "title": "The baseline drive forces help"
     },
     {
-      "title": "Skip pass kích hoạt chữ X",
-      "detail": "Hàng hỗ trợ dấn vào, người cầm bóng ném skip pass ra góc trống. Hai hậu vệ đổi chéo: người hỗ trợ chạy nước rút ra góc (cánh dài của chữ X), hậu vệ ngoài gần nhất lùi xuống lấy người của người hỗ trợ (cánh ngắn)."
+      "detail": "As the help commits, the ball handler throws the skip pass to the open corner. Now two defenders must cross: the helper sprints back out to the corner (the long arm of the X), while the nearest perimeter defender drops to the helper's man (the short arm).",
+      "title": "The skip pass triggers the X"
     },
     {
-      "title": "Chạy nước rút pha closeout dài",
-      "detail": "Người về closeout hết tốc độ — tay cao, kiểm soát ở cuối. Bay qua người thì mất pha đột phá; closeout ngắn thì mất cú ném."
+      "detail": "The recovering defender closes out at full sprint — high hands, under control at the end. A fly-by gives up the drive; a short closeout gives up the shot.",
+      "title": "Sprint the long closeout"
     },
     {
-      "title": "Bắt cặp: không hai kèm một",
-      "detail": "Người lùi xuống lấy người ban đầu của người hỗ trợ, thường ở khu vực dưới rổ hoặc trung bình. Chữ X hoàn thành khi cả năm đã bắt cặp — không hai kèm một, không ai bị bỏ."
+      "detail": "The dropping defender takes the helper's original man, usually in the paint or mid-range. The X is complete when all five are matched — no two on one, none on zero.",
+      "title": "Match up: no two on one"
     }
   ],
-  "coachingPoints": [
-    "X-out là chạy nước rút, không phải chạy bộ — tốc độ closeout quyết định tất cả.",
-    "Hô to: 'X!' cho cả đội biết pha xoay đang diễn ra.",
-    "Người thấp lấy bóng; người hỗ trợ lấy đường chuyền đầu.",
-    "Tập 5-đánh-4 để pha xoay thành bản năng, không phải suy nghĩ."
+  "hub": "defense",
+  "id": "x-out-rotations",
+  "level": "advanced",
+  "positions": [
+    "ALL"
   ],
-  "commonMistakes": [
-    "Chạy bộ trong X-out — skip pass đánh bại bạn mọi lần.",
-    "Hai hậu vệ chạy tới cùng một người.",
-    "Người X-out dừng ở khu vực dưới rổ thay vì closeout hết đường.",
-    "Không giao tiếp — X-out im lặng thành những cú 3 điểm trống."
+  "readTime": 5,
+  "related": [
+    "help-defense",
+    "skip-pass",
+    "closeout-defense",
+    "man-to-man-defense",
+    "transition-defense"
   ],
-  "gameSituations": [
-    "Đột phá baseline — điểm kích hoạt kinh điển của X-out.",
-    "Gặp những tay chuyền skip giỏi, trừng phạt mọi pha xoay.",
-    "Khi người thấp buộc phải hỗ trợ — ai đó phải lấy người ở góc.",
-    "Hỗn loạn cuối đồng hồ — X-out sắp xếp lại sự hỗn độn."
-  ],
+  "slug": "x-out-rotations",
+  "subcategory": "rotations",
   "tags": [
     "x-out",
-    "xoay vòng",
-    "phòng thủ hỗ trợ",
-    "phòng thủ"
+    "rotations",
+    "help defense",
+    "defense"
+  ],
+  "title": "X-Out Rotations",
+  "vi": {
+    "coachingPoints": [
+      "X-out là chạy nước rút, không phải chạy bộ — tốc độ closeout quyết định tất cả.",
+      "Hô to: 'X!' cho cả đội biết pha xoay đang diễn ra.",
+      "Người thấp lấy bóng; người hỗ trợ lấy đường chuyền đầu.",
+      "Tập 5-đánh-4 để pha xoay thành bản năng, không phải suy nghĩ."
+    ],
+    "commonMistakes": [
+      "Chạy bộ trong X-out — skip pass đánh bại bạn mọi lần.",
+      "Hai hậu vệ chạy tới cùng một người.",
+      "Người X-out dừng ở khu vực dưới rổ thay vì closeout hết đường.",
+      "Không giao tiếp — X-out im lặng thành những cú 3 điểm trống."
+    ],
+    "description": "Đột phá baseline, hàng hỗ trợ xoay vào, skip pass bay ra — X-out là pha xoay chéo hết tốc độ cứu cú 3 điểm góc.",
+    "gameSituations": [
+      "Đột phá baseline — điểm kích hoạt kinh điển của X-out.",
+      "Gặp những tay chuyền skip giỏi, trừng phạt mọi pha xoay.",
+      "Khi người thấp buộc phải hỗ trợ — ai đó phải lấy người ở góc.",
+      "Hỗn loạn cuối đồng hồ — X-out sắp xếp lại sự hỗn độn."
+    ],
+    "howTo": [
+      {
+        "detail": "Bóng bị đột phá baseline. Hậu vệ hỗ trợ thấp xoay vào chặn bóng — pha xoay tiêu chuẩn, và nó để trống người của họ (thường là tay ném ở góc).",
+        "title": "Đột phá baseline ép hỗ trợ"
+      },
+      {
+        "detail": "Hàng hỗ trợ dấn vào, người cầm bóng ném skip pass ra góc trống. Hai hậu vệ đổi chéo: người hỗ trợ chạy nước rút ra góc (cánh dài của chữ X), hậu vệ ngoài gần nhất lùi xuống lấy người của người hỗ trợ (cánh ngắn).",
+        "title": "Skip pass kích hoạt chữ X"
+      },
+      {
+        "detail": "Người về closeout hết tốc độ — tay cao, kiểm soát ở cuối. Bay qua người thì mất pha đột phá; closeout ngắn thì mất cú ném.",
+        "title": "Chạy nước rút pha closeout dài"
+      },
+      {
+        "detail": "Người lùi xuống lấy người ban đầu của người hỗ trợ, thường ở khu vực dưới rổ hoặc trung bình. Chữ X hoàn thành khi cả năm đã bắt cặp — không hai kèm một, không ai bị bỏ.",
+        "title": "Bắt cặp: không hai kèm một"
+      }
+    ],
+    "tags": [
+      "x-out",
+      "xoay vòng",
+      "phòng thủ hỗ trợ",
+      "phòng thủ"
+    ],
+    "title": "Xoay vòng X-out",
+    "whatIsIt": [
+      "X-out là pha xoay chéo hết tốc độ khi bóng bị đột phá baseline: người thấp xoay vào chặn bóng, skip pass bay ra góc, hai hậu vệ đổi chéo đường chạy — một lao ra góc, một lùi vào khu vực dưới rổ — tạo thành chữ X trên sơ đồ.",
+      "Đây là bài kiểm tra cuối của phòng thủ đồng đội: bốn người phải di chuyển như một trong hai giây, không thì góc sân vẫn trống. Đội phòng thủ giỏi biến X-out thành phản xạ; đội còn lại biến nó thành những cú 3 điểm trống của đối phương."
+    ],
+    "whyItMatters": [
+      "Đột phá baseline là pha bóng nguy hiểm nhất — nó ép hàng hỗ trợ và mở ra skip pass, đường chuyền tạo cú ném hiệu quả nhất (3 điểm góc). Không có X-out, mỗi pha đột phá baseline thành công của đối thủ là một cú ném trống. Có X-out, đó chỉ là một pha xoay nữa. Khả năng X-out cho thấy hàng thủ có thật là một 'đội' hay chỉ là năm cá nhân."
+    ]
+  },
+  "whatIsIt": [
+    "The X-out is the full-speed cross-rotation when the ball gets driven baseline: the low man rotates to stop the ball, the skip pass flies to the corner, and two defenders cross paths — one sprinting out to the corner, one dropping into the paint — forming an X on the diagram.",
+    "It's the ultimate test of team defense: four players must move as one in two seconds, or the corner stays open. Great defensive teams make the X-out a reflex; everyone else turns it into the opponent's open threes."
+  ],
+  "whyItMatters": [
+    "The baseline drive is the most dangerous action in basketball — it forces help and opens the skip pass, the pass that creates the most efficient shot (the corner three). Without the X-out, every successful baseline drive is an open shot. With it, it's just another rotation. The ability to X-out measures whether a defense is truly a 'team' or just five individuals."
   ]
-},"whatIsIt":["The X-out is the full-speed cross-rotation when the ball gets driven baseline: the low man rotates to stop the ball, the skip pass flies to the corner, and two defenders cross paths — one sprinting out to the corner, one dropping into the paint — forming an X on the diagram.","It's the ultimate test of team defense: four players must move as one in two seconds, or the corner stays open. Great defensive teams make the X-out a reflex; everyone else turns it into the opponent's open threes."],"whyItMatters":["The baseline drive is the most dangerous action in basketball — it forces help and opens the skip pass, the pass that creates the most efficient shot (the corner three). Without the X-out, every successful baseline drive is an open shot. With it, it's just another rotation. The ability to X-out measures whether a defense is truly a 'team' or just five individuals."]}
+}

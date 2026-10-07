@@ -424,6 +424,8 @@ const STRINGS: Record<string, { vi: string; en: string }> = {
   "perf.tagline.nutrition": { vi: "Nạp năng lượng đúng cách. Hồi phục nhanh hơn. Thi đấu ổn định.", en: "Fuel training. Recover faster. Perform consistently." },
   "perf.tagline.hydration": { vi: "Đủ nước. Tỉnh táo. Bám trụ đến cuối trận.", en: "Stay hydrated. Stay sharp. Stay in the game." },
   "perf.tagline.injuryPrevention": { vi: "Di chuyển tốt hơn. Tăng sức chịu tải. Giảm nguy cơ chấn thương có thể phòng tránh.", en: "Move better. Build capacity. Reduce preventable injury risk." },
+  "perf.hub.mentalPerformance": { vi: "Tâm lý thi đấu", en: "Mental Performance" },
+  "perf.tagline.mentalPerformance": { vi: "Rèn sự tập trung, tự tin và bản lĩnh cho ngày thi đấu.", en: "Build focus, confidence and composure for game day." },
 
   /* Performance article sections */
   "perf.whatItDevelops": { vi: "Phát triển", en: "What It Develops" },

@@ -19,6 +19,73 @@
   ],
   "dateUpdated": "2026-10-06",
   "description": "The 4-out delay series — patient top-of-the-key action with backdoor cuts that punish overplay.",
+  "diagram": {
+    "ball": "O1",
+    "defense": [
+      {
+        "label": "X2",
+        "x": 27,
+        "y": 40
+      },
+      {
+        "label": "X1",
+        "x": 50,
+        "y": 57
+      }
+    ],
+    "moves": [
+      {
+        "from": "O1",
+        "kind": "dribble",
+        "to": "O2"
+      },
+      {
+        "from": "O2",
+        "kind": "cut",
+        "to": "rim"
+      }
+    ],
+    "offense": [
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 62
+      },
+      {
+        "label": "O2",
+        "x": 24,
+        "y": 42
+      },
+      {
+        "label": "O3",
+        "x": 76,
+        "y": 42
+      },
+      {
+        "label": "O4",
+        "x": 30,
+        "y": 20
+      },
+      {
+        "label": "O5",
+        "x": 50,
+        "y": 26
+      }
+    ],
+    "passes": [
+      {
+        "from": "O5",
+        "to": "rim"
+      }
+    ],
+    "shots": [
+      {
+        "x": 50,
+        "y": 7
+      }
+    ],
+    "title": "Delay: dribble-at into a backdoor"
+  },
   "gameSituations": [
     "Against aggressive denial — backdoors all game long.",
     "To slow the tempo and control the clock.",

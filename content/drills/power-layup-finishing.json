@@ -3,6 +3,37 @@
   "slug": "power-layup-finishing",
   "title": "Power Layups Through Contact",
   "description": "Two-foot jump-stop power finishes through pad contact — the strong man's layup for drivers who refuse to get bumped off their line.",
+  "diagram": {
+    "title": "Power Layups: two feet through contact",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 45
+      }
+    ],
+    "defense": [
+      {
+        "label": "X1",
+        "x": 54,
+        "y": 14
+      }
+    ],
+    "ball": "O1",
+    "moves": [
+      {
+        "from": "O1",
+        "to": "rim",
+        "kind": "dribble"
+      }
+    ],
+    "shots": [
+      {
+        "x": 50,
+        "y": 6
+      }
+    ]
+  },
   "skill": "Finishing",
   "level": "advanced",
   "ages": [

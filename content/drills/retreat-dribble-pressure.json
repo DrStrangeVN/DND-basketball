@@ -3,6 +3,47 @@
   "slug": "retreat-dribble-pressure",
   "title": "Retreat Dribble Under Pressure",
   "description": "Teaches the retreat dribble escape move against on-ball pressure with a live defender, including the setup dribble and re-attack.",
+  "diagram": {
+    "title": "Retreat Dribble: back off pressure, re-attack",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 55
+      },
+      {
+        "label": "1",
+        "x": 50,
+        "y": 70
+      }
+    ],
+    "defense": [
+      {
+        "label": "X1",
+        "x": 50,
+        "y": 49
+      }
+    ],
+    "ball": "O1",
+    "moves": [
+      {
+        "from": "O1",
+        "to": "1",
+        "kind": "dribble"
+      },
+      {
+        "from": "O1",
+        "to": "rim",
+        "kind": "dribble"
+      }
+    ],
+    "shots": [
+      {
+        "x": 50,
+        "y": 6
+      }
+    ]
+  },
   "skill": "Ball Handling",
   "level": "intermediate",
   "ages": [

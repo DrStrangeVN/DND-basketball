@@ -18,6 +18,69 @@
   ],
   "dateUpdated": "2026-10-06",
   "description": "A pin-down screen flowing into a dribble handoff — footwork details, the three core reads, and counters for aggressive defenses.",
+  "diagram": {
+    "ball": "O1",
+    "defense": [
+      {
+        "label": "X1",
+        "x": 64,
+        "y": 31
+      },
+      {
+        "label": "X2",
+        "x": 30,
+        "y": 14
+      },
+      {
+        "label": "X5",
+        "x": 40,
+        "y": 22
+      }
+    ],
+    "moves": [
+      {
+        "from": "O2",
+        "kind": "cut",
+        "to": "O1"
+      }
+    ],
+    "offense": [
+      {
+        "label": "O1",
+        "x": 66,
+        "y": 34
+      },
+      {
+        "label": "O2",
+        "x": 28,
+        "y": 12
+      },
+      {
+        "label": "O5",
+        "x": 38,
+        "y": 20
+      }
+    ],
+    "passes": [
+      {
+        "from": "O1",
+        "to": "O2"
+      }
+    ],
+    "screens": [
+      {
+        "angle": 90,
+        "x": 29,
+        "y": 17
+      },
+      {
+        "x": 54,
+        "y": 30
+      }
+    ],
+    "shots": [],
+    "title": "Get: pin-down cut into a DHO for the shooter"
+  },
   "gameSituations": [
     "Your best shooter needs a clean three late in the shot clock — Get manufactures one in a single action.",
     "The defense goes under every screen — the Get action turns that into an open pull-up three.",

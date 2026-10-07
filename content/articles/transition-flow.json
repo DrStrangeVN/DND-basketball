@@ -1,120 +1,188 @@
 {
- "title": "Flowing Into Half-Court Offense",
- "description": "The break didn't produce a shot — now flow straight into your offense without resetting and letting the defense off the hook.",
- "hub": "transition",
- "subcategory": "transition",
- "level": "intermediate",
- "positions": [
-  "ALL"
- ],
- "ages": [
-  "U14",
-  "U16",
-  "U18",
-  "Adult"
- ],
- "readTime": 5,
- "tags": [
-  "transition",
-  "offense",
-  "flow"
- ],
- "whatIsIt": [
-  "Flowing into offense means transitioning seamlessly from the fast break into your half-court sets when no immediate shot appears — no stopping the ball, no walking it back out, no letting the defense set. The break becomes the first action of your offense, not a separate phase.",
-  "Good flow looks like this: the ball swings once, a trailing big sets a ball screen, and suddenly you're in your best PNR with the defense still backpedaling. The possession never gives the defense a breath."
- ],
- "whyItMatters": [
-  "Most transition possessions end with nothing because teams treat 'no fast-break layup' as 'reset everything.' That reset is a gift to the defense. Teams that flow score 8–12 more points per game simply by attacking before the defense finishes getting set."
- ],
- "howTo": [
-  {
-   "title": "Keep the ball moving",
-   "detail": "When the break stalls, swing the ball to the weak side immediately — one pass, not five dribbles. Ball movement keeps the defense rotating while your players sprint into spots."
-  },
-  {
-   "title": "Use the trailing big",
-   "detail": "The last player up the floor — usually a big — should flow straight into a ball screen or a DHO. He's arriving as the defense is still matching up, which is the perfect screening moment."
-  },
-  {
-   "title": "Run your early offense",
-   "detail": "Have 2–3 designated early actions (a floppy, a pistol, a drag screen) that trigger automatically when the break dies. No play call needed — the players just flow into it."
-  },
-  {
-   "title": "Attack closeouts, not set defenders",
-   "detail": "The whole point of flow is catching defenders in rotation. Drive the first closeout you see — that's the advantage the break created for you."
-  }
- ],
- "coachingPoints": [
-  "Define what 'flow' means for your team — 2-3 automatic early actions, drilled daily.",
-  "The first pass after the break stalls is the most important pass of the possession.",
-  "Never let the point guard pick up his dribble at half court to 'set things up' — that's a reset, not flow."
- ],
- "commonMistakes": [
-  "Stopping the ball at the top while everyone walks to their spots.",
-  "Running a set play that takes 10 seconds to start — the advantage is gone.",
-  "Forcing a bad transition shot instead of flowing — flow is for when the break is dead, not for bailing out."
- ],
- "gameSituations": [
-  "When the defense gets two players back but isn't fully matched up.",
-  "After a made basket — push into early offense before they set their defense.",
-  "With a deep team: flow keeps the tempo high and the defense tired."
- ],
- "related": [
-  "secondary-break",
-  "transition-offense",
-  "drag-screen-transition",
-  "first-six-seconds"
- ],
- "vi": {
-  "title": "Chuyển vào tấn công nửa sân (flow)",
-  "description": "Pha phản công không ra cú ném — giờ chảy thẳng vào hệ thống tấn công mà không dừng lại để hàng thủ thoát hiểm.",
-  "whatIsIt": [
-   "Chảy vào tấn công nghĩa là chuyển mượt từ pha phản công nhanh sang các bài tấn công nửa sân khi không có cú ném ngay — không dừng bóng, không dắt bóng lùi ra, không để hàng thủ ổn định. Pha phản công thành đòn đánh đầu tiên của hệ thống tấn công, không phải một giai đoạn riêng.",
-   "Flow tốt trông thế này: bóng đảo một lần, big chạy sau đặt screen, và đột nhiên đội đã ở bài PNR hay nhất trong lúc hàng thủ còn đang lùi. Cả đợt tấn công không cho hàng thủ một hơi thở."
-  ],
-  "whyItMatters": [
-   "Hầu hết các đợt phản công kết thúc tay trắng vì các đội coi “không có layup phản công” là “làm lại từ đầu”. Lần làm lại đó là món quà cho hàng thủ. Đội biết flow ghi thêm 8–12 điểm mỗi trận chỉ bằng cách tấn công trước khi hàng thủ kịp ổn định xong."
-  ],
-  "howTo": [
-   {
-    "title": "Giữ bóng di chuyển",
-    "detail": "Khi pha phản công chững lại, đảo bóng sang phía yếu ngay — một đường chuyền, không phải năm nhịp dẫn. Bóng di chuyển giữ hàng thủ xoay trong lúc cầu thủ chạy nước rút vào vị trí."
-   },
-   {
-    "title": "Dùng big chạy sau",
-    "detail": "Người lên sân cuối cùng — thường là big — chảy thẳng vào một screen hoặc DHO. Anh ta đến đúng lúc hàng thủ còn đang tìm người kèm, thời điểm đặt screen hoàn hảo."
-   },
-   {
-    "title": "Chạy bài tấn công sớm",
-    "detail": "Có 2–3 đòn đánh sớm cố định (floppy, pistol, drag screen) tự động kích hoạt khi pha phản công tắt. Không cần gọi bài — cầu thủ cứ chảy vào."
-   },
-   {
-    "title": "Tấn công closeout, không phải hậu vệ đã ổn định",
-    "detail": "Toàn bộ ý nghĩa của flow là bắt hậu vệ đang xoay. Đột phá qua closeout đầu tiên thấy được — đó là lợi thế pha phản công tạo ra."
-   }
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
   ],
   "coachingPoints": [
-   "Định nghĩa “flow” cho đội mình — 2–3 đòn đánh sớm tự động, tập hàng ngày.",
-   "Đường chuyền đầu tiên sau khi pha phản công chững lại là đường chuyền quan trọng nhất của đợt tấn công.",
-   "Không bao giờ để hậu vệ dẫn bóng nhấc bóng ở nửa sân để “dàn xếp” — đó là làm lại, không phải flow."
+    "Define what 'flow' means for your team — 2-3 automatic early actions, drilled daily.",
+    "The first pass after the break stalls is the most important pass of the possession.",
+    "Never let the point guard pick up his dribble at half court to 'set things up' — that's a reset, not flow."
   ],
   "commonMistakes": [
-   "Dừng bóng ở đỉnh trong lúc mọi người đi bộ về vị trí.",
-   "Chạy bài mất 10 giây mới bắt đầu — lợi thế đã bay.",
-   "Ép cú ném phản công tệ thay vì flow — flow dành cho lúc pha phản công đã chết, không phải để chữa cháy."
+    "Stopping the ball at the top while everyone walks to their spots.",
+    "Running a set play that takes 10 seconds to start — the advantage is gone.",
+    "Forcing a bad transition shot instead of flowing — flow is for when the break is dead, not for bailing out."
   ],
+  "dateUpdated": "2026-10-06",
+  "description": "The break didn't produce a shot — now flow straight into your offense without resetting and letting the defense off the hook.",
+  "diagram": {
+    "ball": "O1",
+    "defense": [
+      {
+        "label": "X1",
+        "x": 32,
+        "y": 64
+      },
+      {
+        "label": "X5",
+        "x": 50,
+        "y": 62
+      },
+      {
+        "label": "X2",
+        "x": 68,
+        "y": 62
+      }
+    ],
+    "moves": [
+      {
+        "from": "O5",
+        "kind": "screen-run",
+        "to": "O1"
+      },
+      {
+        "from": "O1",
+        "kind": "dribble",
+        "to": "rim"
+      }
+    ],
+    "offense": [
+      {
+        "label": "O1",
+        "x": 30,
+        "y": 70
+      },
+      {
+        "label": "O2",
+        "x": 70,
+        "y": 68
+      },
+      {
+        "label": "O5",
+        "x": 50,
+        "y": 88
+      },
+      {
+        "label": "O4",
+        "x": 76,
+        "y": 50
+      }
+    ],
+    "passes": [],
+    "screens": [
+      {
+        "x": 32,
+        "y": 68
+      }
+    ],
+    "shots": [
+      {
+        "x": 50,
+        "y": 5.25
+      }
+    ],
+    "title": "No reset: trailing big flows straight into the drag screen"
+  },
   "gameSituations": [
-   "Khi hàng thủ về được hai người nhưng chưa kèm xong.",
-   "Sau khi đối thủ ghi điểm — đẩy vào tấn công sớm trước khi họ dựng hàng thủ.",
-   "Với đội hình sâu: flow giữ nhịp độ cao và hàng thủ mệt."
+    "When the defense gets two players back but isn't fully matched up.",
+    "After a made basket — push into early offense before they set their defense.",
+    "With a deep team: flow keeps the tempo high and the defense tired."
   ],
+  "howTo": [
+    {
+      "detail": "When the break stalls, swing the ball to the weak side immediately — one pass, not five dribbles. Ball movement keeps the defense rotating while your players sprint into spots.",
+      "title": "Keep the ball moving"
+    },
+    {
+      "detail": "The last player up the floor — usually a big — should flow straight into a ball screen or a DHO. He's arriving as the defense is still matching up, which is the perfect screening moment.",
+      "title": "Use the trailing big"
+    },
+    {
+      "detail": "Have 2–3 designated early actions (a floppy, a pistol, a drag screen) that trigger automatically when the break dies. No play call needed — the players just flow into it.",
+      "title": "Run your early offense"
+    },
+    {
+      "detail": "The whole point of flow is catching defenders in rotation. Drive the first closeout you see — that's the advantage the break created for you.",
+      "title": "Attack closeouts, not set defenders"
+    }
+  ],
+  "hub": "transition",
+  "id": "transition-flow",
+  "level": "intermediate",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 5,
+  "related": [
+    "secondary-break",
+    "transition-offense",
+    "drag-screen-transition",
+    "first-six-seconds"
+  ],
+  "slug": "transition-flow",
+  "subcategory": "transition",
   "tags": [
-   "phản công",
-   "tấn công",
-   "chuyển trạng thái"
+    "transition",
+    "offense",
+    "flow"
+  ],
+  "title": "Flowing Into Half-Court Offense",
+  "vi": {
+    "coachingPoints": [
+      "Định nghĩa “flow” cho đội mình — 2–3 đòn đánh sớm tự động, tập hàng ngày.",
+      "Đường chuyền đầu tiên sau khi pha phản công chững lại là đường chuyền quan trọng nhất của đợt tấn công.",
+      "Không bao giờ để hậu vệ dẫn bóng nhấc bóng ở nửa sân để “dàn xếp” — đó là làm lại, không phải flow."
+    ],
+    "commonMistakes": [
+      "Dừng bóng ở đỉnh trong lúc mọi người đi bộ về vị trí.",
+      "Chạy bài mất 10 giây mới bắt đầu — lợi thế đã bay.",
+      "Ép cú ném phản công tệ thay vì flow — flow dành cho lúc pha phản công đã chết, không phải để chữa cháy."
+    ],
+    "description": "Pha phản công không ra cú ném — giờ chảy thẳng vào hệ thống tấn công mà không dừng lại để hàng thủ thoát hiểm.",
+    "gameSituations": [
+      "Khi hàng thủ về được hai người nhưng chưa kèm xong.",
+      "Sau khi đối thủ ghi điểm — đẩy vào tấn công sớm trước khi họ dựng hàng thủ.",
+      "Với đội hình sâu: flow giữ nhịp độ cao và hàng thủ mệt."
+    ],
+    "howTo": [
+      {
+        "detail": "Khi pha phản công chững lại, đảo bóng sang phía yếu ngay — một đường chuyền, không phải năm nhịp dẫn. Bóng di chuyển giữ hàng thủ xoay trong lúc cầu thủ chạy nước rút vào vị trí.",
+        "title": "Giữ bóng di chuyển"
+      },
+      {
+        "detail": "Người lên sân cuối cùng — thường là big — chảy thẳng vào một screen hoặc DHO. Anh ta đến đúng lúc hàng thủ còn đang tìm người kèm, thời điểm đặt screen hoàn hảo.",
+        "title": "Dùng big chạy sau"
+      },
+      {
+        "detail": "Có 2–3 đòn đánh sớm cố định (floppy, pistol, drag screen) tự động kích hoạt khi pha phản công tắt. Không cần gọi bài — cầu thủ cứ chảy vào.",
+        "title": "Chạy bài tấn công sớm"
+      },
+      {
+        "detail": "Toàn bộ ý nghĩa của flow là bắt hậu vệ đang xoay. Đột phá qua closeout đầu tiên thấy được — đó là lợi thế pha phản công tạo ra.",
+        "title": "Tấn công closeout, không phải hậu vệ đã ổn định"
+      }
+    ],
+    "tags": [
+      "phản công",
+      "tấn công",
+      "chuyển trạng thái"
+    ],
+    "title": "Chuyển vào tấn công nửa sân (flow)",
+    "whatIsIt": [
+      "Chảy vào tấn công nghĩa là chuyển mượt từ pha phản công nhanh sang các bài tấn công nửa sân khi không có cú ném ngay — không dừng bóng, không dắt bóng lùi ra, không để hàng thủ ổn định. Pha phản công thành đòn đánh đầu tiên của hệ thống tấn công, không phải một giai đoạn riêng.",
+      "Flow tốt trông thế này: bóng đảo một lần, big chạy sau đặt screen, và đột nhiên đội đã ở bài PNR hay nhất trong lúc hàng thủ còn đang lùi. Cả đợt tấn công không cho hàng thủ một hơi thở."
+    ],
+    "whyItMatters": [
+      "Hầu hết các đợt phản công kết thúc tay trắng vì các đội coi “không có layup phản công” là “làm lại từ đầu”. Lần làm lại đó là món quà cho hàng thủ. Đội biết flow ghi thêm 8–12 điểm mỗi trận chỉ bằng cách tấn công trước khi hàng thủ kịp ổn định xong."
+    ]
+  },
+  "whatIsIt": [
+    "Flowing into offense means transitioning seamlessly from the fast break into your half-court sets when no immediate shot appears — no stopping the ball, no walking it back out, no letting the defense set. The break becomes the first action of your offense, not a separate phase.",
+    "Good flow looks like this: the ball swings once, a trailing big sets a ball screen, and suddenly you're in your best PNR with the defense still backpedaling. The possession never gives the defense a breath."
+  ],
+  "whyItMatters": [
+    "Most transition possessions end with nothing because teams treat 'no fast-break layup' as 'reset everything.' That reset is a gift to the defense. Teams that flow score 8–12 more points per game simply by attacking before the defense finishes getting set."
   ]
- },
- "id": "transition-flow",
- "slug": "transition-flow",
- "dateUpdated": "2026-10-06"
 }

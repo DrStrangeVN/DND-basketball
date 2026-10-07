@@ -3,6 +3,81 @@
   "slug": "star-shooting",
   "title": "Star Shooting",
   "description": "A five-spot shooting drill run in star order - corner, opposite wing, top, wing, opposite corner - to train shot readiness from every angle.",
+  "diagram": {
+    "title": "Star Shooting: sprint the star, 2 per spot",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 72,
+        "y": 16
+      },
+      {
+        "label": "1",
+        "x": 72,
+        "y": 12
+      },
+      {
+        "label": "2",
+        "x": 30,
+        "y": 34
+      },
+      {
+        "label": "3",
+        "x": 50,
+        "y": 30
+      },
+      {
+        "label": "4",
+        "x": 70,
+        "y": 34
+      },
+      {
+        "label": "5",
+        "x": 28,
+        "y": 12
+      }
+    ],
+    "ball": "O1",
+    "moves": [
+      {
+        "from": "O1",
+        "to": "1",
+        "kind": "cut"
+      },
+      {
+        "from": "O1",
+        "to": "3",
+        "kind": "cut"
+      },
+      {
+        "from": "O1",
+        "to": "5",
+        "kind": "cut"
+      }
+    ],
+    "shots": [
+      {
+        "x": 72,
+        "y": 12
+      },
+      {
+        "x": 30,
+        "y": 34
+      },
+      {
+        "x": 50,
+        "y": 30
+      },
+      {
+        "x": 70,
+        "y": 34
+      },
+      {
+        "x": 28,
+        "y": 12
+      }
+    ]
+  },
   "skill": "Shooting",
   "level": "intermediate",
   "ages": [

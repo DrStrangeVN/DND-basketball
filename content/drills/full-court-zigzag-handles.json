@@ -3,6 +3,30 @@
   "slug": "full-court-zigzag-handles",
   "title": "Full-Court Zigzag Handles",
   "description": "A full-court conditioning ball-handling drill with a crossover at every cone through a 6-cone zigzag, finished with a layup.",
+  "diagram": {
+    "title": "Zigzag Handles: crossover at every cone",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 88
+      }
+    ],
+    "ball": "O1",
+    "moves": [
+      {
+        "from": "O1",
+        "to": "rim",
+        "kind": "dribble"
+      }
+    ],
+    "shots": [
+      {
+        "x": 50,
+        "y": 6
+      }
+    ]
+  },
   "skill": "Ball Handling",
   "level": "advanced",
   "ages": [

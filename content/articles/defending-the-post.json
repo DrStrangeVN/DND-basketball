@@ -19,6 +19,39 @@
   ],
   "dateUpdated": "2026-10-06",
   "description": "Front, three-quarter deny, or play behind — how to guard the post without fouling and without giving up deep position.",
+  "diagram": {
+    "ball": "O1",
+    "defense": [
+      {
+        "label": "X5",
+        "x": 55,
+        "y": 22
+      },
+      {
+        "label": "X1",
+        "x": 50,
+        "y": 55
+      }
+    ],
+    "offense": [
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 60
+      },
+      {
+        "label": "O5",
+        "x": 60,
+        "y": 14
+      },
+      {
+        "label": "O2",
+        "x": 28,
+        "y": 42
+      }
+    ],
+    "title": "Post defense: three-quarter deny"
+  },
   "gameSituations": [
     "Against a dominant post scorer — make every catch hard.",
     "Late game — no easy post touches when it matters.",

@@ -3,6 +3,49 @@
   "slug": "cone-crossover-series",
   "title": "Cone Crossover Series",
   "description": "A multi-move dribble series through cones that trains explosive change of direction, low moves, and accelerating out of each crossover.",
+  "diagram": {
+    "title": "Cone Crossover Series: low, hard, explode",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 80
+      },
+      {
+        "label": "1",
+        "x": 50,
+        "y": 70
+      },
+      {
+        "label": "2",
+        "x": 50,
+        "y": 58
+      },
+      {
+        "label": "3",
+        "x": 50,
+        "y": 46
+      },
+      {
+        "label": "4",
+        "x": 50,
+        "y": 34
+      }
+    ],
+    "ball": "O1",
+    "moves": [
+      {
+        "from": "O1",
+        "to": "2",
+        "kind": "dribble"
+      },
+      {
+        "from": "O1",
+        "to": "4",
+        "kind": "dribble"
+      }
+    ]
+  },
   "skill": "Ball Handling",
   "level": "intermediate",
   "ages": [
@@ -70,7 +113,7 @@
     "one-on-one-live"
   ],
   "dateUpdated": "2026-10-06",
-  "vi":   {
+  "vi": {
     "coachingPoints": [
       "Động tác chỉ tốt khi có cú bứt tốc sau nó — tăng tốc sau mỗi động tác, đừng chạy đều đều.",
       "Đánh lừa bằng vai và mắt trước khi chuyển bóng.",

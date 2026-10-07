@@ -20,6 +20,57 @@
   ],
   "dateUpdated": "2026-10-06",
   "description": "A hard closeout is an invitation, not a wall. Learn the one- and two-dribble moves — rip-through drives, pull-ups, and step-backs — that punish defenders flying at you.",
+  "diagram": {
+    "ball": "O1",
+    "defense": [
+      {
+        "label": "X1",
+        "x": 62,
+        "y": 42
+      },
+      {
+        "label": "X5",
+        "x": 57,
+        "y": 20
+      }
+    ],
+    "moves": [
+      {
+        "from": "X1",
+        "kind": "move",
+        "to": "O1"
+      },
+      {
+        "from": "O1",
+        "kind": "dribble",
+        "to": "rim"
+      }
+    ],
+    "offense": [
+      {
+        "label": "O1",
+        "x": 72,
+        "y": 32
+      },
+      {
+        "label": "O2",
+        "x": 40,
+        "y": 55
+      },
+      {
+        "label": "O3",
+        "x": 50,
+        "y": 24
+      }
+    ],
+    "shots": [
+      {
+        "x": 50,
+        "y": 8
+      }
+    ],
+    "title": "Attack the closeout: rip through and go"
+  },
   "gameSituations": [
     "Catching on the wing against aggressive closeouts",
     "After a kick-out when the defense is scrambling",

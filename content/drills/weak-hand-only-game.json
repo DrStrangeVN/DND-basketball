@@ -3,6 +3,41 @@
   "slug": "weak-hand-only-game",
   "title": "Weak-Hand-Only Game",
   "description": "Play live 1v1 or 3v3 where every dribble, pass, and finish must come from your weak hand — the fastest way to make it game-ready.",
+  "diagram": {
+    "title": "Weak-Hand Only: every dribble, pass, shot",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 40,
+        "y": 40
+      },
+      {
+        "label": "O2",
+        "x": 60,
+        "y": 40
+      }
+    ],
+    "defense": [
+      {
+        "label": "X1",
+        "x": 40,
+        "y": 34
+      },
+      {
+        "label": "X2",
+        "x": 60,
+        "y": 34
+      }
+    ],
+    "ball": "O1",
+    "moves": [
+      {
+        "from": "O1",
+        "to": "rim",
+        "kind": "dribble"
+      }
+    ]
+  },
   "skill": "Ball Handling",
   "level": "beginner",
   "ages": [

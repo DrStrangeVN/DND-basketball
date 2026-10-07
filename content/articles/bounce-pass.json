@@ -23,6 +23,35 @@
   ],
   "dateUpdated": "2026-10-06",
   "description": "The pass that goes under the defense — bounce it around outstretched arms and into a teammate's hands.",
+  "diagram": {
+    "title": "Bounce pass: under the defender's hands to a teammate",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 40,
+        "y": 55
+      },
+      {
+        "label": "O2",
+        "x": 62,
+        "y": 55
+      }
+    ],
+    "defense": [
+      {
+        "label": "X1",
+        "x": 50,
+        "y": 50
+      }
+    ],
+    "ball": "O1",
+    "passes": [
+      {
+        "from": "O1",
+        "to": "O2"
+      }
+    ]
+  },
   "gameSituations": [
     "Feeding the post against a fronting defender — bounce it to the low side.",
     "Against a zone defense with high hands — bounce it through the gaps.",

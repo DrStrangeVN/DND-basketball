@@ -3,6 +3,36 @@
   "slug": "box-out-battle",
   "title": "Box Out Battle",
   "description": "A competitive two-player rebounding drill: find your man, make contact, seal, and secure the board against live competition.",
+  "diagram": {
+    "title": "Box Out Battle: find, seal, pursue",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 44,
+        "y": 22
+      }
+    ],
+    "defense": [
+      {
+        "label": "X1",
+        "x": 44,
+        "y": 13
+      }
+    ],
+    "moves": [
+      {
+        "from": "X1",
+        "to": "O1",
+        "kind": "move"
+      }
+    ],
+    "shots": [
+      {
+        "x": 50,
+        "y": 8
+      }
+    ]
+  },
   "skill": "Rebounding",
   "level": "beginner",
   "ages": ["U10","U12","U14","U16","U18","Adult"],
@@ -39,6 +69,7 @@
   "gameApplication": "Rebounding is effort plus technique — teams that box out consistently end possessions and create the transition chances that win games.",
   "related": ["shell-drill","mikan-drill","transition-two-on-one"],
   "dateUpdated": "2026-10-06",
+  "video": {"title": "3 Rebounding Drills (IMG Academy)", "url": "https://www.youtube.com/watch?v=Juv9ybZ4Ibk"},
   "vi":   {
     "coachingPoints": [
       "Va chạm trước, bóng sau — ai mải nhìn bóng mà quên va chạm sẽ thua rebound.",

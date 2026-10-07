@@ -19,6 +19,77 @@
   ],
   "dateUpdated": "2026-10-06",
   "description": "Two ball screens in one action — stacked, staggered, or double-drag — that break even the best pick-and-roll coverages.",
+  "diagram": {
+    "ball": "O1",
+    "defense": [
+      {
+        "label": "X1",
+        "x": 44,
+        "y": 56
+      },
+      {
+        "label": "X4",
+        "x": 40,
+        "y": 46
+      },
+      {
+        "label": "X5",
+        "x": 56,
+        "y": 46
+      }
+    ],
+    "moves": [
+      {
+        "from": "O1",
+        "kind": "dribble",
+        "to": "rim"
+      }
+    ],
+    "offense": [
+      {
+        "label": "O1",
+        "x": 44,
+        "y": 60
+      },
+      {
+        "label": "O4",
+        "x": 40,
+        "y": 50
+      },
+      {
+        "label": "O5",
+        "x": 52,
+        "y": 50
+      },
+      {
+        "label": "O2",
+        "x": 28,
+        "y": 38
+      },
+      {
+        "label": "O3",
+        "x": 72,
+        "y": 38
+      }
+    ],
+    "screens": [
+      {
+        "x": 40,
+        "y": 50
+      },
+      {
+        "x": 52,
+        "y": 50
+      }
+    ],
+    "shots": [
+      {
+        "x": 50,
+        "y": 8
+      }
+    ],
+    "title": "Double ball screen: attack off the second"
+  },
   "gameSituations": [
     "Against elite PNR defenders who navigate single screens.",
     "Late clock — two screens manufacture one clean look.",

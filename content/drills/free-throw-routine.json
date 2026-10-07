@@ -3,6 +3,23 @@
   "slug": "free-throw-routine",
   "title": "Free Throw Routine",
   "description": "A pressure-building routine drill that turns your free throw into an automatic, repeatable ritual — then tests it under game-like stress.",
+  "diagram": {
+    "title": "Free-Throw Routine: same dribbles, same breath",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 24
+      }
+    ],
+    "ball": "O1",
+    "shots": [
+      {
+        "x": 50,
+        "y": 6
+      }
+    ]
+  },
   "skill": "Shooting",
   "level": "beginner",
   "ages": ["U10","U12","U14","U16","U18","Adult"],
@@ -38,6 +55,7 @@
   "gameApplication": "Free throws decide close games — a drilled routine lets you shoot the same shot in the fourth quarter that you shoot in warm-ups.",
   "related": ["form-shooting","spot-shooting-ladder"],
   "dateUpdated": "2026-10-06",
+  "video": {"title": "7 Best Free Throw Shooting Drills", "url": "https://www.youtube.com/watch?v=hXE4PpjSnkg"},
   "vi":   {
     "coachingPoints": [
       "Nghi thức không đổi — cùng nhịp rê, cùng tư thế, cùng hơi thở, mọi lần.",

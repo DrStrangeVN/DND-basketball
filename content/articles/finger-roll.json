@@ -21,6 +21,37 @@
   ],
   "dateUpdated": "2026-10-06",
   "description": "The high-arching, fingertip finish that floats over shot blockers — maximum reach with maximum softness.",
+  "diagram": {
+    "title": "Finger roll: extend over the defense at the rim",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 62,
+        "y": 46
+      }
+    ],
+    "defense": [
+      {
+        "label": "X1",
+        "x": 57,
+        "y": 36
+      }
+    ],
+    "ball": "O1",
+    "moves": [
+      {
+        "from": "O1",
+        "to": "rim",
+        "kind": "dribble"
+      }
+    ],
+    "shots": [
+      {
+        "x": 52,
+        "y": 8
+      }
+    ]
+  },
   "gameSituations": [
     "Beating your defender cleanly on a drive — extend past them and release where they can't reach.",
     "Transition layups when a trailer defender is chasing — release early and high.",

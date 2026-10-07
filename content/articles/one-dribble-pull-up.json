@@ -21,6 +21,42 @@
   ],
   "dateUpdated": "2026-10-06",
   "description": "One hard dribble to escape the closeout, then rise into the jumper — the essential counter for every shooter.",
+  "diagram": {
+    "title": "One-dribble pull-up: attack the closeout, rise up",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 64,
+        "y": 58
+      },
+      {
+        "label": "O2",
+        "x": 56,
+        "y": 38
+      }
+    ],
+    "defense": [
+      {
+        "label": "X1",
+        "x": 59,
+        "y": 50
+      }
+    ],
+    "ball": "O1",
+    "moves": [
+      {
+        "from": "O1",
+        "to": "O2",
+        "kind": "dribble"
+      }
+    ],
+    "shots": [
+      {
+        "x": 56,
+        "y": 38
+      }
+    ]
+  },
   "gameSituations": [
     "Attacking a hard closeout — the defender flies at you; one dribble past him creates an open pull-up.",
     "Catching with a defender in your airspace — instead of forcing a contested catch-and-shoot, dribble into space and shoot clean.",

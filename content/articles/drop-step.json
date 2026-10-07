@@ -21,6 +21,37 @@
   ],
   "dateUpdated": "2026-10-06",
   "description": "The baseline power move: one drop step past the defender's hip and you're at the rim.",
+  "diagram": {
+    "title": "Drop step: seal the defender and power to the rim",
+    "offense": [
+      {
+        "label": "O5",
+        "x": 44,
+        "y": 22
+      }
+    ],
+    "defense": [
+      {
+        "label": "X5",
+        "x": 49,
+        "y": 17
+      }
+    ],
+    "ball": "O5",
+    "moves": [
+      {
+        "from": "O5",
+        "to": "rim",
+        "kind": "move"
+      }
+    ],
+    "shots": [
+      {
+        "x": 48,
+        "y": 10
+      }
+    ]
+  },
   "gameSituations": [
     "Catching on the low block with the defender on your high side — drop baseline.",
     "Against a defender who overplays the middle — the baseline is wide open.",

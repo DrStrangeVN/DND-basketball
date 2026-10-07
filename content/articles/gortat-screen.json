@@ -17,6 +17,59 @@
   ],
   "dateUpdated": "2026-10-06",
   "description": "The screener sets one screen, then flips to set a second one facing the other way — the screen-the-screener of the PNR world.",
+  "diagram": {
+    "ball": "O1",
+    "defense": [
+      {
+        "label": "X1",
+        "x": 50,
+        "y": 47
+      },
+      {
+        "label": "X5",
+        "x": 60,
+        "y": 42
+      }
+    ],
+    "moves": [
+      {
+        "from": "O1",
+        "kind": "dribble",
+        "to": "O5"
+      },
+      {
+        "from": "O5",
+        "kind": "screen-run",
+        "to": "O1"
+      }
+    ],
+    "offense": [
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 52
+      },
+      {
+        "label": "O5",
+        "x": 56,
+        "y": 40
+      }
+    ],
+    "passes": [],
+    "screens": [
+      {
+        "x": 54,
+        "y": 45
+      },
+      {
+        "angle": 90,
+        "x": 48,
+        "y": 49
+      }
+    ],
+    "shots": [],
+    "title": "Gortat: set the screen, flip, and screen again"
+  },
   "gameSituations": [
     "Vs drop coverage that handles your first screen comfortably.",
     "Late clock: two screens in two seconds to free anyone.",

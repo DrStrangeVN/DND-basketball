@@ -20,6 +20,93 @@
   ],
   "dateUpdated": "2026-10-06",
   "description": "Score directly from under your own basket: box sets, stack alignments, and the counters that punish overplay on BLOBs.",
+  "diagram": {
+    "ball": "O4",
+    "defense": [
+      {
+        "label": "X2",
+        "x": 42,
+        "y": 27
+      },
+      {
+        "label": "X3",
+        "x": 58,
+        "y": 27
+      },
+      {
+        "label": "X1",
+        "x": 42,
+        "y": 11
+      },
+      {
+        "label": "X5",
+        "x": 58,
+        "y": 11
+      }
+    ],
+    "moves": [
+      {
+        "from": "O1",
+        "kind": "cut",
+        "to": "rim"
+      },
+      {
+        "from": "O5",
+        "kind": "cut",
+        "to": "rim"
+      }
+    ],
+    "offense": [
+      {
+        "label": "O4",
+        "x": 56,
+        "y": 3
+      },
+      {
+        "label": "O2",
+        "x": 42,
+        "y": 30
+      },
+      {
+        "label": "O3",
+        "x": 58,
+        "y": 30
+      },
+      {
+        "label": "O1",
+        "x": 42,
+        "y": 14
+      },
+      {
+        "label": "O5",
+        "x": 58,
+        "y": 14
+      }
+    ],
+    "passes": [
+      {
+        "from": "O4",
+        "to": "rim"
+      }
+    ],
+    "screens": [
+      {
+        "x": 42,
+        "y": 22
+      },
+      {
+        "x": 58,
+        "y": 22
+      }
+    ],
+    "shots": [
+      {
+        "x": 50,
+        "y": 7
+      }
+    ],
+    "title": "BLOB box: back-screen lob"
+  },
   "gameSituations": [
     "After every made basket by the opponent",
     "Dead balls under your basket",

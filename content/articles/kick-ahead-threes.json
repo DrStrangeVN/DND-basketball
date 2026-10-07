@@ -20,6 +20,64 @@
   ],
   "dateUpdated": "2026-10-06",
   "description": "The most efficient shot in transition isn't the layup — it's the kick-ahead three. Spacing, timing, and passing for open trail threes.",
+  "diagram": {
+    "ball": "O1",
+    "defense": [
+      {
+        "label": "X1",
+        "x": 50,
+        "y": 58
+      },
+      {
+        "label": "X2",
+        "x": 72,
+        "y": 38
+      }
+    ],
+    "moves": [
+      {
+        "from": "O1",
+        "kind": "dribble",
+        "to": "O2"
+      },
+      {
+        "from": "O3",
+        "kind": "move",
+        "to": "O1"
+      }
+    ],
+    "offense": [
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 64
+      },
+      {
+        "label": "O3",
+        "x": 36,
+        "y": 68
+      },
+      {
+        "label": "O2",
+        "x": 76,
+        "y": 40
+      }
+    ],
+    "passes": [
+      {
+        "from": "O1",
+        "to": "O3"
+      }
+    ],
+    "screens": [],
+    "shots": [
+      {
+        "x": 50,
+        "y": 60
+      }
+    ],
+    "title": "Kick-ahead three: hit the trailer in stride"
+  },
   "gameSituations": [
     "When the defense loads up to stop the rim",
     "With shooters who trail the break",

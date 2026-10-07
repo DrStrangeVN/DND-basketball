@@ -22,6 +22,63 @@
   ],
   "dateUpdated": "2026-10-06",
   "description": "The advance pass: throw the ball ahead of the break to beat the defense down the floor — timing, targets, and technique.",
+  "diagram": {
+    "ball": "O5",
+    "defense": [
+      {
+        "label": "X1",
+        "x": 55,
+        "y": 38
+      },
+      {
+        "label": "X2",
+        "x": 45,
+        "y": 58
+      }
+    ],
+    "moves": [
+      {
+        "from": "O2",
+        "kind": "cut",
+        "to": "rim"
+      }
+    ],
+    "offense": [
+      {
+        "label": "O5",
+        "x": 38,
+        "y": 14
+      },
+      {
+        "label": "O2",
+        "x": 62,
+        "y": 55
+      },
+      {
+        "label": "O1",
+        "x": 30,
+        "y": 42
+      },
+      {
+        "label": "O3",
+        "x": 72,
+        "y": 34
+      }
+    ],
+    "passes": [
+      {
+        "from": "O5",
+        "to": "rim"
+      }
+    ],
+    "shots": [
+      {
+        "x": 50,
+        "y": 7
+      }
+    ],
+    "title": "Advance pass: throw it ahead of the break"
+  },
   "gameSituations": [
     "Right after a defensive rebound when a wing is already sprinting",
     "After a steal with numbers ahead of the ball",

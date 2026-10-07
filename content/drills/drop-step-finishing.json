@@ -3,6 +3,37 @@
   "slug": "drop-step-finishing",
   "title": "Drop Step Finishing",
   "description": "The big man's bread and butter: catch on the block, feel the defender, drop-step baseline or middle, and finish through contact.",
+  "diagram": {
+    "title": "Drop Step: baseline and middle finishes",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 58,
+        "y": 12
+      }
+    ],
+    "defense": [
+      {
+        "label": "X1",
+        "x": 58,
+        "y": 16
+      }
+    ],
+    "ball": "O1",
+    "moves": [
+      {
+        "from": "O1",
+        "to": "rim",
+        "kind": "move"
+      }
+    ],
+    "shots": [
+      {
+        "x": 50,
+        "y": 6
+      }
+    ]
+  },
   "skill": "Footwork",
   "level": "intermediate",
   "ages": [

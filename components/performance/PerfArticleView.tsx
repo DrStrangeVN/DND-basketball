@@ -19,6 +19,7 @@ const HUB_KEYS: Record<PerfHubId, string> = {
   nutrition: "nutrition",
   hydration: "hydration",
   "injury-prevention": "injuryPrevention",
+  "mental-performance": "mentalPerformance",
 };
 
 function localize(a: PerformanceArticle, lang: Lang) {
