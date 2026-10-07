@@ -6,7 +6,7 @@ import CourtDiagram from "./CourtDiagram";
 import type { CourtVisionCard as CVC } from "@/lib/types";
 import { useLanguage, pick } from "@/lib/i18n";
 
-export default function CourtVisionCard({ card, learnUrl }: { card: CVC; learnUrl: string }) {
+export default function CourtVisionCard({ card, learnUrl, onAnswered }: { card: CVC; learnUrl: string; onAnswered?: (correct: boolean) => void }) {
   const [picked, setPicked] = useState<number | null>(null);
   const [revealed, setRevealed] = useState(false);
   const { lang, t } = useLanguage();
@@ -47,7 +47,7 @@ export default function CourtVisionCard({ card, learnUrl }: { card: CVC; learnUr
       </div>
 
       {!revealed ? (
-        <button onClick={() => setRevealed(true)} disabled={picked === null}
+        <button onClick={() => { setRevealed(true); onAnswered?.(picked === card.correctIndex); }} disabled={picked === null}
           className="neu-btn mt-4 inline-flex items-center justify-center gap-1 px-5 py-2.5 text-sm font-bold text-[color:var(--orange)] disabled:opacity-40">
           {t("courtVision.check")} <ChevronDown className="h-4 w-4" aria-hidden />
         </button>

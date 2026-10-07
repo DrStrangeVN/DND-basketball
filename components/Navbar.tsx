@@ -14,11 +14,13 @@ type TopLink = { labelKey: string; href: string; menu: SubLink[] };
 const TOP_LINKS: TopLink[] = [
   {
     labelKey: "nav.learn", href: "/learn", menu: [
+      { labelKey: "nav.quiz", href: "/quiz" },
       { labelKey: "nav.fundamentals", href: "/fundamentals" },
       { labelKey: "nav.skills", href: "/skills" },
       { labelKey: "nav.basketballIq", href: "/basketball-iq" },
       { labelKey: "nav.positions", href: "/positions" },
       { labelKey: "nav.glossary", href: "/glossary" },
+      { labelKey: "nav.flashcards", href: "/flashcards" },
     ],
   },
   {
@@ -83,6 +85,7 @@ const TOP_LINKS: TopLink[] = [
       { labelKey: "nav.coachesCorner", href: "/coaching" },
       { labelKey: "nav.drillLibrary", href: "/drills" },
       { labelKey: "nav.workouts", href: "/workouts" },
+      { labelKey: "nav.trainingLog", href: "/log" },
       { labelKey: "nav.learningPaths", href: "/learning-paths" },
       { labelKey: "nav.filmRoom", href: "/film-room" },
     ],

@@ -3,14 +3,14 @@ import Link from "next/link";
 import { useState } from "react";
 import {
   Volleyball, Target, Brain, Network, Dumbbell, Clapperboard, Shield, Zap,
-  ClipboardList, ArrowRight, Sparkles, Flame, RefreshCw, Salad, Droplets, ShieldPlus,
+  ClipboardList, ArrowRight, Sparkles, Flame, RefreshCw, Salad, Droplets, ShieldPlus, Compass,
 } from "lucide-react";
 import type { ArticleCardData, DrillCardData, LearningPath, FilmVideo, CourtVisionCard as CourtVisionCardT } from "@/lib/types";
 import { articleUrl } from "@/lib/urls";
 import { useLanguage, pick } from "@/lib/i18n";
 import MetaSync from "@/components/MetaSync";
 import CourtDiagram from "@/components/CourtDiagram";
-import CourtVisionCard from "@/components/CourtVisionCard";
+import CourtVisionQuiz from "@/components/CourtVisionQuiz";
 import HeroSearch from "@/components/HeroSearch";
 import { SectionTitle } from "@/components/ui";
 import { KnowledgeCard, DrillCard, PathCard, FilmCard, ExploreCard } from "@/components/cards";
@@ -134,6 +134,18 @@ export default function HomeClient({ data }: { data: HomeData }) {
             <span><strong className="text-lg font-extrabold">{data.drillsCount}</strong> <span className="text-[color:var(--muted)]">{t("home.stats.drills")}</span></span>
             <span><strong className="text-lg font-extrabold">{data.pathsCount}</strong> <span className="text-[color:var(--muted)]">{t("home.stats.paths")}</span></span>
           </div>
+          <Link href="/quiz" className="neu-sm group mt-5 flex items-center gap-3 p-3.5 text-left">
+            <span className="flex h-10 w-10 shrink-0 items-center justify-center rounded-full bg-[color:var(--orange-soft)]">
+              <Compass className="h-5 w-5 text-[color:var(--orange)]" aria-hidden />
+            </span>
+            <span className="flex-1">
+              <span className="block text-[14px] font-extrabold">{t("quiz.home.cta.title")}</span>
+              <span className="block text-[12.5px] leading-snug text-[color:var(--muted)]">{t("quiz.home.cta.desc")}</span>
+            </span>
+            <span className="inline-flex shrink-0 items-center gap-1 text-[13px] font-bold text-[color:var(--orange)]">
+              {t("quiz.home.cta.button")} <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-0.5" aria-hidden />
+            </span>
+          </Link>
         </div>
         <div className="neu-inset p-4 sm:p-5">
           <CourtDiagram diagram={HERO_DIAGRAM} />
@@ -238,9 +250,7 @@ export default function HomeClient({ data }: { data: HomeData }) {
       {/* COURT VISION */}
       <section aria-labelledby="vision-h">
         <div id="vision-h"><SectionTitle eyebrow={t("home.vision.eyebrow")} title={t("home.courtVision.title")} description={t("home.vision.desc")} /></div>
-        <div className="grid gap-4 md:grid-cols-2">
-          {vision.map(({ card, learnUrl }) => <CourtVisionCard key={card.id} card={card} learnUrl={learnUrl} />)}
-        </div>
+        <CourtVisionQuiz items={vision} />
       </section>
 
       {/* LEARNING PATHS */}
@@ -289,9 +299,14 @@ export default function HomeClient({ data }: { data: HomeData }) {
         <p className="mx-auto mt-2 max-w-xl text-[15px] text-[color:var(--muted)]">
           {t("home.workoutsCta.desc").replace("{n}", String(workoutsCount))}
         </p>
-        <Link href="/workouts" className="neu-btn-primary mt-5 inline-flex items-center gap-2 px-6 py-3 text-[15px] font-bold">
-          {t("home.workoutsCta.button")} <ArrowRight className="h-4 w-4" aria-hidden />
-        </Link>
+        <div className="mt-5 flex flex-wrap items-center justify-center gap-3">
+          <Link href="/workouts" className="neu-btn-primary inline-flex items-center gap-2 px-6 py-3 text-[15px] font-bold">
+            {t("home.workoutsCta.button")} <ArrowRight className="h-4 w-4" aria-hidden />
+          </Link>
+          <Link href="/log" className="neu-btn inline-flex items-center gap-2 rounded-full px-6 py-3 text-[15px] font-bold text-[color:var(--orange)]">
+            {t("home.workoutsCta.logButton")} <ArrowRight className="h-4 w-4" aria-hidden />
+          </Link>
+        </div>
       </section>
     </div>
   );

@@ -1,4 +1,6 @@
 "use client";
+import Link from "next/link";
+import { Layers } from "lucide-react";
 import { Breadcrumbs } from "@/components/ui";
 import GlossaryBrowser, { type GlossaryEntry } from "@/components/GlossaryBrowser";
 import { useLanguage } from "@/lib/i18n";
@@ -14,6 +16,13 @@ export default function GlossaryPageClient({ terms }: { terms: GlossaryEntry[] }
         <p className="mt-2 max-w-2xl text-[15px] text-[color:var(--muted)]">
           {t("glossary.subtitle")}
         </p>
+        <Link
+          href="/flashcards"
+          className="neu-btn mt-4 inline-flex items-center gap-2 rounded-2xl bg-[color:var(--orange)] px-6 py-3 text-[15px] font-extrabold text-white"
+        >
+          <Layers className="h-5 w-5" aria-hidden />
+          {t("glossary.flashcardsCta")}
+        </Link>
       </header>
       <GlossaryBrowser terms={terms} />
     </div>
