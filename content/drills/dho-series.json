@@ -3,6 +3,41 @@
   "slug": "dho-series",
   "title": "DHO Series",
   "description": "The dribble handoff with all three reads: keep it and turn the corner, reject it backdoor, or snake back middle when the defense overplays.",
+  "diagram": {
+    "title": "DHO: take the handoff, turn the corner",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 66,
+        "y": 34
+      },
+      {
+        "label": "O2",
+        "x": 56,
+        "y": 44
+      }
+    ],
+    "defense": [
+      {
+        "label": "X2",
+        "x": 56,
+        "y": 40
+      }
+    ],
+    "ball": "O1",
+    "moves": [
+      {
+        "from": "O1",
+        "to": "O2",
+        "kind": "dribble"
+      },
+      {
+        "from": "O2",
+        "to": "rim",
+        "kind": "cut"
+      }
+    ]
+  },
   "skill": "Passing",
   "level": "intermediate",
   "ages": [

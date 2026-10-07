@@ -3,12 +3,48 @@
   "slug": "closeout-drill",
   "title": "Closeout & Contest",
   "description": "A two-player drill that trains the sprint-to-shooter closeout: balanced arrival, high hands, and contesting without fouling.",
+  "diagram": {
+    "title": "Closeout: sprint from the paint to the wing",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 70,
+        "y": 30
+      }
+    ],
+    "defense": [
+      {
+        "label": "X1",
+        "x": 50,
+        "y": 12
+      }
+    ],
+    "ball": "O1",
+    "moves": [
+      {
+        "from": "X1",
+        "to": "O1",
+        "kind": "move"
+      }
+    ]
+  },
   "skill": "Defense",
   "level": "intermediate",
-  "ages": ["U12","U14","U16","U18","Adult","Competitive"],
-  "positions": ["ALL"],
+  "ages": [
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult",
+    "Competitive"
+  ],
+  "positions": [
+    "ALL"
+  ],
   "players": "2",
-  "equipment": ["Basketball"],
+  "equipment": [
+    "Basketball"
+  ],
   "durationMin": 10,
   "intensity": "medium",
   "goal": "Build a disciplined closeout — sprint under control, arrive balanced, and contest the shot without giving up the drive.",
@@ -18,11 +54,26 @@
     "Rotate roles every 5 reps so both players practice closeouts."
   ],
   "instructions": [
-    {"title": "Sprint to the shooter", "detail": "On the pass, the defender sprints from the paint to the wing, chopping steps in the last 3-4 feet to stay balanced."},
-    {"title": "Arrive with high hands", "detail": "Close out with one hand high to contest the shot and the other hand low to discourage the drive."},
-    {"title": "React to the offense", "detail": "If the offense shoots, contest vertically without jumping into them; if they drive, slide and contain."},
-    {"title": "Finish the possession", "detail": "Play the rep live until a shot goes up, then box out and rebound — every rep ends with a box-out."},
-    {"title": "Switch angles", "detail": "Move the starting spot: wing, corner, top — 5 reps each, then swap roles."}
+    {
+      "title": "Sprint to the shooter",
+      "detail": "On the pass, the defender sprints from the paint to the wing, chopping steps in the last 3-4 feet to stay balanced."
+    },
+    {
+      "title": "Arrive with high hands",
+      "detail": "Close out with one hand high to contest the shot and the other hand low to discourage the drive."
+    },
+    {
+      "title": "React to the offense",
+      "detail": "If the offense shoots, contest vertically without jumping into them; if they drive, slide and contain."
+    },
+    {
+      "title": "Finish the possession",
+      "detail": "Play the rep live until a shot goes up, then box out and rebound — every rep ends with a box-out."
+    },
+    {
+      "title": "Switch angles",
+      "detail": "Move the starting spot: wing, corner, top — 5 reps each, then swap roles."
+    }
   ],
   "coachingPoints": [
     "Sprint the first 80% of the closeout, then chop your steps — flying past the shooter is worse than arriving late.",
@@ -37,9 +88,13 @@
   "progression": "Offense gets a live dribble after the catch, defender must close out from farther (paint to corner), or add a second offensive player for closeout-and-recover reps.",
   "regression": "Offense is shoot-only (no drive), defender starts closer, or walk through the closeout footwork first.",
   "gameApplication": "Every defensive possession involves a closeout — disciplined closeouts turn open threes into contested misses without surrendering blow-bys.",
-  "related": ["shell-drill","one-on-one-live","three-man-weave"],
+  "related": [
+    "shell-drill",
+    "one-on-one-live",
+    "three-man-weave"
+  ],
   "dateUpdated": "2026-10-06",
-  "vi":   {
+  "vi": {
     "coachingPoints": [
       "Lao nhanh 80% quãng đường closeout rồi chuyển sang bước ngắn — bay qua người ném còn tệ hơn đến muộn.",
       "Hạ thấp trọng tâm, chân rộng khi tiếp cận; closeout đứng thẳng sẽ bị qua mặt ngay.",

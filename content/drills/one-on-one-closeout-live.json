@@ -3,6 +3,42 @@
   "slug": "one-on-one-closeout-live",
   "title": "Live 1v1 Closeouts",
   "description": "Close out and guard live: sprint from the paint to contest a catch on the wing, then play 1v1 live — the closest thing to real game defense.",
+  "diagram": {
+    "title": "Closeout, then live 1v1",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 68,
+        "y": 32
+      }
+    ],
+    "defense": [
+      {
+        "label": "X1",
+        "x": 50,
+        "y": 12
+      }
+    ],
+    "ball": "O1",
+    "moves": [
+      {
+        "from": "X1",
+        "to": "O1",
+        "kind": "move"
+      },
+      {
+        "from": "O1",
+        "to": "rim",
+        "kind": "dribble"
+      }
+    ],
+    "shots": [
+      {
+        "x": 50,
+        "y": 5.25
+      }
+    ]
+  },
   "skill": "Defense",
   "level": "advanced",
   "ages": [

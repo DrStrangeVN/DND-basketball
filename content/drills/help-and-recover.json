@@ -3,6 +3,62 @@
   "slug": "help-and-recover",
   "title": "Help and Recover",
   "description": "Master the stunt-and-recover: help on the drive for a heartbeat, then sprint back to contest your shooter.",
+  "diagram": {
+    "title": "Drive draws help, kick-out, sprint recover",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 44
+      },
+      {
+        "label": "O2",
+        "x": 68,
+        "y": 30
+      },
+      {
+        "label": "O3",
+        "x": 32,
+        "y": 30
+      }
+    ],
+    "defense": [
+      {
+        "label": "X1",
+        "x": 50,
+        "y": 38
+      },
+      {
+        "label": "X2",
+        "x": 64,
+        "y": 30
+      },
+      {
+        "label": "X3",
+        "x": 38,
+        "y": 28
+      }
+    ],
+    "ball": "O1",
+    "moves": [
+      {
+        "from": "O1",
+        "to": "rim",
+        "kind": "dribble"
+      },
+      {
+        "from": "X3",
+        "to": "O3",
+        "kind": "move"
+      }
+    ],
+    "passes": [
+      {
+        "from": "O1",
+        "to": "O3"
+      }
+    ]
+  },
   "skill": "Defense",
   "level": "advanced",
   "ages": [

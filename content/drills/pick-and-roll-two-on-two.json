@@ -3,12 +3,67 @@
   "slug": "pick-and-roll-two-on-two",
   "title": "2-on-2 Pick & Roll",
   "description": "Live two-on-two from a ball screen: the ball handler reads the coverage while the roller and defenders battle through every coverage type.",
+  "diagram": {
+    "title": "Pick & roll: use the screen, roller dives",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 48
+      },
+      {
+        "label": "O2",
+        "x": 56,
+        "y": 38
+      }
+    ],
+    "defense": [
+      {
+        "label": "X1",
+        "x": 50,
+        "y": 44
+      },
+      {
+        "label": "X2",
+        "x": 60,
+        "y": 34
+      }
+    ],
+    "ball": "O1",
+    "screens": [
+      {
+        "x": 54,
+        "y": 42
+      }
+    ],
+    "moves": [
+      {
+        "from": "O1",
+        "to": "rim",
+        "kind": "dribble"
+      },
+      {
+        "from": "O2",
+        "to": "rim",
+        "kind": "cut"
+      }
+    ]
+  },
   "skill": "Finishing",
   "level": "advanced",
-  "ages": ["U16","U18","Adult","Competitive"],
-  "positions": ["ALL"],
+  "ages": [
+    "U16",
+    "U18",
+    "Adult",
+    "Competitive"
+  ],
+  "positions": [
+    "ALL"
+  ],
   "players": "4",
-  "equipment": ["Basketball"],
+  "equipment": [
+    "Basketball"
+  ],
   "durationMin": 15,
   "intensity": "high",
   "goal": "Develop live pick-and-roll reads — ball handler decisions, roller timing, and defensive coverages — in a competitive 2-on-2 setting.",
@@ -18,11 +73,26 @@
     "Play to a set score (e.g., first to 7) with makes and stops both counting."
   ],
   "instructions": [
-    {"title": "Set the screen with purpose", "detail": "Screener sprints to set a legal, angled screen — no slipping early unless the coverage invites it."},
-    {"title": "Ball handler reads the coverage", "detail": "Use the screen and read the two defenders: reject if they cheat, snake if they trail, split if they hedge soft."},
-    {"title": "Roller times the roll", "detail": "Roller holds the screen for a two-count, then rolls hard to the rim with hands ready — or pops if the coverage drops deep."},
-    {"title": "Play it live", "detail": "Play the possession out — the offense can pass, drive, or shoot; the defense must communicate the coverage and rotate."},
-    {"title": "Rotate coverages", "detail": "Change the called coverage every 3 reps so the offense sees drop, hedge, switch, and blitz in one session."}
+    {
+      "title": "Set the screen with purpose",
+      "detail": "Screener sprints to set a legal, angled screen — no slipping early unless the coverage invites it."
+    },
+    {
+      "title": "Ball handler reads the coverage",
+      "detail": "Use the screen and read the two defenders: reject if they cheat, snake if they trail, split if they hedge soft."
+    },
+    {
+      "title": "Roller times the roll",
+      "detail": "Roller holds the screen for a two-count, then rolls hard to the rim with hands ready — or pops if the coverage drops deep."
+    },
+    {
+      "title": "Play it live",
+      "detail": "Play the possession out — the offense can pass, drive, or shoot; the defense must communicate the coverage and rotate."
+    },
+    {
+      "title": "Rotate coverages",
+      "detail": "Change the called coverage every 3 reps so the offense sees drop, hedge, switch, and blitz in one session."
+    }
   ],
   "coachingPoints": [
     "The screen angle decides everything — a flat screen lets the defender slide through; an angled screen forces a real decision.",
@@ -37,9 +107,13 @@
   "progression": "Add a third defender as a low-man tagger (2-on-3), let the defense choose coverage without announcing it, or play full-court 2-on-2 starting with a ball screen.",
   "regression": "Walk through each coverage first, go 2-on-1 with only the ball-handler's defender live, or script the read (e.g., 'today we only attack the drop').",
   "gameApplication": "The pick-and-roll is the most-run action in modern basketball — live 2-on-2 reps build the reads that turn ball screens into efficient offense.",
-  "related": ["one-on-one-live","shell-drill","closeout-drill"],
+  "related": [
+    "one-on-one-live",
+    "shell-drill",
+    "closeout-drill"
+  ],
   "dateUpdated": "2026-10-06",
-  "vi":   {
+  "vi": {
     "coachingPoints": [
       "Góc screen quyết định mọi thứ — screen bẹt để hậu vệ lách qua; screen có góc ép họ phải quyết định thật.",
       "Người cầm bóng: dùng screen là đi thẳng xuống rổ — trôi ngang là cho cả hai hậu vệ kịp hồi.",

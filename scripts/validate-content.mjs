@@ -5,7 +5,9 @@ import { join } from "node:path";
 
 const CONTENT = process.env.DND_CONTENT ?? "/home/hatch/workspace/dnd-content";
 const errors = [];
+const warnings = [];
 const err = (m) => errors.push(m);
+const warn = (m) => warnings.push(m);
 const read = (p) => JSON.parse(readFileSync(p, "utf8"));
 const list = (dir) => existsSync(join(CONTENT, dir)) ? readdirSync(join(CONTENT, dir)).filter((f) => f.endsWith(".json")) : [];
 
@@ -50,6 +52,13 @@ for (const { file, data: d } of drills) {
   if (drillSlugs.has(d.slug)) err(`duplicate drill slug: ${d.slug}`);
   drillSlugs.add(d.slug);
   if (!LEVELS.includes(d.level)) err(`drills/${file}: bad level`);
+  if (d.diagram) {
+    const dg = d.diagram;
+    const labels = new Set([...(dg.offense ?? []).map((m) => m.label), ...(dg.defense ?? []).map((m) => m.label), "rim"]);
+    for (const m of [...(dg.moves ?? []), ...(dg.passes ?? [])]) {
+      if (!labels.has(m.from) || !labels.has(m.to)) warn(`drills/${file}: diagram references unknown marker ${m.from}->${m.to}`);
+    }
+  }
 }
 for (const { file, data: d } of drills) for (const r of d.related ?? []) if (!drillSlugs.has(r)) err(`drills/${file}: related "${r}" missing`);
 
@@ -139,5 +148,6 @@ for (const { file, data: p } of perfs) {
 console.log(`performance: ${perfs.length} articles (${PERF_HUBS.length} hubs)`);
 
 console.log(`articles: ${articles.length}, drills: ${drills.length}, workouts: ${workouts.length}, paths: ${paths.length}`);
+if (warnings.length) { console.warn(`\n${warnings.length} WARNINGS:`); warnings.forEach((w) => console.warn(" - " + w)); }
 if (errors.length) { console.error(`\n${errors.length} ERRORS:`); errors.forEach((e) => console.error(" - " + e)); process.exit(1); }
 console.log("CONTENT OK");

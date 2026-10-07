@@ -3,6 +3,29 @@
   "slug": "outlet-passing-race",
   "title": "Outlet Passing Race",
   "description": "Turn defensive rebounds into instant fast breaks: grab the board, pivot, and fire a two-handed outlet pass to a sprinter in a head-to-head race.",
+  "diagram": {
+    "title": "Rebound, pivot, lead pass to the sprinter",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 12
+      },
+      {
+        "label": "O2",
+        "x": 35,
+        "y": 55
+      }
+    ],
+    "defense": [],
+    "ball": "O1",
+    "passes": [
+      {
+        "from": "O1",
+        "to": "O2"
+      }
+    ]
+  },
   "skill": "Passing",
   "level": "intermediate",
   "ages": [

@@ -3,12 +3,67 @@
   "slug": "three-man-weave",
   "title": "3-Man Weave",
   "description": "The classic three-player full-court passing drill that trains lead passes, catching on the move, and communication at speed.",
+  "diagram": {
+    "title": "Pass and cut behind up the floor",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 85
+      },
+      {
+        "label": "O2",
+        "x": 38,
+        "y": 85
+      },
+      {
+        "label": "O3",
+        "x": 62,
+        "y": 85
+      }
+    ],
+    "defense": [],
+    "ball": "O1",
+    "moves": [
+      {
+        "from": "O1",
+        "to": "O2",
+        "kind": "cut"
+      },
+      {
+        "from": "O2",
+        "to": "O3",
+        "kind": "cut"
+      }
+    ],
+    "passes": [
+      {
+        "from": "O1",
+        "to": "O2"
+      },
+      {
+        "from": "O2",
+        "to": "O3"
+      }
+    ]
+  },
   "skill": "Passing",
   "level": "beginner",
-  "ages": ["U10","U12","U14","U16","U18","Adult"],
-  "positions": ["ALL"],
+  "ages": [
+    "U10",
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "ALL"
+  ],
   "players": "3+",
-  "equipment": ["Basketball"],
+  "equipment": [
+    "Basketball"
+  ],
   "durationMin": 10,
   "intensity": "medium",
   "goal": "Develop accurate lead passing and full-speed catching while running the floor in a coordinated three-man pattern.",
@@ -18,11 +73,26 @@
     "Two balls can be used with larger groups to keep everyone moving."
   ],
   "instructions": [
-    {"title": "Pass and cut behind", "detail": "Middle player passes to a wing and cuts behind that receiver; the wing then passes to the opposite wing cutting behind in turn."},
-    {"title": "Keep it moving downcourt", "detail": "Continue the pass-and-go-behind pattern the full length of the court — the ball should never stop."},
-    {"title": "Finish with a layup", "detail": "The player who receives the final pass near the rim finishes a layup; the other two follow for the rebound and putback."},
-    {"title": "Rotate and go again", "detail": "The next trio starts as soon as the first crosses half-court; each group runs 4 trips down the floor."},
-    {"title": "No-dribble challenge", "detail": "Final round: the ball cannot touch the floor at all — every pass must lead the runner perfectly."}
+    {
+      "title": "Pass and cut behind",
+      "detail": "Middle player passes to a wing and cuts behind that receiver; the wing then passes to the opposite wing cutting behind in turn."
+    },
+    {
+      "title": "Keep it moving downcourt",
+      "detail": "Continue the pass-and-go-behind pattern the full length of the court — the ball should never stop."
+    },
+    {
+      "title": "Finish with a layup",
+      "detail": "The player who receives the final pass near the rim finishes a layup; the other two follow for the rebound and putback."
+    },
+    {
+      "title": "Rotate and go again",
+      "detail": "The next trio starts as soon as the first crosses half-court; each group runs 4 trips down the floor."
+    },
+    {
+      "title": "No-dribble challenge",
+      "detail": "Final round: the ball cannot touch the floor at all — every pass must lead the runner perfectly."
+    }
   ],
   "coachingPoints": [
     "Pass to where the runner is going, not where they are — lead the target by two steps.",
@@ -37,9 +107,12 @@
   "progression": "No-dribble the entire drill, add a trailing defender chasing the ball, or finish with a pull-up jumper instead of a layup.",
   "regression": "Walk through the pattern first, allow one dribble per catch, or shorten to half-court weaves.",
   "gameApplication": "Fast breaks live and die on lead passes — this drill builds the timing and accuracy that turn defensive stops into easy baskets.",
-  "related": ["skip-pass-shooting","transition-two-on-one"],
+  "related": [
+    "skip-pass-shooting",
+    "transition-two-on-one"
+  ],
   "dateUpdated": "2026-10-06",
-  "vi":   {
+  "vi": {
     "coachingPoints": [
       "Chuyền tới nơi người chạy sẽ tới, không phải nơi họ đang đứng — dẫn trước mục tiêu hai bước.",
       "Chuyền ngực có búng tay; chuyền bổng làm chậm cả bài.",

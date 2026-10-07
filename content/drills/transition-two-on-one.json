@@ -3,12 +3,70 @@
   "slug": "transition-two-on-one",
   "title": "2-on-1 Transition",
   "description": "A continuous fast-break drill: two attackers push against one retreating defender, learning to draw the defender and finish numbers advantages.",
+  "diagram": {
+    "title": "2v1: push, draw the defender, simple finish",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 40,
+        "y": 80
+      },
+      {
+        "label": "O2",
+        "x": 60,
+        "y": 80
+      }
+    ],
+    "defense": [
+      {
+        "label": "X1",
+        "x": 50,
+        "y": 55
+      }
+    ],
+    "ball": "O1",
+    "moves": [
+      {
+        "from": "O1",
+        "to": "rim",
+        "kind": "dribble"
+      },
+      {
+        "from": "O2",
+        "to": "rim",
+        "kind": "cut"
+      }
+    ],
+    "passes": [
+      {
+        "from": "O1",
+        "to": "O2"
+      }
+    ],
+    "shots": [
+      {
+        "x": 50,
+        "y": 5.25
+      }
+    ]
+  },
   "skill": "Conditioning",
   "level": "intermediate",
-  "ages": ["U12","U14","U16","U18","Adult","Competitive"],
-  "positions": ["ALL"],
+  "ages": [
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult",
+    "Competitive"
+  ],
+  "positions": [
+    "ALL"
+  ],
   "players": "3+",
-  "equipment": ["Basketball"],
+  "equipment": [
+    "Basketball"
+  ],
   "durationMin": 10,
   "intensity": "high",
   "goal": "Train attacking 2-on-1 advantages at speed: draw the defender, make the simple pass, and finish — then sprint back on defense.",
@@ -18,11 +76,26 @@
     "After the rep, the two offensive players become the next defenders and sprint back."
   ],
   "instructions": [
-    {"title": "Push the ball up the floor", "detail": "The ball-handler advances quickly up the sideline while the second attacker runs the opposite lane wide."},
-    {"title": "Draw the defender", "detail": "Attack the lone defender's shoulder — force them to commit to you before making any pass."},
-    {"title": "Make the simple play", "detail": "Pass to the open teammate for the layup, or keep it and finish if the defender takes the pass away. No fancy passes."},
-    {"title": "Sprint back on defense", "detail": "After the finish, both attackers sprint back to become the next 2-on-1 defenders — the drill never stops."},
-    {"title": "Run continuous waves", "detail": "Keep waves coming for 10 minutes; count team makes and challenge the group to beat their best streak."}
+    {
+      "title": "Push the ball up the floor",
+      "detail": "The ball-handler advances quickly up the sideline while the second attacker runs the opposite lane wide."
+    },
+    {
+      "title": "Draw the defender",
+      "detail": "Attack the lone defender's shoulder — force them to commit to you before making any pass."
+    },
+    {
+      "title": "Make the simple play",
+      "detail": "Pass to the open teammate for the layup, or keep it and finish if the defender takes the pass away. No fancy passes."
+    },
+    {
+      "title": "Sprint back on defense",
+      "detail": "After the finish, both attackers sprint back to become the next 2-on-1 defenders — the drill never stops."
+    },
+    {
+      "title": "Run continuous waves",
+      "detail": "Keep waves coming for 10 minutes; count team makes and challenge the group to beat their best streak."
+    }
   ],
   "coachingPoints": [
     "The defender can only guard one player — attack their commitment and take what they give you.",
@@ -37,9 +110,13 @@
   "progression": "Make it 2-on-1 plus a trailing defender (2-on-2), require the finish within 5 seconds, or start the offense from a defensive rebound outlet.",
   "regression": "Walk through the lanes first, remove the sprint-back requirement, or run it 2-on-0 to groove the spacing.",
   "gameApplication": "Games are won in transition — this drill builds the decision-making and finishing that turn defensive stops into layups before the defense sets.",
-  "related": ["three-man-weave","full-court-finishing","one-on-one-live"],
+  "related": [
+    "three-man-weave",
+    "full-court-finishing",
+    "one-on-one-live"
+  ],
   "dateUpdated": "2026-10-06",
-  "vi":   {
+  "vi": {
     "coachingPoints": [
       "Hậu vệ chỉ kèm được một người — đánh vào quyết định của họ, lấy thứ họ dâng.",
       "Chuyền phải đúng lúc, đúng tầm; chuyền muộn trong 2-đánh-1 cho hậu vệ kịp hồi.",

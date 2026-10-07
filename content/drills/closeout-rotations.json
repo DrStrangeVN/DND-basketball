@@ -3,6 +3,62 @@
   "slug": "closeout-rotations",
   "title": "Closeout Rotations",
   "description": "3v3 closeout and rotate: sprint to contest the skip pass, then rotate on the drive — training the two hardest defensive movements back to back.",
+  "diagram": {
+    "title": "Skip pass triggers closeout and rotation",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 42
+      },
+      {
+        "label": "O2",
+        "x": 30,
+        "y": 26
+      },
+      {
+        "label": "O3",
+        "x": 24,
+        "y": 10
+      }
+    ],
+    "defense": [
+      {
+        "label": "X1",
+        "x": 50,
+        "y": 36
+      },
+      {
+        "label": "X2",
+        "x": 38,
+        "y": 28
+      },
+      {
+        "label": "X3",
+        "x": 44,
+        "y": 18
+      }
+    ],
+    "ball": "O1",
+    "passes": [
+      {
+        "from": "O1",
+        "to": "O3"
+      }
+    ],
+    "moves": [
+      {
+        "from": "X3",
+        "to": "O3",
+        "kind": "move"
+      },
+      {
+        "from": "X2",
+        "to": "O1",
+        "kind": "move"
+      }
+    ]
+  },
   "skill": "Defense",
   "level": "intermediate",
   "ages": [

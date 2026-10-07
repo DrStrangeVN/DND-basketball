@@ -3,6 +3,36 @@
   "slug": "zigzag-defense",
   "title": "Zigzag Defense",
   "description": "Turn the ball handler three times with hard zigzag slides from baseline to half court — no middle allowed.",
+  "diagram": {
+    "title": "Zigzag slides: turn the dribbler at each cone",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 35,
+        "y": 78
+      }
+    ],
+    "defense": [
+      {
+        "label": "X1",
+        "x": 35,
+        "y": 72
+      }
+    ],
+    "ball": "O1",
+    "moves": [
+      {
+        "from": "O1",
+        "to": "rim",
+        "kind": "dribble"
+      },
+      {
+        "from": "X1",
+        "to": "O1",
+        "kind": "move"
+      }
+    ]
+  },
   "skill": "Defense",
   "level": "intermediate",
   "ages": [

@@ -3,6 +3,59 @@
   "slug": "pocket-pass-drill",
   "title": "Pocket Pass Drill",
   "description": "Master the pick-and-roll pocket pass: deliver a precise one-handed bounce pass through a tight window to the rolling big.",
+  "diagram": {
+    "title": "Pocket pass through the hedge window",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 52
+      },
+      {
+        "label": "O2",
+        "x": 58,
+        "y": 30
+      }
+    ],
+    "defense": [
+      {
+        "label": "X1",
+        "x": 48,
+        "y": 38
+      },
+      {
+        "label": "X2",
+        "x": 53,
+        "y": 38
+      }
+    ],
+    "ball": "O1",
+    "screens": [
+      {
+        "x": 55,
+        "y": 46
+      }
+    ],
+    "moves": [
+      {
+        "from": "O2",
+        "to": "rim",
+        "kind": "cut"
+      }
+    ],
+    "passes": [
+      {
+        "from": "O1",
+        "to": "O2"
+      }
+    ],
+    "shots": [
+      {
+        "x": 50,
+        "y": 5.25
+      }
+    ]
+  },
   "skill": "Passing",
   "level": "advanced",
   "ages": [

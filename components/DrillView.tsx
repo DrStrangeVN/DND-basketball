@@ -5,6 +5,7 @@ import type { Drill, DrillCardData } from "@/lib/types";
 import { Breadcrumbs, LevelBadge } from "@/components/ui";
 import { DrillCard } from "@/components/cards";
 import FavoriteButton from "@/components/FavoriteButton";
+import CourtDiagram from "@/components/CourtDiagram";
 import VideoEmbed, { youtubeIdFromUrl } from "@/components/VideoEmbed";
 import { useLanguage, pick, type Lang } from "@/lib/i18n";
 
@@ -88,6 +89,13 @@ export default function DrillView({ drill, related }: { drill: Drill; related: D
         <h2 id="setup-h" className="mb-3 text-xl font-extrabold tracking-tight">{t("drills.setup")}</h2>
         <ul className="list-disc space-y-1.5 pl-5 text-[15px]">{L.setup.map((s, i) => <li key={i}>{s}</li>)}</ul>
       </section>
+
+      {drill.diagram && (
+        <section className="neu mt-6 p-6 sm:p-8" aria-labelledby="demo-h">
+          <h2 id="demo-h" className="mb-3 text-xl font-extrabold tracking-tight">{t("drills.demo")}</h2>
+          <CourtDiagram diagram={drill.diagram} />
+        </section>
+      )}
 
       <section className="mt-6" aria-labelledby="how-h">
         <h2 id="how-h" className="mb-4 px-1 text-xl font-extrabold tracking-tight">{t("drills.instructions")}</h2>

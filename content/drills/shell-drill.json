@@ -3,12 +3,92 @@
   "slug": "shell-drill",
   "title": "4v4 Shell Drill",
   "description": "The foundational team-defense drill: 4-on-4 in the half court with the ball rotating around the perimeter while defenders practice help, closeouts, and rotations.",
+  "diagram": {
+    "title": "Ball swings, defense shifts 4v4",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 68,
+        "y": 30
+      },
+      {
+        "label": "O2",
+        "x": 32,
+        "y": 30
+      },
+      {
+        "label": "O3",
+        "x": 60,
+        "y": 44
+      },
+      {
+        "label": "O4",
+        "x": 40,
+        "y": 44
+      }
+    ],
+    "defense": [
+      {
+        "label": "X1",
+        "x": 62,
+        "y": 28
+      },
+      {
+        "label": "X2",
+        "x": 36,
+        "y": 28
+      },
+      {
+        "label": "X3",
+        "x": 56,
+        "y": 40
+      },
+      {
+        "label": "X4",
+        "x": 44,
+        "y": 40
+      }
+    ],
+    "ball": "O1",
+    "passes": [
+      {
+        "from": "O1",
+        "to": "O3"
+      },
+      {
+        "from": "O3",
+        "to": "O4"
+      }
+    ],
+    "moves": [
+      {
+        "from": "X3",
+        "to": "O4",
+        "kind": "move"
+      },
+      {
+        "from": "X4",
+        "to": "O3",
+        "kind": "move"
+      }
+    ]
+  },
   "skill": "Defense",
   "level": "intermediate",
-  "ages": ["U14","U16","U18","Adult","Competitive"],
-  "positions": ["ALL"],
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult",
+    "Competitive"
+  ],
+  "positions": [
+    "ALL"
+  ],
   "players": "8+",
-  "equipment": ["Basketball"],
+  "equipment": [
+    "Basketball"
+  ],
   "durationMin": 15,
   "intensity": "medium",
   "goal": "Install team defensive principles — help positioning, closeout discipline, and rotation timing — in a controlled 4-on-4 setting.",
@@ -18,11 +98,26 @@
     "A coach stands at the top to call out rotations and freeze the drill for teaching moments."
   ],
   "instructions": [
-    {"title": "Ball swings, defense shifts", "detail": "Offense passes the ball around the perimeter — no dribbling at first; defenders shift between on-ball, deny, and help positions on every pass."},
-    {"title": "Add closeouts", "detail": "Each pass triggers a closeout from the new on-ball defender while off-ball defenders adjust their help angles."},
-    {"title": "Add one dribble", "detail": "Offense is allowed one dribble per catch to attack closeouts — defenders practice containing the drive and rotating on help."},
-    {"title": "Go live", "detail": "Play 4-on-4 live until the offense scores, the defense gets a stop, or 30 seconds pass; reset and go again."},
-    {"title": "Score the defense", "detail": "Defense earns a point for every stop; offense earns a point per basket. First to 7 wins the round."}
+    {
+      "title": "Ball swings, defense shifts",
+      "detail": "Offense passes the ball around the perimeter — no dribbling at first; defenders shift between on-ball, deny, and help positions on every pass."
+    },
+    {
+      "title": "Add closeouts",
+      "detail": "Each pass triggers a closeout from the new on-ball defender while off-ball defenders adjust their help angles."
+    },
+    {
+      "title": "Add one dribble",
+      "detail": "Offense is allowed one dribble per catch to attack closeouts — defenders practice containing the drive and rotating on help."
+    },
+    {
+      "title": "Go live",
+      "detail": "Play 4-on-4 live until the offense scores, the defense gets a stop, or 30 seconds pass; reset and go again."
+    },
+    {
+      "title": "Score the defense",
+      "detail": "Defense earns a point for every stop; offense earns a point per basket. First to 7 wins the round."
+    }
   ],
   "coachingPoints": [
     "See ball and man — defenders should be in stance with vision split between their matchup and the ball.",
@@ -37,9 +132,13 @@
   "progression": "Add a fifth player both sides (5-on-5 shell), allow unlimited dribbles, or add ball screens to force pick-and-roll coverage decisions.",
   "regression": "Walk through rotations without live offense, reduce to 3-on-3, or keep the no-dribble rule for the whole drill.",
   "gameApplication": "Shell drill is where team defense is built — every rotation, closeout, and help decision in a game traces back to these reps.",
-  "related": ["closeout-drill","box-out-battle","pick-and-roll-two-on-two"],
+  "related": [
+    "closeout-drill",
+    "box-out-battle",
+    "pick-and-roll-two-on-two"
+  ],
   "dateUpdated": "2026-10-06",
-  "vi":   {
+  "vi": {
     "coachingPoints": [
       "Vừa thấy bóng vừa thấy người — hậu vệ giữ tư thế thủ, tầm nhìn chia đều giữa người kèm và bóng.",
       "Hậu vệ help: đứng lệch một bước khỏi đường thẳng giữa người mình kèm và bóng, sẵn sàng stunt hoặc rotation.",

@@ -33,6 +33,7 @@ export interface Drill {
   goal: string; setup: string[]; instructions: ArticleStep[];
   coachingPoints: string[]; commonMistakes: string[];
   progression: string; regression: string; gameApplication: string;
+  diagram?: DiagramSpec;
   video?: { title: string; url: string }; related: string[]; dateUpdated: string;
   vi?: DrillVi;
 }

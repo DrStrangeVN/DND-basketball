@@ -3,6 +3,68 @@
   "slug": "tag-and-recover",
   "title": "Tag and Recover",
   "description": "The modern help skill: stunt at the rolling big to slow the pocket pass, then sprint-recover to your shooter before the kick-out arrives.",
+  "diagram": {
+    "title": "Tag the roller, sprint back to the shooter",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 58,
+        "y": 46
+      },
+      {
+        "label": "O2",
+        "x": 58,
+        "y": 30
+      },
+      {
+        "label": "O3",
+        "x": 72,
+        "y": 24
+      }
+    ],
+    "defense": [
+      {
+        "label": "X1",
+        "x": 58,
+        "y": 42
+      },
+      {
+        "label": "X2",
+        "x": 66,
+        "y": 32
+      }
+    ],
+    "ball": "O1",
+    "screens": [
+      {
+        "x": 56,
+        "y": 38
+      }
+    ],
+    "moves": [
+      {
+        "from": "O2",
+        "to": "rim",
+        "kind": "cut"
+      },
+      {
+        "from": "X2",
+        "to": "O2",
+        "kind": "move"
+      },
+      {
+        "from": "X2",
+        "to": "O3",
+        "kind": "move"
+      }
+    ],
+    "passes": [
+      {
+        "from": "O1",
+        "to": "O3"
+      }
+    ]
+  },
   "skill": "Defense",
   "level": "intermediate",
   "ages": [

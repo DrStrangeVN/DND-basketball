@@ -3,6 +3,48 @@
   "slug": "off-screen-shooting-drill",
   "title": "Shooting Off Screens",
   "description": "Come off pin-down and flare screens like a pro: curl to the rim, flare for three, or fade to the wing — reading the defender every rep.",
+  "diagram": {
+    "title": "Curl off the screen for the finish",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 10
+      },
+      {
+        "label": "O2",
+        "x": 68,
+        "y": 30
+      }
+    ],
+    "defense": [],
+    "ball": "O2",
+    "screens": [
+      {
+        "x": 58,
+        "y": 19
+      }
+    ],
+    "moves": [
+      {
+        "from": "O1",
+        "to": "rim",
+        "kind": "cut"
+      }
+    ],
+    "passes": [
+      {
+        "from": "O2",
+        "to": "rim"
+      }
+    ],
+    "shots": [
+      {
+        "x": 50,
+        "y": 5.25
+      }
+    ]
+  },
   "skill": "Shooting",
   "level": "advanced",
   "ages": [
