@@ -122,7 +122,7 @@ export default function HomeClient({ data }: { data: HomeData }) {
             {t("home.hero.subtitle")}
           </p>
           <div className="mt-6 flex flex-wrap gap-3">
-            <Link href="/learn" className="neu-btn inline-flex items-center gap-2 bg-[color:var(--orange)] px-6 py-3 text-[15px] font-bold text-white">
+            <Link href="/learn" className="neu-btn-primary inline-flex items-center gap-2 px-6 py-3 text-[15px] font-bold">
               {t("home.hero.startLearning")} <ArrowRight className="h-4 w-4" aria-hidden />
             </Link>
             <Link href="/skills" className="neu-btn inline-flex items-center px-6 py-3 text-[15px] font-bold">
@@ -171,7 +171,7 @@ export default function HomeClient({ data }: { data: HomeData }) {
           ))}
         </div>
         <div className="mt-5 text-center">
-          <Link href="/performance" className="neu-btn inline-flex items-center gap-2 bg-[color:var(--orange)] px-6 py-3 text-[15px] font-bold text-white">
+          <Link href="/performance" className="neu-btn-primary inline-flex items-center gap-2 px-6 py-3 text-[15px] font-bold">
             {t("perf.explorePerformance")} <ArrowRight className="h-4 w-4" aria-hidden />
           </Link>
         </div>
@@ -289,7 +289,7 @@ export default function HomeClient({ data }: { data: HomeData }) {
         <p className="mx-auto mt-2 max-w-xl text-[15px] text-[color:var(--muted)]">
           {t("home.workoutsCta.desc").replace("{n}", String(workoutsCount))}
         </p>
-        <Link href="/workouts" className="neu-btn mt-5 inline-flex items-center gap-2 bg-[color:var(--orange)] px-6 py-3 text-[15px] font-bold text-white">
+        <Link href="/workouts" className="neu-btn-primary mt-5 inline-flex items-center gap-2 px-6 py-3 text-[15px] font-bold">
           {t("home.workoutsCta.button")} <ArrowRight className="h-4 w-4" aria-hidden />
         </Link>
       </section>

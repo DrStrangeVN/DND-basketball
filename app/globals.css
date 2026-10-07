@@ -76,6 +76,19 @@ body {
   box-shadow: inset 4px 4px 10px var(--shadow-dark), inset -4px -4px 10px var(--shadow-light);
   transform: translateY(1px);
 }
+/* Primary CTA: solid orange (neu-btn's surface background would override a Tailwind bg class) */
+.neu-btn-primary {
+  background: var(--orange);
+  color: #fff;
+  border-radius: 999px;
+  box-shadow: 5px 5px 12px var(--shadow-dark), -5px -5px 12px var(--shadow-light);
+  transition: box-shadow 0.18s ease, transform 0.18s ease, filter 0.18s ease;
+}
+.neu-btn-primary:hover { box-shadow: 7px 7px 16px var(--shadow-dark), -7px -7px 16px var(--shadow-light); filter: brightness(1.06); }
+.neu-btn-primary:active {
+  box-shadow: inset 4px 4px 10px rgba(0,0,0,0.28);
+  transform: translateY(1px);
+}
 .neu-card {
   background: var(--surface);
   border-radius: 22px;

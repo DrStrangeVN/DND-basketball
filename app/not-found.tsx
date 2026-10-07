@@ -13,7 +13,7 @@ export default function NotFound() {
         <p className="mt-2 text-[15px] text-[color:var(--muted)]">
           {t("notFound.desc")}
         </p>
-        <Link href="/" className="neu-btn mt-6 inline-flex items-center gap-2 bg-[color:var(--orange)] px-6 py-3 text-[15px] font-bold text-white">
+        <Link href="/" className="neu-btn-primary mt-6 inline-flex items-center gap-2 px-6 py-3 text-[15px] font-bold">
           {t("common.goHome")} <ArrowRight className="h-4 w-4" aria-hidden />
         </Link>
       </div>

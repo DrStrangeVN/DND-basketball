@@ -1,7 +1,7 @@
 "use client";
 
 import { useMemo, useState } from "react";
-import { Activity, Info } from "lucide-react";
+import { Activity } from "lucide-react";
 import { useLanguage, pick, type Lang } from "@/lib/i18n";
 
 type Opt = { en: string; vi: string; score: number };
@@ -111,11 +111,6 @@ export function RecoveryCheck() {
         </p>
         <p className="mt-3 text-[15px] font-semibold">{t(`perf.recoveryCheck.rec${status[0].toUpperCase()}${status.slice(1)}`)}</p>
       </div>
-
-      <p className="mt-4 flex items-start gap-2 text-[13px] text-[color:var(--muted)]">
-        <Info className="mt-0.5 h-4 w-4 shrink-0" aria-hidden />
-        {t("perf.medicalDisclaimer")}
-      </p>
     </section>
   );
 }
