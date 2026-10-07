@@ -144,7 +144,7 @@ export default function Navbar() {
             <button onClick={openSearch} aria-label={t("nav.search.label")}
               className="neu-btn hidden h-10 items-center gap-2 px-4 text-sm font-medium text-[color:var(--muted)] sm:inline-flex">
               <Search className="h-4 w-4" aria-hidden />
-              <span className="hidden xl:inline">{t("nav.search.placeholder")}</span>
+              <span className="hidden max-w-[150px] truncate whitespace-nowrap xl:inline">{t("nav.search.placeholder")}</span>
               <kbd className="hidden rounded-md bg-[color:var(--surface-2)] px-1.5 py-0.5 text-[10px] font-bold xl:inline">⌘K</kbd>
             </button>
             <button onClick={openSearch} aria-label={t("nav.search.label")} className="neu-btn inline-flex h-10 w-10 items-center justify-center sm:hidden">
