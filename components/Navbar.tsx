@@ -110,7 +110,7 @@ function DropMenu({ link }: { link: TopLink }) {
   const { t } = useLanguage();
   return (
     <div className="group relative">
-      <Link href={link.href} className="flex items-center gap-1 rounded-full px-3 py-2 text-sm font-semibold text-[color:var(--muted)] hover:text-[color:var(--ink)]">
+      <Link href={link.href} className="flex items-center gap-1 whitespace-nowrap rounded-full px-2.5 py-2 text-[13px] font-semibold text-[color:var(--muted)] hover:text-[color:var(--ink)] xl:px-3 xl:text-sm">
         {t(link.labelKey)} <ChevronDown className="h-3.5 w-3.5" aria-hidden />
       </Link>
       <div className="invisible absolute left-0 top-full pt-2 opacity-0 transition-all duration-150 group-hover:visible group-hover:opacity-100 group-focus-within:visible group-focus-within:opacity-100">
