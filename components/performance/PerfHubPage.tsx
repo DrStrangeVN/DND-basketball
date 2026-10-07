@@ -9,6 +9,7 @@ import { useLanguage, pick, type Lang } from "@/lib/i18n";
 import type { PerformanceArticle, PerfHubId } from "@/lib/types";
 import { performanceUrl } from "@/lib/urls";
 import { Breadcrumbs, LevelBadge, SectionTitle } from "../ui";
+import MetaSync from "../MetaSync";
 import { GoalSelector } from "./GoalSelector";
 import { FinishedGameTimeline } from "./FinishedGameTimeline";
 import { RecoveryCheck } from "./RecoveryCheck";
@@ -213,6 +214,10 @@ export default function PerfHubPage({ hubId, articles }: { hubId: PerfHubId; art
 
   return (
     <div className="pb-6">
+      <MetaSync
+        title={`${t(`perf.hub.${key}`)} | DND Basketball`}
+        description={t(`perf.tagline.${key}`)}
+      />
       <Breadcrumbs items={[
         { label: t("mobile.home"), href: "/" },
         { label: t("perf.landing.title"), href: "/performance" },

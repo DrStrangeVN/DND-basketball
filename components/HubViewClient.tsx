@@ -3,6 +3,7 @@ import type { HubMeta, HubGroup } from "@/lib/hubs";
 import { hubText, hubGroupText } from "@/lib/hubs";
 import type { ArticleCardData } from "@/lib/types";
 import { useLanguage } from "@/lib/i18n";
+import MetaSync from "./MetaSync";
 import { Breadcrumbs, SectionTitle } from "./ui";
 import { KnowledgeCard } from "./cards";
 import HubIcon from "./HubIcon";
@@ -18,6 +19,10 @@ export default function HubViewClient({ hub, groupsData, groupId, showGroupTitle
 
   return (
     <div className="pb-6">
+      <MetaSync
+        title={`${hubText(hub, lang, "title")} | DND Basketball`}
+        description={hubText(hub, lang, "description")}
+      />
       <Breadcrumbs items={[
         { label: t("mobile.home"), href: "/" },
         { label: t("nav.learn"), href: "/learn" },

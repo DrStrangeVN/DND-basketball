@@ -7,6 +7,7 @@ import { useLanguage, pick, type Lang } from "@/lib/i18n";
 import CourtDiagram from "./CourtDiagram";
 import VideoEmbed, { youtubeIdFromUrl } from "./VideoEmbed";
 import FavoriteButton from "./FavoriteButton";
+import MetaSync from "./MetaSync";
 import { Breadcrumbs, LevelBadge, ReadTime, TagChip } from "./ui";
 import { KnowledgeCard, DrillCard } from "./cards";
 
@@ -68,6 +69,7 @@ export default function ArticleView({ article, related, drills }: {
 
   return (
     <div className="mx-auto max-w-4xl px-3 sm:px-5">
+      <MetaSync title={`${L.title} | DND Basketball`} description={L.description} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
       <Breadcrumbs items={crumbs} />
 

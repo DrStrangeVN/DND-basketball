@@ -2,6 +2,7 @@
 import Link from "next/link";
 import { ArrowRight, Dumbbell, BatteryCharging, Salad, Droplets, ShieldPlus, Sparkles } from "lucide-react";
 import { useLanguage, pick } from "@/lib/i18n";
+import MetaSync from "../MetaSync";
 import type { PerformanceArticle, PerfHubId } from "@/lib/types";
 import { Breadcrumbs } from "../ui";
 
@@ -31,6 +32,10 @@ export default function PerfLanding({ hubs }: { hubs: LandingHub[] }) {
   const { lang, t } = useLanguage();
   return (
     <div className="pb-6">
+      <MetaSync
+        title={`${t("perf.landing.title")} | DND Basketball`}
+        description={t("perf.landing.subtitle")}
+      />
       <Breadcrumbs items={[
         { label: t("mobile.home"), href: "/" },
         { label: t("perf.landing.title") },

@@ -552,6 +552,10 @@ const STRINGS: Record<string, { vi: string; en: string }> = {
   "perf.phase.gameDay": { vi: "Ngày thi đấu", en: "Game Day" },
   "perf.phase.recoveryDay": { vi: "Ngày hồi phục", en: "Recovery Day" },
 
+  /* Meta (client-synced for static export) */
+  "meta.title.home": { vi: "DND Basketball — Trung tâm kiến thức bóng rổ hoàn chỉnh", en: "DND Basketball — Complete Basketball Knowledge Hub" },
+  "meta.desc.home": { vi: "Học kỹ năng, bài tập, chiến thuật, IQ bóng rổ và kiến thức huấn luyện — từ căn bản đến nâng cao. Học. Tập. Hiểu trận đấu.", en: "Learn skills, drills, tactics, basketball IQ and coaching knowledge — from fundamentals to advanced. Learn. Train. Understand the game." },
+
   /* Common */
   "cards.learnConcept": { vi: "Học khái niệm", en: "Learn concept" },
   "cards.levels": { vi: "cấp độ", en: "levels" },

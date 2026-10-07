@@ -8,6 +8,7 @@ import {
 import type { ArticleCardData, DrillCardData, LearningPath, FilmVideo, CourtVisionCard as CourtVisionCardT } from "@/lib/types";
 import { articleUrl } from "@/lib/urls";
 import { useLanguage, pick } from "@/lib/i18n";
+import MetaSync from "@/components/MetaSync";
 import CourtDiagram from "@/components/CourtDiagram";
 import CourtVisionCard from "@/components/CourtVisionCard";
 import HeroSearch from "@/components/HeroSearch";
@@ -107,6 +108,7 @@ export default function HomeClient({ data }: { data: HomeData }) {
 
   return (
     <div className="space-y-14 pb-6">
+      <MetaSync title={t("meta.title.home")} description={t("meta.desc.home")} />
       {/* HERO */}
       <section className="neu grid gap-6 p-6 sm:p-10 lg:grid-cols-[1.1fr_1fr] lg:items-center" aria-labelledby="hero-h">
         <div>
