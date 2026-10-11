@@ -1,0 +1,174 @@
+{
+  "id": "baby-hook-shot",
+  "slug": "baby-hook-shot",
+  "title": "Baby Hook Shot",
+  "description": "The one-handed baby hook over either shoulder — the unblockable close-range weapon of great post players.",
+  "hub": "skills",
+  "subcategory": "finishing",
+  "level": "advanced",
+  "ages": [
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "Forward",
+    "Center"
+  ],
+  "readTime": 6,
+  "dateUpdated": "2026-10-11",
+  "whatIsIt": [
+    "The baby hook is a one-handed shot released with a hooking motion over your shoulder from 2 to 4 meters out — a shorter, quicker version of the classic sky hook. You turn your body sideways to the basket, shield the ball with your off shoulder, and sweep the ball up and over in a high arc.",
+    "The 'baby' name is misleading: there's nothing small about its effectiveness. Because the ball is released on the far side of your body at full extension, it is virtually unblockable when executed properly."
+  ],
+  "whyItMatters": [
+    "The baby hook is the most efficient shot in the low post — high percentage, nearly unblockable, and available over either shoulder. It doesn't require elite jumping or size; it requires footwork and touch, which means smaller post players can use it to score over bigger defenders. It has survived every era of basketball for a reason."
+  ],
+  "howTo": [
+    {
+      "title": "Catch with a seal",
+      "detail": "Catch the ball in the post with your defender sealed on your back or hip. The deeper the catch, the easier the hook."
+    },
+    {
+      "title": "Choose your shoulder",
+      "detail": "Decide which shoulder you'll shoot over — usually the one away from the defender. Your footwork sets this up."
+    },
+    {
+      "title": "Step into the hook",
+      "detail": "Take a step toward the middle (or baseline) with your non-shooting-side foot, turning your body sideways to the basket."
+    },
+    {
+      "title": "Lift the ball high",
+      "detail": "Bring the ball up on your shooting side with a straight arm, keeping it away from the defender. Your off arm shields across your body."
+    },
+    {
+      "title": "Sweep it over in an arc",
+      "detail": "Release the ball with a soft hooking sweep of your wrist and fingers, arcing it high over your shoulder toward the rim."
+    },
+    {
+      "title": "Use the glass or go straight",
+      "detail": "From the middle, shoot it straight; from sharp baseline angles, bank it softly off the glass."
+    }
+  ],
+  "coachingPoints": [
+    "The shooting arm stays straight and the release is all wrist and fingers — bending the elbow brings the ball into block range.",
+    "Turn your body fully sideways; a half-turn leaves the ball exposed to the defender.",
+    "Keep the ball high from the gather — every inch it drops is an inch closer to a strip.",
+    "Practice over both shoulders equally; a one-shoulder hook gets scouted and taken away."
+  ],
+  "commonMistakes": [
+    "Shooting it flat like a push shot — fix: the hook must arc high; practice shooting over a raised broom or a partner's hand.",
+    "Bringing the ball across the body — fix: the ball travels up your shooting side only, never across your chest.",
+    "Jumping off the wrong foot — fix: jump off the foot opposite your shooting hand for balance, like a layup.",
+    "Rushing against length — fix: the hook beats length with arc and timing, not speed; stay patient."
+  ],
+  "gameSituations": [
+    "Deep post seals — when you've sealed the defender under the rim, the baby hook is the highest-percentage finish available.",
+    "Against taller defenders — the high release over the far shoulder scores over size that blocks everything else.",
+    "Offensive rebound putbacks — the quick baby hook is the natural second-chance finish in traffic."
+  ],
+  "tags": [
+    "finishing",
+    "hook-shot",
+    "post-play"
+  ],
+  "related": [
+    "jump-hook",
+    "drop-step",
+    "spin-move",
+    "power-finish",
+    "post-positioning"
+  ],
+  "diagram": {
+    "title": "O1 seals D1 and releases the baby hook over the far shoulder",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 36,
+        "y": 10
+      }
+    ],
+    "defense": [
+      {
+        "label": "D1",
+        "x": 39,
+        "y": 10
+      }
+    ],
+    "ball": "O1",
+    "screens": [],
+    "moves": [
+      {
+        "from": "O1",
+        "to": "O1",
+        "kind": "move"
+      }
+    ],
+    "passes": [],
+    "shots": [
+      {
+        "x": 50,
+        "y": 5.25
+      }
+    ]
+  },
+  "vi": {
+    "title": "Ném móc nhỏ (baby hook)",
+    "description": "Cú ném móc một tay qua cả hai vai — vũ khí tầm gần gần như không thể block của các cầu thủ post giỏi.",
+    "whatIsIt": [
+      "Baby hook là cú ném một tay thả ra bằng động tác móc qua vai từ khoảng 2–4m — phiên bản ngắn hơn, nhanh hơn của cú sky hook kinh điển. Bạn xoay người ngang với rổ, che bóng bằng vai không ném, và quét bóng lên cao theo vòng cung.",
+      "Cái tên 'baby' dễ gây hiểu lầm: hiệu quả của nó chẳng nhỏ chút nào. Vì bóng được thả ở phía xa của cơ thể với tay vươn hết cỡ, nó gần như không thể bị block khi thực hiện đúng."
+    ],
+    "whyItMatters": [
+      "Baby hook là cú ném hiệu quả nhất ở low post — tỷ lệ cao, gần như không thể block, và dùng được qua cả hai vai. Nó không đòi hỏi sức bật hay kích thước vượt trội; nó đòi hỏi bộ chân và cảm giác tay — nghĩa là những cầu thủ post nhỏ con cũng dùng nó để ghi điểm qua hậu vệ to hơn. Nó tồn tại qua mọi thời đại của bóng rổ là có lý do."
+    ],
+    "howTo": [
+      {
+        "title": "Bắt bóng với pha tỳ",
+        "detail": "Bắt bóng ở post với hậu vệ bị tỳ sau lưng hoặc hông. Bắt càng sâu, cú móc càng dễ."
+      },
+      {
+        "title": "Chọn vai ném",
+        "detail": "Quyết định sẽ ném qua vai nào — thường là vai xa hậu vệ. Bộ chân của bạn dọn đường cho việc này."
+      },
+      {
+        "title": "Bước vào tư thế móc",
+        "detail": "Bước về phía giữa (hoặc biên) bằng chân phía không ném, xoay người ngang với rổ."
+      },
+      {
+        "title": "Đưa bóng lên cao",
+        "detail": "Đưa bóng lên ở phía tay ném với cánh tay thẳng, giữ xa hậu vệ. Tay không ném che ngang người."
+      },
+      {
+        "title": "Quét bóng theo vòng cung",
+        "detail": "Thả bóng bằng một cú quét móc nhẹ của cổ tay và ngón tay, vòng cao qua vai về phía rổ."
+      },
+      {
+        "title": "Dùng bảng hoặc ném thẳng",
+        "detail": "Từ giữa sân, ném thẳng; từ những góc biên hẹp, đập nhẹ vào bảng."
+      }
+    ],
+    "coachingPoints": [
+      "Tay ném giữ thẳng và cú thả hoàn toàn bằng cổ tay, ngón tay — cong khuỷu tay là đưa bóng vào tầm block.",
+      "Xoay người hoàn toàn sang ngang; xoay nửa vời là để lộ bóng cho hậu vệ.",
+      "Giữ bóng cao từ lúc gom — mỗi cm bóng hạ xuống là một cm gần hơn với tay móc.",
+      "Tập qua cả hai vai đều nhau; cú móc một vai bị bắt bài và bị lấy mất."
+    ],
+    "commonMistakes": [
+      "Ném bẹt như cú đẩy — sửa: cú móc phải vòng cao; tập ném qua một cây chổi giơ cao hoặc tay của bạn tập.",
+      "Đưa bóng vắt ngang người — sửa: bóng chỉ đi lên ở phía tay ném, không bao giờ vắt qua ngực.",
+      "Bật sai chân — sửa: bật bằng chân đối diện với tay ném để thăng bằng, như layup.",
+      "Vội vàng trước đối thủ cao lớn — sửa: cú móc thắng chiều cao bằng vòng cung và thời điểm, không phải tốc độ; giữ kiên nhẫn."
+    ],
+    "gameSituations": [
+      "Tỳ sâu trong post — khi bạn đã tỳ hậu vệ dưới rổ, baby hook là pha kết thúc có tỷ lệ cao nhất.",
+      "Trước hậu vệ cao hơn — cú thả cao qua vai xa ghi điểm qua những kích thước mà mọi thứ khác đều bị block.",
+      "Đập bóng bật bảng tấn công — cú baby hook nhanh là pha kết thúc second-chance tự nhiên trong đám đông."
+    ],
+    "tags": [
+      "kết thúc",
+      "ném móc",
+      "đánh post"
+    ]
+  }
+}

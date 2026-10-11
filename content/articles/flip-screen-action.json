@@ -1,0 +1,192 @@
+{
+  "id": "flip-screen-action",
+  "slug": "flip-screen-action",
+  "title": "Flip Screen Action",
+  "description": "The screener flips his angle at the last second — turning the ball handler away from the coverage and into open space. A small adjustment with a huge payoff.",
+  "hub": "offense",
+  "subcategory": "off-ball-screening",
+  "level": "beginner",
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 5,
+  "dateUpdated": "2026-10-11",
+  "whatIsIt": [
+    "A flip screen is a ball screen where the screener changes his angle at the last moment — 'flipping' from one side to the other, or from flat to angled. The classic example: the screener starts to set the screen going one direction, then flips his hips and feet to send the ball handler the opposite way.",
+    "It is used to attack specific coverages. Against 'ice' coverage (where the defense forces the ball handler down the sideline), the screener flips to re-screen back toward the middle. Against a drop, the screener flips the angle to give the guard a better driving lane. The flip is a communication tool as much as a screen: it tells the ball handler 'not that way — this way.'"
+  ],
+  "whyItMatters": [
+    "Defenses win by forcing the ball where they want it — ice pushes you sideline, drop keeps you out of the paint. The flip screen is how the offense takes that choice back: one hip-flip by the screener redirects the whole action away from the coverage. It is one of the highest-leverage small skills in basketball — a single adjustment that turns a dead pick and roll into a live one. Every ball handler-screener duo needs it in their shared language."
+  ],
+  "howTo": [
+    {
+      "title": "Start the screen normally",
+      "detail": "O5 approaches to set the ball screen for O1 like always — same timing, same path. The flip only works if the start looks normal; the defense must commit to defending the original angle."
+    },
+    {
+      "title": "Read the coverage",
+      "detail": "As O5 arrives, he reads the defense: is D1 icing (forcing sideline)? Is the big in a deep drop? Is D5 showing early? The coverage dictates the flip — the screener makes the call."
+    },
+    {
+      "title": "Flip the angle",
+      "detail": "O5 flips his hips and feet — pivoting from facing one direction to the other — and sets the screen at the new angle. The movement is quick and compact: a pivot, not a run. The screen must still be legal: set before contact."
+    },
+    {
+      "title": "The guard uses the new angle",
+      "detail": "O1 reads the flip and comes off the new side. Against ice, the flip sends him back toward the middle; against drop, it opens the driving lane. Trust the screener's read — hesitation kills the timing."
+    },
+    {
+      "title": "Play the resulting advantage",
+      "detail": "The flipped screen usually creates immediate separation — the on-ball defender is now on the wrong side of the play. Attack: drive, pull up, or hit the roller before the defense re-organizes."
+    }
+  ],
+  "coachingPoints": [
+    "The screener makes the call. He sees the coverage; the guard is busy with the ball. Build the trust so the guard follows the flip without thinking.",
+    "Flip early, not late. The pivot must happen before the guard commits to the original angle — a late flip strands the ball handler.",
+    "Keep it legal. A flip is a pivot, not a moving screen — feet must be set before the guard arrives. Drill the footwork.",
+    "Pair it with a verbal or non-verbal signal. Most duos use a call ('flip!') or a hand signal so the guard knows before the screen is set.",
+    "Practice against every coverage. Flip vs ice, flip vs drop, flip vs hedge — the angle changes each time, and the duo must rep all of them."
+  ],
+  "commonMistakes": [
+    "Flipping too late — the guard is already committed — fix: the screener decides on his approach, not on arrival; the flip happens before the guard's first step.",
+    "Moving screen on the flip — fix: pivot, don't slide; feet set before contact, every rep.",
+    "Guard ignores the flip and uses the original side — fix: trust drill — the guard must follow the screener's hips, not his own plan.",
+    "Flipping when the original angle was fine — fix: the flip is a counter to a coverage, not a habit; if the base screen works, use it."
+  ],
+  "gameSituations": [
+    "Beating ice coverage: the number one use — flip the screen and send the guard middle instead of letting the defense dictate sideline.",
+    "Late-clock PNR: when the defense knows the PNR is coming, the flip gives you a different look without changing the play call.",
+    "Developing guard-big chemistry: the flip forces the duo to communicate and read together — it builds the partnership."
+  ],
+  "tags": [
+    "flip screen",
+    "ball screen",
+    "pick and roll",
+    "coverage counter",
+    "screening"
+  ],
+  "related": [
+    "screen-angle",
+    "pnr-vs-ice",
+    "pnr-vs-drop",
+    "screening-basketball",
+    "pick-and-roll-reads"
+  ],
+  "diagram": {
+    "title": "Flip screen — O5 flips his angle to send O1 back toward the middle against ice",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 70,
+        "y": 50
+      },
+      {
+        "label": "O5",
+        "x": 66,
+        "y": 42
+      }
+    ],
+    "defense": [
+      {
+        "label": "D1",
+        "x": 74,
+        "y": 46
+      },
+      {
+        "label": "D5",
+        "x": 62,
+        "y": 40
+      }
+    ],
+    "ball": "O1",
+    "screens": [
+      {
+        "x": 68,
+        "y": 44
+      }
+    ],
+    "moves": [
+      {
+        "from": "O5",
+        "to": "O1",
+        "kind": "screen-run"
+      },
+      {
+        "from": "O1",
+        "to": "rim",
+        "kind": "dribble"
+      },
+      {
+        "from": "O5",
+        "to": "rim",
+        "kind": "cut"
+      }
+    ],
+    "passes": [],
+    "shots": []
+  },
+  "vi": {
+    "title": "Miếng đổi hướng screen (flip screen)",
+    "description": "Người dựng screen đổi góc vào giây cuối — đưa người cầm bóng ra khỏi coverage và vào khoảng trống. Một điều chỉnh nhỏ với phần thưởng lớn.",
+    "whatIsIt": [
+      "Flip screen là ball screen mà người dựng đổi góc vào phút chót — 'lật' từ phía này sang phía kia, hoặc từ ngang sang nghiêng. Ví dụ kinh điển: người dựng bắt đầu dựng screen theo một hướng, rồi lật hông và chân để đưa người cầm bóng đi hướng ngược lại.",
+      "Nó dùng để đánh các coverage cụ thể. Trước ice coverage (hàng thủ ép người cầm bóng xuống đường biên), người dựng flip để screen ngược về giữa sân. Trước drop, người dựng flip góc để mở lane đột phá tốt hơn cho hậu vệ. Flip vừa là screen vừa là công cụ giao tiếp: nó nói với người cầm bóng 'không phải hướng đó — hướng này.'"
+    ],
+    "whyItMatters": [
+      "Hàng thủ thắng bằng cách ép bóng đi nơi chúng muốn — ice đẩy bạn ra biên, drop giữ bạn ngoài khu vực dưới rổ. Flip screen là cách tấn công giành lại quyền chọn đó: một cú lật hông của người dựng chuyển hướng cả miếng đánh ra khỏi coverage. Đó là một trong những kỹ năng nhỏ có đòn bẩy cao nhất của bóng rổ — một điều chỉnh duy nhất biến pick and roll chết thành pick and roll sống. Mọi cặp hậu vệ-big đều cần nó trong ngôn ngữ chung."
+    ],
+    "howTo": [
+      {
+        "title": "Bắt đầu screen như bình thường",
+        "detail": "O5 tiến vào dựng screen cho O1 như mọi khi — cùng timing, cùng đường đi. Flip chỉ hiệu quả khi khởi đầu trông bình thường; hàng thủ phải commit vào việc kèm góc ban đầu."
+      },
+      {
+        "title": "Đọc coverage",
+        "detail": "Khi O5 đến nơi, anh ta đọc hàng thủ: D1 có đang ice (ép ra biên)? Big có đang drop sâu? D5 có show sớm? Coverage quyết định cú flip — người dựng là người ra quyết định."
+      },
+      {
+        "title": "Lật góc",
+        "detail": "O5 lật hông và chân — xoay từ hướng này sang hướng kia — và dựng screen ở góc mới. Chuyển động nhanh và gọn: một cú pivot, không phải chạy. Screen vẫn phải hợp lệ: trụ vững trước va chạm."
+      },
+      {
+        "title": "Hậu vệ dùng góc mới",
+        "detail": "O1 đọc cú flip và vòng qua phía mới. Trước ice, flip đưa anh ta về giữa sân; trước drop, nó mở lane đột phá. Tin vào cách đọc của người dựng — chần chừ giết chết timing."
+      },
+      {
+        "title": "Đánh lợi thế tạo ra",
+        "detail": "Screen đã lật thường tạo khoảng trống ngay — hậu vệ kèm bóng giờ ở sai phía của pha bóng. Tấn công: đột phá, pull-up, hoặc chuyền cho người roll trước khi hàng thủ tổ chức lại."
+      }
+    ],
+    "coachingPoints": [
+      "Người dựng là người ra quyết định. Anh ta nhìn thấy coverage; hậu vệ bận với bóng. Xây niềm tin để hậu vệ theo cú flip mà không cần nghĩ.",
+      "Flip sớm, đừng muộn. Cú pivot phải diễn ra trước khi hậu vệ commit vào góc ban đầu — flip muộn là bỏ rơi người cầm bóng.",
+      "Giữ hợp lệ. Flip là pivot, không phải moving screen — chân phải trụ vững trước khi hậu vệ đến. Tập bộ chân.",
+      "Ghép với tín hiệu nói hoặc không lời. Hầu hết các cặp dùng tiếng gọi ('flip!') hoặc ký hiệu tay để hậu vệ biết trước khi screen được dựng.",
+      "Tập trước mọi coverage. Flip trước ice, flip trước drop, flip trước hedge — góc đổi mỗi lần, cặp đôi phải tập tất cả."
+    ],
+    "commonMistakes": [
+      "Flip quá muộn — hậu vệ đã commit — sửa: người dựng quyết định khi đang tiến vào, không phải khi đã đến; flip diễn ra trước bước đầu của hậu vệ.",
+      "Moving screen khi flip — sửa: pivot, đừng trượt chân; chân trụ vững trước va chạm, mọi lần tập.",
+      "Hậu vệ phớt flip, dùng phía ban đầu — sửa: bài tập niềm tin — hậu vệ phải theo hông người dựng, không phải kế hoạch của mình.",
+      "Flip khi góc ban đầu vẫn tốt — sửa: flip là đòn phản đòn cho coverage, không phải thói quen; screen gốc hiệu quả thì cứ dùng."
+    ],
+    "gameSituations": [
+      "Đánh bại ice coverage: công dụng số một — lật screen đưa hậu vệ về giữa thay vì để hàng thủ ép ra biên.",
+      "PNR cuối đồng hồ: hàng thủ biết PNR sắp đến thì flip cho một diện mạo khác mà không cần đổi bài gọi.",
+      "Xây chemistry hậu vệ-big: flip ép cặp đôi giao tiếp và cùng đọc tình huống — nó xây dựng mối quan hệ đối tác."
+    ],
+    "tags": [
+      "flip screen",
+      "screen cho bóng",
+      "pick and roll",
+      "phản coverage",
+      "screen"
+    ]
+  }
+}

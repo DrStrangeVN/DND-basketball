@@ -1,0 +1,206 @@
+{
+  "id": "ram-into-pnr",
+  "slug": "ram-into-pnr",
+  "title": "Ram Into Pick and Roll",
+  "description": "Screen the screener before the ball screen: a ram screen frees the big, then the big sprints into the pick and roll with a running start. Twice the force, half the reaction time.",
+  "hub": "pick-and-roll",
+  "subcategory": "pick-and-roll",
+  "level": "intermediate",
+  "ages": [
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 6,
+  "dateUpdated": "2026-10-11",
+  "whatIsIt": [
+    "A ram screen is an off-ball screen set for the player who is about to set the ball screen — you screen the screener. 'Ram into PNR' means: first, a teammate screens the big's defender (the ram), and then the big sprints directly into a ball screen for the guard. The big arrives at the pick and roll with a running start instead of standing still.",
+    "The running start changes everything. A stationary screener gives the defense time to set its coverage; a sprinting screener arrives with momentum, which means better screen contact, a faster roll, and a defense that has to react to two actions (the ram, then the PNR) instead of one. It is the pick and roll with a head start."
+  ],
+  "whyItMatters": [
+    "Good defenses key on the screener — they see him coming, call the coverage early, and the PNR starts at a disadvantage. The ram screen disrupts that: the big's defender just got screened himself, so he's late, off-balance, or switched onto someone else when the ball screen arrives. For teams whose PNR gets blown up before it starts, the ram is the fix — it gives your best two-man action a running start that the defense can't prepare for."
+  ],
+  "howTo": [
+    {
+      "title": "Set the ram screen",
+      "detail": "O3 (or a wing) sets an off-ball screen on D5 — the screener's defender — near the elbow or slot. The ram must be legal and physical: its job is to delay or dislodge D5, not just to touch him."
+    },
+    {
+      "title": "The big sprints into the PNR",
+      "detail": "The moment the ram lands, O5 sprints into the ball screen for O1. No pause, no waiting — the sprint is the point. O5 should arrive at the screen spot at full speed."
+    },
+    {
+      "title": "The guard times his attack",
+      "detail": "O1 times his dribble attack to meet O5's arrival — not before. If O1 goes too early, the screen isn't there; too late, and the defense recovers from the ram. The sync is the skill."
+    },
+    {
+      "title": "Use the momentum",
+      "detail": "O5's running start means a harder screen and a faster roll. O1 comes off shoulder-to-shoulder and attacks — the big's defender is still dealing with the ram, so the coverage is late by design."
+    },
+    {
+      "title": "Read the scrambled coverage",
+      "detail": "The ram often forces an early switch or a blown coverage — D5 might be stuck on the ram screener. O1 reads: attack the mismatch, hit the rolling big with a head start, or find the ram screener popping open."
+    }
+  ],
+  "coachingPoints": [
+    "The ram must be real. A soft brush screen doesn't dislodge anyone — the ram needs contact to create the late reaction.",
+    "Timing is the whole play. The big sprints on the ram's contact, the guard attacks on the big's arrival — drill the sequence until the sync is automatic.",
+    "Vary the ram angle. Ram from the wing, from the baseline, from the top — a predictable ram gets scouted and switched.",
+    "The ram screener isn't done. After ramming, he pops or relocates — he's often the open man when the defense scrambles.",
+    "Use it for your best duo. The ram amplifies a good PNR pair; save it for the two-man game you want to feature."
+  ],
+  "commonMistakes": [
+    "Ram with no contact — fix: the ram is a real screen; if D5 isn't delayed, it wasn't a ram.",
+    "Big waits instead of sprinting — fix: the sprint starts on the ram's contact; any pause kills the momentum advantage.",
+    "Guard attacks before the big arrives — fix: sync drill — the guard's first attacking dribble matches the big's plant foot.",
+    "Running the ram from the same spot every time — fix: vary the ram location; predictability lets the defense pre-switch."
+  ],
+  "gameSituations": [
+    "Freeing a star big: when the defense is face-guarding your screener to blow up the PNR, the ram gets him loose.",
+    "Late-game PNR: your best two-man action with a running start — the highest-percentage look you can manufacture.",
+    "Against hedge-heavy defenses: the ram makes the hedge late — a late hedge is a broken hedge, and the guard feasts."
+  ],
+  "tags": [
+    "ram screen",
+    "pick and roll",
+    "screen the screener",
+    "ball screen",
+    "offense"
+  ],
+  "related": [
+    "ram-screen",
+    "gortat-screen",
+    "pick-and-roll-basics",
+    "spain-pick-and-roll",
+    "screen-the-screener"
+  ],
+  "diagram": {
+    "title": "Ram into PNR — O3 rams D5, then O5 sprints into the ball screen for O1",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 55,
+        "y": 58
+      },
+      {
+        "label": "O5",
+        "x": 55,
+        "y": 35
+      },
+      {
+        "label": "O3",
+        "x": 75,
+        "y": 35
+      }
+    ],
+    "defense": [
+      {
+        "label": "D1",
+        "x": 55,
+        "y": 52
+      },
+      {
+        "label": "D5",
+        "x": 55,
+        "y": 40
+      },
+      {
+        "label": "D3",
+        "x": 75,
+        "y": 40
+      }
+    ],
+    "ball": "O1",
+    "screens": [
+      {
+        "x": 58,
+        "y": 38
+      }
+    ],
+    "moves": [
+      {
+        "from": "O3",
+        "to": "O5",
+        "kind": "screen-run"
+      },
+      {
+        "from": "O5",
+        "to": "O1",
+        "kind": "screen-run"
+      },
+      {
+        "from": "O1",
+        "to": "rim",
+        "kind": "dribble"
+      },
+      {
+        "from": "O5",
+        "to": "rim",
+        "kind": "cut"
+      }
+    ],
+    "passes": [],
+    "shots": []
+  },
+  "vi": {
+    "title": "Miếng ram dẫn vào pick and roll (ram into PNR)",
+    "description": "Screen cho người dựng screen trước ball screen: ram screen giải phóng big, rồi big chạy nước rút vào pick and roll với đà sẵn. Gấp đôi lực, một nửa thời gian phản ứng.",
+    "whatIsIt": [
+      "Ram screen là screen không bóng dựng cho cầu thủ sắp dựng ball screen — screen cho người dựng screen. 'Ram into PNR' nghĩa là: trước hết, đồng đội screen hậu vệ của big (cú ram), rồi big chạy thẳng vào ball screen cho hậu vệ. Big đến pick and roll với đà chạy thay vì đứng yên.",
+      "Đà chạy đổi mọi thứ. Người dựng đứng yên cho hàng thủ thời gian dựng coverage; người dựng đang chạy đến với động lượng — va chạm screen mạnh hơn, roll nhanh hơn, và hàng thủ phải phản ứng với hai miếng đánh (ram, rồi PNR) thay vì một. Đó là pick and roll với đà xuất phát."
+    ],
+    "whyItMatters": [
+      "Hàng thủ giỏi khóa vào người dựng screen — họ thấy anh ta đến, hô coverage sớm, và PNR bắt đầu đã bất lợi. Ram screen phá điều đó: hậu vệ của big vừa bị screen, nên hắn đến muộn, mất thăng bằng, hoặc bị switch sang người khác khi ball screen đến. Với đội nào PNR bị phá từ khi chưa bắt đầu, ram là cách sửa — nó cho miếng đánh hai người hay nhất của bạn một đà xuất phát mà hàng thủ không chuẩn bị được."
+    ],
+    "howTo": [
+      {
+        "title": "Dựng ram screen",
+        "detail": "O3 (hoặc một cánh) dựng screen không bóng vào D5 — hậu vệ của người dựng screen — gần elbow hoặc slot. Ram phải hợp lệ và có va chạm: nhiệm vụ của nó là làm chậm hoặc hất D5, không chỉ chạm nhẹ."
+      },
+      {
+        "title": "Big chạy nước rút vào PNR",
+        "detail": "Ngay khi ram chạm, O5 chạy nước rút vào ball screen cho O1. Không nghỉ, không chờ — cú chạy nước rút là điểm mấu chốt. O5 nên đến điểm dựng screen ở tốc độ tối đa."
+      },
+      {
+        "title": "Hậu vệ căn thời gian tấn công",
+        "detail": "O1 căn nhịp dẫn tấn công khớp với lúc O5 đến — không trước. O1 đi quá sớm thì screen chưa có; quá muộn thì hàng thủ hồi phục sau ram. Đồng bộ là kỹ năng."
+      },
+      {
+        "title": "Tận dụng đà",
+        "detail": "Đà chạy của O5 nghĩa là screen mạnh hơn và roll nhanh hơn. O1 vòng qua sát vai và tấn công — hậu vệ của big còn đang vật với ram, nên coverage muộn theo thiết kế."
+      },
+      {
+        "title": "Đọc coverage đang cuống",
+        "detail": "Ram thường ép switch sớm hoặc phá coverage — D5 có thể kẹt với người dựng ram. O1 đọc: tấn công mismatch, chuyền cho big đang roll với đà sẵn, hoặc tìm người dựng ram đang pop trống."
+      }
+    ],
+    "coachingPoints": [
+      "Ram phải thật. Screen quệt nhẹ không hất được ai — ram cần va chạm để tạo phản ứng muộn.",
+      "Timing là cả miếng đánh. Big chạy khi ram chạm, hậu vệ tấn công khi big đến — tập chuỗi đến khi đồng bộ thành tự động.",
+      "Đổi góc ram. Ram từ cánh, từ baseline, từ đỉnh — ram đoán được là bị scout và pre-switch.",
+      "Người dựng ram chưa xong việc. Sau khi ram, anh ta pop hoặc dạt vị trí — anh ta thường là người trống khi hàng thủ cuống.",
+      "Dùng cho cặp đôi hay nhất. Ram khuếch đại một cặp PNR tốt; dành nó cho miếng 2 người bạn muốn làm nổi bật."
+    ],
+    "commonMistakes": [
+      "Ram không va chạm — sửa: ram là screen thật; D5 không bị chậm lại thì đó không phải ram.",
+      "Big chờ thay vì chạy — sửa: cú chạy bắt đầu khi ram chạm; nghỉ một nhịp là mất lợi thế đà.",
+      "Hậu vệ tấn công trước khi big đến — sửa: bài tập đồng bộ — nhịp dẫn tấn công đầu của hậu vệ khớp với chân trụ của big.",
+      "Ram từ cùng một chỗ mọi lần — sửa: đổi vị trí ram; đoán được là hàng thủ pre-switch."
+    ],
+    "gameSituations": [
+      "Giải phóng big chủ lực: hàng thủ face-guard người dựng screen để phá PNR thì ram giúp anh ta thoát.",
+      "PNR cuối trận: miếng 2 người hay nhất của bạn với đà chạy — cú ném có tỷ lệ thành công cao nhất có thể tạo ra.",
+      "Trước hàng thủ hedge nhiều: ram khiến hedge đến muộn — hedge muộn là hedge vỡ, và hậu vệ ăn mừng."
+    ],
+    "tags": [
+      "ram screen",
+      "pick and roll",
+      "screen cho người dựng",
+      "screen cho bóng",
+      "tấn công"
+    ]
+  }
+}

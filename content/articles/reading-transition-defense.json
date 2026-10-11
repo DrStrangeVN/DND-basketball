@@ -1,0 +1,202 @@
+{
+  "id": "reading-transition-defense",
+  "slug": "reading-transition-defense",
+  "hub": "basketball-iq",
+  "subcategory": "basketball-iq",
+  "level": "intermediate",
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 6,
+  "dateUpdated": "2026-10-11",
+  "title": "Reading Transition Defense",
+  "description": "How to read a retreating defense in the first three seconds: count the numbers, read defender hips, and choose attack, pitch, or pull-out.",
+  "tags": [
+    "transition defense",
+    "basketball iq",
+    "fast break",
+    "rotations",
+    "communication"
+  ],
+  "whatIsIt": [
+    "Reading transition defense is the skill of scanning a retreating defense while you are sprinting at full speed — and making the right call before the defense gets set. Every transition possession starts with three questions: how many defenders are back, where are their bodies turned, and who is the most dangerous open man?",
+    "A retreating defender is at their weakest when their hips are turned and their eyes are on the ball. The moment they stop backpedaling, plant, and square up, your advantage is gone. Great transition players feel that window closing and either finish, pass ahead, or slow it down — never arriving late with the ball in no-man's land."
+  ],
+  "whyItMatters": [
+    "Transition is the most efficient offense in basketball — open-court shots convert at a far higher rate than half-court ones. One wrong read turns a numbers advantage into a live-ball turnover going the other way. Teams that consistently win the first three seconds of each possession win games without needing perfect half-court execution."
+  ],
+  "howTo": [
+    {
+      "title": "Count the numbers first",
+      "detail": "The instant possession changes, count: how many of us are ahead, how many defenders are back. 2v1 and 3v2 mean attack. 3v3 with everyone sprinting means flow into early offense, not a forced shot. Numbers decide the whole possession — get the count right before anything else."
+    },
+    {
+      "title": "Read defender hips, not the ball",
+      "detail": "A backpedaling defender with turned hips cannot change direction quickly — that is your green light to attack the rim. The moment a defender stops, plants both feet, and squares their chest to you, they are set: pull the ball out or swing it. Hips tell you everything; the ball tells you nothing."
+    },
+    {
+      "title": "Attack the middle, pitch to the wing",
+      "detail": "The ball handler should drive at the middle defender to force a commitment, then pitch ahead to the open wing. A pass ahead of a sprinting teammate is worth two dribbles — the ball moves faster than any defender can backpedal."
+    },
+    {
+      "title": "Time the rim run",
+      "detail": "The trailer or big should sprint the middle of the floor, arriving as the second wave. If the first defender commits to the ball, the rim runner gets a dump-off. If the defense collapses, the rim runner's man leaves a shooter open — find them."
+    },
+    {
+      "title": "Sprint wide to the corners",
+      "detail": "Wings must run to the deep corners, not stop at the free-throw line extended. Wide corners stretch retreating defenders to their breaking point and create the skip-pass lane that kills transition defense."
+    },
+    {
+      "title": "Talk through the matchup chaos",
+      "detail": "Transition defense is where communication breaks down most. Call out 'I've got ball,' 'runner,' and 'trailer' as you sprint back. One loud, early call prevents two defenders chasing the same man while a shooter drifts open."
+    }
+  ],
+  "coachingPoints": [
+    "Speed without control is just a faster turnover — sprint under control with your eyes up.",
+    "The first pass ahead beats the first three dribbles every time; advance the ball with the pass.",
+    "A defender's hips are the read: turned hips mean attack, squared hips mean slow down.",
+    "Never dribble into a set defender in transition — a charge or a blocked shot flips the break the other way.",
+    "Finish the break with a plan: rim, pitch, or pull-out. 'See what happens' is how 3v2s die."
+  ],
+  "commonMistakes": [
+    "Charging into a set defender — fix: read squared hips early and pull the ball out instead of forcing it.",
+    "Wings stopping short instead of sprinting to the corners — fix: run to the deep corner every single rep in practice until it is automatic.",
+    "Throwing the pitch-ahead pass behind the runner — fix: lead the teammate with the pass, throwing to where they are going, not where they are.",
+    "Nobody talking on the way back — fix: assign one voice ('ball!') and drill it until players call it without thinking."
+  ],
+  "gameSituations": [
+    "After a defensive rebound — the outlet pass triggers the break; the first three seconds decide everything.",
+    "After a made basket by the opponent — sprint into a quick-hitter before their defense is set.",
+    "After a live-ball steal — numbers are usually in your favor; attack the rim before help arrives.",
+    "Late-game with a lead — transition reads flip: protect the ball, pull it out, and make the defense work."
+  ],
+  "related": [
+    "transition-defense",
+    "transition-communication",
+    "transition-wall",
+    "trailing-big-transition",
+    "defense-to-offense"
+  ],
+  "diagram": {
+    "title": "3v2 break — pitch ahead to the wing, defenders backpedaling to protect the rim",
+    "ball": "O1",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 62
+      },
+      {
+        "label": "O2",
+        "x": 30,
+        "y": 50
+      },
+      {
+        "label": "O3",
+        "x": 70,
+        "y": 50
+      }
+    ],
+    "defense": [
+      {
+        "label": "D1",
+        "x": 50,
+        "y": 28
+      },
+      {
+        "label": "D2",
+        "x": 50,
+        "y": 14
+      }
+    ],
+    "passes": [
+      {
+        "from": "O1",
+        "to": "O2"
+      }
+    ],
+    "moves": [
+      {
+        "from": "O2",
+        "kind": "cut",
+        "to": "rim"
+      },
+      {
+        "from": "D1",
+        "kind": "move",
+        "to": "D2"
+      }
+    ],
+    "screens": [],
+    "shots": []
+  },
+  "vi": {
+    "title": "Đọc hàng phòng thủ trong chuyển trạng thái",
+    "description": "Cách đọc hàng phòng thủ đang lùi về trong 3 giây đầu: đếm quân số, đọc hông của hậu vệ, rồi chọn tấn công, chuyền vượt lên hay kéo bóng ra.",
+    "tags": [
+      "phòng thủ",
+      "phản công nhanh",
+      "nhãn quan chiến thuật",
+      "chiến thuật",
+      "giao tiếp"
+    ],
+    "whatIsIt": [
+      "Đọc hàng phòng thủ trong chuyển trạng thái là kỹ năng quan sát hàng thủ đang lùi về trong khi bạn đang chạy hết tốc lực — và ra quyết định đúng trước khi họ kịp đứng đội hình. Mỗi đợt chuyển trạng thái bắt đầu bằng ba câu hỏi: có bao nhiêu hậu vệ đã về, cơ thể họ đang xoay hướng nào, và ai là người trống nguy hiểm nhất?",
+      "Hậu vệ đang lùi yếu nhất khi hông họ còn xoay ngang và mắt dán vào bóng. Khoảnh khắc họ dừng lại, trụ chân và quay ngực về phía bạn, lợi thế của bạn đã hết. Cầu thủ chuyển trạng thái giỏi cảm nhận được cửa sổ đó đang khép lại và hoặc dứt điểm, hoặc chuyền vượt lên, hoặc chậm lại — không bao giờ lao tới muộn với bóng ở vùng chết."
+    ],
+    "whyItMatters": [
+      "Chuyển trạng thái là đợt tấn công hiệu quả nhất trong bóng rổ — cú ném ở sân trống có tỷ lệ thành công cao hơn hẳn so với đánh nửa sân. Một pha đọc sai biến lợi thế quân số thành một pha để mất bóng và đối thủ phản công ngược. Đội nào thắng được 3 giây đầu của mỗi đợt bóng sẽ thắng trận mà không cần lối đánh nửa sân hoàn hảo."
+    ],
+    "howTo": [
+      {
+        "title": "Đếm quân số trước tiên",
+        "detail": "Ngay khi đổi quyền kiểm soát bóng, đếm: bên mình có bao nhiêu người lên trước, đối thủ có bao nhiêu người về kịp. 2 đấu 1 và 3 đấu 2 là tấn công. 3 đấu 3 mà ai cũng đang chạy là vào tấn công sớm, không phải ném ẩu. Quân số quyết định cả đợt bóng — đếm đúng trước khi làm gì khác."
+      },
+      {
+        "title": "Đọc hông hậu vệ, đừng nhìn bóng",
+        "detail": "Hậu vệ đang lùi mà hông còn xoay ngang thì không đổi hướng nhanh được — đó là đèn xanh để bạn tấn công rổ. Khoảnh khắc hậu vệ dừng lại, trụ cả hai chân và quay ngực về phía bạn, họ đã đứng vững: kéo bóng ra hoặc đảo cánh. Hông nói cho bạn mọi thứ; quả bóng không nói gì cả."
+      },
+      {
+        "title": "Tấn công vào giữa, chuyền vượt ra cánh",
+        "detail": "Người dẫn bóng nên đâm vào hậu vệ ở giữa để ép họ phải chọn, rồi chuyền vượt lên cho cánh đang trống. Một đường chuyền vượt lên trước đồng đội đang chạy đáng giá bằng hai nhịp dẫn bóng — bóng di chuyển nhanh hơn bất kỳ hậu vệ nào lùi về."
+      },
+      {
+        "title": "Căn thời điểm chạy chỗ của big",
+        "detail": "Người chạy sau hoặc big nên chạy nước rút ở giữa sân, đến như đợt sóng thứ hai. Nếu hậu vệ đầu tiên lao vào bóng, người chạy rổ nhận đường chuyền thả rổ. Nếu hàng thủ co vào, người kèm big sẽ bỏ trống một tay ném — tìm người đó."
+      },
+      {
+        "title": "Chạy rộng ra góc sân",
+        "detail": "Cầu thủ cánh phải chạy tới góc sâu, đừng dừng ở ngang vạch ném phạt kéo dài. Góc rộng kéo giãn hàng thủ đang lùi tới giới hạn và mở ra đường chuyền đảo cánh giết chết phòng thủ chuyển trạng thái."
+      },
+      {
+        "title": "Giao tiếp trong lúc hỗn loạn",
+        "detail": "Phòng thủ chuyển trạng thái là lúc giao tiếp dễ vỡ nhất. Vừa chạy về vừa hô 'tôi kèm bóng', 'người chạy chỗ', 'người chạy sau'. Một tiếng hô to và sớm giúp hai hậu vệ không cùng đuổi một người trong khi một tay ném trống trải."
+      }
+    ],
+    "coachingPoints": [
+      "Tốc độ mà không kiểm soát chỉ là để mất bóng nhanh hơn — chạy hết tốc nhưng mắt luôn ngẩng lên.",
+      "Đường chuyền vượt lên đầu tiên luôn hơn ba nhịp dẫn bóng đầu tiên; đưa bóng lên bằng đường chuyền.",
+      "Hông của hậu vệ là tín hiệu đọc: hông xoay ngang là tấn công, hông vuông góc là chậm lại.",
+      "Không bao giờ dẫn bóng đâm vào hậu vệ đã đứng vững trong chuyển trạng thái — một pha phạm lỗi tấn công hay bị block sẽ đảo ngược đợt phản công.",
+      "Kết thúc đợt phản công phải có kế hoạch: lên rổ, chuyền vượt, hay kéo ra. 'Để xem sao đã' là cách 3 đấu 2 chết yểu."
+    ],
+    "commonMistakes": [
+      "Đâm vào hậu vệ đã đứng vững — sửa: đọc hông vuông góc từ sớm và kéo bóng ra thay vì cố đâm.",
+      "Cầu thủ cánh dừng sớm thay vì chạy tới góc — sửa: tập chạy tới góc sâu trong mọi lần tập cho đến khi thành phản xạ.",
+      "Chuyền vượt lên nhưng bóng rơi sau lưng người chạy — sửa: chuyền đón đầu, ném tới chỗ đồng đội sắp tới chứ không phải chỗ họ đang đứng.",
+      "Không ai nói gì khi chạy về — sửa: quy định một tiếng hô ('bóng!') và tập đến khi cầu thủ hô mà không cần nghĩ."
+    ],
+    "gameSituations": [
+      "Sau khi bắt rebound phòng thủ — đường chuyền phát động mở đợt phản công; 3 giây đầu quyết định tất cả.",
+      "Sau khi đối thủ ghi điểm — chạy nhanh vào bài đánh sớm trước khi hàng thủ họ kịp đứng.",
+      "Sau một pha cướp bóng sống — quân số thường nghiêng về bạn; tấn công rổ trước khi hỗ trợ tới.",
+      "Cuối trận khi đang dẫn — cách đọc đảo ngược: giữ bóng chắc, kéo ra ngoài, bắt hàng thủ phải làm việc."
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "id": "in-and-out-cross",
+  "slug": "in-and-out-cross",
+  "title": "In-and-Out Crossover",
+  "description": "Sell the in-and-out fake, then cross over the other way — a simple two-move combo for beating on-ball pressure.",
+  "hub": "skills",
+  "subcategory": "ball-handling",
+  "level": "beginner",
+  "ages": [
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "Guard",
+    "Wing"
+  ],
+  "readTime": 5,
+  "dateUpdated": "2026-10-11",
+  "whatIsIt": [
+    "The in-and-out crossover is a two-part combo every young guard should own. First you perform an in-and-out fake — the ball travels in front of your body like a crossover but stays in the same hand. Then, reading the defender's reaction, you throw a real crossover and drive the other way.",
+    "The genius of the combo is that both halves look like the same move at first. The defender has to honor the in-and-out as a possible crossover, and by the time they realize it stayed in your hand, the real crossover is already past them."
+  ],
+  "whyItMatters": [
+    "This is the highest-value combo for developing ball handlers because it teaches the two most important skills at once: selling fakes with your body and reading the defender before you commit. It also builds the habit of chaining moves instead of relying on a single one — the foundation of all advanced dribbling."
+  ],
+  "howTo": [
+    {
+      "title": "Dribble at the defender under control",
+      "detail": "Approach at a moderate pace with the ball in your strong hand. Keep your eyes up — you need to see the defender's feet and hips."
+    },
+    {
+      "title": "Start the in-and-out fake",
+      "detail": "Push the ball across your body in front of you as if starting a crossover, but keep your hand on it and let it stay on your strong side."
+    },
+    {
+      "title": "Sell it with your shoulders",
+      "detail": "Dip the shoulder toward the fake direction and look that way. The defender must believe a crossover is coming."
+    },
+    {
+      "title": "Pull the ball back",
+      "detail": "Snap the ball back to your strong side in a tight V. Watch the defender's weight — it should shift toward the fake."
+    },
+    {
+      "title": "Throw the real crossover",
+      "detail": "As the defender recovers toward your strong side, fire a hard crossover to your weak hand. This time let the ball actually change hands."
+    },
+    {
+      "title": "Drive the open lane",
+      "detail": "Explode past the defender's front foot with your first step, keeping the ball low and protected on your outside hip."
+    }
+  ],
+  "coachingPoints": [
+    "The in-and-out and the crossover must look identical for the first half-second — same shoulder dip, same ball path.",
+    "Do not rush the combo; give the defender a beat to react to the fake before the real crossover comes.",
+    "Keep the ball in front of your body, never behind — trailing the ball exposes it to reach-ins.",
+    "Eyes stay on the defender the whole time; looking at the ball tells them a move is coming."
+  ],
+  "commonMistakes": [
+    "Making the in-and-out too wide — fix: trace a narrow V in front of your knees during stationary practice.",
+    "Throwing the real crossover too late — fix: the crossover should start the instant the defender's weight shifts; drill it as one continuous sequence.",
+    "Standing upright during the combo — fix: touch a cone at knee height with your off hand between reps to force a low stance.",
+    "Only using the combo in one direction — fix: practice it from both sides so defenses can't scout you."
+  ],
+  "gameSituations": [
+    "Youth league pressure — against aggressive on-ball defenders, the combo creates separation without needing elite speed.",
+    "Baseline drives — the in-and-out freezes the baseline defender just long enough for the crossover to turn the corner.",
+    "Pick-and-roll setup — use the in-and-out to manipulate the on-ball defender before engaging the screen."
+  ],
+  "tags": [
+    "ball-handling",
+    "dribble-moves",
+    "combos"
+  ],
+  "related": [
+    "crossover",
+    "between-the-legs",
+    "ball-protection",
+    "pound-dribble",
+    "attacking-the-closeout"
+  ],
+  "diagram": {
+    "title": "O1 fakes the in-and-out right, then crosses over left and drives past D1",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 66,
+        "y": 29
+      }
+    ],
+    "defense": [
+      {
+        "label": "D1",
+        "x": 62,
+        "y": 27
+      }
+    ],
+    "ball": "O1",
+    "screens": [],
+    "moves": [
+      {
+        "from": "O1",
+        "to": "O1",
+        "kind": "dribble"
+      },
+      {
+        "from": "O1",
+        "to": "rim",
+        "kind": "dribble"
+      }
+    ],
+    "passes": [],
+    "shots": []
+  },
+  "vi": {
+    "title": "Combo in-and-out kết hợp crossover",
+    "description": "Nhử pha in-and-out giả, rồi crossover sang hướng ngược lại — combo hai động tác đơn giản để vượt qua áp lực kèm bóng.",
+    "whatIsIt": [
+      "In-and-out crossover là combo hai phần mà mọi hậu vệ trẻ nên thành thạo. Trước hết bạn thực hiện pha in-and-out giả — bóng di chuyển ngang trước người như một pha crossover nhưng vẫn ở nguyên tay. Rồi đọc phản ứng của hậu vệ, bạn tung một pha crossover thật và đâm sang hướng còn lại.",
+      "Điểm tinh tế của combo là cả hai nửa ban đầu trông như cùng một động tác. Hậu vệ buộc phải coi pha in-and-out như một pha crossover thật, và đến khi họ nhận ra bóng vẫn ở nguyên tay, pha crossover thật đã vượt qua họ."
+    ],
+    "whyItMatters": [
+      "Đây là combo giá trị nhất cho người đang phát triển kỹ thuật dẫn bóng vì nó dạy cùng lúc hai kỹ năng quan trọng nhất: diễn pha giả bằng cơ thể và đọc hậu vệ trước khi ra quyết định. Nó cũng rèn thói quen nối các động tác thay vì trông chờ vào một động tác đơn lẻ — nền tảng của mọi kỹ thuật dẫn bóng nâng cao."
+    ],
+    "howTo": [
+      {
+        "title": "Dẫn bóng áp sát có kiểm soát",
+        "detail": "Tiếp cận với tốc độ vừa phải, bóng ở tay thuận. Mắt nhìn lên — bạn cần thấy chân và hông của hậu vệ."
+      },
+      {
+        "title": "Bắt đầu pha in-and-out giả",
+        "detail": "Đẩy bóng ngang trước người như thể sắp crossover, nhưng tay vẫn giữ bóng và để bóng ở nguyên phía tay thuận."
+      },
+      {
+        "title": "Diễn bằng vai",
+        "detail": "Nhấn vai về hướng giả và nhìn sang đó. Hậu vệ phải tin rằng một pha crossover đang đến."
+      },
+      {
+        "title": "Kéo bóng về",
+        "detail": "Giật bóng về phía tay thuận theo hình chữ V hẹp. Quan sát trọng tâm hậu vệ — nó phải dịch về phía giả."
+      },
+      {
+        "title": "Tung pha crossover thật",
+        "detail": "Khi hậu vệ hồi về phía tay thuận của bạn, tung một pha crossover mạnh sang tay không thuận. Lần này để bóng thật sự đổi tay."
+      },
+      {
+        "title": "Đâm vào khoảng trống",
+        "detail": "Bước dài qua chân trước của hậu vệ, giữ bóng thấp và được che chắn ở hông ngoài."
+      }
+    ],
+    "coachingPoints": [
+      "Pha in-and-out và pha crossover phải trông giống hệt nhau trong nửa giây đầu — cùng độ nhấn vai, cùng đường bóng.",
+      "Đừng vội combo; cho hậu vệ một nhịp để phản ứng với pha giả trước khi pha crossover thật đến.",
+      "Giữ bóng trước người, không bao giờ để sau lưng — bóng tụt ra sau là mồi cho tay với.",
+      "Mắt dán vào hậu vệ suốt quá trình; nhìn xuống bóng là báo cho họ biết động tác sắp đến."
+    ],
+    "commonMistakes": [
+      "Pha in-and-out quá rộng — sửa: tập tại chỗ vẽ chữ V hẹp ngay trước đầu gối.",
+      "Tung pha crossover thật quá muộn — sửa: crossover phải bắt đầu ngay khi trọng tâm hậu vệ dịch chuyển; tập như một chuỗi liên tục.",
+      "Đứng thẳng người trong combo — sửa: chạm tay không thuận vào một cái nón ở tầm đầu gối giữa các lần tập để ép tư thế thấp.",
+      "Chỉ dùng combo một hướng — sửa: tập cả hai bên để hàng thủ không bắt bài."
+    ],
+    "gameSituations": [
+      "Áp lực ở giải trẻ — trước những hậu vệ kèm bóng hung hăng, combo tạo khoảng trống mà không cần tốc độ vượt trội.",
+      "Đâm dọc biên — pha in-and-out đóng băng hậu vệ biên vừa đủ để pha crossover rẽ vào trong.",
+      "Dàn xếp pick and roll — dùng in-and-out để điều khiển hậu vệ cầm bóng trước khi vào screen."
+    ],
+    "tags": [
+      "dẫn bóng",
+      "combo",
+      "đơn đấu"
+    ]
+  }
+}

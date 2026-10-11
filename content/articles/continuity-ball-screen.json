@@ -1,0 +1,240 @@
+{
+  "id": "continuity-ball-screen",
+  "slug": "continuity-ball-screen",
+  "title": "Continuity Ball Screen Offense",
+  "description": "A flowing team offense built on continuous ball screens: screen, roll, re-screen, repeat. The defense never gets a dead ball to reset against.",
+  "hub": "offense",
+  "subcategory": "team-offense",
+  "level": "beginner",
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 7,
+  "dateUpdated": "2026-10-11",
+  "whatIsIt": [
+    "Continuity ball screen offense is a team system where the ball screen never really ends — after one pick and roll, the ball swings and another screen is already being set, then another. Instead of running a set play that finishes, the offense flows from one ball screen into the next, with rules (not plays) telling each player where to go.",
+    "Think of it as a river, not a pond. A set play is a pond: the ball goes in, something happens, and then it stops. Continuity is a river: the ball keeps moving, screens keep coming, and the defense has to guard a new action every three seconds. The system is built on simple rules — who screens, where the roller goes, where the ball goes next — so any five players can run it."
+  ],
+  "whyItMatters": [
+    "Most youth and amateur offenses die the moment the first action is guarded — everyone stands around waiting for someone to 'do something.' Continuity ball screen solves that structurally: there is always a next action, so there is never a dead possession. It also develops every player at once — guards learn to use screens, bigs learn to screen and roll, and everyone learns to play without the ball. For coaches, it is the highest-return system you can install: simple rules, endless actions, and it works against any defense because it never stops probing."
+  ],
+  "howTo": [
+    {
+      "title": "Start with a side ball screen",
+      "detail": "O1 has the ball on the wing, O5 sets a side ball screen. O2 and O3 spot up on the weak side, O4 in the opposite corner. This is the base alignment — everything flows from here."
+    },
+    {
+      "title": "Play the first pick and roll",
+      "detail": "O1 uses the screen and reads the coverage: drive, pull up, hit the roller, or kick. Play it honestly — the continuity only works if the first PNR is a real threat."
+    },
+    {
+      "title": "The roller clears, the ball swings",
+      "detail": "After the PNR, O5 rolls through and clears to the weak side. The ball swings (via O1's pass or a reversal) to the opposite side of the floor. No standing — the swing starts the next action."
+    },
+    {
+      "title": "Re-screen on the catch",
+      "detail": "As the ball arrives on the new side, the next screener (O4) is already setting a ball screen for the new ball handler. The rule: every catch on the wing triggers a ball screen within two seconds."
+    },
+    {
+      "title": "Keep the cycle going",
+      "detail": "Play the second PNR, swing again, screen again. The offense continues until the defense breaks — a missed rotation, a late switch, a tired big. Most possessions end within three cycles."
+    },
+    {
+      "title": "Build in the release valves",
+      "detail": "Two rules prevent stagnation: (1) any roller who is open gets the ball — never skip the easy basket to run another screen; (2) if the ball sticks for more than two seconds, the nearest big ball-screens the ball — no standing, ever."
+    }
+  ],
+  "coachingPoints": [
+    "Rules, not plays. Teach the three rules — screen on the catch, roller clears, ball keeps moving — and let players play. Over-scripting kills the flow.",
+    "The first PNR must be real. If players go through the motions on screen one, the defense never has to guard anything and the continuity is just cardio.",
+    "Sprint into screens. The system only stresses the defense if each screen arrives at game speed — jogging screeners let the defense rest.",
+    "Bigs: you are the engine. In this offense the bigs touch the ball constantly as screeners and rollers — condition them for it.",
+    "Drill it 5-on-0 until the ball never stops, then add guided defense, then live. The flow has to be automatic before it faces pressure."
+  ],
+  "commonMistakes": [
+    "Ball sticks after the first PNR — everyone watches — fix: the two-second rule; if the ball hasn't moved, the nearest big screens the ball immediately.",
+    "Screeners jog to their spots — fix: time the cycles; each new screen should arrive within 3 seconds of the previous action ending.",
+    "Rollers stop after one roll — fix: the roller clears THROUGH to the other side every time; no standing under the basket.",
+    "Players skip the open roller to run 'the system' — fix: rule one is always 'open roller gets the ball'; the system serves the easy basket, not the other way around."
+  ],
+  "gameSituations": [
+    "Youth team offense: install this as your base and 12-year-olds run real offense — everyone screens, everyone moves, no one stands.",
+    "Against switching defenses: continuous screens force continuous switches — eventually the communication breaks and a mismatch appears.",
+    "Tired legs, fourth quarter: the system generates shots without isolation heroics — the screens do the work when legs are gone."
+  ],
+  "tags": [
+    "continuity offense",
+    "ball screen",
+    "team offense",
+    "pick and roll",
+    "motion"
+  ],
+  "related": [
+    "motion-offense",
+    "drag-screen",
+    "pick-and-roll-basics",
+    "rescreen-pnr",
+    "drive-and-kick-offense"
+  ],
+  "diagram": {
+    "title": "Continuity ball screen — side PNR, ball swings, next screener is already setting",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 70,
+        "y": 45
+      },
+      {
+        "label": "O5",
+        "x": 65,
+        "y": 38
+      },
+      {
+        "label": "O4",
+        "x": 30,
+        "y": 20
+      },
+      {
+        "label": "O2",
+        "x": 15,
+        "y": 35
+      },
+      {
+        "label": "O3",
+        "x": 88,
+        "y": 7
+      }
+    ],
+    "defense": [
+      {
+        "label": "D1",
+        "x": 70,
+        "y": 40
+      },
+      {
+        "label": "D5",
+        "x": 65,
+        "y": 43
+      },
+      {
+        "label": "D4",
+        "x": 30,
+        "y": 25
+      },
+      {
+        "label": "D2",
+        "x": 19,
+        "y": 35
+      },
+      {
+        "label": "D3",
+        "x": 84,
+        "y": 12
+      }
+    ],
+    "ball": "O1",
+    "screens": [
+      {
+        "x": 65,
+        "y": 42
+      }
+    ],
+    "moves": [
+      {
+        "from": "O5",
+        "to": "O1",
+        "kind": "screen-run"
+      },
+      {
+        "from": "O1",
+        "to": "O4",
+        "kind": "dribble"
+      },
+      {
+        "from": "O5",
+        "to": "O2",
+        "kind": "cut"
+      },
+      {
+        "from": "O4",
+        "to": "O1",
+        "kind": "screen-run"
+      }
+    ],
+    "passes": [
+      {
+        "from": "O1",
+        "to": "O2"
+      }
+    ],
+    "shots": []
+  },
+  "vi": {
+    "title": "Tấn công ball screen liên tục (continuity ball screen)",
+    "description": "Hệ thống tấn công đồng đội xây trên ball screen liên tục: screen, roll, dựng lại screen, lặp lại. Hàng thủ không bao giờ có pha bóng chết để reset.",
+    "whatIsIt": [
+      "Continuity ball screen là hệ thống tấn công đồng đội mà ball screen không bao giờ thực sự kết thúc — sau một pick and roll, bóng đảo sang và screen tiếp theo đã được dựng, rồi screen nữa. Thay vì chạy một bài đánh có điểm dừng, tấn công chảy từ ball screen này sang ball screen khác, với các quy tắc (không phải bài vở) chỉ mỗi cầu thủ đi đâu.",
+      "Hãy hình dung nó như dòng sông, không phải ao tù. Bài đánh cố định là ao tù: bóng vào, chuyện gì đó xảy ra, rồi dừng. Continuity là dòng sông: bóng không ngừng di chuyển, screen liên tục đến, hàng thủ phải kèm một miếng đánh mới mỗi ba giây. Hệ thống xây trên các quy tắc đơn giản — ai dựng screen, người roll đi đâu, bóng đi đâu tiếp — nên năm cầu thủ nào cũng chạy được."
+    ],
+    "whyItMatters": [
+      "Hầu hết tấn công ở cấp độ trẻ và phong trào chết ngay khi miếng đầu bị kèm — mọi người đứng nhìn chờ ai đó 'làm gì đi'. Continuity ball screen giải quyết điều đó về mặt cấu trúc: luôn có miếng tiếp theo, nên không bao giờ có pha bóng chết. Nó còn phát triển mọi cầu thủ cùng lúc — hậu vệ học dùng screen, big học dựng screen và roll, ai cũng học chơi không bóng. Với HLV, đây là hệ thống có lợi tức cao nhất có thể dựng: quy tắc đơn giản, miếng đánh vô tận, và hiệu quả trước mọi hàng thủ vì nó không ngừng thăm dò."
+    ],
+    "howTo": [
+      {
+        "title": "Bắt đầu bằng side ball screen",
+        "detail": "O1 cầm bóng ở cánh, O5 dựng side ball screen. O2 và O3 đứng phía yếu, O4 ở góc đối diện. Đây là đội hình gốc — mọi thứ chảy từ đây."
+      },
+      {
+        "title": "Đánh pick and roll đầu thật sự",
+        "detail": "O1 dùng screen và đọc coverage: đột phá, pull-up, chuyền cho người roll, hoặc chuyền ra. Đánh thật — continuity chỉ hiệu quả khi PNR đầu là mối đe dọa thật."
+      },
+      {
+        "title": "Người roll dọn qua, bóng đảo sang",
+        "detail": "Sau PNR, O5 roll xuyên qua và dọn sang phía yếu. Bóng đảo (qua đường chuyền của O1 hoặc đảo ngược) sang phía bên kia sân. Không đứng yên — pha đảo bóng khởi động miếng tiếp theo."
+      },
+      {
+        "title": "Dựng lại screen khi bóng đến",
+        "detail": "Khi bóng đến phía mới, người dựng tiếp theo (O4) đã dựng screen cho người cầm bóng mới. Quy tắc: mỗi lần bắt bóng ở cánh là có ball screen trong vòng hai giây."
+      },
+      {
+        "title": "Giữ chu kỳ tiếp diễn",
+        "detail": "Đánh PNR thứ hai, đảo bóng tiếp, dựng screen tiếp. Tấn công tiếp tục đến khi hàng thủ vỡ — một pha rotation trượt, một switch muộn, một big đuối sức. Hầu hết pha bóng kết thúc trong ba chu kỳ."
+      },
+      {
+        "title": "Dựng sẵn các van xả",
+        "detail": "Hai quy tắc chống bế tắc: (1) người roll nào trống là có bóng — không bao giờ bỏ rổ dễ để chạy thêm screen; (2) bóng dính quá hai giây thì big gần nhất dựng screen cho bóng — không ai được đứng yên."
+      }
+    ],
+    "coachingPoints": [
+      "Quy tắc, không phải bài vở. Dạy ba quy tắc — có bóng ở cánh là có screen, người roll dọn qua, bóng không ngừng di chuyển — rồi để cầu thủ chơi. Kịch bản hóa quá mức giết chết dòng chảy.",
+      "PNR đầu phải thật. Cầu thủ mà diễn cho qua ở screen một thì hàng thủ chẳng phải kèm gì, continuity chỉ còn là chạy thể lực.",
+      "Chạy nước rút vào vị trí dựng screen. Hệ thống chỉ gây áp lực khi mỗi screen đến với tốc độ trận đấu — người dựng chạy lững thững là cho hàng thủ nghỉ.",
+      "Bigman: các bạn là động cơ. Trong hệ thống này big chạm bóng liên tục qua screen và roll — rèn thể lực cho họ tương xứng.",
+      "Tập 5-không đến khi bóng không bao giờ dừng, rồi thêm phòng thủ hướng dẫn, rồi đánh thật. Dòng chảy phải thành tự động trước khi đối mặt áp lực."
+    ],
+    "commonMistakes": [
+      "Bóng dính sau PNR đầu — mọi người đứng xem — sửa: luật hai giây; bóng chưa di chuyển thì big gần nhất dựng screen ngay.",
+      "Người dựng chạy lững thững vào vị trí — sửa: bấm giờ các chu kỳ; mỗi screen mới phải đến trong 3 giây sau khi miếng trước kết thúc.",
+      "Người roll dừng sau một lần roll — sửa: người roll dọn XUYÊN sang phía bên kia mọi lần; không đứng dưới rổ.",
+      "Cầu thủ bỏ qua người roll đang trống để chạy 'hệ thống' — sửa: quy tắc một luôn là 'người roll trống là có bóng'; hệ thống phục vụ rổ dễ, không phải ngược lại."
+    ],
+    "gameSituations": [
+      "Tấn công cho đội trẻ: dựng hệ thống này làm nền, trẻ 12 tuổi cũng chạy được tấn công thật — ai cũng screen, ai cũng di chuyển, không ai đứng.",
+      "Trước hàng thủ switch: screen liên tục ép switch liên tục — rồi sẽ đến lúc hô coverage vỡ và mismatch xuất hiện.",
+      "Chân đuối ở hiệp bốn: hệ thống tạo cú ném mà không cần hero-ball — screen làm việc thay cho đôi chân đã mỏi."
+    ],
+    "tags": [
+      "continuity offense",
+      "ball screen",
+      "tấn công đồng đội",
+      "pick and roll",
+      "motion"
+    ]
+  }
+}

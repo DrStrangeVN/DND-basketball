@@ -1,0 +1,239 @@
+{
+  "id": "horns-rescreen",
+  "slug": "horns-rescreen",
+  "title": "Horns Rescreen",
+  "description": "The horns counter-punch: when the defense takes away the first horns ball screen, the other elbow big re-screens. Same alignment, second problem.",
+  "hub": "pick-and-roll",
+  "subcategory": "pick-and-roll",
+  "level": "intermediate",
+  "ages": [
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 6,
+  "dateUpdated": "2026-10-11",
+  "whatIsIt": [
+    "Horns rescreen is the built-in counter of the horns offense: the ball handler uses a ball screen from one elbow big, and when the defense handles it — hedging hard, icing it, switching it — the second elbow big immediately steps in with a re-screen. It is the horns version of 'screen again,' and it lives in the same alignment, so the defense never sees a new formation.",
+    "The difference from the horns twist is intent. The twist is a planned double screen — both screens are part of the play call. The rescreen is a read: the ball handler tries the first screen, reads that it's dead, and the second big re-screens on the fly. The twist is choreography; the rescreen is jazz."
+  ],
+  "whyItMatters": [
+    "Horns is the most common set in modern basketball, which means it is also the most scouted — defenses have a plan for your horns ball screen. The rescreen is what keeps horns alive against a prepared defense: it turns their successful coverage of screen one into the setup for screen two. Teams that run horns without a rescreen concept are running half an offense; the rescreen is the second half."
+  ],
+  "howTo": [
+    {
+      "title": "Set horns and run the first ball screen",
+      "detail": "Standard horns: O1 up top, O4 and O5 at the elbows, shooters in the corners. O1 chooses a side and uses O4's ball screen — a real attempt, not a decoy."
+    },
+    {
+      "title": "Read the first screen honestly",
+      "detail": "O1 reads in one dribble: did the screen create an advantage? If the defense hedged hard, iced it, or switched cleanly — the first screen is dead. Don't force it; trigger the rescreen."
+    },
+    {
+      "title": "The second big re-screens",
+      "detail": "O5 reads the dead screen and steps into the re-screen — from the other elbow, at a new angle. The call can be verbal ('again!') or automatic: in this system, a dead horns screen always gets re-screened."
+    },
+    {
+      "title": "O4 clears the action",
+      "detail": "The first screener must get out of the way: roll through, pop out, or dive — anything but standing where the rescreen is happening. A clearing first screener also drags his defender away from the second screen."
+    },
+    {
+      "title": "Attack the re-screen with fresh eyes",
+      "detail": "O1 comes off O5's screen reading a new coverage — the defense just spent its best coverage on screen one. This is usually where the advantage appears: a late hedge, a confused switch, or a wide-open pull-up."
+    },
+    {
+      "title": "Keep the corners live",
+      "detail": "Both corners stay home and stay ready. The rescreen often forces a late rotation from the weak side — the corner three is the classic reward for a well-executed horns rescreen."
+    }
+  ],
+  "coachingPoints": [
+    "Make it automatic. The best horns teams don't call the rescreen — the second big just does it when the first screen dies. Drill the trigger until it's instinct.",
+    "The first screener's clear-out is half the play. A standing first screener clogs the rescreen; teach the roll-through or pop as part of the action.",
+    "New angle, not the same angle. The rescreen must come from the other elbow at a different angle — re-screening the same spot just hits the same recovered defender.",
+    "Guard: don't predetermine. Read screen one honestly; if it's live, attack it — the rescreen is for dead screens only.",
+    "Practice the verbal and non-verbal triggers. In loud gyms the call won't be heard — the second big must also read the guard's body language."
+  ],
+  "commonMistakes": [
+    "Re-screening when the first screen worked — fix: if you have the advantage, take it; the rescreen is a counter, not the primary option.",
+    "Second big arrives late — fix: he should be moving as the guard's first dribble off screen one happens, not after.",
+    "First screener stands in the way — fix: drill the clear-out as part of the horns rep; it's not optional.",
+    "Same angle re-screen — fix: the rescreen comes from the opposite elbow; check the geometry in film."
+  ],
+  "gameSituations": [
+    "Against a scouted horns: when opponents jump your horns ball screen, the rescreen is the in-game adjustment that needs no timeout.",
+    "Late-clock horns: with 8 seconds left, a rescreen is faster than calling a new play — same alignment, new screen.",
+    "Playoff chess: the rescreen forces the defense to defend horns twice per possession — eventually the communication breaks."
+  ],
+  "tags": [
+    "horns",
+    "re-screen",
+    "pick and roll",
+    "counter",
+    "half-court offense"
+  ],
+  "related": [
+    "horns-offense",
+    "horns-pick-and-roll",
+    "rescreen-pnr",
+    "horns-variations",
+    "double-ball-screen"
+  ],
+  "diagram": {
+    "title": "Horns rescreen — O4's screen is hedged, O5 steps in from the other elbow with the re-screen",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 45,
+        "y": 52
+      },
+      {
+        "label": "O4",
+        "x": 33,
+        "y": 22
+      },
+      {
+        "label": "O5",
+        "x": 67,
+        "y": 20
+      },
+      {
+        "label": "O2",
+        "x": 10,
+        "y": 7
+      },
+      {
+        "label": "O3",
+        "x": 90,
+        "y": 7
+      }
+    ],
+    "defense": [
+      {
+        "label": "D1",
+        "x": 42,
+        "y": 47
+      },
+      {
+        "label": "D4",
+        "x": 33,
+        "y": 27
+      },
+      {
+        "label": "D5",
+        "x": 67,
+        "y": 25
+      },
+      {
+        "label": "D2",
+        "x": 15,
+        "y": 13
+      },
+      {
+        "label": "D3",
+        "x": 85,
+        "y": 13
+      }
+    ],
+    "ball": "O1",
+    "screens": [
+      {
+        "x": 58,
+        "y": 44
+      }
+    ],
+    "moves": [
+      {
+        "from": "O4",
+        "to": "O1",
+        "kind": "screen-run"
+      },
+      {
+        "from": "O1",
+        "to": "O5",
+        "kind": "dribble"
+      },
+      {
+        "from": "O5",
+        "to": "O1",
+        "kind": "screen-run"
+      },
+      {
+        "from": "O1",
+        "to": "rim",
+        "kind": "dribble"
+      },
+      {
+        "from": "O4",
+        "to": "rim",
+        "kind": "cut"
+      }
+    ],
+    "passes": [],
+    "shots": []
+  },
+  "vi": {
+    "title": "Dựng lại screen trong horns (horns rescreen)",
+    "description": "Đòn phản đòn tích hợp của horns: hàng thủ bít ball screen đầu của horns thì big ở elbow còn lại dựng lại screen. Cùng đội hình, vấn đề thứ hai.",
+    "whatIsIt": [
+      "Horns rescreen là đòn phản đòn tích hợp của horns offense: người dẫn bóng dùng ball screen từ big ở một elbow, và khi hàng thủ xử lý được — hedge mạnh, ice, switch sạch — big ở elbow còn lại lập tức bước vào dựng lại screen. Đây là bản horns của 'dựng lại screen', và nó sống trong cùng đội hình nên hàng thủ không bao giờ thấy đội hình mới.",
+      "Khác với horns twist ở ý đồ. Twist là double screen có kế hoạch — cả hai screen đều nằm trong bài gọi. Rescreen là cách đọc: người dẫn bóng thử screen đầu, đọc ra nó chết, và big thứ hai dựng lại screen ngay. Twist là biên đạo; rescreen là ứng biến."
+    ],
+    "whyItMatters": [
+      "Horns là đội hình phổ biến nhất của bóng rổ hiện đại, nghĩa là cũng bị scout kỹ nhất — hàng thủ có kế hoạch cho horns ball screen của bạn. Rescreen là thứ giữ horns còn sống trước hàng thủ đã chuẩn bị: nó biến pha coverage thành công screen một của họ thành bước dọn cho screen hai. Đội nào chạy horns mà không có khái niệm rescreen là mới chạy nửa hệ thống tấn công; rescreen là nửa còn lại."
+    ],
+    "howTo": [
+      {
+        "title": "Xếp horns và chạy ball screen đầu",
+        "detail": "Horns chuẩn: O1 ở trên, O4 và O5 ở hai elbow, tay ném ở hai góc. O1 chọn một bên và dùng ball screen của O4 — một nỗ lực thật, không phải mồi."
+      },
+      {
+        "title": "Đọc screen đầu trung thực",
+        "detail": "O1 đọc trong một nhịp dẫn: screen có tạo lợi thế không? Hàng thủ hedge mạnh, ice, hoặc switch sạch — thì screen đầu đã chết. Đừng cố; kích hoạt rescreen."
+      },
+      {
+        "title": "Big thứ hai dựng lại screen",
+        "detail": "O5 đọc ra screen chết và bước vào dựng lại — từ elbow bên kia, ở góc mới. Có thể hô ('lại!') hoặc tự động: trong hệ thống này, horns screen chết là luôn được dựng lại."
+      },
+      {
+        "title": "Người dựng đầu dọn khỏi miếng đánh",
+        "detail": "Người dựng đầu phải tránh đường: roll xuyên qua, pop ra, hoặc lao vào — làm gì cũng được trừ đứng yên chỗ rescreen diễn ra. Người dựng đầu dọn đi cũng kéo hậu vệ của mình ra khỏi screen thứ hai."
+      },
+      {
+        "title": "Tấn công rescreen với con mắt mới",
+        "detail": "O1 vòng qua screen của O5, đọc một coverage mới — hàng thủ vừa dùng coverage tốt nhất cho screen một. Đây thường là lúc lợi thế xuất hiện: hedge muộn, switch lúng túng, hoặc pull-up trống trải."
+      },
+      {
+        "title": "Giữ hai góc luôn sẵn sàng",
+        "detail": "Cả hai góc đứng yên và sẵn sàng. Rescreen thường ép một pha rotation muộn từ phía yếu — cú 3 điểm ở góc là phần thưởng kinh điển cho horns rescreen thực hiện tốt."
+      }
+    ],
+    "coachingPoints": [
+      "Biến nó thành tự động. Các đội horns hay nhất không gọi rescreen — big thứ hai tự làm khi screen đầu chết. Tập cò kích hoạt đến khi thành bản năng.",
+      "Pha dọn của người dựng đầu là nửa miếng đánh. Người dựng đầu đứng yên là bít rescreen; dạy roll xuyên qua hoặc pop như một phần của miếng đánh.",
+      "Góc mới, không phải góc cũ. Rescreen phải đến từ elbow bên kia ở góc khác — dựng lại đúng chỗ cũ chỉ đâm vào cùng hậu vệ đã hồi phục.",
+      "Hậu vệ: đừng định sẵn. Đọc screen một trung thực; nó còn sống thì tấn công nó — rescreen chỉ dành cho screen chết.",
+      "Tập cả tín hiệu nói và không lời. Nhà thi đấu ồn thì tiếng gọi không nghe được — big thứ hai phải đọc cả ngôn ngữ cơ thể của hậu vệ."
+    ],
+    "commonMistakes": [
+      "Dựng lại khi screen đầu đã hiệu quả — sửa: đã có lợi thế thì lấy nó; rescreen là đòn phản đòn, không phải phương án chính.",
+      "Big thứ hai đến muộn — sửa: anh ta phải di chuyển ngay khi nhịp dẫn đầu của hậu vệ qua screen một diễn ra, không phải sau đó.",
+      "Người dựng đầu đứng chắn đường — sửa: tập pha dọn như một phần của rep horns; nó không phải tùy chọn.",
+      "Rescreen cùng góc — sửa: rescreen đến từ elbow đối diện; kiểm tra hình học qua video."
+    ],
+    "gameSituations": [
+      "Trước horns bị scout: đối thủ nhảy vào horns ball screen của bạn thì rescreen là điều chỉnh trong trận không cần hội ý.",
+      "Horns cuối đồng hồ: còn 8 giây thì rescreen nhanh hơn gọi bài mới — cùng đội hình, screen mới.",
+      "Cờ vua playoff: rescreen ép hàng thủ kèm horns hai lần mỗi pha bóng — rồi sẽ đến lúc hô coverage vỡ."
+    ],
+    "tags": [
+      "horns",
+      "dựng lại screen",
+      "pick and roll",
+      "đòn phản đòn",
+      "tấn công half-court"
+    ]
+  }
+}

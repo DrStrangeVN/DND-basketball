@@ -1,0 +1,174 @@
+{
+  "id": "scissor-crossover",
+  "slug": "scissor-crossover",
+  "title": "Scissor Crossover",
+  "description": "A lightning between-the-legs snapped straight into a crossover — the scissor motion that shreds reaching defenders.",
+  "hub": "skills",
+  "subcategory": "ball-handling",
+  "level": "advanced",
+  "ages": [
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "Guard",
+    "Wing"
+  ],
+  "readTime": 6,
+  "dateUpdated": "2026-10-11",
+  "whatIsIt": [
+    "The scissor crossover chains a between-the-legs dribble directly into a crossover, with the ball switching hands twice in about half a second. The motion looks like scissors closing: the ball goes through your legs one way and immediately snaps back across your body the other way.",
+    "Defenders hate this move because it attacks both sides of their stance in one sequence. The between-the-legs forces their hips to open toward your weak side, and the instant crossover punishes that commitment by going back where they just came from."
+  ],
+  "whyItMatters": [
+    "At higher levels, single moves stop working — defenders recover. The scissor is a true counter-move: it is specifically designed for the moment a defender correctly reads your between-the-legs and shifts to cut it off. It turns their correct read into the reason they get beaten, which is the essence of advanced ball handling."
+  ],
+  "howTo": [
+    {
+      "title": "Attack at pace with the ball low",
+      "detail": "Dribble hard at the defender, ball below your knees. The move needs speed to compress the defender's reaction time."
+    },
+    {
+      "title": "Open your stance for the between-the-legs",
+      "detail": "Take a small hop-step to widen your base slightly, shifting your weight toward your weak-hand side to sell the drive."
+    },
+    {
+      "title": "Push the ball through your legs",
+      "detail": "Snap the ball through your legs to your weak hand with a quick wrist flick. Keep your head and shoulders level — no dipping."
+    },
+    {
+      "title": "Catch and fire it straight back",
+      "detail": "The instant the ball reaches your weak hand, fire a crossover back across to your strong hand. There is no bounce in between — it is one continuous scissor motion."
+    },
+    {
+      "title": "Step through the open angle",
+      "detail": "As the crossover lands, step hard with your strong-side foot past the defender's lead foot. Your body should be past their hip before they turn."
+    },
+    {
+      "title": "Finish the drive protected",
+      "detail": "Shield the ball on your outside hip and attack the rim, reading the help defender with your eyes up."
+    }
+  ],
+  "coachingPoints": [
+    "The between-the-legs must be a real threat — if you wouldn't drive off it, the defender won't respect it either.",
+    "The crossover back has to be violent and low; a soft return bounce gets stolen by the recovering defender.",
+    "Keep your dribble in front of your body on the crossover return — trailing it behind your back foot invites reach-ins.",
+    "Practice at game speed only; slow scissor reps teach a rhythm that doesn't exist in games."
+  ],
+  "commonMistakes": [
+    "Pausing between the legs and the crossover — fix: count 'one' for the whole scissor; if you can count to two, you're too slow.",
+    "Kicking the ball with your trail leg — fix: widen your hop-step slightly and push the ball through earlier, before your legs close.",
+    "Losing balance on the return crossover — fix: keep your weight centered over your base instead of lunging toward the drive side early.",
+    "Using it in traffic — fix: the scissor is a one-on-one weapon; in crowds, protect the ball and pass out instead."
+  ],
+  "gameSituations": [
+    "Isolation against a disciplined defender — when they read your between-the-legs correctly, the scissor is the built-in counter.",
+    "End-of-shot-clock creation — two violent direction changes in half a second manufacture a shot against set defense.",
+    "Beating the hedge in pick-and-roll — the scissor gets you past a hard-hedging big before they can recover to the paint."
+  ],
+  "tags": [
+    "ball-handling",
+    "dribble-moves",
+    "advanced-combos"
+  ],
+  "related": [
+    "between-the-legs",
+    "crossover",
+    "behind-the-back",
+    "change-of-pace",
+    "ball-handler-reads"
+  ],
+  "diagram": {
+    "title": "O1 pushes the ball through the legs, then scissors it straight back across to beat D1",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 56,
+        "y": 34
+      }
+    ],
+    "defense": [
+      {
+        "label": "D1",
+        "x": 52,
+        "y": 32
+      }
+    ],
+    "ball": "O1",
+    "screens": [],
+    "moves": [
+      {
+        "from": "O1",
+        "to": "O1",
+        "kind": "dribble"
+      },
+      {
+        "from": "O1",
+        "to": "rim",
+        "kind": "dribble"
+      }
+    ],
+    "passes": [],
+    "shots": []
+  },
+  "vi": {
+    "title": "Kỹ thuật scissor crossover",
+    "description": "Một pha xỏ háng chớp nhoáng nối thẳng vào crossover — chuyển động như kéo cắt xé toang những hậu vệ hay với tay.",
+    "whatIsIt": [
+      "Scissor crossover nối một pha dẫn bóng xỏ háng trực tiếp vào crossover, bóng đổi tay hai lần trong khoảng nửa giây. Chuyển động trông như kéo đang khép: bóng đi xuyên qua chân theo một hướng rồi lập tức giật ngược qua người theo hướng còn lại.",
+      "Hậu vệ rất ghét động tác này vì nó tấn công cả hai phía của tư thế phòng thủ trong một chuỗi. Pha xỏ háng buộc hông họ mở về phía tay không thuận, và pha crossover ngay sau đó trừng phạt chính sự dồn trọng tâm đó bằng cách quay về nơi họ vừa rời đi."
+    ],
+    "whyItMatters": [
+      "Ở cấp độ cao, các động tác đơn lẻ không còn hiệu quả — hậu vệ hồi phục được. Scissor là một đòn phản công thật sự: nó được thiết kế cho khoảnh khắc hậu vệ đọc đúng pha xỏ háng của bạn và dịch người chặn lại. Nó biến pha đọc đúng của họ thành lý do họ bị vượt qua — đó là bản chất của kỹ thuật dẫn bóng nâng cao."
+    ],
+    "howTo": [
+      {
+        "title": "Tấn công với tốc độ, bóng thấp",
+        "detail": "Dẫn bóng mạnh về phía hậu vệ, bóng dưới đầu gối. Động tác cần tốc độ để nén thời gian phản ứng của hậu vệ."
+      },
+      {
+        "title": "Mở bộ chân cho pha xỏ háng",
+        "detail": "Nhảy chụm nhỏ để mở rộng chân trụ một chút, dồn trọng tâm về phía tay không thuận để nhử pha đâm."
+      },
+      {
+        "title": "Đẩy bóng xuyên qua chân",
+        "detail": "Búng cổ tay đẩy bóng xuyên qua chân sang tay không thuận. Giữ đầu và vai ngang bằng — không cúi gập."
+      },
+      {
+        "title": "Bắt và giật ngược ngay",
+        "detail": "Ngay khi bóng tới tay không thuận, tung crossover giật ngược về tay thuận. Không có nhịp nảy nào ở giữa — một chuyển động kéo cắt liên tục."
+      },
+      {
+        "title": "Bước xuyên qua góc mở",
+        "detail": "Khi crossover chạm đất, bước mạnh bằng chân phía tay thuận qua chân trước của hậu vệ. Người bạn phải qua khỏi hông họ trước khi họ kịp xoay."
+      },
+      {
+        "title": "Kết thúc pha đâm có che chắn",
+        "detail": "Che bóng ở hông ngoài và tấn công rổ, mắt nhìn lên đọc hậu vệ hỗ trợ."
+      }
+    ],
+    "coachingPoints": [
+      "Pha xỏ háng phải là mối đe dọa thật — nếu bạn không dám đâm từ đó, hậu vệ cũng sẽ không coi trọng nó.",
+      "Pha crossover giật về phải mạnh và thấp; cú nảy về yếu ớt là mồi cho hậu vệ đang hồi phục cướp mất.",
+      "Giữ nhịp bóng trước người khi crossover về — để bóng tụt ra sau chân là mời tay với.",
+      "Chỉ tập ở tốc độ thi đấu; tập scissor chậm dạy một nhịp điệu không tồn tại trong trận đấu."
+    ],
+    "commonMistakes": [
+      "Ngừng giữa pha xỏ háng và crossover — sửa: đếm 'một' cho cả pha kéo cắt; nếu đếm được tới hai là bạn quá chậm.",
+      "Đá trúng bóng bằng chân sau — sửa: mở rộng bước nhảy chụm một chút và đẩy bóng xuyên qua sớm hơn, trước khi hai chân khép lại.",
+      "Mất thăng bằng ở pha crossover về — sửa: giữ trọng tâm ở giữa hai chân thay vì lao sớm về phía đâm.",
+      "Dùng trong đám đông — sửa: scissor là vũ khí một-đối-một; trong đám đông thì che bóng và chuyền ra."
+    ],
+    "gameSituations": [
+      "Đơn đấu với hậu vệ kỷ luật — khi họ đọc đúng pha xỏ háng của bạn, scissor là đòn phản công có sẵn.",
+      "Tạo đột biến cuối đồng hồ — hai lần đổi hướng dữ dội trong nửa giây tạo ra cú ném trước hàng thủ đã vào thế.",
+      "Vượt hedge trong pick and roll — scissor đưa bạn qua trung phong hedge mạnh trước khi họ kịp hồi về khu vực dưới rổ."
+    ],
+    "tags": [
+      "dẫn bóng",
+      "combo nâng cao",
+      "đơn đấu"
+    ]
+  }
+}

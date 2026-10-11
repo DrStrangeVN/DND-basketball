@@ -1,0 +1,142 @@
+{
+  "title": "Developing Playmakers",
+  "description": "How coaches build players who create for others: vision training, decision reps, and the freedom to fail.",
+  "hub": "coaching",
+  "subcategory": "player-development",
+  "level": "advanced",
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 7,
+  "dateUpdated": "2026-10-11",
+  "tags": [
+    "playmaking",
+    "vision",
+    "passing",
+    "decision-making"
+  ],
+  "whatIsIt": [
+    "Developing playmakers means training players to create advantages for teammates — not just to score, but to bend the defense and deliver the ball where it hurts most. Playmaking is part skill (passing technique, ball handling under pressure) and part cognition (reading help defenders, timing, anticipation).",
+    "Most systems try to coach playmaking through set plays. That produces robots who execute patterns. True playmakers are built through thousands of unstructured decisions in small-sided games, where they learn to read and react instead of memorize."
+  ],
+  "whyItMatters": [
+    "One elite playmaker raises the efficiency of all four teammates — the highest-leverage skill in basketball. Teams with multiple playmakers are nearly impossible to scout because the attack can start from anywhere. In the modern game, playmaking is no longer a point-guard-only job."
+  ],
+  "howTo": [
+    {
+      "title": "Play small-sided games daily",
+      "detail": "Use 2v2, 3v3, and 4v4 with modified rules (e.g. must pass within 3 seconds, or score only off an assist). Small spaces force quick reads; players get 5x more decisions per minute than in 5v5."
+    },
+    {
+      "title": "Train vision separately from skill",
+      "detail": "Run drills where the passer must call out a number or color flashed by a coach while delivering the pass. This builds the habit of seeing the whole floor instead of staring at the ball or the target."
+    },
+    {
+      "title": "Teach the two-man game deeply",
+      "detail": "Pick-and-roll reads, dribble handoffs, and give-and-go are the grammar of playmaking. Drill them against live, rotating coverages (drop, hedge, switch) so the playmaker learns to read the defense, not the diagram."
+    },
+    {
+      "title": "Allow creative failure",
+      "detail": "A young playmaker who never turns it over is not trying enough. Set an explicit 'experiment budget' in practice scrimmages: ambitious passes are praised for the read even when they miss. Punish only lazy turnovers, never brave ones."
+    },
+    {
+      "title": "Study film of creators",
+      "detail": "Watch 10-minute clips of elite passers with your players — pause before the pass and ask 'what do you see?' Then play it. This trains anticipation: seeing the play one pass early is the core playmaker skill."
+    },
+    {
+      "title": "Give them the keys in games",
+      "detail": "A developing playmaker needs real minutes with real responsibility: running pick-and-rolls, making late-clock decisions. Script their first 3–4 touches to build confidence, then let them read the game."
+    }
+  ],
+  "coachingPoints": [
+    "Playmaking is decision volume: the more live reads a player gets weekly, the faster the skill grows.",
+    "Teach 'advantage basketball' — the pass that matters most is the one thrown one step before the defense recovers.",
+    "Every position can playmake: train your bigs to pass from the short roll and your wings to attack closeouts.",
+    "Patience: playmaking vision typically blooms 12–18 months after you start training it deliberately."
+  ],
+  "commonMistakes": [
+    "Benching players for ambitious turnovers — fix: bench for careless turnovers; praise the read on brave ones that miss.",
+    "Only letting the point guard handle in practice — fix: rotate ball-handling duties so 3–4 players develop creation skills.",
+    "Drilling set plays instead of reads — fix: for every pattern rep, run three live-read reps against a real defense.",
+    "Expecting immediate results — fix: commit to a full season; playmaking is the slowest offensive skill to mature."
+  ],
+  "gameSituations": [
+    "Pick-and-roll possessions — the primary laboratory: read the big's coverage and punish the help.",
+    "Transition — early offense rewards the playmaker who advances the ball with the pass, not the dribble.",
+    "Late clock — trust your trained playmaker to create rather than calling a bailout isolation every time."
+  ],
+  "related": [
+    "pick-and-roll-basics",
+    "pick-and-roll-reads",
+    "transition-decision-making",
+    "spacing-basics"
+  ],
+  "vi": {
+    "title": "Phát triển cầu thủ kiến tạo lối chơi",
+    "description": "Cách HLV xây dựng những cầu thủ tạo cơ hội cho đồng đội: luyện nhãn quan, các tình huống ra quyết định, và sự tự do được phép sai.",
+    "tags": [
+      "kiến tạo",
+      "nhãn quan",
+      "chuyền bóng",
+      "ra quyết định"
+    ],
+    "whatIsIt": [
+      "Phát triển cầu thủ kiến tạo lối chơi nghĩa là đào tạo cầu thủ tạo lợi thế cho đồng đội — không chỉ ghi điểm, mà còn bẻ cong hàng phòng thủ và đưa bóng đến nơi gây sát thương nhất. Khả năng kiến tạo một phần là kỹ năng (kỹ thuật chuyền, dẫn bóng dưới áp lực) và một phần là nhận thức (đọc hậu vệ hỗ trợ, chọn thời điểm, phán đoán trước).",
+      "Hầu hết các hệ thống cố dạy khả năng kiến tạo qua các bài đánh cố định. Cách đó tạo ra những cỗ máy chạy bài. Cầu thủ kiến tạo thật sự được xây qua hàng nghìn quyết định không theo khuôn mẫu trong các trò chơi ít người, nơi họ học cách đọc và phản ứng thay vì học thuộc."
+    ],
+    "whyItMatters": [
+      "Một cầu thủ kiến tạo đẳng cấp nâng hiệu suất của cả bốn đồng đội — kỹ năng có đòn bẩy cao nhất trong bóng rổ. Đội có nhiều cầu thủ kiến tạo gần như không thể bị scout vì đòn tấn công có thể bắt đầu từ bất cứ đâu. Trong bóng rổ hiện đại, kiến tạo không còn là việc riêng của hậu vệ dẫn bóng."
+    ],
+    "howTo": [
+      {
+        "title": "Chơi các trò ít người mỗi ngày",
+        "detail": "Dùng 2v2, 3v3 và 4v4 với luật biến tấu (ví dụ phải chuyền trong 3 giây, hoặc chỉ ghi điểm từ đường kiến tạo). Không gian hẹp ép ra quyết định nhanh; cầu thủ có số quyết định mỗi phút gấp 5 lần so với 5v5."
+      },
+      {
+        "title": "Luyện nhãn quan tách riêng với kỹ năng",
+        "detail": "Chạy các bài mà người chuyền phải đọc to một con số hoặc màu sắc do HLV giơ lên trong lúc chuyền bóng. Bài này xây thói quen quan sát cả sân thay vì nhìn chằm chằm vào bóng hay mục tiêu."
+      },
+      {
+        "title": "Dạy sâu lối chơi hai người",
+        "detail": "Đọc tình huống pick-and-roll, DHO và give-and-go là ngữ pháp của khả năng kiến tạo. Tập chúng trước các cách phòng thủ thật và xoay vòng (drop, hedge, switch) để cầu thủ học đọc hàng thủ, không phải đọc sơ đồ."
+      },
+      {
+        "title": "Cho phép sai lầm sáng tạo",
+        "detail": "Cầu thủ kiến tạo trẻ mà không bao giờ mất bóng là đang không dám thử đủ. Đặt 'ngân sách thử nghiệm' rõ ràng trong các trận đấu tập: những đường chuyền táo bạo được khen vì pha đọc tình huống dù bóng không đến nơi. Chỉ phạt những lần mất bóng cẩu thả, không bao giờ phạt sự dũng cảm."
+      },
+      {
+        "title": "Xem video của những người kiến tạo",
+        "detail": "Xem các đoạn 10 phút của những tay chuyền đẳng cấp cùng cầu thủ — dừng ngay trước đường chuyền và hỏi 'em thấy gì?' Rồi cho chạy tiếp. Bài này luyện khả năng phán đoán trước: nhìn thấy pha bóng sớm hơn một đường chuyền chính là kỹ năng cốt lõi của người kiến tạo."
+      },
+      {
+        "title": "Trao chìa khóa trong trận đấu",
+        "detail": "Cầu thủ kiến tạo đang phát triển cần phút thi đấu thật với trách nhiệm thật: chạy pick-and-roll, ra quyết định cuối đồng hồ. Lên kịch bản 3–4 lần chạm bóng đầu để xây sự tự tin, rồi để họ tự đọc trận đấu."
+      }
+    ],
+    "coachingPoints": [
+      "Khả năng kiến tạo là số lượng quyết định: cầu thủ có càng nhiều tình huống đọc thật mỗi tuần, kỹ năng phát triển càng nhanh.",
+      "Dạy 'bóng rổ lợi thế' — đường chuyền quan trọng nhất là đường chuyền thực hiện sớm hơn một nhịp so với lúc hàng thủ kịp xoay về.",
+      "Mọi vị trí đều có thể kiến tạo: tập cho cầu thủ cao chuyền từ short roll và cho cầu thủ cánh tấn công khi đối thủ closeout.",
+      "Kiên nhẫn: nhãn quan kiến tạo thường nở rộ sau 12–18 tháng kể từ khi bạn bắt đầu tập nó một cách chủ đích."
+    ],
+    "commonMistakes": [
+      "Cho ngồi ghế vì những lần mất bóng táo bạo — sửa: cho ngồi vì mất bóng cẩu thả; khen pha đọc tình huống ở những đường chuyền dũng cảm bị hỏng.",
+      "Chỉ để hậu vệ dẫn bóng cầm bóng khi tập — sửa: xoay vòng nhiệm vụ cầm bóng để 3–4 cầu thủ cùng phát triển kỹ năng tạo cơ hội.",
+      "Tập bài đánh cố định thay vì tập đọc tình huống — sửa: cứ một lần tập theo bài mẫu thì tập ba lần đọc tình huống thật trước hàng thủ thật.",
+      "Mong kết quả ngay lập tức — sửa: cam kết cả một mùa giải; kiến tạo là kỹ năng tấn công chín muồi chậm nhất."
+    ],
+    "gameSituations": [
+      "Các lượt pick-and-roll — phòng thí nghiệm chính: đọc cách trung phong đối thủ phòng thủ và trừng phạt hàng hỗ trợ.",
+      "Phản công nhanh — tấn công sớm thưởng cho người kiến tạo đẩy bóng lên bằng đường chuyền, không phải bằng dẫn bóng.",
+      "Cuối đồng hồ — tin tưởng cầu thủ kiến tạo đã được đào tạo để tạo cơ hội thay vì gọi bài isolation cầu may mỗi lần."
+    ]
+  },
+  "id": "developing-playmakers",
+  "slug": "developing-playmakers"
+}

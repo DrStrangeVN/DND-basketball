@@ -1,0 +1,197 @@
+{
+  "id": "reading-closeouts-advanced",
+  "slug": "reading-closeouts-advanced",
+  "hub": "basketball-iq",
+  "subcategory": "advanced-reads",
+  "level": "advanced",
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 6,
+  "dateUpdated": "2026-10-11",
+  "title": "Reading Closeouts (Advanced)",
+  "description": "Beyond 'attack the closeout': reading sprint speed, hip angle, hand position, and landing space to choose between the drive, the pull-up, the sidestep three, and the extra pass.",
+  "tags": [
+    "closeouts",
+    "shot selection",
+    "basketball iq",
+    "driving",
+    "decision making"
+  ],
+  "whatIsIt": [
+    "Every closeout is a message written in the defender's body: how fast they are sprinting, which way their hips are turned, where their hands are, and how much space they leave on landing. Basic players see 'defender coming' and either shoot over them or drive blindly. Advanced readers decode the closeout in the half-second before the catch and already know their move.",
+    "The four reads are sprint, angle, hands, and space. A full-sprint closeout with high hands begs to be attacked off the dribble. A slow, balanced closeout with low hands dares you to shoot — so shoot. A closeout sprinting past your shoulder opens the sidestep three. Reading closeouts at this level turns every catch into a pre-made decision instead of a guess."
+  ],
+  "whyItMatters": [
+    "Closeouts happen 30 to 50 times per game — they are the single most repeated defensive action you will face. A player who reads them well manufactures efficient shots all game without needing a single play called for them. A player who does not either forces contested jumpers or drives into walls. This is the skill that turns '3-and-D' players into complete offensive threats."
+  ],
+  "howTo": [
+    {
+      "title": "Read the sprint speed on the catch",
+      "detail": "A defender in a full sprint cannot stop or change direction — attack their momentum with one hard dribble past their hip. A defender arriving under control with choppy steps is balanced and ready — do not drive into a set defender; shoot or move the ball."
+    },
+    {
+      "title": "Read the hip angle",
+      "detail": "Hips turned sideways (a 'run-by' closeout) mean the defender is conceding the drive to take away the shot — drive it. Hips square to you mean they are sitting on the drive — rise up or use a shot fake. The hips commit before the hands do."
+    },
+    {
+      "title": "Read the hands",
+      "detail": "High hands take away the shot but open the floor — drive under them. Low hands or hands at the sides invite the jumper — take it with confidence. One high hand and one low hand usually means they are guessing — attack the low-hand side."
+    },
+    {
+      "title": "Attack the landing space",
+      "detail": "A reckless closeout leaves the defender's landing space open behind them. Drive into the space they just vacated, not into their body. If they fly past your shoulder, one sidestep creates a clean three — the most efficient answer to an out-of-control closeout."
+    },
+    {
+      "title": "Use the shot fake as a question",
+      "detail": "A quick shot fake asks the defender one question: are you disciplined? If they jump, drive past them. If they stay down, you have your rhythm jumper. Never shot-fake just to shot-fake — every fake must read the answer."
+    },
+    {
+      "title": "Make the extra pass when the help loads",
+      "detail": "When your drive draws a second defender, the closeout has done its damage and the help has overreacted. Kick to the next open man instead of forcing a contested finish — the advanced read is knowing the play is already won."
+    }
+  ],
+  "coachingPoints": [
+    "The read happens before the catch — eyes on the closing defender while the ball is in the air.",
+    "Sprint = drive, balance = shoot, fly-by = sidestep three. Three speeds, three answers.",
+    "Drive at the defender's hip, never at their chest — the hip is where their balance breaks.",
+    "A shot fake without a read is just a wasted half-second; every fake must ask and answer.",
+    "The extra pass is the final level — great closeout readers create for others, not just themselves."
+  ],
+  "commonMistakes": [
+    "Driving into a balanced, squared-up closeout — fix: read the choppy steps early; against balance, shoot or swing, never force the drive.",
+    "Catching flat-footed and reading late — fix: catch on the hop (1-2 step) so you land loaded and ready to go either way.",
+    "Shot-faking with no plan — fix: decide before the fake — if they jump I drive, if they stay I shoot. No decision, no fake.",
+    "Missing the helper when attacking — fix: keep your eyes up on the drive; the second defender is the real read, not the closeout."
+  ],
+  "gameSituations": [
+    "Kick-out to the wing in transition — the defender is sprinting; one dribble past the hip is a layup or a foul.",
+    "Skip pass to the corner — the closeout has to travel far and arrives out of control; sidestep three or baseline drive.",
+    "Against a team that closes out short — take the rhythm three with confidence; they are daring you for a reason, prove them wrong.",
+    "Late-clock catch with a hard closeout — the shot fake becomes your best friend; create the sliver of space you need."
+  ],
+  "related": [
+    "closeout-reads",
+    "closeout-defense",
+    "attacking-the-closeout",
+    "shot-selection-iq",
+    "catch-and-shoot"
+  ],
+  "diagram": {
+    "title": "Wing catch vs sprinting closeout — one dribble past the hip attacks the vacated space",
+    "ball": "O1",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 28,
+        "y": 40
+      },
+      {
+        "label": "O2",
+        "x": 70,
+        "y": 30
+      }
+    ],
+    "defense": [
+      {
+        "label": "D1",
+        "x": 34,
+        "y": 44
+      },
+      {
+        "label": "D2",
+        "x": 60,
+        "y": 28
+      }
+    ],
+    "passes": [
+      {
+        "from": "O2",
+        "to": "O1"
+      }
+    ],
+    "moves": [
+      {
+        "from": "O1",
+        "kind": "dribble",
+        "to": "rim"
+      },
+      {
+        "from": "D1",
+        "kind": "move",
+        "to": "O1"
+      }
+    ],
+    "screens": [],
+    "shots": []
+  },
+  "vi": {
+    "title": "Đọc closeout nâng cao",
+    "description": "Vượt xa 'tấn công closeout': đọc tốc độ lao ra, góc hông, vị trí tay và khoảng trống tiếp đất để chọn giữa đâm rổ, pull-up, ném 3 điểm sidestep, hay chuyền tiếp.",
+    "tags": [
+      "closeout",
+      "lựa chọn cú ném",
+      "nhãn quan chiến thuật",
+      "đâm rổ",
+      "ra quyết định"
+    ],
+    "whatIsIt": [
+      "Mỗi pha closeout là một thông điệp viết bằng cơ thể của hậu vệ: họ lao ra nhanh thế nào, hông xoay hướng nào, tay ở đâu, và họ để lại bao nhiêu khoảng trống khi tiếp đất. Cầu thủ cơ bản chỉ thấy 'hậu vệ đang tới' rồi hoặc ném bừa qua đầu họ hoặc đâm mù quáng. Người đọc ở đẳng cấp cao giải mã pha closeout trong nửa giây trước khi bắt bóng và đã biết trước mình sẽ làm gì.",
+      "Bốn tín hiệu đọc là tốc độ, góc hông, tay, và khoảng trống. Một pha closeout lao hết tốc với tay giơ cao là lời mời đâm qua bằng dẫn bóng. Một pha closeout chậm, thăng bằng, tay thấp là lời thách ném — thì ném. Một pha closeout lao vượt qua vai bạn mở ra cú ném 3 điểm sidestep. Đọc closeout ở đẳng cấp này biến mỗi pha bắt bóng thành một quyết định đã chuẩn bị sẵn thay vì đoán mò."
+    ],
+    "whyItMatters": [
+      "Closeout diễn ra 30 đến 50 lần mỗi trận — đó là hành động phòng thủ lặp lại nhiều nhất bạn phải đối mặt. Cầu thủ đọc closeout tốt tự tạo ra những cú ném hiệu quả cả trận mà không cần bài đánh nào vẽ cho mình. Cầu thủ không đọc được thì hoặc ném ẩu trong tư thế bị kèm hoặc đâm vào tường. Đây là kỹ năng biến cầu thủ '3-and-D' thành mối đe dọa tấn công toàn diện."
+    ],
+    "howTo": [
+      {
+        "title": "Đọc tốc độ lao ra ngay khi bắt bóng",
+        "detail": "Hậu vệ đang lao hết tốc không thể dừng hay đổi hướng — tấn công vào đà của họ bằng một nhịp dẫn bóng mạnh qua hông. Hậu vệ đến nơi với bước chân ngắn, thăng bằng và sẵn sàng — đừng đâm vào hậu vệ đã đứng vững; ném hoặc chuyền đi."
+      },
+      {
+        "title": "Đọc góc hông",
+        "detail": "Hông xoay ngang (closeout kiểu 'chạy vượt qua') nghĩa là hậu vệ nhường đường đâm để chặn cú ném — thì đâm. Hông vuông góc với bạn nghĩa là họ đang ngồi chờ pha đâm — bật ném hoặc dùng động tác giả. Hông lộ ý đồ trước cả tay."
+      },
+      {
+        "title": "Đọc vị trí tay",
+        "detail": "Tay giơ cao chặn cú ném nhưng mở toang mặt sân — đâm xuyên dưới tay họ. Tay thấp hoặc tay xuôi hai bên là lời mời ném — ném với sự tự tin. Một tay cao một tay thấp thường nghĩa là họ đang đoán — tấn công phía tay thấp."
+      },
+      {
+        "title": "Tấn công vào khoảng trống họ bỏ lại",
+        "detail": "Một pha closeout ẩu để lại khoảng trống tiếp đất phía sau họ. Đâm vào khoảng trống họ vừa bỏ lại, đừng đâm vào người họ. Nếu họ bay vượt qua vai bạn, một bước sidestep tạo ra cú ném 3 điểm sạch — câu trả lời hiệu quả nhất cho pha closeout mất kiểm soát."
+      },
+      {
+        "title": "Dùng động tác giả như một câu hỏi",
+        "detail": "Một pha động tác giả nhanh hỏi hậu vệ một câu: bạn có kỷ luật không? Nếu họ nhảy lên, đâm qua. Nếu họ đứng yên, bạn có cú ném đúng nhịp. Đừng bao giờ giả ném chỉ để giả ném — mỗi pha giả phải đọc được câu trả lời."
+      },
+      {
+        "title": "Chuyền tiếp khi hỗ trợ đổ vào",
+        "detail": "Khi pha đâm của bạn kéo theo hậu vệ thứ hai, pha closeout đã gây đủ thiệt hại và hàng hỗ trợ đã phản ứng thái quá. Chuyền ra cho người trống tiếp theo thay vì cố dứt điểm trong tư thế khó — pha đọc ở đẳng cấp cao là biết đợt bóng đã thắng rồi."
+      }
+    ],
+    "coachingPoints": [
+      "Pha đọc diễn ra trước khi bắt bóng — mắt nhìn hậu vệ đang lao ra trong lúc bóng còn trên không.",
+      "Lao hết tốc = đâm, thăng bằng = ném, bay vượt qua = ném 3 điểm sidestep. Ba tốc độ, ba câu trả lời.",
+      "Đâm vào hông hậu vệ, đừng đâm vào ngực họ — hông là nơi thăng bằng của họ vỡ.",
+      "Động tác giả mà không đọc là nửa giây lãng phí; mỗi pha giả phải hỏi và trả lời.",
+      "Đường chuyền tiếp là đẳng cấp cuối cùng — người đọc closeout giỏi tạo cơ hội cho đồng đội, không chỉ cho mình."
+    ],
+    "commonMistakes": [
+      "Đâm vào pha closeout thăng bằng, hông vuông góc — sửa: đọc bước chân ngắn từ sớm; gặp thăng bằng thì ném hoặc đảo bóng, không bao giờ cố đâm.",
+      "Bắt bóng bằng chân chết rồi đọc muộn — sửa: bắt bóng bằng bước nhảy 1-2 để tiếp đất trong tư thế sẵn sàng đi cả hai hướng.",
+      "Giả ném mà không có kế hoạch — sửa: quyết định trước khi giả — họ nhảy thì mình đâm, họ đứng thì mình ném. Không quyết định thì không giả.",
+      "Bỏ qua người hỗ trợ khi đâm vào — sửa: giữ mắt ngẩng lên khi đâm; hậu vệ thứ hai mới là pha đọc thực sự, không phải pha closeout."
+    ],
+    "gameSituations": [
+      "Chuyền ra cánh trong chuyển trạng thái — hậu vệ đang lao tới; một nhịp dẫn qua hông là layup hoặc kiếm lỗi.",
+      "Chuyền đảo cánh ra góc — pha closeout phải di chuyển xa và đến nơi trong tình trạng mất kiểm soát; ném 3 điểm sidestep hoặc đâm dọc biên.",
+      "Gặp đội closeout ngắn — ném 3 điểm đúng nhịp với sự tự tin; họ thách bạn là có lý do, chứng minh họ sai.",
+      "Bắt bóng cuối đồng hồ trước pha closeout mạnh — động tác giả thành người bạn tốt nhất; tạo ra khe hở nhỏ bạn cần."
+    ]
+  }
+}

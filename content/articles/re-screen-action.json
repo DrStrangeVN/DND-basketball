@@ -1,0 +1,192 @@
+{
+  "id": "re-screen-action",
+  "slug": "re-screen-action",
+  "title": "Re-Screen Action",
+  "description": "The screen didn't work the first time? Set it again — at a new angle, with new timing. The re-screen is the simplest counter in basketball and one of the most effective.",
+  "hub": "offense",
+  "subcategory": "off-ball-screening",
+  "level": "beginner",
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 5,
+  "dateUpdated": "2026-10-11",
+  "whatIsIt": [
+    "A re-screen is exactly what it sounds like: after a screen — ball screen or off-ball screen — doesn't produce an advantage, the screener sets it again. Same screener, same ball handler (or cutter), second attempt. The difference is the angle and the timing: the re-screen comes at a new angle the defense isn't expecting, usually one step to the side of the original.",
+    "It works because of human nature. Defenders relax after surviving a screen — 'I got through it, I'm fine.' The re-screen arrives in that exact moment of relaxation. It is also brutally simple to teach: if the first screen didn't work, don't run a new play — just screen again."
+  ],
+  "whyItMatters": [
+    "Most offensive possessions die after the first guarded action — the screen gets navigated, everyone stands around, and the possession fizzles into a contested jumper. The re-screen is the structural fix: it makes 'screen again' the default instead of 'give up.' It keeps the ball handler (or cutter) as a live threat, it punishes defenders for relaxing, and it costs nothing to add to any offense. Teams that re-screen consistently get 3 to 4 extra quality possessions per game — and those are often the difference between winning and losing."
+  ],
+  "howTo": [
+    {
+      "title": "Set the first screen honestly",
+      "detail": "Whether it's a ball screen or a pin down, set the first screen with full effort and a legal, wide stance. The re-screen only works as a counter — the first screen must be real."
+    },
+    {
+      "title": "Read the result instantly",
+      "detail": "The ball handler (or cutter) reads in one second: did the screen create an advantage? If the defender went under, fought over late, or the screen was soft — the re-screen is on."
+    },
+    {
+      "title": "Step to the new angle",
+      "detail": "The screener takes one step to the side — toward the defender's recovery path — and sets the screen again. The new angle should cut off where the defender is going, not where he was."
+    },
+    {
+      "title": "The ball handler re-attacks",
+      "detail": "The guard (or cutter) comes off the re-screen with the same aggression as the first attempt. The defense is now a step behind twice over — this is usually when the advantage appears."
+    },
+    {
+      "title": "Roll, pop, or slip after the second screen",
+      "detail": "After the re-screen, the screener reads like normal: roll if his defender helps, pop if there's space, slip if the defender cheats the second screen. The second screen creates the same reads, just against a more tired defender."
+    }
+  ],
+  "coachingPoints": [
+    "'Screen again' must be a team rule, not a suggestion. Drill it until the screener's first instinct after a dead screen is to step and re-set.",
+    "The new angle is everything. Re-setting in the exact same spot just runs into the same recovered defender — step to cut off the recovery path.",
+    "Ball handlers: don't bail out early. Give the first screen a real chance, then re-attack — the two-action sequence is what breaks the defender down.",
+    "Communicate it. A quick call ('again!') tells the ball handler the second screen is coming so he doesn't pick up his dribble.",
+    "Works for off-ball screens too. A pin down that got navigated becomes a re-pin — same principle, same payoff for shooters."
+  ],
+  "commonMistakes": [
+    "Re-screening in the identical spot — fix: one step to the side, toward the defender's recovery lane; the angle must change.",
+    "Screener gives up and jogs away after screen one — fix: make 'screen again' the default; jogging away is the mistake, not the re-screen.",
+    "Ball handler picks up the dribble while waiting — fix: keep the dribble alive; the re-screen arrives in one second, not five.",
+    "Using the re-screen when the first screen worked — fix: if you have the advantage, attack it; the re-screen is for dead screens, not live ones."
+  ],
+  "gameSituations": [
+    "Against great screen navigators: when a defender fights over every screen, the re-screen is what finally wears him down.",
+    "Shooter actions: a pin down that got chased through becomes a re-pin — the shooter gets a second chance at separation.",
+    "Late-clock simplicity: with 8 seconds left, a re-screen is faster and simpler than running a new action — screen again and attack."
+  ],
+  "tags": [
+    "re-screen",
+    "screening",
+    "counter",
+    "pick and roll",
+    "off-ball screen"
+  ],
+  "related": [
+    "rescreen-pnr",
+    "screen-angle",
+    "ghost-screen",
+    "pick-and-roll-reads",
+    "pin-down-screen"
+  ],
+  "diagram": {
+    "title": "Re-screen — O5's first screen is navigated, he steps over and sets it again",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 60,
+        "y": 55
+      },
+      {
+        "label": "O5",
+        "x": 58,
+        "y": 45
+      }
+    ],
+    "defense": [
+      {
+        "label": "D1",
+        "x": 60,
+        "y": 49
+      },
+      {
+        "label": "D5",
+        "x": 58,
+        "y": 50
+      }
+    ],
+    "ball": "O1",
+    "screens": [
+      {
+        "x": 58,
+        "y": 47
+      }
+    ],
+    "moves": [
+      {
+        "from": "O5",
+        "to": "O1",
+        "kind": "screen-run"
+      },
+      {
+        "from": "O1",
+        "to": "rim",
+        "kind": "dribble"
+      },
+      {
+        "from": "O5",
+        "to": "rim",
+        "kind": "cut"
+      }
+    ],
+    "passes": [],
+    "shots": []
+  },
+  "vi": {
+    "title": "Miếng dựng lại screen (re-screen action)",
+    "description": "Screen đầu không hiệu quả? Dựng lại — góc mới, timing mới. Re-screen là đòn phản đòn đơn giản nhất của bóng rổ và cũng là một trong những đòn hiệu quả nhất.",
+    "whatIsIt": [
+      "Re-screen đúng như tên gọi: sau khi một screen — screen cho bóng hay screen không bóng — không tạo được lợi thế, người dựng screen dựng lại. Cùng người dựng, cùng người cầm bóng (hoặc người cắt), lần thứ hai. Khác biệt nằm ở góc và timing: re-screen đến ở góc mới mà hàng thủ không ngờ, thường lệch một bước so với vị trí ban đầu.",
+      "Nó hiệu quả vì bản chất con người. Hậu vệ thả lỏng sau khi vượt qua một screen — 'qua được rồi, ổn rồi.' Re-screen đến đúng khoảnh khắc thả lỏng đó. Nó cũng đơn giản đến tàn nhẫn khi dạy: screen đầu không xong thì đừng chạy bài mới — cứ dựng lại."
+    ],
+    "whyItMatters": [
+      "Hầu hết pha bóng tấn công chết sau miếng đầu bị kèm — screen bị vượt qua, mọi người đứng nhìn, pha bóng tàn thành một cú ném bị contest. Re-screen là cách sửa về cấu trúc: nó biến 'dựng lại' thành mặc định thay vì 'bỏ cuộc'. Nó giữ người cầm bóng (hoặc người cắt) là mối đe dọa sống, nó trừng phạt hậu vệ vì thả lỏng, và thêm vào hệ thống nào cũng không tốn gì. Đội nào re-screen đều đặn có thêm 3 đến 4 pha bóng chất lượng mỗi trận — và đó thường là khác biệt giữa thắng và thua."
+    ],
+    "howTo": [
+      {
+        "title": "Dựng screen đầu cho thật",
+        "detail": "Dù là screen cho bóng hay pin down, dựng screen đầu với toàn bộ nỗ lực, tư thế rộng và hợp lệ. Re-screen chỉ hiệu quả như một đòn phản đòn — screen đầu phải thật."
+      },
+      {
+        "title": "Đọc kết quả ngay lập tức",
+        "detail": "Người cầm bóng (hoặc người cắt) đọc trong một giây: screen có tạo lợi thế không? Hậu vệ luồn dưới, vượt qua muộn, hoặc screen mềm — thì re-screen đã mở."
+      },
+      {
+        "title": "Bước sang góc mới",
+        "detail": "Người dựng bước sang bên một bước — về phía đường hồi vị của hậu vệ — và dựng lại screen. Góc mới phải chặn đường hậu vệ sắp đi, không phải chỗ hắn vừa đứng."
+      },
+      {
+        "title": "Người cầm bóng tấn công lại",
+        "detail": "Hậu vệ (hoặc người cắt) vòng qua re-screen với cùng sự quyết liệt như lần đầu. Hàng thủ giờ chậm một bước nhân đôi — đây thường là lúc lợi thế xuất hiện."
+      },
+      {
+        "title": "Roll, pop hoặc slip sau screen hai",
+        "detail": "Sau re-screen, người dựng đọc như bình thường: roll nếu hậu vệ của mình help, pop nếu có khoảng trống, slip nếu hậu vệ gian lận screen hai. Screen thứ hai tạo ra cùng các cách đọc, chỉ là trước một hậu vệ đã mệt hơn."
+      }
+    ],
+    "coachingPoints": [
+      "'Dựng lại' phải là luật của đội, không phải gợi ý. Tập đến khi phản xạ đầu tiên của người dựng sau screen chết là bước sang và dựng lại.",
+      "Góc mới là tất cả. Dựng lại đúng chỗ cũ chỉ đâm vào cùng hậu vệ đã hồi phục — bước sang để chặn đường hồi vị.",
+      "Người cầm bóng: đừng bỏ cuộc sớm. Cho screen đầu một cơ hội thật sự, rồi tấn công lại — chuỗi hai miếng là thứ bào mòn hậu vệ.",
+      "Hô cho nhau. Một tiếng gọi nhanh ('lại!') báo cho người cầm bóng biết screen hai đang đến để anh ta không dừng dẫn bóng.",
+      "Dùng được cho screen không bóng. Pin down bị vượt qua thành re-pin — cùng nguyên tắc, cùng phần thưởng cho tay ném."
+    ],
+    "commonMistakes": [
+      "Dựng lại đúng chỗ cũ — sửa: lệch sang một bước, về phía lane hồi vị của hậu vệ; góc phải đổi.",
+      "Người dựng bỏ cuộc, chạy lững thững đi sau screen một — sửa: 'dựng lại' là mặc định; chạy đi mới là lỗi, không phải re-screen.",
+      "Người cầm bóng dừng dẫn bóng trong lúc chờ — sửa: giữ bóng sống; re-screen đến trong một giây, không phải năm giây.",
+      "Dùng re-screen khi screen đầu đã hiệu quả — sửa: đã có lợi thế thì tấn công nó; re-screen dành cho screen chết, không phải screen sống."
+    ],
+    "gameSituations": [
+      "Trước hậu vệ vượt screen giỏi: hậu vệ nào cũng vượt qua được mọi screen thì re-screen là thứ bào mòn hắn đến cùng.",
+      "Miếng cho tay ném: pin down bị đuổi qua thành re-pin — tay ném có cơ hội thứ hai để tạo khoảng trống.",
+      "Đơn giản cuối đồng hồ: còn 8 giây thì re-screen nhanh và đơn giản hơn chạy bài mới — dựng lại và tấn công."
+    ],
+    "tags": [
+      "re-screen",
+      "screen",
+      "đòn phản đòn",
+      "pick and roll",
+      "screen không bóng"
+    ]
+  }
+}

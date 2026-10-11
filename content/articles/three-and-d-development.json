@@ -1,0 +1,197 @@
+{
+  "title": "3-and-D Development",
+  "description": "Building the modern wing: lockdown on-ball defense plus reliable catch-and-shoot threes.",
+  "hub": "positions",
+  "subcategory": "wings",
+  "level": "intermediate",
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 6,
+  "dateUpdated": "2026-10-11",
+  "tags": [
+    "3-and-d",
+    "wing",
+    "defense",
+    "shooting"
+  ],
+  "whatIsIt": [
+    "3-and-D development is the training path for wings who defend at an elite level and shoot threes reliably — the most in-demand role player archetype in modern basketball. The '3' is catch-and-shoot threes from the corners and wings; the 'D' is on-ball defense, closeouts, and team rotations.",
+    "This role is deliberately narrow: you are not asked to create offense, just to space the floor, make open shots, and take away the opponent's best wing. Players who master it play at every level, because every team needs them and few players commit to the work."
+  ],
+  "whyItMatters": [
+    "Every championship team has multiple 3-and-D wings — they are the connective tissue between stars. A wing who shoots 38% from three and guards the other team's best scorer is worth more than a higher-usage player who does neither, and coaches at every level are always hunting for them."
+  ],
+  "howTo": [
+    {
+      "title": "Build a one-motion catch-and-shoot",
+      "detail": "Catch with feet already staggered and hands ready, then rise in one motion — no dip, no extra gather. Track corner threes specifically: 100 makes per week from each corner builds the muscle memory this role lives on."
+    },
+    {
+      "title": "Master the defensive stance and slide",
+      "detail": "Low hips, active hands, short choppy steps. Drill closeouts daily: sprint, chop steps, high hands, then slide with the driver. Your defensive reputation is built in these unglamorous reps."
+    },
+    {
+      "title": "Learn to navigate screens",
+      "detail": "Practice going over, under, and switching on ball screens, plus fighting through off-ball screens (pin downs, flares). A 3-and-D wing who dies on every screen cannot stay on the floor."
+    },
+    {
+      "title": "Relocate and cut with purpose",
+      "detail": "When the ball moves, you move: drift to open spots, cut backdoor when overplayed, crash from the weak side. Standing still in the corner makes you easy to guard; constant purposeful movement makes you dangerous."
+    },
+    {
+      "title": "Study your matchup's tendencies",
+      "detail": "Before games, learn two things about your assignment: favorite move and favorite spot. Take away one and you have already won half the battle — elite defenders prepare like scouts."
+    }
+  ],
+  "coachingPoints": [
+    "Reps are the whole program: 500+ catch-and-shoot threes and 30 minutes of defensive slides weekly is the baseline.",
+    "Film your closeouts — most young wings close out too fast and get blown by; the film fixes it in a week.",
+    "Reward the role publicly: celebrate a great defensive possession as loudly as a made three.",
+    "Conditioning is non-negotiable: chasing shooters through screens for 25 minutes demands an elite motor."
+  ],
+  "commonMistakes": [
+    "Only practicing the '3' and neglecting defense — fix: split every workout 50/50 between shooting and defensive footwork.",
+    "Dribbling into traffic instead of shooting or passing quickly — fix: the rule is catch, then shoot-drive-pass within one second.",
+    "Ball-watching on defense and losing your man — fix: see both ball and man; get caught staring and you sprint extra.",
+    "Settling for long twos off movement — fix: every relocation ends at the three-point line or the rim, never in between."
+  ],
+  "gameSituations": [
+    "Guarding the star — your showcase: take away their favorite move and make every catch difficult.",
+    "Corner spacing in half-court — stay ready; your threes punish every help rotation the defense makes.",
+    "Transition defense — sprint back to take away the ball first, then find your matchup; 3-and-D wings set the tone."
+  ],
+  "related": [
+    "shooting-guard",
+    "small-forward",
+    "catch-and-shoot",
+    "transition-defense"
+  ],
+  "diagram": {
+    "title": "3-and-D wing closes out, then relocates to the corner for the kick-out",
+    "ball": "O1",
+    "offense": [
+      {
+        "label": "O3",
+        "x": 82,
+        "y": 30
+      },
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 60
+      },
+      {
+        "label": "O5",
+        "x": 50,
+        "y": 20
+      },
+      {
+        "label": "O2",
+        "x": 18,
+        "y": 30
+      },
+      {
+        "label": "O4",
+        "x": 65,
+        "y": 75
+      }
+    ],
+    "defense": [
+      {
+        "label": "D3",
+        "x": 78,
+        "y": 24
+      }
+    ],
+    "passes": [
+      {
+        "from": "O1",
+        "to": "O3"
+      }
+    ],
+    "moves": [
+      {
+        "from": "O3",
+        "kind": "cut",
+        "to": "rim"
+      },
+      {
+        "from": "D3",
+        "kind": "move",
+        "to": "O3"
+      }
+    ],
+    "screens": [],
+    "shots": [
+      {
+        "from": "O3",
+        "to": "rim"
+      }
+    ]
+  },
+  "vi": {
+    "title": "Phát triển cầu thủ 3-and-D",
+    "description": "Xây dựng cầu thủ cánh hiện đại: phòng thủ kèm người đẳng cấp cộng với những cú ném 3 điểm bắt bóng ném ngay đáng tin cậy.",
+    "tags": [
+      "3-and-d",
+      "cánh",
+      "phòng thủ",
+      "ném rổ"
+    ],
+    "whatIsIt": [
+      "Phát triển 3-and-D là lộ trình tập luyện cho các cầu thủ cánh phòng thủ ở đẳng cấp cao và ném 3 điểm ổn định — mẫu cầu thủ hỗ trợ được săn đón nhất trong bóng rổ hiện đại. '3' là những cú ném 3 điểm bắt bóng ném ngay từ góc và cánh; 'D' là phòng thủ kèm bóng, closeout và xoay chuyển đội hình.",
+      "Vai trò này hẹp một cách chủ đích: bạn không được yêu cầu tạo ra tấn công, chỉ cần giãn sân, ném vào những cú trống, và khóa cầu thủ cánh hay nhất của đối thủ. Cầu thủ làm chủ được nó chơi được ở mọi đẳng cấp, vì đội nào cũng cần họ mà ít cầu thủ chịu làm công việc này."
+    ],
+    "whyItMatters": [
+      "Đội vô địch nào cũng có nhiều cầu thủ cánh 3-and-D — họ là mô liên kết giữa các ngôi sao. Một cầu thủ cánh ném 38% từ vạch 3 điểm và kèm được tay ghi điểm hay nhất đối thủ giá trị hơn một cầu thủ cầm bóng nhiều mà không làm được việc nào, và HLV ở mọi đẳng cấp luôn săn lùng họ."
+    ],
+    "howTo": [
+      {
+        "title": "Xây cú bắt bóng ném ngay một nhịp",
+        "detail": "Bắt bóng với chân đã so le sẵn và tay sẵn sàng, rồi bật lên trong một nhịp — không hạ bóng, không gom bóng thừa. Theo dõi riêng ném 3 điểm góc: 100 quả vào mỗi tuần từ mỗi góc xây trí nhớ cơ bắp mà vai trò này sống nhờ nó."
+      },
+      {
+        "title": "Thuần thục tư thế phòng thủ và trượt chân",
+        "detail": "Hông thấp, tay linh hoạt, bước chân ngắn và nhanh. Tập closeout mỗi ngày: chạy nước rút, bước nhỏ, tay giơ cao, rồi trượt theo người dẫn bóng. Danh tiếng phòng thủ của bạn được xây từ những lần tập không hào nhoáng này."
+      },
+      {
+        "title": "Học cách vượt qua screen",
+        "detail": "Tập đi qua trên, đi qua dưới và switch khi screen có bóng, cộng với vượt qua các screen không bóng (pin down, flare). Cầu thủ 3-and-D chết dí ở mọi screen thì không ở được trên sân."
+      },
+      {
+        "title": "Di chuyển và cắt có mục đích",
+        "detail": "Bóng đi đâu, bạn đi đó: trôi đến điểm trống, cắt sau lưng khi bị kèm sát, lao vào từ phía yếu. Đứng yên ở góc khiến bạn dễ bị kèm; di chuyển liên tục có mục đích khiến bạn nguy hiểm."
+      },
+      {
+        "title": "Nghiên cứu thói quen của người bạn kèm",
+        "detail": "Trước trận, tìm hiểu hai điều về người bạn được giao kèm: đòn tủ và điểm ném tủ. Khóa được một trong hai là bạn đã thắng nửa trận — hậu vệ đẳng cấp chuẩn bị như tuyển trạch viên."
+      }
+    ],
+    "coachingPoints": [
+      "Số lần tập là cả chương trình: 500+ cú ném 3 điểm bắt bóng ném ngay và 30 phút trượt chân phòng thủ mỗi tuần là mức tối thiểu.",
+      "Quay video các pha closeout của bạn — hầu hết cầu thủ cánh trẻ closeout quá nhanh và bị vượt qua; xem video sửa được trong một tuần.",
+      "Tuyên dương vai trò này công khai: ăn mừng một pha phòng thủ hay to như một cú ném 3 điểm vào rổ.",
+      "Thể lực không thể thương lượng: đuổi theo các tay ném qua screen suốt 25 phút đòi hỏi một động cơ đẳng cấp."
+    ],
+    "commonMistakes": [
+      "Chỉ tập '3' mà bỏ phòng thủ — sửa: chia mỗi buổi tập 50/50 giữa ném rổ và bộ chân phòng thủ.",
+      "Dẫn bóng vào đám đông thay vì ném hoặc chuyền nhanh — sửa: quy tắc là bắt bóng, rồi ném-đột phá-chuyền trong một giây.",
+      "Nhìn bóng khi phòng thủ và mất người — sửa: vừa thấy bóng vừa thấy người; bị bắt quả tang nhìn chằm chằm thì chạy phạt thêm.",
+      "Chấp nhận ném xa 2 điểm sau di chuyển — sửa: mọi lần di chuyển kết thúc ở vạch 3 điểm hoặc dưới rổ, không bao giờ ở giữa."
+    ],
+    "gameSituations": [
+      "Kèm ngôi sao đối thủ — sân khấu của bạn: khóa đòn tủ của họ và khiến mọi lần bắt bóng đều khó khăn.",
+      "Giãn góc sân trong tấn công nửa sân — luôn sẵn sàng; những cú ném 3 điểm của bạn trừng phạt mọi pha xoay hỗ trợ của hàng thủ.",
+      "Phòng thủ phản công — chạy về chặn bóng trước, rồi tìm người mình kèm; cầu thủ cánh 3-and-D đặt tông cho cả đội."
+    ]
+  },
+  "id": "three-and-d-development",
+  "slug": "three-and-d-development"
+}

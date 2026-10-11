@@ -1,0 +1,148 @@
+{
+  "id": "foul-to-give-strategy",
+  "slug": "foul-to-give-strategy",
+  "hub": "basketball-iq",
+  "subcategory": "game-management",
+  "level": "advanced",
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 6,
+  "dateUpdated": "2026-10-11",
+  "title": "Foul-to-Give Strategy",
+  "description": "Using your extra team fouls in the final two minutes: when to take a smart non-shooting foul, who should take it, and the mistakes that turn strategy into free points.",
+  "tags": [
+    "fouls",
+    "endgame",
+    "game management",
+    "strategy",
+    "defense"
+  ],
+  "whatIsIt": [
+    "A 'foul to give' is a team foul you can commit without penalty — because your team has not yet reached the bonus, the opponent does not shoot free throws. In the last two minutes of a close game, a foul to give is a strategic weapon: a well-timed non-shooting foul stops the clock on your terms, kills the opponent's flow, and lets your defense reset against a set play instead of a broken one.",
+    "The art is in the timing and the target. The perfect foul to give comes early in the possession, far from the basket, against a non-shooter, before the opponent starts their action. A late, sloppy, or shooting foul with fouls to give is one of the most expensive mistakes in basketball — it hands the opponent exactly what the strategy was meant to prevent."
+  ],
+  "whyItMatters": [
+    "Close games are decided by a handful of possessions, and fouls to give let you steal one of them. Used well, they disrupt the opponent's best late-game action, force them to inbound against a set defense, and burn precious seconds. Used poorly — a foul on a shooter, or no foul when the opponent is carving you up — they swing win probability by double digits. Every player on the floor must know the foul count."
+  ],
+  "howTo": [
+    {
+      "title": "Know the count at all times",
+      "detail": "Every player on the floor must know two numbers: team fouls for both sides, and how many each key opponent has. Check the scoreboard after every whistle in the last 3 minutes. A foul to give you do not know about is a weapon left in the holster."
+    },
+    {
+      "title": "Foul early in the possession",
+      "detail": "Take it in the first 5-6 seconds, before the opponent starts their action — ideally as they cross half court or on the catch. An early foul resets everything; a late foul just bails out a broken possession and invites a shooting foul."
+    },
+    {
+      "title": "Foul far from the basket, never on a shooter",
+      "detail": "The foul must be a clean, obvious non-shooting foul: a hold or a bump on the perimeter, 7m or more from the rim, with the ball nowhere near a shooting motion. If there is any doubt it could be ruled a shooting foul, do not take it."
+    },
+    {
+      "title": "Pick the right player to foul",
+      "detail": "Foul a non-shooter or a poor decision-maker — never their best creator in rhythm, and never someone already in attack mode downhill. The goal is to take the ball out of dangerous hands and force a reset, not to wake up their best player."
+    },
+    {
+      "title": "Communicate before you take it",
+      "detail": "Call it out: 'Foul! Foul!' so teammates know the whistle is intentional and stay disciplined. A surprise intentional foul confuses your own defense more than the opponent's offense — everyone must reset together."
+    },
+    {
+      "title": "Know when NOT to use it",
+      "detail": "Do not foul when the opponent is already struggling, when your defense is set and locked in, or when the game is tied and a stop wins it outright. A foul to give is for breaking rhythm — if there is no rhythm to break, keep defending."
+    }
+  ],
+  "coachingPoints": [
+    "The foul count is a team responsibility — the bench should be shouting it, not just the point guard tracking it.",
+    "A foul to give is taken, never accidental: clean, early, obvious, and far from any shooting motion.",
+    "Foul the action before it starts, not the shot as it goes up — timing is the entire strategy.",
+    "In FIBA rules the bonus hits at 5 team fouls per quarter — know your rulebook, because the count resets differently than the NBA.",
+    "After the foul, defend the inbounds like it is the last play of the game — because strategically, it might be."
+  ],
+  "commonMistakes": [
+    "Fouling a player in the act of shooting — fix: if the offensive player has started their upward motion, hands off completely; the window has closed.",
+    "Taking the foul too late in the possession — fix: the decision must be made before half court; set a team rule — foul in the first 6 seconds or not at all.",
+    "Nobody knowing the foul count — fix: assistant coach tracks it live and signals the bench; players check the board every dead ball.",
+    "Fouling when the defense is already getting a stop — fix: only use it to break rhythm; if the opponent is struggling, let them keep struggling."
+  ],
+  "gameSituations": [
+    "Up 3 with under a minute left and a foul to give — foul before the opponent can attempt a tying three, then defend the final inbounds.",
+    "Opponent on a scoring run late — an early-possession foul breaks their rhythm and forces them to restart against a set defense.",
+    "After your own timeout, defending a sideline out-of-bounds — a quick foul on the catch ruins their drawn-up play entirely.",
+    "End of quarter with the bonus not yet reached — use it to stop a fast break or a broken-play advantage before it becomes points."
+  ],
+  "related": [
+    "end-game-fouling-strategy",
+    "foul-management",
+    "fouls-explained",
+    "clock-management"
+  ],
+  "vi": {
+    "title": "Phạm lỗi chiến thuật cuối trận (foul to give)",
+    "description": "Cách dùng những lỗi đồng đội còn dư trong 2 phút cuối: khi nào phạm lỗi khôn ngoan không cho ném phạt, ai là người phạm lỗi, và những sai lầm biến chiến thuật thành điểm tặng đối thủ.",
+    "tags": [
+      "phạm lỗi",
+      "cuối trận",
+      "quản lý trận đấu",
+      "chiến thuật",
+      "phòng thủ"
+    ],
+    "whatIsIt": [
+      "'Foul to give' là những lỗi đồng đội bạn được phép phạm mà không bị phạt — vì đội bạn chưa vào bonus nên đối thủ không được ném phạt. Trong 2 phút cuối của trận đấu căng, foul to give là một vũ khí chiến thuật: một pha phạm lỗi không bóng đúng lúc sẽ dừng đồng hồ theo ý bạn, phá vỡ nhịp tấn công của đối thủ, và cho hàng thủ của bạn đứng lại đội hình trước một bài đánh cố định thay vì một tình huống vỡ trận.",
+      "Nghệ thuật nằm ở thời điểm và đối tượng. Pha foul to give hoàn hảo đến sớm trong đợt tấn công, xa rổ, vào một cầu thủ không phải tay ném, trước khi đối thủ kịp triển khai bài đánh. Một pha phạm lỗi muộn, cẩu thả, hay phạm lỗi vào người đang ném khi còn foul to give là một trong những sai lầm đắt giá nhất bóng rổ — nó tặng đối thủ đúng thứ mà chiến thuật này sinh ra để ngăn chặn."
+    ],
+    "whyItMatters": [
+      "Những trận đấu căng được quyết định bởi vài đợt bóng, và foul to give cho bạn cướp đi một đợt trong số đó. Dùng tốt, nó phá vỡ bài đánh hay nhất cuối trận của đối thủ, ép họ phát bóng biên trước hàng thủ đã đứng vững, và đốt những giây quý giá. Dùng tệ — phạm lỗi vào người đang ném, hay không phạm lỗi khi đối thủ đang xé nát hàng thủ bạn — nó làm xác suất thắng đổi chiều cả chục phần trăm. Mọi cầu thủ trên sân đều phải nắm số lỗi."
+    ],
+    "howTo": [
+      {
+        "title": "Luôn nắm số lỗi trong đầu",
+        "detail": "Mọi cầu thủ trên sân phải biết hai con số: lỗi đồng đội của cả hai bên, và từng trụ cột đối thủ đã mấy lỗi. Nhìn bảng điểm sau mỗi tiếng còi trong 3 phút cuối. Một foul to give mà bạn không biết là một vũ khí để quên trong bao."
+      },
+      {
+        "title": "Phạm lỗi sớm trong đợt tấn công",
+        "detail": "Phạm trong 5-6 giây đầu, trước khi đối thủ triển khai bài — lý tưởng nhất là lúc họ vừa qua vạch giữa sân hoặc ngay khi bắt bóng. Lỗi sớm reset mọi thứ; lỗi muộn chỉ cứu một đợt tấn công đã vỡ và dễ thành lỗi ném phạt."
+      },
+      {
+        "title": "Phạm lỗi xa rổ, tuyệt đối không vào người đang ném",
+        "detail": "Pha lỗi phải sạch, rõ ràng, không liên quan đến động tác ném: giữ người hoặc va chạm ở ngoài vòng cung, cách rổ 7m trở lên, bóng không ở gần động tác ném. Nếu có chút nghi ngờ nào về việc trọng tài thổi lỗi ném, đừng phạm."
+      },
+      {
+        "title": "Chọn đúng người để phạm lỗi",
+        "detail": "Phạm lỗi vào cầu thủ không phải tay ném hoặc người ra quyết định kém — không bao giờ vào tay kiến tạo hay nhất của họ khi đang vào nhịp, và không vào người đã đâm xuống rổ. Mục tiêu là lấy bóng khỏi tay nguy hiểm và ép họ tổ chức lại, không phải đánh thức ngôi sao của họ dậy."
+      },
+      {
+        "title": "Hô hoán trước khi phạm lỗi",
+        "detail": "Hô to: 'Phạm lỗi! Phạm lỗi!' để đồng đội biết tiếng còi là chủ ý và giữ kỷ luật. Một pha phạm lỗi chủ ý bất ngờ làm rối hàng thủ của chính bạn hơn là hàng công đối thủ — cả đội phải reset cùng nhau."
+      },
+      {
+        "title": "Biết khi nào KHÔNG dùng",
+        "detail": "Đừng phạm lỗi khi đối thủ đang bế tắc, khi hàng thủ bạn đã đứng vững và khóa chặt, hay khi tỷ số hòa và một pha phòng thủ thành công là thắng luôn. Foul to give dùng để phá nhịp — nếu chẳng có nhịp nào để phá, cứ tiếp tục phòng thủ."
+      }
+    ],
+    "coachingPoints": [
+      "Số lỗi là trách nhiệm của cả đội — băng ghế dự bị phải hô lên, không phải chỉ mình hậu vệ dẫn bóng theo dõi.",
+      "Foul to give là chủ động phạm, không phải vô tình: sạch, sớm, rõ ràng, và xa mọi động tác ném.",
+      "Phạm lỗi vào bài đánh trước khi nó bắt đầu, đừng phạm vào cú ném khi bóng đã lên — thời điểm là toàn bộ chiến thuật.",
+      "Luật FIBA vào bonus ở lỗi đồng đội thứ 5 mỗi hiệp — nắm rõ luật, vì cách reset số lỗi khác với NBA.",
+      "Sau pha phạm lỗi, phòng thủ pha phát bóng biên như thể đó là pha bóng cuối cùng — vì về mặt chiến thuật, rất có thể đúng là vậy."
+    ],
+    "commonMistakes": [
+      "Phạm lỗi vào cầu thủ đang trong động tác ném — sửa: nếu cầu thủ tấn công đã bắt đầu đưa bóng lên, buông tay hoàn toàn; cửa sổ đã đóng.",
+      "Phạm lỗi quá muộn trong đợt tấn công — sửa: quyết định phải có trước vạch giữa sân; đặt luật cho cả đội — phạm trong 6 giây đầu hoặc không phạm.",
+      "Không ai nắm số lỗi — sửa: trợ lý HLV theo dõi trực tiếp và ra hiệu cho băng ghế; cầu thủ nhìn bảng điểm mỗi khi bóng chết.",
+      "Phạm lỗi trong khi hàng thủ đang phòng thủ tốt — sửa: chỉ dùng để phá nhịp; nếu đối thủ đang bế tắc, cứ để họ bế tắc tiếp."
+    ],
+    "gameSituations": [
+      "Dẫn 3 điểm còn dưới 1 phút và còn foul to give — phạm lỗi trước khi đối thủ kịp ném 3 điểm gỡ hòa, rồi phòng thủ pha phát bóng cuối.",
+      "Đối thủ đang có chuỗi ghi điểm cuối trận — một pha phạm lỗi sớm trong đợt tấn công phá nhịp của họ và ép họ đánh lại trước hàng thủ đã đứng.",
+      "Sau hội ý của chính bạn, phòng thủ pha phát bóng biên — một pha phạm lỗi nhanh ngay khi đối thủ bắt bóng phá tan cả bài đánh họ vừa vẽ.",
+      "Cuối hiệp khi chưa vào bonus — dùng nó để chặn một đợt phản công nhanh hay một tình huống vỡ trận trước khi nó thành điểm."
+    ]
+  }
+}

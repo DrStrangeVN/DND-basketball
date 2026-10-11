@@ -1,0 +1,201 @@
+{
+  "title": "Stretch Big Playmaking",
+  "description": "How shooting bigs create offense: pick-and-pop reads, trail threes, and playmaking from the perimeter.",
+  "hub": "positions",
+  "subcategory": "modern-roles",
+  "level": "advanced",
+  "ages": [
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 6,
+  "dateUpdated": "2026-10-11",
+  "tags": [
+    "stretch-big",
+    "shooting",
+    "pick-and-pop",
+    "spacing"
+  ],
+  "whatIsIt": [
+    "Stretch big playmaking is the offensive skill set of a big man who shoots from outside — and uses that shooting threat to create for others. When a center or power forward can hit threes, the opposing big must leave the paint, and every pick-and-pop, trail three, and perimeter catch becomes a decision the defense cannot solve cleanly.",
+    "This is more than just 'a big who shoots.' A true stretch big reads closeouts, attacks them off the dribble, and makes the next pass when help rotates. The shot opens the floor; the playmaking punishes whatever the defense chooses."
+  ],
+  "whyItMatters": [
+    "A stretch big who can also playmake breaks every traditional defensive scheme: drop coverage gives up open threes, switching creates mismatches, and hedging leaves the rim unprotected. One player with this skill set forces the opponent to pick their poison on every single possession."
+  ],
+  "howTo": [
+    {
+      "title": "Become a reliable pick-and-pop threat",
+      "detail": "After screening, pop to the three-point line with your feet set and hands ready — not drifting sideways. Shoot 200 pick-and-pop jumpers weekly until defenders must respect it; the threat is what creates everything else."
+    },
+    {
+      "title": "Read the closeout and attack",
+      "detail": "When a big closes out hard on your catch, put the ball down with one dribble and drive. Practice the one-dribble pull-up and the two-dribble drive to the rim against a recovering defender — this turns a shooter into a creator."
+    },
+    {
+      "title": "Trail the break for threes",
+      "detail": "In transition, run the middle lane and stop at the top of the key instead of sprinting to the rim. Trail threes are the highest-value shot in early offense, and bigs who take them warp transition defense."
+    },
+    {
+      "title": "Make the extra pass from the perimeter",
+      "detail": "When help rotates to your drive, hit the next open shooter instead of forcing the shot. Stretch bigs who pass out of closeouts generate the wide-open threes that break games open."
+    },
+    {
+      "title": "Punish switches in the post",
+      "detail": "When a small switches onto you, do not automatically drift back outside — seal, catch deep, and score or draw the double. The threat works both ways: shoot over smalls, post up smaller mismatches."
+    }
+  ],
+  "coachingPoints": [
+    "The three-point shot is the entry ticket — without a respected jumper, none of the playmaking reads exist.",
+    "Teach 'shot or drive' decisiveness: catch, read the closeout in one beat, and commit fully.",
+    "Rebounding effort must survive the perimeter role — a stretch big who does not rebound is just a tall wing.",
+    "Conditioning matters: running the floor as a trailer every possession is exhausting; build the motor first."
+  ],
+  "commonMistakes": [
+    "Falling in love with the three and never attacking closeouts — fix: every practice includes closeout-attack reps, not just catch-and-shoot.",
+    "Popping without setting a real screen first — fix: make contact on the screen; a fake screen gets your guard trapped.",
+    "Standing still after the kick-out pass — fix: relocate to the next open spot; the play is not over when you pass.",
+    "Avoiding contact inside — fix: a stretch big must still finish through contact when the drive is there."
+  ],
+  "gameSituations": [
+    "Pick-and-pop possessions — the core action: screen, pop, and read whether to shoot, drive, or hit the roller.",
+    "Transition offense — trail the break and punish defenses that sprint back to the paint.",
+    "Zone offense — station at the high post or short corner where your shooting stretches the zone beyond its shape."
+  ],
+  "related": [
+    "pick-and-roll-basics",
+    "transition-trail-threes",
+    "spacing-basics",
+    "catch-and-shoot"
+  ],
+  "diagram": {
+    "title": "Pick-and-pop: big pops to the arc, guard reads the coverage",
+    "ball": "O1",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 65,
+        "y": 40
+      },
+      {
+        "label": "O5",
+        "x": 45,
+        "y": 28
+      },
+      {
+        "label": "O2",
+        "x": 15,
+        "y": 12
+      },
+      {
+        "label": "O3",
+        "x": 85,
+        "y": 12
+      },
+      {
+        "label": "O4",
+        "x": 70,
+        "y": 60
+      }
+    ],
+    "defense": [
+      {
+        "label": "D1",
+        "x": 62,
+        "y": 34
+      },
+      {
+        "label": "D5",
+        "x": 45,
+        "y": 22
+      }
+    ],
+    "passes": [
+      {
+        "from": "O1",
+        "to": "O5"
+      }
+    ],
+    "moves": [
+      {
+        "from": "O5",
+        "kind": "move",
+        "to": "rim"
+      }
+    ],
+    "screens": [
+      {
+        "from": "O5",
+        "to": "O1"
+      }
+    ],
+    "shots": [
+      {
+        "from": "O5",
+        "to": "rim"
+      }
+    ]
+  },
+  "vi": {
+    "title": "Khả năng kiến tạo của trung phong ném xa",
+    "description": "Cách các big man ném xa tạo ra tấn công: đọc tình huống pick-and-pop, ném 3 điểm sau phản công, và kiến tạo từ vòng ngoài.",
+    "tags": [
+      "trung phong ném xa",
+      "ném rổ",
+      "pick-and-pop",
+      "giãn đội hình"
+    ],
+    "whatIsIt": [
+      "Khả năng kiến tạo của trung phong ném xa là bộ kỹ năng tấn công của một big man ném được từ xa — và dùng mối đe dọa ném đó để tạo cơ hội cho đồng đội. Khi trung phong hoặc power forward ném được 3 điểm, big man đối thủ phải rời khu vực dưới rổ, và mọi pha pick-and-pop, ném 3 điểm sau phản công, hay bắt bóng ở vòng ngoài đều thành bài toán mà hàng thủ không giải gọn được.",
+      "Đây không chỉ là 'big man biết ném'. Một trung phong ném xa thật sự đọc được các pha closeout, tấn công chúng sau khi dẫn bóng, và chuyền tiếp khi hàng hỗ trợ xoay đến. Cú ném mở ra mặt sân; khả năng kiến tạo trừng phạt bất cứ lựa chọn nào của hàng thủ."
+    ],
+    "whyItMatters": [
+      "Một trung phong ném xa còn biết kiến tạo phá vỡ mọi sơ đồ phòng thủ truyền thống: drop coverage cho không cú ném 3 điểm trống, switch tạo ra mismatch, còn hedge thì bỏ trống rổ. Một cầu thủ có bộ kỹ năng này ép đối thủ phải chọn 'thuốc độc' trong từng lượt bóng."
+    ],
+    "howTo": [
+      {
+        "title": "Trở thành mối đe dọa pick-and-pop đáng tin",
+        "detail": "Sau khi screen, bật ra vạch 3 điểm với chân đã đặt sẵn và tay sẵn sàng — không trôi ngang. Ném 200 cú pick-and-pop mỗi tuần cho đến khi hậu vệ buộc phải tôn trọng; chính mối đe dọa đó tạo ra mọi thứ còn lại."
+      },
+      {
+        "title": "Đọc pha closeout và tấn công",
+        "detail": "Khi big đối thủ closeout mạnh lúc bạn bắt bóng, đặt bóng xuống với một nhịp dẫn và đột phá. Tập pull-up một nhịp dẫn bóng và đột phá hai nhịp vào rổ trước hậu vệ đang quay về — điều này biến một tay ném thành người kiến tạo."
+      },
+      {
+        "title": "Chạy sau phản công để ném 3 điểm",
+        "detail": "Khi phản công, chạy làn giữa và dừng ở đỉnh vòng cung thay vì lao thẳng vào rổ. Ném 3 điểm sau phản công là cú ném giá trị nhất trong tấn công sớm, và big man nào ném được chúng sẽ bẻ cong cả hàng thủ phản công."
+      },
+      {
+        "title": "Chuyền tiếp từ vòng ngoài",
+        "detail": "Khi hàng hỗ trợ xoay đến pha đột phá của bạn, chuyền cho tay ném trống tiếp theo thay vì cố ném. Trung phong ném xa biết đá ra sau closeout tạo ra những cú ném 3 điểm hoàn toàn trống có thể bẻ gãy trận đấu."
+      },
+      {
+        "title": "Trừng phạt các pha switch trong post",
+        "detail": "Khi cầu thủ nhỏ switch sang kèm bạn, đừng tự động trôi ra ngoài — khóa vị trí, bắt bóng sâu, rồi ghi điểm hoặc ép đối thủ double team. Mối đe dọa hoạt động cả hai chiều: ném qua người nhỏ, đánh post khi có mismatch thấp hơn."
+      }
+    ],
+    "coachingPoints": [
+      "Cú ném 3 điểm là vé vào cửa — không có cú nhảy ném được tôn trọng, không pha đọc kiến tạo nào tồn tại.",
+      "Dạy sự quyết đoán 'ném hoặc đột phá': bắt bóng, đọc closeout trong một nhịp, và cam kết toàn lực.",
+      "Nỗ lực rebound phải sống sót qua vai trò vòng ngoài — trung phong ném xa không rebound chỉ là một cầu thủ cánh cao.",
+      "Thể lực quan trọng: chạy sân ở vị trí trailer mọi lượt bóng rất tốn sức; xây động cơ trước đã."
+    ],
+    "commonMistakes": [
+      "Mê ném 3 điểm mà không bao giờ tấn công closeout — sửa: mọi buổi tập đều có bài tấn công closeout, không chỉ bắt bóng ném ngay.",
+      "Bật ra mà không screen thật trước đó — sửa: tạo va chạm khi screen; screen giả khiến hậu vệ của bạn bị bẫy.",
+      "Đứng yên sau khi đá bóng ra — sửa: di chuyển đến điểm trống tiếp theo; pha bóng chưa kết thúc khi bạn chuyền đi.",
+      "Tránh va chạm trong khu vực dưới rổ — sửa: trung phong ném xa vẫn phải kết thúc qua va chạm khi có đường đột phá."
+    ],
+    "gameSituations": [
+      "Các lượt pick-and-pop — đòn đánh cốt lõi: screen, bật ra, và đọc xem nên ném, đột phá hay chuyền cho người lăn vào.",
+      "Tấn công phản công — chạy sau và trừng phạt hàng thủ vội vã lùi về khu vực dưới rổ.",
+      "Tấn công trước zone — đứng ở high post hoặc short corner, nơi khả năng ném của bạn kéo giãn zone ra khỏi hình dạng của nó."
+    ]
+  },
+  "id": "stretch-big-playmaking",
+  "slug": "stretch-big-playmaking"
+}

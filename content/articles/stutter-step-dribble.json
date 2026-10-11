@@ -1,0 +1,176 @@
+{
+  "id": "stutter-step-dribble",
+  "slug": "stutter-step-dribble",
+  "title": "Stutter-Step Dribble",
+  "description": "Rapid stutter steps that sell a stop, then explode — the simplest hesitation weapon for young guards.",
+  "hub": "skills",
+  "subcategory": "ball-handling",
+  "level": "beginner",
+  "ages": [
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "Guard",
+    "Wing"
+  ],
+  "readTime": 5,
+  "dateUpdated": "2026-10-11",
+  "whatIsIt": [
+    "The stutter-step dribble uses quick, choppy steps in place — like running in place for a beat — while keeping a live dribble. To the defender it looks like you are stopping or slowing down, so they relax or shift their weight. Then you explode out of the stutter into a full drive.",
+    "The move works on a simple principle: defenders mirror your feet. When your feet chop fast but your body goes nowhere, their feet stop too — and a stopped defender cannot react to your first explosive step."
+  ],
+  "whyItMatters": [
+    "Every guard needs a hesitation move, and the stutter step is the easiest one to learn and the hardest one to mess up. It teaches young players the core concept of change of pace — that basketball is not about always going fast, but about making the defender think you will slow down. It also builds foot speed and coordination that transfer to defense."
+  ],
+  "howTo": [
+    {
+      "title": "Dribble at the defender with control",
+      "detail": "Approach at three-quarter speed with the ball in your strong hand, low and protected. Keep your eyes on the defender's chest."
+    },
+    {
+      "title": "Chop your feet in place",
+      "detail": "Take 3–4 rapid, short steps without going forward — like running in place. Keep the dribble alive with quick, low bounces synced to your steps."
+    },
+    {
+      "title": "Sink your hips as you stutter",
+      "detail": "Drop your hips slightly during the stutter so it looks like you are gathering to stop or pull up. This sells the deceleration."
+    },
+    {
+      "title": "Read the defender's feet",
+      "detail": "Watch for the moment the defender's feet stop or their weight settles back — that is your green light."
+    },
+    {
+      "title": "Explode out low",
+      "detail": "Push hard off your back foot and take a long first step past the defender. Your burst should come from your legs, not from reaching with the ball."
+    },
+    {
+      "title": "Drive through the opening",
+      "detail": "Keep the ball tight to your body and attack the lane, eyes up to read help defenders."
+    }
+  ],
+  "coachingPoints": [
+    "The stutter only works if your upper body looks like it's slowing down — sell the stop with your hips and shoulders, not just your feet.",
+    "Keep the dribble in front of you during the stutter; letting it drift to the side invites a reach-in.",
+    "Your explosive step must go past the defender, not at them — aim for their outside hip.",
+    "Practice the stutter-to-burst transition, not just the stutter; the move is worthless without the explosion."
+  ],
+  "commonMistakes": [
+    "Stuttering without a live dribble — fix: never pick the ball up before the move; the dribble must survive the whole sequence.",
+    "Taking slow, lazy stutter steps — fix: the steps must be rapid and choppy; slow steps don't freeze anyone.",
+    "Exploding upright instead of low — fix: keep your head below your normal standing height through the first two drive steps.",
+    "Using it too far from the defender — fix: start the stutter within 2–3 meters so the defender actually has to react."
+  ],
+  "gameSituations": [
+    "Youth fast breaks — a stutter step freezes the lone retreating defender and opens the lane for a layup.",
+    "Half-court creation — when the defender is backpedaling to contain you, the stutter-burst turns containment into a blow-by.",
+    "End-of-game free throws situations — use the stutter to create just enough space for a pull-up when the defense is sitting on your drive."
+  ],
+  "tags": [
+    "ball-handling",
+    "hesitation",
+    "change-of-pace"
+  ],
+  "related": [
+    "hesitation",
+    "change-of-pace",
+    "one-dribble-pull-up",
+    "transition-dribble-push",
+    "attacking-the-closeout"
+  ],
+  "diagram": {
+    "title": "O1 chops quick stutter steps to freeze D1, then bursts past into the lane",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 68,
+        "y": 28
+      }
+    ],
+    "defense": [
+      {
+        "label": "D1",
+        "x": 64,
+        "y": 26
+      }
+    ],
+    "ball": "O1",
+    "screens": [],
+    "moves": [
+      {
+        "from": "O1",
+        "to": "O1",
+        "kind": "dribble"
+      },
+      {
+        "from": "O1",
+        "to": "rim",
+        "kind": "dribble"
+      }
+    ],
+    "passes": [],
+    "shots": []
+  },
+  "vi": {
+    "title": "Kỹ thuật stutter step (giậm chân đánh lừa)",
+    "description": "Những bước giậm chân nhanh tại chỗ giả vờ dừng lại, rồi bật tung — vũ khí ngập ngừng đơn giản nhất cho các hậu vệ trẻ.",
+    "whatIsIt": [
+      "Stutter-step dribble dùng những bước chân nhanh, ngắn tại chỗ — như chạy tại chỗ trong một nhịp — trong khi vẫn giữ dribble sống. Với hậu vệ, trông như bạn đang dừng hoặc chậm lại, nên họ thả lỏng hoặc dịch trọng tâm. Rồi bạn bật tung khỏi pha giậm chân thành một pha đâm trọn vẹn.",
+      "Động tác hoạt động trên một nguyên tắc đơn giản: hậu vệ soi chân bạn. Khi chân bạn giậm nhanh mà người không tiến lên, chân họ cũng dừng theo — và một hậu vệ đã dừng chân không thể phản ứng với bước bật đầu tiên của bạn."
+    ],
+    "whyItMatters": [
+      "Mọi hậu vệ đều cần một động tác ngập ngừng, và stutter step là động tác dễ học nhất, khó hỏng nhất. Nó dạy cầu thủ trẻ khái niệm cốt lõi của đổi nhịp — bóng rổ không phải lúc nào cũng nhanh, mà là khiến hậu vệ tưởng bạn sẽ chậm lại. Nó cũng rèn tốc độ chân và phối hợp, dùng được cả khi phòng thủ."
+    ],
+    "howTo": [
+      {
+        "title": "Dẫn bóng áp sát có kiểm soát",
+        "detail": "Tiếp cận với tốc độ ba phần tư, bóng ở tay thuận, thấp và được che chắn. Mắt dán vào ngực hậu vệ."
+      },
+      {
+        "title": "Giậm chân nhanh tại chỗ",
+        "detail": "Giậm 3–4 bước ngắn, nhanh mà không tiến lên — như chạy tại chỗ. Giữ dribble sống với những nhịp nảy thấp, nhanh, đồng bộ với bước chân."
+      },
+      {
+        "title": "Hạ hông khi giậm chân",
+        "detail": "Hạ hông xuống một chút trong lúc giậm để trông như bạn đang ghìm lại để dừng hoặc pull-up. Như vậy mới bán được pha giảm tốc."
+      },
+      {
+        "title": "Đọc chân hậu vệ",
+        "detail": "Chờ khoảnh khắc chân hậu vệ dừng lại hoặc trọng tâm họ ngả về sau — đó là đèn xanh của bạn."
+      },
+      {
+        "title": "Bật tung người thấp",
+        "detail": "Đạp mạnh bằng chân sau và bước dài qua người hậu vệ. Cú bật phải đến từ chân, không phải từ việc với bóng ra."
+      },
+      {
+        "title": "Đâm xuyên qua khoảng trống",
+        "detail": "Giữ bóng sát người và tấn công vào lane, mắt nhìn lên đọc hàng thủ hỗ trợ."
+      }
+    ],
+    "coachingPoints": [
+      "Stutter chỉ hiệu quả khi thân trên trông như đang chậm lại — diễn pha dừng bằng hông và vai, không chỉ bằng chân.",
+      "Giữ dribble trước người khi giậm chân; để bóng trôi sang bên là mời tay với.",
+      "Bước bật phải đi qua người hậu vệ, không đâm vào họ — nhắm vào hông ngoài của họ.",
+      "Tập chuyển tiếp từ giậm chân sang bật tung, không chỉ tập giậm chân; động tác vô giá trị nếu thiếu cú bật."
+    ],
+    "commonMistakes": [
+      "Giậm chân mà mất dribble — sửa: không bao giờ ôm bóng trước động tác; dribble phải sống suốt cả chuỗi.",
+      "Bước giậm chậm, uể oải — sửa: bước chân phải nhanh và dồn dập; bước chậm không đóng băng được ai.",
+      "Bật lên cao thay vì thấp — sửa: giữ đầu thấp hơn chiều cao đứng bình thường trong hai bước đâm đầu.",
+      "Dùng quá xa hậu vệ — sửa: bắt đầu giậm trong khoảng 2–3m để hậu vệ buộc phải phản ứng."
+    ],
+    "gameSituations": [
+      "Phản công nhanh ở giải trẻ — một pha stutter đóng băng hậu vệ lùi đơn độc và mở đường cho layup.",
+      "Tạo đột biến nửa sân — khi hậu vệ đang lùi để kèm bạn, stutter-burst biến thế kèm thành pha vượt mặt.",
+      "Tình huống cuối trận — dùng stutter để tạo vừa đủ khoảng trống cho một cú pull-up khi hàng thủ đang chặn đường đâm của bạn."
+    ],
+    "tags": [
+      "dẫn bóng",
+      "ngập ngừng",
+      "đổi nhịp"
+    ]
+  }
+}

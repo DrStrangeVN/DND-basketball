@@ -1,0 +1,140 @@
+{
+  "title": "Multi-Position Youth Development",
+  "description": "Why young players should learn every position: the long-term development plan for versatile basketball players.",
+  "hub": "coaching",
+  "subcategory": "player-development",
+  "level": "beginner",
+  "ages": [
+    "U12",
+    "U14",
+    "U16"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 6,
+  "dateUpdated": "2026-10-11",
+  "tags": [
+    "youth",
+    "versatility",
+    "positions",
+    "development"
+  ],
+  "whatIsIt": [
+    "Multi-position youth development is a coaching approach where young players rotate through all five positions instead of being locked into one. A tall 12-year-old learns to handle the ball; a small guard learns to post up and rebound. The goal is complete players, not early specialists.",
+    "Modern basketball is positionless: centers shoot threes, guards post up, everyone switches on defense. Players who only ever learned one role hit a ceiling early — when their body or the game changes, they have no second skill set to fall back on."
+  ],
+  "whyItMatters": [
+    "The best long-term athletes in any sport played multiple positions (or multiple sports) as kids. Multi-position players read the game better, adapt to any lineup, and stay valuable when coaches change systems. Early specialization wins U12 tournaments; versatility wins careers."
+  ],
+  "howTo": [
+    {
+      "title": "Rotate positions every practice",
+      "detail": "Assign players a different position each week in practice scrimmages. The starting point guard plays power forward; the center brings the ball up. Keep a simple rotation chart so every player logs real minutes at 3+ positions per month."
+    },
+    {
+      "title": "Teach every skill to every player",
+      "detail": "Run the same footwork, passing, and finishing drills for the whole group. Bigs do ball-handling series; guards do post footwork. Do not excuse anyone from a drill because 'that is not your position.'"
+    },
+    {
+      "title": "Play small-ball lineups on purpose",
+      "detail": "Schedule scrimmage segments with no designated center. Everyone rebounds, everyone pushes the ball. Players discover skills they never knew they had when the traditional structure disappears."
+    },
+    {
+      "title": "Switch everything on defense",
+      "detail": "In practice games, require all switches on screens. Guards learn to battle bigs inside; bigs learn to move their feet on the perimeter. This is the single fastest teacher of defensive versatility."
+    },
+    {
+      "title": "Track skills, not positions",
+      "detail": "Replace 'he is our center' with a skill checklist: can he dribble under pressure? shoot from three? guard multiple spots? Evaluate development by skills gained, and positions stop defining players."
+    },
+    {
+      "title": "Talk to parents early",
+      "detail": "Parents often push for a fixed 'star' position. Explain the plan at the season's start: their child will play everywhere, struggle sometimes, and come out a far better player. Get buy-in before the first game."
+    }
+  ],
+  "coachingPoints": [
+    "A 12-year-old's body is a guess, not a destiny — never build a player's whole game around their current height.",
+    "Struggle is the point: a guard posting up will be clumsy at first, and that clumsiness is learning.",
+    "Versatility is insurance — the player who can fill three roles always has a roster spot.",
+    "Praise skill growth publicly ('great handle today') more than positional dominance ('our big man dominated')."
+  ],
+  "commonMistakes": [
+    "Parking the tallest kid under the basket for every minute — fix: cap any player at 50% of minutes in one position.",
+    "Letting guards skip rebounding drills — fix: everyone boxes out, every drill, no exceptions.",
+    "Judging the experiment by weekend results — fix: measure success in skills learned per month, not tournament trophies.",
+    "Giving up after one bad week at a new position — fix: commit to a minimum 3-week rotation before evaluating."
+  ],
+  "gameSituations": [
+    "Practice scrimmages — the laboratory for position rotation; run weekly lineups with deliberately mixed roles.",
+    "Tournaments — resist the urge to revert to fixed positions when games get tight; development over trophies.",
+    "Tryouts for select teams — multi-position players stand out because they fit any coach's system."
+  ],
+  "related": [
+    "practice-planning",
+    "small-forward-versatility",
+    "transition-decision-making"
+  ],
+  "vi": {
+    "title": "Phát triển đa vị trí cho cầu thủ trẻ",
+    "description": "Vì sao cầu thủ trẻ nên học mọi vị trí: kế hoạch phát triển dài hạn cho những cầu thủ đa năng.",
+    "tags": [
+      "trẻ",
+      "đa năng",
+      "vị trí",
+      "phát triển"
+    ],
+    "whatIsIt": [
+      "Phát triển đa vị trí cho cầu thủ trẻ là cách huấn luyện mà cầu thủ nhí xoay vòng qua cả năm vị trí thay vì bị khóa vào một vị trí. Em cao 12 tuổi học dẫn bóng; em hậu vệ nhỏ học đánh post và rebound. Mục tiêu là cầu thủ toàn diện, không phải chuyên gia sớm.",
+      "Bóng rổ hiện đại không còn phân vị trí cứng: trung phong ném 3 điểm, hậu vệ đánh post, ai cũng switch khi phòng thủ. Cầu thủ chỉ học một vai trò sẽ chạm trần sớm — khi cơ thể hoặc lối chơi thay đổi, họ không có bộ kỹ năng thứ hai để dựa vào."
+    ],
+    "whyItMatters": [
+      "Những vận động viên đỉnh cao nhất ở mọi môn đều từng chơi nhiều vị trí (hoặc nhiều môn) khi còn nhỏ. Cầu thủ đa vị trí đọc trận đấu tốt hơn, thích nghi với mọi đội hình, và vẫn có giá trị khi HLV đổi hệ thống. Chuyên môn hóa sớm thắng giải U12; đa năng thắng cả sự nghiệp."
+    ],
+    "howTo": [
+      {
+        "title": "Xoay vị trí mỗi buổi tập",
+        "detail": "Giao cho cầu thủ một vị trí khác nhau mỗi tuần trong các trận đấu tập. Hậu vệ dẫn bóng chính đá power forward; trung phong dẫn bóng lên. Giữ một bảng xoay vòng đơn giản để mỗi cầu thủ có phút thi đấu thật ở ít nhất 3 vị trí mỗi tháng."
+      },
+      {
+        "title": "Dạy mọi kỹ năng cho mọi cầu thủ",
+        "detail": "Cho cả đội tập cùng các bài bộ chân, chuyền bóng và kết thúc. Cầu thủ cao tập dẫn bóng; hậu vệ tập bộ chân đánh post. Không cho ai bỏ bài tập với lý do 'đó không phải vị trí của em'."
+      },
+      {
+        "title": "Chủ động chơi đội hình nhỏ",
+        "detail": "Xếp các đoạn đấu tập không có trung phong cố định. Ai cũng rebound, ai cũng đẩy bóng nhanh. Cầu thủ sẽ phát hiện những kỹ năng mình không biết là có khi cấu trúc truyền thống biến mất."
+      },
+      {
+        "title": "Switch mọi screen khi phòng thủ",
+        "detail": "Trong các trận tập, yêu cầu switch mọi screen. Hậu vệ học cách đấu với cầu thủ cao trong khu vực dưới rổ; cầu thủ cao học di chuyển chân ở vòng ngoài. Đây là cách nhanh nhất để dạy sự đa năng phòng thủ."
+      },
+      {
+        "title": "Theo dõi kỹ năng, không theo dõi vị trí",
+        "detail": "Thay câu 'em là trung phong của đội' bằng bảng kiểm kỹ năng: em có dẫn bóng được khi bị áp lực không? Ném được 3 điểm không? Kèm được nhiều vị trí không? Đánh giá sự phát triển bằng kỹ năng tích lũy, và vị trí sẽ không còn định nghĩa cầu thủ."
+      },
+      {
+        "title": "Trao đổi với phụ huynh từ sớm",
+        "detail": "Phụ huynh thường muốn con có một vị trí 'ngôi sao' cố định. Giải thích kế hoạch ngay đầu mùa: con họ sẽ chơi mọi vị trí, đôi lúc chật vật, và cuối cùng trở thành cầu thủ giỏi hơn nhiều. Có sự đồng thuận trước trận đầu tiên."
+      }
+    ],
+    "coachingPoints": [
+      "Cơ thể của trẻ 12 tuổi là một phỏng đoán, không phải định mệnh — đừng xây cả lối chơi của cầu thủ quanh chiều cao hiện tại.",
+      "Chật vật chính là mục đích: hậu vệ đánh post lúc đầu sẽ vụng về, và sự vụng về đó là đang học.",
+      "Đa năng là bảo hiểm — cầu thủ lấp được ba vai trò luôn có chỗ trong đội hình.",
+      "Khen sự tiến bộ kỹ năng công khai ('hôm nay dẫn bóng hay lắm') nhiều hơn khen sự áp đảo ở một vị trí ('trung phong của ta áp đảo')."
+    ],
+    "commonMistakes": [
+      "Cắm em cao nhất dưới rổ mọi phút thi đấu — sửa: giới hạn mỗi cầu thủ tối đa 50% số phút ở một vị trí.",
+      "Để hậu vệ bỏ qua bài tập rebound — sửa: ai cũng box out, mọi bài tập, không ngoại lệ.",
+      "Đánh giá thử nghiệm bằng kết quả cuối tuần — sửa: đo thành công bằng kỹ năng học được mỗi tháng, không phải cúp giải đấu.",
+      "Bỏ cuộc sau một tuần tệ ở vị trí mới — sửa: cam kết xoay vòng tối thiểu 3 tuần mới đánh giá."
+    ],
+    "gameSituations": [
+      "Các trận đấu tập — phòng thí nghiệm cho xoay vòng vị trí; mỗi tuần xếp đội hình với vai trò trộn lẫn có chủ đích.",
+      "Giải đấu — kiềm chế ý muốn quay về vị trí cố định khi trận căng; phát triển quan trọng hơn cúp.",
+      "Buổi tuyển chọn đội tuyển — cầu thủ đa vị trí nổi bật vì họ hợp với hệ thống của mọi HLV."
+    ]
+  },
+  "id": "multi-position-youth-development",
+  "slug": "multi-position-youth-development"
+}

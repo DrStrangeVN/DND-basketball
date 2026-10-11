@@ -1,0 +1,186 @@
+{
+  "id": "delay-keep-action",
+  "slug": "delay-keep-action",
+  "title": "Delay Keep Action",
+  "description": "The DHO fake: start the dribble handoff, then keep the ball and explode the other way. One fake that turns the screener's defender into a traffic cone.",
+  "hub": "offense",
+  "subcategory": "half-court-offense",
+  "level": "advanced",
+  "ages": [
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 5,
+  "dateUpdated": "2026-10-11",
+  "whatIsIt": [
+    "Delay action is the dribble handoff series run at the top of the floor — the guard dribbles at a big, hands off, and the offense flows. The 'keep' is the counter: the guard starts the handoff motion, the big's defender jumps out to stop the exchange, and the guard keeps the ball and explodes past him the other way.",
+    "It works because the handoff is such a respected action. Defenders are drilled to 'blow up' the DHO — to jump into the exchange and deny it. The keep punishes exactly that aggression: the harder the defender attacks the handoff, the more open the driving lane becomes. It is a one-move counter with an enormous payoff."
+  ],
+  "whyItMatters": [
+    "Every action needs a counter, or the defense will sit on it. If your team runs delay DHOs, opponents will eventually start jumping the handoff — and the keep is the answer that makes them pay for it. One keep for a layup changes how the defense guards every future handoff: they have to hesitate, and a hesitating defender cannot blow up anything. Advanced players must have this in their bag; without it, your DHO game has a ceiling."
+  ],
+  "howTo": [
+    {
+      "title": "Start the delay like always",
+      "detail": "O1 dribbles at O5 at the top in the normal delay action. Same pace, same body language as every other rep — the keep only works if the start looks identical to the real handoff."
+    },
+    {
+      "title": "Read the big's defender",
+      "detail": "As O1 approaches, watch D5. If he stays home or drops, run the normal handoff. If he jumps out to blow up the exchange — weight forward, hands reaching — the keep is on."
+    },
+    {
+      "title": "Fake the handoff, keep the dribble",
+      "detail": "O1 extends the ball toward O5 as if handing off, then pulls it back and keeps the dribble. The fake must be convincing: same arm extension, same timing. A lazy fake fools nobody."
+    },
+    {
+      "title": "Explode the other way",
+      "detail": "The moment D5 commits to the handoff, O1 crosses over or pushes past him to the opposite side and attacks downhill. One or two hard dribbles — the lane is open because D5 is now behind the play."
+    },
+    {
+      "title": "Finish or find the big",
+      "detail": "O1 drives to the rim for the layup or pull-up. If help rotates, O5 — now free after the fake handoff — is rolling or popping into space. The keep often creates a 2-on-1 with the very defender who tried to blow it up trailing."
+    }
+  ],
+  "coachingPoints": [
+    "The setup is everything. Run real handoffs first — the keep only works after the defense has seen (and respected) the real thing.",
+    "Read D5's feet, not his hands. Weight forward and a big first step toward the exchange means keep; flat feet means handoff.",
+    "The fake must look exactly like the handoff. Same speed, same arm action — defenders read patterns, so give them the pattern.",
+    "Explode, don't drift. The window after the keep is one or two dribbles; a slow crossover lets the defense recover.",
+    "O5: after the fake, you are live. Roll, pop, or re-screen — the defense just lost track of you."
+  ],
+  "commonMistakes": [
+    "Faking with no conviction — the ball never really extends — fix: the fake must travel the same path as the real handoff; drill both back to back.",
+    "Keeping when D5 never committed — fix: if the defender stays home, the handoff was the right read; don't force the keep.",
+    "Drifting sideways instead of exploding downhill — fix: the keep attacks the rim, not the sideline; two hard dribbles at the basket.",
+    "O5 standing still after the fake — fix: the big must move the moment the ball is kept; a stationary big wastes the advantage."
+  ],
+  "gameSituations": [
+    "Against DHO-jumpers: when the scouting report says they blow up handoffs, open the game with two keeps and watch them stop jumping.",
+    "Late-clock creation: the keep manufactures a driving lane out of nothing with under 8 seconds — no screen needed.",
+    "Playoff adjustments: when a series tightens and opponents sit on your delay action, the keep is the Game 3 counter that re-opens everything."
+  ],
+  "tags": [
+    "DHO",
+    "delay action",
+    "counter",
+    "ball handling",
+    "half-court offense"
+  ],
+  "related": [
+    "delay-action",
+    "dho-action",
+    "reject-screen",
+    "snake-dribble",
+    "pistol-action"
+  ],
+  "diagram": {
+    "title": "Delay keep — O1 fakes the handoff to O5, keeps the ball and explodes past D5",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 55
+      },
+      {
+        "label": "O5",
+        "x": 50,
+        "y": 42
+      }
+    ],
+    "defense": [
+      {
+        "label": "D1",
+        "x": 46,
+        "y": 52
+      },
+      {
+        "label": "D5",
+        "x": 54,
+        "y": 42
+      }
+    ],
+    "ball": "O1",
+    "screens": [],
+    "moves": [
+      {
+        "from": "O1",
+        "to": "O5",
+        "kind": "dribble"
+      },
+      {
+        "from": "O1",
+        "to": "rim",
+        "kind": "dribble"
+      },
+      {
+        "from": "O5",
+        "to": "rim",
+        "kind": "cut"
+      }
+    ],
+    "passes": [],
+    "shots": []
+  },
+  "vi": {
+    "title": "Miếng delay giữ bóng (delay keep action)",
+    "description": "Đòn giả DHO: bắt đầu động tác handoff rồi giữ bóng, bứt tốc hướng ngược lại. Một cú giả biến hậu vệ của người nhận handoff thành cọc tiêu.",
+    "whatIsIt": [
+      "Delay action là chuỗi dribble handoff chạy ở đỉnh sân — hậu vệ dẫn về phía big, giao bóng, và tấn công vận hành. 'Keep' là đòn phản đòn: hậu vệ bắt đầu động tác handoff, hậu vệ của big lao ra phá đường giao bóng, và hậu vệ giữ bóng, bứt qua hắn hướng ngược lại.",
+      "Nó hiệu quả vì handoff là miếng đánh được tôn trọng. Hậu vệ được tập để 'phá' DHO — lao vào đường giao bóng và cắt nó. Keep trừng phạt chính sự hiếu chiến đó: hậu vệ lao vào handoff càng mạnh, lane đột phá càng mở. Một đòn phản đòn đơn giản với phần thưởng khổng lồ."
+    ],
+    "whyItMatters": [
+      "Mọi miếng đánh đều cần đòn phản đòn, không thì hàng thủ sẽ ngồi chờ nó. Nếu đội bạn chạy delay DHO, đối thủ rồi sẽ lao ra phá handoff — và keep là đáp án bắt họ trả giá. Một cú keep thành layup làm đổi cách hàng thủ kèm mọi handoff sau đó: họ phải chần chừ, mà hậu vệ chần chừ thì không phá được gì. Cầu thủ trình độ cao phải có miếng này trong túi; thiếu nó, DHO của bạn có trần."
+    ],
+    "howTo": [
+      {
+        "title": "Bắt đầu delay như mọi khi",
+        "detail": "O1 dẫn về phía O5 ở đỉnh sân trong delay action bình thường. Cùng tốc độ, cùng ngôn ngữ cơ thể như mọi lần tập — keep chỉ hiệu quả khi khởi đầu giống hệt handoff thật."
+      },
+      {
+        "title": "Đọc hậu vệ của big",
+        "detail": "Khi O1 áp sát, nhìn D5. Hắn đứng yên hoặc lùi thì chạy handoff bình thường. Hắn lao ra phá đường giao bóng — trọng tâm chúi tới, tay với ra — thì keep đã mở."
+      },
+      {
+        "title": "Giả handoff, giữ bóng",
+        "detail": "O1 đưa bóng về phía O5 như sắp giao, rồi kéo về giữ bóng. Cú giả phải thuyết phục: cùng độ duỗi tay, cùng timing. Giả hời hợt thì không lừa được ai."
+      },
+      {
+        "title": "Bứt tốc hướng ngược lại",
+        "detail": "Ngay khi D5 commit vào handoff, O1 crossover hoặc đẩy bóng qua hắn sang phía đối diện và tấn công xuống. Một hai nhịp dẫn mạnh — lane đã mở vì D5 giờ ở sau lưng pha bóng."
+      },
+      {
+        "title": "Kết thúc hoặc tìm big",
+        "detail": "O1 đột phá vào rổ để layup hoặc pull-up. Help xoay sang thì O5 — giờ tự do sau cú giả handoff — đang roll hoặc pop vào khoảng trống. Keep thường tạo ra 2-kèm-1 với chính hậu vệ vừa cố phá handoff đang chạy theo sau."
+      }
+    ],
+    "coachingPoints": [
+      "Khâu chuẩn bị là tất cả. Chạy handoff thật trước — keep chỉ hiệu quả sau khi hàng thủ đã thấy (và đã nể) handoff thật.",
+      "Đọc chân của D5, không phải tay hắn. Trọng tâm chúi tới và bước đầu lớn về phía đường giao bóng nghĩa là keep; chân đứng yên nghĩa là handoff.",
+      "Cú giả phải giống hệt handoff. Cùng tốc độ, cùng động tác tay — hậu vệ đọc mẫu hình, nên hãy cho họ thấy mẫu hình.",
+      "Bứt tốc, đừng lững thững. Cửa sổ sau keep chỉ một hai nhịp dẫn; crossover chậm là hàng thủ kịp hồi.",
+      "O5: sau cú giả, bạn đang tự do. Roll, pop hoặc dựng lại screen — hàng thủ vừa mất dấu bạn."
+    ],
+    "commonMistakes": [
+      "Giả không có lực — bóng chẳng bao giờ thực sự đưa ra — sửa: cú giả phải đi đúng đường của handoff thật; tập cả hai liền nhau.",
+      "Keep khi D5 chưa commit — sửa: hậu vệ mà đứng yên thì handoff mới là đáp án đúng; đừng cố keep.",
+      "Lững thững sang ngang thay vì bứt xuống — sửa: keep tấn công rổ, không phải đường biên; hai nhịp dẫn mạnh vào rổ.",
+      "O5 đứng yên sau cú giả — sửa: big phải di chuyển ngay khi bóng được giữ; big đứng yên là phí lợi thế."
+    ],
+    "gameSituations": [
+      "Trước đội chuyên phá DHO: scouting report nói họ lao vào phá handoff thì mở trận bằng hai cú keep, xem họ còn dám lao nữa không.",
+      "Tạo đột phá cuối đồng hồ: keep tạo ra lane đột phá từ hư không khi còn dưới 8 giây — không cần screen.",
+      "Điều chỉnh ở playoff: khi series căng và đối thủ ngồi chờ delay action của bạn, keep là đòn phản đòn của Game 3 mở lại mọi thứ."
+    ],
+    "tags": [
+      "DHO",
+      "delay action",
+      "đòn phản đòn",
+      "dẫn bóng",
+      "tấn công half-court"
+    ]
+  }
+}

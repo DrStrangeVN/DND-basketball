@@ -1,0 +1,223 @@
+{
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "coachingPoints": [
+    "Denial is a lane, not a jersey grab — your chest and lead hand do the work, never your grabbing hand.",
+    "Recover like a sprinter, close out like a defender: two different speeds, one continuous effort.",
+    "The re-deny is what makes it a system — one denied pass means nothing if the next one is easy.",
+    "Talk the ball: 'Ball! Ball!' tells the denier when to tighten and when the help is set.",
+    "Condition the legs: denial stance for 24 seconds is a workout; train it in interval bursts."
+  ],
+  "commonMistakes": [
+    "Playing denial two passes away — fix: only one pass away denies; two away you split ball and man.",
+    "Reaching and fouling in denial — fix: lead hand traces the lane, trail hand stays home; feet, not hands.",
+    "Jogging the recovery — fix: the recovery is a sprint for two steps, then a breakdown; never one speed.",
+    "Forgetting to re-deny — fix: 'pass-denied' is the cue; the moment the ball moves, snap back into the lane."
+  ],
+  "dateUpdated": "2026-10-11",
+  "description": "Full-denial pressure: how to deny the ball one pass away, recover on the catch, and keep the system alive without fouling.",
+  "gameSituations": [
+    "Against a post-heavy offense — denying the entry pass starves their best weapon without doubling.",
+    "Late-clock situations — full denial burns 6-8 seconds off every possession by itself.",
+    "Versus a team with one elite passer — deny his targets and make someone else create.",
+    "After your team builds a lead — denial defense protects leads by bleeding the clock on every trip."
+  ],
+  "howTo": [
+    {
+      "title": "Set the denial stance",
+      "detail": "One pass away, get chest-to-chest with your man in the passing lane: lead hand in the lane, trail hand on the man, body low. See both your man and the ball — 'ball-you-man' with the emphasis on the ball."
+    },
+    {
+      "title": "Deny the first option",
+      "detail": "Take away the easy catch. Force the passer to throw over the top or skip the ball — both are slower, higher, and easier to read. The goal is to make the offense use its second and third options."
+    },
+    {
+      "title": "Recover on the catch",
+      "detail": "When your man catches despite the denial, sprint-recover: two hard steps to close the gap, then break down into a closeout. Never arrive standing up — a standing recovery is a blow-by."
+    },
+    {
+      "title": "Close out under control",
+      "detail": "Finish the recovery with a short, choppy closeout: high hands, butt down, chest up. Contest the shot first, contain the drive second — the drive help is behind you."
+    },
+    {
+      "title": "Re-deny after the pass",
+      "detail": "The moment the ball leaves your man's hands, snap back into denial on the next pass. Deny-and-recover is a loop: deny, recover, close out, re-deny — every possession, every pass."
+    },
+    {
+      "title": "Stay out of foul trouble",
+      "detail": "Denial defense lives on the edge of contact. Keep hands in the lane, not on the man; move your feet to stay in the lane instead of grabbing. The system only works if the deniers stay on the floor."
+    }
+  ],
+  "hub": "defense",
+  "id": "deny-and-recover-defense",
+  "level": "intermediate",
+  "positions": [
+    "Guard",
+    "Forward"
+  ],
+  "readTime": 6,
+  "related": [
+    "full-court-press",
+    "closeout-defense",
+    "help-defense",
+    "defensive-stance",
+    "switch-defense"
+  ],
+  "slug": "deny-and-recover-defense",
+  "subcategory": "defensive-systems",
+  "tags": [
+    "denial",
+    "man-to-man defense",
+    "closeout",
+    "ball pressure",
+    "team defense"
+  ],
+  "title": "Deny and Recover Defense",
+  "vi": {
+    "coachingPoints": [
+      "Bắt đường chuyền là chắn đường, không phải kéo áo — ngực và tay trước làm việc, không bao giờ là tay kéo.",
+      "Thu hồi như vận động viên chạy nước rút, closeout như cầu thủ phòng thủ: hai tốc độ khác nhau, một nỗ lực liên tục.",
+      "Pha bắt lại mới tạo nên hệ thống — một đường chuyền bị bắt chẳng nghĩa lý gì nếu đường tiếp theo dễ dàng.",
+      "Hô theo bóng: 'Bóng! Bóng!' cho người bắt chặt biết khi nào siết và khi nào người hỗ trợ đã vào vị trí.",
+      "Rèn đôi chân: giữ thế bắt đường chuyền 24 giây là một bài tập nặng; tập theo từng đợt ngắt quãng."
+    ],
+    "commonMistakes": [
+      "Bắt đường chuyền khi cách hai đường chuyền — sửa: chỉ cách một đường chuyền mới bắt chặt; cách hai thì chia giữa bóng và người.",
+      "Với tay và phạm lỗi khi bắt chặt — sửa: tay trước rà theo đường chuyền, tay sau giữ vị trí; dùng chân, không dùng tay.",
+      "Thu hồi kiểu chạy lững thững — sửa: thu hồi là chạy nước rút hai bước rồi hạ thấp; không bao giờ một tốc độ.",
+      "Quên bắt lại — sửa: 'chuyền-bị bắt' là tín hiệu; ngay khi bóng di chuyển, bật về chắn đường chuyền."
+    ],
+    "description": "Press bắt đường chuyền toàn diện: cách bắt chặt người cách một đường chuyền, thu hồi khi đối phương bắt được bóng, và giữ hệ thống sống mà không phạm lỗi.",
+    "gameSituations": [
+      "Gặp đội đánh post nhiều — bắt đường chuyền vào post bỏ đói vũ khí mạnh nhất của họ mà không cần kèm đôi.",
+      "Tình huống cuối đồng hồ — bắt chặt toàn diện tự nó ngốn 6-8 giây mỗi pha bóng.",
+      "Gặp đội có một người chuyền bóng đẳng cấp — bắt chặt các mục tiêu của anh ta và bắt người khác phải kiến tạo.",
+      "Sau khi đội bạn tạo cách biệt — phòng thủ bắt đường chuyền bảo vệ cách biệt bằng cách bào mòn đồng hồ mỗi pha bóng."
+    ],
+    "howTo": [
+      {
+        "title": "Dựng thế bắt đường chuyền",
+        "detail": "Cách một đường chuyền, áp ngực vào người kèm trên đường chuyền: tay trước chắn đường chuyền, tay sau giữ người, người thấp. Nhìn được cả người kèm lẫn bóng — 'bóng-bạn-người' với trọng tâm ở bóng."
+      },
+      {
+        "title": "Bắt chặt lựa chọn đầu tiên",
+        "detail": "Cắt pha bắt bóng dễ. Ép người chuyền phải chuyền bổng qua đầu hoặc chuyền ngang sân — cả hai đều chậm hơn, cao hơn, và dễ đọc hơn. Mục tiêu là bắt đối phương phải dùng lựa chọn thứ hai, thứ ba."
+      },
+      {
+        "title": "Thu hồi khi đối phương bắt được bóng",
+        "detail": "Khi người kèm vẫn bắt được bóng dù bị bắt chặt, chạy nước rút thu hồi: hai bước mạnh khép khoảng trống, rồi hạ thấp vào thế closeout. Không bao giờ đến nơi trong tư thế đứng thẳng — thu hồi đứng thẳng là bị qua mặt."
+      },
+      {
+        "title": "Closeout có kiểm soát",
+        "detail": "Kết thúc pha thu hồi bằng closeout ngắn, bước nhỏ: tay giơ cao, mông hạ thấp, ngực ưỡn. Contest cú ném trước, chặn pha đột phá sau — người hỗ trợ đột phá ở phía sau bạn."
+      },
+      {
+        "title": "Bắt lại sau đường chuyền",
+        "detail": "Ngay khi bóng rời tay người kèm, bật ngay về thế bắt đường chuyền cho đường chuyền tiếp theo. Deny-and-recover là một vòng lặp: bắt chặt, thu hồi, closeout, bắt lại — mọi pha bóng, mọi đường chuyền."
+      },
+      {
+        "title": "Tránh rắc rối phạm lỗi",
+        "detail": "Phòng thủ bắt đường chuyền sống ở ranh giới va chạm. Giữ tay trên đường chuyền, không đặt tay lên người; di chuyển chân để giữ đường chuyền thay vì kéo áo. Hệ thống chỉ hiệu quả khi những người bắt chặt còn trên sân."
+      }
+    ],
+    "tags": [
+      "bắt đường chuyền",
+      "phòng thủ kèm người",
+      "closeout",
+      "áp lực bóng",
+      "phòng thủ đồng đội"
+    ],
+    "title": "Kèm bắt đường chuyền rồi thu hồi (deny and recover)",
+    "whatIsIt": [
+      "Deny and recover là hệ thống phòng thủ xây trên một ý tưởng: khiến mọi pha bắt bóng đều khó khăn. Cầu thủ cách một đường chuyền chơi bắt chặt hoàn toàn — ngực chắn đường chuyền, tay chắn đường chuyền — và khi đối phương vẫn bắt được bóng, họ thu hồi bằng pha closeout chạy nước rút thay vì để bị qua mặt.",
+      "Nó là cầu nối giữa kèm người và press. Bạn có sự quấy rối của bắt đường chuyền mà không canh bạc như bẫy: phòng thủ vẫn liền mạch, mỗi người đều có quy tắc rõ ràng, và đối phương phải vất vả cho từng pha bắt bóng."
+    ],
+    "whyItMatters": [
+      "Đội bắt đường chuyền tốt thu hẹp mặt sân của đối phương. Các pha bắt bóng đến muộn trong đồng hồ, đường chuyền vào post đến trong thế mất thăng bằng, và người dẫn bóng bắt đầu pha xử lý từ vị trí xấu. Cả trận, ma sát đó biến thành những cú ném vội, những pha mất bóng, và một đối thủ bực bội — mà không bao giờ phải rời vỏ bọc phòng thủ."
+    ]
+  },
+  "whatIsIt": [
+    "Deny and recover is a defensive system built on one idea: make every catch hard. Defenders one pass away play full denial — chest in the passing lane, hand in the lane — and when the ball is caught anyway, they recover with a sprinting closeout instead of giving up the drive.",
+    "It is the bridge between man-to-man and pressing. You get the disruption of denial without the gamble of traps: the defense stays connected, every player has a clear rule, and the offense has to earn every single catch."
+  ],
+  "whyItMatters": [
+    "Teams that deny well shrink the floor for the offense. Catches come late in the clock, entries to the post arrive off-balance, and ball handlers start their moves from bad spots. Over a game, that friction turns into rushed shots, turnovers, and a frustrated opponent — without ever leaving your defensive shell."
+  ],
+  "diagram": {
+    "title": "Deny one pass away — D2 in the lane, sprint-recover on the catch",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 60,
+        "y": 30
+      },
+      {
+        "label": "O2",
+        "x": 78,
+        "y": 34
+      },
+      {
+        "label": "O3",
+        "x": 30,
+        "y": 36
+      },
+      {
+        "label": "O4",
+        "x": 44,
+        "y": 14
+      },
+      {
+        "label": "O5",
+        "x": 58,
+        "y": 12
+      }
+    ],
+    "defense": [
+      {
+        "label": "D1",
+        "x": 58,
+        "y": 28
+      },
+      {
+        "label": "D2",
+        "x": 72,
+        "y": 32
+      },
+      {
+        "label": "D3",
+        "x": 28,
+        "y": 34
+      },
+      {
+        "label": "D4",
+        "x": 42,
+        "y": 13
+      },
+      {
+        "label": "D5",
+        "x": 56,
+        "y": 11
+      }
+    ],
+    "ball": "O1",
+    "screens": [],
+    "moves": [
+      {
+        "from": "D2",
+        "to": "O2",
+        "kind": "move"
+      }
+    ],
+    "passes": [
+      {
+        "from": "O1",
+        "to": "O2"
+      }
+    ],
+    "shots": []
+  }
+}

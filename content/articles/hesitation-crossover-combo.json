@@ -1,0 +1,175 @@
+{
+  "id": "hesitation-crossover-combo",
+  "slug": "hesitation-crossover-combo",
+  "title": "Hesitation Crossover Combo",
+  "description": "Freeze them with a hesitation, then cross over before they recover — the classic stop-and-go scoring move.",
+  "hub": "skills",
+  "subcategory": "ball-handling",
+  "level": "intermediate",
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "Guard",
+    "Wing"
+  ],
+  "readTime": 5,
+  "dateUpdated": "2026-10-11",
+  "whatIsIt": [
+    "The hesitation crossover is the most iconic combo in basketball: a hard hesitation dribble that makes the defender stop, followed immediately by a crossover that punishes their stopped feet. The hesitation sells a slowdown — shoulders rise, pace drops — and the crossover arrives while the defender's weight is still settling.",
+    "What separates a good one from a great one is the contrast. The hesitation must look like a genuine stop, and the crossover must be violent. The bigger the difference between the two speeds, the harder the move is to guard."
+  ],
+  "whyItMatters": [
+    "This combo is the foundation of change-of-pace offense. It teaches the single most valuable dribbling skill: manipulating the defender's speed instead of just trying to outrun them. Players who master the hesitation crossover can create separation against faster athletes, which is why smaller guards have used it to survive at every level."
+  ],
+  "howTo": [
+    {
+      "title": "Push the pace at the defender",
+      "detail": "Dribble hard at the defender to get them backpedaling. The hesitation only works if there is real speed to take away."
+    },
+    {
+      "title": "Hit a hard hesitation",
+      "detail": "Suddenly slow your dribble and rise slightly out of your stance, as if pulling up or stopping. Keep the ball alive — never pick it up."
+    },
+    {
+      "title": "Freeze and read",
+      "detail": "Give the defender a split second to bite. Watch their feet: when their momentum stops or their weight sits back, the trap is set."
+    },
+    {
+      "title": "Snap the crossover",
+      "detail": "Fire a low, hard crossover to your other hand the instant they settle. The ball should change hands below your knees."
+    },
+    {
+      "title": "Burst past the lead foot",
+      "detail": "Explode off your crossover-side foot and take a long first step past the defender's front foot."
+    },
+    {
+      "title": "Protect and finish the drive",
+      "detail": "Shield the ball with your body, eyes up, and attack the rim reading the help defense."
+    }
+  ],
+  "coachingPoints": [
+    "The hesitation must be a real speed change — going from fast to slow, not from medium to medium-slow.",
+    "Keep your dribble alive through the hesitation; picking the ball up turns a weapon into a turnover risk.",
+    "The crossover has to be the fastest thing you do all possession — lazy crossovers after a good hesitation waste the setup.",
+    "Sell the hesitation with your eyes looking at the rim, like a pull-up is coming."
+  ],
+  "commonMistakes": [
+    "Hesitating without pace beforehand — fix: you can't take away speed you never had; attack hard for at least two dribbles first.",
+    "Telegraphing the crossover with a big wind-up — fix: keep the crossover compact and in front of your body.",
+    "Crossing over but staying in front of the defender — fix: your first step after the crossover must go past their hip, not alongside it.",
+    "Using the combo every possession — fix: mix in straight drives and pull-ups so the hesitation stays a surprise."
+  ],
+  "gameSituations": [
+    "Transition pull-up game — hesitate to freeze the retreating big, then crossover into a driving lane or pull-up.",
+    "Pick-and-roll pocket creation — hesitate to get the on-ball defender on your hip, then cross back for separation.",
+    "Baseline attack — the hesitation stops the baseline defender's slide just long enough for the crossover to turn the corner."
+  ],
+  "tags": [
+    "ball-handling",
+    "dribble-moves",
+    "change-of-pace"
+  ],
+  "related": [
+    "hesitation",
+    "crossover",
+    "change-of-pace",
+    "attacking-the-switch",
+    "snake-dribble"
+  ],
+  "diagram": {
+    "title": "O1 hesitates to freeze D1, then crosses over and bursts to the rim",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 62,
+        "y": 30
+      }
+    ],
+    "defense": [
+      {
+        "label": "D1",
+        "x": 58,
+        "y": 28
+      }
+    ],
+    "ball": "O1",
+    "screens": [],
+    "moves": [
+      {
+        "from": "O1",
+        "to": "O1",
+        "kind": "dribble"
+      },
+      {
+        "from": "O1",
+        "to": "rim",
+        "kind": "dribble"
+      }
+    ],
+    "passes": [],
+    "shots": []
+  },
+  "vi": {
+    "title": "Combo hesitation kết hợp crossover",
+    "description": "Đóng băng hậu vệ bằng một pha ngập ngừng, rồi crossover trước khi họ kịp hồi phục — combo dừng-rồi-đi kinh điển để ghi điểm.",
+    "whatIsIt": [
+      "Hesitation crossover là combo biểu tượng nhất của bóng rổ: một pha ngập ngừng mạnh khiến hậu vệ khựng lại, nối ngay bằng crossover trừng phạt đôi chân đã dừng của họ. Pha ngập ngừng giả vờ chậm lại — vai nhô lên, nhịp giảm — và crossover đến khi trọng tâm hậu vệ còn chưa ổn định.",
+      "Điểm phân biệt combo hay và combo thường là độ tương phản. Pha ngập ngừng phải trông như dừng thật, và pha crossover phải dữ dội. Chênh lệch tốc độ giữa hai pha càng lớn, động tác càng khó kèm."
+    ],
+    "whyItMatters": [
+      "Combo này là nền tảng của lối tấn công đổi nhịp. Nó dạy kỹ năng dẫn bóng giá trị nhất: điều khiển tốc độ của hậu vệ thay vì chỉ cố chạy nhanh hơn họ. Cầu thủ làm chủ hesitation crossover có thể tạo khoảng trống trước những đối thủ nhanh hơn — đó là lý do các hậu vệ nhỏ con dùng nó để tồn tại ở mọi cấp độ."
+    ],
+    "howTo": [
+      {
+        "title": "Đẩy tốc độ về phía hậu vệ",
+        "detail": "Dẫn bóng mạnh về phía hậu vệ để họ phải lùi. Pha ngập ngừng chỉ hiệu quả khi có tốc độ thật để 'lấy đi'."
+      },
+      {
+        "title": "Tung pha ngập ngừng mạnh",
+        "detail": "Đột ngột chậm dribble và nhô người lên khỏi tư thế một chút, như sắp dừng hoặc pull-up. Giữ bóng sống — không bao giờ ôm bóng lại."
+      },
+      {
+        "title": "Đóng băng và đọc",
+        "detail": "Cho hậu vệ một tích tắc để cắn câu. Nhìn chân họ: khi đà của họ dừng hoặc trọng tâm ngả về sau, bẫy đã sập."
+      },
+      {
+        "title": "Giật crossover",
+        "detail": "Tung ngay một pha crossover thấp, mạnh sang tay kia khi họ vừa ổn định. Bóng phải đổi tay dưới đầu gối."
+      },
+      {
+        "title": "Bật qua chân trước",
+        "detail": "Bật mạnh bằng chân phía crossover và bước dài qua chân trước của hậu vệ."
+      },
+      {
+        "title": "Che bóng và kết thúc pha đâm",
+        "detail": "Che bóng bằng cơ thể, mắt nhìn lên, tấn công rổ và đọc hàng thủ hỗ trợ."
+      }
+    ],
+    "coachingPoints": [
+      "Pha ngập ngừng phải là một cú đổi tốc thật — từ nhanh sang chậm, không phải từ vừa sang hơi chậm.",
+      "Giữ dribble sống suốt pha ngập ngừng; ôm bóng lại là biến vũ khí thành nguy cơ mất bóng.",
+      "Pha crossover phải là thứ nhanh nhất bạn làm trong cả đợt tấn công — crossover lười sau một pha ngập ngừng hay là phí cả công dàn dựng.",
+      "Diễn pha ngập ngừng bằng mắt nhìn về rổ, như thể pull-up sắp đến."
+    ],
+    "commonMistakes": [
+      "Ngập ngừng mà không có tốc độ trước đó — sửa: không thể lấy đi tốc độ mà bạn chưa từng có; tấn công mạnh ít nhất hai nhịp dribble trước.",
+      "Lộ crossover bằng động tác vung tay lớn — sửa: giữ crossover gọn và trước người.",
+      "Crossover mà vẫn ở trước mặt hậu vệ — sửa: bước đầu sau crossover phải qua khỏi hông họ, không phải đi song song.",
+      "Dùng combo mọi đợt tấn công — sửa: xen kẽ đâm thẳng và pull-up để pha ngập ngừng luôn là bất ngờ."
+    ],
+    "gameSituations": [
+      "Trận địa pull-up khi phản công — ngập ngừng để đóng băng trung phong đang lùi, rồi crossover vào lane hoặc pull-up.",
+      "Tạo khoảng trống trong pick and roll — ngập ngừng để hậu vệ kèm bóng dính vào hông bạn, rồi crossover tạo khoảng cách.",
+      "Tấn công dọc biên — pha ngập ngừng dừng đà trượt của hậu vệ biên vừa đủ để crossover rẽ vào trong."
+    ],
+    "tags": [
+      "dẫn bóng",
+      "ngập ngừng",
+      "đổi nhịp"
+    ]
+  }
+}

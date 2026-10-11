@@ -1,0 +1,217 @@
+{
+  "id": "elbow-split-action",
+  "slug": "elbow-split-action",
+  "title": "Elbow Split Action",
+  "description": "The classic split: the ball goes to the elbow, a cutter splits the gap between the passer and the screener, and the defense has to guard two threats at once. Simple, fast, and deadly at every level.",
+  "hub": "offense",
+  "subcategory": "half-court-offense",
+  "level": "beginner",
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 5,
+  "dateUpdated": "2026-10-11",
+  "whatIsIt": [
+    "Split action is one of the oldest scoring actions in basketball, and it lives at the elbow. The ball is passed to a player at the elbow (usually a big), a teammate cuts hard between the passer and a screener on the opposite side of the ball, and the elbow player reads the cut: hit the cutter for a layup, or keep it if the defense overplays.",
+    "The beauty of the split is its geometry. The cutter runs through the narrow gap between two offensive players, which means one defender cannot guard both the ball and the cut. If the defense helps on the cutter, the elbow player has a free lane; if the defense stays home, the cutter gets a layup. It is a two-man game with a built-in answer for everything."
+  ],
+  "whyItMatters": [
+    "Every offense needs a pressure release — something simple that works when the set play breaks down and the shot clock is under 10. The elbow split is that release. It requires no special athleticism, it punishes any defense that ball-watches, and it teaches young players the most important offensive habit of all: cut hard with a purpose, and read the defense while you cut. Teams that split well score easy baskets against even disciplined defenses."
+  ],
+  "howTo": [
+    {
+      "title": "Enter the ball to the elbow",
+      "detail": "O1 passes to O4 at the elbow (around 4,5m from the rim). The pass must be crisp and on target — a soft entry lets the defense deny the next step. O4 catches in triple threat, facing the basket."
+    },
+    {
+      "title": "Set the split screen",
+      "detail": "On the ball side, O2 sets a screen for the cutter O3 — or O3 simply times his cut off O4's shoulder. The screener's job is to create the narrow gap: two offensive bodies close together that the cutter splits."
+    },
+    {
+      "title": "The cutter splits the gap",
+      "detail": "O3 cuts hard between the passer (O1, now off the ball) and the screener, straight at the rim. Full speed, no rounding the cut. The cut must threaten the basket — a lazy cut gets no pass and no help drawn."
+    },
+    {
+      "title": "The elbow player reads",
+      "detail": "O4 reads the cutter's defender. If the defender trails or gets screened, O4 delivers the bounce pass or lob for the layup. If the defender jumps the cut early, O4 keeps the ball and attacks the open lane himself."
+    },
+    {
+      "title": "Finish or kick",
+      "detail": "O3 finishes at the rim through contact if needed. If help rotates from the weak side, O3 kicks to the corner or O4 finds the popping big. The split creates a 2-on-1 — always find the open man."
+    }
+  ],
+  "coachingPoints": [
+    "The cut makes the play. Walk-through cuts produce walk-through results — demand a sprint every rep.",
+    "The elbow catch must face the basket. Catching sideways kills the read; square up in triple threat.",
+    "Passer: deliver the ball to the cutter's outside shoulder, away from the defender. A late pass is a turnover.",
+    "Teach the keep option from day one. If the cutter's defender cheats, the elbow player driving is the counter that keeps defenses honest.",
+    "Run it from both elbows so players learn the footwork and reads on both sides."
+  ],
+  "commonMistakes": [
+    "Cutter jogs through the gap — fix: the cut only counts if it beats the defender to the rim; time it.",
+    "Elbow player catches flat-footed facing the sideline — fix: call 'square up' on every catch until it is automatic.",
+    "Passing to the cutter's inside shoulder into the defender — fix: lead the cutter to the outside, toward the baseline side.",
+    "Everyone watches the ball after the pass — fix: the split starts the moment the elbow catch is secured, not after a two-second pause."
+  ],
+  "gameSituations": [
+    "Broken play bailout: when the set dies with 8 seconds left, enter to the elbow and split — it is the simplest late-clock action in basketball.",
+    "Against aggressive denial: if defenders are face-guarding the wings, the split cut goes backdoor behind the pressure.",
+    "Youth offense staple: teach 12-year-olds one action and this is it — it builds cutting, passing, and reading habits at once."
+  ],
+  "tags": [
+    "split action",
+    "elbow",
+    "cutting",
+    "half-court offense",
+    "fundamentals"
+  ],
+  "related": [
+    "pinch-post-action",
+    "post-split-action",
+    "ucla-cut",
+    "dho-action",
+    "cutting-basketball"
+  ],
+  "diagram": {
+    "title": "Elbow split — O1 enters to O4 at the elbow, O3 splits the gap and cuts to the rim",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 55
+      },
+      {
+        "label": "O4",
+        "x": 35,
+        "y": 20
+      },
+      {
+        "label": "O2",
+        "x": 65,
+        "y": 35
+      },
+      {
+        "label": "O3",
+        "x": 75,
+        "y": 45
+      }
+    ],
+    "defense": [
+      {
+        "label": "D1",
+        "x": 50,
+        "y": 48
+      },
+      {
+        "label": "D4",
+        "x": 35,
+        "y": 26
+      },
+      {
+        "label": "D2",
+        "x": 65,
+        "y": 40
+      },
+      {
+        "label": "D3",
+        "x": 75,
+        "y": 50
+      }
+    ],
+    "ball": "O4",
+    "screens": [
+      {
+        "x": 68,
+        "y": 40
+      }
+    ],
+    "moves": [
+      {
+        "from": "O2",
+        "to": "O3",
+        "kind": "screen-run"
+      },
+      {
+        "from": "O3",
+        "to": "rim",
+        "kind": "cut"
+      },
+      {
+        "from": "O1",
+        "to": "O2",
+        "kind": "cut"
+      }
+    ],
+    "passes": [
+      {
+        "from": "O4",
+        "to": "O3"
+      }
+    ],
+    "shots": []
+  },
+  "vi": {
+    "title": "Miếng split từ vị trí elbow (elbow split action)",
+    "description": "Miếng split kinh điển: bóng vào elbow, người cắt lẻn qua khe giữa người chuyền và người dựng screen, hàng thủ buộc phải kèm hai mối đe dọa cùng lúc. Đơn giản, nhanh và hiệu quả ở mọi cấp độ.",
+    "whatIsIt": [
+      "Split action là một trong những miếng ghi điểm lâu đời nhất của bóng rổ, và nó sống ở vị trí elbow. Bóng được chuyền cho cầu thủ ở elbow (thường là big), đồng đội cắt mạnh qua khe giữa người chuyền và người dựng screen ở phía đối diện bóng, và người ở elbow đọc tình huống: chuyền cho người cắt để lên rổ, hoặc giữ bóng nếu hàng thủ lao theo người cắt.",
+      "Cái hay của split nằm ở hình học. Người cắt chạy qua khe hẹp giữa hai cầu thủ tấn công, nghĩa là một hậu vệ không thể kèm cả bóng lẫn người cắt. Hàng thủ help vào người cắt thì người ở elbow có lane trống; hàng thủ đứng yên thì người cắt có layup. Đó là miếng đánh hai người với sẵn đáp án cho mọi tình huống."
+    ],
+    "whyItMatters": [
+      "Mọi hệ thống tấn công đều cần một van xả áp lực — thứ gì đó đơn giản mà hiệu quả khi bài đánh vỡ và đồng hồ còn dưới 10 giây. Elbow split chính là van đó. Nó không đòi hỏi thể chất đặc biệt, nó trừng phạt mọi hàng thủ chỉ biết nhìn bóng, và nó dạy cầu thủ trẻ thói quen tấn công quan trọng nhất: cắt mạnh có mục đích, và đọc hàng thủ trong lúc cắt. Đội nào split tốt sẽ có những điểm số dễ dàng ngay cả trước hàng thủ kỷ luật."
+    ],
+    "howTo": [
+      {
+        "title": "Đưa bóng vào elbow",
+        "detail": "O1 chuyền cho O4 ở elbow (cách rổ khoảng 4,5m). Đường chuyền phải chắc và chuẩn — chuyền mềm là hàng thủ có thời gian bít bước tiếp theo. O4 bắt bóng ở tư thế triple threat, mặt hướng rổ."
+      },
+      {
+        "title": "Dựng screen cho miếng split",
+        "detail": "Ở phía có bóng, O2 dựng screen cho người cắt O3 — hoặc O3 đơn giản căn thời gian cắt dựa vào vai O4. Nhiệm vụ của người dựng screen là tạo khe hẹp: hai cầu thủ tấn công đứng gần nhau để người cắt lẻn qua."
+      },
+      {
+        "title": "Người cắt lẻn qua khe",
+        "detail": "O3 cắt mạnh qua khe giữa người chuyền (O1, giờ không bóng) và người dựng screen, lao thẳng vào rổ. Chạy hết tốc độ, không vòng cua. Đường cắt phải đe dọa rổ — cắt hời hợt thì không có bóng và cũng không kéo được help."
+      },
+      {
+        "title": "Người ở elbow đọc tình huống",
+        "detail": "O4 đọc hậu vệ của người cắt. Hậu vệ bị kẹt sau screen hoặc chạy theo sau thì O4 chuyền nảy hoặc bổng cho layup. Hậu vệ lao cắt đường chuyền sớm thì O4 giữ bóng và tự đột phá vào lane trống."
+      },
+      {
+        "title": "Kết thúc hoặc chuyền ra",
+        "detail": "O3 kết thúc ở rổ, va chạm nếu cần. Help từ phía yếu xoay sang thì O3 chuyền ra góc hoặc O4 tìm big đang pop. Miếng split tạo ra 2-kèm-1 — luôn tìm người trống."
+      }
+    ],
+    "coachingPoints": [
+      "Đường cắt quyết định miếng đánh. Cắt đi bộ thì kết quả cũng đi bộ — đòi hỏi chạy nước rút mọi lần tập.",
+      "Người ở elbow bắt bóng phải mặt hướng rổ. Bắt bóng xoay ngang là mất khả năng đọc tình huống; xoay về triple threat.",
+      "Người chuyền: đưa bóng vào vai ngoài của người cắt, xa hậu vệ. Chuyền muộn là mất bóng.",
+      "Dạy phương án giữ bóng ngay từ đầu. Hậu vệ của người cắt mà gian lận, người ở elbow tự đột phá là đòn phản đòn giữ hàng thủ trung thực.",
+      "Chạy từ cả hai bên elbow để cầu thủ học bộ chân và cách đọc tình huống cả hai phía."
+    ],
+    "commonMistakes": [
+      "Người cắt chạy lững thững qua khe — sửa: đường cắt chỉ tính khi đến rổ trước hậu vệ; bấm giờ.",
+      "Người ở elbow bắt bóng đứng chôn chân, mặt hướng đường biên — sửa: hô 'xoay về rổ' mỗi lần bắt bóng đến khi thành phản xạ.",
+      "Chuyền vào vai trong của người cắt, đúng vào tay hậu vệ — sửa: chuyền dẫn người cắt ra vai ngoài, về phía baseline.",
+      "Mọi người đứng xem bóng sau đường chuyền — sửa: miếng split bắt đầu ngay khi bắt chắc bóng ở elbow, không phải sau hai giây đứng nhìn."
+    ],
+    "gameSituations": [
+      "Cứu bài vỡ: khi bài đánh chết mà còn 8 giây, đưa bóng vào elbow và split — đó là miếng đơn giản nhất cho cuối đồng hồ.",
+      "Trước kèm người quyết liệt: hậu vệ đối phương face-guard ở cánh thì đường cắt split đi backdoor sau lưng áp lực.",
+      "Món tủ cho bóng rổ trẻ: chỉ dạy trẻ 12 tuổi một miếng đánh thì dạy miếng này — vừa xây thói quen cắt, chuyền và đọc tình huống cùng lúc."
+    ],
+    "tags": [
+      "split action",
+      "elbow",
+      "cắt rổ",
+      "tấn công half-court",
+      "cơ bản"
+    ]
+  }
+}

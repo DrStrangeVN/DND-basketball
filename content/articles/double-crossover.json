@@ -1,0 +1,175 @@
+{
+  "id": "double-crossover",
+  "slug": "double-crossover",
+  "title": "Double Crossover",
+  "description": "Chain two crossovers back-to-back to shift the defender's hips twice and open a driving lane.",
+  "hub": "skills",
+  "subcategory": "ball-handling",
+  "level": "intermediate",
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "Guard",
+    "Wing"
+  ],
+  "readTime": 5,
+  "dateUpdated": "2026-10-11",
+  "whatIsIt": [
+    "The double crossover is exactly what it sounds like: two crossover dribbles chained together with no pause between them. The first crossover shifts the defender one way; before they can recover, the second crossover snaps the ball back and sends them the other way. Done at speed, it creates a two-way overload the defender's hips cannot solve.",
+    "This is a rhythm move, not a strength move. The key is a continuous bounce — the ball never hangs. The second crossover must start the instant the first one lands, which means the whole sequence happens in under a second."
+  ],
+  "whyItMatters": [
+    "One crossover beats a defender who guesses; a double crossover beats a defender who recovers. It is the move that punishes good on-ball defenders who read the first fake correctly — because the second fake arrives while their weight is still committed. Master it and you gain a reliable answer against elite lateral quickness."
+  ],
+  "howTo": [
+    {
+      "title": "Set up with an attacking dribble",
+      "detail": "Dribble toward the defender with pace, ball low, on your strong side. You need the defender engaged and sliding with you for the move to work."
+    },
+    {
+      "title": "Throw the first crossover",
+      "detail": "Cross the ball hard to your opposite hand in front of your body. Sell it with a shoulder dip — make the defender believe this is the only move."
+    },
+    {
+      "title": "Catch it low on the other side",
+      "detail": "Receive the ball low with your opposite hand, knees bent, ready to explode. Do not let the ball bounce up to waist height."
+    },
+    {
+      "title": "Snap it straight back",
+      "detail": "The moment the first crossover lands, fire it back across to your strong hand. No pause, no extra dribble — one continuous bounce-bounce rhythm."
+    },
+    {
+      "title": "Read the defender's hips",
+      "detail": "After the second crossover, check the defender's stance. Their weight will be wrong-footed — attack the side their hips are turned away from."
+    },
+    {
+      "title": "Explode past and protect",
+      "detail": "Take a long first step past the defender's lead foot, keeping the ball on your outside hip and your body between the ball and the chase."
+    }
+  ],
+  "coachingPoints": [
+    "The second crossover must start on impact — the rhythm is bounce-bounce, not bounce-pause-bounce.",
+    "Keep every bounce below knee height; high crossovers in traffic get picked clean.",
+    "Sell the first crossover harder than the second — the first one moves the defender, the second one breaks them.",
+    "Stay in your stance through both moves; standing up straight kills your burst on the drive."
+  ],
+  "commonMistakes": [
+    "Pausing between the two crossovers — fix: drill bounce-bounce-bounce cadence with a metronome or clap until the gap disappears.",
+    "Bouncing the ball too high — fix: practice stationary double-crossovers staring at a wall, keeping the ball under your knees.",
+    "Telegraphing the second crossover with the eyes — fix: keep eyes up and fixed on the defender's chest, never on the ball.",
+    "Crossing over but not going anywhere — fix: every rep must end with a full drive to the rim, not just the move in place."
+  ],
+  "gameSituations": [
+    "Isolation at the top — against a defender with great lateral quickness, the double-crossover is your equalizer.",
+    "Late-clock situations — when the defense knows you have to create, two rapid direction changes manufacture the sliver of space you need.",
+    "Breaking a press — a quick double-crossover splits the first trapper and turns pressure into an advantage."
+  ],
+  "tags": [
+    "ball-handling",
+    "dribble-moves",
+    "change-of-direction"
+  ],
+  "related": [
+    "crossover",
+    "between-the-legs",
+    "behind-the-back",
+    "change-of-pace",
+    "attacking-the-switch"
+  ],
+  "diagram": {
+    "title": "O1 strings two crossovers together to wrong-foot D1, then attacks the open side",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 58,
+        "y": 33
+      }
+    ],
+    "defense": [
+      {
+        "label": "D1",
+        "x": 54,
+        "y": 31
+      }
+    ],
+    "ball": "O1",
+    "screens": [],
+    "moves": [
+      {
+        "from": "O1",
+        "to": "O1",
+        "kind": "dribble"
+      },
+      {
+        "from": "O1",
+        "to": "rim",
+        "kind": "dribble"
+      }
+    ],
+    "passes": [],
+    "shots": []
+  },
+  "vi": {
+    "title": "Kỹ thuật double crossover",
+    "description": "Nối hai pha crossover liên tiếp để dịch hông hậu vệ hai lần và mở đường đâm vào.",
+    "whatIsIt": [
+      "Double crossover đúng như tên gọi: hai pha crossover dẫn bóng nối liền nhau không ngừng nghỉ. Pha đầu dịch hậu vệ sang một bên; trước khi họ kịp hồi phục, pha thứ hai giật bóng ngược lại và đưa họ sang hướng còn lại. Thực hiện ở tốc độ cao, nó tạo ra một bài toán hai hướng mà hông của hậu vệ không giải nổi.",
+      "Đây là động tác của nhịp điệu, không phải của sức mạnh. Mấu chốt là bóng nảy liên tục — bóng không bao giờ bị treo. Pha crossover thứ hai phải bắt đầu ngay khi pha đầu chạm đất, nghĩa là cả chuỗi diễn ra trong chưa đầy một giây."
+    ],
+    "whyItMatters": [
+      "Một pha crossover đánh bại hậu vệ đoán sai; double crossover đánh bại cả hậu vệ đọc đúng pha đầu — vì pha giả thứ hai đến khi trọng tâm họ vẫn còn dồn sai hướng. Làm chủ nó, bạn có câu trả lời tin cậy trước những hậu vệ có tốc độ ngang xuất sắc."
+    ],
+    "howTo": [
+      {
+        "title": "Mở đầu bằng dribble tấn công",
+        "detail": "Dẫn bóng về phía hậu vệ với tốc độ, bóng thấp, ở phía tay thuận. Hậu vệ phải đang vào thế và lùi theo bạn thì động tác mới phát huy."
+      },
+      {
+        "title": "Tung pha crossover đầu",
+        "detail": "Đổi bóng mạnh sang tay đối diện ngay trước người. Diễn bằng vai nhấn xuống — khiến hậu vệ tin đây là động tác duy nhất."
+      },
+      {
+        "title": "Bắt bóng thấp ở bên kia",
+        "detail": "Đón bóng thấp bằng tay đối diện, gối cong, sẵn sàng bật. Đừng để bóng nảy lên ngang hông."
+      },
+      {
+        "title": "Giật bóng ngược ngay",
+        "detail": "Ngay khi pha crossover đầu chạm đất, giật bóng ngược về tay thuận. Không ngừng, không thêm nhịp dribble nào — nhịp nảy-nảy liên tục."
+      },
+      {
+        "title": "Đọc hông hậu vệ",
+        "detail": "Sau pha crossover thứ hai, quan sát tư thế hậu vệ. Trọng tâm họ đã sai hướng — tấn công phía mà hông họ quay lưng lại."
+      },
+      {
+        "title": "Vượt qua và che bóng",
+        "detail": "Bước dài qua chân trước của hậu vệ, giữ bóng ở hông ngoài, thân người che giữa bóng và người đuổi theo."
+      }
+    ],
+    "coachingPoints": [
+      "Pha crossover thứ hai phải bắt đầu ngay khi bóng chạm đất — nhịp là nảy-nảy, không phải nảy-ngừng-nảy.",
+      "Giữ mọi nhịp bóng dưới đầu gối; crossover cao trong đám đông là mồi cho cướp bóng.",
+      "Diễn pha đầu mạnh hơn pha hai — pha đầu dịch chuyển hậu vệ, pha hai hạ gục họ.",
+      "Giữ tư thế thấp suốt hai pha; đứng thẳng người là giết chết cú bật khi đâm vào."
+    ],
+    "commonMistakes": [
+      "Ngừng giữa hai pha crossover — sửa: tập nhịp nảy-nảy-nảy theo vỗ tay cho đến khi khoảng ngắt biến mất.",
+      "Nảy bóng quá cao — sửa: tập double crossover tại chỗ, nhìn thẳng tường, giữ bóng dưới đầu gối.",
+      "Lộ pha thứ hai bằng ánh mắt — sửa: mắt nhìn lên, dán vào ngực hậu vệ, không nhìn bóng.",
+      "Đổi hướng mà không đi đâu — sửa: mọi lần tập phải kết thúc bằng một pha đâm trọn vào rổ, không chỉ làm động tác tại chỗ."
+    ],
+    "gameSituations": [
+      "Đơn đấu ở đỉnh vòng cung — trước hậu vệ có tốc độ ngang tốt, double crossover là vũ khí cân bằng thế trận.",
+      "Tình huống cuối đồng hồ — khi hàng thủ biết bạn phải tạo đột biến, hai lần đổi hướng liên tiếp tạo ra khe hở cần thiết.",
+      "Phá press — một pha double crossover nhanh xé toang người bẫy đầu tiên và biến áp lực thành lợi thế."
+    ],
+    "tags": [
+      "dẫn bóng",
+      "đổi hướng",
+      "đơn đấu"
+    ]
+  }
+}

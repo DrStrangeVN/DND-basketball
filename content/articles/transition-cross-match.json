@@ -1,0 +1,227 @@
+{
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "coachingPoints": [
+    "Rim first, matchup second — a bad matchup with rim protection beats a good matchup with none.",
+    "Take the nearest danger: in transition, proximity beats assignment every time.",
+    "Talk early and loud — the cross-match is a communication drill disguised as a defense.",
+    "Switch on the pass, not on the catch: the ball's flight is your window to re-match.",
+    "Front the cross-matched post — a sealed guard in the post is a layup; a fronted one is a contested entry."
+  ],
+  "commonMistakes": [
+    "Running to 'your man' instead of the paint — fix: first three back take the paint; matchups come after.",
+    "Silent cross-matching — fix: if nobody called it, nobody has anybody; talk or it didn't happen.",
+    "Letting the big seal the small — fix: front or three-quarter every cross-matched post touch.",
+    "Staying cross-matched all possession — fix: bump to real matchups on the first pass; use dead balls to reset."
+  ],
+  "dateUpdated": "2026-10-11",
+  "description": "When transition scrambles the matchups: how to cross-match on the fly, communicate the switches, and protect the rim first.",
+  "gameSituations": [
+    "Against a fast transition team — cross-matching is how you survive their first wave.",
+    "After your own missed shots — the scramble is worst off a live miss; rim-first rules apply.",
+    "When the opponent pushes off makes — their early offense hunts mismatches; cross-match takes them away.",
+    "Late-game transition chaos — tired legs scramble worse; simple rim-first rules hold up."
+  ],
+  "howTo": [
+    {
+      "title": "Sprint to the paint first",
+      "detail": "On every defensive transition, the first three players back sprint to the paint — not to a man. The paint is the priority; matchups are the luxury. No paint protection, no defense."
+    },
+    {
+      "title": "Take the nearest threat",
+      "detail": "Forget your assigned man for the first three seconds: take the most dangerous offensive player near you. The ball first, then the rim runner, then the nearest shooter."
+    },
+    {
+      "title": "Call the cross-match",
+      "detail": "Loud, immediate communication: 'I got ball!', 'I got big!', 'Switch! Switch!'. The cross-match only works if everyone knows who has whom — silence is how two players guard nobody."
+    },
+    {
+      "title": "Bump on the catch",
+      "detail": "When the offense slows into half-court, bump to better matchups: the guard takes the guard, the big takes the big. Do it on the pass, not on the catch — switch during the ball's flight."
+    },
+    {
+      "title": "Protect against the seal",
+      "detail": "The biggest cross-match danger is a big sealing a small guard in the post. Front the post or three-quarter it — never let a cross-matched big catch deep with a guard on his back."
+    },
+    {
+      "title": "Re-match on dead balls",
+      "detail": "Use every dead ball — fouls, timeouts, out-of-bounds — to re-match properly. The cross-match is a survival tool for live chaos, not a permanent defense."
+    }
+  ],
+  "hub": "transition",
+  "id": "transition-cross-match",
+  "level": "intermediate",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 6,
+  "related": [
+    "transition-defense",
+    "transition-communication",
+    "sprint-back-habits",
+    "switch-defense",
+    "transition-decision-making"
+  ],
+  "slug": "transition-cross-match",
+  "subcategory": "transition",
+  "tags": [
+    "transition defense",
+    "cross-match",
+    "communication",
+    "rotations",
+    "rim protection"
+  ],
+  "title": "Transition Cross-Match",
+  "vi": {
+    "coachingPoints": [
+      "Rổ trước, kèm người sau — matchup xấu có bảo vệ rổ hơn matchup đẹp không có bảo vệ rổ.",
+      "Lấy mối nguy hiểm gần nhất: trong chuyển đổi, vị trí gần luôn hơn phân công.",
+      "Hô sớm và to — cross-match là một bài tập giao tiếp ngụy trang thành phòng thủ.",
+      "Đổi người lúc bóng bay, không phải lúc bắt bóng: đường bay của bóng là cửa sổ để kèm lại.",
+      "Đứng trước mặt big bị cross-match ở post — hậu vệ bị khóa ở post là layup; bị đứng trước mặt là pha chuyền vào bị contest."
+    ],
+    "commonMistakes": [
+      "Chạy về 'người của mình' thay vì khu vực dưới rổ — sửa: ba người về đầu tiên lấy khu vực dưới rổ; phân công tính sau.",
+      "Cross-match im lặng — sửa: không ai hô nghĩa là không ai kèm ai; hô lên hoặc coi như chưa làm.",
+      "Để big khóa hậu vệ nhỏ — sửa: đứng trước mặt hoặc che ba phần tư mọi pha chạm bóng ở post bị cross-match.",
+      "Giữ cross-match cả pha bóng — sửa: đẩy về matchup thật ở đường chuyền đầu; dùng bóng chết để thiết lập lại."
+    ],
+    "description": "Khi chuyển đổi làm xáo trộn phân công kèm người: cách cross-match ngay lập tức, hô khi đổi người, và bảo vệ rổ trước.",
+    "gameSituations": [
+      "Gặp đội chuyển đổi nhanh — cross-match là cách bạn sống sót qua đợt sóng đầu của họ.",
+      "Sau pha ném hỏng của đội mình — hỗn loạn tệ nhất sau pha ném hỏng bóng sống; quy tắc rổ trước áp dụng.",
+      "Khi đối phương đẩy nhanh sau pha ghi điểm — tấn công sớm của họ săn mismatch; cross-match lấy đi nó.",
+      "Hỗn loạn chuyển đổi cuối trận — chân mỏi xáo trộn tệ hơn; quy tắc rổ trước đơn giản vẫn đứng vững."
+    ],
+    "howTo": [
+      {
+        "title": "Chạy về khu vực dưới rổ trước",
+        "detail": "Trong mọi pha chuyển đổi phòng thủ, ba người về đầu tiên chạy về khu vực dưới rổ — không phải về người kèm. Khu vực dưới rổ là ưu tiên; phân công kèm người là xa xỉ. Không bảo vệ rổ, không có phòng thủ."
+      },
+      {
+        "title": "Lấy mối đe dọa gần nhất",
+        "detail": "Quên người được phân công trong ba giây đầu: lấy cầu thủ tấn công nguy hiểm nhất gần bạn. Bóng trước, người chạy rổ sau, rồi xạ thủ gần nhất."
+      },
+      {
+        "title": "Hô khi cross-match",
+        "detail": "To, ngay lập tức: 'Tôi lấy bóng!', 'Tôi lấy big!', 'Đổi! Đổi!'. Cross-match chỉ hiệu quả khi mọi người biết ai kèm ai — im lặng là cách hai người cùng không kèm ai."
+      },
+      {
+        "title": "Đẩy đổi người khi bóng chuyền",
+        "detail": "Khi đối phương chậm lại vào nửa sân, đẩy về matchup tốt hơn: hậu vệ lấy hậu vệ, big lấy big. Làm lúc bóng đang bay, không phải khi đối phương bắt bóng — đổi người trong lúc bóng bay."
+      },
+      {
+        "title": "Chống pha khóa người ở post",
+        "detail": "Nguy hiểm lớn nhất của cross-match là big khóa hậu vệ nhỏ ở post. Đứng trước mặt hoặc che ba phần tư — không bao giờ để big bị cross-match bắt bóng sâu khi hậu vệ ở sau lưng."
+      },
+      {
+        "title": "Kèm lại khi bóng chết",
+        "detail": "Tận dụng mọi pha bóng chết — phạm lỗi, hội ý, bóng ra biên — để kèm lại đúng. Cross-match là công cụ sinh tồn cho hỗn loạn, không phải phòng thủ vĩnh viễn."
+      }
+    ],
+    "tags": [
+      "phòng thủ chuyển đổi",
+      "cross-match",
+      "giao tiếp",
+      "xoay chuyển đội hình",
+      "bảo vệ rổ"
+    ],
+    "title": "Đổi người chéo trong chuyển đổi (cross-match)",
+    "whatIsIt": [
+      "Cross-match xảy ra khi chuyển đổi làm xáo trộn phân công phòng thủ — hậu vệ dẫn bóng của bạn kèm trung phong của họ, big của bạn kẹt với xạ thủ của họ. Cross-match là nghệ thuật sửa nó ngay lập tức: lấy mối đe dọa gần nhất trước, rồi sắp xếp lại phân công mà không dâng layup.",
+      "Quy tắc vàng là rổ trước, kèm người sau. Trong hỗn loạn chuyển đổi, thứ nguy hiểm nhất không phải matchup xấu — mà là không ai bảo vệ rổ. Lấy bóng và rổ, hô thật to, cross-match sẽ tự sắp xếp."
+    ],
+    "whyItMatters": [
+      "Bóng rổ hiện đại chơi trong chuyển đổi — nhiều pha bóng hơn, tấn công sớm nhiều hơn, matchup xáo trộn nhiều hơn. Đội cross-match tốt sống sót qua hỗn loạn; đội không làm được sẽ dâng layup trong lúc chỉ tay vào nhau. Đó là ranh giới giữa hàng thủ uốn cong và hàng thủ gãy đổ."
+    ]
+  },
+  "whatIsIt": [
+    "A cross-match happens when transition scrambles your defensive assignments — the point guard ends up on their center, your big is stuck on their shooter. Cross-matching is the art of fixing it on the fly: take the nearest threat first, then sort out the assignments without giving up a layup.",
+    "The golden rule is rim first, matchup second. In the chaos of transition, the most dangerous thing is not a bad matchup — it is no one protecting the basket. Take the ball and the rim, communicate loudly, and the cross-match sorts itself out."
+  ],
+  "whyItMatters": [
+    "Modern basketball is played in transition — more possessions, more early offense, more scrambled matchups. Teams that cross-match well survive the chaos; teams that don't give up layups while pointing at each other. It is the difference between a defense that bends and one that breaks."
+  ],
+  "diagram": {
+    "title": "Cross-match — first three back take the paint, then sort matchups",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 56,
+        "y": 60
+      },
+      {
+        "label": "O2",
+        "x": 32,
+        "y": 52
+      },
+      {
+        "label": "O3",
+        "x": 76,
+        "y": 52
+      },
+      {
+        "label": "O4",
+        "x": 44,
+        "y": 30
+      },
+      {
+        "label": "O5",
+        "x": 58,
+        "y": 28
+      }
+    ],
+    "defense": [
+      {
+        "label": "D1",
+        "x": 52,
+        "y": 40
+      },
+      {
+        "label": "D2",
+        "x": 40,
+        "y": 24
+      },
+      {
+        "label": "D3",
+        "x": 62,
+        "y": 24
+      },
+      {
+        "label": "D4",
+        "x": 36,
+        "y": 44
+      },
+      {
+        "label": "D5",
+        "x": 64,
+        "y": 44
+      }
+    ],
+    "ball": "O1",
+    "screens": [],
+    "moves": [
+      {
+        "from": "D1",
+        "to": "O1",
+        "kind": "move"
+      },
+      {
+        "from": "D2",
+        "to": "O4",
+        "kind": "move"
+      },
+      {
+        "from": "D3",
+        "to": "O5",
+        "kind": "move"
+      }
+    ],
+    "passes": [],
+    "shots": []
+  }
+}

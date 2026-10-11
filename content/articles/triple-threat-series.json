@@ -1,0 +1,180 @@
+{
+  "id": "triple-threat-series",
+  "slug": "triple-threat-series",
+  "title": "Triple Threat Series",
+  "description": "Shoot, pass, or drive from one stance — build the complete triple-threat attack that keeps defenders honest.",
+  "hub": "skills",
+  "subcategory": "footwork",
+  "level": "beginner",
+  "ages": [
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 5,
+  "dateUpdated": "2026-10-11",
+  "whatIsIt": [
+    "Triple threat is the stance you catch the ball in when you can shoot, pass, or dribble — the three threats. A triple-threat series means developing a real attack for each option: a quick-release jumper, a decisive drive, and a sharp pass, all launched from the identical starting posture.",
+    "Defenders guard what they fear. If your shot isn't a threat, they sag off; if your drive isn't a threat, they crowd you. The series only works when all three threats are genuine — which is why it has to be built deliberately, not assumed."
+  ],
+  "whyItMatters": [
+    "Every offensive possession starts with a catch, and most players waste the catch by predetermining what they'll do. The triple-threat series gives you a full second of advantage after every catch: the defense must respect all three options while you read and choose the best one. It is the foundation that every other footwork skill is built on."
+  ],
+  "howTo": [
+    {
+      "title": "Catch low and balanced",
+      "detail": "Catch the ball with knees bent, feet ready, in an athletic stance. A high, upright catch kills all three threats before they start."
+    },
+    {
+      "title": "Set the triple-threat position",
+      "detail": "Ball at your hip on your shooting side, elbows in, eyes up. This is home base — every attack in the series starts here."
+    },
+    {
+      "title": "Develop the shot threat",
+      "detail": "Practice catching and rising into your jumper in one motion. Until defenders believe you'll shoot, they'll never bite on your fakes."
+    },
+    {
+      "title": "Develop the drive threat",
+      "detail": "Practice one-dribble drives both ways from triple threat — jab one way, drive the other. The first step must be explosive."
+    },
+    {
+      "title": "Develop the pass threat",
+      "detail": "Practice firing crisp passes to cutters and shooters without dribbling first. A real passing threat keeps help defenders honest."
+    },
+    {
+      "title": "Mix the threats by reading",
+      "detail": "In games, let the defense tell you which threat to use: sagging defender means shoot, crowding defender means drive, helping defender means pass."
+    }
+  ],
+  "coachingPoints": [
+    "All three threats must look the same for the first half-second — same stance, same ball position, same eyes.",
+    "Never hold the ball above your head in triple threat; it telegraphs the shot and kills the drive.",
+    "Your first move out of triple threat should be violent — slow first moves let the defense recover for free.",
+    "Count 'one-one-thousand' after the catch in practice; if you haven't attacked by then, you've lost the advantage."
+  ],
+  "commonMistakes": [
+    "Catching upright and then trying to get low — fix: meet the pass in a stance, not above it.",
+    "Only developing two of the three threats — fix: track your game film and count how many times each threat actually scared the defense.",
+    "Dribbling immediately on every catch — fix: practice a 'no-dribble' scrimmage rule where you must shoot or pass first.",
+    "Telegraphing with your eyes — fix: look at the rim on every catch, whether you're shooting or not."
+  ],
+  "gameSituations": [
+    "Wing catches in any offense — triple threat is the default position for reading the defense after every catch.",
+    "Against a sagging defender — the shot threat punishes soft coverage and forces them to close out, opening the drive.",
+    "Late-clock catches — when there's no time for a play, triple threat gives you three ways to create something."
+  ],
+  "tags": [
+    "footwork",
+    "triple-threat",
+    "fundamentals"
+  ],
+  "related": [
+    "triple-threat",
+    "jab-step",
+    "shot-fake",
+    "catch-and-shoot",
+    "attacking-the-closeout"
+  ],
+  "diagram": {
+    "title": "O1 catches in triple threat on the wing with D1 closing out — shoot, drive, or pass",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 68,
+        "y": 26
+      },
+      {
+        "label": "O2",
+        "x": 30,
+        "y": 30
+      }
+    ],
+    "defense": [
+      {
+        "label": "D1",
+        "x": 63,
+        "y": 24
+      }
+    ],
+    "ball": "O1",
+    "screens": [],
+    "moves": [
+      {
+        "from": "O1",
+        "to": "O1",
+        "kind": "move"
+      }
+    ],
+    "passes": [
+      {
+        "from": "O1",
+        "to": "O2"
+      }
+    ],
+    "shots": []
+  },
+  "vi": {
+    "title": "Kỹ thuật triple threat",
+    "description": "Ném, chuyền hoặc đâm từ một tư thế — xây dựng lối tấn công triple threat hoàn chỉnh khiến hậu vệ không dám coi thường.",
+    "whatIsIt": [
+      "Triple threat là tư thế bạn bắt bóng khi có thể ném, chuyền hoặc dẫn — ba mối đe dọa. Chuỗi triple threat nghĩa là phát triển một đòn tấn công thật cho mỗi lựa chọn: một cú ném ra tay nhanh, một pha đâm quyết đoán, và một đường chuyền sắc, tất cả xuất phát từ cùng một tư thế ban đầu.",
+      "Hậu vệ kèm cái mà họ sợ. Nếu cú ném của bạn không đáng sợ, họ lùi xa; nếu pha đâm của bạn không đáng sợ, họ áp sát. Chuỗi chỉ hiệu quả khi cả ba mối đe dọa đều là thật — đó là lý do nó phải được xây dựng có chủ đích, không phải tự nhiên mà có."
+    ],
+    "whyItMatters": [
+      "Mọi đợt tấn công đều bắt đầu bằng một pha bắt bóng, và hầu hết cầu thủ lãng phí pha bắt bóng vì đã định sẵn sẽ làm gì. Chuỗi triple threat cho bạn trọn một giây lợi thế sau mỗi pha bắt bóng: hàng thủ phải tôn trọng cả ba lựa chọn trong khi bạn đọc và chọn phương án tốt nhất. Đó là nền móng mà mọi kỹ năng bộ chân khác được xây lên."
+    ],
+    "howTo": [
+      {
+        "title": "Bắt bóng thấp và thăng bằng",
+        "detail": "Bắt bóng với gối cong, chân sẵn sàng, ở tư thế thể thao. Bắt bóng cao, thẳng người là giết cả ba mối đe dọa ngay từ đầu."
+      },
+      {
+        "title": "Dựng tư thế triple threat",
+        "detail": "Bóng ở hông phía tay ném, khuỷu tay khép, mắt nhìn lên. Đây là vị trí gốc — mọi đòn tấn công trong chuỗi đều bắt đầu từ đây."
+      },
+      {
+        "title": "Phát triển mối đe dọa ném",
+        "detail": "Tập bắt bóng và bật lên ném trong một chuyển động. Cho đến khi hậu vệ tin bạn sẽ ném, họ sẽ không bao giờ cắn pha giả của bạn."
+      },
+      {
+        "title": "Phát triển mối đe dọa đâm",
+        "detail": "Tập đâm một nhịp dribble cả hai hướng từ triple threat — jab một hướng, đâm hướng còn lại. Bước đầu tiên phải bùng nổ."
+      },
+      {
+        "title": "Phát triển mối đe dọa chuyền",
+        "detail": "Tập chuyền nhanh, chuẩn cho người cắt và người ném mà không cần dribble trước. Mối đe dọa chuyền thật khiến hậu vệ hỗ trợ không dám bỏ vị trí."
+      },
+      {
+        "title": "Trộn các mối đe dọa theo tình huống",
+        "detail": "Trong trận đấu, để hàng thủ cho bạn biết nên dùng mối đe dọa nào: hậu vệ lùi xa thì ném, hậu vệ áp sát thì đâm, hậu vệ bỏ người hỗ trợ thì chuyền."
+      }
+    ],
+    "coachingPoints": [
+      "Cả ba mối đe dọa phải trông giống nhau trong nửa giây đầu — cùng tư thế, cùng vị trí bóng, cùng ánh mắt.",
+      "Không bao giờ giữ bóng trên đầu ở triple threat; nó lộ ý định ném và giết chết pha đâm.",
+      "Động tác đầu tiên rời khỏi triple threat phải dữ dội — động tác đầu chậm là cho hàng thủ hồi phục miễn phí.",
+      "Đếm 'một-nghìn' sau khi bắt bóng khi tập; nếu đến lúc đó bạn chưa tấn công, bạn đã mất lợi thế."
+    ],
+    "commonMistakes": [
+      "Bắt bóng thẳng người rồi mới cố hạ thấp — sửa: đón đường chuyền ở tư thế thấp sẵn, không phải từ trên cao.",
+      "Chỉ phát triển hai trong ba mối đe dọa — sửa: xem lại băng trận đấu và đếm mỗi mối đe dọa thực sự khiến hàng thủ e ngại bao nhiêu lần.",
+      "Dribble ngay sau mọi pha bắt bóng — sửa: tập luật đấu tập 'không dribble', buộc phải ném hoặc chuyền trước.",
+      "Lộ ý định bằng mắt — sửa: nhìn về rổ sau mọi pha bắt bóng, dù bạn có ném hay không."
+    ],
+    "gameSituations": [
+      "Bắt bóng ở cánh trong mọi lối đánh — triple threat là tư thế mặc định để đọc hàng thủ sau mỗi pha bắt bóng.",
+      "Trước hậu vệ lùi xa — mối đe dọa ném trừng phạt lối kèm lỏng và buộc họ phải closeout, mở ra đường đâm.",
+      "Bắt bóng cuối đồng hồ — khi không còn thời gian chạy bài, triple threat cho bạn ba cách để tạo ra điều gì đó."
+    ],
+    "tags": [
+      "bộ chân",
+      "triple threat",
+      "cơ bản"
+    ]
+  }
+}

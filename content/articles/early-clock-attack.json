@@ -1,0 +1,226 @@
+{
+  "ages": [
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "coachingPoints": [
+    "Pace creates the early attack — walk it up and the window is already closed.",
+    "The drag screen is the signature weapon: simple, fast, and it attacks a retreating big.",
+    "Two reads and decide — early offense punishes hesitation more than wrong reads.",
+    "The trail three is a rhythm shot; never a thinking shot.",
+    "Flow, don't stop: early attack melts into half-court offense without a pause."
+  ],
+  "commonMistakes": [
+    "Walking into early offense — fix: the push must be a sprint dribble; jogging kills the advantage.",
+    "Over-dribbling the drag screen — fix: one or two dribbles to attack, then read and decide; the drag is quick.",
+    "Forcing the early three off balance — fix: trail threes are feet-set rhythm shots; run to your spot first.",
+    "Standing around when it's stopped — fix: the flow rule — early attack always continues into your base offense."
+  ],
+  "dateUpdated": "2026-10-11",
+  "description": "Score before the defense sets: how to attack in the first 8 seconds with drag screens, quick posts, and early threes.",
+  "gameSituations": [
+    "After every defensive rebound — the first 8 seconds are the most efficient scoring window.",
+    "Against a slow-rotating defense — early drag screens attack before their big gets set.",
+    "When your team needs a run — early offense creates the quick baskets that start runs.",
+    "Versus a great half-court defense — don't let them get set; attack the clock, not the scheme."
+  ],
+  "howTo": [
+    {
+      "title": "Push with purpose",
+      "detail": "The rebounder outlets fast and the ball handler pushes hard to the frontcourt — not a casual dribble, a sprint dribble. The early attack starts with pace; without pace, there is no early anything."
+    },
+    {
+      "title": "Flow into a drag screen",
+      "detail": "As the ball crosses midcourt, the trailing big sets a drag screen — a ball screen in early offense before the defense is matched up. The ball handler attacks the big's defender, who is usually backpedaling and unprepared."
+    },
+    {
+      "title": "Read the two-man game",
+      "detail": "Out of the drag screen, read it simple: if the big's man drops, pull up or hit the pocket; if they switch, attack the mismatch; if help comes, kick to the shooter. Two reads, then decide — early offense rewards quick decisions."
+    },
+    {
+      "title": "Seal for the quick post",
+      "detail": "If the drag isn't there, the big seals his man in early post position — before the defense fronts or doubles. One entry pass to a sealed big in the first 8 seconds is the highest-percentage early look."
+    },
+    {
+      "title": "Take the early trail three",
+      "detail": "The trailer — usually a big or a wing — sprints to the top for a trail three if the defense sinks. It must be a rhythm shot: catch, set, shoot. Hesitated trail threes are just bad threes."
+    },
+    {
+      "title": "Flow into offense if stopped",
+      "detail": "If nothing is there, flow straight into your half-court offense — no standing around. Early attack that flows into motion is seamless; early attack that stops is just a wasted 8 seconds."
+    }
+  ],
+  "hub": "transition",
+  "id": "early-clock-attack",
+  "level": "intermediate",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 6,
+  "related": [
+    "transition-offense",
+    "transition-decision-making",
+    "transition-spacing",
+    "drag-screen-transition",
+    "transition-secondary-actions"
+  ],
+  "slug": "early-clock-attack",
+  "subcategory": "transition",
+  "tags": [
+    "early offense",
+    "transition",
+    "drag screen",
+    "shot clock",
+    "quick attack"
+  ],
+  "title": "Early Clock Attack",
+  "vi": {
+    "coachingPoints": [
+      "Nhịp độ tạo ra tấn công sớm — đi bộ lên thì cửa sổ đã đóng.",
+      "Drag screen là vũ khí đặc trưng: đơn giản, nhanh, và tấn công vào big đang lùi.",
+      "Hai pha đọc rồi quyết định — tấn công sớm trừng phạt chần chừ hơn đọc sai.",
+      "Ném 3 điểm của người chạy sau là cú ném có nhịp; không bao giờ là cú ném phải nghĩ.",
+      "Chảy, đừng dừng: tấn công sớm tan vào bài nửa sân không ngừng nghỉ."
+    ],
+    "commonMistakes": [
+      "Đi bộ vào tấn công sớm — sửa: pha đẩy bóng phải là dẫn bóng chạy nước rút; chạy lững thững giết chết lợi thế.",
+      "Dẫn bóng quá nhiều ở drag screen — sửa: một hoặc hai pha dẫn để tấn công, rồi đọc và quyết định; drag phải nhanh.",
+      "Cố ném 3 điểm sớm mất thăng bằng — sửa: ném 3 điểm của người chạy sau là cú ném đặt chân có nhịp; chạy tới vị trí trước đã.",
+      "Đứng nhìn khi bị chặn — sửa: quy tắc chảy — tấn công sớm luôn tiếp tục vào bài cơ bản."
+    ],
+    "description": "Ghi điểm trước khi hàng thủ xếp xong: cách tấn công trong 8 giây đầu bằng drag screen, post nhanh, và ném 3 điểm sớm.",
+    "gameSituations": [
+      "Sau mọi pha rebound phòng thủ — 8 giây đầu là cửa sổ ghi điểm hiệu quả nhất.",
+      "Trước hàng thủ xoay chậm — drag screen sớm tấn công trước khi big của họ kịp xếp.",
+      "Khi đội bạn cần một chuỗi ghi điểm — tấn công sớm tạo ra những cú ghi điểm nhanh khởi đầu chuỗi.",
+      "Trước hàng thủ nửa sân xuất sắc — đừng để họ xếp xong; tấn công vào đồng hồ, không phải vào sơ đồ."
+    ],
+    "howTo": [
+      {
+        "title": "Đẩy bóng có mục đích",
+        "detail": "Người rebound chuyền phát động nhanh và người dẫn bóng đẩy mạnh lên phần sân đối phương — không phải dẫn bóng thong thả, mà là dẫn bóng chạy nước rút. Tấn công sớm bắt đầu từ nhịp độ; không nhịp độ thì không có gì sớm cả."
+      },
+      {
+        "title": "Chảy vào drag screen",
+        "detail": "Khi bóng qua giữa sân, big chạy sau dựng drag screen — screen bóng trong tấn công sớm trước khi hàng thủ kịp kèm người. Người dẫn bóng tấn công vào người kèm big, thường đang lùi và chưa sẵn sàng."
+      },
+      {
+        "title": "Đọc pha 2 người",
+        "detail": "Sau drag screen, đọc đơn giản: nếu người kèm big lùi, ném pull-up hoặc chuyền pocket; nếu họ switch, tấn công mismatch; nếu có hỗ trợ, kick ra cho xạ thủ. Hai pha đọc rồi quyết định — tấn công sớm thưởng cho quyết định nhanh."
+      },
+      {
+        "title": "Khóa người post nhanh",
+        "detail": "Nếu không có drag, big khóa người ở vị trí post sớm — trước khi hàng thủ đứng trước mặt hay kèm đôi. Một đường chuyền vào cho big đã khóa người trong 8 giây đầu là pha bóng sớm có tỷ lệ thành công cao nhất."
+      },
+      {
+        "title": "Ném 3 điểm sớm của người chạy sau",
+        "detail": "Người chạy sau — thường là big hoặc cánh — chạy nhanh lên đỉnh vòng cung ném 3 điểm nếu hàng thủ lùi sâu. Phải là cú ném có nhịp: bắt, đặt chân, ném. Ném 3 điểm chần chừ chỉ là cú ném 3 điểm tệ."
+      },
+      {
+        "title": "Chảy vào bài tấn công nếu bị chặn",
+        "detail": "Nếu không có gì, chảy thẳng vào bài nửa sân — không đứng nhìn. Tấn công sớm chảy vào bài chạy chỗ thì liền mạch; tấn công sớm mà dừng lại chỉ là 8 giây lãng phí."
+      }
+    ],
+    "tags": [
+      "tấn công sớm",
+      "chuyển đổi",
+      "drag screen",
+      "đồng hồ 24 giây",
+      "tấn công nhanh"
+    ],
+    "title": "Tấn công sớm đầu đồng hồ",
+    "whatIsIt": [
+      "Tấn công sớm là tấn công trong 8 giây đầu của đồng hồ 24 giây — sau khi pha phản công ban đầu bị chặn nhưng trước khi hàng thủ xếp xong. Nó sống trong khoảng trống giữa chuyển đổi và nửa sân: hàng thủ đã về, nhưng chưa tổ chức xong.",
+      "Vũ khí là tốc độ và sự đơn giản: một pha drag screen trước khi big đối phương về kịp, một pha khóa người post nhanh, một cú ném 3 điểm sớm của người chạy sau. Không thứ nào phức tạp — đó chính là điểm hay. Tấn công sớm thắng hàng thủ đã xếp vì nó tấn công sự hỗn loạn, không phải cấu trúc."
+    ],
+    "whyItMatters": [
+      "Số liệu liên tục khẳng định: những pha bóng nửa sân hiệu quả nhất bắt đầu sớm trong đồng hồ, trước hàng thủ chưa xếp xong. Đội cứ thong thả đưa bóng lên và chạy bài nửa sân mọi pha đang bỏ điểm trên bàn. Tấn công sớm là cách đội mạnh biến mọi pha rebound phòng thủ thành cơ hội ghi điểm."
+    ]
+  },
+  "whatIsIt": [
+    "Early clock attack is offense in the first 8 seconds of the shot clock — after the initial break is stopped but before the defense is set. It lives in the gap between transition and half-court: the defense is back, but it is not organized.",
+    "The weapons are speed and simplicity: a drag screen before the big gets back, a quick post seal, an early trail three. None of it is complicated — that is the point. Early offense beats set defense because it attacks confusion, not structure."
+  ],
+  "whyItMatters": [
+    "Analytics keep confirming it: the most efficient half-court possessions start early in the clock, against a defense that isn't set. Teams that walk the ball up and run motion offense every trip leave points on the table. Early clock attack is how good teams turn every defensive rebound into a scoring chance."
+  ],
+  "diagram": {
+    "title": "Early drag screen — trailing big screens before the defense is set",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 56,
+        "y": 52
+      },
+      {
+        "label": "O2",
+        "x": 28,
+        "y": 44
+      },
+      {
+        "label": "O3",
+        "x": 76,
+        "y": 44
+      },
+      {
+        "label": "O4",
+        "x": 44,
+        "y": 20
+      },
+      {
+        "label": "O5",
+        "x": 62,
+        "y": 56
+      }
+    ],
+    "defense": [
+      {
+        "label": "D1",
+        "x": 54,
+        "y": 50
+      },
+      {
+        "label": "D2",
+        "x": 27,
+        "y": 42
+      },
+      {
+        "label": "D3",
+        "x": 74,
+        "y": 42
+      },
+      {
+        "label": "D4",
+        "x": 43,
+        "y": 18
+      },
+      {
+        "label": "D5",
+        "x": 60,
+        "y": 54
+      }
+    ],
+    "ball": "O1",
+    "screens": [
+      {
+        "x": 58,
+        "y": 52
+      }
+    ],
+    "moves": [
+      {
+        "from": "O1",
+        "to": "rim",
+        "kind": "dribble"
+      },
+      {
+        "from": "O5",
+        "to": "rim",
+        "kind": "cut"
+      }
+    ],
+    "passes": [],
+    "shots": []
+  }
+}

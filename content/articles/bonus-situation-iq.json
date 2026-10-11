@@ -1,0 +1,141 @@
+{
+  "id": "bonus-situation-iq",
+  "slug": "bonus-situation-iq",
+  "hub": "basketball-iq",
+  "subcategory": "game-management",
+  "level": "intermediate",
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 5,
+  "dateUpdated": "2026-10-11",
+  "title": "Bonus-Situation IQ",
+  "description": "Playing smart when the foul count tilts the game: how to attack a team in the bonus, how to defend when you are in it, and the free-throw math that decides close games.",
+  "tags": [
+    "fouls",
+    "bonus",
+    "free throws",
+    "game management",
+    "basketball iq"
+  ],
+  "whatIsIt": [
+    "The bonus turns every non-shooting foul into free throws — and that single rule change rewrites how both teams should play. On offense against a team in the bonus, every drive is a two-way threat: score at the rim or get fouled and shoot free throws. On defense, when your team is in the bonus, every reach, every lazy closeout, and every frustration foul becomes free points.",
+    "Bonus IQ is really clock-and-contact IQ. Smart teams weaponize the bonus on offense by attacking downhill and punish opponents who do not adjust. Smart defenders survive the bonus by moving their feet, keeping hands high and back, and contesting without contact — defending with discipline instead of desperation."
+  ],
+  "whyItMatters": [
+    "In close games, the bonus often decides 8 to 12 points of free-throw scoring — more than the final margin. Teams that attack the bonus aggressively manufacture the easiest points in basketball; teams that defend recklessly in the bonus donate them. The foul count is not background information — in the last five minutes, it is the game."
+  ],
+  "howTo": [
+    {
+      "title": "Attack downhill the moment they enter the bonus",
+      "detail": "When the opponent hits the bonus, your shot selection should tilt toward the rim: drives, post touches, and cuts. Every touch in the paint now carries a whistle threat. Settle for jumpers and you waste the biggest offensive advantage on the board."
+    },
+    {
+      "title": "Put their worst defenders in actions",
+      "detail": "Hunt the opponent's weakest on-ball defender in pick-and-roll or isolation once they are in the bonus — they must now guard without fouling, which usually means giving up driving lanes. The bonus turns a mismatch into a dilemma."
+    },
+    {
+      "title": "Defend with your feet, not your hands",
+      "detail": "When your team is in the bonus, the rule is simple: no reaching, no swiping, no body contact on drives. Slide your feet, stay chest-to-chest, and contest shots vertically with high hands. Let them earn twos over the top — never gift them free throws."
+    },
+    {
+      "title": "Kill the silly fouls first",
+      "detail": "Most bonus damage comes from avoidable fouls: reaching on a rebound, fouling a jump shooter on a closeout, illegal screens 8m from the action. Audit your team's fouls — the bonus punishes carelessness far more than it punishes good aggressive defense."
+    },
+    {
+      "title": "Do the free-throw math late",
+      "detail": "In the final two minutes, know exactly what each foul gives the opponent: two shots, and the clock stops. If you are up 4 with 40 seconds left, a non-shooting foul is just two free throws and the ball back — sometimes acceptable; if you are up 1, it can lose the game. Count before you reach."
+    }
+  ],
+  "coachingPoints": [
+    "The bonus flips shot selection: attack the paint on offense, protect the paint without fouling on defense.",
+    "Teach the 'hands back' closeout — sprint, stop short, hands high and behind the shooter’s landing space.",
+    "Rebounding fouls in the bonus are pure carelessness — box out early with your body, not your arms.",
+    "The best bonus offense is drawing the foul AND finishing — an and-one in the bonus demoralizes a defense.",
+    "Track which opponent is in foul trouble too — their bonus and your foul trouble are two sides of one chessboard."
+  ],
+  "commonMistakes": [
+    "Reaching in on a driver when your team is in the bonus — fix: drill the 'feet first' rule; any reach in the bonus is a coaching issue, not a player instinct issue.",
+    "Settling for jump shots against a team in the bonus — fix: call a 'paint touches' goal; every possession should threaten the rim.",
+    "Fouling a three-point shooter on a wild closeout — fix: close out short with high hands; a made two beats three free throws every time.",
+    "Not knowing the bonus has been reached — fix: the bench calls it out the moment the 5th (FIBA) team foul is whistled."
+  ],
+  "gameSituations": [
+    "Opponent enters the bonus with 6 minutes left — shift your offense to downhill actions and post touches immediately.",
+    "Your team enters the bonus while protecting a lead — switch to contain defense: no gambling, no reaching, force jump shots.",
+    "Last minute, up 2, opponent in the bonus — every drive is a potential three-point play; meet the ball early, wall up vertically.",
+    "End of quarter, both teams in the bonus — possessions become free-throw contests; value the ball and attack closeouts under control."
+  ],
+  "related": [
+    "fouls-explained",
+    "foul-management",
+    "free-throw",
+    "attacking-the-closeout",
+    "shot-selection-iq"
+  ],
+  "vi": {
+    "title": "IQ bóng rổ khi đối thủ vào bonus",
+    "description": "Chơi khôn ngoan khi số lỗi làm lệch cán cân trận đấu: cách tấn công đội đã vào bonus, cách phòng thủ khi chính mình vào bonus, và phép tính ném phạt quyết định những trận căng.",
+    "tags": [
+      "phạm lỗi",
+      "bonus",
+      "ném phạt",
+      "quản lý trận đấu",
+      "nhãn quan chiến thuật"
+    ],
+    "whatIsIt": [
+      "Bonus biến mọi lỗi không bóng thành ném phạt — và chỉ một thay đổi luật đó đã viết lại cách cả hai đội phải chơi. Khi tấn công trước đội đã vào bonus, mỗi pha đâm rổ là mối đe dọa hai chiều: ghi điểm dưới rổ hoặc bị phạm lỗi rồi ném phạt. Khi phòng thủ lúc đội mình đã vào bonus, mỗi pha với tay, mỗi pha closeout ẩu, và mỗi pha phạm lỗi vì ức chế đều thành điểm tặng không.",
+      "IQ bonus thực chất là IQ về đồng hồ và va chạm. Đội khôn ngoan biến bonus thành vũ khí tấn công bằng cách đâm thẳng vào rổ và trừng phạt đối thủ không biết điều chỉnh. Hậu vệ khôn ngoan sống sót qua bonus bằng cách di chuyển chân, giữ tay cao và lùi, tranh chấp mà không va chạm — phòng thủ bằng kỷ luật chứ không phải bằng sự tuyệt vọng."
+    ],
+    "whyItMatters": [
+      "Trong những trận căng, bonus thường quyết định 8 đến 12 điểm từ ném phạt — nhiều hơn cả cách biệt chung cuộc. Đội nào tấn công bonus quyết liệt sẽ tạo ra những điểm số dễ nhất trong bóng rổ; đội nào phòng thủ ẩu trong bonus sẽ đem tặng chúng. Số lỗi không phải thông tin nền — trong 5 phút cuối, nó chính là trận đấu."
+    ],
+    "howTo": [
+      {
+        "title": "Đâm thẳng vào rổ ngay khi họ vào bonus",
+        "detail": "Khi đối thủ vào bonus, lựa chọn cú ném của bạn phải hướng về rổ: đâm xe, đánh post, cắt rổ. Mỗi pha chạm bóng trong khu vực dưới rổ giờ đều mang theo nguy cơ bị thổi phạt. Cứ ném nhảy mãi là bạn đang lãng phí lợi thế tấn công lớn nhất trên sân."
+      },
+      {
+        "title": "Đưa hậu vệ yếu nhất của họ vào bài đánh",
+        "detail": "Săn hậu vệ kèm bóng yếu nhất của đối thủ bằng pick and roll hoặc isolation khi họ đã vào bonus — giờ họ phải kèm mà không được phạm lỗi, nghĩa là thường phải nhường đường đâm. Bonus biến một pha lệch kèo thành một bài toán nan giải."
+      },
+      {
+        "title": "Phòng thủ bằng chân, không phải bằng tay",
+        "detail": "Khi đội bạn đã vào bonus, luật chỉ có một: không với tay, không quạt tay, không va chạm người khi đối thủ đâm. Trượt chân theo, giữ ngực đối ngực, và tranh chấp cú ném theo chiều dọc với tay giơ cao. Cứ để họ ghi 2 điểm khó — đừng bao giờ tặng ném phạt."
+      },
+      {
+        "title": "Diệt những lỗi ngớ ngẩn trước tiên",
+        "detail": "Hầu hết thiệt hại từ bonus đến từ những lỗi tránh được: với tay khi tranh rebound, phạm lỗi vào người ném nhảy trong pha closeout, screen phạm luật cách bóng 8m. Kiểm tra lại các lỗi của đội bạn — bonus trừng phạt sự cẩu thả nặng hơn nhiều so với phòng thủ quyết liệt đúng cách."
+      },
+      {
+        "title": "Tính toán ném phạt ở cuối trận",
+        "detail": "Trong 2 phút cuối, biết chính xác mỗi lỗi sẽ cho đối thủ gì: hai cú ném phạt, và đồng hồ dừng. Nếu bạn dẫn 4 điểm còn 40 giây, một lỗi không bóng chỉ là hai cú ném phạt rồi bóng về tay bạn — đôi khi chấp nhận được; nếu bạn dẫn 1 điểm, nó có thể làm bạn thua trận. Đếm trước khi với tay."
+      }
+    ],
+    "coachingPoints": [
+      "Bonus đảo ngược lựa chọn cú ném: tấn công thì đánh vào khu vực dưới rổ, phòng thủ thì bảo vệ rổ mà không phạm lỗi.",
+      "Dạy pha closeout 'tay lùi' — chạy tới, dừng sớm, tay giơ cao và tránh xa điểm tiếp đất của người ném.",
+      "Phạm lỗi khi tranh rebound trong bonus là sự cẩu thả thuần túy — box out sớm bằng cơ thể, không phải bằng tay.",
+      "Tấn công bonus hay nhất là vừa kiếm được lỗi VỪA ghi điểm — một pha and-one trong bonus làm nản lòng cả hàng thủ.",
+      "Theo dõi luôn xem ai bên đối thủ đang vướng lỗi — bonus của họ và rắc rối lỗi của bạn là hai mặt của một bàn cờ."
+    ],
+    "commonMistakes": [
+      "Với tay vào người đâm rổ khi đội mình đã vào bonus — sửa: rèn luật 'chân trước'; mọi pha với tay trong bonus là vấn đề của HLV, không phải bản năng cầu thủ.",
+      "Cứ ném nhảy mãi trước đội đã vào bonus — sửa: đặt chỉ tiêu 'chạm bóng trong khu vực dưới rổ'; mỗi đợt tấn công phải đe dọa được rổ.",
+      "Phạm lỗi vào người ném 3 điểm trong pha closeout ẩu — sửa: closeout dừng sớm với tay giơ cao; thà để họ ghi 2 điểm còn hơn tặng 3 cú ném phạt.",
+      "Không biết đối thủ đã vào bonus — sửa: băng ghế hô lên ngay khi tiếng còi lỗi đồng đội thứ 5 (FIBA) vang lên."
+    ],
+    "gameSituations": [
+      "Đối thủ vào bonus khi còn 6 phút — chuyển ngay lối tấn công sang các pha đâm xuống và đánh post.",
+      "Đội bạn vào bonus trong lúc bảo vệ cách biệt — chuyển sang phòng thủ bao vây: không mạo hiểm, không với tay, ép họ ném nhảy.",
+      "Phút cuối, dẫn 2 điểm, đối thủ đã vào bonus — mỗi pha đâm rổ đều có thể thành 3 điểm; đón bóng sớm, dựng tường thẳng đứng.",
+      "Cuối hiệp, cả hai đội đều vào bonus — các đợt bóng thành cuộc đấu ném phạt; giữ bóng chắc và tấn công closeout có kiểm soát."
+    ]
+  }
+}

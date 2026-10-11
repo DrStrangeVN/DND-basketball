@@ -1,0 +1,140 @@
+{
+  "title": "Self-Scouting for Players",
+  "description": "How to study your own game film: find your tendencies, fix your weaknesses, and build a scouting report on yourself.",
+  "hub": "coaching",
+  "subcategory": "player-development",
+  "level": "intermediate",
+  "ages": [
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 7,
+  "dateUpdated": "2026-10-11",
+  "tags": [
+    "film-study",
+    "self-analysis",
+    "scouting",
+    "improvement"
+  ],
+  "whatIsIt": [
+    "Self-scouting is the habit of watching your own game film with a critical eye — the same way you would study an opponent. Instead of watching highlights, you log your possessions: what decisions you made, what you missed, and what patterns opponents could exploit.",
+    "Most players overestimate their strengths and underestimate their weaknesses. Film does not lie. A simple stat sheet tells you what happened; self-scouting tells you why it happened and what to change next."
+  ],
+  "whyItMatters": [
+    "Opponents are scouting you — if you do not know your own tendencies, they will use them against you. Players who self-scout improve faster because they practice the right things: they stop drilling strengths they already have and start fixing the weaknesses that actually cost games."
+  ],
+  "howTo": [
+    {
+      "title": "Watch every possession, not highlights",
+      "detail": "Get full-game film (ask your coach or a parent to record). Watch each of your offensive and defensive possessions in order. Tag three categories: good decisions, mistakes, and missed opportunities (open passes you did not see, rotations you were late on)."
+    },
+    {
+      "title": "Count your tendencies",
+      "detail": "Tally simple patterns over 3 games: which direction do you drive? What is your shot mix (rim / midrange / three)? How often do you pass vs. shoot in transition? Numbers reveal habits you cannot feel in the moment."
+    },
+    {
+      "title": "Grade your defense separately",
+      "detail": "Watch only your defensive possessions once through. Score each: in stance or upright? Beat off the dribble? Late on rotation? Most young players discover their defensive film is far worse than they believed — that is where the biggest gains hide."
+    },
+    {
+      "title": "Write your own scouting report",
+      "detail": "Summarize yourself in one page as if you were the opponent's coach: 'Forces right hand, settles for contested midrange, slow on closeout rotations.' This is the document your opponents already have — now you have it too."
+    },
+    {
+      "title": "Pick ONE fix per week",
+      "detail": "Do not try to fix five things. Choose the weakness that costs the most possessions (usually defense or shot selection) and build one drill around it for the week. Re-film after two weeks to check progress."
+    },
+    {
+      "title": "Compare with a better player",
+      "detail": "Find film of a player at the next level who plays your position. Watch 10 of their possessions, then 10 of yours. List the differences in pace, spacing, and decision timing — then steal one habit at a time."
+    }
+  ],
+  "coachingPoints": [
+    "Film study is a skill: watch once for enjoyment, then rewatch with a notebook and a specific question.",
+    "The camera shows what your memory hides — trust the film over your feelings about how you played.",
+    "Track trends across multiple games; one bad game is noise, three games is a tendency.",
+    "Self-scouting works best with a coach or teammate asking 'why did you do that here?' — defend your decisions out loud."
+  ],
+  "commonMistakes": [
+    "Only watching your makes and highlights — fix: your misses and defensive lapses are where the lessons are.",
+    "Trying to fix everything at once — fix: one weakness per week, measured on film.",
+    "Blaming teammates or refs on film — fix: mute the excuses; grade only what you controlled.",
+    "Watching once and forgetting — fix: keep a one-page log per game so patterns accumulate."
+  ],
+  "gameSituations": [
+    "After a loss — film review within 48 hours while memory is fresh turns a loss into a lesson.",
+    "Before a rematch — rewatch your last game against the same opponent and check which of their adjustments exploited your tendencies.",
+    "During a slump — film usually reveals the slump is shot selection or defense, not shooting form."
+  ],
+  "related": [
+    "film-study-coaching",
+    "scouting-opponents",
+    "shot-selection-analytics"
+  ],
+  "vi": {
+    "title": "Tự scout bản thân cho cầu thủ",
+    "description": "Cách xem lại video trận đấu của chính mình: tìm thói quen, sửa điểm yếu, và viết bản scout về bản thân.",
+    "tags": [
+      "xem video",
+      "tự phân tích",
+      "scout",
+      "cải thiện"
+    ],
+    "whatIsIt": [
+      "Tự scout là thói quen xem lại video trận đấu của chính mình bằng con mắt phê bình — giống như cách bạn nghiên cứu đối thủ. Thay vì xem highlight, bạn ghi lại từng lượt bóng của mình: đã ra quyết định gì, đã bỏ lỡ gì, và đối thủ có thể khai thác mẫu hình nào.",
+      "Hầu hết cầu thủ đánh giá quá cao điểm mạnh và đánh giá quá thấp điểm yếu của mình. Video không nói dối. Bảng thống kê chỉ cho bạn biết chuyện gì đã xảy ra; tự scout cho bạn biết tại sao và cần thay đổi gì tiếp theo."
+    ],
+    "whyItMatters": [
+      "Đối thủ đang scout bạn — nếu bạn không biết thói quen của chính mình, họ sẽ dùng nó chống lại bạn. Cầu thủ tự scout tiến bộ nhanh hơn vì họ tập đúng thứ cần tập: ngừng mài những điểm mạnh đã có và bắt đầu sửa những điểm yếu thật sự khiến đội thua."
+    ],
+    "howTo": [
+      {
+        "title": "Xem mọi lượt bóng, không xem highlight",
+        "detail": "Lấy video full trận (nhờ HLV hoặc phụ huynh quay). Xem lần lượt từng lượt tấn công và phòng thủ của bạn. Đánh dấu ba nhóm: quyết định tốt, lỗi sai, và cơ hội bỏ lỡ (đường chuyền trống không thấy, xoay chuyển đến muộn)."
+      },
+      {
+        "title": "Đếm thói quen của mình",
+        "detail": "Thống kê các mẫu đơn giản qua 3 trận: bạn đột phá hướng nào? Cơ cấu cú ném ra sao (dưới rổ / trung bình / 3 điểm)? Chuyền hay ném nhiều hơn khi phản công? Con số bộc lộ những thói quen mà lúc thi đấu bạn không cảm nhận được."
+      },
+      {
+        "title": "Chấm điểm phòng thủ riêng",
+        "detail": "Xem riêng một lượt chỉ các tình huống phòng thủ của bạn. Chấm từng pha: có giữ tư thế hay đứng thẳng? Có bị vượt qua khi đối thủ dẫn bóng? Xoay chuyển có muộn? Hầu hết cầu thủ trẻ phát hiện video phòng thủ của mình tệ hơn nhiều so với tưởng tượng — và đó là nơi tiềm năng cải thiện lớn nhất."
+      },
+      {
+        "title": "Viết bản scout về chính mình",
+        "detail": "Tóm tắt bản thân trong một trang như thể bạn là HLV đối thủ: 'Ép tay phải, hay ném trung bình khó, xoay chuyển closeout chậm.' Đây là tài liệu mà đối thủ của bạn đã có — giờ bạn cũng có nó."
+      },
+      {
+        "title": "Mỗi tuần sửa MỘT điểm",
+        "detail": "Đừng cố sửa năm thứ cùng lúc. Chọn điểm yếu tốn nhiều lượt bóng nhất (thường là phòng thủ hoặc lựa chọn cú ném) và xây một bài tập quanh nó trong tuần. Quay lại video sau hai tuần để kiểm tra tiến triển."
+      },
+      {
+        "title": "So sánh với cầu thủ giỏi hơn",
+        "detail": "Tìm video một cầu thủ ở đẳng cấp cao hơn chơi đúng vị trí của bạn. Xem 10 lượt bóng của họ, rồi 10 lượt của bạn. Liệt kê khác biệt về nhịp độ, giãn đội hình và thời điểm ra quyết định — rồi học từng thói quen một."
+      }
+    ],
+    "coachingPoints": [
+      "Xem video là một kỹ năng: xem lần một để thưởng thức, rồi xem lại với sổ tay và một câu hỏi cụ thể.",
+      "Máy quay cho thấy điều trí nhớ che giấu — tin vào video hơn cảm giác của bạn về trận đấu.",
+      "Theo dõi xu hướng qua nhiều trận; một trận tệ là nhiễu, ba trận là thói quen.",
+      "Tự scout hiệu quả nhất khi có HLV hoặc đồng đội hỏi 'sao em làm vậy ở đây?' — tự bảo vệ quyết định của mình bằng lời nói."
+    ],
+    "commonMistakes": [
+      "Chỉ xem những pha ghi điểm và highlight — sửa: những cú ném hỏng và pha phòng thủ lỗi mới là nơi có bài học.",
+      "Cố sửa mọi thứ cùng lúc — sửa: một điểm yếu mỗi tuần, đo bằng video.",
+      "Đổ lỗi cho đồng đội hoặc trọng tài khi xem video — sửa: tắt mọi bào chữa; chỉ chấm những gì bạn kiểm soát được.",
+      "Xem một lần rồi quên — sửa: giữ một trang ghi chép mỗi trận để các mẫu hình tích lũy dần."
+    ],
+    "gameSituations": [
+      "Sau trận thua — xem lại video trong 48 giờ khi trí nhớ còn mới giúp biến thất bại thành bài học.",
+      "Trước trận tái đấu — xem lại trận gần nhất gặp cùng đối thủ và kiểm tra họ đã khai thác thói quen nào của bạn.",
+      "Khi sa sút phong độ — video thường cho thấy vấn đề nằm ở lựa chọn cú ném hoặc phòng thủ, không phải kỹ thuật ném."
+    ]
+  },
+  "id": "self-scouting-players",
+  "slug": "self-scouting-players"
+}

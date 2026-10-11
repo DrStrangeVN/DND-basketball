@@ -184,8 +184,8 @@ const STRINGS: Record<string, { vi: string; en: string }> = {
   "home.workoutsCta.button": { vi: "Xem giáo án", en: "Browse Workouts" },
   "home.workoutsCta.logButton": { vi: "Ghi buổi tập hôm nay", en: "Log today's session" },
   "home.hero.subtitle": {
-    vi: "250 bài học chuyên sâu, 60 bài tập, 14 giáo án, 10 lộ trình học — từ căn bản đến chiến thuật nâng cao, sắp xếp theo trình tự để bạn học dần lên.",
-    en: "200 in-depth lessons, 40 drills, 14 workouts, 10 learning paths — from fundamentals to advanced tactics, all structured for progressive learning.",
+    vi: "350 bài học chuyên sâu, 60 bài tập, 14 giáo án, 10 lộ trình học — từ căn bản đến chiến thuật nâng cao, sắp xếp theo trình tự để bạn học dần lên.",
+    en: "350 in-depth lessons, 60 drills, 14 workouts, 10 learning paths — from fundamentals to advanced tactics, all structured for progressive learning.",
   },
   "home.hero.searchCta": { vi: "Bắt đầu tìm kiếm", en: "Start searching" },
   "home.hero.browseCta": { vi: "Khám phá các trung tâm", en: "Browse the hubs" },

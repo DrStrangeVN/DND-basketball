@@ -1,0 +1,212 @@
+{
+  "id": "weak-side-tag-reads",
+  "slug": "weak-side-tag-reads",
+  "hub": "basketball-iq",
+  "subcategory": "advanced-reads",
+  "level": "advanced",
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 6,
+  "dateUpdated": "2026-10-11",
+  "title": "Weak-Side Tag Reads",
+  "description": "The subtle art of tagging the roller: when the weak-side defender should bump the roll man, how long to stay, and the reads that turn a tag into a steal or a stop.",
+  "tags": [
+    "tag defense",
+    "pick and roll",
+    "help defense",
+    "rotations",
+    "basketball iq"
+  ],
+  "whatIsIt": [
+    "The 'tag' is the weak-side defender's brief bump on the roll man — a one-second body check that slows the roll just enough for the on-ball defender to recover, without fully committing to a rotation. It is the smallest help in basketball and one of the most powerful: a good tag kills the pocket pass and the lob without giving up anything.",
+    "Tag reads are about timing and geometry. Tag too early and the roller slips behind you; tag too late and the pocket pass is already gone. Stay too long and your own man gets a wide-open three; leave too early and the tag was theater. The best taggers make it look like nothing happened — because when it works, nothing does."
+  ],
+  "whyItMatters": [
+    "The pick-and-roll is the engine of modern offense, and the tag is the cheapest way to slow it down. Teams that tag well defend the roll without rotating — which means no closeouts, no open threes, no chain reactions. One well-timed tag per possession can erase the entire advantage of a good screen."
+  ],
+  "howTo": [
+    {
+      "title": "Identify the tagger before the screen",
+      "detail": "The tagger is the weak-side defender one pass away from the roll man — usually the low man on the opposite side. Know who you are before the ball screen is set; the tag decision happens in the half-second after the screen, and there is no time to figure out assignments mid-play."
+    },
+    {
+      "title": "Stunt, bump, recover",
+      "detail": "As the roller dives, take one aggressive step into their path with your chest and forearm — a legal bump, not a hold — then sprint back to your man. The whole action lasts about one second. You are a speed bump, not a wall."
+    },
+    {
+      "title": "Read the ball handler's eyes",
+      "detail": "If the ball handler is looking at the roller, the pocket pass is coming — stay in the tag a beat longer. If their eyes are up at the weak side, the skip pass is coming — get out early. The passer's eyes tell you which threat is real."
+    },
+    {
+      "title": "Tag the body, not the ball",
+      "detail": "Reach for the ball and you foul or get sealed. Put your chest and forearm into the roller's hip and thigh to slow their momentum. Legal tags are about body position; illegal ones are about arms."
+    },
+    {
+      "title": "Recover to the most dangerous man",
+      "detail": "Your recovery target is not always your original man — it is the most dangerous open man. If the ball swung while you tagged, sprint to the shooter, not to your assignment. Tag IQ includes knowing when the rotation map has changed."
+    },
+    {
+      "title": "Communicate the tag",
+      "detail": "Call 'tag!' or 'bump!' so the on-ball defender knows help is coming and can stay aggressive on the ball handler. A silent tag leaves the guard guessing whether to go over or under — the call makes the whole coverage work."
+    }
+  ],
+  "coachingPoints": [
+    "The tag is a one-second action — drill it with a timer mindset: bump and be gone.",
+    "Chest and forearm, never arms and hands — legal tags live in the torso.",
+    "The tagger's stance before the screen decides everything: low, loaded, and facing the ball.",
+    "Tagging is a team coverage — the other three defenders must be ready to rotate one spot if the ball swings.",
+    "Great taggers get deflections without fouling — the bump disrupts the catch just enough."
+  ],
+  "commonMistakes": [
+    "Staying in the tag too long — fix: one bump, one second, then sprint out; drill with a coach counting 'one-one-thousand'.",
+    "Reaching with the arms instead of bumping with the chest — fix: hands behind the back in tag drills until the body habit is built.",
+    "Tagging when the ball handler is no threat — fix: if the guard is contained, stay home; tags are for when the roller is actually open.",
+    "Recovering to the wrong man — fix: teach 'most dangerous first'; the original assignment is secondary once the ball moves."
+  ],
+  "gameSituations": [
+    "Middle pick-and-roll with a diving big — the weak-side low man tags the roll while the guard recovers.",
+    "Against a lob-threat roller — the tag must be earlier and more physical to kill the lob timing.",
+    "Late-clock pick-and-roll — an aggressive tag can force the ball handler into a contested pull-up instead of the easy pocket pass.",
+    "When your big is in foul trouble — tag more aggressively to protect them from having to contest the roller."
+  ],
+  "related": [
+    "reading-help-defense",
+    "skip-pass-reads",
+    "help-defense",
+    "stunting-defense",
+    "gap-defense"
+  ],
+  "diagram": {
+    "title": "Middle ball screen — weak-side low defender tags the rolling big, then recovers to the corner",
+    "ball": "O1",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 52
+      },
+      {
+        "label": "O5",
+        "x": 55,
+        "y": 38
+      },
+      {
+        "label": "O3",
+        "x": 80,
+        "y": 16
+      }
+    ],
+    "defense": [
+      {
+        "label": "D1",
+        "x": 50,
+        "y": 47
+      },
+      {
+        "label": "D5",
+        "x": 58,
+        "y": 33
+      },
+      {
+        "label": "D3",
+        "x": 72,
+        "y": 18
+      }
+    ],
+    "passes": [
+      {
+        "from": "O1",
+        "to": "O5"
+      }
+    ],
+    "moves": [
+      {
+        "from": "D3",
+        "kind": "move",
+        "to": "D5"
+      },
+      {
+        "from": "O5",
+        "kind": "cut",
+        "to": "rim"
+      },
+      {
+        "from": "D3",
+        "kind": "move",
+        "to": "O3"
+      }
+    ],
+    "screens": [],
+    "shots": []
+  },
+  "vi": {
+    "title": "Đọc pha tag từ phía yếu (weak-side tag)",
+    "description": "Nghệ thuật tinh tế của pha tag roll man: khi nào hậu vệ phía yếu nên chặn người roll, giữ bao lâu, và những pha đọc biến tag thành cướp bóng hay pha chặn đứng.",
+    "tags": [
+      "phòng thủ tag",
+      "pick and roll",
+      "phòng thủ hỗ trợ",
+      "xoay chuyển đội hình",
+      "nhãn quan chiến thuật"
+    ],
+    "whatIsIt": [
+      "Pha 'tag' là cú chặn ngắn của hậu vệ phía yếu vào roll man — một cú va chạm bằng cơ thể trong một giây làm chậm pha roll vừa đủ để hậu vệ kèm bóng kịp hồi về, mà không phải dồn toàn lực xoay chuyển. Đó là pha hỗ trợ nhỏ nhất trong bóng rổ và cũng là một trong những pha mạnh nhất: một pha tag tốt giết chết đường chuyền pocket và pha alley-oop mà không phải trả giá gì.",
+      "Đọc tag là về thời điểm và hình học sân. Tag quá sớm, roll man lách sau lưng bạn; tag quá muộn, đường chuyền pocket đã đi mất. Giữ quá lâu, người bạn kèm được ném 3 điểm trống; rời quá sớm, pha tag chỉ là diễn. Người tag giỏi làm như chẳng có gì xảy ra — vì khi nó hiệu quả, đúng là chẳng có gì xảy ra."
+    ],
+    "whyItMatters": [
+      "Pick and roll là động cơ của lối tấn công hiện đại, và tag là cách rẻ nhất để làm nó chậm lại. Đội tag tốt phòng thủ được pha roll mà không cần xoay chuyển — nghĩa là không closeout, không ném 3 điểm trống, không phản ứng dây chuyền. Một pha tag đúng lúc mỗi đợt bóng có thể xóa toàn bộ lợi thế của một pha screen tốt."
+    ],
+    "howTo": [
+      {
+        "title": "Xác định người tag trước khi screen diễn ra",
+        "detail": "Người tag là hậu vệ phía yếu cách roll man một đường chuyền — thường là người thấp nhất ở phía đối diện. Biết mình là ai trước khi screen bóng được đặt; quyết định tag diễn ra trong nửa giây sau screen, và không có thời gian để tìm nhiệm vụ giữa chừng."
+      },
+      {
+        "title": "Nhô ra, va chạm, hồi về",
+        "detail": "Khi roll man lao xuống, bước một bước quyết liệt vào đường chạy của họ bằng ngực và cẳng tay — một cú va chạm hợp lệ, không phải giữ người — rồi chạy nước rút về người kèm. Toàn bộ động tác kéo dài khoảng một giây. Bạn là gờ giảm tốc, không phải bức tường."
+      },
+      {
+        "title": "Đọc mắt của người dẫn bóng",
+        "detail": "Nếu người dẫn bóng nhìn về roll man, đường chuyền pocket sắp tới — giữ pha tag lâu hơn một nhịp. Nếu mắt họ hướng về phía yếu, đường chuyền đảo cánh sắp tới — thoát ra sớm. Mắt của người chuyền cho bạn biết mối đe dọa nào là thật."
+      },
+      {
+        "title": "Tag vào người, không phải vào bóng",
+        "detail": "Với tay vào bóng là phạm lỗi hoặc bị che chắn. Đặt ngực và cẳng tay vào hông và đùi của roll man để làm chậm đà của họ. Tag hợp lệ nằm ở vị trí cơ thể; tag phạm luật nằm ở cánh tay."
+      },
+      {
+        "title": "Hồi về người nguy hiểm nhất",
+        "detail": "Mục tiêu hồi về của bạn không phải lúc nào cũng là người bạn kèm ban đầu — mà là người trống nguy hiểm nhất. Nếu bóng đã đảo cánh trong lúc bạn tag, chạy nước rút ra tay ném, đừng chạy về nhiệm vụ cũ. IQ tag bao gồm biết khi nào bản đồ xoay chuyển đã thay đổi."
+      },
+      {
+        "title": "Hô hoán pha tag",
+        "detail": "Hô 'tag!' hoặc 'chặn!' để hậu vệ kèm bóng biết hỗ trợ đang tới và có thể tiếp tục gây áp lực lên người dẫn bóng. Một pha tag im lặng khiến hậu vệ đoán mò có nên lách qua hay chui dưới — tiếng hô làm cả hệ thống phòng thủ vận hành."
+      }
+    ],
+    "coachingPoints": [
+      "Pha tag là hành động một giây — tập với tư duy bấm giờ: va chạm rồi biến mất.",
+      "Ngực và cẳng tay, không bao giờ tay và bàn tay — tag hợp lệ nằm ở thân người.",
+      "Tư thế của người tag trước screen quyết định mọi thứ: thấp, sẵn sàng, và mặt hướng về bóng.",
+      "Tag là hệ thống phòng thủ đồng đội — ba hậu vệ còn lại phải sẵn sàng xoay một vị trí nếu bóng đảo cánh.",
+      "Người tag giỏi chạm được vào bóng mà không phạm lỗi — cú va chạm làm rối pha bắt bóng vừa đủ."
+    ],
+    "commonMistakes": [
+      "Giữ pha tag quá lâu — sửa: một cú va chạm, một giây, rồi chạy nước rút ra; tập với HLV đếm 'một-một-nghìn'.",
+      "Với tay thay vì va chạm bằng ngực — sửa: tập tag với tay để sau lưng cho đến khi thói quen cơ thể hình thành.",
+      "Tag khi người dẫn bóng không đe dọa — sửa: nếu hậu vệ đã bao vây được, cứ ở yên; tag dành cho lúc roll man thực sự trống.",
+      "Hồi về nhầm người — sửa: dạy 'nguy hiểm nhất trước'; nhiệm vụ ban đầu thành thứ yếu khi bóng đã di chuyển."
+    ],
+    "gameSituations": [
+      "Pick and roll giữa sân với big lao xuống — người thấp nhất phía yếu tag roll man trong lúc hậu vệ hồi về.",
+      "Gặp roll man chuyên bắt alley-oop — pha tag phải sớm và mạnh hơn để phá nhịp ném bổng.",
+      "Pick and roll cuối đồng hồ — một pha tag quyết liệt có thể ép người dẫn bóng ném pull-up khó thay vì chuyền pocket dễ.",
+      "Khi big của bạn vướng lỗi — tag mạnh hơn để bảo vệ họ khỏi phải tranh chấp với roll man."
+    ]
+  }
+}

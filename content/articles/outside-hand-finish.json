@@ -1,0 +1,169 @@
+{
+  "id": "outside-hand-finish",
+  "slug": "outside-hand-finish",
+  "title": "Outside-Hand Finish",
+  "description": "Finish with the hand away from the defender — the extended layup that keeps shot-blockers at bay.",
+  "hub": "skills",
+  "subcategory": "finishing",
+  "level": "intermediate",
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 5,
+  "dateUpdated": "2026-10-11",
+  "whatIsIt": [
+    "The outside-hand finish means laying the ball up with the hand farthest from the defender — on a right-side drive with the defender on your left hip, that's your right hand, extended away from the contact. The ball travels on the far side of your body, out of the shot-blocker's reach.",
+    "This is the classic 'wrong-side' layup that looks awkward but is tactically perfect: maximum extension away from the defense, with your body absorbing the bump while the ball stays clean."
+  ],
+  "whyItMatters": [
+    "Shot-blockers time their jump to the ball's expected path. The outside-hand finish changes that path — the ball goes up on the far side, extended away from their reach, while your body takes the contact. It is the finish that lets smaller guards score over bigger help defenders without needing elite vertical leap."
+  ],
+  "howTo": [
+    {
+      "title": "Drive into the defender's hip",
+      "detail": "Attack the lane and initiate legal contact with the defender on your inside hip. The bump is your friend — it creates the separation for the finish."
+    },
+    {
+      "title": "Gather with two hands",
+      "detail": "Pick the ball up securely with two hands as you take your two steps. A clean gather is essential when contact is coming."
+    },
+    {
+      "title": "Extend with the outside hand",
+      "detail": "Push the ball up and away with your outside hand, extending fully toward the rim. Think 'long and away' — maximum reach from the defender."
+    },
+    {
+      "title": "Absorb contact with your body",
+      "detail": "Let your inside shoulder take the bump while your shooting arm stays extended. Keep your core tight so the contact doesn't throw off your touch."
+    },
+    {
+      "title": "Use the glass from the side",
+      "detail": "From the wing angle, bank the ball off the glass. The backboard neutralizes the defender's vertical advantage."
+    },
+    {
+      "title": "Land and hold your ground",
+      "detail": "Land balanced, expecting the whistle. If the contact was legal on your part, it's either a basket or a foul — often both."
+    }
+  ],
+  "coachingPoints": [
+    "Extension is everything — a short outside-hand finish defeats the whole purpose of the move.",
+    "Initiate the contact yourself; waiting for the defender to hit you means you're off balance when it comes.",
+    "Keep the ball on the far side from gather to release — never bring it back across your body.",
+    "This finish needs touch, not power; practice soft releases off the glass from both sides."
+  ],
+  "commonMistakes": [
+    "Finishing with a bent arm — fix: reach so far that your shoulder nearly touches your ear on the extension.",
+    "Jumping into the defender instead of beside them — fix: aim your last step for the defender's hip, then extend away.",
+    "Bringing the ball across the body mid-air — fix: decide the outside hand at the gather; no mid-air switches.",
+    "Rushing the release under contact — fix: drill finishes with a pad hitting you so contact feels normal."
+  ],
+  "gameSituations": [
+    "Against a rotating shot-blocker — the outside hand keeps the ball away from the help defender's jump.",
+    "And-one opportunities — driving into contact and extending away is the classic and-one formula.",
+    "Late-game drives — when the defense is set and physical, the outside-hand finish scores through the bump."
+  ],
+  "tags": [
+    "finishing",
+    "layup",
+    "contact-finishing"
+  ],
+  "related": [
+    "basic-layup",
+    "reverse-layup",
+    "contact-finishing",
+    "euro-step",
+    "runner-floater"
+  ],
+  "diagram": {
+    "title": "O1 drives left, takes the bump on the inside hip, and extends with the outside hand",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 38,
+        "y": 20
+      }
+    ],
+    "defense": [
+      {
+        "label": "D1",
+        "x": 35,
+        "y": 18
+      }
+    ],
+    "ball": "O1",
+    "screens": [],
+    "moves": [
+      {
+        "from": "O1",
+        "to": "rim",
+        "kind": "move"
+      }
+    ],
+    "passes": [],
+    "shots": []
+  },
+  "vi": {
+    "title": "Kết thúc bằng tay ngoài (outside-hand finish)",
+    "description": "Kết thúc bằng tay xa hậu vệ nhất — cú layup vươn dài giữ các tay block ở ngoài tầm với.",
+    "whatIsIt": [
+      "Outside-hand finish nghĩa là lên rổ bằng tay xa hậu vệ nhất — khi đâm bên phải với hậu vệ ở hông trái, đó là tay phải của bạn, vươn ra xa khỏi va chạm. Bóng đi lên ở phía xa của cơ thể, ngoài tầm với của tay block.",
+      "Đây là cú layup 'trái phía' kinh điển trông thì gượng nhưng chiến thuật thì hoàn hảo: vươn tối đa ra xa hàng thủ, cơ thể bạn hứng cú húc trong khi bóng vẫn sạch."
+    ],
+    "whyItMatters": [
+      "Các tay block căn thời gian nhảy theo đường bóng dự kiến. Outside-hand finish đổi đường bóng đó — bóng lên ở phía xa, vươn ra ngoài tầm với của họ, trong khi cơ thể bạn hứng va chạm. Đó là pha kết thúc giúp các hậu vệ nhỏ con ghi điểm qua những người hỗ trợ to con hơn mà không cần sức bật vượt trội."
+    ],
+    "howTo": [
+      {
+        "title": "Đâm vào hông hậu vệ",
+        "detail": "Tấn công lane và chủ động tạo va chạm hợp lệ với hậu vệ ở hông trong. Cú húc là bạn của bạn — nó tạo khoảng cách cho pha kết thúc."
+      },
+      {
+        "title": "Gom bóng bằng hai tay",
+        "detail": "Nhặt bóng chắc bằng hai tay khi đi hai bước. Một pha gom sạch là thiết yếu khi va chạm sắp đến."
+      },
+      {
+        "title": "Vươn lên bằng tay ngoài",
+        "detail": "Đẩy bóng lên và ra xa bằng tay ngoài, vươn hết cỡ về phía rổ. Nghĩ 'dài và xa' — tối đa khoảng cách khỏi hậu vệ."
+      },
+      {
+        "title": "Hứng va chạm bằng cơ thể",
+        "detail": "Để vai trong hứng cú húc trong khi tay ném vẫn vươn ra. Giữ cơ bụng chắc để va chạm không phá cảm giác tay."
+      },
+      {
+        "title": "Dùng bảng từ bên hông",
+        "detail": "Từ góc cánh, đập bóng vào bảng. Tấm bảng vô hiệu hóa lợi thế chiều cao của hậu vệ."
+      },
+      {
+        "title": "Tiếp đất và giữ vị trí",
+        "detail": "Tiếp đất thăng bằng, chờ tiếng còi. Nếu va chạm từ phía bạn là hợp lệ, đó hoặc là điểm, hoặc là lỗi — thường là cả hai."
+      }
+    ],
+    "coachingPoints": [
+      "Độ vươn là tất cả — một pha outside-hand finish vươn nửa vời là phá hỏng toàn bộ ý nghĩa động tác.",
+      "Chủ động tạo va chạm; chờ hậu vệ húc vào là bạn đã mất thăng bằng khi nó đến.",
+      "Giữ bóng ở phía xa từ lúc gom đến lúc thả — không bao giờ đưa nó vắt ngang người.",
+      "Pha kết thúc này cần cảm giác tay, không phải sức mạnh; tập thả bóng nhẹ qua bảng từ cả hai bên."
+    ],
+    "commonMistakes": [
+      "Kết thúc với tay cong — sửa: vươn xa đến mức vai gần chạm tai khi vươn hết cỡ.",
+      "Nhảy đâm vào người hậu vệ thay vì bên cạnh họ — sửa: bước cuối nhắm vào hông hậu vệ, rồi vươn ra xa.",
+      "Đưa bóng vắt ngang người giữa không trung — sửa: quyết định tay ngoài ngay từ lúc gom bóng; không đổi tay trên không.",
+      "Thả bóng vội dưới va chạm — sửa: tập kết thúc với tấm đệm húc vào người để va chạm thành bình thường."
+    ],
+    "gameSituations": [
+      "Trước một tay block xoay vào — tay ngoài giữ bóng tránh khỏi cú nhảy của người hỗ trợ.",
+      "Cơ hội and-one — đâm vào va chạm rồi vươn ra xa là công thức and-one kinh điển.",
+      "Pha đâm cuối trận — khi hàng thủ đã vào thế và chơi rắn, outside-hand finish ghi điểm xuyên qua cú húc."
+    ],
+    "tags": [
+      "kết thúc",
+      "layup",
+      "chịu va chạm"
+    ]
+  }
+}

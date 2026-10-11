@@ -1,0 +1,220 @@
+{
+  "ages": [
+    "U18",
+    "Adult"
+  ],
+  "coachingPoints": [
+    "The 3-2 lives or dies on the back two. If they chase, the press gives up layups; if they hold, it gives up turnovers.",
+    "Trap with a wall, not a lunge — the press creates the turnover, the reach creates the foul.",
+    "The interceptor is always the defender furthest from the ball in the front three — drill that rotation until it is instant.",
+    "Call the sideline early: 'Left! Left!' tells all three where the trap is going before the ball gets there.",
+    "Use it in bursts — 3-4 possessions of 3-2, then drop back. Sustained 3-2 against good guards is a conditioning bet you can lose."
+  ],
+  "commonMistakes": [
+    "All three chasing the ball — fix: the weak-side member of the three is an interceptor, never a second trapper.",
+    "Back two creeping into the backcourt — fix: draw a line at the frontcourt three-point arc; D4/D5 defend behind it.",
+    "Trapping without the sideline sealed — fix: the trap only triggers when the dribbler is within two steps of the boundary.",
+    "No re-press after the ball reverses — fix: the interceptor becomes the new D2 and the shape reforms instantly."
+  ],
+  "dateUpdated": "2026-10-11",
+  "description": "The aggressive 3-2 press: three up top to force the sideline, trapping wings, and the two-deep safety net behind everything.",
+  "gameSituations": [
+    "Down 8+ in the fourth quarter — the 3-2 manufactures the consecutive stops a comeback needs.",
+    "After timeouts when you install it as a surprise — offenses prepare for your base defense, not a new press look.",
+    "Against a team starting a backup point guard — test his composure with three bodies before he settles in.",
+    "To change momentum after an opponent scoring run — two forced turnovers in a row swing energy harder than any timeout."
+  ],
+  "howTo": [
+    {
+      "title": "Align the three across",
+      "detail": "D1 takes the inbounder side, D2 takes the middle of the backcourt at the free-throw line extended, D3 takes the far sideline. The two deep defenders (D4, D5) sit at the frontcourt elbows, splitting the floor and protecting against the long ball."
+    },
+    {
+      "title": "Pressure the inbound",
+      "detail": "D1 crowds the inbounder's passing lane without fouling; D2 denies the primary receiver; D3 shades to take away the long sideline pass. Force a catch near a sideline, never in the middle."
+    },
+    {
+      "title": "Steer to the sideline",
+      "detail": "D2 — the middle of the three — is the steering wheel. He forces the ball handler toward the nearest sideline with his chest angle, and the sideline defender of the three contains from the outside-in."
+    },
+    {
+      "title": "Trap with the wing of the three",
+      "detail": "The moment the dribbler is pinned near the sideline, the nearest of the three sprints in to trap with the on-ball defender. Hands high, wall up — same trap mechanics as the half-court trap, just earlier on the floor."
+    },
+    {
+      "title": "Drop the weak-side defender",
+      "detail": "The third member of the trio — the one away from the trap — sprints to the middle of the floor as the interceptor. If the ball reverses out of the trap, he becomes the new steering wheel and the press re-traps on the other side."
+    },
+    {
+      "title": "Hold the back two",
+      "detail": "D4 and D5 never chase into the backcourt. They take the two deepest threats, stay goal-side, and communicate every rotation: 'Long!', 'Middle!', 'Back!'. Two defenders against the deep ball is enough — but only if both stay home."
+    }
+  ],
+  "hub": "defense",
+  "id": "three-two-press",
+  "level": "advanced",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 8,
+  "related": [
+    "full-court-press",
+    "zone-1-3-1",
+    "transition-defense",
+    "help-defense",
+    "outlet-passing"
+  ],
+  "slug": "three-two-press",
+  "subcategory": "defensive-systems",
+  "tags": [
+    "press",
+    "full-court defense",
+    "trap",
+    "turnovers",
+    "advanced defense"
+  ],
+  "title": "3-2 Full-Court Press",
+  "vi": {
+    "coachingPoints": [
+      "Press 3-2 sống hay chết ở hai người phía sau. Họ mà đuổi lên, press tặng layup; họ mà giữ vị trí, press tặng những pha mất bóng.",
+      "Bẫy bằng bức tường, không phải cú lao người — press tạo ra pha cướp bóng, cú với tay tạo ra pha phạm lỗi.",
+      "Người chặn đường chuyền luôn là cầu thủ xa bóng nhất trong bộ ba phía trên — tập rotation này đến khi thành phản xạ tức thì.",
+      "Hô biên sớm: 'Trái! Trái!' cho cả ba biết bẫy sẽ giăng ở đâu trước khi bóng tới nơi.",
+      "Dùng theo đợt — 3-4 pha bóng press 3-2 rồi lùi về. Press 3-2 kéo dài trước những hậu vệ giỏi là canh bạc thể lực có thể thua."
+    ],
+    "commonMistakes": [
+      "Cả ba người đuổi theo bóng — sửa: thành viên phía yếu của bộ ba là người chặn đường chuyền, không bao giờ là người bẫy thứ hai.",
+      "Hai người phía sau dâng lên sân nhà — sửa: kẻ một vạch ở vòng 3 điểm phần sân đối phương; D4/D5 phòng thủ sau vạch đó.",
+      "Bẫy khi biên chưa bịt kín — sửa: bẫy chỉ kích hoạt khi người dẫn bóng cách đường biên trong hai bước chân.",
+      "Không press lại sau khi bóng đổi hướng — sửa: người chặn đường chuyền trở thành D2 mới và đội hình tái lập ngay lập tức."
+    ],
+    "description": "Press 3-2 đầy quyết liệt: ba người phía trên ép bóng ra biên, bẫy ở cánh, và hai cầu thủ phía sau làm lưới an toàn.",
+    "gameSituations": [
+      "Bị dẫn 8 điểm trở lên trong hiệp 4 — 3-2 tạo ra những pha phòng thủ liên tiếp mà một cuộc lội ngược dòng cần.",
+      "Sau hội ý khi tung ra như một bất ngờ — đối phương chuẩn bị cho phòng thủ cơ bản của bạn, không phải một kiểu press mới.",
+      "Gặp đội phải dùng hậu vệ dẫn bóng dự bị — thử bản lĩnh của anh ta bằng ba cầu thủ trước khi anh ta kịp ổn định.",
+      "Đổi đà sau chuỗi ghi điểm của đối phương — hai pha ép mất bóng liên tiếp xoay chuyển năng lượng mạnh hơn mọi lần hội ý."
+    ],
+    "howTo": [
+      {
+        "title": "Xếp ba người dàn ngang",
+        "detail": "D1 kèm phía người ném biên, D2 đứng giữa sân nhà ở ngang vạch ném phạt kéo dài, D3 đứng biên xa. Hai cầu thủ phía sau (D4, D5) đứng ở vị trí elbow phần sân đối phương, chia đôi mặt sân và chống đường chuyền dài."
+      },
+      {
+        "title": "Gây áp lực lên pha ném biên",
+        "detail": "D1 ép sát đường chuyền của người ném biên mà không phạm lỗi; D2 bắt chặt người nhận bóng chính; D3 nghiêng người cắt đường chuyền dài dọc biên. Ép đối phương bắt bóng gần biên, không bao giờ ở giữa."
+      },
+      {
+        "title": "Lái bóng ra biên",
+        "detail": "D2 — người giữa của bộ ba — là vô lăng. Anh ta ép người dẫn bóng về biên gần nhất bằng góc ngực, và cầu thủ biên của bộ ba ép từ ngoài vào trong."
+      },
+      {
+        "title": "Bẫy bằng cánh của bộ ba",
+        "detail": "Ngay khi người dẫn bóng bị kẹt gần biên, người gần nhất trong bộ ba lao vào bẫy cùng cầu thủ kèm bóng. Tay giơ cao, dựng tường — kỹ thuật bẫy giống hệt bẫy nửa sân, chỉ là diễn ra sớm hơn trên sân."
+      },
+      {
+        "title": "Lùi cầu thủ phía yếu",
+        "detail": "Thành viên thứ ba của bộ ba — người xa pha bẫy — chạy nhanh về giữa sân làm người chặn đường chuyền. Nếu bóng thoát bẫy đổi hướng, anh ta trở thành D2 mới và press bẫy lại ở phía bên kia."
+      },
+      {
+        "title": "Giữ vững hai người phía sau",
+        "detail": "D4 và D5 không bao giờ đuổi lên sân nhà. Họ kèm hai mối đe dọa sâu nhất, đứng giữa người và rổ, và hô mọi rotation: 'Dài!', 'Giữa!', 'Về!'. Hai cầu thủ chống đường chuyền sâu là đủ — nhưng chỉ khi cả hai đều giữ vị trí."
+      }
+    ],
+    "tags": [
+      "press",
+      "phòng thủ toàn sân",
+      "bẫy",
+      "cướp bóng",
+      "phòng thủ nâng cao"
+    ],
+    "title": "Press 3-2 toàn sân",
+    "whatIsIt": [
+      "Press 3-2 dồn ba cầu thủ phòng thủ vào sân nhà — áp lực lớn hơn lên pha ném biên, nhiều người hơn để bẫy, và đường chuyền đầu tiên của đối phương khó hơn. Cái giá cũng rõ ràng: bạn dồn ba người lên trên, nên hai cầu thủ phía sau phải giao tiếp cực tốt và rotation phải kín kẽ.",
+      "Press này sinh ra để bẫy ở cánh. Cầu thủ giữa của bộ ba lái bóng ra biên, cầu thủ biên của bộ ba khép bẫy, và cầu thủ yếu của bộ ba lùi về chặn đường chuyền — một đợt sóng cuộn liên tục miễn là hai người phía sau giữ vững."
+    ],
+    "whyItMatters": [
+      "Các đội trình độ cao dùng 3-2 khi cần cướp bóng dồn dập — bám đuổi cuối trận, đổi đà tâm lý, hoặc gặp đối thủ có người dẫn bóng thứ hai non tay. Đây là press rủi ro cao nhất trong các kiểu press phổ biến, và cũng chính vì vậy mà phần thưởng cao nhất: một chuỗi 3-2 gọn gàng có thể lật ngược trận đấu cách biệt 10 điểm trong ba phút."
+    ]
+  },
+  "whatIsIt": [
+    "The 3-2 press floods the backcourt with three defenders — more pressure on the inbound, more bodies to trap with, and a harder first pass for the offense. The trade is simple: you commit three up front, so the two deep defenders must be elite communicators and the rotations must be airtight.",
+    "This press is built for trapping wings. The middle defender of the three steers the ball to a sideline, the sideline defender of the three closes the trap, and the weak-side defender of the three drops to intercept — a rolling wave that keeps coming as long as the back two hold."
+  ],
+  "whyItMatters": [
+    "Advanced teams use the 3-2 when they need steals in bunches — late comebacks, momentum swings, or against an opponent whose second ball handler is shaky. It is the highest-risk common press, which is exactly why it is also the highest-reward: a clean 3-2 stretch can flip a 10-point game in three minutes."
+  ],
+  "diagram": {
+    "title": "3-2 press — three flood the backcourt, two protect deep",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 60,
+        "y": 90
+      },
+      {
+        "label": "O2",
+        "x": 34,
+        "y": 84
+      },
+      {
+        "label": "O3",
+        "x": 76,
+        "y": 82
+      },
+      {
+        "label": "O4",
+        "x": 46,
+        "y": 68
+      },
+      {
+        "label": "O5",
+        "x": 58,
+        "y": 58
+      }
+    ],
+    "defense": [
+      {
+        "label": "D1",
+        "x": 58,
+        "y": 88
+      },
+      {
+        "label": "D2",
+        "x": 50,
+        "y": 78
+      },
+      {
+        "label": "D3",
+        "x": 72,
+        "y": 80
+      },
+      {
+        "label": "D4",
+        "x": 36,
+        "y": 44
+      },
+      {
+        "label": "D5",
+        "x": 64,
+        "y": 44
+      }
+    ],
+    "ball": "O1",
+    "screens": [],
+    "moves": [
+      {
+        "from": "D1",
+        "to": "O1",
+        "kind": "move"
+      },
+      {
+        "from": "D2",
+        "to": "O1",
+        "kind": "move"
+      }
+    ],
+    "passes": [],
+    "shots": []
+  }
+}

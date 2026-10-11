@@ -1,0 +1,194 @@
+{
+  "id": "early-clock-decisions",
+  "slug": "early-clock-decisions",
+  "hub": "basketball-iq",
+  "subcategory": "basketball-iq",
+  "level": "intermediate",
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 5,
+  "dateUpdated": "2026-10-11",
+  "title": "Early-Clock Decisions",
+  "description": "Winning the first 8 seconds of the shot clock: when to attack a scrambling defense, when to run a drag screen, and when to pull out and organize.",
+  "tags": [
+    "transition offense",
+    "basketball iq",
+    "shot clock",
+    "drag screen",
+    "decision making"
+  ],
+  "whatIsIt": [
+    "Early-clock offense lives in the first 6 to 8 seconds after crossing half court, when the defense is still matching up and communicating. This is the window where a simple drag screen, an early post seal, or a quick drive can produce a wide-open shot — because the defense has not had time to load up on its rotations.",
+    "The decision is binary and must be instant: is the defense scrambled? If yes, attack with pace and purpose. If the defense is already matched and set, the early-clock window is closed — pull the ball out, get organized, and run your offense. Hesitation between the two is what kills possessions."
+  ],
+  "whyItMatters": [
+    "Defenses are built to guard set plays, not chaos. Shots taken in early offense — before the defense is organized — score at a dramatically higher rate, and they cost almost nothing to create. Teams that master the early-clock decision get 6 to 10 'free' high-quality looks per game that never show up on a play diagram."
+  ],
+  "howTo": [
+    {
+      "title": "Scan the defense as you cross half court",
+      "detail": "Eyes up at the timeline. Count matched defenders: if two or more are still pointing, talking, or sprinting to their man, the defense is scrambled — that is your attack signal. If all five are set and quiet, the window is closed."
+    },
+    {
+      "title": "Run the drag screen with pace",
+      "detail": "The trailing big sprints into a ball screen at the top while the defense is still moving. Set it early (around 7-8m from the basket), set it hard, and roll with intent. A drag screen against a scrambling defense creates a 2v1 almost every time."
+    },
+    {
+      "title": "Seal early in the post",
+      "detail": "If your big beats their defender down the floor, throw the early entry pass before the defense can front or double. An early seal at 3-4m from the rim is the highest-percentage look in early offense — do not wait for the set play."
+    },
+    {
+      "title": "Attack closeouts, don't settle",
+      "detail": "Early-clock kick-outs often reach a shooter with a defender sprinting at them. Do not fire a contested three — attack the closeout with one or two dribbles and make the next read. The advantage is the scrambling closeout, not the first catch."
+    },
+    {
+      "title": "Know when the window closes",
+      "detail": "If your first action produces nothing and the defense is now matched, kill the early offense immediately. Dribble out, call the set, and run your half-court offense with a full clock. Forcing a bad shot at 16 seconds is worse than a good shot at 8."
+    }
+  ],
+  "coachingPoints": [
+    "Early offense is organized chaos — everyone must know their lane and their job before the break starts.",
+    "The drag screen only works at full sprint; a jogging big sets a screen the defense easily switches.",
+    "Attack scrambled, organize against set — the read takes one second, and hesitation kills it.",
+    "One early-clock action per possession: if it fails, reset. Two rushed actions equal one bad shot.",
+    "Rebounders become rim runners — the first big down the floor gets the easiest touches of the game."
+  ],
+  "commonMistakes": [
+    "Pulling up for a contested early three with no advantage — fix: the early shot must come from a scramble, never from impatience.",
+    "The trailer jogging instead of sprinting into the drag screen — fix: sprint the middle every rep; the screen is useless at half speed.",
+    "Forcing a second rushed action after the first one fails — fix: one action, then organize. Teach the 'kill' call.",
+    "Throwing the early post entry too late — fix: the pass goes up the moment the seal is established, before the double arrives."
+  ],
+  "gameSituations": [
+    "After a defensive rebound with numbers — push, drag screen, and attack before the defense matches.",
+    "After a made basket — sprint into a quick sideline action while the defense is still organizing.",
+    "Late shot clock in the previous possession is irrelevant — every new possession resets the early-clock window.",
+    "Against a team that jogs back — punish them relentlessly; early offense is how you break their will."
+  ],
+  "related": [
+    "late-clock-offense",
+    "clock-management",
+    "transition-decision-making",
+    "shot-selection-iq",
+    "drag-screen-transition"
+  ],
+  "diagram": {
+    "title": "Drag screen in early offense — trailing big screens while the defense is still matching up",
+    "ball": "O1",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 58
+      },
+      {
+        "label": "O5",
+        "x": 42,
+        "y": 44
+      },
+      {
+        "label": "O2",
+        "x": 28,
+        "y": 48
+      }
+    ],
+    "defense": [
+      {
+        "label": "D1",
+        "x": 50,
+        "y": 52
+      },
+      {
+        "label": "D5",
+        "x": 44,
+        "y": 38
+      }
+    ],
+    "passes": [],
+    "moves": [
+      {
+        "from": "O5",
+        "kind": "screen-run",
+        "to": "O1"
+      },
+      {
+        "from": "O1",
+        "kind": "dribble",
+        "to": "rim"
+      },
+      {
+        "from": "D5",
+        "kind": "move",
+        "to": "D1"
+      }
+    ],
+    "screens": [],
+    "shots": []
+  },
+  "vi": {
+    "title": "Ra quyết định sớm khi đồng hồ còn nhiều",
+    "description": "Thắng 8 giây đầu của đồng hồ 24 giây: khi nào tấn công hàng thủ còn đang rối, khi nào chạy drag screen, và khi nào kéo ra tổ chức lại.",
+    "tags": [
+      "tấn công chuyển trạng thái",
+      "nhãn quan chiến thuật",
+      "đồng hồ 24 giây",
+      "drag screen",
+      "ra quyết định"
+    ],
+    "whatIsIt": [
+      "Tấn công sớm diễn ra trong 6 đến 8 giây đầu sau khi qua vạch giữa sân, lúc hàng thủ vẫn còn đang tìm người kèm và giao tiếp với nhau. Đây là cửa sổ mà một pha drag screen đơn giản, một pha seal sớm trong post, hay một pha đâm nhanh có thể tạo ra cú ném trống trải — vì hàng thủ chưa kịp xoay chuyển đội hình.",
+      "Quyết định chỉ có hai hướng và phải ngay lập tức: hàng thủ có đang rối không? Nếu có, tấn công với tốc độ và mục đích rõ ràng. Nếu hàng thủ đã kèm người xong và đứng vững, cửa sổ đã đóng — kéo bóng ra, tổ chức lại và chạy bài nửa sân. Do dự giữa hai hướng là thứ giết chết đợt tấn công."
+    ],
+    "whyItMatters": [
+      "Hàng thủ được xây dựng để chống các bài đánh cố định, không phải để chống hỗn loạn. Những cú ném trong tấn công sớm — trước khi hàng thủ kịp tổ chức — có tỷ lệ thành công cao hơn hẳn mà gần như không tốn công tạo ra. Đội nào làm chủ quyết định sớm sẽ có 6 đến 10 cơ hội ngon ăn 'miễn phí' mỗi trận mà không sơ đồ chiến thuật nào vẽ ra được."
+    ],
+    "howTo": [
+      {
+        "title": "Quan sát hàng thủ khi qua vạch giữa sân",
+        "detail": "Mắt ngẩng lên ở vạch giữa sân. Đếm số hậu vệ đã kèm người: nếu hai người trở lên vẫn còn đang chỉ tay, hô hoán hoặc chạy về người kèm, hàng thủ đang rối — đó là tín hiệu tấn công. Nếu cả năm đã đứng vững và im lặng, cửa sổ đã đóng."
+      },
+      {
+        "title": "Chạy drag screen với tốc độ cao",
+        "detail": "Big chạy sau lao lên đặt screen ở đỉnh vòng cung trong khi hàng thủ còn đang di chuyển. Đặt screen sớm (cách rổ khoảng 7-8m), đặt chắc, và roll với ý đồ rõ ràng. Một pha drag screen vào hàng thủ đang rối tạo ra 2 đấu 1 gần như mọi lần."
+      },
+      {
+        "title": "Seal sớm trong post",
+        "detail": "Nếu big của bạn chạy nhanh hơn người kèm xuống sân, chuyền vào post sớm trước khi hàng thủ kịp đón đầu hay double team. Một pha seal sớm cách rổ 3-4m là cơ hội chắc ăn nhất trong tấn công sớm — đừng đợi bài đánh cố định."
+      },
+      {
+        "title": "Tấn công closeout, đừng ném ẩu",
+        "detail": "Những đường chuyền ra ngoài trong tấn công sớm thường tới tay người ném khi hậu vệ đang lao ra. Đừng ném 3 điểm trong tư thế bị kèm — tấn công closeout bằng một hai nhịp dẫn bóng rồi đọc tiếp. Lợi thế nằm ở pha closeout rối loạn, không phải ở cú bắt bóng đầu tiên."
+      },
+      {
+        "title": "Biết khi nào cửa sổ đóng lại",
+        "detail": "Nếu pha đánh đầu tiên không tạo ra gì và hàng thủ đã kèm người xong, dừng tấn công sớm ngay lập tức. Dẫn bóng ra, gọi bài, và đánh nửa sân với đồng hồ còn nhiều. Cố ném ẩu khi còn 16 giây tệ hơn nhiều so với một cú ném tốt khi còn 8 giây."
+      }
+    ],
+    "coachingPoints": [
+      "Tấn công sớm là hỗn loạn có tổ chức — mọi người phải biết làn chạy và nhiệm vụ của mình trước khi đợt phản công bắt đầu.",
+      "Drag screen chỉ hiệu quả khi chạy hết tốc; big chạy lững thững thì hàng thủ đổi người dễ dàng.",
+      "Gặp hàng thủ rối thì tấn công, gặp hàng thủ đã đứng thì tổ chức — pha đọc chỉ mất một giây, do dự là hỏng.",
+      "Mỗi đợt bóng chỉ một pha đánh sớm: hỏng thì tổ chức lại. Hai pha vội vàng bằng một cú ném tệ.",
+      "Người bắt rebound thành người chạy rổ — big xuống sân đầu tiên sẽ có những pha chạm bóng dễ nhất trận."
+    ],
+    "commonMistakes": [
+      "Ném 3 điểm sớm trong tư thế bị kèm mà chẳng có lợi thế gì — sửa: cú ném sớm phải đến từ sự rối loạn của hàng thủ, không phải từ sự nóng vội.",
+      "Người chạy sau lững thững thay vì lao lên đặt drag screen — sửa: chạy nước rút ở giữa sân trong mọi lần tập; screen ở nửa tốc độ là vô dụng.",
+      "Cố đánh vội pha thứ hai sau khi pha đầu hỏng — sửa: một pha rồi tổ chức lại. Dạy cả đội tiếng hô 'dừng'.",
+      "Chuyền vào post sớm quá muộn — sửa: chuyền ngay khi pha seal vừa hình thành, trước khi double team tới."
+    ],
+    "gameSituations": [
+      "Sau rebound phòng thủ khi có lợi thế quân số — đẩy bóng, drag screen, tấn công trước khi hàng thủ kịp kèm người.",
+      "Sau khi đối thủ ghi điểm — chạy nhanh vào bài đánh biên trong lúc hàng thủ còn đang tổ chức.",
+      "Đồng hồ cạn ở đợt trước không liên quan — mỗi đợt bóng mới đều mở lại cửa sổ tấn công sớm.",
+      "Gặp đội lùi về chậm chạp — trừng phạt không thương tiếc; tấn công sớm là cách bẻ gãy ý chí của họ."
+    ]
+  }
+}

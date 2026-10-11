@@ -1,0 +1,132 @@
+{
+  "title": "Stat Sheet IQ for Players",
+  "description": "Learn to read a box score like a coach: which numbers matter, which lie, and how to play for winning stats.",
+  "hub": "coaching",
+  "subcategory": "coaching",
+  "level": "beginner",
+  "ages": [
+    "U12",
+    "U14",
+    "U16"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 5,
+  "dateUpdated": "2026-10-11",
+  "tags": [
+    "statistics",
+    "box-score",
+    "iq",
+    "decision-making"
+  ],
+  "whatIsIt": [
+    "Stat sheet IQ is the ability to read a box score and understand what really happened in a game. Points and rebounds are easy to see, but the numbers that decide games often hide in the quiet columns: assists, turnovers, shooting percentages, and plus-minus.",
+    "Every stat tells a small story. A player with 20 points on 25 shots hurt the team; a player with 8 points, 7 assists and 2 turnovers probably won it. Learning to read these stories makes you a smarter player — you start chasing the right numbers."
+  ],
+  "whyItMatters": [
+    "Players who only chase points take bad shots and ignore defense. Players who understand the full stat sheet play winning basketball: they value efficient shots, protect the ball, and do the unglamorous work that shows up in plus-minus. Coaches notice, and minutes follow."
+  ],
+  "howTo": [
+    {
+      "title": "Start with shooting efficiency",
+      "detail": "Do not look at points first — look at field-goal attempts and makes. 12 points on 6 shots is excellent; 12 points on 15 shots is a problem. Learn this rule: efficient scorers help teams, volume shooters hurt them."
+    },
+    {
+      "title": "Read the assist-to-turnover ratio",
+      "detail": "Divide assists by turnovers. Anything above 2:1 is strong for a guard; below 1:1 means you are giving away more than you create. Protecting the ball is the fastest way to earn a coach's trust."
+    },
+    {
+      "title": "Check the hidden hustle stats",
+      "detail": "Offensive rebounds, steals, and blocks rarely make headlines but they create extra possessions. Even if your league does not track deflections and charges, count your own — aim for 3 per game."
+    },
+    {
+      "title": "Understand plus-minus",
+      "detail": "Plus-minus shows whether your team outscored the opponent while you were on the floor. It captures everything — defense, spacing, screening — that never appears in your personal stats. A high plus-minus with low points means you are doing winning work."
+    },
+    {
+      "title": "Compare shot mix, not just makes",
+      "detail": "Look at where shots came from: rim attempts and open threes are winning shots; contested long twos are losing shots. Over a few games, shift your diet toward efficient zones and watch your percentages climb."
+    }
+  ],
+  "coachingPoints": [
+    "Teach young players this order: efficiency first, then playmaking, then everything else.",
+    "A box score never shows screens, rotations, or box-outs — remind players the best work is often invisible.",
+    "Use one stat as a weekly goal (e.g. 'under 2 turnovers') rather than judging the whole line.",
+    "Compare players to themselves over time, not to teammates — improvement is the metric."
+  ],
+  "commonMistakes": [
+    "Judging a game by points alone — fix: always read points together with attempts and turnovers.",
+    "Chasing rebounds by leaving your defensive assignment — fix: a box-out that lets a teammate rebound counts as winning too.",
+    "Ignoring turnovers because 'I was trying to make a play' — fix: track your assist-to-turnover ratio honestly every game.",
+    "Comparing your stats to a star on another team — fix: compare your efficiency and trends to your own last month."
+  ],
+  "gameSituations": [
+    "Post-game review — read the box score with your coach and pick one number to improve next game.",
+    "Halftime check — glance at team turnovers and shooting splits to adjust your second-half decisions.",
+    "Tryout week — coaches track efficiency and turnovers more than highlights; play for the quiet winning stats."
+  ],
+  "related": [
+    "shot-selection-iq",
+    "transition-decision-making",
+    "film-study-coaching"
+  ],
+  "vi": {
+    "title": "Đọc bảng thống kê như HLV",
+    "description": "Học cách đọc bảng thống kê như HLV: chỉ số nào quan trọng, chỉ số nào đánh lừa, và cách chơi để có những con số chiến thắng.",
+    "tags": [
+      "thống kê",
+      "bảng điểm",
+      "iq",
+      "ra quyết định"
+    ],
+    "whatIsIt": [
+      "IQ bảng thống kê là khả năng đọc một bảng điểm và hiểu chuyện gì thật sự đã xảy ra trong trận. Điểm số và rebound dễ thấy, nhưng những con số quyết định trận đấu thường nằm ở các cột lặng lẽ: kiến tạo, để mất bóng, hiệu suất ném, và chỉ số cộng trừ.",
+      "Mỗi chỉ số kể một câu chuyện nhỏ. Cầu thủ ghi 20 điểm bằng 25 cú ném đã làm hại đội; cầu thủ 8 điểm, 7 kiến tạo và 2 lần để mất bóng có lẽ đã mang về chiến thắng. Học đọc những câu chuyện này giúp bạn chơi thông minh hơn — bạn bắt đầu theo đuổi những con số đúng."
+    ],
+    "whyItMatters": [
+      "Cầu thủ chỉ chạy theo điểm số sẽ ném ẩu và bỏ phòng thủ. Cầu thủ hiểu toàn bộ bảng thống kê chơi bóng theo kiểu chiến thắng: họ quý những cú ném hiệu quả, giữ bóng cẩn thận, và làm những việc thầm lặng thể hiện qua chỉ số cộng trừ. HLV nhìn thấy điều đó, và số phút ra sân sẽ đến."
+    ],
+    "howTo": [
+      {
+        "title": "Bắt đầu từ hiệu suất ném",
+        "detail": "Đừng nhìn điểm số trước — nhìn số lần ném và số lần vào. Ghi 12 điểm bằng 6 cú ném là xuất sắc; 12 điểm bằng 15 cú ném là vấn đề. Nhớ quy tắc này: người ghi điểm hiệu quả giúp đội, người ném nhiều làm hại đội."
+      },
+      {
+        "title": "Đọc tỉ lệ kiến tạo trên mất bóng",
+        "detail": "Chia số kiến tạo cho số lần để mất bóng. Trên 2:1 là tốt với hậu vệ; dưới 1:1 nghĩa là bạn làm mất nhiều hơn tạo ra. Giữ bóng cẩn thận là cách nhanh nhất để có được niềm tin của HLV."
+      },
+      {
+        "title": "Để ý các chỉ số nỗ lực ẩn",
+        "detail": "Rebound tấn công, cướp bóng và block hiếm khi lên báo nhưng tạo thêm lượt bóng. Dù giải của bạn không thống kê deflection hay đứng chịu lỗi tấn công, hãy tự đếm — mục tiêu 3 lần mỗi trận."
+      },
+      {
+        "title": "Hiểu chỉ số cộng trừ",
+        "detail": "Chỉ số cộng trừ cho thấy đội bạn hơn hay kém đối thủ bao nhiêu điểm khi bạn có mặt trên sân. Nó ghi lại mọi thứ — phòng thủ, giãn đội hình, screen — những việc không bao giờ xuất hiện trong thống kê cá nhân. Cộng trừ cao mà điểm thấp nghĩa là bạn đang làm những việc thầm lặng giúp đội thắng."
+      },
+      {
+        "title": "So sánh cơ cấu cú ném, không chỉ số lần vào",
+        "detail": "Nhìn xem cú ném đến từ đâu: ném dưới rổ và ném 3 điểm trống là những cú ném chiến thắng; ném xa 2 điểm bị kèm chặt là cú ném thua. Qua vài trận, chuyển dần sang các vùng hiệu quả và xem tỉ lệ của bạn leo lên."
+      }
+    ],
+    "coachingPoints": [
+      "Dạy cầu thủ trẻ theo thứ tự này: hiệu suất trước, rồi đến kiến tạo, rồi mới đến mọi thứ khác.",
+      "Bảng thống kê không bao giờ thể hiện screen, xoay chuyển hay box out — nhắc cầu thủ rằng việc tốt nhất thường vô hình.",
+      "Dùng một chỉ số làm mục tiêu mỗi tuần (ví dụ 'dưới 2 lần mất bóng') thay vì phán xét cả bảng số.",
+      "So cầu thủ với chính họ theo thời gian, không so với đồng đội — sự tiến bộ mới là thước đo."
+    ],
+    "commonMistakes": [
+      "Đánh giá trận đấu chỉ bằng điểm số — sửa: luôn đọc điểm số cùng với số lần ném và số lần mất bóng.",
+      "Ham rebound mà bỏ nhiệm vụ phòng thủ — sửa: một pha box out để đồng đội rebound cũng là pha bóng chiến thắng.",
+      "Bỏ qua mất bóng vì 'em đang cố tạo đột biến' — sửa: theo dõi trung thực tỉ lệ kiến tạo trên mất bóng mỗi trận.",
+      "So thống kê của mình với ngôi sao đội khác — sửa: so hiệu suất và xu hướng của bạn với chính bạn tháng trước."
+    ],
+    "gameSituations": [
+      "Xem lại sau trận — đọc bảng thống kê cùng HLV và chọn một con số để cải thiện trận tới.",
+      "Kiểm tra giờ nghỉ giữa trận — liếc qua số lần mất bóng và tỉ lệ ném của đội để điều chỉnh quyết định hiệp hai.",
+      "Tuần tuyển chọn — HLV theo dõi hiệu suất và mất bóng nhiều hơn highlight; hãy chơi vì những con số chiến thắng thầm lặng."
+    ]
+  },
+  "id": "stat-sheet-iq-players",
+  "slug": "stat-sheet-iq-players"
+}

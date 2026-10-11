@@ -1,0 +1,196 @@
+{
+  "id": "snake-pnr-technique",
+  "slug": "snake-pnr-technique",
+  "title": "Snake PNR Technique",
+  "description": "The guard dribbles around the screen, then snakes back the other way — keeping the big on his back and the defense in jail. The art of the second move.",
+  "hub": "pick-and-roll",
+  "subcategory": "pick-and-roll",
+  "level": "advanced",
+  "ages": [
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 6,
+  "dateUpdated": "2026-10-11",
+  "whatIsIt": [
+    "The 'snake' is a ball-handling technique in the pick and roll: the guard comes off the ball screen going one direction, then — instead of driving straight — dribbles back behind the screener to the other side, keeping the screener's defender on his back the whole time. The path looks like an 'S' — hence the name.",
+    "It is the counter to drop coverage. When the big drops deep to contain the drive, the guard snakes back across his face, using the drop big as a shield against his own defender. The guard stays 'in jail' — the pocket between the two defenders — but now he's probing with the big on his back, free to pull up, snake again, or hit the roller. The best PNR guards in the world live in the snake."
+  ],
+  "whyItMatters": [
+    "Drop coverage is designed to take away the rim without giving up the pull-up — it's the most common PNR defense in modern basketball. The snake is the technique that breaks it: instead of accepting the drop's terms (a contested midrange), the guard re-routes the action and keeps both defenders occupied. Learning the snake turns a good PNR guard into a great one, because it converts the defense's safest coverage into a playground. It also buys time — the snake keeps the dribble alive while the roller gets open and the weak side rotates."
+  ],
+  "howTo": [
+    {
+      "title": "Come off the screen normally",
+      "detail": "O1 uses O5's ball screen going the called direction — say, to the right. Sell the drive: two hard dribbles that force D5 (the drop big) to commit to containing."
+    },
+    {
+      "title": "Feel the drop, plant to snake",
+      "detail": "As D5 drops and D1 fights over the top, O1 plants his outside foot and pivots the dribble back — crossing behind O5's body. The key: keep the dribble low and tight; a high dribble gets picked in the snake."
+    },
+    {
+      "title": "Keep the big on your back",
+      "detail": "O1 now dribbles with D5 on his back/hip — the drop big is between O1 and D1. This is 'in jail': O1 is contained but so are the defenders. Stay patient; the advantage is coming."
+    },
+    {
+      "title": "Probe and read",
+      "detail": "From the snake position, O1 has three reads: pull up if D5 gives space, snake back the other way if D1 recovers, or hit O5 rolling when D5 turns his head. The snake is a probing action — each dribble asks the defense a question."
+    },
+    {
+      "title": "Finish the play",
+      "detail": "When the read appears, commit: the pull-up jumper in the pocket, the pocket pass to the roller, or the kick to the weak side. Don't snake forever — two direction changes maximum, then make the play."
+    }
+  ],
+  "coachingPoints": [
+    "Low dribble, always. The snake happens in traffic — a high or loose dribble is a turnover waiting to happen.",
+    "Use the big's body. The whole point is to keep D5 between you and D1 — if you dribble away from the screener, you've un-snaked yourself.",
+    "Patience in jail. Young guards panic in the pocket and pick up the dribble — teach them the snake is a safe place, not a trap.",
+    "Two snakes max. The technique buys time for reads, not for dribbling exhibitions — after two direction changes, attack.",
+    "Drill it against a live drop big. The snake can't be learned on air — the guard must feel D5's body and time the pivot off it."
+  ],
+  "commonMistakes": [
+    "Dribbling too high in traffic — fix: pound the ball low; the snake lives below the knees of the defense.",
+    "Snaking away from the screener — fix: the path wraps around the big's body; if D5 isn't on your back, you're just dribbling sideways.",
+    "Panicking and picking up the dribble — fix: trust the pocket; the snake keeps you safe — the ball only dies when you stop dribbling.",
+    "Endless snaking with no decision — fix: two-direction rule; the third move must be a shot, pass, or drive."
+  ],
+  "gameSituations": [
+    "Breaking drop coverage: the snake is THE technique against drop — it turns the coverage's patience against itself.",
+    "Late-clock PNR: when you need a good look with 8 seconds left, the snake manufactures time and space out of a dead screen.",
+    "Star guard development: every elite PNR guard has a snake — it's a non-negotiable skill for high-level ball handlers."
+  ],
+  "tags": [
+    "snake dribble",
+    "pick and roll",
+    "drop coverage",
+    "ball handling",
+    "advanced"
+  ],
+  "related": [
+    "snake-dribble",
+    "pnr-vs-drop",
+    "pocket-pass-pnr",
+    "short-roll",
+    "middle-pick-and-roll"
+  ],
+  "diagram": {
+    "title": "Snake PNR — O1 comes off the screen right, then snakes back left behind O5",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 60,
+        "y": 52
+      },
+      {
+        "label": "O5",
+        "x": 58,
+        "y": 42
+      }
+    ],
+    "defense": [
+      {
+        "label": "D1",
+        "x": 64,
+        "y": 50
+      },
+      {
+        "label": "D5",
+        "x": 58,
+        "y": 34
+      }
+    ],
+    "ball": "O1",
+    "screens": [
+      {
+        "x": 58,
+        "y": 45
+      }
+    ],
+    "moves": [
+      {
+        "from": "O5",
+        "to": "O1",
+        "kind": "screen-run"
+      },
+      {
+        "from": "O1",
+        "to": "O1",
+        "kind": "dribble"
+      },
+      {
+        "from": "O1",
+        "to": "rim",
+        "kind": "dribble"
+      }
+    ],
+    "passes": [
+      {
+        "from": "O1",
+        "to": "O5"
+      }
+    ],
+    "shots": []
+  },
+  "vi": {
+    "title": "Kỹ thuật snake trong pick and roll (snake PNR)",
+    "description": "Hậu vệ dẫn vòng qua screen rồi lách ngược lại hướng kia — giữ big sau lưng và nhốt hàng thủ. Nghệ thuật của nước đi thứ hai.",
+    "whatIsIt": [
+      "'Snake' là kỹ thuật dẫn bóng trong pick and roll: hậu vệ vòng qua ball screen theo một hướng, rồi — thay vì đột phá thẳng — dẫn ngược lại sau lưng người dựng screen sang phía bên kia, giữ hậu vệ của người dựng sau lưng mình suốt thời gian. Đường đi trông như chữ 'S' — tên gọi từ đó mà ra.",
+      "Đó là đòn phản đòn cho drop coverage. Khi big drop sâu để bịt đột phá, hậu vệ lách ngược qua mặt hắn, dùng chính big drop làm lá chắn với hậu vệ của mình. Hậu vệ ở trong 'jail' — cái túi giữa hai hậu vệ — nhưng giờ anh ta thăm dò với big sau lưng, tự do pull-up, snake tiếp, hoặc chuyền cho người roll. Các hậu vệ PNR hay nhất thế giới sống trong snake."
+    ],
+    "whyItMatters": [
+      "Drop coverage được thiết kế để bịt rổ mà không cho pull-up — đó là kiểu thủ PNR phổ biến nhất của bóng rổ hiện đại. Snake là kỹ thuật phá nó: thay vì chấp nhận điều kiện của drop (một cú midrange bị contest), hậu vệ đổi hướng miếng đánh và giữ cả hai hậu vệ bận rộn. Học snake biến hậu vệ PNR giỏi thành xuất sắc, vì nó biến coverage an toàn nhất của hàng thủ thành sân chơi. Nó còn mua thời gian — snake giữ bóng sống trong khi người roll thoát kèm và phía yếu xoay chuyển."
+    ],
+    "howTo": [
+      {
+        "title": "Vòng qua screen như bình thường",
+        "detail": "O1 dùng ball screen của O5 theo hướng đã gọi — ví dụ sang phải. Diễn pha đột phá: hai nhịp dẫn mạnh ép D5 (big drop) phải commit vào việc bịt."
+      },
+      {
+        "title": "Cảm nhận drop, trụ chân để snake",
+        "detail": "Khi D5 drop và D1 vật qua đầu screen, O1 trụ chân ngoài và xoay hướng dẫn ngược lại — vòng sau lưng O5. Mấu chốt: giữ bóng thấp và gọn; bóng cao là bị cướp trong snake."
+      },
+      {
+        "title": "Giữ big sau lưng",
+        "detail": "O1 giờ dẫn bóng với D5 ở sau lưng/hông — big drop nằm giữa O1 và D1. Đây là 'in jail': O1 bị nhốt nhưng hàng thủ cũng bị nhốt. Kiên nhẫn; lợi thế đang đến."
+      },
+      {
+        "title": "Thăm dò và đọc tình huống",
+        "detail": "Từ vị trí snake, O1 có ba cách đọc: pull-up nếu D5 cho khoảng trống, snake ngược lại nếu D1 hồi phục, hoặc chuyền cho O5 đang roll khi D5 quay đầu. Snake là miếng thăm dò — mỗi nhịp dẫn đặt cho hàng thủ một câu hỏi."
+      },
+      {
+        "title": "Kết thúc pha bóng",
+        "detail": "Khi cách đọc xuất hiện, quyết đoán: pull-up trong túi, pocket pass cho người roll, hoặc chuyền ra phía yếu. Đừng snake mãi — tối đa hai lần đổi hướng, rồi ra đòn."
+      }
+    ],
+    "coachingPoints": [
+      "Bóng thấp, luôn luôn. Snake diễn ra trong đám đông — bóng cao hoặc lỏng là pha mất bóng đang chờ.",
+      "Dùng thân người của big. Cả ý nghĩa là giữ D5 giữa bạn và D1 — dẫn xa khỏi người dựng là tự tháo snake.",
+      "Kiên nhẫn trong jail. Hậu vệ trẻ hoảng trong túi và dừng dẫn bóng — dạy họ rằng snake là nơi an toàn, không phải bẫy.",
+      "Tối đa hai snake. Kỹ thuật mua thời gian cho cách đọc, không phải để biểu diễn dẫn bóng — sau hai lần đổi hướng là tấn công.",
+      "Tập trước big drop thật. Snake không học được trên không — hậu vệ phải cảm nhận thân người D5 và căn cú pivot theo nó."
+    ],
+    "commonMistakes": [
+      "Dẫn bóng quá cao trong đám đông — sửa: đập bóng thấp; snake sống dưới đầu gối của hàng thủ.",
+      "Snake ra xa người dựng — sửa: đường đi quấn quanh thân big; D5 không ở sau lưng bạn thì bạn chỉ đang dẫn sang ngang.",
+      "Hoảng và dừng dẫn bóng — sửa: tin vào cái túi; snake giữ bạn an toàn — bóng chỉ chết khi bạn ngừng dẫn.",
+      "Snake mãi không quyết định — sửa: luật hai hướng; nước thứ ba phải là ném, chuyền hoặc đột phá."
+    ],
+    "gameSituations": [
+      "Phá drop coverage: snake là kỹ thuật SỐ MỘT trước drop — nó dùng chính sự kiên nhẫn của coverage chống lại nó.",
+      "PNR cuối đồng hồ: cần cú ném tốt khi còn 8 giây thì snake tạo ra thời gian và khoảng trống từ một screen đã chết.",
+      "Phát triển hậu vệ ngôi sao: mọi hậu vệ PNR elite đều có snake — đó là kỹ năng không thể thiếu cho người dẫn bóng đẳng cấp cao."
+    ],
+    "tags": [
+      "snake dribble",
+      "pick and roll",
+      "drop coverage",
+      "dẫn bóng",
+      "nâng cao"
+    ]
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "id": "pivot-counter-series",
+  "slug": "pivot-counter-series",
+  "title": "Pivot Counter Series",
+  "description": "Turn one pivot into three scoring options: read the defender's reaction and counter with the move they can't cover.",
+  "hub": "skills",
+  "subcategory": "footwork",
+  "level": "intermediate",
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 6,
+  "dateUpdated": "2026-10-11",
+  "whatIsIt": [
+    "A pivot counter series starts from a single pivot and branches into multiple attacks based on what the defender does. You catch the ball, establish your pivot foot, and make an initial move — a shot fake, a jab, a rip-through. The defender's reaction to that first move dictates your counter: if they bite, you go; if they stay, you shoot or drive the other way.",
+    "The series turns footwork into a decision tree. Instead of pre-deciding your move, you let the defense choose your counter for you — which means you always attack the option they just gave up."
+  ],
+  "whyItMatters": [
+    "Players who catch and immediately do one move are easy to scout and easy to stop. A pivot counter series makes you unreadable: the same catch can become a drive, a pull-up, or a step-through depending on the read. This is the difference between a player with moves and a player with answers."
+  ],
+  "howTo": [
+    {
+      "title": "Catch in an athletic stance",
+      "detail": "Catch the ball with knees bent, on balance, ready to move either way. A bad catch ruins the whole series before it starts."
+    },
+    {
+      "title": "Establish your pivot foot",
+      "detail": "Land with a clear pivot foot and keep it planted. Everything in the series rotates around this anchor — lift it and you travel."
+    },
+    {
+      "title": "Make your first move",
+      "detail": "Throw a shot fake, a jab step, or a rip-through toward your strong side. Make it convincing — a lazy first move gets no reaction to counter."
+    },
+    {
+      "title": "Read the defender's feet",
+      "detail": "Watch their response: if they jump or lunge at the fake, their weight is committed. If they stay down, they are giving you the shot."
+    },
+    {
+      "title": "Counter the reaction",
+      "detail": "If they bit, pivot and drive past their committed foot. If they stayed, pivot into your shot or jab the other way. The counter must start the instant you read them."
+    },
+    {
+      "title": "Finish under control",
+      "detail": "Whether it's a drive, a pull-up, or a step-through, finish balanced with your eyes on the rim."
+    }
+  ],
+  "coachingPoints": [
+    "Your pivot foot is sacred — drill the series slowly until you never drag or lift it under pressure.",
+    "The first move must be a real threat; defenders don't react to fakes they don't respect.",
+    "Keep the ball tight to your body through every pivot; swinging it wide invites strips.",
+    "Practice the series from both the wing and the post so the reads transfer everywhere."
+  ],
+  "commonMistakes": [
+    "Traveling on the pivot — fix: mark your pivot foot with tape in drills and check it after every rep.",
+    "Predetermining the counter — fix: have a partner call out 'bite' or 'stay' after your first move so you learn to react.",
+    "Rushing the first move — fix: hold your shot fake for a full one-count; impatience kills the read.",
+    "Losing balance on the counter pivot — fix: keep your weight centered and pivot on the ball of your foot, not flat-footed."
+  ],
+  "gameSituations": [
+    "Wing catches against a closeout — pivot into a shot fake, then counter the flying defender with a drive.",
+    "Post catches with a fronting defender — pivot and seal, then counter their overplay with a spin or drop step.",
+    "Short-corner touches — the pivot series turns a crowded catch into a quick scoring move without needing a dribble."
+  ],
+  "tags": [
+    "footwork",
+    "post-play",
+    "triple-threat"
+  ],
+  "related": [
+    "pivot",
+    "jab-step",
+    "post-positioning",
+    "shot-fake",
+    "drop-step"
+  ],
+  "diagram": {
+    "title": "O1 catches on the wing, pivots on the shot fake, and counters D1's lunge with a drive",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 70,
+        "y": 24
+      }
+    ],
+    "defense": [
+      {
+        "label": "D1",
+        "x": 67,
+        "y": 22
+      }
+    ],
+    "ball": "O1",
+    "screens": [],
+    "moves": [
+      {
+        "from": "O1",
+        "to": "O1",
+        "kind": "move"
+      },
+      {
+        "from": "O1",
+        "to": "rim",
+        "kind": "move"
+      }
+    ],
+    "passes": [],
+    "shots": []
+  },
+  "vi": {
+    "title": "Chuỗi pivot phản công (pivot counter series)",
+    "description": "Biến một pha pivot thành ba lựa chọn ghi điểm: đọc phản ứng của hậu vệ và phản công bằng động tác họ không cover nổi.",
+    "whatIsIt": [
+      "Pivot counter series bắt đầu từ một pha pivot duy nhất và rẽ thành nhiều hướng tấn công dựa trên hành động của hậu vệ. Bạn bắt bóng, xác lập chân trụ, và thực hiện động tác đầu — một pha giả ném, một cú jab, một pha rip-through. Phản ứng của hậu vệ trước động tác đầu quyết định đòn phản công của bạn: nếu họ cắn câu, bạn đi; nếu họ đứng yên, bạn ném hoặc đâm sang hướng còn lại.",
+      "Chuỗi biến bộ chân thành một cây quyết định. Thay vì định sẵn động tác, bạn để hàng thủ chọn đòn phản công cho mình — nghĩa là bạn luôn tấn công vào lựa chọn mà họ vừa bỏ trống."
+    ],
+    "whyItMatters": [
+      "Cầu thủ bắt bóng rồi làm ngay một động tác thì dễ bị bắt bài và dễ bị chặn. Pivot counter series khiến bạn không thể đoán trước: cùng một pha bắt bóng có thể thành pha đâm, pull-up, hoặc step-through tùy tình huống. Đó là khác biệt giữa cầu thủ có động tác và cầu thủ có câu trả lời."
+    ],
+    "howTo": [
+      {
+        "title": "Bắt bóng ở tư thế sẵn sàng",
+        "detail": "Bắt bóng với gối cong, thăng bằng, sẵn sàng di chuyển cả hai hướng. Một pha bắt bóng tệ phá hỏng cả chuỗi ngay từ đầu."
+      },
+      {
+        "title": "Xác lập chân trụ",
+        "detail": "Tiếp đất với chân trụ rõ ràng và giữ nó dính sàn. Mọi thứ trong chuỗi xoay quanh điểm neo này — nhấc nó lên là lỗi chạy bước."
+      },
+      {
+        "title": "Thực hiện động tác đầu",
+        "detail": "Tung một pha giả ném, jab step, hoặc rip-through về phía tay thuận. Diễn cho thật — động tác đầu hời hợt không khiến ai phản ứng để mà phản công."
+      },
+      {
+        "title": "Đọc chân hậu vệ",
+        "detail": "Quan sát phản ứng của họ: nếu họ nhảy hoặc lao vào pha giả, trọng tâm họ đã dồn. Nếu họ đứng yên, họ đang nhường cho bạn cú ném."
+      },
+      {
+        "title": "Phản công theo phản ứng",
+        "detail": "Nếu họ cắn câu, pivot và đâm qua chân họ vừa dồn trọng tâm. Nếu họ đứng yên, pivot vào tư thế ném hoặc jab sang hướng còn lại. Đòn phản công phải bắt đầu ngay khi bạn đọc được họ."
+      },
+      {
+        "title": "Kết thúc có kiểm soát",
+        "detail": "Dù là pha đâm, pull-up hay step-through, kết thúc thăng bằng với mắt nhìn rổ."
+      }
+    ],
+    "coachingPoints": [
+      "Chân trụ là thiêng liêng — tập chuỗi thật chậm cho đến khi bạn không bao giờ rê hay nhấc nó dưới áp lực.",
+      "Động tác đầu phải là mối đe dọa thật; hậu vệ không phản ứng với pha giả mà họ không coi trọng.",
+      "Giữ bóng sát người suốt mọi pha pivot; vung bóng rộng là mời bị móc.",
+      "Tập chuỗi cả ở cánh và ở post để khả năng đọc tình huống dùng được mọi nơi."
+    ],
+    "commonMistakes": [
+      "Lỗi chạy bước khi pivot — sửa: dán băng dính đánh dấu chân trụ khi tập và kiểm tra sau mỗi lần.",
+      "Định sẵn đòn phản công — sửa: nhờ bạn tập hô 'cắn' hoặc 'đứng' sau động tác đầu để học phản ứng.",
+      "Vội động tác đầu — sửa: giữ pha giả ném đủ một nhịp; nóng vội giết chết khả năng đọc tình huống.",
+      "Mất thăng bằng khi pivot phản công — sửa: giữ trọng tâm ở giữa và pivot trên mũi bàn chân, không phải cả bàn chân."
+    ],
+    "gameSituations": [
+      "Bắt bóng ở cánh trước người closeout — pivot vào pha giả ném, rồi phản công hậu vệ đang lao tới bằng một pha đâm.",
+      "Bắt bóng ở post trước hậu vệ fronting — pivot và tỳ người, rồi phản công pha lấn quá đà bằng spin hoặc drop step.",
+      "Chạm bóng ở góc hẹp — pivot series biến một pha bắt bóng đông đúc thành động tác ghi điểm nhanh mà không cần dribble."
+    ],
+    "tags": [
+      "bộ chân",
+      "đánh post",
+      "phản công"
+    ]
+  }
+}

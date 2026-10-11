@@ -1,0 +1,222 @@
+{
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "coachingPoints": [
+    "The middle is sacred — the interceptor's only job is to make the middle pass impossible, even if it means leaving his area.",
+    "Trap at the sideline, never in the middle. The boundary line is what makes a 2-man trap work against 5 players.",
+    "Back-line players must see ball and man. If you stare at your man, the press is beaten over your head.",
+    "Teach the sprint-back first. A press that cannot recover is just a fast-break drill for the other team.",
+    "Condition it: run the 1-2-2 in practice until the second line's trap timing is automatic — hesitation is what breaks presses."
+  ],
+  "commonMistakes": [
+    "D1 letting the first dribble go middle — fix: D1's chest must force the sideline from the first touch; middle is death.",
+    "The interceptor chasing the ball instead of sitting middle — fix: tape an X at the midcourt circle; the interceptor owns it.",
+    "Back line creeping up and giving up the deep ball — fix: D4/D5 never cross the frontcourt three-point line until the ball is trapped.",
+    "Everyone trapping and nobody rotating — fix: only the two assigned trappers trap; the other three have coverage jobs."
+  ],
+  "dateUpdated": "2026-10-11",
+  "description": "The classic 1-2-2 press: setup, trap triggers, middle defender's role, and how the back line prevents the easy basket.",
+  "gameSituations": [
+    "After your own made baskets — the press sets up cleanly while the offense is still organizing the inbound.",
+    "Against teams with one primary ball handler — trap him every trip and force the secondary handler to advance the ball.",
+    "Late in close games when you need stops — a made basket plus a 1-2-2 look creates back-to-back pressure possessions.",
+    "Versus slow, methodical half-court teams — speed the game up and make them play at your tempo."
+  ],
+  "howTo": [
+    {
+      "title": "Set the 1-2-2 shape",
+      "detail": "D1 picks up the inbounder or the ball at the free-throw line extended. D2 and D3 align at the elbows of the press (around the three-point line of the backcourt). D4 and D5 drop to just inside the frontcourt, splitting the floor. Everyone sees the ball."
+    },
+    {
+      "title": "Force to a sideline",
+      "detail": "D1 pressures the ball handler toward one sideline — never let the first dribble go middle. D2/D3 shade to cut off the middle lane, forming a funnel that only leaves the sideline open."
+    },
+    {
+      "title": "Spring the trap at half court",
+      "detail": "When the dribbler approaches midcourt along the sideline, the second-line defender on that side sprints to trap with D1. The trap triggers at the sideline — the boundary is the third defender."
+    },
+    {
+      "title": "Seal the middle",
+      "detail": "The opposite second-line defender drops to the middle of the floor and becomes the interceptor. This is the most important job in the press: one middle pass beats all five defenders, so the interceptor denies it at all costs."
+    },
+    {
+      "title": "Rotate the back line",
+      "detail": "D4 and D5 sink toward the paint, taking the two most dangerous receivers — usually the deep post and the opposite wing. They stay between their man and the basket, ready to sprint back if the ball gets over the top."
+    },
+    {
+      "title": "Recover or re-press",
+      "detail": "If the ball beats the press, all five sprint back to the paint and match up — no jogging. If the ball is trapped successfully and reversed, the press resets: D1 chases, the lines reform, and you trap again on the other side."
+    }
+  ],
+  "hub": "defense",
+  "id": "one-two-two-press",
+  "level": "intermediate",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 7,
+  "related": [
+    "full-court-press",
+    "zone-2-3",
+    "transition-defense",
+    "outlet-passing",
+    "help-defense"
+  ],
+  "slug": "one-two-two-press",
+  "subcategory": "defensive-systems",
+  "tags": [
+    "press",
+    "full-court defense",
+    "trap",
+    "turnovers",
+    "team defense"
+  ],
+  "title": "1-2-2 Full-Court Press",
+  "vi": {
+    "coachingPoints": [
+      "Khu vực giữa là bất khả xâm phạm — nhiệm vụ duy nhất của người chặn đường chuyền là khiến đường chuyền giữa sân bất khả thi, dù phải bỏ vị trí của mình.",
+      "Bẫy ở biên, không bao giờ bẫy giữa sân. Đường biên chính là thứ giúp bẫy 2 người chống lại 5 người.",
+      "Hàng sau phải nhìn được cả bóng lẫn người. Nếu chỉ nhìn người kèm, press sẽ bị đánh bại bằng đường chuyền qua đầu.",
+      "Dạy chạy về trước. Press mà không thu hồi được chỉ là bài tập phản công nhanh cho đối phương.",
+      "Rèn thể lực cho nó: chạy 1-2-2 trong buổi tập đến khi thời điểm bẫy của hàng thứ hai thành phản xạ — chần chừ là thứ phá hỏng press."
+    ],
+    "commonMistakes": [
+      "D1 để pha dẫn bóng đầu tiên đi vào giữa — sửa: ngực của D1 phải ép bóng ra biên từ chạm bóng đầu tiên; vào giữa là chết.",
+      "Người chặn đường chuyền đuổi theo bóng thay vì giữ giữa — sửa: dán chữ X ở vòng tròn giữa sân; người này làm chủ nó.",
+      "Hàng sau dâng cao và để lọt đường chuyền sâu — sửa: D4/D5 không bao giờ qua vạch 3 điểm phần sân đối phương cho đến khi bẫy đã giăng.",
+      "Ai cũng bẫy mà không ai xoay chuyển — sửa: chỉ hai người được phân công mới bẫy; ba người còn lại có nhiệm vụ bọc lót."
+    ],
+    "description": "Press 1-2-2 kinh điển: cách xếp đội hình, điểm kích hoạt bẫy, vai trò của cầu thủ giữa, và cách hàng sau ngăn pha ghi điểm dễ.",
+    "gameSituations": [
+      "Sau pha ghi điểm của đội mình — press xếp đội hình gọn gàng trong lúc đối phương còn đang tổ chức ném biên.",
+      "Gặp đội chỉ có một người dẫn bóng chính — bẫy anh ta mọi pha và ép người xử lý bóng thứ hai phải đưa bóng lên.",
+      "Cuối trận đấu sát nút khi cần những pha phòng thủ — một pha ghi điểm cộng một lượt 1-2-2 tạo ra những pha bóng áp lực liên tiếp.",
+      "Gặp đội đánh nửa sân chậm rãi, có phương pháp — đẩy nhanh nhịp trận đấu và bắt họ chơi theo tempo của bạn."
+    ],
+    "howTo": [
+      {
+        "title": "Xếp đội hình 1-2-2",
+        "detail": "D1 kèm người ném biên hoặc kèm bóng ở ngang vạch ném phạt kéo dài. D2 và D3 đứng ở vị trí elbow của press (quanh vạch 3 điểm sân nhà). D4 và D5 lùi xuống ngay trong phần sân đối phương, chia đôi mặt sân. Mọi người đều nhìn thấy bóng."
+      },
+      {
+        "title": "Ép bóng ra một biên",
+        "detail": "D1 gây áp lực ép người dẫn bóng về một bên biên — không bao giờ để pha dẫn bóng đầu tiên đi vào giữa. D2/D3 nghiêng người chặn đường giữa, tạo thành cái phễu chỉ chừa đường biên."
+      },
+      {
+        "title": "Giăng bẫy ở giữa sân",
+        "detail": "Khi người dẫn bóng tiến đến vạch giữa sân dọc biên, cầu thủ hàng thứ hai bên đó lao lên bẫy cùng D1. Bẫy kích hoạt ở biên — đường biên chính là cầu thủ phòng thủ thứ ba."
+      },
+      {
+        "title": "Bịt kín khu vực giữa",
+        "detail": "Cầu thủ hàng thứ hai bên đối diện lùi về giữa sân và trở thành người chặn đường chuyền. Đây là nhiệm vụ quan trọng nhất trong press: một đường chuyền giữa sân đánh bại cả năm cầu thủ, nên người này phải chặn nó bằng mọi giá."
+      },
+      {
+        "title": "Xoay hàng sau",
+        "detail": "D4 và D5 lùi về khu vực dưới rổ, kèm hai người nhận bóng nguy hiểm nhất — thường là post sâu và cánh đối diện. Họ đứng giữa người kèm và rổ, sẵn sàng chạy về nếu bóng vượt qua đầu."
+      },
+      {
+        "title": "Thu hồi hoặc press lại",
+        "detail": "Nếu bóng vượt qua press, cả năm người chạy nhanh về khu vực dưới rổ rồi kèm người — không được chạy lững thững. Nếu bẫy thành công và bóng bị trả ngược, press thiết lập lại: D1 đuổi theo, các hàng tái lập, và bẫy tiếp ở phía bên kia."
+      }
+    ],
+    "tags": [
+      "press",
+      "phòng thủ toàn sân",
+      "bẫy",
+      "cướp bóng",
+      "phòng thủ đồng đội"
+    ],
+    "title": "Press 1-2-2 toàn sân",
+    "whatIsIt": [
+      "Press 1-2-2 là một trong những kiểu phòng thủ toàn sân lâu đời và đáng tin cậy nhất: một cầu thủ gây áp lực lên bóng ở trên, hai cầu thủ tạo thành hàng thứ hai, và hai cầu thủ bảo vệ phía sau. Nó trông như zone 2-3 kéo dài cả sân — dễ dạy, khó phá khi khu vực giữa đã bị bịt kín.",
+      "Vũ khí thực sự của nó là pha bẫy ở giữa sân. Hàng thứ hai ép bóng ra biên, và ngay khi người dẫn bóng qua vạch giữa sân dọc biên, cầu thủ hàng thứ hai bên đó và hậu vệ lùi về sẽ giăng bẫy — với hàng sau đã xoay chuyển bịt sẵn các đường chuyền."
+    ],
+    "whyItMatters": [
+      "Với các đội trẻ và phong trào, 1-2-2 mang lại áp lực toàn sân mà không hỗn loạn như press kèm người. Cầu thủ giữ nhiệm vụ zone, các rotation dạy được trong một buổi tập, và nó ép đối phương phải thắng bạn bằng những đường chuyền dài chính xác trong lúc mệt — cú chuyền mà hầu hết các đội không làm được hai lần liên tiếp."
+    ]
+  },
+  "whatIsIt": [
+    "The 1-2-2 press is one of the oldest and most reliable full-court defenses: one defender pressures the ball up top, two defenders form the second line, and two defenders protect the back. It looks like a 2-3 zone stretched across the full court — simple to teach, hard to break when the middle is sealed.",
+    "Its real weapon is the trap at half court. The second line funnels the ball to the sideline, and the moment the dribbler crosses midcourt toward the sideline, the second-line defender and the retreating guard spring a trap — with the back line already rotated to cover the lanes."
+  ],
+  "whyItMatters": [
+    "For youth and amateur teams, the 1-2-2 gives you full-court pressure without the chaos of man-to-man pressing. Players keep zone responsibilities, the rotations are teachable in one practice, and it forces opponents to beat you with precise long passes under fatigue — a shot most teams cannot make twice in a row."
+  ],
+  "diagram": {
+    "title": "1-2-2 press shape — D1 forces sideline, second line funnels",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 58,
+        "y": 88
+      },
+      {
+        "label": "O2",
+        "x": 30,
+        "y": 82
+      },
+      {
+        "label": "O3",
+        "x": 74,
+        "y": 78
+      },
+      {
+        "label": "O4",
+        "x": 44,
+        "y": 66
+      },
+      {
+        "label": "O5",
+        "x": 60,
+        "y": 60
+      }
+    ],
+    "defense": [
+      {
+        "label": "D1",
+        "x": 56,
+        "y": 86
+      },
+      {
+        "label": "D2",
+        "x": 36,
+        "y": 68
+      },
+      {
+        "label": "D3",
+        "x": 68,
+        "y": 68
+      },
+      {
+        "label": "D4",
+        "x": 36,
+        "y": 46
+      },
+      {
+        "label": "D5",
+        "x": 64,
+        "y": 46
+      }
+    ],
+    "ball": "O1",
+    "screens": [],
+    "moves": [
+      {
+        "from": "D1",
+        "to": "O1",
+        "kind": "move"
+      },
+      {
+        "from": "D3",
+        "to": "O1",
+        "kind": "move"
+      }
+    ],
+    "passes": [],
+    "shots": []
+  }
+}

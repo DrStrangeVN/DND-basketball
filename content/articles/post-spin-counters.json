@@ -1,0 +1,179 @@
+{
+  "id": "post-spin-counters",
+  "slug": "post-spin-counters",
+  "title": "Post Spin Counters",
+  "description": "Spin baseline, spin middle, then counter whatever the defense takes away — the complete post spin package.",
+  "hub": "skills",
+  "subcategory": "footwork",
+  "level": "advanced",
+  "ages": [
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "Forward",
+    "Center"
+  ],
+  "readTime": 6,
+  "dateUpdated": "2026-10-11",
+  "whatIsIt": [
+    "The post spin is a 180-degree pivot turn that gets you from a back-to-the-basket position to facing the rim in one motion. Post spin counters build the full package around it: spin baseline when the middle is crowded, spin middle when the baseline is sealed, and counter back the other way when the defense overplays your first spin.",
+    "The spin works because it uses the defender's own pressure against them. They lean on your back to hold position; when you spin, that lean becomes their imbalance, and you're already past them."
+  ],
+  "whyItMatters": [
+    "The spin move is the most efficient scoring move in the post — one pivot, and you're at the rim. But a single spin gets scouted fast. Counters make the spin a system instead of a trick: the defense has to honor both directions, which means they can't fully commit to either, which means one of them is always open."
+  ],
+  "howTo": [
+    {
+      "title": "Catch and feel the defender",
+      "detail": "Catch on the block with a low, wide base. Bump the defender to feel their weight — spinning works best when they're leaning into you."
+    },
+    {
+      "title": "Choose your spin direction",
+      "detail": "If the defender overplays the baseline side, spin middle. If help is waiting in the middle, spin baseline. Read before you move."
+    },
+    {
+      "title": "Plant your pivot foot",
+      "detail": "Establish a firm pivot foot near the defender's lead foot. This foot is your axis — everything rotates around it."
+    },
+    {
+      "title": "Spin hard and tight",
+      "detail": "Swing your other foot in a tight arc around your pivot, keeping your body close to the defender. A wide spin gives them room to recover."
+    },
+    {
+      "title": "Keep the ball high and protected",
+      "detail": "Chin the ball or keep it above your shoulders through the spin. Dropping it low during the turn is how post spins get stripped."
+    },
+    {
+      "title": "Counter the overplay",
+      "detail": "If the defender jumps your first spin direction, plant off the spin and pivot back the other way — the counter-spin. Finish at the rim before the help arrives."
+    }
+  ],
+  "coachingPoints": [
+    "The spin must be explosive — a slow spin lets the defender simply turn with you.",
+    "Stay low through the whole turn; standing up mid-spin kills your balance and your finish.",
+    "Spin into the defender's body, not away from it — contact is what seals them behind you.",
+    "Always finish the spin with your eyes finding the rim early; late eyes mean rushed finishes."
+  ],
+  "commonMistakes": [
+    "Spinning with the ball low — fix: keep the ball chinned from catch through finish; never let it drop to your waist.",
+    "Spinning away from contact — fix: initiate the spin by bumping the defender first, then turning off that contact.",
+    "Predetermining the spin direction — fix: have a coach point baseline or middle after your catch so you spin on read.",
+    "Traveling on the counter-spin — fix: the counter is a new pivot on the same pivot foot; drill it slowly until the footwork is clean."
+  ],
+  "gameSituations": [
+    "Sealed deep on the block — one spin from 2 meters out is the quickest path to a layup in the post.",
+    "Against an aggressive front — when the defender leans hard into your back, the spin turns their pressure into your advantage.",
+    "Drawing the help — a baseline spin forces the weak-side help to commit, opening the dump-off pass."
+  ],
+  "tags": [
+    "footwork",
+    "post-play",
+    "counters"
+  ],
+  "related": [
+    "spin-move",
+    "drop-step",
+    "contact-finishing",
+    "power-finish",
+    "defending-the-post"
+  ],
+  "diagram": {
+    "title": "O1 spins baseline off D1's pressure and finishes at the rim before D2 helps",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 33,
+        "y": 12
+      }
+    ],
+    "defense": [
+      {
+        "label": "D1",
+        "x": 36,
+        "y": 12
+      },
+      {
+        "label": "D2",
+        "x": 48,
+        "y": 16
+      }
+    ],
+    "ball": "O1",
+    "screens": [],
+    "moves": [
+      {
+        "from": "O1",
+        "to": "O1",
+        "kind": "move"
+      },
+      {
+        "from": "O1",
+        "to": "rim",
+        "kind": "move"
+      }
+    ],
+    "passes": [],
+    "shots": []
+  },
+  "vi": {
+    "title": "Chuỗi spin move phản công trong post",
+    "description": "Spin về biên, spin về giữa, rồi phản công bất cứ hướng nào hàng thủ lấy mất — gói spin post hoàn chỉnh.",
+    "whatIsIt": [
+      "Post spin là một pha pivot xoay 180 độ đưa bạn từ tư thế quay lưng về rổ thành đối mặt với rổ trong một chuyển động. Các đòn phản công từ post spin xây dựng gói hoàn chỉnh quanh nó: spin về biên khi giữa đông đúc, spin về giữa khi biên bị khóa, và phản công ngược lại khi hàng thủ chặn quá đà hướng spin đầu của bạn.",
+      "Pha spin hiệu quả vì nó dùng chính áp lực của hậu vệ chống lại họ. Họ tỳ vào lưng bạn để giữ vị trí; khi bạn spin, cú tỳ đó thành ra mất thăng bằng của họ, và bạn đã vượt qua họ."
+    ],
+    "whyItMatters": [
+      "Spin move là động tác ghi điểm hiệu quả nhất trong post — một pha pivot là bạn đã ở rổ. Nhưng một pha spin đơn lẻ bị bắt bài rất nhanh. Các đòn phản công biến spin thành một hệ thống thay vì một mánh khóe: hàng thủ phải tôn trọng cả hai hướng, nghĩa là họ không thể dồn toàn lực vào hướng nào, nghĩa là luôn có một hướng mở."
+    ],
+    "howTo": [
+      {
+        "title": "Bắt bóng và cảm nhận hậu vệ",
+        "detail": "Bắt bóng ở block với tư thế thấp, rộng. Tỳ vào hậu vệ để cảm nhận trọng tâm họ — spin hiệu quả nhất khi họ đang tỳ vào bạn."
+      },
+      {
+        "title": "Chọn hướng spin",
+        "detail": "Nếu hậu vệ chặn quá đà phía biên, spin về giữa. Nếu người hỗ trợ đang chờ ở giữa, spin về biên. Đọc trước khi di chuyển."
+      },
+      {
+        "title": "Dậm chân trụ",
+        "detail": "Xác lập chân trụ chắc gần chân trước của hậu vệ. Chân này là trục xoay — mọi thứ quay quanh nó."
+      },
+      {
+        "title": "Spin mạnh và gọn",
+        "detail": "Quét chân còn lại theo vòng cung hẹp quanh chân trụ, giữ cơ thể sát hậu vệ. Spin rộng là cho họ khoảng trống hồi phục."
+      },
+      {
+        "title": "Giữ bóng cao và được che chắn",
+        "detail": "Kẹp bóng ngang cằm hoặc giữ trên vai suốt pha spin. Hạ bóng thấp khi xoay là cách các pha spin ở post bị móc mất."
+      },
+      {
+        "title": "Phản công pha chặn quá đà",
+        "detail": "Nếu hậu vệ nhảy theo hướng spin đầu của bạn, dậm chân khỏi pha spin và pivot ngược lại — counter-spin. Kết thúc ở rổ trước khi người hỗ trợ đến."
+      }
+    ],
+    "coachingPoints": [
+      "Pha spin phải bùng nổ — spin chậm là để hậu vệ đơn giản xoay theo bạn.",
+      "Giữ thấp suốt cả pha xoay; đứng thẳng giữa chừng là giết thăng bằng và pha kết thúc.",
+      "Spin tỳ vào người hậu vệ, không phải tránh ra — va chạm là thứ khóa họ sau lưng bạn.",
+      "Luôn kết thúc pha spin với mắt tìm rổ sớm; mắt đến muộn nghĩa là pha kết thúc vội vàng."
+    ],
+    "commonMistakes": [
+      "Spin với bóng thấp — sửa: giữ bóng kẹp ngang cằm từ lúc bắt đến lúc kết thúc; không bao giờ để nó rơi xuống hông.",
+      "Spin tránh va chạm — sửa: bắt đầu pha spin bằng cách tỳ vào hậu vệ trước, rồi xoay khỏi cú tỳ đó.",
+      "Định sẵn hướng spin — sửa: nhờ HLV chỉ biên hoặc giữa sau khi bạn bắt bóng để spin theo tình huống.",
+      "Lỗi chạy bước khi counter-spin — sửa: đòn phản công là một pha pivot mới trên cùng chân trụ; tập chậm đến khi bộ chân sạch."
+    ],
+    "gameSituations": [
+      "Bị tỳ sâu ở block — một pha spin từ khoảng 2m là con đường nhanh nhất tới layup trong post.",
+      "Trước pha front hung hăng — khi hậu vệ tỳ mạnh vào lưng bạn, spin biến áp lực của họ thành lợi thế của bạn.",
+      "Kéo người hỗ trợ — một pha spin về biên buộc người hỗ trợ phía yếu phải dồn vào, mở ra đường chuyền dump-off."
+    ],
+    "tags": [
+      "bộ chân",
+      "đánh post",
+      "phản công"
+    ]
+  }
+}

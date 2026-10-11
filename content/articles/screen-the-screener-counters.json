@@ -1,0 +1,219 @@
+{
+  "id": "screen-the-screener-counters",
+  "slug": "screen-the-screener-counters",
+  "title": "Screen-the-Screener Counters",
+  "description": "When the defense takes away your screen-the-screener action, hit them with the counters: the slip, the re-screen, the ghost, and the throwback.",
+  "hub": "offense",
+  "subcategory": "off-ball-screening",
+  "level": "advanced",
+  "ages": [
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 6,
+  "dateUpdated": "2026-10-11",
+  "whatIsIt": [
+    "Screen-the-screener (STS) is the classic elevator-doors-style action: one player screens for a teammate, then immediately gets a screen himself. Defenses have answers for it — they switch it, they hedge the second screen, they top-lock the shooter. The counters are your answers to their answers.",
+    "There are four main counters. The slip: the second screener slips before the screen when his defender cheats. The re-screen: when the defense goes under, the screener sets it again at a new angle. The ghost: the screener fakes the screen and slips into space. The throwback: when the defense traps the action, the ball goes back to the screener popping open. Together they form a complete counter system — the defense cannot take away the action without giving up one of the counters."
+  ],
+  "whyItMatters": [
+    "Good defenses scout your best actions and take them away — that is their job. If your screen-the-screener has no counters, one good scouting report kills your best shooter action for a whole series. Counters are what make an action playoff-proof: the defense adjusts, you counter, they adjust again, and eventually they run out of answers. Advanced teams don't just run actions — they run action systems with built-in counters, and STS is the perfect action to build that habit around."
+  ],
+  "howTo": [
+    {
+      "title": "Run the base screen-the-screener",
+      "detail": "O2 screens for O3 (the shooter), then O4 screens for O2 — the screener gets screened. Run it honestly first; the counters only work after the defense has committed to stopping the base action."
+    },
+    {
+      "title": "Counter 1 — the slip",
+      "detail": "If D4 (defending the second screener) jumps out early to blow up the second screen, O4 slips — cuts to the rim before making contact. O1 hits him with the pocket pass or lob. The earlier the defender cheats, the more open the slip."
+    },
+    {
+      "title": "Counter 2 — the re-screen",
+      "detail": "If the defense goes under the second screen or the first screen was soft, O4 sets it again — same action, new angle, one step over. The re-screen catches defenders relaxing after surviving the first one."
+    },
+    {
+      "title": "Counter 3 — the ghost",
+      "detail": "If D2 starts switching everything, O2 ghosts the first screen — fakes toward the screener and slips into the open space the switch vacated. The ball handler hits the ghost for a jumper or a drive."
+    },
+    {
+      "title": "Counter 4 — the throwback",
+      "detail": "If the defense traps or blitzes the second screen, the ball handler throws it back to O4, who pops to the open space. A trapping defense leaves someone open by definition — the throwback finds him."
+    },
+    {
+      "title": "Chain the counters",
+      "detail": "The real mastery: counter the counter. If they stop cheating the slip by staying home, run the base action again — it's open now. STS becomes a chess match where you always move second."
+    }
+  ],
+  "coachingPoints": [
+    "Run the base action until they stop it. Counters are answers — don't show the answer before the defense asks the question.",
+    "Each counter punishes a specific mistake. Teach players to match the counter to the read: cheat = slip, under = re-screen, switch = ghost, trap = throwback.",
+    "The ball handler is the quarterback. He must read the second screener's defender, not just run the pattern — drill his eyes, not his feet.",
+    "Timing beats speed. Every counter works because it arrives a half-second before the defense expects it — practice the timing, not just the movement.",
+    "Film the counters. Players learn counters fastest by watching when the read was there and they missed it."
+  ],
+  "commonMistakes": [
+    "Running counters before the defense adjusts — fix: the base action must be a real threat first; counters without a base are just random movement.",
+    "Slipping when nobody cheated — fix: the slip needs a trigger (the defender's early jump); no trigger, no slip.",
+    "Ghosting into a crowded space — fix: the ghost goes where the switch vacated, not where the ball handler wishes it were; read the floor.",
+    "Ball handler predetermines the counter — fix: he must read D4 live; a predetermined counter is just a called play the defense can sit on."
+  ],
+  "gameSituations": [
+    "Playoff series adjustments: Game 1 they take away your STS — Games 2 and 3 you live on the counters.",
+    "Against switching defenses: the ghost counter turns their switch into your open jumper — the more they switch, the more it works.",
+    "Late-clock bailout: when the base action is covered with 8 seconds left, the slip is the fastest way to manufacture a layup."
+  ],
+  "tags": [
+    "screen the screener",
+    "counters",
+    "off-ball screen",
+    "advanced offense",
+    "screening"
+  ],
+  "related": [
+    "screen-the-screener",
+    "ghost-screen",
+    "slip-screen",
+    "stagger-screen",
+    "hammer-action"
+  ],
+  "diagram": {
+    "title": "STS counter — the slip: O4 slips the second screen as D4 cheats out early",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 55
+      },
+      {
+        "label": "O2",
+        "x": 30,
+        "y": 40
+      },
+      {
+        "label": "O3",
+        "x": 15,
+        "y": 25
+      },
+      {
+        "label": "O4",
+        "x": 45,
+        "y": 35
+      }
+    ],
+    "defense": [
+      {
+        "label": "D1",
+        "x": 50,
+        "y": 50
+      },
+      {
+        "label": "D2",
+        "x": 30,
+        "y": 45
+      },
+      {
+        "label": "D3",
+        "x": 18,
+        "y": 28
+      },
+      {
+        "label": "D4",
+        "x": 48,
+        "y": 38
+      }
+    ],
+    "ball": "O1",
+    "screens": [
+      {
+        "x": 32,
+        "y": 42
+      }
+    ],
+    "moves": [
+      {
+        "from": "O2",
+        "to": "O3",
+        "kind": "screen-run"
+      },
+      {
+        "from": "O4",
+        "to": "rim",
+        "kind": "cut"
+      }
+    ],
+    "passes": [
+      {
+        "from": "O1",
+        "to": "O4"
+      }
+    ],
+    "shots": []
+  },
+  "vi": {
+    "title": "Các đòn phản đòn screen-the-screener (screen-the-screener counters)",
+    "description": "Khi hàng thủ bít miếng screen-the-screener của bạn, đáp trả bằng các đòn phản đòn: slip, dựng lại screen, ghost và throwback.",
+    "whatIsIt": [
+      "Screen-the-screener (STS) là miếng kinh điển kiểu elevator doors: một cầu thủ screen cho đồng đội, rồi ngay lập tức được screen lại. Hàng thủ có đáp án cho nó — switch, hedge screen thứ hai, top-lock tay ném. Các đòn phản đòn là đáp án của bạn cho đáp án của họ.",
+      "Có bốn đòn phản đòn chính. Slip: người dựng thứ hai lẻn trước khi screen khi hậu vệ của anh ta gian lận. Re-screen: hàng thủ luồn dưới thì người dựng dựng lại ở góc mới. Ghost: người dựng giả screen rồi lẻn vào khoảng trống. Throwback: hàng thủ trap miếng đánh thì bóng quay về cho người dựng đang pop trống. Gộp lại thành một hệ thống phản đòn hoàn chỉnh — hàng thủ không thể bít miếng đánh mà không để hở một đòn phản đòn."
+    ],
+    "whyItMatters": [
+      "Hàng thủ giỏi scout miếng hay nhất của bạn và bít nó — đó là việc của họ. Nếu screen-the-screener của bạn không có đòn phản đòn, một scouting report tốt giết chết miếng đánh cho tay ném hay nhất của bạn cả series. Đòn phản đòn là thứ khiến miếng đánh miễn nhiễm playoff: hàng thủ điều chỉnh, bạn phản đòn, họ điều chỉnh tiếp, rồi họ hết đáp án. Đội trình độ cao không chỉ chạy miếng đánh — họ chạy hệ thống miếng đánh với đòn phản đòn tích hợp, và STS là miếng hoàn hảo để xây thói quen đó."
+    ],
+    "howTo": [
+      {
+        "title": "Chạy screen-the-screener cơ bản",
+        "detail": "O2 screen cho O3 (tay ném), rồi O4 screen cho O2 — người dựng được screen lại. Chạy thật trước; các đòn phản đòn chỉ hiệu quả sau khi hàng thủ đã commit vào việc chặn miếng cơ bản."
+      },
+      {
+        "title": "Phản đòn 1 — slip",
+        "detail": "D4 (kèm người dựng thứ hai) mà lao ra sớm để phá screen thứ hai thì O4 slip — cắt vào rổ trước khi va chạm. O1 chuyền pocket pass hoặc bổng cho anh ta. Hậu vệ gian lận càng sớm, slip càng trống."
+      },
+      {
+        "title": "Phản đòn 2 — dựng lại screen",
+        "detail": "Hàng thủ luồn dưới screen thứ hai hoặc screen đầu mềm thì O4 dựng lại — cùng miếng đánh, góc mới, lệch một bước. Re-screen bắt hậu vệ đúng lúc họ vừa thở phào sau khi qua được screen đầu."
+      },
+      {
+        "title": "Phản đòn 3 — ghost",
+        "detail": "D2 mà switch mọi thứ thì O2 ghost screen đầu — giả vờ đi về phía người dựng rồi lẻn vào khoảng trống mà switch để lại. Người cầm bóng chuyền cho ghost để ném hoặc đột phá."
+      },
+      {
+        "title": "Phản đòn 4 — throwback",
+        "detail": "Hàng thủ trap hoặc blitz screen thứ hai thì người cầm bóng chuyền ngược về cho O4, người đang pop ra chỗ trống. Hàng thủ trap theo định nghĩa là để hở một người — throwback tìm ra người đó."
+      },
+      {
+        "title": "Nối các đòn phản đòn",
+        "detail": "Đỉnh cao thật sự: phản đòn của phản đòn. Họ ngừng gian lận slip bằng cách đứng yên thì chạy lại miếng cơ bản — giờ nó trống. STS thành một ván cờ mà bạn luôn đi sau một nước."
+      }
+    ],
+    "coachingPoints": [
+      "Chạy miếng cơ bản đến khi họ chặn được. Đòn phản đòn là đáp án — đừng cho xem đáp án trước khi hàng thủ đặt câu hỏi.",
+      "Mỗi đòn phản đòn trừng phạt một lỗi cụ thể. Dạy cầu thủ ghép đòn với cách đọc: gian lận = slip, luồn dưới = re-screen, switch = ghost, trap = throwback.",
+      "Người cầm bóng là tiền vệ. Anh ta phải đọc hậu vệ của người dựng thứ hai, không chỉ chạy theo mẫu — tập mắt anh ta, không phải chân.",
+      "Timing thắng tốc độ. Mọi đòn phản đòn hiệu quả vì nó đến sớm nửa giây so với dự đoán của hàng thủ — tập timing, không chỉ tập di chuyển.",
+      "Xem lại video các đòn phản đòn. Cầu thủ học phản đòn nhanh nhất bằng cách xem lúc cách đọc đã có mà mình bỏ lỡ."
+    ],
+    "commonMistakes": [
+      "Chạy phản đòn trước khi hàng thủ điều chỉnh — sửa: miếng cơ bản phải là mối đe dọa thật trước; phản đòn không có nền chỉ là di chuyển ngẫu nhiên.",
+      "Slip khi chẳng ai gian lận — sửa: slip cần cò kích hoạt (hậu vệ lao ra sớm); không có cò thì không slip.",
+      "Ghost vào chỗ đông người — sửa: ghost đi vào khoảng trống mà switch để lại, không phải chỗ người cầm bóng ước nó có; đọc sân.",
+      "Người cầm bóng định sẵn đòn phản đòn — sửa: anh ta phải đọc D4 trực tiếp; đòn định sẵn chỉ là bài gọi mà hàng thủ ngồi chờ được."
+    ],
+    "gameSituations": [
+      "Điều chỉnh ở playoff: Game 1 họ bít STS của bạn — Game 2 và 3 bạn sống bằng các đòn phản đòn.",
+      "Trước hàng thủ switch: đòn ghost biến switch của họ thành cú ném trống của bạn — họ switch càng nhiều, nó càng hiệu quả.",
+      "Cứu bài cuối đồng hồ: miếng cơ bản bị bít khi còn 8 giây thì slip là cách nhanh nhất để tạo ra một pha layup."
+    ],
+    "tags": [
+      "screen the screener",
+      "đòn phản đòn",
+      "screen không bóng",
+      "tấn công nâng cao",
+      "screen"
+    ]
+  }
+}

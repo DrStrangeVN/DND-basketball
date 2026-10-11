@@ -1,0 +1,227 @@
+{
+  "ages": [
+    "U18",
+    "Adult"
+  ],
+  "coachingPoints": [
+    "The pre-switch is decided two passes early — if you are reading the screen as it is set, you are already late.",
+    "Call it like you mean it: a soft call is the same as no call at this speed.",
+    "The jumper must arrive a full step early — chest-to-chest before the screen, not at the screen.",
+    "The dropper owns the roller: meet the screener's movement with your chest, not your hands.",
+    "Pre-switch to choose YOUR mismatch, not theirs — know before the game which switches you want and which you refuse."
+  ],
+  "commonMistakes": [
+    "Pre-switching after the screen is set — fix: that is just a late switch; the call must come before the screener plants.",
+    "Both defenders taking the ball handler — fix: the call assigns roles; the jumper takes ball, the dropper takes screener, no overlap.",
+    "Getting killed by the slip — fix: the dropper reads the screener's hips, not the ball; hips to the rim means stay attached.",
+    "Never re-matching after the pass — fix: pre-switch is temporary; first dead moment, match back to the best assignment."
+  ],
+  "dateUpdated": "2026-10-11",
+  "description": "Beat the screen before it arrives: how to pre-switch PNRs, when the call happens, and how to avoid the mismatch.",
+  "gameSituations": [
+    "Against a guard-big PNR hunting your center — pre-switch to keep your best perimeter defender on the ball.",
+    "Late-clock PNRs — the offense has one action; pre-switch takes it away before it starts.",
+    "Versus a team running Spain PNR — pre-switch the first screen and the whole action breaks down.",
+    "When your big is in foul trouble — pre-switching avoids the hedge-and-recover contact that collects fouls."
+  ],
+  "howTo": [
+    {
+      "title": "Read the screen early",
+      "detail": "The screener's defender must see the screen coming two passes early — watch the big's eyes and the ball handler's setup dribble. Pre-switching is a read, not a reaction; by the screen, it is too late."
+    },
+    {
+      "title": "Make the call loud",
+      "detail": "The call is 'Pre! Pre!' or 'Switch early!' — loud enough for both defenders and the weak side to hear. No call, no pre-switch; silent switches are how open threes happen."
+    },
+    {
+      "title": "Jump the ball handler early",
+      "detail": "The screener's defender sprints out and takes the ball handler BEFORE the screen arrives, getting chest-to-chest a full step before the contact point. Early arrival is everything — late arrival is a foul or a blow-by."
+    },
+    {
+      "title": "Drop to the screener",
+      "detail": "The ball handler's defender immediately drops to the screener, taking away the roll. He must be physical here — the screener was about to screen, so he is moving; meet him early and own the contact."
+    },
+    {
+      "title": "Guard against the slip",
+      "detail": "The biggest counter is the slip: the screener cuts before the switch completes. The dropping defender must read the screener's hips — if they turn to the rim, he stays attached and the weak side tags the roll."
+    },
+    {
+      "title": "Re-match on the pass",
+      "detail": "If the ball is passed out of the PNR, both defenders match up to the nearest man and the defense resets. Pre-switching is one action, not a permanent assignment — re-match quickly and quietly."
+    }
+  ],
+  "hub": "defense",
+  "id": "pre-switching-pnr",
+  "level": "advanced",
+  "positions": [
+    "Guard",
+    "Forward",
+    "Center"
+  ],
+  "readTime": 7,
+  "related": [
+    "switch-defense",
+    "pnr-vs-switch",
+    "ice-defense",
+    "hedge-defense",
+    "drop-coverage-defense"
+  ],
+  "slug": "pre-switching-pnr",
+  "subcategory": "defensive-systems",
+  "tags": [
+    "pick and roll",
+    "switch",
+    "pre-switch",
+    "advanced defense",
+    "communication"
+  ],
+  "title": "Pre-Switching the Pick and Roll",
+  "vi": {
+    "coachingPoints": [
+      "Pre-switch được quyết định từ hai đường chuyền trước — nếu bạn đọc screen lúc nó đang dựng, bạn đã muộn.",
+      "Hô như thể bạn thực sự muốn: hô nhỏ ở tốc độ này cũng như không hô.",
+      "Người nhảy ra phải đến sớm trọn một bước — áp ngực trước screen, không phải ngay tại screen.",
+      "Người lùi xuống làm chủ người roll: đón chuyển động của người screen bằng ngực, không phải bằng tay.",
+      "Pre-switch để chọn mismatch CỦA BẠN, không phải của họ — biết trước trận đấu mình muốn switch nào và từ chối switch nào."
+    ],
+    "commonMistakes": [
+      "Pre-switch sau khi screen đã dựng — sửa: đó chỉ là switch muộn; hiệu lệnh phải vang lên trước khi người screen đặt chân.",
+      "Cả hai cầu thủ cùng kèm người dẫn bóng — sửa: hiệu lệnh phân vai; người nhảy ra lấy bóng, người lùi xuống lấy người screen, không chồng chéo.",
+      "Bị pha slip giết chết — sửa: người lùi xuống đọc hông của người screen, không đọc bóng; hông xoay về rổ nghĩa là bám theo.",
+      "Không bao giờ kèm lại sau đường chuyền — sửa: pre-switch là tạm thời; ngay khoảnh khắc bóng chết đầu tiên, kèm về phân công tốt nhất."
+    ],
+    "description": "Đánh bại screen trước khi nó tới: cách pre-switch các pha pick and roll, thời điểm hô, và cách tránh bị ép mismatch.",
+    "gameSituations": [
+      "Gặp pha PNR hậu vệ-big săn trung phong của bạn — pre-switch để giữ cầu thủ phòng thủ vòng ngoài tốt nhất kèm bóng.",
+      "Các pha PNR cuối đồng hồ — đối phương chỉ có một pha bóng; pre-switch xóa nó trước khi nó bắt đầu.",
+      "Gặp đội chạy Spain PNR — pre-switch screen đầu tiên và cả pha bóng sụp đổ.",
+      "Khi big của bạn đang gặp rắc rối phạm lỗi — pre-switch tránh va chạm hedge-rồi-thu hồi vốn dễ dính lỗi."
+    ],
+    "howTo": [
+      {
+        "title": "Đọc screen từ sớm",
+        "detail": "Cầu thủ kèm người screen phải thấy screen tới từ hai đường chuyền trước — nhìn mắt của big và pha dẫn bóng setup của người dẫn bóng. Pre-switch là một pha đọc tình huống, không phải phản xạ; đến lúc screen dựng thì đã muộn."
+      },
+      {
+        "title": "Hô thật to",
+        "detail": "Hiệu lệnh là 'Pre! Pre!' hoặc 'Đổi sớm!' — to đủ cho cả hai cầu thủ và phía yếu nghe thấy. Không hô, không pre-switch; đổi người im lặng là cách tạo ra những cú ném 3 điểm trống trải."
+      },
+      {
+        "title": "Nhảy ra kèm người dẫn bóng sớm",
+        "detail": "Cầu thủ kèm người screen lao ra kèm người dẫn bóng TRƯỚC khi screen tới, áp ngực sớm một bước trước điểm va chạm. Đến sớm là tất cả — đến muộn là phạm lỗi hoặc bị qua mặt."
+      },
+      {
+        "title": "Lùi xuống kèm người screen",
+        "detail": "Cầu thủ kèm người dẫn bóng lập tức lùi xuống kèm người screen, cắt pha roll. Anh ta phải chơi rắn ở đây — người screen định dựng screen nên đang di chuyển; đón anh ta sớm và làm chủ va chạm."
+      },
+      {
+        "title": "Chống pha slip",
+        "detail": "Đòn đáp trả lớn nhất là slip: người screen cắt trước khi switch hoàn tất. Cầu thủ lùi xuống phải đọc hông của người screen — nếu hông xoay về rổ, anh ta bám theo và phía yếu tag người roll."
+      },
+      {
+        "title": "Kèm lại sau đường chuyền",
+        "detail": "Nếu bóng được chuyền ra khỏi pha PNR, cả hai cầu thủ kèm người gần nhất và phòng thủ thiết lập lại. Pre-switch là một pha bóng, không phải phân công vĩnh viễn — kèm lại nhanh và gọn."
+      }
+    ],
+    "tags": [
+      "pick and roll",
+      "đổi người",
+      "pre-switch",
+      "phòng thủ nâng cao",
+      "giao tiếp"
+    ],
+    "title": "Đổi người trước khi screen tới (pre-switch PNR)",
+    "whatIsIt": [
+      "Pre-switch nghĩa là đổi nhiệm vụ phòng thủ TRƯỚC khi screen được dựng — cầu thủ kèm người screen nhảy ra kèm người dẫn bóng sớm, và cầu thủ kèm người dẫn bóng lùi xuống kèm người screen. Pha pick and roll không bao giờ xảy ra vì cú switch đã xong trước.",
+      "Đây là đáp án gọn gàng nhất cho một pha PNR nguy hiểm: không hedge, không blitz, không rotation — chỉ hai cầu thủ đổi nhiệm vụ sớm một nhịp để screen đánh vào khoảng không. Cái giá là giao tiếp: pre-switch muộn hoặc im lặng là một người dẫn bóng hoàn toàn trống trải."
+    ],
+    "whyItMatters": [
+      "Các đội tấn công hiện đại săn cú switch họ muốn — thường là ép big của bạn phải kèm hậu vệ của họ. Pre-switch để hàng thủ tự chọn matchup: bạn quyết định ai kèm ai, trước khi đối phương kịp ép. Đội pre-switch tốt xóa sổ pha bóng tủ của đối thủ mà không dâng mismatch họ đang săn."
+    ]
+  },
+  "whatIsIt": [
+    "Pre-switching means changing defensive assignments BEFORE the screen is set — the screener's defender jumps out to take the ball handler early, and the ball handler's defender drops to take the screener. The pick and roll never happens because the switch already did.",
+    "It is the cleanest answer to a dangerous PNR: no hedge, no blitz, no rotation — just two defenders trading assignments a beat early so the screen hits nothing. The cost is communication: a late or silent pre-switch is a wide-open ball handler."
+  ],
+  "whyItMatters": [
+    "Modern offenses hunt the switch they want — usually your big onto their guard. Pre-switching lets the defense choose the matchup instead: you decide who guards whom, before the offense can force it. Teams that pre-switch well take away the opponent's favorite action without giving up the mismatch they are hunting."
+  ],
+  "diagram": {
+    "title": "Pre-switch — D5 jumps out early to take the ball before the screen",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 56,
+        "y": 34
+      },
+      {
+        "label": "O2",
+        "x": 28,
+        "y": 38
+      },
+      {
+        "label": "O3",
+        "x": 76,
+        "y": 38
+      },
+      {
+        "label": "O4",
+        "x": 44,
+        "y": 16
+      },
+      {
+        "label": "O5",
+        "x": 60,
+        "y": 30
+      }
+    ],
+    "defense": [
+      {
+        "label": "D1",
+        "x": 54,
+        "y": 32
+      },
+      {
+        "label": "D2",
+        "x": 27,
+        "y": 36
+      },
+      {
+        "label": "D3",
+        "x": 74,
+        "y": 36
+      },
+      {
+        "label": "D4",
+        "x": 43,
+        "y": 15
+      },
+      {
+        "label": "D5",
+        "x": 58,
+        "y": 26
+      }
+    ],
+    "ball": "O1",
+    "screens": [
+      {
+        "x": 60,
+        "y": 30
+      }
+    ],
+    "moves": [
+      {
+        "from": "D5",
+        "to": "O1",
+        "kind": "move"
+      },
+      {
+        "from": "D1",
+        "to": "O5",
+        "kind": "move"
+      }
+    ],
+    "passes": [],
+    "shots": []
+  }
+}

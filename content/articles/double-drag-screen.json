@@ -1,0 +1,239 @@
+{
+  "id": "double-drag-screen",
+  "slug": "double-drag-screen",
+  "title": "Double Drag Screen",
+  "description": "Two drag screens in early transition — the ball handler drags the first big into a screen, then the second. Speed, chaos, and a defense that never gets set.",
+  "hub": "pick-and-roll",
+  "subcategory": "pick-and-roll",
+  "level": "intermediate",
+  "ages": [
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 6,
+  "dateUpdated": "2026-10-11",
+  "whatIsIt": [
+    "A drag screen is a ball screen set by a trailing big in transition — the big 'drags' behind the play and screens before the defense is set. The double drag uses two trailing bigs: the ball handler comes off the first drag screen, and the second big is right there with another one. It is early offense at full speed.",
+    "The power is in the timing. Drag screens happen in the first six seconds, when the defense is still matching up and communicating. One drag screen is hard to guard in chaos; two in a row is nearly impossible — the second screen arrives while the defense is still solving the first. The double drag turns a fast break that didn't produce a layup into a structured advantage anyway."
+  ],
+  "whyItMatters": [
+    "Transition is the most efficient offense in basketball, but most fast breaks end without a shot — the defense gets back, and the break dies. The double drag is the bridge between transition and half court: it keeps the speed of the break while adding the structure of a ball screen, twice. Teams that run it get the best of both worlds — early-clock advantages without needing a numbers advantage. If your team wants to play fast, the double drag is the system that makes 'fast' actually produce points."
+  ],
+  "howTo": [
+    {
+      "title": "Push the ball with two trailers",
+      "detail": "O1 pushes the ball up the floor at full speed. O4 and O5 trail the play — running the floor hard, not jogging. The double drag needs two bigs arriving together; if only one trails, it's just a single drag."
+    },
+    {
+      "title": "First big sets the drag",
+      "detail": "O4, the first trailer, sets a drag screen at the top as O1 approaches — no need to be perfectly set; in transition, the screen just needs to make contact and be legal. Angle it to send O1 toward the middle."
+    },
+    {
+      "title": "The guard comes off at full speed",
+      "detail": "O1 uses O4's screen without slowing down — this is still a fast break. Attack the big's defender: drive, pull up, or read. The pace is what makes the drag hard to guard."
+    },
+    {
+      "title": "Second big drags immediately",
+      "detail": "Right behind, O5 sets the second drag screen — the double. O4 rolls or pops after his screen, clearing the lane for the second action. Two screens, three seconds, total chaos for the defense."
+    },
+    {
+      "title": "Read the scrambled defense",
+      "detail": "The defense is matching up on the fly — someone is always late. O1 reads: the pull-up is usually there, the second roller is often free, and the wings are open if their defenders sank in. Take the first good look; don't over-dribble."
+    },
+    {
+      "title": "Flow into half court if needed",
+      "detail": "If the double drag doesn't produce a shot, the ball is already at the top with spacing set — flow straight into your half-court offense. No reset needed; the drag was the entry."
+    }
+  ],
+  "coachingPoints": [
+    "Bigs must run the floor. The double drag doesn't exist if the trailers jog — condition your bigs to sprint every possession.",
+    "The screens don't need to be perfect — they need to be fast. In transition, a quick, legal screen beats a perfect, late one.",
+    "Guard: don't slow down. The moment you hesitate, the defense gets matched up and the drag becomes a regular PNR — still fine, but the magic is gone.",
+    "Teach the second roller to expect the ball. The second drag's roller is the most forgotten man on the floor — and often the most open.",
+    "Drill it 3-on-2 and 4-on-3 first. Players must feel the timing of the second screen arriving before they face a set defense."
+  ],
+  "commonMistakes": [
+    "Only one big trails — fix: both bigs sprint; make trailing a conditioned habit, not an effort choice.",
+    "Guard slows to 'set up' the drag — fix: the drag works at speed; slowing down lets the defense match up.",
+    "Second screen arrives late — fix: the second trailer must be right behind the first; stagger the trails by one step, not ten.",
+    "Over-dribbling after the second screen — fix: the advantage is immediate; take the first good look within two dribbles."
+  ],
+  "gameSituations": [
+    "Early offense identity: teams that want to play fast install the double drag as their default — every defensive rebound becomes a scoring chance.",
+    "Against slow-footed bigs: drag them into screens before they're ready — a big who can't move his feet in transition is a target.",
+    "After a make: the double drag works off made baskets too — push before the defense is set, even without a numbers advantage."
+  ],
+  "tags": [
+    "drag screen",
+    "transition offense",
+    "double drag",
+    "early offense",
+    "pick and roll"
+  ],
+  "related": [
+    "drag-screen-transition",
+    "drag-screen",
+    "transition-secondary-actions",
+    "secondary-break",
+    "double-ball-screen"
+  ],
+  "diagram": {
+    "title": "Double drag — O4 sets the first drag screen in transition, O5 follows with the second",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 70
+      },
+      {
+        "label": "O4",
+        "x": 48,
+        "y": 58
+      },
+      {
+        "label": "O5",
+        "x": 52,
+        "y": 64
+      },
+      {
+        "label": "O2",
+        "x": 20,
+        "y": 45
+      },
+      {
+        "label": "O3",
+        "x": 80,
+        "y": 45
+      }
+    ],
+    "defense": [
+      {
+        "label": "D1",
+        "x": 50,
+        "y": 64
+      },
+      {
+        "label": "D4",
+        "x": 48,
+        "y": 62
+      },
+      {
+        "label": "D5",
+        "x": 52,
+        "y": 68
+      },
+      {
+        "label": "D2",
+        "x": 24,
+        "y": 45
+      },
+      {
+        "label": "D3",
+        "x": 76,
+        "y": 45
+      }
+    ],
+    "ball": "O1",
+    "screens": [
+      {
+        "x": 50,
+        "y": 62
+      }
+    ],
+    "moves": [
+      {
+        "from": "O4",
+        "to": "O1",
+        "kind": "screen-run"
+      },
+      {
+        "from": "O1",
+        "to": "O5",
+        "kind": "dribble"
+      },
+      {
+        "from": "O5",
+        "to": "O1",
+        "kind": "screen-run"
+      },
+      {
+        "from": "O1",
+        "to": "rim",
+        "kind": "dribble"
+      },
+      {
+        "from": "O4",
+        "to": "rim",
+        "kind": "cut"
+      }
+    ],
+    "passes": [],
+    "shots": []
+  },
+  "vi": {
+    "title": "Miếng double drag trong phản công (double drag screen)",
+    "description": "Hai drag screen trong tấn công sớm — người dẫn bóng kéo big thứ nhất vào screen, rồi big thứ hai. Tốc độ, hỗn loạn, và hàng thủ không bao giờ kịp vào vị trí.",
+    "whatIsIt": [
+      "Drag screen là ball screen do big chạy theo sau dựng trong phản công — big 'kéo lê' sau pha bóng và dựng screen trước khi hàng thủ kịp vào vị trí. Double drag dùng hai big chạy sau: người dẫn bóng vòng qua drag screen đầu, và big thứ hai đã đứng đó với screen nữa. Đó là tấn công sớm ở tốc độ tối đa.",
+      "Sức mạnh nằm ở timing. Drag screen diễn ra trong sáu giây đầu, khi hàng thủ còn đang bắt người và hô nhau. Một drag screen đã khó kèm trong hỗn loạn; hai cái liên tiếp gần như không thể — screen thứ hai đến khi hàng thủ còn đang giải screen đầu. Double drag biến một pha phản công không ra layup thành lợi thế có cấu trúc."
+    ],
+    "whyItMatters": [
+      "Phản công là tấn công hiệu quả nhất của bóng rổ, nhưng hầu hết pha phản công kết thúc mà không có cú ném — hàng thủ lùi kịp, pha bóng chết. Double drag là cầu nối giữa phản công và half-court: nó giữ tốc độ của pha bóng nhanh mà thêm cấu trúc của ball screen, hai lần. Đội nào chạy nó được cả hai thế giới — lợi thế đầu đồng hồ mà không cần hơn người. Nếu đội bạn muốn chơi nhanh, double drag là hệ thống biến 'nhanh' thành điểm số thật sự."
+    ],
+    "howTo": [
+      {
+        "title": "Đẩy bóng với hai big chạy sau",
+        "detail": "O1 đẩy bóng lên sân với tốc độ tối đa. O4 và O5 chạy theo sau — chạy hết sức, không chạy lững thững. Double drag cần hai big đến cùng lúc; chỉ một big theo sau thì chỉ là single drag."
+      },
+      {
+        "title": "Big đầu dựng drag",
+        "detail": "O4, người chạy sau đầu, dựng drag screen ở đỉnh sân khi O1 đến — không cần dựng hoàn hảo; trong phản công, screen chỉ cần va chạm và hợp lệ. Nghiêng để đưa O1 về giữa sân."
+      },
+      {
+        "title": "Hậu vệ vòng qua với tốc độ tối đa",
+        "detail": "O1 dùng screen của O4 mà không chậm lại — đây vẫn là phản công nhanh. Tấn công hậu vệ của big: đột phá, pull-up, hoặc đọc tình huống. Tốc độ là thứ khiến drag khó kèm."
+      },
+      {
+        "title": "Big thứ hai drag ngay",
+        "detail": "Ngay sau đó, O5 dựng drag screen thứ hai — cú double. O4 roll hoặc pop sau screen của mình, dọn lane cho lớp thứ hai. Hai screen, ba giây, hàng thủ hỗn loạn toàn tập."
+      },
+      {
+        "title": "Đọc hàng thủ đang cuống",
+        "detail": "Hàng thủ đang bắt người vội — luôn có người đến muộn. O1 đọc: pull-up thường có sẵn, người roll thứ hai thường trống, các cánh trống nếu hậu vệ của họ sập vào. Lấy cú ném tốt đầu tiên; đừng dẫn bóng quá nhiều."
+      },
+      {
+        "title": "Chảy vào half-court nếu cần",
+        "detail": "Double drag không ra cú ném thì bóng đã ở đỉnh sân với giãn đội hình sẵn — chảy thẳng vào tấn công half-court. Không cần reset; drag chính là pha đưa bóng vào."
+      }
+    ],
+    "coachingPoints": [
+      "Big phải chạy sân. Double drag không tồn tại nếu big chạy lững thững — rèn thể lực để big chạy nước rút mọi pha bóng.",
+      "Screen không cần hoàn hảo — cần nhanh. Trong phản công, screen nhanh và hợp lệ thắng screen hoàn hảo mà muộn.",
+      "Hậu vệ: đừng chậm lại. Chần chừ một nhịp là hàng thủ bắt người xong, drag thành PNR thường — vẫn ổn, nhưng phép màu mất.",
+      "Dạy người roll thứ hai chờ bóng. Người roll của drag thứ hai là người bị quên nhiều nhất trên sân — và thường trống nhất.",
+      "Tập 3-kèm-2 và 4-kèm-3 trước. Cầu thủ phải cảm nhận timing của screen thứ hai đến trước khi đối mặt hàng thủ đã vào vị trí."
+    ],
+    "commonMistakes": [
+      "Chỉ một big chạy theo — sửa: cả hai big chạy nước rút; biến việc chạy theo sau thành thói quen thể lực, không phải lựa chọn nỗ lực.",
+      "Hậu vệ chậm lại để 'dọn' drag — sửa: drag hiệu quả ở tốc độ; chậm lại là cho hàng thủ bắt người.",
+      "Screen thứ hai đến muộn — sửa: big chạy sau thứ hai phải ngay sau người đầu; so le một bước, không phải mười bước.",
+      "Dẫn bóng quá nhiều sau screen hai — sửa: lợi thế đến ngay; lấy cú ném tốt đầu tiên trong hai nhịp dẫn."
+    ],
+    "gameSituations": [
+      "Bản sắc tấn công sớm: đội muốn chơi nhanh dựng double drag làm mặc định — mọi rebound phòng thủ thành cơ hội ghi điểm.",
+      "Trước big chậm chân: kéo họ vào screen khi chưa sẵn sàng — big không xoay chân kịp trong phản công là mục tiêu.",
+      "Sau khi đối thủ ghi điểm: double drag dùng được cả khi đối thủ vừa ghi — đẩy bóng trước khi hàng thủ vào vị trí, dù không hơn người."
+    ],
+    "tags": [
+      "drag screen",
+      "tấn công phản công",
+      "double drag",
+      "tấn công sớm",
+      "pick and roll"
+    ]
+  }
+}

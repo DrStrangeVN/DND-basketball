@@ -1,0 +1,236 @@
+{
+  "ages": [
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "coachingPoints": [
+    "The trap is the wall, not the reach — reaching hands create fouls and free passing lanes; a wall creates panic.",
+    "Trap only on the trigger. Random traps leave two defenders out of the rotation and the offense gets a 4-on-3.",
+    "The interceptor decides the trap's success. Put your best reader of passing lanes in that role.",
+    "Reps for the back three matter more than reps for the trappers — the trap itself is the easy part.",
+    "Call it out early: 'Trap! Trap!' should ring out the moment the second defender commits, so the back three start moving before the ball is dead."
+  ],
+  "commonMistakes": [
+    "Trapping in the middle of the floor — fix: traps belong on the sideline, baseline, or corner where the out-of-bounds line is your sixth defender.",
+    "Both trappers lunging at the ball and fouling — fix: hands high, feet planted, let the ball handler run out of options.",
+    "The interceptor guarding his own man instead of the lane — fix: re-drill 'ball-you-man' priority; in a trap the ball and the lane come first.",
+    "Slow rotation behind the trap leading to open corner threes — fix: the back three sprint on the call, never wait to see if the trap works."
+  ],
+  "dateUpdated": "2026-10-11",
+  "description": "How to set and rotate out of a half-court trap: trigger spots, trapper roles, interceptor placement, and the rotation behind the ball.",
+  "gameSituations": [
+    "Late-game comeback situations — a well-timed trap sequence can force the turnovers you need without fouling.",
+    "Against a weak ball-handling guard — trap every sideline catch and make the secondary handler beat you.",
+    "After a made basket when the offense is jogging — a surprise trap on the inbound side catches players flat-footed.",
+    "Out of a timeout — install a specific trap call for one possession; offenses rarely have a counter ready."
+  ],
+  "howTo": [
+    {
+      "title": "Pick your trigger zones",
+      "detail": "Choose 2-3 spots on the floor where traps will happen: the corner off a sideline catch, the wing when the ball crosses half court toward the sideline, and the baseline off a drive. Draw them on the floor plan so everyone knows the same map."
+    },
+    {
+      "title": "Contain first, trap second",
+      "detail": "The on-ball defender forces the dribbler toward the trigger zone with an angled contain — no straight-line drives through the middle. The second defender waits until the ball is committed to the zone, then sprints in to trap."
+    },
+    {
+      "title": "Set the trap wall",
+      "detail": "Both trappers go chest-to-chest with the ball handler, hands high and active, forming a wall. Neither reaches in — the pressure is the wall itself. The goal is to freeze the dribble, not to steal the ball outright."
+    },
+    {
+      "title": "Position the interceptor",
+      "detail": "The nearest off-ball defender jumps into the most dangerous passing lane — usually the middle of the floor or the opposite wing. He plays the lane, not his man, and reads the ball handler's eyes for the first passing cue."
+    },
+    {
+      "title": "Rotate behind the trap",
+      "detail": "The last two defenders drop to protect the rim and split the remaining offensive players, communicating switches loudly: 'I got middle!', 'I got low!'. One failed rotation behind a trap is an open layup, so this is the drill that matters most."
+    },
+    {
+      "title": "Recover on the pass-out",
+      "detail": "When the ball escapes the trap, the interceptor becomes the new on-ball defender and everyone matches up to the nearest man. Sprint back to the paint first, then find a man — no jogging while pointing."
+    }
+  ],
+  "hub": "defense",
+  "id": "half-court-trap",
+  "level": "intermediate",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 7,
+  "related": [
+    "full-court-press",
+    "zone-2-3",
+    "help-defense",
+    "rotation-patterns",
+    "closeout-defense"
+  ],
+  "slug": "half-court-trap",
+  "subcategory": "defensive-systems",
+  "tags": [
+    "trap",
+    "half-court defense",
+    "rotations",
+    "turnovers",
+    "team defense"
+  ],
+  "title": "Half-Court Trap",
+  "vi": {
+    "coachingPoints": [
+      "Bẫy là bức tường, không phải cú với tay — với tay gây phạm lỗi và mở đường chuyền; bức tường gây hoảng loạn.",
+      "Chỉ bẫy đúng tín hiệu. Bẫy bừa bãi để hai cầu thủ ra khỏi rotation, đối phương được đánh 4 đấu 3.",
+      "Cầu thủ chặn đường chuyền quyết định thành bại của pha bẫy. Đặt người đọc đường chuyền giỏi nhất vào vai trò này.",
+      "Tập cho ba cầu thủ phía sau quan trọng hơn tập cho hai người bẫy — bản thân pha bẫy là phần dễ.",
+      "Hô sớm: 'Bẫy! Bẫy!' phải vang lên ngay khi cầu thủ thứ hai vào, để ba người phía sau di chuyển trước khi bóng chết."
+    ],
+    "commonMistakes": [
+      "Bẫy ở giữa sân — sửa: bẫy thuộc về đường biên dọc, baseline hoặc góc sân, nơi đường biên là cầu thủ phòng thủ thứ sáu của bạn.",
+      "Cả hai người bẫy lao vào bóng và phạm lỗi — sửa: tay giơ cao, chân đứng vững, để người dẫn bóng tự hết đường.",
+      "Cầu thủ chặn đường chuyền lại đi kèm người của mình — sửa: tập lại thứ tự ưu tiên 'bóng - bạn - người'; khi bẫy, bóng và đường chuyền lên trước.",
+      "Rotation sau bẫy chậm, để hở ném 3 điểm góc — sửa: ba người phía sau chạy ngay khi nghe hô, không chờ xem bẫy có thành công không."
+    ],
+    "description": "Cách giăng bẫy và xoay chuyển sau bẫy ở nửa sân: vị trí kích hoạt, vai trò của hai cầu thủ bẫy, vị trí của cầu thủ chặn đường chuyền, và rotation phía sau bóng.",
+    "gameSituations": [
+      "Tình huống bám đuổi cuối trận — một chuỗi bẫy đúng lúc có thể ép đối phương mất bóng mà không cần phạm lỗi.",
+      "Gặp hậu vệ dẫn bóng yếu — bẫy mọi pha bắt bóng ở biên và bắt cầu thủ xử lý bóng thứ hai phải đánh bại bạn.",
+      "Sau pha ghi điểm khi đối phương đang đi bộ — bẫy bất ngờ ở phía biên ném bóng biên bắt họ trở tay không kịp.",
+      "Sau hội ý — cài một hiệu lệnh bẫy riêng cho một pha bóng; đối phương hiếm khi có sẵn phương án đối phó."
+    ],
+    "howTo": [
+      {
+        "title": "Chọn điểm kích hoạt",
+        "detail": "Chọn 2-3 điểm trên sân để giăng bẫy: góc sân sau pha bắt bóng ở biên, cánh khi bóng qua nửa sân hướng về biên, và baseline sau pha đột phá. Vẽ chúng lên sơ đồ để cả đội cùng một bản đồ."
+      },
+      {
+        "title": "Ép trước, bẫy sau",
+        "detail": "Cầu thủ kèm bóng ép người dẫn bóng về phía điểm kích hoạt bằng thế kèm chéo góc — không cho đột phá thẳng vào giữa. Cầu thủ thứ hai chờ đến khi bóng đã vào vùng bẫy rồi mới lao vào."
+      },
+      {
+        "title": "Dựng tường bẫy",
+        "detail": "Cả hai cầu thủ bẫy áp sát ngực vào người dẫn bóng, tay giơ cao và hoạt động, tạo thành một bức tường. Không ai được với tay cướp — chính bức tường mới tạo áp lực. Mục tiêu là khóa chết pha dẫn bóng, không phải cướp bóng bằng mọi giá."
+      },
+      {
+        "title": "Đặt cầu thủ chặn đường chuyền",
+        "detail": "Cầu thủ không bóng gần nhất nhảy vào đường chuyền nguy hiểm nhất — thường là giữa sân hoặc cánh đối diện. Anh ta bắt đường chuyền, không kèm người, và đọc mắt người dẫn bóng để đón tín hiệu chuyền đầu tiên."
+      },
+      {
+        "title": "Xoay chuyển sau bẫy",
+        "detail": "Hai cầu thủ cuối cùng lùi về bảo vệ rổ và chia nhau các cầu thủ tấn công còn lại, hô to khi đổi người: 'Tôi lấy giữa!', 'Tôi lấy dưới!'. Một pha rotation hỏng sau bẫy là một cú layup trống, nên đây mới là bài tập quan trọng nhất."
+      },
+      {
+        "title": "Thu hồi khi bóng thoát bẫy",
+        "detail": "Khi bóng thoát ra, cầu thủ chặn đường chuyền trở thành người kèm bóng mới và mọi người kèm người gần nhất. Chạy nhanh về khu vực dưới rổ trước, rồi mới tìm người — không được chạy lững thững vừa chỉ tay."
+      }
+    ],
+    "tags": [
+      "bẫy",
+      "phòng thủ nửa sân",
+      "xoay chuyển đội hình",
+      "cướp bóng",
+      "phòng thủ đồng đội"
+    ],
+    "title": "Bẫy ở nửa sân (half-court trap)",
+    "whatIsIt": [
+      "Bẫy ở nửa sân là một pha mai phục có phối hợp của hai cầu thủ phòng thủ lên người dẫn bóng, giăng ra tại các điểm nguy hiểm — đường biên dọc, góc sân, hoặc ngay sau vạch giữa sân. Cầu thủ đầu tiên ép bóng, cầu thủ thứ hai ập tới chặn đường thoát, và ba cầu thủ còn lại xoay chuyển để bịt các đường chuyền phía sau.",
+      "Khác với press toàn sân, bẫy ở nửa sân mang tính chọn lọc: bạn bẫy theo tín hiệu (bắt bóng ở biên, đường chuyền lỗi, đột phá vào baseline) chứ không phải mọi pha bóng. Nhờ vậy nó bền vững — giữ được yếu tố bất ngờ mà không tốn thể lực cả trận."
+    ],
+    "whyItMatters": [
+      "Một pha bẫy giăng chuẩn làm được ba việc cùng lúc: chặn đứng bóng, ép đối phương quyết định vội vàng, và tạo cơ hội cướp bóng trong 2 giây nguy hiểm nhất của pha tấn công. Đội bẫy tốt ở nửa sân thường tạo thêm 6-10 pha bóng mỗi trận mà không cần press toàn sân."
+    ]
+  },
+  "whatIsIt": [
+    "A half-court trap is a coordinated two-defender ambush on the ball handler, sprung in a danger zone — the sideline, the corner, or just past half court. The first defender contains, the second arrives to wall off the escape, and the other three defenders rotate to cover the open passing lanes behind them.",
+    "Unlike a full-court press, a half-court trap is selective: you trap on a cue (a sideline catch, a bad pass, a baseline drive) rather than every possession. That makes it sustainable — you keep the surprise and the energy cost stays manageable across a game."
+  ],
+  "whyItMatters": [
+    "One trap, executed cleanly, does three things at once: it stops the ball, it forces a rushed decision, and it creates a turnover opportunity in the most dangerous 2 seconds of the possession. Teams that trap well in the half court regularly manufacture 6-10 extra possessions a game without pressing full court."
+  ],
+  "diagram": {
+    "title": "Half-court trap on the sideline catch — O1 trapped, D3 jumps the lane",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 76,
+        "y": 26
+      },
+      {
+        "label": "O2",
+        "x": 50,
+        "y": 38
+      },
+      {
+        "label": "O3",
+        "x": 24,
+        "y": 30
+      },
+      {
+        "label": "O4",
+        "x": 40,
+        "y": 12
+      },
+      {
+        "label": "O5",
+        "x": 62,
+        "y": 10
+      }
+    ],
+    "defense": [
+      {
+        "label": "D1",
+        "x": 72,
+        "y": 28
+      },
+      {
+        "label": "D2",
+        "x": 80,
+        "y": 24
+      },
+      {
+        "label": "D3",
+        "x": 56,
+        "y": 34
+      },
+      {
+        "label": "D4",
+        "x": 38,
+        "y": 14
+      },
+      {
+        "label": "D5",
+        "x": 58,
+        "y": 14
+      }
+    ],
+    "ball": "O1",
+    "screens": [],
+    "moves": [
+      {
+        "from": "D1",
+        "to": "O1",
+        "kind": "move"
+      },
+      {
+        "from": "D2",
+        "to": "O1",
+        "kind": "move"
+      },
+      {
+        "from": "D3",
+        "to": "O2",
+        "kind": "move"
+      },
+      {
+        "from": "D4",
+        "to": "O4",
+        "kind": "move"
+      },
+      {
+        "from": "D5",
+        "to": "O5",
+        "kind": "move"
+      }
+    ],
+    "passes": [],
+    "shots": []
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "id": "princeton-chin-action",
+  "slug": "princeton-chin-action",
+  "title": "Princeton Chin Action",
+  "description": "The signature backdoor series of the Princeton offense: the chin cut, the backdoor, and the weak-side reads that made a small school famous for beating giants.",
+  "hub": "offense",
+  "subcategory": "team-offense",
+  "level": "intermediate",
+  "ages": [
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 6,
+  "dateUpdated": "2026-10-11",
+  "whatIsIt": [
+    "The Princeton offense, developed by Pete Carril, is built on backdoor cuts, constant motion, and reading the defense instead of running set plays. The 'chin' action is its most famous series: a wing entry to the high post, a basket cut by the passer, and a backdoor option that punishes any defender who overplays.",
+    "Here is the basic chin: O1 passes to O2 on the wing, O2 enters to the high post (O5 at the elbow), and O1 cuts to the basket off O5 — the 'chin cut.' If O1's defender follows, O5 has the ball at the elbow with room to operate; if the defender cheats, O1 goes backdoor for the layup. Around it, the weak side runs its own backdoor series. It is basketball as chess: every defensive move has a pre-planned answer."
+  ],
+  "whyItMatters": [
+    "The Princeton chin is the great equalizer — it is how less athletic teams beat more athletic teams. It does not require jumping over anyone; it requires cutting hard, passing on time, and reading overplays. That is why it shows up at every level: youth coaches use it to teach team basketball, and pro teams steal its backdoor concepts for their own playbooks. Learning the chin teaches players to see the game two passes ahead, which is the real prize."
+  ],
+  "howTo": [
+    {
+      "title": "Enter the wing, then the high post",
+      "detail": "O1 passes to O2 on the wing. O2 immediately enters to O5 at the elbow (high post). The entry must be clean — the whole action keys off O5 catching at the elbow facing the basket."
+    },
+    {
+      "title": "The passer chin-cuts to the basket",
+      "detail": "Right after passing, O1 cuts hard to the basket off O5's shoulder — the chin cut. This is a scoring cut: if D1 trails or ball-watches, O5 hits O1 for the layup."
+    },
+    {
+      "title": "Read the defender on the cut",
+      "detail": "If D1 stays attached to O1, O1 clears through to the weak side. If D1 cheats toward the ball or jumps the passing lane, O1 plants and goes backdoor — O5 delivers the bounce pass for the layup."
+    },
+    {
+      "title": "The high post operates",
+      "detail": "With the cut cleared, O5 at the elbow is now a triple-threat playmaker: shoot the elbow jumper, drive the open lane, or hit the weak-side backdoor. The defense must choose — and every choice is wrong."
+    },
+    {
+      "title": "Weak side runs its mirror",
+      "detail": "While the chin happens ball-side, O3 and O4 on the weak side run their own exchange — typically a backdoor or an UCLA cut. O5 reads the whole floor; the weak-side action is often where the layup comes from."
+    },
+    {
+      "title": "Keep the ball moving",
+      "detail": "If nothing is open, O5 reverses the ball and the offense flows into the next Princeton series. The rule of the system: the ball never sticks at the elbow for more than two seconds."
+    }
+  ],
+  "coachingPoints": [
+    "Cut hard or don't cut. The chin only works at full speed — a jogging cut lets the defender stay attached and kills both options.",
+    "The high-post catch must face the basket. Catching sideways blinds O5 to the backdoor — square up every time.",
+    "Passers: throw the backdoor pass early and lead the cutter. A late backdoor pass is a steal.",
+    "Teach the reads, not the pattern. Players who memorize the cuts without reading the defense will run beautiful, useless offense.",
+    "Patience is a weapon. Princeton teams win by taking the layup the defense gives them on possession 20, not by forcing it on possession 2."
+  ],
+  "commonMistakes": [
+    "Chin cut at half speed — fix: the cut must beat the defender to the rim; if it doesn't, it wasn't a cut.",
+    "O5 catches facing the sideline — fix: 'chin and face' — catch, chin the ball, square to the rim in one motion.",
+    "Forcing the backdoor when the defender never cheated — fix: the backdoor is a counter, not the first option; take the chin cut if it's open.",
+    "Ball sticks at the elbow while everyone watches — fix: two-second rule at the high post; reverse it or attack."
+  ],
+  "gameSituations": [
+    "Underdog game plan: when you're outsized, the chin series manufactures layups without needing to win one-on-one battles.",
+    "Against overplaying defenses: teams that deny the wings get carved up by the backdoor counters — the more they deny, the more layups you get.",
+    "Teaching team basketball: install the chin with a youth team and watch passing, cutting, and reading improve in weeks."
+  ],
+  "tags": [
+    "princeton offense",
+    "backdoor",
+    "chin cut",
+    "team offense",
+    "high post"
+  ],
+  "related": [
+    "backdoor-cuts",
+    "ucla-cut",
+    "motion-offense",
+    "iverson-cut",
+    "pinch-post-action"
+  ],
+  "diagram": {
+    "title": "Princeton chin — O2 enters to O5 at the elbow, O1 chin-cuts with the backdoor option",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 55
+      },
+      {
+        "label": "O2",
+        "x": 78,
+        "y": 38
+      },
+      {
+        "label": "O5",
+        "x": 60,
+        "y": 20
+      },
+      {
+        "label": "O3",
+        "x": 22,
+        "y": 38
+      },
+      {
+        "label": "O4",
+        "x": 35,
+        "y": 12
+      }
+    ],
+    "defense": [
+      {
+        "label": "D1",
+        "x": 50,
+        "y": 50
+      },
+      {
+        "label": "D2",
+        "x": 78,
+        "y": 33
+      },
+      {
+        "label": "D5",
+        "x": 60,
+        "y": 25
+      },
+      {
+        "label": "D3",
+        "x": 26,
+        "y": 38
+      },
+      {
+        "label": "D4",
+        "x": 35,
+        "y": 17
+      }
+    ],
+    "ball": "O5",
+    "screens": [],
+    "moves": [
+      {
+        "from": "O1",
+        "to": "rim",
+        "kind": "cut"
+      },
+      {
+        "from": "O3",
+        "to": "rim",
+        "kind": "cut"
+      }
+    ],
+    "passes": [
+      {
+        "from": "O2",
+        "to": "O5"
+      },
+      {
+        "from": "O5",
+        "to": "O1"
+      }
+    ],
+    "shots": []
+  },
+  "vi": {
+    "title": "Miếng chin của Princeton offense (Princeton chin action)",
+    "description": "Chuỗi backdoor đặc trưng của Princeton offense: đường cắt chin, backdoor, và các pha đọc phía yếu từng giúp một trường nhỏ nổi tiếng vì hạ gục các ông lớn.",
+    "whatIsIt": [
+      "Princeton offense, do Pete Carril phát triển, xây trên backdoor cut, di chuyển liên tục, và đọc hàng thủ thay vì chạy bài cố định. 'Chin' action là chuỗi nổi tiếng nhất của nó: chuyền vào cánh rồi lên high post, người chuyền cắt vào rổ, và phương án backdoor trừng phạt mọi hậu vệ ham bóng.",
+      "Chin cơ bản như sau: O1 chuyền cho O2 ở cánh, O2 đưa vào high post (O5 ở elbow), và O1 cắt vào rổ dựa vào vai O5 — đường cắt 'chin'. D1 mà chạy theo thì O5 có bóng ở elbow với khoảng trống để xử lý; D1 mà gian lận thì O1 đi backdoor lấy layup. Xung quanh đó, phía yếu chạy chuỗi backdoor của riêng mình. Đó là bóng rổ như cờ vua: mọi nước đi của hàng thủ đều có đáp án chuẩn bị sẵn."
+    ],
+    "whyItMatters": [
+      "Princeton chin là đòn cân bằng vĩ đại — là cách đội yếu thể chất thắng đội mạnh thể chất. Nó không cần nhảy qua ai; nó cần cắt mạnh, chuyền đúng lúc, và đọc pha ham bóng. Đó là lý do nó xuất hiện ở mọi cấp độ: HLV trẻ dùng nó để dạy bóng rổ đồng đội, đội chuyên nghiệp mượn các ý tưởng backdoor của nó cho playbook của mình. Học chin dạy cầu thủ nhìn trận đấu trước hai đường chuyền, đó mới là phần thưởng thật sự."
+    ],
+    "howTo": [
+      {
+        "title": "Chuyền vào cánh, rồi lên high post",
+        "detail": "O1 chuyền cho O2 ở cánh. O2 ngay lập tức đưa vào cho O5 ở elbow (high post). Đường chuyền vào phải sạch — cả miếng đánh xoay quanh việc O5 bắt bóng ở elbow, mặt hướng rổ."
+      },
+      {
+        "title": "Người chuyền cắt chin vào rổ",
+        "detail": "Ngay sau khi chuyền, O1 cắt mạnh vào rổ dựa vai O5 — đường cắt chin. Đây là đường cắt ghi điểm: D1 mà chạy theo sau hoặc mải nhìn bóng, O5 chuyền cho O1 lấy layup."
+      },
+      {
+        "title": "Đọc hậu vệ trên đường cắt",
+        "detail": "D1 mà bám sát O1 thì O1 dọn xuyên sang phía yếu. D1 mà gian lận về phía bóng hoặc nhảy cắt đường chuyền thì O1 trụ chân đi backdoor — O5 chuyền nảy cho layup."
+      },
+      {
+        "title": "High post xử lý",
+        "detail": "Đường cắt đã dọn xong, O5 ở elbow giờ là một playmaker ở tư thế triple threat: ném jumper ở elbow, đột phá lane trống, hoặc chuyền cho backdoor phía yếu. Hàng thủ phải chọn — mà chọn đường nào cũng sai."
+      },
+      {
+        "title": "Phía yếu chạy pha đối xứng của mình",
+        "detail": "Trong khi chin diễn ra ở phía có bóng, O3 và O4 ở phía yếu chạy pha đổi chỗ của riêng mình — thường là backdoor hoặc UCLA cut. O5 đọc cả sân; pha bóng phía yếu thường là nơi layup đến từ đó."
+      },
+      {
+        "title": "Giữ bóng di chuyển",
+        "detail": "Không có gì trống thì O5 đảo bóng và tấn công chảy vào chuỗi Princeton tiếp theo. Quy tắc của hệ thống: bóng không bao giờ dính ở elbow quá hai giây."
+      }
+    ],
+    "coachingPoints": [
+      "Cắt mạnh hoặc đừng cắt. Chin chỉ hiệu quả ở tốc độ tối đa — cắt lững thững là hậu vệ bám được, giết cả hai phương án.",
+      "Người ở high post bắt bóng phải mặt hướng rổ. Bắt bóng xoay ngang là O5 mù đường backdoor — xoay về rổ mọi lần.",
+      "Người chuyền: chuyền backdoor sớm và chuyền dẫn. Chuyền backdoor muộn là biếu không pha cướp bóng.",
+      "Dạy cách đọc, không phải dạy mẫu hình. Cầu thủ thuộc lòng đường cắt mà không đọc hàng thủ sẽ chạy một thứ tấn công đẹp mà vô dụng.",
+      "Kiên nhẫn là vũ khí. Các đội Princeton thắng bằng cách lấy layup hàng thủ cho ở pha bóng thứ 20, không phải bằng cách ép ở pha bóng thứ 2."
+    ],
+    "commonMistakes": [
+      "Cắt chin nửa tốc độ — sửa: đường cắt phải đến rổ trước hậu vệ; không đến trước được thì đó không phải đường cắt.",
+      "O5 bắt bóng mặt hướng đường biên — sửa: 'chin rồi xoay' — bắt bóng, ôm bóng sát cằm, xoay về rổ trong một chuyển động.",
+      "Cố backdoor khi hậu vệ chưa bao giờ gian lận — sửa: backdoor là đòn phản đòn, không phải phương án đầu; đường cắt chin trống thì lấy nó.",
+      "Bóng dính ở elbow, mọi người đứng xem — sửa: luật hai giây ở high post; đảo bóng hoặc tấn công."
+    ],
+    "gameSituations": [
+      "Kế hoạch cho đội cửa dưới: khi bị lép vế thể hình, chuỗi chin tạo ra layup mà không cần thắng tay đôi.",
+      "Trước hàng thủ ham bóng: đội nào deny cánh sẽ bị backdoor xé nát — họ deny càng nhiều, bạn càng có nhiều layup.",
+      "Dạy bóng rổ đồng đội: dựng chin cho đội trẻ, xem khả năng chuyền, cắt và đọc tình huống tiến bộ trong vài tuần."
+    ],
+    "tags": [
+      "princeton offense",
+      "backdoor",
+      "chin cut",
+      "tấn công đồng đội",
+      "high post"
+    ]
+  }
+}

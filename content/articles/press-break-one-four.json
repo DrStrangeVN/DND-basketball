@@ -1,0 +1,226 @@
+{
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "coachingPoints": [
+    "The 1-4 is spots, not plays — teach the spots until players find them without thinking.",
+    "Middle first on every inbound look: the middle flash is the press break's best friend.",
+    "Pass the ball up the floor; dribbling is the press's invitation to trap.",
+    "When the press breaks, attack — a broken press is a fast break; don't let it re-form.",
+    "Going backward is going forward: a reset pass beats a forced pass every time."
+  ],
+  "commonMistakes": [
+    "Inbounding into the trap — fix: the inbounder reads the press first; never throw to a covered receiver.",
+    "All four standing still — fix: the midcourt players must flash and move; static spots are easy to deny.",
+    "Dribbling up the sideline — fix: maximum two dribbles, then pass; the sideline is where traps live.",
+    "Forcing it when trapped — fix: backward pass and reset; the 1-4 gives you infinite resets."
+  ],
+  "dateUpdated": "2026-10-11",
+  "description": "The 1-4 press break: one inbounder, four across — simple spacing that beats most presses with passing alone.",
+  "gameSituations": [
+    "Against any standard full-court press — the 1-4 is the default answer for most teams.",
+    "After opponent timeouts when they install a press — simple spacing beats surprise.",
+    "With young teams — ten minutes to install, a season of use.",
+    "Late-game with a lead — the 1-4 bleeds the clock safely while breaking pressure."
+  ],
+  "howTo": [
+    {
+      "title": "Align 1-4",
+      "detail": "O1 inbounds the ball. O2 and O3 set up deep near the baseline on each side; O4 and O5 set up at midcourt, one on each side. Everyone faces the inbounder, ready to catch facing up."
+    },
+    {
+      "title": "Inbound to the strong side",
+      "detail": "The inbounder looks middle first, then to the deep receiver on the ball side. The first pass should go to a player facing upfield with space — never throw into a crowd."
+    },
+    {
+      "title": "Flash the middle man",
+      "detail": "As the ball is inbounded, the midcourt player on the ball side flashes to the middle of the floor. He is the release valve — if the deep receiver is trapped, the ball comes back to the middle."
+    },
+    {
+      "title": "Advance by passing",
+      "detail": "Move the ball up the floor with passes, not dribbles: deep to middle, middle to sideline, sideline over the top. Two quick passes beat any two-man trap."
+    },
+    {
+      "title": "Attack the numbers",
+      "detail": "When the press is broken — usually at midcourt — attack immediately. The 1-4 naturally creates 3-on-2 and 2-on-1 situations; the rule is: attack the rim before the defense recovers."
+    },
+    {
+      "title": "Reset if trapped",
+      "detail": "If the ball gets trapped, pass back out and re-align. The 1-4 resets in seconds — there is no shame in going backward to go forward; the press wants you to force it."
+    }
+  ],
+  "hub": "transition",
+  "id": "press-break-one-four",
+  "level": "intermediate",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 6,
+  "related": [
+    "full-court-press",
+    "outlet-passing",
+    "transition-offense",
+    "rebound-outlet-connection",
+    "transition-spacing"
+  ],
+  "slug": "press-break-one-four",
+  "subcategory": "transition",
+  "tags": [
+    "press break",
+    "1-4",
+    "transition",
+    "spacing",
+    "passing"
+  ],
+  "title": "1-4 Press Break Alignment",
+  "vi": {
+    "coachingPoints": [
+      "1-4 là vị trí, không phải bài vở — dạy các vị trí đến khi cầu thủ tự tìm được mà không cần nghĩ.",
+      "Nhìn giữa trước trong mọi pha ném biên: người di chuyển vào giữa là bạn thân nhất của phá press.",
+      "Chuyền bóng lên sân; dẫn bóng là lời mời bẫy của press.",
+      "Khi press vỡ, tấn công — press đã vỡ là phản công nhanh; đừng để nó tái lập.",
+      "Chuyền về là tiến lên: đường chuyền thiết lập lại luôn hơn đường chuyền cố đấm ăn xôi."
+    ],
+    "commonMistakes": [
+      "Ném biên vào bẫy — sửa: người ném biên đọc press trước; không bao giờ ném cho người nhận bị kèm chặt.",
+      "Cả bốn người đứng yên — sửa: hai người giữa sân phải di chuyển vào giữa; vị trí tĩnh dễ bị bắt.",
+      "Dẫn bóng dọc biên — sửa: tối đa hai pha dẫn bóng rồi chuyền; đường biên là nơi bẫy sống.",
+      "Cố đấm ăn xôi khi bị bẫy — sửa: chuyền về và thiết lập lại; 1-4 cho bạn vô số lần thiết lập lại."
+    ],
+    "description": "Phá press kiểu 1-4: một người ném biên, bốn người dàn ngang — giãn đội hình đơn giản phá hầu hết press chỉ bằng chuyền bóng.",
+    "gameSituations": [
+      "Trước mọi press toàn sân tiêu chuẩn — 1-4 là đáp án mặc định của hầu hết các đội.",
+      "Sau hội ý khi đối phương cài press — giãn đội hình đơn giản thắng yếu tố bất ngờ.",
+      "Với đội trẻ — mười phút để cài, dùng cả mùa giải.",
+      "Cuối trận khi đang dẫn — 1-4 bào mòn đồng hồ an toàn trong lúc phá áp lực."
+    ],
+    "howTo": [
+      {
+        "title": "Xếp đội hình 1-4",
+        "detail": "O1 ném biên. O2 và O3 đứng sâu gần baseline mỗi bên; O4 và O5 đứng ở giữa sân, mỗi bên một người. Mọi người đối mặt người ném biên, sẵn sàng bắt bóng xoay mặt lên."
+      },
+      {
+        "title": "Ném biên về phía mạnh",
+        "detail": "Người ném biên nhìn giữa trước, rồi nhìn người nhận sâu ở phía bóng. Đường chuyền đầu nên tới người đang đối mặt lên sân và có khoảng trống — không bao giờ ném vào đám đông."
+      },
+      {
+        "title": "Người giữa sân di chuyển vào giữa",
+        "detail": "Khi bóng được ném biên, cầu thủ giữa sân phía bóng di chuyển vào giữa sân. Anh ta là van xả — nếu người nhận sâu bị bẫy, bóng quay về giữa."
+      },
+      {
+        "title": "Đưa bóng lên bằng chuyền",
+        "detail": "Đưa bóng lên sân bằng chuyền, không phải dẫn: từ sâu ra giữa, từ giữa ra biên, từ biên bổng qua đầu. Hai đường chuyền nhanh đánh bại mọi bẫy hai người."
+      },
+      {
+        "title": "Tấn công khi hơn người",
+        "detail": "Khi press đã vỡ — thường ở giữa sân — tấn công ngay. 1-4 tự nhiên tạo ra tình huống 3 đấu 2 và 2 đấu 1; quy tắc là: đánh vào rổ trước khi hàng thủ thu về."
+      },
+      {
+        "title": "Thiết lập lại khi bị bẫy",
+        "detail": "Nếu bóng bị bẫy, chuyền ngược ra và xếp lại. 1-4 thiết lập lại trong vài giây — chuyền về để tiến lên không có gì xấu hổ; press muốn bạn cố đấm ăn xôi."
+      }
+    ],
+    "tags": [
+      "phá press",
+      "1-4",
+      "chuyển đổi",
+      "giãn đội hình",
+      "chuyền bóng"
+    ],
+    "title": "Đội hình phá press 1-4",
+    "whatIsIt": [
+      "Phá press 1-4 xếp một người ném biên và bốn người nhận bóng dàn ngang sân — hai người sâu gần baseline, hai người ở giữa sân. Đây là kiểu phá press đơn giản nhất: giãn đội hình tối đa, đường chuyền rõ ràng, và sẵn người thoát ở giữa.",
+      "Điểm hay của nó là sự đơn giản. Không screen, không pha cắt phải nhớ — chỉ có vị trí, thời điểm, và quy tắc bóng di chuyển bằng chuyền. Đội trẻ cài được trong mười phút và dùng cả mùa."
+    ],
+    "whyItMatters": [
+      "Hầu hết press bị phá bởi giãn đội hình và chuyền bóng, không phải bởi bài vở. 1-4 cho bạn cả hai mà không phức tạp — nghĩa là cầu thủ dành năng lượng để đọc press thay vì nhớ bài. Trước mọi press tiêu chuẩn, 1-4 mang lại những pha bóng sạch và những cú ghi điểm dễ."
+    ]
+  },
+  "whatIsIt": [
+    "The 1-4 press break lines up one inbounder and four receivers across the floor — two deep near the baseline, two at midcourt. It is the simplest press break in basketball: maximum spacing, clear passing lanes, and a built-in middle outlet.",
+    "Its beauty is its simplicity. There are no screens, no cuts to memorize — just spots, timing, and the rule that the ball moves by passing. Young teams can install it in ten minutes and use it all season."
+  ],
+  "whyItMatters": [
+    "Most presses are beaten by spacing and passing, not by plays. The 1-4 gives you both with zero complexity — which means your players spend their energy reading the press instead of remembering the pattern. Against any standard press, the 1-4 gets you clean looks and easy baskets."
+  ],
+  "diagram": {
+    "title": "1-4 press break — four across, middle flash as the release valve",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 94
+      },
+      {
+        "label": "O2",
+        "x": 22,
+        "y": 86
+      },
+      {
+        "label": "O3",
+        "x": 78,
+        "y": 86
+      },
+      {
+        "label": "O4",
+        "x": 34,
+        "y": 58
+      },
+      {
+        "label": "O5",
+        "x": 66,
+        "y": 58
+      }
+    ],
+    "defense": [
+      {
+        "label": "D1",
+        "x": 50,
+        "y": 90
+      },
+      {
+        "label": "D2",
+        "x": 30,
+        "y": 78
+      },
+      {
+        "label": "D3",
+        "x": 70,
+        "y": 78
+      },
+      {
+        "label": "D4",
+        "x": 40,
+        "y": 52
+      },
+      {
+        "label": "D5",
+        "x": 62,
+        "y": 50
+      }
+    ],
+    "ball": "O1",
+    "screens": [],
+    "moves": [
+      {
+        "from": "O4",
+        "to": "O2",
+        "kind": "move"
+      }
+    ],
+    "passes": [
+      {
+        "from": "O1",
+        "to": "O2"
+      },
+      {
+        "from": "O2",
+        "to": "O4"
+      }
+    ],
+    "shots": []
+  }
+}

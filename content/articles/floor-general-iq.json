@@ -1,0 +1,200 @@
+{
+  "title": "Floor General IQ",
+  "description": "The point guard's decision-making system: tempo control, play-calling, and running a team like a coach on the floor.",
+  "hub": "positions",
+  "subcategory": "guards",
+  "level": "intermediate",
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 6,
+  "dateUpdated": "2026-10-11",
+  "tags": [
+    "point-guard",
+    "leadership",
+    "decision-making",
+    "tempo"
+  ],
+  "whatIsIt": [
+    "Floor general IQ is the complete decision-making package of a point guard who runs the team: controlling tempo, calling the right play at the right time, organizing teammates, and making the simple winning play over and over. It is basketball intelligence expressed through leadership.",
+    "This is not about flashy passes — it is about game management. The floor general knows when to push and when to slow down, which teammate needs a touch, when the defense is tired, and how to get the team a good shot on every single possession."
+  ],
+  "whyItMatters": [
+    "A team with a true floor general plays every possession with purpose; a team without one plays five simultaneous one-on-ones. Coaches build entire systems around point guards they trust, because one smart decision-maker on the floor multiplies the effectiveness of every set, every press break, and every late-game situation."
+  ],
+  "howTo": [
+    {
+      "title": "Control tempo deliberately",
+      "detail": "Decide the game's pace possession by possession: push after misses and turnovers, walk it up after made baskets when your team needs rest. Call out 'push' or 'slow' so all five players share the same tempo — mixed tempos create turnovers."
+    },
+    {
+      "title": "Learn your playbook cold",
+      "detail": "Know every set, every option, and every counter — plus which play attacks which defense. A floor general who hesitates on play calls loses the 5 seconds the play needs to develop. Quiz yourself: cover the diagram and recite all five spots."
+    },
+    {
+      "title": "Feed the hot hand and the bigs early",
+      "detail": "Get post players a touch in the first four minutes and find the hot shooter early — engaged teammates defend harder and move better. Selfish point guards get empty stats; generous ones get winning teams."
+    },
+    {
+      "title": "Manage the clock and fouls",
+      "detail": "Track the shot clock, team fouls, and timeouts without being told. Know when to attack (bonus situation) and when to protect the ball (foul trouble). This awareness is what separates a ball-handler from a floor general."
+    },
+    {
+      "title": "Communicate every possession",
+      "detail": "Call the play, point out the matchup, warn of screens, organize the press break. Your voice is the team's operating system — if you go quiet, the team goes disorganized."
+    },
+    {
+      "title": "Take what the defense gives",
+      "detail": "If they go under screens, shoot. If they trap, pass early. If they switch, find the mismatch. The floor general never forces a pre-decided play against a defense that has already taken it away."
+    }
+  ],
+  "coachingPoints": [
+    "Teach decision rules, not just plays: 'if-then' thinking survives when the set breaks down.",
+    "Film study is mandatory for floor generals — 20 minutes of opponent pick-and-roll coverage per week.",
+    "Let your point guard make mistakes in practice; micromanaged guards never develop independence.",
+    "The best floor generals are the hardest workers — leadership without example is just noise."
+  ],
+  "commonMistakes": [
+    "Dribbling without purpose to 'settle' the offense — fix: every dribble should attack, probe, or set up a pass.",
+    "Calling plays too late in the clock — fix: play called by 18 seconds, action starting by 14.",
+    "Ignoring defensive communication — fix: the floor general talks on defense too; leadership is 48 minutes.",
+    "Forcing hero shots in late clock instead of creating — fix: your job is a good team shot, not a tough personal one."
+  ],
+  "gameSituations": [
+    "Press break — the floor general's exam: stay calm, use the middle of the floor, and punish the press with passes.",
+    "End-of-game — manage the clock, get to your best action, and make free throws; poise is the whole job.",
+    "After timeouts — execute the drawn-up play exactly; this is where preparation meets trust."
+  ],
+  "related": [
+    "point-guard",
+    "pick-and-roll-reads",
+    "transition-decision-making",
+    "practice-tempo"
+  ],
+  "diagram": {
+    "title": "Floor general calls the play and probes the pick-and-roll",
+    "ball": "O1",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 62
+      },
+      {
+        "label": "O5",
+        "x": 40,
+        "y": 40
+      },
+      {
+        "label": "O2",
+        "x": 20,
+        "y": 30
+      },
+      {
+        "label": "O3",
+        "x": 80,
+        "y": 30
+      },
+      {
+        "label": "O4",
+        "x": 65,
+        "y": 70
+      }
+    ],
+    "defense": [
+      {
+        "label": "D1",
+        "x": 50,
+        "y": 55
+      },
+      {
+        "label": "D5",
+        "x": 44,
+        "y": 34
+      }
+    ],
+    "passes": [],
+    "moves": [
+      {
+        "from": "O1",
+        "kind": "dribble",
+        "to": "O5"
+      }
+    ],
+    "screens": [
+      {
+        "from": "O5",
+        "to": "O1"
+      }
+    ],
+    "shots": []
+  },
+  "vi": {
+    "title": "IQ thủ lĩnh sân đấu",
+    "description": "Hệ thống ra quyết định của hậu vệ dẫn bóng: kiểm soát nhịp độ, gọi bài đánh, và điều hành đội như một HLV trên sân.",
+    "tags": [
+      "hậu vệ dẫn bóng",
+      "thủ lĩnh",
+      "ra quyết định",
+      "nhịp độ"
+    ],
+    "whatIsIt": [
+      "IQ thủ lĩnh sân đấu là gói ra quyết định hoàn chỉnh của một hậu vệ dẫn bóng điều hành đội: kiểm soát nhịp độ, gọi đúng bài đánh vào đúng thời điểm, tổ chức đồng đội, và thực hiện đi thực hiện lại những pha bóng đơn giản mang về chiến thắng. Đó là trí tuệ bóng rổ thể hiện qua khả năng lãnh đạo.",
+      "Đây không phải chuyện những đường chuyền hoa mỹ — mà là quản lý trận đấu. Người thủ lĩnh sân đấu biết khi nào đẩy nhanh và khi nào chậm lại, đồng đội nào cần chạm bóng, khi nào hàng thủ đã mệt, và cách để đội có một cú ném tốt trong từng lượt bóng."
+    ],
+    "whyItMatters": [
+      "Đội có một thủ lĩnh sân đấu thật sự chơi mọi lượt bóng đều có mục đích; đội không có người này chơi như năm trận một đấu một cùng lúc. HLV xây cả hệ thống quanh những hậu vệ dẫn bóng mà họ tin tưởng, vì một người ra quyết định thông minh trên sân nhân lên hiệu quả của mọi bài đánh, mọi pha phá press, và mọi tình huống cuối trận."
+    ],
+    "howTo": [
+      {
+        "title": "Kiểm soát nhịp độ một cách chủ đích",
+        "detail": "Quyết định tốc độ trận đấu theo từng lượt bóng: đẩy nhanh sau khi đối thủ ném hỏng và mất bóng, dắt bóng chậm lên sau khi đội ghi điểm và cần nghỉ. Gọi to 'đẩy' hoặc 'chậm' để cả năm người cùng một nhịp — nhịp độ lệch nhau tạo ra mất bóng."
+      },
+      {
+        "title": "Thuộc playbook nằm lòng",
+        "detail": "Biết mọi bài đánh, mọi lựa chọn và mọi biến thể — cộng thêm bài nào đánh vào hàng thủ nào. Thủ lĩnh sân đấu chần chừ khi gọi bài sẽ mất 5 giây mà bài đánh cần để triển khai. Tự kiểm tra: che sơ đồ lại và đọc thuộc vị trí cả năm người."
+      },
+      {
+        "title": "Cho cầu thủ post và tay đang nóng chạm bóng sớm",
+        "detail": "Cho cầu thủ đánh post chạm bóng trong bốn phút đầu và tìm tay ném đang nóng từ sớm — đồng đội được tham gia sẽ phòng thủ máu lửa hơn và di chuyển tốt hơn. Hậu vệ dẫn bóng ích kỷ có thống kê rỗng; hậu vệ hào phóng có đội chiến thắng."
+      },
+      {
+        "title": "Quản lý đồng hồ và lỗi",
+        "detail": "Tự theo dõi đồng hồ 24 giây, lỗi đồng đội và hội ý mà không cần ai nhắc. Biết khi nào tấn công (đối thủ đã đủ lỗi bonus) và khi nào giữ bóng (đồng đội đang vướng lỗi). Chính sự tỉnh táo này phân biệt người dẫn bóng với thủ lĩnh sân đấu."
+      },
+      {
+        "title": "Giao tiếp trong mọi lượt bóng",
+        "detail": "Gọi bài đánh, chỉ ra cặp đấu, cảnh báo screen, tổ chức phá press. Giọng nói của bạn là hệ điều hành của đội — bạn im lặng, đội sẽ rối."
+      },
+      {
+        "title": "Lấy những gì hàng thủ cho",
+        "detail": "Họ lùi dưới screen thì ném. Họ bẫy thì chuyền sớm. Họ switch thì tìm mismatch. Thủ lĩnh sân đấu không bao giờ cố ép một bài đánh đã định sẵn trước hàng thủ đã khóa nó lại."
+      }
+    ],
+    "coachingPoints": [
+      "Dạy quy tắc ra quyết định, không chỉ dạy bài đánh: tư duy 'nếu-thì' vẫn sống sót khi bài đánh vỡ.",
+      "Xem video là bắt buộc với thủ lĩnh sân đấu — 20 phút mỗi tuần xem cách đối thủ phòng thủ pick-and-roll.",
+      "Để hậu vệ dẫn bóng được phép sai trong buổi tập; hậu vệ bị quản từng li sẽ không bao giờ phát triển tính độc lập.",
+      "Những thủ lĩnh sân đấu giỏi nhất là những người tập chăm nhất — lãnh đạo không làm gương chỉ là tiếng ồn."
+    ],
+    "commonMistakes": [
+      "Dẫn bóng vô định để 'ổn định' tấn công — sửa: mọi nhịp dẫn bóng phải tấn công, thăm dò, hoặc dọn đường cho đường chuyền.",
+      "Gọi bài quá muộn trong đồng hồ — sửa: gọi bài trước 18 giây, triển khai trước 14 giây.",
+      "Bỏ qua giao tiếp phòng thủ — sửa: thủ lĩnh sân đấu cũng phải nói khi phòng thủ; lãnh đạo là cả 48 phút.",
+      "Cố ném hero cuối đồng hồ thay vì tạo cơ hội — sửa: nhiệm vụ của bạn là một cú ném tốt cho đội, không phải một cú ném khó cho bản thân."
+    ],
+    "gameSituations": [
+      "Phá press — bài kiểm tra của thủ lĩnh sân đấu: giữ bình tĩnh, dùng giữa sân, và trừng phạt press bằng những đường chuyền.",
+      "Cuối trận — quản lý đồng hồ, về bài đánh tốt nhất, và ném phạt chính xác; bản lĩnh là toàn bộ công việc.",
+      "Sau hội ý — thực hiện chính xác bài đã vẽ; đây là nơi sự chuẩn bị gặp niềm tin."
+    ]
+  },
+  "id": "floor-general-iq",
+  "slug": "floor-general-iq"
+}

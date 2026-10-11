@@ -1,0 +1,187 @@
+{
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "coachingPoints": [
+    "Verticality is a habit, not a talent — drill straight-up jumps until leaning feels wrong.",
+    "Contest the shot, not the shooter: your target is the ball's path, never the body.",
+    "Late and legal beats early and fouling — patience at the rim is a defensive skill.",
+    "The shooter's landing space is sacred — never, ever step under.",
+    "A contest that forces a miss is as good as a block — chase the miss, not the highlight."
+  ],
+  "commonMistakes": [
+    "Jumping into the shooter — fix: jump straight up from your spot; if you drift, you foul.",
+    "Swiping down at the ball — fix: hand goes up, not down; down is a foul, up is a contest.",
+    "Undercutting the landing space — fix: stop one step short and jump vertical; the landing zone is not yours.",
+    "Grabbing from behind when beat — fix: sprint past and wall up ahead; a chase-down grab is two free throws."
+  ],
+  "dateUpdated": "2026-10-11",
+  "description": "How to make every shot hard and stay out of foul trouble: verticality, high hands, timing, and the discipline to not reach.",
+  "gameSituations": [
+    "Rim protection in the half court — vertical contests turn layups into misses without the foul.",
+    "Late-game with fouls to give... or not — disciplined contests keep your best defenders on the floor.",
+    "Against a foul-drawing specialist — verticality takes away his entire game plan.",
+    "After your big picks up two early fouls — contest-without-fouling drills keep him playable."
+  ],
+  "howTo": [
+    {
+      "title": "Learn verticality",
+      "detail": "Practice jumping straight up with hands high and landing in the same spot. Your cylinder — the space above your feet — is your legal zone. Drill it against a pad: jump, stay vertical, land balanced. No leaning, no drifting."
+    },
+    {
+      "title": "Hands high, never down",
+      "detail": "The contest hand goes straight up, not out or down. A hand that comes down hits the shooter's arm; a hand that stays up bothers the vision and the arc. High hands contest shots — low hands collect fouls."
+    },
+    {
+      "title": "Time the jump, not the swipe",
+      "detail": "Jump with the shooter or a half-beat late — never early. An early jump lets the shooter draw the foul or shoot around you. Patience at the contest point beats athleticism every time."
+    },
+    {
+      "title": "Stay out of the shooter's landing space",
+      "detail": "Never step under a jumping shooter. Give him room to land — undercutting is a dangerous foul and an automatic call. Contest from your spot and let him come down clean."
+    },
+    {
+      "title": "Use the 'wall' on drives",
+      "detail": "Against drivers, the contest is a vertical wall at the rim: jump straight, hands high, chest to the driver without leaning in. Let him finish through your length, not around your foul."
+    },
+    {
+      "title": "Keep hands off on the closeout",
+      "detail": "The most common foul is the closeout reach. Arrive under control, hands high, and keep them off the ball handler's body. If you are beat, sprint past — never grab from behind."
+    }
+  ],
+  "hub": "defense",
+  "id": "contest-without-fouling",
+  "level": "intermediate",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 6,
+  "related": [
+    "closeout-defense",
+    "defensive-stance",
+    "closeout-reads",
+    "help-defense",
+    "defensive-rebounding"
+  ],
+  "slug": "contest-without-fouling",
+  "subcategory": "defense-fundamentals",
+  "tags": [
+    "contest",
+    "verticality",
+    "no fouls",
+    "rim protection",
+    "fundamentals"
+  ],
+  "title": "Contest Without Fouling",
+  "vi": {
+    "coachingPoints": [
+      "Thẳng đứng là thói quen, không phải tài năng — tập bật thẳng đến khi nghiêng người thấy sai sai.",
+      "Contest cú ném, không phải người ném: mục tiêu của bạn là đường đi của bóng, không bao giờ là cơ thể.",
+      "Muộn mà hợp lệ hơn sớm mà phạm lỗi — kiên nhẫn ở rổ là một kỹ năng phòng thủ.",
+      "Vùng tiếp đất của tay ném là bất khả xâm phạm — không bao giờ, không bao giờ bước vào.",
+      "Một pha contest ép ném hỏng tốt như một pha block — săn pha ném hỏng, không săn highlight."
+    ],
+    "commonMistakes": [
+      "Bật nhảy đâm vào người ném — sửa: bật thẳng từ vị trí của bạn; trôi người là phạm lỗi.",
+      "Quơ tay xuống vào bóng — sửa: tay đi lên, không đi xuống; xuống là phạm lỗi, lên là contest.",
+      "Chèn vào vùng tiếp đất — sửa: dừng sớm một bước và bật thẳng đứng; vùng tiếp đất không phải của bạn.",
+      "Kéo từ phía sau khi bị qua mặt — sửa: chạy vượt qua rồi dựng tường phía trước; kéo từ sau là hai quả ném phạt."
+    ],
+    "description": "Cách khiến mọi cú ném đều khó chịu mà không dính lỗi: nhảy thẳng đứng, tay cao, chọn thời điểm, và kỷ luật không với tay.",
+    "gameSituations": [
+      "Bảo vệ rổ ở nửa sân — contest thẳng đứng biến layup thành ném hỏng mà không phạm lỗi.",
+      "Cuối trận khi còn hay hết lỗi để phạm — contest kỷ luật giữ những cầu thủ phòng thủ hay nhất ở trên sân.",
+      "Gặp chuyên gia câu lỗi — nguyên tắc thẳng đứng xóa sổ cả kế hoạch của anh ta.",
+      "Sau khi big của bạn dính hai lỗi sớm — các bài tập contest-không-phạm-lỗi giúp anh ta vẫn chơi được."
+    ],
+    "howTo": [
+      {
+        "title": "Học nguyên tắc thẳng đứng",
+        "detail": "Tập bật thẳng lên với tay giơ cao và tiếp đất đúng chỗ cũ. Trụ của bạn — khoảng không trên bàn chân — là vùng hợp lệ. Tập với đệm: bật, giữ thẳng đứng, tiếp đất thăng bằng. Không nghiêng, không trôi."
+      },
+      {
+        "title": "Tay cao, không bao giờ tay thấp",
+        "detail": "Tay contest giơ thẳng lên, không đưa ra hay hạ xuống. Tay hạ xuống sẽ chạm tay tay ném; tay giữ cao che tầm nhìn và đường cong bóng. Tay cao contest cú ném — tay thấp nhặt phạm lỗi."
+      },
+      {
+        "title": "Chọn thời điểm bật, không phải quơ tay",
+        "detail": "Bật cùng lúc với tay ném hoặc muộn nửa nhịp — không bao giờ sớm. Bật sớm để tay ném câu lỗi hoặc ném vòng qua bạn. Kiên nhẫn ở điểm contest luôn thắng sức bật."
+      },
+      {
+        "title": "Tránh vùng tiếp đất của tay ném",
+        "detail": "Không bao giờ bước vào dưới chân tay ném đang bật nhảy. Chừa chỗ cho anh ta tiếp đất — chèn dưới chân là pha phạm lỗi nguy hiểm và trọng tài thổi ngay. Contest từ vị trí của bạn và để anh ta tiếp đất an toàn."
+      },
+      {
+        "title": "Dựng 'tường' trước pha đột phá",
+        "detail": "Với người đột phá, pha contest là một bức tường thẳng đứng ở rổ: bật thẳng, tay cao, ngực hướng vào người đột phá mà không nghiêng người. Để anh ta kết thúc xuyên qua sải tay bạn, không phải vòng qua pha phạm lỗi của bạn."
+      },
+      {
+        "title": "Giữ tay tránh người khi closeout",
+        "detail": "Pha phạm lỗi phổ biến nhất là với tay khi closeout. Tới nơi trong kiểm soát, tay cao, và giữ tay tránh người dẫn bóng. Nếu đã bị qua mặt, chạy vượt qua — không bao giờ kéo từ phía sau."
+      }
+    ],
+    "tags": [
+      "contest",
+      "nhảy thẳng đứng",
+      "không phạm lỗi",
+      "bảo vệ rổ",
+      "cơ bản"
+    ],
+    "title": "Contest mà không phạm lỗi",
+    "whatIsIt": [
+      "Contest mà không phạm lỗi là kỹ năng khiến tay ném khó chịu trong khi giữ cơ thể hợp lệ: bật thẳng lên, tay giơ cao, không chạm tay hay người đối phương. Nó xây trên nguyên tắc thẳng đứng — bật thẳng lên xuống trong trụ của mình — và kỷ luật chỉ contest cú ném, không contest người ném.",
+      "Phép tính rất đơn giản: một cú ném bị contest làm giảm mạnh điểm kỳ vọng của pha bóng, trong khi một pha phạm lỗi ném rổ tặng đối phương cú ném hiệu quả nhất. Cầu thủ phòng thủ giỏi hiểu rằng pha contest CHÍNH là phòng thủ — block chỉ là phần thưởng thêm."
+    ],
+    "whyItMatters": [
+      "Rắc rối phạm lỗi phá hỏng trận đấu và cả mùa giải. Cầu thủ contest được mà không phạm lỗi sẽ ở trên sân trong hiệp 4, neo hàng thủ lúc quan trọng, và ép đối phương phải thắng bằng những cú ném khó thay vì ném phạt. Đó là phẩm chất phòng thủ giá trị nhất mà HLV có thể rèn cho cầu thủ."
+    ]
+  },
+  "whatIsIt": [
+    "Contesting without fouling is the skill of making the shooter uncomfortable while keeping your body legal: straight up, hands high, no contact on the arm or the body. It is built on verticality — jumping straight up and down in your own cylinder — and on the discipline to contest the shot, not the shooter.",
+    "The math is simple: a contested jumper drops the expected points of a possession dramatically, while a shooting foul gives away the most efficient shot in basketball. Great defenders understand that the contest IS the defense — the block is just a bonus."
+  ],
+  "whyItMatters": [
+    "Foul trouble ruins games and seasons. Players who can contest without fouling stay on the floor in the fourth quarter, anchor the defense when it matters, and force opponents to beat them with difficult shots instead of free throws. It is the most valuable defensive trait a coach can develop in a player."
+  ],
+  "diagram": {
+    "title": "Vertical contest — straight up, high hands, no contact",
+    "offense": [
+      {
+        "label": "O4",
+        "x": 44,
+        "y": 12
+      }
+    ],
+    "defense": [
+      {
+        "label": "D4",
+        "x": 44,
+        "y": 10
+      }
+    ],
+    "ball": "O4",
+    "screens": [],
+    "moves": [
+      {
+        "from": "O4",
+        "to": "rim",
+        "kind": "cut"
+      },
+      {
+        "from": "D4",
+        "to": "rim",
+        "kind": "move"
+      }
+    ],
+    "passes": [],
+    "shots": [
+      {
+        "x": 48,
+        "y": 8
+      }
+    ]
+  }
+}

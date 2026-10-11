@@ -1,0 +1,170 @@
+{
+  "id": "pocket-dribble-control",
+  "slug": "pocket-dribble-control",
+  "title": "Pocket Dribble Control",
+  "description": "Master the low, tight 'pocket' dribble that keeps the ball glued to your hip and untouchable in traffic.",
+  "hub": "skills",
+  "subcategory": "ball-handling",
+  "level": "beginner",
+  "ages": [
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 5,
+  "dateUpdated": "2026-10-11",
+  "whatIsIt": [
+    "The pocket dribble is a low, short dribble kept in the 'pocket' — the space beside your hip, protected by your body and your off arm. The ball barely leaves a small zone: it bounces from your fingertips straight down and straight back up, never drifting in front of you or away from your body.",
+    "Think of it as your ball-security stance. Whenever the game gets tight — a trap coming, a crowd in the paint, a bigger defender leaning on you — the pocket dribble is where the ball lives until you decide what to do next."
+  ],
+  "whyItMatters": [
+    "Turnovers lose more games than missed shots, and most live-ball turnovers come from loose, high dribbles in traffic. The pocket dribble is the single best habit a young player can build: it makes you nearly impossible to strip, it keeps you balanced and ready to pass or shoot, and it works against players bigger and faster than you."
+  ],
+  "howTo": [
+    {
+      "title": "Drop into a low stance",
+      "detail": "Bend your knees deeply and keep your back straight. Your power and balance come from this base — the dribble is only as secure as your stance."
+    },
+    {
+      "title": "Bring the ball to your hip",
+      "detail": "Move the ball to the side of your body, beside your hip and slightly behind your lead foot. This is the pocket."
+    },
+    {
+      "title": "Dribble with your fingertips",
+      "detail": "Push the ball down with spread fingertips, not your palm. Keep each bounce short — the ball should rise no higher than your knee."
+    },
+    {
+      "title": "Shield with your off arm",
+      "detail": "Hold your non-dribbling arm out as a shield between the defender and the ball. Keep the elbow bent and the arm legal — a bar, not a push."
+    },
+    {
+      "title": "Keep your eyes up",
+      "detail": "Read the floor while the ball stays in the pocket. Your fingertips do the work so your eyes can find the open teammate or the driving lane."
+    },
+    {
+      "title": "Stay ready to explode",
+      "detail": "From the pocket you can drive, cross over, or pick the ball up to shoot — practice exploding out of the pocket so defenders can't just sit on you."
+    }
+  ],
+  "coachingPoints": [
+    "The ball should never rise above your knee in the pocket — height is vulnerability.",
+    "Your off-arm shield is active, not decorative; feel the defender with it and adjust your pocket's position.",
+    "Dribble the ball slightly behind your lead foot, not in front of it — in front is reachable, behind is protected.",
+    "If the defender is pressuring hard, retreat-dribble out of the pocket rather than picking the ball up early."
+  ],
+  "commonMistakes": [
+    "Dribbling with the palm — fix: do fingertip-only stationary drills until the ball stops slapping.",
+    "Letting the ball drift in front of the body — fix: place a cone at your hip and keep every bounce inside an imaginary box beside it.",
+    "Standing upright while pocketing — fix: your shoulders should stay below the defender's chest; stand tall and you're strippable.",
+    "Picking the ball up under pressure — fix: drill pocket-dribble holds against a partner's reach for 10-second counts."
+  ],
+  "gameSituations": [
+    "Against a full-court press — the pocket dribble lets you back the ball out and stay secure until help arrives.",
+    "In a crowded paint — when help defenders collapse on your drive, pocket the ball to protect it while you read the kick-out.",
+    "Late-game ball security — protecting a lead, the pocket dribble burns clock without risking live-ball turnovers."
+  ],
+  "tags": [
+    "ball-handling",
+    "ball-security",
+    "fundamentals"
+  ],
+  "related": [
+    "pound-dribble",
+    "retreat-dribble",
+    "ball-protection",
+    "change-of-pace",
+    "ball-handler-reads"
+  ],
+  "diagram": {
+    "title": "O1 keeps the ball in the pocket at the hip, shielded from D1's reach",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 55,
+        "y": 40
+      }
+    ],
+    "defense": [
+      {
+        "label": "D1",
+        "x": 51,
+        "y": 38
+      }
+    ],
+    "ball": "O1",
+    "screens": [],
+    "moves": [
+      {
+        "from": "O1",
+        "to": "O1",
+        "kind": "dribble"
+      }
+    ],
+    "passes": [],
+    "shots": []
+  },
+  "vi": {
+    "title": "Dẫn bóng thấp kiểm soát (pocket dribble)",
+    "description": "Làm chủ nhịp dribble thấp, gọn trong 'túi' bóng — giữ bóng dính sát hông và không thể chạm tới trong đám đông.",
+    "whatIsIt": [
+      "Pocket dribble là nhịp dribble thấp, ngắn, giữ trong 'túi' — khoảng trống bên hông bạn, được che chắn bởi cơ thể và tay không dẫn bóng. Bóng hầu như không rời một vùng nhỏ: nó nảy từ đầu ngón tay thẳng xuống và thẳng lên, không bao giờ trôi ra trước người hay xa khỏi cơ thể.",
+      "Hãy coi nó như tư thế giữ bóng an toàn của bạn. Mỗi khi trận đấu trở nên chật chội — bẫy đang đến, đám đông trong khu vực dưới rổ, một hậu vệ to con đang tỳ vào bạn — pocket dribble là nơi bóng trú ẩn cho đến khi bạn quyết định bước tiếp theo."
+    ],
+    "whyItMatters": [
+      "Để mất bóng thua nhiều trận hơn ném hỏng, và hầu hết các pha mất bóng sống đến từ những nhịp dribble lỏng, cao trong đám đông. Pocket dribble là thói quen tốt nhất mà cầu thủ trẻ có thể xây dựng: nó khiến bạn gần như không thể bị móc bóng, giữ bạn thăng bằng và sẵn sàng chuyền hoặc ném, và nó hiệu quả trước cả những đối thủ to và nhanh hơn bạn."
+    ],
+    "howTo": [
+      {
+        "title": "Hạ vào tư thế thấp",
+        "detail": "Cong gối sâu, giữ lưng thẳng. Sức mạnh và thăng bằng đến từ bộ chân này — dribble chỉ chắc bằng tư thế của bạn."
+      },
+      {
+        "title": "Đưa bóng về hông",
+        "detail": "Đưa bóng sang bên hông, cạnh hông và hơi sau chân trước. Đó chính là cái 'túi'."
+      },
+      {
+        "title": "Dẫn bóng bằng đầu ngón tay",
+        "detail": "Đẩy bóng xuống bằng các đầu ngón tay xòe rộng, không phải lòng bàn tay. Giữ mỗi nhịp nảy ngắn — bóng chỉ nảy lên ngang đầu gối."
+      },
+      {
+        "title": "Che chắn bằng tay không dẫn",
+        "detail": "Giơ tay không dẫn bóng ra như một tấm khiên giữa hậu vệ và bóng. Giữ khuỷu tay cong và tay hợp lệ — một thanh chắn, không phải cú đẩy."
+      },
+      {
+        "title": "Mắt nhìn lên",
+        "detail": "Đọc sân trong khi bóng ở yên trong túi. Đầu ngón tay làm việc để mắt bạn tìm đồng đội trống hoặc đường đâm."
+      },
+      {
+        "title": "Luôn sẵn sàng bật",
+        "detail": "Từ túi bóng bạn có thể đâm, crossover, hoặc ôm bóng lên ném — tập bật tung khỏi túi bóng để hậu vệ không dám đứng yên chờ bạn."
+      }
+    ],
+    "coachingPoints": [
+      "Bóng không bao giờ được nảy quá đầu gối trong túi — càng cao càng dễ mất.",
+      "Tay khiên phải hoạt động, không phải để trang trí; cảm nhận hậu vệ bằng nó và điều chỉnh vị trí túi bóng.",
+      "Dẫn bóng hơi sau chân trước, không phải trước nó — trước chân là với tới được, sau chân là được che chắn.",
+      "Nếu hậu vệ áp sát mạnh, lùi dribble khỏi túi bóng thay vì ôm bóng lên sớm."
+    ],
+    "commonMistakes": [
+      "Dẫn bóng bằng lòng bàn tay — sửa: tập dẫn tại chỗ chỉ bằng đầu ngón tay cho đến khi bóng hết kêu bôm bốp.",
+      "Để bóng trôi ra trước người — sửa: đặt một cái nón ở hông và giữ mọi nhịp nảy trong một hộp tưởng tượng cạnh nó.",
+      "Đứng thẳng người khi giữ túi bóng — sửa: vai bạn phải thấp hơn ngực hậu vệ; đứng cao là dễ bị móc bóng.",
+      "Ôm bóng lên khi bị áp lực — sửa: tập giữ pocket dribble chống lại tay với của bạn tập, đếm 10 giây mỗi lượt."
+    ],
+    "gameSituations": [
+      "Chống press toàn sân — pocket dribble giúp bạn lùi bóng ra và giữ an toàn cho đến khi có người hỗ trợ.",
+      "Trong khu vực dưới rổ đông đúc — khi hàng thủ hỗ trợ đổ vào pha đâm của bạn, giữ bóng trong túi để che chắn trong lúc đọc đường kick-out.",
+      "Giữ bóng cuối trận — khi đang dẫn điểm, pocket dribble giúp đốt đồng hồ mà không mạo hiểm mất bóng sống."
+    ],
+    "tags": [
+      "dẫn bóng",
+      "giữ bóng",
+      "cơ bản"
+    ]
+  }
+}

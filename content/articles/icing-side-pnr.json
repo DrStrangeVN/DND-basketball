@@ -1,0 +1,223 @@
+{
+  "ages": [
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "coachingPoints": [
+    "Ice is a sideline coverage — never ice a middle PNR; the geometry does not work.",
+    "The big walls, he does not hedge: high-side position kills the screen without creating a rotation.",
+    "The on-ball defender's chest angle decides everything — one wrong step middle and the ice is broken.",
+    "Weak-side loading is mandatory; an iced PNR with no weak-side help is just a baseline drive.",
+    "Drill the call until it is reflex — late 'Ice!' calls are the number one reason the coverage fails."
+  ],
+  "commonMistakes": [
+    "Icing a middle ball screen — fix: ice is for side screens only; middle PNRs need drop, switch, or hedge.",
+    "The big hedging instead of walling — fix: high-side position, butt to the baseline, wall the roll lane.",
+    "Letting the ball handler reject to the middle — fix: the on-ball defender's lead foot must beat the ball handler to the middle gap.",
+    "Weak side staying home — fix: on 'Ice!', the weak-side wing sinks to the nail automatically."
+  ],
+  "dateUpdated": "2026-10-11",
+  "description": "How to ice a side PNR: push the ball handler to the baseline, keep the big on the high side, and kill the middle.",
+  "gameSituations": [
+    "Against a team running side PNR as its base offense — ice every one and make them find a second action.",
+    "Late-clock side PNRs — the offense wants middle; ice takes away their clock-beating option.",
+    "Versus a left-hand-dominant guard on the right wing — ice forces him baseline onto his weak hand.",
+    "When your big is slower than their roller — icing avoids the footrace by walling the lane instead of chasing it."
+  ],
+  "howTo": [
+    {
+      "title": "Recognize the side PNR early",
+      "detail": "Ice only applies to side ball screens — the screener coming from the wing or corner side. The call must come before the screen is set; icing a middle PNR leaves the whole floor open."
+    },
+    {
+      "title": "Make the 'Ice!' call",
+      "detail": "The on-ball defender or the big calls 'Ice! Ice!' loud and early. The call tells everyone: the ball is going baseline, the big is staying high-side, and the weak side is loading up."
+    },
+    {
+      "title": "Push the ball down",
+      "detail": "The on-ball defender gets chest-to-hip on the ball handler's high side and forces the dribble toward the baseline. Never let the ball handler reject back to the middle — the middle is what you are taking away."
+    },
+    {
+      "title": "Keep the big high-side",
+      "detail": "The screener's defender stays on the high side of the screener — between the screener and the middle — so the screen cannot be used and the roll lane is walled off. He does not hedge; he walls."
+    },
+    {
+      "title": "Load up the weak side",
+      "detail": "The weak-side defenders sink toward the paint, ready to tag the roller or help on the baseline drive. The baseline drive is the bait — the help is the trap."
+    },
+    {
+      "title": "Contest without fouling",
+      "detail": "When the ball handler picks up the dribble on the baseline, the big stays vertical with high hands. No reaching, no body contact — the baseline and the sideline are already doing the defensive work."
+    }
+  ],
+  "hub": "defense",
+  "id": "icing-side-pnr",
+  "level": "advanced",
+  "positions": [
+    "Guard",
+    "Forward",
+    "Center"
+  ],
+  "readTime": 7,
+  "related": [
+    "ice-defense",
+    "switch-defense",
+    "drop-coverage-defense",
+    "hedge-defense",
+    "pnr-vs-switch"
+  ],
+  "slug": "icing-side-pnr",
+  "subcategory": "defensive-systems",
+  "tags": [
+    "pick and roll",
+    "ice",
+    "side PNR",
+    "advanced defense",
+    "no-middle defense"
+  ],
+  "title": "Icing the Side Pick and Roll",
+  "vi": {
+    "coachingPoints": [
+      "Ice là coverage đánh biên — không bao giờ ice PNR giữa sân; hình học không cho phép.",
+      "Big dựng tường, không hedge: vị trí phía trên giết chết screen mà không tạo rotation.",
+      "Góc ngực của cầu thủ kèm bóng quyết định tất cả — một bước sai về giữa là pha ice vỡ.",
+      "Dồn phía yếu là bắt buộc; một pha PNR bị ice mà không có hỗ trợ phía yếu chỉ là một pha đột phá baseline.",
+      "Tập hiệu lệnh đến khi thành phản xạ — hô 'Ice!' muộn là lý do số một khiến coverage thất bại."
+    ],
+    "commonMistakes": [
+      "Ice screen bóng giữa sân — sửa: ice chỉ dành cho screen ở biên; PNR giữa sân cần drop, switch hoặc hedge.",
+      "Big hedge thay vì dựng tường — sửa: vị trí phía trên, mông hướng baseline, chặn đường roll.",
+      "Để người dẫn bóng cắt ngược về giữa — sửa: chân trước của cầu thủ kèm bóng phải tới khe giữa trước người dẫn bóng.",
+      "Phía yếu đứng yên — sửa: khi nghe 'Ice!', cánh phía yếu tự động lùi về vị trí nail."
+    ],
+    "description": "Cách ice một pha pick and roll ở biên: ép người dẫn bóng xuống baseline, giữ big ở phía trên, và khóa chặt khu vực giữa.",
+    "gameSituations": [
+      "Gặp đội lấy PNR ở biên làm pha bóng tủ — ice mọi pha và bắt họ tìm pha bóng thứ hai.",
+      "Các pha PNR ở biên cuối đồng hồ — đối phương muốn đánh giữa; ice lấy đi lựa chọn ghi điểm cuối giờ của họ.",
+      "Gặp hậu vệ thuận tay trái ở cánh phải — ice ép anh ta xuống baseline bằng tay không thuận.",
+      "Khi big của bạn chậm hơn người roll của họ — ice tránh cuộc đua tốc độ bằng cách chặn đường thay vì đuổi theo."
+    ],
+    "howTo": [
+      {
+        "title": "Nhận diện PNR ở biên từ sớm",
+        "detail": "Ice chỉ áp dụng cho screen bóng ở biên — người screen đến từ phía cánh hoặc góc. Hiệu lệnh phải vang lên trước khi screen dựng; ice một pha PNR giữa sân sẽ mở toang cả mặt sân."
+      },
+      {
+        "title": "Hô 'Ice!'",
+        "detail": "Cầu thủ kèm bóng hoặc big hô 'Ice! Ice!' to và sớm. Hiệu lệnh cho mọi người biết: bóng sẽ đi xuống baseline, big giữ phía trên, và phía yếu đang dồn về."
+      },
+      {
+        "title": "Ép bóng xuống",
+        "detail": "Cầu thủ kèm bóng áp ngực vào hông phía trên của người dẫn bóng và ép pha dẫn bóng về baseline. Không bao giờ để người dẫn bóng cắt ngược về giữa — khu vực giữa chính là thứ bạn đang lấy đi."
+      },
+      {
+        "title": "Giữ big ở phía trên",
+        "detail": "Cầu thủ kèm người screen đứng ở phía trên của người screen — giữa người screen và khu vực giữa — để screen không dùng được và đường roll bị chặn. Anh ta không hedge; anh ta dựng tường."
+      },
+      {
+        "title": "Dồn phía yếu về",
+        "detail": "Các cầu thủ phía yếu lùi về khu vực dưới rổ, sẵn sàng tag người roll hoặc hỗ trợ pha đột phá baseline. Pha đột phá baseline là mồi nhử — người hỗ trợ mới là bẫy."
+      },
+      {
+        "title": "Contest mà không phạm lỗi",
+        "detail": "Khi người dẫn bóng dừng bóng ở baseline, big giữ thẳng người với tay giơ cao. Không với tay, không va chạm thân người — baseline và đường biên đã làm phần việc phòng thủ."
+      }
+    ],
+    "tags": [
+      "pick and roll",
+      "ice",
+      "PNR biên",
+      "phòng thủ nâng cao",
+      "khóa giữa sân"
+    ],
+    "title": "Đẩy PNR biên xuống baseline (icing side PNR)",
+    "whatIsIt": [
+      "Ice một pha pick and roll ở biên nghĩa là ép người dẫn bóng RA XA screen và hướng xuống baseline — cầu thủ kèm người screen giữ phía trên, cầu thủ kèm người dẫn bóng đẩy pha dẫn bóng xuống, và screen không bao giờ được dùng. 'Ice! Ice!' là hiệu lệnh, và baseline trở thành cầu thủ phòng thủ phụ của bạn.",
+      "Nó hiệu quả vì PNR ở biên muốn đánh vào giữa. Khi ice, bạn cùng lúc lấy đi tay thuận của người dẫn bóng, đường roll của người screen, và cả khu vực giữa sân — đối phương chỉ còn pha đột phá xuống baseline nơi big đang chờ sẵn."
+    ],
+    "whyItMatters": [
+      "Các hàng thủ đẳng cấp ice mọi PNR ở biên vì đây là coverage ít rotation nhất: không hedge, không switch, không cần hỗ trợ nếu làm đúng. Gặp đội mạnh về screen bóng, ice mọi PNR ở biên ép họ phải thắng bạn bằng pha bóng yếu nhất — và hầu hết các đội không có đòn đáp trả nào đáng tin."
+    ]
+  },
+  "whatIsIt": [
+    "Icing a side pick and roll means forcing the ball handler AWAY from the screen and toward the baseline — the screener's defender stays on the high side, the ball handler's defender pushes the dribble down, and the screen never gets used. 'Ice! Ice!' is the call, and the baseline becomes your extra defender.",
+    "It works because the side PNR wants the middle. By icing it, you take away the ball handler's strong hand, the screener's roll lane, and the middle of the floor all at once — the offense is left with a baseline drive into a waiting big."
+  ],
+  "whyItMatters": [
+    "Elite defenses ice side PNRs because it is the lowest-rotation coverage in basketball: no hedge, no switch, no help needed if done right. Against a dominant ball-screen team, icing every side PNR forces them to beat you with their weakest action — and most teams simply do not have a counter they trust."
+  ],
+  "diagram": {
+    "title": "Ice the side PNR — ball forced baseline, big walls high-side",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 72,
+        "y": 32
+      },
+      {
+        "label": "O2",
+        "x": 30,
+        "y": 38
+      },
+      {
+        "label": "O3",
+        "x": 50,
+        "y": 44
+      },
+      {
+        "label": "O4",
+        "x": 44,
+        "y": 14
+      },
+      {
+        "label": "O5",
+        "x": 68,
+        "y": 28
+      }
+    ],
+    "defense": [
+      {
+        "label": "D1",
+        "x": 70,
+        "y": 30
+      },
+      {
+        "label": "D2",
+        "x": 29,
+        "y": 36
+      },
+      {
+        "label": "D3",
+        "x": 48,
+        "y": 42
+      },
+      {
+        "label": "D4",
+        "x": 43,
+        "y": 13
+      },
+      {
+        "label": "D5",
+        "x": 64,
+        "y": 24
+      }
+    ],
+    "ball": "O1",
+    "screens": [
+      {
+        "x": 68,
+        "y": 28
+      }
+    ],
+    "moves": [
+      {
+        "from": "O1",
+        "to": "rim",
+        "kind": "dribble"
+      }
+    ],
+    "passes": [],
+    "shots": []
+  }
+}

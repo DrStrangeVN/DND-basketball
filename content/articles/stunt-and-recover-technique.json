@@ -1,0 +1,222 @@
+{
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "coachingPoints": [
+    "The stunt is two steps, not four — a full rotation is a commitment, a stunt is a bluff.",
+    "Violence sells it: half-speed stunts don't move the driver; full-speed stunts move the whole possession.",
+    "High hands, never low hands — the stunt takes away vision and passing lanes, not the ball.",
+    "Recover like the pass is already thrown — because it is.",
+    "The best stunt is the one the driver feels but the passer never sees."
+  ],
+  "commonMistakes": [
+    "Stunting four steps and getting stuck — fix: two hard steps, then decide; the third step is a commitment.",
+    "Reaching on the stunt — fix: hands high and wide; the stunt is a wall, not a swipe.",
+    "Jogging the recover — fix: the recover starts the instant the ball is picked up; sprint first, break down late.",
+    "Stunting at every drive — fix: stunt the threatening drives; stunt everything and the offense stops respecting it."
+  ],
+  "dateUpdated": "2026-10-11",
+  "description": "The art of the fake help: how to stunt at the driver to slow him down, then recover to your man before the kick-out.",
+  "gameSituations": [
+    "Against a dominant driver with shooters around him — stunt to slow the drive without opening the kick-out.",
+    "When your help defender is smaller than the driver — a stunt avoids the mismatch a full help would create.",
+    "Late-clock isolations — the stunt disrupts the rhythm without giving up the bailout three.",
+    "Versus a team that hunts your rotations — stunt-and-recover gives them nothing to hunt."
+  ],
+  "howTo": [
+    {
+      "title": "Read the drive early",
+      "detail": "The stunt starts with the read: when the ball handler beats his man by a half-step toward your side, load up. Your body turns, your weight shifts — but your feet stay close to home."
+    },
+    {
+      "title": "Take two hard jab steps",
+      "detail": "Explode two steps toward the ball handler with high hands and a loud presence — 'I'M HERE!' The steps must be violent enough to make the driver feel you; a soft stunt fools nobody."
+    },
+    {
+      "title": "Show high hands",
+      "detail": "Hands go high to take away the passing lane over the top and to make yourself big. Never reach down — a reaching stunt is a foul or a blow-by, and it takes you out of the recover."
+    },
+    {
+      "title": "Read the driver's response",
+      "detail": "If he picks up the ball, the stunt worked — hold your ground a beat. If he keeps driving, decide: fully commit to help or sprint back. The stunt bought you information; use it."
+    },
+    {
+      "title": "Sprint-recover to your man",
+      "detail": "The moment the ball is picked up or passed, sprint back to your man with a closeout. The recover is a full sprint, not a jog — the kick-out pass is already in the air."
+    },
+    {
+      "title": "Close out under control",
+      "detail": "Finish with a controlled closeout: chop steps, high hands, contest the shot. A stunt that ends in a blow-by closeout gave up everything it saved."
+    }
+  ],
+  "hub": "defense",
+  "id": "stunt-and-recover-technique",
+  "level": "intermediate",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 6,
+  "related": [
+    "help-defense",
+    "closeout-defense",
+    "gap-defense",
+    "help-side-rotation-timing",
+    "rotation-patterns"
+  ],
+  "slug": "stunt-and-recover-technique",
+  "subcategory": "rotations",
+  "tags": [
+    "stunt",
+    "help defense",
+    "recover",
+    "closeout",
+    "rotations"
+  ],
+  "title": "Stunt and Recover Technique",
+  "vi": {
+    "coachingPoints": [
+      "Stunt là hai bước, không phải bốn — rotation hoàn toàn là dấn thân, stunt là hù dọa.",
+      "Sự dữ dội mới thuyết phục: stunt nửa tốc độ không làm người đột phá chùn bước; stunt hết tốc độ xoay chuyển cả pha bóng.",
+      "Tay cao, không bao giờ tay thấp — stunt cắt tầm nhìn và đường chuyền, không phải cướp bóng.",
+      "Thu hồi như thể đường chuyền đã được ném — vì nó đã được ném thật.",
+      "Pha stunt hay nhất là pha người đột phá cảm nhận được nhưng người chuyền không bao giờ thấy."
+    ],
+    "commonMistakes": [
+      "Stunt bốn bước rồi kẹt cứng — sửa: hai bước mạnh rồi quyết định; bước thứ ba là dấn thân.",
+      "Với tay khi stunt — sửa: tay cao và rộng; stunt là bức tường, không phải cú khều.",
+      "Thu hồi kiểu chạy lững thững — sửa: thu hồi bắt đầu ngay khi bóng bị dừng; chạy nhanh trước, hạ thấp sau.",
+      "Stunt mọi pha đột phá — sửa: stunt những pha đột phá nguy hiểm; stunt tất cả thì đối phương không còn nể."
+    ],
+    "description": "Nghệ thuật hỗ trợ giả: cách stunt vào người đột phá để làm chậm anh ta, rồi thu về người kèm trước đường kick-out.",
+    "gameSituations": [
+      "Gặp cầu thủ đột phá vượt trội có xạ thủ xung quanh — stunt để làm chậm pha đột phá mà không mở đường kick-out.",
+      "Khi người hỗ trợ của bạn nhỏ hơn người đột phá — stunt tránh mismatch mà một pha hỗ trợ hoàn toàn sẽ tạo ra.",
+      "Các pha isolation cuối đồng hồ — stunt phá nhịp mà không dâng cú ném 3 điểm giải cứu.",
+      "Gặp đội chuyên săn rotation của bạn — stunt-and-recover không cho họ thứ gì để săn."
+    ],
+    "howTo": [
+      {
+        "title": "Đọc pha đột phá từ sớm",
+        "detail": "Stunt bắt đầu từ pha đọc: khi người dẫn bóng qua mặt người kèm nửa bước về phía bạn, hãy sẵn sàng. Cơ thể xoay, trọng tâm dồn — nhưng chân vẫn gần vị trí."
+      },
+      {
+        "title": "Lao hai bước mạnh",
+        "detail": "Bùng nổ hai bước về phía người dẫn bóng với tay giơ cao và sự hiện diện rõ ràng — 'TÔI ĐÂY!'. Hai bước phải đủ dữ để người đột phá cảm nhận được bạn; stunt nửa vời không lừa được ai."
+      },
+      {
+        "title": "Giơ tay cao",
+        "detail": "Tay giơ cao để cắt đường chuyền bổng và khiến bạn trông to lớn. Không bao giờ thò tay thấp — stunt với tay thấp là phạm lỗi hoặc bị qua mặt, và khiến bạn mất pha thu hồi."
+      },
+      {
+        "title": "Đọc phản ứng của người đột phá",
+        "detail": "Nếu anh ta dừng bóng, stunt đã thành công — giữ vị trí một nhịp. Nếu anh ta tiếp tục đột phá, quyết định: dấn thân hỗ trợ hoàn toàn hoặc chạy về. Stunt đã mua cho bạn thông tin; hãy dùng nó."
+      },
+      {
+        "title": "Chạy nước rút thu về người kèm",
+        "detail": "Ngay khi bóng bị dừng hoặc được chuyền, chạy nước rút về người kèm bằng một pha closeout. Thu hồi là chạy hết tốc, không phải chạy lững thững — đường kick-out đã bay trên không."
+      },
+      {
+        "title": "Closeout có kiểm soát",
+        "detail": "Kết thúc bằng closeout kiểm soát: bước nhỏ, tay cao, contest cú ném. Một pha stunt kết thúc bằng closeout bị qua mặt đã dâng hết những gì nó cứu được."
+      }
+    ],
+    "tags": [
+      "stunt",
+      "phòng thủ hỗ trợ",
+      "thu hồi",
+      "closeout",
+      "xoay chuyển đội hình"
+    ],
+    "title": "Kỹ thuật stunt rồi thu hồi",
+    "whatIsIt": [
+      "Stunt là một pha hỗ trợ giả — hai bước lao mạnh về phía người dẫn bóng đang đột phá khiến anh ta phải dừng bóng hoặc đổi hướng, mà không dấn thân hoàn toàn vào rotation. Làm tốt, nó giết chết pha đột phá mà không tạo ra rotation nào; làm dở, nó chỉ là một pha closeout muộn.",
+      "Pha thu hồi mới làm nên stunt. Vì bạn chưa bao giờ rời đi hoàn toàn, bạn có thể chạy về người kèm trước khi đường kick-out tới. Stunt-and-recover là cách các hàng thủ hay hỗ trợ mà không cần hỗ trợ — đủ sức răn đe, không tốn rotation."
+    ],
+    "whyItMatters": [
+      "Mọi pha đột phá trong bóng rổ hiện đại đều là một câu hỏi: hỗ trợ hay giữ vị trí? Stunt là đáp án thứ ba — hù vừa đủ để phá pha đột phá, rồi về nhà. Đội stunt tốt thu hẹp đường đột phá mà không dâng những cú ném 3 điểm trống, đúng là cán cân mà mọi hàng thủ đều cố thắng."
+    ]
+  },
+  "whatIsIt": [
+    "A stunt is a fake help — a hard two-step jab toward the driving ball handler that makes him pick up the ball or change direction, without fully committing to the rotation. Done well, it kills drives and creates no rotations at all; done poorly, it is just a late closeout.",
+    "The recover is what makes the stunt work. Because you never fully left, you can sprint back to your man before the kick-out pass arrives. Stunt-and-recover is how good defenses help without helping — all the deterrence, none of the rotation."
+  ],
+  "whyItMatters": [
+    "Every drive in modern basketball is a question: help or stay? The stunt is the third answer — bluff just enough to disrupt the drive, then get home. Teams that stunt well shrink driving lanes without giving up open threes, which is exactly the trade every defense is trying to win."
+  ],
+  "diagram": {
+    "title": "Stunt and recover — D2 jabs at the driver, then sprints home",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 62,
+        "y": 30
+      },
+      {
+        "label": "O2",
+        "x": 30,
+        "y": 38
+      },
+      {
+        "label": "O3",
+        "x": 76,
+        "y": 40
+      },
+      {
+        "label": "O4",
+        "x": 44,
+        "y": 14
+      },
+      {
+        "label": "O5",
+        "x": 56,
+        "y": 12
+      }
+    ],
+    "defense": [
+      {
+        "label": "D1",
+        "x": 58,
+        "y": 28
+      },
+      {
+        "label": "D2",
+        "x": 38,
+        "y": 36
+      },
+      {
+        "label": "D3",
+        "x": 74,
+        "y": 38
+      },
+      {
+        "label": "D4",
+        "x": 43,
+        "y": 13
+      },
+      {
+        "label": "D5",
+        "x": 55,
+        "y": 11
+      }
+    ],
+    "ball": "O1",
+    "screens": [],
+    "moves": [
+      {
+        "from": "D2",
+        "to": "O1",
+        "kind": "move"
+      },
+      {
+        "from": "D2",
+        "to": "O2",
+        "kind": "move"
+      }
+    ],
+    "passes": [],
+    "shots": []
+  }
+}

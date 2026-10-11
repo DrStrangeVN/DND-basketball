@@ -1,0 +1,177 @@
+{
+  "id": "sweep-and-go",
+  "slug": "sweep-and-go",
+  "title": "Sweep and Go",
+  "description": "Sweep the ball low across your body and explode past the defender — the one-dribble blow-by from triple threat.",
+  "hub": "skills",
+  "subcategory": "footwork",
+  "level": "beginner",
+  "ages": [
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "Guard",
+    "Wing",
+    "Forward"
+  ],
+  "readTime": 5,
+  "dateUpdated": "2026-10-11",
+  "whatIsIt": [
+    "The sweep and go — also called the rip-through — starts from triple threat: you sweep the ball in a low arc across your body past the defender's reach, then explode into a drive in the same motion. The sweep protects the ball by moving it from one side to the other below the defender's hands.",
+    "It is called 'and go' because there is no pause. The sweep and the first drive step are one continuous explosion — hesitate between them and the move dies."
+  ],
+  "whyItMatters": [
+    "This is the fundamental wing attack that every player needs. It turns any catch on the perimeter into an immediate driving threat without a wasted dribble, and it teaches the core principle of beating a defender with your first step rather than your handles. Simple, fast, and effective at every level."
+  ],
+  "howTo": [
+    {
+      "title": "Catch in triple threat",
+      "detail": "Catch the ball low at your hip in an athletic stance, defender in front of you. The sweep starts from a loaded position."
+    },
+    {
+      "title": "Read the defender's hands",
+      "detail": "Check where the defender's hands are. Sweep the ball to the side away from their lead hand — never sweep into a reaching arm."
+    },
+    {
+      "title": "Sweep the ball low and tight",
+      "detail": "In one motion, sweep the ball in a tight, low arc across your body to your drive side. Keep it below the defender's hands and close to your hips."
+    },
+    {
+      "title": "Drop your drive-side shoulder",
+      "detail": "As you sweep, drop the shoulder on your drive side and lean into the drive. Your body protects the ball through the move."
+    },
+    {
+      "title": "Explode off the first step",
+      "detail": "The moment the ball reaches your drive side, take a long, low first step past the defender. The sweep and the step are one motion."
+    },
+    {
+      "title": "Get the ball down quickly",
+      "detail": "Put the ball on the floor with your first or second step — carrying it through the sweep is a travel waiting to happen."
+    }
+  ],
+  "coachingPoints": [
+    "The sweep must stay below the defender's hands the whole way — a high sweep gets deflected.",
+    "Keep the ball close to your body during the sweep; swinging it wide is how you get stripped.",
+    "Your first step has to beat the defender's slide — short first steps let them recover.",
+    "Always sweep away from the defender's lead hand, never into it."
+  ],
+  "commonMistakes": [
+    "Sweeping the ball too high — fix: practice sweeping under a partner's outstretched arm without touching it.",
+    "Pausing between the sweep and the drive — fix: drill it as one count — 'sweep-go' — until there's no gap.",
+    "Traveling by carrying the ball — fix: the ball must bounce before your second step lands; practice the timing slowly.",
+    "Sweeping into the defender's reach — fix: read their hands first; if both hands are up, jab instead of sweeping."
+  ],
+  "gameSituations": [
+    "Wing catches against a closeout — sweep away from the sprinting defender's momentum and drive the open lane.",
+    "Attacking a smaller defender — the sweep-and-go uses your first step to blow by before they can set their feet.",
+    "Transition wings — catch on the run, sweep, and go before the defense gets organized."
+  ],
+  "tags": [
+    "footwork",
+    "triple-threat",
+    "driving"
+  ],
+  "related": [
+    "triple-threat",
+    "jab-step",
+    "ball-protection",
+    "attacking-the-closeout",
+    "euro-step"
+  ],
+  "diagram": {
+    "title": "O1 sweeps the ball low across the body and blows by D1 in one motion",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 66,
+        "y": 27
+      }
+    ],
+    "defense": [
+      {
+        "label": "D1",
+        "x": 62,
+        "y": 25
+      }
+    ],
+    "ball": "O1",
+    "screens": [],
+    "moves": [
+      {
+        "from": "O1",
+        "to": "O1",
+        "kind": "move"
+      },
+      {
+        "from": "O1",
+        "to": "rim",
+        "kind": "dribble"
+      }
+    ],
+    "passes": [],
+    "shots": []
+  },
+  "vi": {
+    "title": "Kỹ thuật sweep and go (quét bóng vượt qua)",
+    "description": "Quét bóng thấp ngang người rồi bật tung qua hậu vệ — pha vượt mặt một-nhịp-dribble từ triple threat.",
+    "whatIsIt": [
+      "Sweep and go — còn gọi là rip-through — bắt đầu từ triple threat: bạn quét bóng theo một vòng cung thấp ngang người, qua khỏi tầm với của hậu vệ, rồi bật ngay vào pha đâm trong cùng một chuyển động. Cú quét che chắn bóng bằng cách đưa nó từ bên này sang bên kia, dưới tay hậu vệ.",
+      "Nó được gọi là 'and go' vì không có khoảng ngừng. Cú quét và bước đâm đầu tiên là một cú bùng nổ liên tục — ngập ngừng giữa chừng là động tác chết."
+    ],
+    "whyItMatters": [
+      "Đây là đòn tấn công cánh cơ bản mà mọi cầu thủ đều cần. Nó biến mọi pha bắt bóng ở vòng ngoài thành một mối đe dọa đâm ngay lập tức mà không tốn một nhịp dribble nào, và nó dạy nguyên tắc cốt lõi: đánh bại hậu vệ bằng bước đầu tiên chứ không phải bằng kỹ thuật tay. Đơn giản, nhanh, và hiệu quả ở mọi cấp độ."
+    ],
+    "howTo": [
+      {
+        "title": "Bắt bóng ở triple threat",
+        "detail": "Bắt bóng thấp ở hông trong tư thế thể thao, hậu vệ trước mặt. Cú quét bắt đầu từ một tư thế đã nén sẵn."
+      },
+      {
+        "title": "Đọc tay hậu vệ",
+        "detail": "Quan sát tay hậu vệ ở đâu. Quét bóng sang phía tránh xa tay trước của họ — không bao giờ quét vào cánh tay đang với."
+      },
+      {
+        "title": "Quét bóng thấp và sát",
+        "detail": "Trong một chuyển động, quét bóng theo vòng cung hẹp, thấp ngang người sang phía đâm. Giữ dưới tay hậu vệ và sát hông."
+      },
+      {
+        "title": "Hạ vai phía đâm",
+        "detail": "Khi quét, hạ vai phía đâm và nghiêng người vào hướng đâm. Cơ thể che chắn bóng suốt động tác."
+      },
+      {
+        "title": "Bật tung bước đầu tiên",
+        "detail": "Ngay khi bóng tới phía đâm, bước dài, thấp qua người hậu vệ. Cú quét và bước chân là một chuyển động duy nhất."
+      },
+      {
+        "title": "Đập bóng xuống nhanh",
+        "detail": "Đập bóng xuống sàn ở bước đầu hoặc bước hai — ôm bóng suốt cú quét là chờ bị thổi lỗi chạy bước."
+      }
+    ],
+    "coachingPoints": [
+      "Cú quét phải ở dưới tay hậu vệ suốt đường đi — quét cao là bị gạt.",
+      "Giữ bóng sát người khi quét; vung bóng rộng là cách bị móc bóng.",
+      "Bước đầu tiên phải thắng được đà trượt của hậu vệ — bước đầu ngắn là cho họ hồi phục.",
+      "Luôn quét tránh xa tay trước của hậu vệ, không bao giờ quét vào nó."
+    ],
+    "commonMistakes": [
+      "Quét bóng quá cao — sửa: tập quét dưới cánh tay giơ ngang của bạn tập mà không chạm vào.",
+      "Ngừng giữa cú quét và pha đâm — sửa: tập như một nhịp duy nhất — 'quét-đi' — cho đến khi không còn kẽ hở.",
+      "Lỗi chạy bước vì ôm bóng — sửa: bóng phải nảy trước khi bước hai chạm đất; tập nhịp chậm trước.",
+      "Quét vào tầm với của hậu vệ — sửa: đọc tay họ trước; nếu cả hai tay đều giơ lên, jab thay vì quét."
+    ],
+    "gameSituations": [
+      "Bắt bóng ở cánh trước người closeout — quét tránh khỏi đà lao của hậu vệ đang chạy tới và đâm vào lane trống.",
+      "Tấn công hậu vệ nhỏ hơn — sweep-and-go dùng bước đầu tiên để vượt mặt trước khi họ kịp vào thế.",
+      "Cánh khi phản công — bắt bóng khi đang chạy, quét, và đi trước khi hàng thủ kịp tổ chức."
+    ],
+    "tags": [
+      "bộ chân",
+      "triple threat",
+      "đâm rổ"
+    ]
+  }
+}

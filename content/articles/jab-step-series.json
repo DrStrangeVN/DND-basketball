@@ -1,0 +1,175 @@
+{
+  "id": "jab-step-series",
+  "slug": "jab-step-series",
+  "title": "Jab Step Series",
+  "description": "Weaponize the jab step: jab-and-go, jab-and-crossover, and jab-into-jumper from one triple-threat base.",
+  "hub": "skills",
+  "subcategory": "footwork",
+  "level": "beginner",
+  "ages": [
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 5,
+  "dateUpdated": "2026-10-11",
+  "whatIsIt": [
+    "The jab step is a short, hard step toward the defender with your non-pivot foot — a fake drive that tests their reaction. A jab step series means you don't just have one answer off the jab; you have three: drive past them if they retreat, crossover if they overplay, or shoot if they give you space.",
+    "The power of the series is that every option starts identically. The defender sees the same jab and the same triple-threat posture, but cannot know which of the three attacks is coming until it's too late."
+  ],
+  "whyItMatters": [
+    "The jab step is the most-used footwork move in basketball, and most players waste it by only having one move off it. Building the full series triples your options from every catch without learning anything exotic — it is the highest return-on-investment footwork you can practice."
+  ],
+  "howTo": [
+    {
+      "title": "Catch in triple threat",
+      "detail": "Catch the ball in a low, balanced triple-threat stance: knees bent, ball at your hip, ready to shoot, pass, or drive."
+    },
+    {
+      "title": "Establish your pivot foot",
+      "detail": "Know which foot is your pivot and keep it anchored. The jab comes from the free foot only."
+    },
+    {
+      "title": "Throw a hard jab step",
+      "detail": "Step sharply toward the defender with your non-pivot foot — 30 to 45 centimeters, low and quick. Sell it with your shoulders leaning into the drive."
+    },
+    {
+      "title": "Read the defender",
+      "detail": "If they step back, the drive is open. If they slide to cut off the jab side, the crossover is open. If they don't move, rise into the jumper."
+    },
+    {
+      "title": "Attack the read",
+      "detail": "Jab-and-go: push off and drive past their retreat. Jab-and-crossover: cross the ball over and drive the other way. Jab-and-shoot: bring the ball up into your shot in one motion."
+    },
+    {
+      "title": "Finish with purpose",
+      "detail": "Every jab series rep ends in a real scoring move — never jab and stand still."
+    }
+  ],
+  "coachingPoints": [
+    "The jab must be short and violent — a long, lazy jab is just a step, not a fake.",
+    "Keep the ball protected at your hip during the jab; reaching it toward the defender invites a strip.",
+    "Your eyes should look past the defender on the jab, selling the drive you may or may not take.",
+    "Practice all three options equally; a series with only one real threat is just a move."
+  ],
+  "commonMistakes": [
+    "Jabbing with the pivot foot — fix: mark your pivot foot and drill until the jab always comes from the free foot.",
+    "Standing up out of triple threat before jabbing — fix: stay low; the jab's power comes from a loaded stance.",
+    "Jabbing without reading — fix: have a coach give a hand signal after your jab so you must react with the right option.",
+    "Traveling on the jab-and-go — fix: the ball must hit the floor before your pivot foot lifts; drill it slowly first."
+  ],
+  "gameSituations": [
+    "Wing isolation — the jab series is your entire offense when the defense switches and leaves you one-on-one.",
+    "Attacking a closeout — catch, jab at the sprinting defender, and take whichever option their momentum gives you.",
+    "Post entry reads — jab from the high post to test the defender before deciding to drive or face up."
+  ],
+  "tags": [
+    "footwork",
+    "triple-threat",
+    "jab-step"
+  ],
+  "related": [
+    "jab-step",
+    "triple-threat",
+    "shot-fake",
+    "attacking-the-closeout",
+    "one-dribble-pull-up"
+  ],
+  "diagram": {
+    "title": "O1 jabs at D1 from triple threat, reads the retreat, and drives baseline",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 68,
+        "y": 26
+      }
+    ],
+    "defense": [
+      {
+        "label": "D1",
+        "x": 64,
+        "y": 24
+      }
+    ],
+    "ball": "O1",
+    "screens": [],
+    "moves": [
+      {
+        "from": "O1",
+        "to": "O1",
+        "kind": "move"
+      },
+      {
+        "from": "O1",
+        "to": "rim",
+        "kind": "move"
+      }
+    ],
+    "passes": [],
+    "shots": []
+  },
+  "vi": {
+    "title": "Chuỗi jab step",
+    "description": "Biến jab step thành vũ khí: jab-rồi-đi, jab-rồi-crossover, và jab-thành-ném từ một tư thế triple threat.",
+    "whatIsIt": [
+      "Jab step là một bước ngắn, mạnh về phía hậu vệ bằng chân không trụ — một pha giả đâm để thử phản ứng của họ. Chuỗi jab step nghĩa là bạn không chỉ có một câu trả lời sau cú jab; bạn có ba: đâm qua nếu họ lùi, crossover nếu họ chặn quá đà, hoặc ném nếu họ nhường khoảng trống.",
+      "Sức mạnh của chuỗi là mọi lựa chọn đều bắt đầu giống hệt nhau. Hậu vệ thấy cùng một cú jab và cùng một tư thế triple threat, nhưng không thể biết đòn nào trong ba đòn sắp đến cho đến khi quá muộn."
+    ],
+    "whyItMatters": [
+      "Jab step là động tác bộ chân được dùng nhiều nhất trong bóng rổ, và hầu hết cầu thủ lãng phí nó vì chỉ có một đòn sau cú jab. Xây dựng cả chuỗi giúp bạn có gấp ba lựa chọn từ mọi pha bắt bóng mà không cần học gì cao siêu — đó là khoản đầu tư bộ chân sinh lời nhất bạn có thể tập."
+    ],
+    "howTo": [
+      {
+        "title": "Bắt bóng ở triple threat",
+        "detail": "Bắt bóng ở tư thế triple threat thấp, thăng bằng: gối cong, bóng ở hông, sẵn sàng ném, chuyền hoặc đâm."
+      },
+      {
+        "title": "Xác lập chân trụ",
+        "detail": "Biết chân nào là chân trụ và giữ nó dính sàn. Cú jab chỉ đến từ chân tự do."
+      },
+      {
+        "title": "Tung cú jab mạnh",
+        "detail": "Bước mạnh, dứt khoát về phía hậu vệ bằng chân không trụ — 30 đến 45cm, thấp và nhanh. Diễn bằng vai nghiêng vào hướng đâm."
+      },
+      {
+        "title": "Đọc hậu vệ",
+        "detail": "Nếu họ lùi, đường đâm đã mở. Nếu họ trượt sang chặn phía jab, crossover đã mở. Nếu họ không nhúc nhích, bật lên ném."
+      },
+      {
+        "title": "Tấn công theo tình huống",
+        "detail": "Jab-rồi-đi: đạp mạnh và đâm qua khi họ lùi. Jab-rồi-crossover: đổi bóng và đâm hướng còn lại. Jab-thành-ném: đưa bóng lên tư thế ném trong một chuyển động."
+      },
+      {
+        "title": "Kết thúc có mục đích",
+        "detail": "Mọi lần tập chuỗi jab đều kết thúc bằng một động tác ghi điểm thật — không bao giờ jab rồi đứng yên."
+      }
+    ],
+    "coachingPoints": [
+      "Cú jab phải ngắn và dữ — một cú jab dài, uể oải chỉ là một bước chân, không phải pha giả.",
+      "Giữ bóng được che chắn ở hông khi jab; với bóng về phía hậu vệ là mời bị móc.",
+      "Mắt nhìn xuyên qua hậu vệ khi jab, diễn pha đâm mà bạn có thể hoặc không thực hiện.",
+      "Tập cả ba lựa chọn đều nhau; chuỗi chỉ có một đòn thật thì cũng chỉ là một động tác."
+    ],
+    "commonMistakes": [
+      "Jab bằng chân trụ — sửa: đánh dấu chân trụ và tập đến khi cú jab luôn đến từ chân tự do.",
+      "Đứng thẳng khỏi triple threat trước khi jab — sửa: giữ thấp; sức mạnh của jab đến từ tư thế đã nén sẵn.",
+      "Jab mà không đọc — sửa: nhờ HLV ra hiệu bằng tay sau cú jab để bạn phải phản ứng bằng lựa chọn đúng.",
+      "Lỗi chạy bước khi jab-rồi-đi — sửa: bóng phải chạm sàn trước khi chân trụ nhấc lên; tập chậm trước."
+    ],
+    "gameSituations": [
+      "Đơn đấu ở cánh — chuỗi jab là toàn bộ bài tấn công của bạn khi hàng thủ switch và để bạn một-đối-một.",
+      "Tấn công người closeout — bắt bóng, jab vào hậu vệ đang lao tới, và chọn lựa chọn mà đà của họ cho bạn.",
+      "Đọc tình huống đưa bóng vào post — jab từ high post để thử hậu vệ trước khi quyết định đâm hay xoay mặt."
+    ],
+    "tags": [
+      "bộ chân",
+      "triple threat",
+      "jab step"
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "id": "chase-action",
+  "slug": "chase-action",
+  "title": "Chase Action (Pin Down into DHO)",
+  "description": "The modern shooter's action: a pin down flows straight into a dribble handoff. The defender chases over two actions in one — and usually loses.",
+  "hub": "offense",
+  "subcategory": "half-court-offense",
+  "level": "intermediate",
+  "ages": [
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 6,
+  "dateUpdated": "2026-10-11",
+  "whatIsIt": [
+    "Chase action — sometimes called 'pistol chase' or 'pinch chase' — combines two actions into one continuous sequence: a pin down screen for a shooter, flowing immediately into a dribble handoff (DHO) with the screener. The name comes from what the defender has to do: chase the shooter over the pin down, then chase him again around the handoff.",
+    "The action usually starts with the shooter in the corner and a big with the ball at the elbow or wing. The big sets (or fakes) the pin down, the shooter sprints up, and instead of catching a pass, he takes the handoff on the move — already in rhythm, already going downhill. It is the closest thing in half-court offense to a fast-break catch."
+  ],
+  "whyItMatters": [
+    "Great shooters need the ball in rhythm, on the move, with their feet already set — and chase action delivers exactly that. A stationary catch-and-shoot gives the defense one closeout to make; chase gives them two actions to navigate in about two seconds, which is why it is a staple of every modern pro offense. For youth teams, it teaches the two most valuable off-ball habits at once: sprint off screens, and catch the ball already in motion."
+  ],
+  "howTo": [
+    {
+      "title": "Start with the shooter in the corner, big with the ball",
+      "detail": "O2 (shooter) in the corner. O4 has the ball at the elbow or wing area. O1 spots up weak side to stretch the help. The spacing must be clean — no clutter between the corner and the elbow."
+    },
+    {
+      "title": "Pin down first — make the defender chase",
+      "detail": "O4 (or a third player) sets a pin down for O2 coming up from the corner. D2 has to fight over it. This first action is real — if D2 goes under, O2 can flare for the catch-and-shoot three right here."
+    },
+    {
+      "title": "Flow straight into the handoff",
+      "detail": "Without stopping, O2 continues his sprint into a dribble handoff with O4, who now has the ball. The handoff happens at the wing or slot, with O4's body shielding D2. No pause between the pin down and the DHO — it is one motion."
+    },
+    {
+      "title": "The shooter attacks off the catch",
+      "detail": "O2 takes the handoff already moving downhill. Read D2: if he trails, pull up or drive; if he goes under the handoff, rise into the three; if help rotates, hit the rolling big or the corner."
+    },
+    {
+      "title": "The big rolls or pops after the handoff",
+      "detail": "O4 is not done after handing off — he rolls to the rim or pops to the wing depending on his defender. A rolling big after chase action often gets a free lane because the help is still recovering from the two-action sequence."
+    }
+  ],
+  "coachingPoints": [
+    "No pause between actions. The moment the shooter stops, the defense catches up — chase is one continuous sprint.",
+    "The handoff must be a real screen. O4's body shields the defender; a soft handoff with no contact is just a pass.",
+    "Shooter: take the ball on the move with your eyes up. Catching flat-footed kills the whole advantage.",
+    "If the defender goes under the pin down, take the three immediately. Do not run the second action out of habit — take what the defense gives.",
+    "Big men: practice handing off on the sprint. Most bigs only DHO standing still; chase requires the handoff at speed."
+  ],
+  "commonMistakes": [
+    "Shooter jogs the pin down and walks into the handoff — fix: full sprint from the corner; the action is timed to the sprint.",
+    "Handoff with no screen — the big just flips the ball — fix: the big's hip must make contact-shield; drill the DHO as a screen first.",
+    "Pausing between the pin down and the handoff to 'see what happens' — fix: script it as one motion until the timing is muscle memory.",
+    "Big stands and watches after the handoff — fix: roll or pop is mandatory; the second action creates the roll lane."
+  ],
+  "gameSituations": [
+    "Freeing a star shooter: when the defense face-guards your best shooter, chase action uses their aggression against them — two screens instead of one.",
+    "Late-clock scoring: chase from the corner to the wing produces a rhythm three or a downhill drive in under 6 seconds.",
+    "Against drop coverage: the handoff becomes a moving ball screen — the guard turns the corner with the big rolling behind the drop."
+  ],
+  "tags": [
+    "chase action",
+    "DHO",
+    "pin down",
+    "shooter",
+    "half-court offense"
+  ],
+  "related": [
+    "dho-action",
+    "pin-down-screen",
+    "floppy-action",
+    "zoom-action",
+    "pistol-action"
+  ],
+  "diagram": {
+    "title": "Chase action — O2 sprints off O4's pin down straight into the dribble handoff",
+    "offense": [
+      {
+        "label": "O2",
+        "x": 88,
+        "y": 7
+      },
+      {
+        "label": "O4",
+        "x": 70,
+        "y": 30
+      },
+      {
+        "label": "O1",
+        "x": 30,
+        "y": 55
+      }
+    ],
+    "defense": [
+      {
+        "label": "D2",
+        "x": 84,
+        "y": 7
+      },
+      {
+        "label": "D4",
+        "x": 70,
+        "y": 35
+      },
+      {
+        "label": "D1",
+        "x": 30,
+        "y": 50
+      }
+    ],
+    "ball": "O4",
+    "screens": [
+      {
+        "x": 80,
+        "y": 18
+      }
+    ],
+    "moves": [
+      {
+        "from": "O4",
+        "to": "O2",
+        "kind": "screen-run"
+      },
+      {
+        "from": "O2",
+        "to": "O4",
+        "kind": "cut"
+      },
+      {
+        "from": "O2",
+        "to": "rim",
+        "kind": "dribble"
+      },
+      {
+        "from": "O4",
+        "to": "rim",
+        "kind": "cut"
+      }
+    ],
+    "passes": [],
+    "shots": []
+  },
+  "vi": {
+    "title": "Miếng chase action (pin down nối DHO)",
+    "description": "Miếng đánh hiện đại cho tay ném: pin down nối thẳng vào dribble handoff. Hậu vệ phải đuổi qua hai lớp screen trong một nhịp — và thường là thua.",
+    "whatIsIt": [
+      "Chase action — còn gọi là 'pistol chase' — kết hợp hai miếng đánh thành một chuỗi liên tục: screen pin down cho tay ném, nối ngay vào dribble handoff (DHO) với người dựng screen. Cái tên nói lên việc hậu vệ phải làm: đuổi tay ném qua pin down, rồi đuổi tiếp vòng qua handoff.",
+      "Miếng đánh thường bắt đầu với tay ném ở góc và big cầm bóng ở elbow hoặc cánh. Big dựng (hoặc giả) pin down, tay ném chạy nước rút lên, và thay vì bắt đường chuyền, anh ta nhận handoff ngay khi đang di chuyển — đã vào nhịp, đã lao xuống rổ. Đó là thứ gần nhất với pha bắt bóng phản công trong tấn công half-court."
+    ],
+    "whyItMatters": [
+      "Tay ném giỏi cần bóng đúng nhịp, đang di chuyển, chân đã vào tư thế — và chase action cho đúng thứ đó. Một pha bắt bóng ném ngay đứng yên cho hàng thủ một lần closeout; chase bắt họ vượt qua hai lớp screen trong khoảng hai giây, đó là lý do nó là món tủ của mọi hệ thống tấn công hiện đại. Với đội trẻ, nó dạy cùng lúc hai thói quen không bóng giá trị nhất: chạy nước rút qua screen, và bắt bóng khi đang di chuyển."
+    ],
+    "howTo": [
+      {
+        "title": "Xếp tay ném ở góc, big cầm bóng",
+        "detail": "O2 (tay ném) ở góc. O4 cầm bóng ở elbow hoặc khu vực cánh. O1 đứng phía yếu để kéo help. Giãn đội hình phải sạch — không ai lảng vảng giữa góc và elbow."
+      },
+      {
+        "title": "Pin down trước — bắt hậu vệ đuổi",
+        "detail": "O4 (hoặc cầu thủ thứ ba) dựng pin down cho O2 chạy lên từ góc. D2 phải vật lộn vượt qua. Lớp đầu này là thật — D2 mà luồn dưới thì O2 flare ra bắt bóng ném ngay 3 điểm tại chỗ."
+      },
+      {
+        "title": "Nối thẳng vào handoff",
+        "detail": "Không dừng lại, O2 tiếp tục chạy nước rút vào dribble handoff với O4, người đang cầm bóng. Handoff diễn ra ở cánh hoặc slot, thân người O4 che chắn D2. Không có khoảng nghỉ giữa pin down và DHO — đó là một chuyển động."
+      },
+      {
+        "title": "Tay ném tấn công ngay khi nhận bóng",
+        "detail": "O2 nhận handoff khi đang lao xuống. Đọc D2: hắn chạy theo sau thì pull-up hoặc đột phá; hắn luồn dưới handoff thì nhấc lên ném 3; help xoay sang thì chuyền cho big đang roll hoặc ra góc."
+      },
+      {
+        "title": "Big roll hoặc pop sau handoff",
+        "detail": "O4 chưa xong việc sau khi giao bóng — anh ta roll xuống rổ hoặc pop ra cánh tùy hậu vệ của mình. Big roll sau chase action thường có lane trống vì help còn chưa hồi phục sau chuỗi hai lớp screen."
+      }
+    ],
+    "coachingPoints": [
+      "Không nghỉ giữa hai lớp. Tay ném mà dừng lại là hàng thủ kịp đuổi — chase là một pha chạy nước rút liên tục.",
+      "Handoff phải là một screen thật. Thân người O4 che hậu vệ; handoff mềm không va chạm chỉ là một đường chuyền.",
+      "Tay ném: nhận bóng đang di chuyển, mắt nhìn lên. Bắt bóng đứng yên là giết cả lợi thế.",
+      "Hậu vệ mà luồn dưới pin down thì ném 3 ngay. Đừng chạy lớp thứ hai theo thói quen — lấy thứ hàng thủ cho.",
+      "Bigman: tập handoff khi đang chạy. Hầu hết big chỉ DHO khi đứng yên; chase đòi handoff ở tốc độ cao."
+    ],
+    "commonMistakes": [
+      "Tay ném chạy lững thững qua pin down rồi đi bộ vào handoff — sửa: chạy nước rút từ góc; cả miếng đánh được căn theo nhịp chạy.",
+      "Handoff không có screen — big chỉ quăng bóng — sửa: hông của big phải tạo lá chắn va chạm; tập DHO như một screen trước đã.",
+      "Dừng lại giữa pin down và handoff để 'xem tình hình' — sửa: tập như một chuyển động cho đến khi timing thành phản xạ.",
+      "Big đứng xem sau handoff — sửa: roll hoặc pop là bắt buộc; lớp thứ hai tạo ra lane cho người roll."
+    ],
+    "gameSituations": [
+      "Giải phóng tay ném chủ lực: hàng thủ face-guard tay ném tốt nhất thì chase action dùng chính sự hiếu chiến của họ chống lại họ — hai lớp screen thay vì một.",
+      "Ghi điểm cuối đồng hồ: chase từ góc lên cánh cho cú 3 điểm đúng nhịp hoặc pha đột phá trong chưa đầy 6 giây.",
+      "Trước drop coverage: handoff trở thành moving ball screen — hậu vệ vòng qua góc với big roll sau lưng drop."
+    ],
+    "tags": [
+      "chase action",
+      "DHO",
+      "pin down",
+      "tay ném",
+      "tấn công half-court"
+    ]
+  }
+}

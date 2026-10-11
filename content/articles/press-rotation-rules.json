@@ -1,0 +1,226 @@
+{
+  "ages": [
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "coachingPoints": [
+    "Rotation is a sprint, not a jog — the press only works if the back three arrive before the ball does.",
+    "Take the danger, not your man. Matching up by proximity beats matching up by assignment behind a press.",
+    "The rim is sacred: the deepest defender protects the basket first and finds a man second.",
+    "Talk through every rotation. A quiet press is a broken press.",
+    "Drill rotations 5-on-4 more than you drill the trap 2-on-1 — the trap is easy, the rotation wins games."
+  ],
+  "commonMistakes": [
+    "Waiting to see if the trap works before rotating — fix: the call 'Trap!' is the starter's gun; move on the call.",
+    "Chasing 'your man' instead of the danger — fix: re-drill that behind a press, proximity beats assignment.",
+    "Deepest defender finding his man before protecting the rim — fix: rim first is a non-negotiable rule.",
+    "No talk during rotations — fix: make verbal calls a condition of the drill; silent reps don't count."
+  ],
+  "dateUpdated": "2026-10-11",
+  "description": "The rules that keep a press alive: who rotates where when the trap springs, how the back line covers, and the sprint-back triggers.",
+  "gameSituations": [
+    "Installing any new press — teach the rotation rules before the trap mechanics; the trap is the easy part.",
+    "After giving up two straight press-break layups — stop and re-drill the sprint-back trigger before continuing.",
+    "Late-game pressing when legs are tired — tired legs need simpler rules, not more effort; shorten the rotation to rim-first only.",
+    "Against a team that beats your press with one long pass — the rotation rules tell you exactly which link broke."
+  ],
+  "howTo": [
+    {
+      "title": "Learn the rotation order",
+      "detail": "When the trap springs, the rotation order is fixed: the interceptor takes the middle lane, the next defender takes the most dangerous receiver, and the deepest defender takes the rim. Drill it 5-on-4 until nobody has to think."
+    },
+    {
+      "title": "Sprint on the call, not the pass",
+      "detail": "The back three start sprinting the moment they hear 'Trap!' — not when the ball is passed out. A half-second head start is the difference between a contested shot and a layup."
+    },
+    {
+      "title": "Take the most dangerous man",
+      "detail": "Rotations are not about finding 'your' man — they are about taking the most dangerous open man. The player closest to the ball takes ball, the next takes the deepest threat, and everyone matches up from there."
+    },
+    {
+      "title": "Protect the rim first",
+      "detail": "The deepest defender's rule is absolute: get between the ball and the basket before finding a man. A press that gives up rim protection gives up the whole point of pressing."
+    },
+    {
+      "title": "Communicate the switches",
+      "detail": "Every rotation needs a voice: 'I got ball!', 'I got middle!', 'I got low!'. Silent rotations are broken rotations — if two players take the same man, the talk failed, not the legs."
+    },
+    {
+      "title": "Sprint back on the beat",
+      "detail": "If the ball beats the press with a long pass, all five sprint to the paint. The first man back takes the ball, the rest match up by proximity. The press ends at the paint — the half-court defense begins there."
+    }
+  ],
+  "hub": "defense",
+  "id": "press-rotation-rules",
+  "level": "advanced",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 7,
+  "related": [
+    "full-court-press",
+    "rotation-patterns",
+    "help-defense",
+    "transition-defense",
+    "sprint-back-habits"
+  ],
+  "slug": "press-rotation-rules",
+  "subcategory": "defensive-systems",
+  "tags": [
+    "press",
+    "rotations",
+    "team defense",
+    "transition defense",
+    "advanced defense"
+  ],
+  "title": "Press Rotation Rules",
+  "vi": {
+    "coachingPoints": [
+      "Rotation là chạy nước rút, không phải chạy lững thững — press chỉ hiệu quả khi ba người phía sau tới nơi trước bóng.",
+      "Lấy mối nguy hiểm, không phải người của mình. Kèm theo vị trí gần nhất tốt hơn kèm theo phân công sau press.",
+      "Rổ là bất khả xâm phạm: cầu thủ sâu nhất bảo vệ rổ trước, tìm người kèm sau.",
+      "Hô trong mọi rotation. Press im lặng là press đã hỏng.",
+      "Tập rotation 5 đấu 4 nhiều hơn tập bẫy 2 đấu 1 — pha bẫy dễ, rotation mới thắng trận."
+    ],
+    "commonMistakes": [
+      "Chờ xem bẫy có thành công không rồi mới xoay — sửa: tiếng hô 'Bẫy!' là phát súng xuất phát; di chuyển ngay khi nghe hô.",
+      "Đuổi theo 'người của mình' thay vì mối nguy hiểm — sửa: tập lại rằng sau press, vị trí gần nhất quan trọng hơn phân công.",
+      "Cầu thủ sâu nhất tìm người kèm trước khi bảo vệ rổ — sửa: rổ trước là quy tắc không thương lượng.",
+      "Không hô trong lúc rotation — sửa: đặt điều kiện tiếng hô cho bài tập; lần tập im lặng không tính."
+    ],
+    "description": "Những quy tắc giữ cho press sống sót: ai xoay đi đâu khi bẫy giăng, hàng sau bọc lót thế nào, và tín hiệu chạy về.",
+    "gameSituations": [
+      "Khi cài press mới — dạy luật rotation trước kỹ thuật bẫy; pha bẫy là phần dễ.",
+      "Sau khi để lọt hai pha layup phá press liên tiếp — dừng lại và tập lại tín hiệu chạy về trước khi tiếp tục.",
+      "Press cuối trận khi chân đã mỏi — chân mỏi cần luật đơn giản hơn, không phải nỗ lực nhiều hơn; rút gọn rotation chỉ còn rổ trước.",
+      "Gặp đội phá press bằng một đường chuyền dài — luật rotation cho bạn biết chính xác mắt xích nào đã gãy."
+    ],
+    "howTo": [
+      {
+        "title": "Học thứ tự rotation",
+        "detail": "Khi bẫy giăng, thứ tự rotation cố định: người chặn đường chuyền lấy đường giữa, cầu thủ tiếp theo lấy người nhận bóng nguy hiểm nhất, và cầu thủ sâu nhất lấy rổ. Tập 5 đấu 4 đến khi không ai phải nghĩ."
+      },
+      {
+        "title": "Chạy khi nghe hô, không phải khi bóng chuyền",
+        "detail": "Ba người phía sau bắt đầu chạy ngay khi nghe 'Bẫy!' — không phải khi bóng được chuyền ra. Nửa giây xuất phát trước là ranh giới giữa một cú ném bị contest và một cú layup."
+      },
+      {
+        "title": "Lấy người nguy hiểm nhất",
+        "detail": "Rotation không phải tìm 'người của mình' — mà là lấy người trống nguy hiểm nhất. Người gần bóng nhất lấy bóng, người tiếp theo lấy mối đe dọa sâu nhất, rồi mọi người kèm dần từ đó."
+      },
+      {
+        "title": "Bảo vệ rổ trước tiên",
+        "detail": "Quy tắc của cầu thủ sâu nhất là tuyệt đối: đứng giữa bóng và rổ trước khi tìm người kèm. Press mà bỏ bảo vệ rổ là bỏ đi cả ý nghĩa của việc press."
+      },
+      {
+        "title": "Hô khi đổi người",
+        "detail": "Mọi rotation cần một giọng nói: 'Tôi lấy bóng!', 'Tôi lấy giữa!', 'Tôi lấy dưới!'. Rotation im lặng là rotation hỏng — nếu hai người kèm cùng một người, lỗi ở tiếng hô, không phải ở đôi chân."
+      },
+      {
+        "title": "Chạy về khi bị vượt",
+        "detail": "Nếu bóng vượt press bằng đường chuyền dài, cả năm người chạy về khu vực dưới rổ. Người về đầu tiên lấy bóng, còn lại kèm theo vị trí gần nhất. Press kết thúc ở khu vực dưới rổ — phòng thủ nửa sân bắt đầu từ đó."
+      }
+    ],
+    "tags": [
+      "press",
+      "xoay chuyển đội hình",
+      "phòng thủ đồng đội",
+      "phòng thủ chuyển đổi",
+      "phòng thủ nâng cao"
+    ],
+    "title": "Luật xoay chuyển sau press",
+    "whatIsIt": [
+      "Mọi press đều có hai lớp phòng thủ: bản thân press và rotation phía sau nó. Pha bẫy thu hút sự chú ý, nhưng trận đấu thua ở khâu rotation — một nhiệm vụ bỏ lỡ sau bẫy là một cú layup, và layup giết chết đội press nhanh hơn mọi thứ.",
+      "Các đội press giỏi tập rotation như một kỹ năng riêng. Quy tắc đơn giản và tuyệt đối: chạy khi nghe hô, lấy người nguy hiểm nhất, bảo vệ rổ trước. Khi cả năm người tuân cùng một quy tắc, press trở thành một hệ thống thay vì một canh bạc."
+    ],
+    "whyItMatters": [
+      "Press mà không có luật rotation chỉ là năm người đuổi theo bóng. Có luật, nó trở thành cỗ máy tạo mất bóng hiệu quả nhất — bạn ép đối phương sai lầm ở tốc độ tối đa mà luôn có đáp án cho đường chuyền thoát bẫy. Đó là điểm phân biệt press thắng trận với press tặng 20 điểm phản công."
+    ]
+  },
+  "whatIsIt": [
+    "Every press has two defenses: the press itself and the rotation behind it. The trap gets the attention, but games are lost in the rotation — one missed assignment behind a trap is a layup, and layups kill pressing teams faster than anything.",
+    "Great pressing teams drill rotation as a separate skill. The rules are simple and absolute: sprint on the call, take the most dangerous man, protect the rim first. When all five players follow the same rules, the press becomes a system instead of a gamble."
+  ],
+  "whyItMatters": [
+    "A press without rotation rules is just five players chasing the ball. With rules, it becomes the most efficient turnover machine in basketball — you force mistakes at full speed while always having an answer for the pass out. That is what separates a press that wins games from one that gives up 20 fast-break points."
+  ],
+  "diagram": {
+    "title": "Trap sprung — back three sprint to cover the lanes behind",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 76,
+        "y": 30
+      },
+      {
+        "label": "O2",
+        "x": 50,
+        "y": 40
+      },
+      {
+        "label": "O3",
+        "x": 26,
+        "y": 32
+      },
+      {
+        "label": "O4",
+        "x": 42,
+        "y": 14
+      },
+      {
+        "label": "O5",
+        "x": 60,
+        "y": 12
+      }
+    ],
+    "defense": [
+      {
+        "label": "D1",
+        "x": 72,
+        "y": 32
+      },
+      {
+        "label": "D2",
+        "x": 80,
+        "y": 28
+      },
+      {
+        "label": "D3",
+        "x": 54,
+        "y": 36
+      },
+      {
+        "label": "D4",
+        "x": 40,
+        "y": 16
+      },
+      {
+        "label": "D5",
+        "x": 58,
+        "y": 16
+      }
+    ],
+    "ball": "O1",
+    "screens": [],
+    "moves": [
+      {
+        "from": "D3",
+        "to": "O2",
+        "kind": "move"
+      },
+      {
+        "from": "D4",
+        "to": "O4",
+        "kind": "move"
+      },
+      {
+        "from": "D5",
+        "to": "O5",
+        "kind": "move"
+      }
+    ],
+    "passes": [],
+    "shots": []
+  }
+}

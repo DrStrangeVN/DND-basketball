@@ -1,0 +1,226 @@
+{
+  "id": "empty-side-pick-and-roll",
+  "slug": "empty-side-pick-and-roll",
+  "title": "Empty Side Pick and Roll",
+  "description": "Run the pick and roll on a side of the floor with no weak-side help — just two defenders to beat and the whole baseline as your playground.",
+  "hub": "pick-and-roll",
+  "subcategory": "pick-and-roll",
+  "level": "advanced",
+  "ages": [
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 6,
+  "dateUpdated": "2026-10-11",
+  "whatIsIt": [
+    "An empty side pick and roll is run on the side of the floor opposite all the weak-side players — typically with three teammates on the far side and nothing but the guard, the screener, and their defenders on the strong side. The 'empty' side has no help defenders, no tag man, no stunt — just space.",
+    "The geometry is what makes it special. With the weak side overloaded (three offensive players pulling three defenders far away), the two-man game happens in isolation: the guard only has to beat his man and the screener's defender. There is no third defender to make the read complicated. It is the closest thing in team basketball to a 2-on-2 game — and 2-on-2 favors the offense."
+  ],
+  "whyItMatters": [
+    "Most pick and roll reads are hard because of the third defender — the tag, the low help, the stunt. The empty side removes him by geometry, which means young guards can learn PNR reads in their simplest form: beat two defenders, choose between three options (score, roller, skip). For advanced teams, it is a late-game weapon: isolate your best two-man game on the empty side and let them go to work with no help coming. Simplicity is the ultimate sophistication in the pick and roll."
+  ],
+  "howTo": [
+    {
+      "title": "Overload the weak side",
+      "detail": "O2, O3, O4 set up on the weak side — corner, wing, and slot — pulling D2, D3, D4 far from the action. The strong side holds only O1 (ball) and O5 (screener). Spacing must be extreme: the weak side might as well be in another zip code."
+    },
+    {
+      "title": "Set the screen on the empty side",
+      "detail": "O5 sets the ball screen for O1 on the cleared side. D1 and D5 are on an island — no help behind them, no tag on the roller. The screen angle should favor the baseline or the middle depending on the personnel."
+    },
+    {
+      "title": "The guard attacks 2-on-2",
+      "detail": "O1 comes off the screen reading only two defenders. If D1 goes under, pull up. If D5 drops, drive or snake. If they switch, attack the mismatch. The reads are simple because the floor is simple."
+    },
+    {
+      "title": "The roller owns the baseline",
+      "detail": "O5 rolls with the entire baseline side open — no tag, no low help. This is prime lob territory: if D5 commits to the guard, the lob over the top is undefended."
+    },
+    {
+      "title": "The skip pass is the bailout",
+      "detail": "If the defense somehow sends help from the weak side — a long rotation — O1 skips to the weak side for a wide-open three. The longer the help has to travel, the more open the skip. Never force it into two defenders; the skip is always there."
+    }
+  ],
+  "coachingPoints": [
+    "Extreme spacing is non-negotiable. If the weak side creeps toward the middle, the help arrives on time and the concept dies — enforce the overload.",
+    "Teach it as the first PNR read system for young guards. Two defenders, three options — master this before adding the tag and help reads.",
+    "The roller must expect the lob. With no tag, the lob is the highest-percentage finish — rollers who aren't lob-ready waste the geometry.",
+    "Don't rush. The empty side gives you time — the help is far away. Let the guard use two or three dribbles to make the perfect read.",
+    "Use it to close games. Your best guard-big duo, empty side, spread floor — that's a late-game package that needs no play call."
+  ],
+  "commonMistakes": [
+    "Weak side drifts toward the ball — fix: mark the weak-side spots; anyone inside the imaginary line gets subbed (in practice).",
+    "Guard forces the drive into two set defenders — fix: the empty side doesn't mean the defenders disappeared; read them — pull-up and skip are options too.",
+    "Roller doesn't look for the lob — fix: drill the lob read specifically in empty-side reps; it's the signature finish.",
+    "Running it without a shooting threat weak side — fix: the overload only pulls defenders if they respect the shooters; personnel matters."
+  ],
+  "gameSituations": [
+    "Late-game isolation: 2-man game on the empty side with your best duo — simple, unguardable, and it doesn't need a timeout to install.",
+    "Teaching PNR: start every young guard on empty-side reps — the reads are clean and the confidence builds fast.",
+    "Against help-heavy defenses: when opponents send three defenders at your PNR, the empty side makes the help travel too far to matter."
+  ],
+  "tags": [
+    "pick and roll",
+    "empty side",
+    "spacing",
+    "2-on-2",
+    "ball screen"
+  ],
+  "related": [
+    "side-pick-and-roll",
+    "middle-pick-and-roll",
+    "drive-and-kick",
+    "skip-pass-reads",
+    "pick-and-roll-reads"
+  ],
+  "diagram": {
+    "title": "Empty side PNR — weak side overloaded, O1 and O5 work 2-on-2 on the empty side",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 70,
+        "y": 52
+      },
+      {
+        "label": "O5",
+        "x": 66,
+        "y": 42
+      },
+      {
+        "label": "O2",
+        "x": 20,
+        "y": 40
+      },
+      {
+        "label": "O3",
+        "x": 12,
+        "y": 10
+      },
+      {
+        "label": "O4",
+        "x": 35,
+        "y": 55
+      }
+    ],
+    "defense": [
+      {
+        "label": "D1",
+        "x": 70,
+        "y": 47
+      },
+      {
+        "label": "D5",
+        "x": 66,
+        "y": 47
+      },
+      {
+        "label": "D2",
+        "x": 24,
+        "y": 40
+      },
+      {
+        "label": "D3",
+        "x": 16,
+        "y": 14
+      },
+      {
+        "label": "D4",
+        "x": 35,
+        "y": 50
+      }
+    ],
+    "ball": "O1",
+    "screens": [
+      {
+        "x": 66,
+        "y": 45
+      }
+    ],
+    "moves": [
+      {
+        "from": "O5",
+        "to": "O1",
+        "kind": "screen-run"
+      },
+      {
+        "from": "O1",
+        "to": "rim",
+        "kind": "dribble"
+      },
+      {
+        "from": "O5",
+        "to": "rim",
+        "kind": "cut"
+      }
+    ],
+    "passes": [
+      {
+        "from": "O1",
+        "to": "O2"
+      }
+    ],
+    "shots": []
+  },
+  "vi": {
+    "title": "Pick and roll mặt sân trống (empty side pick and roll)",
+    "description": "Chạy pick and roll ở phía sân không còn help phía yếu — chỉ hai hậu vệ phải vượt và cả baseline là sân chơi của bạn.",
+    "whatIsIt": [
+      "Empty side pick and roll chạy ở phía sân đối diện với mọi cầu thủ phía yếu — thường ba đồng đội dồn sang phía xa, chỉ còn hậu vệ, người dựng screen và hậu vệ của họ ở phía mạnh. Phía 'trống' không có help, không có tag man, không có stunt — chỉ có khoảng trống.",
+      "Hình học là thứ khiến nó đặc biệt. Khi phía yếu dồn đông (ba cầu thủ tấn công kéo ba hậu vệ ra xa), miếng đánh hai người diễn ra trong isolation: hậu vệ chỉ phải vượt người kèm mình và hậu vệ của người dựng screen. Không còn hậu vệ thứ ba làm phức tạp cách đọc. Đó là thứ gần nhất với trận 2-kèm-2 trong bóng rổ đồng đội — mà 2-kèm-2 thì lợi cho tấn công."
+    ],
+    "whyItMatters": [
+      "Hầu hết cách đọc pick and roll khó vì hậu vệ thứ ba — tag, low help, stunt. Phía trống xóa hắn bằng hình học, nghĩa là hậu vệ trẻ học cách đọc PNR ở dạng đơn giản nhất: vượt hai hậu vệ, chọn giữa ba phương án (ghi điểm, người roll, chuyền chéo). Với đội trình độ cao, đây là vũ khí cuối trận: isolate cặp đôi hai người hay nhất ở phía trống và để họ làm việc mà không có help đến. Đơn giản là đỉnh cao tinh tế của pick and roll."
+    ],
+    "howTo": [
+      {
+        "title": "Dồn đông phía yếu",
+        "detail": "O2, O3, O4 xếp ở phía yếu — góc, cánh và slot — kéo D2, D3, D4 ra xa miếng đánh. Phía mạnh chỉ giữ O1 (bóng) và O5 (người dựng). Giãn đội hình phải cực đoan: phía yếu xa như ở thành phố khác."
+      },
+      {
+        "title": "Dựng screen ở phía trống",
+        "detail": "O5 dựng screen cho O1 ở phía đã dọn. D1 và D5 bị isolate — không help sau lưng, không tag người roll. Góc screen nên hướng về baseline hoặc giữa sân tùy nhân sự."
+      },
+      {
+        "title": "Hậu vệ đánh 2-kèm-2",
+        "detail": "O1 vòng qua screen, chỉ đọc hai hậu vệ. D1 luồn dưới thì pull-up. D5 drop thì đột phá hoặc snake. Họ switch thì tấn công mismatch. Cách đọc đơn giản vì mặt sân đơn giản."
+      },
+      {
+        "title": "Người roll làm chủ baseline",
+        "detail": "O5 roll với cả phía baseline mở toang — không tag, không low help. Đây là lãnh địa của alley-oop: D5 mà commit vào hậu vệ thì đường bổng qua đầu không ai cản."
+      },
+      {
+        "title": "Chuyền chéo là van xả",
+        "detail": "Hàng thủ mà xoay help từ phía yếu sang — một rotation đường dài — thì O1 chuyền chéo sang phía yếu cho cú 3 điểm trống trải. Help phải đi càng xa, cú skip càng trống. Đừng cố ép vào hai hậu vệ; đường skip luôn ở đó."
+      }
+    ],
+    "coachingPoints": [
+      "Giãn cực đoan là không thương lượng. Phía yếu mà co vào giữa thì help đến kịp giờ, ý tưởng chết — ép việc dồn phía yếu.",
+      "Dạy như hệ thống đọc PNR đầu tiên cho hậu vệ trẻ. Hai hậu vệ, ba phương án — thành thạo cái này trước khi thêm cách đọc tag và help.",
+      "Người roll phải chờ alley-oop. Không có tag thì lob là pha kết thúc tỷ lệ cao nhất — người roll không sẵn sàng bắt lob là phí hình học.",
+      "Đừng vội. Phía trống cho bạn thời gian — help ở xa. Để hậu vệ dùng hai ba nhịp dẫn để đọc cho chuẩn.",
+      "Dùng để kết liễu trận đấu. Cặp hậu vệ-big hay nhất, phía trống, sân giãn — đó là gói cuối trận không cần gọi bài."
+    ],
+    "commonMistakes": [
+      "Phía yếu trôi về phía bóng — sửa: đánh dấu vị trí phía yếu; ai lọt vào trong đường tưởng tượng thì bị thay ra (khi tập).",
+      "Hậu vệ cố đột phá vào hai hậu vệ đã trụ — sửa: phía trống không có nghĩa hậu vệ biến mất; đọc họ — pull-up và skip cũng là phương án.",
+      "Người roll không nhìn alley-oop — sửa: tập riêng cách đọc lob trong các rep phía trống; đó là pha kết thúc đặc trưng.",
+      "Chạy mà phía yếu không có mối đe dọa ném — sửa: dồn đông chỉ kéo được hậu vệ nếu họ nể tay ném; nhân sự rất quan trọng."
+    ],
+    "gameSituations": [
+      "Isolate cuối trận: miếng 2 người ở phía trống với cặp đôi hay nhất — đơn giản, không kèm được, và không cần hội ý để dựng.",
+      "Dạy PNR: cho mọi hậu vệ trẻ bắt đầu bằng rep phía trống — cách đọc sạch, sự tự tin lên nhanh.",
+      "Trước hàng thủ help nhiều: đối thủ đưa ba hậu vệ vào PNR của bạn thì phía trống bắt help đi quá xa để còn ý nghĩa."
+    ],
+    "tags": [
+      "pick and roll",
+      "phía trống",
+      "giãn đội hình",
+      "2-kèm-2",
+      "screen cho bóng"
+    ]
+  }
+}

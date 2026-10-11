@@ -1,0 +1,239 @@
+{
+  "id": "stack-pick-and-roll",
+  "slug": "stack-pick-and-roll",
+  "title": "Stack Pick and Roll",
+  "description": "Two screeners stacked on the same side — the ball handler uses the first, then the second. A double ball screen that buries help defenders and springs the roller free.",
+  "hub": "pick-and-roll",
+  "subcategory": "pick-and-roll",
+  "level": "intermediate",
+  "ages": [
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 6,
+  "dateUpdated": "2026-10-11",
+  "whatIsIt": [
+    "A stack pick and roll places two screeners in a vertical stack on one side of the floor — one near the elbow, one a step behind. The ball handler comes off the first screen, and before the defense can recover, the second screener is already in his path. It is a double ball screen with a specific geometry: stacked, not side by side.",
+    "The stack creates a wall that is very hard to navigate. The on-ball defender must fight over or under two screens in a row, the big defending the screen has to communicate across two screeners, and the help defenders get caught behind a wall of bodies. The reward is usually a clean pull-up, a roller with a runway, or a forced rotation that opens the weak side."
+  ],
+  "whyItMatters": [
+    "Single ball screens are the most scouted action in basketball — every coverage exists to kill them. The stack is the simplest way to break those coverages without teaching a new play: same pick and roll, second screener. It is especially lethal against drop coverage, where the drop big cannot be in two places at once, and against switching defenses, where the second screen forces a second communication in one second. If your team runs pick and roll as its identity, the stack is the upgrade that keeps it working when opponents adjust."
+  ],
+  "howTo": [
+    {
+      "title": "Stack the two screeners",
+      "detail": "O4 sets up at the elbow on the ball side; O5 stacks a step behind him, slightly toward the baseline. O1 brings the ball to the wing or slot on that side. Spacing: shooters in the opposite corner and weak-side wing to punish help."
+    },
+    {
+      "title": "Set the first screen with a great angle",
+      "detail": "O4 sets the ball screen for O1, angled to push the guard toward the middle or the baseline — whichever the game plan calls for. The angle matters more than ever here because it sets up the second screen."
+    },
+    {
+      "title": "The guard comes off screen one at pace",
+      "detail": "O1 uses O4's screen shoulder-to-shoulder and attacks. Do not slow down to 'wait' for the second screen — pace is what makes the defense commit to the first coverage."
+    },
+    {
+      "title": "The second screener is already there",
+      "detail": "As O1 clears the first screen, O5 steps into the second ball screen — the stack. O4 rolls or short-rolls immediately, dragging his defender and opening the lane for the second action."
+    },
+    {
+      "title": "Read the broken coverage",
+      "detail": "Two screens in two seconds usually breaks the coverage: the guard gets a pull-up window, O5 rolls into space, or the defense scrambles into a rotation. O1 reads — shoot, hit the roller, or skip to the weak side."
+    },
+    {
+      "title": "First screener becomes the outlet",
+      "detail": "O4, after rolling short, is the safety valve: pop for the jumper or dive if his defender helps on O5's roll. The stack only works if both bigs stay active after screening."
+    }
+  ],
+  "coachingPoints": [
+    "Stack means stacked — vertical, one behind the other. Side-by-side screeners are just a wide screen; the stack's power is the second screen arriving in sequence.",
+    "The first screener must roll or pop instantly. A standing first screener blocks the guard's path to the second screen.",
+    "Guard: attack the first screen like it is the only one. The second screen is a bonus that appears because you committed to the first.",
+    "Communicate the coverage call twice. Defenses die on the stack because they call the first coverage and go silent on the second — drill the second call.",
+    "Use it as a counter, not a base. Run your normal PNR, and when the defense adjusts, show them the stack."
+  ],
+  "commonMistakes": [
+    "Screeners set side by side instead of stacked — fix: the second screener's chest starts behind the first screener's back; check the alignment before the rep.",
+    "Guard slows down waiting for screen two — fix: full pace off screen one; the second screen meets the guard, not the other way around.",
+    "First screener admires his screen — fix: roll or pop on the guard's second dribble; make it a rule.",
+    "Running the stack every possession — fix: it is a changeup; overuse lets the defense pre-switch it."
+  ],
+  "gameSituations": [
+    "Breaking drop coverage: the drop big cannot guard two screeners — the stack turns drop into a pull-up or a free roller.",
+    "Late-clock bailout: two screens in the time of one gives the guard a clean look when the clock is under 8.",
+    "Against a great on-ball defender: make him navigate two screens instead of one — even elite defenders need help, and help means rotations."
+  ],
+  "tags": [
+    "pick and roll",
+    "double screen",
+    "stack",
+    "ball screen",
+    "offense"
+  ],
+  "related": [
+    "double-ball-screen",
+    "spain-pick-and-roll",
+    "middle-pick-and-roll",
+    "pick-and-roll-basics",
+    "rescreen-pnr"
+  ],
+  "diagram": {
+    "title": "Stack pick and roll — O4 screens first, O5 stacked behind steps into the second screen",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 65,
+        "y": 55
+      },
+      {
+        "label": "O4",
+        "x": 60,
+        "y": 40
+      },
+      {
+        "label": "O5",
+        "x": 60,
+        "y": 32
+      },
+      {
+        "label": "O2",
+        "x": 88,
+        "y": 7
+      },
+      {
+        "label": "O3",
+        "x": 20,
+        "y": 40
+      }
+    ],
+    "defense": [
+      {
+        "label": "D1",
+        "x": 65,
+        "y": 49
+      },
+      {
+        "label": "D4",
+        "x": 60,
+        "y": 45
+      },
+      {
+        "label": "D5",
+        "x": 60,
+        "y": 37
+      },
+      {
+        "label": "D2",
+        "x": 84,
+        "y": 12
+      },
+      {
+        "label": "D3",
+        "x": 24,
+        "y": 40
+      }
+    ],
+    "ball": "O1",
+    "screens": [
+      {
+        "x": 60,
+        "y": 47
+      }
+    ],
+    "moves": [
+      {
+        "from": "O4",
+        "to": "O1",
+        "kind": "screen-run"
+      },
+      {
+        "from": "O1",
+        "to": "O5",
+        "kind": "dribble"
+      },
+      {
+        "from": "O5",
+        "to": "O1",
+        "kind": "screen-run"
+      },
+      {
+        "from": "O1",
+        "to": "rim",
+        "kind": "dribble"
+      },
+      {
+        "from": "O4",
+        "to": "rim",
+        "kind": "cut"
+      }
+    ],
+    "passes": [],
+    "shots": []
+  },
+  "vi": {
+    "title": "Pick and roll xếp chồng (stack pick and roll)",
+    "description": "Hai người dựng screen xếp chồng một bên sân — người dẫn bóng dùng screen thứ nhất, rồi ngay screen thứ hai. Double ball screen chôn vùi help và giải phóng người roll.",
+    "whatIsIt": [
+      "Stack pick and roll xếp hai người dựng screen chồng dọc một bên sân — một người gần elbow, một người lùi sau một bước. Người dẫn bóng vòng qua screen thứ nhất, và trước khi hàng thủ kịp hồi phục, người dựng thứ hai đã đứng sẵn trên đường đi. Đó là double ball screen với hình học đặc thù: xếp chồng, không phải cạnh nhau.",
+      "Stack tạo ra một bức tường rất khó vượt. Hậu vệ kèm bóng phải vượt qua hai screen liên tiếp, big kèm screen phải hô coverage qua hai người dựng, và help bị kẹt sau bức tường người. Phần thưởng thường là một cú pull-up thoáng, người roll có đường băng, hoặc một pha rotation bị ép mở ra phía yếu."
+    ],
+    "whyItMatters": [
+      "Single ball screen là miếng bị scout kỹ nhất của bóng rổ — mọi coverage sinh ra để giết nó. Stack là cách đơn giản nhất để phá các coverage đó mà không cần dạy bài mới: cùng một pick and roll, thêm người dựng thứ hai. Nó đặc biệt lợi hại trước drop coverage, khi big drop không thể ở hai nơi cùng lúc, và trước hàng thủ switch, khi screen thứ hai ép một lần hô coverage thứ hai trong một giây. Nếu đội bạn lấy pick and roll làm bản sắc, stack là bản nâng cấp giữ cho nó còn hiệu quả khi đối thủ điều chỉnh."
+    ],
+    "howTo": [
+      {
+        "title": "Xếp chồng hai người dựng screen",
+        "detail": "O4 đứng ở elbow phía có bóng; O5 xếp lùi sau một bước, hơi chếch về baseline. O1 đưa bóng lên cánh hoặc slot phía đó. Giãn đội hình: tay ném ở góc đối diện và cánh yếu để trừng phạt help."
+      },
+      {
+        "title": "Dựng screen đầu với góc thật tốt",
+        "detail": "O4 dựng screen cho O1, nghiêng để đẩy hậu vệ vào giữa hoặc ra baseline — tùy game plan. Góc screen quan trọng hơn bao giờ hết vì nó dọn đường cho screen thứ hai."
+      },
+      {
+        "title": "Hậu vệ vòng qua screen một với tốc độ",
+        "detail": "O1 dùng screen của O4 sát vai và tấn công. Đừng chậm lại để 'chờ' screen thứ hai — tốc độ là thứ ép hàng thủ commit vào coverage đầu."
+      },
+      {
+        "title": "Người dựng thứ hai đã đứng sẵn",
+        "detail": "Ngay khi O1 qua khỏi screen đầu, O5 bước vào dựng screen thứ hai — cú stack. O4 roll hoặc short-roll ngay, kéo hậu vệ theo và mở lane cho lớp thứ hai."
+      },
+      {
+        "title": "Đọc coverage đã vỡ",
+        "detail": "Hai screen trong hai giây thường phá vỡ coverage: hậu vệ có cửa sổ pull-up, O5 roll vào khoảng trống, hoặc hàng thủ cuống cuồng rotation. O1 đọc tình huống — ném, chuyền cho người roll, hoặc chuyền chéo sang phía yếu."
+      },
+      {
+        "title": "Người dựng đầu thành van xả",
+        "detail": "O4 sau khi roll ngắn là van an toàn: pop ra ném hoặc lao vào nếu hậu vệ của anh ta help vào đường roll của O5. Stack chỉ hiệu quả khi cả hai big đều còn hoạt động sau khi dựng screen."
+      }
+    ],
+    "coachingPoints": [
+      "Stack là xếp chồng — dọc, người sau lưng người trước. Hai người dựng cạnh nhau chỉ là một screen rộng; sức mạnh của stack là screen thứ hai đến theo trình tự.",
+      "Người dựng đầu phải roll hoặc pop ngay lập tức. Đứng yên là tự chặn đường hậu vệ đến screen thứ hai.",
+      "Hậu vệ: tấn công screen đầu như thể đó là screen duy nhất. Screen thứ hai là phần thưởng xuất hiện vì bạn đã commit vào screen đầu.",
+      "Hô coverage hai lần. Hàng thủ chết ở stack vì họ hô coverage đầu rồi im lặng ở coverage hai — tập cho lần hô thứ hai.",
+      "Dùng như đòn phản đòn, không phải miếng cơ bản. Chạy PNR bình thường, khi hàng thủ điều chỉnh thì cho họ xem stack."
+    ],
+    "commonMistakes": [
+      "Hai người dựng đứng cạnh nhau thay vì xếp chồng — sửa: ngực người dựng thứ hai bắt đầu sau lưng người thứ nhất; kiểm tra đội hình trước mỗi lần tập.",
+      "Hậu vệ chậm lại chờ screen hai — sửa: tốc độ tối đa qua screen một; screen thứ hai đón hậu vệ, không phải ngược lại.",
+      "Người dựng đầu mải ngắm screen của mình — sửa: roll hoặc pop ở nhịp dẫn thứ hai của hậu vệ; đặt thành luật.",
+      "Chạy stack mọi pha bóng — sửa: nó là đòn đổi nhịp; lạm dụng là hàng thủ pre-switch từ trước."
+    ],
+    "gameSituations": [
+      "Phá drop coverage: big drop không kèm được hai người dựng — stack biến drop thành cú pull-up hoặc người roll tự do.",
+      "Cứu bài cuối đồng hồ: hai screen trong thời gian của một cho hậu vệ cú ném sạch khi đồng hồ còn dưới 8 giây.",
+      "Trước hậu vệ kèm bóng xuất sắc: bắt hắn vượt hai screen thay vì một — ngay cả hậu vệ elite cũng cần help, mà help là rotation."
+    ],
+    "tags": [
+      "pick and roll",
+      "double screen",
+      "stack",
+      "screen",
+      "tấn công"
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "coachingPoints": [
+    "The low man is a position, not a person — whoever is on the weak-side block owns the rotation on that possession.",
+    "Rotate on the catch, not the pass: jumping the pass is a gamble, rotating on the catch is a system.",
+    "Wall, don't reach — the low man's hands go high to contest, never low to swipe.",
+    "The fill is as important as the help — an unfilled rotation just moves the open shot one pass away.",
+    "Talk it: 'Low! Low!' on the rotation, 'Back! Back!' on the recovery — the chain only works if everyone hears it."
+  ],
+  "commonMistakes": [
+    "Rotating before the catch — fix: stay home until the catch; early rotation gives up the seal and the foul.",
+    "Low man reaching for the steal — fix: high hands wall the move; the steal comes from the kick-out pass, not the post.",
+    "Nobody filling behind — fix: drill the wave 4-on-3; the second rotation is the graded rep, not the first.",
+    "Slow recovery on the kick-out — fix: the low man sprints back on the pass, not on the catch; beat the ball back."
+  ],
+  "dateUpdated": "2026-10-11",
+  "description": "The simplest rotation in basketball: when the ball goes to the low post, the weak-side low defender rotates — and everyone fills behind.",
+  "gameSituations": [
+    "Every post touch in the half court — the low man rotation is the default answer, not a special call.",
+    "Against a dominant low-post scorer — rotate every catch and make him a passer; passers don't drop 30.",
+    "When your big is in foul trouble — the low man rotation protects him from one-on-one post defense.",
+    "Late-game with a lead — post rotations bleed the clock and force kick-outs into contested jumpers."
+  ],
+  "howTo": [
+    {
+      "title": "Identify the low man",
+      "detail": "The low man is the defender on the weak-side block — the player closest to the baseline on the side away from the ball. Name him in practice until everyone can point to the low man in any alignment."
+    },
+    {
+      "title": "Read the post entry",
+      "detail": "The rotation triggers on the post catch, not the pass. The low man stays home while the ball is in the air, then moves the instant his man's defender is sealed — early rotation is a foul, late rotation is a layup."
+    },
+    {
+      "title": "Rotate to the post",
+      "detail": "The low man sprints to the ball-side of the post player, getting between the post and the basket with high hands. He does not reach for the ball — he walls the scoring move and forces a kick-out."
+    },
+    {
+      "title": "Fill behind the rotation",
+      "detail": "The next defender up the line drops to take the low man's original man. The top defender sinks one step to cover the next pass. Nobody stays still — the rotation is a wave, not a single movement."
+    },
+    {
+      "title": "Recover on the kick-out",
+      "detail": "When the post kicks the ball out, the low man closeouts back to his original man under control. The fill defenders bump back up. Recover to the paint first, then to your man — sprint, don't jog."
+    }
+  ],
+  "hub": "defense",
+  "id": "low-man-rotation",
+  "level": "beginner",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 5,
+  "related": [
+    "help-defense",
+    "rotation-patterns",
+    "defensive-rebounding",
+    "closeout-defense",
+    "help-side-rotation-timing"
+  ],
+  "slug": "low-man-rotation",
+  "subcategory": "rotations",
+  "tags": [
+    "rotations",
+    "help defense",
+    "low post",
+    "fundamentals",
+    "team defense"
+  ],
+  "title": "Low Man Rotation",
+  "vi": {
+    "coachingPoints": [
+      "Low man là một vị trí, không phải một con người — ai đứng ở block phía yếu sẽ sở hữu rotation trong pha bóng đó.",
+      "Xoay ở pha bắt bóng, không phải ở đường chuyền: nhảy đón đường chuyền là canh bạc, xoay ở pha bắt bóng là hệ thống.",
+      "Dựng tường, đừng với tay — tay của low man giơ cao để contest, không bao giờ thò thấp để khều.",
+      "Pha lấp đầy quan trọng như pha hỗ trợ — rotation không được lấp chỉ đẩy cú ném trống ra xa một đường chuyền.",
+      "Hô lên: 'Low! Low!' khi xoay, 'Về! Về!' khi thu hồi — chuỗi chỉ hiệu quả khi mọi người đều nghe thấy."
+    ],
+    "commonMistakes": [
+      "Xoay trước khi đối phương bắt bóng — sửa: giữ vị trí đến khi bóng được bắt; xoay sớm vừa mất thế khóa vừa dễ phạm lỗi.",
+      "Low man với tay cướp bóng — sửa: tay giơ cao chặn pha ghi điểm; pha cướp bóng đến từ đường chuyền ra, không phải từ post.",
+      "Không ai lấp đầy phía sau — sửa: tập đợt sóng 4 đấu 3; lần xoay thứ hai mới là lần được chấm điểm, không phải lần đầu.",
+      "Thu hồi chậm khi bóng chuyền ra — sửa: low man chạy về ngay khi bóng được chuyền, không phải khi đối phương bắt bóng; về trước bóng."
+    ],
+    "description": "Rotation đơn giản nhất: khi bóng vào post thấp, cầu thủ phòng thủ thấp nhất phía yếu xoay sang hỗ trợ — và mọi người lấp đầy phía sau.",
+    "gameSituations": [
+      "Mọi pha chạm bóng ở post trong nửa sân — low man rotation là đáp án mặc định, không phải hiệu lệnh đặc biệt.",
+      "Gặp cầu thủ ghi điểm ở post thấp vượt trội — xoay trong mọi pha bắt bóng và biến anh ta thành người chuyền; người chuyền bóng không ghi 30 điểm.",
+      "Khi big của bạn gặp rắc rối phạm lỗi — low man rotation bảo vệ anh ta khỏi phải phòng thủ post 1 đấu 1.",
+      "Cuối trận khi đang dẫn — rotation ở post bào mòn đồng hồ và ép những đường chuyền ra thành cú ném bị contest."
+    ],
+    "howTo": [
+      {
+        "title": "Xác định low man",
+        "detail": "Low man là cầu thủ phòng thủ ở block phía yếu — người gần baseline nhất ở phía đối diện bóng. Gọi tên vị trí này trong buổi tập đến khi ai cũng chỉ được low man trong mọi đội hình."
+      },
+      {
+        "title": "Đọc pha chuyền vào post",
+        "detail": "Rotation kích hoạt ở pha bắt bóng ở post, không phải ở đường chuyền. Low man giữ vị trí khi bóng còn trên không, rồi di chuyển ngay khi người kèm post bị khóa — xoay sớm là phạm lỗi, xoay muộn là layup."
+      },
+      {
+        "title": "Xoay sang post",
+        "detail": "Low man chạy nhanh tới phía có bóng của cầu thủ post, đứng giữa người post và rổ với tay giơ cao. Anh ta không với tay cướp bóng — anh ta chặn pha ghi điểm và ép đối phương chuyền ra."
+      },
+      {
+        "title": "Lấp đầy sau rotation",
+        "detail": "Cầu thủ tiếp theo trên đường chuyền lùi xuống kèm người cũ của low man. Cầu thủ trên cùng lùi một bước để bọc đường chuyền tiếp theo. Không ai đứng yên — rotation là một đợt sóng, không phải một chuyển động đơn."
+      },
+      {
+        "title": "Thu hồi khi bóng chuyền ra",
+        "detail": "Khi post chuyền bóng ra, low man closeout về người cũ một cách có kiểm soát. Các cầu thủ lấp đầy đẩy lên lại. Thu về khu vực dưới rổ trước, rồi mới về người kèm — chạy nước rút, không chạy lững thững."
+      }
+    ],
+    "tags": [
+      "xoay chuyển đội hình",
+      "phòng thủ hỗ trợ",
+      "post thấp",
+      "cơ bản",
+      "phòng thủ đồng đội"
+    ],
+    "title": "Rotation của cầu thủ thấp nhất (low man rotation)",
+    "whatIsIt": [
+      "Low man rotation là rotation đầu tiên mọi cầu thủ nên học. Khi bóng vào post thấp, cầu thủ phòng thủ ở block phía yếu — 'low man' — rời người kèm và xoay sang hỗ trợ ở post. Đơn giản, rõ ràng, và chặn đứng cú ném dễ nhất.",
+      "Điểm dễ dạy của nó là phản ứng dây chuyền: low man hỗ trợ, cầu thủ tiếp theo lùi xuống lấy người của low man, và cầu thủ trên cùng lùi một bước để bọc đường chuyền tiếp. Một rotation trở thành chuyển động ba người liền mạch — nền tảng của mọi phòng thủ đồng đội."
+    ],
+    "whyItMatters": [
+      "Các pha chạm bóng ở post là những cú ném có tỷ lệ thành công cao nhất ở hầu hết các trận đấu trẻ và phong trào. Đội xoay low man trong mọi pha bắt bóng ở post sẽ xóa sổ các cú layup mà không cần kèm đôi — và phản ứng dây chuyền phía sau dạy cầu thủ thói quen phòng thủ quan trọng nhất: khi bạn rời đi, sẽ có người lấp vào."
+    ]
+  },
+  "whatIsIt": [
+    "The low man rotation is the first rotation every player should learn. When the ball enters the low post, the defender on the weak-side block — the 'low man' — leaves his man and rotates to help on the post. It is simple, it is loud, and it stops the easiest shot in basketball.",
+    "What makes it teachable is the chain reaction: low man helps, the next defender drops to the low man's man, and the top defender sinks to cover the next pass. One rotation becomes a connected three-man movement — the foundation of all team defense."
+  ],
+  "whyItMatters": [
+    "Post touches are the highest-percentage shots in most youth and amateur games. A team that rotates its low man on every post catch takes away layups without doubling — and the chain reaction behind it teaches players the most important defensive habit there is: when you leave, someone fills."
+  ],
+  "diagram": {
+    "title": "Low man rotation — D4 leaves the weak-side block to help on the post catch",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 56,
+        "y": 36
+      },
+      {
+        "label": "O2",
+        "x": 30,
+        "y": 40
+      },
+      {
+        "label": "O3",
+        "x": 76,
+        "y": 40
+      },
+      {
+        "label": "O4",
+        "x": 42,
+        "y": 14
+      },
+      {
+        "label": "O5",
+        "x": 58,
+        "y": 12
+      }
+    ],
+    "defense": [
+      {
+        "label": "D1",
+        "x": 54,
+        "y": 34
+      },
+      {
+        "label": "D2",
+        "x": 29,
+        "y": 38
+      },
+      {
+        "label": "D3",
+        "x": 74,
+        "y": 38
+      },
+      {
+        "label": "D4",
+        "x": 36,
+        "y": 12
+      },
+      {
+        "label": "D5",
+        "x": 56,
+        "y": 10
+      }
+    ],
+    "ball": "O4",
+    "screens": [],
+    "moves": [
+      {
+        "from": "D4",
+        "to": "O4",
+        "kind": "move"
+      },
+      {
+        "from": "D2",
+        "to": "O4",
+        "kind": "move"
+      }
+    ],
+    "passes": [
+      {
+        "from": "O1",
+        "to": "O4"
+      }
+    ],
+    "shots": []
+  }
+}

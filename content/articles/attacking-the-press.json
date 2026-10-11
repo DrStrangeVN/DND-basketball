@@ -1,0 +1,225 @@
+{
+  "ages": [
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "coachingPoints": [
+    "Read first, attack second — two possessions of reading buys you a game of attacking.",
+    "Every trap is a 4-on-3 somewhere: find it and punish it before the rotation arrives.",
+    "The long ball is the press-killer — one accurate deep pass does more than ten safe ones.",
+    "Attack the seams, not the set defense — a retreating press is a broken press; go before it sets.",
+    "Six seconds to score: hesitation lets the press become a half-court defense again."
+  ],
+  "commonMistakes": [
+    "Attacking without reading — fix: the first two trips are for information; attack from the third trip on.",
+    "Throwing the long ball into coverage — fix: the deep pass needs a clear lane; read the safety before you throw.",
+    "Dribbling into the second trap — fix: one trap beaten is enough; pass out of the second wave, don't dribble through it.",
+    "Slowing down after breaking it — fix: the break of the press is the START of the attack, not the end of the danger."
+  ],
+  "dateUpdated": "2026-10-11",
+  "description": "Don't just break the press — punish it. How to turn pressure into layups with aggressive reads and numbers attacks.",
+  "gameSituations": [
+    "Mid-game when the press is working for the opponent — two attacked layups force a coaching adjustment.",
+    "Against a gambling press — overplays and long traps are invitations; accept them with the long ball.",
+    "When you have superior athletes — attacking turns their pressure into your track meet.",
+    "Late-game with a small lead — attacking the press bleeds the clock AND scores; safe breaks only bleed the clock."
+  ],
+  "howTo": [
+    {
+      "title": "Read the press's intent",
+      "detail": "First two possessions, don't attack — read. Is the press trapping or containing? Where is the interceptor? What is the trigger? Attacking blind is just panicking with extra steps."
+    },
+    {
+      "title": "Attack the trap's back",
+      "detail": "Every trap leaves a 4-on-3 behind it. When two defenders commit to your ball handler, the ball goes to the open man immediately — one pass out of the trap, then attack the rim before the rotation arrives."
+    },
+    {
+      "title": "Throw the long ball early",
+      "detail": "The most devastating press attack is the early over-the-top pass. When the press extends, look deep first — a 15-meter pass over a trap is a layup, and two of those end the press."
+    },
+    {
+      "title": "Dribble-attack the seams",
+      "detail": "Against a retreating press, attack the seams off the dribble: split two defenders with one hard dribble and you are 3-on-2. The press wants you to pick up the ball; keep it alive and go."
+    },
+    {
+      "title": "Use the middle flash as a weapon",
+      "detail": "The middle flash isn't just a release valve — it's an attack position. Catch in the middle facing up and immediately look to score or hit the deep cutter; the middle catch collapses the press."
+    },
+    {
+      "title": "Finish before it re-forms",
+      "detail": "The rule of attacking: score within 6 seconds of breaking the press. A broken press that gets to re-form is just a half-court defense — the attack must be immediate and decisive."
+    }
+  ],
+  "hub": "transition",
+  "id": "attacking-the-press",
+  "level": "advanced",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 8,
+  "related": [
+    "full-court-press",
+    "transition-spacing",
+    "transition-offense",
+    "transition-decision-making",
+    "outlet-passing"
+  ],
+  "slug": "attacking-the-press",
+  "subcategory": "transition",
+  "tags": [
+    "press break",
+    "attack",
+    "transition",
+    "advanced offense",
+    "decision-making"
+  ],
+  "title": "Attacking the Press",
+  "vi": {
+    "coachingPoints": [
+      "Đọc trước, tấn công sau — hai pha bóng đọc tình huống mua cho bạn cả trận tấn công.",
+      "Mỗi pha bẫy là một pha 4 đấu 3 ở đâu đó: tìm ra nó và trừng phạt trước khi rotation tới.",
+      "Đường chuyền dài là kẻ giết press — một đường chuyền sâu chính xác hơn mười đường chuyền an toàn.",
+      "Tấn công vào khe, không phải vào hàng thủ đã xếp — press đang lùi là press đã vỡ; đi trước khi nó xếp xong.",
+      "Sáu giây để ghi điểm: chần chừ để press biến lại thành phòng thủ nửa sân."
+    ],
+    "commonMistakes": [
+      "Tấn công mà không đọc — sửa: hai pha đầu để lấy thông tin; tấn công từ pha thứ ba.",
+      "Chuyền dài vào vòng vây — sửa: đường chuyền sâu cần đường thoáng; đọc người bảo vệ trước khi chuyền.",
+      "Dẫn bóng vào bẫy thứ hai — sửa: vượt một bẫy là đủ; chuyền ra khỏi đợt sóng thứ hai, đừng dẫn xuyên qua.",
+      "Chậm lại sau khi phá được — sửa: pha phá press là ĐIỂM BẮT ĐẦU của tấn công, không phải điểm kết thúc nguy hiểm."
+    ],
+    "description": "Đừng chỉ phá press — hãy trừng phạt nó. Cách biến áp lực thành layup bằng những pha đọc táo bạo và tấn công khi hơn người.",
+    "gameSituations": [
+      "Giữa trận khi press đang hiệu quả cho đối phương — hai pha layup tấn công ép HLV đối phương phải điều chỉnh.",
+      "Trước press liều lĩnh — những pha dâng cao và bẫy dài là lời mời; nhận lời bằng đường chuyền dài.",
+      "Khi bạn có cầu thủ thể chất vượt trội — tấn công biến áp lực của họ thành cuộc đua tốc độ của bạn.",
+      "Cuối trận dẫn sát nút — tấn công press vừa bào mòn đồng hồ VỪA ghi điểm; phá an toàn chỉ bào mòn đồng hồ."
+    ],
+    "howTo": [
+      {
+        "title": "Đọc ý đồ của press",
+        "detail": "Hai pha bóng đầu, đừng tấn công — hãy đọc. Press đang bẫy hay đang giữ? Người chặn đường chuyền ở đâu? Tín hiệu là gì? Tấn công mù quáng chỉ là hoảng loạn thêm bước."
+      },
+      {
+        "title": "Tấn công phía sau pha bẫy",
+        "detail": "Mỗi pha bẫy để lại 4 đấu 3 phía sau. Khi hai cầu thủ dồn vào người dẫn bóng của bạn, bóng tới người trống ngay — một đường chuyền thoát bẫy, rồi đánh vào rổ trước khi rotation tới."
+      },
+      {
+        "title": "Chuyền dài sớm",
+        "detail": "Đòn tấn công press tàn khốc nhất là đường chuyền bổng qua đầu sớm. Khi press dâng cao, nhìn sâu trước — một đường chuyền 15 mét qua bẫy là một cú layup, và hai pha như vậy chấm dứt press."
+      },
+      {
+        "title": "Dẫn bóng tấn công vào khe",
+        "detail": "Trước press đang lùi, tấn công vào các khe bằng dẫn bóng: xé hai cầu thủ bằng một pha dẫn mạnh và bạn đang 3 đấu 2. Press muốn bạn dừng bóng; giữ bóng sống và đi."
+      },
+      {
+        "title": "Dùng người ở giữa làm vũ khí",
+        "detail": "Người di chuyển vào giữa không chỉ là van xả — đó là vị trí tấn công. Bắt bóng ở giữa xoay mặt lên và ngay lập tức tìm cơ hội ghi điểm hoặc chuyền cho người cắt sâu; pha bắt bóng ở giữa làm sụp đổ press."
+      },
+      {
+        "title": "Kết thúc trước khi nó tái lập",
+        "detail": "Quy tắc của tấn công: ghi điểm trong 6 giây sau khi phá press. Press đã vỡ mà được tái lập chỉ là phòng thủ nửa sân — pha tấn công phải ngay lập tức và quyết đoán."
+      }
+    ],
+    "tags": [
+      "phá press",
+      "tấn công",
+      "chuyển đổi",
+      "tấn công nâng cao",
+      "ra quyết định"
+    ],
+    "title": "Tấn công vào press",
+    "whatIsIt": [
+      "Tấn công vào press là chuyển đổi tư duy từ sống sót qua áp lực sang săn lùng nó. Thay vì an toàn đưa bóng lên sân, bạn đọc sự quyết liệt của press và tấn công các khoảng trống nó để lại — vì mỗi pha bẫy là hai cầu thủ ở một chỗ, nghĩa là đâu đó đang 4 đấu 3.",
+      "Đây là trình độ nâng cao vì nó đòi hỏi đọc tình huống, không phải quy tắc. Cùng một press mà bạn phá an toàn trong hiệp 1 sẽ thành đường layup trong hiệp 4 — khi cầu thủ của bạn nhận ra các tín hiệu: pha dâng cao, pha bẫy dài, người chặn đường chuyền liều lĩnh."
+    ],
+    "whyItMatters": [
+      "Đội press trông chờ vào nỗi sợ — họ muốn bạn chậm lại, co cụm, và chơi trong sợ hãi. Tấn công vào press lật ngược tâm lý: giờ HỌ mới là người lo về đường chuyền dài, người di chuyển vào giữa, pha hơn người. Đội tấn công press không chỉ sống sót — họ khiến đối phương phải ngừng press."
+    ]
+  },
+  "whatIsIt": [
+    "Attacking the press is the mindset shift from surviving pressure to hunting it. Instead of safely getting the ball up the floor, you read the press's aggression and attack the gaps it leaves — because every trap is two defenders in one place, which means somewhere else is 4-on-3.",
+    "This is advanced because it requires reads, not rules. The same press that you break safely in the first quarter becomes a layup line in the fourth — once your players recognize the triggers: the overplay, the long trap, the gambling interceptor."
+  ],
+  "whyItMatters": [
+    "Pressing teams count on fear — they want you to slow down, bunch up, and play scared. Attacking the press flips the psychology: now THEY are the ones worried about the long pass, the middle flash, the numbers break. Teams that attack presses don't just survive them — they make opponents stop pressing."
+  ],
+  "diagram": {
+    "title": "Attack the trap's back — ball out of the double, numbers up the floor",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 70,
+        "y": 72
+      },
+      {
+        "label": "O2",
+        "x": 40,
+        "y": 64
+      },
+      {
+        "label": "O3",
+        "x": 78,
+        "y": 52
+      },
+      {
+        "label": "O4",
+        "x": 48,
+        "y": 44
+      },
+      {
+        "label": "O5",
+        "x": 60,
+        "y": 30
+      }
+    ],
+    "defense": [
+      {
+        "label": "D1",
+        "x": 66,
+        "y": 70
+      },
+      {
+        "label": "D2",
+        "x": 74,
+        "y": 68
+      },
+      {
+        "label": "D3",
+        "x": 50,
+        "y": 58
+      },
+      {
+        "label": "D4",
+        "x": 44,
+        "y": 40
+      },
+      {
+        "label": "D5",
+        "x": 58,
+        "y": 34
+      }
+    ],
+    "ball": "O1",
+    "screens": [],
+    "moves": [
+      {
+        "from": "O2",
+        "to": "rim",
+        "kind": "cut"
+      }
+    ],
+    "passes": [
+      {
+        "from": "O1",
+        "to": "O2"
+      },
+      {
+        "from": "O2",
+        "to": "O5"
+      }
+    ],
+    "shots": []
+  }
+}

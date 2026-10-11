@@ -1,0 +1,212 @@
+{
+  "id": "help-the-helper-iq",
+  "slug": "help-the-helper-iq",
+  "hub": "basketball-iq",
+  "subcategory": "basketball-iq",
+  "level": "advanced",
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 6,
+  "dateUpdated": "2026-10-11",
+  "title": "Help-the-Helper IQ",
+  "description": "The second rotation wins championships: reading when the helper commits, rotating to cover their man, and the communication that makes the whole chain work.",
+  "tags": [
+    "help defense",
+    "rotations",
+    "basketball iq",
+    "team defense",
+    "communication"
+  ],
+  "whatIsIt": [
+    "Help-the-helper is the second rotation — the defender who covers the man left open when the first helper rotates to stop the ball. The first helper's job is obvious: stop the drive. The help-the-helper's job is invisible until it fails: reading the helper's commitment early, sprinting to the vacated spot, and arriving before the skip pass does.",
+    "This is the rotation that separates good defenses from championship defenses. The first rotation stops the layup; the second rotation stops the open three that the first rotation created. Players with help-the-helper IQ do not watch the ball — they watch the helper, and they move on the helper's first step, not the pass."
+  ],
+  "whyItMatters": [
+    "Modern offenses are designed to punish the first helper: drive, draw help, kick to the open shooter. If nobody rotates to the helper's man, that kick-out is a wide-open three — the most efficient shot in basketball. Teams that rotate twice force offenses into their third and fourth options, where efficiency collapses. The second rotation is where stops are actually finished."
+  ],
+  "howTo": [
+    {
+      "title": "Watch the helper, not the ball",
+      "detail": "Ball-watching kills the second rotation. Instead, lock your eyes on the first helper: the moment they take their first step toward the ball, you start moving. If you wait for the pass, you are already late — the ball moves faster than you do."
+    },
+    {
+      "title": "Know your rotation assignment before the drive",
+      "detail": "Every defensive possession has a rotation map: if the ball is driven from your side, you are the help-the-helper. Decide this before the catch, not during the drive. Pre-rotated minds move twice as fast as reacting minds."
+    },
+    {
+      "title": "Sprint to the nail, then read",
+      "detail": "The first landmark for the second rotator is the nail (the middle of the free-throw line area). Sprint there, get low, and read the pass: if the ball goes to your original man, close out; if it goes elsewhere, you are already in position to rotate again."
+    },
+    {
+      "title": "Take away the most dangerous pass",
+      "detail": "You cannot cover two men. Prioritize: the corner three over the wing two, the shooter over the non-shooter, the pass that is already in the air over the one that might come. Smart second rotations concede the least dangerous option on purpose."
+    },
+    {
+      "title": "Close out under control",
+      "detail": "Arriving is only half the job — a wild sprint leads to a blow-by. Break down the last two steps, stay low, and close out with high hands. The goal is to make the catch difficult and the shot contested, not to block the shot."
+    },
+    {
+      "title": "Talk the whole chain through",
+      "detail": "The first helper calls 'help!', and the second rotator must answer 'got your man!' or 'rotate!'. A silent rotation chain breaks at the second link every time. Loud, early calls let everyone move with confidence instead of guessing."
+    }
+  ],
+  "coachingPoints": [
+    "The second rotation starts on the helper's first step — teach players to read teammates, not just opponents.",
+    "Pre-rotation beats reaction: the assignment must be decided before the drive begins.",
+    "Sprint early, break down late — the last two steps of a closeout decide whether it works.",
+    "Concede on purpose: a good help-the-helper knows which shot to give up and gives it up deliberately.",
+    "Drill it 4v3 and 5v4 — disadvantage drills are the only way to make the second rotation instinctive."
+  ],
+  "commonMistakes": [
+    "Ball-watching instead of reading the helper — fix: run shell-drill variations where the coach grades eyes, not feet; eyes on the helper first.",
+    "Arriving late and fouling the shooter — fix: start the rotation a full step earlier; late and controlled beats early and wild, but early and controlled beats everything.",
+    "Trying to cover two men at once — fix: teach the priority list (corner three first); splitting the difference covers nobody.",
+    "Silent rotations — fix: require a verbal call for every rotation in practice; no call, no rep counts."
+  ],
+  "gameSituations": [
+    "Baseline drive with the low helper rotating — the weak-side defender must sprint to the corner shooter.",
+    "Middle pick-and-roll with the nail defender helping — the next defender covers the roll man's pop or the skip pass.",
+    "Against a drive-and-kick team — the second rotation is the entire game plan; drill it until it is automatic.",
+    "Late-clock scramble — when the first helper is forced to commit, the help-the-helper decides whether the possession ends in a stop or an open three."
+  ],
+  "related": [
+    "help-defense",
+    "help-side-rotation-timing",
+    "reading-help-defense",
+    "stunting-defense",
+    "gap-defense"
+  ],
+  "diagram": {
+    "title": "Baseline drive — low helper rotates to the ball, weak-side defender covers the helper's man in the corner",
+    "ball": "O1",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 72,
+        "y": 18
+      },
+      {
+        "label": "O2",
+        "x": 30,
+        "y": 14
+      },
+      {
+        "label": "O3",
+        "x": 82,
+        "y": 42
+      }
+    ],
+    "defense": [
+      {
+        "label": "D1",
+        "x": 66,
+        "y": 16
+      },
+      {
+        "label": "D2",
+        "x": 44,
+        "y": 12
+      },
+      {
+        "label": "D3",
+        "x": 74,
+        "y": 36
+      }
+    ],
+    "passes": [
+      {
+        "from": "O1",
+        "to": "O3"
+      }
+    ],
+    "moves": [
+      {
+        "from": "D2",
+        "kind": "move",
+        "to": "D1"
+      },
+      {
+        "from": "D3",
+        "kind": "move",
+        "to": "D2"
+      },
+      {
+        "from": "O1",
+        "kind": "dribble",
+        "to": "rim"
+      }
+    ],
+    "screens": [],
+    "shots": []
+  },
+  "vi": {
+    "title": "IQ hỗ trợ người hỗ trợ (help the helper)",
+    "description": "Pha xoay chuyển thứ hai quyết định chức vô địch: đọc thời điểm người hỗ trợ lao vào, xoay ra bọc lót người họ bỏ lại, và giao tiếp để cả chuỗi vận hành.",
+    "tags": [
+      "phòng thủ hỗ trợ",
+      "xoay chuyển đội hình",
+      "nhãn quan chiến thuật",
+      "phòng thủ đồng đội",
+      "giao tiếp"
+    ],
+    "whatIsIt": [
+      "Help the helper là pha xoay chuyển thứ hai — cầu thủ bọc lót cho người mà người hỗ trợ đầu tiên bỏ lại khi lao vào chặn bóng. Nhiệm vụ của người hỗ trợ đầu tiên rất rõ: chặn pha đâm rổ. Nhiệm vụ của người hỗ trợ thứ hai vô hình cho đến khi nó thất bại: đọc sự lao vào của người hỗ trợ từ sớm, chạy nước rút tới vị trí bỏ trống, và đến nơi trước đường chuyền đảo cánh.",
+      "Đây là pha xoay chuyển phân biệt hàng thủ tốt với hàng thủ vô địch. Pha xoay đầu tiên chặn cú layup; pha xoay thứ hai chặn cú ném 3 điểm trống trải mà pha xoay đầu tiên tạo ra. Cầu thủ có IQ help the helper không nhìn bóng — họ nhìn người hỗ trợ, và di chuyển ngay bước đầu tiên của người đó, chứ không đợi đường chuyền."
+    ],
+    "whyItMatters": [
+      "Các lối tấn công hiện đại được thiết kế để trừng phạt người hỗ trợ đầu tiên: đâm vào, kéo hỗ trợ, chuyền ra cho tay ném trống. Nếu không ai xoay ra bọc người của helper, đường chuyền đó thành cú ném 3 điểm trống trải — cú ném hiệu quả nhất bóng rổ. Đội nào xoay được hai lần sẽ ép đối thủ vào lựa chọn thứ ba, thứ tư, nơi hiệu suất sụp đổ. Pha xoay thứ hai là nơi pha phòng thủ thực sự hoàn tất."
+    ],
+    "howTo": [
+      {
+        "title": "Nhìn người hỗ trợ, đừng nhìn bóng",
+        "detail": "Mải nhìn bóng giết chết pha xoay thứ hai. Thay vào đó, dán mắt vào người hỗ trợ đầu tiên: khoảnh khắc họ bước bước đầu tiên về phía bóng, bạn bắt đầu di chuyển. Nếu đợi đường chuyền, bạn đã muộn — bóng bay nhanh hơn bạn chạy."
+      },
+      {
+        "title": "Biết nhiệm vụ xoay của mình trước khi đối thủ đâm",
+        "detail": "Mỗi đợt phòng thủ đều có bản đồ xoay chuyển: nếu bóng bị đâm từ phía bạn, bạn là người help the helper. Quyết định điều này trước khi đối thủ bắt bóng, không phải trong lúc họ đâm. Cái đầu xoay trước di chuyển nhanh gấp đôi cái đầu phản ứng."
+      },
+      {
+        "title": "Chạy nước rút tới nail rồi đọc tiếp",
+        "detail": "Cột mốc đầu tiên của người xoay thứ hai là nail (giữa khu vực vạch ném phạt). Chạy tới đó, hạ thấp trọng tâm, và đọc đường chuyền: nếu bóng tới người bạn kèm ban đầu, closeout; nếu bóng đi chỗ khác, bạn đã ở vị trí để xoay tiếp."
+      },
+      {
+        "title": "Chặn đường chuyền nguy hiểm nhất",
+        "detail": "Bạn không thể kèm hai người. Ưu tiên: ném 3 điểm góc hơn ném 2 điểm cánh, tay ném hơn người không biết ném, đường chuyền đã bay hơn đường chuyền có thể tới. Pha xoay thứ hai khôn ngoan chủ động nhường lựa chọn ít nguy hiểm nhất."
+      },
+      {
+        "title": "Closeout có kiểm soát",
+        "detail": "Đến nơi mới là nửa việc — lao tới ẩu sẽ bị vượt qua. Giảm tốc hai bước cuối, giữ thấp trọng tâm, closeout với tay giơ cao. Mục tiêu là làm khó pha bắt bóng và khiến cú ném bị tranh chấp, không phải block cú ném."
+      },
+      {
+        "title": "Hô hoán suốt cả chuỗi",
+        "detail": "Người hỗ trợ đầu tiên hô 'hỗ trợ!', người xoay thứ hai phải đáp 'tôi bọc người của bạn!' hoặc 'xoay!'. Chuỗi xoay im lặng luôn đứt ở mắt xích thứ hai. Những tiếng hô to và sớm giúp mọi người di chuyển tự tin thay vì đoán mò."
+      }
+    ],
+    "coachingPoints": [
+      "Pha xoay thứ hai bắt đầu từ bước đầu tiên của người hỗ trợ — dạy cầu thủ đọc đồng đội, không chỉ đọc đối thủ.",
+      "Xoay trước hơn phản ứng: nhiệm vụ phải được quyết trước khi pha đâm bắt đầu.",
+      "Chạy sớm, giảm tốc muộn — hai bước cuối của pha closeout quyết định nó có hiệu quả không.",
+      "Chủ động nhường: người help the helper giỏi biết nên nhường cú ném nào và nhường một cách có chủ ý.",
+      "Tập với 4 đấu 3 và 5 đấu 4 — các bài tập thiếu người là cách duy nhất để pha xoay thứ hai thành bản năng."
+    ],
+    "commonMistakes": [
+      "Mải nhìn bóng thay vì đọc người hỗ trợ — sửa: chạy các biến thể shell drill mà HLV chấm điểm ánh mắt chứ không chấm chân; mắt nhìn người hỗ trợ trước.",
+      "Đến muộn rồi phạm lỗi vào người ném — sửa: bắt đầu pha xoay sớm hơn một bước; muộn mà kiểm soát hơn sớm mà ẩu, nhưng sớm và kiểm soát thì hơn tất cả.",
+      "Cố kèm hai người cùng lúc — sửa: dạy thứ tự ưu tiên (ném 3 điểm góc trước); đứng giữa hai người là không kèm ai cả.",
+      "Xoay chuyển trong im lặng — sửa: yêu cầu hô thành tiếng cho mọi pha xoay trong buổi tập; không hô thì lần tập đó không tính."
+    ],
+    "gameSituations": [
+      "Đối thủ đâm dọc biên, người hỗ trợ dưới rổ xoay vào — cầu thủ yếu phía bên kia phải chạy nước rút ra bọc tay ném ở góc.",
+      "Pick and roll giữa sân, hậu vệ ở nail lao vào hỗ trợ — người tiếp theo bọc pha pop của roll man hoặc đường chuyền đảo cánh.",
+      "Gặp đội chuyên đâm rồi chuyền ra — pha xoay thứ hai chính là toàn bộ kế hoạch trận đấu; tập đến khi thành phản xạ.",
+      "Cuối đồng hồ trong tình huống hỗn loạn — khi người hỗ trợ đầu tiên buộc phải lao vào, người help the helper quyết định đợt bóng kết thúc bằng pha chặn hay cú ném 3 điểm trống."
+    ]
+  }
+}

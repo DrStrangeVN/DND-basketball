@@ -1,0 +1,142 @@
+{
+  "title": "Building Shooters in Practice",
+  "description": "A practice-design blueprint for developing reliable shooters: volume, variety, pressure, and tracking.",
+  "hub": "coaching",
+  "subcategory": "practice-design",
+  "level": "intermediate",
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 7,
+  "dateUpdated": "2026-10-11",
+  "tags": [
+    "shooting",
+    "practice-design",
+    "drills",
+    "development"
+  ],
+  "whatIsIt": [
+    "Building shooters in practice means designing training so that shooting skill actually transfers to games. Most teams shoot plenty in warm-ups and wonder why percentages do not improve — because uncontested, rhythmic, same-spot shooting builds a skill that game conditions never allow.",
+    "A shooter-development practice has four ingredients: high volume of game-like reps, varied shots (off movement, off the dribble, contested), pressure (consequences, competition, fatigue), and tracking (numbers that prove progress or expose problems)."
+  ],
+  "whyItMatters": [
+    "Shooting is the most valuable skill in modern basketball and the slowest to develop — it takes thousands of correct reps. Teams that design shooting deliberately produce reliable shooters; teams that just 'get shots up' produce players who shoot well in layup lines and disappear in games."
+  ],
+  "howTo": [
+    {
+      "title": "Start with form, then add speed",
+      "detail": "Open every shooting block with 3–5 minutes of close-range form shooting (1–1.5 m): perfect mechanics, no rush. Only when form is locked do you move out and add pace. Never let players rush through form work — garbage reps build garbage habits."
+    },
+    {
+      "title": "Shoot off movement, not standing still",
+      "detail": "At least 60% of shooting reps should start with a cut, a screen, or a dribble move. Design drills where players sprint to a spot, catch on the move, and shoot in rhythm — because that is the only kind of shot games give you."
+    },
+    {
+      "title": "Add a defender or a consequence",
+      "detail": "A closeout dummy, a coach with a pad, or a simple rule (miss two in a row = sprint) changes everything. Shooters must practice with elevated heart rate and mild pressure, or the first real closeout in a game will break their form."
+    },
+    {
+      "title": "Track makes, not just attempts",
+      "detail": "Every shooting drill ends with a number: 42/60 from the elbow, 18/25 corner threes. Post the numbers. Players compete against their own records, and you get data that tells you who is actually improving versus who just looks busy."
+    },
+    {
+      "title": "Program game shots only",
+      "detail": "Audit your drills: does anyone on your team actually shoot that shot in games? Cut the circus shots. Every rep should map to a shot your offense creates — corner threes, trail threes, free throws, one-dribble pull-ups."
+    },
+    {
+      "title": "Finish tired",
+      "detail": "End shooting segments after a conditioning block twice a week. Legs decide shooting percentage in the fourth quarter; practicing fresh-only shooting prepares players for a game that never happens."
+    }
+  ],
+  "coachingPoints": [
+    "Quality beats quantity, but quantity still matters — 200 focused game-like reps beat 500 lazy ones.",
+    "Vary the drill every 2–3 weeks; shooters adapt to patterns and stop improving on autopilot.",
+    "Film one shooting session per month — players fix their own form faster when they see it.",
+    "Celebrate streaks and records publicly; shooting confidence is built on evidence of makes."
+  ],
+  "commonMistakes": [
+    "Shooting only uncontested in practice — fix: every drill gets a closeout, a contest, or a time limit within two weeks.",
+    "Counting attempts instead of makes — fix: the scoreboard of every drill is makes/total, written down.",
+    "Letting tired players shoot with broken form — fix: when legs go, move in closer rather than reinforcing bad mechanics.",
+    "Same spots, same rhythm, all season — fix: rotate zones weekly and change the entry (cut, screen, dribble) constantly."
+  ],
+  "gameSituations": [
+    "Pregame warm-up — keep it to form shooting and game spots; save new mechanics for practice days.",
+    "Shooting slumps — return to close-range form work and tracked free throws to rebuild the stroke.",
+    "Practice planning — dedicate 20–25 minutes of every session to structured shooting, not just warm-up lines."
+  ],
+  "related": [
+    "shooting-mechanics",
+    "catch-and-shoot",
+    "free-throw",
+    "practice-tempo"
+  ],
+  "vi": {
+    "title": "Xây dựng tay ném trong buổi tập",
+    "description": "Bản thiết kế buổi tập để phát triển những tay ném đáng tin cậy: số lượng, đa dạng, áp lực và theo dõi.",
+    "tags": [
+      "ném rổ",
+      "thiết kế buổi tập",
+      "bài tập",
+      "phát triển"
+    ],
+    "whatIsIt": [
+      "Xây dựng tay ném trong buổi tập nghĩa là thiết kế buổi tập sao cho kỹ năng ném thật sự chuyển được vào trận đấu. Hầu hết các đội ném rất nhiều khi khởi động rồi thắc mắc sao tỉ lệ không cải thiện — vì ném không bị kèm, nhịp đều, cùng một điểm chỉ xây một kỹ năng mà điều kiện trận đấu không bao giờ cho phép.",
+      "Một buổi tập phát triển tay ném có bốn thành phần: số lượng lớn các lần ném giống trận đấu, đa dạng cú ném (sau di chuyển, sau dẫn bóng, bị kèm), áp lực (hình phạt, thi đấu, mệt mỏi), và theo dõi (con số chứng minh tiến triển hoặc bộc lộ vấn đề)."
+    ],
+    "whyItMatters": [
+      "Ném rổ là kỹ năng giá trị nhất trong bóng rổ hiện đại và cũng là kỹ năng phát triển chậm nhất — cần hàng nghìn lần tập đúng. Đội nào thiết kế việc ném một cách chủ đích sẽ tạo ra những tay ném đáng tin cậy; đội nào chỉ 'ném cho có' sẽ tạo ra cầu thủ ném hay khi khởi động và biến mất trong trận đấu."
+    ],
+    "howTo": [
+      {
+        "title": "Bắt đầu từ kỹ thuật, rồi mới thêm tốc độ",
+        "detail": "Mở mọi khối tập ném bằng 3–5 phút ném chỉnh form từ cự ly gần (1–1,5m): kỹ thuật chuẩn, không vội. Chỉ khi form đã khóa mới ra xa và tăng nhịp. Không bao giờ để cầu thủ làm qua loa phần chỉnh form — tập ẩu xây thói quen ẩu."
+      },
+      {
+        "title": "Ném sau di chuyển, không đứng yên",
+        "detail": "Ít nhất 60% số lần ném nên bắt đầu từ một pha cắt, một screen, hoặc một động tác dẫn bóng. Thiết kế bài tập mà cầu thủ chạy nước rút đến điểm, bắt bóng khi đang di chuyển và ném theo nhịp — vì đó là loại cú ném duy nhất mà trận đấu cho bạn."
+      },
+      {
+        "title": "Thêm hậu vệ hoặc hình phạt",
+        "detail": "Một hình nộm closeout, một HLV cầm đệm, hoặc một luật đơn giản (hỏng hai quả liên tiếp = chạy nước rút) thay đổi mọi thứ. Tay ném phải tập với nhịp tim cao và áp lực nhẹ, nếu không pha closeout thật đầu tiên trong trận sẽ phá vỡ kỹ thuật của họ."
+      },
+      {
+        "title": "Đếm số quả vào, không chỉ số lần ném",
+        "detail": "Mọi bài tập ném kết thúc bằng một con số: 42/60 ở elbow, 18/25 ném 3 điểm góc. Dán con số lên. Cầu thủ thi đua với kỷ lục của chính mình, và bạn có dữ liệu cho biết ai thật sự tiến bộ và ai chỉ trông bận rộn."
+      },
+      {
+        "title": "Chỉ tập những cú ném dùng trong trận",
+        "detail": "Kiểm tra các bài tập của bạn: có ai trong đội thật sự ném cú đó trong trận không? Cắt bỏ những cú ném biểu diễn. Mọi lần tập phải ánh xạ tới cú ném mà lối chơi của bạn tạo ra — ném 3 điểm góc, ném 3 điểm sau phản công, ném phạt, pull-up một nhịp dẫn bóng."
+      },
+      {
+        "title": "Kết thúc khi đã mệt",
+        "detail": "Hai lần mỗi tuần, kết thúc phần ném sau một khối thể lực. Đôi chân quyết định tỉ lệ ném ở hiệp bốn; tập ném chỉ khi còn khỏe là chuẩn bị cho một trận đấu không bao giờ xảy ra."
+      }
+    ],
+    "coachingPoints": [
+      "Chất lượng hơn số lượng, nhưng số lượng vẫn quan trọng — 200 lần ném tập trung giống trận đấu hơn 500 lần ném hời hợt.",
+      "Đổi bài tập mỗi 2–3 tuần; tay ném thích nghi với mẫu hình và ngừng tiến bộ khi tập theo quán tính.",
+      "Quay video một buổi tập ném mỗi tháng — cầu thủ tự sửa kỹ thuật nhanh hơn khi nhìn thấy chính mình.",
+      "Tuyên dương công khai các chuỗi ném vào và kỷ lục; sự tự tin khi ném được xây trên bằng chứng của những cú ném vào."
+    ],
+    "commonMistakes": [
+      "Trong buổi tập chỉ ném không bị kèm — sửa: trong hai tuần, mọi bài tập đều phải có closeout, người kèm, hoặc giới hạn thời gian.",
+      "Đếm số lần ném thay vì số quả vào — sửa: bảng điểm của mọi bài tập là số quả vào trên tổng số, ghi lại bằng văn bản.",
+      "Để cầu thủ mệt ném với kỹ thuật gãy — sửa: khi chân đã mỏi, cho ném gần lại thay vì củng cố kỹ thuật sai.",
+      "Cả mùa chỉ ném cùng điểm, cùng nhịp — sửa: xoay vòng các vùng ném mỗi tuần và liên tục đổi cách vào bóng (cắt, screen, dẫn bóng)."
+    ],
+    "gameSituations": [
+      "Khởi động trước trận — chỉ ném chỉnh form và các điểm ném trong trận; để việc sửa kỹ thuật mới cho ngày tập.",
+      "Khi ném mất cảm giác — quay về ném chỉnh form cự ly gần và ném phạt có đếm số để lấy lại cảm giác tay.",
+      "Lập kế hoạch buổi tập — dành 20–25 phút mỗi buổi cho phần ném có cấu trúc, không chỉ ném khởi động qua loa."
+    ]
+  },
+  "id": "building-shooters-practice",
+  "slug": "building-shooters-practice"
+}

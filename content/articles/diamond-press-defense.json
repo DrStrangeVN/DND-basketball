@@ -1,0 +1,222 @@
+{
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "coachingPoints": [
+    "The diamond is a sideline press — a middle catch is a broken press, so deny the middle on the inbound at all costs.",
+    "The interceptor never helps on the trap; his patience in the middle creates the press's easiest steals.",
+    "Trap early and high — the closer to the backcourt the trap springs, the longer the offense has to solve it.",
+    "The safety talks nonstop; he sees the whole floor and his voice organizes the other four.",
+    "Practice the melt: when beaten, the diamond becomes a half-court 1-2-1-1 zone without a scramble."
+  ],
+  "commonMistakes": [
+    "Wings sagging into the middle on the inbound — fix: wings start wide at the elbows; the middle is D4's, not theirs.",
+    "D4 abandoning the middle to help trap — fix: no middle help, ever; the trap has its two defenders already.",
+    "Safety creeping up to watch the trap — fix: D5's eyes stay on the deepest man until the ball crosses midcourt.",
+    "Chaser letting the ball go middle off the catch — fix: D1's first three steps must take away the middle dribble."
+  ],
+  "dateUpdated": "2026-10-11",
+  "description": "The diamond press: a 1-2-1-1 shape that denies the middle, traps the first sideline catch, and funnels everything to the corners.",
+  "gameSituations": [
+    "To force 8-second violations — the early sideline trap eats the backcourt clock fast.",
+    "Against teams that inbound to the middle — the diamond's deny-middle alignment attacks their first option.",
+    "When you want to press but protect the paint — the safety gives you a permanent deep defender.",
+    "After a made free throw — the set positions are easy to align while the shooter is at the line."
+  ],
+  "howTo": [
+    {
+      "title": "Set the diamond",
+      "detail": "D1 (chaser) takes the ball. D2 and D3 (wings) align at the backcourt elbows. D4 (interceptor) sits at the midcourt circle. D5 (safety) drops to the frontcourt, between the ball and the basket."
+    },
+    {
+      "title": "Deny the middle inbound",
+      "detail": "D1 pressures the inbounder's vision; the wings deny the middle of the floor. Force the first catch toward a sideline — a middle catch beats the diamond before it starts."
+    },
+    {
+      "title": "Chase and funnel",
+      "detail": "D1 chases the ball handler and steers him to the nearest sideline. The wing on that side contains outside-in; the opposite wing sprints across to become the trapper."
+    },
+    {
+      "title": "Trap the sideline catch",
+      "detail": "When the ball is pinned near the sideline, the wing and the chaser form the trap wall. The trap triggers early — often before midcourt — which is why the diamond forces so many 8-second violations."
+    },
+    {
+      "title": "Read the middle",
+      "detail": "D4 watches the ball handler's eyes and jumps the first reversal or middle pass. He does not help on the trap — his steal is the press's second weapon, and it only works if he stays home in the middle."
+    },
+    {
+      "title": "Safety holds deep",
+      "detail": "D5 stays goal-side of the deepest threat and communicates: 'Back!', 'Middle!'. If the ball goes over the top, D5 contains the dribble until the press sprints back and reforms."
+    }
+  ],
+  "hub": "defense",
+  "id": "diamond-press-defense",
+  "level": "intermediate",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 7,
+  "related": [
+    "full-court-press",
+    "zone-1-3-1",
+    "transition-defense",
+    "outlet-passing",
+    "help-defense"
+  ],
+  "slug": "diamond-press-defense",
+  "subcategory": "defensive-systems",
+  "tags": [
+    "press",
+    "diamond",
+    "full-court defense",
+    "trap",
+    "zone press"
+  ],
+  "title": "Diamond Press (1-2-1-1)",
+  "vi": {
+    "coachingPoints": [
+      "Kim cương là press đánh biên — một pha bắt bóng ở giữa là một press đã hỏng, nên phải chặn giữa ở pha ném biên bằng mọi giá.",
+      "Người chặn giữa không bao giờ hỗ trợ pha bẫy; sự kiên nhẫn của anh ta ở giữa sân tạo ra những pha cướp bóng dễ nhất của press.",
+      "Bẫy sớm và cao — bẫy giăng càng gần sân nhà, đối phương càng ít thời gian giải quyết.",
+      "Người bảo vệ hô không ngừng; anh ta nhìn thấy cả sân và giọng của anh ta tổ chức bốn người còn lại.",
+      "Tập pha 'chảy': khi bị vượt, kim cương biến thành zone 1-2-1-1 nửa sân mà không hỗn loạn."
+    ],
+    "commonMistakes": [
+      "Hai cánh lùi vào giữa ở pha ném biên — sửa: hai cánh đứng rộng ở elbow; khu vực giữa là của D4, không phải của họ.",
+      "D4 bỏ giữa sân để hỗ trợ bẫy — sửa: không bao giờ hỗ trợ giữa sân; pha bẫy đã có đủ hai người.",
+      "Người bảo vệ dâng lên xem pha bẫy — sửa: mắt D5 nhìn người sâu nhất cho đến khi bóng qua vạch giữa sân.",
+      "Người đuổi để bóng đi vào giữa sau pha bắt bóng — sửa: ba bước đầu của D1 phải cắt pha dẫn bóng vào giữa."
+    ],
+    "description": "Press kim cương: đội hình 1-2-1-1 bịt giữa sân, bẫy pha bắt bóng đầu tiên ở biên, và ép mọi thứ ra góc sân.",
+    "gameSituations": [
+      "Ép lỗi 8 giây — pha bẫy biên sớm ngốn nhanh đồng hồ sân nhà.",
+      "Gặp đội ném biên vào giữa — đội hình bịt giữa của kim cương tấn công đúng lựa chọn đầu tiên của họ.",
+      "Khi muốn press nhưng vẫn bảo vệ khu vực dưới rổ — người bảo vệ cho bạn một cầu thủ sâu cố định.",
+      "Sau pha ném phạt thành công — các vị trí dễ xếp trong lúc cầu thủ ném đang đứng ở vạch."
+    ],
+    "howTo": [
+      {
+        "title": "Xếp đội hình kim cương",
+        "detail": "D1 (người đuổi) kèm bóng. D2 và D3 (hai cánh) đứng ở vị trí elbow sân nhà. D4 (người chặn) đứng ở vòng tròn giữa sân. D5 (người bảo vệ) lùi xuống phần sân đối phương, giữa bóng và rổ."
+      },
+      {
+        "title": "Chặn giữa ở pha ném biên",
+        "detail": "D1 gây áp lực lên tầm nhìn của người ném biên; hai cánh bịt giữa sân. Ép pha bắt bóng đầu tiên về phía biên — một pha bắt bóng ở giữa phá hỏng kim cương ngay từ đầu."
+      },
+      {
+        "title": "Đuổi và ép biên",
+        "detail": "D1 đuổi theo người dẫn bóng và lái anh ta về biên gần nhất. Cánh bên đó ép từ ngoài vào trong; cánh đối diện chạy sang để trở thành người bẫy."
+      },
+      {
+        "title": "Bẫy pha bắt bóng ở biên",
+        "detail": "Khi bóng bị kẹt gần biên, cánh và người đuổi tạo thành tường bẫy. Bẫy kích hoạt sớm — thường trước vạch giữa sân — đó là lý do kim cương ép được nhiều lỗi 8 giây."
+      },
+      {
+        "title": "Đọc khu vực giữa",
+        "detail": "D4 nhìn mắt người dẫn bóng và nhảy vào đường chuyền đổi hướng hoặc chuyền giữa đầu tiên. Anh ta không hỗ trợ pha bẫy — cú cướp bóng của anh ta là vũ khí thứ hai của press, và nó chỉ hiệu quả khi anh ta giữ vị trí giữa sân."
+      },
+      {
+        "title": "Người bảo vệ giữ phía sau",
+        "detail": "D5 đứng giữa mối đe dọa sâu nhất và rổ, hô liên tục: 'Về!', 'Giữa!'. Nếu bóng vượt qua đầu, D5 kèm pha dẫn bóng cho đến khi press chạy về và tái lập."
+      }
+    ],
+    "tags": [
+      "press",
+      "kim cương",
+      "phòng thủ toàn sân",
+      "bẫy",
+      "press zone"
+    ],
+    "title": "Press kim cương (diamond 1-2-1-1)",
+    "whatIsIt": [
+      "Press kim cương xếp đội hình 1-2-1-1: một người đuổi theo bóng, hai cánh ở vị trí elbow, một người chặn giữa sân, và một người bảo vệ phía sau. Đây là press bịt giữa sân tốt nhất — đối phương bị ép ra biên, nơi pha bẫy đang chờ sẵn.",
+      "Điểm đặc biệt của kim cương là người chặn giữa. Trong khi hai cánh bẫy pha bắt bóng đầu tiên ở biên, cầu thủ giữa đọc mắt người dẫn bóng và nhảy vào đường chuyền đổi hướng. Nhiều pha cướp bóng của press kim cương không đến từ pha bẫy, mà từ pha đọc giữa sân này."
+    ],
+    "whyItMatters": [
+      "Các HLV thích kim cương vì nó vừa là press vừa là phòng thủ nửa sân trong một: nếu bóng vượt qua bẫy đầu, đội hình tự chảy thành zone 1-2-1-1 ở nửa sân. Bạn có áp lực toàn sân với một phương án dự phòng tích hợp — lý tưởng cho đội muốn press mà không đánh cược cả trận."
+    ]
+  },
+  "whatIsIt": [
+    "The diamond press lines up 1-2-1-1: one chaser on the ball, two wings at the elbows, one interceptor in the middle of the floor, and one safety deep. It is the best press at taking away the middle of the floor — the offense is forced to the sidelines, where the trap is waiting.",
+    "What makes the diamond special is the interceptor. While the wings trap the first sideline catch, the middle defender reads the ball handler's eyes and jumps the reversal pass. Many diamond-press turnovers come not from the trap itself, but from that middle read."
+  ],
+  "whyItMatters": [
+    "Coaches love the diamond because it is a press and a half-court defense in one: if the ball beats the first trap, the shape naturally melts into a 1-2-1-1 zone look in the half court. You get full-court pressure with a built-in fallback — ideal for teams that want to press without gambling the game on it."
+  ],
+  "diagram": {
+    "title": "Diamond press — D1 chases, wings funnel to the sideline trap",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 64,
+        "y": 86
+      },
+      {
+        "label": "O2",
+        "x": 36,
+        "y": 80
+      },
+      {
+        "label": "O3",
+        "x": 74,
+        "y": 74
+      },
+      {
+        "label": "O4",
+        "x": 46,
+        "y": 62
+      },
+      {
+        "label": "O5",
+        "x": 58,
+        "y": 54
+      }
+    ],
+    "defense": [
+      {
+        "label": "D1",
+        "x": 62,
+        "y": 84
+      },
+      {
+        "label": "D2",
+        "x": 36,
+        "y": 72
+      },
+      {
+        "label": "D3",
+        "x": 70,
+        "y": 72
+      },
+      {
+        "label": "D4",
+        "x": 50,
+        "y": 52
+      },
+      {
+        "label": "D5",
+        "x": 52,
+        "y": 36
+      }
+    ],
+    "ball": "O1",
+    "screens": [],
+    "moves": [
+      {
+        "from": "D1",
+        "to": "O1",
+        "kind": "move"
+      },
+      {
+        "from": "D3",
+        "to": "O1",
+        "kind": "move"
+      }
+    ],
+    "passes": [],
+    "shots": []
+  }
+}

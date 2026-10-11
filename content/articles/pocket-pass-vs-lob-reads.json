@@ -1,0 +1,197 @@
+{
+  "id": "pocket-pass-vs-lob-reads",
+  "slug": "pocket-pass-vs-lob-reads",
+  "title": "Pocket Pass vs Lob Reads",
+  "description": "The two passes that feed the roller: the pocket pass through traffic and the lob over the top. Learn when each one is open — and how to throw it.",
+  "hub": "pick-and-roll",
+  "subcategory": "pick-and-roll",
+  "level": "intermediate",
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 6,
+  "dateUpdated": "2026-10-11",
+  "whatIsIt": [
+    "Every pick and roll produces the same question for the ball handler: how do I get the ball to the roller? There are two main answers. The pocket pass — a bounce or chest pass threaded between the two defenders into the roller's hands as he dives. And the lob — a high, arcing pass thrown over the defense for the roller (or a second jumper) to catch above the rim.",
+    "The read is about the defense's shape. If the screener's defender is attached to the roller's hip or trailing, the pocket is open — throw it into the space between the defenders. If the defender is in front of the roller, or the help has sunk in behind, the lob is open — throw it over the top where only your man can get it. Wrong pass, wrong time equals turnover; right pass, right time equals dunk."
+  ],
+  "whyItMatters": [
+    "The roller is often the most open man in the pick and roll — but only if the ball arrives. Guards who can only throw one of the two passes are readable: defenses sit on the pocket and dare the lob, or vice versa. Guards who have both keep the defense guessing, which is what creates the space for everything else — the pull-up, the kick-out, the drive. For bigs, being a lob threat AND a pocket-roll finisher doubles your value. This is a two-player skill that decides possessions."
+  ],
+  "howTo": [
+    {
+      "title": "Come off the screen reading the roller",
+      "detail": "O1 uses O5's screen and keeps his eyes on the roll developing — not just on his own defender. The read starts the moment O5 turns his hips to roll."
+    },
+    {
+      "title": "Read the screener's defender",
+      "detail": "Watch D5: is he trailing O5's hip (pocket open), or has he gotten in front / sunk back (lob open)? This one read decides the pass. Make it in one dribble — the window is small."
+    },
+    {
+      "title": "Throw the pocket pass",
+      "detail": "If D5 trails: a firm bounce pass (or one-hand push pass) into the space between D1 and D5, leading O5 toward the rim. Aim for the roller's outside hand, away from the trailing defender. The pass must beat D5's recovery — throw it early."
+    },
+    {
+      "title": "Throw the lob",
+      "detail": "If D5 is in front or help has sunk: throw it high and soft, arcing over the defense toward the rim. Aim for a spot above the rim where O5 (or the second jumper) can catch it at its peak. Give it air — a flat lob is a steal."
+    },
+    {
+      "title": "The roller finishes the read",
+      "detail": "O5's job: on the pocket, catch and go straight up — no extra dribble. On the lob, time the jump and catch at the peak. A roller who fumbles either pass turns a good read into a turnover — hands ready, eyes on the ball."
+    }
+  ],
+  "coachingPoints": [
+    "Eyes on the roller, not the rim. Guards who stare at the basket miss the pass window — the read is on D5, not on the scoreboard.",
+    "Throw the pocket EARLY. The pocket pass has a half-second window; late pockets get deflected by the recovering big.",
+    "The lob needs air. Young guards throw flat lobs that get picked — teach arc: the ball should peak above the rim.",
+    "Roller: be a target. Hands up and ready on every roll — the guard can't throw what he can't see.",
+    "Drill both passes live. The read only exists against a real recovering defender — drill it 2-on-2 with a live D5."
+  ],
+  "commonMistakes": [
+    "Predetermining the pass — fix: the pass is a read on D5, not a plan; drill with D5 giving different looks.",
+    "Late pocket pass deflected — fix: throw it on the roller's second step, not his fourth; early is everything.",
+    "Flat lob stolen — fix: arc it — if the ball doesn't peak above the rim, it's not a lob, it's a turnover.",
+    "Roller not ready — hands down, eyes elsewhere — fix: hands-up rule on every roll; the pass comes fast."
+  ],
+  "gameSituations": [
+    "Against drop coverage: the pocket pass is the primary weapon — the drop big's positioning opens the pocket by design.",
+    "Against switching: the lob punishes the small switched onto the roller — throw it over the mismatch.",
+    "Late-game PNR: one clean pocket-or-lob read is the highest-percentage play in the book with under a minute left."
+  ],
+  "tags": [
+    "pocket pass",
+    "lob",
+    "pick and roll",
+    "passing",
+    "roller"
+  ],
+  "related": [
+    "pocket-pass",
+    "lob-to-roller",
+    "pick-and-roll-reads",
+    "roll-man-reads",
+    "pnr-vs-drop"
+  ],
+  "diagram": {
+    "title": "Pocket vs lob — D5 trails so the pocket pass threads between the defenders to O5",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 62,
+        "y": 50
+      },
+      {
+        "label": "O5",
+        "x": 56,
+        "y": 30
+      }
+    ],
+    "defense": [
+      {
+        "label": "D1",
+        "x": 62,
+        "y": 55
+      },
+      {
+        "label": "D5",
+        "x": 52,
+        "y": 28
+      }
+    ],
+    "ball": "O1",
+    "screens": [
+      {
+        "x": 58,
+        "y": 46
+      }
+    ],
+    "moves": [
+      {
+        "from": "O5",
+        "to": "O1",
+        "kind": "screen-run"
+      },
+      {
+        "from": "O1",
+        "to": "rim",
+        "kind": "dribble"
+      },
+      {
+        "from": "O5",
+        "to": "rim",
+        "kind": "cut"
+      }
+    ],
+    "passes": [
+      {
+        "from": "O1",
+        "to": "O5"
+      }
+    ],
+    "shots": []
+  },
+  "vi": {
+    "title": "Đọc tình huống pocket pass và lob (pocket pass vs lob reads)",
+    "description": "Hai đường chuyền nuôi người roll: pocket pass xuyên qua đám đông và lob bổng qua đầu. Học khi nào mỗi đường mở — và cách chuyền nó.",
+    "whatIsIt": [
+      "Mọi pick and roll đặt ra cùng một câu hỏi cho người cầm bóng: làm sao đưa bóng đến người roll? Có hai đáp án chính. Pocket pass — chuyền nảy hoặc chuyền ngực xỏ giữa hai hậu vệ vào tay người roll khi anh ta lao xuống. Và lob — đường chuyền cao, vòng cung, bổng qua đầu hàng thủ cho người roll (hoặc người nhảy thứ hai) bắt trên rổ.",
+      "Cách đọc nằm ở hình dạng hàng thủ. Hậu vệ của người dựng screen mà bám hông người roll hoặc chạy theo sau thì pocket mở — chuyền vào khoảng giữa hai hậu vệ. Hậu vệ mà đứng trước người roll, hoặc help đã sập vào sau thì lob mở — chuyền bổng qua đầu, nơi chỉ người của bạn với tới. Sai đường, sai lúc là mất bóng; đúng đường, đúng lúc là dunk."
+    ],
+    "whyItMatters": [
+      "Người roll thường là người trống nhất trong pick and roll — nhưng chỉ khi bóng đến được. Hậu vệ chỉ chuyền được một trong hai đường thì dễ bị bắt bài: hàng thủ ngồi chờ pocket và thách lob, hoặc ngược lại. Hậu vệ có cả hai khiến hàng thủ đoán mò, và đó là thứ tạo khoảng trống cho mọi thứ khác — pull-up, chuyền ra, đột phá. Với big, vừa đe dọa lob vừa kết thúc pocket-roll thì giá trị nhân đôi. Đây là kỹ năng của hai người quyết định pha bóng."
+    ],
+    "howTo": [
+      {
+        "title": "Vòng qua screen, mắt nhìn người roll",
+        "detail": "O1 dùng screen của O5, mắt dõi theo đường roll đang hình thành — không chỉ nhìn hậu vệ của mình. Cách đọc bắt đầu ngay khi O5 xoay hông để roll."
+      },
+      {
+        "title": "Đọc hậu vệ của người dựng screen",
+        "detail": "Nhìn D5: hắn đang chạy theo hông O5 (pocket mở), hay đã đứng trước mặt / lùi sâu (lob mở)? Một cách đọc này quyết định đường chuyền. Đọc trong một nhịp dẫn — cửa sổ nhỏ."
+      },
+      {
+        "title": "Chuyền pocket pass",
+        "detail": "D5 chạy theo sau: chuyền nảy chắc (hoặc chuyền đẩy một tay) vào khoảng giữa D1 và D5, dẫn O5 về phía rổ. Nhắm vào tay ngoài của người roll, xa hậu vệ đang đuổi. Đường chuyền phải thắng pha hồi phục của D5 — chuyền sớm."
+      },
+      {
+        "title": "Chuyền lob",
+        "detail": "D5 đứng trước mặt hoặc help đã sập vào: chuyền cao và mềm, vòng cung qua đầu hàng thủ về phía rổ. Nhắm điểm trên rổ nơi O5 (hoặc người nhảy thứ hai) bắt được ở đỉnh. Cho bóng độ bổng — lob bẹt là biếu pha cướp bóng."
+      },
+      {
+        "title": "Người roll hoàn tất cách đọc",
+        "detail": "Việc của O5: với pocket, bắt bóng và lên rổ ngay — không dẫn thêm. Với lob, căn nhịp nhảy và bắt ở đỉnh. Người roll lóng ngóng với đường chuyền nào cũng biến cách đọc tốt thành turnover — tay sẵn sàng, mắt nhìn bóng."
+      }
+    ],
+    "coachingPoints": [
+      "Mắt nhìn người roll, không phải nhìn rổ. Hậu vệ mải nhìn rổ là bỏ lỡ cửa sổ chuyền — cách đọc nằm ở D5, không phải ở bảng điểm.",
+      "Chuyền pocket SỚM. Pocket pass có cửa sổ nửa giây; pocket muộn bị big đang hồi phục cắt.",
+      "Lob cần độ bổng. Hậu vệ trẻ chuyền lob bẹt, bị cướp — dạy độ vòng cung: bóng phải đạt đỉnh trên rổ.",
+      "Người roll: làm mục tiêu. Tay giơ sẵn mọi lần roll — hậu vệ không thể chuyền thứ anh ta không thấy.",
+      "Tập cả hai đường chuyền với phòng thủ thật. Cách đọc chỉ tồn tại trước hậu vệ hồi phục thật — tập 2-kèm-2 với D5 thật."
+    ],
+    "commonMistakes": [
+      "Định sẵn đường chuyền — sửa: đường chuyền là cách đọc D5, không phải kế hoạch; tập với D5 cho các tình huống khác nhau.",
+      "Pocket pass muộn bị cắt — sửa: chuyền ở bước thứ hai của người roll, không phải bước thứ tư; sớm là tất cả.",
+      "Lob bẹt bị cướp — sửa: tạo vòng cung — bóng không đạt đỉnh trên rổ thì đó không phải lob, đó là turnover.",
+      "Người roll không sẵn sàng — tay xuôi, mắt nhìn đâu — sửa: luật tay giơ mọi lần roll; đường chuyền đến nhanh."
+    ],
+    "gameSituations": [
+      "Trước drop coverage: pocket pass là vũ khí chính — vị trí của big drop mở pocket theo thiết kế.",
+      "Trước switch: lob trừng phạt người nhỏ bị switch vào kèm người roll — chuyền bổng qua đầu mismatch.",
+      "PNR cuối trận: một cách đọc pocket-hoặc-lob sạch là miếng có tỷ lệ thành công cao nhất khi còn dưới một phút."
+    ],
+    "tags": [
+      "pocket pass",
+      "lob",
+      "pick and roll",
+      "chuyền bóng",
+      "người roll"
+    ]
+  }
+}

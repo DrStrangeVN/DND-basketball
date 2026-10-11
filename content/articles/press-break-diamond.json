@@ -1,0 +1,230 @@
+{
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "coachingPoints": [
+    "The diamond beats zone presses through the middle — never try to go around a zone press, go through it.",
+    "The middle man is a reader, not a spot — he flashes to the open seam, wherever it is.",
+    "Elbow catches must face up: a back-to-the-press catch at the elbow is a turnover.",
+    "The deep safety stretches the press — without him, the press compresses and the middle closes.",
+    "Teach the over-the-top pass first; it is the press's nightmare and your easiest basket."
+  ],
+  "commonMistakes": [
+    "No middle flash — fix: O5's only job is the middle; if he's standing still, the diamond is just a shape.",
+    "Catching at the elbow facing the baseline — fix: front pivot on the catch; face upfield or don't catch it.",
+    "Forcing the sideline — fix: the diamond's rule is middle, middle, middle; sidelines are the press's trap.",
+    "Deep safety standing next to the inbounder — fix: O2 must stretch deep; depth is what pulls the press apart."
+  ],
+  "dateUpdated": "2026-10-11",
+  "description": "The diamond press break: a 1-2-1 shape that always has a middle man — built to shred diamond and 1-2-2 presses.",
+  "gameSituations": [
+    "Against diamond and 1-2-2 zone presses — the shape is designed for exactly these looks.",
+    "When the press takes away your sideline game — the diamond doesn't need the sidelines.",
+    "After the opponent shows a new zone press — the middle-flash rules work against any zone shape.",
+    "In tournaments with short prep — install the diamond in one practice; the concepts carry over."
+  ],
+  "howTo": [
+    {
+      "title": "Align the diamond",
+      "detail": "O1 inbounds. O2 sets up deep as the safety valve. O3 and O4 take the elbows — the seams of the press. O5 is the middle man, starting at midcourt and reading the defense."
+    },
+    {
+      "title": "Inbound to a seam",
+      "detail": "The first pass goes to an elbow — the soft spot between the press's lines. The receiver catches facing upfield, chin the ball, and looks middle immediately."
+    },
+    {
+      "title": "Flash the middle man",
+      "detail": "O5 reads the press and flashes to the open middle seam as the ball is caught. The timing is everything: he arrives as the receiver looks up, giving an instant middle outlet."
+    },
+    {
+      "title": "Play through the middle",
+      "detail": "The ball goes elbow to middle to opposite elbow — always through the middle. The press's wings can't cover the middle flash and their sideline jobs at the same time; the middle pass breaks them."
+    },
+    {
+      "title": "Go over the top",
+      "detail": "When the press steps up to take the middle, the deep safety (O2) is open long. One accurate pass over the top and the press is beaten for a layup — teach your inbounders to see it."
+    },
+    {
+      "title": "Attack the broken press",
+      "detail": "Once the ball crosses midcourt through the middle, attack: the press's back line is usually 2-on-3. Push to the rim before the press can re-form — the diamond creates the break, the attack finishes it."
+    }
+  ],
+  "hub": "transition",
+  "id": "press-break-diamond",
+  "level": "intermediate",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 6,
+  "related": [
+    "full-court-press",
+    "outlet-passing",
+    "transition-offense",
+    "rebound-outlet-connection",
+    "transition-spacing"
+  ],
+  "slug": "press-break-diamond",
+  "subcategory": "transition",
+  "tags": [
+    "press break",
+    "diamond",
+    "transition",
+    "zone press",
+    "passing"
+  ],
+  "title": "Diamond Press Break Alignment",
+  "vi": {
+    "coachingPoints": [
+      "Kim cương phá press zone xuyên qua giữa — không bao giờ đi vòng quanh press zone, hãy xuyên qua nó.",
+      "Người ở giữa là người đọc tình huống, không phải một vị trí — anh ta di chuyển vào khe hở, dù nó ở đâu.",
+      "Bắt bóng ở elbow phải xoay mặt lên: bắt bóng quay lưng về press ở elbow là mất bóng.",
+      "Người an toàn ở sâu kéo giãn press — không có anh ta, press co lại và giữa sân đóng.",
+      "Dạy đường chuyền bổng qua đầu trước; đó là cơn ác mộng của press và là cú ghi điểm dễ nhất của bạn."
+    ],
+    "commonMistakes": [
+      "Không có người di chuyển vào giữa — sửa: nhiệm vụ duy nhất của O5 là giữa sân; anh ta mà đứng yên thì kim cương chỉ là một hình vẽ.",
+      "Bắt bóng ở elbow quay mặt về baseline — sửa: xoay mặt lên khi bắt bóng; xoay mặt lên sân hoặc đừng bắt.",
+      "Cố đấm ăn xôi ra biên — sửa: quy tắc của kim cương là giữa, giữa, giữa; đường biên là bẫy của press.",
+      "Người an toàn đứng cạnh người ném biên — sửa: O2 phải đứng sâu; chiều sâu mới kéo giãn được press."
+    ],
+    "description": "Phá press kiểu kim cương: đội hình 1-2-1 luôn có người ở giữa — sinh ra để xé nát press kim cương và 1-2-2.",
+    "gameSituations": [
+      "Trước press zone kim cương và 1-2-2 — đội hình được thiết kế đúng cho những kiểu này.",
+      "Khi press lấy đi lối đánh biên của bạn — kim cương không cần đường biên.",
+      "Sau khi đối phương tung press zone mới — quy tắc di chuyển vào giữa hiệu quả trước mọi hình press zone.",
+      "Ở giải đấu chuẩn bị ngắn — cài kim cương trong một buổi tập; các ý tưởng mang theo được."
+    ],
+    "howTo": [
+      {
+        "title": "Xếp đội hình kim cương",
+        "detail": "O1 ném biên. O2 đứng sâu làm van an toàn. O3 và O4 đứng ở elbow — các khe của press. O5 là người ở giữa, xuất phát ở giữa sân và đọc hàng thủ."
+      },
+      {
+        "title": "Ném biên vào khe",
+        "detail": "Đường chuyền đầu tới một elbow — điểm mềm giữa các hàng của press. Người nhận bắt bóng xoay mặt lên sân, kẹp bóng dưới cằm, và nhìn giữa ngay lập tức."
+      },
+      {
+        "title": "Người giữa di chuyển vào khe",
+        "detail": "O5 đọc press và di chuyển vào khe giữa đang hở khi bóng được bắt. Thời điểm là tất cả: anh ta tới nơi đúng lúc người nhận ngẩng lên, cho một người thoát ở giữa tức thì."
+      },
+      {
+        "title": "Chơi xuyên qua giữa",
+        "detail": "Bóng đi từ elbow vào giữa rồi ra elbow đối diện — luôn xuyên qua giữa. Hai cánh của press không thể vừa bọc pha di chuyển vào giữa vừa giữ nhiệm vụ biên; đường chuyền giữa phá vỡ họ."
+      },
+      {
+        "title": "Chuyền bổng qua đầu",
+        "detail": "Khi press dâng lên lấy giữa, người an toàn ở sâu (O2) sẽ trống ở xa. Một đường chuyền chính xác qua đầu và press bị phá để thành layup — dạy người ném biên phải thấy nó."
+      },
+      {
+        "title": "Tấn công press đã vỡ",
+        "detail": "Khi bóng qua giữa sân xuyên qua giữa, tấn công: hàng sau của press thường 2 đấu 3. Đánh vào rổ trước khi press kịp tái lập — kim cương tạo ra pha phản công, pha tấn công kết thúc nó."
+      }
+    ],
+    "tags": [
+      "phá press",
+      "kim cương",
+      "chuyển đổi",
+      "press zone",
+      "chuyền bóng"
+    ],
+    "title": "Đội hình phá press kim cương",
+    "whatIsIt": [
+      "Phá press kim cương phản chiếu đúng press mà nó đánh bại: một người sâu, hai người ở elbow của press, một người ở giữa. Đội hình đảm bảo luôn có người thoát ở giữa trong mọi pha ném biên — đúng thứ mà press kim cương và 1-2-2 cố lấy đi.",
+      "Đây là kiểu phá press của đội bóng biết suy nghĩ. Người ở giữa đọc press và di chuyển vào khe hở; hai người sâu kéo giãn press theo chiều dọc; bóng đi xuyên giữa như dao nóng. Trước press zone, kim cương là một ca phẫu thuật."
+    ],
+    "whyItMatters": [
+      "Press zone được thiết kế để lấy đi đường biên và ép mọi thứ vào giữa — rồi lấy luôn cả giữa. Phá press kim cương gọi đúng bluff đó: nó dồn người vào giữa bằng một người thoát chuyên trách và dùng chính đội hình của press chống lại nó. Nếu giải đấu của bạn đầy press zone, đây là đáp án."
+    ]
+  },
+  "whatIsIt": [
+    "The diamond press break mirrors the press it beats: one deep, two at the elbows of the press, one in the middle. The shape guarantees a middle outlet on every inbound — which is exactly what diamond and 1-2-2 presses try to take away.",
+    "It is the thinking team's press break. The middle man reads the press and flashes to the open seam; the deep players stretch the press vertically; the ball moves through the middle like a hot knife. Against zone presses, the diamond is surgical."
+  ],
+  "whyItMatters": [
+    "Zone presses are designed to take away the sidelines and force everything middle — then take away the middle too. The diamond press break calls that bluff: it floods the middle with a dedicated outlet and turns the press's own shape against it. If your league is full of zone presses, this is your answer."
+  ],
+  "diagram": {
+    "title": "Diamond press break — middle flash breaks the zone press",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 94
+      },
+      {
+        "label": "O2",
+        "x": 50,
+        "y": 78
+      },
+      {
+        "label": "O3",
+        "x": 28,
+        "y": 68
+      },
+      {
+        "label": "O4",
+        "x": 72,
+        "y": 68
+      },
+      {
+        "label": "O5",
+        "x": 50,
+        "y": 56
+      }
+    ],
+    "defense": [
+      {
+        "label": "D1",
+        "x": 50,
+        "y": 90
+      },
+      {
+        "label": "D2",
+        "x": 34,
+        "y": 64
+      },
+      {
+        "label": "D3",
+        "x": 66,
+        "y": 64
+      },
+      {
+        "label": "D4",
+        "x": 40,
+        "y": 48
+      },
+      {
+        "label": "D5",
+        "x": 60,
+        "y": 48
+      }
+    ],
+    "ball": "O1",
+    "screens": [],
+    "moves": [
+      {
+        "from": "O5",
+        "to": "O3",
+        "kind": "move"
+      }
+    ],
+    "passes": [
+      {
+        "from": "O1",
+        "to": "O3"
+      },
+      {
+        "from": "O3",
+        "to": "O5"
+      },
+      {
+        "from": "O5",
+        "to": "O4"
+      }
+    ],
+    "shots": []
+  }
+}

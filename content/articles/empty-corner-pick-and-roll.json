@@ -1,0 +1,229 @@
+{
+  "id": "empty-corner-pick-and-roll",
+  "slug": "empty-corner-pick-and-roll",
+  "title": "Empty Corner Pick and Roll",
+  "description": "Clear the strong-side corner, then run the pick and roll into the empty space. No low help, no tag — just the guard, the big, and a wide-open lane.",
+  "hub": "pick-and-roll",
+  "subcategory": "pick-and-roll",
+  "level": "intermediate",
+  "ages": [
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 6,
+  "dateUpdated": "2026-10-11",
+  "whatIsIt": [
+    "An empty corner pick and roll starts with a simple spacing adjustment: the strong-side corner is vacated — the shooter lifts to the wing or clears to the weak side — before the ball screen is set. The pick and roll then happens on a side of the floor with no corner defender to tag the roller or stunt at the guard.",
+    "Removing that one defender changes all the math. Normally the corner defender is the tag man — the player who bumps the roller and recovers to the shooter. With the corner empty, there is no tag: the roller gets a free run to the rim, the guard's driving lane has no low help, and any rotation has to come from farther away, which means it arrives late."
+  ],
+  "whyItMatters": [
+    "The tag defender is the unsung killer of pick and roll offense — he is the reason rollers get bumped and guards get funneled. Emptying the corner deletes him from the play entirely. This is why the best pick and roll teams in the world obsess over corner spacing: it is the cheapest way to turn a good ball screen into an unguardable one. For any team, it is a one-adjustment upgrade — move one player, and your existing PNR gets dramatically better."
+  ],
+  "howTo": [
+    {
+      "title": "Vacate the strong-side corner",
+      "detail": "Before the ball screen, O2 (strong-side corner) lifts to the wing or relocates to the weak-side corner. The corner on the PNR side must be EMPTY — no exceptions. If he stays, the tag defender stays."
+    },
+    {
+      "title": "Set the ball screen on the empty side",
+      "detail": "O5 sets the ball screen for O1 on the cleared side, angled toward the middle. O1's defender now has no low help behind him and no tag man for the roller."
+    },
+    {
+      "title": "The guard attacks the empty lane",
+      "detail": "O1 comes off the screen and drives into the vacated space. With no corner defender to stunt, the lane is wide — attack the rim, force the big to commit, then read."
+    },
+    {
+      "title": "The roller runs free",
+      "detail": "O5 rolls hard down the empty side. No tag means no bump — the roller should expect the ball with a clear path to the rim. Roll with hands ready and eyes on the guard."
+    },
+    {
+      "title": "Read the late rotation",
+      "detail": "Help can only come from the weak side now, which means it arrives late. O1 reads it: dump to the roller, kick to the lifted shooter (O2 is now a wing three), or finish if no one rotates."
+    },
+    {
+      "title": "Keep the corner empty until the read is made",
+      "detail": "O2 must resist the urge to cut back into the corner early. The corner stays empty through the guard's second dribble — that is when the read happens. Relocate only after the ball is in the air to the rim or the kick-out."
+    }
+  ],
+  "coachingPoints": [
+    "The corner must be empty BEFORE the screen, not during it. A late lift lets the tag defender recover and the whole concept dies.",
+    "Angle the screen toward the empty side's middle — the guard should drive into the vacated space, not away from it.",
+    "Roller: sprint, don't jog. The free lane only exists for a moment; a slow roll lets the weak-side help arrive on time.",
+    "Teach the lifted shooter to be ready. He goes from 'spacer' to 'open three' the moment weak-side help rotates — feet set, hands ready.",
+    "This is a spacing concept, not a new play. Run your normal PNR — just empty the corner first."
+  ],
+  "commonMistakes": [
+    "Corner lifts late or not at all — fix: make the lift the trigger; no screen until the corner is empty.",
+    "Guard drives away from the empty side — fix: the screen angle must point the guard at the vacated space; check it in film.",
+    "Roller jogs because 'no one is guarding the lane' — fix: the lane is only empty if you beat the rotation; sprint every rep.",
+    "Shooter relocates back into the corner mid-play — fix: he stays lifted until the read is made; early relocation invites the tag back."
+  ],
+  "gameSituations": [
+    "Against aggressive tag defenses: when opponents are killing your roller with the tag, empty the corner and the tag disappears.",
+    "Late-game spread PNR: with a lead, empty-corner PNR gives your guard a clean driving lane without risking a corner turnover.",
+    "Developing young guards: the empty side simplifies reads — drive, roller, or lifted shooter. Three options, no clutter."
+  ],
+  "tags": [
+    "pick and roll",
+    "spacing",
+    "empty corner",
+    "ball screen",
+    "tag"
+  ],
+  "related": [
+    "side-pick-and-roll",
+    "middle-pick-and-roll",
+    "drive-and-kick",
+    "spacing-basics",
+    "pick-and-roll-basics"
+  ],
+  "diagram": {
+    "title": "Empty corner PNR — O2 lifts from the corner, O1 and O5 attack the vacated side",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 65,
+        "y": 52
+      },
+      {
+        "label": "O5",
+        "x": 62,
+        "y": 40
+      },
+      {
+        "label": "O2",
+        "x": 80,
+        "y": 35
+      },
+      {
+        "label": "O3",
+        "x": 20,
+        "y": 40
+      }
+    ],
+    "defense": [
+      {
+        "label": "D1",
+        "x": 65,
+        "y": 46
+      },
+      {
+        "label": "D5",
+        "x": 62,
+        "y": 45
+      },
+      {
+        "label": "D2",
+        "x": 78,
+        "y": 35
+      },
+      {
+        "label": "D3",
+        "x": 24,
+        "y": 40
+      }
+    ],
+    "ball": "O1",
+    "screens": [
+      {
+        "x": 62,
+        "y": 46
+      }
+    ],
+    "moves": [
+      {
+        "from": "O2",
+        "to": "O2",
+        "kind": "move"
+      },
+      {
+        "from": "O5",
+        "to": "O1",
+        "kind": "screen-run"
+      },
+      {
+        "from": "O1",
+        "to": "rim",
+        "kind": "dribble"
+      },
+      {
+        "from": "O5",
+        "to": "rim",
+        "kind": "cut"
+      }
+    ],
+    "passes": [
+      {
+        "from": "O1",
+        "to": "O5"
+      }
+    ],
+    "shots": []
+  },
+  "vi": {
+    "title": "Pick and roll góc trống (empty corner pick and roll)",
+    "description": "Dọn trống góc phía có bóng, rồi chạy pick and roll vào khoảng trống đó. Không còn low help, không còn tag — chỉ còn hậu vệ, big và một lane rộng mở.",
+    "whatIsIt": [
+      "Empty corner pick and roll bắt đầu bằng một điều chỉnh giãn đội hình đơn giản: góc phía có bóng được dọn trống — tay ném nhấc lên cánh hoặc dạt sang phía yếu — trước khi screen được dựng. Pick and roll sau đó diễn ra ở một bên sân không còn hậu vệ góc để tag người roll hay stunt vào hậu vệ.",
+      "Bỏ đi một hậu vệ đó làm đổi toàn bộ bài toán. Bình thường hậu vệ góc là tag man — người húc vào người roll rồi hồi về tay ném. Góc trống thì không còn tag: người roll có đường chạy tự do xuống rổ, lane đột phá của hậu vệ không còn low help, và mọi rotation phải đến từ xa hơn, nghĩa là đến muộn."
+    ],
+    "whyItMatters": [
+      "Tag defender là kẻ giết pick and roll thầm lặng — hắn là lý do người roll bị húc và hậu vệ bị ép. Dọn trống góc xóa hắn khỏi pha bóng hoàn toàn. Đó là lý do các đội pick and roll hay nhất thế giới ám ảnh với spacing ở góc: đó là cách rẻ nhất để biến một ball screen tốt thành một ball screen không thể kèm. Với mọi đội bóng, đây là một nâng cấp chỉ bằng một điều chỉnh — dời một người, và PNR sẵn có của bạn tốt lên rõ rệt."
+    ],
+    "howTo": [
+      {
+        "title": "Dọn trống góc phía có bóng",
+        "detail": "Trước khi dựng screen, O2 (góc phía có bóng) nhấc lên cánh hoặc dạt sang góc phía yếu. Góc ở phía chạy PNR phải TRỐNG — không ngoại lệ. Anh ta mà ở lại thì tag defender cũng ở lại."
+      },
+      {
+        "title": "Dựng screen ở phía đã dọn",
+        "detail": "O5 dựng screen cho O1 ở phía đã dọn trống, nghiêng về giữa sân. Hậu vệ của O1 giờ không còn low help sau lưng và không còn tag man cho người roll."
+      },
+      {
+        "title": "Hậu vệ tấn công lane trống",
+        "detail": "O1 vòng qua screen và đột phá vào khoảng trống vừa dọn. Không còn hậu vệ góc để stunt, lane rất rộng — tấn công rổ, ép big phải commit, rồi đọc tình huống."
+      },
+      {
+        "title": "Người roll chạy tự do",
+        "detail": "O5 roll mạnh xuống phía đã dọn. Không tag nghĩa là không bị húc — người roll cứ chờ bóng với đường thoáng xuống rổ. Roll với tay sẵn sàng, mắt nhìn hậu vệ."
+      },
+      {
+        "title": "Đọc rotation đến muộn",
+        "detail": "Help giờ chỉ đến được từ phía yếu, nghĩa là đến muộn. O1 đọc: chuyền cho người roll, chuyền ra cho tay ném đã nhấc lên (O2 giờ là một cú 3 điểm ở cánh), hoặc tự kết thúc nếu không ai xoay sang."
+      },
+      {
+        "title": "Giữ góc trống đến khi đọc xong",
+        "detail": "O2 phải cưỡng lại ý muốn cắt về góc sớm. Góc giữ trống cho đến nhịp dẫn thứ hai của hậu vệ — đó là lúc diễn ra pha đọc tình huống. Chỉ dạt vị trí sau khi bóng đã bay về phía rổ hoặc chuyền ra ngoài."
+      }
+    ],
+    "coachingPoints": [
+      "Góc phải trống TRƯỚC khi dựng screen, không phải trong lúc dựng. Nhấc lên muộn là tag defender kịp hồi phục, cả ý tưởng chết.",
+      "Nghiêng screen về giữa của phía đã dọn — hậu vệ phải đột phá vào khoảng trống vừa dọn, không phải đi xa khỏi nó.",
+      "Người roll: chạy nước rút, đừng chạy lững thững. Lane trống chỉ tồn tại một khoảnh khắc; roll chậm là help phía yếu đến kịp giờ.",
+      "Dạy tay ném đã nhấc lên luôn sẵn sàng. Anh ta từ 'người giãn sân' thành 'cú 3 điểm trống' ngay khi help phía yếu xoay sang — chân vào tư thế, tay sẵn sàng.",
+      "Đây là khái niệm spacing, không phải bài mới. Chạy PNR bình thường của bạn — chỉ cần dọn trống góc trước."
+    ],
+    "commonMistakes": [
+      "Góc nhấc lên muộn hoặc không nhấc — sửa: lấy pha nhấc lên làm cò; chưa trống góc thì chưa dựng screen.",
+      "Hậu vệ đột phá ra xa phía đã dọn — sửa: góc screen phải chỉ hậu vệ vào khoảng trống; kiểm tra lại qua video.",
+      "Người roll chạy lững thững vì 'đâu có ai kèm lane' — sửa: lane chỉ trống nếu bạn đến trước rotation; chạy nước rút mọi lần.",
+      "Tay ném dạt về lại góc giữa pha bóng — sửa: anh ta giữ vị trí nhấc lên đến khi đọc xong; về góc sớm là mời tag quay lại."
+    ],
+    "gameSituations": [
+      "Trước hàng thủ tag quyết liệt: đối thủ đang giết người roll của bạn bằng tag thì dọn trống góc, tag biến mất.",
+      "PNR giãn sân cuối trận: khi đang dẫn, empty-corner PNR cho hậu vệ lane đột phá sạch mà không sợ mất bóng ở góc.",
+      "Phát triển hậu vệ trẻ: phía trống đơn giản hóa cách đọc — đột phá, người roll, hoặc tay ném đã nhấc. Ba phương án, không rối."
+    ],
+    "tags": [
+      "pick and roll",
+      "giãn đội hình",
+      "góc trống",
+      "screen",
+      "tag"
+    ]
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "title": "Point Center Skills",
+  "description": "The modern big man as offensive hub: handling, passing, and decision-making from the elbows and the top.",
+  "hub": "positions",
+  "subcategory": "bigs",
+  "level": "advanced",
+  "ages": [
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 7,
+  "dateUpdated": "2026-10-11",
+  "tags": [
+    "center",
+    "playmaking",
+    "passing",
+    "modern-big"
+  ],
+  "whatIsIt": [
+    "Point center skills turn a traditional big man into the team's offensive hub — a center who catches at the elbow or the top of the key, reads the defense, and initiates the offense like a point guard. Instead of only finishing plays, the point center starts them: dribble handoffs, backdoor feeds, and drive-and-kick from the middle of the floor.",
+    "This role demands a rare blend: the size to see over defenses and finish inside, plus the handling, passing, and decision speed of a guard. It is the most position-blurring skill set in modern basketball, and it makes an offense almost impossible to scout because the attack can run through the biggest player on the floor."
+  ],
+  "whyItMatters": [
+    "When your center can initiate offense, the defense has no safe place to hide a weak defender — every switch gets punished and every help rotation opens a cut. Teams with a point center generate cleaner shots because the ball moves through the middle of the floor, where every pass threatens the rim."
+  ],
+  "howTo": [
+    {
+      "title": "Master the elbow catch-and-face",
+      "detail": "Catch at the elbow in triple threat with your eyes up. From here you have three live options — shoot the jumper, drive either direction, or hit cutters — and the defense must guard all three. Practice catching, facing, and reading in one motion; hesitation kills the advantage."
+    },
+    {
+      "title": "Run dribble handoffs as the hub",
+      "detail": "Learn to DHO with guards sprinting off your shoulder: hold the ball high, set a legal angle with your body, and read the defender trailing the guard. If the big steps up, slip; if he drops, let the guard turn the corner."
+    },
+    {
+      "title": "Pass from the short roll",
+      "detail": "After screening in pick-and-roll, catch on the short roll (around the free-throw line) instead of rolling all the way. From there, spray to corner shooters or drop to the dunker — this single read makes you a playmaker without leaving your big-man role."
+    },
+    {
+      "title": "Drive from the top against closeouts",
+      "detail": "When a smaller defender closes out on your catch at the top, put the ball down with one or two controlled dribbles and attack the rim. Big-on-small drives from the middle collapse the whole defense."
+    },
+    {
+      "title": " quarterback the offense with your voice",
+      "detail": "A point center sees the whole floor from the middle. Call out cuts, direct traffic on handoffs, and warn teammates of incoming help. Your voice turns individual reads into team offense."
+    },
+    {
+      "title": "Keep your handle tight under pressure",
+      "detail": "Guards will pressure your dribble to force turnovers. Drill low, strong two-dribble moves and quick spin-backs to safety. A point center who cannot protect the ball becomes a liability, not a hub."
+    }
+  ],
+  "coachingPoints": [
+    "Start with passing reads before dribbling freedom — a point center who passes first and dribbles second is always safe.",
+    "Repetition at the elbows: 100 catch-and-face reads per week builds the decision speed this role needs.",
+    "Pair the point center with shooters; the role only works when kick-out passes become assists.",
+    "Protect against over-dribbling — two dribbles maximum on most touches keeps the offense flowing."
+  ],
+  "commonMistakes": [
+    "Holding the ball too long while 'reading' — fix: decide within two seconds; a late pass is a dead pass.",
+    "Dribbling into traffic instead of passing early — fix: the first open teammate is the right teammate.",
+    "Ignoring the jumper — fix: if you never shoot from the elbow, defenders sag and the whole hub collapses.",
+    "Forcing handoffs into a crowded side — fix: DHO toward space, never into two defenders."
+  ],
+  "gameSituations": [
+    "Elbow offense sets — catch at the elbow and run the offense through your reads while cutters move.",
+    "Late-clock situations — a point center at the top gives you a safe release valve who can pass, drive, or shoot.",
+    "Against switching defenses — post the mismatch or drive it; switches have nowhere to hide from a skilled big."
+  ],
+  "related": [
+    "center-basketball",
+    "pick-and-roll-reads",
+    "post-positioning",
+    "spacing-basics"
+  ],
+  "diagram": {
+    "title": "Point center catches at the elbow, reads the cutter and the corner",
+    "ball": "O5",
+    "offense": [
+      {
+        "label": "O5",
+        "x": 50,
+        "y": 30
+      },
+      {
+        "label": "O2",
+        "x": 30,
+        "y": 45
+      },
+      {
+        "label": "O3",
+        "x": 85,
+        "y": 12
+      },
+      {
+        "label": "O1",
+        "x": 20,
+        "y": 12
+      },
+      {
+        "label": "O4",
+        "x": 65,
+        "y": 55
+      }
+    ],
+    "defense": [
+      {
+        "label": "D5",
+        "x": 52,
+        "y": 24
+      },
+      {
+        "label": "D2",
+        "x": 34,
+        "y": 40
+      }
+    ],
+    "passes": [
+      {
+        "from": "O5",
+        "to": "O2"
+      }
+    ],
+    "moves": [
+      {
+        "from": "O2",
+        "kind": "cut",
+        "to": "rim"
+      }
+    ],
+    "screens": [],
+    "shots": []
+  },
+  "vi": {
+    "title": "Kỹ năng trung phong kiến tạo",
+    "description": "Trung phong hiện đại làm trung tâm tấn công: dẫn bóng, chuyền bóng và ra quyết định từ vị trí elbow và đỉnh vòng cung.",
+    "tags": [
+      "trung phong",
+      "kiến tạo",
+      "chuyền bóng",
+      "trung phong hiện đại"
+    ],
+    "whatIsIt": [
+      "Kỹ năng trung phong kiến tạo biến một big man truyền thống thành trung tâm tấn công của đội — một trung phong bắt bóng ở elbow hoặc đỉnh vòng cung, đọc hàng thủ và khởi xướng tấn công như hậu vệ dẫn bóng. Thay vì chỉ kết thúc các pha bóng, trung phong kiến tạo là người bắt đầu chúng: DHO, chuyền cắt sau lưng, và đột phá rồi đá ra từ giữa sân.",
+      "Vai trò này đòi hỏi sự pha trộn hiếm: thể hình đủ cao để nhìn qua hàng thủ và kết thúc trong khu vực dưới rổ, cộng với khả năng dẫn bóng, chuyền bóng và tốc độ ra quyết định của một hậu vệ. Đây là bộ kỹ năng xóa nhòa vị trí nhất trong bóng rổ hiện đại, khiến đối thủ gần như không thể scout vì đòn tấn công có thể chạy qua cầu thủ cao nhất trên sân."
+    ],
+    "whyItMatters": [
+      "Khi trung phong của bạn có thể khởi xướng tấn công, hàng thủ không còn chỗ nào để giấu cầu thủ phòng thủ yếu — mọi pha switch đều bị trừng phạt và mọi pha xoay hỗ trợ đều mở ra đường cắt. Đội có trung phong kiến tạo tạo ra những cú ném sạch hơn vì bóng di chuyển qua giữa sân, nơi mọi đường chuyền đều đe dọa rổ."
+    ],
+    "howTo": [
+      {
+        "title": "Thuần thục bắt bóng và xoay mặt ở elbow",
+        "detail": "Bắt bóng ở elbow trong tư thế triple threat, mắt nhìn lên. Từ đây bạn có ba lựa chọn sống — ném trung bình, đột phá cả hai hướng, hoặc chuyền cho người cắt — và hàng thủ phải kèm cả ba. Tập bắt bóng, xoay mặt và đọc tình huống trong một chuyển động; chần chừ sẽ giết chết lợi thế."
+      },
+      {
+        "title": "Chạy DHO như một trung tâm",
+        "detail": "Học cách DHO với hậu vệ chạy vòng qua vai bạn: giữ bóng cao, tạo góc hợp lệ bằng cơ thể, và đọc hậu vệ đang bám theo. Nếu big đối thủ bước lên, slip; nếu họ drop, để hậu vệ ôm cua."
+      },
+      {
+        "title": "Chuyền từ short roll",
+        "detail": "Sau khi screen trong pick-and-roll, bắt bóng ở short roll (quanh vạch ném phạt) thay vì lăn hết vào rổ. Từ đó, đá ra cho các tay ném góc hoặc thả xuống cho người chạy rổ — một pha đọc duy nhất này biến bạn thành người kiến tạo mà không rời vai trò big man."
+      },
+      {
+        "title": "Đột phá từ đỉnh vòng cung khi đối thủ closeout",
+        "detail": "Khi hậu vệ nhỏ hơn closeout lúc bạn bắt bóng ở đỉnh vòng cung, đặt bóng xuống với một hai nhịp dẫn bóng chắc chắn và tấn công rổ. Những pha đột phá của cầu thủ cao từ giữa sân làm sụp đổ cả hàng thủ."
+      },
+      {
+        "title": "Điều hành tấn công bằng giọng nói",
+        "detail": "Trung phong kiến tạo nhìn thấy cả sân từ giữa. Gọi các pha cắt, chỉ đạo di chuyển trong DHO, và cảnh báo đồng đội về hàng hỗ trợ đang đến. Giọng nói của bạn biến những pha đọc cá nhân thành tấn công đồng đội."
+      },
+      {
+        "title": "Giữ khả năng dẫn bóng chắc chắn dưới áp lực",
+        "detail": "Hậu vệ sẽ gây áp lực lên những nhịp dẫn bóng của bạn để ép mất bóng. Tập các động tác hai nhịp thấp, mạnh và xoay người về vị trí an toàn. Trung phong kiến tạo không giữ được bóng sẽ thành gánh nặng, không phải trung tâm."
+      }
+    ],
+    "coachingPoints": [
+      "Bắt đầu từ các pha đọc để chuyền trước khi cho tự do dẫn bóng — trung phong kiến tạo chuyền trước, dẫn bóng sau luôn an toàn.",
+      "Lặp lại ở vị trí elbow: 100 lần bắt bóng và đọc tình huống mỗi tuần xây tốc độ ra quyết định mà vai trò này cần.",
+      "Xếp trung phong kiến tạo chơi cùng các tay ném; vai trò này chỉ hiệu quả khi những đường đá ra thành kiến tạo.",
+      "Chống dẫn bóng quá nhiều — tối đa hai nhịp trong hầu hết các lần chạm bóng để giữ dòng chảy tấn công."
+    ],
+    "commonMistakes": [
+      "Giữ bóng quá lâu trong lúc 'đọc' — sửa: quyết định trong hai giây; đường chuyền muộn là đường chuyền chết.",
+      "Dẫn bóng vào đám đông thay vì chuyền sớm — sửa: đồng đội trống đầu tiên là đồng đội đúng.",
+      "Bỏ qua cú ném trung bình — sửa: nếu bạn không bao giờ ném ở elbow, hậu vệ sẽ lùi sâu và cả hệ thống sụp đổ.",
+      "Cố DHO vào phía sân đông người — sửa: DHO về phía khoảng trống, không bao giờ vào giữa hai hậu vệ."
+    ],
+    "gameSituations": [
+      "Các bài đánh qua elbow — bắt bóng ở elbow và vận hành tấn công qua các pha đọc của bạn trong lúc đồng đội cắt.",
+      "Tình huống cuối đồng hồ — trung phong kiến tạo ở đỉnh vòng cung cho bạn một lối thoát an toàn có thể chuyền, đột phá hoặc ném.",
+      "Trước hàng thủ hay switch — đánh post khi có mismatch hoặc đột phá qua nó; các pha switch không có chỗ trốn trước một big man khéo léo."
+    ]
+  },
+  "id": "point-center-skills",
+  "slug": "point-center-skills"
+}

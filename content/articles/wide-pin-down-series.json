@@ -1,0 +1,215 @@
+{
+  "id": "wide-pin-down-series",
+  "slug": "wide-pin-down-series",
+  "title": "Wide Pin Down Series",
+  "description": "Pin down screens set wide — from the block area out to the wing — giving shooters maximum separation. One alignment, three reads: curl, fade, and backdoor.",
+  "hub": "offense",
+  "subcategory": "off-ball-screening",
+  "level": "beginner",
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 6,
+  "dateUpdated": "2026-10-11",
+  "whatIsIt": [
+    "A pin down is an off-ball screen set with the screener's back to the baseline, freeing a teammate to come up from the block area toward the wing. The 'wide' version sets that screen farther from the basket — near the block or even outside it — so the shooter gets a bigger runway and the defender has more ground to cover.",
+    "The series part is what makes it a system instead of a single play. From the same wide pin down, the shooter reads his defender and chooses: curl tight off the screener's shoulder if the defender trails, fade to the corner if the defender jumps over the top, or backdoor cut if the defender cheats. One screen, three answers — and the defense cannot take away all three."
+  ],
+  "whyItMatters": [
+    "Shooters do not get open by accident — they get open because the geometry favors them. A wide pin down tilts the geometry: the defender must chase around a screen that is 5 to 6 meters from the rim, then still contest a catch-and-shoot. That is a footrace the offense usually wins. Teaching the full series (not just the curl) is what turns a shooter from a one-trick player into a complete off-ball threat, because the counters punish every defensive adjustment."
+  ],
+  "howTo": [
+    {
+      "title": "Align the shooter low and the screener at the block",
+      "detail": "O2 (shooter) starts near the block or short corner on the ball side. O4 sets up at the block area with his back to the baseline, wide and legal — feet set, hands ready. O1 has the ball on the wing or slot, ready to deliver."
+    },
+    {
+      "title": "Set a wide, legal pin down",
+      "detail": "O4 plants at the block, back to the baseline, giving O2 a clear shoulder to use. The screen must be wide — near the block, not up at the elbow — so the shooter gets maximum separation from a trailing defender."
+    },
+    {
+      "title": "The shooter reads and chooses: curl",
+      "detail": "If D2 trails behind O4, O2 curls tight off O4's shoulder toward the elbow and the paint. O1 hits him on the move for a pull-up or a drive. The curl must be shoulder-to-shoulder — daylight between shooter and screener lets the defender slip through."
+    },
+    {
+      "title": "Or fade to the corner",
+      "detail": "If D2 tries to jump over the top of the screen, O2 fades back toward the corner instead of curling. O1 skips or swings the ball for a catch-and-shoot three. The fade only works if the shooter commits to it early — hesitation lets the defender recover."
+    },
+    {
+      "title": "Or cut backdoor",
+      "detail": "If D2 cheats over the screen early, anticipating the curl, O2 plants and cuts backdoor to the rim. O1 throws the lob or bounce pass. This is the counter that keeps defenders honest — one backdoor layup and they stop cheating."
+    },
+    {
+      "title": "The screener finishes the play",
+      "detail": "After screening, O4 is not done: he seals his man or slips to the rim if the defense helps on the shooter. A pin down that ends with the screener standing still wastes half the action."
+    }
+  ],
+  "coachingPoints": [
+    "Wide means wide. A pin down set at the elbow is just a pin down; set it at the block and the defender has real ground to cover.",
+    "Shooter: come off the screen at full speed. A jogging shooter lets the defender go under and recover.",
+    "Passer: deliver on time, on target. The pass must meet the shooter as he clears the screen — a late pass turns a good screen into a contested catch.",
+    "Teach all three reads from the start. A shooter who only curls is easy to guard; a shooter with three options is a problem.",
+    "Screener: hold the screen for a one-count. Early slips are for counters, not the base action — the shooter needs the screen to actually be there."
+  ],
+  "commonMistakes": [
+    "Screen set too high (at the elbow) — fix: mark the block with tape in practice; the screener's heels start on the block.",
+    "Shooter rounds the screen 0.6m wide — fix: shoulder-to-shoulder rule; the shooter should feel the screener's jersey.",
+    "Passer throws late after admiring the screen — fix: pass on the catch of the read, not after; drill the timing 3-on-0.",
+    "Only the curl is ever used — fix: script the fade and backdoor into practice until all three are live options."
+  ],
+  "gameSituations": [
+    "Getting a shooter going: two wide pin downs in a row is the classic way to get a cold shooter a clean look and rebuild rhythm.",
+    "Against a switching defense: the wide pin down forces a switch far from the rim — attack the big who ends up on the shooter, or slip the screener.",
+    "Baseline out-of-bounds plays: the wide pin down is the engine of most BLOB sets — same reads, tighter space."
+  ],
+  "tags": [
+    "pin down",
+    "off-ball screen",
+    "shooter",
+    "screening",
+    "half-court offense"
+  ],
+  "related": [
+    "pin-down-screen",
+    "floppy-action",
+    "stagger-screen",
+    "off-screen-shooting",
+    "hammer-action"
+  ],
+  "diagram": {
+    "title": "Wide pin down — O4 screens at the block, O2 curls off the shoulder for the catch",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 70,
+        "y": 45
+      },
+      {
+        "label": "O2",
+        "x": 62,
+        "y": 8
+      },
+      {
+        "label": "O4",
+        "x": 62,
+        "y": 14
+      }
+    ],
+    "defense": [
+      {
+        "label": "D1",
+        "x": 70,
+        "y": 40
+      },
+      {
+        "label": "D2",
+        "x": 58,
+        "y": 8
+      },
+      {
+        "label": "D4",
+        "x": 62,
+        "y": 19
+      }
+    ],
+    "ball": "O1",
+    "screens": [
+      {
+        "x": 62,
+        "y": 14
+      }
+    ],
+    "moves": [
+      {
+        "from": "O4",
+        "to": "O2",
+        "kind": "screen-run"
+      },
+      {
+        "from": "O2",
+        "to": "O4",
+        "kind": "cut"
+      },
+      {
+        "from": "O2",
+        "to": "rim",
+        "kind": "cut"
+      }
+    ],
+    "passes": [
+      {
+        "from": "O1",
+        "to": "O2"
+      }
+    ],
+    "shots": []
+  },
+  "vi": {
+    "title": "Chuỗi screen pin down rộng (wide pin down series)",
+    "description": "Screen pin down dựng rộng — từ khu vực block ra đến cánh — cho tay ném khoảng trống tối đa. Một đội hình, ba cách đọc: curl, fade và backdoor.",
+    "whatIsIt": [
+      "Pin down là screen không bóng với người dựng quay lưng về baseline, giải phóng đồng đội từ khu vực block đi lên cánh. Bản 'rộng' dựng screen xa rổ hơn — gần block hoặc ngoài block — để tay ném có đường chạy dài hơn và hậu vệ phải đuổi quãng đường xa hơn.",
+      "Phần 'chuỗi' biến nó thành một hệ thống thay vì một miếng đơn lẻ. Từ cùng một wide pin down, tay ném đọc hậu vệ và chọn: curl sát vai người dựng screen nếu hậu vệ chạy theo sau, fade về góc nếu hậu vệ nhảy vọt qua đầu screen, hoặc cắt backdoor nếu hậu vệ gian lận. Một screen, ba đáp án — hàng thủ không thể bịt cả ba."
+    ],
+    "whyItMatters": [
+      "Tay ném không tự nhiên mà trống — họ trống vì hình học sân ủng hộ họ. Wide pin down nghiêng hình học về phía tấn công: hậu vệ phải đuổi vòng qua screen cách rổ 5 đến 6m, rồi vẫn phải contest cú bắt bóng ném ngay. Đó là cuộc đua tốc độ mà tấn công thường thắng. Dạy cả chuỗi (không chỉ curl) là cách biến tay ném một chiêu thành mối đe dọa không bóng toàn diện, vì các đòn phản đòn trừng phạt mọi điều chỉnh của hàng thủ."
+    ],
+    "howTo": [
+      {
+        "title": "Xếp tay ném thấp, người dựng screen ở block",
+        "detail": "O2 (tay ném) đứng gần block hoặc góc hẹp ở phía có bóng. O4 đứng ở khu vực block, lưng quay về baseline, tư thế rộng và hợp lệ — chân trụ vững, tay sẵn sàng. O1 cầm bóng ở cánh hoặc slot, sẵn sàng chuyền."
+      },
+      {
+        "title": "Dựng wide pin down hợp lệ",
+        "detail": "O4 trụ ở block, lưng quay baseline, cho O2 một bờ vai rõ ràng để dùng. Screen phải rộng — gần block, không phải lên tận elbow — để tay ném tạo khoảng cách tối đa với hậu vệ chạy sau."
+      },
+      {
+        "title": "Tay ném đọc và chọn: curl",
+        "detail": "D2 chạy theo sau O4 thì O2 curl sát vai O4 về phía elbow và khu vực dưới rổ. O1 chuyền cho anh ta đang di chuyển để pull-up hoặc đột phá. Curl phải sát vai — có khe hở giữa tay ném và người dựng screen là hậu vệ lẻn qua được."
+      },
+      {
+        "title": "Hoặc fade về góc",
+        "detail": "D2 cố nhảy vọt qua đầu screen thì O2 fade về góc thay vì curl. O1 chuyền chéo hoặc đảo bóng cho cú bắt bóng ném ngay 3 điểm. Fade chỉ hiệu quả khi tay ném quyết định sớm — chần chừ là hậu vệ kịp hồi vị."
+      },
+      {
+        "title": "Hoặc cắt backdoor",
+        "detail": "D2 gian lận, vọt qua screen sớm để đón curl, thì O2 trụ chân và cắt backdoor vào rổ. O1 chuyền bổng hoặc chuyền nảy. Đây là đòn phản đòn giữ hậu vệ trung thực — một cú backdoor layup là họ không dám gian lận nữa."
+      },
+      {
+        "title": "Người dựng screen kết thúc miếng đánh",
+        "detail": "Dựng screen xong, O4 chưa xong việc: anh ta seal hậu vệ hoặc lẻn xuống rổ nếu hàng thủ help vào tay ném. Pin down mà người dựng screen đứng yên là phí nửa miếng đánh."
+      }
+    ],
+    "coachingPoints": [
+      "Rộng là phải rộng. Pin down dựng ở elbow chỉ là pin down thường; dựng ở block thì hậu vệ mới thực sự phải đuổi đường dài.",
+      "Tay ném: ra khỏi screen với tốc độ tối đa. Chạy lững thững là hậu vệ luồn dưới và kịp hồi vị.",
+      "Người chuyền: chuyền đúng lúc, đúng địa chỉ. Bóng phải gặp tay ném ngay khi anh ta qua khỏi screen — chuyền muộn biến screen tốt thành cú bắt bóng bị contest.",
+      "Dạy cả ba cách đọc ngay từ đầu. Tay ném chỉ biết curl thì dễ kèm; tay ném có ba phương án là một vấn đề.",
+      "Người dựng screen: giữ screen đủ một nhịp. Slip sớm dành cho đòn phản đòn, không phải miếng cơ bản — tay ném cần screen thực sự tồn tại."
+    ],
+    "commonMistakes": [
+      "Screen dựng quá cao (lên tận elbow) — sửa: dán băng dính đánh dấu block khi tập; gót chân người dựng screen bắt đầu ở block.",
+      "Tay ném vòng screen rộng cả mét — sửa: quy tắc sát vai; tay ném phải cảm nhận được áo của người dựng screen.",
+      "Người chuyền mải ngắm screen rồi chuyền muộn — sửa: chuyền ngay khi đọc xong tình huống; tập timing 3-không.",
+      "Lúc nào cũng chỉ dùng curl — sửa: đưa fade và backdoor vào giáo án tập đến khi cả ba đều là phương án sống."
+    ],
+    "gameSituations": [
+      "Đánh thức tay ném: hai wide pin down liên tiếp là cách kinh điển để tay ném đang nguội có cú ném thoáng và lấy lại nhịp.",
+      "Trước hàng thủ switch: wide pin down ép switch xa rổ — tấn công big bị kẹt phải kèm tay ném, hoặc cho người dựng screen slip.",
+      "Miếng phát bóng cuối sân (BLOB): wide pin down là động cơ của hầu hết các bài BLOB — cùng cách đọc, không gian chật hơn."
+    ],
+    "tags": [
+      "pin down",
+      "screen không bóng",
+      "tay ném",
+      "screen",
+      "tấn công half-court"
+    ]
+  }
+}

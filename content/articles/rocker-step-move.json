@@ -1,0 +1,174 @@
+{
+  "id": "rocker-step-move",
+  "slug": "rocker-step-move",
+  "title": "Rocker Step Move",
+  "description": "Rock forward hard like a drive, then snap back into a crossover — the forward-backward fake that breaks ankles.",
+  "hub": "skills",
+  "subcategory": "ball-handling",
+  "level": "advanced",
+  "ages": [
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "Guard",
+    "Wing"
+  ],
+  "readTime": 6,
+  "dateUpdated": "2026-10-11",
+  "whatIsIt": [
+    "The rocker step is a forward-then-backward dribble move: you take a hard step forward as if exploding into a drive, then rock your weight back onto your rear foot and pull the ball back with you. To the defender it reads as a full-speed drive that suddenly reverses — their momentum carries them forward while you retreat into space.",
+    "The move ends with a crossover or a pull-up, depending on the read. If the defender lunges forward, you cross back and drive past their front foot. If they stay home, the separation you created is your pull-up window."
+  ],
+  "whyItMatters": [
+    "Most dribble moves attack side to side; the rocker attacks forward and backward, which is the direction defenders are least prepared to defend. It is the signature move of players who create their own shot against tight defense, because it manufactures pull-up space without needing a screen — a skill that decides close games."
+  ],
+  "howTo": [
+    {
+      "title": "Approach with an aggressive dribble",
+      "detail": "Dribble at the defender with pace and purpose. The rocker needs the defender on their heels for the forward fake to register."
+    },
+    {
+      "title": "Step hard toward the defender",
+      "detail": "Take a long, committed step forward with your lead foot, pushing the ball out ahead of you as if starting a full drive. Sell it with your eyes and shoulders."
+    },
+    {
+      "title": "Plant and rock back",
+      "detail": "Plant that lead foot hard, then shift all your weight back onto your rear foot in one motion, pulling the ball back with you. Your body should rock like a wave reversing."
+    },
+    {
+      "title": "Keep the ball protected on the retreat",
+      "detail": "As you rock back, keep the ball low and tight to your body, shielded by your lead shoulder. The defender may reach as you retreat."
+    },
+    {
+      "title": "Read the defender's momentum",
+      "detail": "If they lunged forward, their front foot is planted and vulnerable — crossover and drive past it. If they stayed balanced, you now have pull-up space."
+    },
+    {
+      "title": "Attack the read decisively",
+      "detail": "Whatever you read, commit fully: drive hard past the lunging defender or rise into a balanced pull-up. Half-measures get blocked."
+    }
+  ],
+  "coachingPoints": [
+    "The forward step must be violent and real — a half-hearted rocker fools nobody.",
+    "Your weight transfer has to be complete: 100% forward, then 100% back. Lingering in the middle gets you stripped.",
+    "Keep the ball on a string during the retreat; a loose ball on the rock-back is the most common turnover from this move.",
+    "Practice the rocker-to-pull-up and rocker-to-drive as two separate finishes so the read becomes automatic."
+  ],
+  "commonMistakes": [
+    "Rocking back before the defender commits — fix: hold the forward step a half-beat longer; patience sells the fake.",
+    "Carrying the ball on the pull-back — fix: keep your hand on top of the ball and pull it straight back, not scooping under it.",
+    "Retreating too far — fix: rock back just 1–1.5 meters; further than that and you give the defender time to recover.",
+    "Looking at the ball during the rock — fix: eyes stay on the defender's hips; they tell you which finish to take."
+  ],
+  "gameSituations": [
+    "Isolation pull-up creation — against a defender playing tight, the rocker manufactures the two feet of space your jumper needs.",
+    "Late-clock heroics — when the play breaks down, the rocker step is a reliable one-on-one shot creator.",
+    "Attacking a hard closeout — rock forward as the defender sprints at you, then rock back as they fly past for an open look."
+  ],
+  "tags": [
+    "ball-handling",
+    "dribble-moves",
+    "shot-creation"
+  ],
+  "related": [
+    "jab-step",
+    "crossover",
+    "shot-fake",
+    "attacking-the-closeout",
+    "one-dribble-pull-up"
+  ],
+  "diagram": {
+    "title": "O1 rocks hard toward D1, then snaps back and crosses over to attack",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 58,
+        "y": 34
+      }
+    ],
+    "defense": [
+      {
+        "label": "D1",
+        "x": 54,
+        "y": 31
+      }
+    ],
+    "ball": "O1",
+    "screens": [],
+    "moves": [
+      {
+        "from": "O1",
+        "to": "O1",
+        "kind": "dribble"
+      },
+      {
+        "from": "O1",
+        "to": "rim",
+        "kind": "dribble"
+      }
+    ],
+    "passes": [],
+    "shots": []
+  },
+  "vi": {
+    "title": "Kỹ thuật rocker step",
+    "description": "Nhún mạnh về trước như sắp đâm, rồi giật ngược về sau thành crossover — pha giả tiến-lùi khiến hậu vệ mất thăng bằng.",
+    "whatIsIt": [
+      "Rocker step là động tác dẫn bóng tiến rồi lùi: bạn bước mạnh về trước như sắp bật vào pha đâm, rồi dồn trọng tâm về chân sau và kéo bóng lùi theo. Với hậu vệ, nó trông như một pha đâm tốc độ cao đột ngột đảo chiều — đà của họ vẫn lao tới trong khi bạn đã lùi về khoảng trống.",
+      "Động tác kết thúc bằng crossover hoặc pull-up, tùy tình huống đọc được. Nếu hậu vệ lao tới, bạn crossover và vượt qua chân trước của họ. Nếu họ giữ vị trí, khoảng trống bạn vừa tạo chính là cửa sổ pull-up."
+    ],
+    "whyItMatters": [
+      "Hầu hết động tác dẫn bóng tấn công theo chiều ngang; rocker tấn công theo chiều tiến-lùi, hướng mà hậu vệ ít chuẩn bị nhất. Đây là động tác đặc trưng của những cầu thủ tự tạo cú ném trước hàng thủ kèm chặt, vì nó tạo khoảng trống pull-up mà không cần screen — kỹ năng quyết định những trận đấu sít sao."
+    ],
+    "howTo": [
+      {
+        "title": "Tiếp cận bằng dribble quyết liệt",
+        "detail": "Dẫn bóng về phía hậu vệ với tốc độ và quyết tâm. Rocker cần hậu vệ đang lùi thì pha giả tiến mới có tác dụng."
+      },
+      {
+        "title": "Bước mạnh về phía hậu vệ",
+        "detail": "Bước dài, dứt khoát bằng chân trước, đẩy bóng ra trước như sắp đâm toàn lực. Diễn bằng mắt và vai."
+      },
+      {
+        "title": "Dậm chân và nhún lùi",
+        "detail": "Dậm mạnh chân trước, rồi chuyển toàn bộ trọng tâm về chân sau trong một chuyển động, kéo bóng lùi theo. Cơ thể phải nhún như một con sóng đảo chiều."
+      },
+      {
+        "title": "Che bóng khi lùi",
+        "detail": "Khi nhún lùi, giữ bóng thấp và sát người, che bằng vai trước. Hậu vệ có thể với tay khi bạn lùi."
+      },
+      {
+        "title": "Đọc đà của hậu vệ",
+        "detail": "Nếu họ lao tới, chân trước của họ đã dậm và dễ bị vượt — crossover và đâm qua nó. Nếu họ giữ thăng bằng, bạn đã có khoảng trống pull-up."
+      },
+      {
+        "title": "Tấn công dứt khoát theo tình huống",
+        "detail": "Đọc được gì thì làm tới cùng: đâm mạnh qua hậu vệ đang lao tới, hoặc bật lên pull-up thăng bằng. Nửa vời là bị block."
+      }
+    ],
+    "coachingPoints": [
+      "Bước tiến phải dữ dội và thật — rocker nửa vời không lừa được ai.",
+      "Chuyển trọng tâm phải triệt để: 100% về trước, rồi 100% về sau. Lửng lơ ở giữa là mất bóng.",
+      "Giữ bóng như dính vào tay khi lùi; bóng lỏng trong pha nhún lùi là nguyên nhân mất bóng phổ biến nhất của động tác này.",
+      "Tập riêng hai kiểu kết thúc rocker-pull-up và rocker-drive để phản xạ đọc tình huống thành tự động."
+    ],
+    "commonMistakes": [
+      "Nhún lùi trước khi hậu vệ dồn trọng tâm — sửa: giữ bước tiến thêm nửa nhịp; kiên nhẫn mới bán được pha giả.",
+      "Ôm bóng khi kéo lùi — sửa: giữ tay trên mặt bóng và kéo thẳng về sau, không xúc từ dưới lên.",
+      "Lùi quá xa — sửa: chỉ nhún lùi 1–1,5m; xa hơn là cho hậu vệ thời gian hồi phục.",
+      "Nhìn bóng khi nhún — sửa: mắt dán vào hông hậu vệ; hông họ cho biết nên kết thúc kiểu nào."
+    ],
+    "gameSituations": [
+      "Tạo pull-up khi đơn đấu — trước hậu vệ kèm chặt, rocker tạo ra hai bước chân trống mà cú ném của bạn cần.",
+      "Xử lý cuối đồng hồ — khi bài đánh hỏng, rocker step là công cụ một-đối-một tin cậy để tạo cú ném.",
+      "Tấn công người closeout mạnh — nhún tiến khi hậu vệ lao tới, rồi nhún lùi khi họ trôi qua để có cú ném trống."
+    ],
+    "tags": [
+      "dẫn bóng",
+      "tạo cú ném",
+      "đơn đấu"
+    ]
+  }
+}

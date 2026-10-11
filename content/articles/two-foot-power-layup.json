@@ -1,0 +1,170 @@
+{
+  "id": "two-foot-power-layup",
+  "slug": "two-foot-power-layup",
+  "title": "Two-Foot Power Layup",
+  "description": "Stop on two feet, go up strong through contact — the power finish every young player must own.",
+  "hub": "skills",
+  "subcategory": "finishing",
+  "level": "beginner",
+  "ages": [
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 5,
+  "dateUpdated": "2026-10-11",
+  "whatIsIt": [
+    "The two-foot power layup replaces the running one-foot layup with a jump stop: you land on two feet, load your legs, and explode straight up through contact. Instead of floating past the defender, you go up into them and finish with strength.",
+    "It is called a power layup because the finish comes from power, not finesse. Two feet on the floor means balance, and balance under contact means and-ones."
+  ],
+  "whyItMatters": [
+    "Young players love the spectacular one-foot layup, but contact destroys it — one bump and the finish is gone. The two-foot power layup is the antidote: it absorbs contact, protects the ball with two hands on the gather, and finishes strong. Coaches at every level trust players who can power through contact far more than players who can only finish clean looks."
+  ],
+  "howTo": [
+    {
+      "title": "Drive under control",
+      "detail": "Attack the lane with the ball protected. You don't need full speed — the power comes from the jump stop, not the run-up."
+    },
+    {
+      "title": "Jump stop on two feet",
+      "detail": "Land on both feet simultaneously, knees bent, in a strong, balanced stance. A staggered or one-foot landing ruins the power base."
+    },
+    {
+      "title": "Chin the ball",
+      "detail": "Bring the ball up to your chin with two hands, elbows out. The ball is protected and loaded, ready to explode upward."
+    },
+    {
+      "title": "Explode straight up",
+      "detail": "Jump vertically off both feet, going up through the defender's contact rather than fading away from it. Meet the bump with your chest."
+    },
+    {
+      "title": "Finish strong at the rim",
+      "detail": "Extend up and finish with one or two hands, using the glass if the angle calls for it. Power through the contact — don't shy away."
+    },
+    {
+      "title": "Land ready",
+      "detail": "Land on two feet, balanced and ready to rebound your own miss or get back on defense."
+    }
+  ],
+  "coachingPoints": [
+    "The jump stop must be a real two-foot landing — landing one-foot-then-the-other is a travel and kills your balance.",
+    "Go up into contact, not away from it; fading from contact turns a power finish into a weak floater.",
+    "Keep the ball chinned until you explode — low gathers in traffic get stripped.",
+    "Use your legs, not just your arms; the power comes from the floor up."
+  ],
+  "commonMistakes": [
+    "Jump-stopping off balance — fix: land with feet shoulder-width apart and knees bent; narrow landings tip over.",
+    "Fading away from the defender — fix: pick a spot on the backboard and go straight up to it; the contact is part of the play.",
+    "Bringing the ball down after the stop — fix: once the ball is chinned, it only goes up; drill stop-and-go-up without lowering it.",
+    "Charging into a set defender — fix: read the defender's feet; if they're set and square, stop short and use a floater instead."
+  ],
+  "gameSituations": [
+    "Driving into a packed paint — when help defenders collapse, the two-foot stop absorbs the contact and still gets a shot up.",
+    "Transition attacks with a defender back — jump-stop through the retreating defender for the and-one.",
+    "Offensive rebound putbacks — the power layup is the natural finish for putbacks in traffic."
+  ],
+  "tags": [
+    "finishing",
+    "layup",
+    "contact-finishing"
+  ],
+  "related": [
+    "basic-layup",
+    "power-finish",
+    "contact-finishing",
+    "jump-hook",
+    "post-positioning"
+  ],
+  "diagram": {
+    "title": "O1 jump-stops on two feet and powers up through D1's contact at the rim",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 14
+      }
+    ],
+    "defense": [
+      {
+        "label": "D1",
+        "x": 50,
+        "y": 11
+      }
+    ],
+    "ball": "O1",
+    "screens": [],
+    "moves": [
+      {
+        "from": "O1",
+        "to": "rim",
+        "kind": "move"
+      }
+    ],
+    "passes": [],
+    "shots": []
+  },
+  "vi": {
+    "title": "Lên rổ hai chân mạnh mẽ (two-foot power layup)",
+    "description": "Dừng bằng hai chân, bật lên mạnh mẽ xuyên qua va chạm — pha kết thúc mạnh mà mọi cầu thủ trẻ phải thành thạo.",
+    "whatIsIt": [
+      "Two-foot power layup thay cú layup một chân đang chạy bằng một pha jump stop: bạn tiếp đất bằng hai chân, nén chân, và bật thẳng lên xuyên qua va chạm. Thay vì lướt qua hậu vệ, bạn bật lên đè vào họ và kết thúc bằng sức mạnh.",
+      "Nó được gọi là power layup vì pha kết thúc đến từ sức mạnh, không phải sự khéo léo. Hai chân trên sàn nghĩa là thăng bằng, và thăng bằng dưới va chạm nghĩa là and-one."
+    ],
+    "whyItMatters": [
+      "Cầu thủ trẻ thích những cú layup một chân đẹp mắt, nhưng va chạm phá hủy nó — một cú húc là pha kết thúc tan biến. Two-foot power layup là thuốc giải: nó hấp thụ va chạm, che bóng bằng hai tay khi gom, và kết thúc mạnh mẽ. HLV ở mọi cấp độ tin tưởng cầu thủ đè được va chạm hơn nhiều so với cầu thủ chỉ kết thúc được những pha trống trải."
+    ],
+    "howTo": [
+      {
+        "title": "Đâm vào có kiểm soát",
+        "detail": "Tấn công lane với bóng được che chắn. Bạn không cần tốc độ tối đa — sức mạnh đến từ pha jump stop, không phải từ đà chạy."
+      },
+      {
+        "title": "Jump stop bằng hai chân",
+        "detail": "Tiếp đất đồng thời bằng cả hai chân, gối cong, ở tư thế vững, thăng bằng. Tiếp đất lệch hoặc một chân là phá hỏng bệ phóng sức mạnh."
+      },
+      {
+        "title": "Kẹp bóng ngang cằm",
+        "detail": "Đưa bóng lên ngang cằm bằng hai tay, khuỷu tay mở ra. Bóng được che chắn và đã nén sẵn, chờ bật lên."
+      },
+      {
+        "title": "Bật thẳng lên",
+        "detail": "Nhảy thẳng đứng bằng cả hai chân, bật lên xuyên qua va chạm của hậu vệ thay vì ngả ra tránh nó. Đón cú húc bằng ngực."
+      },
+      {
+        "title": "Kết thúc mạnh ở rổ",
+        "detail": "Vươn lên và kết thúc bằng một hoặc hai tay, dùng bảng nếu góc đòi hỏi. Đè xuyên qua va chạm — đừng né tránh."
+      },
+      {
+        "title": "Tiếp đất sẵn sàng",
+        "detail": "Tiếp đất bằng hai chân, thăng bằng, sẵn sàng tranh bóng bật ra hoặc chạy về phòng thủ."
+      }
+    ],
+    "coachingPoints": [
+      "Pha jump stop phải là tiếp đất hai chân thật — tiếp đất một chân rồi chân kia là lỗi chạy bước và phá thăng bằng.",
+      "Bật lên đè vào va chạm, không phải tránh nó; ngả ra khỏi va chạm là biến pha kết thúc mạnh thành một cú floater yếu ớt.",
+      "Giữ bóng kẹp ngang cằm cho đến khi bật lên — gom bóng thấp trong đám đông là bị móc.",
+      "Dùng chân, không chỉ dùng tay; sức mạnh đi từ mặt sàn lên."
+    ],
+    "commonMistakes": [
+      "Jump stop mất thăng bằng — sửa: tiếp đất với hai chân rộng bằng vai, gối cong; tiếp đất hẹp là ngã.",
+      "Ngả ra tránh hậu vệ — sửa: chọn một điểm trên bảng rổ và bật thẳng lên đó; va chạm là một phần của pha bóng.",
+      "Hạ bóng xuống sau khi dừng — sửa: một khi bóng đã kẹp ngang cằm, nó chỉ đi lên; tập dừng-rồi-bật mà không hạ bóng.",
+      "Húc vào hậu vệ đã vào thế — sửa: đọc chân hậu vệ; nếu họ đã đứng vững và vuông góc, dừng sớm và dùng floater."
+    ],
+    "gameSituations": [
+      "Đâm vào khu vực dưới rổ đông đúc — khi người hỗ trợ đổ vào, pha dừng hai chân hấp thụ va chạm mà vẫn đưa bóng lên rổ.",
+      "Tấn công phản công có hậu vệ lùi về — jump stop đè qua hậu vệ đang lùi để kiếm and-one.",
+      "Đập bóng bật bảng tấn công — power layup là pha kết thúc tự nhiên cho các cú putback trong đám đông."
+    ],
+    "tags": [
+      "kết thúc",
+      "layup",
+      "chịu va chạm"
+    ]
+  }
+}

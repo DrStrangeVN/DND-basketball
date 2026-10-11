@@ -1,0 +1,187 @@
+{
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "coachingPoints": [
+    "Sprint, then chop: the closeout has two speeds, and the second one is what keeps you out of foul trouble.",
+    "Curve to the shooting shoulder — straight-line closeouts run into shooters; curved ones contest them.",
+    "Hands up before you arrive, not after — late hands are how open shots and fouls happen.",
+    "Stay down through the finish: standing up early is an invitation to drive.",
+    "The closeout ends at the rebound, not at the contest — box out your man after the shot."
+  ],
+  "commonMistakes": [
+    "Sprinting all the way into the shooter — fix: break down two meters out; if you can't stop, you started stopping too late.",
+    "Closing out straight at the chest — fix: curve to the shooting-side shoulder to avoid the body foul.",
+    "Hands coming up after arrival — fix: hands high on the last three steps; early hands contest, late hands foul.",
+    "Turning to run before the shot — fix: stay in stance until release; the closeout isn't over until the ball is."
+  ],
+  "dateUpdated": "2026-10-11",
+  "description": "The details of a great closeout: sprint angle, breakdown point, hand placement, and how to take away both the shot and the drive.",
+  "gameSituations": [
+    "After every help rotation — the recover closeout is the most common closeout in the game.",
+    "Against a great shooting team — closeout angles decide whether their ball movement becomes points.",
+    "On kick-out passes — the closeout must take away the immediate three without giving up the drive.",
+    "Late-clock scramble situations — controlled closeouts turn chaos into contested jumpers."
+  ],
+  "howTo": [
+    {
+      "title": "Sprint the first 80 percent",
+      "detail": "Explode out of your stance and sprint the first part of the closeout at full speed. The closeout is a race against the catch — every slow first step is a cleaner look for the shooter."
+    },
+    {
+      "title": "Take a curved angle",
+      "detail": "Run a slight curve toward the shooter's shooting-side shoulder, not a straight line at his chest. The curve keeps you from running into the shot and positions your body to take away the middle drive."
+    },
+    {
+      "title": "Break down two meters out",
+      "detail": "About two meters from the shooter, chop your steps short and get low — butt down, chest up. This is the breakdown: it kills your forward momentum so you arrive balanced instead of flying past."
+    },
+    {
+      "title": "Hands high, and high early",
+      "detail": "Get your hands up during the last steps, not after you arrive. High hands contest the shot and take away vision; hands that come up late are how shooters get clean looks and how fouls happen."
+    },
+    {
+      "title": "Take away the shot first",
+      "detail": "Your priority order: contest the shot, then contain the drive. Stay on balance with short steps so you can slide with the drive — a balanced closeout defends both, a lunging one defends neither."
+    },
+    {
+      "title": "Finish through the shot",
+      "detail": "Stay in your stance until the ball is released and the shooter lands. Never turn and run before the shot is up — the closeout ends when the possession ends, not when you arrive."
+    }
+  ],
+  "hub": "defense",
+  "id": "closeout-angle-technique",
+  "level": "beginner",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 5,
+  "related": [
+    "closeout-defense",
+    "defensive-stance",
+    "closeout-reads",
+    "attacking-the-closeout",
+    "help-defense"
+  ],
+  "slug": "closeout-angle-technique",
+  "subcategory": "defense-fundamentals",
+  "tags": [
+    "closeout",
+    "fundamentals",
+    "contest",
+    "footwork",
+    "defense"
+  ],
+  "title": "Closeout Angle Technique",
+  "vi": {
+    "coachingPoints": [
+      "Chạy nhanh, rồi bước ngắn: closeout có hai tốc độ, và tốc độ thứ hai mới giữ bạn khỏi rắc rối phạm lỗi.",
+      "Cong về phía vai thuận ném — closeout đường thẳng lao vào người ném; closeout đường cong contest anh ta.",
+      "Tay lên trước khi tới nơi, không phải sau — tay muộn là cách tạo ra cú ném trống và pha phạm lỗi.",
+      "Giữ thấp đến khi xong: đứng thẳng sớm là lời mời đột phá.",
+      "Closeout kết thúc ở pha tranh bóng bật bảng, không phải ở pha contest — box out người kèm sau cú ném."
+    ],
+    "commonMistakes": [
+      "Chạy nước rút đâm thẳng vào người ném — sửa: hạ thấp ở hai mét cuối; nếu không dừng được, bạn đã bắt đầu dừng quá muộn.",
+      "Closeout thẳng vào ngực — sửa: cong về phía vai thuận ném để tránh phạm lỗi thân người.",
+      "Tay lên sau khi đã tới nơi — sửa: tay cao ở ba bước cuối; tay sớm contest, tay muộn phạm lỗi.",
+      "Quay người chạy trước khi cú ném lên — sửa: giữ tư thế đến khi bóng rời tay; closeout chưa xong khi bóng chưa lên."
+    ],
+    "description": "Chi tiết của một pha closeout hay: góc chạy, điểm hạ thấp, vị trí tay, và cách vừa chặn cú ném vừa chống pha đột phá.",
+    "gameSituations": [
+      "Sau mọi rotation hỗ trợ — closeout thu hồi là pha closeout phổ biến nhất trong trận.",
+      "Gặp đội ném rổ hay — góc closeout quyết định bóng di chuyển của họ có thành điểm hay không.",
+      "Trong các đường kick-out — closeout phải cắt cú ném 3 điểm ngay mà không dâng pha đột phá.",
+      "Tình huống hỗn loạn cuối đồng hồ — closeout kiểm soát biến hỗn loạn thành những cú ném bị contest."
+    ],
+    "howTo": [
+      {
+        "title": "Chạy nước rút 80% đầu",
+        "detail": "Bùng nổ khỏi tư thế và chạy hết tốc phần đầu của closeout. Closeout là cuộc đua với pha bắt bóng — mỗi bước đầu chậm chạp là một cú nhìn rổ sạch sẽ cho tay ném."
+      },
+      {
+        "title": "Chạy theo đường cong",
+        "detail": "Chạy hơi cong về phía vai thuận ném của tay ném, không phải đường thẳng vào ngực anh ta. Đường cong giúp bạn không lao vào người ném và đặt cơ thể để cắt pha đột phá vào giữa."
+      },
+      {
+        "title": "Hạ thấp ở hai mét cuối",
+        "detail": "Cách tay ném khoảng hai mét, bước ngắn lại và hạ thấp người — mông hạ, ngực ưỡn. Đây là pha hạ thấp: nó triệt tiêu đà lao tới để bạn đến nơi trong thăng bằng thay vì bay qua mặt."
+      },
+      {
+        "title": "Tay cao, và cao từ sớm",
+        "detail": "Giơ tay lên trong những bước cuối, không phải sau khi đã tới nơi. Tay cao contest cú ném và che tầm nhìn; tay lên muộn là cách tạo ra những cú ném trống và những pha phạm lỗi."
+      },
+      {
+        "title": "Chặn cú ném trước",
+        "detail": "Thứ tự ưu tiên: contest cú ném, rồi chặn pha đột phá. Giữ thăng bằng với bước ngắn để trượt theo pha đột phá — closeout thăng bằng chống được cả hai, closeout lao người không chống được gì."
+      },
+      {
+        "title": "Hoàn thành qua cú ném",
+        "detail": "Giữ tư thế đến khi bóng được ném và tay ném tiếp đất. Không bao giờ quay người chạy trước khi cú ném lên — closeout kết thúc khi pha bóng kết thúc, không phải khi bạn tới nơi."
+      }
+    ],
+    "tags": [
+      "closeout",
+      "cơ bản",
+      "contest",
+      "bộ chân",
+      "phòng thủ"
+    ],
+    "title": "Kỹ thuật góc closeout",
+    "whatIsIt": [
+      "Closeout là pha chạy nước rút từ vị trí hỗ trợ tới tay ném — và góc bạn chạy quyết định bạn sẽ contest cú ném, để lọt pha đột phá, hay phạm lỗi. Những pha closeout hay trông giống nhau mọi lần: một đường chạy cong tới nơi trong kiểm soát, thăng bằng, với tay giơ cao.",
+      "Bí quyết là pha hạ thấp: bạn chạy nước rút phần lớn quãng đường, rồi bước ngắn trong hai mét cuối để triệt tiêu đà. Cầu thủ không bao giờ hạ thấp sẽ tới nơi mất kiểm soát — và closeout mất kiểm soát là cách tạo ra những pha bị qua mặt và phạm lỗi."
+    ],
+    "whyItMatters": [
+      "Mọi pha phòng thủ đều kết thúc bằng closeout — sau mọi pha hỗ trợ, mọi rotation, mọi pha hỗn loạn. Đội closeout tốt biến bóng di chuyển của đối phương thành những cú ném bị contest; đội closeout dở biến nó thành layup và ném phạt. Đây là kỹ năng phòng thủ lặp lại nhiều nhất trong trận, nên cũng đáng để làm chủ nhất."
+    ]
+  },
+  "whatIsIt": [
+    "A closeout is the sprint from help position to a shooter — and the angle you take decides whether you contest the shot, give up the drive, or foul. Great closeouts look the same every time: a curved sprint that arrives under control, on balance, with high hands.",
+    "The secret is the breakdown: you sprint most of the distance, then take short choppy steps for the last two meters to kill your momentum. Players who never break down arrive out of control — and out-of-control closeouts are how blow-bys and fouls happen."
+  ],
+  "whyItMatters": [
+    "Every defensive possession ends in closeouts — after every help, every rotation, every scramble. A team that closeouts well turns opponent ball movement into contested jumpers; a team that closeouts poorly turns it into layups and free throws. It is the most repeated defensive skill in the game, which makes it the most worth mastering."
+  ],
+  "diagram": {
+    "title": "Closeout angle — curved sprint to the shooting shoulder, breakdown at two meters",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 30,
+        "y": 40
+      },
+      {
+        "label": "O3",
+        "x": 76,
+        "y": 22
+      }
+    ],
+    "defense": [
+      {
+        "label": "D3",
+        "x": 60,
+        "y": 34
+      }
+    ],
+    "ball": "O3",
+    "screens": [],
+    "moves": [
+      {
+        "from": "D3",
+        "to": "O3",
+        "kind": "move"
+      }
+    ],
+    "passes": [
+      {
+        "from": "O1",
+        "to": "O3"
+      }
+    ],
+    "shots": []
+  }
+}

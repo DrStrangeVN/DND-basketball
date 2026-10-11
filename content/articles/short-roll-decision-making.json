@@ -1,0 +1,233 @@
+{
+  "id": "short-roll-decision-making",
+  "slug": "short-roll-decision-making",
+  "title": "Short Roll Decision Making",
+  "description": "Catch the ball in the short roll — the free-throw area against a drop — and become the playmaker. The 4-on-3 reads that separate good bigs from great ones.",
+  "hub": "pick-and-roll",
+  "subcategory": "pick-and-roll",
+  "level": "advanced",
+  "ages": [
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 7,
+  "dateUpdated": "2026-10-11",
+  "whatIsIt": [
+    "The short roll happens when the screener, instead of rolling all the way to the rim, stops in the middle — around the free-throw line — to catch the ball against drop coverage. The drop big has retreated to protect the rim, the guard is contained, and the short roller catches in the soft spot between them.",
+    "That catch turns the possession into a 4-on-3: the two defenders are occupied by the ball handler and the roller, which leaves four offensive players against three defenders. The short roller's decisions in the next two seconds — shoot, drive, or pass, and to whom — decide whether the advantage becomes points. It is the most important playmaking position in modern pick and roll offense that isn't the ball handler."
+  ],
+  "whyItMatters": [
+    "Drop coverage is built to force exactly this catch — the defense WANTS the big catching at the free-throw line instead of at the rim, because most bigs don't know what to do there. A big who can make short-roll decisions turns the defense's game plan into your advantage: every drop becomes a 4-on-3 you win. In the modern game, the short roll is where series are decided — the team whose big makes these reads gets open threes and layups; the team whose big panics gets turnovers."
+  ],
+  "howTo": [
+    {
+      "title": "Recognize the drop and short-roll",
+      "detail": "O5 sets the ball screen for O1. When D5 drops deep (instead of hedging or switching), O5 doesn't roll to the rim — he stops at the free-throw line area, presenting hands. The read starts before the catch: see the drop, take the short roll."
+    },
+    {
+      "title": "Catch facing the basket",
+      "detail": "O5 catches the pocket pass from O1 with his body squared to the rim — triple threat from the middle. Eyes up immediately: the whole floor is in front of him, and the decisions must happen in under two seconds."
+    },
+    {
+      "title": "Read 1 — the open jumper",
+      "detail": "If D5 stays deep and no one rotates up, O5 shoots the free-throw-line jumper. This is the shot the defense concedes — take it confidently. A big who hits this forces the drop to come up, which opens everything else."
+    },
+    {
+      "title": "Read 2 — the drive",
+      "detail": "If a defender closes out hard on the catch, O5 puts it on the floor: one or two dribbles and attack the rim or draw the next rotation. Short rollers must be able to drive — it's what punishes the hard closeout."
+    },
+    {
+      "title": "Read 3 — the pass",
+      "detail": "If the weak side rotates, O5 hits the open man: the corner three when the low defender tags up, the lob to the dunker spot when the rim protector steps out, or the skip when two defenders commit. The rule: find the defender who rotated, throw to the man he left."
+    },
+    {
+      "title": "Keep it quick",
+      "detail": "The 4-on-3 only lasts about two seconds before the defense recovers. Catch, read, decide — no holding, no surveying. Drill the decisions at game speed until they're instinct."
+    }
+  ],
+  "coachingPoints": [
+    "The short roll is a GUARD skill in a big's body. Handle, pass, and shoot from the middle — develop your bigs like playmakers, not just finishers.",
+    "Catch facing the rim, every time. A short roller who catches sideways can't see the weak side — the reads die before they start.",
+    "Two-second rule. The advantage evaporates fast — drill catch-and-decide with a coach counting down.",
+    "Make the defense pay for each choice. They stay deep? Jumper. They close out? Drive. They rotate? Pass. Every coverage must hurt.",
+    "Film the 4-on-3s. Players learn the reads fastest by watching their own decisions — pause the film at the catch and ask 'what's open?'"
+  ],
+  "commonMistakes": [
+    "Catching flat-footed facing the sideline — fix: 'catch and face' — chin, pivot, square to the rim in one motion.",
+    "Holding the ball and surveying — fix: two-second rule; the ball must shoot, drive, or pass immediately.",
+    "Forcing the pass to the roller spot when the read is the jumper — fix: take what the defense gives; the jumper is a good shot here.",
+    "Big can't put the ball on the floor — fix: develop the one-two dribble drive as a mandatory big-man skill; without it the short roll has no counter to the closeout."
+  ],
+  "gameSituations": [
+    "Breaking drop coverage: the short roll is THE answer to drop — turn their safest coverage into your 4-on-3.",
+    "Playoff adjustments: when opponents drop your star guard's PNR, the short-rolling big becomes the series MVP.",
+    "Developing modern bigs: every rep as a short roller builds the handling, passing, and shooting the modern game demands."
+  ],
+  "tags": [
+    "short roll",
+    "pick and roll",
+    "drop coverage",
+    "playmaking",
+    "4-on-3"
+  ],
+  "related": [
+    "short-roll",
+    "pnr-vs-drop",
+    "pocket-pass",
+    "roll-man-reads",
+    "skip-pass-reads"
+  ],
+  "diagram": {
+    "title": "Short roll — O5 catches at the free-throw line vs the drop, with the 4-on-3 in front of him",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 60,
+        "y": 48
+      },
+      {
+        "label": "O5",
+        "x": 55,
+        "y": 24
+      },
+      {
+        "label": "O2",
+        "x": 88,
+        "y": 8
+      },
+      {
+        "label": "O3",
+        "x": 15,
+        "y": 35
+      },
+      {
+        "label": "O4",
+        "x": 68,
+        "y": 10
+      }
+    ],
+    "defense": [
+      {
+        "label": "D1",
+        "x": 60,
+        "y": 53
+      },
+      {
+        "label": "D5",
+        "x": 55,
+        "y": 14
+      },
+      {
+        "label": "D2",
+        "x": 84,
+        "y": 12
+      },
+      {
+        "label": "D3",
+        "x": 19,
+        "y": 35
+      },
+      {
+        "label": "D4",
+        "x": 68,
+        "y": 14
+      }
+    ],
+    "ball": "O5",
+    "screens": [
+      {
+        "x": 58,
+        "y": 44
+      }
+    ],
+    "moves": [
+      {
+        "from": "O5",
+        "to": "O1",
+        "kind": "screen-run"
+      },
+      {
+        "from": "O1",
+        "to": "rim",
+        "kind": "dribble"
+      }
+    ],
+    "passes": [
+      {
+        "from": "O1",
+        "to": "O5"
+      },
+      {
+        "from": "O5",
+        "to": "O2"
+      }
+    ],
+    "shots": []
+  },
+  "vi": {
+    "title": "Ra quyết định ở short roll (short roll decision making)",
+    "description": "Bắt bóng ở short roll — khu vực ném phạt trước drop — và trở thành playmaker. Các cách đọc 4-kèm-3 phân biệt big giỏi với big xuất sắc.",
+    "whatIsIt": [
+      "Short roll diễn ra khi người dựng screen, thay vì roll hết xuống rổ, dừng ở giữa — quanh khu vực ném phạt — để bắt bóng trước drop coverage. Big drop đã lùi về bảo vệ rổ, hậu vệ bị nhốt, và người short roll bắt bóng ở điểm mềm giữa họ.",
+      "Pha bắt bóng đó biến pha bóng thành 4-kèm-3: hai hậu vệ bận với người cầm bóng và người roll, còn lại bốn cầu thủ tấn công đấu ba hậu vệ. Quyết định của người short roll trong hai giây tiếp — ném, đột phá, hay chuyền, và chuyền cho ai — quyết định lợi thế có thành điểm không. Đó là vị trí playmaking quan trọng nhất của pick and roll hiện đại ngoài người cầm bóng."
+    ],
+    "whyItMatters": [
+      "Drop coverage được xây để ép đúng pha bắt bóng này — hàng thủ MUỐN big bắt bóng ở vạch ném phạt thay vì ở rổ, vì hầu hết big không biết làm gì ở đó. Big nào ra được quyết định ở short roll sẽ biến game plan của hàng thủ thành lợi thế của mình: mọi pha drop thành 4-kèm-3 mà bạn thắng. Trong bóng rổ hiện đại, short roll là nơi quyết định series — đội nào big đọc được tình huống thì có 3 điểm trống và layup; đội nào big hoảng thì có turnover."
+    ],
+    "howTo": [
+      {
+        "title": "Nhận diện drop và short-roll",
+        "detail": "O5 dựng screen cho O1. Khi D5 drop sâu (thay vì hedge hay switch), O5 không roll xuống rổ — anh ta dừng ở khu vực ném phạt, giơ tay xin bóng. Cách đọc bắt đầu trước pha bắt bóng: thấy drop là short-roll."
+      },
+      {
+        "title": "Bắt bóng mặt hướng rổ",
+        "detail": "O5 bắt pocket pass của O1, thân người vuông góc với rổ — triple threat từ giữa sân. Mắt nhìn lên ngay: cả sân ở trước mặt, và quyết định phải diễn ra trong chưa đầy hai giây."
+      },
+      {
+        "title": "Cách đọc 1 — cú ném trống",
+        "detail": "D5 mà đứng sâu, không ai dâng lên thì O5 ném jumper ở vạch ném phạt. Đây là cú ném hàng thủ nhường — ném tự tin. Big nào ném trúng cú này ép drop phải dâng lên, mở ra mọi thứ khác."
+      },
+      {
+        "title": "Cách đọc 2 — đột phá",
+        "detail": "Hậu vệ lao ra closeout mạnh khi bắt bóng thì O5 đặt bóng xuống: một hai nhịp dẫn, tấn công rổ hoặc kéo rotation tiếp theo. Người short roll phải đột phá được — đó là thứ trừng phạt closeout mạnh."
+      },
+      {
+        "title": "Cách đọc 3 — chuyền bóng",
+        "detail": "Phía yếu xoay sang thì O5 chuyền cho người trống: 3 điểm ở góc khi hậu vệ dưới dâng lên tag, alley-oop cho điểm dunker khi người bảo vệ rổ bước ra, hoặc chuyền chéo khi hai hậu vệ commit. Quy tắc: tìm hậu vệ vừa xoay, chuyền cho người hắn bỏ lại."
+      },
+      {
+        "title": "Giữ mọi thứ nhanh",
+        "detail": "4-kèm-3 chỉ tồn tại khoảng hai giây trước khi hàng thủ hồi phục. Bắt, đọc, quyết định — không giữ bóng, không ngắm nghía. Tập các quyết định ở tốc độ trận đấu đến khi thành bản năng."
+      }
+    ],
+    "coachingPoints": [
+      "Short roll là kỹ năng HẬU VỆ trong thân hình big. Dẫn bóng, chuyền và ném từ giữa sân — phát triển big như playmaker, không chỉ như người kết thúc.",
+      "Bắt bóng mặt hướng rổ, mọi lần. Người short roll bắt bóng xoay ngang là không thấy phía yếu — cách đọc chết từ khi chưa bắt đầu.",
+      "Luật hai giây. Lợi thế tan nhanh — tập bắt-và-quyết định với HLV bấm giờ.",
+      "Bắt hàng thủ trả giá cho mỗi lựa chọn. Chúng đứng sâu? Ném. Chúng lao ra? Đột phá. Chúng xoay? Chuyền. Mọi coverage đều phải đau.",
+      "Xem lại video các pha 4-kèm-3. Cầu thủ học cách đọc nhanh nhất bằng cách xem quyết định của chính mình — dừng video lúc bắt bóng và hỏi 'chỗ nào trống?'"
+    ],
+    "commonMistakes": [
+      "Bắt bóng đứng chôn chân, mặt hướng đường biên — sửa: 'bắt rồi xoay' — ôm bóng sát cằm, pivot, vuông góc với rổ trong một chuyển động.",
+      "Giữ bóng ngắm nghía — sửa: luật hai giây; bóng phải ném, đột phá hoặc chuyền ngay.",
+      "Cố chuyền cho điểm roll khi cách đọc là cú ném — sửa: lấy thứ hàng thủ cho; cú ném ở đây là cú ném tốt.",
+      "Big không đặt được bóng xuống — sửa: phát triển pha đột phá một-hai nhịp như kỹ năng bigman bắt buộc; thiếu nó thì short roll không có đòn phản đòn cho closeout."
+    ],
+    "gameSituations": [
+      "Phá drop coverage: short roll là đáp án SỐ MỘT cho drop — biến coverage an toàn nhất của chúng thành 4-kèm-3 của bạn.",
+      "Điều chỉnh playoff: đối thủ drop PNR của hậu vệ ngôi sao thì big short-roll thành MVP của series.",
+      "Phát triển big hiện đại: mỗi rep short roll xây khả năng dẫn bóng, chuyền và ném mà bóng rổ hiện đại đòi hỏi."
+    ],
+    "tags": [
+      "short roll",
+      "pick and roll",
+      "drop coverage",
+      "playmaking",
+      "4-kèm-3"
+    ]
+  }
+}

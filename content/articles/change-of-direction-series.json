@@ -1,0 +1,176 @@
+{
+  "id": "change-of-direction-series",
+  "slug": "change-of-direction-series",
+  "title": "Change-of-Direction Series",
+  "description": "Link your crossover, between-the-legs, and behind-the-back into one flowing series that keeps defenders guessing.",
+  "hub": "skills",
+  "subcategory": "ball-handling",
+  "level": "beginner",
+  "ages": [
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "Guard",
+    "Wing"
+  ],
+  "readTime": 6,
+  "dateUpdated": "2026-10-11",
+  "whatIsIt": [
+    "A change-of-direction series is not one move — it is the ability to chain your basic moves together without stopping: crossover into between-the-legs into behind-the-back, in any order, reading the defender as you go. The series turns three simple moves into an unpredictable system.",
+    "The goal is flow, not flash. Each move in the series should be a genuine threat that forces the defender to react, and each reaction opens the door for the next move. When the chain is smooth, the defender is always one move behind."
+  ],
+  "whyItMatters": [
+    "Real games rarely end after one move — defenders recover, help arrives, and lanes close. Players who can only do one move get stopped after it; players with a series keep attacking until something opens. Building the series early also develops ambidexterity and court vision, because you learn to read while your hands work on autopilot."
+  ],
+  "howTo": [
+    {
+      "title": "Master each move alone first",
+      "detail": "Before chaining, make sure your crossover, between-the-legs, and behind-the-back are each clean and low at full speed. A series is only as strong as its weakest link."
+    },
+    {
+      "title": "Start with two-move chains",
+      "detail": "Practice crossover-to-between-the-legs and between-the-legs-to-crossover as pairs. Drill each pair until the transition has no pause."
+    },
+    {
+      "title": "Keep every bounce low",
+      "detail": "Through the whole series, the ball stays below your knees. One high bounce breaks the rhythm and invites a steal."
+    },
+    {
+      "title": "Stay in your stance",
+      "detail": "Keep your knees bent and your head level through every move. Standing up between moves kills your burst and telegraphs the next one."
+    },
+    {
+      "title": "Add the third move",
+      "detail": "Once two-move chains are smooth, add the behind-the-back as a third option. Now you have six possible two- and three-move orders to mix."
+    },
+    {
+      "title": "Read, don't rehearse",
+      "detail": "In games, let the defender's reaction choose the next move: if they overplay one side, go the other way. The series is a menu, not a script."
+    }
+  ],
+  "coachingPoints": [
+    "Every move in the series must threaten a drive — moves done just to look busy don't move defenders.",
+    "Change your pace inside the series; a sudden slowdown between two quick moves freezes defenders as well as any fake.",
+    "Keep the ball in front of your body on every transfer — the series falls apart the moment the ball trails behind you.",
+    "Finish every series rep with a drive, pull-up, or pass; endless dribbling without a decision is a bad habit."
+  ],
+  "commonMistakes": [
+    "Chaining moves with pauses between them — fix: drill to a clap cadence where each move lands on a beat with no gaps.",
+    "Doing the series with your head down — fix: practice facing a partner who holds up fingers; call the number after each move.",
+    "Repeating the same order every time — fix: roll a die or have a coach call the next move so you learn to improvise.",
+    "Using the series too far from the basket — fix: start your attack within 6–7 meters of the rim so the series ends in a scoring threat."
+  ],
+  "gameSituations": [
+    "One-on-one creation — when your first move doesn't beat the defender clean, the series gives you a second and third answer.",
+    "Breaking down a zone's top — chaining moves at the top of a zone shifts two defenders and opens passing lanes.",
+    "End-of-quarter situations — with the defense spread, a flowing series manufactures a shot when the play breaks down."
+  ],
+  "tags": [
+    "ball-handling",
+    "dribble-moves",
+    "combos"
+  ],
+  "related": [
+    "change-of-pace",
+    "crossover",
+    "snake-dribble",
+    "transition-dribble-push",
+    "attacking-the-switch"
+  ],
+  "diagram": {
+    "title": "O1 chains crossover, between-the-legs, and behind-the-back to shake D1",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 60,
+        "y": 36
+      }
+    ],
+    "defense": [
+      {
+        "label": "D1",
+        "x": 56,
+        "y": 34
+      }
+    ],
+    "ball": "O1",
+    "screens": [],
+    "moves": [
+      {
+        "from": "O1",
+        "to": "O1",
+        "kind": "dribble"
+      },
+      {
+        "from": "O1",
+        "to": "rim",
+        "kind": "dribble"
+      }
+    ],
+    "passes": [],
+    "shots": []
+  },
+  "vi": {
+    "title": "Chuỗi đổi hướng (change-of-direction)",
+    "description": "Nối crossover, xỏ háng và vòng sau lưng thành một chuỗi mượt mà khiến hậu vệ luôn phải đoán.",
+    "whatIsIt": [
+      "Chuỗi đổi hướng không phải một động tác — đó là khả năng nối các động tác cơ bản lại với nhau không ngừng nghỉ: crossover sang xỏ háng sang vòng sau lưng, theo bất kỳ thứ tự nào, vừa làm vừa đọc hậu vệ. Chuỗi biến ba động tác đơn giản thành một hệ thống khó lường.",
+      "Mục tiêu là sự trôi chảy, không phải màu mè. Mỗi động tác trong chuỗi phải là một mối đe dọa thật khiến hậu vệ phản ứng, và mỗi phản ứng mở ra cánh cửa cho động tác tiếp theo. Khi chuỗi mượt, hậu vệ luôn chậm hơn bạn một động tác."
+    ],
+    "whyItMatters": [
+      "Trận đấu thật hiếm khi kết thúc sau một động tác — hậu vệ hồi phục, người hỗ trợ đến, đường đi khép lại. Cầu thủ chỉ biết một động tác sẽ bị chặn sau đó; cầu thủ có chuỗi đổi hướng tiếp tục tấn công cho đến khi có khoảng trống. Xây dựng chuỗi từ sớm còn phát triển khả năng dùng hai tay và nhãn quan, vì bạn học cách đọc tình huống trong khi tay hoạt động tự động."
+    ],
+    "howTo": [
+      {
+        "title": "Thành thạo từng động tác riêng trước",
+        "detail": "Trước khi nối chuỗi, đảm bảo crossover, xỏ háng và vòng sau lưng của bạn đều sạch và thấp ở tốc độ tối đa. Chuỗi chỉ mạnh bằng mắt xích yếu nhất."
+      },
+      {
+        "title": "Bắt đầu với chuỗi hai động tác",
+        "detail": "Tập crossover-nối-xỏ háng và xỏ háng-nối-crossover theo cặp. Tập mỗi cặp cho đến khi chuyển tiếp không còn khoảng ngắt."
+      },
+      {
+        "title": "Giữ mọi nhịp bóng thấp",
+        "detail": "Suốt cả chuỗi, bóng ở dưới đầu gối. Một nhịp nảy cao là phá vỡ nhịp điệu và mời cướp bóng."
+      },
+      {
+        "title": "Giữ tư thế thấp",
+        "detail": "Giữ gối cong và đầu ngang bằng suốt mọi động tác. Đứng thẳng giữa các động tác là giết cú bật và lộ động tác tiếp theo."
+      },
+      {
+        "title": "Thêm động tác thứ ba",
+        "detail": "Khi chuỗi hai động tác đã mượt, thêm vòng sau lưng làm lựa chọn thứ ba. Giờ bạn có sáu thứ tự hai-ba động tác để trộn lẫn."
+      },
+      {
+        "title": "Đọc tình huống, đừng diễn kịch",
+        "detail": "Trong trận đấu, để phản ứng của hậu vệ chọn động tác tiếp theo: nếu họ chặn một bên quá đà, đi sang bên kia. Chuỗi là một thực đơn, không phải kịch bản."
+      }
+    ],
+    "coachingPoints": [
+      "Mọi động tác trong chuỗi phải đe dọa một pha đâm — động tác chỉ để cho có không dịch chuyển được hậu vệ.",
+      "Đổi nhịp bên trong chuỗi; một cú chậm đột ngột giữa hai động tác nhanh cũng đóng băng hậu vệ như bất kỳ pha giả nào.",
+      "Giữ bóng trước người trong mọi lần chuyển tay — chuỗi sụp đổ ngay khi bóng tụt ra sau lưng bạn.",
+      "Kết thúc mọi lần tập chuỗi bằng một pha đâm, pull-up hoặc đường chuyền; dẫn bóng mãi không quyết định là thói quen xấu."
+    ],
+    "commonMistakes": [
+      "Nối các động tác mà có khoảng ngắt ở giữa — sửa: tập theo nhịp vỗ tay, mỗi động tác rơi vào một nhịp không kẽ hở.",
+      "Làm chuỗi mà cúi đầu — sửa: tập đối mặt với bạn tập giơ ngón tay; đọc số ngón sau mỗi động tác.",
+      "Lặp cùng một thứ tự mọi lần — sửa: tung xúc xắc hoặc để HLV gọi động tác tiếp theo để học ứng biến.",
+      "Dùng chuỗi quá xa rổ — sửa: bắt đầu tấn công trong vòng 6–7m từ rổ để chuỗi kết thúc bằng một mối đe dọa ghi điểm."
+    ],
+    "gameSituations": [
+      "Tạo đột biến một-đối-một — khi động tác đầu không vượt hẳn hậu vệ, chuỗi cho bạn câu trả lời thứ hai và thứ ba.",
+      "Xé toang đỉnh zone — nối các động tác ở đỉnh zone dịch chuyển hai hậu vệ và mở đường chuyền.",
+      "Tình huống cuối hiệp — khi hàng thủ giãn ra, một chuỗi trôi chảy tạo ra cú ném khi bài đánh hỏng."
+    ],
+    "tags": [
+      "dẫn bóng",
+      "chuỗi động tác",
+      "đơn đấu"
+    ]
+  }
+}

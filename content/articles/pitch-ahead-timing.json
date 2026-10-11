@@ -1,0 +1,213 @@
+{
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "coachingPoints": [
+    "Eyes up on the catch — the pitch-ahead is thrown with vision, not with hope.",
+    "Throw to where he's going, not where he is — lead the runner by 3-4 meters.",
+    "Flat and hard beats high and soft — the pitch must win the race to the spot.",
+    "The runner never breaks stride: catch, chin, finish — one motion.",
+    "One pitch-ahead per break is enough — the second one is usually the turnover."
+  ],
+  "commonMistakes": [
+    "Throwing to the man instead of space — fix: lead every pitch 3-4 meters; the runner runs to the ball.",
+    "Lobbing it up for grabs — fix: flat, hard passes; lobs are for the half court, not the break.",
+    "Throwing late into a set defense — fix: if the defense is back, the pitch window is closed; run the break instead.",
+    "Runner stopping to catch — fix: drill full-speed catch-and-finish; the catch happens at a sprint, never at a standstill."
+  ],
+  "dateUpdated": "2026-10-11",
+  "description": "The pass that beats the defense down the floor: when to pitch ahead, where to throw it, and how to catch it in stride.",
+  "gameSituations": [
+    "Off every defensive rebound — the rebounder who looks up first creates the pitch.",
+    "After opponent turnovers — live-ball turnovers are pitch-ahead gold; the defense is never set.",
+    "When the opponent crashes the glass — their bigs are out of position; pitch over their heads.",
+    "Late-game when you need quick scores — the pitch-ahead is the fastest 2 points in basketball."
+  ],
+  "howTo": [
+    {
+      "title": "Look up on the catch",
+      "detail": "The pitch-ahead starts with vision: chin the rebound or catch the outlet with your eyes already upfloor. You cannot throw what you cannot see — the first look is deep, always."
+    },
+    {
+      "title": "Read the runner's lane",
+      "detail": "Identify which teammate is sprinting which lane. The pitch goes to the runner with the clearest path — usually the middle lane or the wing with a step on his defender. Read the defender's hips: if they're turned, throw it."
+    },
+    {
+      "title": "Throw to space, not to the man",
+      "detail": "Lead the runner: throw the ball 3-4 meters ahead of him into open floor. A pass to the man gets intercepted or forces him to slow down; a pass to space lets him run through the catch at full speed."
+    },
+    {
+      "title": "Use the right pass",
+      "detail": "The pitch-ahead is usually a two-hand overhead pass or a long bounce pass — flat, hard, and catchable. Lobs float and get picked; the pitch must beat the retreating defenders to the spot."
+    },
+    {
+      "title": "Time the release",
+      "detail": "Throw it as the runner hits full speed and the last defender commits to the ball. Too early and the defense reads it; too late and the window closes. The release point is when the runner's defender turns his hips."
+    },
+    {
+      "title": "Catch in stride",
+      "detail": "The runner's job: sprint through the catch without breaking stride, chin the ball, and finish. Never stop to catch a pitch-ahead — a stopped catch turns a layup into a contested jumper."
+    }
+  ],
+  "hub": "transition",
+  "id": "pitch-ahead-timing",
+  "level": "intermediate",
+  "positions": [
+    "Guard",
+    "Forward"
+  ],
+  "readTime": 6,
+  "related": [
+    "transition-offense",
+    "outlet-passing",
+    "running-lanes",
+    "rebound-outlet-connection",
+    "transition-decision-making"
+  ],
+  "slug": "pitch-ahead-timing",
+  "subcategory": "fast-break",
+  "tags": [
+    "fast break",
+    "pitch-ahead",
+    "passing",
+    "transition",
+    "outlet"
+  ],
+  "title": "Pitch-Ahead Timing",
+  "vi": {
+    "coachingPoints": [
+      "Mắt ngẩng lên khi bắt bóng — pitch-ahead được chuyền bằng tầm nhìn, không phải bằng hy vọng.",
+      "Chuyền tới nơi anh ta sẽ tới, không phải nơi anh ta đang đứng — chuyền đón đầu 3-4 mét.",
+      "Căng và mạnh thắng bổng và mềm — pitch phải thắng cuộc đua tới điểm hẹn.",
+      "Người chạy không bao giờ giảm đà: bắt, kẹp, kết thúc — một chuyển động.",
+      "Một pitch-ahead mỗi pha phản công là đủ — đường thứ hai thường là mất bóng."
+    ],
+    "commonMistakes": [
+      "Chuyền vào người thay vì khoảng trống — sửa: mọi pitch đều chuyền đón đầu 3-4 mét; người chạy chạy tới bóng.",
+      "Chuyền bổng lơ lửng — sửa: chuyền căng, mạnh; chuyền bổng dành cho nửa sân, không phải phản công.",
+      "Chuyền muộn vào hàng thủ đã xếp — sửa: hàng thủ đã về thì cửa sổ pitch đã đóng; chạy bài phản công thay vào đó.",
+      "Người chạy dừng lại để bắt bóng — sửa: tập bắt bóng và kết thúc ở tốc độ tối đa; pha bắt bóng diễn ra khi đang chạy nước rút, không bao giờ khi đứng yên."
+    ],
+    "description": "Đường chuyền đánh bại hàng thủ dọc sân: khi nào pitch-ahead, chuyền đi đâu, và cách bắt bóng trong đà chạy.",
+    "gameSituations": [
+      "Sau mọi pha rebound phòng thủ — người rebound ngẩng lên trước tạo ra pitch.",
+      "Sau pha mất bóng của đối phương — mất bóng bóng sống là mỏ vàng pitch-ahead; hàng thủ không bao giờ xếp kịp.",
+      "Khi đối phương lao vào tranh rebound tấn công — big của họ đã lệch vị trí; pitch qua đầu họ.",
+      "Cuối trận khi cần ghi điểm nhanh — pitch-ahead là 2 điểm nhanh nhất trong bóng rổ."
+    ],
+    "howTo": [
+      {
+        "title": "Ngẩng lên khi bắt bóng",
+        "detail": "Pitch-ahead bắt đầu từ tầm nhìn: kẹp bóng rebound hoặc bắt đường chuyền phát động với mắt đã hướng lên sân. Không thấy thì không chuyền được — cái nhìn đầu tiên luôn là nhìn sâu."
+      },
+      {
+        "title": "Đọc đường chạy của đồng đội",
+        "detail": "Xác định đồng đội nào đang chạy đường nào. Pitch tới người chạy có đường thoáng nhất — thường là đường giữa hoặc cánh đã hơn hậu vệ một bước. Đọc hông của hậu vệ: hông đã xoay thì chuyền."
+      },
+      {
+        "title": "Chuyền vào khoảng trống, không phải vào người",
+        "detail": "Chuyền đón đầu người chạy: đưa bóng ra trước anh ta 3-4 mét vào khoảng trống. Chuyền vào người dễ bị cắt hoặc ép anh ta chậm lại; chuyền vào khoảng trống để anh ta băng qua pha bắt bóng ở tốc độ tối đa."
+      },
+      {
+        "title": "Dùng đường chuyền phù hợp",
+        "detail": "Pitch-ahead thường là chuyền hai tay qua đầu hoặc chuyền nảy dài — căng, mạnh, và dễ bắt. Chuyền bổng lơ lửng dễ bị cướp; pitch phải thắng các hậu vệ đang lùi về tới điểm hẹn."
+      },
+      {
+        "title": "Chọn thời điểm chuyền",
+        "detail": "Chuyền khi người chạy đạt tốc độ tối đa và hậu vệ cuối cùng đã dồn về bóng. Sớm quá thì hàng thủ đọc được; muộn quá thì cửa sổ đóng. Điểm chuyền là khi hậu vệ của người chạy xoay hông."
+      },
+      {
+        "title": "Bắt bóng trong đà chạy",
+        "detail": "Nhiệm vụ của người chạy: băng qua pha bắt bóng không giảm đà, kẹp bóng dưới cằm, và kết thúc. Không bao giờ dừng lại để bắt pitch-ahead — pha bắt bóng dừng lại biến layup thành cú ném bị contest."
+      }
+    ],
+    "tags": [
+      "phản công nhanh",
+      "pitch-ahead",
+      "chuyền bóng",
+      "chuyển đổi",
+      "phát động"
+    ],
+    "title": "Thời điểm chuyền pitch-ahead",
+    "whatIsIt": [
+      "Pitch-ahead là đường chuyền dài lên sân cho đồng đội đang chạy nước rút — được chuyền trước khi hàng thủ về kịp, bắt bóng trong đà chạy để thành layup. Đây là cách ghi điểm nhanh nhất: một đường chuyền có thể đánh bại cả năm cầu thủ phòng thủ.",
+      "Thời điểm là toàn bộ kỹ năng. Chuyền quá sớm thì đồng đội chưa trống; quá muộn thì hàng thủ đã xếp. Người chuyền pitch-ahead giỏi đọc tốc độ của người chạy, hông của hậu vệ, và hình học sân trong một cái nhìn — rồi chuyền tới nơi người chạy SẼ tới."
+    ],
+    "whyItMatters": [
+      "Đội pitch-ahead tốt có thêm 6-10 cú ghi điểm dễ mỗi trận — ranh giới giữa thắng và thua những trận sát nút. Nó còn thay đổi cách đối phương chơi: hàng thủ sợ pitch-ahead không dám lao vào tranh rebound tấn công, nghĩa là bạn có thêm rebound phòng thủ. Một kỹ năng, hai phần thưởng."
+    ]
+  },
+  "whatIsIt": [
+    "The pitch-ahead is the long pass up the floor to a teammate already sprinting — thrown before the defense gets back, caught in stride for a layup. It is the fastest way to score in basketball: one pass can beat all five defenders.",
+    "Timing is the entire skill. Throw it too early and your teammate isn't open; too late and the defense is set. The great pitch-ahead passer reads his runner's speed, the defenders' hips, and the floor geometry in one glance — then throws it to where the runner WILL be."
+  ],
+  "whyItMatters": [
+    "Teams that pitch ahead well get 6-10 extra easy baskets a game — the difference between winning and losing close ones. It also changes how opponents play: defenses that fear the pitch-ahead can't crash the offensive glass, which means more defensive rebounds for you. One skill, two rewards."
+  ],
+  "diagram": {
+    "title": "Pitch-ahead — long pass leads the sprinter into the layup",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 72
+      },
+      {
+        "label": "O2",
+        "x": 24,
+        "y": 50
+      },
+      {
+        "label": "O3",
+        "x": 76,
+        "y": 52
+      },
+      {
+        "label": "O4",
+        "x": 42,
+        "y": 80
+      },
+      {
+        "label": "O5",
+        "x": 60,
+        "y": 80
+      }
+    ],
+    "defense": [
+      {
+        "label": "D1",
+        "x": 48,
+        "y": 62
+      },
+      {
+        "label": "D2",
+        "x": 40,
+        "y": 44
+      },
+      {
+        "label": "D3",
+        "x": 62,
+        "y": 44
+      }
+    ],
+    "ball": "O1",
+    "screens": [],
+    "moves": [
+      {
+        "from": "O2",
+        "to": "rim",
+        "kind": "cut"
+      }
+    ],
+    "passes": [
+      {
+        "from": "O1",
+        "to": "O2"
+      }
+    ],
+    "shots": []
+  }
+}

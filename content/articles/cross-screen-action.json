@@ -1,0 +1,202 @@
+{
+  "id": "cross-screen-action",
+  "slug": "cross-screen-action",
+  "title": "Cross Screen Action",
+  "description": "A baseline cross screen frees a post player or shooter on the opposite block. One of the simplest and most physical actions in half-court offense — seal, catch, score.",
+  "hub": "offense",
+  "subcategory": "half-court-offense",
+  "level": "beginner",
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 5,
+  "dateUpdated": "2026-10-11",
+  "whatIsIt": [
+    "A cross screen is an off-ball screen set across the lane — typically along the baseline — where a screener on one block screens for a teammate on the opposite block. The screened player cuts across the paint to catch the ball in scoring position, usually within 3 meters of the rim.",
+    "It is one of the most physical actions in basketball because everything happens in a crowd: the screener must hold his ground, the cutter must fight through contact, and the passer must deliver into a tight window. Done right, it produces the highest-percentage shot in the half court — a catch within arm's reach of the basket."
+  ],
+  "whyItMatters": [
+    "Modern defenses are built to take away the three-point line and the rim in transition — but a well-timed cross screen still gets a big man the ball at the rim in the half court, which is exactly where defenses are thinnest. It also teaches young players to play through contact and to screen with a purpose. Every level of basketball, from U14 to the pros, uses cross screens because the math never changes: a catch 2 meters from the rim is the best shot in the game."
+  ],
+  "howTo": [
+    {
+      "title": "Align the screener and the target on opposite blocks",
+      "detail": "O4 (screener) sets up on the ball-side block. O5 (the target, usually your best post scorer) starts on the weak-side block. O1 has the ball on the wing, ready to enter the post."
+    },
+    {
+      "title": "The screener crosses the lane",
+      "detail": "O4 cuts across the baseline and sets a solid screen on D5's inside shoulder — the side toward the ball. Wide stance, hands ready, no leaning. The screen must be legal: set, stationary, and vertical."
+    },
+    {
+      "title": "The target cuts shoulder-to-shoulder",
+      "detail": "O5 reads the screen and cuts tight off O4's shoulder across the lane toward the ball-side block. No looping, no drifting — the cut must be physical and direct, sealing D5 behind."
+    },
+    {
+      "title": "Seal and present a target",
+      "detail": "As O5 arrives at the ball-side block, he seals D5 on his back (butt to the defender's thighs) and shows two hands as a target. A good seal is worth more than a good move — it turns a contested catch into an easy one."
+    },
+    {
+      "title": "Enter the ball and score",
+      "detail": "O1 delivers the entry pass to O5's outside shoulder — away from the defender. O5 catches, chins the ball, and scores with a power move: drop step, jump hook, or power finish through contact."
+    }
+  ],
+  "coachingPoints": [
+    "The screen wins the possession. A soft cross screen produces a soft catch — demand contact and a held screen.",
+    "Cutter: go shoulder-to-shoulder. Any daylight between you and the screener is a lane for the defender to slip through.",
+    "Seal with your legs, not your arms. Butt down, wide base, and the defender stays behind you legally.",
+    "Passer: throw to the outside shoulder and put air under it if needed. A post entry does not have to be a bullet.",
+    "Run it for shooters too — a cross screen for a shooter popping to the short corner is the same action with a different finish."
+  ],
+  "commonMistakes": [
+    "Screener leans or moves — fix: feet set before the cutter arrives; drill with a coach watching for moving screens.",
+    "Cutter loops around the screen instead of cutting tight — fix: the cut path should brush the screener's shoulder.",
+    "No seal after the catch — fix: teach the seal as part of the catch; 'catch-seal-chin' is one motion.",
+    "Entry pass thrown to the defender's side — fix: always target the outside shoulder; the passer must see the seal first."
+  ],
+  "gameSituations": [
+    "Feeding the hot post player: when your big has a mismatch, a cross screen gets him the ball at the rim without a full post-up battle from the wing.",
+    "Against fronting defenses: if the post defender fronts, the cross screen times the seal behind him — throw over the top.",
+    "End-of-game situations: a cross screen for your best scorer with 10 seconds left is simple, hard to scout, and produces a high-percentage look."
+  ],
+  "tags": [
+    "cross screen",
+    "post entry",
+    "screening",
+    "half-court offense",
+    "paint scoring"
+  ],
+  "related": [
+    "post-split-action",
+    "stagger-screen",
+    "slice-action",
+    "hammer-action",
+    "post-positioning"
+  ],
+  "diagram": {
+    "title": "Cross screen — O4 crosses the lane to screen for O5, who seals at the ball-side block",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 78,
+        "y": 38
+      },
+      {
+        "label": "O4",
+        "x": 40,
+        "y": 9
+      },
+      {
+        "label": "O5",
+        "x": 62,
+        "y": 9
+      }
+    ],
+    "defense": [
+      {
+        "label": "D1",
+        "x": 78,
+        "y": 33
+      },
+      {
+        "label": "D4",
+        "x": 40,
+        "y": 14
+      },
+      {
+        "label": "D5",
+        "x": 62,
+        "y": 14
+      }
+    ],
+    "ball": "O1",
+    "screens": [
+      {
+        "x": 55,
+        "y": 9
+      }
+    ],
+    "moves": [
+      {
+        "from": "O4",
+        "to": "O5",
+        "kind": "screen-run"
+      },
+      {
+        "from": "O5",
+        "to": "O4",
+        "kind": "cut"
+      }
+    ],
+    "passes": [
+      {
+        "from": "O1",
+        "to": "O5"
+      }
+    ],
+    "shots": []
+  },
+  "vi": {
+    "title": "Miếng cross screen dưới rổ (cross screen action)",
+    "description": "Cross screen dọc baseline giải phóng cầu thủ post hoặc tay ném ở block đối diện. Một trong những miếng đơn giản và giàu va chạm nhất của tấn công half-court — seal, bắt bóng, ghi điểm.",
+    "whatIsIt": [
+      "Cross screen là screen không bóng dựng ngang qua lane — thường dọc baseline — khi người dựng ở block một bên screen cho đồng đội ở block bên kia. Người được screen cắt ngang qua khu vực dưới rổ để bắt bóng ở vị trí ghi điểm, thường trong vòng 3m tính từ rổ.",
+      "Đây là một trong những miếng giàu va chạm nhất của bóng rổ vì mọi thứ diễn ra trong đám đông: người dựng phải trụ vững, người cắt phải vượt qua va chạm, và người chuyền phải đưa bóng vào khe hẹp. Làm đúng, nó tạo ra cú ném có tỷ lệ thành công cao nhất ở half-court — một pha bắt bóng trong tầm tay với của rổ."
+    ],
+    "whyItMatters": [
+      "Hàng thủ hiện đại được xây để bịt đường 3 điểm và bịt rổ trong phản công — nhưng một cross screen đúng lúc vẫn đưa được bigman đến bóng ngay dưới rổ ở half-court, đúng chỗ hàng thủ mỏng nhất. Nó còn dạy cầu thủ trẻ chơi qua va chạm và dựng screen có mục đích. Mọi cấp độ bóng rổ, từ U14 đến chuyên nghiệp, đều dùng cross screen vì bài toán không bao giờ đổi: pha bắt bóng cách rổ 2m là cú ném tốt nhất của trận đấu."
+    ],
+    "howTo": [
+      {
+        "title": "Xếp người dựng và người nhận ở hai block đối diện",
+        "detail": "O4 (người dựng) đứng ở block phía có bóng. O5 (người nhận, thường là tay ghi điểm post tốt nhất) đứng ở block phía đối diện. O1 cầm bóng ở cánh, sẵn sàng đưa bóng vào post."
+      },
+      {
+        "title": "Người dựng cắt ngang qua lane",
+        "detail": "O4 cắt dọc baseline và dựng screen chắc vào vai trong của D5 — phía hướng về bóng. Tư thế rộng, tay sẵn sàng, không nghiêng người. Screen phải hợp lệ: đã trụ, đứng yên và thẳng đứng."
+      },
+      {
+        "title": "Người cắt đi sát vai",
+        "detail": "O5 đọc screen và cắt sát vai O4 ngang qua lane về phía block có bóng. Không vòng cua, không lững thững — đường cắt phải mạnh mẽ và trực diện, seal D5 ở phía sau."
+      },
+      {
+        "title": "Seal và giơ tay xin bóng",
+        "detail": "Khi O5 đến block phía có bóng, anh ta seal D5 sau lưng (mông tì vào đùi hậu vệ) và giơ hai tay làm mục tiêu. Một pha seal tốt đáng giá hơn một động tác đẹp — nó biến pha bắt bóng bị contest thành pha bắt bóng dễ dàng."
+      },
+      {
+        "title": "Đưa bóng vào và ghi điểm",
+        "detail": "O1 chuyền vào cho vai ngoài của O5 — phía xa hậu vệ. O5 bắt bóng, ôm bóng sát cằm, và ghi điểm bằng động tác mạnh: drop step, jump hook, hoặc power finish qua va chạm."
+      }
+    ],
+    "coachingPoints": [
+      "Screen quyết định cả pha bóng. Cross screen mềm cho ra pha bắt bóng mềm — đòi hỏi va chạm và giữ screen.",
+      "Người cắt: đi sát vai người dựng. Có khe hở nào giữa hai người là hậu vệ lẻn qua được.",
+      "Seal bằng chân, không phải bằng tay. Mông hạ thấp, chân trụ rộng, hậu vệ ở sau lưng một cách hợp lệ.",
+      "Người chuyền: chuyền vào vai ngoài, bổng lên nếu cần. Đường chuyền vào post không nhất thiết phải là đạn thẳng.",
+      "Chạy cho tay ném cũng được — cross screen cho tay ném bật ra góc hẹp là cùng một miếng đánh với cách kết thúc khác."
+    ],
+    "commonMistakes": [
+      "Người dựng nghiêng người hoặc di chuyển — sửa: chân trụ vững trước khi người cắt đến; tập với HLV quan sát lỗi di chuyển.",
+      "Người cắt vòng cua quanh screen thay vì cắt sát — sửa: đường cắt phải sượt qua vai người dựng.",
+      "Bắt bóng xong không seal — sửa: dạy seal như một phần của pha bắt bóng; 'bắt-seal-ôm bóng' là một chuyển động.",
+      "Chuyền vào phía có hậu vệ — sửa: luôn nhắm vai ngoài; người chuyền phải nhìn thấy seal trước khi chuyền."
+    ],
+    "gameSituations": [
+      "Tiếp đạn cho big đang nóng: khi big có mismatch, cross screen đưa bóng đến tay anh ta ngay dưới rổ mà không cần vật lộn post-up từ cánh.",
+      "Trước hàng thủ front: hậu vệ post mà front thì cross screen căn thời gian seal sau lưng hắn — chuyền bổng qua đầu.",
+      "Tình huống cuối trận: cross screen cho tay ghi điểm tốt nhất khi còn 10 giây — đơn giản, khó scout, cho cú ném tỷ lệ cao."
+    ],
+    "tags": [
+      "cross screen",
+      "đưa bóng vào post",
+      "screen",
+      "tấn công half-court",
+      "ghi điểm dưới rổ"
+    ]
+  }
+}

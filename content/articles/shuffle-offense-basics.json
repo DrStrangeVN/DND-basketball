@@ -1,0 +1,235 @@
+{
+  "id": "shuffle-offense-basics",
+  "slug": "shuffle-offense-basics",
+  "title": "Shuffle Offense Basics",
+  "description": "The classic continuity offense built on the shuffle cut: a guard-to-guard screen, a basket cut, and endless motion. Simple rules, non-stop movement.",
+  "hub": "offense",
+  "subcategory": "team-offense",
+  "level": "beginner",
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 6,
+  "dateUpdated": "2026-10-11",
+  "whatIsIt": [
+    "The shuffle offense is one of the classic continuity systems of basketball, built around a single signature action: the shuffle cut. A guard screens down for another guard, who cuts to the basket — and the offense keeps flowing from there through a series of screens and cuts that repeat as long as needed.",
+    "The basic alignment is a 1-3-1 or 1-2-2 look: point guard up top, wings on the sides, and posts down low. The ball enters to the wing, the point guard screens for the opposite wing (the shuffle screen), and that wing cuts to the basket (the shuffle cut). From there, options branch: the cutter can clear through, the screener can pop, and the weak side runs its own screening action. It is continuity in its purest form — the same actions, repeating, until the defense cracks."
+  ],
+  "whyItMatters": [
+    "The shuffle offense is the perfect first continuity system for a young team because it teaches everything through one repeating action: screening, cutting, passing, and patience. Players cannot stand still — the system literally does not work unless everyone moves — so it builds the habit of constant motion that every good offense needs. And because the shuffle cut attacks the basket every cycle, it produces layups, not just motion for motion's sake."
+  ],
+  "howTo": [
+    {
+      "title": "Set the basic alignment",
+      "detail": "O1 up top with the ball, O2 and O3 on the wings, O4 and O5 on the blocks. Wide spacing — the shuffle needs room for the cutter to run through."
+    },
+    {
+      "title": "Enter the ball to the wing",
+      "detail": "O1 passes to O2 on the wing. The pass triggers the action — everything in the shuffle starts from the wing entry."
+    },
+    {
+      "title": "The point guard shuffle-screens",
+      "detail": "O1, after passing, cuts across and sets a down screen for O3 (the opposite wing). This is the shuffle screen: guard screening for guard, with the screener's back to the baseline."
+    },
+    {
+      "title": "The wing shuffle-cuts to the basket",
+      "detail": "O3 uses O1's screen and cuts hard to the basket — the shuffle cut. O2 reads: hit O3 for the layup if open, or hold if the defense covers."
+    },
+    {
+      "title": "Run the weak-side action",
+      "detail": "While the shuffle happens ball-side, O4 and O5 run a cross screen or a back screen on the weak side. The ball can be reversed to the weak side for the next cycle — the offense is a loop."
+    },
+    {
+      "title": "Flow into the next cycle",
+      "detail": "If the shuffle cut is covered, O3 clears through, O1 pops back out, the ball reverses, and the shuffle runs from the other side. Same action, mirrored — run it until the defense breaks."
+    }
+  ],
+  "coachingPoints": [
+    "The shuffle cut must be a scoring cut. If O3 jogs it, the defense ignores it — demand a sprint to the rim every cycle.",
+    "Screener: set the shuffle screen like you mean it. A lazy guard screen is the number one reason the shuffle dies.",
+    "Ball reversal is the engine. The offense only continues if the ball swings weak side — teach players to reverse quickly, not to hold.",
+    "Patience wins. The shuffle often scores on the third or fourth cycle, when the defense gets lazy — teach players to trust the loop.",
+    "Everyone screens, everyone cuts. No specialists in the shuffle — guards screen, bigs cut, and the motion never stops."
+  ],
+  "commonMistakes": [
+    "Shuffle screen set with no contact — fix: the screener must actually screen; no screen, no cut, no offense.",
+    "Cutter rounds the screen instead of cutting tight — fix: shoulder-to-shoulder, full speed, every time.",
+    "Ball sticks on the wing after the entry — fix: the entry pass is a trigger, not a resting spot; reverse or attack within two seconds.",
+    "Players memorize the pattern and stop reading — fix: the options (layup, pop, reverse) are reads, not choreography; drill the reads."
+  ],
+  "gameSituations": [
+    "First continuity for a youth team: install the shuffle and 13-year-olds learn screening, cutting, and patience in one system.",
+    "Against lazy defenses: the shuffle punishes teams that ball-watch — by cycle three, someone is always open.",
+    "Controlling tempo: when you want to shorten the game and limit possessions, the shuffle burns clock while still hunting layups."
+  ],
+  "tags": [
+    "shuffle offense",
+    "continuity offense",
+    "shuffle cut",
+    "team offense",
+    "screening"
+  ],
+  "related": [
+    "shuffle-cut",
+    "flex-action",
+    "motion-offense",
+    "cutting-basketball",
+    "ucla-cut"
+  ],
+  "diagram": {
+    "title": "Shuffle offense — O1 screens down for O3, who shuffle-cuts to the basket",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 55
+      },
+      {
+        "label": "O2",
+        "x": 78,
+        "y": 38
+      },
+      {
+        "label": "O3",
+        "x": 22,
+        "y": 38
+      },
+      {
+        "label": "O4",
+        "x": 40,
+        "y": 9
+      },
+      {
+        "label": "O5",
+        "x": 60,
+        "y": 9
+      }
+    ],
+    "defense": [
+      {
+        "label": "D1",
+        "x": 50,
+        "y": 50
+      },
+      {
+        "label": "D2",
+        "x": 78,
+        "y": 33
+      },
+      {
+        "label": "D3",
+        "x": 26,
+        "y": 38
+      },
+      {
+        "label": "D4",
+        "x": 40,
+        "y": 14
+      },
+      {
+        "label": "D5",
+        "x": 60,
+        "y": 14
+      }
+    ],
+    "ball": "O2",
+    "screens": [
+      {
+        "x": 24,
+        "y": 30
+      }
+    ],
+    "moves": [
+      {
+        "from": "O1",
+        "to": "O3",
+        "kind": "screen-run"
+      },
+      {
+        "from": "O3",
+        "to": "rim",
+        "kind": "cut"
+      },
+      {
+        "from": "O1",
+        "to": "O1",
+        "kind": "move"
+      }
+    ],
+    "passes": [
+      {
+        "from": "O2",
+        "to": "O3"
+      }
+    ],
+    "shots": []
+  },
+  "vi": {
+    "title": "Nền tảng shuffle offense (shuffle offense basics)",
+    "description": "Hệ thống continuity kinh điển xây trên shuffle cut: hậu vệ screen cho hậu vệ, cắt vào rổ, và chuyển động không ngừng. Quy tắc đơn giản, di chuyển liên tục.",
+    "whatIsIt": [
+      "Shuffle offense là một trong những hệ thống continuity kinh điển của bóng rổ, xây quanh một miếng đánh đặc trưng duy nhất: shuffle cut. Một hậu vệ dựng screen cho hậu vệ khác, người đó cắt vào rổ — và tấn công tiếp tục chảy từ đó qua chuỗi screen và đường cắt lặp lại bao lâu tùy ý.",
+      "Đội hình cơ bản là 1-3-1 hoặc 1-2-2: hậu vệ dẫn bóng ở trên, các cánh hai bên, post ở dưới. Bóng vào cánh, hậu vệ dẫn bóng screen cho cánh đối diện (shuffle screen), và cánh đó cắt vào rổ (shuffle cut). Từ đó các phương án rẽ nhánh: người cắt có thể dọn xuyên qua, người dựng có thể pop ra, phía yếu chạy screen của riêng mình. Đó là continuity ở dạng thuần khiết nhất — cùng các miếng đánh, lặp lại, đến khi hàng thủ vỡ."
+    ],
+    "whyItMatters": [
+      "Shuffle offense là hệ thống continuity đầu tiên hoàn hảo cho đội trẻ vì nó dạy mọi thứ qua một miếng đánh lặp lại: screen, cắt, chuyền và kiên nhẫn. Cầu thủ không thể đứng yên — hệ thống hoàn toàn không vận hành được nếu mọi người không di chuyển — nên nó xây thói quen di chuyển liên tục mà mọi tấn công tốt đều cần. Và vì shuffle cut tấn công rổ mỗi chu kỳ, nó tạo ra layup, không chỉ di chuyển cho có."
+    ],
+    "howTo": [
+      {
+        "title": "Xếp đội hình cơ bản",
+        "detail": "O1 ở trên cầm bóng, O2 và O3 ở hai cánh, O4 và O5 ở hai block. Giãn rộng — shuffle cần chỗ cho người cắt chạy xuyên qua."
+      },
+      {
+        "title": "Đưa bóng vào cánh",
+        "detail": "O1 chuyền cho O2 ở cánh. Đường chuyền kích hoạt miếng đánh — mọi thứ trong shuffle bắt đầu từ pha đưa bóng vào cánh."
+      },
+      {
+        "title": "Hậu vệ dựng shuffle screen",
+        "detail": "O1 sau khi chuyền, cắt ngang sang và dựng down screen cho O3 (cánh đối diện). Đây là shuffle screen: hậu vệ screen cho hậu vệ, lưng người dựng quay về baseline."
+      },
+      {
+        "title": "Cánh cắt shuffle vào rổ",
+        "detail": "O3 dùng screen của O1 và cắt mạnh vào rổ — shuffle cut. O2 đọc tình huống: chuyền cho O3 lấy layup nếu trống, hoặc giữ nếu hàng thủ đã bít."
+      },
+      {
+        "title": "Chạy miếng phía yếu",
+        "detail": "Trong khi shuffle diễn ra ở phía có bóng, O4 và O5 chạy cross screen hoặc back screen ở phía yếu. Bóng có thể đảo sang phía yếu cho chu kỳ tiếp — tấn công là một vòng lặp."
+      },
+      {
+        "title": "Chảy vào chu kỳ tiếp theo",
+        "detail": "Shuffle cut mà bị bít thì O3 dọn xuyên qua, O1 bật ngược ra, bóng đảo sang, và shuffle chạy từ phía bên kia. Cùng miếng đánh, đối xứng — chạy đến khi hàng thủ vỡ."
+      }
+    ],
+    "coachingPoints": [
+      "Shuffle cut phải là đường cắt ghi điểm. O3 mà chạy lững thững thì hàng thủ phớt lờ — đòi hỏi chạy nước rút vào rổ mỗi chu kỳ.",
+      "Người dựng: dựng shuffle screen cho ra hồn. Screen hời hợt của hậu vệ là lý do số một khiến shuffle chết.",
+      "Đảo bóng là động cơ. Tấn công chỉ tiếp tục khi bóng đảo sang phía yếu — dạy cầu thủ đảo nhanh, không giữ bóng.",
+      "Kiên nhẫn thắng. Shuffle thường ghi điểm ở chu kỳ thứ ba, thứ tư, khi hàng thủ lười — dạy cầu thủ tin vào vòng lặp.",
+      "Ai cũng screen, ai cũng cắt. Không có chuyên gia trong shuffle — hậu vệ screen, big cắt, chuyển động không ngừng."
+    ],
+    "commonMistakes": [
+      "Shuffle screen dựng không va chạm — sửa: người dựng phải thực sự screen; không screen, không cắt, không tấn công.",
+      "Người cắt vòng cua quanh screen thay vì cắt sát — sửa: sát vai, tốc độ tối đa, mọi lần.",
+      "Bóng dính ở cánh sau đường chuyền vào — sửa: đường chuyền vào là cò kích hoạt, không phải chỗ nghỉ; đảo hoặc tấn công trong hai giây.",
+      "Cầu thủ thuộc lòng mẫu hình rồi ngừng đọc tình huống — sửa: các phương án (layup, pop, đảo bóng) là cách đọc, không phải biên đạo; tập các cách đọc."
+    ],
+    "gameSituations": [
+      "Continuity đầu tiên cho đội trẻ: dựng shuffle, trẻ 13 tuổi học screen, cắt và kiên nhẫn trong một hệ thống.",
+      "Trước hàng thủ lười: shuffle trừng phạt đội chỉ biết nhìn bóng — đến chu kỳ thứ ba, luôn có người trống.",
+      "Kiểm soát nhịp độ: khi muốn rút ngắn trận đấu và hạn chế số pha bóng, shuffle đốt đồng hồ mà vẫn săn layup."
+    ],
+    "tags": [
+      "shuffle offense",
+      "continuity offense",
+      "shuffle cut",
+      "tấn công đồng đội",
+      "screen"
+    ]
+  }
+}

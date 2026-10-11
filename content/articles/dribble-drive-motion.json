@@ -1,0 +1,234 @@
+{
+  "id": "dribble-drive-motion",
+  "slug": "dribble-drive-motion",
+  "title": "Dribble Drive Motion Offense",
+  "description": "Four-out spacing, relentless gap attacks, and kick-out threes. The dribble drive motion turns every driving lane into a decision the defense cannot solve.",
+  "hub": "offense",
+  "subcategory": "team-offense",
+  "level": "advanced",
+  "ages": [
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 7,
+  "dateUpdated": "2026-10-11",
+  "whatIsIt": [
+    "Dribble drive motion (DDM) is a team offense built on one simple idea: spread the floor with four perimeter players, attack the gaps with the dribble, and let the defense's rotations create the shots. There are almost no called plays — instead, players follow rules about spacing, cutting, and filling behind the drive.",
+    "The system was popularized by John Calipari's Memphis teams and refined by Vance Walberg, and it changed how the game thinks about spacing. The court is divided into driving gaps; when a guard attacks a gap, teammates relocate on a script — baseline runner fills the corner, weak-side players lift or sink — so every drive ends with either a layup or an open three. It is organized chaos with a mathematical foundation."
+  ],
+  "whyItMatters": [
+    "DDM solves the hardest problem in modern offense: how to get layups and threes — the two most efficient shots — without running complex plays. By attacking gaps instead of running sets, the offense puts constant pressure on help defenders, who must choose between the driver and the shooter on every possession. It also fits the modern player: guards who can attack, wings who can shoot, and bigs who can finish. For teams without a dominant post scorer, it is the most efficient path to good shots."
+  ],
+  "howTo": [
+    {
+      "title": "Set the 4-out alignment",
+      "detail": "Four players on the perimeter (two slots, two wings/corners) and one big near the rim or short corner — the 'rim runner.' Spacing is wide: 4,5 to 6 meters between perimeter players so help has farther to travel."
+    },
+    {
+      "title": "Attack the gap, not the defender",
+      "detail": "The ball handler attacks the space between two defenders — the gap — rather than trying to beat his man one-on-one. One or two hard dribbles into the gap forces the nearest help defender to commit."
+    },
+    {
+      "title": "Teammates relocate on the drive",
+      "detail": "This is the motion part: as the drive starts, the baseline-side teammate runs the baseline to the corner (the 'runner'), weak-side players lift to open passing windows, and the big seals or dives. Everyone moves on the catch of the drive, not after."
+    },
+    {
+      "title": "The driver reads the help",
+      "detail": "Two reads, made at full speed: if no help comes, finish at the rim; if help rotates, kick to the open shooter — usually the corner runner or the lifted wing. The rule is simple: draw two, find the open one."
+    },
+    {
+      "title": "Keep the ball moving — no holding",
+      "detail": "If the drive is stopped, the ball comes out and the next player attacks the next gap immediately. DDM dies when the ball sticks; it lives on second and third drives. The rule: catch, face, attack or move it — within two seconds."
+    },
+    {
+      "title": "The big finishes and cleans up",
+      "detail": "The rim runner's job: seal for the driver, catch lobs, finish dump-offs, and offensive rebound. In DDM the big rarely posts up — he scores off the guard's penetration."
+    }
+  ],
+  "coachingPoints": [
+    "Spacing is the offense. If players creep in, the gaps disappear — enforce the 4,5 to 6 meter spacing every rep until it is habit.",
+    "Attack gaps, not people. Players who try to iso their defender miss the point; the system works because the drive attacks space.",
+    "Relocation must be automatic. The baseline runner and weak-side lifts happen on the first dribble of the drive — late movers get no pass.",
+    "Finish through contact. DDM produces layups in traffic; teach power finishes and the floater as mandatory tools.",
+    "Condition for it. This offense is a track meet — players run constantly. If your team is not in shape, the system exposes it by the third quarter."
+  ],
+  "commonMistakes": [
+    "Standing and watching the drive — fix: every drive triggers movement; if you are standing, you are wrong.",
+    "Driving into a closed gap — fix: teach gap recognition; if two defenders are already in the gap, swing the ball and attack the next one.",
+    "Holding the ball after a stopped drive — fix: two-second rule; the ball must move or attack immediately.",
+    "Big trying to post up instead of rim-running — fix: define the big's role clearly; in DDM he scores off penetration, not post touches."
+  ],
+  "gameSituations": [
+    "No post scorer? No problem: DDM is the system for guard-oriented teams — it manufactures rim pressure without a dominant big.",
+    "Against zone defense: gap attacks split zone seams the same way they split man gaps — drive the seam, kick to the overloaded side.",
+    "Comeback offense: when you need quick efficient shots, DDM's layup-or-three diet is the fastest way to erase a deficit."
+  ],
+  "tags": [
+    "dribble drive",
+    "team offense",
+    "spacing",
+    "drive and kick",
+    "motion offense"
+  ],
+  "related": [
+    "drive-and-kick-offense",
+    "four-out-one-in",
+    "dribble-penetration",
+    "kick-ahead-threes",
+    "five-out-offense"
+  ],
+  "diagram": {
+    "title": "Dribble drive motion — O1 attacks the gap, baseline runner fills the corner, weak side lifts",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 58
+      },
+      {
+        "label": "O2",
+        "x": 20,
+        "y": 38
+      },
+      {
+        "label": "O3",
+        "x": 80,
+        "y": 38
+      },
+      {
+        "label": "O4",
+        "x": 12,
+        "y": 10
+      },
+      {
+        "label": "O5",
+        "x": 45,
+        "y": 12
+      }
+    ],
+    "defense": [
+      {
+        "label": "D1",
+        "x": 50,
+        "y": 52
+      },
+      {
+        "label": "D2",
+        "x": 24,
+        "y": 38
+      },
+      {
+        "label": "D3",
+        "x": 76,
+        "y": 38
+      },
+      {
+        "label": "D4",
+        "x": 16,
+        "y": 14
+      },
+      {
+        "label": "D5",
+        "x": 50,
+        "y": 16
+      }
+    ],
+    "ball": "O1",
+    "screens": [],
+    "moves": [
+      {
+        "from": "O1",
+        "to": "rim",
+        "kind": "dribble"
+      },
+      {
+        "from": "O4",
+        "to": "O4",
+        "kind": "cut"
+      },
+      {
+        "from": "O2",
+        "to": "O2",
+        "kind": "move"
+      },
+      {
+        "from": "O5",
+        "to": "rim",
+        "kind": "cut"
+      }
+    ],
+    "passes": [
+      {
+        "from": "O1",
+        "to": "O4"
+      }
+    ],
+    "shots": []
+  },
+  "vi": {
+    "title": "Tấn công dribble drive motion (dribble drive motion)",
+    "description": "Giãn 4 ngoài, tấn công gap không ngừng, và những cú 3 điểm chuyền ra. Dribble drive motion biến mọi lane đột phá thành bài toán hàng thủ không giải được.",
+    "whatIsIt": [
+      "Dribble drive motion (DDM) là hệ thống tấn công đồng đội xây trên một ý tưởng đơn giản: giãn sân với bốn cầu thủ vòng ngoài, tấn công các gap bằng dẫn bóng, và để rotation của hàng thủ tự tạo ra cú ném. Gần như không có bài gọi sẵn — thay vào đó, cầu thủ tuân theo các quy tắc về giãn đội hình, cắt và lấp vị trí sau pha đột phá.",
+      "Hệ thống được phổ biến bởi các đội Memphis của John Calipari và hoàn thiện bởi Vance Walberg, và nó đã đổi cách bóng rổ nghĩ về spacing. Sân được chia thành các gap đột phá; khi hậu vệ tấn công một gap, đồng đội dạt vị trí theo kịch bản — người chạy baseline lấp góc, phía yếu nhấc lên hoặc hạ xuống — để mọi pha đột phá kết thúc bằng layup hoặc 3 điểm trống. Đó là hỗn loạn có tổ chức trên nền tảng toán học."
+    ],
+    "whyItMatters": [
+      "DDM giải bài toán khó nhất của tấn công hiện đại: làm sao có layup và 3 điểm — hai cú ném hiệu quả nhất — mà không cần chạy bài phức tạp. Bằng cách tấn công gap thay vì chạy bài, tấn công gây áp lực liên tục lên help, buộc họ chọn giữa người đột phá và tay ném mỗi pha bóng. Nó cũng hợp với cầu thủ hiện đại: hậu vệ đột phá được, cánh ném được, big kết thúc được. Với đội không có tay ghi điểm post vượt trội, đây là con đường hiệu quả nhất đến những cú ném tốt."
+    ],
+    "howTo": [
+      {
+        "title": "Xếp đội hình 4-out",
+        "detail": "Bốn cầu thủ ở vòng ngoài (hai slot, hai cánh/góc) và một big gần rổ hoặc góc hẹp — 'rim runner'. Giãn rộng: cách nhau 4,5 đến 6m để help phải di chuyển quãng xa."
+      },
+      {
+        "title": "Tấn công gap, không phải tấn công người",
+        "detail": "Người cầm bóng tấn công khoảng trống giữa hai hậu vệ — gap — thay vì cố vượt mặt người kèm mình. Một hai nhịp dẫn mạnh vào gap ép help gần nhất phải commit."
+      },
+      {
+        "title": "Đồng đội dạt vị trí khi đột phá",
+        "detail": "Đây là phần 'motion': khi pha đột phá bắt đầu, đồng đội phía baseline chạy dọc baseline lấp góc ('runner'), phía yếu nhấc lên mở cửa sổ chuyền, big seal hoặc lao vào. Mọi người di chuyển ngay khi pha đột phá bắt đầu, không phải sau đó."
+      },
+      {
+        "title": "Người đột phá đọc help",
+        "detail": "Hai cách đọc, thực hiện ở tốc độ tối đa: không help đến thì kết thúc ở rổ; help xoay sang thì chuyền ra cho tay ném trống — thường là runner ở góc hoặc cánh đã nhấc lên. Quy tắc đơn giản: kéo hai người, tìm người trống."
+      },
+      {
+        "title": "Giữ bóng di chuyển — không giữ bóng",
+        "detail": "Pha đột phá bị chặn thì bóng ra ngoài và người tiếp theo tấn công gap tiếp theo ngay. DDM chết khi bóng dính; nó sống nhờ pha đột phá thứ hai, thứ ba. Quy tắc: bắt bóng, mặt hướng rổ, tấn công hoặc chuyền đi — trong hai giây."
+      },
+      {
+        "title": "Big kết thúc và dọn dẹp",
+        "detail": "Nhiệm vụ của rim runner: seal cho người đột phá, bắt alley-oop, kết thúc đường chuyền ngắn, và rebound tấn công. Trong DDM big hiếm khi post-up — anh ta ghi điểm từ pha đột phá của hậu vệ."
+      }
+    ],
+    "coachingPoints": [
+      "Giãn đội hình chính là hệ thống tấn công. Cầu thủ mà co vào thì gap biến mất — ép khoảng cách 4,5 đến 6m mọi lần tập đến khi thành thói quen.",
+      "Tấn công gap, không tấn công người. Cầu thủ cố iso người kèm mình là chưa hiểu; hệ thống hiệu quả vì pha đột phá tấn công khoảng trống.",
+      "Dạt vị trí phải tự động. Runner baseline và pha nhấc lên phía yếu diễn ra ở nhịp dẫn đầu của pha đột phá — dạt muộn là không có bóng.",
+      "Kết thúc qua va chạm. DDM tạo ra layup trong đám đông; dạy power finish và floater như công cụ bắt buộc.",
+      "Rèn thể lực cho nó. Hệ thống này là chạy marathon — cầu thủ chạy liên tục. Đội không đủ thể lực thì hệ thống lột trần từ hiệp ba."
+    ],
+    "commonMistakes": [
+      "Đứng xem pha đột phá — sửa: mọi pha đột phá kích hoạt di chuyển; đứng yên là sai.",
+      "Đột phá vào gap đã đóng — sửa: dạy nhận diện gap; hai hậu vệ đã đứng trong gap thì đảo bóng và tấn công gap tiếp theo.",
+      "Giữ bóng sau pha đột phá bị chặn — sửa: luật hai giây; bóng phải di chuyển hoặc tấn công ngay.",
+      "Big cố post-up thay vì rim-run — sửa: định rõ vai trò của big; trong DDM anh ta ghi điểm từ đột phá, không phải từ post."
+    ],
+    "gameSituations": [
+      "Không có tay post? Không sao: DDM là hệ thống cho đội mạnh hậu vệ — nó tạo áp lực rổ mà không cần big vượt trội.",
+      "Trước phòng thủ zone: tấn công gap xé đường nối của zone như xé gap của kèm người — đột phá vào seam, chuyền ra phía đông người.",
+      "Tấn công lội ngược dòng: khi cần những cú ném nhanh và hiệu quả, thực đơn layup-hoặc-3 điểm của DDM là cách nhanh nhất để xóa cách biệt."
+    ],
+    "tags": [
+      "dribble drive",
+      "tấn công đồng đội",
+      "giãn đội hình",
+      "drive and kick",
+      "motion offense"
+    ]
+  }
+}

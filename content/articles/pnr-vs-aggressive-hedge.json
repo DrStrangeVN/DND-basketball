@@ -1,0 +1,196 @@
+{
+  "id": "pnr-vs-aggressive-hedge",
+  "slug": "pnr-vs-aggressive-hedge",
+  "title": "PNR vs Aggressive Hedge",
+  "description": "The hedge comes out high and hard — so split it, slip it, or throw it back. How to turn the defense's most aggressive PNR coverage into your advantage.",
+  "hub": "pick-and-roll",
+  "subcategory": "pick-and-roll",
+  "level": "intermediate",
+  "ages": [
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 6,
+  "dateUpdated": "2026-10-11",
+  "whatIsIt": [
+    "An aggressive hedge is when the screener's defender jumps out high and hard at the ball handler — way beyond the screen — to stop the guard before he turns the corner. It's disruptive by design: it takes away the guard's driving lane, forces him sideways or backward, and buys time for his defender to recover.",
+    "But aggression has a cost. The hedging big leaves the roller completely free, abandons the paint, and commits two defenders to the ball — which means someone is always open. Beating the aggressive hedge is about punishing that commitment: split between the defenders, slip the screen before the hedge arrives, or throw the ball back to the popping big. The harder they hedge, the more they give up."
+  ],
+  "whyItMatters": [
+    "The aggressive hedge is the coverage teams use when they're desperate to stop your pick and roll — it says 'we'd rather give up something else than let your guard turn the corner.' If you have no answer, your PNR dies and your offense stalls. If you DO have an answer, the hedge becomes a gift: it creates 4-on-3s, open rollers, and scrambled rotations. Every serious PNR team needs a hedge-beating package, because the hedge is what good defenses do when the game is on the line."
+  ],
+  "howTo": [
+    {
+      "title": "Recognize the hedge early",
+      "detail": "O1 reads D5's approach: if the big sprints out high past the screen level with his hands up, it's an aggressive hedge. The read must happen BEFORE the hedge arrives — once you're in it, your options shrink."
+    },
+    {
+      "title": "Option 1 — split the hedge",
+      "detail": "If the gap between D5 (hedging) and D1 (recovering) is wide enough, O1 splits it: one hard dribble between the two defenders and attack the rim. The split is the most aggressive answer — it requires a tight handle and no hesitation."
+    },
+    {
+      "title": "Option 2 — the slip",
+      "detail": "If D5 leaves early to hedge, O5 slips the screen — cuts to the rim before contact. O1 hits him with the pocket pass or lob. The earlier D5 hedges, the more open the slip — an over-aggressive hedge is a free layup."
+    },
+    {
+      "title": "Option 3 — throw it back",
+      "detail": "If the hedge traps O1 with two defenders, O1 throws it back to O5, who has popped to space. Now it's 4-on-3 the other way: O5 catches with the defense scrambling, and the next pass finds the open man."
+    },
+    {
+      "title": "Option 4 — drag and re-attack",
+      "detail": "If none of the above is open, O1 drags the ball back out (retreat dribble), lets D5 recover, and re-attacks — often with a re-screen. The hedge spent its energy; the second attack comes against a tired big."
+    }
+  ],
+  "coachingPoints": [
+    "Decide BEFORE the hedge arrives. All four options are reads made on D5's approach — once the hedge is set, you're reacting instead of attacking.",
+    "The split needs courage and a low dribble. It's the highest-reward option and the highest-risk — only take it when the gap is real.",
+    "Slip is the default punishment. Teach the slip first: it's the simplest answer and it makes hedges hesitant, which opens everything else.",
+    "The throwback creates the 4-on-3. When two guard one, someone is open — the popping big must catch ready to make the next play.",
+    "Bigs: condition for the hedge game. Hedging and recovering is exhausting — the team whose bigs are fitter wins the hedge battle in the fourth quarter."
+  ],
+  "commonMistakes": [
+    "Picking up the dribble in the hedge — fix: keep the ball alive; a dead ball against a hedge is a turnover or a desperation heave.",
+    "Forcing the split through a closed gap — fix: the split needs a real lane; if the defenders are connected, take the slip or the throwback.",
+    "Roller slipping with no timing — fix: the slip triggers on D5's early jump; slipping late just runs into the hedge.",
+    "Throwing back to a covered big — fix: O5 must pop to the open space, not stand where the hedge came from; relocate."
+  ],
+  "gameSituations": [
+    "Playoff PNR defense: when opponents hedge everything in a series, the slip-and-throwback package keeps your PNR alive.",
+    "Against elite hedging bigs: some bigs are hedge monsters — the split is how small guards punish them for their aggression.",
+    "Late-game execution: a well-drilled hedge package turns the defense's crunch-time aggression into your game-winner."
+  ],
+  "tags": [
+    "hedge defense",
+    "pick and roll",
+    "counter",
+    "split",
+    "slip"
+  ],
+  "related": [
+    "pnr-vs-hedge",
+    "pnr-vs-blitz",
+    "attacking-the-switch",
+    "slip-screen",
+    "throwback-pass"
+  ],
+  "diagram": {
+    "title": "PNR vs aggressive hedge — D5 hedges high, O1 splits the gap between the two defenders",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 58,
+        "y": 52
+      },
+      {
+        "label": "O5",
+        "x": 56,
+        "y": 42
+      }
+    ],
+    "defense": [
+      {
+        "label": "D1",
+        "x": 52,
+        "y": 52
+      },
+      {
+        "label": "D5",
+        "x": 62,
+        "y": 50
+      }
+    ],
+    "ball": "O1",
+    "screens": [
+      {
+        "x": 58,
+        "y": 47
+      }
+    ],
+    "moves": [
+      {
+        "from": "O5",
+        "to": "O1",
+        "kind": "screen-run"
+      },
+      {
+        "from": "O1",
+        "to": "rim",
+        "kind": "dribble"
+      },
+      {
+        "from": "O5",
+        "to": "rim",
+        "kind": "cut"
+      }
+    ],
+    "passes": [
+      {
+        "from": "O1",
+        "to": "O5"
+      }
+    ],
+    "shots": []
+  },
+  "vi": {
+    "title": "Đánh pick and roll trước hedge quyết liệt (PNR vs aggressive hedge)",
+    "description": "Hedge lao ra cao và mạnh — thì split qua, slip nó, hoặc chuyền ngược về. Cách biến coverage PNR hiếu chiến nhất của hàng thủ thành lợi thế của bạn.",
+    "whatIsIt": [
+      "Aggressive hedge là khi hậu vệ của người dựng screen lao ra cao và mạnh về phía người cầm bóng — vượt xa điểm screen — để chặn hậu vệ trước khi anh ta vòng qua góc. Nó gây rối theo thiết kế: nó bịt lane đột phá của hậu vệ, ép anh ta sang ngang hoặc lùi lại, và mua thời gian cho hậu vệ của anh ta hồi phục.",
+      "Nhưng hiếu chiến có giá. Big hedge bỏ người roll hoàn toàn trống, bỏ khu vực dưới rổ, và dồn hai hậu vệ vào bóng — nghĩa là luôn có người trống. Đánh bại aggressive hedge là trừng phạt sự commit đó: split giữa hai hậu vệ, slip screen trước khi hedge đến, hoặc chuyền ngược về cho big đang pop. Họ hedge càng mạnh, họ càng cho nhiều."
+    ],
+    "whyItMatters": [
+      "Aggressive hedge là coverage các đội dùng khi tuyệt vọng muốn chặn pick and roll của bạn — nó nói rằng 'thà cho thứ khác còn hơn để hậu vệ của mày vòng qua góc.' Không có đáp án thì PNR của bạn chết, tấn công bế tắc. CÓ đáp án thì hedge thành món quà: nó tạo 4-kèm-3, người roll trống, và rotation cuống cuồng. Mọi đội PNR nghiêm túc đều cần gói đánh hedge, vì hedge là thứ hàng thủ giỏi làm khi trận đấu đến hồi quyết định."
+    ],
+    "howTo": [
+      {
+        "title": "Nhận diện hedge sớm",
+        "detail": "O1 đọc cách D5 tiếp cận: big mà chạy nước rút lên cao quá điểm screen, tay giơ lên thì đó là aggressive hedge. Cách đọc phải diễn ra TRƯỚC khi hedge đến — đã lọt vào rồi thì phương án thu hẹp."
+      },
+      {
+        "title": "Phương án 1 — split hedge",
+        "detail": "Khe giữa D5 (hedge) và D1 (hồi phục) mà đủ rộng thì O1 split: một nhịp dẫn mạnh giữa hai hậu vệ, tấn công rổ. Split là đáp án hiếu chiến nhất — cần bóng chắc, tay thấp và không chần chừ."
+      },
+      {
+        "title": "Phương án 2 — slip",
+        "detail": "D5 mà rời sớm để hedge thì O5 slip screen — cắt vào rổ trước va chạm. O1 chuyền pocket pass hoặc lob cho anh ta. D5 hedge càng sớm, slip càng trống — hedge quá hiếu chiến là layup miễn phí."
+      },
+      {
+        "title": "Phương án 3 — chuyền ngược về",
+        "detail": "Hedge bẫy O1 với hai hậu vệ thì O1 chuyền ngược về cho O5, người đã pop ra chỗ trống. Giờ là 4-kèm-3 chiều ngược lại: O5 bắt bóng khi hàng thủ cuống cuồng, đường chuyền tiếp theo tìm người trống."
+      },
+      {
+        "title": "Phương án 4 — kéo ra và tấn công lại",
+        "detail": "Không phương án nào mở thì O1 kéo bóng ra ngoài (retreat dribble), để D5 hồi phục, rồi tấn công lại — thường với re-screen. Hedge đã tốn sức; đợt tấn công thứ hai đến trước một big đã mệt."
+      }
+    ],
+    "coachingPoints": [
+      "Quyết định TRƯỚC khi hedge đến. Cả bốn phương án đều là cách đọc trên đường tiếp cận của D5 — hedge đã dựng xong thì bạn đang phản ứng thay vì tấn công.",
+      "Split cần dũng khí và bóng thấp. Đó là phương án thưởng cao nhất và rủi ro cao nhất — chỉ dùng khi khe thực sự mở.",
+      "Slip là đòn trừng phạt mặc định. Dạy slip trước: nó là đáp án đơn giản nhất, khiến hedge chần chừ, mở ra mọi thứ khác.",
+      "Throwback tạo 4-kèm-3. Hai người kèm một thì luôn có người trống — big đang pop phải bắt bóng sẵn sàng cho pha tiếp theo.",
+      "Bigman: rèn thể lực cho trận hedge. Hedge và hồi phục rất tốn sức — đội nào big khỏe hơn thắng trận hedge ở hiệp bốn."
+    ],
+    "commonMistakes": [
+      "Dừng dẫn bóng trong hedge — sửa: giữ bóng sống; bóng chết trước hedge là turnover hoặc cú ném tuyệt vọng.",
+      "Cố split qua khe đã đóng — sửa: split cần lane thật; hai hậu vệ đã nối nhau thì lấy slip hoặc throwback.",
+      "Người roll slip sai timing — sửa: slip kích hoạt khi D5 nhảy sớm; slip muộn chỉ đâm vào hedge.",
+      "Chuyền ngược về cho big đang bị kèm — sửa: O5 phải pop ra chỗ trống, không đứng yên chỗ hedge vừa đến; dạt vị trí."
+    ],
+    "gameSituations": [
+      "Thủ PNR ở playoff: đối thủ hedge mọi thứ trong series thì gói slip-and-throwback giữ PNR của bạn còn sống.",
+      "Trước big hedge cừ khôi: có big là quái vật hedge — split là cách hậu vệ nhỏ trừng phạt sự hiếu chiến của hắn.",
+      "Xử lý cuối trận: gói đánh hedge tập kỹ biến sự hiếu chiến cuối trận của hàng thủ thành cú ném quyết định của bạn."
+    ],
+    "tags": [
+      "hedge",
+      "pick and roll",
+      "đòn phản đòn",
+      "split",
+      "slip"
+    ]
+  }
+}

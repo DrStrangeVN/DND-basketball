@@ -1,0 +1,175 @@
+{
+  "id": "inside-out-dribble",
+  "slug": "inside-out-dribble",
+  "title": "Inside-Out Dribble",
+  "description": "Freeze the defender with a fake crossover: sell the cross, pull the ball back to the same hand, and drive the open lane.",
+  "hub": "skills",
+  "subcategory": "ball-handling",
+  "level": "intermediate",
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "Guard",
+    "Wing"
+  ],
+  "readTime": 5,
+  "dateUpdated": "2026-10-11",
+  "whatIsIt": [
+    "The inside-out dribble is a change-of-direction move built on deception. You start a crossover — hand sliding to the inside of the ball, ball pushed toward the opposite hand — but instead of completing the transfer, you pull the ball back across your body to the original hand. To the defender, the first half of the move looks exactly like a real crossover.",
+    "What makes it work is body language, not ball speed. Your shoulders, hips, and eyes all commit to the fake direction for a split second. When the defender's weight shifts to stop the fake, you explode the other way with the ball already back in your strong hand, one full step ahead of the recovery."
+  ],
+  "whyItMatters": [
+    "The inside-out is one of the highest-percentage dribble moves in the game because the ball stays in your dominant hand the entire time — there is no vulnerable moment during a hand switch. It works at every level: against pressure, in the pick-and-roll, and on closeouts, and it chains naturally into pull-ups, floaters, and drive-and-kick reads."
+  ],
+  "howTo": [
+    {
+      "title": "Attack with a live dribble",
+      "detail": "Dribble at the defender with your strong hand at a controlled pace. The move works best when the defender is engaged and sliding or backpedaling with you."
+    },
+    {
+      "title": "Slide your hand to the inside of the ball",
+      "detail": "Cup the inside of the ball with your strong hand as if starting a crossover. Sell it with your shoulders and eyes, looking toward the fake direction."
+    },
+    {
+      "title": "Push the ball across your body",
+      "detail": "Push the ball out in front of you toward your opposite hand, letting the defender see the ball travel — but keep your hand connected to it."
+    },
+    {
+      "title": "Pull the ball back to the same hand",
+      "detail": "Before the ball crosses your body, snap your wrist and pull it back to your strong hand in one quick motion. The ball should travel in a tight V shape, staying low."
+    },
+    {
+      "title": "Explode off your opposite foot",
+      "detail": "As you pull the ball back, plant your opposite foot hard and push past the defender's front hip. Your first step must be long and low."
+    },
+    {
+      "title": "Drive with the ball protected",
+      "detail": "Keep the ball on your outside hip, shielded by your body, eyes up reading the help defense as you attack the rim."
+    }
+  ],
+  "coachingPoints": [
+    "The fake must look identical to a real crossover — if your shoulders don't sell it, the defender won't move.",
+    "Keep the ball low through the whole V, around knee height; a high inside-out is a steal waiting to happen.",
+    "Speed of the pull-back matters more than speed of the fake; the snap back is what creates separation.",
+    "Land your first drive step past the defender's lead foot — if you're still even with them, you haven't won the angle."
+  ],
+  "commonMistakes": [
+    "Faking without body commitment — moving only the ball while the shoulders stay square; the defender simply doesn't react. Fix: exaggerate the shoulder dip in drills until it looks real.",
+    "Pulling the ball back too high or too wide — fix: practice the V motion stationary, tracing a tight letter V on the floor.",
+    "Driving into the defender instead of past them — fix: aim your first step at the defender's outside hip, not their chest.",
+    "Starting the move too far from the defender — fix: close to 1.5–2 meters so the fake forces a genuine reaction."
+  ],
+  "gameSituations": [
+    "Attacking a closeout — when the defender runs at you off balance, one inside-out sends them flying past and opens the lane.",
+    "Pick-and-roll reads — if the on-ball defender tries to jump over the screen early, the inside-out snaps you back to your strong side.",
+    "Transition attacks — with a retreating defender in front of you, the move turns a straight-line drive into an open layup."
+  ],
+  "tags": [
+    "ball-handling",
+    "dribble-moves",
+    "change-of-direction"
+  ],
+  "related": [
+    "crossover",
+    "hesitation",
+    "change-of-pace",
+    "attacking-the-closeout",
+    "one-dribble-pull-up"
+  ],
+  "diagram": {
+    "title": "O1 fakes the crossover left, pulls the ball back to the right hand, and drives past D1",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 64,
+        "y": 31
+      }
+    ],
+    "defense": [
+      {
+        "label": "D1",
+        "x": 60,
+        "y": 29
+      }
+    ],
+    "ball": "O1",
+    "screens": [],
+    "moves": [
+      {
+        "from": "O1",
+        "to": "O1",
+        "kind": "dribble"
+      },
+      {
+        "from": "O1",
+        "to": "rim",
+        "kind": "dribble"
+      }
+    ],
+    "passes": [],
+    "shots": []
+  },
+  "vi": {
+    "title": "Kỹ thuật inside-out dribble",
+    "description": "Đóng băng hậu vệ bằng một pha crossover giả: nhử đổi tay, kéo bóng về lại tay cũ rồi đâm thẳng vào khoảng trống.",
+    "whatIsIt": [
+      "Inside-out dribble là động tác đổi hướng dựa trên đánh lừa. Bạn bắt đầu một pha crossover — tay trượt vào mặt trong của bóng, đẩy bóng sang tay đối diện — nhưng thay vì hoàn tất việc đổi tay, bạn kéo bóng ngược lại về tay cũ. Với hậu vệ, nửa đầu động tác trông hệt như một pha crossover thật.",
+      "Điểm làm nên hiệu quả không phải tốc độ bóng mà là ngôn ngữ cơ thể. Vai, hông và mắt của bạn đều hướng về phía giả trong tích tắc. Khi trọng tâm hậu vệ đã dịch chuyển để chặn pha giả, bạn bật ngay sang hướng ngược lại với bóng vẫn ở tay thuận — đi trước họ một bước chân trọn vẹn."
+    ],
+    "whyItMatters": [
+      "Inside-out là một trong những động tác dẫn bóng hiệu quả nhất vì bóng luôn ở tay thuận trong suốt quá trình — không có khoảnh khắc dễ mất bóng nào như khi đổi tay thật. Động tác dùng được ở mọi cấp độ: khi bị áp sát, trong pick and roll, khi tấn công người closeout, và nối rất mượt vào pull-up, floater hay đọc tình huống drive-and-kick."
+    ],
+    "howTo": [
+      {
+        "title": "Tấn công bằng dribble sống",
+        "detail": "Dẫn bóng về phía hậu vệ bằng tay thuận với nhịp độ vừa phải. Động tác phát huy tốt nhất khi hậu vệ đã vào thế phòng thủ và đang lùi theo bạn."
+      },
+      {
+        "title": "Trượt tay vào mặt trong của bóng",
+        "detail": "Ôm mặt trong của bóng bằng tay thuận như thể sắp crossover. Diễn bằng vai và mắt, nhìn về hướng giả."
+      },
+      {
+        "title": "Đẩy bóng sang ngang người",
+        "detail": "Đẩy bóng ra trước mặt về phía tay đối diện, để hậu vệ nhìn thấy bóng di chuyển — nhưng tay vẫn giữ liên lạc với bóng."
+      },
+      {
+        "title": "Kéo bóng về lại tay cũ",
+        "detail": "Trước khi bóng qua hẳn người, búng cổ tay kéo bóng ngược về tay thuận trong một chuyển động nhanh. Bóng phải đi theo hình chữ V hẹp, giữ thấp."
+      },
+      {
+        "title": "Bật mạnh bằng chân đối diện",
+        "detail": "Khi kéo bóng về, dậm mạnh chân đối diện và vượt qua hông trước của hậu vệ. Bước đầu tiên phải dài và thấp."
+      },
+      {
+        "title": "Đâm vào với bóng được che chắn",
+        "detail": "Giữ bóng ở hông ngoài, che bằng cơ thể, mắt nhìn lên đọc hàng phòng thủ hỗ trợ khi tấn công rổ."
+      }
+    ],
+    "coachingPoints": [
+      "Pha giả phải trông y hệt crossover thật — vai không diễn thì hậu vệ không nhúc nhích.",
+      "Giữ bóng thấp suốt hình chữ V, ngang tầm đầu gối; inside-out cao là mồi cho một pha cướp bóng.",
+      "Tốc độ của cú kéo về quan trọng hơn tốc độ pha giả; chính cú giật về mới tạo khoảng trống.",
+      "Bước đâm đầu tiên phải vượt qua chân trước của hậu vệ — nếu còn ngang hàng với họ, bạn chưa thắng được góc."
+    ],
+    "commonMistakes": [
+      "Giả mà không dùng cơ thể — chỉ di chuyển bóng trong khi vai vẫn vuông góc; hậu vệ đơn giản là không phản ứng. Sửa: tập nhấn vai thật lố trong bài tập cho đến khi trông thật.",
+      "Kéo bóng về quá cao hoặc quá rộng — sửa: tập động tác chữ V tại chỗ, vẽ chữ V hẹp trên sàn.",
+      "Đâm thẳng vào người hậu vệ thay vì vượt qua — sửa: bước đầu tiên nhắm vào hông ngoài của hậu vệ, không phải ngực họ.",
+      "Bắt đầu động tác quá xa hậu vệ — sửa: áp sát trong khoảng 1,5–2m để pha giả buộc họ phải phản ứng thật."
+    ],
+    "gameSituations": [
+      "Tấn công người closeout — khi hậu vệ lao ra mất thăng bằng, một pha inside-out khiến họ trôi qua và mở toang đường vào rổ.",
+      "Đọc tình huống pick and roll — nếu hậu vệ cầm bóng cố vượt screen sớm, inside-out giật bạn về lại phía tay thuận.",
+      "Tấn công phản công nhanh — trước một hậu vệ đang lùi, động tác biến pha đâm thẳng thành một cú layup trống trải."
+    ],
+    "tags": [
+      "dẫn bóng",
+      "đánh lừa",
+      "đổi hướng"
+    ]
+  }
+}

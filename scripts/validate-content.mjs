@@ -26,6 +26,10 @@ for (const { file, data: a } of articles) {
   if (!LEVELS.includes(a.level)) err(`${file}: unknown level "${a.level}"`);
   if (!Array.isArray(a.howTo) || a.howTo.length < 3) err(`${file}: howTo needs >=3 steps`);
   if (!Array.isArray(a.coachingPoints) || a.coachingPoints.length < 3) err(`${file}: coachingPoints needs >=3`);
+  for (const k of ["whatIsIt","whyItMatters","gameSituations","tags","related","ages","positions"])
+    if (k in a && !Array.isArray(a[k])) err(`${file}: "${k}" must be an array`);
+  for (const k of ["whatIsIt","whyItMatters","howTo","coachingPoints","commonMistakes","gameSituations","tags"])
+    if (a.vi && k in a.vi && !Array.isArray(a.vi[k])) err(`${file}: vi."${k}" must be an array`);
   if (articleSlugs.has(a.slug)) err(`duplicate article slug: ${a.slug}`);
   articleSlugs.add(a.slug);
   if (a.diagram) {

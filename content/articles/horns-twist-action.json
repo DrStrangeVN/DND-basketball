@@ -1,0 +1,239 @@
+{
+  "id": "horns-twist-action",
+  "slug": "horns-twist-action",
+  "title": "Horns Twist Action",
+  "description": "Horns set with a twist: the ball handler uses a ball screen from the first elbow big, then immediately gets a second screen from the other big — a two-screen sequence that destroys drop coverage and switches.",
+  "hub": "offense",
+  "subcategory": "half-court-offense",
+  "level": "intermediate",
+  "ages": [
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 6,
+  "dateUpdated": "2026-10-11",
+  "whatIsIt": [
+    "Horns is one of the most common half-court alignments in modern basketball: the point guard at the top, a big at each elbow, and a shooter in each corner. The twist action is horns' signature ball-screen sequence — two ball screens in a row for the same ball handler.",
+    "Here is how it works: the first elbow big sets a ball screen and the guard comes off it. Instead of the play ending there, the second elbow big immediately steps into a second screen — the 'twist.' The guard now attacks downhill against a defense that is still resolving the first screen. The timing gap between the two screens is what creates the advantage."
+  ],
+  "whyItMatters": [
+    "Most defenses are drilled to handle one ball screen: they ice it, hedge it, or switch it and recover. Two screens in two seconds breaks those scripts. The second screener arrives while the first screen's coverage is still resolving — the guard gets a clean runway, the roller slips behind a retreating big, or the defense is forced into a late switch that creates a mismatch. Horns twist turns a standard alignment into an advantage machine without adding new plays: the same set, with a second punch."
+  ],
+  "howTo": [
+    {
+      "title": "Set the horns alignment",
+      "detail": "O1 with the ball at the top of the key. O4 and O5 at the elbows, O2 and O3 in the corners. Everyone on time: the action starts when the ball handler picks a side."
+    },
+    {
+      "title": "The ball handler chooses a side and calls the first screen",
+      "detail": "O1 dribbles toward one elbow. O4, the first screener, steps up to set the ball screen with a wide, legal stance. The guard must set up the defender first — take him into the screen shoulder-to-shoulder, not a meter wide of it."
+    },
+    {
+      "title": "Use the first screen and keep the dribble alive",
+      "detail": "O1 comes off O4's screen shoulder-to-shoulder, reading the coverage. Do not pick up the dribble; the second screen only works if the guard stays a live threat."
+    },
+    {
+      "title": "The second big twists into the rescreen",
+      "detail": "As O1 clears the first screen, O5 sprints across to set the second ball screen — the twist. O4 rolls to the rim or pops, dragging his defender and clearing space for the twist."
+    },
+    {
+      "title": "Attack the second screen downhill",
+      "detail": "O1 uses O5's screen with pace. The defense is now reacting to screen two while still recovering from screen one — drive to score, hit the roller, or find the corner if help sinks in."
+    },
+    {
+      "title": "Read the outlets on the roll",
+      "detail": "O5 rolls hard to the rim. O4, the first screener, is now the release valve — pop to the wing or dive to the basket. Corners stay home until help commits, then lift for the kick-out."
+    }
+  ],
+  "coachingPoints": [
+    "The twist must come FAST — within one dribble of clearing the first screen. A late twist lets the defense reset and the whole sequence dies.",
+    "First screener: roll or pop with purpose. A standing first screener clogs the lane for the twist.",
+    "Guards: set up both screens. Walk the defender into the screen; do not drift around it.",
+    "Corners are live options, not decorations. If the low help sinks on the roller, the corner three is the reward.",
+    "Practice the timing 5-on-0 until the second screen arrives without the guard waiting. Waiting kills the advantage."
+  ],
+  "commonMistakes": [
+    "Twist arrives late — the guard waits two dribbles and the defense resets. Fix: drill the sprint timing; the second screener moves the moment the guard's hips clear the first screen.",
+    "First screener stands and watches — fix: mandate a roll or pop every rep; no stationary bigs.",
+    "Guard picks up the dribble after screen one — fix: two-dribble rule between screens; keep the ball alive.",
+    "Both bigs roll to the same spot — fix: first screener rolls short or pops, second screener rolls long; define the lanes."
+  ],
+  "gameSituations": [
+    "Late-clock horns: the twist generates a clean look in under 8 seconds — perfect when the shot clock is dying.",
+    "Against drop coverage: the twist punishes the drop big twice; the guard gets two clean pull-up windows.",
+    "Mismatch hunting: a late switch on the twist leaves a big on the guard — clear out and attack."
+  ],
+  "tags": [
+    "horns",
+    "pick and roll",
+    "ball screen",
+    "half-court offense",
+    "rescreen"
+  ],
+  "related": [
+    "horns-offense",
+    "horns-pick-and-roll",
+    "horns-variations",
+    "double-ball-screen",
+    "rescreen-pnr"
+  ],
+  "diagram": {
+    "title": "Horns twist — first screen from O4, then O5 twists into the second screen",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 55
+      },
+      {
+        "label": "O4",
+        "x": 33,
+        "y": 20
+      },
+      {
+        "label": "O5",
+        "x": 67,
+        "y": 20
+      },
+      {
+        "label": "O2",
+        "x": 10,
+        "y": 7
+      },
+      {
+        "label": "O3",
+        "x": 90,
+        "y": 7
+      }
+    ],
+    "defense": [
+      {
+        "label": "D1",
+        "x": 50,
+        "y": 47
+      },
+      {
+        "label": "D4",
+        "x": 30,
+        "y": 25
+      },
+      {
+        "label": "D5",
+        "x": 70,
+        "y": 25
+      },
+      {
+        "label": "D2",
+        "x": 15,
+        "y": 13
+      },
+      {
+        "label": "D3",
+        "x": 85,
+        "y": 13
+      }
+    ],
+    "ball": "O1",
+    "screens": [
+      {
+        "x": 41,
+        "y": 49
+      }
+    ],
+    "moves": [
+      {
+        "from": "O4",
+        "to": "O1",
+        "kind": "screen-run"
+      },
+      {
+        "from": "O1",
+        "to": "O5",
+        "kind": "dribble"
+      },
+      {
+        "from": "O5",
+        "to": "O1",
+        "kind": "screen-run"
+      },
+      {
+        "from": "O1",
+        "to": "rim",
+        "kind": "dribble"
+      },
+      {
+        "from": "O4",
+        "to": "rim",
+        "kind": "cut"
+      }
+    ],
+    "passes": [],
+    "shots": []
+  },
+  "vi": {
+    "title": "Miếng đánh twist từ đội hình horns (horns twist action)",
+    "description": "Đội hình horns với miếng twist: người dẫn bóng dùng screen từ big ở elbow thứ nhất, rồi ngay lập tức nhận screen thứ hai từ big còn lại — chuỗi hai screen liên tiếp phá vỡ drop coverage và switch.",
+    "whatIsIt": [
+      "Horns là một trong những đội hình half-court phổ biến nhất của bóng rổ hiện đại: hậu vệ dẫn bóng ở đỉnh vòng cung, mỗi big đứng một bên elbow, mỗi tay ném đứng một góc. Twist action là chuỗi screen đặc trưng của horns — hai screen liên tiếp cho cùng một người dẫn bóng.",
+      "Cách vận hành: big ở elbow thứ nhất dựng screen, hậu vệ vòng qua. Thay vì miếng đánh dừng ở đó, big ở elbow còn lại lập tức bước vào dựng screen thứ hai — gọi là twist. Hậu vệ lúc này tấn công xuống rổ trong khi hàng thủ vẫn đang loay hoay với screen thứ nhất. Khoảng trống thời gian giữa hai screen chính là lợi thế."
+    ],
+    "whyItMatters": [
+      "Hầu hết hàng thủ đều được tập để xử lý một screen: ice, hedge hoặc switch rồi hồi vị. Hai screen trong hai giây phá vỡ mọi kịch bản đó. Người dựng screen thứ hai xuất hiện khi coverage của screen thứ nhất còn chưa ổn định — hậu vệ có đường trống, người roll lẻn sau lưng big đang lùi, hoặc hàng thủ buộc phải switch muộn tạo ra mismatch. Horns twist biến một đội hình quen thuộc thành cỗ máy tạo lợi thế mà không cần thêm bài mới: cùng một đội hình, thêm một đòn thứ hai."
+    ],
+    "howTo": [
+      {
+        "title": "Xếp đội hình horns",
+        "detail": "O1 cầm bóng ở đỉnh vòng cung. O4 và O5 đứng hai bên elbow, O2 và O3 ở hai góc. Mọi người đúng vị trí: miếng đánh bắt đầu khi hậu vệ chọn một bên."
+      },
+      {
+        "title": "Hậu vệ chọn bên và gọi screen đầu",
+        "detail": "O1 dẫn về phía một elbow. O4, người dựng screen đầu, bước lên dựng screen với tư thế rộng, hợp lệ. Hậu vệ phải cài hậu vệ đối phương trước — đưa vai kề vai vào screen, đừng vòng cách xa cả mét."
+      },
+      {
+        "title": "Vòng qua screen đầu, giữ bóng sống",
+        "detail": "O1 vòng qua screen của O4 sát vai, đọc coverage. Tuyệt đối không dừng dẫn bóng; screen thứ hai chỉ có tác dụng khi hậu vệ vẫn là mối đe dọa."
+      },
+      {
+        "title": "Big thứ hai twist vào dựng lại screen",
+        "detail": "Ngay khi O1 qua khỏi screen đầu, O5 lao sang dựng screen thứ hai — cú twist. O4 roll xuống rổ hoặc pop ra, kéo theo hậu vệ và dọn đường cho twist."
+      },
+      {
+        "title": "Tấn công screen thứ hai xuống rổ",
+        "detail": "O1 dùng screen của O5 với tốc độ. Hàng thủ giờ phải xử lý screen hai trong khi còn chưa hồi phục từ screen một — đột phá ghi điểm, chuyền cho người roll, hoặc ra góc nếu help sập vào."
+      },
+      {
+        "title": "Đọc các đường ra khi roll",
+        "detail": "O5 roll mạnh xuống rổ. O4, người dựng screen đầu, giờ là van xả — pop ra cánh hoặc lao vào rổ. Hai góc đứng yên cho đến khi help commit, rồi bật lên nhận đường chuyền ngược ra."
+      }
+    ],
+    "coachingPoints": [
+      "Twist phải đến NHANH — trong một nhịp dẫn sau khi qua screen đầu. Twist muộn là hàng thủ kịp reset, cả chuỗi chết.",
+      "Người dựng screen đầu: roll hoặc pop dứt khoát. Đứng yên xem là tự bít đường của twist.",
+      "Hậu vệ: cài cả hai screen. Dắt hậu vệ đối phương vào screen, đừng lượn vòng tránh nó.",
+      "Hai góc là phương án sống, không phải vật trang trí. Help sập vào người roll là góc có cú ném 3 điểm thưởng.",
+      "Tập timing 5-không đến khi screen thứ hai đến mà hậu vệ không phải chờ. Chờ là mất lợi thế."
+    ],
+    "commonMistakes": [
+      "Twist đến muộn — hậu vệ chờ hai nhịp dẫn, hàng thủ reset. Sửa: tập timing chạy; người dựng screen hai di chuyển ngay khi hông hậu vệ qua khỏi screen một.",
+      "Người dựng screen đầu đứng xem — sửa: bắt buộc roll hoặc pop mọi lần tập; không big nào được đứng yên.",
+      "Hậu vệ dừng dẫn bóng sau screen một — sửa: quy tắc hai nhịp dẫn giữa hai screen; giữ bóng sống.",
+      "Cả hai big roll vào cùng một chỗ — sửa: người đầu roll ngắn hoặc pop, người sau roll dài; chia rõ lane."
+    ],
+    "gameSituations": [
+      "Horns cuối đồng hồ: twist tạo cú ném sạch trong chưa đầy 8 giây — hoàn hảo khi đồng hồ 24 giây sắp hết.",
+      "Trước drop coverage: twist trừng phạt big drop hai lần; hậu vệ có hai cửa sổ pull-up thoáng.",
+      "Săn mismatch: switch muộn ở twist để big kèm hậu vệ — dọn sân và tấn công."
+    ],
+    "tags": [
+      "horns",
+      "pick and roll",
+      "screen",
+      "tấn công half-court",
+      "chiến thuật"
+    ]
+  }
+}

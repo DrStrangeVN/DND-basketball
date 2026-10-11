@@ -1,0 +1,226 @@
+{
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "coachingPoints": [
+    "Spacing is the press break — a spread floor has no traps, only long rotations the press cannot make.",
+    "Face up on every catch: you cannot beat what you cannot see.",
+    "The pass beats the press; the dribble feeds it — advance the ball with passes.",
+    "Someone must always live in the middle — the middle flash is non-negotiable.",
+    "Composure is a skill: drill press breaks with noise and chaos so the game feels slow."
+  ],
+  "commonMistakes": [
+    "Dribbling into the trap — fix: the rule is two dribbles max against pressure; the third dribble is a trap.",
+    "Catching with the back to the defense — fix: front pivot on every catch; no catch-and-face means no press break.",
+    "Bunching up near the ball — fix: spacing spots are assigned; nobody stands within 4 meters of the ball handler.",
+    "Panicking into weak passes — fix: chin the ball and look middle first; the press feeds on rushed decisions."
+  ],
+  "dateUpdated": "2026-10-11",
+  "description": "The universal rules for beating any press: spacing, the middle flash, passing over the top, and never dribbling into traps.",
+  "gameSituations": [
+    "First press you face this season — principles work against looks you've never scouted.",
+    "After opponent made baskets — the press sets up; your spacing and outlets must be ready.",
+    "Late-game when the opponent presses to come back — composure and the middle flash protect the lead.",
+    "Youth tournaments — every team presses; the team with principles wins the tournament."
+  ],
+  "howTo": [
+    {
+      "title": "Spread the floor",
+      "detail": "Against any press, start with great spacing: two deep, one middle, two up. A bunched team is a trapped team — the press feeds on players standing next to each other."
+    },
+    {
+      "title": "Catch facing the basket",
+      "detail": "Every catch against pressure must be a front pivot to face up. Catching with your back to the press is how traps happen — see the floor, see the trap coming, and the press loses its surprise."
+    },
+    {
+      "title": "Pass, don't dribble, through pressure",
+      "detail": "The ball moves faster by pass than by dribble. Advance the ball with short, sharp passes — the press is built to trap dribblers, not to intercept a moving ball."
+    },
+    {
+      "title": "Flash to the middle",
+      "detail": "Always have a player flashing to the middle of the floor — the press's soft spot. The middle flash is the release valve: when trapped, the ball goes middle, and the press breaks."
+    },
+    {
+      "title": "Throw over the top",
+      "detail": "When the press overplays, the long pass over the top beats all of it. Teach your players to look deep first — one accurate long pass turns a press into a layup."
+    },
+    {
+      "title": "Stay calm and strong with the ball",
+      "detail": "Chin the ball on every catch — elbows out, ball under the chin. The press wants panic and weak passes; strong, calm ball-handling starves it."
+    }
+  ],
+  "hub": "transition",
+  "id": "press-break-principles",
+  "level": "beginner",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 6,
+  "related": [
+    "full-court-press",
+    "outlet-passing",
+    "transition-offense",
+    "transition-communication",
+    "rebound-outlet-connection"
+  ],
+  "slug": "press-break-principles",
+  "subcategory": "transition",
+  "tags": [
+    "press break",
+    "transition",
+    "fundamentals",
+    "ball handling",
+    "composure"
+  ],
+  "title": "Press Break Principles",
+  "vi": {
+    "coachingPoints": [
+      "Giãn đội hình chính là phá press — mặt sân dàn trải không có bẫy, chỉ có những rotation dài mà press không làm nổi.",
+      "Xoay mặt lên trong mọi pha bắt bóng: không thấy thì không phá được.",
+      "Đường chuyền thắng press; pha dẫn bóng nuôi press — đưa bóng lên bằng chuyền.",
+      "Luôn phải có người sống ở giữa sân — người di chuyển vào giữa là không thương lượng.",
+      "Bình tĩnh là một kỹ năng: tập phá press trong ồn ào và hỗn loạn để trận đấu thật thấy chậm lại."
+    ],
+    "commonMistakes": [
+      "Dẫn bóng vào bẫy — sửa: quy tắc là tối đa hai pha dẫn bóng trước áp lực; pha dẫn thứ ba là bẫy.",
+      "Bắt bóng quay lưng về hàng thủ — sửa: xoay mặt lên trong mọi pha bắt bóng; không xoay mặt là không phá được press.",
+      "Co cụm gần bóng — sửa: vị trí giãn đội hình được phân công; không ai đứng trong 4 mét quanh người dẫn bóng.",
+      "Hoảng loạn chuyền yếu — sửa: kẹp bóng dưới cằm và nhìn giữa trước; press sống nhờ những quyết định vội vàng."
+    ],
+    "description": "Những quy tắc phổ quát để phá mọi loại press: giãn đội hình, di chuyển vào giữa, chuyền bổng qua đầu, và không bao giờ dẫn bóng vào bẫy.",
+    "gameSituations": [
+      "Press đầu tiên bạn gặp mùa này — nguyên tắc hiệu quả trước những kiểu press chưa từng do thám.",
+      "Sau pha ghi điểm của đối phương — press đã xếp xong; giãn đội hình và người thoát của bạn phải sẵn sàng.",
+      "Cuối trận khi đối phương press để bám đuổi — sự bình tĩnh và người ở giữa bảo vệ cách biệt.",
+      "Giải trẻ — đội nào cũng press; đội có nguyên tắc thắng giải."
+    ],
+    "howTo": [
+      {
+        "title": "Giãn đội hình",
+        "detail": "Trước mọi press, bắt đầu với giãn đội hình tốt: hai người sâu, một người giữa, hai người trên. Đội co cụm là đội bị bẫy — press sống nhờ các cầu thủ đứng sát nhau."
+      },
+      {
+        "title": "Bắt bóng xoay mặt về rổ",
+        "detail": "Mọi pha bắt bóng trước áp lực đều phải xoay mặt lên. Bắt bóng quay lưng về press là cách bẫy hình thành — nhìn thấy sân, thấy bẫy tới, press mất yếu tố bất ngờ."
+      },
+      {
+        "title": "Chuyền, không dẫn, qua áp lực",
+        "detail": "Bóng di chuyển bằng chuyền nhanh hơn bằng dẫn. Đưa bóng lên bằng những đường chuyền ngắn, sắc — press được xây để bẫy người dẫn bóng, không phải để cắt bóng đang di chuyển."
+      },
+      {
+        "title": "Di chuyển vào giữa sân",
+        "detail": "Luôn có một cầu thủ di chuyển vào giữa sân — điểm mềm của press. Người ở giữa là van xả: khi bị bẫy, bóng ra giữa, press vỡ."
+      },
+      {
+        "title": "Chuyền bổng qua đầu",
+        "detail": "Khi press dâng cao, đường chuyền dài qua đầu đánh bại tất cả. Dạy cầu thủ nhìn sâu trước — một đường chuyền dài chính xác biến press thành layup."
+      },
+      {
+        "title": "Bình tĩnh và giữ bóng chắc",
+        "detail": "Kẹp bóng dưới cằm trong mọi pha bắt bóng — khuỷu tay mở, bóng dưới cằm. Press muốn sự hoảng loạn và những đường chuyền yếu; xử lý bóng chắc chắn, bình tĩnh bỏ đói nó."
+      }
+    ],
+    "tags": [
+      "phá press",
+      "chuyển đổi",
+      "cơ bản",
+      "dẫn bóng",
+      "bình tĩnh"
+    ],
+    "title": "Nguyên tắc phá press",
+    "whatIsIt": [
+      "Nguyên tắc phá press là những quy tắc hiệu quả trước mọi loại press — 1-2-2, kim cương, run-and-jump, tất cả. Giãn đội hình thắng áp lực: khi cầu thủ của bạn dàn trải và bóng di chuyển bằng chuyền, không press nào bao quát được cả sân.",
+      "Ý tưởng cốt lõi rất đơn giản: press muốn bạn dẫn bóng vào bẫy và hoảng loạn. Các nguyên tắc dạy điều ngược lại — bắt bóng xoay mặt lên, chuyền trước khi bẫy tới, và luôn có người thoát ở giữa. Đội có nguyên tắc phá được những press chưa từng gặp."
+    ],
+    "whyItMatters": [
+      "Đội nào cũng sẽ gặp press — ở giải trẻ, ở trận derby, ở hiệp 4 trận đấu sát nút. Đội không có nguyên tắc phá press sẽ mất bóng dồn dập và thua những trận đáng ra thắng. Năm quy tắc này là bảo hiểm rẻ nhất trong bóng rổ: học một lần, dùng cả đời."
+    ]
+  },
+  "whatIsIt": [
+    "Press break principles are the rules that work against every press — 1-2-2, diamond, run-and-jump, all of them. Spacing beats pressure: when your players are spread and the ball moves by passing, no press can cover the whole floor.",
+    "The core idea is simple: the press wants you to dribble into traps and panic. The principles teach the opposite — catch facing up, pass before the trap arrives, and always have a middle outlet. A team with principles beats presses it has never even seen."
+  ],
+  "whyItMatters": [
+    "Every team will face a press — in youth tournaments, in rivalry games, in the fourth quarter of a close one. Teams without press-break principles turn the ball over in bunches and lose games they should win. These five rules are the cheapest insurance in basketball: learn them once, use them forever."
+  ],
+  "diagram": {
+    "title": "Press break shape — spaced floor with a middle flash outlet",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 56,
+        "y": 88
+      },
+      {
+        "label": "O2",
+        "x": 28,
+        "y": 80
+      },
+      {
+        "label": "O3",
+        "x": 78,
+        "y": 78
+      },
+      {
+        "label": "O4",
+        "x": 50,
+        "y": 62
+      },
+      {
+        "label": "O5",
+        "x": 62,
+        "y": 48
+      }
+    ],
+    "defense": [
+      {
+        "label": "D1",
+        "x": 54,
+        "y": 86
+      },
+      {
+        "label": "D2",
+        "x": 34,
+        "y": 72
+      },
+      {
+        "label": "D3",
+        "x": 70,
+        "y": 70
+      },
+      {
+        "label": "D4",
+        "x": 36,
+        "y": 46
+      },
+      {
+        "label": "D5",
+        "x": 62,
+        "y": 44
+      }
+    ],
+    "ball": "O1",
+    "screens": [],
+    "moves": [
+      {
+        "from": "O4",
+        "to": "O1",
+        "kind": "move"
+      }
+    ],
+    "passes": [
+      {
+        "from": "O1",
+        "to": "O4"
+      },
+      {
+        "from": "O4",
+        "to": "O5"
+      }
+    ],
+    "shots": []
+  }
+}

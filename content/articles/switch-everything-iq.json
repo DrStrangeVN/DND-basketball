@@ -1,0 +1,202 @@
+{
+  "id": "switch-everything-iq",
+  "slug": "switch-everything-iq",
+  "hub": "basketball-iq",
+  "subcategory": "basketball-iq",
+  "level": "intermediate",
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 6,
+  "dateUpdated": "2026-10-11",
+  "title": "Switch-Everything IQ",
+  "description": "Thinking inside a switching defense: when to switch, how to communicate it, and how to survive the mismatches the switch creates.",
+  "tags": [
+    "switch defense",
+    "pick and roll",
+    "basketball iq",
+    "mismatches",
+    "communication"
+  ],
+  "whatIsIt": [
+    "Switch-everything is a defensive system where defenders exchange assignments on every screen instead of fighting through or going under. Its promise is simplicity: no confusion, no open rollers, no miscommunication on ball screens. Its price is mismatches — and switch IQ is knowing how to pay that price cheaply.",
+    "Playing in a switch means thinking one action ahead. Before the screen even arrives, both defenders must agree: are we switching? Who takes the ball? Who takes the roll? The switch itself takes one second; the communication and the mismatch survival that follow decide whether the system works or bleeds points."
+  ],
+  "whyItMatters": [
+    "Switching has taken over modern basketball because it kills the two most dangerous actions — the open three off a screen and the free roll to the rim — with one simple rule. But a switch without IQ is just a delayed mismatch: bigs stranded on quick guards, smalls posted up by bigs. Teams that switch smartly erase actions; teams that switch blindly donate mismatches."
+  ],
+  "howTo": [
+    {
+      "title": "Call the switch early and loud",
+      "detail": "The switch must be called before the screen makes contact — 'switch!' from the defender being screened, confirmed by the screener's defender. A late switch is a broken switch: the ball handler turns the corner and the roller is already gone."
+    },
+    {
+      "title": "Switch up, not down",
+      "detail": "The golden rule: the bigger defender takes the more dangerous threat. On a guard-big screen, the big should take the ball handler when possible, keeping the small on the less dangerous roller. Switching 'down' (small onto the ball, big onto the roller) is fine — switching 'up' the wrong way creates the mismatch offenses hunt."
+    },
+    {
+      "title": "The new on-ball defender: contain, don't gamble",
+      "detail": "After the switch, your job is to keep the ball in front for 3-4 seconds until help or the clock forces a tough shot. No reaching, no gambling for steals — a switched big containing a guard with high hands and short steps is a win for the defense."
+    },
+    {
+      "title": "Fight the post-up before it starts",
+      "detail": "When you get switched onto a bigger player, front the post or three-quarter them before the catch — never let them catch deep with a live dribble behind them. Make the entry pass difficult and the catch uncomfortable; a post catch at 4m is a problem, at 2m it is a disaster."
+    },
+    {
+      "title": "Scram when the mismatch is fatal",
+      "detail": "Not every switch must be kept. If the mismatch is truly unguardable — a 1,9m guard on a 2,1m post threat — scram out of it: double the post on the catch, rotate behind, and live with the skip pass. Smart switching defenses know when to un-switch."
+    },
+    {
+      "title": "Communicate the second action too",
+      "detail": "Offenses attack switches with re-screens and slips designed to create a second mismatch. The switch call is not one-and-done — keep talking through every subsequent screen until the shot goes up."
+    }
+  ],
+  "coachingPoints": [
+    "Switching is a communication system first and a defensive technique second — silent switches always break.",
+    "Contain the mismatch for one action; you do not need to win it, just survive it until help arrives.",
+    "Drill the 'scram' rotation — knowing when to abandon a switch is as important as knowing when to take one.",
+    "Bigs must practice guarding guards in space: short choppy steps, high hands, no lunging.",
+    "Guards must practice fronting the post: the post-up is lost before the catch, never after."
+  ],
+  "commonMistakes": [
+    "Calling the switch too late — fix: the call happens when the screener starts moving, not when contact is made; drill the early call.",
+    "The switched big lunging for a steal — fix: contain with short steps; a lunge turns a survivable mismatch into a blow-by layup.",
+    "Letting the big catch deep in the post — fix: front or three-quarter before the catch; once they catch at 2m with a live dribble, the possession is lost.",
+    "Going silent after the first switch — fix: the re-screen is the real attack; keep calling through every screen in the possession."
+  ],
+  "gameSituations": [
+    "Defending a high pick-and-roll late in the clock — switch to take away both the three and the roll, then contain.",
+    "Against a team hunting mismatches with re-screens — switch the first, scram the second, rotate behind the double.",
+    "Small-ball lineups — switching everything is natural; drill the gang-rebounding needed since nobody is in traditional box-out spots.",
+    "End of game protecting a lead — switch to kill their pet action, and live with contested twos over the mismatch."
+  ],
+  "related": [
+    "switch-defense",
+    "pnr-vs-switch",
+    "attacking-the-switch",
+    "ice-defense",
+    "ball-screen-defense"
+  ],
+  "diagram": {
+    "title": "High ball screen — defenders switch: big takes the ball handler, guard takes the roller",
+    "ball": "O1",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 55
+      },
+      {
+        "label": "O5",
+        "x": 56,
+        "y": 46
+      },
+      {
+        "label": "O2",
+        "x": 30,
+        "y": 40
+      }
+    ],
+    "defense": [
+      {
+        "label": "D1",
+        "x": 50,
+        "y": 50
+      },
+      {
+        "label": "D5",
+        "x": 60,
+        "y": 42
+      }
+    ],
+    "passes": [],
+    "moves": [
+      {
+        "from": "D5",
+        "kind": "move",
+        "to": "D1"
+      },
+      {
+        "from": "D1",
+        "kind": "move",
+        "to": "D5"
+      },
+      {
+        "from": "O5",
+        "kind": "cut",
+        "to": "rim"
+      }
+    ],
+    "screens": [],
+    "shots": []
+  },
+  "vi": {
+    "title": "IQ phòng thủ đổi người toàn diện (switch everything)",
+    "description": "Tư duy trong hàng thủ switch everything: khi nào đổi người, giao tiếp thế nào, và cách sống sót qua những pha lệch kèo mà switch tạo ra.",
+    "tags": [
+      "phòng thủ switch",
+      "pick and roll",
+      "nhãn quan chiến thuật",
+      "lệch kèo",
+      "giao tiếp"
+    ],
+    "whatIsIt": [
+      "Switch everything là hệ thống phòng thủ mà các hậu vệ đổi người kèm trên mọi pha screen thay vì lách qua hay chui dưới. Lời hứa của nó là sự đơn giản: không nhầm lẫn, không để roll man trống, không giao tiếp sai trên screen bóng. Cái giá của nó là lệch kèo — và IQ switch là biết cách trả cái giá đó thật rẻ.",
+      "Chơi trong hệ thống switch nghĩa là nghĩ trước một nhịp. Trước khi screen kịp tới, cả hai hậu vệ phải thống nhất: có switch không? Ai kèm bóng? Ai kèm người roll? Bản thân pha switch chỉ mất một giây; phần giao tiếp và cách sống sót qua lệch kèo sau đó mới quyết định hệ thống có hiệu quả hay chảy máu điểm."
+    ],
+    "whyItMatters": [
+      "Switch đã thống trị bóng rổ hiện đại vì nó giết hai pha đánh nguy hiểm nhất — cú ném 3 điểm trống sau screen và pha roll tự do xuống rổ — bằng một luật đơn giản. Nhưng switch mà không có IQ chỉ là pha lệch kèo bị trì hoãn: big bị kẹt với hậu vệ nhanh, cầu thủ nhỏ bị đánh post bởi big. Đội switch khôn ngoan xóa sổ các bài đánh; đội switch mù quáng tặng lệch kèo."
+    ],
+    "howTo": [
+      {
+        "title": "Hô switch sớm và to",
+        "detail": "Pha switch phải được hô trước khi screen chạm người — 'switch!' từ hậu vệ bị screen, được xác nhận bởi hậu vệ kèm người đặt screen. Switch muộn là switch hỏng: người dẫn bóng đã rẽ qua góc và roll man đã biến mất."
+      },
+      {
+        "title": "Switch lên, không switch xuống",
+        "detail": "Luật vàng: hậu vệ to hơn kèm mối đe dọa nguy hiểm hơn. Với screen giữa hậu vệ và big, big nên kèm người dẫn bóng khi có thể, để cầu thủ nhỏ kèm roll man ít nguy hiểm hơn. Switch 'xuống' (nhỏ kèm bóng, big kèm roll) vẫn ổn — switch 'lên' sai cách tạo ra đúng pha lệch kèo mà đối thủ săn lùng."
+      },
+      {
+        "title": "Người kèm bóng mới: bao vây, đừng mạo hiểm",
+        "detail": "Sau switch, nhiệm vụ của bạn là giữ bóng ở phía trước trong 3-4 giây cho đến khi hỗ trợ tới hoặc đồng hồ ép đối thủ ném khó. Không với tay, không mạo hiểm cướp bóng — một big sau switch bao vây được hậu vệ với tay cao và bước ngắn đã là thắng lợi cho hàng thủ."
+      },
+      {
+        "title": "Chặn pha đánh post trước khi nó bắt đầu",
+        "detail": "Khi bạn bị switch sang kèm cầu thủ to hơn, đón đầu post hoặc đứng ba phần tư trước khi họ bắt bóng — đừng bao giờ để họ bắt bóng sâu khi còn bóng sống sau lưng. Làm khó đường chuyền vào và khiến pha bắt bóng khó chịu; bắt bóng ở 4m là vấn đề, ở 2m là thảm họa."
+      },
+      {
+        "title": "Thoát switch khi lệch kèo quá nặng",
+        "detail": "Không phải pha switch nào cũng phải giữ. Nếu lệch kèo thực sự không kèm nổi — hậu vệ 1,9m kèm big 2,1m chuyên đánh post — hãy thoát ra: double team ngay khi họ bắt bóng, xoay bọc phía sau, và chấp nhận đường chuyền đảo cánh. Hàng thủ switch khôn ngoan biết khi nào nên hủy switch."
+      },
+      {
+        "title": "Giao tiếp cả pha đánh thứ hai",
+        "detail": "Đối thủ tấn công switch bằng re-screen và slip để tạo lệch kèo thứ hai. Tiếng hô switch không phải hô một lần là xong — tiếp tục nói chuyện qua mọi screen tiếp theo cho đến khi bóng lên rổ."
+      }
+    ],
+    "coachingPoints": [
+      "Switch trước hết là hệ thống giao tiếp, sau mới là kỹ thuật phòng thủ — switch trong im lặng luôn vỡ.",
+      "Bao vây pha lệch kèo trong một nhịp đánh; bạn không cần thắng nó, chỉ cần sống sót đến khi hỗ trợ tới.",
+      "Tập pha xoay 'thoát switch' — biết khi nào bỏ switch quan trọng không kém biết khi nào nhận switch.",
+      "Big phải tập kèm hậu vệ ngoài vòng cung: bước ngắn liên tục, tay cao, không lao người.",
+      "Hậu vệ nhỏ phải tập đón đầu post: pha đánh post thua từ trước khi bắt bóng, không phải sau."
+    ],
+    "commonMistakes": [
+      "Hô switch quá muộn — sửa: tiếng hô vang lên khi người đặt screen bắt đầu di chuyển, không phải khi va chạm xảy ra; tập hô sớm.",
+      "Big sau switch lao người cướp bóng — sửa: bao vây bằng bước ngắn; một pha lao người biến lệch kèo sống sót được thành layup bị vượt qua.",
+      "Để big đối thủ bắt bóng sâu trong post — sửa: đón đầu hoặc đứng ba phần tư trước khi bắt bóng; một khi họ bắt bóng ở 2m với bóng sống, đợt bóng coi như mất.",
+      "Im lặng sau pha switch đầu tiên — sửa: re-screen mới là đòn đánh thực sự; tiếp tục hô qua mọi screen trong đợt bóng."
+    ],
+    "gameSituations": [
+      "Phòng thủ pick and roll cao cuối đồng hồ — switch để chặn cả ném 3 điểm lẫn pha roll, rồi bao vây.",
+      "Gặp đội săn lệch kèo bằng re-screen — switch pha đầu, thoát pha hai, xoay bọc sau pha double team.",
+      "Đội hình small-ball — switch everything rất tự nhiên; tập tranh rebound tập thể vì không ai ở vị trí box out truyền thống.",
+      "Cuối trận bảo vệ cách biệt — switch để giết bài đánh tủ của họ, và chấp nhận những cú ném 2 điểm khó trên lệch kèo."
+    ]
+  }
+}

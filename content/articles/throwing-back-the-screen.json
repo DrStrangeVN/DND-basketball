@@ -1,0 +1,216 @@
+{
+  "id": "throwing-back-the-screen",
+  "slug": "throwing-back-the-screen",
+  "title": "Throwing Back the Screen",
+  "description": "When the defense traps your ball screen, throw it back to the screener — and watch a 4-on-3 unfold. The simplest answer to the most aggressive coverage.",
+  "hub": "pick-and-roll",
+  "subcategory": "pick-and-roll",
+  "level": "beginner",
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 5,
+  "dateUpdated": "2026-10-11",
+  "whatIsIt": [
+    "Throwing back the screen means passing the ball back to the screener when the defense sends two defenders at the ball handler — on a trap, blitz, or hard hedge. Instead of fighting through the trap, the guard throws over or around it to the screener, who has popped or slipped into the open space the trap vacated.",
+    "It works on pure math. Two defenders on the ball means three defenders guarding four offensive players — a 4-on-3. The screener catches with the defense in rotation, and one more pass finds the open man. The trap is designed to force a turnover; the throwback turns it into the easiest advantage in basketball."
+  ],
+  "whyItMatters": [
+    "Trapping the ball screen is the most aggressive thing a defense can do — and the scariest moment for a young guard. Without a plan, traps produce turnovers, panic, and broken possessions. With the throwback as the automatic answer, the trap becomes something your team HUNTS: invite the trap, throw it back, play 4-on-3. Teaching this one concept transforms how your team feels about pressure — from fear to appetite."
+  ],
+  "howTo": [
+    {
+      "title": "Recognize the trap early",
+      "detail": "O1 reads two defenders committing to the ball — the hedging big staying high plus O1's defender fighting over. The moment the second defender commits, the throwback is the play. Don't wait until you're trapped — throw it as the trap forms."
+    },
+    {
+      "title": "Keep the dribble alive",
+      "detail": "Back the ball out with a retreat dribble if needed, but never pick it up. A live dribble keeps every option open; a dead ball in a trap is exactly what the defense wants."
+    },
+    {
+      "title": "Throw it back to the screener",
+      "detail": "O1 passes back to O5 — over the top of the trap or around it with a hook pass. O5 has popped to the open space (or slipped the screen). The pass must be catchable: put air under it and lead O5 away from the recovering defenders."
+    },
+    {
+      "title": "The screener catches as the playmaker",
+      "detail": "O5 catches facing the floor — now HE is the decision-maker in a 4-on-3. The defense is scrambling: two defenders are behind the ball, and three are trying to guard four."
+    },
+    {
+      "title": "Make the next pass",
+      "detail": "O5 reads the rotation: hit the roller diving to the rim, find the shooter in the corner when the low man rotates up, or attack himself if the lane is open. One more pass — that's all it takes. The trap gave you the numbers; use them."
+    }
+  ],
+  "coachingPoints": [
+    "The throwback must be AUTOMATIC. Drill it until the guard's first instinct against two defenders is 'back to the big' — thinking is too slow.",
+    "Throw it early. The pass is easiest as the trap forms; once both defenders are set, the passing lane shrinks.",
+    "Screener: pop to space, don't stand in the trap. The throwback needs a target — relocate to where the defense isn't.",
+    "Catch facing the floor. The screener becomes the quarterback — he can't make the 4-on-3 read staring at the sideline.",
+    "Celebrate the throwback. Teams that get excited about beating the trap start inviting it — and that's when your offense takes over games."
+  ],
+  "commonMistakes": [
+    "Waiting until fully trapped to throw it — fix: the read is on the second defender's commitment, not on the trap's completion.",
+    "Picking up the dribble — fix: retreat dribble keeps you alive; a picked-up ball is a turnover against any decent trap.",
+    "Throwing it to a stationary screener standing in the trap zone — fix: the big must relocate; no target, no throwback.",
+    "Screener catches and holds — fix: he's the playmaker now; catch, face, and make the next pass within two seconds."
+  ],
+  "gameSituations": [
+    "Breaking the press-trap: when opponents trap your PNR to speed you up, the throwback slows the game back down — on your terms.",
+    "Youth basketball essential: teach 14-year-olds this one answer and traps stop being scary — that's a season-changing confidence boost.",
+    "Crunch-time poise: a drilled throwback turns the defense's last-minute blitz into your game-winning 4-on-3."
+  ],
+  "tags": [
+    "throwback pass",
+    "pick and roll",
+    "vs trap",
+    "4-on-3",
+    "ball screen"
+  ],
+  "related": [
+    "throwback-pass",
+    "pnr-vs-blitz",
+    "double-ball-screen",
+    "pick-and-pop",
+    "rescreen-pnr"
+  ],
+  "diagram": {
+    "title": "Throwback — the hedge traps O1, who throws it back to the popping O5 for the 4-on-3",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 58,
+        "y": 54
+      },
+      {
+        "label": "O5",
+        "x": 50,
+        "y": 40
+      },
+      {
+        "label": "O2",
+        "x": 88,
+        "y": 8
+      },
+      {
+        "label": "O3",
+        "x": 15,
+        "y": 35
+      }
+    ],
+    "defense": [
+      {
+        "label": "D1",
+        "x": 54,
+        "y": 54
+      },
+      {
+        "label": "D5",
+        "x": 62,
+        "y": 52
+      },
+      {
+        "label": "D2",
+        "x": 84,
+        "y": 12
+      },
+      {
+        "label": "D3",
+        "x": 19,
+        "y": 35
+      }
+    ],
+    "ball": "O1",
+    "screens": [
+      {
+        "x": 58,
+        "y": 48
+      }
+    ],
+    "moves": [
+      {
+        "from": "O5",
+        "to": "O1",
+        "kind": "screen-run"
+      },
+      {
+        "from": "O5",
+        "to": "O2",
+        "kind": "cut"
+      }
+    ],
+    "passes": [
+      {
+        "from": "O1",
+        "to": "O5"
+      },
+      {
+        "from": "O5",
+        "to": "O2"
+      }
+    ],
+    "shots": []
+  },
+  "vi": {
+    "title": "Chuyền ngược về sau screen (throwing back the screen)",
+    "description": "Khi hàng thủ trap ball screen của bạn, chuyền ngược về cho người dựng screen — và xem 4-kèm-3 diễn ra. Đáp án đơn giản nhất cho coverage hiếu chiến nhất.",
+    "whatIsIt": [
+      "Throwing back the screen nghĩa là chuyền bóng ngược về cho người dựng screen khi hàng thủ đưa hai hậu vệ vào người cầm bóng — trong trap, blitz hoặc hard hedge. Thay vì vật lộn qua trap, hậu vệ chuyền qua hoặc vòng qua nó cho người dựng screen, người đã pop hoặc slip vào khoảng trống mà trap bỏ lại.",
+      "Nó hiệu quả nhờ toán học thuần túy. Hai hậu vệ kèm bóng nghĩa là ba hậu vệ kèm bốn cầu thủ tấn công — 4-kèm-3. Người dựng screen bắt bóng khi hàng thủ đang rotation, và một đường chuyền nữa tìm người trống. Trap được thiết kế để ép turnover; throwback biến nó thành lợi thế dễ nhất của bóng rổ."
+    ],
+    "whyItMatters": [
+      "Trap ball screen là thứ hiếu chiến nhất hàng thủ có thể làm — và là khoảnh khắc đáng sợ nhất với hậu vệ trẻ. Không có kế hoạch thì trap tạo ra turnover, hoảng loạn và pha bóng vỡ. Với throwback là đáp án tự động, trap thành thứ đội bạn SĂN: mời trap, chuyền ngược về, đánh 4-kèm-3. Dạy một khái niệm này đổi cách đội bạn cảm nhận về áp lực — từ sợ hãi thành thèm khát."
+    ],
+    "howTo": [
+      {
+        "title": "Nhận diện trap sớm",
+        "detail": "O1 đọc hai hậu vệ commit vào bóng — big hedge đứng cao cộng hậu vệ của O1 vật qua screen. Ngay khi hậu vệ thứ hai commit, throwback là đáp án. Đừng chờ đến khi bị trap hẳn — chuyền khi trap đang hình thành."
+      },
+      {
+        "title": "Giữ bóng sống",
+        "detail": "Kéo bóng lùi bằng retreat dribble nếu cần, nhưng không bao giờ dừng dẫn. Bóng sống giữ mọi phương án mở; bóng chết trong trap đúng là thứ hàng thủ muốn."
+      },
+      {
+        "title": "Chuyền ngược về cho người dựng screen",
+        "detail": "O1 chuyền ngược về cho O5 — bổng qua đầu trap hoặc vòng qua bằng hook pass. O5 đã pop ra chỗ trống (hoặc slip screen). Đường chuyền phải dễ bắt: cho bóng độ bổng và dẫn O5 ra xa hậu vệ đang hồi phục."
+      },
+      {
+        "title": "Người dựng screen bắt bóng làm playmaker",
+        "detail": "O5 bắt bóng, mặt hướng sân — giờ ANH TA là người ra quyết định trong 4-kèm-3. Hàng thủ cuống cuồng: hai hậu vệ ở sau bóng, ba người cố kèm bốn."
+      },
+      {
+        "title": "Chuyền đường tiếp theo",
+        "detail": "O5 đọc rotation: chuyền cho người lao xuống rổ, tìm tay ném ở góc khi người dưới dâng lên, hoặc tự tấn công nếu lane mở. Một đường chuyền nữa — chỉ cần thế. Trap đã cho bạn hơn người; dùng nó."
+      }
+    ],
+    "coachingPoints": [
+      "Throwback phải TỰ ĐỘNG. Tập đến khi phản xạ đầu tiên của hậu vệ trước hai hậu vệ là 'ngược về cho big' — suy nghĩ thì quá chậm.",
+      "Chuyền sớm. Đường chuyền dễ nhất khi trap đang hình thành; hai hậu vệ đã vào vị trí thì lane chuyền thu hẹp.",
+      "Người dựng screen: pop ra chỗ trống, đừng đứng trong vùng trap. Throwback cần mục tiêu — dạt đến nơi hàng thủ không có.",
+      "Bắt bóng mặt hướng sân. Người dựng screen thành tiền vệ — anh ta không thể đọc 4-kèm-3 khi mặt nhìn đường biên.",
+      "Ăn mừng throwback. Đội nào hào hứng khi phá trap sẽ bắt đầu mời trap — và đó là lúc tấn công của bạn làm chủ trận đấu."
+    ],
+    "commonMistakes": [
+      "Chờ bị trap hẳn mới chuyền — sửa: cách đọc nằm ở pha commit của hậu vệ thứ hai, không phải khi trap hoàn tất.",
+      "Dừng dẫn bóng — sửa: retreat dribble giữ bạn sống; bóng dừng là mất bóng trước mọi trap tử tế.",
+      "Chuyền cho người dựng đứng yên trong vùng trap — sửa: big phải dạt vị trí; không có mục tiêu thì không có throwback.",
+      "Người dựng bắt bóng rồi giữ — sửa: giờ anh ta là playmaker; bắt, xoay mặt, và chuyền đường tiếp theo trong hai giây."
+    ],
+    "gameSituations": [
+      "Phá press-trap: đối thủ trap PNR để đẩy nhanh nhịp thì throwback làm chậm trận đấu lại — theo điều kiện của bạn.",
+      "Thiết yếu cho bóng rổ trẻ: dạy trẻ 14 tuổi một đáp án này, trap hết đáng sợ — đó là cú hích tự tin đổi cả mùa giải.",
+      "Bản lĩnh cuối trận: throwback tập kỹ biến blitz phút cuối của hàng thủ thành 4-kèm-3 quyết định trận đấu của bạn."
+    ],
+    "tags": [
+      "throwback pass",
+      "pick and roll",
+      "chống trap",
+      "4-kèm-3",
+      "screen cho bóng"
+    ]
+  }
+}

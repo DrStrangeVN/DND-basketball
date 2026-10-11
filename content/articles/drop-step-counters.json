@@ -1,0 +1,180 @@
+{
+  "id": "drop-step-counters",
+  "slug": "drop-step-counters",
+  "title": "Drop Step Counters",
+  "description": "The drop step is just the start — counter the defense's answer with spins, up-and-unders, and step-throughs.",
+  "hub": "skills",
+  "subcategory": "footwork",
+  "level": "intermediate",
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "Forward",
+    "Center"
+  ],
+  "readTime": 6,
+  "dateUpdated": "2026-10-11",
+  "whatIsIt": [
+    "The drop step is the power move of the low post: you drop your baseline foot toward the basket and seal the defender on your hip. But good defenders anticipate it. Drop step counters are your answers to their answers — if they beat you to the baseline spot, you spin back middle; if they stay home, you go up strong; if they jump, you go under.",
+    "The series works because every counter starts with the same drop-step footwork. The defender commits to stopping the drop step, and your counter attacks the space their commitment just opened."
+  ],
+  "whyItMatters": [
+    "Post players who only have a drop step get scouted and stopped by the second half. Counters make you a complete low-post scorer: the defense has to guard the drop step, the spin, and the up-and-under simultaneously, which is impossible. This is how undersized bigs dominate bigger defenders."
+  ],
+  "howTo": [
+    {
+      "title": "Catch deep with a wide base",
+      "detail": "Catch the ball on the low block with a wide, low stance, defender on your back. The deeper the catch, the shorter your work."
+    },
+    {
+      "title": "Feel the defender's position",
+      "detail": "Bump the defender gently to feel where their weight is. If they're leaning baseline, the middle is open; if they're centered, the baseline drop step is live."
+    },
+    {
+      "title": "Execute the drop step",
+      "detail": "Drop your baseline foot hard toward the basket, sealing the defender on your back hip. Keep the ball high and tight."
+    },
+    {
+      "title": "Read their counter",
+      "detail": "If the defender beats you to the spot, plant and spin back toward the middle. If they jump at your shoulder fake, duck under for the up-and-under."
+    },
+    {
+      "title": "Counter decisively",
+      "detail": "Spin move: pivot hard on your drop-step foot and turn into the lane. Up-and-under: shot fake, let them fly by, then step through for the layup."
+    },
+    {
+      "title": "Finish through contact",
+      "detail": "Whatever counter you take, finish strong off two feet with the ball protected, expecting the bump."
+    }
+  ],
+  "coachingPoints": [
+    "The drop step must be a real scoring threat first — counters only work when the defense fears the original move.",
+    "Keep the ball above your shoulders through every counter; low balls in the post get stripped.",
+    "Your counters have to be practiced at full speed — slow post footwork doesn't fool anyone.",
+    "Seal with your whole body on the drop step, not just your arm; a real seal creates the space the counters need."
+  ],
+  "commonMistakes": [
+    "Dropping the step without sealing — fix: feel the defender's chest on your back before you move; no contact means no seal.",
+    "Spinning into the help defender — fix: check the middle before you spin; if help is there, kick out instead.",
+    "Rushing the up-and-under — fix: hold the shot fake until the defender actually leaves their feet.",
+    "Bringing the ball down on the gather — fix: chin the ball high after every counter move."
+  ],
+  "gameSituations": [
+    "Deep post touches — the drop step series is your primary scoring package from 2–3 meters out.",
+    "Against a bigger defender — counters let you score without jumping over them, using their size against them.",
+    "Drawing fouls — the up-and-under counter is one of the most reliable foul-drawing moves in the post."
+  ],
+  "tags": [
+    "footwork",
+    "post-play",
+    "counters"
+  ],
+  "related": [
+    "drop-step",
+    "pivot",
+    "spin-move",
+    "contact-finishing",
+    "defending-the-post"
+  ],
+  "diagram": {
+    "title": "O1 drop-steps baseline on D1, reads the help, and spins back middle to the rim",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 33,
+        "y": 11
+      }
+    ],
+    "defense": [
+      {
+        "label": "D1",
+        "x": 36,
+        "y": 11
+      },
+      {
+        "label": "D2",
+        "x": 45,
+        "y": 18
+      }
+    ],
+    "ball": "O1",
+    "screens": [],
+    "moves": [
+      {
+        "from": "O1",
+        "to": "O1",
+        "kind": "move"
+      },
+      {
+        "from": "O1",
+        "to": "rim",
+        "kind": "move"
+      }
+    ],
+    "passes": [],
+    "shots": []
+  },
+  "vi": {
+    "title": "Chuỗi phản công từ drop step",
+    "description": "Drop step mới chỉ là khởi đầu — phản công câu trả lời của hàng thủ bằng spin, up-and-under và step-through.",
+    "whatIsIt": [
+      "Drop step là động tác sức mạnh của khu vực low post: bạn hạ chân phía biên về phía rổ và tỳ hậu vệ lên hông mình. Nhưng hậu vệ giỏi đoán trước được nó. Các đòn phản công từ drop step là câu trả lời của bạn cho câu trả lời của họ — nếu họ chiếm mất vị trí biên trước, bạn spin về giữa; nếu họ đứng yên, bạn bật lên mạnh mẽ; nếu họ nhảy lên, bạn lách xuống dưới.",
+      "Chuỗi hiệu quả vì mọi đòn phản công đều bắt đầu bằng cùng một bộ chân drop step. Hậu vệ dồn sức chặn drop step, và đòn phản công của bạn tấn công vào khoảng trống mà chính sự dồn sức đó vừa mở ra."
+    ],
+    "whyItMatters": [
+      "Cầu thủ post chỉ biết drop step sẽ bị bắt bài và bị chặn từ hiệp hai. Các đòn phản công biến bạn thành một tay ghi điểm low post hoàn chỉnh: hàng thủ phải kèm đồng thời drop step, spin và up-and-under — điều bất khả thi. Đó là cách những trung phong thấp bé áp đảo hậu vệ to con hơn."
+    ],
+    "howTo": [
+      {
+        "title": "Bắt bóng sâu với chân trụ rộng",
+        "detail": "Bắt bóng ở low block với tư thế rộng, thấp, hậu vệ sau lưng. Bắt càng sâu, việc càng nhẹ."
+      },
+      {
+        "title": "Cảm nhận vị trí hậu vệ",
+        "detail": "Tỳ nhẹ vào hậu vệ để cảm nhận trọng tâm họ. Nếu họ nghiêng về biên, giữa đã mở; nếu họ đứng giữa, drop step biên đang chờ."
+      },
+      {
+        "title": "Thực hiện drop step",
+        "detail": "Hạ mạnh chân phía biên về phía rổ, tỳ hậu vệ lên hông sau. Giữ bóng cao và sát người."
+      },
+      {
+        "title": "Đọc đòn đáp trả của họ",
+        "detail": "Nếu hậu vệ chiếm mất vị trí trước, dậm chân và spin về giữa. Nếu họ nhảy lên trước pha giả vai của bạn, lách xuống dưới cho up-and-under."
+      },
+      {
+        "title": "Phản công dứt khoát",
+        "detail": "Spin move: pivot mạnh trên chân drop step và xoay vào lane. Up-and-under: giả ném, để họ bay qua, rồi step-through lên rổ."
+      },
+      {
+        "title": "Kết thúc chịu va chạm",
+        "detail": "Dù chọn đòn nào, kết thúc mạnh bằng hai chân với bóng được che chắn, chuẩn bị đón cú húc."
+      }
+    ],
+    "coachingPoints": [
+      "Drop step phải là mối đe dọa ghi điểm thật trước đã — đòn phản công chỉ hiệu quả khi hàng thủ sợ động tác gốc.",
+      "Giữ bóng trên vai suốt mọi đòn phản công; bóng thấp trong post là bị móc.",
+      "Các đòn phản công phải tập ở tốc độ tối đa — bộ chân post chậm không lừa được ai.",
+      "Tỳ bằng cả cơ thể khi drop step, không chỉ bằng tay; một pha tỳ thật tạo ra khoảng trống mà đòn phản công cần."
+    ],
+    "commonMistakes": [
+      "Drop step mà không tỳ người — sửa: cảm nhận ngực hậu vệ sau lưng trước khi di chuyển; không tiếp xúc nghĩa là không có pha tỳ.",
+      "Spin vào đúng người hỗ trợ — sửa: kiểm tra giữa sân trước khi spin; nếu có người hỗ trợ, chuyền ra ngoài.",
+      "Vội up-and-under — sửa: giữ pha giả ném cho đến khi hậu vệ thật sự rời khỏi mặt đất.",
+      "Hạ bóng xuống khi gom bóng — sửa: kẹp bóng cao ngang cằm sau mọi đòn phản công."
+    ],
+    "gameSituations": [
+      "Chạm bóng sâu trong post — chuỗi drop step là gói ghi điểm chính của bạn từ khoảng 2–3m.",
+      "Trước hậu vệ to con hơn — đòn phản công giúp bạn ghi điểm mà không cần nhảy qua họ, dùng chính kích thước của họ chống lại họ.",
+      "Kiếm lỗi — đòn up-and-under là một trong những động tác kiếm lỗi đáng tin cậy nhất trong post."
+    ],
+    "tags": [
+      "bộ chân",
+      "đánh post",
+      "phản công"
+    ]
+  }
+}

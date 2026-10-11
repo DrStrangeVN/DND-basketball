@@ -1,0 +1,169 @@
+{
+  "id": "inside-hand-finish",
+  "slug": "inside-hand-finish",
+  "title": "Inside-Hand Finish",
+  "description": "Finish with the hand closest to the middle — the protected layup that uses your body as a shield.",
+  "hub": "skills",
+  "subcategory": "finishing",
+  "level": "intermediate",
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 5,
+  "dateUpdated": "2026-10-11",
+  "whatIsIt": [
+    "The inside-hand finish means laying the ball up with the hand nearest the middle of the floor — on a right-side drive, that's your left hand. Your body stays between the defender and the ball, so the shot is naturally shielded all the way to the rim.",
+    "Most players default to their strong hand on every finish, which forces awkward angles on one side of the floor. The inside-hand finish fixes that: it gives you a clean, protected look no matter which side you drive."
+  ],
+  "whyItMatters": [
+    "Defenders are taught to force you to your weak side and then contest with their body. The inside-hand finish turns that game plan against them — when they push you middle, you finish middle, with your body as the shield and the rim as the target. It is the finishing skill that separates drivers who score from drivers who just drive."
+  ],
+  "howTo": [
+    {
+      "title": "Drive with a plan to the rim",
+      "detail": "Attack the lane with your eyes up, knowing which side you'll finish on. Decide early so your last two steps set up the right hand."
+    },
+    {
+      "title": "Take your two steps under control",
+      "detail": "Gather the ball and take two balanced steps toward the rim. Keep your body between the defender and the ball."
+    },
+    {
+      "title": "Extend with your inside hand",
+      "detail": "On the final step, extend the ball up with your inside hand — the one closest to the middle of the floor — keeping your outside shoulder between the ball and the defender."
+    },
+    {
+      "title": "Use the glass when the angle is tight",
+      "detail": "From sharp angles, aim for the top corner of the backboard's square. The glass is your friend on inside-hand finishes."
+    },
+    {
+      "title": "Protect with your off arm",
+      "detail": "Keep your non-shooting arm as a legal shield across your body. Don't push off — just maintain the barrier."
+    },
+    {
+      "title": "Land ready for the next play",
+      "detail": "Land balanced on two feet, ready to crash the boards or sprint back on defense."
+    }
+  ],
+  "coachingPoints": [
+    "Your inside shoulder must stay between the ball and the defender — that's the entire protection of this finish.",
+    "Extend fully on the finish; short-arming it brings the ball down into the shot-blocker's reach.",
+    "Practice finishing with both hands from both sides until there's no hesitation about which hand to use.",
+    "The inside-hand finish pairs perfectly with the Euro step — same protection principle, different footwork."
+  ],
+  "commonMistakes": [
+    "Switching to the strong hand mid-air — fix: commit to the inside hand on your gather step; indecision in the air is a blocked shot.",
+    "Finishing flat-footed without lift — fix: jump off your outside foot with real elevation; low finishes get pinned on the glass.",
+    "Exposing the ball on the gather — fix: bring the ball up on the side away from the defender, never across your body in front of them.",
+    "Avoiding contact instead of using it — fix: lean into the defender's chest with your shoulder; the bump creates the space."
+  ],
+  "gameSituations": [
+    "Driving against a shot-blocker — the inside hand keeps the ball on the far side of your body, away from the block.",
+    "Baseline drives — from the baseline, the inside hand is often the only clean finishing angle available.",
+    "Transition layups with a chaser — your body shields the ball from the defender sprinting behind you."
+  ],
+  "tags": [
+    "finishing",
+    "layup",
+    "ball-protection"
+  ],
+  "related": [
+    "basic-layup",
+    "contact-finishing",
+    "power-finish",
+    "euro-step",
+    "reverse-layup"
+  ],
+  "diagram": {
+    "title": "O1 drives right and finishes with the inside (left) hand, body shielding D1",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 62,
+        "y": 20
+      }
+    ],
+    "defense": [
+      {
+        "label": "D1",
+        "x": 65,
+        "y": 18
+      }
+    ],
+    "ball": "O1",
+    "screens": [],
+    "moves": [
+      {
+        "from": "O1",
+        "to": "rim",
+        "kind": "move"
+      }
+    ],
+    "passes": [],
+    "shots": []
+  },
+  "vi": {
+    "title": "Kết thúc bằng tay trong (inside-hand finish)",
+    "description": "Kết thúc bằng tay gần giữa sân nhất — cú layup được che chắn dùng chính cơ thể bạn làm lá chắn.",
+    "whatIsIt": [
+      "Inside-hand finish nghĩa là lên rổ bằng tay gần giữa sân nhất — khi đâm bên phải, đó là tay trái của bạn. Cơ thể bạn ở giữa hậu vệ và bóng, nên cú ném được che chắn tự nhiên suốt đường tới rổ.",
+      "Hầu hết cầu thủ mặc định dùng tay thuận cho mọi pha kết thúc, điều này ép họ vào những góc khó ở một bên sân. Inside-hand finish sửa điều đó: nó cho bạn một góc kết thúc sạch, được che chắn, dù bạn đâm bên nào."
+    ],
+    "whyItMatters": [
+      "Hậu vệ được dạy để ép bạn sang phía tay không thuận rồi contest bằng cơ thể. Inside-hand finish biến kế hoạch đó thành chống lại họ — khi họ đẩy bạn vào giữa, bạn kết thúc ở giữa, với cơ thể làm lá chắn và rổ làm mục tiêu. Đó là kỹ năng kết thúc phân biệt người đâm vào ghi điểm với người đâm vào cho có."
+    ],
+    "howTo": [
+      {
+        "title": "Đâm vào với kế hoạch rõ ràng",
+        "detail": "Tấn công lane với mắt nhìn lên, biết mình sẽ kết thúc bên nào. Quyết định sớm để hai bước cuối dọn đường cho đúng tay."
+      },
+      {
+        "title": "Đi hai bước có kiểm soát",
+        "detail": "Gom bóng và đi hai bước thăng bằng về phía rổ. Giữ cơ thể che giữa hậu vệ và bóng."
+      },
+      {
+        "title": "Vươn lên bằng tay trong",
+        "detail": "Ở bước cuối, vươn bóng lên bằng tay trong — tay gần giữa sân nhất — giữ vai ngoài che giữa bóng và hậu vệ."
+      },
+      {
+        "title": "Dùng bảng khi góc hẹp",
+        "detail": "Từ những góc hẹp, nhắm vào góc trên của ô vuông trên bảng rổ. Tấm bảng là bạn thân của các pha inside-hand finish."
+      },
+      {
+        "title": "Che chắn bằng tay không ném",
+        "detail": "Giữ tay không ném như một lá chắn hợp lệ ngang người. Đừng đẩy — chỉ giữ rào chắn."
+      },
+      {
+        "title": "Tiếp đất sẵn sàng cho pha tiếp theo",
+        "detail": "Tiếp đất thăng bằng bằng hai chân, sẵn sàng lao vào tranh bóng hoặc chạy về phòng thủ."
+      }
+    ],
+    "coachingPoints": [
+      "Vai trong của bạn phải ở giữa bóng và hậu vệ — đó là toàn bộ sự che chắn của pha kết thúc này.",
+      "Vươn hết cỡ khi kết thúc; vươn nửa vời là đưa bóng xuống tầm với của tay block.",
+      "Tập kết thúc bằng cả hai tay từ cả hai bên cho đến khi không còn phân vân chọn tay nào.",
+      "Inside-hand finish kết hợp hoàn hảo với Euro step — cùng nguyên tắc che chắn, bộ chân khác nhau."
+    ],
+    "commonMistakes": [
+      "Đổi sang tay thuận giữa không trung — sửa: quyết định tay trong ngay từ bước gom bóng; phân vân trên không là bị block.",
+      "Kết thúc không bật nhảy — sửa: bật khỏi chân ngoài với độ cao thật; kết thúc thấp là bị đính lên bảng.",
+      "Để lộ bóng khi gom — sửa: đưa bóng lên ở phía xa hậu vệ, không bao giờ vắt ngang người trước mặt họ.",
+      "Tránh va chạm thay vì dùng nó — sửa: tỳ vai vào ngực hậu vệ; cú húc tạo ra khoảng trống."
+    ],
+    "gameSituations": [
+      "Đâm vào trước một tay block — tay trong giữ bóng ở phía xa cơ thể bạn, tránh khỏi tầm block.",
+      "Đâm dọc biên — từ đường biên, tay trong thường là góc kết thúc sạch duy nhất.",
+      "Layup phản công có người đuổi — cơ thể bạn che bóng khỏi hậu vệ đang chạy sau lưng."
+    ],
+    "tags": [
+      "kết thúc",
+      "layup",
+      "che bóng"
+    ]
+  }
+}

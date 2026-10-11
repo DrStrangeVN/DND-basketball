@@ -1,0 +1,170 @@
+{
+  "id": "behind-back-snatch",
+  "slug": "behind-back-snatch",
+  "title": "Behind-the-Back Snatch",
+  "description": "Snatch the ball behind your back out of a slow dribble to escape a reaching defender — the great equalizer against pressure.",
+  "hub": "skills",
+  "subcategory": "ball-handling",
+  "level": "intermediate",
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "Guard",
+    "Wing"
+  ],
+  "readTime": 5,
+  "dateUpdated": "2026-10-11",
+  "whatIsIt": [
+    "The behind-the-back snatch is an escape move, not a highlight move. From a slow, controlled dribble — usually against pressure or a reach — you wrap the ball behind your back to your other hand in one quick motion. The ball travels the shortest protected path in basketball: behind your body, where no defender can reach it.",
+    "Unlike a flashy behind-the-back done for style, the snatch is compact and purposeful. It is used to get out of trouble: a defender reaching across your body, a trap closing in, or a sideline squeezing your space."
+  ],
+  "whyItMatters": [
+    "Pressure defense feeds on predictable ball paths. The snatch gives you an instant, protected exit that works even when the defender is right on top of you — the one move that doesn't need space to create space. Guards who can snatch the ball behind their back under pressure simply don't get trapped, which changes how entire defenses have to play them."
+  ],
+  "howTo": [
+    {
+      "title": "Keep a slow, controlled dribble",
+      "detail": "The snatch starts from a pound dribble at your side, ball protected. You need control first — the move is an escape, not a gamble."
+    },
+    {
+      "title": "Read the reach",
+      "detail": "Watch the defender's hands. The moment a hand reaches across your body or swipes at the ball, the snatch window opens."
+    },
+    {
+      "title": "Wrap the ball behind your back",
+      "detail": "In one motion, push the ball behind your back to your other hand. Keep it low — around the back of your knees — and keep your wrist firm."
+    },
+    {
+      "title": "Catch it clean on the other side",
+      "detail": "Receive the ball with your opposite hand already in a dribbling position. No bobble, no extra bounce to gather."
+    },
+    {
+      "title": "Step away from pressure",
+      "detail": "As the ball switches hands, step away from the reaching defender with your new ball-side foot, creating a fresh angle."
+    },
+    {
+      "title": "Re-establish control and look up",
+      "detail": "Take one secure dribble, get your eyes up, and read the floor — the snatch bought you time, now use it."
+    }
+  ],
+  "coachingPoints": [
+    "The snatch must be one motion — hesitate mid-wrap and the ball is exposed behind you.",
+    "Keep your body between the ball and the defender even during the wrap; turn your shoulder into the move.",
+    "Practice it at walking speed first; a clean slow snatch beats a sloppy fast one every time.",
+    "Always know your escape direction before you snatch — the move buys space, not a plan."
+  ],
+  "commonMistakes": [
+    "Wrapping the ball too high — fix: aim the wrap at the back of your knees; high wraps get tipped from behind.",
+    "Using it when there's no pressure — fix: the snatch is a tool for trouble; using it in open court just risks a turnover for style points.",
+    "Losing the dribble after the catch — fix: drill snatch-into-one-dribble until the catch and the next bounce are a single motion.",
+    "Snatching into the sideline — fix: check your court position first; never snatch toward a boundary with no outlet."
+  ],
+  "gameSituations": [
+    "Breaking full-court pressure — when the defender reaches across your body at half court, the snatch escapes the trap.",
+    "Pick-and-roll blitzes — against a hard trap, the snatch gets the ball to your other hand and out of the double-team.",
+    "Sideline trouble — pinned near the boundary with a defender reaching in, the snatch is your protected exit."
+  ],
+  "tags": [
+    "ball-handling",
+    "dribble-moves",
+    "ball-protection"
+  ],
+  "related": [
+    "behind-the-back",
+    "crossover",
+    "between-the-legs",
+    "ball-protection",
+    "dribble-penetration"
+  ],
+  "diagram": {
+    "title": "O1 snatches the ball behind the back to escape D1's reach and change direction",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 40,
+        "y": 45
+      }
+    ],
+    "defense": [
+      {
+        "label": "D1",
+        "x": 36,
+        "y": 43
+      }
+    ],
+    "ball": "O1",
+    "screens": [],
+    "moves": [
+      {
+        "from": "O1",
+        "to": "O1",
+        "kind": "dribble"
+      }
+    ],
+    "passes": [],
+    "shots": []
+  },
+  "vi": {
+    "title": "Kỹ thuật behind-the-back snatch",
+    "description": "Giật bóng vòng sau lưng từ một nhịp dribble chậm để thoát khỏi hậu vệ hay với tay — đòn gỡ hòa trước áp lực.",
+    "whatIsIt": [
+      "Behind-the-back snatch là động tác thoát hiểm, không phải động tác biểu diễn. Từ một nhịp dribble chậm, có kiểm soát — thường là khi bị áp sát hoặc bị với tay — bạn vòng bóng sau lưng sang tay kia trong một chuyển động nhanh. Bóng đi theo đường ngắn và được che chắn nhất trong bóng rổ: sau lưng bạn, nơi không hậu vệ nào với tới.",
+      "Khác với pha vòng sau lưng màu mè, cú snatch gọn và có mục đích. Nó dùng để thoát khỏi rắc rối: một hậu vệ với tay qua người bạn, một cái bẫy đang khép lại, hoặc đường biên đang ép không gian của bạn."
+    ],
+    "whyItMatters": [
+      "Hàng thủ áp lực sống nhờ những đường bóng đoán trước được. Cú snatch cho bạn một lối thoát tức thì, được che chắn, hiệu quả ngay cả khi hậu vệ đã áp sát — động tác duy nhất không cần khoảng trống để tạo ra khoảng trống. Hậu vệ nào snatch được bóng sau lưng dưới áp lực thì đơn giản là không bị bẫy, và điều đó buộc cả hàng thủ phải chơi khác với họ."
+    ],
+    "howTo": [
+      {
+        "title": "Giữ một nhịp dribble chậm, chắc",
+        "detail": "Cú snatch bắt đầu từ một nhịp pound dribble bên hông, bóng được che chắn. Cần kiểm soát trước — đây là động tác thoát hiểm, không phải đánh bạc."
+      },
+      {
+        "title": "Đọc tay với",
+        "detail": "Nhìn tay hậu vệ. Ngay khi một tay với qua người bạn hoặc quơ vào bóng, cửa sổ snatch mở ra."
+      },
+      {
+        "title": "Vòng bóng sau lưng",
+        "detail": "Trong một chuyển động, đẩy bóng vòng sau lưng sang tay kia. Giữ thấp — ngang sau đầu gối — và giữ cổ tay chắc."
+      },
+      {
+        "title": "Bắt gọn ở bên kia",
+        "detail": "Đón bóng bằng tay đối diện đã ở tư thế dẫn bóng. Không lóng ngóng, không thêm nhịp nảy để gom bóng."
+      },
+      {
+        "title": "Bước ra khỏi áp lực",
+        "detail": "Khi bóng đổi tay, bước chân phía tay bóng mới ra xa khỏi hậu vệ đang với, tạo một góc mới."
+      },
+      {
+        "title": "Ổn định lại và ngẩng lên",
+        "detail": "Nảy một nhịp chắc, ngẩng mắt lên và đọc sân — cú snatch đã mua cho bạn thời gian, giờ hãy dùng nó."
+      }
+    ],
+    "coachingPoints": [
+      "Cú snatch phải là một chuyển động duy nhất — ngập ngừng giữa chừng là bóng bị lộ sau lưng.",
+      "Giữ cơ thể che giữa bóng và hậu vệ ngay cả khi vòng bóng; xoay vai vào động tác.",
+      "Tập ở tốc độ đi bộ trước; một cú snatch chậm mà sạch luôn hơn một cú nhanh mà ẩu.",
+      "Luôn biết hướng thoát trước khi snatch — động tác mua khoảng trống, không mua kế hoạch."
+    ],
+    "commonMistakes": [
+      "Vòng bóng quá cao — sửa: nhắm đường vòng ngang sau đầu gối; vòng cao là bị chọc từ phía sau.",
+      "Dùng khi không bị áp lực — sửa: snatch là công cụ cho lúc khó; dùng ở sân trống chỉ rước nguy cơ mất bóng vì ham đẹp.",
+      "Mất dribble sau khi bắt — sửa: tập snatch-nối-một-nhịp-dribble cho đến khi bắt bóng và nhịp nảy tiếp theo là một chuyển động.",
+      "Snatch về phía đường biên — sửa: kiểm tra vị trí trên sân trước; không bao giờ snatch về phía biên khi không có đường thoát."
+    ],
+    "gameSituations": [
+      "Phá press toàn sân — khi hậu vệ với tay qua người bạn ở giữa sân, cú snatch thoát khỏi bẫy.",
+      "Chống blitz trong pick and roll — trước bẫy kép mạnh, snatch đưa bóng sang tay kia và ra khỏi vòng vây.",
+      "Rắc rối gần biên — bị ép sát biên với một hậu vệ đang với vào, snatch là lối thoát được che chắn của bạn."
+    ],
+    "tags": [
+      "dẫn bóng",
+      "thoát áp lực",
+      "che bóng"
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "ages": [
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "coachingPoints": [
+    "Tag the roller, not the ball — your eyes belong on the screener's hips from the moment of the screen.",
+    "One second is the whole job: bump and go; a tag that becomes a switch breaks the coverage.",
+    "Chest contact reroutes, hand contact fouls — stay vertical and let your body do the work.",
+    "The high hand kills the lob; the bump kills the stride — you need both.",
+    "Call the tag every time: the big times his recover off your voice, not your position."
+  ],
+  "commonMistakes": [
+    "Tagging too early and opening the corner three — fix: tag on the roller's turn, not on the screen; patience first.",
+    "Using hands instead of chest — fix: hands go high for the lane, chest makes the contact; reaching is a foul.",
+    "Staying with the roller (accidental switch) — fix: the tag ends on the pass; sprint back the instant the ball moves away.",
+    "Never tagging at all — fix: drill 3-on-3 PNR with a mandatory tag; the big will demand it once he feels the difference."
+  ],
+  "dateUpdated": "2026-10-11",
+  "description": "How the weak side 'tags' the rolling big: timing, contact, and the recover — the rotation that makes drop coverage work.",
+  "gameSituations": [
+    "Against an athletic lob-threat roller — the tag is the only way drop coverage survives the lob.",
+    "When your big is in drop against a quick guard — the tag buys the big the extra beat he needs.",
+    "Versus Spain PNR — tag the first roller and the back-screen action behind it falls apart.",
+    "Late-game PNRs when fouls matter — a clean tag avoids the reaching fouls that decide close games."
+  ],
+  "howTo": [
+    {
+      "title": "Read the roll early",
+      "detail": "The tag starts when the screener's hips turn to the rim. The weak-side defender — usually the low man — reads the roll, not the ball. If you watch the ball, the roller beats you by two steps."
+    },
+    {
+      "title": "Time the tag",
+      "detail": "Meet the roller at the edge of the paint as he turns the corner — not before, not after. The tag window is about one second: long enough to bump, short enough to recover."
+    },
+    {
+      "title": "Bump with the chest",
+      "detail": "Make contact with your chest and forearm, staying vertical. The goal is to reroute the roller, not to stop him — a slight redirect forces him to catch the ball a step further from the rim, which is all the big needs."
+    },
+    {
+      "title": "Take away the lob",
+      "detail": "Keep a high hand in the passing lane during the tag. The roller wants the lob over the top; your high hand plus the bump forces the pocket pass instead — a pass your recovering big can handle."
+    },
+    {
+      "title": "Sprint back on the pass",
+      "detail": "The instant the ball leaves the ball handler's hands away from the roller, sprint back to your man. The tag is over the moment the roll threat ends — lingering is how skip-pass threes happen."
+    },
+    {
+      "title": "Communicate the tag",
+      "detail": "Call 'Tag! Tag!' as you go, so the big knows the roller is slowed and the weak side knows you left. On the recover, call 'Back!' — the talk keeps the chain connected."
+    }
+  ],
+  "hub": "defense",
+  "id": "tag-the-roller-defense",
+  "level": "advanced",
+  "positions": [
+    "Forward",
+    "Center",
+    "Guard"
+  ],
+  "readTime": 7,
+  "related": [
+    "drop-coverage-defense",
+    "help-defense",
+    "ice-defense",
+    "rotation-patterns",
+    "switch-defense"
+  ],
+  "slug": "tag-the-roller-defense",
+  "subcategory": "rotations",
+  "tags": [
+    "pick and roll",
+    "tag",
+    "roller",
+    "drop coverage",
+    "rotations"
+  ],
+  "title": "Tagging the Roller",
+  "vi": {
+    "coachingPoints": [
+      "Tag người roll, không phải bóng — mắt bạn thuộc về hông của người screen từ khoảnh khắc screen dựng.",
+      "Một giây là cả công việc: chạm rồi đi; tag mà biến thành switch sẽ phá vỡ coverage.",
+      "Va chạm ngực đổi hướng, va chạm tay gây phạm lỗi — giữ người thẳng đứng và để cơ thể làm việc.",
+      "Tay cao giết đường lob; pha chạm giết đà chạy — bạn cần cả hai.",
+      "Hô tag mọi lần: big căn thời điểm thu về theo giọng của bạn, không phải vị trí của bạn."
+    ],
+    "commonMistakes": [
+      "Tag quá sớm và mở cú ném 3 điểm góc — sửa: tag ở pha xoay người roll, không phải ở screen; kiên nhẫn trước.",
+      "Dùng tay thay vì ngực — sửa: tay giơ cao chắn đường chuyền, ngực tạo va chạm; với tay là phạm lỗi.",
+      "Dính luôn với người roll (vô tình thành switch) — sửa: tag kết thúc ở đường chuyền; chạy về ngay khi bóng di chuyển đi.",
+      "Không bao giờ tag — sửa: tập PNR 3 đấu 3 với tag bắt buộc; big sẽ đòi hỏi nó khi cảm nhận được sự khác biệt."
+    ],
+    "description": "Cách phía yếu 'tag' big đang roll: thời điểm, va chạm, và pha thu hồi — rotation giúp drop coverage vận hành.",
+    "gameSituations": [
+      "Gặp người roll thể chất tốt chuyên bắt lob — tag là cách duy nhất để drop coverage sống sót trước lob.",
+      "Khi big của bạn drop trước hậu vệ nhanh — tag mua cho big thêm một nhịp anh ta cần.",
+      "Gặp Spain PNR — tag người roll đầu tiên và pha back-screen phía sau sụp đổ.",
+      "Các pha PNR cuối trận khi phạm lỗi mang tính quyết định — tag sạch tránh những pha với tay phạm lỗi định đoạt trận đấu sát nút."
+    ],
+    "howTo": [
+      {
+        "title": "Đọc pha roll từ sớm",
+        "detail": "Tag bắt đầu khi hông của người screen xoay về rổ. Cầu thủ phía yếu — thường là low man — đọc pha roll, không đọc bóng. Nếu bạn nhìn bóng, người roll sẽ hơn bạn hai bước."
+      },
+      {
+        "title": "Chọn thời điểm tag",
+        "detail": "Đón người roll ở mép khu vực dưới rổ khi anh ta vòng qua góc — không sớm, không muộn. Cửa sổ tag khoảng một giây: đủ dài để chạm, đủ ngắn để thu về."
+      },
+      {
+        "title": "Chạm bằng ngực",
+        "detail": "Va chạm bằng ngực và cẳng tay, giữ người thẳng đứng. Mục tiêu là đổi hướng người roll, không phải chặn đứng anh ta — một pha chuyển hướng nhẹ ép anh ta bắt bóng xa rổ hơn một bước, và đó là tất cả những gì big cần."
+      },
+      {
+        "title": "Cắt đường lob",
+        "detail": "Giữ một tay cao trên đường chuyền trong lúc tag. Người roll muốn nhận lob qua đầu; tay cao cộng pha chạm ép đối phương phải chuyền pocket — đường chuyền mà big đang thu về xử lý được."
+      },
+      {
+        "title": "Chạy về khi bóng chuyền",
+        "detail": "Ngay khi bóng rời tay người dẫn bóng ra xa người roll, chạy nhanh về người kèm. Tag kết thúc ngay khi mối đe dọa roll hết — nán lại là cách tạo ra những cú ném 3 điểm từ đường chuyền ngang."
+      },
+      {
+        "title": "Hô khi tag",
+        "detail": "Hô 'Tag! Tag!' khi lao vào, để big biết người roll đã bị làm chậm và phía yếu biết bạn đã rời vị trí. Khi thu về, hô 'Về!' — tiếng hô giữ chuỗi liền mạch."
+      }
+    ],
+    "tags": [
+      "pick and roll",
+      "tag",
+      "người roll",
+      "drop coverage",
+      "xoay chuyển đội hình"
+    ],
+    "title": "Tag người roll (tag the roller)",
+    "whatIsIt": [
+      "Tag người roll là pha chạm của cầu thủ phía yếu vào người screen khi anh ta roll về rổ — một pha kiểm tra ngắn, rắn, làm chậm pha roll vừa đủ để big kịp thu về. Đó là rotation vô hình giúp drop coverage và hedge mềm sống sót trước những người roll thể chất tốt.",
+      "Tag không phải rotation hoàn toàn cũng không phải switch — đó là một can thiệp một giây. Người tag đón người roll bằng ngực, cắt pha chạy thẳng về rổ, rồi chạy về người kèm trước khi đường chuyền ngang tới. Thời điểm là tất cả: sớm quá thì mở xạ thủ, muộn quá thì người roll đã đi mất."
+    ],
+    "whyItMatters": [
+      "Tấn công pick-and-roll hiện đại xây trên việc người roll bắt lob và nhận bóng xả trong đà chạy. Một pha tag đúng lúc lấy đi lựa chọn có tỷ lệ thành công cao nhất của đối phương mà không phá vỡ cấu trúc phòng thủ — đó là rotation rẻ nhất, hiệu quả nhất trong giáo án, và là thứ phân biệt drop coverage tốt với drop coverage xuất sắc."
+    ]
+  },
+  "whatIsIt": [
+    "Tagging the roller is the weak-side defender's bump on the screener as he rolls to the rim — a brief, physical check that slows the roll just enough for the big to recover. It is the invisible rotation that makes drop coverage and soft hedges survive against athletic rollers.",
+    "The tag is not a full rotation and not a switch — it is a one-second intervention. The tagger meets the roller with his chest, takes away the direct rim run, then sprints back to his man before the skip pass arrives. Timing is everything: too early and you open the shooter, too late and the roller is gone."
+  ],
+  "whyItMatters": [
+    "Modern pick-and-roll offense is built on the roller catching lobs and dump-offs in stride. A well-timed tag takes away the offense's highest-percentage option without compromising the defense's structure — it is the cheapest, most effective rotation in the playbook, and the one that separates good drop coverage from great drop coverage."
+  ],
+  "diagram": {
+    "title": "Tag the roller — weak-side D4 bumps the roller, then recovers",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 56,
+        "y": 36
+      },
+      {
+        "label": "O2",
+        "x": 28,
+        "y": 40
+      },
+      {
+        "label": "O3",
+        "x": 76,
+        "y": 40
+      },
+      {
+        "label": "O4",
+        "x": 44,
+        "y": 14
+      },
+      {
+        "label": "O5",
+        "x": 60,
+        "y": 26
+      }
+    ],
+    "defense": [
+      {
+        "label": "D1",
+        "x": 54,
+        "y": 34
+      },
+      {
+        "label": "D2",
+        "x": 27,
+        "y": 38
+      },
+      {
+        "label": "D3",
+        "x": 74,
+        "y": 38
+      },
+      {
+        "label": "D4",
+        "x": 48,
+        "y": 18
+      },
+      {
+        "label": "D5",
+        "x": 56,
+        "y": 30
+      }
+    ],
+    "ball": "O1",
+    "screens": [
+      {
+        "x": 60,
+        "y": 30
+      }
+    ],
+    "moves": [
+      {
+        "from": "O5",
+        "to": "rim",
+        "kind": "cut"
+      },
+      {
+        "from": "D4",
+        "to": "O5",
+        "kind": "move"
+      },
+      {
+        "from": "D4",
+        "to": "O4",
+        "kind": "move"
+      }
+    ],
+    "passes": [],
+    "shots": []
+  }
+}

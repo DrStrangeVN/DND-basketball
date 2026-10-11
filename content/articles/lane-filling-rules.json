@@ -1,0 +1,227 @@
+{
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "coachingPoints": [
+    "Lanes are assignments, not suggestions — run your lane every single break.",
+    "The ball lives in the middle: middle means options, sideline means traps.",
+    "Run ahead of the ball — the pass should lead the runner, never chase him.",
+    "Wide lanes win breaks: the wider the wings, the bigger the middle.",
+    "Finish your run: a lane run that stops early is a lane that never existed."
+  ],
+  "commonMistakes": [
+    "Everyone running to the ball — fix: lanes are assigned by position on the rebound; run your lane, not to the ball.",
+    "Ball handler drifting to the sideline — fix: middle lane is the rule; sidelines are for wings.",
+    "Wings running even with the ball — fix: sprint past the ball; ahead of the ball is where layups live.",
+    "Trailers jogging — fix: the trail three and the putback are the break's second wave; sprint the trail."
+  ],
+  "dateUpdated": "2026-10-11",
+  "description": "The geometry of the fast break: who runs which lane, where the lanes are, and why the middle lane belongs to the ball.",
+  "gameSituations": [
+    "Every defensive rebound — the break starts with lane discipline on the outlet.",
+    "After opponent turnovers — live-ball turnovers are the best lane-filling opportunities.",
+    "Off opponent made baskets — even after a make, sprint the lanes; the defense is jogging back.",
+    "In the fourth quarter — tired defenses can't match disciplined lanes; run them into the ground."
+  ],
+  "howTo": [
+    {
+      "title": "Learn the three lanes",
+      "detail": "The floor splits into three vertical lanes: left sideline lane, middle lane, right sideline lane. The ball always travels in the middle lane; the wings sprint the wide lanes. Draw them on the floor until everyone sees the same map."
+    },
+    {
+      "title": "Sprint the wide lanes",
+      "detail": "The two players nearest the sidelines sprint the wide lanes — touchline to touchline speed, all the way to the corners. Wide lanes stretch the defense and create the passing angles for the middle."
+    },
+    {
+      "title": "Ball stays middle",
+      "detail": "The ball handler pushes in the middle lane, never drifting to a sideline. Middle position means two passing options; sideline position means one — and the sideline is where the defense traps."
+    },
+    {
+      "title": "Fill ahead of the ball",
+      "detail": "Wings must run AHEAD of the ball, not beside it. A wing even with the ball is useless; a wing two steps ahead is a layup. Sprint past the ball handler — the pass leads you, not the other way around."
+    },
+    {
+      "title": "Trailers take the back lanes",
+      "detail": "The last two players trail the play — one to the top of the key, one to the weak-side wing. Trailers are the break's insurance: offensive rebounds, kick-out threes, and the safety valve if the break stops."
+    },
+    {
+      "title": "Finish the lane",
+      "detail": "Run your lane all the way to the rim or the corner — never stop at half court to watch. The break ends with a shot; jogging the last 10 meters turns a layup into a contested jumper."
+    }
+  ],
+  "hub": "transition",
+  "id": "lane-filling-rules",
+  "level": "beginner",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 5,
+  "related": [
+    "transition-offense",
+    "running-lanes",
+    "transition-spacing",
+    "outlet-passing",
+    "transition-decision-making"
+  ],
+  "slug": "lane-filling-rules",
+  "subcategory": "fast-break",
+  "tags": [
+    "fast break",
+    "lanes",
+    "transition",
+    "spacing",
+    "fundamentals"
+  ],
+  "title": "Lane Filling Rules",
+  "vi": {
+    "coachingPoints": [
+      "Đường chạy là phân công, không phải gợi ý — chạy đúng đường trong mọi pha phản công.",
+      "Bóng sống ở giữa: giữa nghĩa là lựa chọn, biên nghĩa là bẫy.",
+      "Chạy trước bóng — đường chuyền nên dẫn người chạy, không bao giờ đuổi theo.",
+      "Đường rộng thắng pha phản công: cánh càng rộng, đường giữa càng lớn.",
+      "Chạy hết đường: pha chạy dừng sớm là pha chạy chưa từng tồn tại."
+    ],
+    "commonMistakes": [
+      "Mọi người chạy về phía bóng — sửa: đường chạy được phân theo vị trí khi rebound; chạy đường của bạn, không phải chạy về bóng.",
+      "Người dẫn bóng trôi ra biên — sửa: đường giữa là quy tắc; đường biên dành cho cánh.",
+      "Cánh chạy ngang bóng — sửa: chạy vượt qua bóng; trước bóng mới là nơi layup sống.",
+      "Người chạy sau chạy lững thững — sửa: cú ném 3 điểm của người chạy sau và pha putback là đợt sóng thứ hai; chạy nước rút đường sau."
+    ],
+    "description": "Hình học của phản công nhanh: ai chạy đường nào, các đường ở đâu, và tại sao đường giữa thuộc về bóng.",
+    "gameSituations": [
+      "Mọi pha rebound phòng thủ — pha phản công bắt đầu từ kỷ luật đường chạy ở đường chuyền phát động.",
+      "Sau pha mất bóng của đối phương — mất bóng bóng sống là cơ hội lấp đầy đường chạy tốt nhất.",
+      "Sau pha ghi điểm của đối phương — ngay cả sau khi bị ghi điểm, hãy chạy nước rút các đường; hàng thủ đang chạy lững thững về.",
+      "Trong hiệp 4 — hàng thủ mệt không theo kịp những đường chạy kỷ luật; chạy cho họ gục."
+    ],
+    "howTo": [
+      {
+        "title": "Học ba đường chạy",
+        "detail": "Mặt sân chia thành ba đường dọc: đường biên trái, đường giữa, đường biên phải. Bóng luôn đi ở đường giữa; hai cánh chạy nước rút ở đường rộng. Vẽ chúng lên sân đến khi mọi người cùng một bản đồ."
+      },
+      {
+        "title": "Chạy nước rút ở đường rộng",
+        "detail": "Hai cầu thủ gần biên nhất chạy nước rút ở đường rộng — tốc độ từ biên này sang biên kia, tới tận góc sân. Đường rộng kéo giãn hàng thủ và tạo góc chuyền cho đường giữa."
+      },
+      {
+        "title": "Bóng giữ ở giữa",
+        "detail": "Người dẫn bóng đẩy ở đường giữa, không bao giờ trôi ra biên. Vị trí giữa nghĩa là hai lựa chọn chuyền; vị trí biên nghĩa là một — và đường biên là nơi hàng thủ bẫy."
+      },
+      {
+        "title": "Chạy trước bóng",
+        "detail": "Hai cánh phải chạy TRƯỚC bóng, không phải ngang bóng. Cánh ngang bóng là vô dụng; cánh trước hai bước là layup. Chạy vượt qua người dẫn bóng — đường chuyền dẫn bạn, không phải ngược lại."
+      },
+      {
+        "title": "Người chạy sau lấy đường sau",
+        "detail": "Hai người cuối cùng chạy sau pha bóng — một người lên đỉnh vòng cung, một người ra cánh yếu. Người chạy sau là bảo hiểm của pha phản công: rebound tấn công, ném 3 điểm kick-out, và van an toàn nếu pha phản công dừng."
+      },
+      {
+        "title": "Chạy hết đường",
+        "detail": "Chạy đường của bạn tới tận rổ hoặc góc sân — không bao giờ dừng ở giữa sân để xem. Pha phản công kết thúc bằng một cú ném; chạy lững thững 10 mét cuối biến layup thành cú ném bị contest."
+      }
+    ],
+    "tags": [
+      "phản công nhanh",
+      "đường chạy",
+      "chuyển đổi",
+      "giãn đội hình",
+      "cơ bản"
+    ],
+    "title": "Luật lấp đầy đường chạy",
+    "whatIsIt": [
+      "Luật lấp đầy đường chạy phân công mỗi cầu thủ một đường chạy trong phản công nhanh: hai đường rộng gần biên, một đường giữa cho bóng, và người chạy sau phía sau. Khi mọi người chạy đúng đường, pha phản công có giãn đội hình hoàn hảo ở tốc độ tối đa — không cần suy nghĩ.",
+      "Các quy tắc không thể thương lượng vì phản công nhanh diễn ra quá nhanh để ra quyết định. Chạy đúng đường mọi lần, pha phản công tự tổ chức; chạy tự do, bạn sẽ có kẹt xe, mất bóng, và layup hỏng."
+    ],
+    "whyItMatters": [
+      "Điểm phản công nhanh là những điểm dễ nhất — layup và ném 3 điểm trống trước hàng thủ hỗn loạn. Nhưng chúng chỉ xảy ra khi các đường được lấp đầy: pha phản công với đường chạy xấu chỉ là năm cầu thủ nhanh đâm vào nhau. Những quy tắc này biến tốc độ thành điểm số."
+    ]
+  },
+  "whatIsIt": [
+    "Lane filling rules assign every player a running lane on the fast break: two wide lanes near the sidelines, one middle lane for the ball, and trailers behind. When everyone runs their lane, the break has perfect spacing at full speed — no thinking required.",
+    "The rules are non-negotiable because the fast break happens too fast for decisions. Run your lane every time, and the break organizes itself; freelance the lanes, and you get traffic jams, turnovers, and missed layups."
+  ],
+  "whyItMatters": [
+    "Fast-break points are the easiest points in basketball — layups and open threes against a scrambling defense. But they only happen when the lanes are filled: a break with bad lanes is just five fast players running into each other. These rules turn speed into points."
+  ],
+  "diagram": {
+    "title": "Lane filling — ball middle, wings wide and ahead of the ball",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 62
+      },
+      {
+        "label": "O2",
+        "x": 22,
+        "y": 44
+      },
+      {
+        "label": "O3",
+        "x": 78,
+        "y": 44
+      },
+      {
+        "label": "O4",
+        "x": 38,
+        "y": 70
+      },
+      {
+        "label": "O5",
+        "x": 62,
+        "y": 70
+      }
+    ],
+    "defense": [
+      {
+        "label": "D1",
+        "x": 48,
+        "y": 52
+      },
+      {
+        "label": "D2",
+        "x": 40,
+        "y": 34
+      },
+      {
+        "label": "D3",
+        "x": 60,
+        "y": 34
+      }
+    ],
+    "ball": "O1",
+    "screens": [],
+    "moves": [
+      {
+        "from": "O1",
+        "to": "rim",
+        "kind": "dribble"
+      },
+      {
+        "from": "O2",
+        "to": "rim",
+        "kind": "cut"
+      },
+      {
+        "from": "O3",
+        "to": "rim",
+        "kind": "cut"
+      },
+      {
+        "from": "O4",
+        "to": "O1",
+        "kind": "move"
+      },
+      {
+        "from": "O5",
+        "to": "O1",
+        "kind": "move"
+      }
+    ],
+    "passes": [],
+    "shots": []
+  }
+}

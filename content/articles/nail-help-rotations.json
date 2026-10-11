@@ -1,0 +1,223 @@
+{
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "coachingPoints": [
+    "The nail is always occupied — whoever is help-side owns it, and the ownership changes with the ball.",
+    "Show early, commit late: the nail defender discourages the drive without abandoning the wing.",
+    "One foot in the lane is help; two feet in the lane is a rotation — know the difference.",
+    "High hands at the nail take away the dump-off pass that kills help defenders.",
+    "The recover from the nail is short but must be violent — a jogging recover gives up the three you just saved."
+  ],
+  "commonMistakes": [
+    "Standing at the nail flat-footed — fix: stay loaded in a stance; the nail is a coiled spring, not a rest stop.",
+    "Fully committing to the drive — fix: one step in, not three; if you need three steps, it is a rotation, not a nail help.",
+    "Forgetting the recover — fix: the pass to your man is the trigger; sprint on the pass, not on the catch.",
+    "Two defenders at the nail — fix: only the help-side wing takes it; the other help defender takes the low man spot."
+  ],
+  "dateUpdated": "2026-10-11",
+  "description": "The nail — the middle of the free-throw line — is help position number one. How to help from the nail and rotate out cleanly.",
+  "gameSituations": [
+    "Against middle pick-and-rolls — the nail defender plugs the ball handler's turn while tagging the roller.",
+    "Versus a dominant driving wing — nail help takes away his middle move and forces him baseline into the big.",
+    "When your on-ball defender gets beat — the nail is the first line of defense before the full rotation.",
+    "In late-clock situations — nail help shrinks the floor and forces contested jumpers instead of layups."
+  ],
+  "howTo": [
+    {
+      "title": "Find the nail early",
+      "detail": "When the ball is on the wing, the help-side wing defender drops to the nail — the middle of the free-throw line. Get there before the drive starts; arriving during the drive is arriving late."
+    },
+    {
+      "title": "Show a help stance",
+      "detail": "Face the ball in a low stance, one foot in the lane, chest angled to see both ball and man. You are a wall the driver must go around — make him feel your presence without leaving your man."
+    },
+    {
+      "title": "Plug the middle drive",
+      "detail": "When the ball handler turns the corner toward the middle, take one step in and wall up with high hands. You are not trying to steal — you are rerouting the drive to the baseline or forcing a pickup."
+    },
+    {
+      "title": "Tag the roller from the nail",
+      "detail": "If a PNR develops on your side, the nail is the perfect tag position — one step bumps the roller, one step gets you home. Call 'Tag!' so the big knows help is there."
+    },
+    {
+      "title": "Recover on the pass",
+      "detail": "The moment the ball is passed to your man, close out: sprint two steps, break down, high hands. Because you never fully left, the recover is short — but it must still be a sprint."
+    },
+    {
+      "title": "Re-nail after the reversal",
+      "detail": "When the ball swings to the other side, the new help-side defender takes the nail and you bump back out. The nail is always occupied — it just changes owners with the ball."
+    }
+  ],
+  "hub": "defense",
+  "id": "nail-help-rotations",
+  "level": "intermediate",
+  "positions": [
+    "Guard",
+    "Forward"
+  ],
+  "readTime": 6,
+  "related": [
+    "help-defense",
+    "gap-defense",
+    "help-side-rotation-timing",
+    "rotation-patterns",
+    "closeout-defense"
+  ],
+  "slug": "nail-help-rotations",
+  "subcategory": "rotations",
+  "tags": [
+    "help defense",
+    "nail",
+    "rotations",
+    "middle drive",
+    "team defense"
+  ],
+  "title": "Nail Help Rotations",
+  "vi": {
+    "coachingPoints": [
+      "Nail luôn có người — ai ở phía hỗ trợ sẽ làm chủ nó, và quyền sở hữu đổi theo bóng.",
+      "Hiện diện sớm, dấn thân muộn: cầu thủ ở nail ngăn pha đột phá mà không bỏ cánh.",
+      "Một chân trong khu vực dưới rổ là hỗ trợ; hai chân trong là rotation — phân biệt rõ hai thứ.",
+      "Tay cao ở nail cắt đường chuyền xả vốn giết chết các cầu thủ hỗ trợ.",
+      "Pha thu hồi từ nail ngắn nhưng phải dữ dội — thu hồi kiểu chạy lững thững sẽ dâng cú ném 3 điểm mà bạn vừa cứu."
+    ],
+    "commonMistakes": [
+      "Đứng ở nail với chân chôn chặt — sửa: giữ người sẵn sàng ở tư thế thấp; nail là lò xo nén, không phải điểm nghỉ.",
+      "Dấn thân hoàn toàn vào pha đột phá — sửa: một bước vào, không phải ba; nếu cần ba bước thì đó là rotation, không phải hỗ trợ từ nail.",
+      "Quên pha thu hồi — sửa: đường chuyền cho người của bạn là tín hiệu; chạy ngay khi bóng chuyền, không phải khi đối phương bắt bóng.",
+      "Hai cầu thủ cùng ở nail — sửa: chỉ cánh phía hỗ trợ chiếm nó; cầu thủ hỗ trợ còn lại lấy vị trí low man."
+    ],
+    "description": "Vị trí nail — giữa vạch ném phạt — là vị trí hỗ trợ số một. Cách hỗ trợ từ nail và xoay ra gọn gàng.",
+    "gameSituations": [
+      "Gặp pick-and-roll giữa sân — cầu thủ ở nail bịt pha vòng vào giữa của người dẫn bóng đồng thời tag người roll.",
+      "Gặp cánh đột phá vượt trội — hỗ trợ từ nail cắt pha đánh giữa của anh ta và ép anh ta ra baseline vào tay big.",
+      "Khi cầu thủ kèm bóng bị qua mặt — nail là tuyến phòng thủ đầu tiên trước khi rotation hoàn toàn.",
+      "Tình huống cuối đồng hồ — hỗ trợ từ nail thu hẹp sân và ép những cú ném bị contest thay vì layup."
+    ],
+    "howTo": [
+      {
+        "title": "Tìm nail từ sớm",
+        "detail": "Khi bóng ở cánh, cầu thủ cánh phía hỗ trợ lùi về nail — giữa vạch ném phạt. Tới đó trước khi pha đột phá bắt đầu; tới trong lúc đột phá là tới muộn."
+      },
+      {
+        "title": "Dựng thế hỗ trợ",
+        "detail": "Đối mặt bóng ở tư thế thấp, một chân trong khu vực dưới rổ, ngực nghiêng để nhìn cả bóng lẫn người. Bạn là bức tường người đột phá phải vòng qua — khiến anh ta cảm nhận được bạn mà không bỏ người kèm."
+      },
+      {
+        "title": "Bịt pha đột phá giữa",
+        "detail": "Khi người dẫn bóng vòng qua hướng vào giữa, bước vào một bước và dựng tường với tay giơ cao. Bạn không cố cướp bóng — bạn đổi hướng pha đột phá ra baseline hoặc ép anh ta dừng bóng."
+      },
+      {
+        "title": "Tag người roll từ nail",
+        "detail": "Nếu PNR hình thành ở phía bạn, nail là vị trí tag hoàn hảo — một bước chạm người roll, một bước về nhà. Hô 'Tag!' để big biết có hỗ trợ."
+      },
+      {
+        "title": "Thu hồi khi bóng chuyền",
+        "detail": "Ngay khi bóng được chuyền cho người của bạn, closeout: chạy hai bước, hạ thấp, tay cao. Vì bạn chưa bao giờ rời đi hoàn toàn, pha thu hồi ngắn — nhưng vẫn phải là chạy nước rút."
+      },
+      {
+        "title": "Chiếm lại nail sau pha đổi hướng",
+        "detail": "Khi bóng chuyền sang phía bên kia, cầu thủ phía hỗ trợ mới chiếm nail và bạn đẩy ra ngoài. Nail luôn có người — chỉ đổi chủ theo bóng."
+      }
+    ],
+    "tags": [
+      "phòng thủ hỗ trợ",
+      "nail",
+      "xoay chuyển đội hình",
+      "đột phá giữa",
+      "phòng thủ đồng đội"
+    ],
+    "title": "Rotation hỗ trợ từ vị trí nail",
+    "whatIsIt": [
+      "Nail là điểm ở giữa vạch ném phạt, và là vị trí hỗ trợ quan trọng nhất trên sân. Cầu thủ ở nail có thể nhìn bóng, bịt pha đột phá giữa, tag người roll, mà vẫn thu về cánh — nó là trục mà mọi rotation xoay quanh.",
+      "Hỗ trợ từ nail là đến sớm mà không dấn thân. Bạn hiện diện trong khu vực dưới rổ để ngăn pha đột phá, nhưng chân vẫn hướng về người kèm để pha thu hồi chỉ một bước, không phải ba. Làm chủ nail và cả hệ thống hỗ trợ của bạn sẽ nhanh hơn."
+    ],
+    "whyItMatters": [
+      "Các pha đột phá xuyên giữa là pha bóng nguy hiểm nhất — chúng làm sụp đổ cả hàng thủ. Cầu thủ làm chủ nail cắt pha đột phá giữa mà không bỏ cánh, nghĩa là đối phương không có cả layup lẫn kick-out ném 3 điểm. Đó là chén thánh của phòng thủ hỗ trợ, và nó bắt đầu ở nail."
+    ]
+  },
+  "whatIsIt": [
+    "The nail is the spot at the middle of the free-throw line, and it is the most important help position on the floor. A defender at the nail can see the ball, plug the middle drive, tag the roller, and still recover to the wing — it is the hub every rotation spins around.",
+    "Nail help is about being early without being committed. You show in the lane to discourage the drive, but your feet stay pointed at your man so the recover is one step, not three. Master the nail and your entire help defense gets faster."
+  ],
+  "whyItMatters": [
+    "Drives through the middle are the most dangerous action in basketball — they collapse the whole defense. A defender who owns the nail takes away the middle without giving up the wing, which means the offense gets neither the layup nor the kick-out three. That is the holy grail of help defense, and it starts at the nail."
+  ],
+  "diagram": {
+    "title": "Nail help — D3 plugs the middle drive from the free-throw line",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 62,
+        "y": 30
+      },
+      {
+        "label": "O2",
+        "x": 30,
+        "y": 38
+      },
+      {
+        "label": "O3",
+        "x": 76,
+        "y": 40
+      },
+      {
+        "label": "O4",
+        "x": 44,
+        "y": 14
+      },
+      {
+        "label": "O5",
+        "x": 56,
+        "y": 12
+      }
+    ],
+    "defense": [
+      {
+        "label": "D1",
+        "x": 58,
+        "y": 28
+      },
+      {
+        "label": "D2",
+        "x": 29,
+        "y": 36
+      },
+      {
+        "label": "D3",
+        "x": 50,
+        "y": 24
+      },
+      {
+        "label": "D4",
+        "x": 43,
+        "y": 13
+      },
+      {
+        "label": "D5",
+        "x": 55,
+        "y": 11
+      }
+    ],
+    "ball": "O1",
+    "screens": [],
+    "moves": [
+      {
+        "from": "O1",
+        "to": "rim",
+        "kind": "dribble"
+      },
+      {
+        "from": "D3",
+        "to": "O1",
+        "kind": "move"
+      }
+    ],
+    "passes": [],
+    "shots": []
+  }
+}

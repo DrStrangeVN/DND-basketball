@@ -1,0 +1,207 @@
+{
+  "id": "two-man-game-reads",
+  "slug": "two-man-game-reads",
+  "hub": "basketball-iq",
+  "subcategory": "advanced-reads",
+  "level": "beginner",
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 6,
+  "dateUpdated": "2026-10-11",
+  "title": "Two-Man Game Reads",
+  "description": "The foundation of modern offense: how the ball handler and screener read the defense together — pocket passes, rejects, re-screens, and the chemistry that makes it unstoppable.",
+  "tags": [
+    "pick and roll",
+    "two-man game",
+    "ball handler",
+    "screener",
+    "basketball iq"
+  ],
+  "whatIsIt": [
+    "The two-man game is basketball's most fundamental partnership: a ball handler and a screener working together to force the defense into an impossible choice. Every pick-and-roll, every DHO, every Spain action is a two-man game at heart — two attackers creating a 2v2 that the defense cannot solve perfectly.",
+    "Two-man reads are shared reads. The ball handler reads the on-ball defender and the help; the screener reads the screener's defender and the rotations behind. When both players read correctly and act together — the pocket pass hitting the roll in stride, the reject punishing the overplay — the two-man game becomes the most efficient action in basketball."
+  ],
+  "whyItMatters": [
+    "Nearly every modern offense is built on two-man actions — they create the advantages that the rest of the offense feeds on. Players who master two-man reads become valuable in any system, on any team, at any level. It is also the best teacher of basketball IQ: the reads are clear, the feedback is instant, and the lessons transfer to every other action."
+  ],
+  "howTo": [
+    {
+      "title": "Set up the screen with a plan",
+      "detail": "The ball handler should set up their defender before using the screen — one setup dribble away from the screen, then attack the screener's hip. A screen used without setup is just a traffic jam; a screen used with setup creates separation."
+    },
+    {
+      "title": "Read the screener's defender first",
+      "detail": "The most important read belongs to the ball handler: what is the screener's defender doing? Showing high means hit the pocket or split; dropping deep means pull up or snake the dribble; switching means attack the mismatch or hit the rolling big. Read the big, then decide."
+    },
+    {
+      "title": "The screener reads the help",
+      "detail": "While the ball handler reads the big, the screener reads everything behind: is the low help tagging, is the weak side loaded, is the lane open? Roll hard when the lane is open, short-roll when the tag comes, pop when the big drops too deep."
+    },
+    {
+      "title": "Master the pocket pass",
+      "detail": "The pocket pass — the bounce pass into the gap between the two defenders — is the signature skill of the two-man game. Throw it with pace, lead the roller, and put it where only they can catch it in stride. A great pocket pass turns every pick-and-roll into a layup drill."
+    },
+    {
+      "title": "Reject when they overplay",
+      "detail": "When the on-ball defender jumps over the screen early to take it away, reject it: cross back the other way and attack the vacated space. The reject punishes aggressive defense and keeps the defense honest — never run into a screen the defense has already taken away."
+    },
+    {
+      "title": "Re-screen when the first one fails",
+      "detail": "If the defense handles the first screen well, do not force it — flip it. The screener re-screens the other way while the ball handler changes direction. The re-screen attacks the defense's recovery, which is always weaker than its initial positioning."
+    }
+  ],
+  "coachingPoints": [
+    "The two-man game is a partnership — drill it in pairs until the reads become shared instincts.",
+    "Set the screen with contact: a screen nobody feels is a screen nobody respects.",
+    "The ball handler's first read is always the screener's defender — teach it as the primary key.",
+    "Roll with purpose every time — a jogging roll lets the defense recover for free.",
+    "Film study accelerates two-man IQ faster than any drill — watch 10 pick-and-rolls together and read them out loud."
+  ],
+  "commonMistakes": [
+    "Using the screen with no setup — fix: one setup dribble away first; the screen needs the defender off-balance to work.",
+    "The screener slipping every time — fix: slipping is a read, not a default; set the screen first, slip only when the defense shows it.",
+    "Throwing the pocket pass late or soft — fix: the pass must lead the roller at pace; a late pocket pass becomes a turnover.",
+    "Running into a screen the defense has taken away — fix: teach the reject as the automatic counter; never fight a lost screen."
+  ],
+  "gameSituations": [
+    "Late-clock bailout — a simple high pick-and-roll with 8 seconds left creates the two-man advantage you need.",
+    "Hunting a mismatch — run the two-man game at the opponent's weakest defender until they change the matchup.",
+    "Against a drop coverage — the pull-up jumper and the snake dribble are the classic answers; read the big's depth.",
+    "Two-man game as a decoy — run it on one side to bend the defense, then swing the ball to the open side for the real attack."
+  ],
+  "related": [
+    "pick-and-roll-reads",
+    "ball-handler-reads",
+    "roll-man-reads",
+    "pocket-pass-pnr",
+    "pnr-vs-drop"
+  ],
+  "diagram": {
+    "title": "High pick-and-roll — screener sets, ball handler reads the big: pocket pass to the rolling screener",
+    "ball": "O1",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 56
+      },
+      {
+        "label": "O5",
+        "x": 57,
+        "y": 47
+      },
+      {
+        "label": "O2",
+        "x": 30,
+        "y": 38
+      }
+    ],
+    "defense": [
+      {
+        "label": "D1",
+        "x": 50,
+        "y": 51
+      },
+      {
+        "label": "D5",
+        "x": 60,
+        "y": 43
+      }
+    ],
+    "passes": [
+      {
+        "from": "O1",
+        "to": "O5"
+      }
+    ],
+    "moves": [
+      {
+        "from": "O5",
+        "kind": "screen-run",
+        "to": "O1"
+      },
+      {
+        "from": "O5",
+        "kind": "cut",
+        "to": "rim"
+      },
+      {
+        "from": "O1",
+        "kind": "dribble",
+        "to": "rim"
+      }
+    ],
+    "screens": [],
+    "shots": []
+  },
+  "vi": {
+    "title": "Đọc bài đánh hai người (two-man game)",
+    "description": "Nền tảng của lối tấn công hiện đại: cách người dẫn bóng và người đặt screen cùng đọc hàng thủ — chuyền pocket, reject, re-screen, và sự ăn ý khiến nó không thể ngăn cản.",
+    "tags": [
+      "pick and roll",
+      "đánh hai người",
+      "người dẫn bóng",
+      "người đặt screen",
+      "nhãn quan chiến thuật"
+    ],
+    "whatIsIt": [
+      "Đánh hai người là sự kết hợp nền tảng nhất của bóng rổ: một người dẫn bóng và một người đặt screen cùng phối hợp để ép hàng thủ vào lựa chọn bất khả thi. Mọi pha pick and roll, mọi pha DHO, mọi bài Spain đều là đánh hai người ở cốt lõi — hai cầu thủ tấn công tạo ra thế 2 đấu 2 mà hàng thủ không thể giải hoàn hảo.",
+      "Pha đọc hai người là pha đọc chung. Người dẫn bóng đọc hậu vệ kèm bóng và hàng hỗ trợ; người đặt screen đọc hậu vệ kèm mình và các pha xoay chuyển phía sau. Khi cả hai đọc đúng và hành động cùng nhau — đường chuyền pocket tới tay roll man đúng nhịp, pha reject trừng phạt hàng thủ đón đầu — đánh hai người trở thành bài đánh hiệu quả nhất bóng rổ."
+    ],
+    "whyItMatters": [
+      "Gần như mọi lối tấn công hiện đại đều xây trên các bài đánh hai người — chúng tạo ra lợi thế để phần còn lại của lối chơi khai thác. Cầu thủ làm chủ pha đọc hai người trở nên giá trị trong mọi hệ thống, mọi đội bóng, mọi đẳng cấp. Đây cũng là người thầy tốt nhất của IQ bóng rổ: pha đọc rõ ràng, phản hồi tức thì, và bài học chuyển được sang mọi bài đánh khác."
+    ],
+    "howTo": [
+      {
+        "title": "Dàn xếp screen có kế hoạch",
+        "detail": "Người dẫn bóng nên nhử hậu vệ kèm mình trước khi dùng screen — một nhịp dẫn nhử ra xa hướng screen, rồi tấn công vào hông của người đặt screen. Screen dùng mà không nhử chỉ là kẹt xe; screen dùng có nhử mới tạo ra khoảng trống."
+      },
+      {
+        "title": "Đọc hậu vệ kèm người đặt screen trước",
+        "detail": "Pha đọc quan trọng nhất thuộc về người dẫn bóng: hậu vệ kèm người đặt screen đang làm gì? Lao lên cao thì chuyền pocket hoặc xẻ qua; lùi sâu thì pull-up hoặc dẫn bóng lách; đổi người thì tấn công lệch kèo hoặc chuyền cho big đang roll. Đọc big trước, rồi quyết định."
+      },
+      {
+        "title": "Người đặt screen đọc hàng hỗ trợ",
+        "detail": "Trong lúc người dẫn bóng đọc big, người đặt screen đọc mọi thứ phía sau: hỗ trợ dưới có tag không, phía yếu có đông không, đường vào rổ có mở không? Roll mạnh khi đường mở, short-roll khi bị tag, pop khi big lùi quá sâu."
+      },
+      {
+        "title": "Làm chủ đường chuyền pocket",
+        "detail": "Chuyền pocket — đường chuyền nảy vào khe giữa hai hậu vệ — là kỹ năng đặc trưng của đánh hai người. Chuyền có lực, đón đầu roll man, và đặt bóng vào chỗ chỉ họ mới bắt được đúng nhịp. Một đường chuyền pocket hay biến mọi pha pick and roll thành bài tập layup."
+      },
+      {
+        "title": "Reject khi họ đón đầu",
+        "detail": "Khi hậu vệ kèm bóng nhảy qua screen từ sớm để phá, hãy reject: ngoặt ngược lại hướng kia và tấn công khoảng trống bỏ lại. Pha reject trừng phạt hàng thủ hung hăng và giữ họ trung thực — đừng bao giờ đâm vào screen mà hàng thủ đã phá."
+      },
+      {
+        "title": "Re-screen khi screen đầu hỏng",
+        "detail": "Nếu hàng thủ xử lý tốt screen đầu, đừng cố ép — lật lại. Người đặt screen đặt lại screen hướng ngược lại trong lúc người dẫn bóng đổi hướng. Re-screen tấn công vào pha hồi về của hàng thủ, vốn luôn yếu hơn vị trí ban đầu của họ."
+      }
+    ],
+    "coachingPoints": [
+      "Đánh hai người là sự kết hợp — tập theo cặp cho đến khi pha đọc thành bản năng chung.",
+      "Đặt screen phải có va chạm: screen mà không ai cảm nhận là screen không ai nể.",
+      "Pha đọc đầu tiên của người dẫn bóng luôn là hậu vệ kèm người đặt screen — dạy nó như chìa khóa chính.",
+      "Roll có mục đích mọi lần — roll lững thững để hàng thủ hồi về miễn phí.",
+      "Xem video tăng IQ hai người nhanh hơn mọi bài tập — cùng xem 10 pha pick and roll và đọc to lên."
+    ],
+    "commonMistakes": [
+      "Dùng screen mà không nhử — sửa: một nhịp dẫn nhử ra xa trước; screen cần hậu vệ mất thăng bằng mới hiệu quả.",
+      "Người đặt screen slip mọi lần — sửa: slip là một pha đọc, không phải mặc định; đặt screen trước, chỉ slip khi hàng thủ lộ ra.",
+      "Chuyền pocket muộn hoặc nhẹ — sửa: đường chuyền phải đón đầu roll man có lực; chuyền pocket muộn thành để mất bóng.",
+      "Đâm vào screen mà hàng thủ đã phá — sửa: dạy reject như đòn phản xạ tự động; đừng bao giờ đánh nhau với screen đã thua."
+    ],
+    "gameSituations": [
+      "Cứu bóng cuối đồng hồ — một pha pick and roll cao đơn giản khi còn 8 giây tạo ra lợi thế hai người bạn cần.",
+      "Săn lệch kèo — chạy đánh hai người vào hậu vệ yếu nhất của đối thủ cho đến khi họ đổi người kèm.",
+      "Gặp drop coverage — cú pull-up và pha dẫn bóng lách là câu trả lời kinh điển; đọc độ sâu của big.",
+      "Đánh hai người làm mồi nhử — chạy một bên để bẻ cong hàng thủ, rồi đảo bóng sang phía trống để đánh thật."
+    ]
+  }
+}

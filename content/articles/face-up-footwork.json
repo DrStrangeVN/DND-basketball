@@ -1,0 +1,177 @@
+{
+  "id": "face-up-footwork",
+  "slug": "face-up-footwork",
+  "title": "Face-Up Footwork",
+  "description": "Catch with your back to the basket, face up clean, and attack — the footwork that turns post catches into drives.",
+  "hub": "skills",
+  "subcategory": "footwork",
+  "level": "beginner",
+  "ages": [
+    "U12",
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "Forward",
+    "Center",
+    "Wing"
+  ],
+  "readTime": 5,
+  "dateUpdated": "2026-10-11",
+  "whatIsIt": [
+    "Face-up footwork is how you turn from a back-to-the-basket catch into a squared-up attacking stance. You catch the ball with a defender on your back, then pivot — usually on your inside foot — to face the rim in triple threat, with the defender now in front of you instead of behind you.",
+    "The move sounds simple, but the details decide everything: which foot you pivot on, how low you stay, and whether you protect the ball during the turn. A clean face-up turns a post catch into a driving threat; a sloppy one turns it into a turnover."
+  ],
+  "whyItMatters": [
+    "Modern basketball asks bigs to face up and make plays, not just back opponents down. Good face-up footwork lets any post player become a triple-threat attacker — able to shoot the jumper, drive past a slower big, or pass against a collapsing defense. It is the skill that keeps traditional post players relevant in a spacing-based game."
+  ],
+  "howTo": [
+    {
+      "title": "Catch with a strong base",
+      "detail": "Catch the ball with your back to the basket, knees bent, defender sealed on your back. Chin the ball to protect it."
+    },
+    {
+      "title": "Choose your pivot foot",
+      "detail": "Your inside foot (closest to the middle) is usually the pivot. Plant it firmly — it stays glued to the floor through the turn."
+    },
+    {
+      "title": "Swing your outside foot around",
+      "detail": "Pivot on your inside foot and swing your outside foot in a wide arc until you're squared to the basket. Keep the move quick and low."
+    },
+    {
+      "title": "Protect the ball through the turn",
+      "detail": "Keep the ball tight to your body, away from the defender, as you turn. Many turnovers happen mid-face-up from a loose ball."
+    },
+    {
+      "title": "Land in triple threat",
+      "detail": "Finish the turn in a balanced triple-threat stance: ball at your hip, eyes up, ready to shoot, drive, or pass."
+    },
+    {
+      "title": "Attack immediately",
+      "detail": "Don't face up and admire the view — jab, drive, or shoot right away while the defender is still adjusting to the new angle."
+    }
+  ],
+  "coachingPoints": [
+    "Stay low through the entire turn; standing up during the face-up gives the defender time to recover.",
+    "Pivot on the ball of your foot for a quicker, more balanced turn.",
+    "Keep your pivot foot down until the turn is complete — lifting it early is a travel.",
+    "Face up with a purpose: know whether you're looking to shoot, drive, or pass before you turn."
+  ],
+  "commonMistakes": [
+    "Turning with the ball exposed — fix: rip the ball tight across your body as you pivot, like a rip-through.",
+    "Choosing the wrong pivot foot — fix: drill facing up both ways, but default to the inside foot for balance.",
+    "Facing up too far from the basket — fix: if you catch beyond 4–5 meters, face up to pass or re-post, not to force a drive.",
+    "Pausing after the face-up — fix: every rep must end with a jab, drive, or shot within one second of squaring up."
+  ],
+  "gameSituations": [
+    "High-post catches — face up from the elbow to become a playmaking hub against a sagging defense.",
+    "Mismatches in the post — when a smaller defender switches onto you, face up and drive past them.",
+    "Short-clock post touches — a quick face-up jumper is the simplest bailout when the play breaks down."
+  ],
+  "tags": [
+    "footwork",
+    "post-play",
+    "triple-threat"
+  ],
+  "related": [
+    "post-positioning",
+    "drop-step",
+    "spin-move",
+    "jump-hook",
+    "contact-finishing"
+  ],
+  "diagram": {
+    "title": "O1 catches with back to basket, faces up on the pivot foot, and squares to attack D1",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 38,
+        "y": 16
+      }
+    ],
+    "defense": [
+      {
+        "label": "D1",
+        "x": 38,
+        "y": 13
+      }
+    ],
+    "ball": "O1",
+    "screens": [],
+    "moves": [
+      {
+        "from": "O1",
+        "to": "O1",
+        "kind": "move"
+      },
+      {
+        "from": "O1",
+        "to": "rim",
+        "kind": "move"
+      }
+    ],
+    "passes": [],
+    "shots": []
+  },
+  "vi": {
+    "title": "Bộ chân face-up (xoay mặt về rổ)",
+    "description": "Bắt bóng quay lưng về rổ, xoay mặt gọn gàng rồi tấn công — bộ chân biến pha bắt bóng ở post thành pha đâm.",
+    "whatIsIt": [
+      "Bộ chân face-up là cách bạn xoay từ tư thế bắt bóng quay lưng về rổ thành tư thế tấn công vuông góc với rổ. Bạn bắt bóng với hậu vệ sau lưng, rồi pivot — thường trên chân trong — để đối mặt với rổ ở triple threat, với hậu vệ giờ ở trước mặt thay vì sau lưng.",
+      "Động tác nghe đơn giản, nhưng chi tiết quyết định tất cả: bạn pivot trên chân nào, giữ thấp đến đâu, và có che bóng khi xoay không. Một pha face-up gọn biến pha bắt bóng ở post thành mối đe dọa đâm; một pha ẩu biến nó thành mất bóng."
+    ],
+    "whyItMatters": [
+      "Bóng rổ hiện đại đòi hỏi các big xoay mặt ra và tạo lối chơi, không chỉ lùi đè đối thủ. Bộ chân face-up tốt biến mọi cầu thủ post thành một mũi tấn công triple threat — ném jumper được, đâm qua big chậm hơn được, chuyền khi hàng thủ đổ vào được. Đó là kỹ năng giữ cho các cầu thủ post truyền thống vẫn có chỗ đứng trong lối chơi giãn đội hình."
+    ],
+    "howTo": [
+      {
+        "title": "Bắt bóng với chân trụ vững",
+        "detail": "Bắt bóng quay lưng về rổ, gối cong, hậu vệ bị tỳ sau lưng. Kẹp bóng ngang cằm để che chắn."
+      },
+      {
+        "title": "Chọn chân trụ",
+        "detail": "Chân trong (gần giữa sân nhất) thường là chân trụ. Dậm chắc — nó dính sàn suốt cả pha xoay."
+      },
+      {
+        "title": "Quét chân ngoài vòng qua",
+        "detail": "Pivot trên chân trong và quét chân ngoài theo một vòng cung rộng cho đến khi bạn vuông góc với rổ. Giữ động tác nhanh và thấp."
+      },
+      {
+        "title": "Che bóng khi xoay",
+        "detail": "Giữ bóng sát người, tránh xa hậu vệ khi xoay. Nhiều pha mất bóng xảy ra ngay giữa pha face-up vì bóng lỏng."
+      },
+      {
+        "title": "Tiếp đất ở triple threat",
+        "detail": "Kết thúc pha xoay ở tư thế triple threat thăng bằng: bóng ở hông, mắt nhìn lên, sẵn sàng ném, đâm hoặc chuyền."
+      },
+      {
+        "title": "Tấn công ngay",
+        "detail": "Đừng face-up xong đứng ngắm cảnh — jab, đâm hoặc ném ngay khi hậu vệ còn đang điều chỉnh với góc mới."
+      }
+    ],
+    "coachingPoints": [
+      "Giữ thấp suốt cả pha xoay; đứng thẳng khi face-up là cho hậu vệ thời gian hồi phục.",
+      "Pivot trên mũi bàn chân để xoay nhanh và thăng bằng hơn.",
+      "Giữ chân trụ dính sàn cho đến khi xoay xong — nhấc sớm là lỗi chạy bước.",
+      "Face-up có mục đích: biết mình định ném, đâm hay chuyền trước khi xoay."
+    ],
+    "commonMistakes": [
+      "Xoay mà để bóng lộ — sửa: xé bóng sát qua người khi pivot, như một pha rip-through.",
+      "Chọn sai chân trụ — sửa: tập face-up cả hai hướng, nhưng mặc định dùng chân trong để thăng bằng.",
+      "Face-up quá xa rổ — sửa: nếu bắt bóng ngoài 4–5m, face-up để chuyền hoặc post lại, không cố đâm.",
+      "Khựng lại sau khi face-up — sửa: mọi lần tập phải kết thúc bằng jab, pha đâm hoặc cú ném trong vòng một giây sau khi xoay mặt."
+    ],
+    "gameSituations": [
+      "Bắt bóng ở high post — face-up từ elbow để thành trung tâm kiến tạo trước hàng thủ lùi sâu.",
+      "Lệch kèo trong post — khi một hậu vệ nhỏ hơn switch vào bạn, face-up và đâm qua họ.",
+      "Chạm bóng ở post cuối đồng hồ — một cú face-up jumper nhanh là phương án cứu nguy đơn giản nhất khi bài đánh hỏng."
+    ],
+    "tags": [
+      "bộ chân",
+      "đánh post",
+      "triple threat"
+    ]
+  }
+}

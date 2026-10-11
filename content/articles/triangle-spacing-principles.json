@@ -1,0 +1,223 @@
+{
+  "id": "triangle-spacing-principles",
+  "slug": "triangle-spacing-principles",
+  "title": "Triangle Spacing Principles",
+  "description": "The geometry behind great offense: two-man and three-man triangles that guarantee passing angles, driving lanes, and rebounding position on every possession.",
+  "hub": "offense",
+  "subcategory": "team-offense",
+  "level": "advanced",
+  "ages": [
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 7,
+  "dateUpdated": "2026-10-11",
+  "whatIsIt": [
+    "Triangle spacing is the principle that offensive players should arrange themselves in triangles — groups of three forming a triangle shape — rather than lines. The most famous version is Phil Jackson's triangle offense, but the principle is universal: wherever the ball is, the two nearest teammates should form a triangle with the ball handler, giving him two passing options at different angles.",
+    "There are two key triangles. The two-man triangle (ball handler plus two teammates) guarantees the ball handler always has a release valve in two directions. The three-man weak-side triangle (three players forming a triangle away from the ball) guarantees floor balance: one player high, one in the corner, one in between — so the weak side is always ready for the skip pass, the drive-and-kick, or the offensive rebound. Lines are easy to guard; triangles are not."
+  ],
+  "whyItMatters": [
+    "Every broken possession in basketball can be traced to bad geometry — players standing in lines, in each other's driving lanes, with no passing angles. Triangle principles fix the geometry permanently: they give coaches a language ('form the triangle') that corrects spacing in real time, and they give players a mental model that works in any offense, any system, any level. Teams that think in triangles stop having 'bad spacing' possessions because the shape self-corrects."
+  ],
+  "howTo": [
+    {
+      "title": "Learn the two-man triangle",
+      "detail": "Wherever the ball is on the wing, the two nearest teammates form a triangle with the ball handler: one above (slot/wing) and one below (corner/short corner). The ball handler now has two passing angles — up and down — instead of one."
+    },
+    {
+      "title": "Build the weak-side triangle",
+      "detail": "Away from the ball, three players form a triangle: one at the weak-side slot (high), one in the weak-side corner (low), and one in between (mid). This shape is always skip-pass ready and always rebound-ready."
+    },
+    {
+      "title": "Maintain 4,5 to 6 meters between points",
+      "detail": "A triangle that is too small is just a crowd. Each side of the triangle should be 4,5 to 6 meters — far enough that one defender cannot guard two points, close enough that passes arrive on time."
+    },
+    {
+      "title": "Rotate the triangle as the ball moves",
+      "detail": "When the ball swings, the triangle rotates with it: the high man becomes the new ball-side support, the corner stays, the mid fills. Players don't run to spots — they maintain the shape relative to the ball."
+    },
+    {
+      "title": "Use the triangle to create the drive",
+      "detail": "The ball handler attacks the gap between two points of the triangle. Because the triangle's points are spaced correctly, the help defender must choose: stop the drive and give up the triangle pass, or stay home and give up the layup."
+    },
+    {
+      "title": "Crash from the triangle",
+      "detail": "On the shot, the triangle becomes the rebounding shape: the two nearest points crash, the farthest point gets back. Triangle spacing doesn't just create shots — it creates second shots."
+    }
+  ],
+  "coachingPoints": [
+    "Teach it 3-on-0 first. Players must feel the triangle shape with no defense before they can maintain it under pressure.",
+    "'Form the triangle' is a coaching cue, not a play call. Use it live in games to fix spacing without stopping play.",
+    "The weak-side triangle is where most teams fail. Ball-side spacing is natural; weak-side discipline is coached — demand it.",
+    "Distance discipline: players naturally drift toward the ball. The 4,5 to 6 meter rule must be enforced until it is instinct.",
+    "Triangles beat zones too. A zone's gaps are just bigger triangles waiting to be formed — teach players to find the soft spots between zone defenders."
+  ],
+  "commonMistakes": [
+    "Players stand in a line along the three-point arc — fix: the moment three players are in a line, one must cut or relocate to form the triangle.",
+    "Triangle too tight — everyone within 3 meters — fix: enforce the 4,5 to 6 meter spacing; one defender guarding two players means the triangle failed.",
+    "Weak side goes flat — all three weak-side players at the same level — fix: high, mid, low — the triangle needs three different depths.",
+    "Forgetting the triangle on the drive — fix: the triangle doesn't dissolve when someone drives; it rotates. Drill drive-and-relocate with the shape intact."
+  ],
+  "gameSituations": [
+    "Fixing a stagnant offense: when the ball sticks and spacing dies, the cue 'form the triangle' resets the geometry in one second.",
+    "Against zone defense: find the zone's seams and form triangles in them — the zone cannot guard a triangle inside its own gaps.",
+    "Late-game execution: triangle spacing guarantees every catch has two outlets — no more trapped ball handlers with nowhere to go."
+  ],
+  "tags": [
+    "spacing",
+    "triangle offense",
+    "team offense",
+    "basketball IQ",
+    "offensive principles"
+  ],
+  "related": [
+    "spacing-basics",
+    "offensive-principles",
+    "four-out-one-in",
+    "five-out-offense",
+    "weak-side-timing"
+  ],
+  "diagram": {
+    "title": "Triangle spacing — ball-side two-man triangle and weak-side three-man triangle",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 72,
+        "y": 42
+      },
+      {
+        "label": "O2",
+        "x": 88,
+        "y": 10
+      },
+      {
+        "label": "O3",
+        "x": 55,
+        "y": 55
+      },
+      {
+        "label": "O4",
+        "x": 25,
+        "y": 45
+      },
+      {
+        "label": "O5",
+        "x": 12,
+        "y": 10
+      }
+    ],
+    "defense": [
+      {
+        "label": "D1",
+        "x": 72,
+        "y": 37
+      },
+      {
+        "label": "D2",
+        "x": 84,
+        "y": 14
+      },
+      {
+        "label": "D3",
+        "x": 55,
+        "y": 50
+      },
+      {
+        "label": "D4",
+        "x": 29,
+        "y": 45
+      },
+      {
+        "label": "D5",
+        "x": 16,
+        "y": 14
+      }
+    ],
+    "ball": "O1",
+    "screens": [],
+    "moves": [
+      {
+        "from": "O1",
+        "to": "rim",
+        "kind": "dribble"
+      }
+    ],
+    "passes": [
+      {
+        "from": "O1",
+        "to": "O2"
+      },
+      {
+        "from": "O1",
+        "to": "O3"
+      }
+    ],
+    "shots": []
+  },
+  "vi": {
+    "title": "Nguyên tắc giãn đội hình tam giác (triangle spacing principles)",
+    "description": "Hình học đằng sau tấn công hay: các tam giác hai người và ba người đảm bảo góc chuyền, lane đột phá và vị trí rebound trong mọi pha bóng.",
+    "whatIsIt": [
+      "Triangle spacing là nguyên tắc cầu thủ tấn công nên xếp thành các tam giác — nhóm ba người tạo hình tam giác — thay vì xếp hàng. Bản nổi tiếng nhất là triangle offense của Phil Jackson, nhưng nguyên tắc này phổ quát: bóng ở đâu, hai đồng đội gần nhất nên tạo tam giác với người cầm bóng, cho anh ta hai phương án chuyền ở hai góc khác nhau.",
+      "Có hai tam giác then chốt. Tam giác hai người (người cầm bóng cộng hai đồng đội) đảm bảo người cầm bóng luôn có van xả theo hai hướng. Tam giác ba người phía yếu (ba cầu thủ tạo tam giác xa bóng) đảm bảo cân bằng sân: một người cao, một người ở góc, một người ở giữa — để phía yếu luôn sẵn sàng cho đường chuyền chéo, drive-and-kick, hoặc rebound tấn công. Xếp hàng thì dễ kèm; tam giác thì không."
+    ],
+    "whyItMatters": [
+      "Mọi pha bóng hỏng trong bóng rổ đều truy được về hình học tệ — cầu thủ đứng thành hàng, chắn lane đột phá của nhau, không có góc chuyền. Nguyên tắc tam giác sửa hình học một cách vĩnh viễn: nó cho HLV một ngôn ngữ ('tạo tam giác') để sửa spacing ngay trong trận, và cho cầu thủ một mô hình tư duy dùng được trong mọi hệ thống, mọi cấp độ. Đội nào nghĩ bằng tam giác sẽ hết những pha bóng 'spacing tệ' vì hình dạng tự sửa."
+    ],
+    "howTo": [
+      {
+        "title": "Học tam giác hai người",
+        "detail": "Bóng ở cánh đâu thì hai đồng đội gần nhất tạo tam giác với người cầm bóng: một người ở trên (slot/cánh) và một người ở dưới (góc/góc hẹp). Người cầm bóng giờ có hai góc chuyền — lên và xuống — thay vì một."
+      },
+      {
+        "title": "Dựng tam giác ba người phía yếu",
+        "detail": "Xa bóng, ba cầu thủ tạo thành tam giác: một người ở slot phía yếu (cao), một người ở góc phía yếu (thấp), một người ở giữa. Hình này luôn sẵn sàng nhận chuyền chéo và luôn sẵn sàng rebound."
+      },
+      {
+        "title": "Giữ khoảng cách 4,5 đến 6m giữa các đỉnh",
+        "detail": "Tam giác quá nhỏ chỉ là đám đông. Mỗi cạnh tam giác nên dài 4,5 đến 6m — đủ xa để một hậu vệ không kèm được hai đỉnh, đủ gần để đường chuyền đến kịp giờ."
+      },
+      {
+        "title": "Xoay tam giác theo bóng",
+        "detail": "Bóng đảo thì tam giác xoay theo: người ở cao thành điểm tựa mới phía có bóng, người ở góc giữ nguyên, người ở giữa lấp vào. Cầu thủ không chạy đến vị trí cố định — họ giữ hình dạng tương đối so với bóng."
+      },
+      {
+        "title": "Dùng tam giác để tạo pha đột phá",
+        "detail": "Người cầm bóng tấn công gap giữa hai đỉnh của tam giác. Vì các đỉnh được giãn đúng, help phải chọn: chặn đột phá và để hở đường chuyền tam giác, hoặc đứng yên và để mất layup."
+      },
+      {
+        "title": "Tranh rebound từ tam giác",
+        "detail": "Khi ném, tam giác thành hình rebound: hai đỉnh gần nhất lao vào, đỉnh xa nhất lùi về. Triangle spacing không chỉ tạo cú ném — nó tạo ra cơ hội ném thứ hai."
+      }
+    ],
+    "coachingPoints": [
+      "Dạy 3-không trước. Cầu thủ phải cảm nhận được hình tam giác khi không có phòng thủ, rồi mới giữ được nó dưới áp lực.",
+      "'Tạo tam giác' là khẩu lệnh huấn luyện, không phải bài gọi. Dùng ngay trong trận để sửa spacing mà không cần dừng trận đấu.",
+      "Tam giác phía yếu là nơi hầu hết các đội thất bại. Spacing phía có bóng là tự nhiên; kỷ luật phía yếu phải được rèn — đòi hỏi nó.",
+      "Kỷ luật khoảng cách: cầu thủ tự nhiên co về phía bóng. Quy tắc 4,5 đến 6m phải được ép đến khi thành bản năng.",
+      "Tam giác cũng đánh bại zone. Các khe của zone chỉ là những tam giác lớn hơn đang chờ được tạo — dạy cầu thủ tìm điểm mềm giữa các hậu vệ zone."
+    ],
+    "commonMistakes": [
+      "Cầu thủ xếp thành hàng dọc đường 3 điểm — sửa: ba người mà thành hàng là một người phải cắt hoặc dạt để tạo tam giác.",
+      "Tam giác quá chật — mọi người trong vòng 3m — sửa: ép khoảng cách 4,5 đến 6m; một hậu vệ kèm được hai người nghĩa là tam giác đã thất bại.",
+      "Phía yếu phẳng lì — cả ba người cùng một độ cao — sửa: cao, giữa, thấp — tam giác cần ba độ sâu khác nhau.",
+      "Quên tam giác khi đột phá — sửa: tam giác không tan khi ai đó đột phá; nó xoay theo. Tập đột phá và dạt vị trí mà giữ nguyên hình."
+    ],
+    "gameSituations": [
+      "Sửa tấn công bế tắc: bóng dính và spacing chết thì khẩu lệnh 'tạo tam giác' reset hình học trong một giây.",
+      "Trước phòng thủ zone: tìm đường nối của zone và tạo tam giác trong đó — zone không kèm được tam giác nằm trong khe của chính nó.",
+      "Xử lý cuối trận: triangle spacing đảm bảo mọi pha bắt bóng có hai đường ra — không còn cảnh người cầm bóng bị bẫy không lối thoát."
+    ],
+    "tags": [
+      "giãn đội hình",
+      "triangle offense",
+      "tấn công đồng đội",
+      "IQ bóng rổ",
+      "nguyên tắc tấn công"
+    ]
+  }
+}

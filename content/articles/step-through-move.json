@@ -1,0 +1,174 @@
+{
+  "id": "step-through-move",
+  "slug": "step-through-move",
+  "title": "Step-Through Move",
+  "description": "Shot fake, let the defender fly by, then step through the opening — the most reliable foul-drawing move in the paint.",
+  "hub": "skills",
+  "subcategory": "footwork",
+  "level": "intermediate",
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 5,
+  "dateUpdated": "2026-10-11",
+  "whatIsIt": [
+    "The step-through is beautifully simple: you shot fake, the defender jumps to block it, and you step through the space they just vacated for an uncontested finish. The move has two parts — a convincing fake and a long, controlled step — and it works because defenders are trained to contest every shot near the rim.",
+    "It is equally effective from the post and on drives. Anywhere a defender is close enough to bite on your fake, the step-through turns their aggression into your layup."
+  ],
+  "whyItMatters": [
+    "The step-through is the highest-percentage move in traffic because it removes the defender from the play without needing to beat them athletically. It also draws fouls at an elite rate — a jumping defender who lands on you is a foul every time. Players who master it score efficiently well into their thirties, long after their vertical fades."
+  ],
+  "howTo": [
+    {
+      "title": "Gather under control",
+      "detail": "Catch the ball or pick up your dribble with balance, in scoring range. You need a solid base for the fake to look real."
+    },
+    {
+      "title": "Sell the shot fake",
+      "detail": "Bring the ball up to shooting position with your eyes on the rim, knees loading like a real shot. The fake must look exactly like your jumper."
+    },
+    {
+      "title": "Hold it until they bite",
+      "detail": "Wait for the defender to actually leave their feet or lunge past you. An impatient step-through into a set defender is just a travel or a charge."
+    },
+    {
+      "title": "Take a long step through",
+      "detail": "Step hard past the defender with a long stride, keeping the ball protected at your hip or chinned. Go around their body, not through it."
+    },
+    {
+      "title": "Protect the ball on the step",
+      "detail": "Keep the ball on the far side from the recovering defender. If they reach, their arm is across your body — that's their foul, not your turnover."
+    },
+    {
+      "title": "Finish soft at the rim",
+      "detail": "With the defender behind you, finish with a soft touch off the glass or a simple layup. No need for power — they're out of the play."
+    }
+  ],
+  "coachingPoints": [
+    "The shot fake must be identical to your real shot — same footwork, same eye line, same rhythm.",
+    "Patience is the whole move; the step-through fails only when you step before the defender commits.",
+    "Step around the defender's body, not into it — stepping into a set defender is an offensive foul.",
+    "Keep the ball high on the gather so the fake is believable; low fakes don't draw jumps."
+  ],
+  "commonMistakes": [
+    "Faking without loading your legs — fix: bend your knees on the fake exactly like a real shot; stiff fakes fool nobody.",
+    "Stepping through too early — fix: count 'fake-one' in your head; the step comes on 'one', never on 'fake'.",
+    "Traveling on the step — fix: know your pivot foot and step with the free foot; drill it walk-through slow first.",
+    "Finishing too hard — fix: with the defender beaten, use touch, not power; hard finishes miss open layups."
+  ],
+  "gameSituations": [
+    "Post touches against shot-blockers — the step-through is the classic answer to a big who contests everything.",
+    "Drive-and-kick reads — when the help defender stunts at you, fake the pass or shot and step through the lane.",
+    "Baseline drives — fake the reverse layup, let the defender fly by, and step through for the easy finish."
+  ],
+  "tags": [
+    "footwork",
+    "finishing",
+    "pump-fake"
+  ],
+  "related": [
+    "shot-fake",
+    "contact-finishing",
+    "reverse-layup",
+    "euro-step",
+    "attacking-the-closeout"
+  ],
+  "diagram": {
+    "title": "O1 shot-fakes D1 into the air, then steps through for the open finish",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 40,
+        "y": 14
+      }
+    ],
+    "defense": [
+      {
+        "label": "D1",
+        "x": 42,
+        "y": 12
+      }
+    ],
+    "ball": "O1",
+    "screens": [],
+    "moves": [
+      {
+        "from": "O1",
+        "to": "O1",
+        "kind": "move"
+      },
+      {
+        "from": "O1",
+        "to": "rim",
+        "kind": "move"
+      }
+    ],
+    "passes": [],
+    "shots": []
+  },
+  "vi": {
+    "title": "Kỹ thuật step-through (bước xuyên qua)",
+    "description": "Giả ném, để hậu vệ bay qua, rồi bước xuyên qua khoảng trống — động tác kiếm lỗi đáng tin cậy nhất trong khu vực dưới rổ.",
+    "whatIsIt": [
+      "Step-through đơn giản một cách tuyệt đẹp: bạn giả ném, hậu vệ nhảy lên block, và bạn bước xuyên qua khoảng trống họ vừa bỏ lại để kết thúc không ai kèm. Động tác có hai phần — một pha giả thuyết phục và một bước dài, chắc — và nó hiệu quả vì hậu vệ được huấn luyện để contest mọi cú ném gần rổ.",
+      "Nó hiệu quả như nhau từ post và trong các pha đâm. Bất cứ đâu hậu vệ đủ gần để cắn pha giả của bạn, step-through biến sự hung hăng của họ thành cú layup của bạn."
+    ],
+    "whyItMatters": [
+      "Step-through là động tác có tỷ lệ thành công cao nhất trong đám đông vì nó loại hậu vệ khỏi pha bóng mà không cần vượt qua họ bằng thể lực. Nó cũng kiếm lỗi với tỷ lệ xuất sắc — một hậu vệ đang nhảy mà đáp xuống người bạn là một quả lỗi mỗi lần. Cầu thủ làm chủ nó ghi điểm hiệu quả đến tận ngoài ba mươi tuổi, lâu sau khi sức bật đã phai."
+    ],
+    "howTo": [
+      {
+        "title": "Gom bóng có kiểm soát",
+        "detail": "Bắt bóng hoặc nhặt dribble lên với thăng bằng, trong tầm ghi điểm. Bạn cần một bộ chân vững để pha giả trông thật."
+      },
+      {
+        "title": "Diễn pha giả ném",
+        "detail": "Đưa bóng lên tư thế ném với mắt nhìn rổ, gối nén xuống như một cú ném thật. Pha giả phải trông y hệt cú jumper của bạn."
+      },
+      {
+        "title": "Giữ đến khi họ cắn câu",
+        "detail": "Chờ hậu vệ thật sự rời khỏi mặt đất hoặc lao qua bạn. Bước xuyên vội vàng vào một hậu vệ đã vào thế chỉ là lỗi chạy bước hoặc lỗi tấn công."
+      },
+      {
+        "title": "Bước dài xuyên qua",
+        "detail": "Bước mạnh qua người hậu vệ bằng một sải dài, giữ bóng được che chắn ở hông hoặc kẹp ngang cằm. Đi vòng qua người họ, không đâm xuyên qua."
+      },
+      {
+        "title": "Che bóng khi bước",
+        "detail": "Giữ bóng ở phía xa so với hậu vệ đang hồi phục. Nếu họ với tay, tay họ đã vắt qua người bạn — đó là lỗi của họ, không phải mất bóng của bạn."
+      },
+      {
+        "title": "Kết thúc nhẹ nhàng ở rổ",
+        "detail": "Với hậu vệ đã ở sau lưng, kết thúc bằng một cú chạm bảng nhẹ hoặc một cú layup đơn giản. Không cần sức mạnh — họ đã out khỏi pha bóng."
+      }
+    ],
+    "coachingPoints": [
+      "Pha giả ném phải y hệt cú ném thật của bạn — cùng bộ chân, cùng đường mắt, cùng nhịp.",
+      "Kiên nhẫn là toàn bộ động tác; step-through chỉ thất bại khi bạn bước trước khi hậu vệ dồn trọng tâm.",
+      "Bước vòng qua người hậu vệ, không đâm vào họ — đâm vào một hậu vệ đã vào thế là lỗi tấn công.",
+      "Giữ bóng cao khi gom bóng để pha giả đáng tin; pha giả thấp không khiến ai nhảy lên."
+    ],
+    "commonMistakes": [
+      "Giả mà không nén chân — sửa: cong gối khi giả y như cú ném thật; pha giả cứng đơ không lừa được ai.",
+      "Bước xuyên quá sớm — sửa: đếm 'giả-một' trong đầu; bước đi vào nhịp 'một', không bao giờ vào nhịp 'giả'.",
+      "Lỗi chạy bước khi bước — sửa: biết chân trụ của mình và bước bằng chân tự do; tập đi bộ chậm trước.",
+      "Kết thúc quá mạnh — sửa: khi hậu vệ đã bị loại, dùng cảm giác tay, không phải sức mạnh; kết thúc mạnh là hỏng cả layup trống."
+    ],
+    "gameSituations": [
+      "Chạm bóng ở post trước các tay block — step-through là câu trả lời kinh điển cho một big contest mọi thứ.",
+      "Đọc tình huống drive-and-kick — khi hậu vệ hỗ trợ nhá vào bạn, giả chuyền hoặc giả ném rồi bước xuyên qua lane.",
+      "Đâm dọc biên — giả reverse layup, để hậu vệ bay qua, rồi bước xuyên vào kết thúc dễ dàng."
+    ],
+    "tags": [
+      "bộ chân",
+      "kết thúc",
+      "động tác giả"
+    ]
+  }
+}

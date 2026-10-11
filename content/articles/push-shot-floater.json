@@ -1,0 +1,180 @@
+{
+  "id": "push-shot-floater",
+  "slug": "push-shot-floater",
+  "title": "Push Shot Floater",
+  "description": "The one-handed push floater over shot-blockers — soft touch from 3–5 meters that bigs can't reach.",
+  "hub": "skills",
+  "subcategory": "finishing",
+  "level": "intermediate",
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "Guard",
+    "Wing"
+  ],
+  "readTime": 6,
+  "dateUpdated": "2026-10-11",
+  "whatIsIt": [
+    "The push shot — better known as the floater — is a one-handed shot released with a soft pushing motion from 3 to 5 meters out, arcing high over the shot-blocker and dropping into the basket. Unlike a jump shot, it's released on the way up with minimal jump; unlike a layup, it's released well before the rim.",
+    "The technique is all touch: the ball leaves your fingertips with a gentle push and high arc, floating over the outstretched arms below. It's the shot that makes shot-blockers irrelevant."
+  ],
+  "whyItMatters": [
+    "Every guard eventually meets a rim protector they can't finish over. The floater is the answer — it scores from the exact zone where bigs are most dangerous, without needing to get all the way to the rim. Players with a reliable floater turn the most crowded area of the floor into their personal scoring zone."
+  ],
+  "howTo": [
+    {
+      "title": "Drive to the floater zone",
+      "detail": "Attack the lane and read the help defender. When a shot-blocker commits to your drive, the 3–5 meter zone in front of them is your spot."
+    },
+    {
+      "title": "Gather with balance",
+      "detail": "Pick the ball up under control with two hands. You need balance more than speed here — the floater is a touch shot."
+    },
+    {
+      "title": "Take one or two short steps",
+      "detail": "Unlike a layup's long strides, the floater uses short, choppy steps to stay balanced and stop on a dime in the zone."
+    },
+    {
+      "title": "Push the ball up with one hand",
+      "detail": "Release the ball with a soft one-handed push off your fingertips, the same hand as your drive side. Think 'push up to the sky', not 'throw at the rim'."
+    },
+    {
+      "title": "Arc it high over the defender",
+      "detail": "Give the ball a high, soft arc — it should peak well above the shot-blocker's reach. Flat floaters get blocked; high ones don't."
+    },
+    {
+      "title": "Land and follow the shot",
+      "detail": "Land balanced and watch the ball. Floaters often draw soft rims — be ready for your own rebound."
+    }
+  ],
+  "coachingPoints": [
+    "The floater is released earlier than you think — practice letting it go a full step before you'd take off for a layup.",
+    "Arc is everything; a floater needs to come down into the basket, not fly flat into it.",
+    "Keep the same shooting-hand mechanics as your jumper — the push comes from your wrist and fingers, not a heave.",
+    "Practice the floater off both feet and both hands; game situations won't wait for your favorite side."
+  ],
+  "commonMistakes": [
+    "Shooting it flat — fix: aim for a spot on the backboard twice as high as the rim to force arc into the shot.",
+    "Jumping too much — fix: the floater is a push, not a jump shot; keep your jump small and quick.",
+    "Releasing too late — fix: if the shot-blocker is already in the air contesting, you're too deep; let it go earlier.",
+    "Using it from too far out — fix: the floater lives at 3–5 meters; beyond that, pull up for a real jumper instead."
+  ],
+  "gameSituations": [
+    "Pick-and-roll against drop coverage — when the big sags back, the floater scores right over the top of the coverage.",
+    "Driving against a rim protector — the floater is your primary weapon when you can't get all the way to the basket.",
+    "Late-clock drives — with no time for a kick-out, the floater gives you a high-percentage look in traffic."
+  ],
+  "tags": [
+    "finishing",
+    "floater",
+    "touch-shots"
+  ],
+  "related": [
+    "runner-floater",
+    "basic-layup",
+    "contact-finishing",
+    "pull-up-jumper",
+    "euro-step"
+  ],
+  "diagram": {
+    "title": "O1 stops in the floater zone and pushes the soft shot over D2's contest",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 52,
+        "y": 22
+      }
+    ],
+    "defense": [
+      {
+        "label": "D1",
+        "x": 55,
+        "y": 20
+      },
+      {
+        "label": "D2",
+        "x": 50,
+        "y": 12
+      }
+    ],
+    "ball": "O1",
+    "screens": [],
+    "moves": [
+      {
+        "from": "O1",
+        "to": "O1",
+        "kind": "move"
+      }
+    ],
+    "passes": [],
+    "shots": [
+      {
+        "x": 50,
+        "y": 5.25
+      }
+    ]
+  },
+  "vi": {
+    "title": "Ném thả đẩy tay (push shot / floater)",
+    "description": "Cú floater đẩy một tay qua đầu các tay block — cảm giác tay mềm từ khoảng 3–5m mà các big không với tới.",
+    "whatIsIt": [
+      "Push shot — thường gọi là floater — là cú ném một tay thả ra bằng động tác đẩy nhẹ từ khoảng 3–5m, vòng cao qua tay block và rơi vào rổ. Khác với jump shot, nó được thả khi đang bật lên với cú nhảy tối thiểu; khác với layup, nó được thả từ xa trước khi tới rổ.",
+      "Kỹ thuật là toàn bộ về cảm giác tay: bóng rời đầu ngón tay bằng một cú đẩy nhẹ với vòng cung cao, lơ lửng qua những cánh tay giơ lên bên dưới. Đó là cú ném khiến các tay block trở nên vô dụng."
+    ],
+    "whyItMatters": [
+      "Mọi hậu vệ rồi cũng sẽ gặp một người bảo vệ rổ mà họ không thể kết thúc qua được. Floater là câu trả lời — nó ghi điểm từ đúng vùng mà các big nguy hiểm nhất, mà không cần vào tới sát rổ. Cầu thủ có floater đáng tin cậy biến khu vực đông đúc nhất trên sân thành vùng ghi điểm của riêng mình."
+    ],
+    "howTo": [
+      {
+        "title": "Đâm vào vùng floater",
+        "detail": "Tấn công lane và đọc người hỗ trợ. Khi một tay block dồn vào pha đâm của bạn, vùng 3–5m trước mặt họ chính là điểm của bạn."
+      },
+      {
+        "title": "Gom bóng thăng bằng",
+        "detail": "Nhặt bóng chắc bằng hai tay. Ở đây bạn cần thăng bằng hơn tốc độ — floater là cú ném của cảm giác tay."
+      },
+      {
+        "title": "Đi một-hai bước ngắn",
+        "detail": "Khác với những sải dài của layup, floater dùng những bước ngắn, dồn dập để giữ thăng bằng và dừng ngay trong vùng."
+      },
+      {
+        "title": "Đẩy bóng lên bằng một tay",
+        "detail": "Thả bóng bằng một cú đẩy một tay nhẹ nhàng qua đầu ngón tay, tay cùng phía đâm. Nghĩ 'đẩy lên trời', không phải 'ném vào rổ'."
+      },
+      {
+        "title": "Vòng cung cao qua hậu vệ",
+        "detail": "Cho bóng một vòng cung cao, mềm — nó phải đạt đỉnh cao hơn hẳn tầm với của tay block. Floater bẹt là bị block; floater cao thì không."
+      },
+      {
+        "title": "Tiếp đất và theo bóng",
+        "detail": "Tiếp đất thăng bằng và nhìn theo bóng. Floater thường nảy vành nhẹ — sẵn sàng tranh bóng bật ra của chính mình."
+      }
+    ],
+    "coachingPoints": [
+      "Floater được thả sớm hơn bạn nghĩ — tập thả bóng sớm hơn một bước so với lúc bạn bật lên layup.",
+      "Vòng cung là tất cả; floater cần rơi từ trên xuống vào rổ, không phải bay ngang vào.",
+      "Giữ cơ chế tay ném như cú jumper của bạn — cú đẩy đến từ cổ tay và ngón tay, không phải một cú quăng.",
+      "Tập floater cả hai chân và cả hai tay; tình huống trận đấu không chờ phía thuận của bạn."
+    ],
+    "commonMistakes": [
+      "Ném bẹt — sửa: nhắm vào một điểm trên bảng rổ cao gấp đôi vành rổ để ép vòng cung vào cú ném.",
+      "Nhảy quá cao — sửa: floater là cú đẩy, không phải jump shot; giữ cú nhảy nhỏ và nhanh.",
+      "Thả bóng quá muộn — sửa: nếu tay block đã nhảy lên contest, bạn đã vào quá sâu; thả sớm hơn.",
+      "Dùng từ quá xa — sửa: floater sống ở khoảng 3–5m; xa hơn thì pull-up ném jumper thật."
+    ],
+    "gameSituations": [
+      "Pick and roll trước drop coverage — khi big lùi sâu, floater ghi điểm ngay trên đầu hàng thủ.",
+      "Đâm vào trước người bảo vệ rổ — floater là vũ khí chính khi bạn không thể vào tới sát rổ.",
+      "Pha đâm cuối đồng hồ — khi không còn thời gian chuyền ra, floater cho bạn một góc ném tỷ lệ cao trong đám đông."
+    ],
+    "tags": [
+      "kết thúc",
+      "floater",
+      "cảm giác tay"
+    ]
+  }
+}

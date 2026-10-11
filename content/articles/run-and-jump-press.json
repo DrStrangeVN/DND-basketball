@@ -1,0 +1,221 @@
+{
+  "ages": [
+    "U18",
+    "Adult"
+  ],
+  "coachingPoints": [
+    "The runner's job is the pass, not the steal — sprinting for steals leaves your man open and breaks the system.",
+    "Jump, don't chase: after forcing the pass, the runner finds the nearest man, never follows the ball.",
+    "Communication is the system — 'Jump!', 'Got yours!', 'Back!' must be constant and loud.",
+    "Condition relentlessly: run-and-jump at half effort is the worst defense in basketball; it only works at full sprint.",
+    "Start it after made baskets so the matchups are set — scrambling into run-and-jump off a miss invites confusion."
+  ],
+  "commonMistakes": [
+    "The runner trying to steal instead of forcing the pass — fix: hands high to take away vision, not low to swipe.",
+    "Two defenders jumping to the same man — fix: jump to the NEAREST open man; the talk sorts out the rest.",
+    "Original defender following the ball after the pass — fix: his job ended at the pass; he jumps to the runner's man immediately.",
+    "Running it without the legs to sustain it — fix: use it in 3-possession bursts, then drop into half-court defense."
+  ],
+  "dateUpdated": "2026-10-11",
+  "description": "The run-and-jump: defenders sprint to double the ball and 'jump switch' back — constant pressure without permanent traps.",
+  "gameSituations": [
+    "Against a team with shaky secondary handlers — every jump switch tests a new decision-maker.",
+    "Late-game when you need a run of stops — the chaos factor peaks when the offense is already tight.",
+    "After timeouts as a surprise look — offenses cannot scout the timing of the runs, only the concept.",
+    "Versus dribble-heavy isolation guards — the second sprinter arrives before the isolation even starts."
+  ],
+  "howTo": [
+    {
+      "title": "Start man-to-man full court",
+      "detail": "Match up man-to-man in the backcourt. The on-ball defender pressures the dribble; everyone else is in deny or ball-you-man, one pass away in deny stance, two passes away splitting ball and man."
+    },
+    {
+      "title": "Run at the ball on the trigger",
+      "detail": "The trigger is usually the second or third dribble, or a sideline catch. The nearest off-ball defender sprints full speed at the ball handler — not to steal, but to force a panicked pass or a pickup."
+    },
+    {
+      "title": "Force the rushed pass",
+      "detail": "The runner takes away the middle with his sprint angle and arrives with high hands. The ball handler must pass now, usually to the runner's man — who is now open for a split second."
+    },
+    {
+      "title": "Jump switch the assignments",
+      "detail": "The moment the ball leaves the handler's hands, the original on-ball defender jumps to the runner's man. The runner, after forcing the pass, jumps to the next nearest threat. Nobody chases the ball twice."
+    },
+    {
+      "title": "Keep the wave coming",
+      "detail": "Every catch triggers the next run: a new defender sprints at the new ball handler while the previous runner recovers to the nearest open man. The offense faces a fresh sprinter every 2-3 seconds."
+    },
+    {
+      "title": "Sprint back when beaten",
+      "detail": "If a long pass beats the wave, everyone sprints to the paint — the deepest defender takes the ball, the rest match up by proximity. The run-and-jump that cannot sprint back is just a layup line."
+    }
+  ],
+  "hub": "defense",
+  "id": "run-and-jump-press",
+  "level": "advanced",
+  "positions": [
+    "Guard",
+    "Forward"
+  ],
+  "readTime": 8,
+  "related": [
+    "full-court-press",
+    "switch-defense",
+    "transition-defense",
+    "help-defense",
+    "rotation-patterns"
+  ],
+  "slug": "run-and-jump-press",
+  "subcategory": "defensive-systems",
+  "tags": [
+    "press",
+    "run and jump",
+    "switch",
+    "turnovers",
+    "full-court defense"
+  ],
+  "title": "Run-and-Jump Press",
+  "vi": {
+    "coachingPoints": [
+      "Nhiệm vụ của người lao vào là ép đường chuyền, không phải cướp bóng — lao vào để cướp sẽ bỏ hở người kèm và phá vỡ cả hệ thống.",
+      "Nhảy đổi người, đừng đuổi theo bóng: sau khi ép chuyền, người lao vào tìm người trống gần nhất, không bao giờ chạy theo bóng.",
+      "Giao tiếp chính là hệ thống — 'Nhảy!', 'Tôi lấy người này!', 'Về!' phải liên tục và to rõ.",
+      "Rèn thể lực không ngừng: run-and-jump ở nửa sức là kiểu phòng thủ tệ nhất; nó chỉ hiệu quả ở tốc độ tối đa.",
+      "Bắt đầu sau các pha ghi điểm để đội hình kèm người đã ổn định — lao vào run-and-jump sau pha ném hỏng dễ gây rối loạn."
+    ],
+    "commonMistakes": [
+      "Người lao vào cố cướp bóng thay vì ép chuyền — sửa: tay giơ cao che tầm nhìn, không thò tay thấp để khều.",
+      "Hai cầu thủ nhảy vào cùng một người — sửa: nhảy vào người trống GẦN NHẤT; tiếng hô sẽ sắp xếp phần còn lại.",
+      "Cầu thủ kèm bóng ban đầu chạy theo bóng sau đường chuyền — sửa: nhiệm vụ của anh ta kết thúc ở đường chuyền; nhảy ngay sang người của người lao vào.",
+      "Chạy nó mà không đủ thể lực duy trì — sửa: dùng theo đợt 3 pha bóng rồi lùi về phòng thủ nửa sân."
+    ],
+    "description": "Kiểu run-and-jump: cầu thủ lao lên ép bóng rồi 'nhảy' đổi người về — áp lực liên tục mà không cần bẫy cố định.",
+    "gameSituations": [
+      "Gặp đội có người xử lý bóng thứ hai non tay — mỗi cú nhảy đổi người thử thách một người ra quyết định mới.",
+      "Cuối trận khi cần chuỗi pha phòng thủ — yếu tố hỗn loạn lên đỉnh điểm khi đối phương đã căng cứng.",
+      "Sau hội ý như một bất ngờ — đối phương chỉ do thám được ý tưởng, không do thám được thời điểm các đợt lao.",
+      "Gặp hậu vệ thích đột phá cá nhân nhiều pha dẫn bóng — người lao thứ hai tới nơi trước cả khi pha đột phá bắt đầu."
+    ],
+    "howTo": [
+      {
+        "title": "Bắt đầu kèm người toàn sân",
+        "detail": "Kèm người 1-1 ở sân nhà. Cầu thủ kèm bóng gây áp lực lên pha dẫn bóng; những người còn lại ở thế bắt đường chuyền hoặc giữa bóng và người, cách một đường chuyền thì bắt chặt, cách hai đường chuyền thì chia giữa bóng và người."
+      },
+      {
+        "title": "Lao vào bóng theo tín hiệu",
+        "detail": "Tín hiệu thường là pha dẫn bóng thứ hai hoặc ba, hoặc pha bắt bóng ở biên. Cầu thủ không bóng gần nhất lao hết tốc độ vào người dẫn bóng — không phải để cướp, mà để ép một đường chuyền hoảng loạn hoặc bắt anh ta dừng bóng."
+      },
+      {
+        "title": "Ép đường chuyền vội",
+        "detail": "Người lao vào cắt đường giữa bằng góc chạy và đến nơi với tay giơ cao. Người dẫn bóng buộc phải chuyền ngay, thường là cho người mà anh ta vừa bỏ — người này hở ra trong tích tắc."
+      },
+      {
+        "title": "Nhảy đổi người",
+        "detail": "Ngay khi bóng rời tay người dẫn bóng, cầu thủ kèm bóng ban đầu nhảy sang kèm người của người lao vào. Người lao vào, sau khi ép chuyền, nhảy sang mối đe dọa gần nhất tiếp theo. Không ai đuổi theo bóng hai lần."
+      },
+      {
+        "title": "Giữ đợt sóng liên tục",
+        "detail": "Mỗi pha bắt bóng kích hoạt một đợt lao mới: một cầu thủ khác lao vào người dẫn bóng mới trong khi người trước thu về kèm người trống gần nhất. Đối phương đối mặt với một người lao mới mỗi 2-3 giây."
+      },
+      {
+        "title": "Chạy về khi bị vượt",
+        "detail": "Nếu một đường chuyền dài vượt qua đợt sóng, mọi người chạy nhanh về khu vực dưới rổ — cầu thủ sâu nhất lấy bóng, còn lại kèm theo vị trí gần nhất. Run-and-jump mà không chạy về được chỉ là bài tập layup cho đối phương."
+      }
+    ],
+    "tags": [
+      "press",
+      "run and jump",
+      "đổi người",
+      "cướp bóng",
+      "phòng thủ toàn sân"
+    ],
+    "title": "Press run-and-jump",
+    "whatIsIt": [
+      "Run-and-jump là hệ thống kèm người toàn sân với một biến tấu: thay vì giữ người, cầu thủ rời người kèm để lao tới ép người dẫn bóng, buộc anh ta chuyền vội, rồi 'nhảy' đổi người ngay — mọi người nhận bóng đều được kèm. Áp lực không ngừng, nhưng không ai bị kẹt trong một pha bẫy cố định.",
+      "Điểm kỳ diệu là cú nhảy đổi người. Khi D2 lao vào bóng, D1 nhảy sang kèm người của D2; khi bóng được chuyền đi, cầu thủ gần nhất nhảy sang kèm người nhận. Làm ở tốc độ tối đa, trông nó hỗn loạn — nhưng mỗi người đều có quy tắc, và quy tắc không bao giờ đổi."
+    ],
+    "whyItMatters": [
+      "Các đội press đẳng cấp thích run-and-jump vì nó tấn công tốc độ quyết định của đối phương, không chỉ kỹ năng dẫn bóng. Ngay cả hậu vệ giỏi cũng chuyền hỏng khi một cầu thủ thứ hai lao tới không báo trước và các đường chuyền liên tục thay đổi. Nó biến mỗi pha ném biên thành một bài toán 5 giây mà đối phương phải giải ở tốc độ tối đa."
+    ]
+  },
+  "whatIsIt": [
+    "Run-and-jump is a full-court man-to-man system with one twist: instead of staying home, defenders leave their man to sprint at the ball handler and force a hurried pass, then 'jump' back — switching assignments on the fly so every receiver is picked up. The pressure never stops, but nobody gets stuck in a permanent trap.",
+    "The magic is the jump switch. When D2 runs at the ball, D1 jumps to D2's man; when the ball is passed, the nearest defender jumps to the receiver. Done at full sprint, it looks chaotic — but every player has a rule, and the rules never change."
+  ],
+  "whyItMatters": [
+    "Elite pressing teams love run-and-jump because it attacks the offense's decision speed, not just their handles. Even good guards throw the ball away when a second defender sprints at them with no warning and the passing lanes keep changing. It turns every inbound into a 5-second problem the offense must solve at full speed."
+  ],
+  "diagram": {
+    "title": "Run-and-jump — D2 sprints at the ball, D1 jump-switches to D2's man",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 62,
+        "y": 84
+      },
+      {
+        "label": "O2",
+        "x": 34,
+        "y": 76
+      },
+      {
+        "label": "O3",
+        "x": 76,
+        "y": 70
+      },
+      {
+        "label": "O4",
+        "x": 48,
+        "y": 60
+      },
+      {
+        "label": "O5",
+        "x": 58,
+        "y": 52
+      }
+    ],
+    "defense": [
+      {
+        "label": "D1",
+        "x": 60,
+        "y": 82
+      },
+      {
+        "label": "D2",
+        "x": 40,
+        "y": 68
+      },
+      {
+        "label": "D3",
+        "x": 74,
+        "y": 68
+      },
+      {
+        "label": "D4",
+        "x": 46,
+        "y": 58
+      },
+      {
+        "label": "D5",
+        "x": 56,
+        "y": 50
+      }
+    ],
+    "ball": "O1",
+    "screens": [],
+    "moves": [
+      {
+        "from": "D2",
+        "to": "O1",
+        "kind": "move"
+      },
+      {
+        "from": "D1",
+        "to": "O2",
+        "kind": "move"
+      }
+    ],
+    "passes": [],
+    "shots": []
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "id": "nail-decision-making",
+  "slug": "nail-decision-making",
+  "hub": "basketball-iq",
+  "subcategory": "advanced-reads",
+  "level": "beginner",
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 5,
+  "dateUpdated": "2026-10-11",
+  "title": "Nail Decision-Making",
+  "description": "Owning the most important spot on the floor: what to do when you catch at the nail — shoot, drive, or spray — and how to read the defense in one second.",
+  "tags": [
+    "nail",
+    "decision making",
+    "basketball iq",
+    "pick and roll",
+    "spacing"
+  ],
+  "whatIsIt": [
+    "The 'nail' is the middle of the free-throw line — the spot where help defenders live and where offenses die if nobody can make decisions there. When you catch at the nail, you are at the center of the defense's universe: every rotation bends toward you, which means every pass you make creates an advantage somewhere else.",
+    "Nail decision-making is the skill of catching in the middle and instantly choosing among three options: shoot the open jumper, drive the closeout, or spray the ball to the open side. Great nail players make the defense wrong no matter what it does — commit to them and they pass, stay home and they score."
+  ],
+  "whyItMatters": [
+    "Modern defenses are built to force the ball to the nail — it is where their help is closest and their rotations are shortest. If your team cannot make decisions there, possessions stall and die. A player who thrives at the nail turns the defense's best scheme into a disadvantage, because the middle of the floor is also where the most passing angles live."
+  ],
+  "howTo": [
+    {
+      "title": "Catch ready: feet and eyes set",
+      "detail": "Catch at the nail on balance with your feet set and your eyes scanning. A flat-footed catch with eyes down gives the defense a free second to recover. Catch like a triple threat — the defense must respect all three options from the first instant."
+    },
+    {
+      "title": "Read the closest defender first",
+      "detail": "One read decides everything: is the nearest defender closing out hard or sitting back? Hard closeout means drive past them; sitting back means rise up for the jumper. Make this read before the catch by watching the defense while the ball is in the air."
+    },
+    {
+      "title": "Shoot it if they give it to you",
+      "detail": "The nail jumper — around 4.5m, straight on — is one of the most efficient shots in basketball when it is open. Defenses that over-help are begging you to take it. Do not overthink an open nail jumper; take it with confidence."
+    },
+    {
+      "title": "Drive with a passing plan",
+      "detail": "When you put the ball on the floor from the nail, drive with your eyes up and a destination in mind: the rim if it is open, the corner if help comes, the opposite wing if the defense rotates. A nail drive without a passing plan becomes a charge or a blocked shot."
+    },
+    {
+      "title": "Spray to the open side",
+      "detail": "If the defense collapses on your catch, skip the ball to the weak side immediately — do not dribble into the crowd first. The nail catch that becomes an instant spray pass is how good offenses turn one advantage into two."
+    },
+    {
+      "title": "Re-attack after the spray",
+      "detail": "After you spray the ball out, do not stand and watch — cut, screen, or relocate. The defense just rotated because of you; your next movement creates the second advantage. Nail players who move after the pass are twice as dangerous."
+    }
+  ],
+  "coachingPoints": [
+    "The nail is the decision hub of modern offense — put your smartest players there, not just your biggest.",
+    "Catch-and-read beats catch-and-hold: the ball should move within one second of touching your hands.",
+    "The open nail jumper is a green light, always — punish over-helping defenses.",
+    "Eyes up on every nail drive — the pass you see is worth more than the shot you force.",
+    "Drill the nail with live closeouts — static shooting from the nail teaches nothing about decisions."
+  ],
+  "commonMistakes": [
+    "Catching and holding while the defense recovers — fix: one-second rule — shoot, drive, or pass within one count of the catch.",
+    "Driving into a packed paint with no plan — fix: decide the passing outlet before the first dribble; no outlet, no drive.",
+    "Passing up the open nail jumper — fix: track makes in practice; confidence comes from evidence, and the nail jumper is efficient.",
+    "Standing still after the spray pass — fix: every nail catch ends with a cut or a screen; standing still wastes the rotation you just created."
+  ],
+  "gameSituations": [
+    "Short roll against a blitz — the big catches at the nail and must make the 4v3 read instantly.",
+    "Middle penetration kick-out — the nail catch against a scrambling defense is the highest-value touch in the possession.",
+    "Zone offense — the nail is the soft spot of most zones; catch there and the zone has to choose its poison.",
+    "Late-clock bailout — when the play breaks down, getting to the nail gives you the most options with the least time."
+  ],
+  "related": [
+    "reading-nail-defense",
+    "middle-pick-and-roll",
+    "pick-and-roll-reads",
+    "roll-man-reads",
+    "horns-pick-and-roll"
+  ],
+  "diagram": {
+    "title": "Short-roll catch at the nail — read the closeout: shoot, drive, or spray weak side",
+    "ball": "O5",
+    "offense": [
+      {
+        "label": "O5",
+        "x": 50,
+        "y": 19
+      },
+      {
+        "label": "O1",
+        "x": 50,
+        "y": 45
+      },
+      {
+        "label": "O3",
+        "x": 78,
+        "y": 20
+      },
+      {
+        "label": "O2",
+        "x": 24,
+        "y": 20
+      }
+    ],
+    "defense": [
+      {
+        "label": "D5",
+        "x": 50,
+        "y": 28
+      },
+      {
+        "label": "D1",
+        "x": 50,
+        "y": 40
+      },
+      {
+        "label": "D3",
+        "x": 70,
+        "y": 22
+      }
+    ],
+    "passes": [
+      {
+        "from": "O5",
+        "to": "O3"
+      },
+      {
+        "from": "O1",
+        "to": "O5"
+      }
+    ],
+    "moves": [
+      {
+        "from": "O5",
+        "kind": "dribble",
+        "to": "rim"
+      }
+    ],
+    "screens": [],
+    "shots": []
+  },
+  "vi": {
+    "title": "Ra quyết định ở vị trí nail",
+    "description": "Làm chủ điểm quan trọng nhất trên sân: làm gì khi bắt bóng ở nail — ném, đâm, hay chuyền đảo — và cách đọc hàng thủ trong một giây.",
+    "tags": [
+      "nail",
+      "ra quyết định",
+      "nhãn quan chiến thuật",
+      "pick and roll",
+      "giãn đội hình"
+    ],
+    "whatIsIt": [
+      "'Nail' là điểm giữa vạch ném phạt — nơi hậu vệ hỗ trợ trú ngụ và nơi các đợt tấn công chết yểu nếu không ai biết ra quyết định ở đó. Khi bạn bắt bóng ở nail, bạn đang ở trung tâm vũ trụ của hàng thủ: mọi pha xoay chuyển đều hướng về bạn, nghĩa là mỗi đường chuyền của bạn đều tạo lợi thế ở nơi khác.",
+      "Ra quyết định ở nail là kỹ năng bắt bóng ở giữa sân và ngay lập tức chọn một trong ba hướng: ném cú jumper trống, đâm qua pha closeout, hay chuyền đảo sang phía trống. Cầu thủ nail giỏi khiến hàng thủ sai dù họ làm gì — lao vào bạn thì bạn chuyền, đứng yên thì bạn ghi điểm."
+    ],
+    "whyItMatters": [
+      "Hàng thủ hiện đại được xây để ép bóng về nail — đó là nơi hỗ trợ của họ gần nhất và pha xoay chuyển ngắn nhất. Nếu đội bạn không ra quyết định được ở đó, đợt tấn công sẽ đình trệ rồi chết. Cầu thủ chơi tốt ở nail biến sơ đồ hay nhất của hàng thủ thành bất lợi, vì giữa sân cũng là nơi có nhiều góc chuyền nhất."
+    ],
+    "howTo": [
+      {
+        "title": "Bắt bóng trong tư thế sẵn sàng: chân và mắt đã đặt",
+        "detail": "Bắt bóng ở nail với thăng bằng, chân đã đặt, mắt quan sát. Bắt bóng bằng chân chết và mắt cúi xuống tặng hàng thủ một giây quý giá để hồi về. Bắt bóng như tư thế triple threat — hàng thủ phải dè chừng cả ba hướng ngay từ khoảnh khắc đầu tiên."
+      },
+      {
+        "title": "Đọc hậu vệ gần nhất trước tiên",
+        "detail": "Một pha đọc quyết định mọi thứ: hậu vệ gần nhất đang lao ra mạnh hay đang lùi lại? Lao ra mạnh thì đâm qua họ; lùi lại thì bật ném jumper. Đọc điều này trước khi bắt bóng bằng cách quan sát hàng thủ trong lúc bóng còn trên không."
+      },
+      {
+        "title": "Họ nhường thì cứ ném",
+        "detail": "Cú ném jumper ở nail — khoảng 4,5m, chính diện — là một trong những cú ném hiệu quả nhất bóng rổ khi nó trống trải. Hàng thủ hỗ trợ quá đà là đang van xin bạn ném. Đừng nghĩ nhiều với cú ném nail trống; ném với sự tự tin."
+      },
+      {
+        "title": "Đâm bóng với kế hoạch chuyền sẵn",
+        "detail": "Khi bạn đặt bóng xuống sàn từ nail, đâm với mắt ngẩng lên và đích đến trong đầu: lên rổ nếu trống, ra góc nếu hỗ trợ tới, sang cánh đối diện nếu hàng thủ xoay. Một pha đâm từ nail không có kế hoạch chuyền sẽ thành lỗi tấn công hoặc bị block."
+      },
+      {
+        "title": "Chuyền đảo ngay sang phía trống",
+        "detail": "Nếu hàng thủ co vào khi bạn bắt bóng, chuyền đảo sang phía yếu ngay lập tức — đừng dẫn bóng vào đám đông trước. Pha bắt bóng ở nail thành đường chuyền đảo ngay là cách các đội tấn công tốt biến một lợi thế thành hai."
+      },
+      {
+        "title": "Tái tấn công sau đường chuyền đảo",
+        "detail": "Sau khi chuyền đảo bóng ra, đừng đứng nhìn — cắt chỗ, đặt screen, hoặc di chuyển. Hàng thủ vừa xoay chuyển vì bạn; bước di chuyển tiếp theo của bạn tạo ra lợi thế thứ hai. Cầu thủ nail di chuyển sau đường chuyền nguy hiểm gấp đôi."
+      }
+    ],
+    "coachingPoints": [
+      "Nail là trung tâm ra quyết định của lối tấn công hiện đại — đặt cầu thủ thông minh nhất của bạn ở đó, không chỉ cầu thủ to nhất.",
+      "Bắt-và-đọc hơn bắt-và-giữ: bóng phải di chuyển trong vòng một giây sau khi chạm tay bạn.",
+      "Cú ném nail trống luôn là đèn xanh — trừng phạt hàng thủ hỗ trợ quá đà.",
+      "Mắt ngẩng lên trong mọi pha đâm từ nail — đường chuyền bạn thấy đáng giá hơn cú ném bạn cố ép.",
+      "Tập nail với closeout trực tiếp — ném tĩnh từ nail chẳng dạy gì về ra quyết định."
+    ],
+    "commonMistakes": [
+      "Bắt bóng rồi giữ trong lúc hàng thủ hồi về — sửa: luật một giây — ném, đâm, hoặc chuyền trong vòng một nhịp sau khi bắt bóng.",
+      "Đâm vào khu vực dưới rổ đông nghẹt không kế hoạch — sửa: quyết định cửa chuyền trước nhịp dẫn đầu tiên; không có cửa chuyền thì không đâm.",
+      "Bỏ qua cú ném nail trống — sửa: theo dõi tỷ lệ vào trong buổi tập; sự tự tin đến từ bằng chứng, và cú ném nail rất hiệu quả.",
+      "Đứng yên sau đường chuyền đảo — sửa: mọi pha bắt bóng ở nail kết thúc bằng một pha cắt chỗ hoặc screen; đứng yên là lãng phí pha xoay chuyển bạn vừa tạo ra."
+    ],
+    "gameSituations": [
+      "Short roll trước pha blitz — big bắt bóng ở nail và phải đọc 4 đấu 3 ngay lập tức.",
+      "Đâm giữa rồi chuyền ra — pha bắt bóng ở nail trước hàng thủ rối loạn là pha chạm bóng giá trị nhất đợt tấn công.",
+      "Đánh zone — nail là điểm mềm của hầu hết các zone; bắt bóng ở đó và zone phải chọn thuốc độc của mình.",
+      "Cứu bóng cuối đồng hồ — khi bài đánh vỡ, lên được nail cho bạn nhiều lựa chọn nhất với ít thời gian nhất."
+    ]
+  }
+}

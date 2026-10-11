@@ -1,0 +1,214 @@
+{
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "coachingPoints": [
+    "Help the helper is a trust exercise — the first helper can only be aggressive if he knows the second rotation is coming.",
+    "Take the shot first: rotate to kill the catch-and-shoot; live with the pump-fake drive.",
+    "The x-out call prevents the classic breakdown — two defenders, one man, one wide-open shooter.",
+    "Rotations are loans, not gifts: help, then bump back the moment the ball moves away.",
+    "Drill it 4-on-3 with continuous ball movement — the second rotation must survive three passes, not one."
+  ],
+  "commonMistakes": [
+    "Helping the helper's man instead of the helper's man — fix: you take the HELPER's man, not the ball; the helper has the ball.",
+    "Arriving late to the corner — fix: move on the helper's first step, not on the pass; the pass is already too late.",
+    "Two defenders x-ing to the same man — fix: the call 'X!' assigns the cross; without the call, hold your rotation.",
+    "Never bumping back — fix: rotations end when the ball moves; sprint back to your original matchup on the reversal."
+  ],
+  "dateUpdated": "2026-10-11",
+  "description": "The second rotation: when the helper helps, someone must help the helper — the rotation that stops the kick-out three.",
+  "gameSituations": [
+    "Against drive-and-kick offenses — the second rotation is the only thing standing between their system and open threes.",
+    "When your on-ball defender is aggressive — help-the-helper lets him pressure without the defense collapsing.",
+    "Late-clock drives — the driver wants a kick-out three; the second rotation takes away his bailout.",
+    "In transition defense after a stop — the scramble help needs a second rotation to survive the kick-out."
+  ],
+  "howTo": [
+    {
+      "title": "See the first help coming",
+      "detail": "The help-the-helper rotation starts before the drive. When a teammate stunts or commits to help, read his body: if his chest turns to the ball, his man is now your problem. Anticipate, don't react."
+    },
+    {
+      "title": "Rotate to the helper's man",
+      "detail": "Sprint to the helper's original man — usually the corner or the wing. Take away his catch-and-shoot first; you can recover to a drive later, but you cannot recover to a made three."
+    },
+    {
+      "title": "X-out on the skip pass",
+      "detail": "If the ball skips over your head to the far side, execute the x-out: the two rotating defenders cross — one takes the ball, one takes the next man. Call 'X! X!' so nobody doubles the same player."
+    },
+    {
+      "title": "Bump and recover",
+      "detail": "When the ball is kicked out to the man you rotated to, close out under control and force him to put it on the floor. The original helper, once his drive is stopped, bumps back to his man — rotations are temporary."
+    },
+    {
+      "title": "Chain the third rotation",
+      "detail": "Against good ball movement, a third rotation may be needed: the next defender drops to the next open man. Drill 4-on-3 continuous until the chain never breaks — the third rotation is what beats great offenses."
+    }
+  ],
+  "hub": "defense",
+  "id": "help-the-helper-rotation",
+  "level": "intermediate",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 6,
+  "related": [
+    "help-defense",
+    "rotation-patterns",
+    "x-out-rotations",
+    "help-side-rotation-timing",
+    "closeout-defense"
+  ],
+  "slug": "help-the-helper-rotation",
+  "subcategory": "rotations",
+  "tags": [
+    "rotations",
+    "help defense",
+    "kick-out",
+    "team defense",
+    "closeout"
+  ],
+  "title": "Help the Helper Rotation",
+  "vi": {
+    "coachingPoints": [
+      "Help the helper là một bài tập niềm tin — người hỗ trợ đầu tiên chỉ dám quyết liệt khi biết rotation thứ hai đang tới.",
+      "Cắt cú ném trước: xoay để giết pha bắt bóng ném ngay; chấp nhận pha đột phá sau động tác giả.",
+      "Tiếng hô x-out ngăn sự cố kinh điển — hai cầu thủ, một người kèm, một tay ném hoàn toàn trống.",
+      "Rotation là cho mượn, không phải cho luôn: hỗ trợ, rồi đẩy về ngay khi bóng di chuyển đi.",
+      "Tập 4 đấu 3 với bóng di chuyển liên tục — rotation thứ hai phải sống sót qua ba đường chuyền, không phải một."
+    ],
+    "commonMistakes": [
+      "Đi hỗ trợ người của người hỗ trợ thay vì người của người hỗ trợ — sửa: bạn lấy NGƯỜI CỦA NGƯỜI HỖ TRỢ, không phải bóng; người hỗ trợ đã có bóng.",
+      "Tới góc muộn — sửa: di chuyển ngay bước đầu của người hỗ trợ, không phải khi bóng chuyền; lúc chuyền đã quá muộn.",
+      "Hai cầu thủ x-out vào cùng một người — sửa: tiếng hô 'X!' phân công pha bắt chéo; không có hô thì giữ rotation của mình.",
+      "Không bao giờ đẩy về — sửa: rotation kết thúc khi bóng di chuyển; chạy nhanh về người kèm ban đầu khi bóng đổi hướng."
+    ],
+    "description": "Rotation thứ hai: khi người hỗ trợ lao ra giúp, phải có người hỗ trợ lại người đó — rotation chặn đứng cú ném 3 điểm sau pha kick-out.",
+    "gameSituations": [
+      "Gặp đội tấn công đột phá rồi kick-out — rotation thứ hai là thứ duy nhất đứng giữa hệ thống của họ và những cú ném 3 điểm trống.",
+      "Khi cầu thủ kèm bóng của bạn chơi quyết liệt — help-the-helper để anh ta gây áp lực mà hàng thủ không sụp đổ.",
+      "Các pha đột phá cuối đồng hồ — người đột phá muốn kick-out ném 3 điểm; rotation thứ hai lấy đi lối thoát của anh ta.",
+      "Trong phòng thủ chuyển đổi sau pha chặn bóng — pha hỗ trợ hỗn loạn cần rotation thứ hai để sống sót qua pha kick-out."
+    ],
+    "howTo": [
+      {
+        "title": "Thấy trước pha hỗ trợ đầu tiên",
+        "detail": "Rotation help-the-helper bắt đầu trước pha đột phá. Khi đồng đội stunt hoặc lao ra hỗ trợ, đọc cơ thể anh ta: nếu ngực anh ta xoay về bóng, người của anh ta giờ là vấn đề của bạn. Đoán trước, đừng phản ứng."
+      },
+      {
+        "title": "Xoay sang kèm người của người hỗ trợ",
+        "detail": "Chạy nhanh tới người cũ của người hỗ trợ — thường là góc hoặc cánh. Cắt pha bắt bóng ném ngay trước; bạn có thể thu về chống pha đột phá sau, nhưng không thể thu về một cú ném 3 điểm đã vào."
+      },
+      {
+        "title": "X-out khi bóng chuyền ngang",
+        "detail": "Nếu bóng chuyền ngang qua đầu bạn sang phía xa, thực hiện x-out: hai cầu thủ đang xoay bắt chéo — một người lấy bóng, một người lấy người tiếp theo. Hô 'X! X!' để không ai kèm trùng một người."
+      },
+      {
+        "title": "Đẩy và thu về",
+        "detail": "Khi bóng được kick-out cho người bạn vừa xoay tới, closeout có kiểm soát và ép anh ta phải dẫn bóng. Người hỗ trợ ban đầu, khi pha đột phá đã bị chặn, đẩy về người của mình — rotation chỉ là tạm thời."
+      },
+      {
+        "title": "Nối rotation thứ ba",
+        "detail": "Gặp đội chuyền bóng tốt, có thể cần rotation thứ ba: cầu thủ tiếp theo lùi xuống lấy người trống tiếp theo. Tập 4 đấu 3 liên tục đến khi chuỗi không bao giờ đứt — rotation thứ ba mới đánh bại được những đội tấn công hay."
+      }
+    ],
+    "tags": [
+      "xoay chuyển đội hình",
+      "phòng thủ hỗ trợ",
+      "kick-out",
+      "phòng thủ đồng đội",
+      "closeout"
+    ],
+    "title": "Hỗ trợ người hỗ trợ (help the helper)",
+    "whatIsIt": [
+      "Help the helper là rotation phía sau rotation. Khi một cầu thủ rời người kèm để hỗ trợ pha đột phá, đồng đội phải xoay sang kèm người của anh ta — nếu không, pha hỗ trợ chỉ đổi một cú layup lấy một cú ném 3 điểm trống trải. Đó là ranh giới giữa hàng thủ biết hỗ trợ và hàng thủ sống sót sau khi hỗ trợ.",
+      "Đây là nơi các hàng thủ trẻ sụp đổ: pha hỗ trợ đầu tiên theo bản năng, nhưng rotation thứ hai đòi hỏi niềm tin và tầm nhìn. Người hỗ trợ phải tin rằng có người phía sau mình, và người đó phải thực sự ở đó — sớm, to rõ, và quyết tâm."
+    ],
+    "whyItMatters": [
+      "Các đội tấn công hiện đại được xây để trừng phạt pha hỗ trợ đầu tiên — đột phá, kick-out, chuyền ngang, ném. Đáp án duy nhất là rotation thứ hai đến đúng lúc. Đội help the helper tốt có thể quyết liệt với bóng mà không sợ hãi, vì mọi canh bạc đều có lưới an toàn. Sự quyết liệt đó tạo ra những pha cướp bóng và cú ném bị contest thay vì những cú ném trống."
+    ]
+  },
+  "whatIsIt": [
+    "Help the helper is the rotation behind the rotation. When a defender leaves his man to help on the drive, a teammate must rotate to the helper's man — otherwise the help just trades a layup for an open three. It is the difference between a defense that helps and a defense that survives helping.",
+    "This is where young defenses break down: the first help is instinctive, but the second rotation requires trust and vision. The helper has to believe someone is behind him, and the someone has to actually be there — early, loud, and committed."
+  ],
+  "whyItMatters": [
+    "Modern offenses are built to punish the first help — drive, kick, swing, shoot. The only answer is a second rotation that arrives on time. Teams that help the helper well can be aggressive on the ball without fear, because every gamble has a safety net. That aggression is what creates turnovers and contested shots instead of open ones."
+  ],
+  "diagram": {
+    "title": "Help the helper — D3 rotates to the helper's man in the corner",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 62,
+        "y": 30
+      },
+      {
+        "label": "O2",
+        "x": 30,
+        "y": 38
+      },
+      {
+        "label": "O3",
+        "x": 78,
+        "y": 22
+      },
+      {
+        "label": "O4",
+        "x": 44,
+        "y": 14
+      },
+      {
+        "label": "O5",
+        "x": 56,
+        "y": 12
+      }
+    ],
+    "defense": [
+      {
+        "label": "D1",
+        "x": 58,
+        "y": 28
+      },
+      {
+        "label": "D2",
+        "x": 29,
+        "y": 36
+      },
+      {
+        "label": "D3",
+        "x": 60,
+        "y": 40
+      },
+      {
+        "label": "D4",
+        "x": 43,
+        "y": 13
+      },
+      {
+        "label": "D5",
+        "x": 55,
+        "y": 11
+      }
+    ],
+    "ball": "O1",
+    "screens": [],
+    "moves": [
+      {
+        "from": "D2",
+        "to": "O1",
+        "kind": "move"
+      },
+      {
+        "from": "D3",
+        "to": "O3",
+        "kind": "move"
+      }
+    ],
+    "passes": [],
+    "shots": []
+  }
+}

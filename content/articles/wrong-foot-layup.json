@@ -1,0 +1,168 @@
+{
+  "id": "wrong-foot-layup",
+  "slug": "wrong-foot-layup",
+  "title": "Wrong-Foot Layup",
+  "description": "Jump off the 'wrong' foot to change your rhythm and timing — the layup that breaks shot-blockers' timing.",
+  "hub": "skills",
+  "subcategory": "finishing",
+  "level": "advanced",
+  "ages": [
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 6,
+  "dateUpdated": "2026-10-11",
+  "whatIsIt": [
+    "The wrong-foot layup breaks the standard layup rhythm: instead of jumping off the opposite foot from your shooting hand, you jump off the same-side foot. On a right-hand finish, that means taking off from your right foot instead of your left — which completely changes the timing of your takeoff.",
+    "Shot-blockers time their jump to the normal one-two rhythm of a layup. The wrong-foot takeoff arrives a half-beat earlier or later than they expect, which is often all it takes to get a clean look."
+  ],
+  "whyItMatters": [
+    "At advanced levels, every driver faces help defenders who have seen thousands of normal layups. The wrong-foot layup is a timing weapon: it doesn't need more athleticism, just different rhythm. It also keeps you in stride on fast breaks where planting the 'correct' foot would mean slowing down — sometimes the wrong foot is simply the faster option."
+  ],
+  "howTo": [
+    {
+      "title": "Drive at full speed",
+      "detail": "Attack the lane with pace. The wrong-foot layup is most effective when the defense is reacting to your speed."
+    },
+    {
+      "title": "Gather the ball early",
+      "detail": "Pick the ball up a step earlier than usual. You need the ball secure before the unconventional takeoff."
+    },
+    {
+      "title": "Take off from the same-side foot",
+      "detail": "Instead of the normal opposite-foot takeoff, jump off the foot on the same side as your shooting hand. Keep the jump quick and compact."
+    },
+    {
+      "title": "Keep your body controlled",
+      "detail": "The unusual takeoff can throw off your balance — stay compact, keep your core tight, and don't lean."
+    },
+    {
+      "title": "Release with soft touch",
+      "detail": "Because the timing is different, use a soft, controlled release. Aim for the glass or a gentle drop over the rim."
+    },
+    {
+      "title": "Land balanced",
+      "detail": "Land on two feet ready for contact or the rebound. The wrong-foot landing feels different — practice it until it's automatic."
+    }
+  ],
+  "coachingPoints": [
+    "Commit fully to the wrong-foot takeoff — hesitating between rhythms is worse than either rhythm.",
+    "Use it as a changeup, not a default; the weapon works because it's unexpected.",
+    "Keep the ball protected through the gather; the early pickup is when strips happen.",
+    "Practice at game speed — slow wrong-foot reps don't transfer because the timing trick needs real pace."
+  ],
+  "commonMistakes": [
+    "Traveling by taking an extra step — fix: count your steps out loud in drills: gather, one, up.",
+    "Losing balance on takeoff — fix: keep the jump short and vertical; don't try to jump far off the wrong foot.",
+    "Forcing it in traffic — fix: the wrong-foot layup beats timing, not crowds; in heavy traffic, use a floater or kick out.",
+    "Telegraphing with a stutter — fix: the gather must be smooth; any hitch tells the shot-blocker something is different."
+  ],
+  "gameSituations": [
+    "Fast-break finishes — when you're in full stride, the wrong-foot takeoff lets you finish without breaking rhythm.",
+    "Against an elite shot-blocker — change your takeoff timing to beat a defender who times normal layups perfectly.",
+    "Baseline drives — the wrong-foot takeoff from the baseline creates angles that normal footwork can't."
+  ],
+  "tags": [
+    "finishing",
+    "layup",
+    "advanced-finishing"
+  ],
+  "related": [
+    "basic-layup",
+    "euro-step",
+    "contact-finishing",
+    "reverse-layup",
+    "runner-floater"
+  ],
+  "diagram": {
+    "title": "O1 takes off from the same-side foot, beating D1's block timing at the rim",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 58,
+        "y": 16
+      }
+    ],
+    "defense": [
+      {
+        "label": "D1",
+        "x": 54,
+        "y": 13
+      }
+    ],
+    "ball": "O1",
+    "screens": [],
+    "moves": [
+      {
+        "from": "O1",
+        "to": "rim",
+        "kind": "move"
+      }
+    ],
+    "passes": [],
+    "shots": []
+  },
+  "vi": {
+    "title": "Lên rổ bật chân ngược (wrong-foot layup)",
+    "description": "Bật nhảy bằng chân 'ngược' để đổi nhịp và thời điểm — cú layup phá vỡ thời gian nhảy của các tay block.",
+    "whatIsIt": [
+      "Wrong-foot layup phá vỡ nhịp layup chuẩn: thay vì bật nhảy bằng chân đối diện với tay ném, bạn bật bằng chân cùng phía. Khi kết thúc bằng tay phải, nghĩa là bật từ chân phải thay vì chân trái — điều này thay đổi hoàn toàn thời điểm bật nhảy.",
+      "Các tay block căn thời gian nhảy theo nhịp một-hai bình thường của layup. Pha bật chân ngược đến sớm hoặc muộn hơn nửa nhịp so với họ dự đoán — và thường chỉ cần thế là đủ cho một góc ném sạch."
+    ],
+    "whyItMatters": [
+      "Ở cấp độ nâng cao, mọi người đâm vào đều đối mặt với những hậu vệ hỗ trợ đã thấy hàng nghìn cú layup bình thường. Wrong-foot layup là vũ khí thời điểm: nó không cần thể lực hơn, chỉ cần nhịp khác. Nó cũng giúp bạn giữ đà trong các pha phản công mà việc dậm chân 'đúng' sẽ buộc bạn chậm lại — đôi khi chân ngược đơn giản là lựa chọn nhanh hơn."
+    ],
+    "howTo": [
+      {
+        "title": "Đâm vào với tốc độ tối đa",
+        "detail": "Tấn công lane với tốc độ. Wrong-foot layup hiệu quả nhất khi hàng thủ đang phản ứng với tốc độ của bạn."
+      },
+      {
+        "title": "Gom bóng sớm",
+        "detail": "Nhặt bóng sớm hơn bình thường một bước. Bạn cần bóng chắc trước pha bật nhảy khác thường."
+      },
+      {
+        "title": "Bật từ chân cùng phía",
+        "detail": "Thay vì bật bằng chân đối diện như bình thường, bật bằng chân cùng phía với tay ném. Giữ cú nhảy nhanh và gọn."
+      },
+      {
+        "title": "Giữ cơ thể kiểm soát",
+        "detail": "Pha bật khác thường có thể phá thăng bằng — giữ người gọn, cơ bụng chắc, không nghiêng ngả."
+      },
+      {
+        "title": "Thả bóng nhẹ nhàng",
+        "detail": "Vì thời điểm khác lạ, dùng một cú thả mềm, có kiểm soát. Nhắm vào bảng hoặc thả nhẹ qua vành rổ."
+      },
+      {
+        "title": "Tiếp đất thăng bằng",
+        "detail": "Tiếp đất bằng hai chân, sẵn sàng cho va chạm hoặc tranh bóng. Cảm giác tiếp đất chân ngược rất khác — tập đến khi thành tự động."
+      }
+    ],
+    "coachingPoints": [
+      "Quyết tâm với pha bật chân ngược — ngập ngừng giữa hai nhịp còn tệ hơn cả hai nhịp.",
+      "Dùng như một đòn đổi nhịp, không phải mặc định; vũ khí hiệu quả vì nó bất ngờ.",
+      "Che bóng khi gom; pha nhặt bóng sớm là lúc dễ bị móc nhất.",
+      "Tập ở tốc độ thi đấu — tập wrong-foot chậm không chuyển hóa được vì mẹo thời điểm cần tốc độ thật."
+    ],
+    "commonMistakes": [
+      "Lỗi chạy bước vì thêm một bước — sửa: đếm bước to khi tập: gom, một, lên.",
+      "Mất thăng bằng khi bật — sửa: giữ cú nhảy ngắn và thẳng đứng; đừng cố nhảy xa bằng chân ngược.",
+      "Cố dùng trong đám đông — sửa: wrong-foot layup đánh bại thời điểm, không đánh bại đám đông; trong đám đông thì dùng floater hoặc chuyền ra.",
+      "Lộ ý định bằng một nhịp khựng — sửa: pha gom phải mượt; bất kỳ cú giật nào cũng báo cho tay block biết có gì đó khác."
+    ],
+    "gameSituations": [
+      "Kết thúc phản công nhanh — khi bạn đang ở tốc độ tối đa, pha bật chân ngược giúp kết thúc mà không phá nhịp chạy.",
+      "Trước một tay block xuất sắc — đổi thời điểm bật nhảy để đánh bại hậu vệ căn chuẩn các cú layup bình thường.",
+      "Đâm dọc biên — pha bật chân ngược từ biên tạo ra những góc mà bộ chân bình thường không có."
+    ],
+    "tags": [
+      "kết thúc",
+      "layup",
+      "kết thúc nâng cao"
+    ]
+  }
+}

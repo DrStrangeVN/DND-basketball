@@ -1,0 +1,182 @@
+{
+  "ages": [
+    "U14",
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "coachingPoints": [
+    "Stance is the skill: low, wide, and loaded — every slide pattern starts from a correct stance.",
+    "Push off the trail foot; the lead foot just finds the floor — power comes from the push, not the step.",
+    "Never cross your feet — crossed feet are a trip, a foul, or a blow-by waiting to happen.",
+    "Stay low through the change of direction; standing up to turn is how quick guards create separation.",
+    "Slide with your chest to the ball — if your chest turns, your feet have already lost."
+  ],
+  "commonMistakes": [
+    "Crossing feet on slides — fix: slow the drill down until the push-step pattern is clean, then add speed.",
+    "Standing up out of the stance — fix: put a hand on your head in drills; if it rises, the stance broke.",
+    "Hopping instead of sliding — fix: stay on the floor; hops are slow and leave you flat-footed on landing.",
+    "Backpedaling instead of drop-stepping — fix: open the hips on speed; straight backpedals tip over."
+  ],
+  "dateUpdated": "2026-10-11",
+  "description": "The footwork library every defender needs: lateral slides, drop steps, retreat steps, and how to change direction without crossing your feet.",
+  "gameSituations": [
+    "One-on-one contain drills — slides are the entire drill; no hands, just feet and chest.",
+    "Closeout recoveries — the slide patterns are what let you stay in front after the closeout.",
+    "Against a quicker guard — drop steps and retreat steps are your survival tools.",
+    "Full-court defensive slides in warm-ups — build the muscle memory before the game demands it."
+  ],
+  "howTo": [
+    {
+      "title": "Master the defensive stance",
+      "detail": "Feet wider than shoulders, knees bent, butt down, chest up, weight on the balls of your feet. One hand traces the ball, the other takes away the passing lane. If your stance is wrong, every slide pattern fails — stance first, always."
+    },
+    {
+      "title": "Lateral slide: push, don't cross",
+      "detail": "To slide left, push off your right foot and step with your left — lead foot steps, trail foot pushes. Never cross your feet and never hop; stay low and glide. Cover ground with the push, not with big steps."
+    },
+    {
+      "title": "Drop step against speed",
+      "detail": "When the ball handler attacks with speed, drop-step: swing your lead foot back and open your hips to retreat while staying in front. The drop step trades a little ground for balance — never backpedal straight, which is slow and tipsy."
+    },
+    {
+      "title": "Retreat step to recover",
+      "detail": "When beaten by a half-step, take a long retreat step back toward the basket to regain the cushion, then re-engage with lateral slides. The retreat step buys you one beat to get your chest back in front."
+    },
+    {
+      "title": "Change direction cleanly",
+      "detail": "To flip from sliding left to sliding right, plant the outside foot, pivot your hips, and push off — never cross over in the middle of the change. Drill zig-zag slides until the flip is automatic at full speed."
+    },
+    {
+      "title": "Turn and sprint when beaten",
+      "detail": "If the ball handler gets your hip, turn and sprint: open up and run. Pride keeps defenders sliding when they should be sprinting — the turn-and-sprint is not giving up, it is the fastest way back into the play."
+    }
+  ],
+  "hub": "defense",
+  "id": "defensive-slide-patterns",
+  "level": "beginner",
+  "positions": [
+    "ALL"
+  ],
+  "readTime": 5,
+  "related": [
+    "defensive-stance",
+    "closeout-defense",
+    "help-defense",
+    "gap-defense",
+    "closeout-reads"
+  ],
+  "slug": "defensive-slide-patterns",
+  "subcategory": "defense-fundamentals",
+  "tags": [
+    "footwork",
+    "defensive stance",
+    "slides",
+    "fundamentals",
+    "on-ball defense"
+  ],
+  "title": "Defensive Slide Patterns",
+  "vi": {
+    "coachingPoints": [
+      "Tư thế chính là kỹ năng: thấp, rộng, sẵn sàng — mọi mẫu bước đều bắt đầu từ tư thế đúng.",
+      "Đẩy bằng chân sau; chân trước chỉ tìm mặt sân — sức mạnh đến từ cú đẩy, không phải bước chân.",
+      "Không bao giờ bắt chéo chân — chân bắt chéo là một cú vấp, một pha phạm lỗi, hoặc một pha bị qua mặt đang chờ.",
+      "Giữ thấp khi đổi hướng; đứng thẳng lên để xoay là cách hậu vệ nhanh tạo khoảng trống.",
+      "Trượt với ngực hướng về bóng — nếu ngực bạn đã xoay, chân bạn đã thua."
+    ],
+    "commonMistakes": [
+      "Bắt chéo chân khi trượt — sửa: chậm bài tập lại đến khi mẫu đẩy-bước gọn gàng, rồi mới tăng tốc.",
+      "Đứng thẳng khỏi tư thế — sửa: đặt tay lên đầu khi tập; tay mà nhô lên nghĩa là tư thế đã vỡ.",
+      "Nhảy cẫng thay vì trượt — sửa: giữ chân trên mặt sân; nhảy cẫng vừa chậm vừa tiếp đất mất thăng bằng.",
+      "Lùi thẳng thay vì bước lùi chéo — sửa: mở hông trước tốc độ; lùi thẳng dễ ngã."
+    ],
+    "description": "Thư viện bộ chân mọi cầu thủ phòng thủ cần: bước trượt ngang, bước lùi chéo, bước thu về, và cách đổi hướng mà không bắt chéo chân.",
+    "gameSituations": [
+      "Bài tập kèm 1 đấu 1 — bước trượt là toàn bộ bài tập; không dùng tay, chỉ chân và ngực.",
+      "Thu hồi sau closeout — các mẫu bước giúp bạn giữ trước mặt sau pha closeout.",
+      "Gặp hậu vệ nhanh hơn — bước lùi chéo và bước thu về là công cụ sinh tồn của bạn.",
+      "Trượt phòng thủ cả sân khi khởi động — xây trí nhớ cơ bắp trước khi trận đấu đòi hỏi."
+    ],
+    "howTo": [
+      {
+        "title": "Làm chủ tư thế phòng thủ",
+        "detail": "Chân rộng hơn vai, gối cong, mông hạ, ngực ưỡn, trọng tâm trên mũi bàn chân. Một tay rà theo bóng, tay kia cắt đường chuyền. Tư thế sai thì mọi mẫu bước đều hỏng — tư thế trước, luôn luôn."
+      },
+      {
+        "title": "Trượt ngang: đẩy, không bắt chéo",
+        "detail": "Muốn trượt sang trái, đẩy bằng chân phải và bước bằng chân trái — chân trước bước, chân sau đẩy. Không bao giờ bắt chéo chân và không nhảy cẫng; giữ thấp và lướt. Bao quát mặt sân bằng cú đẩy, không phải bằng bước dài."
+      },
+      {
+        "title": "Bước lùi chéo trước tốc độ",
+        "detail": "Khi người dẫn bóng tấn công bằng tốc độ, dùng bước lùi chéo: vung chân trước ra sau và mở hông để lùi mà vẫn giữ trước mặt. Bước lùi chéo đổi một chút khoảng trống lấy thăng bằng — không bao giờ lùi thẳng, vừa chậm vừa dễ ngã."
+      },
+      {
+        "title": "Bước thu về để lấy lại vị trí",
+        "detail": "Khi bị qua nửa bước, bước dài thu về phía rổ để lấy lại khoảng đệm, rồi tiếp tục trượt ngang. Bước thu về mua cho bạn một nhịp để đưa ngực về trước mặt."
+      },
+      {
+        "title": "Đổi hướng gọn gàng",
+        "detail": "Muốn chuyển từ trượt trái sang trượt phải, đặt chân ngoài, xoay hông, và đẩy đi — không bao giờ bắt chéo ở giữa pha đổi hướng. Tập trượt zig-zag đến khi pha chuyển hướng thành tự động ở tốc độ tối đa."
+      },
+      {
+        "title": "Xoay người chạy nước rút khi bị qua",
+        "detail": "Nếu người dẫn bóng đã qua hông bạn, xoay người và chạy: mở người ra và chạy. Lòng tự trọng khiến cầu thủ cứ trượt khi lẽ ra phải chạy — xoay người chạy nước rút không phải bỏ cuộc, đó là cách nhanh nhất để quay lại pha bóng."
+      }
+    ],
+    "tags": [
+      "bộ chân",
+      "tư thế phòng thủ",
+      "bước trượt",
+      "cơ bản",
+      "kèm bóng"
+    ],
+    "title": "Các mẫu bước trượt phòng thủ",
+    "whatIsIt": [
+      "Bước trượt phòng thủ là bộ chân giữ bạn giữa người kèm và rổ. Quy tắc không bao giờ đổi: giữ thấp, không bắt chéo chân, đẩy bằng chân sau, và giữ ngực hướng về bóng. Mọi động tác phòng thủ nâng cao đều xây trên các mẫu này.",
+      "Có bốn mẫu cốt lõi: bước trượt ngang để giữ trước mặt, bước lùi chéo để lùi trước tốc độ, bước thu về để lấy lại vị trí, và xoay người chạy nước rút khi đã thực sự bị qua. Học cả bốn, bạn kèm được bất kỳ ai; học một, cầu thủ nhanh hơn sẽ khai thác bạn."
+    ],
+    "whyItMatters": [
+      "Bóng rổ là trò chơi giữ trước mặt đối phương. Không sơ đồ, không rotation, không hỗ trợ nào hiệu quả nếu cầu thủ kèm bóng không trượt được chân — mọi sự cố đều bắt đầu từ chân bắt chéo hoặc tư thế đứng thẳng. Bốn mẫu này là khoản đầu tư kỹ năng rẻ nhất, lợi nhuận cao nhất cho cầu thủ phòng thủ trẻ."
+    ]
+  },
+  "whatIsIt": [
+    "Defensive slides are the footwork that keeps you between your man and the basket. The rules never change: stay low, never cross your feet, push off the back foot, and keep your chest facing the ball. Every advanced defensive move is built on these patterns.",
+    "There are four core patterns: the lateral slide for staying in front, the drop step for retreating against speed, the retreat step for recovering, and the turn-and-sprint for when you are truly beaten. Learn all four and you can guard anyone; learn one and faster players will expose you."
+  ],
+  "whyItMatters": [
+    "Basketball is a game of staying in front of people. No scheme, no rotation, and no help defense works if the on-ball defender cannot slide his feet — every breakdown starts with crossed feet or a stood-up stance. These four patterns are the cheapest, highest-return skill investment a young defender can make."
+  ],
+  "diagram": {
+    "title": "Defensive slides — lateral slide, drop step, and change of direction",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 56,
+        "y": 36
+      }
+    ],
+    "defense": [
+      {
+        "label": "D1",
+        "x": 54,
+        "y": 32
+      }
+    ],
+    "ball": "O1",
+    "screens": [],
+    "moves": [
+      {
+        "from": "D1",
+        "to": "O1",
+        "kind": "move"
+      },
+      {
+        "from": "O1",
+        "to": "rim",
+        "kind": "dribble"
+      }
+    ],
+    "passes": [],
+    "shots": []
+  }
+}

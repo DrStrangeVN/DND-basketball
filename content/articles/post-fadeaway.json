@@ -1,0 +1,175 @@
+{
+  "id": "post-fadeaway",
+  "slug": "post-fadeaway",
+  "title": "Post Fadeaway",
+  "description": "Fade away from contact and shoot over anyone — the timeless post jumper that needs no athletic advantage.",
+  "hub": "skills",
+  "subcategory": "finishing",
+  "level": "advanced",
+  "ages": [
+    "U16",
+    "U18",
+    "Adult"
+  ],
+  "positions": [
+    "Forward",
+    "Center",
+    "Wing"
+  ],
+  "readTime": 6,
+  "dateUpdated": "2026-10-11",
+  "whatIsIt": [
+    "The post fadeaway is a jump shot taken while fading — jumping backward, away from the basket and the defender — usually from the low or mid post. You create separation not by jumping over the defender but by jumping away from them, releasing the ball at the peak of your backward drift.",
+    "It looks difficult because it is: shooting while moving away from the target demands exceptional balance and touch. But the payoff is a shot that is essentially unblockable, available against any defender regardless of size."
+  ],
+  "whyItMatters": [
+    "The fadeaway is the ultimate equalizer for post players. It doesn't matter how tall or long the defender is — they cannot contest a shot that moves away from them. It has been the signature weapon of the game's greatest scorers precisely because it works against everyone, in every era, without requiring a physical advantage."
+  ],
+  "howTo": [
+    {
+      "title": "Catch in scoring position",
+      "detail": "Catch the ball in the mid or low post, 3–5 meters from the rim, with a live dribble or a clean catch."
+    },
+    {
+      "title": "Face up or shoulder-fake",
+      "detail": "Square to the basket or give a convincing shoulder fake toward the middle. The defender must honor the drive before the fadeaway works."
+    },
+    {
+      "title": "Take one hard dribble (optional)",
+      "detail": "One strong dribble toward the middle gets the defender leaning — then you fade the other way. Or shoot it straight off the catch."
+    },
+    {
+      "title": "Plant and load",
+      "detail": "Plant both feet, load your legs, and keep your shoulders square to the rim. Balance here decides everything."
+    },
+    {
+      "title": "Fade and rise",
+      "detail": "Jump up and slightly back, away from the defender, keeping your shooting form identical to your normal jumper. The fade is small — 30 to 60 centimeters, not a leap."
+    },
+    {
+      "title": "Release at the peak",
+      "detail": "Let the ball go at the top of your jump with soft touch. Hold your follow-through even as you drift — form doesn't change because you're moving."
+    }
+  ],
+  "coachingPoints": [
+    "The fade must be subtle — a big backward leap destroys your balance and your accuracy.",
+    "Keep your shoulders square to the rim through the whole fade; rotating open pulls every shot off line.",
+    "Land in the same balanced stance you'd land a normal jumper in — if you're falling over, you're fading too far.",
+    "Build it from 3 meters out before extending the range; the touch has to come before the distance."
+  ],
+  "commonMistakes": [
+    "Fading too far — fix: place a cone 60 centimeters behind you; if you land past it, shorten the fade.",
+    "Kicking your legs out — fix: keep your legs under you; the fade comes from the jump angle, not from kicking.",
+    "Rushing the release — fix: the ball goes up at the peak, never on the way up; patience is what makes it unblockable.",
+    "Using it as a first option — fix: the fadeaway is a counter to a defender who takes away your drive; establish the drive threat first."
+  ],
+  "gameSituations": [
+    "Mismatches in the post — when a smaller defender fronts you, the fadeaway shoots clean over the top.",
+    "Against elite rim protectors — fade away from the help defender's contest instead of challenging it at the rim.",
+    "Late-clock post isolations — the fadeaway creates a quality look without needing to beat anyone off the dribble."
+  ],
+  "tags": [
+    "finishing",
+    "fadeaway",
+    "post-play"
+  ],
+  "related": [
+    "jump-hook",
+    "spin-move",
+    "shot-fake",
+    "contact-finishing",
+    "pull-up-jumper"
+  ],
+  "diagram": {
+    "title": "O1 fades away from D1's contest and releases the jumper over the top",
+    "offense": [
+      {
+        "label": "O1",
+        "x": 42,
+        "y": 16
+      }
+    ],
+    "defense": [
+      {
+        "label": "D1",
+        "x": 42,
+        "y": 13
+      }
+    ],
+    "ball": "O1",
+    "screens": [],
+    "moves": [
+      {
+        "from": "O1",
+        "to": "O1",
+        "kind": "move"
+      }
+    ],
+    "passes": [],
+    "shots": [
+      {
+        "x": 50,
+        "y": 5.25
+      }
+    ]
+  },
+  "vi": {
+    "title": "Ném ngả người từ post (post fadeaway)",
+    "description": "Ngả người tránh va chạm và ném qua bất kỳ ai — cú ném post vượt thời gian không cần lợi thế thể lực.",
+    "whatIsIt": [
+      "Post fadeaway là một cú jump shot thực hiện trong khi ngả người — bật nhảy lùi lại, ra xa rổ và xa hậu vệ — thường từ low hoặc mid post. Bạn tạo khoảng cách không phải bằng cách nhảy qua hậu vệ mà bằng cách nhảy tránh họ, thả bóng ở đỉnh của đà trôi ngược.",
+      "Nó trông khó vì nó khó thật: ném khi đang di chuyển ra xa mục tiêu đòi hỏi thăng bằng và cảm giác tay xuất sắc. Nhưng phần thưởng là một cú ném gần như không thể bị block, dùng được trước mọi hậu vệ bất kể kích thước."
+    ],
+    "whyItMatters": [
+      "Fadeaway là đòn gỡ hòa tối thượng cho cầu thủ post. Hậu vệ cao hay dài cỡ nào cũng không quan trọng — họ không thể contest một cú ném di chuyển ra xa họ. Nó là vũ khí đặc trưng của những tay ghi điểm vĩ đại nhất chính vì nó hiệu quả trước mọi người, mọi thời đại, mà không cần lợi thế thể chất."
+    ],
+    "howTo": [
+      {
+        "title": "Bắt bóng ở vị trí ghi điểm",
+        "detail": "Bắt bóng ở mid hoặc low post, cách rổ 3–5m, với một dribble sống hoặc một pha bắt bóng sạch."
+      },
+      {
+        "title": "Xoay mặt hoặc giả vai",
+        "detail": "Vuông góc với rổ hoặc tung một pha giả vai thuyết phục về giữa. Hậu vệ phải coi trọng pha đâm thì fadeaway mới hiệu quả."
+      },
+      {
+        "title": "Một nhịp dribble mạnh (tùy chọn)",
+        "detail": "Một nhịp dribble mạnh về giữa khiến hậu vệ nghiêng theo — rồi bạn ngả sang hướng ngược lại. Hoặc ném thẳng sau khi bắt bóng."
+      },
+      {
+        "title": "Dậm chân và nén người",
+        "detail": "Dậm cả hai chân, nén chân, giữ vai vuông góc với rổ. Thăng bằng ở đây quyết định tất cả."
+      },
+      {
+        "title": "Ngả và bật lên",
+        "detail": "Nhảy lên và hơi lùi, tránh xa hậu vệ, giữ form ném y hệt cú jumper bình thường. Độ ngả nhỏ thôi — 30 đến 60cm, không phải một cú nhảy xa."
+      },
+      {
+        "title": "Thả bóng ở đỉnh",
+        "detail": "Thả bóng ở đỉnh cú nhảy với cảm giác tay mềm. Giữ động tác kết thúc ngay cả khi đang trôi — form không đổi chỉ vì bạn đang di chuyển."
+      }
+    ],
+    "coachingPoints": [
+      "Độ ngả phải tinh tế — một cú bật lùi lớn phá hủy thăng bằng và độ chính xác của bạn.",
+      "Giữ vai vuông góc với rổ suốt pha ngả; xoay mở người là kéo mọi cú ném lệch đường.",
+      "Tiếp đất ở tư thế thăng bằng như khi tiếp đất một cú jumper bình thường — nếu bạn ngã dúi, bạn đang ngả quá đà.",
+      "Xây dựng từ khoảng 3m trước khi mở rộng tầm; cảm giác tay phải có trước khoảng cách."
+    ],
+    "commonMistakes": [
+      "Ngả quá xa — sửa: đặt một cái nón cách bạn 60cm phía sau; nếu tiếp đất quá nó, rút ngắn độ ngả.",
+      "Đá chân ra — sửa: giữ chân dưới người; độ ngả đến từ góc bật nhảy, không phải từ cú đá chân.",
+      "Thả bóng vội — sửa: bóng lên ở đỉnh cú nhảy, không bao giờ trên đường lên; kiên nhẫn là thứ khiến nó không thể bị block.",
+      "Dùng như lựa chọn đầu tiên — sửa: fadeaway là đòn phản công khi hậu vệ lấy mất đường đâm của bạn; tạo mối đe dọa đâm trước đã."
+    ],
+    "gameSituations": [
+      "Lệch kèo trong post — khi một hậu vệ nhỏ hơn front bạn, fadeaway ném sạch qua đầu họ.",
+      "Trước những tay bảo vệ rổ xuất sắc — ngả tránh khỏi pha contest của người hỗ trợ thay vì thách thức nó ở rổ.",
+      "Đơn đấu post cuối đồng hồ — fadeaway tạo ra một góc ném chất lượng mà không cần vượt ai bằng dribble."
+    ],
+    "tags": [
+      "kết thúc",
+      "fadeaway",
+      "đánh post"
+    ]
+  }
+}
