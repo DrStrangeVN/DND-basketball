@@ -8,7 +8,7 @@ const OUT = process.env.DND_PUBLIC ?? "/home/hatch/workspace/dnd-basketball/publ
 const read = (p) => JSON.parse(readFileSync(p, "utf8"));
 const articleUrl = (a) => a.hub === "skills" ? `/skills/${a.subcategory}/${a.slug}` : `/${a.hub}/${a.slug}`;
 // Keep the index small enough to upload (MCP CLI arg limit): truncate long descriptions.
-const snip = (s, n = 120) => (s && s.length > n ? s.slice(0, n).trimEnd() + "…" : s ?? "");
+const snip = (s, n = 75) => (s && s.length > n ? s.slice(0, n).trimEnd() + "…" : s ?? "");
 
 const idx = [];
 for (const f of readdirSync(join(CONTENT, "articles")).filter((f) => f.endsWith(".json"))) {
