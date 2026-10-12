@@ -6,7 +6,7 @@ import PageHeader from "@/components/PageHeader";
 export const metadata: Metadata = {
   title: "Lộ trình học bóng rổ",
   description: "Lộ trình học bóng rổ có cấu trúc: người mới, phát triển hậu vệ, phát triển tay ném, chinh phục pick & roll, chuyên gia phòng thủ và căn bản cho HLV.",
-  alternates: { canonical: "https://dndbasketball.vercel.app/learning-paths" },
+  alternates: { canonical: "https://learn.danangdragons.com/learning-paths" },
 };
 
 export default function PathsPage() {

@@ -4,7 +4,7 @@ import { getAllPerformance, getPerformanceBySlug, getRelatedPerformance, perform
 import { PERF_HUBS, type PerfHubId } from "@/lib/types";
 import PerfArticleView from "@/components/performance/PerfArticleView";
 
-const SITE = "https://dndbasketball.vercel.app";
+const SITE = "https://learn.danangdragons.com";
 
 function find(hub: string, slug: string) {
   const a = getPerformanceBySlug(slug);

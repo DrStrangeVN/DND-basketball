@@ -1,0 +1,18 @@
+{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  "name": "danang-dragons-learn",
+  "account_id": "d5c1e8585210d3512d7dba177c450338",
+  "compatibility_date": "2026-10-12",
+  "workers_dev": true,
+  "assets": {
+    "directory": "./out",
+    "html_handling": "drop-trailing-slash",
+    "not_found_handling": "404-page"
+  },
+  "routes": [
+    {
+      "pattern": "learn.danangdragons.com",
+      "custom_domain": true
+    }
+  ]
+}

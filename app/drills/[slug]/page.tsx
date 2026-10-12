@@ -5,7 +5,7 @@ import { toDrillCard } from "@/lib/types";
 import DrillView from "@/components/DrillView";
 import RecentTracker from "@/components/RecentTracker";
 
-const SITE = "https://dndbasketball.vercel.app";
+const SITE = "https://learn.danangdragons.com";
 
 export async function generateStaticParams() {
   return getAllDrills().map((d) => ({ slug: d.slug }));

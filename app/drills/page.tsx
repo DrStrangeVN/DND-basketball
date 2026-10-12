@@ -7,7 +7,7 @@ import PageHeader from "@/components/PageHeader";
 export const metadata: Metadata = {
   title: "Thư viện bài tập bóng rổ",
   description: "Thư viện bài tập bóng rổ có thể lọc: ném rổ, dẫn bóng, dứt điểm, phòng thủ và hơn nữa — kèm lưu ý huấn luyện, cách nâng độ khó và ứng dụng thi đấu.",
-  alternates: { canonical: "https://dndbasketball.vercel.app/drills" },
+  alternates: { canonical: "https://learn.danangdragons.com/drills" },
 };
 
 export default function DrillsPage() {

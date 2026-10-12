@@ -1,36 +1,39 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# DND Basketball — Danang Dragons Learn
 
-## Getting Started
+Website chính thức: https://learn.danangdragons.com/
+Source chuẩn: https://github.com/DrStrangeVN/DND-basketball
 
-First, run the development server:
+Ứng dụng Next.js 16 xuất tĩnh bằng `output: "export"`; Cloudflare Workers Static Assets phục vụ HTML, JavaScript, CSS và dữ liệu tìm kiếm. Nội dung nằm trong `content/`; không cần chuyển database cho bản này. Tiến trình, bookmark, quiz và nhật ký tập luyện hiện lưu bằng localStorage trên trình duyệt theo domain. Video Film Room dùng YouTube embeds.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+## Cập nhật nội dung
+
+- Bài học: `content/articles/`.
+- Bài tập, workout, lộ trình và video: các thư mục tương ứng trong `content/`.
+- Giao diện: `app/`, `components/`; bản dịch: `lib/`.
+- `npm run build` kiểm tra nội dung, tạo search index và sitemap trước khi build.
+- URL canonical, sitemap và structured data dùng `https://learn.danangdragons.com`.
+
+## Build và triển khai
+
+```sh
+npm ci
+npm run build
+npx wrangler deploy --dry-run
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Push thay đổi lên GitHub, review/merge vào `main` **trước khi deploy production**:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```sh
+git switch main
+git pull --ff-only
+npm ci
+npm run deploy:cloudflare
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Wrangler dùng account được chỉ định trong `wrangler.jsonc`, Worker `danang-dragons-learn`, Custom Domain `learn.danangdragons.com`. Cần đăng nhập Cloudflare có quyền cập nhật Worker và cấu hình domain. Không commit token/mật khẩu.
 
-## Learn More
+`npm run preview:cloudflare` phục vụ bản `out/` đã build để kiểm tra route tĩnh, 404 và điều hướng. Kiểm tra homepage, bài học sâu, search, Film Room, quiz, lưu bookmark và mobile sau deploy.
 
-To learn more about Next.js, take a look at the following resources:
+## Đối chiếu bàn giao 12/10/2026
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+704 file trong `dnd-basketball-source.zip` trùng byte với GitHub tại commit `36f14be`. Hai file chỉ có trong ZIP là file tự sinh `next-env.d.ts` và `tsconfig.tsbuildinfo`. Bản ZIP deploy là output đã build; production được build lại từ source repo để có URL chính thức và cấu hình Cloudflare có thể tái tạo.

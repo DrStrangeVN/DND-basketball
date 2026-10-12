@@ -15,7 +15,7 @@ const beVietnamPro = Be_Vietnam_Pro({
   display: "swap",
 });
 
-const SITE = "https://dndbasketball.vercel.app";
+const SITE = "https://learn.danangdragons.com";
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE),

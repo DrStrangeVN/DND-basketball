@@ -6,7 +6,7 @@ import { toArticleCard, toDrillCard } from "./types";
 import ArticleView from "@/components/ArticleView";
 import RecentTracker from "@/components/RecentTracker";
 
-const SITE = "https://dndbasketball.vercel.app";
+const SITE = "https://learn.danangdragons.com";
 
 function metadataFor(a: Article): Metadata {
   const url = `${SITE}${articleUrl(a)}`;

@@ -63,7 +63,7 @@ export default function ArticleView({ article, related, drills }: {
     description: L.description,
     educationalLevel: article.level,
     teaches: L.tags.join(", "),
-    url: `https://dndbasketball.vercel.app${articleUrl(article)}`,
+    url: `https://learn.danangdragons.com${articleUrl(article)}`,
     timeRequired: `PT${article.readTime}M`,
   };
 

@@ -4,7 +4,7 @@ import { getAllPaths, getPathBySlug, getArticleBySlug, articleUrl } from "@/lib/
 import PathView from "@/components/PathView";
 import RecentTracker from "@/components/RecentTracker";
 
-const SITE = "https://dndbasketball.vercel.app";
+const SITE = "https://learn.danangdragons.com";
 
 export async function generateStaticParams() {
   return getAllPaths().map((p) => ({ slug: p.slug }));

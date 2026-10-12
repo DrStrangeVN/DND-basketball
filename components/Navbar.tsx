@@ -109,14 +109,14 @@ function Logo() {
   );
 }
 
-function DropMenu({ link }: { link: TopLink }) {
+function DropMenu({ link, alignEnd = false }: { link: TopLink; alignEnd?: boolean }) {
   const { t } = useLanguage();
   return (
     <div className="group relative">
       <Link href={link.href} className="flex items-center gap-1 whitespace-nowrap rounded-full px-2.5 py-2 text-[13px] font-semibold text-[color:var(--muted)] hover:text-[color:var(--ink)] xl:px-3 xl:text-sm">
         {t(link.labelKey)} <ChevronDown className="h-3.5 w-3.5" aria-hidden />
       </Link>
-      <div className="invisible absolute left-0 top-full pt-2 opacity-0 transition-all duration-150 group-hover:visible group-hover:opacity-100 group-focus-within:visible group-focus-within:opacity-100">
+      <div style={alignEnd ? { left: "auto", right: 0 } : undefined} className="invisible absolute left-0 top-full pt-2 opacity-0 transition-all duration-150 group-hover:visible group-hover:opacity-100 group-focus-within:visible group-focus-within:opacity-100">
         <div className="neu w-[240px] p-2">
           {link.menu.map((m) => (
             <Link key={m.href} href={m.href}
@@ -138,10 +138,10 @@ export default function Navbar() {
   return (
     <header className="sticky top-0 z-[60]">
       <div className="mx-auto max-w-7xl px-3 sm:px-5">
-        <div className="neu-sm mt-3 flex items-center gap-2 px-3 py-2.5 sm:px-4">
+        <div className="neu-sm mt-3 flex flex-wrap items-center gap-2 px-3 py-2.5 sm:px-4">
           <Logo />
-          <nav className="ml-4 hidden items-center gap-0.5 lg:flex" aria-label="Primary">
-            {TOP_LINKS.map((l) => <DropMenu key={l.href} link={l} />)}
+          <nav className="order-last hidden w-full items-center justify-between gap-0.5 lg:flex" aria-label="Primary">
+            {TOP_LINKS.map((l, index) => <DropMenu key={l.href} link={l} alignEnd={index >= TOP_LINKS.length - 2} />)}
           </nav>
           <div className="ml-auto flex items-center gap-2">
             <button onClick={openSearch} aria-label={t("nav.search.label")}
