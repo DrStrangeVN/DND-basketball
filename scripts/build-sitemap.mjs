@@ -3,14 +3,14 @@
 import { readFileSync, readdirSync, writeFileSync, mkdirSync, existsSync } from "node:fs";
 import { join } from "node:path";
 
-const BASE = "https://dndbasketball.vercel.app";
+const BASE = "https://learn.danangdragons.com";
 const CONTENT = process.env.DND_CONTENT ?? "/home/hatch/workspace/dnd-content";
 const OUT = process.env.DND_PUBLIC ?? "/home/hatch/workspace/dnd-basketball/public";
 const read = (p) => JSON.parse(readFileSync(p, "utf8"));
 const ls = (d) => readdirSync(join(CONTENT, d)).filter((f) => f.endsWith(".json"));
 
 const urls = new Set([
-  "/", "/learn", "/search", "/library", "/glossary", "/film-room",
+  "/", "/learn", "/search", "/library", "/glossary", "/film-room", "/quiz", "/log", "/flashcards",
   "/skills", "/defense", "/offense", "/pick-and-roll", "/tactics", "/transition",
   "/basketball-iq", "/positions", "/coaching", "/fundamentals",
   "/drills", "/workouts", "/learning-paths",

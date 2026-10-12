@@ -38,7 +38,7 @@ export default function DrillView({ drill, related }: { drill: Drill; related: D
   const jsonLd = {
     "@context": "https://schema.org", "@type": "LearningResource",
     name: L.title, description: L.description,
-    timeRequired: `PT${drill.durationMin}M`, url: `https://dndbasketball.vercel.app${url}`,
+    timeRequired: `PT${drill.durationMin}M`, url: `https://learn.danangdragons.com${url}`,
   };
 
   const meta = [

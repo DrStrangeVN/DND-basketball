@@ -4,7 +4,7 @@ import { getPerformanceByHub } from "@/lib/content";
 import { PERF_HUBS, type PerfHubId } from "@/lib/types";
 import PerfHubPage from "@/components/performance/PerfHubPage";
 
-const SITE = "https://dndbasketball.vercel.app";
+const SITE = "https://learn.danangdragons.com";
 const HUB_IDS = Object.keys(PERF_HUBS) as PerfHubId[];
 
 export async function generateStaticParams() {

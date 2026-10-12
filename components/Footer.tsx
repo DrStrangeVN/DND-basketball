@@ -71,7 +71,7 @@ export default function Footer() {
         </div>
         <div className="mt-8 flex flex-col items-start justify-between gap-2 border-t border-[color:var(--line)] pt-5 text-xs text-[color:var(--faint)] sm:flex-row sm:items-center">
           <p>© {new Date().getFullYear()} DND Basketball. {t("footer.rights")}</p>
-          <p>{t("footer.diagrams")}</p>
+          <div className="flex flex-wrap gap-x-4 gap-y-2"><a href="https://danangdragons.com/" className="hover:text-[color:var(--ink)]">Danang Dragons ↗</a><a href="https://board.danangdragons.com/" className="hover:text-[color:var(--ink)]">{t("nav.tactics")} · Sa bàn ↗</a><p>{t("footer.diagrams")}</p></div>
         </div>
       </div>
     </footer>

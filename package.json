@@ -7,7 +7,9 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
-    "prebuild": "DND_CONTENT=./content DND_PUBLIC=./public node scripts/validate-content.mjs && DND_CONTENT=./content DND_PUBLIC=./public node scripts/build-search-index.mjs && DND_CONTENT=./content DND_PUBLIC=./public node scripts/build-sitemap.mjs"
+    "prebuild": "DND_CONTENT=./content DND_PUBLIC=./public node scripts/validate-content.mjs && DND_CONTENT=./content DND_PUBLIC=./public node scripts/build-search-index.mjs && DND_CONTENT=./content DND_PUBLIC=./public node scripts/build-sitemap.mjs",
+    "deploy:cloudflare": "npm run build && wrangler deploy",
+    "preview:cloudflare": "wrangler dev"
   },
   "dependencies": {
     "lucide-react": "^1.52.0",
@@ -23,6 +25,7 @@
     "eslint": "^9",
     "eslint-config-next": "16.3.8",
     "tailwindcss": "^4",
-    "typescript": "^5"
+    "typescript": "^5",
+    "wrangler": "4.149.0"
   }
 }

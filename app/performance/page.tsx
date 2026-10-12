@@ -6,11 +6,11 @@ import PerfLanding, { type LandingHub } from "@/components/performance/PerfLandi
 export const metadata: Metadata = {
   title: "Build the Complete Athlete | DND Basketball",
   description: "Train harder. Recover smarter. Fuel better. Stay on the court. | Tập nặng hơn. Hồi phục thông minh hơn. Nạp năng lượng tốt hơn.",
-  alternates: { canonical: "https://dndbasketball.vercel.app/performance" },
+  alternates: { canonical: "https://learn.danangdragons.com/performance" },
   openGraph: {
     title: "Build the Complete Athlete | DND Basketball",
     description: "Athletic Performance · Recovery · Nutrition · Hydration · Injury Prevention",
-    url: "https://dndbasketball.vercel.app/performance",
+    url: "https://learn.danangdragons.com/performance",
     siteName: "DND Basketball",
   },
 };

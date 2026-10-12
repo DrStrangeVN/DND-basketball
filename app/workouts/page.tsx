@@ -6,7 +6,7 @@ import PageHeader from "@/components/PageHeader";
 export const metadata: Metadata = {
   title: "Giáo án tập luyện bóng rổ",
   description: "Giáo án bóng rổ có cấu trúc kèm checklist: dẫn bóng, ném rổ, giáo án cho hậu vệ và big man, routine ngày thi đấu.",
-  alternates: { canonical: "https://dndbasketball.vercel.app/workouts" },
+  alternates: { canonical: "https://learn.danangdragons.com/workouts" },
 };
 
 export default function WorkoutsPage() {

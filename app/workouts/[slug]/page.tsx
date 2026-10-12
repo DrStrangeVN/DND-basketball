@@ -4,7 +4,7 @@ import { getAllWorkouts, getWorkoutBySlug } from "@/lib/content";
 import WorkoutView from "@/components/WorkoutView";
 import RecentTracker from "@/components/RecentTracker";
 
-const SITE = "https://dndbasketball.vercel.app";
+const SITE = "https://learn.danangdragons.com";
 
 export async function generateStaticParams() {
   return getAllWorkouts().map((w) => ({ slug: w.slug }));
