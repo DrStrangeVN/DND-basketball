@@ -1,4 +1,5 @@
 "use client";
+import {useSiteSettings} from "./SiteSettings";
 import Link from "next/link";
 import { useLanguage } from "@/lib/i18n";
 
@@ -34,6 +35,7 @@ const COLS: { titleKey: string; links: { labelKey: string; href: string }[] }[] 
 
 export default function Footer() {
   const { t } = useLanguage();
+  const settings=useSiteSettings(),contact=settings.contact;
   return (
     <footer className="mx-auto max-w-7xl px-3 pb-28 pt-10 sm:px-5 md:pb-10">
       <div className="neu p-6 sm:p-10">
@@ -41,9 +43,9 @@ export default function Footer() {
           <div>
             <div className="flex items-center gap-2.5">
               {/* eslint-disable-next-line @next/next/no-img-element */}
-              <img src="/brand/dnd-logo.webp" alt="Danang Dragons" width="60" height="48" className="h-12 w-[60px] shrink-0 object-contain" />
+              <img src={settings.logoUrl} alt={settings.brand} width="60" height="48" className="h-12 w-[60px] shrink-0 object-contain" />
               <div className="leading-none">
-                <p className="text-base font-extrabold tracking-tight">DANANG DRAGONS</p>
+                <p className="text-base font-extrabold tracking-tight">{settings.brand.toUpperCase()}</p>
                 <p className="text-[10px] font-semibold uppercase tracking-[0.22em] text-[color:var(--orange)]">{t("footer.tagline")}</p>
               </div>
             </div>
@@ -51,12 +53,12 @@ export default function Footer() {
               {t("footer.about")}
             </p>
             <address className="mt-4 space-y-2 text-sm not-italic leading-relaxed text-[color:var(--muted)]">
-              <p>Công ty Cổ phần Bóng rổ Đà Nẵng</p>
-              <p>696 Ngô Quyền, Phường An Hải, Thành phố Đà Nẵng, Việt Nam</p>
-              <p><a href="tel:0946163139" className="hover:text-[color:var(--ink)]">0946.163.139</a></p>
-              <p><a href="mailto:danangdragons.gm@gmail.com" className="break-all hover:text-[color:var(--ink)]">danangdragons.gm@gmail.com</a></p>
-              <p><a href="mailto:Danangdragons.info@gmail.com" className="break-all hover:text-[color:var(--ink)]">Danangdragons.info@gmail.com</a></p>
-              <p><a href="https://www.facebook.com/DanangDragons" target="_blank" rel="noreferrer" className="hover:text-[color:var(--ink)]">Facebook · Danang Dragons ↗</a></p>
+              <p>{contact.company}</p>
+              <p>{contact.address}</p>
+              <p><a href={"tel:"+contact.hotline.replace(/\D/g,"")} className="hover:text-[color:var(--ink)]">{contact.hotline}</a></p>
+              <p><a href={"mailto:"+contact.email} className="break-all hover:text-[color:var(--ink)]">{contact.email}</a></p>
+              <p><a href={"mailto:"+contact.secondaryEmail} className="break-all hover:text-[color:var(--ink)]">{contact.secondaryEmail}</a></p>
+              <p><a href={contact.facebookUrl} target="_blank" rel="noreferrer" className="hover:text-[color:var(--ink)]">Facebook · Danang Dragons ↗</a></p>
             </address>
           </div>
           <div className="grid grid-cols-2 gap-6 sm:grid-cols-3">
@@ -75,8 +77,8 @@ export default function Footer() {
           </div>
         </div>
         <div className="mt-8 flex flex-col items-start justify-between gap-2 border-t border-[color:var(--line)] pt-5 text-xs text-[color:var(--faint)] sm:flex-row sm:items-center">
-          <p>© {new Date().getFullYear()} Danang Dragons Learn. {t("footer.rights")}</p>
-          <div className="flex flex-wrap gap-x-4 gap-y-2"><a href="https://danangdragons.com/" className="hover:text-[color:var(--ink)]">Danang Dragons ↗</a><a href="https://board.danangdragons.com/" className="hover:text-[color:var(--ink)]">{t("nav.tactics")} · Sa bàn ↗</a><p>{t("footer.diagrams")}</p></div>
+          <p>© {new Date().getFullYear()} {settings.brand} Learn. {t("footer.rights")}</p>
+          <div className="flex flex-wrap gap-x-4 gap-y-2"><Link href="/content" className="hover:text-[color:var(--ink)]">Nội dung Learn ↗</Link><a href="https://danangdragons.com/" className="hover:text-[color:var(--ink)]">Danang Dragons ↗</a><a href="https://board.danangdragons.com/" className="hover:text-[color:var(--ink)]">{t("nav.tactics")} · Sa bàn ↗</a><p>{t("footer.diagrams")}</p></div>
         </div>
       </div>
     </footer>

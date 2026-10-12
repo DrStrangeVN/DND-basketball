@@ -1,4 +1,5 @@
 "use client";
+import {useLiveCollection} from "./LiveContent";
 import { useMemo, useState } from "react";
 import { Search } from "lucide-react";
 import type { DrillCardData } from "@/lib/types";
@@ -30,7 +31,8 @@ function Chip({ active, onClick, children }: { active: boolean; onClick: () => v
   );
 }
 
-export default function DrillFilters({ drills }: { drills: DrillCardData[] }) {
+export default function DrillFilters({ drills: initialDrills }: { drills: DrillCardData[] }) {
+  const drills=useLiveCollection("drills",initialDrills);
   const [q, setQ] = useState("");
   const [skill, setSkill] = useState<string | null>(null);
   const [level, setLevel] = useState<string | null>(null);

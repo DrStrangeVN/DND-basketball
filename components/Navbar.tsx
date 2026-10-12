@@ -1,4 +1,5 @@
 "use client";
+import {useSiteSettings} from "./SiteSettings";
 import { useState } from "react";
 import Link from "next/link";
 import { Search, Menu, X, ChevronDown } from "lucide-react";
@@ -94,13 +95,14 @@ const TOP_LINKS: TopLink[] = [
 
 function Logo() {
   const { t } = useLanguage();
+  const settings=useSiteSettings();
   return (
     <Link href="/" className="flex items-center gap-2.5" aria-label={t("brand.home")}>
       {/* Official club artwork, kept at its original aspect ratio. */}
       {/* eslint-disable-next-line @next/next/no-img-element */}
-      <img src="/brand/dnd-logo.webp" alt="Danang Dragons" width="52" height="44" className="h-11 w-[52px] shrink-0 object-contain" />
+      <img src={settings.logoUrl} alt={settings.brand} width="52" height="44" className="h-11 w-[52px] shrink-0 object-contain" />
       <span className="leading-none">
-        <span className="block text-[15px] font-extrabold tracking-tight">DANANG DRAGONS</span>
+        <span className="block text-[15px] font-extrabold tracking-tight">{settings.brand.toUpperCase()}</span>
         <span className="block text-[10px] font-semibold uppercase tracking-[0.22em] text-[color:var(--orange)]">{t("brand.tagline")}</span>
       </span>
     </Link>

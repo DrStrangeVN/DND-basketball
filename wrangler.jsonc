@@ -7,12 +7,46 @@
   "assets": {
     "directory": "./out",
     "html_handling": "drop-trailing-slash",
-    "not_found_handling": "404-page"
+    "not_found_handling": "404-page",
+    "binding": "ASSETS",
+    "run_worker_first": true
   },
   "routes": [
     {
       "pattern": "learn.danangdragons.com",
       "custom_domain": true
+    }
+  ],
+  "main": "worker/learn.mjs",
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "dnd-learn-content",
+      "database_id": "193c660f-973d-483e-ac78-cb9b2cd63d93",
+      "migrations_dir": "worker/migrations"
+    }
+  ],
+  "ratelimits": [
+    {
+      "name": "CMS_LIMITER",
+      "namespace_id": "2026101211",
+      "simple": {
+        "limit": 40,
+        "period": 60
+      }
+    }
+  ],
+  "observability": {
+    "enabled": true,
+    "traces": {
+      "enabled": true,
+      "head_sampling_rate": 0.1
+    }
+  },
+  "services": [
+    {
+      "binding": "MAIN",
+      "service": "danangdragons"
     }
   ]
 }

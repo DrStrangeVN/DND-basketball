@@ -8,6 +8,7 @@ export interface ArticleVi {
   tags: string[]; video?: { title: string; note?: string };
 }
 export interface Article {
+  cmsUrl?: string;
   id: string; slug: string; title: string; description: string;
   hub: string; subcategory: string; level: "beginner" | "intermediate" | "advanced" | "elite";
   ages: string[]; positions: string[]; tags: string[]; readTime: number;
@@ -76,6 +77,7 @@ export interface CourtVisionCard {
 
 /** Slimmed article fields for cards/lists — avoids serializing full article bodies into page props. */
 export interface ArticleCardData {
+  cmsUrl?: string;
   slug: string; title: string; description: string;
   level: Article["level"]; readTime: number;
   hub: string; subcategory: string;
@@ -83,6 +85,7 @@ export interface ArticleCardData {
 }
 /** Slimmed drill fields for cards/lists. */
 export interface DrillCardData {
+  cmsUrl?: string;
   slug: string; title: string; description: string;
   level: Article["level"]; skill: string;
   durationMin: number; players: string; intensity: "low" | "medium" | "high";
@@ -124,6 +127,7 @@ export interface PerformanceVi {
 }
 
 export interface PerformanceArticle {
+  cmsUrl?: string;
   id: string; slug: string; hub: PerfHubId;
   category: string; subcategory: string;
   title: string; description: string;

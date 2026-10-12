@@ -1,11 +1,13 @@
 "use client";
+import {useLiveCollection} from "./LiveContent";
 import { useMemo, useState } from "react";
 import VideoEmbed from "./VideoEmbed";
 import type { FilmVideo } from "@/lib/types";
 import { useLanguage, pick } from "@/lib/i18n";
 import { LevelBadge } from "./ui";
 
-export default function FilmGrid({ films }: { films: FilmVideo[] }) {
+export default function FilmGrid({ films: initialFilms }: { films: FilmVideo[] }) {
+  const films=useLiveCollection("film",initialFilms);
   const { lang, t } = useLanguage();
   const cats = useMemo(() => ["All", ...Array.from(new Set(films.map((f) => pick(lang, f.category, f.vi?.category))))], [films, lang]);
   const [cat, setCat] = useState("All");
