@@ -13,13 +13,13 @@ export async function generateStaticParams() {
 
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
   const d = getDrillBySlug((await params).slug);
-  if (!d) return { title: "Not found | DND Basketball" };
+  if (!d) return { title: "Not found | Danang Dragons Learn" };
   const title = `${d.vi?.title ?? d.title} — Bài tập bóng rổ`;
   const desc = d.vi?.description ?? d.description;
   return {
     title, description: desc,
     alternates: { canonical: `${SITE}/drills/${d.slug}` },
-    openGraph: { title, description: desc, url: `${SITE}/drills/${d.slug}`, siteName: "DND Basketball" },
+    openGraph: { title, description: desc, url: `${SITE}/drills/${d.slug}`, siteName: "Danang Dragons Learn" },
   };
 }
 

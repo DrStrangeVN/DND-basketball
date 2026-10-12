@@ -1,4 +1,4 @@
-# DND Basketball — Danang Dragons Learn
+# Danang Dragons Learn
 
 Website chính thức: https://learn.danangdragons.com/
 Source chuẩn: https://github.com/DrStrangeVN/DND-basketball
@@ -37,3 +37,7 @@ Wrangler dùng account được chỉ định trong `wrangler.jsonc`, Worker `da
 ## Đối chiếu bàn giao 12/10/2026
 
 704 file trong `dnd-basketball-source.zip` trùng byte với GitHub tại commit `36f14be`. Hai file chỉ có trong ZIP là file tự sinh `next-env.d.ts` và `tsconfig.tsbuildinfo`. Bản ZIP deploy là output đã build; production được build lại từ source repo để có URL chính thức và cấu hình Cloudflare có thể tái tạo.
+
+## Thương hiệu
+
+Logo chính thức và favicon dùng cùng artwork với website Danang Dragons, lưu trong `public/brand/` và `app/favicon.ico`. Thông tin liên hệ ở footer; tên thương hiệu và metadata được cập nhật trong `app/`, `components/`, `lib/i18n.tsx`.

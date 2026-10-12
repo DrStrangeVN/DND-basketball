@@ -19,17 +19,20 @@ const SITE = "https://learn.danangdragons.com";
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE),
-  title: { default: "DND Basketball — Trung tâm kiến thức bóng rổ hoàn chỉnh", template: "%s | DND Basketball" },
+  title: { default: "Danang Dragons Learn — Trung tâm kiến thức bóng rổ hoàn chỉnh", template: "%s | Danang Dragons Learn" },
   description: "Học kỹ năng, bài tập, chiến thuật, IQ bóng rổ và kiến thức huấn luyện — từ căn bản đến nâng cao. Học. Tập. Hiểu trận đấu.",
   keywords: ["bóng rổ", "kỹ năng bóng rổ", "bài tập bóng rổ", "pick and roll", "IQ bóng rổ", "huấn luyện bóng rổ", "chiến thuật bóng rổ", "basketball"],
   alternates: { canonical: SITE },
   openGraph: {
-    type: "website", siteName: "DND Basketball", url: SITE,
-    title: "DND Basketball — Trung tâm kiến thức bóng rổ hoàn chỉnh",
+    type: "website", siteName: "Danang Dragons Learn", url: SITE,
+    title: "Danang Dragons Learn — Trung tâm kiến thức bóng rổ hoàn chỉnh",
     description: "Học kỹ năng, bài tập, chiến thuật, IQ bóng rổ và kiến thức huấn luyện — từ căn bản đến nâng cao.",
   },
-  twitter: { card: "summary_large_image", title: "DND Basketball", description: "Học. Tập. Hiểu trận đấu." },
-  icons: { icon: "/favicon.svg" },
+  twitter: { card: "summary_large_image", title: "Danang Dragons Learn", description: "Học. Tập. Hiểu trận đấu." },
+  icons: { icon: [{ url: "/brand/dnd-favicon.png?v=20261012", type: "image/png", sizes: "512x512" }], shortcut: "/favicon.ico", apple: "/brand/dnd-favicon.png?v=20261012" },
+  applicationName: "Danang Dragons Learn",
+  authors: [{ name: "Danang Dragons", url: "https://danangdragons.com/" }],
+  publisher: "Danang Dragons",
   robots: { index: true, follow: true },
 };
 

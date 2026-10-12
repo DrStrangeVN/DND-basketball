@@ -3,7 +3,7 @@ import TrainingLog, { type DrillOption } from "@/components/TrainingLog";
 import { getAllDrills } from "@/lib/content";
 
 export const metadata: Metadata = {
-  title: "Nhật ký tập luyện | DND Basketball",
+  title: "Nhật ký tập luyện | Danang Dragons Learn",
   description:
     "Ghi lại từng buổi tập, giữ chuỗi streak và theo dõi tiến bộ — lịch tập luyện, thống kê và nhật ký trên thiết bị của bạn.",
   alternates: { canonical: "https://learn.danangdragons.com/log" },

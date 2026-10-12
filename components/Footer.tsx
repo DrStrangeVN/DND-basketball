@@ -40,19 +40,24 @@ export default function Footer() {
         <div className="grid gap-8 md:grid-cols-[1.2fr_2fr]">
           <div>
             <div className="flex items-center gap-2.5">
-              <svg viewBox="0 0 64 64" className="h-10 w-10" aria-hidden>
-                <circle cx="32" cy="32" r="29" fill="#f26b1d" />
-                <path d="M32 3v58M3 32h58" stroke="#7a3a10" strokeWidth="2.5" fill="none" />
-                <path d="M10 14c8 6 8 30 0 36M54 14c-8 6-8 30 0 36" stroke="#7a3a10" strokeWidth="2.5" fill="none" />
-              </svg>
+              {/* eslint-disable-next-line @next/next/no-img-element */}
+              <img src="/brand/dnd-logo.webp" alt="Danang Dragons" width="60" height="48" className="h-12 w-[60px] shrink-0 object-contain" />
               <div className="leading-none">
-                <p className="text-base font-extrabold tracking-tight">DND BASKETBALL</p>
+                <p className="text-base font-extrabold tracking-tight">DANANG DRAGONS</p>
                 <p className="text-[10px] font-semibold uppercase tracking-[0.22em] text-[color:var(--orange)]">{t("footer.tagline")}</p>
               </div>
             </div>
             <p className="mt-4 max-w-sm text-sm leading-relaxed text-[color:var(--muted)]">
               {t("footer.about")}
             </p>
+            <address className="mt-4 space-y-2 text-sm not-italic leading-relaxed text-[color:var(--muted)]">
+              <p>Công ty Cổ phần Bóng rổ Đà Nẵng</p>
+              <p>696 Ngô Quyền, Phường An Hải, Thành phố Đà Nẵng, Việt Nam</p>
+              <p><a href="tel:0946163139" className="hover:text-[color:var(--ink)]">0946.163.139</a></p>
+              <p><a href="mailto:danangdragons.gm@gmail.com" className="break-all hover:text-[color:var(--ink)]">danangdragons.gm@gmail.com</a></p>
+              <p><a href="mailto:Danangdragons.info@gmail.com" className="break-all hover:text-[color:var(--ink)]">Danangdragons.info@gmail.com</a></p>
+              <p><a href="https://www.facebook.com/DanangDragons" target="_blank" rel="noreferrer" className="hover:text-[color:var(--ink)]">Facebook · Danang Dragons ↗</a></p>
+            </address>
           </div>
           <div className="grid grid-cols-2 gap-6 sm:grid-cols-3">
             {COLS.map((col) => (
@@ -70,7 +75,7 @@ export default function Footer() {
           </div>
         </div>
         <div className="mt-8 flex flex-col items-start justify-between gap-2 border-t border-[color:var(--line)] pt-5 text-xs text-[color:var(--faint)] sm:flex-row sm:items-center">
-          <p>© {new Date().getFullYear()} DND Basketball. {t("footer.rights")}</p>
+          <p>© {new Date().getFullYear()} Danang Dragons Learn. {t("footer.rights")}</p>
           <div className="flex flex-wrap gap-x-4 gap-y-2"><a href="https://danangdragons.com/" className="hover:text-[color:var(--ink)]">Danang Dragons ↗</a><a href="https://board.danangdragons.com/" className="hover:text-[color:var(--ink)]">{t("nav.tactics")} · Sa bàn ↗</a><p>{t("footer.diagrams")}</p></div>
         </div>
       </div>

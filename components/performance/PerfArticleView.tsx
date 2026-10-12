@@ -65,7 +65,7 @@ export default function PerfArticleView({ article, related }: {
 
   return (
     <div className="pb-6">
-      <MetaSync title={`${L.title} | DND Basketball`} description={L.description} />
+      <MetaSync title={`${L.title} | Danang Dragons Learn`} description={L.description} />
       <Breadcrumbs items={[
         { label: t("mobile.home"), href: "/" },
         { label: t("perf.landing.title"), href: "/performance" },

@@ -50,7 +50,7 @@ export default function DrillView({ drill, related }: { drill: Drill; related: D
 
   return (
     <div className="mx-auto max-w-4xl pb-6">
-      <MetaSync title={`${L.title} | DND Basketball`} description={L.description} />
+      <MetaSync title={`${L.title} | Danang Dragons Learn`} description={L.description} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
       <Breadcrumbs items={[
         { label: t("mobile.home"), href: "/" },
