@@ -20,7 +20,7 @@ export default function HubViewClient({ hub, groupsData, groupId, showGroupTitle
   return (
     <div className="pb-6">
       <MetaSync
-        title={`${hubText(hub, lang, "title")} | DND Basketball`}
+        title={`${hubText(hub, lang, "title")} | Danang Dragons Learn`}
         description={hubText(hub, lang, "description")}
       />
       <Breadcrumbs items={[

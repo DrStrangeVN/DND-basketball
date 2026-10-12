@@ -18,16 +18,16 @@ export async function generateStaticParams() {
 export async function generateMetadata({ params }: { params: Promise<{ hub: string; slug: string }> }): Promise<Metadata> {
   const { hub, slug } = await params;
   const a = find(hub, slug);
-  if (!a) return { title: "Not found | DND Basketball" };
+  if (!a) return { title: "Not found | Danang Dragons Learn" };
   const title = a.vi?.title ?? a.title;
   const desc = a.vi?.description ?? a.description;
   const url = `${SITE}${performanceUrl(a.hub, a.slug)}`;
-  const fullTitle = `${title} | DND Basketball`;
+  const fullTitle = `${title} | Danang Dragons Learn`;
   return {
     title,
     description: desc,
     alternates: { canonical: url },
-    openGraph: { title: fullTitle, description: desc, url, type: "article", siteName: "DND Basketball" },
+    openGraph: { title: fullTitle, description: desc, url, type: "article", siteName: "Danang Dragons Learn" },
     twitter: { card: "summary", title: fullTitle, description: desc },
   };
 }

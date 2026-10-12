@@ -12,13 +12,13 @@ export async function generateStaticParams() {
 
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
   const p = getPathBySlug((await params).slug);
-  if (!p) return { title: "Not found | DND Basketball" };
+  if (!p) return { title: "Not found | Danang Dragons Learn" };
   const title = `${p.vi?.title ?? p.title} — Lộ trình học`;
   const desc = p.vi?.description ?? p.description;
   return {
     title, description: desc,
     alternates: { canonical: `${SITE}/learning-paths/${p.slug}` },
-    openGraph: { title, description: desc, url: `${SITE}/learning-paths/${p.slug}`, siteName: "DND Basketball" },
+    openGraph: { title, description: desc, url: `${SITE}/learning-paths/${p.slug}`, siteName: "Danang Dragons Learn" },
   };
 }
 

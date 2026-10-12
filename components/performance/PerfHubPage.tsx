@@ -226,7 +226,7 @@ export default function PerfHubPage({ hubId, articles }: { hubId: PerfHubId; art
   return (
     <div className="pb-6">
       <MetaSync
-        title={`${t(`perf.hub.${key}`)} | DND Basketball`}
+        title={`${t(`perf.hub.${key}`)} | Danang Dragons Learn`}
         description={t(`perf.tagline.${key}`)}
       />
       <Breadcrumbs items={[

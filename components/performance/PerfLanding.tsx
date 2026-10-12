@@ -35,7 +35,7 @@ export default function PerfLanding({ hubs }: { hubs: LandingHub[] }) {
   return (
     <div className="pb-6">
       <MetaSync
-        title={`${t("perf.landing.title")} | DND Basketball`}
+        title={`${t("perf.landing.title")} | Danang Dragons Learn`}
         description={t("perf.landing.subtitle")}
       />
       <Breadcrumbs items={[

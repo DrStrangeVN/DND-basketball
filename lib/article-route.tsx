@@ -12,13 +12,13 @@ function metadataFor(a: Article): Metadata {
   const url = `${SITE}${articleUrl(a)}`;
   const title = a.vi?.title ?? a.title;
   const desc = a.vi?.description ?? a.description;
-  const fullTitle = `${title} | DND Basketball`;
+  const fullTitle = `${title} | Danang Dragons Learn`;
   return {
     title,
     description: desc,
     alternates: { canonical: url },
     openGraph: {
-      title: fullTitle, description: desc, url, type: "article", siteName: "DND Basketball",
+      title: fullTitle, description: desc, url, type: "article", siteName: "Danang Dragons Learn",
     },
     twitter: { card: "summary", title: fullTitle, description: desc },
   };
@@ -46,7 +46,7 @@ export function createArticleRoute(hub: string) {
       getAllArticles().filter((a) => a.hub === hub).map((a) => ({ slug: a.slug })),
     generateMetadata: async ({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> => {
       const a = find((await params).slug);
-      if (!a) return { title: "Not found | DND Basketball" };
+      if (!a) return { title: "Not found | Danang Dragons Learn" };
       return metadataFor(a);
     },
     Page: async ({ params }: { params: Promise<{ slug: string }> }) => {
@@ -71,7 +71,7 @@ export function createSkillRoute() {
     generateMetadata: async ({ params }: { params: Promise<{ group: string; slug: string }> }): Promise<Metadata> => {
       const p = await params;
       const a = find(p.group, p.slug);
-      if (!a) return { title: "Not found | DND Basketball" };
+      if (!a) return { title: "Not found | Danang Dragons Learn" };
       return metadataFor(a);
     },
     Page: async ({ params }: { params: Promise<{ group: string; slug: string }> }) => {
@@ -85,13 +85,13 @@ export function createSkillRoute() {
 
 export function hubMetadata(hubId: string): Metadata {
   const h = hubById(hubId);
-  if (!h) return { title: "DND Basketball" };
+  if (!h) return { title: "Danang Dragons Learn" };
   const title = `${h.titleVi ?? h.title} — ${h.taglineVi ?? h.tagline}`;
   const desc = h.descriptionVi ?? h.description;
   return {
     title,
     description: desc,
     alternates: { canonical: `${SITE}${h.route}` },
-    openGraph: { title: `${title} | DND Basketball`, description: desc, url: `${SITE}${h.route}`, siteName: "DND Basketball" },
+    openGraph: { title: `${title} | Danang Dragons Learn`, description: desc, url: `${SITE}${h.route}`, siteName: "Danang Dragons Learn" },
   };
 }

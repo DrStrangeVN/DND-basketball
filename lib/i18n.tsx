@@ -55,8 +55,8 @@ export function useLanguage(): LangCtx {
 
 const STRINGS: Record<string, { vi: string; en: string }> = {
   /* Brand */
-  "brand.tagline": { vi: "Trung tâm kiến thức", en: "Knowledge Hub" },
-  "brand.home": { vi: "Trang chủ DND Basketball", en: "DND Basketball home" },
+  "brand.tagline": { vi: "Học bóng rổ cùng Dragons", en: "Basketball Learning" },
+  "brand.home": { vi: "Trang chủ Danang Dragons Learn", en: "Danang Dragons Learn home" },
 
   /* Nav */
   "nav.learn": { vi: "Học", en: "Learn" },
@@ -109,7 +109,7 @@ const STRINGS: Record<string, { vi: string; en: string }> = {
   /* Learn page */
   "learn.eyebrow": { vi: "Bắt đầu học", en: "Start Learning" },
   "learn.title": { vi: "Học bóng rổ", en: "Learn Basketball" },
-  "learn.desc": { vi: "Toàn bộ hệ thống kiến thức DND Basketball. Duyệt theo chủ đề, hoặc khám phá theo kỹ năng, trình độ, vai trò và tình huống thi đấu.", en: "Every hub in the DND Basketball knowledge system. Browse by topic, or discover content by skill, level, role or game situation." },
+  "learn.desc": { vi: "Toàn bộ hệ thống kiến thức Danang Dragons Learn. Duyệt theo chủ đề, hoặc khám phá theo kỹ năng, trình độ, vai trò và tình huống thi đấu.", en: "Every hub in the Danang Dragons Learn knowledge system. Browse by topic, or discover content by skill, level, role or game situation." },
   "learn.discoverEyebrow": { vi: "Khám phá", en: "Discovery" },
   "learn.discoverTitle": { vi: "Chọn cách học của bạn", en: "Find Your Way In" },
   "learn.bySkill": { vi: "Theo kỹ năng", en: "By Skill" },
@@ -353,7 +353,7 @@ const STRINGS: Record<string, { vi: string; en: string }> = {
   "film.pageDesc": { vi: "Video phân tích tuyển chọn từ các HLV và chuyên gia uy tín. Nhấn vào thumbnail để tải video — không tự phát, không lưu trữ tại đây.", en: "Hand-picked public breakdowns from respected coaches and analysts. Click any thumbnail to load the video — nothing autoplays, nothing is hosted here." },
   "notFound.title": { vi: "Ra ngoài biên.", en: "Out of bounds." },
   "notFound.desc": { vi: "Trang này không tồn tại — nhưng có hàng trăm khái niệm bóng rổ đang chờ bạn.", en: "This page doesn't exist — but there are hundreds of basketball concepts that do." },
-  "film.disclaimer": { vi: "Video được nhúng từ các nguồn YouTube công khai và chỉ tải khi bạn nhấn phát. DND Basketball không lưu trữ video — tên kênh tác giả được ghi rõ trên mỗi video.", en: "Videos are embedded from public YouTube sources and load only when you press play. DND Basketball does not host any video — creators are credited by channel name above each breakdown." },
+  "film.disclaimer": { vi: "Video được nhúng từ các nguồn YouTube công khai và chỉ tải khi bạn nhấn phát. Danang Dragons Learn không lưu trữ video — tên kênh tác giả được ghi rõ trên mỗi video.", en: "Videos are embedded from public YouTube sources and load only when you press play. Danang Dragons Learn does not host any video — creators are credited by channel name above each breakdown." },
 
   /* Court Vision */
   "courtVision.question": { vi: "Bạn sẽ làm gì trong tình huống này?", en: "What would you do here?" },
@@ -395,7 +395,7 @@ const STRINGS: Record<string, { vi: string; en: string }> = {
   "footer.learn": { vi: "Học", en: "Learn" },
   "footer.coaching": { vi: "Huấn luyện", en: "Coaching" },
   "footer.resources": { vi: "Tài nguyên", en: "Resources" },
-  "footer.about": { vi: "DND Basketball là trung tâm kiến thức bóng rổ: kỹ năng, chiến thuật, bài tập và IQ bóng rổ cho mọi trình độ.", en: "DND Basketball is a basketball knowledge hub: skills, tactics, drills and basketball IQ for every level." },
+  "footer.about": { vi: "Nền tảng học bóng rổ của Danang Dragons: kỹ năng, chiến thuật, bài tập và IQ bóng rổ cho mọi trình độ.", en: "The basketball learning platform of Danang Dragons: skills, tactics, drills and basketball IQ for every level." },
   "footer.train": { vi: "Tập luyện", en: "Train" },
   "footer.diagrams": { vi: "Mọi sơ đồ và hình minh họa đều là bản gốc, vẽ để phục vụ học tập.", en: "All diagrams and illustrations are original, drawn for learning." },
   "footer.rights": { vi: "Đã đăng ký bản quyền.", en: "All rights reserved." },
@@ -551,8 +551,8 @@ const STRINGS: Record<string, { vi: string; en: string }> = {
 
   /* Medical disclaimer */
   "perf.medicalDisclaimer": {
-    vi: "DND Basketball chỉ cung cấp kiến thức thể thao tổng quát, không chẩn đoán bệnh hay đưa ra phác đồ điều trị cá nhân. Nếu bạn bị đau, chấn thương, có bệnh lý hoặc triệu chứng đáng lo, hãy gặp chuyên gia y tế có chuyên môn.",
-    en: "DND Basketball provides general sports education only. It does not provide medical diagnosis or individualized treatment. Players with pain, injury, medical conditions or concerning symptoms should consult a qualified healthcare professional.",
+    vi: "Danang Dragons Learn chỉ cung cấp kiến thức thể thao tổng quát, không chẩn đoán bệnh hay đưa ra phác đồ điều trị cá nhân. Nếu bạn bị đau, chấn thương, có bệnh lý hoặc triệu chứng đáng lo, hãy gặp chuyên gia y tế có chuyên môn.",
+    en: "Danang Dragons Learn provides general sports education only. It does not provide medical diagnosis or individualized treatment. Players with pain, injury, medical conditions or concerning symptoms should consult a qualified healthcare professional.",
   },
 
   /* Cross-hub + homepage */
@@ -595,7 +595,7 @@ const STRINGS: Record<string, { vi: string; en: string }> = {
   "perf.phase.recoveryDay": { vi: "Ngày hồi phục", en: "Recovery Day" },
 
   /* Meta (client-synced for static export) */
-  "meta.title.home": { vi: "DND Basketball — Trung tâm kiến thức bóng rổ hoàn chỉnh", en: "DND Basketball — Complete Basketball Knowledge Hub" },
+  "meta.title.home": { vi: "Danang Dragons Learn — Trung tâm kiến thức bóng rổ hoàn chỉnh", en: "Danang Dragons Learn — Complete Basketball Knowledge Hub" },
   "meta.desc.home": { vi: "Học kỹ năng, bài tập, chiến thuật, IQ bóng rổ và kiến thức huấn luyện — từ căn bản đến nâng cao. Học. Tập. Hiểu trận đấu.", en: "Learn skills, drills, tactics, basketball IQ and coaching knowledge — from fundamentals to advanced. Learn. Train. Understand the game." },
 
   /* Training Log */
@@ -649,7 +649,7 @@ const STRINGS: Record<string, { vi: string; en: string }> = {
 
   /* Quiz — onboarding to learning paths */
   "nav.quiz": { vi: "Quiz đầu vào", en: "Starter quiz" },
-  "quiz.meta.title": { vi: "Quiz đầu vào — Tìm lộ trình học phù hợp | DND Basketball", en: "Starter Quiz — Find Your Learning Path | DND Basketball" },
+  "quiz.meta.title": { vi: "Quiz đầu vào — Tìm lộ trình học phù hợp | Danang Dragons Learn", en: "Starter Quiz — Find Your Learning Path | Danang Dragons Learn" },
   "quiz.meta.desc": { vi: "Trả lời 9 câu hỏi ngắn để nhận lộ trình học bóng rổ phù hợp nhất với trình độ, mục tiêu và thời gian của bạn.", en: "Answer 9 quick questions to get the basketball learning path that fits your level, goals and schedule." },
   "quiz.kicker": { vi: "Tìm lộ trình của bạn", en: "Find your path" },
   "quiz.title": { vi: "Quiz đầu vào", en: "Starter quiz" },

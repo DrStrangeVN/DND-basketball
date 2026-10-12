@@ -3,7 +3,7 @@ import { getGlossary, getArticleBySlug, articleUrl } from "@/lib/content";
 import GlossaryPageClient from "@/components/GlossaryPageClient";
 
 export const metadata: Metadata = {
-  title: "Từ điển bóng rổ A–Z | DND Basketball",
+  title: "Từ điển bóng rổ A–Z | Danang Dragons Learn",
   description: "Thuật ngữ bóng rổ A–Z: ATO, blitz, closeout, DHO, drop coverage, ghost screen, ICE, Spain PnR và hơn nữa — tìm kiếm tức thì.",
   alternates: { canonical: "https://learn.danangdragons.com/glossary" },
 };

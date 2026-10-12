@@ -4,14 +4,14 @@ import type { PerfHubId } from "@/lib/types";
 import PerfLanding, { type LandingHub } from "@/components/performance/PerfLanding";
 
 export const metadata: Metadata = {
-  title: "Build the Complete Athlete | DND Basketball",
+  title: "Build the Complete Athlete | Danang Dragons Learn",
   description: "Train harder. Recover smarter. Fuel better. Stay on the court. | Tập nặng hơn. Hồi phục thông minh hơn. Nạp năng lượng tốt hơn.",
   alternates: { canonical: "https://learn.danangdragons.com/performance" },
   openGraph: {
-    title: "Build the Complete Athlete | DND Basketball",
+    title: "Build the Complete Athlete | Danang Dragons Learn",
     description: "Athletic Performance · Recovery · Nutrition · Hydration · Injury Prevention",
     url: "https://learn.danangdragons.com/performance",
-    siteName: "DND Basketball",
+    siteName: "Danang Dragons Learn",
   },
 };
 

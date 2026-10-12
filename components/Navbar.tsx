@@ -96,13 +96,11 @@ function Logo() {
   const { t } = useLanguage();
   return (
     <Link href="/" className="flex items-center gap-2.5" aria-label={t("brand.home")}>
-      <svg viewBox="0 0 64 64" className="h-9 w-9" aria-hidden>
-        <circle cx="32" cy="32" r="29" fill="#f26b1d" />
-        <path d="M32 3v58M3 32h58" stroke="#7a3a10" strokeWidth="2.5" fill="none" />
-        <path d="M10 14c8 6 8 30 0 36M54 14c-8 6-8 30 0 36" stroke="#7a3a10" strokeWidth="2.5" fill="none" />
-      </svg>
+      {/* Official club artwork, kept at its original aspect ratio. */}
+      {/* eslint-disable-next-line @next/next/no-img-element */}
+      <img src="/brand/dnd-logo.webp" alt="Danang Dragons" width="52" height="44" className="h-11 w-[52px] shrink-0 object-contain" />
       <span className="leading-none">
-        <span className="block text-[15px] font-extrabold tracking-tight">DND BASKETBALL</span>
+        <span className="block text-[15px] font-extrabold tracking-tight">DANANG DRAGONS</span>
         <span className="block text-[10px] font-semibold uppercase tracking-[0.22em] text-[color:var(--orange)]">{t("brand.tagline")}</span>
       </span>
     </Link>

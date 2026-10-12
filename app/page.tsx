@@ -9,7 +9,7 @@ import HomeClient, { type HomeData } from "@/components/HomeClient";
 import { toArticleCard, toDrillCard } from "@/lib/types";
 
 export const metadata: Metadata = {
-  title: "DND Basketball — Trung Tâm Kiến Thức Bóng Rổ Hoàn Chỉnh",
+  title: "Danang Dragons Learn — Trung Tâm Kiến Thức Bóng Rổ Hoàn Chỉnh",
   description: "Học kỹ năng, bài tập, chiến thuật, IQ bóng rổ và kiến thức huấn luyện — từ căn bản đến nâng cao. Học. Tập. Hiểu trận đấu.",
 };
 
