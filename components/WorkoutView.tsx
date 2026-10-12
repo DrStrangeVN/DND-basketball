@@ -1,4 +1,5 @@
 "use client";
+import {useLiveItem,UnavailableContent} from "@/components/LiveContent";
 import Link from "next/link";
 import { Clock, Package, Lightbulb } from "lucide-react";
 import type { Workout } from "@/lib/types";
@@ -7,7 +8,7 @@ import WorkoutChecklist from "@/components/WorkoutChecklist";
 import FavoriteButton from "@/components/FavoriteButton";
 import { useLanguage, pick } from "@/lib/i18n";
 
-export default function WorkoutView({ workout }: { workout: Workout }) {
+function WorkoutViewBody({ workout }: { workout: Workout }) {
   const { lang, t } = useLanguage();
   const v = lang === "vi" ? workout.vi : undefined;
   const title = pick(lang, workout.title, v?.title);
@@ -55,3 +56,5 @@ export default function WorkoutView({ workout }: { workout: Workout }) {
     </div>
   );
 }
+
+export default function WorkoutView(props: Parameters<typeof WorkoutViewBody>[0]) { const live=useLiveItem("workouts",props.workout.slug,props.workout);return live.hidden?<UnavailableContent/>:<WorkoutViewBody {...props} workout={live.data}/>; }

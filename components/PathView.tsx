@@ -1,4 +1,5 @@
 "use client";
+import {useLiveItem,UnavailableContent} from "@/components/LiveContent";
 import Link from "next/link";
 import type { LearningPath } from "@/lib/types";
 import { Breadcrumbs, LevelBadge } from "@/components/ui";
@@ -6,7 +7,7 @@ import PathProgress, { type ResolvedStepArticle } from "@/components/PathProgres
 import FavoriteButton from "@/components/FavoriteButton";
 import { useLanguage, pick } from "@/lib/i18n";
 
-export default function PathView({ path, stepArticles }: {
+function PathViewBody({ path, stepArticles }: {
   path: LearningPath; stepArticles: ResolvedStepArticle[][];
 }) {
   const { lang, t } = useLanguage();
@@ -43,3 +44,5 @@ export default function PathView({ path, stepArticles }: {
     </div>
   );
 }
+
+export default function PathView(props: Parameters<typeof PathViewBody>[0]) { const live=useLiveItem("paths",props.path.slug,props.path);return live.hidden?<UnavailableContent/>:<PathViewBody {...props} path={live.data}/>; }

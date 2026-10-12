@@ -1,4 +1,5 @@
 "use client";
+import {useLiveCollection} from "./LiveContent";
 import { useMemo, useState } from "react";
 import Link from "next/link";
 import { Search, ArrowUpRight } from "lucide-react";
@@ -9,7 +10,8 @@ export interface GlossaryEntry {
   relatedArticles: { title: string; titleVi?: string; url: string }[];
 }
 
-export default function GlossaryBrowser({ terms }: { terms: GlossaryEntry[] }) {
+export default function GlossaryBrowser({ terms: initialTerms }: { terms: GlossaryEntry[] }) {
+ const terms=useLiveCollection("glossary",initialTerms);
   const [q, setQ] = useState("");
   const [letter, setLetter] = useState<string | null>(null);
   const { lang, t } = useLanguage();

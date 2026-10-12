@@ -1,6 +1,8 @@
 import type { Metadata, Viewport } from "next";
 import { Inter, Be_Vietnam_Pro } from "next/font/google";
 import "./globals.css";
+import { SiteSettingsProvider } from "@/components/SiteSettings";
+import { LiveContentProvider } from "@/components/LiveContent";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 import MobileBottomNav from "@/components/MobileBottomNav";
@@ -53,13 +55,13 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         />
       </head>
       <body className={`${inter.variable} ${beVietnamPro.variable} min-h-screen`}>
-        <LanguageProvider>
+        <LanguageProvider><SiteSettingsProvider><LiveContentProvider>
           <Navbar />
           <SearchModal />
           <main className="mx-auto w-full max-w-7xl px-3 pt-6 sm:px-5">{children}</main>
           <Footer />
           <MobileBottomNav />
-        </LanguageProvider>
+        </LiveContentProvider></SiteSettingsProvider></LanguageProvider>
       </body>
     </html>
   );

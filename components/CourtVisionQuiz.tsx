@@ -1,4 +1,5 @@
 "use client";
+import {useLiveCollection} from "./LiveContent";
 import { useEffect, useState } from "react";
 import { ArrowRight, Award, RotateCcw, Trophy } from "lucide-react";
 import CourtVisionCard from "./CourtVisionCard";
@@ -26,7 +27,9 @@ function loadBest(): Best | null {
   } catch { return null; }
 }
 
-export default function CourtVisionQuiz({ items }: { items: { card: CVC; learnUrl: string }[] }) {
+export default function CourtVisionQuiz({ items: initialCards }: { items: { card: CVC; learnUrl: string }[] }) {
+  const liveCards=useLiveCollection("court-vision",initialCards.map(i=>({...i.card,learnUrl:i.learnUrl})));
+  const items=liveCards.map(card=>({card,learnUrl:card.learnUrl||"/search?q="+encodeURIComponent(card.relatedArticle)}));
   const { lang, t } = useLanguage();
   const total = items.length;
   const [idx, setIdx] = useState(0);

@@ -10,7 +10,7 @@ const read = (p) => JSON.parse(readFileSync(p, "utf8"));
 const ls = (d) => readdirSync(join(CONTENT, d)).filter((f) => f.endsWith(".json"));
 
 const urls = new Set([
-  "/", "/learn", "/search", "/library", "/glossary", "/film-room", "/quiz", "/log", "/flashcards",
+  "/", "/content", "/learn", "/search", "/library", "/glossary", "/film-room", "/quiz", "/log", "/flashcards",
   "/skills", "/defense", "/offense", "/pick-and-roll", "/tactics", "/transition",
   "/basketball-iq", "/positions", "/coaching", "/fundamentals",
   "/drills", "/workouts", "/learning-paths",

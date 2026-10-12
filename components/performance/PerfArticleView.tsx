@@ -1,4 +1,5 @@
 "use client";
+import {useLiveItem,UnavailableContent} from "@/components/LiveContent";
 import {
   AlertTriangle, ArrowRightLeft, CheckCircle2, Clock, Lightbulb, ListOrdered,
   Repeat, Target, TrendingUp, Wrench,
@@ -53,7 +54,7 @@ function Section({ id, icon: Icon, title, children }: {
   );
 }
 
-export default function PerfArticleView({ article, related }: {
+function PerfArticleViewBody({ article, related }: {
   article: PerformanceArticle; related: PerformanceArticle[];
 }) {
   const { lang, t } = useLanguage();
@@ -237,3 +238,5 @@ export default function PerfArticleView({ article, related }: {
     </div>
   );
 }
+
+export default function PerfArticleView(props: Parameters<typeof PerfArticleViewBody>[0]) { const live=useLiveItem("performance",props.article.slug,props.article);return live.hidden?<UnavailableContent/>:<PerfArticleViewBody {...props} article={live.data}/>; }

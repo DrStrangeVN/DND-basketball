@@ -1,4 +1,5 @@
 "use client";
+import {useLiveCollection} from "../LiveContent";
 import { useEffect, useMemo, useState } from "react";
 import Link from "next/link";
 import {
@@ -162,7 +163,8 @@ function Chip({ active, onClick, children }: { active: boolean; onClick: () => v
   );
 }
 
-export default function PerfHubPage({ hubId, articles }: { hubId: PerfHubId; articles: PerformanceArticle[] }) {
+export default function PerfHubPage({ hubId, articles: initialArticles }: { hubId: PerfHubId; articles: PerformanceArticle[] }) {
+  const articles=useLiveCollection("performance",initialArticles,a=>a.hub===hubId);
   const { lang, t } = useLanguage();
   const key = HUB_KEYS[hubId];
   const Icon = HUB_ICONS[hubId];

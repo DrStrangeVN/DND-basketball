@@ -26,7 +26,7 @@ export function KnowledgeCard({ article }: { article: ArticleCardData }) {
 export function DrillCard({ drill }: { drill: DrillCardData }) {
   const { lang, t } = useLanguage();
   return (
-    <Link href={`/drills/${drill.slug}`} className="neu-card flex flex-col p-5">
+    <Link href={drill.cmsUrl||`/drills/${drill.slug}`} className="neu-card flex flex-col p-5">
       <div className="mb-2 flex items-center justify-between gap-2">
         <span className="rounded-full bg-[color:var(--orange-soft)] px-2.5 py-1 text-[11px] font-bold text-[color:var(--orange)]">{drill.skill}</span>
         <LevelBadge level={drill.level} />

@@ -1,4 +1,5 @@
 "use client";
+import {useLiveCollection} from "./LiveContent";
 import type { HubMeta, HubGroup } from "@/lib/hubs";
 import { hubText, hubGroupText } from "@/lib/hubs";
 import type { ArticleCardData } from "@/lib/types";
@@ -8,12 +9,14 @@ import { Breadcrumbs, SectionTitle } from "./ui";
 import { KnowledgeCard } from "./cards";
 import HubIcon from "./HubIcon";
 
-export default function HubViewClient({ hub, groupsData, groupId, showGroupTitles }: {
+export default function HubViewClient({ hub, groupsData: initialGroups, groupId, showGroupTitles }: {
   hub: HubMeta;
   groupsData: { group: HubGroup; articles: ArticleCardData[] }[];
   groupId?: string;
   showGroupTitles: boolean;
 }) {
+  const liveArticles=useLiveCollection("articles",initialGroups.flatMap(g=>g.articles),a=>a.hub===hub.id);
+  const groupsData=initialGroups.map(g=>({...g,articles:liveArticles.filter(a=>a.subcategory===g.group.id || initialGroups.length===1)}));
   const { lang, t } = useLanguage();
   const single = groupsData[0]?.group;
 

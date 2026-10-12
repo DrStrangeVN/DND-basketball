@@ -1,4 +1,5 @@
 "use client";
+import {useLiveItem,UnavailableContent} from "@/components/LiveContent";
 import { AlertTriangle, CheckCircle2, Lightbulb, PlayCircle, Target } from "lucide-react";
 import type { Article, ArticleCardData, DrillCardData } from "@/lib/types";
 import { articleUrl } from "@/lib/urls";
@@ -38,7 +39,7 @@ function localize(a: Article, lang: Lang) {
   };
 }
 
-export default function ArticleView({ article, related, drills }: {
+function ArticleViewBody({ article, related, drills }: {
   article: Article; related: ArticleCardData[]; drills: DrillCardData[];
 }) {
   const { lang, t } = useLanguage();
@@ -205,3 +206,5 @@ export default function ArticleView({ article, related, drills }: {
     </div>
   );
 }
+
+export default function ArticleView(props: Parameters<typeof ArticleViewBody>[0]) { const live=useLiveItem("articles",props.article.slug,props.article);return live.hidden?<UnavailableContent/>:<ArticleViewBody {...props} article={live.data}/>; }

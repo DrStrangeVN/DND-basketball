@@ -1,4 +1,5 @@
 "use client";
+import {useLiveItem,UnavailableContent} from "@/components/LiveContent";
 import Link from "next/link";
 import { CheckCircle2, AlertTriangle, Clock, Users, Dumbbell, Package } from "lucide-react";
 import type { Drill, DrillCardData } from "@/lib/types";
@@ -29,7 +30,7 @@ function localize(d: Drill, lang: Lang) {
   };
 }
 
-export default function DrillView({ drill, related }: { drill: Drill; related: DrillCardData[] }) {
+function DrillViewBody({ drill, related }: { drill: Drill; related: DrillCardData[] }) {
   const { lang, t } = useLanguage();
   const L = localize(drill, lang);
   const url = `/drills/${drill.slug}`;
@@ -167,3 +168,5 @@ export default function DrillView({ drill, related }: { drill: Drill; related: D
     </div>
   );
 }
+
+export default function DrillView(props: Parameters<typeof DrillViewBody>[0]) { const live=useLiveItem("drills",props.drill.slug,props.drill);return live.hidden?<UnavailableContent/>:<DrillViewBody {...props} drill={live.data}/>; }
