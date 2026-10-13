@@ -4,17 +4,17 @@ import { useSearchParams, useRouter } from "next/navigation";
 import Link from "next/link";
 import { fuzzySearch } from "@/lib/fuzzy-search";
 import { useLanguage, pick } from "@/lib/i18n";
-import { Search, BookOpen, Dumbbell, Timer, Route, BookMarked, X } from "lucide-react";
+import { Search, BookOpen, Dumbbell, Timer, Route, BookMarked, Activity, X, type LucideIcon } from "lucide-react";
 import { Breadcrumbs, LevelBadge } from "@/components/ui";
 
 interface Entry {
-  type: "article" | "drill" | "workout" | "path" | "glossary";
+  type: string;
   id: string; title: string; description: string; hub: string;
   subcategory: string; level: string; tags: string[]; url: string;
   titleVi?: string; descriptionVi?: string; tagsVi?: string[];
 }
-const TYPE_ICON = { article: BookOpen, drill: Dumbbell, workout: Timer, path: Route, glossary: BookMarked } as const;
-const TYPES = ["article", "drill", "workout", "path", "glossary"] as const;
+const TYPE_ICON: Record<string, LucideIcon> = { article: BookOpen, drill: Dumbbell, workout: Timer, path: Route, glossary: BookMarked, performance: Activity };
+const TYPES = ["article", "drill", "workout", "path", "glossary", "performance"] as const;
 const LEVELS = ["beginner", "intermediate", "advanced", "elite"];
 
 function SearchView() {
@@ -22,13 +22,26 @@ function SearchView() {
   const router = useRouter();
   const { lang, t } = useLanguage();
   const [index, setIndex] = useState<Entry[] | null>(null);
+  const [indexError, setIndexError] = useState(false);
+  const [attempt, setAttempt] = useState(0);
   const [q, setQ] = useState(params.get("q") ?? "");
   const [type, setType] = useState<string | null>(null);
   const [level, setLevel] = useState<string | null>(params.get("level"));
 
   useEffect(() => {
-    fetch("/search-index.json").then((r) => r.json()).then(setIndex).catch(() => {});
-  }, []);
+    const controller = new AbortController();
+    setIndexError(false);
+    fetch("/search-index.json", { signal: controller.signal }).then(async (r) => {
+      if (!r.ok) throw new Error("Search unavailable");
+      const data = await r.json();
+      if (!Array.isArray(data)) throw new Error("Invalid search index");
+      return data.filter((entry) => entry && typeof entry.title === "string" && typeof entry.url === "string")
+        .map((entry) => ({ ...entry, description: entry.description || "", hub: entry.hub || "", tags: Array.isArray(entry.tags) ? entry.tags : [], tagsVi: Array.isArray(entry.tagsVi) ? entry.tagsVi : [] }));
+    }).then(setIndex).catch((error) => {
+      if (error.name !== "AbortError") setIndexError(true);
+    });
+    return () => controller.abort();
+  }, [attempt]);
 
   const tag = params.get("tag");
   const results = useMemo(() => {
@@ -48,6 +61,7 @@ function SearchView() {
   const TYPE_LABEL: Record<string, string> = {
     article: t("search.articles"), drill: t("search.drills"), workout: t("search.workouts"),
     path: t("search.paths"), glossary: t("search.glossary"),
+    performance: t("search.performance"),
   };
 
   return (
@@ -84,12 +98,15 @@ function SearchView() {
         </div>
       </header>
 
-      <p className="mb-4 px-1 text-sm text-[color:var(--muted)]" role="status">
+      {indexError ? <div className="neu mb-4 p-5" role="alert">
+        <p>{lang === "vi" ? "Chưa tải được dữ liệu tìm kiếm. Kiểm tra kết nối rồi thử lại." : "Search data could not load. Check your connection and try again."}</p>
+        <button className="neu-btn mt-3 px-4 py-2" onClick={() => setAttempt((value) => value + 1)}>{lang === "vi" ? "Thử lại" : "Try again"}</button>
+      </div> : <p className="mb-4 px-1 text-sm text-[color:var(--muted)]" role="status">
         {!index ? t("common.loading") : `${results.length} ${t("search.results")}`}
-      </p>
+      </p>}
       <ul className="space-y-3">
         {results.map((r) => {
-          const Icon = TYPE_ICON[r.type];
+          const Icon = Object.hasOwn(TYPE_ICON, r.type) ? TYPE_ICON[r.type] : BookOpen;
           return (
             <li key={r.type + r.id}>
               <Link href={r.url} className="neu-card flex items-center gap-4 p-4">
