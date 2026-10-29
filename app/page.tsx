@@ -72,5 +72,5 @@ export default function Home() {
     }),
   };
 
-  return <HomeClient data={data} />;
+  return <><div className="mx-auto max-w-7xl px-3 pt-4 sm:px-5"><a href="https://www.youtube.com/@hocbongro" target="_blank" rel="noopener noreferrer" className="flex flex-wrap items-center justify-between gap-2 rounded-2xl border border-orange-300 bg-orange-50 px-5 py-4 text-sm font-bold text-orange-900 hover:bg-orange-100"><span>▶ Học Bóng Rổ trên YouTube · Xem video và theo dõi kênh</span><span>Xem kênh ↗</span></a></div><HomeClient data={data} /></>;
 }

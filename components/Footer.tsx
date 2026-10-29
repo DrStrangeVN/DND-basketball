@@ -58,6 +58,7 @@ export default function Footer() {
               <p><a href={"tel:"+contact.hotline.replace(/\D/g,"")} className="hover:text-[color:var(--ink)]">{contact.hotline}</a></p>
               <p><a href={"mailto:"+contact.email} className="break-all hover:text-[color:var(--ink)]">{contact.email}</a></p>
               <p><a href={"mailto:"+contact.secondaryEmail} className="break-all hover:text-[color:var(--ink)]">{contact.secondaryEmail}</a></p>
+              <p><a href="https://www.youtube.com/@hocbongro" target="_blank" rel="noopener noreferrer" className="hover:text-[color:var(--ink)]">YouTube · Học Bóng Rổ ↗</a></p>
               <p><a href={contact.facebookUrl} target="_blank" rel="noreferrer" className="hover:text-[color:var(--ink)]">Facebook · Danang Dragons ↗</a></p>
             </address>
           </div>
