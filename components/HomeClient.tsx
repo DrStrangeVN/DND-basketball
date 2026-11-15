@@ -119,7 +119,7 @@ export default function HomeClient({ data }: { data: HomeData }) {
             {t("home.hero.title1")} <span className="text-[color:var(--orange)]">{t("home.hero.titleBasketball")}</span>
           </h1>
           <p className="mt-4 max-w-xl text-[16px] leading-relaxed text-[color:var(--muted)]">
-            {t("home.hero.subtitle")}
+            {lang === "vi" ? `${data.articleCount} bài học, ${data.drillsCount} bài tập, ${workoutsCount} giáo án và ${data.pathsCount} lộ trình — từ căn bản đến chiến thuật nâng cao.` : `${data.articleCount} lessons, ${data.drillsCount} drills, ${workoutsCount} workouts and ${data.pathsCount} learning paths — from fundamentals to advanced tactics.`}
           </p>
           <div className="mt-6 flex flex-wrap gap-3">
             <Link href="/learn" className="neu-btn-primary inline-flex items-center gap-2 px-6 py-3 text-[15px] font-bold">
@@ -129,6 +129,11 @@ export default function HomeClient({ data }: { data: HomeData }) {
               {t("home.hero.exploreSkills")}
             </Link>
           </div>
+          <nav aria-label={lang === "vi" ? "Chọn hướng học" : "Choose a learning path"} className="mt-5 flex flex-wrap gap-2 text-sm font-bold">
+            <Link href="/learning-paths" className="rounded-full border border-[color:var(--line)] px-3 py-2 hover:text-[color:var(--orange)]">{lang === "vi" ? "Người mới →" : "Beginners →"}</Link>
+            <Link href="/drills" className="rounded-full border border-[color:var(--line)] px-3 py-2 hover:text-[color:var(--orange)]">{lang === "vi" ? "Cầu thủ →" : "Players →"}</Link>
+            <Link href="/coaching" className="rounded-full border border-[color:var(--line)] px-3 py-2 hover:text-[color:var(--orange)]">{lang === "vi" ? "Huấn luyện viên →" : "Coaches →"}</Link>
+          </nav>
           <div className="mt-6 flex gap-6 text-sm">
             <span><strong className="text-lg font-extrabold">{data.articleCount}+</strong> <span className="text-[color:var(--muted)]">{t("home.stats.concepts")}</span></span>
             <span><strong className="text-lg font-extrabold">{data.drillsCount}</strong> <span className="text-[color:var(--muted)]">{t("home.stats.drills")}</span></span>
