@@ -14,12 +14,12 @@ export default function PathProgress({ path, stepArticles }: { path: LearningPat
   useEffect(() => { setChecks(getPathChecks(path.slug)); }, [path.slug]);
 
   const total = path.steps.reduce((n, s) => n + s.articles.length, 0);
-  const done = checks.length;
-  const pct = total ? Math.round((done / total) * 100) : 0;
+  const done = Math.min(checks.length, total);
+  const pct = total ? Math.min(100, Math.round((done / total) * 100)) : 0;
   const steps = path.steps.map((s, i) => ({
     ...s,
-    title: pick(lang, s.title, path.vi?.steps[i]?.title),
-    description: pick(lang, s.description, path.vi?.steps[i]?.description),
+    title: pick(lang, s.title, path.vi?.steps?.[i]?.title),
+    description: pick(lang, s.description, path.vi?.steps?.[i]?.description),
   }));
 
   return (
@@ -45,7 +45,11 @@ export default function PathProgress({ path, stepArticles }: { path: LearningPat
               {si < path.steps.length - 1 && <ArrowRight className="ml-auto h-5 w-5 shrink-0 rotate-90 text-[color:var(--faint)]" aria-hidden />}
             </div>
             <ul className="mt-3 space-y-2">
-              {stepArticles[si].map((a) => {
+              {(stepArticles[si] ?? step.articles.map((slug) => ({
+                slug,
+                title: slug.replaceAll("-", " "),
+                url: `/content?kind=articles&id=${encodeURIComponent(slug)}`,
+              }))).map((a) => {
                 const key = `${si}:${a.slug}`;
                 const checked = checks.includes(key);
                 return (

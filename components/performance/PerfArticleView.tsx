@@ -63,10 +63,19 @@ function PerfArticleViewBody({ article, related }: {
   const videoId = article.video ? youtubeIdFromUrl(article.video.url) : null;
   const crossHub = related.filter((r) => r.hub !== article.hub);
   const sameHub = related.filter((r) => r.hub === article.hub);
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    name: L.title,
+    description: L.description,
+    educationalLevel: article.level,
+    url: `https://learn.danangdragons.com${performanceUrl(article.hub, article.slug)}`,
+  };
 
   return (
     <div className="pb-6">
       <MetaSync title={`${L.title} | Danang Dragons Learn`} description={L.description} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd).replace(/</g, "\\u003c") }} />
       <Breadcrumbs items={[
         { label: t("mobile.home"), href: "/" },
         { label: t("perf.landing.title"), href: "/performance" },

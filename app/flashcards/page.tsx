@@ -4,6 +4,7 @@ import { useCallback, useEffect, useMemo, useState } from "react";
 import Link from "next/link";
 import { Layers, Check, X, RotateCcw, Play, Flag } from "lucide-react";
 import { Breadcrumbs } from "@/components/ui";
+import { useLiveCollection } from "@/components/LiveContent";
 import { useLanguage } from "@/lib/i18n";
 import glossaryData from "@/content/glossary.json";
 
@@ -26,7 +27,7 @@ interface CardProgress {
   nextDue: number; // timestamp (ms)
 }
 
-const TERMS: GlossaryTerm[] = glossaryData as unknown as GlossaryTerm[];
+const INITIAL_TERMS: GlossaryTerm[] = glossaryData as unknown as GlossaryTerm[];
 const STORAGE_KEY = "dnd-flashcards";
 const SESSION_SIZE = 20;
 const DAY_MS = 86_400_000;
@@ -79,6 +80,7 @@ function reviewCard(prev: CardProgress | undefined, remembered: boolean): CardPr
 
 export default function FlashcardsPage() {
   const { lang, t } = useLanguage();
+  const TERMS = useLiveCollection("glossary", INITIAL_TERMS);
 
   const [progress, setProgress] = useState<Record<string, CardProgress> | null>(null);
   const [queue, setQueue] = useState<GlossaryTerm[] | null>(null);
@@ -100,7 +102,7 @@ export default function FlashcardsPage() {
     const m: Record<string, string> = {};
     for (const t of TERMS) m[t.slug] = t.term;
     return m;
-  }, []);
+  }, [TERMS]);
 
   /* Dashboard stats. */
   const stats = useMemo(() => {
@@ -114,9 +116,9 @@ export default function FlashcardsPage() {
       if (p.repetitions >= 3) mastered++;
       if (p.nextDue <= today && p.repetitions < 3) due++;
     }
-    const fresh = TERMS.length - Object.keys(progress).length;
+    const fresh = Math.max(0, TERMS.length - Object.keys(progress).length);
     return { mastered, due, fresh };
-  }, [progress]);
+  }, [progress, TERMS]);
 
   /* Build a session: due cards first (shuffled), then fresh cards, cap at 20. */
   const startSession = useCallback(() => {
@@ -134,7 +136,7 @@ export default function FlashcardsPage() {
     setIndex(0);
     setFlipped(false);
     setResults({ remembered: 0, forgot: 0 });
-  }, [progress]);
+  }, [progress, TERMS]);
 
   const answer = useCallback(
     (remembered: boolean) => {

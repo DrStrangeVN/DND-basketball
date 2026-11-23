@@ -22,3 +22,21 @@ test('published performance retains its search type through CMS edits and archiv
  assert.equal((await api(root,owner,path,'POST',{action:'archive',revision:2})).status,200);
  assert.ok(!(await(await pub(env,'/search-index.json')).json()).some(x=>x.url.includes('kind=performance')));
 });
+
+test('.html requests on archived records are blocked, glossary manifest preserves baseline links, and snapshot includes versions and audit',async()=>{
+ const{env,root}=setup(),owner=await login(root,'owner@test.local','owner-local-test-only');
+ await api(root,owner,'/records/articles/'+payload.slug,'POST',{action:'archive',revision:1});
+ assert.equal((await pub(env,'/positions/'+payload.slug+'.html')).status,404);
+ const gloss=JSON.parse(readFileSync(new URL('../content/glossary.json',import.meta.url)))[0];
+ assert.equal((await api(root,owner,'/records/glossary/'+gloss.slug,'POST',{action:'save',payload:{...gloss,definition:'Updated definition'}})).status,201);
+ assert.equal((await api(root,owner,'/records/glossary/'+gloss.slug,'POST',{action:'publish',revision:1})).status,200);
+ const search=await(await pub(env,'/search-index.json')).json();
+ const gEntry=search.find(x=>x.type==='glossary'&&x.id===gloss.slug);
+ assert.equal(gEntry.url,'/glossary#term-'+gloss.slug);
+ const manifest=await(await pub(env,'/api/learn/manifest')).json();
+ const mg=manifest.entries.find(e=>e.kind==='glossary'&&e.id===gloss.slug);
+ assert.equal('relatedArticles' in mg.summary,false);
+ const snap=await(await api(root,owner,'/snapshot')).json();
+ assert.ok(Array.isArray(snap.snapshot.versions)&&snap.snapshot.versions.length>=2);
+ assert.ok(Array.isArray(snap.snapshot.audit)&&snap.snapshot.audit.length>=2);
+});

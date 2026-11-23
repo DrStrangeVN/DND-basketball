@@ -54,7 +54,12 @@ export default function SearchModal() {
   useEffect(() => {
     if (open) {
       setQ(""); setActive(0);
-      if (!index) fetch("/search-index.json").then((r) => r.json()).then(setIndex).catch(() => {});
+      if (!index) {
+        fetch("/search-index.json")
+          .then((r) => (r.ok ? r.json() : []))
+          .then((d) => setIndex(Array.isArray(d) ? d : []))
+          .catch(() => setIndex([]));
+      }
       setTimeout(() => inputRef.current?.focus(), 30);
       document.body.style.overflow = "hidden";
     } else document.body.style.overflow = "";
