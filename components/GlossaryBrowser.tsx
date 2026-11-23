@@ -17,15 +17,15 @@ export default function GlossaryBrowser({ terms: initialTerms }: { terms: Glossa
   const { lang, t } = useLanguage();
 
   const letters = useMemo(() => {
-    const s = new Set(terms.map((t) => t.term[0].toUpperCase()));
+    const s = new Set(terms.map((t) => (t.term || "")[0]?.toUpperCase()).filter(Boolean) as string[]);
     return [...s].sort();
   }, [terms]);
 
   const filtered = useMemo(() => terms.filter((t) => {
-    if (letter && t.term[0].toUpperCase() !== letter) return false;
+    if (letter && (t.term || "")[0]?.toUpperCase() !== letter) return false;
     if (q.trim()) {
       const needle = q.trim().toLowerCase();
-      const hay = (t.term + " " + t.definition + " " + (t.definitionVi ?? "")).toLowerCase();
+      const hay = ((t.term || "") + " " + (t.definition || "") + " " + (t.definitionVi ?? "")).toLowerCase();
       if (!hay.includes(needle)) return false;
     }
     return true;
@@ -59,7 +59,7 @@ export default function GlossaryBrowser({ terms: initialTerms }: { terms: Glossa
           <article key={term.slug} id={`term-${term.slug}`} className="neu scroll-mt-32 p-5">
             <h2 className="text-[17px] font-extrabold tracking-tight">{term.term}</h2>
             <p className="mt-1.5 text-[14px] leading-relaxed text-[color:var(--muted)]">{pick(lang, term.definition, term.definitionVi)}</p>
-            {term.relatedArticles.length > 0 && (
+            {(term.relatedArticles?.length ?? 0) > 0 && (
               <div className="mt-3 flex flex-wrap gap-2">
                 {term.relatedArticles.map((r) => (
                   <Link key={r.url} href={r.url}

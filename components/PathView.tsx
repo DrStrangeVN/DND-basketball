@@ -5,6 +5,7 @@ import type { LearningPath } from "@/lib/types";
 import { Breadcrumbs, LevelBadge } from "@/components/ui";
 import PathProgress, { type ResolvedStepArticle } from "@/components/PathProgress";
 import FavoriteButton from "@/components/FavoriteButton";
+import MetaSync from "@/components/MetaSync";
 import { useLanguage, pick } from "@/lib/i18n";
 
 function PathViewBody({ path, stepArticles }: {
@@ -13,10 +14,21 @@ function PathViewBody({ path, stepArticles }: {
   const { lang, t } = useLanguage();
   const v = lang === "vi" ? path.vi : undefined;
   const title = pick(lang, path.title, v?.title);
+  const description = pick(lang, path.description, v?.description);
   const url = `/learning-paths/${path.slug}`;
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    name: title,
+    description,
+    educationalLevel: path.level,
+    url: `https://learn.danangdragons.com${url}`,
+  };
 
   return (
     <div className="mx-auto max-w-3xl pb-6">
+      <MetaSync title={`${title} | Danang Dragons Learn`} description={description} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd).replace(/</g, "\\u003c") }} />
       <Breadcrumbs items={[
         { label: t("mobile.home"), href: "/" },
         { label: t("paths.title"), href: "/learning-paths" },
@@ -31,7 +43,7 @@ function PathViewBody({ path, stepArticles }: {
           </span>
         </div>
         <h1 className="text-3xl font-extrabold tracking-tight sm:text-4xl">{title}</h1>
-        <p className="mt-3 text-[16px] text-[color:var(--muted)]">{pick(lang, path.description, v?.description)}</p>
+        <p className="mt-3 text-[16px] text-[color:var(--muted)]">{description}</p>
         <p className="mt-2 text-[13px] font-semibold text-[color:var(--faint)]">{t("paths.audience")}: {pick(lang, path.audience, v?.audience)}</p>
         <div className="mt-4"><FavoriteButton item={{ type: "path", id: path.slug, title, url, ts: 0 }} /></div>
       </header>

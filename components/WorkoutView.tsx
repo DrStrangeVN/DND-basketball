@@ -6,6 +6,7 @@ import type { Workout } from "@/lib/types";
 import { Breadcrumbs, LevelBadge } from "@/components/ui";
 import WorkoutChecklist from "@/components/WorkoutChecklist";
 import FavoriteButton from "@/components/FavoriteButton";
+import MetaSync from "@/components/MetaSync";
 import { useLanguage, pick } from "@/lib/i18n";
 
 function WorkoutViewBody({ workout }: { workout: Workout }) {
@@ -14,9 +15,20 @@ function WorkoutViewBody({ workout }: { workout: Workout }) {
   const title = pick(lang, workout.title, v?.title);
   const description = pick(lang, workout.description, v?.description);
   const url = `/workouts/${workout.slug}`;
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    name: title,
+    description,
+    educationalLevel: workout.level,
+    timeRequired: `PT${workout.durationMin}M`,
+    url: `https://learn.danangdragons.com${url}`,
+  };
 
   return (
     <div className="mx-auto max-w-3xl pb-6">
+      <MetaSync title={`${title} | Danang Dragons Learn`} description={description} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd).replace(/</g, "\\u003c") }} />
       <Breadcrumbs items={[
         { label: t("mobile.home"), href: "/" },
         { label: t("workouts.title"), href: "/workouts" },

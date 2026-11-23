@@ -52,7 +52,7 @@ function DrillViewBody({ drill, related }: { drill: Drill; related: DrillCardDat
   return (
     <div className="mx-auto max-w-4xl pb-6">
       <MetaSync title={`${L.title} | Danang Dragons Learn`} description={L.description} />
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd).replace(/</g, "\\u003c") }} />
       <Breadcrumbs items={[
         { label: t("mobile.home"), href: "/" },
         { label: t("drills.title"), href: "/drills" },

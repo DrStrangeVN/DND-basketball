@@ -71,7 +71,7 @@ function ArticleViewBody({ article, related, drills }: {
   return (
     <div className="mx-auto max-w-4xl px-3 sm:px-5">
       <MetaSync title={`${L.title} | Danang Dragons Learn`} description={L.description} />
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd).replace(/</g, "\\u003c") }} />
       <Breadcrumbs items={crumbs} />
 
       <header className="neu p-6 sm:p-8">

@@ -7,13 +7,13 @@
   --surface: #edf0f4;
   --surface-2: #e6ebf1;
   --ink: #23272f;
-  --muted: #5d6675;
-  --faint: #8a93a3;
-  --orange: #f26b1d;
+  --muted: #4b5563;
+  --faint: #596270;
+  --orange: #c94c0c;
   --orange-soft: rgba(242, 107, 29, 0.12);
   --shadow-dark: #d2d9e2;
   --shadow-light: #ffffff;
-  --line: rgba(35, 39, 47, 0.08);
+  --line: rgba(35, 39, 47, 0.12);
 }
 
 .dark {
@@ -21,13 +21,13 @@
   --surface: #1b1f27;
   --surface-2: #222833;
   --ink: #e9edf3;
-  --muted: #a3adbd;
-  --faint: #6f7a8c;
+  --muted: #b0bac9;
+  --faint: #8e9aaf;
   --orange: #ff7a2e;
   --orange-soft: rgba(255, 122, 46, 0.16);
   --shadow-dark: #0e1116;
   --shadow-light: #262c38;
-  --line: rgba(255, 255, 255, 0.08);
+  --line: rgba(255, 255, 255, 0.12);
 }
 
 @theme inline {

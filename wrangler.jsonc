@@ -3,13 +3,40 @@
   "name": "danang-dragons-learn",
   "account_id": "d5c1e8585210d3512d7dba177c450338",
   "compatibility_date": "2026-10-12",
-  "workers_dev": true,
+  "workers_dev": false,
   "assets": {
     "directory": "./out",
     "html_handling": "drop-trailing-slash",
     "not_found_handling": "404-page",
     "binding": "ASSETS",
-    "run_worker_first": true
+    "run_worker_first": [
+      "/api/*",
+      "/sitemap.xml",
+      "/",
+      "/*.html",
+      "/skills*",
+      "/defense*",
+      "/offense*",
+      "/pick-and-roll*",
+      "/tactics*",
+      "/transition*",
+      "/basketball-iq*",
+      "/positions*",
+      "/coaching*",
+      "/fundamentals*",
+      "/drills*",
+      "/workouts*",
+      "/performance*",
+      "/film-room*",
+      "/glossary*",
+      "/flashcards*",
+      "/learn*",
+      "/library*",
+      "/log*",
+      "/quiz*",
+      "/search*",
+      "/content*"
+    ]
   },
   "routes": [
     {
